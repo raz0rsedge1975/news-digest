@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-04T12:36:07.139Z",
-  "timestamp": "4.3.2026, 13:36:07",
+  "generated": "2026-03-04T12:36:37.324Z",
+  "timestamp": "4.3.2026, 13:36:37",
   "news": [
     {
       "source": "FAZ",
@@ -68,6 +68,29 @@
           "url": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-100.html",
           "summary": "Knapp sieben Wochen wurde verhandelt - nun ist der neue Koalitionsvertrag zwischen SPD und CDU fertig. Wie bei der gescheiterten Koalition mit dem BSW erhalten die Sozialdemokraten sechs Ressorts - di",
           "source": "Tagesschau"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "[object Object]",
+          "url": "[object Object]",
+          "summary": "[object Object]",
+          "source": "Telepolis"
+        },
+        {
+          "title": "[object Object]",
+          "url": "[object Object]",
+          "summary": "[object Object]",
+          "source": "Telepolis"
+        },
+        {
+          "title": "[object Object]",
+          "url": "[object Object]",
+          "summary": "[object Object]",
+          "source": "Telepolis"
         }
       ]
     }
