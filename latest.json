@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-04T12:17:42.641Z",
-  "timestamp": "4.3.2026, 13:17:42",
+  "generated": "2026-03-04T12:33:08.042Z",
+  "timestamp": "4.3.2026, 13:33:08",
   "news": [
     {
       "source": "FAZ",
@@ -31,7 +31,7 @@
         {
           "title": "Spanien: Außenminister José Manuel Albares »überrascht« von Friedrich Merz' Äußerung bei Donald Trump",
           "url": "https://www.spiegel.de/ausland/spanien-aussenminister-jose-manuel-albares-ueberrascht-von-friedrich-merz-aeusserung-bei-donald-trump-a-0b66d914-399c-49aa-a1d3-0cd62872d63e#ref=rss",
-          "summary": "Im Beisein von Friedrich Merz hat US-Präsident Donald Trump Spanien attackiert und mangelnde Unterstützung vorgehalten. Der Kanzler sprang dem EU-Partner nicht bei – und muss dafür nun heftige Kritik ",
+          "summary": "Spanien verbietet den USA, seine Militärbasen für Krieg gegen Iran zu nutzen. Trump hat das Land im Beisein von Merz dafür attackiert. Der Kanzler sprang dem EU-Partner nicht bei – und muss dafür nun ",
           "source": "Spiegel"
         },
         {
@@ -45,6 +45,29 @@
           "url": "https://www.spiegel.de/wirtschaft/immobilien-interaktive-karte-so-stark-steigen-die-mieten-in-ihrer-region-a-a079cfa1-93c9-4ab6-9ee0-a0372c606f0a#ref=rss",
           "summary": "In Deutschland verschärft sich die Wohnungslage. Die Mieten steigen weiter, auch abseits der großen Metropolen. Unsere interaktive Karte zeigt, mit welchen Preisen Sie rechnen müssen.",
           "source": "Spiegel"
+        }
+      ]
+    },
+    {
+      "source": "Tagesschau",
+      "headlines": [
+        {
+          "title": "Wiener Ökonom Gabriel Felbermayr soll Wirtschaftsweiser werden",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/felbermayr-wird-wirtschaftsweise-100.html",
+          "summary": "Der österreichische Ökonom Felbermayr soll in den Rat der Wirtschaftsweisen aufrücken. Nach Angaben des Wirtschaftsministeriums punktet Felbermayr mit internationaler Erfahrung sowie Expertise in Hand",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Marktbericht: Glyphosat-Klagen sorgen bei Bayer für Milliardenverlust",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/aktie-des-tages-bayer-100.html",
+          "summary": "Rund 3,6 Milliarden Euro groß ist der Verlust, den Pharma- und Agrarchemiekonzern Bayer für das Jahr 2025 vermeldet. Das liegt vor allem an hohen Kosten durch Glyphosat-Klagen. Und auch der Iran-Krieg",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "SPD und CDU: Koalitionsvertrag in Brandenburg steht",
+          "url": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-100.html",
+          "summary": "Knapp sieben Wochen wurde verhandelt - nun ist der neue Koalitionsvertrag zwischen SPD und CDU fertig. Wie bei der gescheiterten Koalition mit dem BSW erhalten die Sozialdemokraten sechs Ressorts - di",
+          "source": "Tagesschau"
         }
       ]
     }
