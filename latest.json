@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-09T21:00:17.618Z",
-  "timestamp": "9.3.2026, 22:00:17",
+  "generated": "2026-03-09T21:02:43.689Z",
+  "timestamp": "9.3.2026, 22:02:43",
   "news": [
     {
       "source": "FAZ",
@@ -45,6 +45,52 @@
           "url": "https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-nach-der-wahl-unter-druck-ist-da-noch-jemand-a-db73a1b6-1c78-4e48-aa1e-f4ce7b748bfd#ref=rss",
           "summary": "Die unerwartete Pleite bei der Wahl zum Stuttgarter Landtag trifft die Bundes-FDP hart, die Unzufriedenheit wächst. Für Parteichef Dürr und Generalsekretärin Büttner könnte es eng werden.",
           "source": "Spiegel"
+        }
+      ]
+    },
+    {
+      "source": "Tagesschau",
+      "headlines": [
+        {
+          "title": "NATO-Abwehrsystem: Erneut Rakete aus Iran über der Türkei abgefangen",
+          "url": "https://www.tagesschau.de/ausland/asien/zweite-rakete-iran-tuerkei-100.html",
+          "summary": "Die NATO-Luftabwehr hat erneut eine Rakete aus Iran über der Türkei abgeschossen. Bundesaußenminister Wadephul ist für Gespräche nach Zypern gereist, das zuvor Ziel einer iranischen Rakete gewesen sein soll.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "tagesschau und NDR starten Faktencheck-Format \"rabbit hole\"",
+          "url": "https://www.tagesschau.de/inland/rabbit-hole-tagesschau-ndr-100.html",
+          "summary": "Zwischen viralen Clips, Halbwahrheiten und KI-Fakes wird es immer schwieriger, den Überblick im Netz zu behalten. Das neue tagesschau-Format \"rabbit hole\" hilft, schnell zu erkennen, was stimmt und was nicht.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Applaus für den Angeklagten - Prozess in Istanbul gegen İmamoğlu",
+          "url": "https://www.tagesschau.de/ausland/asien/tuerkei-prozesse-opposition-justiz-100.html",
+          "summary": "Mehr als 400 Menschen sind angeklagt in dem Istanbuler Mammutverfahren um mutmaßliche Korruption. Prominentester Angeklagter ist der abgesetzte Bürgermeister und Regierungskritiker İmamoğlu. Von Uwe Lueb.",
+          "source": "Tagesschau"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Kurden gegen Teheran? Die Grenzen der Proxy-Strategie",
+          "url": "https://www.telepolis.de/article/Kurden-gegen-Teheran-Die-Grenzen-der-Proxy-Strategie-11204072.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Kurdische Milizen als Waffe gegen den Iran? Die Idee klingt verlockend – doch die Geschichte zeigt ein ernüchterndes Muster. Eine Analyse.",
+          "source": "Telepolis"
+        },
+        {
+          "title": "KI enttarnt anonyme Social-Media-Konten in Minuten",
+          "url": "https://www.telepolis.de/article/KI-enttarnt-anonyme-Social-Media-Konten-in-Minuten-11204681.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Eine neue Studie zeigt: Künstliche Intelligenz kann pseudonyme Nutzer auf Social Media mit hoher Trefferquote identifizieren. Was bedeutet das für Dich?",
+          "source": "Telepolis"
+        },
+        {
+          "title": "Gas, Strom, Sprit: Was Verbraucher jetzt wissen müssen",
+          "url": "https://www.telepolis.de/article/Gas-Strom-Sprit-Was-Verbraucher-jetzt-wissen-muessen-11203846.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Energiepreise steigen seit Iran-Krieg stark. Gas verteuerte sich um 40 Prozent, Heizöl um 50 Prozent. Was Verbraucher jetzt wissen und tun sollten.",
+          "source": "Telepolis"
         }
       ]
     }
