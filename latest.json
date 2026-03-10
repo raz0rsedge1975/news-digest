@@ -1,10 +1,16 @@
 {
-  "generated": "2026-03-10T06:18:19.928Z",
-  "timestamp": "10.3.2026, 07:18:19",
+  "generated": "2026-03-10T07:01:34.984Z",
+  "timestamp": "10.3.2026, 08:01:34",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "VW in der Krise: Gewinn von Volkswagen halbiert sich beinahe",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bilanz-2025-gewinn-von-vw-hat-sich-fast-halbiert-accg-200616526.html",
+          "summary": "Deutschlands größter Autohersteller hat 2025 ein deutlich niedrigeres Ergebnis erzielt als im Vorjahr. Für die Sportwagentochter Porsche wird es in China eng.",
+          "source": "FAZ"
+        },
         {
           "title": "Trump zum Irankrieg: „Es wird bald beendet sein“",
           "url": "https://www.faz.net/aktuell/politik/ausland/trump-irankrieg-wird-bald-beendet-sein-accg-200616150.html",
@@ -13,14 +19,8 @@
         },
         {
           "title": "Liveblog Irankrieg: Revolutionsgarde: Krieg wird von Iran und nicht von den USA beendet",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-revolutiongarden-krieg-wird-nicht-von-den-usa-beendet-faz-200583539.html",
-          "summary": "Künftiger Status der Region liege nicht in amerikanischen Händen +++ Vereinte Nationen warnen vor schweren Umweltschäden durch Angriffe auf Ölanlagen +++ Trump: Angriff auf Mädchenschule in Iran wird untersucht +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "Wegen Irankrieg: Ölpreis sinkt nach Trump-Äußerungen deutlich – Börsen reagieren erleichtert",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-oelpreis-sinkt-deutlich-nach-aeusserungen-von-donald-trump-accg-200616127.html",
-          "summary": "Laut dem US-Präsidenten könnte der Krieg in Iran „bald beendet“ sein. Auch Lockerungen von Ölsanktionen sind im Gespräch. Daraufhin reagieren die Märkte deutlich.",
+          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-revolutiongarde-krieg-wird-nicht-von-den-usa-beendet-faz-200583539.html",
+          "summary": "Künftiger Status der Region liege nicht in amerikanischen Händen +++ UN warnen vor schweren Umweltschäden durch Angriffe auf Ölanlagen +++ Trump: Angriff auf Mädchenschule in Iran wird untersucht +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -28,6 +28,12 @@
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "VW: Gewinn 2025 um knapp die Hälfte eingebrochen",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-gewinn-2025-um-knapp-die-haelfte-eingebrochen-a-ac4d3e91-e9c1-4227-811f-7626be09faa9#ref=rss",
+          "summary": "Europas größter Autobauer kämpft schon länger mit Problemen, nun zeigen neue Zahlen, wie schlecht es für Volkswagen im Jahr 2025 gelaufen ist.",
+          "source": "Spiegel"
+        },
         {
           "title": "News: Donald Trump und Iran-Krieg, Abgesang auf die SPD, Volkswagen und die Milliarden-Entdeckung",
           "url": "https://www.spiegel.de/politik/deutschland/news-donald-trump-und-iran-krieg-abgesang-auf-die-spd-volkswagen-und-die-milliarden-entdeckung-a-75aa43b0-eaa8-45a3-a16a-907eff31dfbc#ref=rss",
@@ -39,58 +45,6 @@
           "url": "https://www.spiegel.de/politik/deutschland/landtagswahl-in-baden-wuerttemberg-die-waehler-legen-bei-der-afd-andere-massstaebe-an-a-b5b2d768-7210-4aa2-bb57-f26c632aeac2#ref=rss",
           "summary": "Trotz Vetternwirtschaft: Die AfD hat bei der Wahl in Baden-Württemberg massiv dazugewonnen. Der Politologe Timo Lochocki erklärt, woran das liegt. Und welche Lehren die schwarz-rote Bundesregierung daraus ziehen sollte.",
           "source": "Spiegel"
-        },
-        {
-          "title": "FDP in Baden-Württemberg nach der Wahl unter Druck: Ist da noch jemand?",
-          "url": "https://www.spiegel.de/politik/deutschland/fdp-in-baden-wuerttemberg-nach-der-wahl-unter-druck-ist-da-noch-jemand-a-db73a1b6-1c78-4e48-aa1e-f4ce7b748bfd#ref=rss",
-          "summary": "Die unerwartete Pleite bei der Wahl zum Stuttgarter Landtag trifft die Bundes-FDP hart, die Unzufriedenheit wächst. Für Parteichef Dürr und Generalsekretärin Büttner könnte es eng werden.",
-          "source": "Spiegel"
-        }
-      ]
-    },
-    {
-      "source": "Tagesschau",
-      "headlines": [
-        {
-          "title": "Nahost-Liveblog: ++ Iran dementiert Raketen-Abschuss auf Türkei ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html",
-          "summary": "Irans Präsident Peseschkian hat nach Angaben aus Ankara den Start von zwei Raketen in Richtung Türkei dementiert. Bei einem iranischen Angriff auf Bahrain wurde eine Frau getötet. Alle Entwicklungen im Liveblog.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Auswärtiges Amt: Lage in Syrien offenbar nur leicht verbessert",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/syrien-auswaertiges-amt-100.html",
-          "summary": "Das Auswärtige Amt nennt die Lage in Syrien \"volatil\". Das geht aus einer vertraulichen Einschätzung hervor, die WDR und NDR vorliegt. Demnach hat sich die Lage im Vergleich zum Vorjahr nur leicht verbessert - die Regierung will Abschiebungen vorantreiben.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Sorgen im Irak vor einer Ausweitung des Iran-Krieges",
-          "url": "https://www.tagesschau.de/ausland/asien/irak-krieg-iran-ausweitung-100.html",
-          "summary": "Der Irak ist mit Iran eng verbunden - durch Religion und eine lange gemeinsame Grenze. Zwar versucht die Regierung, ihr Land aus dem Krieg herauszuhalten. Doch pro-iranische Milizen könnten für eine weitere Eskalation sorgen.",
-          "source": "Tagesschau"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Meteorit über Westdeutschland: Bruchstück beschädigt Wohnhaus in Koblenz",
-          "url": "https://www.telepolis.de/article/Meteorit-ueber-Westdeutschland-Bruchstueck-beschaedigt-Wohnhaus-in-Koblenz-11204438.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Ein Meteorit hat am Sonntagabend weite Teile Westdeutschlands in Aufruhr versetzt. In Koblenz schlug ein Bruchstück ein fußballgroßes Loch in ein Hausdach.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "Kurden gegen Teheran? Die Grenzen der Proxy-Strategie",
-          "url": "https://www.telepolis.de/article/Kurden-gegen-Teheran-Die-Grenzen-der-Proxy-Strategie-11204072.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Kurdische Milizen als Waffe gegen den Iran? Die Idee klingt verlockend – doch die Geschichte zeigt ein ernüchterndes Muster. Eine Analyse.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "KI enttarnt anonyme Social-Media-Konten in Minuten",
-          "url": "https://www.telepolis.de/article/KI-enttarnt-anonyme-Social-Media-Konten-in-Minuten-11204681.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Eine neue Studie zeigt: Künstliche Intelligenz kann pseudonyme Nutzer auf Social Media mit hoher Trefferquote identifizieren. Was bedeutet das für Dich?",
-          "source": "Telepolis"
         }
       ]
     }
