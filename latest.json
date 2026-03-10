@@ -1,20 +1,20 @@
 {
-  "generated": "2026-03-10T16:24:45.748Z",
-  "timestamp": "10.3.2026, 17:24:45",
+  "generated": "2026-03-10T16:58:17.293Z",
+  "timestamp": "10.3.2026, 17:58:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Grünen-Chefin: „Wir Grünen haben die Rotation vor vierzig Jahren abgeschafft“",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-baden-wuerttemberg/landtagswahl-bw-2026-einen-teilzeit-ministerpraesidenten-wird-es-nicht-geben-110850967.html",
-          "summary": "In Baden-Württemberg wollen die Grünen auf Augenhöhe mit der CDU verhandeln, sagt Franziska Brantner im Interview. Einen Teilzeit-Ministerpräsidenten werde es jedoch nicht geben.",
+          "title": "Absage der Verleihung: Wolfram Weimers Buch­handlungsunfähigkeit",
+          "url": "https://www.faz.net/aktuell/feuilleton/wolfram-weimer-sagt-die-buchhandlungspreisverleihung-ab-110850963.html",
+          "summary": "Weimer wollte einen würdevollen Festakt – jetzt werden die Urkunden wohl per Post verschickt. Die Verleihung  ist gestrichen, die Hauptpreise wandern in eine „gesonderte Form“, der Scherbenhaufen bleibt.",
           "source": "FAZ"
         },
         {
-          "title": "5,5 Prozent in BaWü: Die traurige Lage der SPD",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/zur-katastrophalen-lage-der-spd-in-baden-wuerttemberg-110851026.html",
-          "summary": "Vorwärts zur Nostalgie: Tradition hat die SPD reichlich – Stimmen immer weniger. In Baden-Württemberg wird sichtbar, wie sehr der Partei Arbeiter wie urbane Milieus entgleiten.",
+          "title": "Streit um Juryvorschläge: Weimer sagt Verleihung des Buchhandlungspreises ab",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/wolfram-weimer-sagt-verleihung-von-deutschem-buchhandlungspreis-ab-accg-200617966.html",
+          "summary": "Wegen Extremismusverdachts strich der Kulturstaatsminister drei Buchläden von der Nominiertenliste für den Deutschen Buchhandlungspreis. Das sorgte für Kritik. Nun sagt Wolfram Weimer die Preisverleihung komplett ab.",
           "source": "FAZ"
         },
         {
@@ -29,9 +29,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "VW: Massenmarken aus Wolfsburg hängen Audi und Porsche ab - Aschenputtel VW hat es satt",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-massenmarken-aus-wolfsburg-haengen-audi-und-porsche-ab-aschenputtel-vw-hat-es-satt-a-79f63033-85d6-4f2f-b977-4b54a8ccab38#ref=rss",
-          "summary": "Der Gewinn bei Volkswagen halbiert sich, Geld verdient der zweitgrößte Autobauer der Welt mit profanen Massenmodellen statt Audis und Porsches. Die Zentrale in Wolfsburg greift nach mehr Macht.",
+          "title": "Grüne Zoe Mayer: Sie hat womöglich die Wahl in Baden-Württemberg entschieden. Und wird jetzt angefeindet",
+          "url": "https://www.spiegel.de/politik/deutschland/gruene-zoe-mayer-sie-hat-womoeglich-die-wahl-in-baden-wuerttemberg-entschieden-und-wird-jetzt-angefeindet-a-26d8aafb-0986-4f44-8912-f0ba97479991#ref=rss",
+          "summary": "Die Grünenpolitikerin Zoe Mayer hat Manuel Hagels anzügliche Äußerungen über Schülerinnen ausgegraben. Die CDU in Baden-Württemberg spricht von einer »Schmutzkampagne«, Mayer bekommt Hasspost. Wie geht sie damit um?",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Philippsreut - Bürgermeister wider Willen: »Ich wollte einfach nur meine Freizeit genießen«",
+          "url": "https://www.spiegel.de/politik/philippsreut-buergermeister-wider-willen-ich-wollte-einfach-nur-meine-freizeit-geniessen-a-d9c14478-02a1-44b5-a5dc-3609a57cbfce#ref=rss",
+          "summary": "Nach zwölf Jahren als Bürgermeister im bayerischen Philippsreut hatte Helmut Knaus genug. Bei der Kommunalwahl trat er nicht mehr an, die Bürger wählten ihn trotzdem. Hier sagt er, warum er jetzt weitermacht. Und was ihn ärgert.",
           "source": "Spiegel"
         },
         {
@@ -39,12 +45,29 @@
           "url": "https://www.spiegel.de/wirtschaft/soziales/arbeitsmarkt-trotz-wirtschaftskrise-fehlen-bald-hunderttausende-arbeitskraefte-a-363899cc-104b-49b5-bf90-6e440c752be8#ref=rss",
           "summary": "Die deutsche Wirtschaft steckt in der Dauerflaute und KI bedroht viele Jobs. Doch eines der größten Probleme dürfte künftig der Mangel an Fachkräften werden. Ein Papier des Bundesarbeitsministeriums liest sich dramatisch.",
           "source": "Spiegel"
+        }
+      ]
+    },
+    {
+      "source": "Tagesschau",
+      "headlines": [
+        {
+          "title": "Angriff auf Schule in Iran wird laut Trump untersucht",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-schule-100.html",
+          "summary": "Die USA und Iran schieben sich gegenseitig die Schuld für einen tödlichen Angriff auf eine Mädchenschule zu. Nach den Worten von US-Präsident Trump soll eine Untersuchung Aufklärung bringen.",
+          "source": "Tagesschau"
         },
         {
-          "title": "Rheinisches Revier: In diese Projekte fließt das Geld der Steuerzahler",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/rheinisches-revier-in-diese-projekte-fliesst-das-geld-der-steuerzahler-a-6a61ae9d-8f64-4d3b-b0cd-6c7dc3bb4b31#ref=rss",
-          "summary": "Blühwiesen statt Braunkohle: Mit Milliardensubventionen soll das Rheinische Revier fit werden für die Zeit nach der Kohle. Doch vor Ort fragen sich die Menschen: Wo bleiben die neuen Jobs?",
-          "source": "Spiegel"
+          "title": "Gewinneinbruch bei VW: Wohin wird der Konzern steuern?",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-volkswagen-jahreszahlen-analyse-100.html",
+          "summary": "Obwohl sich die Verkaufszahlen sehen lassen können, bricht der Gewinn bei VW ein. Und die Probleme sind nur zum Teil hausgemacht. Wohin wird der Konzern steuern? Von Annette Deutskens.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Tote nach russischem Angriff auf ukrainische Stadt Slowjansk",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-slowjansk-100.html",
+          "summary": "Durch russische Gleitbomben sind im Zentrum der ostukrainischen Stadt Slowjansk mindestens vier Menschen getötet worden. Außerdem gibt es 16 Verletzte. Der Ort liegt etwa 20 Kilometer von der Frontline entfernt.",
+          "source": "Tagesschau"
         }
       ]
     }
