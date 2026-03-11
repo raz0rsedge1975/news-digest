@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-11T09:00:32.527Z",
-  "timestamp": "11.3.2026, 10:00:32",
+  "generated": "2026-03-11T09:02:23.393Z",
+  "timestamp": "11.3.2026, 10:02:23",
   "news": [
     {
       "source": "FAZ",
@@ -18,9 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Frachter in der Straße von Hormus von „unbekanntem Geschoss“ getroffen",
+          "title": "Liveblog Irankrieg: Von der Leyen: EU bereitet Optionen zur Senkung der Energiepreise vor",
           "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-frachter-in-der-strasse-von-hormus-von-unbekanntem-geschoss-getroffen-faz-200583539.html",
-          "summary": "Einschlag löst Brand aus +++ Schwerste Angriffe auf Teheran seit Kriegsbeginn +++ Irans Polizeichef: Wir betrachten Demonstranten als Feinde +++ US-Armee zerstört 16 iranische Minenleger-Schiffe +++ alle Entwicklungen im Liveblog",
+          "summary": "Hohe Ausgaben durch Krieg +++ Frachter in der Straße von Hormus von „unbekanntem Geschoss“ getroffen +++ Schwerste Angriffe auf Teheran seit Kriegsbeginn +++ Irans Polizeichef: Wir betrachten Demonstranten als Feinde +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -45,6 +45,52 @@
           "url": "https://www.spiegel.de/ausland/donald-trump-und-der-iran-krieg-praesident-siegessicher-kriegsziel-unbekannt-a-2df3b848-6ade-4cbb-a4c7-45ed6738fe63#ref=rss",
           "summary": "Das Regime stürzen, gefügig machen oder nur schwächen: Donald Trump hat bis heute kein klares Kriegsziel formuliert. Wie findet der US-Präsident raus aus dem Konflikt mit Iran?",
           "source": "Spiegel"
+        }
+      ]
+    },
+    {
+      "source": "Tagesschau",
+      "headlines": [
+        {
+          "title": "Teile der Dresdner Innenstadt nach Bombenfund evakuiert",
+          "url": "https://www.tagesschau.de/inland/regional/sachsen/bombenfund-dresden-evakuierung-100.html",
+          "summary": "In Dresden wurde eine 250-Kilo-Bombe aus dem Zweiten Weltkrieg freigelegt. Der Blindgänger soll nun vom Kampfmittelbeseitigungsdienst entschärft werden. Dafür sind Teile der Innenstadt evakuiert worden.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Forbes-Liste: So viele Milliardäre wie noch nie",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/milliardaere-forbes-musk-trump-ki-100.html",
+          "summary": "Der Boom rund um Künstliche Intelligenz treibt die Vermögen der Superreichen auf Rekordhöhen. Laut Forbes gibt es weltweit so viele Milliardäre wie noch nie - mit Tesla-Chef Musk weiter an der Spitze.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Neue Angriffe an vielen Fronten im Nahost-Krieg",
+          "url": "https://www.tagesschau.de/ausland/asien/krieg-iran-israel-libanon-100.html",
+          "summary": "Iran meldet eine neue Angriffswelle auf Israel und die Golfstaaten. Israel setzt seine Attacken im Libanon fort und trifft offenbar ein Wohngebäude in Beirut. Geschosse treffen Schiffe im Persischen Golf. Ein Ende des Krieges ist nicht in Sicht.",
+          "source": "Tagesschau"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Straße von Hormus: Alle stecken fest – nur iranisches Öl fließt",
+          "url": "https://www.telepolis.de/article/Strasse-von-Hormus-Alle-stecken-fest-nur-iranisches-Oel-fliesst-11206657.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Der Iran exportiert trotz Blockade mehr Öl als vor dem Krieg. Das Mittel dafür: eine sogenannte Schattenflotte alter Tanker.",
+          "source": "Telepolis"
+        },
+        {
+          "title": "Merz will mehr Arbeit – dabei bräuchte Deutschland bessere Chefs",
+          "url": "https://www.telepolis.de/article/Merz-will-mehr-Arbeit-dabei-braeuchte-Deutschland-bessere-Chefs-11203554.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Nur zehn Prozent der Führungskräfte können wirklich führen – warum mehr Arbeitszeit das eigentliche Problem nicht löst.",
+          "source": "Telepolis"
+        },
+        {
+          "title": "Weder Retter noch Hegemon: Chinas ambivalente Rolle in der Weltordnung",
+          "url": "https://www.telepolis.de/article/Weder-Retter-noch-Hegemon-Chinas-ambivalente-Rolle-in-der-Weltordnung-11205263.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Über Chinas Rolle in der Weltwirtschaft, die Bewältigung innerer Krisen und den Niedergang der US-amerikanischen Hegemonie. Ein Interview mit Minqi Li.",
+          "source": "Telepolis"
         }
       ]
     }
