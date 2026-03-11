@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-11T10:02:13.500Z",
-  "timestamp": "11.3.2026, 11:02:13",
+  "generated": "2026-03-11T11:00:14.907Z",
+  "timestamp": "11.3.2026, 12:00:14",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Soziologe über Kriegslust: Haben gekränkte Männer eine besondere Lust am Krieg?",
+          "title": "Soziologe über Kriegslust: „Stärkster Prädiktor für Kriegsbefürwortung sind gewaltbezogene Männlichkeitsnormen“",
           "url": "https://www.faz.net/aktuell/feuilleton/debatten/interview-mit-alexander-yendell-ueber-krieg-und-maennlichkeit-accg-200617890.html",
-          "summary": "Sadismus, Sehnsucht nach einem Führer und toxische Männlichkeit: Der Soziologe Alexander Yendell über die psychologischen Kräfte hinter der Faszination für Krieg – und die Frage, was Gesellschaften widerstandsfähig macht.",
+          "summary": "Sadismus, Sehnsucht nach einem Führer und toxische Männlichkeit: Der Soziologe Alexander Yendell über die psychologischen Kräfte hinter der Faszination für Krieg.",
           "source": "FAZ"
         },
         {
@@ -29,22 +29,45 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Iran-Krieg: Wie die Lufthansa von der Krise am Golf profitiert",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-wie-die-lufthansa-von-der-krise-am-golf-profitiert-a-4d245ea0-94ae-4a2c-8cd3-a2ef1572c23e#ref=rss",
-          "summary": "Ob Emirates, Qatar Airways oder Etihad: Lange wirkten die Golf-Airlines unantastbar. Doch die jüngsten Drohnenangriffe auf Dubai haben ein Geschäftsmodell erschüttert. Kehrt die Macht am Himmel nach Europa zurück?",
+          "title": "Krieg in Nahost: Deutschland gibt Teil der nationalen Ölreserven frei",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/oel-reserven-iea-staaten-wollen-bis-zu-400-millionen-barrel-freigeben-a-5d135629-3740-4011-bb24-390c02d47bdf#ref=rss",
+          "summary": "Die Internationale Energieagentur will nach den Preissprüngen beim Öl den Anstieg eindämmen. Wegen des Irankriegs sollen die Mitgliedstaaten so viele Ölreserven anzapfen wie noch nie.",
           "source": "Spiegel"
         },
         {
-          "title": "Baden-Württemberg: Die CDU treibt den Preis für die Koalition nach der Landtagswahl hoch",
+          "title": "Landtagswahl in Baden-Württemberg: Die CDU treibt den Preis für die Koalition nach oben",
           "url": "https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-die-cdu-treibt-den-preis-fuer-die-koalition-nach-der-landtagswahl-hoch-a-a5f23d54-c1f1-45cd-adc0-664233658a79#ref=rss",
           "summary": "Nach dem knappen Wahlverlust ist die CDU in Baden-Württemberg in bester Verhandlungsposition. Das setzt die Grünen um Cem Özdemir unter Druck. Was können ihm die Christdemokraten abringen?",
           "source": "Spiegel"
         },
         {
-          "title": "Anonymous News soll Teil eines russischen Einflussnetzwerks sein: Lügengrüße aus Moskau",
+          "title": "Anonymous News soll Teil eines Einflussnetzwerks aus Russland sein: Lügengrüße aus Moskau",
           "url": "https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau-a-6979f3ac-2d1b-448c-a8df-8e82a27aad9a#ref=rss",
           "summary": "Der deutsche Rechtsextremist Mario Rönsch verkaufte einst auf der Seite »Migrantenschreck» illegal Waffen. Nun inszeniert er sich als Journalist im russischen Exil. Spuren seines Netzwerks führen zu Putins Geheimdienst.",
           "source": "Spiegel"
+        }
+      ]
+    },
+    {
+      "source": "Tagesschau",
+      "headlines": [
+        {
+          "title": "\"Digitaler Wahnsinn\" - Günther bekräftigt Social-Media-Verbot für Jüngere",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-social-media-verbot-jugendliche-102.html",
+          "summary": "Auf dem Weg \"in den Abgrund\": Mit drastischen Worten hat Schleswig-Holsteins Ministerpräsident Günther seine Forderung nach einem Social-Media-Verbot für Jüngere bekräftigt. Und er ist nicht allein.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Teuerung bei 1,9 Prozent: Was die Inflation zuletzt beeinflusst hat",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-februar-zweite-schaetzung-100.html",
+          "summary": "Die Inflation hat sich in Deutschland leicht abgeschwächt. Vor allem die Preise für Dienstleistungen wie das Deutschlandticket sind aber gestiegen. Und der Iran-Krieg schürt Ängste, dass die Inflation wieder steigen könnte.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Der mühsame Weg zur Stilllegung des AKW Fukushima",
+          "url": "https://www.tagesschau.de/ausland/asien/fukushima-atomkatastrophe-jahrestag-100.html",
+          "summary": "Heute vor 15 Jahren ereignete sich die Katastrophe von Fukushima infolge eines schweren Tsunamis. Die Bergung des geschmolzenen Brennstoffs könnte ein wichtiger Schritt zur Stilllegung des AKW sein - doch das wird Jahre dauern. Von T. Iffland.",
+          "source": "Tagesschau"
         }
       ]
     },
