@@ -1,10 +1,16 @@
 {
-  "generated": "2026-03-11T11:00:14.907Z",
-  "timestamp": "11.3.2026, 12:00:14",
+  "generated": "2026-03-11T11:02:36.935Z",
+  "timestamp": "11.3.2026, 12:02:36",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Irankrieg: Deutschland gibt offenbar Teil der Ölreserven frei",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutschland-gibt-offenbar-teil-der-oelreserven-frei-accg-200621798.html",
+          "summary": "Als Folge des Irankriegs hat sich die Bundesregierung offenbar zum Handeln entschlossen und gibt einen Teil der Ölreserven frei.",
+          "source": "FAZ"
+        },
         {
           "title": "Soziologe über Kriegslust: „Stärkster Prädiktor für Kriegsbefürwortung sind gewaltbezogene Männlichkeitsnormen“",
           "url": "https://www.faz.net/aktuell/feuilleton/debatten/interview-mit-alexander-yendell-ueber-krieg-und-maennlichkeit-accg-200617890.html",
@@ -15,12 +21,6 @@
           "title": "Nationalisten zum krieg: „Das ist der Wilde Westen!“",
           "url": "https://www.faz.net/aktuell/politik/ausland/orban-bis-zur-afd-wie-europas-rechtspopulisten-auf-den-irankrieg-reagieren-accg-110851093.html",
           "summary": "Europas populistische Rechte ist hin- und hergerissen in Sachen Irankrieg. Nur wenige heißen ihn ausdrücklich gut, aber Trump kritisieren wollen sie auch nicht.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Liveblog Irankrieg: Von der Leyen: EU bereitet Optionen zur Senkung der Energiepreise vor",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-von-der-leyen-eu-bereitet-optionen-zur-senkung-der-energiepreise-vor-faz-200583539.html",
-          "summary": "Hohe Ausgaben durch Krieg +++ Frachter in der Straße von Hormus von „unbekanntem Geschoss“ getroffen +++ Schwerste Angriffe auf Teheran seit Kriegsbeginn +++ Irans Polizeichef: Wir betrachten Demonstranten als Feinde +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -37,7 +37,7 @@
         {
           "title": "Landtagswahl in Baden-Württemberg: Die CDU treibt den Preis für die Koalition nach oben",
           "url": "https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-die-cdu-treibt-den-preis-fuer-die-koalition-nach-der-landtagswahl-hoch-a-a5f23d54-c1f1-45cd-adc0-664233658a79#ref=rss",
-          "summary": "Nach dem knappen Wahlverlust ist die CDU in Baden-Württemberg in bester Verhandlungsposition. Das setzt die Grünen um Cem Özdemir unter Druck. Was können ihm die Christdemokraten abringen?",
+          "summary": "Nach dem knappen Wahlverlust ist die CDU in Baden-Württemberg in bester Verhandlungsposition. Das setzt die Grünen um Cem ��zdemir unter Druck. Was können ihm die Christdemokraten abringen?",
           "source": "Spiegel"
         },
         {
@@ -45,52 +45,6 @@
           "url": "https://www.spiegel.de/panorama/anonymous-news-soll-teil-eines-russischen-einflussnetzwerks-sein-luegengruesse-aus-moskau-a-6979f3ac-2d1b-448c-a8df-8e82a27aad9a#ref=rss",
           "summary": "Der deutsche Rechtsextremist Mario Rönsch verkaufte einst auf der Seite »Migrantenschreck» illegal Waffen. Nun inszeniert er sich als Journalist im russischen Exil. Spuren seines Netzwerks führen zu Putins Geheimdienst.",
           "source": "Spiegel"
-        }
-      ]
-    },
-    {
-      "source": "Tagesschau",
-      "headlines": [
-        {
-          "title": "\"Digitaler Wahnsinn\" - Günther bekräftigt Social-Media-Verbot für Jüngere",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/debatte-social-media-verbot-jugendliche-102.html",
-          "summary": "Auf dem Weg \"in den Abgrund\": Mit drastischen Worten hat Schleswig-Holsteins Ministerpräsident Günther seine Forderung nach einem Social-Media-Verbot für Jüngere bekräftigt. Und er ist nicht allein.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Teuerung bei 1,9 Prozent: Was die Inflation zuletzt beeinflusst hat",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-februar-zweite-schaetzung-100.html",
-          "summary": "Die Inflation hat sich in Deutschland leicht abgeschwächt. Vor allem die Preise für Dienstleistungen wie das Deutschlandticket sind aber gestiegen. Und der Iran-Krieg schürt Ängste, dass die Inflation wieder steigen könnte.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Der mühsame Weg zur Stilllegung des AKW Fukushima",
-          "url": "https://www.tagesschau.de/ausland/asien/fukushima-atomkatastrophe-jahrestag-100.html",
-          "summary": "Heute vor 15 Jahren ereignete sich die Katastrophe von Fukushima infolge eines schweren Tsunamis. Die Bergung des geschmolzenen Brennstoffs könnte ein wichtiger Schritt zur Stilllegung des AKW sein - doch das wird Jahre dauern. Von T. Iffland.",
-          "source": "Tagesschau"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Wie der Iran-Krieg das Horn von Afrika destabilisiert",
-          "url": "https://www.telepolis.de/article/Wie-der-Iran-Krieg-das-Horn-von-Afrika-destabilisiert-11206876.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Golfstaaten prägen seit Jahren Konflikte am Horn von Afrika. Der Irankrieg könnte ihr Engagement beenden. Was bedeutet das für die Region? Ein Gastbeitrag.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "\"Die dümmsten Menschen\": Exiliraner über Khamenei-Demos in Berlin",
-          "url": "https://www.telepolis.de/article/Die-duemmsten-Menschen-Exiliraner-ueber-Khamenei-Demos-in-Berlin-11206607.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Stimmen von Exiliranern in Deutschland: Viele sorgen sich um ihre Familien, begrüßen aber den Krieg gegen den Iran, sehen Israel als Freund – fordern Starlink.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "Straße von Hormus: Alle stecken fest – nur iranisches Öl fließt",
-          "url": "https://www.telepolis.de/article/Strasse-von-Hormus-Alle-stecken-fest-nur-iranisches-Oel-fliesst-11206657.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Der Iran exportiert trotz Blockade mehr Öl als vor dem Krieg. Das Mittel dafür: eine sogenannte Schattenflotte alter Tanker.",
-          "source": "Telepolis"
         }
       ]
     }
