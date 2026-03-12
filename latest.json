@@ -1,12 +1,12 @@
 {
-  "generated": "2026-03-12T10:56:30.871Z",
-  "timestamp": "12.3.2026, 11:56:30",
+  "generated": "2026-03-12T11:00:11.465Z",
+  "timestamp": "12.3.2026, 12:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Überwachung in den USA: Und sofort weiß der Agent, wo du wohnst",
+          "title": "Überwachung in den USA: Und schon wissen sie, wo Du wohnst",
           "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/palantir-und-co-wie-die-us-regierung-einwanderer-und-gegner-ueberwacht-accg-110848691.html",
           "summary": "Die US-Regierung verfügt über einen immer größeren Überwachungsapparat. Palantir und viele kleinere Tech-Unternehmen liefern ihr dafür die Werkzeuge.",
           "source": "FAZ"
@@ -68,29 +68,6 @@
           "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiseverband-nahost-wirtschaft-millionenverlust-100.html",
           "summary": "Der Krieg im Iran kostet die Tourismusbranche in den Golfstaaten viele Millionen Dollar täglich. Noch viel bedeutender als der finanzielle Verlust könnte aber der Imageschaden für die Region sein.",
           "source": "Tagesschau"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Darpas X-76: Wenn der Hubschrauber zum Jet wird",
-          "url": "https://www.telepolis.de/article/Darpas-X-76-Wenn-der-Hubschrauber-zum-Jet-wird-11208276.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Die Darpa baut mit Bell den X-76, der Senkrechtstart mit Jet-Tempo vereint. Das Fluggerät klappt seine Rotoren im Flug einfach weg. Jetzt startet die Fertigung.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "Ölsanktionen gegen Russland: Trumps planloser Weg zum Frieden",
-          "url": "https://www.telepolis.de/article/Oelsanktionen-gegen-Russland-Trumps-planloser-Weg-zum-Frieden-11207703.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Die Trump-Regierung lockert die Ölsanktionen gegen Russland wegen steigender Energiepreise. Warum Trumps Diplomatie erneut versagt. Ein Gastbeitrag.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "Paramount kauft Warner Bros.: Der Streaming-Markt wird neu verteilt",
-          "url": "https://www.telepolis.de/article/Paramount-kauft-Warner-Bros-Der-Streaming-Markt-wird-neu-verteilt-11208034.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Der Deal bündelt Hollywood, Streaming und CNN unter der Ellison-Familie. Ein Medienimperium entsteht – bezahlt womöglich vom Rest der Welt.",
-          "source": "Telepolis"
         }
       ]
     },
