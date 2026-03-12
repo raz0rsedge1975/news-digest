@@ -1,10 +1,16 @@
 {
-  "generated": "2026-03-12T15:00:58.912Z",
-  "timestamp": "12.3.2026, 16:00:58",
+  "generated": "2026-03-12T19:00:13.336Z",
+  "timestamp": "12.3.2026, 20:00:13",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Straße von Hormus: Dann muss auch die Deutsche Marine mitmachen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/kommentar-deutsche-marine-in-der-strasse-von-hormus-110852305.html",
+          "summary": "Wenn Frankreich, Großbritannien und Italien sich an der Absicherung des Schiffsverkehrs in der Straße von Hormus beteiligen, kann Deutschland nicht abseits stehen.",
+          "source": "FAZ"
+        },
         {
           "title": "Straße von Hormus: So wollen die G-7-Staaten Schiffe vor Iran schützen",
           "url": "https://www.faz.net/aktuell/politik/ausland/so-wollen-die-g-7-schiffe-in-der-strasse-von-hormus-schuetzen-200625288.html",
@@ -12,15 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Schiffsverkehr: Wehe, wenn diese Arterien des Welthandels verstopfen",
-          "url": "https://www.faz.net/pro/weltwirtschaft/wie-die-srasse-von-hormus-und-der-suezkanal-den-welthandel-beeinflussen-accg-200603491.html",
-          "summary": "Der Stillstand in der Straße von Hormus ist ein weiteres Beispiel dafür, dass der Welthandel von neun natürlichen Meerengen abhängt. Alternativen zu ihnen gibt es kaum – und sie wären teuer.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Liveblog Irankrieg: Irans neuer Oberster Führer fordert Rache für Kriegsopfer",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-khamenei-strasse-von-hormus-bleibt-blockiert-faz-200583539.html",
-          "summary": "Neuer Oberster Führer fordert Schließung von US-Stützpunkten +++ Iran warnt vor Angriff auf Inseln im Persischen Golf +++ Schweiz schließt Botschaft in Teheran +++ Trump: Iran steht kurz vor der Niederlage +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: Israel startet neue Angriffswelle auf Beirut",
+          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-israel-startet-neue-angriffswelle-auf-beirut-faz-200583539.html",
+          "summary": "Irans neuer Oberster Führer fordert Rache für Kriegsopfer +++ Iran warnt vor Angriff auf Inseln im Persischen Golf +++ Schweiz schließt Botschaft in Teheran +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Iran-Krieg: Warum der Krieg gegen Iran plötzlich Europa trifft – und die Welt unsicherer macht",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht-a-a03ffdc8-19c3-4351-8d16-6bd1f59847b4#ref=rss",
-          "summary": "Krieg gegen Iran, Bedrohung aus Russland, ein US-Präsident, der sich an keine Regeln hält: Die alte Weltordnung ist aus den Fugen, es gilt das Recht des Stärkeren. Was das für uns Europäer bedeutet – der SPIEGEL-Titel.",
+          "title": "Iran-Krieg: »Jeder Tag fühlt sich sehr lang an« - Stimmen aus Iran",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-jeder-tag-fuehlt-sich-sehr-lang-an-stimmen-aus-iran-a-165018f5-f2db-475b-ab02-cd529ef5d178#ref=rss",
+          "summary": "Die iranische Bevölkerung ist den Angriffen Israels und der USA nahezu schutzlos ausgeliefert. Hier berichten Menschen aus Teheran, wie sie den Krieg erleben – und erzählen, wovor sie am meisten Angst haben.",
           "source": "Spiegel"
         },
         {
-          "title": "Iran-News heute: Iran warnt vor Angriff auf Inseln im Persischen Golf",
-          "url": "https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben-a-e290134d-6cd1-4a3b-ae04-89a3d367cb4f#ref=rss",
-          "summary": "Sie sind strategisch wichtig – eine für den Ölhandel unverzichtbar: Iran droht Israel und den USA mit Vergeltung für den Fall eines Angriffs auf seine Inseln. Und: Das Regime hat die erste Botschaft von Mojtaba Khamenei geteilt. Die Liveanalyse.",
+          "title": "News des Tages: Arctic Metagaz, Mittelmeer, Cyberangriff, Iran, Viktor Orbán, Ukraine",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-arctic-metagaz-mittelmeer-cyberangriff-iran-viktor-orban-ukraine-a-572752dc-3c82-424d-bd4e-d1a852a3a521#ref=rss",
+          "summary": "Der russische LNG-Tanker »Arctic Metagaz« treibt offenbar führerlos durchs Mittelmeer. Eine proiranische Hackergruppe will US-Konzerne attackiert haben. Und Viktor Orbán behauptet im Wahlkampf, er und seine Familie würden bedroht. Das ist die Lage am Donnerstagabend.",
           "source": "Spiegel"
         },
         {
-          "title": "Arctic Metagaz: Russischer LNG-Tanker als Geisterschiff unterwegs",
-          "url": "https://www.spiegel.de/wissenschaft/technik/arctic-metagaz-russischer-lng-tanker-als-geisterschiff-unterwegs-a-091a8736-39a4-4636-b475-aa7710a82964#ref=rss",
-          "summary": "Der nach einem Brand schwer beschädigte russische LNG-Tanker »Arctic Metagaz« sei untergegangen, hieß es. Doch das Schiff ist wohl noch auf dem Mittelmeer unterwegs. Es könnte eine ernsthafte Gefahr darstellen.",
+          "title": "China und Taiwan: Was passiert, wenn Peking angreift – und wie Deutschland dazu beitragen kann, es zu verhindern",
+          "url": "https://www.spiegel.de/ausland/china-und-taiwan-was-passiert-wenn-peking-angreift-und-wie-deutschland-dazu-beitragen-kann-es-zu-verhindern-a-dab4c156-4e97-4e4c-8d8c-e789c23f423f#ref=rss",
+          "summary": "Chinaexperte Andreas Fulda entwirft in seinem Buch ein düsteres Szenario: eine Attacke auf Taiwan 2027. Hier sagt er, wie das zu verhindern wäre. Und was sein Auftritt in einer chinesischen Gesangsshow mit seiner Haltung zu tun hat.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Volkskongresses: China treibt Modernisierung voran - und sorgt sich",
-          "url": "https://www.tagesschau.de/ausland/asien/china-abschluss-volkskongress-100.html",
-          "summary": "Chinas neuer Fünfjahresplan macht deutlich, welche Bedeutung das Land der Künstlichen Intelligenz beimisst. Über dem Volkskongress, der heute zu Ende ging, schwebte zudem ein unausgesprochenes Thema. Mallinckrodt.",
+          "title": "Kommentar zu Spritpreisen: Der Staat ist keine Vollkaskoversicherung",
+          "url": "https://www.tagesschau.de/kommentar/kommentar-girschick-energiekosten-100.html",
+          "summary": "Deutschland diskutiert über die steigenden Preise an den Zapfsäulen - und was dagegen zu tun ist. Kirsten Girschick meint, die Politik müsse endlich anfangen, mit der Bevölkerung Klartext zu sprechen.",
           "source": "Tagesschau"
         },
         {
-          "title": "Seit Kriegsbeginn: UN melden bis zu 3,2 Millionen Vertriebene in Iran",
-          "url": "https://www.tagesschau.de/ausland/asien/vertriebene-iran-100.html",
-          "summary": "Seit Ausbruch des Krieges sind laut UN bis zu 3,2 Millionen Menschen innerhalb Irans geflüchtet. In Deutschland wächst die Sorge vor grenzüberschreitenden Fluchtbewegungen - vor allem wegen möglicher Sicherheitsrisiken.",
+          "title": "Wie viel Macht hat das Kartellamt bei gestiegenen Kraftstoffpreisen?",
+          "url": "https://www.tagesschau.de/wirtschaft/macht-kartellamt-energiepreise-100.html",
+          "summary": "Die hohen Spritpreise sorgen für Diskussionen - auch in der Politik. Doch welche Instrumente hat das Kartellamt gegen die viel kritisierten Mineralölkonzerne? Und wie schnell können diese wirken? Von Hans-Joachim Vieweger.",
           "source": "Tagesschau"
         },
         {
-          "title": "Trotz Ermittlungen - Gröner will weitere Bauprojekte umsetzen",
-          "url": "https://www.tagesschau.de/investigativ/fakt/groener-bauunternehmer-100.html",
-          "summary": "In der Krise um die Firmengruppe des Immobilienunternehmers Gröner ermittelt die Staatsanwaltschaft Leipzig wegen des Verdachts auf Insolvenzverschleppung - betroffen ist neben Gröner auch Kanzleramtschef Pofalla. Beide planen weitere Projekte.",
+          "title": "Marktbericht: Hängepartie zehrt an den Nerven",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html",
+          "summary": "So langsam wachsen die Sorgen, wie sehr der Krieg in Iran auch den Wohlstand hierzulande treffen wird. Der deutsche Leitindex bewegt sich zwischen dem Blick in die Welt und auf deutsche Bilanzen. Besonders ein Unternehmen punktet.",
           "source": "Tagesschau"
         }
       ]
@@ -75,8 +75,8 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Deutsche Industrie wieder im Fadenkreuz von Trumps Zoll-Politik",
-          "url": "https://www.telepolis.de/article/Deutsche-Industrie-wieder-im-Fadenkreuz-von-Trumps-Zoll-Politik-11209108.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "title": "Trump prüft neue Zölle gegen Deutschland",
+          "url": "https://www.telepolis.de/article/Trump-prueft-neue-Zoelle-gegen-Deutschland-11209108.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Washington sucht einen legalen Weg, um gekippte Zölle zu ersetzen. Chemie, Maschinenbau und Autos aus Deutschland geraten erneut ins Visier.",
           "source": "Telepolis"
         },
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespräsident: Steinmeier verteidigt seine zurückhaltende Präsidentschaft",
-          "url": "https://www.sueddeutsche.de/politik/bundespraesident-frank-walter-steinmeier-interview-amtszeit-li.3451605",
-          "summary": "„Keine Polarisierungsagentur“: Der Bundespräsident hat ein Interview gegeben, das sich bereits wie eine Bilanz seiner Jahre im Schloss Bellevue liest. Und wie eine Rechtfertigung.",
+          "title": "Irankrieg: Irans neuer Herrscher, das Phantom",
+          "url": "https://www.sueddeutsche.de/politik/iran-modschtaba-chamenei-krieg-li.3451879",
+          "summary": "Teheran veröffentlicht eine schriftliche Rachebotschaft des neuen Obersten Führers, doch Modschtaba Chamenei zeigt sich nicht. Woran das liegen könnte – und warum der Krieg aus Sicht des Regimes bisher gar nicht so schlecht läuft.",
           "source": "SZ"
         },
         {
-          "title": "Champions League: Bodö zeigt, dass man für schönen und erfolgreichen Fußball nicht immer teure Spieler braucht",
-          "url": "https://www.sueddeutsche.de/sport/fussball-champions-league-achtelfinale-premier-league-bodoe-li.3451622",
-          "summary": "Keiner von sechs Premier-League-Klubs gewinnt, aber Bodö/Glimt schon: Das Achtelfinale der Champions League sorgt für eine hoffnungsvolle Momentaufnahme für den europäischen Fußball.",
+          "title": "Fußball-WM: Trump rät Iran von WM-Teilnahme ab",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-iran-trump-li.3452053",
+          "summary": "US-Präsident Donald Trump warnt vor Gefahren für Irans Fußballer im Falle einer Teilnahme an der Fußball-WM. Zuletzt hatte der iranische Sportminister einen Verzicht angedeutet.",
           "source": "SZ"
         },
         {
-          "title": "Sterne-Küche: „Zur Arbeit zu gehen, fühlte sich an, wie in den Krieg zu ziehen“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/noma-chef-redzepi-gewalt-ruecktritt-li.3451656",
-          "summary": "Ehemalige Mitarbeiter werfen René Redzepi, dem Küchenchef des weltberühmten Restaurants Noma, Mobbing und Gewalt vor. Eine Entschuldigung sei nicht genug, sagt er – und geht.",
+          "title": "Champions League: Ein Remis, das in Leverkusen Zweifel an der Rechtsprechung weckt",
+          "url": "https://www.sueddeutsche.de/sport/champions-league-fussball-leverkusen-arsenal-havertz-li.3451624",
+          "summary": "Immerhin verwandelt Kai Havertz den Strafstoß. Doch der Elfmeterpfiff gegen den FC Arsenal bringt Bayer Leverkusen um den Lohn eines guten Spiels.",
           "source": "SZ"
         }
       ]
