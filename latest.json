@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-12T11:00:11.465Z",
-  "timestamp": "12.3.2026, 12:00:11",
+  "generated": "2026-03-12T15:00:07.711Z",
+  "timestamp": "12.3.2026, 16:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Überwachung in den USA: Und schon wissen sie, wo Du wohnst",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/palantir-und-co-wie-die-us-regierung-einwanderer-und-gegner-ueberwacht-accg-110848691.html",
-          "summary": "Die US-Regierung verfügt über einen immer größeren Überwachungsapparat. Palantir und viele kleinere Tech-Unternehmen liefern ihr dafür die Werkzeuge.",
+          "title": "Straße von Hormus: So wollen die G-7-Staaten Schiffe vor Iran schützen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/so-wollen-die-g-7-schiffe-in-der-strasse-von-hormus-schuetzen-200625288.html",
+          "summary": "Die Sperrung der Straße von Hormus trifft den globalen Energiemarkt hart. Aber die Gefahr von Angriffen auf Schiffe ist groß. Wie können sie gesichert werden?",
           "source": "FAZ"
         },
         {
-          "title": "Biograph des Firmenchefs: „Palantir hat ein sehr düsteres Weltbild“",
-          "url": "https://www.faz.net/aktuell/politik/palantir-michael-steinberger-ueber-alex-karp-110796909.html",
-          "summary": "Michael Steinberger hat ein Buch über Alex Karp geschrieben, den Chef des umstrittenen Unternehmens Palantir. Hier erklärt der Autor, was Karp antreibt – und was diesen mit Trump verbindet.",
+          "title": "Schiffsverkehr: Wehe, wenn diese Arterien des Welthandels verstopfen",
+          "url": "https://www.faz.net/pro/weltwirtschaft/wie-die-srasse-von-hormus-und-der-suezkanal-den-welthandel-beeinflussen-accg-200603491.html",
+          "summary": "Der Stillstand in der Straße von Hormus ist ein weiteres Beispiel dafür, dass der Welthandel von neun natürlichen Meerengen abhängt. Alternativen zu ihnen gibt es kaum – und sie wären teuer.",
           "source": "FAZ"
         },
         {
-          "title": "Fehlender politischer Wille: Europa schlafwandelt Irans Zusammenbruch entgegen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/europa-muss-sich-auf-irans-zusammenbruch-vorbereiten-accg-200622930.html",
-          "summary": "Die europäischen Staaten tun so, als seien sie beim Krieg der USA und Israels nur Beobachter. Doch sie müssen die Konsequenzen tragen, wenn Iran zusammenbricht.",
+          "title": "Liveblog Irankrieg: Irans neuer Oberster Führer fordert Rache für Kriegsopfer",
+          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-khamenei-strasse-von-hormus-bleibt-blockiert-faz-200583539.html",
+          "summary": "Neuer Oberster Führer fordert Schließung von US-Stützpunkten +++ Iran warnt vor Angriff auf Inseln im Persischen Golf +++ Schweiz schließt Botschaft in Teheran +++ Trump: Iran steht kurz vor der Niederlage +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Iran-Krieg und Folgen für Deutschland: Der Abschwung droht, die Merz-Regierung kauft sich Zeit",
-          "url": "https://www.spiegel.de/politik/deutschland/iran-krieg-und-folgen-fuer-deutschland-der-abschwung-droht-die-merz-regierung-kauft-sich-zeit-a-963c5e5e-c6ef-4417-8fde-0a9fd99450d8#ref=rss",
-          "summary": "Die Zweifel des Kanzlers am Krieg wachsen, sein Vize wettert gegen Profiteure der Krise: Die Folgen des Irankriegs bekommen nun auch die Deutschen zu spüren. Die hohen Spritpreise können der Regierung gefährlich werden.",
+          "title": "Iran-Krieg: Warum der Krieg gegen Iran plötzlich Europa trifft – und die Welt unsicherer macht",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-warum-der-krieg-gegen-iran-ploetzlich-europa-trifft-und-die-welt-unsicherer-macht-a-a03ffdc8-19c3-4351-8d16-6bd1f59847b4#ref=rss",
+          "summary": "Krieg gegen Iran, Bedrohung aus Russland, ein US-Präsident, der sich an keine Regeln hält: Die alte Weltordnung ist aus den Fugen, es gilt das Recht des Stärkeren. Was das für uns Europäer bedeutet – der SPIEGEL-Titel.",
           "source": "Spiegel"
         },
         {
-          "title": "Iran-News am 12.3.: Sechs Tage Irankrieg sollen USA mehr als elf Milliarden Dollar gekostet haben",
+          "title": "Iran-News heute: Iran warnt vor Angriff auf Inseln im Persischen Golf",
           "url": "https://www.spiegel.de/ausland/iran-news-am-12-3-sechs-tage-irankrieg-sollen-usa-mehr-als-elf-milliarden-dollar-gekostet-haben-a-e290134d-6cd1-4a3b-ae04-89a3d367cb4f#ref=rss",
-          "summary": "Der Krieg im Nahen Osten kostet die USA Milliarden Dollar – der Iran treibt den Preis mit seinem Einfluss in der Straße von Hormus weiter in die Höhe. Und: Italienischer Militärstützpunkt im Nordirak angegriffen. Die Liveanalyse.",
+          "summary": "Sie sind strategisch wichtig – eine für den Ölhandel unverzichtbar: Iran droht Israel und den USA mit Vergeltung für den Fall eines Angriffs auf seine Inseln. Und: Das Regime hat die erste Botschaft von Mojtaba Khamenei geteilt. Die Liveanalyse.",
           "source": "Spiegel"
         },
         {
-          "title": "Wolfram Weimer: Vom Kulturstaatsminister zum Grüßaugust - Kolumne",
-          "url": "https://www.spiegel.de/politik/deutschland/wolfram-weimer-vom-kulturstaatsminister-zum-gruessaugust-kolumne-a-387d2a66-9cb0-45f8-974f-856b82611d38#ref=rss",
-          "summary": "Erst Berlinale, dann Buchhändler: Kulturstaatsminister Wolfram Weimer sollte aufhören, Preise zu verteilen.",
+          "title": "Arctic Metagaz: Russischer LNG-Tanker als Geisterschiff unterwegs",
+          "url": "https://www.spiegel.de/wissenschaft/technik/arctic-metagaz-russischer-lng-tanker-als-geisterschiff-unterwegs-a-091a8736-39a4-4636-b475-aa7710a82964#ref=rss",
+          "summary": "Der nach einem Brand schwer beschädigte russische LNG-Tanker »Arctic Metagaz« sei untergegangen, hieß es. Doch das Schiff ist wohl noch auf dem Mittelmeer unterwegs. Es könnte eine ernsthafte Gefahr darstellen.",
           "source": "Spiegel"
         }
       ]
@@ -52,22 +52,45 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Katholische Kirche: Erzbischof Degenhardt soll Jungen missbraucht haben",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsskandal-erzbistum-paderborn-100.html",
-          "summary": "Der verstorbene Paderborner Erzbischof Degenhardt soll minderjährige Jungen sexuell missbraucht haben. Das erfuhr der WDR vor der Veröffentlichung einer Studie der Universität Paderborn.",
+          "title": "Volkskongresses: China treibt Modernisierung voran - und sorgt sich",
+          "url": "https://www.tagesschau.de/ausland/asien/china-abschluss-volkskongress-100.html",
+          "summary": "Chinas neuer Fünfjahresplan macht deutlich, welche Bedeutung das Land der Künstlichen Intelligenz beimisst. Über dem Volkskongress, der heute zu Ende ging, schwebte zudem ein unausgesprochenes Thema. Mallinckrodt.",
           "source": "Tagesschau"
         },
         {
-          "title": "Das BKA und seine NS-Wurzeln: Aufarbeitung mit Lücken",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/75-jahre-bka-ns-vergangenheit-100.html",
-          "summary": "Dieses Jahr feiert das Bundeskriminalamt sein 75-jähriges Bestehen. Viele Gründungsmitglieder hatten eine NS-Vergangenheit. Die Aufarbeitung begann erst spät und bleibt bis heute lückenhaft. Von Ingo Nathusius.",
+          "title": "Seit Kriegsbeginn: UN melden bis zu 3,2 Millionen Vertriebene in Iran",
+          "url": "https://www.tagesschau.de/ausland/asien/vertriebene-iran-100.html",
+          "summary": "Seit Ausbruch des Krieges sind laut UN bis zu 3,2 Millionen Menschen innerhalb Irans geflüchtet. In Deutschland wächst die Sorge vor grenzüberschreitenden Fluchtbewegungen - vor allem wegen möglicher Sicherheitsrisiken.",
           "source": "Tagesschau"
         },
         {
-          "title": "Nahost-Wirtschaft entgehen pro Tag 600 Millionen Dollar",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiseverband-nahost-wirtschaft-millionenverlust-100.html",
-          "summary": "Der Krieg im Iran kostet die Tourismusbranche in den Golfstaaten viele Millionen Dollar täglich. Noch viel bedeutender als der finanzielle Verlust könnte aber der Imageschaden für die Region sein.",
+          "title": "Trotz Ermittlungen - Gröner will weitere Bauprojekte umsetzen",
+          "url": "https://www.tagesschau.de/investigativ/fakt/groener-bauunternehmer-100.html",
+          "summary": "In der Krise um die Firmengruppe des Immobilienunternehmers Gröner ermittelt die Staatsanwaltschaft Leipzig wegen des Verdachts auf Insolvenzverschleppung - betroffen ist neben Gröner auch Kanzleramtschef Pofalla. Beide planen weitere Projekte.",
           "source": "Tagesschau"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Deutsche Industrie wieder im Fadenkreuz von Trumps Zoll-Politik",
+          "url": "https://www.telepolis.de/article/Deutsche-Industrie-wieder-im-Fadenkreuz-von-Trumps-Zoll-Politik-11209108.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Washington sucht einen legalen Weg, um gekippte Zölle zu ersetzen. Chemie, Maschinenbau und Autos aus Deutschland geraten erneut ins Visier.",
+          "source": "Telepolis"
+        },
+        {
+          "title": "KI und Weltpolitik: Warum Chatbots oft falsche Antworten liefern",
+          "url": "https://www.telepolis.de/article/KI-und-Weltpolitik-Warum-Chatbots-oft-falsche-Antworten-liefern-11209038.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Eine Studie zeigt: Herkunft, Trainingsdaten und politische Kontrolle prägen die Antworten von Chatbots stärker als überprüfbare Fakten.",
+          "source": "Telepolis"
+        },
+        {
+          "title": "Überleben als Strategie: Warum die Hisbollah weiterkämpft",
+          "url": "https://www.telepolis.de/article/Ueberleben-als-Strategie-Warum-die-Hisbollah-weiterkaempft-11208425.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Hisbollah kämpft ums Überleben – trotz 500 Toter und 700. 000 Vertriebener. Was steckt hinter der scheinbar irrationalen Strategie? Ein Gastbeitrag.",
+          "source": "Telepolis"
         }
       ]
     },
@@ -75,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nahost: Irak meldet einen Toten bei Angriff auf zwei Öltanker",
-          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-oeltanker-angriff-persischer-golf-li.3395676",
-          "summary": "Bei einem Angriff auf zwei Öltanker im Persischen Golf ist nach Angaben der irakischen Regierung mindestens ein Mensch ums Leben gekommen. In Bahrain und Oman stehen Treibstofftanks in Flammen.",
+          "title": "Bundespräsident: Steinmeier verteidigt seine zurückhaltende Präsidentschaft",
+          "url": "https://www.sueddeutsche.de/politik/bundespraesident-frank-walter-steinmeier-interview-amtszeit-li.3451605",
+          "summary": "„Keine Polarisierungsagentur“: Der Bundespräsident hat ein Interview gegeben, das sich bereits wie eine Bilanz seiner Jahre im Schloss Bellevue liest. Und wie eine Rechtfertigung.",
           "source": "SZ"
         },
         {
-          "title": "Kolumne „Schön doof“: Ein Weltmeister, der sich nichts entgehen lässt",
-          "url": "https://www.sueddeutsche.de/leben/thomas-mueller-fc-bayern-vancouver-whitecaps-li.3447866",
-          "summary": "Nüsse, Rasendünger, Weißbier: Der unglaubliche Werbeerfolg von Thomas Müller führt zur Frage, was er sich noch alles draufschafft. Seine Produktpalette ist jetzt schon rekordverdächtig.",
+          "title": "Champions League: Bodö zeigt, dass man für schönen und erfolgreichen Fußball nicht immer teure Spieler braucht",
+          "url": "https://www.sueddeutsche.de/sport/fussball-champions-league-achtelfinale-premier-league-bodoe-li.3451622",
+          "summary": "Keiner von sechs Premier-League-Klubs gewinnt, aber Bodö/Glimt schon: Das Achtelfinale der Champions League sorgt für eine hoffnungsvolle Momentaufnahme für den europäischen Fußball.",
           "source": "SZ"
         },
         {
-          "title": "Fördergelder: Hinter Weimers Verfassungsschutz-Aktion steckt ein größerer Plan",
-          "url": "https://www.sueddeutsche.de/politik/weimer-buchhandlungspreis-verfassungsschutz-li.3450549",
-          "summary": "Der Kulturstaatsminister ließ Buchhändler überprüfen, andere sollen es nachmachen: Innenminister Dobrindt möchte den Geheimdienst häufiger einbeziehen, wenn NGOs Fördermittel beantragen.",
+          "title": "Sterne-Küche: „Zur Arbeit zu gehen, fühlte sich an, wie in den Krieg zu ziehen“",
+          "url": "https://www.sueddeutsche.de/wirtschaft/noma-chef-redzepi-gewalt-ruecktritt-li.3451656",
+          "summary": "Ehemalige Mitarbeiter werfen René Redzepi, dem Küchenchef des weltberühmten Restaurants Noma, Mobbing und Gewalt vor. Eine Entschuldigung sei nicht genug, sagt er – und geht.",
           "source": "SZ"
         }
       ]
