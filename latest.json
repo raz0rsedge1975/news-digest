@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-12T10:39:09.658Z",
-  "timestamp": "12.3.2026, 11:39:09",
+  "generated": "2026-03-12T10:56:30.871Z",
+  "timestamp": "12.3.2026, 11:56:30",
   "news": [
     {
       "source": "FAZ",
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Konjunktursorgen treiben die Anleger um",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html",
-          "summary": "Der Ölpreis bestimmt die Richtung am Aktienmarkt. Steigende Energiepreise könnten die Verbraucherpreise anschieben und gleichzeitig die Konjunktur abwürgen - für den Aktienmarkt kein gutes Szenario.",
+          "title": "Katholische Kirche: Erzbischof Degenhardt soll Jungen missbraucht haben",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsskandal-erzbistum-paderborn-100.html",
+          "summary": "Der verstorbene Paderborner Erzbischof Degenhardt soll minderjährige Jungen sexuell missbraucht haben. Das erfuhr der WDR vor der Veröffentlichung einer Studie der Universität Paderborn.",
           "source": "Tagesschau"
         },
         {
-          "title": "Gewinn von Daimler Truck um 34 Prozent eingebrochen",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/daimler-truck-gewinneinbruch-100.html",
-          "summary": "Der Nutzfahrzeughersteller Daimler Truck hat im vergangenen Jahr einen deutlichen Gewinneinbruch verzeichnet. Das lag vor allem an den US-Importzöllen und einer damit verbundenen gesunkenen Nachfrage aus den USA.",
+          "title": "Das BKA und seine NS-Wurzeln: Aufarbeitung mit Lücken",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/75-jahre-bka-ns-vergangenheit-100.html",
+          "summary": "Dieses Jahr feiert das Bundeskriminalamt sein 75-jähriges Bestehen. Viele Gründungsmitglieder hatten eine NS-Vergangenheit. Die Aufarbeitung begann erst spät und bleibt bis heute lückenhaft. Von Ingo Nathusius.",
           "source": "Tagesschau"
         },
         {
-          "title": "Wie das Bewegen der Hände das Gehirn trainiert",
-          "url": "https://www.tagesschau.de/wissen/gesundheit/feinmotorik-gehirn-funktion-100.html",
-          "summary": "Der Griff nach der Kaffeetasse oder das Zubinden der Schnürsenkel: Jeden Tag nutzen wir die Hände - beinahe unbewusst. Sie sind nicht nur das wichtigste Werkzeug, sondern trainieren auch den Geist. Von Katharina Bruns.",
+          "title": "Nahost-Wirtschaft entgehen pro Tag 600 Millionen Dollar",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiseverband-nahost-wirtschaft-millionenverlust-100.html",
+          "summary": "Der Krieg im Iran kostet die Tourismusbranche in den Golfstaaten viele Millionen Dollar täglich. Noch viel bedeutender als der finanzielle Verlust könnte aber der Imageschaden für die Region sein.",
           "source": "Tagesschau"
         }
       ]
@@ -91,6 +91,29 @@
           "url": "https://www.telepolis.de/article/Paramount-kauft-Warner-Bros-Der-Streaming-Markt-wird-neu-verteilt-11208034.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Der Deal bündelt Hollywood, Streaming und CNN unter der Ellison-Familie. Ein Medienimperium entsteht – bezahlt womöglich vom Rest der Welt.",
           "source": "Telepolis"
+        }
+      ]
+    },
+    {
+      "source": "SZ",
+      "headlines": [
+        {
+          "title": "Nahost: Irak meldet einen Toten bei Angriff auf zwei Öltanker",
+          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-oeltanker-angriff-persischer-golf-li.3395676",
+          "summary": "Bei einem Angriff auf zwei Öltanker im Persischen Golf ist nach Angaben der irakischen Regierung mindestens ein Mensch ums Leben gekommen. In Bahrain und Oman stehen Treibstofftanks in Flammen.",
+          "source": "SZ"
+        },
+        {
+          "title": "Kolumne „Schön doof“: Ein Weltmeister, der sich nichts entgehen lässt",
+          "url": "https://www.sueddeutsche.de/leben/thomas-mueller-fc-bayern-vancouver-whitecaps-li.3447866",
+          "summary": "Nüsse, Rasendünger, Weißbier: Der unglaubliche Werbeerfolg von Thomas Müller führt zur Frage, was er sich noch alles draufschafft. Seine Produktpalette ist jetzt schon rekordverdächtig.",
+          "source": "SZ"
+        },
+        {
+          "title": "Fördergelder: Hinter Weimers Verfassungsschutz-Aktion steckt ein größerer Plan",
+          "url": "https://www.sueddeutsche.de/politik/weimer-buchhandlungspreis-verfassungsschutz-li.3450549",
+          "summary": "Der Kulturstaatsminister ließ Buchhändler überprüfen, andere sollen es nachmachen: Innenminister Dobrindt möchte den Geheimdienst häufiger einbeziehen, wenn NGOs Fördermittel beantragen.",
+          "source": "SZ"
         }
       ]
     }
