@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-13T11:00:11.271Z",
-  "timestamp": "13.3.2026, 12:00:11",
+  "generated": "2026-03-13T15:00:09.367Z",
+  "timestamp": "13.3.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "CSU für Mini-Reaktoren: Ökolobby schlägt Atomlobby",
-          "url": "https://www.faz.net/aktuell/politik/inland/debatte-ueber-atomkraft-oekolobby-schlaegt-atomlobby-110853136.html",
-          "summary": "Die CSU gegen den Anti-Atomkraft-Kurs der CDU",
+          "title": "Sanktionslockerungen der USA: Moskau triumphiert – und bleibt doch skeptisch",
+          "url": "https://www.faz.net/aktuell/politik/ausland/gelockerte-sanktionen-moskau-triumphiert-und-muss-doch-sparen-110853344.html",
+          "summary": "Die USA lockern ihre Sanktionen auf russisches Öl. Russland plant dennoch weiterhin mit Ausgabenkürzungen, nur eben nicht beim Krieg.",
           "source": "FAZ"
         },
         {
-          "title": "Krieg im Nahen Osten: Abkehr von Atomkraft war ein „strategischer Fehler“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/ursula-von-der-leyen-abkehr-von-atomkraft-war-ein-strategischer-fehler-110850897.html",
-          "summary": "EU-Kommissionspräsidentin Ursula von der Leyen bereut beim Atomgipfel in Paris die Reduzierung von Atomenergie im europäischen Strommix. Umweltminister Schneider widerspricht.",
+          "title": "IranKrieg: Wer entscheidet eigentlich über den Ölpreis?",
+          "url": "https://www.faz.net/aktuell/finanzen/iran-krieg-und-die-folgen-wie-der-oelpreis-entsteht-accg-200627651.html",
+          "summary": "Der Ölpreis steigt deutlich, nicht nur Benzin wird dadurch teurer. Das wirft die Frage auf, wie dieser wichtige Markt funktioniert.",
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: NATO fängt dritte Rakete aus Iran ab",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-nato-faengt-dritte-rakete-aus-iran-ab-faz-200583539.html",
-          "summary": "Auf türkischen Luftraum abgefeuert +++ Bundeskanzler Friedrich Merz kritisiert US-Lockerung von Sanktionen gegen Russland als „falsch“ +++ Vier US-Soldaten bei Flugzeugabsturz im Irak ums Leben gekommen +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog UkraineKrieg: Macron: USA müssen Lockerung der Russland-Sanktionen rechtfertigen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-macron-usa-muessen-lockerung-der-sanktionen-rechtfertigen-faz-110683325.html",
+          "summary": "Kremlvertreter und USA sprechen über wirtschaftliche Zusammenarbeit  +++ EU will eigene Mission zur Druschba-Pipeline entsenden +++ Klöckner spricht im ukrainischen Parlament +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Benzin und Diesel, hohe Spritpreise: Das bringt die Einmal-täglich-Regel für Tankstellen",
+          "url": "https://www.spiegel.de/wirtschaft/service/benzin-und-diesel-hohe-spritpreise-das-bringt-die-einmal-taeglich-regel-fuer-tankstellen-a-0baa0427-6df5-4404-8c76-38ce05562996#ref=rss",
+          "summary": "Bis zu 50 Mal am Tag ändern Tankstellen bisher die Spritpreise – und verwirren damit die Verbraucher. Künftig sollen Preiserhöhungen nur noch einmal pro Tag möglich sein. Macht diese Maßnahme das Tanken wirklich günstiger?",
+          "source": "Spiegel"
+        },
+        {
           "title": "Krieg im Nahost: »Ich halte es für sehr wahrscheinlich, dass Iran eine Atomwaffe bauen wird«",
           "url": "https://www.spiegel.de/ausland/krieg-im-nahost-ich-halte-es-fuer-sehr-wahrscheinlich-dass-iran-eine-atomwaffe-bauen-wird-a-d35d6c33-4e4e-4e55-8a42-2e0bd83adc84#ref=rss",
           "summary": "Fast 500 Kilogramm hoch angereichertes Uran lagern in Iran. Nun überlegt die US-Regierung, Spezialkräfte in das Land zu schicken, um es zu bergen. Sicherheitsexperte Jeffrey Lewis über die Risiken einer solchen Mission.",
           "source": "Spiegel"
         },
         {
-          "title": "EU-Topdiplomatin Kaja Kallas: »Die USA wollen Europa spalten«",
-          "url": "https://www.spiegel.de/politik/eu-topdiplomatin-kaja-kallas-die-usa-wollen-europa-spalten-a-eeebad4c-e968-4768-8fb9-5bbb192536fc#ref=rss",
-          "summary": "EU-Topdiplomatin Kaja Kallas erhebt in einem Interview harte Vorwürfe gegen Washington: Die USA arbeiteten aktiv an der Zersetzung der EU. Und ihre Methoden seien die von regelrechten Gegnern.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "China und USA gehen vor Handelsgesprächen in Paris aufeinander los",
-          "url": "https://www.spiegel.de/wirtschaft/china-und-usa-gehen-vor-handelsgespraechen-in-paris-aufeinander-los-a-5d906491-f0cc-4131-9d1a-1498fd4e2597#ref=rss",
-          "summary": "Die Untersuchung der USA zu möglichen Überkapazitäten seiner Handelspartner schlägt hohe Wellen. Die chinesische Regierung ist empört, Indien legt sogar ein fertiges Abkommen auf Eis.",
+          "title": "Deutsche Bahn: »Joker-Gleise« für mehr Pünktlichkeit - Taskforce schlägt 22 Maßnahmen vor",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-joker-gleise-fuer-mehr-puenktlichkeit-taskforce-schlaegt-22-massnahmen-vor-a-51daac21-73cf-41a2-97f5-ae367aaf3ec5#ref=rss",
+          "summary": "Monatelang hat eine Expertengruppe über Schritte gegen die Verspätungen der Bahn beraten. Nun macht sie nach SPIEGEL-Informationen Vorschläge für überlastete Bahnhöfe. Eine zentrale Forderung weist die Taskforce aber zurück.",
           "source": "Spiegel"
         }
       ]
@@ -52,45 +52,22 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Deutschland schnürt neues \"Patriot\"-Paket für Ukraine",
-          "url": "https://www.tagesschau.de/inland/patriot-ukraine-100.html",
-          "summary": "Die russischen Angriffe auf die Ukraine dauern an. Kiew setzt weiter auf Hilfen - und auf Deutschland. Zurzeit arbeitet die Bundesregierung an einem Paket für die Luftverteidigung. Von Mario Kubina.",
+          "title": "Nach Brandanschlag auf Synagoge in Rotterdam wächst die Angst",
+          "url": "https://www.tagesschau.de/ausland/europa/anschlag-synagoge-rotterdam-100.html",
+          "summary": "In Rotterdam wird vor einer Synagoge Feuer gelegt. Wenig später werden vier Verdächtige festgenommen. Die jüdische Gemeinschaft und Politiker sind schockiert.",
           "source": "Tagesschau"
         },
         {
-          "title": "Marktbericht: DAX inmitten von Konjunktur- und Inflationssorgen",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-notenbanken-geldpolitik-oel-100.html",
-          "summary": "Seit Beginn des Iran-Krieges vor knapp zwei Wochen wechseln sich bei Anlegern zwei Sorgen ab: die um die wirtschaftliche Erholung mit der wegen steigender Preise. Heute gibt es beides.",
+          "title": "EU hält an Russland-Sanktionen fest",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-198.html",
+          "summary": "Auch nach der Entscheidung der USA, die Sanktionen gegen russische Öl-Exporte vorübergehend zu lockern, will die Europäische Union an ihren Maßnahmen festhalten. Eine geschlossene Haltung gibt es allerdings weiterhin nicht. Von Thomas Spickhofen.",
           "source": "Tagesschau"
         },
         {
-          "title": "Krieg in Nahost: Israel greift Ziele in Teheran und Libanon an",
-          "url": "https://www.tagesschau.de/ausland/asien/lage-nahost-angriffe-teheran-100.html",
-          "summary": "Tag des Krieges gegen Iran hat die israelische Armee erneut Teheran bombardiert. Auch mutmaßliche Hisbollah-Ziele im Libanon wurden attackiert. Dabei sollen mehrere Menschen getötet worden sein.",
+          "title": "Kriminalität durch KI: Wie die EU gegen Deepfakes vorgehen will",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-deepfakes-100.html",
+          "summary": "Künstlich generierte Bilder einer Person - sogenannte Deepfakes - werden immer häufiger für Betrugsmaschen genutzt. Die EU will dagegen vorgehen. Ein möglicher Weg: das Urheberrecht. Von Jean-Marie Magro.",
           "source": "Tagesschau"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Mini-Gehirn aus der Petrischale lernt virtuellen Stab zu balancieren",
-          "url": "https://www.telepolis.de/article/Mini-Gehirn-aus-der-Petrischale-lernt-virtuellen-Stab-zu-balancieren-11210213.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Ein winziges Stück Hirngewebe lernte, einen Stab zu balancieren – und schaffte es in fast jedem zweiten Versuch.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "US-Tankflugzeug über dem Irak abgestürzt",
-          "url": "https://www.telepolis.de/article/US-Tankflugzeug-ueber-dem-Irak-abgestuerzt-11210025.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Ein US-Tankflugzeug stürzte über dem Irak ab. Sechs Personen an Bord. Ob sie überlebten, ist unklar. Über die Ursache gibt es widersprüchliche Angaben.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "Drohnenkrieg der Kartelle: Was Mexiko über die Zukunft moderner Kriege verrät",
-          "url": "https://www.telepolis.de/article/Drohnenkrieg-der-Kartelle-Was-Mexiko-ueber-die-Zukunft-moderner-Kriege-verraet-11209732.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Drohnen, Narco-Subs, Fronttraining in der Ukraine: Mexikos Kartelle entwickeln Waffen nach einer neuen Logik – ohne Staat, ohne Ideologie, nach Marktprinzip.",
-          "source": "Telepolis"
         }
       ]
     },
@@ -98,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nahost: Vier US-Soldaten bei Flugzeugabsturz getötet",
+          "title": "Nahost: Sechs US-Soldaten bei Flugzeugabsturz getötet",
           "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-usa-tankflugzeug-absturz-irak-tote-soldaten-li.3395676",
           "summary": "Eine irakische Miliz behauptet, das Flugzeug abgeschossen zu haben. Laut US-Angaben soll feindlicher Beschuss nicht Grund für den Absturz gewesen sein.",
           "source": "SZ"
         },
         {
-          "title": "Konjunktur: Panik in der Chemieindustrie",
-          "url": "https://www.sueddeutsche.de/wirtschaft/verband-der-chemischen-industrie-vci-basf-wacker-wolfgang-grosse-entrup-steamcracker-li.3451276",
-          "summary": "Die Blockade der Straße von Hormus trifft die Chemieunternehmen empfindlich. Es geht um viel mehr als Erdöl. Was passiert, wenn zum Beispiel Helium für die Produktion von Halbleitern fehlt?",
+          "title": "Sven Ulreich beim FC Bayern: Der Mann, der da ist, wenn man ihn braucht",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-leverkusen-ulreich-li.3452236",
+          "summary": "Nach einer persönlich schweren Zeit und 537 Tagen steht Sven Ulreich wieder im Tor des FC Bayern. Die ewige Nummer zwei hat sich neu erfunden: als Nummer drei und Stimmungsbeauftragter im Torwartteam.",
           "source": "SZ"
         },
         {
-          "title": "Bundespolitik: Berater von Wirtschaftsministerin Reiche für Fracking in Deutschland",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-fracking-reiche-energie-gas-li.3389487",
-          "summary": "Umweltschützer sind gegen Gasförderung per Fracking. Doch wegen der Iran-Krise im Energiebereich schlagen Berater der Wirtschaftsministerin eine Prüfung vor.",
+          "title": "Leute: „Unbeschreibliche Hölle“",
+          "url": "https://www.sueddeutsche.de/panorama/morrissey-konzertabsage-laerm-valencia-li.3452193",
+          "summary": "Morrissey hat eine unruhige Nacht in Valencia, Atze Schröder steht gerne früh auf, und Heino will noch bis zu seinem 100. Geburtstag am Ballermann singen.",
           "source": "SZ"
         }
       ]
