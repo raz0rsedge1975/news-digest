@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-13T07:01:46.304Z",
-  "timestamp": "13.3.2026, 08:01:46",
+  "generated": "2026-03-13T09:00:30.127Z",
+  "timestamp": "13.3.2026, 10:00:30",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Sisyphusarbeit im Krieg: Wie Ukrainer ihre Trafostationen aufbauen – immer wieder",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-energieunternehmen-bauen-ihre-trafo-stationen-wieder-auf-immer-wieder-accg-110852510.html",
+          "summary": "Unaufhörlich zerbombt Russland ukrainische Energieanlagen. Die Reparaturteams der Energieunternehmen beseitigen Schäden. Doch sie kommen kaum hinterher.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Junge Ukrainer in der Armee: „Drohnen beherrschen alles“",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-warum-junge-ukrainer-freiwillig-zur-armee-gehen-110849251.html",
+          "summary": "Während viele junge Ukrainer das Land verlassen, gehen andere freiwillig zur Armee. An der Front erwarten sie Kälte, Drohnenterror und Todesangst.",
+          "source": "FAZ"
+        },
+        {
           "title": "Liveblog Irankrieg: USA erlauben zeitweise Kauf von russischem Öl",
           "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-usa-erlauben-zeitweise-kauf-von-russischem-oel-faz-200583539.html",
-          "summary": "US-Finanzminister verkündet Ausnahme von Sanktionen +++ Deutschland wäre laut Studie Hauptziel von Iran-Flüchtenden +++ Trump bezeichnet Irans Regime als „gestörte Drecksäcke“ +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "Tomahawk auf Mädchenschule: Trumps dumme Lüge",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/tomahawk-auf-maedchenschule-trumps-dumme-luege-110852346.html",
-          "summary": "Im Krieg können Zivilisten versehentlich ins Visier geraten. Das ist dann schlimm, aber noch kein Verbrechen. Was sich aber für ein zivilisiertes Land verbietet, ist, was Trump getan hat.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Spritpreisdeckel in Frankreich: Bei 1,99 Euro pro Liter ist Schluss",
-          "url": "https://www.faz.net/aktuell/wirtschaft/oelpreis-total-deckelt-spritpreis-auf-1-99-euro-accg-110852700.html",
-          "summary": "Die französische Regierung erhöht den Druck auf die Mineralölwirtschaft. Sie sanktioniert Transparenzverstöße und ringt den Händlern Preissenkungen ab.",
+          "summary": "US-Finanzminister verkündet Ausnahme von Sanktionen +++ US-Armee: Betankungsflugzeug über dem Westen des Irak abgestürzt +++ Trump bezeichnet Irans Regime als „gestörte Drecksäcke“ +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -41,56 +41,10 @@
           "source": "Spiegel"
         },
         {
-          "title": "Baden-Württemberg: Warum vielen Türkeistämmigen Cem Özdemirs Erfolg nicht passt",
-          "url": "https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-warum-vielen-tuerkeistaemmigen-cem-oezdemirs-erfolg-nicht-passt-a-ec7a1bc0-3b35-43f3-8413-b70a507520f3#ref=rss",
-          "summary": "Sie beschimpfen ihn als »Verräter« oder »assimilierte Bokwurst«. Der Erfolg des grünen Politikers provoziert in der türkischen Community so einige. Ihre Haltung ist ein Problem für diese Gesellschaft.",
+          "title": "»Katastrophen-Curriculum«: Welche Rolle sollen Schulen in Notlagen spielen?",
+          "url": "https://www.spiegel.de/panorama/bildung/katastrophen-curriculum-welche-rolle-sollen-schulen-in-notlagen-spielen-a-12c94a76-0f8e-4eee-9cbc-3a595b956b2d#ref=rss",
+          "summary": "Forscher haben einen Plan für Unterricht in Krisenzeiten entwickelt. Didaktikprofessorin Anja Besand sagt, wie Kinder schlimme Ereignisse verarbeiten – und was neben Mathe und Deutsch im Notfall zählt.",
           "source": "Spiegel"
-        }
-      ]
-    },
-    {
-      "source": "Tagesschau",
-      "headlines": [
-        {
-          "title": "Aberglaube: Ist Freitag, der 13., wirklich ein Unglückstag?",
-          "url": "https://www.tagesschau.de/wissen/forschung/freitag-der-13-100.html",
-          "summary": "Die 13 gilt als Unglückszahl - nicht nur am Freitag: Fluggesellschaften haben keine Reihe 13. Bei vielen Fußballmannschaften gibt es keinen Spieler mit der Nummer 13. Wieso glauben Menschen daran? Von Anke Mautner-Culetto.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Marktbericht: DAX vor stabilem Handelsstart",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-notenbanken-geldpolitik-oel-100.html",
-          "summary": "Im DAX deuten sich leichte Gewinne an, auch auf Wochensicht könnte der deutsche Leitindex zulegen. Aber die Lage bleibt kritisch, schlechte Nachrichten können die Anleger jederzeit zum Verkauf zwingen.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Mann steuert Auto in Synagoge in Michigan - FBI ermittelt",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-synagoge-michigan-100.html",
-          "summary": "Im Großraum Detroit hat ein Mann sein Fahrzeug in eine Synagoge gerammt. Das FBI ermittelt wegen des Verdachts auf einen \"gezielten Gewaltakt gegen die jüdische Gemeinschaft\". Der Fahrer wurde nach Polizeiangaben getötet.",
-          "source": "Tagesschau"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Chiles neuer Präsident und der Schatten Pinochets",
-          "url": "https://www.telepolis.de/article/Chiles-neuer-Praesident-und-der-Schatten-Pinochets-11208600.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Chile hat einen neuen Präsidenten: José Antonio Kast. Der rechte Politiker gewann mit 58 Prozent der Stimmen. Sein Verhältnis zu Pinochet spaltet das Land.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "Trump prüft neue Zölle gegen Deutschland",
-          "url": "https://www.telepolis.de/article/Trump-prueft-neue-Zoelle-gegen-Deutschland-11209108.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Washington sucht einen legalen Weg, um gekippte Zölle zu ersetzen. Chemie, Maschinenbau und Autos aus Deutschland geraten erneut ins Visier.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "KI und Weltpolitik: Warum Chatbots oft falsche Antworten liefern",
-          "url": "https://www.telepolis.de/article/KI-und-Weltpolitik-Warum-Chatbots-oft-falsche-Antworten-liefern-11209038.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Eine Studie zeigt: Herkunft, Trainingsdaten und politische Kontrolle prägen die Antworten von Chatbots stärker als überprüfbare Fakten.",
-          "source": "Telepolis"
         }
       ]
     }
