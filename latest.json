@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-14T21:00:36.261Z",
-  "timestamp": "14.3.2026, 22:00:36",
+  "generated": "2026-03-15T09:00:08.880Z",
+  "timestamp": "15.3.2026, 10:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Hilfe bei Drohnenabwehr: Plötzlich hat Selenskyj einen Trumpf",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-und-der-irankrieg-als-selenskyj-ploetzlich-einen-trumpf-hatte-accg-110853274.html",
+          "summary": "Trump sagt, Selenskyj habe „keine Karten“. Im Drohnenkrieg am Golf zeigt sich: Die Ukraine hat doch etwas, das die Amerikaner brauchen.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Liveblog Irankrieg: Selenskyj: Russland beliefert Iran mit Shahed-Drohnen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-selenskyj-russland-liefert-iran-shahed-drohnen-faz-200583539.html",
+          "summary": "Sollen für Angriffe auf US-Stützpunkte eingesetzt worden sein +++ Israel tötet Dutzende Hizbullah-Milizionäre +++ Trump: Werden mit Partnern Straße von Hormus sicher halten +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ"
+        },
+        {
           "title": "Irankrieg: Die Welt steht vor der Düngerkrise",
           "url": "https://www.faz.net/aktuell/wirtschaft/duengerkrise-durch-irankrieg-das-ende-der-lebensmittelsicherheit-110853231.html",
-          "summary": "Überall ist vom teuren Benzin die Rede. Doch der Irankrieg könnte noch viel schlimmere Folgen haben: das Ende der Lebensmittelsicherheit.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Zum Tod von Jürgen Habermas: Der Mann einer Epoche",
-          "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/juergen-habermas-gestorben-der-mann-einer-ganzen-epoche-accg-200633151.html",
-          "summary": "Er hoffte auf die aufklärerische Kraft der öffentlichen Vernunft, wandte sich aber zum Lebensende wieder dunkleren Aussichten zu – ein Nachruf auf den Soziologen und Philosophen Jürgen Habermas.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Jürgen Habermas gestorben: Er lebte in der „freien Luft der Goethe-Universität“",
-          "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/was-frankfurt-fuer-habermas-bedeutet-hat-accg-200633187.html",
-          "summary": "Drei Mal Frankfurt: In dieser Stadt hat er nach eigenem Bekunden die politisch aufregendste und die wissenschaftlich befriedigendste Zeit erlebt. Unser Autor erinnert sich auch an eine Begegnung mit dem nun verstorbenen Philosophen.",
+          "summary": "Überall ist vom teuren Benzin die Rede. Doch der Irankrieg könnte noch viel schlimmere Folgen haben: das Ende der Ernährungssicherheit.",
           "source": "FAZ"
         }
       ]
@@ -29,22 +29,68 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Katholizismus in der US-Politik: JD Vance und das Christentum",
-          "url": "https://www.spiegel.de/geschichte/katholizismus-in-der-us-politik-jd-vance-und-das-christentum-a-75328293-5b70-442e-9fc1-bed71c2a239d#ref=rss",
-          "summary": "In der Trump-Regierung und dem Obersten Gericht finden sich auffallend viele Katholiken. Besonders Vizepräsident JD Vance beruft sich immer wieder auf seinen Glauben. Nur legt er diesen ganz anders aus als der amerikanische Papst Leo XIV.",
+          "title": "Iran-News am 15. März: Donald Trump - nochmaliger Angriff auf Kharg? Schweiz verbietet US-Überflüge",
+          "url": "https://www.spiegel.de/ausland/iran-news-am-15-maerz-trump-verlangt-hilfe-an-der-strasse-von-hormus-a-3427f964-d345-4ec9-8fab-6355f3e11843#ref=rss",
+          "summary": "Der US-Präsident behauptet, bald würde eine Armada internationaler Kriegsschiffe die Öltransporte absichern. Iran spottet darüber – und die Schweiz verbietet US-Armeeflugzeugen den Überflug über ihr Land. Die Liveanalyse.",
           "source": "Spiegel"
         },
         {
-          "title": "Iran und Ukraine: Donald Trump hat sich verkalkuliert – zu Wladimir Putins Gunsten?",
-          "url": "https://www.spiegel.de/ausland/iran-und-ukraine-donald-trump-hat-sich-verkalkuliert-zu-wladimir-putins-gunsten-a-e6491c58-054e-4452-83bc-660e9f87f2dc#ref=rss",
-          "summary": "Der israelisch-amerikanische Krieg gegen Iran verläuft ganz anders, als der US-Präsident sich das gedacht hatte. Da geht es ihm ein wenig wie Kremlchef Putin. Warum der ökonomisch, militärisch und politisch profitiert.",
+          "title": "News: Ratlose Bundesregierung, Irankrieg, Inflation, Wirtschaftskrise",
+          "url": "https://www.spiegel.de/politik/deutschland/news-ratlose-bundesregierung-irankrieg-inflation-wirtschaftskrise-a-270b8658-a367-4117-b50e-305a4509b001#ref=rss",
+          "summary": "Der Nahe Osten brennt, die Wirtschaft lahmt, Inflation droht – aber die Regierung hat weder Trost noch Ideen anzubieten. Das ist die Lage am Sonntag.",
           "source": "Spiegel"
         },
         {
-          "title": "Jürgen Habermas ist tot: Niemand verstand die Bundesrepublik wie er - Nachruf",
-          "url": "https://www.spiegel.de/kultur/juergen-habermas-ist-tot-niemand-verstand-die-bundesrepublik-wie-er-nachruf-a-b6b55c21-ce48-4238-b041-def760073243#ref=rss",
-          "summary": "Jürgen Habermas war der einflussreichste deutsche Denker seit 1945, bis zuletzt stürzte er sich mit Leidenschaft in jede Debatte. Erinnerungen an einen, der immer schlauer war als seine schlauesten Kritiker.",
+          "title": "Alzheimer: Wie Darmbakterien dem Gedächtnis schaden",
+          "url": "https://www.spiegel.de/wissenschaft/medizin/alzheimer-wie-darmbakterien-dem-gedaechtnis-schaden-a-c14e1aec-5c91-4b63-ac94-fb45f1194fe3#ref=rss",
+          "summary": "Menschen mit gestörtem Mikrobiom haben im Alter ein größeres Risiko für geistigen Abbau und Alzheimer. Neue Studien zeigen, was dagegen helfen könnte.",
           "source": "Spiegel"
+        }
+      ]
+    },
+    {
+      "source": "Tagesschau",
+      "headlines": [
+        {
+          "title": "Iran-Liveblog: ++  Festnahmen in Iran wegen angeblicher Israel-Spionage  ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-100.html",
+          "summary": "Im Iran sind nach Angaben der Behörden zwanzig Menschen unter dem Vorwurf der Zusammenarbeit mit Israel festgenommen worden. Mehrere Golfstaaten melden erneut iranische Angriffe.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Sachsen-Anhalts Ministerpräsident Schulze fordert Senkung der Energiesteuer",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/schulze-energiesteuer-100.html",
+          "summary": "Spritpreise von mehr als zwei Euro: Um diese zu senken, hat sich Sachsen-Anhalts Ministerpräsident Schulze für eine Senkung der Energiesteuer ausgesprochen. Die Bundeskasse dürfe sich nicht an der Ölpreiskrise bereichern.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "CSU-Chef Söder fordert Rückkehr zur Atomkraft mit Mini-AKW in Bayern",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/atomkraft-bayern-soeder-csu-wirbt-fuer-mini-akw-100.html",
+          "summary": "Die EU will wieder verstärkt in Atomkraft investieren. CSU-Chef Markus Söder unterstützt das auch für Deutschland - und schlägt ein Pilotprojekt in Bayern vor. In der Regierung ist das Thema jedoch umstritten.",
+          "source": "Tagesschau"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Deutschlands fossiler Rückwärtsgang im falschen Moment",
+          "url": "https://www.telepolis.de/article/Deutschlands-fossiler-Rueckwaertsgang-im-falschen-Moment-11205320.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Deutschland setzt auf fossile Energie – im falschen Moment. Während Mineralölkonzerne den Markt verlassen, steigen die Preise durch globale Krisen.",
+          "source": "Telepolis"
+        },
+        {
+          "title": "Der Iran-Krieg ist Putins bestes Konjunkturprogramm",
+          "url": "https://www.telepolis.de/article/Der-Iran-Krieg-ist-Putins-bestes-Konjunkturprogramm-11209842.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Explodierende Öl- und Gaspreise füllen Moskaus Kassen – je länger die Straße von Hormus gesperrt bleibt, desto mehr profitiert Russland.",
+          "source": "Telepolis"
+        },
+        {
+          "title": "Exzellenz in Deutschland: Hoher Anspruch, mediokre Ergebnisse",
+          "url": "https://www.telepolis.de/article/Exzellenz-in-Deutschland-Hoher-Anspruch-mediokre-Ergebnisse-11211115.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Universitäten, Rankings, Innovationsdebatten: Deutschland beschwört Exzellenz. Doch zwischen Qualitätssiegeln und Regeln bleibt eine unbequeme Frage.",
+          "source": "Telepolis"
         }
       ]
     },
@@ -52,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Neue RTL-Show: Familienfernsehen wie früher",
+          "url": "https://www.sueddeutsche.de/medien/barbara-schoeneberger-rtl-show-raab-li.3449695",
+          "summary": "Barbara Schöneberger und Stefan Raab präsentieren bei RTL mit „Wer weiß wie wann was war“ eine Samstagabendshow wie aus besseren Fernsehtagen: aufwendig, witzig und erstaunlich liebevoll gemacht. Dass ausgerechnet Raab daran wieder Freude findet, ist fast die schönste Pointe.",
+          "source": "SZ"
+        },
+        {
           "title": "Stimmen zum Tod von Jürgen Habermas: „Unser Land verdankt ihm unendlich viel“",
           "url": "https://www.sueddeutsche.de/kultur/stimmen-zum-tod-von-habermas-merz-steinmeier-benhabib-muenkler-bude-li.3452832",
-          "summary": "Der Tod des großen Philosophen Jürgen Habermas bewegt die Welt. Reaktionen und Gedanken von Friedrich Merz, Herfried Münkler, Seyla Benhabib und anderen.",
+          "summary": "Der Tod des großen Philosophen Jürgen Habermas bewegt die Welt. Reaktionen und Gedanken von Friedrich Merz, Herfried Münkler, Eva Illouz, Ivan Krăstev und anderen.",
           "source": "SZ"
         },
         {
           "title": "Leverkusens 1:1 gegen Bayern: Ein Brachialakt von einem Fußballspiel",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-leverkusen-bundesliga-li.3452446",
           "summary": "Zwei Münchner Platzverweise, aberkannte Tore und ein starker Sven Ulreich: Die Bayern sind nach einem turbulenten Spiel in Leverkusen froh über ein Remis – der Schiedsrichter muss sich einiges anhören.",
-          "source": "SZ"
-        },
-        {
-          "title": "26. Spieltag der Bundesliga: Hoffenheim verdirbt Heckings Debüt, der BVB feiert einen 18-Jährigen",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-26-spieltag-zusammenfassung-ergebnisse-li.3452445",
-          "summary": "Lange sieht es für den VfL gut aus mit dem neuen Nothelfer auf der Trainerbank, doch dann folgt ein Kopfball der TSG. Beim BVB überrascht ein Italiener und in Frankfurt geht es vorwärts. Das Wichtigste zum Spieltag.",
           "source": "SZ"
         }
       ]
