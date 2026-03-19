@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-19T18:02:12.313Z",
-  "timestamp": "19.3.2026, 19:02:12",
+  "generated": "2026-03-19T19:00:13.001Z",
+  "timestamp": "19.3.2026, 20:00:13",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "FRankreichs Außenminister Barrot: „Es handelt sich um einen Einsatz der Willigen“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/einsatz-der-willigen-frankreichs-aussenminister-zur-sicherung-der-strasse-von-hormus-200649195.html",
-          "summary": "Frankreich könnte mit Partnern die Straße von Hormus sichern, sagt  Außenminister Barrot. Im Interview mit der F. erklärt er außerdem, warum Europa mit Russland verhandeln sollte.",
+          "title": "Ras Laffan: Gas aus Qatar könnte jahrelang ausfallen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/gas-ist-jetzt-doppelt-so-teuer-wie-vor-dem-krieg-200650576.html",
+          "summary": "Weitreichende Schäden am einzigen Flüssiggasterminal in Qatar nähren die Sorge vor anhaltend hohen Energiepreisen. Nicht nur für die Wiederbefüllung der Speicher im Sommer wird das zu einem großen Problem.",
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Pentagon fordert 200 Milliarden Dollar für Irankrieg",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-pentagon-fordert-200-milliarden-dollar-fuer-irankrieg-faz-200583539.html",
-          "summary": "Hegseth: Man braucht Geld, um Bösewichte zu töten +++ Trump soll vorab von Angriff auf Gasfeld gewusst haben +++ Iran attackiert Öl- und Gasförderanlagen +++ alle Entwicklungen im Liveblog",
+          "title": "Drohung gegen South Pars: Trump bekämpft Feuer mit Feuer",
+          "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-trump-bekaempft-feuer-mit-feuer-200650715.html",
+          "summary": "Eine Bombardierung des größten Gasfeldes der Welt würde auch der Weltwirtschaft schaden. Iran hat den Krieg noch nicht verloren.",
           "source": "FAZ"
         },
         {
-          "title": "Krieg gegen Iran: Einsatz der Gerald R. Ford nach Feuer an Bord unterbrochen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-verdacht-auf-sabotage-des-us-kriegsschiffes-200649270.html",
-          "summary": "Wegen eines Feuers muss das größte Kriegsschiff der Welt, die amerikanische USS Gerald R. Ford, Kreta anlaufen. Die Navy will prüfen, ob es sich um Sabotage handelt.",
+          "title": "Irankrieg eskaliert: Die Lebensader der Golfstaaten steht unter Beschuss",
+          "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-energieversorgung-am-golf-unter-beschuss-200650763.html",
+          "summary": "Israel greift Irans Energieversorgung an – und Teheran schlägt gegen die Öl- und Gaswirtschaft seiner arabischen Nachbarn zurück. Geht das jetzt so weiter?",
           "source": "FAZ"
         }
       ]
@@ -29,9 +29,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Iran-Krieg und LNG-Anlage in Katar: Angriff auf den Weltgasmarkt",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/iran-krieg-und-lng-anlage-in-katar-angriff-auf-den-weltgasmarkt-a-5b989375-154d-4553-8541-d1865d5af30f#ref=rss",
-          "summary": "Israel bombardiert Irans wichtigstes Erdgasfeld, Iran beschädigt die weltweit größte LNG-Anlage in Katar: Der Krieg in Nahost eskaliert bedenklich. Was bedeutet das für die Weltwirtschaft – und für Sie?",
+          "title": "Rheinland-Pfalz: Schule kämpft gegen absurden Titel als »gefährlichste Schule Deutschlands«",
+          "url": "https://www.spiegel.de/panorama/rheinland-pfalz-schule-kaempft-gegen-absurden-titel-als-gefaehrlichste-schule-deutschlands-a-117ac58e-dac4-47b3-9448-828f90ebcc8c#ref=rss",
+          "summary": "Ein Bericht stempelt eine Brennpunktschule in Rheinland-Pfalz zu Deutschlands schlimmster Anstalt ab. Jetzt patrouillieren Polizisten auf dem Pausenhof. Und die Schule gerät in die Mühlen des Landtagswahlkampfs.",
           "source": "Spiegel"
         },
         {
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Schriftstellerin Poladjan gewinnt Preis der Leipziger Buchmesse",
+          "url": "https://www.tagesschau.de/kultur/buchmesse-leipzig-poladjan-100.html",
+          "summary": "Die Schriftstellerin Katerina Poladjan ist mit dem Belletristik-Preis der Leipziger Buchmesse ausgezeichnet worden. Geehrt wurde sie für ihr Werk \"Goldstrand\". Bereits 2022 stand sie auf der Shortlist.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Marktbericht: Nahost-Eskalation zwingt Börsen in die Knie",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-110.html",
           "summary": "Der eskalierende Nahost-Krieg treibt die Energiepreise nach oben und hält die Aktienmärkte in Atem. Anleger nahmen heute Reißaus: Der DAX rutschte unter die Marke von 23. 000 Punkten.",
@@ -61,12 +67,6 @@
           "title": "Hormus-Blockade trifft europäische Länder unterschiedlich stark",
           "url": "https://www.tagesschau.de/ausland/asien/hormus-blockade-laender-100.html",
           "summary": "Seit Ende Februar ist die Straße von Hormus durch Irans Militär de facto gesperrt. Das hat massive Auswirkungen auf den weltweiten Öl- und Flüssiggastransport. Während Deutschland vergleichsweise glimpflich davon kommt, trifft es andere Länder härter.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Falsche Gerüchte über den Tod Netanjahus",
-          "url": "https://www.tagesschau.de/faktenfinder/netanjahu-falsche-geruechte-100.html",
-          "summary": "In den sozialen Netzwerken verbreitet sich das Gerücht, Israels Regierungschef sei tot. Aktuelle Videos von Netanjahu seien KI-generiert. KI-Experten haben das Material analysiert. Reveland und K. Wesolowski.",
           "source": "Tagesschau"
         }
       ]
@@ -110,9 +110,9 @@
           "source": "SZ"
         },
         {
-          "title": "Literatur: Preis der Leipziger Buchmesse geht an Katerina Poladjan",
-          "url": "https://www.sueddeutsche.de/kultur/leipzig-buchmesse-buchpreis-poladjan-calic-gmeiner-li.3454524",
-          "summary": "Sie gewinnt mit „Goldstrand“ in der Kategorie Belletristik. Die weiteren Auszeichnungen in den Kategorien Sachbuch und Übersetzung bekommen Marie-Janine Calic und Manfred Gmeiner.",
+          "title": "Freizeit: Outdoor-Accessoires für einen stilvollen Start in den Frühling",
+          "url": "https://www.sueddeutsche.de/stil/garten-moebel-inspiration-outdoor-li.3381525",
+          "summary": "Schön, dass die Natur endlich aufblüht. Noch schöner wird’s mit den passenden Möbeln für Balkon und Garten – fünf Ideen.",
           "source": "SZ"
         }
       ]
