@@ -1,10 +1,16 @@
 {
-  "generated": "2026-03-19T20:02:10.662Z",
-  "timestamp": "19.3.2026, 21:02:10",
+  "generated": "2026-03-19T21:00:05.177Z",
+  "timestamp": "19.3.2026, 22:00:05",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Straße von Hormus: Trump will die Meerenge allein sichern – aber mit welchen Schiffen?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-trump-ohne-schiffe-um-strasse-von-hormus-zu-sichern-200650658.html",
+          "summary": "Trump ist wütend auf die NATO und will die Meerenge nun allein vor Iran schützen. Wichtige Schiffe zur Minenabwehr befinden sich derzeit aber gar nicht im Nahen Osten – sondern in Malaysia.",
+          "source": "FAZ"
+        },
         {
           "title": "Ras Laffan: Gas aus Qatar könnte jahrelang ausfallen",
           "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/gas-ist-jetzt-doppelt-so-teuer-wie-vor-dem-krieg-200650576.html",
@@ -16,12 +22,6 @@
           "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-trump-bekaempft-feuer-mit-feuer-200650715.html",
           "summary": "Eine Bombardierung des größten Gasfeldes der Welt würde auch der Weltwirtschaft schaden. Iran hat den Krieg noch nicht verloren.",
           "source": "FAZ"
-        },
-        {
-          "title": "Irankrieg eskaliert: Die Lebensader der Golfstaaten steht unter Beschuss",
-          "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-energieversorgung-am-golf-unter-beschuss-200650763.html",
-          "summary": "Israel greift Irans Energieversorgung an – und Teheran schlägt gegen die Öl- und Gaswirtschaft seiner arabischen Nachbarn zurück. Geht das jetzt so weiter?",
-          "source": "FAZ"
         }
       ]
     },
@@ -29,9 +29,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Rheinland-Pfalz: Schule kämpft gegen absurden Titel als »gefährlichste Schule Deutschlands«",
-          "url": "https://www.spiegel.de/panorama/rheinland-pfalz-schule-kaempft-gegen-absurden-titel-als-gefaehrlichste-schule-deutschlands-a-117ac58e-dac4-47b3-9448-828f90ebcc8c#ref=rss",
-          "summary": "Ein Bericht stempelt eine Brennpunktschule in Rheinland-Pfalz zu Deutschlands schlimmster Anstalt ab. Jetzt patrouillieren Polizisten auf dem Pausenhof. Und die Schule gerät in die Mühlen des Landtagswahlkampfs.",
+          "title": "Iran-Krieg: Israel und USA überlegen, Spezialkräfte das Uran sichern zu lassen",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-israel-und-usa-ueberlegen-spezialkraefte-das-uran-sichern-zu-lassen-a-7807c700-0ab2-4b6f-b93e-2abe40482348#ref=rss",
+          "summary": "Israel und die USA erwägen, Irans waffenfähiges Kernmaterial von Spezialkräften sichern zu lassen. Gegen einen solchen Einsatz wirkt die Entführung des Präsidenten in Venezuela wie ein Spaziergang. Es drohen hohe Verluste.",
           "source": "Spiegel"
         },
         {
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "News des Tages: Collien Fernandes kämpft gegen digitale Gewalt, Ideen für pünktlichere Züge, ukrainischer Seehandel",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-collien-fernandes-kaempft-gegen-digitale-gewalt-ideen-fuer-puenktlichere-zuege-ukrainischer-seehandel-a-f404341b-f08f-4a67-9510-08b41eaa3b8d#ref=rss",
-          "summary": "Wie die Ukraine im Krieg erfolgreich Seehandel treibt. Weshalb Collien Fernandes ihren Ex-Mann Christian Ulmen anzeigt. Und mit welchen Tricks die Deutsche Bahn aus der Verspätungsmisere finden soll. Das ist die Lage am Donnerstagabend.",
+          "title": "Rheinland-Pfalz: Schule kämpft gegen absurden Titel als »gefährlichste Schule Deutschlands«",
+          "url": "https://www.spiegel.de/panorama/rheinland-pfalz-schule-kaempft-gegen-absurden-titel-als-gefaehrlichste-schule-deutschlands-a-117ac58e-dac4-47b3-9448-828f90ebcc8c#ref=rss",
+          "summary": "Ein Bericht stempelt eine Brennpunktschule in Rheinland-Pfalz zu Deutschlands schlimmster Anstalt ab. Jetzt patrouillieren Polizisten auf dem Pausenhof. Und die Schule gerät in die Mühlen des Landtagswahlkampfs.",
           "source": "Spiegel"
         }
       ]
