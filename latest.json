@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-19T15:00:05.364Z",
-  "timestamp": "19.3.2026, 16:00:05",
+  "generated": "2026-03-19T16:02:11.776Z",
+  "timestamp": "19.3.2026, 17:02:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "F.A.Z. Exklusiv: EU soll sich auf Grenzschließung vorbereiten",
-          "url": "https://www.faz.net/aktuell/politik/ausland/eu-soll-sich-auf-grenzschliessung-vorbereiten-200649854.html",
-          "summary": "Falls es zu einer neuen Flüchtlingskrise kommt, soll die EU drastische Maßnahmen ergreifen. Das fordern die Ministerpräsidentinnen Giorgia Meloni und Mette Frederiksen in einem Brief, der der F.A.Z. vorliegt.",
+          "title": "Geld für Kiew: Costa nimmt Orbán in die Mangel, doch der bleibt hart",
+          "url": "https://www.faz.net/aktuell/politik/ausland/viktor-orban-blockiert-ukraine-kredit-streit-im-eu-rat-200650779.html",
+          "summary": "Neunzig Minuten haben die Staats- und Regierungschefs dem ungarischen Regierungschef schwere Vorhaltungen gemacht. Genutzt hat es nichts.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Hilfe für Kiew: Wie sich der Widerstand gegen einen Reparationskredit überwinden ließe",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/eine-loesung-fuer-den-reparationskredit-fuer-kiew-110855622.html",
+          "summary": "Belgien war dagegen, das eingefrorene russische Vermögen für die Ukraine zu nutzen. Es wurde von Moskau unter Druck gesetzt. Aber es gäbe eine Lösung.",
           "source": "FAZ"
         },
         {
           "title": "Liveblog Irankrieg: Pentagon fordert 200 Milliarden Dollar für Irankrieg",
           "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-pentagon-fordert-200-milliarden-dollar-fuer-irankrieg-faz-200583539.html",
           "summary": "Hegseth: Man braucht Geld, um Bösewichte zu töten +++ Trump soll vorab von Angriff auf Gasfeld gewusst haben +++ Iran attackiert Öl- und Gasförderanlagen +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "Irankrieg: Warum viele Influencer in Dubai bleiben",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/irankrieg-warum-viele-influencer-trotzdem-in-dubai-bleiben-110855737.html",
-          "summary": "Dubais Traumwelt bröckelt seit den Drohnenangriffen. Doch kaum Influencer äußern sich kritisch. Wollen sie bloß ihr Geschäftsmodell aufrechterhalten?",
           "source": "FAZ"
         }
       ]
@@ -35,15 +35,15 @@
           "source": "Spiegel"
         },
         {
-          "title": "Iran-News heute: Reparatur der attackierten Gasanlagen in Katar soll Jahre dauern",
+          "title": "Iran-News heute: Pistorius schließt Bundeswehreinsatz in der Straße von Hormus nicht aus",
           "url": "https://www.spiegel.de/ausland/iran-news-heute-oelpreis-steigt-nach-iranischen-angriffen-auf-golfstaaten-rasant-an-a-c7c34c39-5358-41c7-82e0-4f778c227746#ref=rss",
-          "summary": "Katar schlägt Alarm: Die beschädigten Anlagen sind normalerweise für 17 Prozent der Flüssiggasexporte verantwortlich. Und: US-Verteidigungsminister Hegseth spricht über ein 200-Milliarden-Dollar-Paket. Die Liveanalyse.",
+          "summary": "Wie könnte sich Deutschland an einer Mission im Persischen Golf beteiligen? Laut Verteidigungsminister Pistorius muss es dafür zumindest einen Waffenstillstand geben. Und: Katar benötigt Jahre für die Reparatur von Gasanlagen. Die Liveanalyse.",
           "source": "Spiegel"
         },
         {
-          "title": "Machtmissbrauch: NRW-Bauministerin Ina Scharrenbach räumt nach SPIEGEL-Bericht Fehler ein",
-          "url": "https://www.spiegel.de/politik/machtmissbrauch-nrw-bauministerin-ina-scharrenbach-raeumt-nach-spiegel-bericht-fehler-ein-a-36fddff5-c771-4dc0-b3fa-a5acd325638b#ref=rss",
-          "summary": "Zahlreiche Mitarbeiter des NRW-Heimatministeriums klagen über ihre Ministerin Ina Scharrenbach. Nach der Veröffentlichung einer SPIEGEL-Recherche äußert sich die CDU-Politikerin selbstkritisch.",
+          "title": "Ukraine und Iran-Krieg: Die Ukraine zeigt der Welt, wie man Häfen im Krieg betreibt",
+          "url": "https://www.spiegel.de/ausland/ukraine-und-irankrieg-die-ukraine-zeigt-der-welt-wie-man-haefen-im-krieg-betreibt-a-b5e1812f-d054-4e55-a5e4-02dda282f9c7#ref=rss",
+          "summary": "Blockierte Routen, Minen, Hackerangriffe: Ukrainische Häfen funktionieren unter Kriegsbedingungen. Betreiber im Nahen Osten lernen davon.",
           "source": "Spiegel"
         }
       ]
@@ -75,6 +75,12 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Die Große Grüne Mauer hält, was sie verspricht",
+          "url": "https://www.telepolis.de/article/Die-Grosse-Gruene-Mauer-haelt-was-sie-verspricht-11211135.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Chinas jahrzehntelanges Aufforstungsprogramm hat eine der größten Wüsten der Welt in einen CO2-Speicher verwandelt. Wie kann das sein?",
+          "source": "Telepolis"
+        },
+        {
           "title": "Entspannung oder volle Eskalation: Der Irankrieg am Scheideweg",
           "url": "https://www.telepolis.de/article/Entspannung-oder-volle-Eskalation-Der-Irankrieg-am-Scheideweg-11217668.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Der Irankrieg steht am Scheideweg. Schläge gegen iranische Funktionäre und hochrangige Rücktritte in den USA. Droht nun die gefürchtete Bodeninvasion?",
@@ -85,18 +91,18 @@
           "url": "https://www.telepolis.de/article/Medien-Weder-Publikum-noch-Akteure-wissen-was-sie-eigentlich-wollen-11217216.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Wo soll sich der Bürger noch verlässlich informieren? Erste Ideen-Pläne für eine europäische Medienplattform – eine Berliner Veranstaltung.",
           "source": "Telepolis"
-        },
-        {
-          "title": "KI-Fehler mit Folgen: Wenn Polizei blind auf Technik vertraut",
-          "url": "https://www.telepolis.de/article/KI-Fehler-mit-Folgen-Wenn-Polizei-blind-auf-Technik-vertraut-11211252.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Zwei Fälle zeigen, wie KI-Systeme bei der Polizei zu gravierenden Fehlern führen. Eine Frau saß monatelang unschuldig im Gefängnis.",
-          "source": "Telepolis"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "EU und Ukraine: In Brüssel wächst die Empörung über Viktor Orbán",
+          "url": "https://www.sueddeutsche.de/politik/orban-eu-gipfel-ukraine-wortbruch-li.3454677",
+          "summary": "Der ungarische Ministerpräsident hält auf dem EU-Gipfel an der Blockade der 90 Milliarden Euro für die Ukraine fest und bricht damit sein Wort.",
+          "source": "SZ"
+        },
         {
           "title": "Krieg in der Ukraine: EU-Gipfel gibt Ukraine-Kredit nicht frei",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-eu-kredit-ungarn-li.3388192",
@@ -107,12 +113,6 @@
           "title": "Öl- und Gaspreise: Was der Angriff auf Irans Gasfeld für die Energieversorgung bedeutet",
           "url": "https://www.sueddeutsche.de/wirtschaft/angriff-iran-gasfeld-auswirkungen-energiemarkt-verbraucher-li.3455309",
           "summary": "Das weltgrößte Gasfeld ist außer Betrieb, eine Exportanlage in Katar ebenso, die Erdöl- und Gaspreise an den Börsen steigen. Die Folgen sind auch in Deutschland spürbar. Ein Überblick.",
-          "source": "SZ"
-        },
-        {
-          "title": "Leute: „Ich mache ein Spiel draus“",
-          "url": "https://www.sueddeutsche.de/panorama/promis-doja-cat-labubu-whoopi-goldberg-li.3455263",
-          "summary": "Doja Cat führt Paparazzi hinters Licht, Whoopi Goldberg geht auch mit 70 noch steil, und Labubu wird ein Kinoheld.",
           "source": "SZ"
         }
       ]
