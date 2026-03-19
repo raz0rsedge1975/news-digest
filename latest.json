@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-19T17:02:10.619Z",
-  "timestamp": "19.3.2026, 18:02:10",
+  "generated": "2026-03-19T18:02:12.313Z",
+  "timestamp": "19.3.2026, 19:02:12",
   "news": [
     {
       "source": "FAZ",
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Marktbericht: Nahost-Eskalation zwingt Börsen in die Knie",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-110.html",
+          "summary": "Der eskalierende Nahost-Krieg treibt die Energiepreise nach oben und hält die Aktienmärkte in Atem. Anleger nahmen heute Reißaus: Der DAX rutschte unter die Marke von 23. 000 Punkten.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Hormus-Blockade trifft europäische Länder unterschiedlich stark",
+          "url": "https://www.tagesschau.de/ausland/asien/hormus-blockade-laender-100.html",
+          "summary": "Seit Ende Februar ist die Straße von Hormus durch Irans Militär de facto gesperrt. Das hat massive Auswirkungen auf den weltweiten Öl- und Flüssiggastransport. Während Deutschland vergleichsweise glimpflich davon kommt, trifft es andere Länder härter.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Falsche Gerüchte über den Tod Netanjahus",
           "url": "https://www.tagesschau.de/faktenfinder/netanjahu-falsche-geruechte-100.html",
           "summary": "In den sozialen Netzwerken verbreitet sich das Gerücht, Israels Regierungschef sei tot. Aktuelle Videos von Netanjahu seien KI-generiert. KI-Experten haben das Material analysiert. Reveland und K. Wesolowski.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Saudi-Arabien und Irak suchen Alternativen zur Straße von Hormus",
-          "url": "https://www.tagesschau.de/ausland/hormus-iran-alternativen-erdoel-100.html",
-          "summary": "Wegen der iranischen Blockade der Straße von Hormus suchen Saudi-Arabien und der Irak nach alternativen Exportwegen. Doch Kapazitäten sind begrenzt und der militärische Arm Irans ist lang. Von Moritz Behrendt.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Orban verhindert auf EU-Gipfel Einigung bei Ukraine-Hilfen",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-orban-ukraine-100.html",
-          "summary": "Ungarn und die Slowakei verhindern weiter milliardenschwere europäische Finanzhilfen für die Ukraine. Beim EU-Gipfel gab es keine Lösung. Wie die Ukraine jetzt an das Geld kommen könnte, ist unklar.",
           "source": "Tagesschau"
         }
       ]
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Kader der DFB-Elf: Frei von unnötigen Visionen",
+          "url": "https://www.sueddeutsche.de/sport/kader-dfb-elf-nagelsmann-kommentar-li.3455444",
+          "summary": "Toni Kroos! Der Worker! Die Stuttgarter! Vor der EM 2024 entwarf Julian Nagelsmann ein paar plakative Ideen für seinen Turnierkader. Zwei Jahre später setzt der Bundestrainer vor allem auf einen Block des FC Bayern – mit einer kuriosen Abweichung.",
+          "source": "SZ"
+        },
+        {
+          "title": "Julian Nagelsmann: Sogar Matze Ginter wird jetzt gelobt",
+          "url": "https://www.sueddeutsche.de/sport/nagelsmann-kader-nominierung-schweiz-stiller-li.3455443",
+          "summary": "Nach seinem umstrittenen Interview findet Julian Nagelsmann fast ausschließlich freundliche Worte für die Spieler, die er für die anstehenden Testländerspiele berufen hat. Eine vermeintliche Einsatzgarantie für Leon Goretzka relativiert er allerdings.",
+          "source": "SZ"
+        },
+        {
           "title": "Literatur: Preis der Leipziger Buchmesse geht an Katerina Poladjan",
           "url": "https://www.sueddeutsche.de/kultur/leipzig-buchmesse-buchpreis-poladjan-calic-gmeiner-li.3454524",
           "summary": "Sie gewinnt mit „Goldstrand“ in der Kategorie Belletristik. Die weiteren Auszeichnungen in den Kategorien Sachbuch und Übersetzung bekommen Marie-Janine Calic und Manfred Gmeiner.",
-          "source": "SZ"
-        },
-        {
-          "title": "Söder stellt keinen Strafantrag: „Hurensohn“-Video: Keine Strafe für Grüne-Jugend-Chef Bobga",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-soeder-bobga-video-instagram-hurensohn-ermittlungen-strafantrag-li.3455629",
-          "summary": "Im Januar sorgte das Video vom Chef der Grünen-Jugend zu CSU-Chef Söder nicht nur für viel Ärger, sondern auch für Ermittlungen. Nun kann er aufatmen.",
-          "source": "SZ"
-        },
-        {
-          "title": "Innere Sicherheit: Wie Geheimdienste die Wirtschaft vor Spionen und Saboteuren schützen wollen",
-          "url": "https://www.sueddeutsche.de/politik/verfassungsschutz-wirtschaft-spionage-beschaeftigte-durchleuchten-li.3455311",
-          "summary": "Länder wie Russland attackieren immer öfter deutsche Unternehmen. Beschäftigte, die mit vertraulichen Informationen arbeiten, müssten genauer durchleuchtet werden, fordern Fachleute. Doch wie weit soll das gehen?",
           "source": "SZ"
         }
       ]
