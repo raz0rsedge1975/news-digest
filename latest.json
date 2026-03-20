@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-20T09:00:04.204Z",
-  "timestamp": "20.3.2026, 10:00:04",
+  "generated": "2026-03-20T11:00:06.952Z",
+  "timestamp": "20.3.2026, 12:00:06",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Bundesinnenminister: Selbst die SPD ist jetzt froh über Alexander Dobrindt",
-          "url": "https://www.faz.net/aktuell/politik/inland/warum-innenminister-dobrindt-selbst-bei-der-spd-so-beliebt-ist-accg-110855168.html",
-          "summary": "Ohne Dobrindt wäre die Bundesregierung wohl nicht zustande gekommen. In der SPD hält man ihn für den einzigen Profi der Union in der Regierung. Wie hat er das geschafft?",
+          "title": "Gefälschte Nacktbilder: Collien Fernandes erhebt schwere Vorwürfe gegen Christian Ulmen",
+          "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/collien-fernandes-erhebt-schwere-vorwuerfe-gegen-christian-ulmen-accg-200652937.html",
+          "summary": "Seit Jahren kursieren gefälschte Profile, Nacktfotos und Sexvideos von Collien Fernandes im Netz. Nun beschuldigt die Schauspielerin ihren Ex-Mann Christian Ulmen. Sein Anwalt spricht von „unwahren Tatsachen“.",
           "source": "FAZ"
         },
         {
-          "title": "F.A.Z.-Elite-Panel: Die Regierung Merz enttäuscht die Eliten",
-          "url": "https://www.faz.net/aktuell/wirtschaft/f-a-z-elite-panel-regierung-merz-enttaeuscht-die-eliten-accg-200650346.html",
-          "summary": "In den Führungsetagen schwindet das Zutrauen in die schwarz-rote Koalition. Die Mehrheit erwartet jedenfalls keine großen Reformen mehr, zeigt die neue Elite-Umfrage, die Allensbach für F. und „Capital“ durchgeführt hat.",
+          "title": "Verbreitung von Deepfake-Porn: „Vom Schamgefühl her macht es keinen Unterschied, ob die Nacktbilder echt sind“",
+          "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/wie-collien-ulmen-fernandes-von-deepfake-porn-betroffen-ist-110180722.html",
+          "summary": "Collien Fernandes kämpft seit Jahren gegen die Verbreitung von gefälschten Nacktfotos und Sexvideos von ihr. Im Dezember 2024 gab sie der F. dieses Interview über ihre Suche nach dem Täter.",
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Reiche kritisiert mögliche Lockerung von US-Sanktionen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-trump-reiche-kritisiert-moegliche-lockerung-von-us-sanktionen-faz-200583539.html",
-          "summary": "Amerikanischer Vorstoß: Handelsbeschränkungen für iranisches Öl aufweichen +++ Trump beklagt mangelnde Unterstützung von der NATO +++ Bericht: US-Kampfflugzeug wohl von iranischem Beschuss getroffen +++  alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: Bericht: USA intensivieren Kampf um Straße von Hormus",
+          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-trump-bericht-usa-intensivieren-kampf-um-strasse-von-hormus-faz-200583539.html",
+          "summary": "Schröder begrüßt Linie von Merz zum Irankrieg +++ Reiche kritisiert mögliche Lockerung von US-Ölsanktionen gegen Iran +++ Bericht: US-Kampfflugzeug wohl von iranischem Beschuss getroffen +++  alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -28,6 +28,12 @@
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Russland: Iran-Krieg spült bis zu 250 Milliarden Dollar in die Kasse von Wladimir Putin",
+          "url": "https://www.spiegel.de/wirtschaft/iran-krieg-spuelt-bis-zu-250-milliarden-dollar-in-putins-kriegskasse-a-d772e2a9-1f8d-408f-a777-a7a0d358c16a#ref=rss",
+          "summary": "Trumps Krieg am Golf lässt Putins Öleinnahmen in die Höhe schnellen. Eine neue Studie zeigt: Ziehen sich die Kämpfe bis September hin, würde das Russland sogar mehr Geld einbringen als nach Beginn der Energiekrise 2022.",
+          "source": "Spiegel"
+        },
         {
           "title": "Deepfakes: Stefanie Hubig erklärt neue Strafmaßnahmen gegen digitale Gewalt",
           "url": "https://www.spiegel.de/politik/deutschland/deepfakes-stefanie-hubig-erklaert-neue-strafmassnahmen-gegen-digitale-gewalt-a-9e85a16d-f2be-4eac-b675-58f2bd29b14d#ref=rss",
@@ -39,12 +45,6 @@
           "url": "https://www.spiegel.de/netzwelt/netzpolitik/collien-fernandes-erstattet-anzeige-gegen-ex-mann-christian-ulmen-a-6abfb991-1665-4469-9c8e-3cc5a2cb4f29#ref=rss",
           "summary": "Schauspielerin Collien Fernandes kämpft gegen Onlinemissbrauch: Sie sucht seit Jahren diejenigen, die Fake-Pornografie von ihr verschicken. Nun hat sie Anzeige gegen ihren Ex-Mann erstattet, den Moderator Christian Ulmen.",
           "source": "Spiegel"
-        },
-        {
-          "title": "Donald Trump will die Öl-Sanktionen gegen Iran lockern – mitten im Krieg",
-          "url": "https://www.spiegel.de/ausland/donald-trump-will-die-oel-sanktionen-gegen-iran-lockern-mitten-im-krieg-a-72391856-8007-4cb8-8d12-b54599ee2096#ref=rss",
-          "summary": "Donald Trump will dem Kriegsgegner Iran offenbar beim Öl entgegenkommen. Das und weitere absurd klingende Ideen zeigen, wie stark der Druck auf den Präsidenten in den USA wächst.",
-          "source": "Spiegel"
         }
       ]
     },
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Abschluss des EU-Gipfels: Ärger über Orban und Iran-Sorgen",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-irankrieg-ukraine-100.html",
-          "summary": "Was bleibt vom EU-Gipfel? Laute Empörung über Orbans Blockade, große Sorgen angesichts des Iran-Krieges und der Folgen und konkrete Ideen für mehr europäische Wettbewerbsfähigkeit. Von Andreas Meyer-Feist.",
+          "title": "Erfolgreichste Band der Welt BTS zurück: Seoul ist in Partylaune",
+          "url": "https://www.tagesschau.de/ausland/asien/bts-musik-rueckkehr-neues-album-100.html",
+          "summary": "Die meistgestreamte Band aller Zeiten ist zurück und die Fans können es kaum erwarten. BTS - sieben junge Männer, Millionen Fans weltweit. In Seoul ist der Hype riesig, das große Konzert steht kurz bevor.",
           "source": "Tagesschau"
         },
         {
-          "title": "IEA drängt in Ölkrise auf Tempolimit und Homeoffice",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/iea-oelkrise-tempolimit-homeoffice-reserven-100.html",
-          "summary": "Tempolimit, Homeoffice, weniger Flüge: Die Internationale Energieagentur IEA setzt angesichts der Ölkrise infolge des Iran-Kriegs auf Verhaltensänderungen zur raschen Senkung des Verbrauchs.",
+          "title": "Marktbericht: DAX startet an großem Verfallstag höher",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-gas-inflation-100.html",
+          "summary": "Der DAX ist zum Wochenschluss höher gestartet, beflügelt von sinkenden Ölpreisen. Allerdings könnte es am heutigen Hexensabbat zu größeren Kursbewegungen kommen, da viele Optionen und Futures verfallen.",
           "source": "Tagesschau"
         },
         {
-          "title": "Iran begeht Feiertage im Krieg: Nowruz und Eid-e-Fetr getrübt",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-fastenbrechen-nowruz-100.html",
-          "summary": "Überschattet vom Krieg in Iran: Mit dem Fastenbrechen beginnt das Zuckerfest, das Eid-e-Fetr. Dazu begehen die Menschen noch das Neujahresfest - doch Stimmung will nicht aufkommen, viele ziehen sich ins Private zurück. Von U. Lueb.",
+          "title": "Hilft das Spritpreis-Paket der Koalition gegen überhöhte Preise?",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spritpreise-mineraloelkonzerne-kartellrecht-100.html",
+          "summary": "Experten halten die aktuellen Spritpreise in Deutschland für verdächtig hoch. Schwarz-Rot will gegensteuern - unter anderem mit neuen Regeln für Tankstellen. Doch gehen die Pläne weit genug? Von Till Bücker.",
           "source": "Tagesschau"
         }
       ]
@@ -99,20 +99,20 @@
       "headlines": [
         {
           "title": "Krieg in der Ukraine: Merz kritisiert Orbán scharf – EU will Ukraine-Kredit trotz Blockade auszahlen",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-eu-kredit-ungarn-merz-orban-kritik-li.3388192",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-eu-kredit-ungarn-merz-orban-li.3388192",
           "summary": "Der Kanzler spricht von einem „Akt grober Illoyalität“ und kündigt Konsequenzen an. EU-Kommissionspräsidentin von der Leyen sagt mit Blick auf die Ukraine: „Wir werden auf die eine oder andere Weise liefern.“",
           "source": "SZ"
         },
         {
           "title": "Nahost: Medien: US-Kampfjet offenbar von iranischem Beschuss getroffen",
-          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-us-kampfjet-angriff-iran-notlandung-li.3395676",
+          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-us-kampfjet-angriff-notlandung-li.3395676",
           "summary": "Das Flugzeug musste offenbar auf einem US-Luftwaffenstützpunkt im Nahen Osten notlanden. Es wäre das erste Mal seit Beginn des Iran-Krieges, dass Iran ein US-Flugzeug getroffen hätte.",
           "source": "SZ"
         },
         {
-          "title": "Krieg gegen Iran: Trump verspricht einen kurzen Krieg – und verlangt gleichzeitig vom Kongress 200 Milliarden dafür",
-          "url": "https://www.sueddeutsche.de/politik/usa-krieg-iran-schulden-200-milliarden-li.3455731",
-          "summary": "Die Trump-Regierung behauptet, im Iran-Krieg laufe alles nach Plan, während die Bilder brennender Gasproduktionsanlagen und Öltanks um die Welt gehen. Die direkten und indirekten Kosten des Krieges bringen den Präsidenten zunehmend in Bedrängnis.",
+          "title": "Energie: Wie kommen die Preise an der Tankstelle zustande?",
+          "url": "https://www.sueddeutsche.de/wirtschaft/spritpreise-einflussfaktoren-entwicklungen-deutschland-li.3455033",
+          "summary": "Super und Diesel weit über zwei Euro, das ist für Menschen in Deutschland die auffälligste Auswirkung des Iran-Kriegs. Wie sich die Preise zusammensetzen, wer wie viel verdient – und was die neuesten Angriffe auf Katar bedeuten.",
           "source": "SZ"
         }
       ]
