@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-20T00:00:13.181Z",
-  "timestamp": "20.3.2026, 01:00:13",
+  "generated": "2026-03-20T03:00:07.826Z",
+  "timestamp": "20.3.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Rheinland-Pfalz: Schule kämpft gegen absurden Titel als »gefährlichste Schule Deutschlands«",
-          "url": "https://www.spiegel.de/panorama/rheinland-pfalz-schule-kaempft-gegen-absurden-titel-als-gefaehrlichste-schule-deutschlands-a-117ac58e-dac4-47b3-9448-828f90ebcc8c#ref=rss",
-          "summary": "Ein Bericht stempelt eine Brennpunktschule in Rheinland-Pfalz zu Deutschlands schlimmster Anstalt ab. Jetzt patrouillieren Polizisten auf dem Pausenhof. Und die Schule gerät in die Mühlen des Landtagswahlkampfs.",
+          "title": "EU-Gipfel: Kanzler Merz und seine Kollegen im Würgegriff von Orbán und Trump",
+          "url": "https://www.spiegel.de/politik/eu-gipfel-kanzler-merz-und-seine-kollegen-im-wuergegriff-von-orban-und-trump-a-5567c300-2f76-4839-997b-715d36c384a9#ref=rss",
+          "summary": "Kanzler Merz wollte beim EU-Gipfel vor allem über Wirtschaftswachstum sprechen. Doch der Irankrieg gefährdet den erhofften Aufschwung. Und Ungarns Premier blockiert Milliardenhilfen für die Ukraine – sehr zum Ärger der Kollegen.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Iran-Liveblog: Israel und Iran setzen Angriffe fort",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html",
+          "summary": "Auch in der Nacht zu Freitag greifen sich Israel und Iran gegenseitig an. Über Opfer ist zunächst nichts bekannt. Kanzler Merz erwartet durch den Krieg einen leichten Anstieg der hiesigen Inflation.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Scharfe Kritik aus der EU nach Orbans \"Nein\" zu Ukraine-Kredit",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-orban-ukraine-102.html",
+          "summary": "Ungarns Regierungschef kämpft in seiner Heimat um die Wiederwahl und blockiert in der EU einen Kredit für die Ukraine. Damit zieht er den Zorn vieler Staatschefs auf sich. Kanzler Merz kündigt Konsequenzen an.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "USA erreichen in Belarus die Freilassung politischer Gefangener",
           "url": "https://www.tagesschau.de/ausland/europa/belarus-gefangene-freilassung-104.html",
           "summary": "Nach direkten Verhandlungen mit den USA lässt Belarus 250 politische Häftlinge frei. Im Gegenzug hebt die US-Regierung einige Sanktionen auf. Präsident Lukaschenko könnte bald sogar persönlich profitieren.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "NRW-Bauministerin Scharrenbach räumt nach Spiegel-Bericht Fehler ein",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/vorwuerfe-machtmissbrauchs-ina-scharrenbach-100.html",
-          "summary": "Gegen NRW-Bauministerin Scharrenbach sind Vorwürfe des Machtmissbrauchs laut geworden. Nun teilte sie mit, sie nehme die Kritik an und werde an ihrem Verhalten arbeiten. Die SPD fordert allerdings weitere Konsequenzen.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Prozess gegen Marius Borg Høiby beendet - Urteil steht noch aus",
-          "url": "https://www.tagesschau.de/ausland/europa/norwegen-prozess-hoiby-beendet-100.html",
-          "summary": "In Norwegen ist der Prozess gegen den Sohn von Kronprinzessin Mette-Marit zu Ende gegangen. Marius Borg Høiby ist unter anderem wegen Vergewaltigung angeklagt. Das Urteil soll Anfang Juni verkündet werden. Von Jana Sinram.",
           "source": "Tagesschau"
         }
       ]
