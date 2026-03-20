@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-19T23:02:07.779Z",
-  "timestamp": "20.3.2026, 00:02:07",
+  "generated": "2026-03-20T00:00:13.181Z",
+  "timestamp": "20.3.2026, 01:00:13",
   "news": [
     {
       "source": "FAZ",
@@ -98,6 +98,12 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in der Ukraine: EU-Gipfel gibt Ukraine-Kredit nicht frei",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-eu-kredit-ungarn-li.3388192",
+          "summary": "Ungarns Ministerpräsident Orbán bekräftigt vor dem EU-Gipfel seine Blockade des 90-Milliarden-Euro-Kredits. Am Ende der Beratungen gibt es deshalb nur eine vage Absichtserklärung, das Land weiterhin zu unterstützen.",
+          "source": "SZ"
+        },
+        {
           "title": "EU-Gipfel und Energiekrise: Dieser Krieg ist auch der Krieg der Europäer",
           "url": "https://www.sueddeutsche.de/politik/eu-iran-krieg-energie-li.3454676",
           "summary": "Die EU-Regierungen halten sich aus dem Krieg gegen Iran tunlichst heraus, sind mit der Energiekrise aber doch: mittendrin. Beim Gipfel in Brüssel wird deutlich, wie gefährlich die Lage für Europa ist.",
@@ -107,12 +113,6 @@
           "title": "Kader der DFB-Elf: Frei von unnötigen Visionen",
           "url": "https://www.sueddeutsche.de/sport/kader-dfb-elf-nagelsmann-kommentar-li.3455444",
           "summary": "Toni Kroos! Der Worker! Die Stuttgarter! Vor der EM 2024 entwarf Julian Nagelsmann ein paar plakative Ideen für seinen Turnierkader. Zwei Jahre später setzt der Bundestrainer vor allem auf einen Block des FC Bayern – mit einer kuriosen Abweichung.",
-          "source": "SZ"
-        },
-        {
-          "title": "Julian Nagelsmann: Sogar Matze Ginter wird jetzt gelobt",
-          "url": "https://www.sueddeutsche.de/sport/nagelsmann-kader-nominierung-schweiz-stiller-li.3455443",
-          "summary": "Nach seinem umstrittenen Interview findet Julian Nagelsmann fast ausschließlich freundliche Worte für die Spieler, die er für die anstehenden Testländerspiele berufen hat. Eine vermeintliche Einsatzgarantie für Leon Goretzka relativiert er allerdings.",
           "source": "SZ"
         }
       ]
