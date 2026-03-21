@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-20T23:00:12.020Z",
-  "timestamp": "21.3.2026, 00:00:12",
+  "generated": "2026-03-21T03:00:06.507Z",
+  "timestamp": "21.3.2026, 04:00:06",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog Irankrieg: Trump: USA stehen kurz davor, Kriegsziele zu erreichen",
+          "title": "Liveblog Irankrieg: USA setzen Sanktionen auf iranisches Öl auf Schiffen aus",
           "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-trump-usa-stehen-kurz-davor-kriegsziele-zu-erreichen-faz-200583539.html",
-          "summary": "Trump: Erwägen Militäreinsatz zurückzufahren +++ USA schicken offenbar Tausende weitere Soldaten in den Nahen Osten +++ Trump beschimpft NATO-Partner wegen mangelnder Unterstützung bei Sicherung der Straße von Hormus +++ alle Entwicklungen im Liveblog",
+          "summary": "Lieferung und Verkauf von iranischen Öl wird vorübergehend erlaubt, soll Preise senken +++ Trump: USA stehen kurz davor, Kriegsziele zu erreichen +++ Trump: Erwägen Militäreinsatz zurückzufahren +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         },
         {
@@ -29,6 +29,12 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Iran-News heute: Donald Trump erwägt nach eigenen Angaben, Militäreinsatz gegen Iran zurückzufahren",
+          "url": "https://www.spiegel.de/ausland/iran-news-heute-donald-trump-erwaegt-nach-eigenen-angaben-militaereinsatz-gegen-iran-zurueckzufahren-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff#ref=rss",
+          "summary": "US-Präsident Trump will die globalen Märkte beruhigen und lockert Sanktionen. Außerdem wird erwogen, den Militäreinsatz gegen Iran zurückzufahren. Und: Kanzler Merz will mit dem US-Präsidenten telefonieren. Die Liveanalyse.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Collien Fernandes – Meinung: Natürlich betrifft es alle Männer",
           "url": "https://www.spiegel.de/panorama/justiz/collien-fernandes-meinung-natuerlich-betrifft-es-alle-maenner-a-52549a0e-379a-430c-bd3e-f367ac501201#ref=rss",
           "summary": "Viele Frauen spüren eine große Wut, wenn sie daran denken, was Schauspielerin Collien Fernandes ertragen musste. Aber wo bleibt die Empörung der Männer?",
@@ -39,18 +45,18 @@
           "url": "https://www.spiegel.de/netzwelt/netzpolitik/collien-fernandes-erstattet-anzeige-gegen-ex-mann-christian-ulmen-a-6abfb991-1665-4469-9c8e-3cc5a2cb4f29#ref=rss",
           "summary": "Schauspielerin Collien Fernandes kämpft gegen Onlinemissbrauch: Sie sucht seit Jahren diejenigen, die Fake-Pornografie von ihr verschicken. Nun hat sie Anzeige gegen ihren Ex-Mann erstattet, den Moderator Christian Ulmen.",
           "source": "Spiegel"
-        },
-        {
-          "title": "Fall Ina Scharrenbach: Staatskanzlei von Hendrik Wüst weiß seit mehr als einem Jahr Bescheid",
-          "url": "https://www.spiegel.de/politik/deutschland/fall-ina-scharrenbach-staatskanzlei-von-hendrik-wuest-weiss-seit-mehr-als-einem-jahr-bescheid-a-00bf90c8-5c4b-43bc-8c95-d155d06a9a42#ref=rss",
-          "summary": "Wie lange schaut Hendrik Wüst schon weg? Die NRW-Staatskanzlei erhielt bereits Anfang 2025 Hinweise auf Mobbing im Haus von Ministerin Ina Scharrenbach.",
-          "source": "Spiegel"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Iran-Liveblog: USA lockern Sanktionen auf iranisches Öl",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html",
+          "summary": "Die USA wollen den stark gestiegenen Ölpreis eindämmen und dazu den Verkauf von iranischem Öl vorübergehend erlauben. Iran greift Israel erneut mit Raketen an.",
+          "source": "Tagesschau"
+        },
         {
           "title": "Großbritannien erlaubt USA im Iran-Krieg Nutzung von Militärbasen",
           "url": "https://www.tagesschau.de/ausland/europa/uk-usa-nutzung-militaerbasen-100.html",
@@ -62,18 +68,18 @@
           "url": "https://www.tagesschau.de/inland/collien-fernandes-interview-ulmen-100.html",
           "summary": "Die Schauspielerin Collien Fernandes wirft ihrem Ex-Mann Christian Ulmen vor, er habe Fake-Profile mit pornografischen Inhalten über sie erstellt. In den tagesthemen fordert sie, Opfer von digitaler Gewalt besser zu schützen.",
           "source": "Tagesschau"
-        },
-        {
-          "title": "Wie kann die Ukraine trotz Ungarns Blockade finanziert werden?",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-finanzierung-ukraine-100.html",
-          "summary": "Nach der Blockade durch Ungarn diskutiert die EU, wie sie die Ukraine weiter finanzieren kann. Die ungarische Wahl Mitte April könnte alles ändern. Doch was, wenn nicht? Und was soll bis dahin geschehen? Von Christian Feld.",
-          "source": "Tagesschau"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Irankrieg: US-Militär bereitet mögliche Bodeninvasion vor",
+          "url": "https://www.telepolis.de/article/Irankrieg-US-Militaer-bereitet-moegliche-Bodenoffensive-vor-11220104.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Das Pentagon bereitet möglichen Einsatz von Bodentruppen im Iran vor. Laut Medienberichten soll die Insel Kharg im Fokus stehen. Ein Überblick.",
+          "source": "Telepolis"
+        },
         {
           "title": "Klimaskeptiker sind lernbereiter als Klimaschützer glauben",
           "url": "https://www.telepolis.de/article/Klimaskeptiker-sind-lernbereiter-als-Klimaschuetzer-glauben-11219924.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
@@ -85,12 +91,6 @@
           "url": "https://www.telepolis.de/article/DNA-als-Festplatte-Forscher-machen-Erbgut-wiederbeschreibbar-11211258.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "US-Forscher verwandeln DNA in eine wiederbeschreibbare Festplatte. Alle Daten der Welt könnten in einen Schuhkarton passen – sicher vor Hackern.",
           "source": "Telepolis"
-        },
-        {
-          "title": "IEA empfiehlt Sparmaßnahmen gegen Ölkrise – Pentagon will Kriegskasse vergrößern",
-          "url": "https://www.telepolis.de/article/IEA-empfiehlt-Sparmassnahmen-gegen-Oelkrise-Pentagon-will-Kriegskasse-vergroessern-11219591.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Die Internationale Energieagentur rät zu Homeoffice und Tempolimits, um die Folgen der Ölkrise abzufedern. Indes stockt Washington die Kriegskasse auf.",
-          "source": "Telepolis"
         }
       ]
     },
@@ -99,7 +99,7 @@
       "headlines": [
         {
           "title": "USA: Merz will mit Trump telefonieren und ihn nach Bad Dürkheim einladen",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-merz-trump-einladung-li.3451443",
+          "url": "https://www.sueddeutsche.de/politik/merz-trump-einladung-li.3451443",
           "summary": "„Ich weiß auch nicht, ob alle ‌davon so begeistert sind“, sagt der Bundeskanzler bei einer Wahlkampfveranstaltung in Rheinland-Pfalz. Merz hatte den US-Präsidenten schon einmal vergeblich in den Ort eingeladen, in dem dessen deutsche Wurzeln liegen.",
           "source": "SZ"
         },
