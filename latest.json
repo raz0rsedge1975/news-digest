@@ -1,10 +1,16 @@
 {
-  "generated": "2026-03-21T07:00:18.853Z",
-  "timestamp": "21.3.2026, 08:00:18",
+  "generated": "2026-03-21T09:00:05.037Z",
+  "timestamp": "21.3.2026, 10:00:05",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "BASF-Chef Markus Kamieth: „Die Chancen auf profitables Wachstum in China sind groß“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/basf-chef-markus-kamieth-wenn-wir-aufhoeren-in-china-zu-investieren-ziehen-wir-uns-aus-der-haelfte-des-weltmarkts-zurueck-accg-200651382.html",
+          "summary": "BASF hat für neun Milliarden Euro ein neues Werk in Fernost gebaut. Jetzt wächst die chinesische Wirtschaft langsamer. Was sagt Konzernchef Markus Kamieth dazu?",
+          "source": "FAZ"
+        },
         {
           "title": "Irankrieg: Laut Donald Trump ist der Sieg in greifbarer Nähe",
           "url": "https://www.faz.net/aktuell/politik/ausland/laut-donald-trump-ist-der-sieg-in-greifbarer-naehe-accg-200656075.html",
@@ -14,13 +20,7 @@
         {
           "title": "Liveblog Irankrieg: USA setzen Sanktionen auf iranisches Öl auf Schiffen aus",
           "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-trump-usa-stehen-kurz-davor-kriegsziele-zu-erreichen-faz-200583539.html",
-          "summary": "Lieferung und Verkauf von iranischen Öl wird vorübergehend erlaubt +++ United Airlines kürzt wegen hoher Spritpreise Flugplan +++ Iran greift britischen Stützpunkt an +++ Trump: USA könnten Angriffe bald zurückzufahren +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "Atomkraft: Deutschland hat wieder eine nukleare Option",
-          "url": "https://www.faz.net/aktuell/politik/inland/kernkraft-deutschland-hat-wieder-eine-nukleare-option-110855610.html",
-          "summary": "Es sind noch viele technische Fragen offen. Aber neue kleine modulare Atomreaktoren könnten dem Klimaschutz dienen und hohe Strompreise senken.",
+          "summary": "Lieferung und Verkauf von iranischem Öl wird vorübergehend erlaubt +++ United Airlines kürzt wegen hoher Spritpreise Flugplan +++ Iran greift britischen Stützpunkt an +++ Trump: USA könnten Angriffe bald zurückfahren +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -35,9 +35,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Iran-News heute: Donald Trump erwägt nach eigenen Angaben, Militäreinsatz gegen Iran zurückzufahren",
+          "title": "Iran-News heute: Iran droht Vereinigten Arabischen Emiraten mit »schweren Angriffen«",
           "url": "https://www.spiegel.de/ausland/iran-news-heute-donald-trump-erwaegt-nach-eigenen-angaben-militaereinsatz-gegen-iran-zurueckzufahren-a-ada3a0c1-bf0d-44a1-a66d-48a23b3223ff#ref=rss",
-          "summary": "US-Präsident Trump will die globalen Märkte beruhigen und lockert Sanktionen. Außerdem wird erwogen, den Militäreinsatz gegen Iran zurückzufahren. Und: Kanzler Merz will mit dem US-Präsidenten telefonieren. Die Liveanalyse.",
+          "summary": "Teheran hat die Vereinigten Arabischen Emirate davor gewarnt, Angriffe von ihrem Territorium aus auf zwei strategisch wichtige Inseln nahe der Straße von Hormus zuzulassen. Und: US-Präsident Trump erwägt, den Militäreinsatz gegen Iran zurückzufahren. Die Liveanalyse.",
           "source": "Spiegel"
         },
         {
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wie eine Grundschule in Cottbus gegen Gewalt vorgeht",
-          "url": "https://www.tagesschau.de/inland/mittendrin/gewalt-schule-cottbus-100.html",
-          "summary": "An einer Cottbuser Grundschule häufen sich Gewalt und Angst unter Schülern. Eltern, Lehrer und Politik suchen nach Lösungen, doch die Lage bleibt angespannt. Von Mirja Fiedler, Sebastian Schiller und Phillipp Manske.",
+          "title": "ARD-Bericht: Taliban-Mitglied leitet afghanische Botschaft Berlin",
+          "url": "https://www.tagesschau.de/ausland/asien/afghanistan-botschaft-berlin-taliban-100.html",
+          "summary": "Ein Mitglied der Taliban ist nach ARD-Recherchen zum Chef der afghanischen Botschaft in Berlin ernannt worden - ohne, dass dies der Bundesregierung mitgeteilt wurde. Deutschland ist damit der erste EU-Staat, in dem die Islamisten faktisch eine Botschaft leiten. Von P. Hornung.",
           "source": "Tagesschau"
         },
         {
-          "title": "Sicherheit, Rüstung, Iran-Krieg: Pistorius besucht Japan",
-          "url": "https://www.tagesschau.de/ausland/asien/pistorius-asien-reise-100.html",
-          "summary": "Verteidigungsminister Pistorius wird heute zu Beginn einer mehrtägigen Asienreise in Japan erwartet. Dabei geht es um die Sicherheit im indopazifischen Raum, um China, Iran und um Rüstungsgeschäfte. Von Ruth Kirchner.",
+          "title": "Rheinland-Pfalz: Wahlkampf ohne Ahrtal",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pflalz-ahrtal-flut-100.html",
+          "summary": "Rheinland-Pfalz wählt am Sonntag zum ersten Mal nach der Flutkatastrophe ein neues Landesparlament. Der Wiederaufbau im Ahrtal spielt keine große Rolle. Vor Ort fühlen sich Viele im Stich gelassen. Von Johannes Baumert.",
           "source": "Tagesschau"
         },
         {
-          "title": "Iran-Liveblog: USA lockern Sanktionen auf iranisches Öl",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html",
-          "summary": "Die USA wollen den stark gestiegenen Ölpreis eindämmen und dazu den Verkauf von iranischem Öl vorübergehend erlauben. Iran greift Israel erneut mit Raketen an.",
+          "title": "Der Versuch, mit \"Herr der Ringe\" zu den Guten zu gehören",
+          "url": "https://www.tagesschau.de/kultur/tolkien-herr-der-ringe-instrumentalisierung-100.html",
+          "summary": "Namen aus \"Der Herr der Ringe\" werden von Sicherheitsfirmen, JD Vance, Peter Thiel, Giorgia Meloni und auch von Einheiten der Bundeswehr verwendet. Ein Versuch, mit Tolkien als Kämpfer für das Gute zu erscheinen? Von Ferdinand Meyen.",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Souveränität gegen Überleben: War Troja noch zu retten?",
+          "url": "https://www.telepolis.de/article/Souveraenitaet-gegen-Ueberleben-War-Troja-noch-zu-retten-11217838.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Troja suchte Schutz bei den Hethitern. Dafür opferte es Souveränität. Doch rettete der Pakt die Stadt – oder vertagte er nur den Untergang?",
+          "source": "Telepolis"
+        },
         {
           "title": "Irankrieg: US-Militär bereitet mögliche Bodeninvasion vor",
           "url": "https://www.telepolis.de/article/Irankrieg-US-Militaer-bereitet-moegliche-Bodenoffensive-vor-11220104.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
@@ -85,18 +91,18 @@
           "url": "https://www.telepolis.de/article/Klimaskeptiker-sind-lernbereiter-als-Klimaschuetzer-glauben-11219924.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Klimaskeptiker lernen schneller um als gedacht. Doch Wissen allein reicht nicht. Was wirklich fehlt, ist überraschend.",
           "source": "Telepolis"
-        },
-        {
-          "title": "DNA als Festplatte: Forscher machen Erbgut wiederbeschreibbar",
-          "url": "https://www.telepolis.de/article/DNA-als-Festplatte-Forscher-machen-Erbgut-wiederbeschreibbar-11211258.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "US-Forscher verwandeln DNA in eine wiederbeschreibbare Festplatte. Alle Daten der Welt könnten in einen Schuhkarton passen – sicher vor Hackern.",
-          "source": "Telepolis"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Bundespolitik: Hubig will gegen KI-Nacktbilder vorgehen – Gesetzentwurf wohl fast fertig",
+          "url": "https://www.sueddeutsche.de/politik/deutschland-news-bundesregierung-liveblog-hubig-ki-nacktbilder-deep-nudes-gesetz-li.3389487",
+          "summary": "Das Erstellen und Verbreiten KI-generierter Nacktbilder und Pornografie, sogenannter Deepfakes, soll nach dem Willen der Bundesjustizministerin in Deutschland künftig strafbar sein.",
+          "source": "SZ"
+        },
         {
           "title": "USA: Unter Trumps Stammwählern rumort es",
           "url": "https://www.sueddeutsche.de/politik/usa-trump-stimmung-waehler-li.3455646",
@@ -107,12 +113,6 @@
           "title": "USA: Bundesrichter kippt Beschränkungen von Pentagon-Reportern",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-pentagon-journalisten-beschraenkungen-bundesrichter-li.3456315",
           "summary": "Keine vertraulichen Informationen erfragen, Berichte vorab freigeben lassen: Mit diesen Auflagen wollte Verteidigungsminister Pete Hegseth die Pentagon-Korrespondenten im Zaum halten. Nun hat ein Bundesrichter ein Machtwort gesprochen.",
-          "source": "SZ"
-        },
-        {
-          "title": "USA: Merz will mit Trump telefonieren und ihn nach Bad Dürkheim einladen",
-          "url": "https://www.sueddeutsche.de/politik/merz-trump-einladung-li.3451443",
-          "summary": "„Ich weiß auch nicht, ob alle ‌davon so begeistert sind“, sagt der Bundeskanzler bei einer Wahlkampfveranstaltung in Rheinland-Pfalz. Merz hatte den US-Präsidenten schon einmal vergeblich in den Ort eingeladen, in dem dessen deutsche Wurzeln liegen.",
           "source": "SZ"
         }
       ]
