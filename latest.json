@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-23T15:00:05.399Z",
-  "timestamp": "23.3.2026, 16:00:05",
+  "generated": "2026-03-23T15:00:23.643Z",
+  "timestamp": "23.3.2026, 16:00:23",
   "news": [
     {
       "source": "FAZ",
@@ -14,7 +14,7 @@
         {
           "title": "Deutsche Bahn: Wie Züge pünktlicher werden sollen",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-bahn-wie-zuege-puenktlicher-werden-sollen-accg-200661417.html",
-          "summary": "Mit 22 Maßnahmen will eine Taskforce die Züge der Deutschen Bahn zu mehr Pünktlichkeit verhelfen. Dabei geht es um „Jokergleise“ und flexiblere Abfahrtszeiten.",
+          "summary": "Eine Taskforce hat 22 Maßnahmen vorgeschlagen, um den Zügen der Deutschen Bahn zu mehr Pünktlichkeit zu verhelfen. Dabei geht es um „Jokergleise“ und flexiblere Abfahrtszeiten.",
           "source": "FAZ"
         },
         {
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "EU besorgt über Berichte zu ungarischer Weitergabe von Infos an Moskau",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-ungarn-informationen-russland-100.html",
+          "summary": "Ungarns Außenminister soll während EU-Gipfeln mit Russlands Führung telefoniert und Informationen durchgestochen haben - das berichtet die Washington Post. Brüssel und Berlin zeigen sich tief besorgt - Ungarn bestreitet die Vorwürfe vehement.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Fall Fernandes: Forderungskatalog gegen sexualisierte Gewalt",
           "url": "https://www.tagesschau.de/inland/gesellschaft/aufruf-sexualisierte-gewalt-frauen-100.html",
           "summary": "Der Fall Collien Fernandes schlägt weiter hohe Wellen. Mehr als 250 bekannte Frauen fordern von der Bundesregierung, das Thema digitale sexualisierte Gewalt anzupacken. In einem Zehn-Punkte-Papier sprechen sie sich für härtere Regeln aus.",
@@ -61,12 +67,6 @@
           "title": "Nach Trump-Äußerungen: Drastische Kurswende an den Börsen",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-inflationsschock-leitzinsen-100.html",
           "summary": "Gleich zu Wochenbeginn erleben die Investoren ein drastisches Auf und Ab: Die begründete Sorge vor einem neuen Inflationsschub wich gegen Mittag der Hoffnung auf eine Deeskalation im Persischen Golf.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Öffnung der Straße von Hormus: Trump verlängert sein Ultimatum an Iran",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-ultimatum-iran-100.html",
-          "summary": "Nach seinem Ultimatum zur Öffnung der Straße von Hormus spricht US-Präsident Trump jetzt von produktiven Gesprächen mit Iran. Es sollen auch nach Ablauf der 48 Stunden vorerst keine Kraftwerke angegriffen werden.",
           "source": "Tagesschau"
         }
       ]
@@ -104,7 +104,7 @@
           "source": "SZ"
         },
         {
-          "title": "Nach Wahl in Rheinland-Pfalz: Klingbeil droht „hartes Ringen“ um Reformen an",
+          "title": "Bundesregierung nach den Landtagswahlen: Union und SPD wollen mit Reformen Stärke zeigen – aber mit welchen?",
           "url": "https://www.sueddeutsche.de/politik/reformen-union-spd-steuerpolitik-altersvorsorge-gesundheit-li.3457088",
           "summary": "Trotz Wahlniederlagen kündigen die Sozialdemokraten Änderungen bei Arbeit, Steuern, Gesundheit und Sozialem an – haben aber andere Ideen als CDU und CSU. Ein Blick auf die Streitpunkte.",
           "source": "SZ"
