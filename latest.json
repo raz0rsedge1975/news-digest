@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-29T08:00:04.539Z",
-  "timestamp": "29.3.2026, 10:00:04",
+  "generated": "2026-03-29T14:00:05.794Z",
+  "timestamp": "29.3.2026, 16:00:05",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Deepfake-Pornografie: Zeigt meiner Freundin mal, was ihr alle mit ihr machen könnt",
-          "url": "https://www.faz.net/aktuell/politik/inland/deepfake-pornos-zeig-meiner-freundin-mal-was-du-aus-ihr-machen-kannst-accg-200678735.html",
-          "summary": "In Chatgruppen erklären Männer einander, wie sie aus Fotos von Frauen Deepfake-Pornographie machen – und prahlen mit den Ergebnissen. Wir haben mitgelesen.",
+          "title": "Verstopfte Praxen: Hausarzt? Kann ich einfach weglassen!",
+          "url": "https://www.faz.net/aktuell/wirtschaft/wie-patienten-ohne-ueberweisung-die-facharztpraxen-verstopfen-accg-200654458.html",
+          "summary": "In kaum einem anderen Land gehen die Menschen so oft zum Arzt wie in Deutschland. Oft werden sie direkt beim Facharzt vorstellig. Die Gesundheitsministerin will das jetzt ändern. Ist das sinnvoll?",
           "source": "FAZ"
         },
         {
-          "title": "Männerforscher über Ulmen: „Wenn Männer sich ‚Feminist‘ nennen, ist das etwas vermessen“",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/sozialpsychologe-rolf-pohl-im-interview-ueber-den-fall-fernandes-accg-200678745.html",
-          "summary": "Schlummert in jedem Mann ein Monster? Zumindest führen viele Männer einen Krieg gegen Frauen, meint der Sozialpsychologe Rolf Pohl. Im Interview spricht er über selbst ernannte Feministen und die tiefe Verankerung von Frauenhass.",
+          "title": "Nach Klingbeils Rede: Der große Reformcheck",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lars-klingbeils-reform-vorschlaege-das-sagen-fachleute-200674876.html",
+          "summary": "Die ersten Vorschläge für Strukturreformen liegen vor. Ob Steuer, Rente oder Krankenversicherung: Vieles könnte sich ändern. Um welche Summen es geht, wen es betrifft und was Fachleute dazu sagen – ein Überblick.",
           "source": "FAZ"
         },
         {
-          "title": "Deepfake-Gesetzesentwurf: Sperrt die Accounts!",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/schutz-vor-sexueller-gewalt-im-netz-sperrt-die-accounts-accg-200677597.html",
-          "summary": "Die Bundesregierung will das Gesetz zum Schutz vor digitaler Gewalt verbessern. Aber gegen die Verbreitung von Fake-Aufnahmen hilft eine Verschärfung des Strafrechts alleine nicht. Einschätzungen von einer Juristin.",
+          "title": "AfD: Chrupalla fordert Abzug der USA aus Deutschland",
+          "url": "https://www.faz.net/aktuell/politik/inland/chrupalla-fordert-abzug-der-usa-aus-deutschland-accg-200683084.html",
+          "summary": "Die AfD fordert schon länger den Abzug der Alliierten. Nun hat Parteichef Chrupalla klargemacht, wer aus seiner Sicht dabei den Anfang machen sollte.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Iran und USA: Warum Pakistan plötzlich zum Vermittler wird",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-und-usa-warum-pakistan-ploetzlich-zum-vermittler-wird-a-4561a84c-14ce-4564-b07f-333d2b660341#ref=rss",
+          "summary": "Erst vor zwei Jahren feuerten Iran und Pakistan mit Raketen aufeinander, jetzt ist die Führung in Islamabad ein wichtiger Vermittler im Krieg mit den USA. Islamforscher Simon Fuchs erklärt, wie es dazu kommt.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Gregory Bovino beim CPAC: Der Mann, der 100 Millionen Menschen aus USA abschieben will",
+          "url": "https://www.spiegel.de/ausland/gregory-bovino-beim-cpac-teffen-in-dallas-der-mann-der-100-millionen-menschen-aus-usa-abschieben-will-a-b7ab5fd8-3c11-4bf4-a38c-8b2ce159506a#ref=rss",
+          "summary": "Ex-Border-Patrol-Chief Gregory Bovino wurde in den USA zum Gesicht der brutalen Migrationspolitik. Der SPIEGEL hat ihn in Texas getroffen.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Erziehung von Söhnen: »Die Bereitschaft, Täter zu werden, entsteht sehr früh«",
           "url": "https://www.spiegel.de/familie/erziehung-von-soehnen-die-bereitschaft-taeter-zu-werden-entsteht-sehr-frueh-a-139acc9d-32fd-4f18-956a-2c11a7ce8827#ref=rss",
           "summary": "Oliver Dierssen beobachtet bei Jugendlichen eine wachsende Zahl sexueller Übergriffe. Jungen sind dabei in der Regel die Täter. Der Kinder- und Jugendpsychiater hat einen Wunsch an Väter und einen Rat für Mütter.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "News: SPD, Lars Klingbeil, SPIEGEL-Cover, Iran-Krieg, Donald Trump, Collien Fernandes, Christian Ulmen",
-          "url": "https://www.spiegel.de/politik/deutschland/news-spd-lars-klingbeil-spiegel-cover-iran-krieg-donald-trump-collien-fernandes-christian-ulmen-a-958627d5-4a9f-4eb0-a930-6cda0e9f8902#ref=rss",
-          "summary": "Was Friedrich Merz im vergangenen Jahr als »Herbst der Reformen« angekündigt hatte, ist im Großen und Ganzen ausgefallen. Jetzt besteht die vielleicht letzte echte Chance, die Reformen zu beschließen. Das ist die Lage am Sonntag.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "CPAC-Konferenz in Texas: Wie Donald-Trump-Anhänger sich den Iran-Krieg schönreden",
-          "url": "https://www.spiegel.de/ausland/cpac-konferenz-in-texas-wie-donald-trump-anhaenger-sich-den-iran-krieg-schoenreden-a-8135c537-255a-4282-83d8-201de0ff81d3#ref=rss",
-          "summary": "Auf der jährlichen CPAC-Konferenz spielt die America-First-Bewegung heile Welt – wohl auch deshalb, weil ihre Spaltung schon so tief ist, dass über ein Ende des Trumpismus spekuliert wird.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Digitalminister Wildberger warnt vor Jobverlust durch KI",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-ki-jobs-100.html",
-          "summary": "Vor dem Hintergrund des internationalen KI-Wettbewerbs warnt Digitalminister Wildberger vor dem Wegfall klassischer Berufsbilder. KI werde vor allem in den USA und China gebaut, Deutschland müsse \"massiv nachholen\".",
+          "title": "Fahrradsaison-Start mit Hindernissen wegen Personalmangel",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/fachkraeftemangel-fahrradwerkstaetten-100.html",
+          "summary": "500 Fachkräfte fehlen in deutschen Fahrradwerkstätten. Gleichzeitig sind neue Fahrräder immer schwerer selbst zu reparieren. Das sorgt für lange Wartezeiten zum Saisonstart. Von Johannes Koch.",
           "source": "Tagesschau"
         },
         {
-          "title": "Was sich mit Wärmepumpen an Heizkosten einsparen lässt",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/waermepumpen-heizung-energieverbrauch-100.html",
-          "summary": "Wärmepumpen werden immer beliebter. Trotzdem halten sich Zweifel: Funktionieren sie auch im Altbau? Reichen normale Heizkörper? Welche Erfahrungen Hausbesitzer mit ihren neuen Geräten machen. Von Jennifer Sieglar.",
+          "title": "Medienbericht: USA bereiten offenbar Bodenoffensive in Iran vor",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-bodenoffensive-100.html",
+          "summary": "Bislang schließen die USA eine Bodenoffensive in Iran aus. Doch die Pläne dafür werden offenbar konkreter, wie ein Bericht der Washington Post nahelegt. Während das Weiße Haus dementiert, erwartet Iran bereits einen \"geheimen Bodenangriff\".",
           "source": "Tagesschau"
         },
         {
-          "title": "Huthi-Miliz greift Israel an - und in den Nahost-Krieg ein",
-          "url": "https://www.tagesschau.de/ausland/asien/huthi-iran-krieg-100.html",
-          "summary": "Die von Iran unterstützte Huthi-Miliz aus dem Jemen startet nun auch Angriffe im Nahost-Krieg: Am Samstag feuerte sie zweimal Raketen auf Israel. Bisher hatte die Miliz sich aus diesem Krieg herausgehalten.",
+          "title": "Social-Media-Verbot für Kinder: Hohe rechtliche Hürden",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/social-media-verbot-gutachten-100.html",
+          "summary": "Auch hier in Deutschland steht aktuell eine Altersgrenze für die Nutzung sozialer Medien zur Debatte. Nun wirft ein Gutachten des Wissenschaftlichen Dienstes im Bundestag Zweifel an der rechtlichen Umsetzbarkeit auf.",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Gaskraftwerke: Reiches riskante Wette auf die Fossilen",
-          "url": "https://www.telepolis.de/article/Gaskraftwerke-Reiches-riskante-Wette-auf-die-Fossilen-11227057.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Reiches Gasplan ist riskant und teuer. Ein Kraftwerk verursacht bis zu 7 Mrd. Euro Klimaschäden. Droht nun auch bei uns Fracking?",
+          "title": "Klima: Mars steuert mit",
+          "url": "https://www.telepolis.de/article/Klima-Mars-steuert-mit-11228496.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Der Mars beeinflusst das Erdklima. Das zeigen sowohl Computersimulationen als auch Tiefseesedimente. Aber wie funktioniert das?",
           "source": "Telepolis"
         },
         {
-          "title": "Zapfsäule unter Staatsaufsicht: Deutschlands Kraftstoffmarkt im Umbruch",
-          "url": "https://www.telepolis.de/article/Zapfsaeule-unter-Staatsaufsicht-Deutschlands-Kraftstoffmarkt-im-Umbruch-11225369.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Deutschlands Kraftstoffmarkt wandelt sich: Internationale Ölkonzerne ziehen sich zurück, Regulierung kommt. Drohen bald Tankstellenschließungen?",
+          "title": "Fall Ulmen-Fernandes: Der Generalverdacht",
+          "url": "https://www.telepolis.de/article/Fall-Ulmen-Fernandes-Der-Generalverdacht-11228765.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Zwischen Deepfake-Debatte und Identitätsdiebstahl wächst der Ruf nach Klarnamen – doch der Verdacht droht, vom Einzelfall auf alle überzugreifen. Zur Debatte.",
           "source": "Telepolis"
         },
         {
-          "title": "Zwischen Marktmacht und Verlustgeschäft – was bleibt, wenn Tegut geht",
-          "url": "https://www.telepolis.de/article/Zwischen-Marktmacht-und-Verlustgeschaeft-was-bleibt-wenn-Tegut-geht-11225026.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Migros zieht sich zurück, Edeka und Rewe stehen bereit. Für Bauern, Mitarbeiter und Kunden geht es um mehr als Filialen – das Kartellamt könnte entscheiden.",
+          "title": "Der Iran-Krieg dreht der KI buchstäblich das Gas ab",
+          "url": "https://www.telepolis.de/article/Der-Iran-Krieg-dreht-der-KI-buchstaeblich-das-Gas-ab-11227435.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Künstliche Intelligenz boomt – doch der Iran-Krieg treibt Energiepreise. Das Aus von Sora könnte ein Vorbote sein. Platzt jetzt die KI-Blase?",
           "source": "Telepolis"
         }
       ]
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Iran: Iran droht mit Angriffen auf israelische und US-Unis",
-          "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-israel-usa-drohung-israelische-us-unis-li.3458356",
-          "summary": "Die Revolutionsgarde droht einem Bericht zufolge mit Vergeltung für Attacken auf Universitäten des Landes. Einem Medienbericht zufolge bereitet sich das Pentagon auf eine Bodenoffensive vor.",
+          "title": "Rehabilitation in der JVA-Straubing: Spaziergang mit einem Schwerverbrecher",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-straubing-jva-freigang-schwerverbrecher-li.3454752",
+          "summary": "Ein Bummel durch die Stadt, ein Besuch im Museum und zum Schluss ein Döner – und das mit Vergewaltigern und Mafiabossen. Damit sie das Leben in Freiheit nicht verlernen. Ein Besuch beim Vorführdienst der JVA Straubing.",
           "source": "SZ"
         },
         {
-          "title": "USA: Karneval der Demokratie",
-          "url": "https://www.sueddeutsche.de/politik/usa-new-york-trump-protest-demonstration-li.3459961",
-          "summary": "Bei den wohl größten Massenprotesten gegen die Trump-Regierung gehen bei über 3000 Veranstaltungen jeweils Tausende auf die Straßen. Folgt nun der große Widerstand?",
+          "title": "Pop: Oh Ye!",
+          "url": "https://www.sueddeutsche.de/kultur/kanye-west-bully-neues-album-li.3368782",
+          "summary": "Der Mann, der mal Kanye West hieß, hat ein neues Album gemacht. Sogar ohne Nazi-Schwachsinn. Ist es deshalb schon gut?",
           "source": "SZ"
         },
         {
-          "title": "Englands Nationalelf: Tuchel verliert wiederholt die Fassung",
-          "url": "https://www.sueddeutsche.de/sport/thomas-tuchel-england-sven-jablonski-schiedsrichter-debatte-li.3460181",
-          "summary": "Die sportlichen Ereignisse beim 1:1 zwischen England und Uruguay rücken in den Hintergrund. Ungewollter Protagonist: der deutsche Schiedsrichter Sven Jablonski.",
+          "title": "Pistorius’ Auslandsreise: Sonnenbrille, ein paar Termine – dann ein umstrittener Urlaub",
+          "url": "https://www.sueddeutsche.de/politik/pistorius-urlaub-australien-kritik-li.3460428",
+          "summary": "Verteidigungsminister Boris Pistorius bleibt nach einer Dienstreise eine Woche zum Ausspannen in Australien. Der Koalitionspartner findet das angesichts der Weltlage und der Osterversprechen des Ministers irritierend.",
           "source": "SZ"
         }
       ]
