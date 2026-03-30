@@ -1,10 +1,16 @@
 {
-  "generated": "2026-03-30T14:00:05.717Z",
-  "timestamp": "30.3.2026, 16:00:05",
+  "generated": "2026-03-30T20:00:07.066Z",
+  "timestamp": "30.3.2026, 22:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Reform der Krankenkassen: So klappt es im Gesundheitswesen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/reform-der-krankenkassen-so-klappt-es-im-gesundheitswesen-200686707.html",
+          "summary": "Gesundheitsministerin Nina Warken (CDU) sollte schnell Spargesetze auf den Weg bringen. Wenn die SPD mauert, muss der Kanzler ein Machtwort sprechen. Sonst fliegt Deutschland das Gesundheitssystem um die Ohren.",
+          "source": "FAZ"
+        },
         {
           "title": "GKV-Reform: „Wir rechnen mit einem Shitstorm epischen Ausmaßes“",
           "url": "https://www.faz.net/aktuell/wirtschaft/reform-der-krankenversicherung-kommissionsvizechef-gerlach-im-gespraech-accg-200685733.html",
@@ -12,15 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Sparvorschläge: So soll das Gesundheitswesen gerettet werden",
-          "url": "https://www.faz.net/aktuell/wirtschaft/sparvorschlaege-so-soll-das-gesundheitswesen-gerettet-werden-accg-200685659.html",
-          "summary": "Die Kommission zur Reform der gesetzlichen Krankenversicherung hat ihre Sparvorschläge übergeben. Die haben es in sich: mehr Zuzahlung in der Apotheke, weniger Knie-OPs, teurere Zigaretten. Ein Überblick.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Gesundheitswesen: Krankenkassenkommission sieht Milliardenpotential",
-          "url": "https://www.faz.net/aktuell/wirtschaft/reform-der-krankenversicherung-42-milliarden-euro-sollen-mobilisiert-werden-accg-200685145.html",
-          "summary": "Durch Einsparungen und höhere Einnahmen könnten schon im nächsten Jahr gut 42 Milliarden Euro im Gesundheitswesen mobilisiert werden. Das geht aus den Reformvorschlägen für die gesetzliche Krankenversicherung hervor.",
+          "title": "Nach Rheinmetall-Spott: Wie innovativ ukrainische Drohnen tatsächlich sind",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-spott-wie-innovativ-ukrainische-drohnen-sind-200686683.html",
+          "summary": "Die Äußerungen des Rheinmetall-Chefs Papperger über ukrainische Drohnen haben heftige Kritik ausgelöst. Das liegt auch daran, dass sich die Waffen längst auf dem Schlachtfeld bewiesen haben.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Krankenkassen: Experten-Kommission empfiehlt Abschaffung der beitragsfreien Mitversicherung und höhere Patientenbeteiligung",
-          "url": "https://www.spiegel.de/wirtschaft/krankenkassen-experten-kommission-empfiehlt-abschaffung-der-beitragsfreien-mitversicherung-und-hoehere-patientenbeteiligung-a-6d9135af-f16f-4f19-9305-21bd60548103#ref=rss",
-          "summary": "Wie lassen sich die Milliardenlöcher bei den Krankenkassen stopfen? Die von der Regierung eingesetzte Reformkommission macht nun 66 Vorschläge. Manche Ideen dürften auf heftigen Widerstand stoßen.",
+          "title": "CPAC-Konferenz in Texas: Wie der Iran-Kkrieg die MAGA-Bewegung spaltet",
+          "url": "https://www.spiegel.de/ausland/cpac-konferenz-in-texas-wie-der-iran-kkrieg-die-maga-bewegung-spaltet-a-f290f2c0-72bd-4015-9683-ac61cc9421fe#ref=rss",
+          "summary": "Der Irankrieg hat Trumps Bewegung gespalten – und konservative Vordenker sprechen schon vom Ende des Trumpismus. Kein Gegner, sagen sie, könne dem Präsidenten so schaden wie er sich selbst.",
           "source": "Spiegel"
         },
         {
-          "title": "Collien Fernandes, Stefanie Hubig und Theresia Crone bei Caren Miosga: Die harten Fragen",
-          "url": "https://www.spiegel.de/kultur/collien-fernandes-stefanie-hubig-und-theresia-crone-bei-caren-miosga-die-harten-fragen-a-ce34c0c5-9cad-436d-a975-67310e8593b2#ref=rss",
-          "summary": "ARD-Talkerin Miosga wollte mit ihren Gästen über digitale Gewalt gegen Frauen sprechen – und nahm Collien Fernandes regelrecht ins Verhör. Das große Glück der Sendung: Sie verharrte nicht beim Einzelfall.",
+          "title": "Fußball: Deutschland gegen Ghana im Liveticker",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-deutschland-gegen-ghana-im-liveticker-a-4c29aeea-e2dc-45c5-a7a9-769591b223b3#ref=rss",
+          "summary": "Die Fans in Stuttgart hatten bereits die Einwechslung von VfB-Profi Deniz Undav gefordert, dann gelingt Kai Havertz fast mit dem Halbzeitpfiff das 1:0 gegen Ghana. Verfolgen Sie die Partie im Livekommentar.",
           "source": "Spiegel"
         },
         {
-          "title": "Iran-Krieg: Ausgerechnet JD Vance soll jetzt den Frieden verhandeln. Für ihn ist das riskant",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-ausgerechnet-jd-vance-soll-jetzt-den-frieden-verhandeln-fuer-ihn-ist-das-riskant-a-90230742-6917-422b-b6c3-026aaca06140#ref=rss",
-          "summary": "Der Irankrieg, ein »Kurzzeitkonflikt«? Vizepräsident JD Vance hat lange beschwichtigt, nun hat ihn Trump wohl zum Verhandler mit dem Regime in Teheran ernannt. Das kann ihn zum Helden machen. Oder seine Karriere gefährden.",
+          "title": "Krankenversicherung wieder bezahlbar machen - die Vorschläge der Reformkommission",
+          "url": "https://www.spiegel.de/wirtschaft/krankenversicherung-wieder-bezahlbar-machen-die-vorschlaege-der-reformkommission-a-85e7b770-1c79-45c3-8ce5-eda321cb08b9#ref=rss",
+          "summary": "Schlecht für Ärzte und Pharmakonzerne, aber gut für die meisten Versicherten: Die Gesundheitskommission zeigt auf, wie sich 40 Milliarden Euro sparen lassen – fast ohne schmerzhafte Einschnitte bei den Leistungen.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Merz will Rückkehr syrischer Geflüchteter vorantreiben",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/al-sharaa-merz-100.html",
-          "summary": "Deutschland und Syrien wollen die Rückkehr syrischer Geflüchteter in ihre Heimat beschleunigen. Ein Aspekt von vielen, die beim Antrittsbesuch des syrischen Übergangspräsidenten al-Scharaa in Berlin besprochen wurden.",
+          "title": "Wadephul setzt in Polen Zeichen der Verbundenheit",
+          "url": "https://www.tagesschau.de/ausland/europa/wadephul-polen-treffen-sikorski-100.html",
+          "summary": "Außenminister Wadephul hat seinen polnischen Amtskollegen Sikorski getroffen. Im polnischen Ort Kreisau ging es neben dem Ukraine-Engagement auch darum, ein \"Zeichen der Freundschaft und Verbundenheit\" zu setzen. Von S. Zdrzalek.",
           "source": "Tagesschau"
         },
         {
-          "title": "Colonia Dignidad: Chiles Regierung stoppt Gedenkstätte für Opfer",
-          "url": "https://www.tagesschau.de/ausland/amerika/chile-colonia-dignidad-102.html",
-          "summary": "Auf dem ehemaligen Gelände der deutschen Sekte Colonia Dignidad in Chile wurden schreckliche Taten begangen. Daher sollte dort ein Erinnerungsort enstehen. Nun will die neue, rechte chilenische Regierung dies verhindern.",
+          "title": "Vorschläge für eine Reform der gesetzlichen Krankenversicherung",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/vorschlaege-reform-gesetzliche-krankenversicherung-100.html",
+          "summary": "Um ein Milliardenloch bei den Krankenkassen zu stopfen und noch höhere Beiträge zu vermeiden, hat eine von der Bundesregierung eingesetzte Kommission 66 Empfehlungen erarbeitet. Ein Überblick über die wichtigsten Vorschläge.",
           "source": "Tagesschau"
         },
         {
-          "title": "Expertenkommission sieht Milliarden-Sparpotenzial bei Krankenkassen",
-          "url": "https://www.tagesschau.de/inland/kommission-krankenversicherung-empfehlungen-100.html",
-          "summary": "Bis zu 42 Milliarden Euro könnten die gesetzlichen Krankenkassen im kommenden Jahr einsparen - zu diesem Ergebnis kommt die Expertenkommission. Praxen, Bund und auch Versicherte sollten mehr in die Pflicht genommen werden.",
+          "title": "Tausende demonstrieren in Frankfurt gegen Gewalt an Frauen",
+          "url": "https://www.tagesschau.de/inland/regional/hessen/tausende-demonstrieren-in-frankfurt-100.html",
+          "summary": "Tausende Menschen haben in Frankfurt ihre Stimme gegen sexualisierte Gewalt an Frauen erhoben. Anlass ist der Fall Collien Fernandes. Die Initiatoren stellten eine klare Forderung an die Politik.",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Pakistan: Wird der Iran-Krieg zum ideologischen Risiko?",
+          "url": "https://www.telepolis.de/article/Pakistan-Wird-der-Iran-Krieg-zum-ideologischen-Risiko-11229672.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Am Persischen Golf treten die Brüche der muslimischen Welt deutlich zu Tage. Was heißt das für den Islam und für die Islamische Republik Pakistan?",
+          "source": "Telepolis"
+        },
         {
           "title": "Finanzmärkte unter Druck: Iran-Krieg sorgt für Börsen-Turbulenzen",
           "url": "https://www.telepolis.de/article/Finanzmaerkte-unter-Druck-Iran-Krieg-sorgt-fuer-Boersen-Turbulenzen-11229456.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
@@ -85,12 +91,6 @@
           "url": "https://www.telepolis.de/article/Social-Media-Verbot-fuer-Kinder-Warum-Deutschland-rechtlich-scheitern-wuerde-11229862.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Gutachten der Wissenschaftlichen Dienste des Bundestags: EU-Recht und Grundgesetz setzen enge Grenzen – Experten fordern strengere Plattformregeln statt Verbote",
           "source": "Telepolis"
-        },
-        {
-          "title": "Die iranische Falle: Warum den USA ein zweites Vietnam drohen könnte",
-          "url": "https://www.telepolis.de/article/Die-iranische-Falle-Warum-den-USA-ein-zweites-Vietnam-drohen-koennte-11229270.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Bomben, Blockaden, Botschaften: Die USA stehen an der Schwelle zur Bodeninvasion. Washington würde damit in eine massive Falle tappen. Eine Analyse.",
-          "source": "Telepolis"
         }
       ]
     },
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Wal in der Wismarer Bucht: Als stürbe mit ihm eine Welt",
-          "url": "https://www.sueddeutsche.de/kultur/wal-ostsee-wismar-drama-li.3460812",
-          "summary": "Das Schicksal des Buckelwals in der Ostsee gleicht einem klassischen Drama in fünf Akten. Rührt es uns deshalb so an? Oder liegt es an der besonderen, sagenumwobenen Beziehung des Menschen zu dem Meeresriesen?",
+          "title": "Terrorismus: Israels Regierung will Todesstrafe – nur für Palästinenser",
+          "url": "https://www.sueddeutsche.de/politik/israel-einfuehrung-todesstrafe-palaestinenser-kritik-li.3460610",
+          "summary": "In Israel soll künftig wieder hingerichtet werden, die Knesset hat einen entsprechenden Entwurf angenommen. Betroffen wären allerdings nur Palästinenser. Menschenrechtler sind entsetzt, auch aus Deutschland kommt Kritik.",
           "source": "SZ"
         },
         {
-          "title": "Iran-Krieg: So will die Ukraine ihre Drohnen-Expertise zu Geld machen",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-iran-krieg-selenskij-golfregion-drohnen-zusammenarbeit-li.3460738",
-          "summary": "Bei einem Blitzbesuch in der Golfregion hat Präsident Selenskij Abkommen über militärische Zusammenarbeit mit Saudi-Arabien und Katar geschlossen – weitere sollen folgen.",
+          "title": "Krieg in Nahost: Spanien sperrt Luftraum für US-Flugzeuge, die Iran angreifen",
+          "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-spanien-luftraum-usa-li.3458356",
+          "summary": "„Wir genehmigen weder die Nutzung von Militärstützpunkten noch die Nutzung des Luftraums für Aktionen im Zusammenhang mit dem Krieg in Iran“, sagt Spaniens Verteidigungsministerin Margarita Robles.",
           "source": "SZ"
         },
         {
-          "title": "Bundespolitik: Merz strebt Rückkehr von 80 Prozent der Syrer an",
+          "title": "Bundespolitik: Merz: Rückkehr von 80 Prozent der Syrer vorgesehen",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-rueckkehr-syrer-ahmed-al-scharaa-li.3457776",
-          "summary": "Das sei auch der Wunsch von Syriens Übergangspräsident gewesen, sagt der Kanzler nach einem Treffen mit Ahmed al-Scharaa in Berlin.",
+          "summary": "Das sei der Wunsch von Syriens Übergangspräsident gewesen, sagt der Kanzler nach einem Treffen mit Ahmed al-Scharaa in Berlin.",
           "source": "SZ"
         }
       ]
