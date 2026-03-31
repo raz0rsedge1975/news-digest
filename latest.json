@@ -1,26 +1,26 @@
 {
-  "generated": "2026-03-30T20:00:07.066Z",
-  "timestamp": "30.3.2026, 22:00:07",
+  "generated": "2026-03-31T08:00:04.972Z",
+  "timestamp": "31.3.2026, 10:00:04",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Reform der Krankenkassen: So klappt es im Gesundheitswesen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/reform-der-krankenkassen-so-klappt-es-im-gesundheitswesen-200686707.html",
-          "summary": "Gesundheitsministerin Nina Warken (CDU) sollte schnell Spargesetze auf den Weg bringen. Wenn die SPD mauert, muss der Kanzler ein Machtwort sprechen. Sonst fliegt Deutschland das Gesundheitssystem um die Ohren.",
+          "title": "Vermisste Soldaten: „Ich habe gesehen, wie die Russen deinen Sohn erschossen haben“",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-suche-nach-vermissten-soldaten-accg-200653166.html",
+          "summary": "In der Ukraine warten Tausende auf ihre Vermissten. An Rangierbahnhöfen liegen Tausende Tote in Kühlwagen. Wenn einer identifiziert wird, stirbt eine Hoffnung.",
           "source": "FAZ"
         },
         {
-          "title": "GKV-Reform: „Wir rechnen mit einem Shitstorm epischen Ausmaßes“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/reform-der-krankenversicherung-kommissionsvizechef-gerlach-im-gespraech-accg-200685733.html",
-          "summary": "Der Medizinprofessor Ferdinand Gerlach ist Vizechef der Finanzkommission Gesundheit, die eine lange Streichliste vorgelegt hat. Er sagt, warum Zigaretten künftig 11,50 Euro kosten könnten und die Fanta teurer wird.",
+          "title": "Liveblog Ukrainekrieg: EU-Außenminister gedenken in Butscha russischem Massaker",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-aussenminister-gedenken-in-butscha-russischem-massaker-faz-110683325.html",
+          "summary": "Wadephul: Symbol für russische Kriegsverbrechen +++ Selenskyj schlägt Angriffstopp auf Energieanlagen vor +++ Mutmaßlicher russischer Spion in Hagen festgenommen +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ"
         },
         {
-          "title": "Nach Rheinmetall-Spott: Wie innovativ ukrainische Drohnen tatsächlich sind",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-spott-wie-innovativ-ukrainische-drohnen-sind-200686683.html",
-          "summary": "Die Äußerungen des Rheinmetall-Chefs Papperger über ukrainische Drohnen haben heftige Kritik ausgelöst. Das liegt auch daran, dass sich die Waffen längst auf dem Schlachtfeld bewiesen haben.",
+          "title": "Russischer Regimegegner: Abschiebung in Putins Reich?",
+          "url": "https://www.faz.net/aktuell/politik/inland/warum-ein-russischer-oppositioneller-in-bayern-in-abschiebehaft-sitzt-accg-200677697.html",
+          "summary": "Ilja Schkolnyj sitzt in Bayern in Abschiebehaft – obwohl er Teil der russischen Opposition war und mit einer Deutschen verheiratet ist. In Russland droht ihm der Kriegsdienst.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Iran-Krieg: Warum die Ukraine den Golfstaaten hilft, iranische Drohnen abzuschießen",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-warum-die-ukraine-den-golfstaaten-hilft-iranische-drohnen-abzuschiessen-a-ba8b60b1-b38f-46d5-9727-c24c2f85cf02#ref=rss",
+          "summary": "Jahrelang war die Ukraine Bittstellerin im Waffenhandel. Am Persischen Golf tritt sie als Helfer in der Not auf. Was hat Präsident Selenskyj anzubieten – und was will er dafür haben?",
+          "source": "Spiegel"
+        },
+        {
           "title": "CPAC-Konferenz in Texas: Wie der Iran-Kkrieg die MAGA-Bewegung spaltet",
           "url": "https://www.spiegel.de/ausland/cpac-konferenz-in-texas-wie-der-iran-kkrieg-die-maga-bewegung-spaltet-a-f290f2c0-72bd-4015-9683-ac61cc9421fe#ref=rss",
           "summary": "Der Irankrieg hat Trumps Bewegung gespalten – und konservative Vordenker sprechen schon vom Ende des Trumpismus. Kein Gegner, sagen sie, könne dem Präsidenten so schaden wie er sich selbst.",
           "source": "Spiegel"
         },
         {
-          "title": "Fußball: Deutschland gegen Ghana im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/fussball-deutschland-gegen-ghana-im-liveticker-a-4c29aeea-e2dc-45c5-a7a9-769591b223b3#ref=rss",
-          "summary": "Die Fans in Stuttgart hatten bereits die Einwechslung von VfB-Profi Deniz Undav gefordert, dann gelingt Kai Havertz fast mit dem Halbzeitpfiff das 1:0 gegen Ghana. Verfolgen Sie die Partie im Livekommentar.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Krankenversicherung wieder bezahlbar machen - die Vorschläge der Reformkommission",
-          "url": "https://www.spiegel.de/wirtschaft/krankenversicherung-wieder-bezahlbar-machen-die-vorschlaege-der-reformkommission-a-85e7b770-1c79-45c3-8ce5-eda321cb08b9#ref=rss",
-          "summary": "Schlecht für Ärzte und Pharmakonzerne, aber gut für die meisten Versicherten: Die Gesundheitskommission zeigt auf, wie sich 40 Milliarden Euro sparen lassen – fast ohne schmerzhafte Einschnitte bei den Leistungen.",
+          "title": "CDU: Nina Warken wirkt überfordert - jetzt soll sie das Gesundheitssystem retten",
+          "url": "https://www.spiegel.de/politik/deutschland/nina-warken-wirkt-blass-und-ueberfordert-jetzt-soll-sie-das-gesundheitssystem-retten-a-da77a0b3-6575-4c45-b913-047924e421c9#ref=rss",
+          "summary": "Sie kam ohne Fachexpertise ins Amt, selbst in der Koalition gibt es Zweifel an ihr. Nun muss sich Gesundheitsministerin Nina Warken mit mächtigen Lobbygruppen anlegen und 15 Milliarden Euro einsparen. Kann sie das?",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wadephul setzt in Polen Zeichen der Verbundenheit",
-          "url": "https://www.tagesschau.de/ausland/europa/wadephul-polen-treffen-sikorski-100.html",
-          "summary": "Außenminister Wadephul hat seinen polnischen Amtskollegen Sikorski getroffen. Im polnischen Ort Kreisau ging es neben dem Ukraine-Engagement auch darum, ein \"Zeichen der Freundschaft und Verbundenheit\" zu setzen. Von S. Zdrzalek.",
+          "title": "Iran-Krieg: USA greifen offenbar Munitionsdepot in Isfahan an",
+          "url": "https://www.tagesschau.de/ausland/asien/nahost-krieg-iran-usa-israel-100.html",
+          "summary": "Die USA bauen ihre Militärpräsenz in Nahost nochmals massiv aus, auch mit Spezialeinheiten. In Isfahan nahm das US-Militär offenbar ein Munionsdepot ins Visier. Doch auch in der fünften Kriegswoche ist Iran weiter zu Gegenschlägen fähig.",
           "source": "Tagesschau"
         },
         {
-          "title": "Vorschläge für eine Reform der gesetzlichen Krankenversicherung",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/vorschlaege-reform-gesetzliche-krankenversicherung-100.html",
-          "summary": "Um ein Milliardenloch bei den Krankenkassen zu stopfen und noch höhere Beiträge zu vermeiden, hat eine von der Bundesregierung eingesetzte Kommission 66 Empfehlungen erarbeitet. Ein Überblick über die wichtigsten Vorschläge.",
+          "title": "Israel weitet Todesstrafe aus - trotz aller Kritik",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-knesset-todesstrafe-100.html",
+          "summary": "Ungeachtet internationaler Proteste hat Israels Parlament die Ausweitung der Todesstrafe beschlossen. Während Regierungsvertreter jubeln, herrscht unter Menschenrechtsgruppen Entsetzen. Von Clemens Verenkotte.",
           "source": "Tagesschau"
         },
         {
-          "title": "Tausende demonstrieren in Frankfurt gegen Gewalt an Frauen",
-          "url": "https://www.tagesschau.de/inland/regional/hessen/tausende-demonstrieren-in-frankfurt-100.html",
-          "summary": "Tausende Menschen haben in Frankfurt ihre Stimme gegen sexualisierte Gewalt an Frauen erhoben. Anlass ist der Fall Collien Fernandes. Die Initiatoren stellten eine klare Forderung an die Politik.",
+          "title": "Australische Behörde prüft mögliche Verstöße gegen Social-Media-Verbot",
+          "url": "https://www.tagesschau.de/ausland/ozeanien/australien-socialmedia-verstoss-jugendschutz-100.html",
+          "summary": "Die australische Internetaufsicht hat Untersuchungen gegen eine Reihe von Tech-Giganten eingeleitet. Sie wirft ihnen vor, das Social-Media-Verbot für Kinder und Jugendliche unter 16 Jahren nicht konsequent durchzusetzen.",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Wir fischen die Meere leer – und wundern uns, wenn Wale stranden",
+          "url": "https://www.telepolis.de/article/Wir-fischen-die-Meere-leer-und-wundern-uns-wenn-Wale-stranden-11229296.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Ein Buckelwal, geschwächt und desorientiert in der Ostsee, gibt Rätsel auf. Überfischung und Lärm treiben Wale in den Tod. Schafft er es zurück ins offene Meer?",
+          "source": "Telepolis"
+        },
+        {
+          "title": "Ein Schiffswrack vor der Levante enthüllt neues antikes Seehandelsgut",
+          "url": "https://www.telepolis.de/article/Ein-Schiffswrack-vor-der-Levante-enthuellt-neues-antikes-Seehandelsgut-11240415.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Fund vor Israels Küste: 2. 600 Jahre altes Wrack birgt die älteste bekannte Roheisen-Ladung. Woher die Lieferung stammt, bleibt rätselhaft.",
+          "source": "Telepolis"
+        },
+        {
           "title": "Pakistan: Wird der Iran-Krieg zum ideologischen Risiko?",
           "url": "https://www.telepolis.de/article/Pakistan-Wird-der-Iran-Krieg-zum-ideologischen-Risiko-11229672.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Am Persischen Golf treten die Brüche der muslimischen Welt deutlich zu Tage. Was heißt das für den Islam und für die Islamische Republik Pakistan?",
-          "source": "Telepolis"
-        },
-        {
-          "title": "Finanzmärkte unter Druck: Iran-Krieg sorgt für Börsen-Turbulenzen",
-          "url": "https://www.telepolis.de/article/Finanzmaerkte-unter-Druck-Iran-Krieg-sorgt-fuer-Boersen-Turbulenzen-11229456.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Iran-Krieg erschüttert Finanzmärkte weltweit. Liquidität bricht ein, Handelskosten steigen rasant. Die Lage sieht nicht gut aus. Ein Überblick.",
-          "source": "Telepolis"
-        },
-        {
-          "title": "Social-Media-Verbot für Kinder: Warum Deutschland rechtlich scheitern würde",
-          "url": "https://www.telepolis.de/article/Social-Media-Verbot-fuer-Kinder-Warum-Deutschland-rechtlich-scheitern-wuerde-11229862.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Gutachten der Wissenschaftlichen Dienste des Bundestags: EU-Recht und Grundgesetz setzen enge Grenzen – Experten fordern strengere Plattformregeln statt Verbote",
           "source": "Telepolis"
         }
       ]
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Terrorismus: Israels Regierung will Todesstrafe – nur für Palästinenser",
-          "url": "https://www.sueddeutsche.de/politik/israel-einfuehrung-todesstrafe-palaestinenser-kritik-li.3460610",
-          "summary": "In Israel soll künftig wieder hingerichtet werden, die Knesset hat einen entsprechenden Entwurf angenommen. Betroffen wären allerdings nur Palästinenser. Menschenrechtler sind entsetzt, auch aus Deutschland kommt Kritik.",
+          "title": "Hamburg: Frau von Wolf gebissen",
+          "url": "https://www.sueddeutsche.de/panorama/wolf-hamburg-beisst-frau-polizei-gefangen-li.3461315",
+          "summary": "Das Tier wurde anschließend im Bezirk Altona eingefangen. Wölfe gelten eigentlich als scheu – Angriffe auf Menschen sind äußerst selten.",
           "source": "SZ"
         },
         {
-          "title": "Krieg in Nahost: Spanien sperrt Luftraum für US-Flugzeuge, die Iran angreifen",
-          "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-spanien-luftraum-usa-li.3458356",
-          "summary": "„Wir genehmigen weder die Nutzung von Militärstützpunkten noch die Nutzung des Luftraums für Aktionen im Zusammenhang mit dem Krieg in Iran“, sagt Spaniens Verteidigungsministerin Margarita Robles.",
+          "title": "Migration: Rückkehr nach Syrien? Ja - sofern sie freiwillig und in Würde geschieht",
+          "url": "https://www.sueddeutsche.de/meinung/syrien-rueckfuehrung-migration-merz-li.3461202",
+          "summary": "Bundeskanzler Merz verhandelt mit dem Übergangspräsidenten al-Sharaa über Geflüchtete, als ginge es um bloße Zahlen und Interessen. Doch es geht erst einmal um Menschen.",
           "source": "SZ"
         },
         {
-          "title": "Bundespolitik: Merz: Rückkehr von 80 Prozent der Syrer vorgesehen",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-rueckkehr-syrer-ahmed-al-scharaa-li.3457776",
-          "summary": "Das sei der Wunsch von Syriens Übergangspräsident gewesen, sagt der Kanzler nach einem Treffen mit Ahmed al-Scharaa in Berlin.",
+          "title": "Psychologie: Wo sind all die Wörter hin?",
+          "url": "https://www.sueddeutsche.de/wissen/deutschland-studie-menschen-sprechen-weniger-woerter-folgen-li.3457409",
+          "summary": "Eine Langzeitstudie zeigt, dass Menschen immer weniger miteinander reden. Gleichzeitig explodiert die Menge an täglichen Informationen. Was steckt hinter diesem Trend?",
           "source": "SZ"
         }
       ]
