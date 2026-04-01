@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-01T00:02:09.925Z",
-  "timestamp": "1.4.2026, 02:02:09",
+  "generated": "2026-04-01T01:00:17.923Z",
+  "timestamp": "1.4.2026, 03:00:17",
   "news": [
     {
       "source": "FAZ",
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Neuregelung in Kraft: Spritpreiserhöhung nur noch einmal täglich",
+          "url": "https://www.tagesschau.de/wirtschaft/spritpreis-regelung-100.html",
+          "summary": "Seit Beginn des Iran-Krieges steigen die Spritpreise stark - ab heute allerdings nicht mehr beliebig oft. Denn mit Inkrafttreten einer Neuregelungen dürfen die Tankstellen die Preise nur noch einmal täglich erhöhen.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Iran-Liveblog: ++ Trump spricht vom baldigen Abzug aus Iran ++",
           "url": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-104.html",
           "summary": "US-Präsident Trump hat ein baldiges Ende der Einsätze der US-Armee in Iran in Aussicht gestellt. Im Süden des Libanon sind laut libanesischen Behörden bei israelischen Angriffen mindestens acht Menschen getötet worden.",
@@ -61,12 +67,6 @@
           "title": "US-Gericht stoppt Bau von Trumps umstrittenem Ballsaal",
           "url": "https://www.tagesschau.de/ausland/amerika/usa-weisses-haus-trump-ballsaal-gericht-100.html",
           "summary": "Bei Trumps umstrittenem Ballsaal-Bauprojekt am Weißen Haus geht es vorerst nicht weiter. Ein US-Bundesgericht entschied, dass die Bauarbeiten erst mit Erlaubnis des Parlaments fortgesetzt werden dürfen. Der Präsident reagierte verärgert.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "UN-Sicherheitsrat verurteilt Tod von UN-Soldaten im Libanon",
-          "url": "https://www.tagesschau.de/ausland/asien/un-blauhelme-libanon-102.html",
-          "summary": "Mehrere Mitglieder des UN-Sicherheitsrats haben die tödlichen Angriffe auf UN-Soldaten im Libanon verurteilt. Wer den Tod der drei Indonesier zu verantworten hat, ist bisher unklar.",
           "source": "Tagesschau"
         }
       ]
