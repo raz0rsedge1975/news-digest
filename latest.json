@@ -1,10 +1,16 @@
 {
-  "generated": "2026-03-31T20:00:05.496Z",
-  "timestamp": "31.3.2026, 22:00:05",
+  "generated": "2026-04-01T00:02:09.925Z",
+  "timestamp": "1.4.2026, 02:02:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Artemis-Mission: Die Rückkehr zum Mond",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/artemis-programm-der-nasa-die-rueckkehr-zum-mond-200685922.html",
+          "summary": "Die USA wollen zum ersten Mal seit langer Zeit wieder Astronauten zum Mond bringen. Der neue NASA-Chef sieht sich mit dem Programm „Artemis“ unter Zeitdruck – wegen Trump und China.",
+          "source": "FAZ"
+        },
         {
           "title": "Afrika und Iran: Teheran in drei Tagen erobern? Einfach Uganda fragen!",
           "url": "https://www.faz.net/aktuell/politik/ausland/krieg-gegen-usa-irans-verbuendete-in-afrika-bleiben-still-200687433.html",
@@ -12,15 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Völkerrecht und Irankrieg: Ein Linker bestellt ein Gutachten",
-          "url": "https://www.faz.net/aktuell/politik/inland/ist-der-iran-krieg-voelkerrechtswidrig-ein-bundestag-gutachten-200690250.html",
-          "summary": "Kürzlich kursierte die Meldung, der Wissenschaftliche Dienst des Bundestags stufe die Angriffe der USA und Israels auf Iran als völkerrechtswidrig ein. Das stimmt nicht.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Liveblog Irankrieg: Irans Präsident fordert „Garantien“ bei Beendigung des Krieges",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-irans-praesident-fordert-garantien-bei-beendigung-des-krieges-faz-200583539.html",
-          "summary": "EU-Ratspräsident Costa telefonierte mit Peseschkian +++ Unicef: Mehr als 340 getötete Kinder seit Beginn des Irankriegs +++ Japans Ministerpräsidentin will mit Iran verhandeln +++  alle Entwicklungen im Liveblog",
+          "title": "Paulskirchenpreis: Alinejad rechtfertigt Krieg gegen Mullah-Regime",
+          "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/paulskirchenpreis-oppositionelle-alinejad-verteidigt-in-frankfurt-krieg-gegen-iran-200691290.html",
+          "summary": "Der Europäische Paulskirchenpreis für Demokratie wurde erstmals verliehen. In ihrer Dankesrede übt die iranische Regimegegnerin Masih Alinejad Kritik am viel zu lange nachsichtigen Umgang des Westens mit der Diktatur in Teheran.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Fußball-WM 2026: Italien verpasst Endrunde, Türkei, Schweden und Tschechien qualifiziert",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-italien-verpasst-endrunde-tuerkei-schweden-und-tschechien-qualifiziert-a-8e92bff8-bb8f-486c-99b9-908cfe3f35b2#ref=rss",
+          "summary": "Italien scheitert in Bosnien-Herzegowina nach 80 Minuten mit einem Mann weniger. Die Türkei qualifiziert sich erstmals seit 2002 wieder, auch Tschechien und Schweden sind bei der WM-Endrunde dabei.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Iran-Krieg und Verluste der USA: So viel teures Gerät haben die Amerikaner schon verloren",
           "url": "https://www.spiegel.de/ausland/iran-krieg-und-verluste-der-usa-so-viel-teures-geraet-haben-die-amerikaner-schon-verloren-a-97c42a37-1733-4a23-99c7-9854119da77b#ref=rss",
           "summary": "Washington musste am Persischen Golf schon einige empfindliche Treffer hinnehmen. Trotz ständiger Bombardements können die Iraner noch immer erfolgreich zurückschlagen. Dahinter ist eine Methode erkennbar.",
           "source": "Spiegel"
         },
         {
-          "title": "Ilia Shkolnyi: Russischer Dissident in Abschiebehaft in Hof kommt überraschend frei",
-          "url": "https://www.spiegel.de/panorama/justiz/ilia-shkolnyi-russischer-dissident-in-abschiebehaft-in-hof-kommt-ueberraschend-frei-a-b5603977-f25d-404d-a277-cc45096dab2a#ref=rss",
-          "summary": "Der Russe Ilia Shkolnyi unterstützte Nawalny, kritisierte den Krieg gegen die Ukraine – und wurde dennoch fast in seine Heimat abgeschoben. Der Fall zeigt, wie undurchdringlich der deutsche Behördendschungel sein kann.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Ungarn: Außenminister soll Sergej Lawrow Gefälligkeiten versprochen haben",
-          "url": "https://www.spiegel.de/ausland/ungarn-aussenminister-soll-sergej-lawrow-gefaelligkeiten-versprochen-haben-a-25484155-d789-400d-9cf8-b9215d04da6b#ref=rss",
-          "summary": "Ein Investigativmedium berichtet über ein kompromittierendes Telefonat zwischen dem ungarischen und dem russischen Außenminister. Die Publikation bringt die Regierung Viktor Orbáns in Bedrängnis – kurz vor der Wahl.",
+          "title": "Syrischer Präsident bestreitet 80-Prozent-Aussage – und deutet auf Merz",
+          "url": "https://www.spiegel.de/ausland/syrischer-praesident-bestreitet-80-prozent-aussage-und-deutet-auf-merz-a-517450c3-7b73-410a-8155-0d436f50114b#ref=rss",
+          "summary": "80 Prozent der Syrerinnen und Syrer sollen in drei Jahren in ihre Heimat zurück. Das hat Bundeskanzler Merz als Wunsch des syrischen Präsidenten verkauft. Doch nun widerspricht Ahmed al‑Sharaa: Er habe das nicht gesagt.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Iran-Liveblog: ++ Trump spricht vom baldigen Abzug aus Iran ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-104.html",
+          "summary": "US-Präsident Trump hat ein baldiges Ende der Einsätze der US-Armee in Iran in Aussicht gestellt. Im Süden des Libanon sind laut libanesischen Behörden bei israelischen Angriffen mindestens acht Menschen getötet worden.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "US-Gericht stoppt Bau von Trumps umstrittenem Ballsaal",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-weisses-haus-trump-ballsaal-gericht-100.html",
+          "summary": "Bei Trumps umstrittenem Ballsaal-Bauprojekt am Weißen Haus geht es vorerst nicht weiter. Ein US-Bundesgericht entschied, dass die Bauarbeiten erst mit Erlaubnis des Parlaments fortgesetzt werden dürfen. Der Präsident reagierte verärgert.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "UN-Sicherheitsrat verurteilt Tod von UN-Soldaten im Libanon",
           "url": "https://www.tagesschau.de/ausland/asien/un-blauhelme-libanon-102.html",
           "summary": "Mehrere Mitglieder des UN-Sicherheitsrats haben die tödlichen Angriffe auf UN-Soldaten im Libanon verurteilt. Wer den Tod der drei Indonesier zu verantworten hat, ist bisher unklar.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Frankfurt ehrt Frauenrechtlerin Masih Alinejad mit Europäischem Paulskirchenpreis",
-          "url": "https://www.tagesschau.de/inland/regional/hessen/frauenrechtlerin-masih-alinejad-paulskirchenpreis-100.html",
-          "summary": "In Frankfurt am Main wurde das erste Mal der Europäische Paulskirchenpreis für Demokratie verliehen. Geehrt wurde die Autorin und Journalistin Masih Alinejad für ihren Einsatz für Frauenrechte und Freiheit in Iran.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Knesset billigt Gesetz: Was Israels Vorstoß zur Todesstrafe bedeutet",
-          "url": "https://www.tagesschau.de/ausland/asien/faq-israel-todesstrafe-100.html",
-          "summary": "Israels Parlament hat die Ausweitung der Todesstrafe gebilligt. Scharfe Kritik gibt es von Menschenrechtlern und internationalen Partnern. Warum ist die Entscheidung so umstritten?",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Wie groß ist die Rentenlücke in Deutschland wirklich?",
+          "url": "https://www.telepolis.de/article/Wie-gross-ist-die-Rentenluecke-in-Deutschland-wirklich-10629750.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Millionen Deutsche trifft im Alter eine böse Überraschung: Die Rente ist viel niedriger als erwartet. Wir zeigen, wie groß die Lücke wirklich ist.",
+          "source": "Telepolis"
+        },
         {
           "title": "Irak: Milizen greifen US-Truppen an, Kurden unter Druck",
           "url": "https://www.telepolis.de/article/Irak-Milizen-greifen-US-Truppen-an-Kurden-unter-Druck-11229848.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
@@ -85,18 +91,18 @@
           "url": "https://www.telepolis.de/article/Wenn-die-Lokalzeitung-verschwindet-Wie-rechte-Akteure-die-Luecken-fuellen-11241746.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Greiz wird zum Lehrstück: Wenn Lokaljournalismus verschwindet, entstehen gefährliche Informationslücken – die von rechten politischen Akteuren besetzt werden.",
           "source": "Telepolis"
-        },
-        {
-          "title": "Todesstrafe für Palästinenser: Israel ebnet den Weg für Rachejustiz",
-          "url": "https://www.telepolis.de/article/Todesstrafe-fuer-Palaestinenser-Israel-ebnet-den-Weg-fuer-Rachejustiz-11241241.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Israels Parlament beschließt Todesstrafen-Gesetz, das praktisch ausschließlich Palästinenser treffen wird. Amnesty spricht von \"Verachtung der Menschenrechte\".",
-          "source": "Telepolis"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Europa-Playoffs: Drama im Elfmeterschießen: Italien verpasst zum dritten Mal nacheinander die Fußball-WM",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-qualifikation-tuerkei-schweden-li.3461879",
+          "summary": "Nach einer roten Karte spielt Italien in Zenica lange in Unterzahl und rettet sich ins Elfmeterschießen. Doch es reicht nicht, um erstmals seit 2014 zur WM zu fahren. Neben Bosnien-Herzegowina feiern die Türkei, Schweden und Tschechien.",
+          "source": "SZ"
+        },
         {
           "title": "Wolfsangriff in Hamburg: Hat der Wolf Angst, kann es gefährlich werden",
           "url": "https://www.sueddeutsche.de/panorama/hamburg-wolf-frau-gebissen-gruende-folgen-tiere-li.3461470",
@@ -107,12 +113,6 @@
           "title": "Krieg in Nahost: Trumps Ansage an Verbündete: „Holt euch euer eigenes Öl“",
           "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-trump-oel-drohnung-strasse-von-hormus-li.3458356",
           "summary": "Der Vorschlag gehe an alle Länder, die sich nicht an der Entmachtung in Iran beteiligen wollten. „Ihr müsst anfangen zu lernen, wie man für sich selbst kämpft“, schreibt der US-Präsident auf Truth Social.",
-          "source": "SZ"
-        },
-        {
-          "title": "Nach Friedrich Merz’ Pressekonferenz: „80 Prozent“: Müssen wirklich so viele Syrer zurück?",
-          "url": "https://www.sueddeutsche.de/politik/syrer-deutschland-rueckkehr-wer-betroffen-uebersicht-li.3461448",
-          "summary": "Etwa 900 000 Syrerinnen und Syrer leben in der Bundesrepublik. Welchen Aufenthaltsstatus sie haben und warum gar nicht so wenige von ihnen gute Aussichten haben, bleiben zu können.",
           "source": "SZ"
         }
       ]
