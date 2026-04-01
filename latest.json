@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-01T20:00:05.014Z",
-  "timestamp": "1.4.2026, 22:00:05",
+  "generated": "2026-04-01T22:00:07.801Z",
+  "timestamp": "2.4.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Supreme Court zu Geburtsprinzip: Unter den Augen von Präsident Trump",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-im-supreme-court-richter-skeptisch-gegenueber-aenderung-des-geburtsortsprinzips-200695023.html",
-          "summary": "Der Oberste Gerichtshof zeigt sich skeptisch gegenüber Donald Trumps Vorhaben, das Geburtsortsprinzip einzuschränken. Daran änderte auch sein Besuch im Gericht nichts.",
+          "title": "Krieg in der Ukraine: Wie die Europäer die Ukraine künftig unterstützen wollen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/wie-die-europaeer-die-ukraine-kuenftig-unterstuetzen-wollen-200694389.html",
+          "summary": "Die EU-Außenminister stehen bei ihrem Treffen in Kiew vor vielen ungelösten Fragen. Wie umgehen mit Trump und Orbán? Und: Darf die Ukraine bald beitreten?",
           "source": "FAZ"
         },
         {
@@ -29,15 +29,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "USA: Darum setzte sich Donald Trump in den Supreme Court",
-          "url": "https://www.spiegel.de/ausland/usa-darum-setzte-sich-donald-trump-in-den-supreme-court-a-931e61c6-9c3f-4053-a8e4-a98aeaa19791#ref=rss",
-          "summary": "Als erster amtierender Präsident hat Donald Trump eine Anhörung im Obersten Gerichtshof besucht. Er will das Recht auf Staatsbürgerschaft qua Geburt einschränken. Doch die Richter zeigen sich skeptisch.",
-          "source": "Spiegel"
-        },
-        {
           "title": "Artemis II: So läuft die erste Mondmission seit 1972 - alle Entwicklungen live",
           "url": "https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss",
-          "summary": "Erstmals seit »Apollo 17« startet die US-Raumfahrtbehörde Nasa eine Mondmission. Drei Astronauten und eine Astronautin begeben sich im Orion-Raumschiff auf eine rund zehntägige Flugbahn. Alle Entwicklungen im Liveblog und im Livestream.",
+          "summary": "Erstmals seit Apollo 17 startet die US-Raumfahrtbehörde Nasa eine Mondmission. Drei Astronauten und eine Astronautin begeben sich im »Orion«-Raumschiff auf eine rund zehntägige Flugbahn. Alle Entwicklungen im Liveblog und im Livestream.",
           "source": "Spiegel"
         },
         {
@@ -45,12 +39,24 @@
           "url": "https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss",
           "summary": "Iran attackiert Israel laut Medienberichten massiv mit Raketen, während das jüdische Pessach-Fest beginnt. Und: Iran hat laut Donald Trump um eine Waffenruhe gebeten. Teheran bestreitet das.",
           "source": "Spiegel"
+        },
+        {
+          "title": "USA: Darum setzte sich Donald Trump in den Supreme Court",
+          "url": "https://www.spiegel.de/ausland/usa-darum-setzte-sich-donald-trump-in-den-supreme-court-a-931e61c6-9c3f-4053-a8e4-a98aeaa19791#ref=rss",
+          "summary": "Als erster amtierender Präsident hat Donald Trump eine Anhörung im Obersten Gerichtshof besucht. Er will das Recht auf Staatsbürgerschaft qua Geburt einschränken. Doch die Richter zeigen sich skeptisch.",
+          "source": "Spiegel"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Dobrindt kritisiert Cannabis-Bericht - Wissenschaftler \"enttäuscht\"",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/cannabis-bericht-102.html",
+          "summary": "Ein Zwischenbericht über die Teillegalisierung von Cannabis sorgt für Diskussionen. Innenminister Dobrindt kritisiert ein \"verzerrtes Bild\". Die Wissenschaftler wehren sich, man müsse den Bericht zuerst lesen. Von Claudia Kornmeier.",
+          "source": "Tagesschau"
+        },
         {
           "title": "19 tote Migranten im Mittelmeer geborgen",
           "url": "https://www.tagesschau.de/ausland/europa/tote-fluechtlingsboot-lampedusa-100.html",
@@ -61,12 +67,6 @@
           "title": "Orbans Wahlkampagne in Ungarn: Die Nervosität steigt",
           "url": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-orban-102.html",
           "summary": "Anderthalb Wochen vor der Wahl in Ungarn steht Regierungschef Orban unter Druck. In Umfragen liegt seine Partei zurück. Der Wahlkampf ist durch aggressive Rhetorik geprägt. Im Endspurt setzt er auf eine Social-Media-Kampagne.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Kommentar: Und wieder verstolpert sich der Kanzler",
-          "url": "https://www.tagesschau.de/kommentar/merz-syrer-quote-100.html",
-          "summary": "Mit seiner Aussage zur Rückkehr von Syrern hat Kanzler Merz einmal mehr gezündelt, meint Georg Schwarte. Und das ohne Not. Eine vertane Chance - denn genauso gut hätte Merz einmal Mut machen können.",
           "source": "Tagesschau"
         }
       ]
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Raumfahrt: Erste Mondmission seit 1972: Astronauten in Kapsel angeschnallt",
+          "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-start-uhrzeit-deutsche-zeit-astronauten-rakete-livestream-li.3460807",
+          "summary": "Zum ersten Mal seit mehr als 50 Jahren schickt die Nasa wieder Menschen zum Mond. Der Start der Artemis-2-Mission in Cape Canaveral wird von 0. 24 Uhr an (deutsche Zeit) erwartet. Verfolgen Sie den Countdown im Livestream.",
+          "source": "SZ"
+        },
+        {
+          "title": "Space-X: Elon Musk plant den größten Börsengang der Geschichte",
+          "url": "https://www.sueddeutsche.de/wirtschaft/space-x-boersengang-elon-musk-li.3461905",
+          "summary": "1,75 Billionen Dollar soll sein Raumfahrtkonzern wert sein. Musks Angebot:  Wer an mich glaubt und investiert, wird reich und darf sich gut fühlen, an der Zukunft der Menschheit mitgearbeitet zu haben.",
+          "source": "SZ"
+        },
+        {
           "title": "Krieg in Nahost: Trump: Iran bittet um Waffenruhe – Teheran widerspricht",
           "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-trump-nato-austritt-li.3458356",
           "summary": "Der US-Präsident behauptet, Iran habe um einen Waffenstillstand gebeten. Aus Teheran kommt umgehend das Dementi. Israel meldet den größten Raketenangriff Irans seit Beginn des Krieges.",
-          "source": "SZ"
-        },
-        {
-          "title": "Raumfahrt: Erste Mondmission seit 1972: Astronauten auf Weg zur Rakete",
-          "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-start-uhrzeit-deutsche-zeit-astronauten-rakete-li.3460807",
-          "summary": "Es wäre das erste Mal seit mehr als 50 Jahren, dass wieder Menschen zum Mond fliegen. Der Start der Artemis 2 Mission in Cape Canaveral wird von 0. 24 Uhr an (deutsche Zeit) erwartet. Zehntausende Schaulustige beziehen Stellung.",
-          "source": "SZ"
-        },
-        {
-          "title": "USA: US-Geburtsrecht: Supreme Court  skeptisch gegenüber Trumps Einschränkungen",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-supreme-court-sketisch-us-geburtssrecht-verfassung-ballsaal-trump-li.3456315",
-          "summary": "Selbst konservative Richter des Obersten US-Gerichts zweifeln an der Verfassungsmäßigkeit  der Anordnungen des US-Präsidenten.",
           "source": "SZ"
         }
       ]
