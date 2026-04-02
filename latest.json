@@ -1,20 +1,20 @@
 {
-  "generated": "2026-04-01T22:00:07.801Z",
-  "timestamp": "2.4.2026, 00:00:07",
+  "generated": "2026-04-02T02:00:09.123Z",
+  "timestamp": "2.4.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Wie die Europäer die Ukraine künftig unterstützen wollen",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/wie-die-europaeer-die-ukraine-kuenftig-unterstuetzen-wollen-200694389.html",
-          "summary": "Die EU-Außenminister stehen bei ihrem Treffen in Kiew vor vielen ungelösten Fragen. Wie umgehen mit Trump und Orbán? Und: Darf die Ukraine bald beitreten?",
+          "title": "Liveblog Irankrieg: Trump sieht USA kurz vor Ziel im Iran-Konflikt",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-iran-bestreitet-trump-um-waffenruhe-gebeten-zu-haben-faz-200583539.html",
+          "summary": "Der US-Präsident kündigt eine Fortsetzung harter Militärschläge in den nächsten zwei bis drei Wochen an +++ Britische Regierung: 35 Länder beraten am Donnerstag über Straße von Hormus +++ Trump nennt NATO „Papiertiger“ +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Iran bestreitet, Trump um Waffenruhe gebeten zu haben",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-iran-bestreitet-trump-um-waffenruhe-gebeten-zu-haben-faz-200583539.html",
-          "summary": "Trump: Iran hat USA um Waffenruhe gebeten +++ Britische Regierung: 35 Länder beraten am Donnerstag über Straße von Hormus +++ Trump nennt NATO „Papiertiger“ +++ US-Präsident will Allianz mehr als „hinterfragen“ +++ alle Entwicklungen im Liveblog",
+          "title": "F.A.Z. Podcast für Deutschland: Iranexperte Posch: „Iran hat die Schlacht gewonnen“",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/iranexperte-posch-iran-hat-die-schlacht-gewonnen-200692817.html",
+          "summary": "Trump will in einer Rede an die Nation über wichtige Entwicklungen im Irankrieg informieren. Wir sprechen über Szenarien und die Frage, ob Iran den Krieg nicht längst gewonnen hat.",
           "source": "FAZ"
         },
         {
@@ -29,15 +29,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Artemis II: So läuft die erste Mondmission seit 1972 - alle Entwicklungen live",
+          "title": "Artemis II: Start geglückt, Artemis 2 hebt ab – vier Astronauten auf dem Weg zum Mond, alle Entwicklungen live",
           "url": "https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss",
-          "summary": "Erstmals seit Apollo 17 startet die US-Raumfahrtbehörde Nasa eine Mondmission. Drei Astronauten und eine Astronautin begeben sich im »Orion«-Raumschiff auf eine rund zehntägige Flugbahn. Alle Entwicklungen im Liveblog und im Livestream.",
+          "summary": "Erfolgreicher Start im Kennedy Space Center: Die Astronauten in der Raumkapsel »Orion« treten ihre 400. 000 Kilometer lange Reise zum Mond an. Alle Entwicklungen im Liveblog.",
           "source": "Spiegel"
         },
         {
-          "title": "Iran-News heute: Israelische Medien melden »größten Raketenangriff« aus Iran seit Kriegsbeginn",
-          "url": "https://www.spiegel.de/ausland/iran-news-heute-usa-werden-iran-sehr-bald-verlassen-a-f1eb25eb-380f-461b-8a19-f2d43b131599#ref=rss",
-          "summary": "Iran attackiert Israel laut Medienberichten massiv mit Raketen, während das jüdische Pessach-Fest beginnt. Und: Iran hat laut Donald Trump um eine Waffenruhe gebeten. Teheran bestreitet das.",
+          "title": "Iran-News heute: US-Geheimdienste zweifeln an Teherans Verhandlungswillen",
+          "url": "https://www.spiegel.de/ausland/iran-news-heute-us-geheimdienste-zweifeln-an-teherans-verhandlungswillen-a-8d01d13b-430f-4a0b-a0be-b7f83cee8058#ref=rss",
+          "summary": "Irans Führung ist offenbar nicht zu Friedensgesprächen bereit. Frankreich findet keine Hinweise auf Minen in der Straße von Hormus. Und: Russen evakuieren Mitarbeiter aus Kernkraftwerk in Iran.",
           "source": "Spiegel"
         },
         {
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "NASA-Mondmission Artemis 2 ins All gestartet",
+          "url": "https://www.tagesschau.de/ausland/amerika/artemis-2-mission-100.html",
+          "summary": "Mehrmals wurde der Start von Artemis 2 verschoben - nun ist er geglückt: Um kurz nach Mitternacht deutscher Zeit hob die Trägerrakete mit der Orion-Kapsel ab. Damit schickt die NASA erstmals seit 1972 wieder Menschen in Richtung Mond.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Dobrindt kritisiert Cannabis-Bericht - Wissenschaftler \"enttäuscht\"",
           "url": "https://www.tagesschau.de/inland/gesellschaft/cannabis-bericht-102.html",
           "summary": "Ein Zwischenbericht über die Teillegalisierung von Cannabis sorgt für Diskussionen. Innenminister Dobrindt kritisiert ein \"verzerrtes Bild\". Die Wissenschaftler wehren sich, man müsse den Bericht zuerst lesen. Von Claudia Kornmeier.",
@@ -61,12 +67,6 @@
           "title": "19 tote Migranten im Mittelmeer geborgen",
           "url": "https://www.tagesschau.de/ausland/europa/tote-fluechtlingsboot-lampedusa-100.html",
           "summary": "Im Mittelmeer zwischen Italien und Libyen sind 19 Migranten tot in einem Boot gefunden worden. Vermutlich starben sie an Unterkühlung. Auch vor dem türkischen Badeort Bodrum kamen 19 Migranten ums Leben.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Orbans Wahlkampagne in Ungarn: Die Nervosität steigt",
-          "url": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-orban-102.html",
-          "summary": "Anderthalb Wochen vor der Wahl in Ungarn steht Regierungschef Orban unter Druck. In Umfragen liegt seine Partei zurück. Der Wahlkampf ist durch aggressive Rhetorik geprägt. Im Endspurt setzt er auf eine Social-Media-Kampagne.",
           "source": "Tagesschau"
         }
       ]
@@ -98,9 +98,9 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Raumfahrt: Erste Mondmission seit 1972: Astronauten in Kapsel angeschnallt",
+          "title": "Raumfahrt: Take-off der Mondmission geglückt: Artemis 2 unterwegs",
           "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-start-uhrzeit-deutsche-zeit-astronauten-rakete-livestream-li.3460807",
-          "summary": "Zum ersten Mal seit mehr als 50 Jahren schickt die Nasa wieder Menschen zum Mond. Der Start der Artemis-2-Mission in Cape Canaveral wird von 0. 24 Uhr an (deutsche Zeit) erwartet. Verfolgen Sie den Countdown im Livestream.",
+          "summary": "Zum ersten Mal seit mehr als 50 Jahren schickt die Nasa wieder Menschen zum Mond. Die vier Astronauten sind nun zehn Tage im All und sollen den Mond umrunden - und so weit entfernt von der Erde sein wie noch kein Mensch zuvor.",
           "source": "SZ"
         },
         {
@@ -110,9 +110,9 @@
           "source": "SZ"
         },
         {
-          "title": "Krieg in Nahost: Trump: Iran bittet um Waffenruhe – Teheran widerspricht",
-          "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-trump-nato-austritt-li.3458356",
-          "summary": "Der US-Präsident behauptet, Iran habe um einen Waffenstillstand gebeten. Aus Teheran kommt umgehend das Dementi. Israel meldet den größten Raketenangriff Irans seit Beginn des Krieges.",
+          "title": "Krieg in Nahost: Trump: „Wir werden in den nächsten zwei, drei Wochen sehr hart zuschlagen“",
+          "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-trump-rede-nation-li.3458356",
+          "summary": "Bei einer Rede an die Nation kündigt der US-Präsident abermals ein baldiges Kriegsende an - betont aber gleichzeitig, dass dieser noch mindestens mehrere Wochen weitergehe.",
           "source": "SZ"
         }
       ]
