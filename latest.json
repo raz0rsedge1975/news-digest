@@ -1,26 +1,26 @@
 {
-  "generated": "2026-04-02T02:00:09.123Z",
-  "timestamp": "2.4.2026, 04:00:09",
+  "generated": "2026-04-02T06:00:25.049Z",
+  "timestamp": "2.4.2026, 08:00:25",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog Irankrieg: Trump sieht USA kurz vor Ziel im Iran-Konflikt",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-iran-bestreitet-trump-um-waffenruhe-gebeten-zu-haben-faz-200583539.html",
-          "summary": "Der US-Präsident kündigt eine Fortsetzung harter Militärschläge in den nächsten zwei bis drei Wochen an +++ Britische Regierung: 35 Länder beraten am Donnerstag über Straße von Hormus +++ Trump nennt NATO „Papiertiger“ +++ alle Entwicklungen im Liveblog",
+          "title": "Live-Ansprache zu Iran: Teleprompter-Trump lobt die eigenen Erfolge im Irankrieg",
+          "url": "https://www.faz.net/aktuell/politik/donald-trump-gibt-sich-ueberraschend-zahm-in-iran-ansprache-accg-200695478.html",
+          "summary": "Nach den scharfen Tönen der vergangenen Tage gibt sich Donald Trump in seiner ersten Live-Ansprache zum Krieg in Iran verhältnismäßig zahm. Die positive Botschaft gilt den eigenen Bürgern.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Liveblog Irankrieg: Israel meldet drei Angriffswellen aus Iran",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-israel-meldet-drei-angriffswellen-aus-iran-faz-200583539.html",
+          "summary": "Mehrere Verletzte bei Einschlägen im Zentrum Israels +++ Trump sieht USA kurz vor Ziel im Iran-Konflikt +++ Britische Regierung: 35 Länder beraten am Donnerstag über Straße von Hormus +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         },
         {
           "title": "F.A.Z. Podcast für Deutschland: Iranexperte Posch: „Iran hat die Schlacht gewonnen“",
           "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/iranexperte-posch-iran-hat-die-schlacht-gewonnen-200692817.html",
           "summary": "Trump will in einer Rede an die Nation über wichtige Entwicklungen im Irankrieg informieren. Wir sprechen über Szenarien und die Frage, ob Iran den Krieg nicht längst gewonnen hat.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Trump und die Nato: Der Supervulkan speit wieder",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-rede-zu-iran-krieg-wer-glaubt-noch-dass-die-usa-europa-bei-einem-angriff-russlands-beistuenden-200693161.html",
-          "summary": "Wer kann jetzt noch glauben, dass die USA den Europäern bei einem Angriff Russlands beistehen würden? Putin wohl kaum.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Artemis II: Start geglückt, Artemis 2 hebt ab – vier Astronauten auf dem Weg zum Mond, alle Entwicklungen live",
-          "url": "https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss",
-          "summary": "Erfolgreicher Start im Kennedy Space Center: Die Astronauten in der Raumkapsel »Orion« treten ihre 400. 000 Kilometer lange Reise zum Mond an. Alle Entwicklungen im Liveblog.",
+          "title": "Donald Trumps Rede an die Nation: Der US-Präsident redet den Sieg herbei",
+          "url": "https://www.spiegel.de/ausland/donald-trumps-rede-an-die-nation-der-us-praesident-redet-den-sieg-herbei-a-e959ce93-dd94-4246-a46f-b408e2b79859#ref=rss",
+          "summary": "Per Fernsehansprache wollte Donald Trump den Amerikanern den Irankrieg erklären. Doch mehr als alte Floskeln kamen nicht. Stattdessen dürfte der US-Präsident die Angriffe nun eskalieren lassen.",
           "source": "Spiegel"
         },
         {
-          "title": "Iran-News heute: US-Geheimdienste zweifeln an Teherans Verhandlungswillen",
-          "url": "https://www.spiegel.de/ausland/iran-news-heute-us-geheimdienste-zweifeln-an-teherans-verhandlungswillen-a-8d01d13b-430f-4a0b-a0be-b7f83cee8058#ref=rss",
-          "summary": "Irans Führung ist offenbar nicht zu Friedensgesprächen bereit. Frankreich findet keine Hinweise auf Minen in der Straße von Hormus. Und: Russen evakuieren Mitarbeiter aus Kernkraftwerk in Iran.",
+          "title": "News: Donald Trump, Irankrieg, Mondmission, Artemis, Friedrich Merz, Syrien, Papst Leo",
+          "url": "https://www.spiegel.de/politik/deutschland/news-donald-trump-irankrieg-mondmission-artemis-friedrich-merz-syrien-papst-leo-a-e42123c6-d996-4b3d-ba62-eed22c83e2b3#ref=rss",
+          "summary": "Donald Trump gerät in Erklärungsnot. Vier Astronauten sind auf dem Weg zum Mond. Der Kanzler stiftet Verwirrung. Das ist die Lage am Donnerstagmorgen.",
           "source": "Spiegel"
         },
         {
-          "title": "USA: Darum setzte sich Donald Trump in den Supreme Court",
-          "url": "https://www.spiegel.de/ausland/usa-darum-setzte-sich-donald-trump-in-den-supreme-court-a-931e61c6-9c3f-4053-a8e4-a98aeaa19791#ref=rss",
-          "summary": "Als erster amtierender Präsident hat Donald Trump eine Anhörung im Obersten Gerichtshof besucht. Er will das Recht auf Staatsbürgerschaft qua Geburt einschränken. Doch die Richter zeigen sich skeptisch.",
+          "title": "Artemis 2: Spektakulärer Start für Nasa-Mondmission",
+          "url": "https://www.spiegel.de/wissenschaft/weltall/artemis-2-spektakulaerer-start-fuer-nasa-mondmission-a-b3138eba-7ae5-4013-961f-9a6dc0b5f46a#ref=rss",
+          "summary": "Spektakulärer Start für »Artemis 2«: Drei Männer und eine Frau an Bord der US-Mondkapsel umkreisen gerade noch die Erde – doch schon bald werden sie weiter von ihr entfernt sein als je ein Mensch zuvor.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "NASA-Mondmission Artemis 2 ins All gestartet",
-          "url": "https://www.tagesschau.de/ausland/amerika/artemis-2-mission-100.html",
-          "summary": "Mehrmals wurde der Start von Artemis 2 verschoben - nun ist er geglückt: Um kurz nach Mitternacht deutscher Zeit hob die Trägerrakete mit der Orion-Kapsel ab. Damit schickt die NASA erstmals seit 1972 wieder Menschen in Richtung Mond.",
+          "title": "Marktbericht: DAX-Erholung wohl von kurzer Dauer",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ende-erholung-rede-trump-100.html",
+          "summary": "Die jüngste Markterholung dürfte am Gründonnerstag abrupt enden. Der US-Präsident versetzte mit der Ankündigung \"extrem harter\" Angriffe gegen Iran den Hoffnungen auf ein Kriegsende einen Dämpfer.",
           "source": "Tagesschau"
         },
         {
-          "title": "Dobrindt kritisiert Cannabis-Bericht - Wissenschaftler \"enttäuscht\"",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/cannabis-bericht-102.html",
-          "summary": "Ein Zwischenbericht über die Teillegalisierung von Cannabis sorgt für Diskussionen. Innenminister Dobrindt kritisiert ein \"verzerrtes Bild\". Die Wissenschaftler wehren sich, man müsse den Bericht zuerst lesen. Von Claudia Kornmeier.",
+          "title": "Artemis 2: NASA jubelt über erfolgreichen Raketenstart",
+          "url": "https://www.tagesschau.de/ausland/amerika/artemis-2-start-102.html",
+          "summary": "Geglückter Raketenstart in Florida: Vier Menschen sind an Bord einer Orion-Raumkapsel auf dem Weg zum Mond. NASA-Chef Isaacman sprach von einer Basis für \"gigantische Schritte\". Nach dem Start gab es einen Schreckmoment.",
           "source": "Tagesschau"
         },
         {
-          "title": "19 tote Migranten im Mittelmeer geborgen",
-          "url": "https://www.tagesschau.de/ausland/europa/tote-fluechtlingsboot-lampedusa-100.html",
-          "summary": "Im Mittelmeer zwischen Italien und Libyen sind 19 Migranten tot in einem Boot gefunden worden. Vermutlich starben sie an Unterkühlung. Auch vor dem türkischen Badeort Bodrum kamen 19 Migranten ums Leben.",
+          "title": "Nachfolge von UN-Generalsekretär: Wer folgt auf Guterres?",
+          "url": "https://www.tagesschau.de/ausland/amerika/guterres-nachfolge-100.html",
+          "summary": "Ende des Jahres endet die Amtszeit von UN-Generalsekretär Guterres. Auf die Nachfolgerin oder den Nachfolger warten enorme Herausforderungen. Gestern lief eine Nominierungsfrist aus, es gibt bislang vier Kandidaten. Von Giselle Ucar.",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Ramstein: Deutschlands stille Kriegsbeteiligung",
+          "url": "https://www.telepolis.de/article/Ramstein-Deutschlands-stille-Kriegsbeteiligung-11242983.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Ist Deutschland im Iran Kriegspartei? Ein neues Bundestagsgutachten nährt den Verdacht der Beihilfe. Warum der Krieg ohne Ramstein nicht führbar wäre.",
+          "source": "Telepolis"
+        },
         {
           "title": "Hannah Arendt: Die Kraft des freien Denkens",
           "url": "https://www.telepolis.de/article/Hannah-Arendt-Die-Kraft-des-freien-Denkens-11129879.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
@@ -85,12 +91,6 @@
           "url": "https://www.telepolis.de/article/ChatGPT-Dein-vermeintlich-bester-Freund-hoert-mit-10631607.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "OpenAI scannt automatisch jeden Chat und gibt Inhalte bei Verdacht an Moderatoren – und in bestimmten Fällen sogar an die Polizei weiter.",
           "source": "Telepolis"
-        },
-        {
-          "title": "Kein Aprilscherz: Heute fliegen erstmals seit 1972 wieder Menschen zum Mond",
-          "url": "https://www.telepolis.de/article/Kein-Aprilscherz-Heute-fliegen-erstmals-seit-1972-wieder-Menschen-zum-Mond-11242837.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Die Nasa steht kurz vor dem Start der ersten bemannten Mondmission seit über 50 Jahren. Vier Astronauten werden den Erdtrabant umrunden. Wann es genau losgeht.",
-          "source": "Telepolis"
         }
       ]
     },
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Raumfahrt: Take-off der Mondmission geglückt: Artemis 2 unterwegs",
-          "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-start-uhrzeit-deutsche-zeit-astronauten-rakete-livestream-li.3460807",
-          "summary": "Zum ersten Mal seit mehr als 50 Jahren schickt die Nasa wieder Menschen zum Mond. Die vier Astronauten sind nun zehn Tage im All und sollen den Mond umrunden - und so weit entfernt von der Erde sein wie noch kein Mensch zuvor.",
+          "title": "Raumfahrt: Take-off der Mondmission geglückt - Probleme mit Toilette behoben",
+          "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-start-geglueckt-probleme-toilette-li.3460807",
+          "summary": "Zum ersten Mal seit mehr als 50 Jahren schickt die Nasa wieder Menschen zum Mond. Vier Astronauten sollen den Mond umrunden. Ein Problem mit der Toilette an Bord der „Orion“-Kapsel ist mittlerweile behoben.",
           "source": "SZ"
         },
         {
-          "title": "Space-X: Elon Musk plant den größten Börsengang der Geschichte",
-          "url": "https://www.sueddeutsche.de/wirtschaft/space-x-boersengang-elon-musk-li.3461905",
-          "summary": "1,75 Billionen Dollar soll sein Raumfahrtkonzern wert sein. Musks Angebot:  Wer an mich glaubt und investiert, wird reich und darf sich gut fühlen, an der Zukunft der Menschheit mitgearbeitet zu haben.",
+          "title": "TV-Kritik: Zu viel Welt für 65 Minuten",
+          "url": "https://www.sueddeutsche.de/medien/markus-lanz-peter-altmaier-iran-li.3462359",
+          "summary": "Markus Lanz fordert Politik-Veteran Peter Altmaier heraus und erforscht abstrakte Räume: Was es heißt, wenn kein Krieg ist, und warum das Völkerrecht missverstanden wird. Am Schluss wird es diffus.",
           "source": "SZ"
         },
         {
-          "title": "Krieg in Nahost: Trump: „Wir werden in den nächsten zwei, drei Wochen sehr hart zuschlagen“",
-          "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-trump-rede-nation-li.3458356",
-          "summary": "Bei einer Rede an die Nation kündigt der US-Präsident abermals ein baldiges Kriegsende an - betont aber gleichzeitig, dass dieser noch mindestens mehrere Wochen weitergehe.",
+          "title": "Rede an die Nation: Trump will den „Job“ in Iran beenden, bleibt beim Ziel aber vage",
+          "url": "https://www.sueddeutsche.de/politik/usa-iran-trump-rede-an-die-nation-kriegsende-li.3462366",
+          "summary": "Der US-Präsident kündigt an, die USA würden Iran in den nächsten Wochen „extrem hart“ treffen. Antworten auf die fünf wichtigsten Fragen zu Trumps Rede.",
           "source": "SZ"
         }
       ]
