@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T20:00:08.622Z",
-  "timestamp": "3.4.2026, 22:00:08",
+  "generated": "2026-04-03T22:00:14.094Z",
+  "timestamp": "4.4.2026, 00:00:14",
   "news": [
     {
       "source": "FAZ",
@@ -12,9 +12,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Iran schießt amerikanisches Kampfflugzeug ab",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-usa-bestaetigen-abschuss-von-kampfflugzeug-ueber-iran-faz-200583539.html",
-          "summary": "Bestätigung durch USA +++ Bericht: Ein Besatzungsmitglied konnte gerettet werden +++ Französisches Containerschiff passiert offenbar Straße von Hormus +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: Iran will weiteres amerikanisches Kampfflugzeug abgeschossen haben",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-iran-will-weiteres-amerikanisches-kampfflugzeug-abgeschossen-haben-faz-200583539.html",
+          "summary": "Maschine angeblich in Persischen Golf gestürzt +++ Erster Abschuss am Freitag von USA bestätigt  +++ Französisches Containerschiff passiert offenbar Straße von Hormus +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         },
         {
@@ -54,7 +54,7 @@
         {
           "title": "Medienberichte: US-Kampfjet in Iran abgeschossen - Crewmitglied gerettet",
           "url": "https://www.tagesschau.de/ausland/asien/usa-kampfjet-iran-100.html",
-          "summary": "Es ist der erste Verlust durch feindlichen Beschuss seit Beginn der Kämpfe: In Iran ist laut Medienberichten ein US-Kampfjet abgeschossen worden. Ein Besatzungsmitglied wurde offenbar gerettet - eine großangelegte Suche läuft.",
+          "summary": "Es ist der erste Verlust durch feindlichen Beschuss : In Iran ist laut Medienberichten ein US-Jet abgeschossen worden. Eines der beiden Crewmitglieder wurde gerettet. Ein zweites US-Flugzeug soll in der Nähe der Straße von Hormus abgestürzt sein.",
           "source": "Tagesschau"
         },
         {
@@ -98,6 +98,12 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Iran schießt wohl weiteres US-Kampfflugzeug ab",
+          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-news-kampfflugzeug-usa-li.3458356",
+          "summary": "Erstmals seit Kriegsbeginn wird ein US-Kampfflugzeug über Iran abgeschossen – und dann auch noch eines im Persischen Golf.",
+          "source": "SZ"
+        },
+        {
           "title": "Mondmission: So sehen sie die Erde: Astronauten machen Fotos aus dem All",
           "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-foto-erde-li.3460807",
           "summary": "Man kann sich gut vorstellen, wie es den Astronauten beim Anblick der Erde die Sprache verschlägt. Die Crew gibt dem Sender ABC ein Interview.",
@@ -107,12 +113,6 @@
           "title": "Debatte: Über diesen Mann würde man gern mal ein Sachbuch lesen",
           "url": "https://www.sueddeutsche.de/kultur/denis-scheck-ildiko-von-kuerthy-alter-kritik-li.3463180",
           "summary": "Der ARD-Literaturkritiker Denis Scheck bezeichnet Ildikó von Kürthys Bestseller „Alt genug“ als „Nachrichten aus der Schnatterzone der Damentoilette“. Das ist ja interessant.",
-          "source": "SZ"
-        },
-        {
-          "title": "Krieg in Nahost: Erstes US-Kampfflugzeug seit Kriegsbeginn über Iran abgeschossen",
-          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-news-kampfflugzeug-usa-f15-li.3458356",
-          "summary": "US-Spezialkräfte retten eines der beiden Besatzungsmitglieder des Jets. Die Suche nach dem anderen Piloten läuft noch. Doch auch Iran will ihn finden.",
           "source": "SZ"
         }
       ]
