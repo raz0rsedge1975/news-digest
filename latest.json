@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-03T17:33:05.327Z",
-  "timestamp": "3.4.2026, 19:33:05",
+  "generated": "2026-04-03T18:00:12.655Z",
+  "timestamp": "3.4.2026, 20:00:12",
   "news": [
     {
       "source": "FAZ",
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Medienberichte: US-Kampfjet in Iran abgeschossen - Crewmitglied gerettet",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-kampfjet-iran-100.html",
+          "summary": "Es ist der erste Verlust durch feindlichen Beschuss seit Beginn der Kämpfe: In Iran ist ein US-Kampfjet abgeschossen worden. Ein Besatzungsmitglied wurde offenbar gerettet - eine großangelegte Suchaktion läuft noch.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Warum US-Präsident Trump sein Kabinett umbaut",
           "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-kabinett-umbau-faq-100.html",
           "summary": "Mitten im Krieg gegen Iran hat der US-Präsident mit Heimatschutzministerin Noem und Justizministerin Bondi zwei treue Gefolgsleute entlassen. Ein Ablenkungsmanöver?",
@@ -61,12 +67,6 @@
           "title": "Wenn ein Offizier im Klassenzimmer steht",
           "url": "https://www.tagesschau.de/inland/gesellschaft/jugendoffizier-bundeswehr-schule-100.html",
           "summary": "In Krisenzeiten sind Jugendoffiziere der Bundeswehr an Schulen gefragt. Dort treffen sie auf junge Menschen, die Fragen über Krieg, Wehrdienst und Moral umtreiben. Einblicke aus einem Klassenzimmer. Von Claudia Buckenmaier.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Versehrtensport in Butscha: Zurück ins Leben",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-versehrtensport-100.html",
-          "summary": "Die Turnhalle von Butscha blieb während der russischen Besatzung unbeschadet. Heute spielen dort versehrte Kriegsveteranen Sitzvolleyball - auf der Suche nach Normalität. Von Florian Kellermann.",
           "source": "Tagesschau"
         }
       ]
@@ -100,7 +100,7 @@
         {
           "title": "Mondmission: So sehen sie die Erde: Astronauten machen Fotos aus dem All",
           "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-foto-erde-li.3460807",
-          "summary": "Man kann sich gt vorstellen, wie es den Astronauten beim Anblick der Erde die Sprache verschlägt. Die Crew gibt dem Sender ABC ein Interview.",
+          "summary": "Man kann sich gut vorstellen, wie es den Astronauten beim Anblick der Erde die Sprache verschlägt. Die Crew gibt dem Sender ABC ein Interview.",
           "source": "SZ"
         },
         {
