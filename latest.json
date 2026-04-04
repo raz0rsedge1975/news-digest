@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-04T18:00:11.836Z",
-  "timestamp": "4.4.2026, 20:00:11",
+  "generated": "2026-04-04T20:00:09.424Z",
+  "timestamp": "4.4.2026, 22:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Dharavi: Slumdog Milliardär",
-          "url": "https://www.faz.net/aktuell/wirtschaft/dharavi-wie-es-im-groessten-slum-der-welt-aussieht-200685888.html",
-          "summary": "Im Herzen des indischen Aufstiegs liegt eines der größten Slums der Welt. Jetzt soll es weg. Und vor Abhis Hütte beginnt ein Spiel um Reichtum und Macht.",
+          "title": "Wahl in Ungarn: Wie Orbáns Hochburgen in der Peripherie bröckeln",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-ungarn-wie-orbans-hochburgen-in-der-provinz-broeckeln-200700343.html",
+          "summary": "Bei der Wahl am 12. April wird es vor allem auf Ungarns Provinz ankommen. Dort ist einiges in Bewegung geraten. Doch wird das für einen Regierungswechsel reichen?",
           "source": "FAZ"
         },
         {
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Libanon: Wie Christliche Gemeinden im Süden zwischen die Fronten geraten",
+          "url": "https://www.spiegel.de/ausland/libanon-wie-christliche-gemeinden-im-sueden-zwischen-die-fronten-geraten-a-f99218bd-1944-4253-888c-ab2b97341a9e#ref=rss",
+          "summary": "Die libanesische Armee ist aus dem Süden des Landes abgezogen, zu gefährlich sei es dort, während der Krieg zwischen Israel und Hisbollah wieder aufflammt. Die Christen in ihren Dörfern aber bleiben.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Iran-Krieg: Teheran zeigt sich offen für Verhandlungen, Donald Trump droht erneut",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss",
+          "summary": "Eine Staatengruppe um Pakistan will im Krieg zwischen den USA und Iran vermitteln. Teheran gibt sich nun gesprächsbereit. Und US-Präsident Trump erinnert in Großbuchstaben an seine Bedingungen.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Kneipensterben in Deutschland: Zu Dir oder zum Bier?",
           "url": "https://www.spiegel.de/panorama/gesellschaft/kneipensterben-in-deutschland-zu-dir-oder-zum-bier-a-4492912b-105e-4825-9e85-ee41c3eb94c8#ref=rss",
           "summary": "Immer mehr Kneipen machen dicht. Viele Menschen verlieren mit ihnen einen Ort der Gemeinschaft. Was macht das mit ihnen, wenn ihr zweites Wohnzimmer für immer schließt? Tresenbesuche im Ruhrgebiet und in Bayern.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Melania Trump und der Iran: Krieg? Welcher Krieg?",
-          "url": "https://www.spiegel.de/ausland/melania-trump-und-der-iran-krieg-welcher-krieg-a-058a50f3-b082-4ffd-a595-c1c7d9e824a9#ref=rss",
-          "summary": "Welcher Krieg? Frühere First Ladys haben sich demonstrativ für Truppen und Versehrte engagiert. Melania Trump ignoriert die Iranoperation ihres Mannes einfach. Stattdessen bewirbt sie lieber eigene Produkte.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Lungenkrebs-Screening: Wie Hochrisiko-Patienten von Früherkennung profitieren",
-          "url": "https://www.spiegel.de/gesundheit/lungenkrebs-screening-wie-hochrisiko-patienten-von-frueherkennung-profitieren-a-7540f9b1-831a-485f-8aa5-02f7c7995db9#ref=rss",
-          "summary": "Torsten Bauer hat das Screening zur Früherkennung von Lungenkrebs bei Hochrisikopatienten mitentwickelt. Welche Hoffnungen er in das neue Konzept setzt – und warum rauchende Patienten mit Schamgefühlen kämpfen.",
           "source": "Spiegel"
         }
       ]
@@ -51,6 +51,12 @@
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Selenskyj zu Treffen mit Erdoğan: Ukraine und Türkei bauen Sicherheitskooperation aus",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-tuerkei-treffen-100.html",
+          "summary": "Der ukrainische Präsident Selenskyj hat den türkischen Staatschef Erdoğan getroffen. Laut Selenskyj ging es um eine Sicherheitskooperation. Auch die Energieinfrastruktur soll Thema gewesen sein - wobei beide Seiten verschiedene Aspekte betonten.",
+          "source": "Tagesschau"
+        },
         {
           "title": "Rückkehr nach Syrien: \"Jeder, einfach jeder muss zurückkommen\"",
           "url": "https://www.tagesschau.de/ausland/asien/syrien-fluechtlinge-rueckkehrer-100.html",
@@ -61,12 +67,6 @@
           "title": "Altherren in Schweden: Gemeinsam Wandern gegen die Einsamkeit",
           "url": "https://www.tagesschau.de/ausland/europa/schweden-einsamkeit-altherren-wandergruppe-100.html",
           "summary": "Einsamkeit ist ein wachsendes Problem, besonders unter älteren Männern. Nach der Rente brechen oft soziale Kontakte weg, viele fühlen sich isoliert. In Schweden geht eine Gruppe seit zehn Jahren spazieren.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "20 Jahre nach Mord: Hunderte erinnern an Dortmunder NSU-Opfer Kubaşık",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/20-jahre-nsu-mord-100.html",
-          "summary": "Heute jährt sich der Mord des rechtsextremen NSU am Dortmunder Mehmet Kubaşık zum 20. Mal. Hunderte Menschen kamen zur Gedenkveranstaltung - unter ihnen auch NRW-Ministerpräsident Wüst.",
           "source": "Tagesschau"
         }
       ]
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Stuttgart vs. BVB: Turbulentes Ende eines nicht gerade turbulenten Spiels",
+          "url": "https://www.sueddeutsche.de/sport/bvb-vfb-bundesliga-li.3463286",
+          "summary": "War das wirklich Borussia Dortmund? In Stuttgart zeigt der BVB eine rätselhaft teilnahmslose Leistung – dass trotzdem ein 2:0-Erfolg herausspringt, liegt an drei Einwechselspielern.",
+          "source": "SZ"
+        },
+        {
+          "title": "Spanischer Fußball: Real misslingt Generalprobe vor Bayern-Duell",
+          "url": "https://www.sueddeutsche.de/sport/real-madrid-mallorca-muenchen-bayern-mbappe-li.3463411",
+          "summary": "Der spanische Rekordmeister verliert auf Mallorca 1:2. Vor dem Viertelfinal-Hinspiel der Champions League gegen die Münchner nimmt Trainer Arbeloa die Schuld für die Niederlage auf sich.",
+          "source": "SZ"
+        },
+        {
           "title": "FC Bayern in Freiburg: Karl schickt Bayern mit Adrenalin ins Bernabéu",
           "url": "https://www.sueddeutsche.de/sport/bayern-freiburg-bundesliga-li.3463285",
           "summary": "Alle denken an Madrid? Nicht der SC Freiburg. Der Sportclub liefert den Bayern einen harten Kampf, die Münchner wollen aber nicht verlieren. Das Spiel schaukelt sich hoch – bis Lennart Karl das 100. Saisontor seines Klubs erzielt.",
-          "source": "SZ"
-        },
-        {
-          "title": "Benzinpreise: Und plötzlich sind wir bei fünf Mark",
-          "url": "https://www.sueddeutsche.de/wirtschaft/benzinpreise-aktuell-deutschland-massnahmen-bundesregierung-li.3462797",
-          "summary": "Seit 1. April dürfen Tankstellen nur noch einmal pro Tag die Preise erhöhen. Dreimal ging es seither kräftig nach oben – und die Regierung sieht sich unter Druck, rasch neue Ideen zu entwickeln.",
-          "source": "SZ"
-        },
-        {
-          "title": "Krieg in Nahost: Über Iran abgeschossener US-Jet setzt Trump unter Druck",
-          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-news-kampfflugzeug-usa-li.3458356",
-          "summary": "Ein US-Kampfjet stürzt nach feindlichem Beschuss über Iran ab. Eine Rettungsmission läuft. Davor erweckten die USA den Eindruck, die Lufthoheit über Iran erlangt zu haben.",
           "source": "SZ"
         }
       ]
