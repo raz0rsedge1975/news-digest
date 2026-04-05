@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-04T22:00:10.419Z",
-  "timestamp": "5.4.2026, 00:00:10",
+  "generated": "2026-04-05T02:00:11.530Z",
+  "timestamp": "5.4.2026, 04:00:11",
   "news": [
     {
       "source": "FAZ",
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Iran-Krieg: Teheran zeigt sich offen für Verhandlungen, Donald Trump droht erneut",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-teheran-zeigt-sich-offen-fuer-verhandlungen-mit-den-usa-in-pakistan-a-814f4920-aecd-4651-9d8d-bd56651e02a9#ref=rss",
-          "summary": "Eine Staatengruppe um Pakistan will im Krieg zwischen den USA und Iran vermitteln. Teheran gibt sich nun gesprächsbereit. Und US-Präsident Trump erinnert in Großbuchstaben an seine Bedingungen.",
+          "title": "Planet Labs veröffentlicht keine Satellitenbilder des Irankriegs mehr",
+          "url": "https://www.spiegel.de/ausland/planet-labs-veroeffentlicht-keine-satellitenbilder-des-irankriegs-mehr-a-f924405a-da75-4dd2-82c5-dc4e3544a45d#ref=rss",
+          "summary": "Das Unternehmen Planet Labs stellt die Veröffentlichung von Satellitenfotos aus der Konfliktregion ​im Nahen Osten auf unbestimmte Zeit ein. Auch Journalisten und Medien sind betroffen. Hintergrund ist eine Aufforderung der US-Regierung.",
           "source": "Spiegel"
         }
       ]
@@ -51,6 +51,12 @@
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Erste Osternacht als Papst: Leo XIV. ruft zu Frieden auf",
+          "url": "https://www.tagesschau.de/ausland/europa/osternachtfeier-petersdom-ausblick-ostermesse-100.html",
+          "summary": "Papst Leo hat am Abend seine erste Osternacht als Oberhaupt der katholischen Kirche gefeiert. In seiner Predigt rief er zu Einheit und Frieden auf. Heute früh folgt die Ostermesse auf dem Petersplatz. Von Lisa Weiß.",
+          "source": "Tagesschau"
+        },
         {
           "title": "Selenskyj zu Treffen mit Erdoğan: Ukraine und Türkei bauen Sicherheitskooperation aus",
           "url": "https://www.tagesschau.de/ausland/europa/ukraine-tuerkei-treffen-100.html",
@@ -61,12 +67,6 @@
           "title": "Rückkehr nach Syrien: \"Jeder, einfach jeder muss zurückkommen\"",
           "url": "https://www.tagesschau.de/ausland/asien/syrien-fluechtlinge-rueckkehrer-100.html",
           "summary": "Die Bundesregierung hält am Ziel einer Rückkehr vieler syrischer Kriegsflüchtlinge in ihr Heimatland fest. Aus Deutschland sind bislang nur wenige zurückgekehrt, wohl aber aus anderen Ländern. Was berichten sie? Von Sabina Matthay.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Altherren in Schweden: Gemeinsam Wandern gegen die Einsamkeit",
-          "url": "https://www.tagesschau.de/ausland/europa/schweden-einsamkeit-altherren-wandergruppe-100.html",
-          "summary": "Einsamkeit ist ein wachsendes Problem, besonders unter älteren Männern. Nach der Rente brechen oft soziale Kontakte weg, viele fühlen sich isoliert. In Schweden geht eine Gruppe seit zehn Jahren spazieren.",
           "source": "Tagesschau"
         }
       ]
