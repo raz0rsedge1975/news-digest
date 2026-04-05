@@ -1,10 +1,16 @@
 {
-  "generated": "2026-04-05T02:00:11.530Z",
-  "timestamp": "5.4.2026, 04:00:11",
+  "generated": "2026-04-05T06:00:36.637Z",
+  "timestamp": "5.4.2026, 08:00:36",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Liveblog Irankrieg: „Wir haben ihn“: Trump bestätigt Rettung von vermisstem US-Soldaten",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-berichte-in-iran-vermisster-us-soldat-gerettet-faz-200583539.html",
+          "summary": "Zweites Besatzungsmitglied des abgeschossenen Kampfflugzeugs ist in Sicherheit +++ Trump pocht auf Ultimatum +++ Iran meldet Angriff in der Nähe von Atomkraftwerk +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ"
+        },
         {
           "title": "Wahl in Ungarn: Wie Orbáns Hochburgen in der Peripherie bröckeln",
           "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-ungarn-wie-orbans-hochburgen-in-der-provinz-broeckeln-200700343.html",
@@ -12,15 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Spezialkräfte sollen US-Offizier retten",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-spezialkraefte-sollen-us-offizier-retten-faz-200583539.html",
-          "summary": "Suche nach Besatzungsmitglied aus abgeschossenem Kampfflugzeug +++ Trump pocht auf Ultimatum +++ Iran meldet Angriff in der Nähe von Atomkraftwerk +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "Nach Trumps Ansprache: Das wäre ein bitteres Ergebnis des Irankriegs",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-als-torwaechter-an-der-strasse-von-hormus-200700428.html",
-          "summary": "Macron sagt, man könne die Straße von Hormus nur im Einvernehmen mit Iran öffnen. Damit würde das Regime zum Torwächter an einer Lebensader der Weltwirtschaft.",
+          "title": "Bundeswehr: Männer bis 45 müssen längeren Auslandsaufenthalt melden",
+          "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-maenner-bis-45-muessen-auslandsaufenthalt-melden-accg-200701549.html",
+          "summary": "Mit Jahresbeginn wurde für junge Männer eine verpflichtende Musterung eingeführt. Eine andere neue Regel wurde öffentlich kaum diskutiert. Sie betrifft potentiell sehr viele.",
           "source": "FAZ"
         }
       ]
@@ -29,9 +29,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Libanon: Wie Christliche Gemeinden im Süden zwischen die Fronten geraten",
-          "url": "https://www.spiegel.de/ausland/libanon-wie-christliche-gemeinden-im-sueden-zwischen-die-fronten-geraten-a-f99218bd-1944-4253-888c-ab2b97341a9e#ref=rss",
-          "summary": "Die libanesische Armee ist aus dem Süden des Landes abgezogen, zu gefährlich sei es dort, während der Krieg zwischen Israel und Hisbollah wieder aufflammt. Die Christen in ihren Dörfern aber bleiben.",
+          "title": "Iran-Krieg: Abgeschossener und vermisster US-Soldat gerettet",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-abgeschossener-und-vermisster-us-soldat-gerettet-a-dc157101-c4ac-4079-85af-f062599cc356#ref=rss",
+          "summary": "Suchtrupps der US-Armee haben das vermisste Besatzungsmitglied eines Kampfjets in Iran gefunden. Er sei verletzt, aber in Sicherheit, schrieb US-Präsident Trump. Medien berichten von einem »heftigem Feuergefecht«.",
           "source": "Spiegel"
         },
         {
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Planet Labs veröffentlicht keine Satellitenbilder des Irankriegs mehr",
-          "url": "https://www.spiegel.de/ausland/planet-labs-veroeffentlicht-keine-satellitenbilder-des-irankriegs-mehr-a-f924405a-da75-4dd2-82c5-dc4e3544a45d#ref=rss",
-          "summary": "Das Unternehmen Planet Labs stellt die Veröffentlichung von Satellitenfotos aus der Konfliktregion ​im Nahen Osten auf unbestimmte Zeit ein. Auch Journalisten und Medien sind betroffen. Hintergrund ist eine Aufforderung der US-Regierung.",
+          "title": "Deutsche Wirtschaft: Dax-Konzerne zahlen so viel Dividende wie nie – Allianz vorne",
+          "url": "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-dax-konzerne-zahlen-so-viel-dividende-wie-nie-allianz-vorne-a-5ab11da5-ef00-44db-a00e-62c7f747e5ad#ref=rss",
+          "summary": "Krieg, Zollstreit, Krisen – die Wirtschaft steckt in der Flaute. Doch viele der im Dax notierten Unternehmen trifft das kaum, sie heben ihre Dividenden für Aktionäre sogar an. In einer Branche allerdings wird stark gekürzt.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Erste Osternacht als Papst: Leo XIV. ruft zu Frieden auf",
-          "url": "https://www.tagesschau.de/ausland/europa/osternachtfeier-petersdom-ausblick-ostermesse-100.html",
-          "summary": "Papst Leo hat am Abend seine erste Osternacht als Oberhaupt der katholischen Kirche gefeiert. In seiner Predigt rief er zu Einheit und Frieden auf. Heute früh folgt die Ostermesse auf dem Petersplatz. Von Lisa Weiß.",
+          "title": "Iran-Krieg: USA retten zweiten Piloten des abgestürzten Kampfjets",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-kampfjet-mitglieder-gerettet-100.html",
+          "summary": "Nach dem Absturz eines F-15-Kampfjets in Iran haben US-Streitkräfte auch das zweite Crewmitglied gerettet. Der Soldat sei in Sicherheit, erklärte US-Präsident Trump. Medien zufolge soll es bei dem Einsatz zu heftigen Gefechten gekommen sein.",
           "source": "Tagesschau"
         },
         {
-          "title": "Selenskyj zu Treffen mit Erdoğan: Ukraine und Türkei bauen Sicherheitskooperation aus",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-tuerkei-treffen-100.html",
-          "summary": "Der ukrainische Präsident Selenskyj hat den türkischen Staatschef Erdoğan getroffen. Laut Selenskyj ging es um eine Sicherheitskooperation. Auch die Energieinfrastruktur soll Thema gewesen sein - wobei beide Seiten verschiedene Aspekte betonten.",
+          "title": "Schengenraum: Polen verlängert Grenzkontrollen zu Deutschland",
+          "url": "https://www.tagesschau.de/ausland/europa/grenzkontrolle-verlaengerung-polen-100.html",
+          "summary": "In Sachsen arbeiten 20. 000 Polen, von denen täglich mehr als 10. 000 die Grenze überqueren. Polen verlängert erneut die Grenzkontrollen zu Deutschland - für weitere sechs Monate. Das sorgt für Unmut.",
           "source": "Tagesschau"
         },
         {
-          "title": "Rückkehr nach Syrien: \"Jeder, einfach jeder muss zurückkommen\"",
-          "url": "https://www.tagesschau.de/ausland/asien/syrien-fluechtlinge-rueckkehrer-100.html",
-          "summary": "Die Bundesregierung hält am Ziel einer Rückkehr vieler syrischer Kriegsflüchtlinge in ihr Heimatland fest. Aus Deutschland sind bislang nur wenige zurückgekehrt, wohl aber aus anderen Ländern. Was berichten sie? Von Sabina Matthay.",
+          "title": "Deshalb könnte der nächste Krieg am Horn von Afrika drohen",
+          "url": "https://www.tagesschau.de/ausland/afrika/horn-von-afrika-aethiopien-eritrea-100.html",
+          "summary": "Für seine Annäherung an den Erzfeind Eritrea erhielt Äthiopiens Präsident einst den Friedensnobelpreis. Jetzt droht ein neuer Krieg, der die ganze Region in die Krise stürzen könnte. Denn Äthiopien will unbedingt einen Zugang zum Meer.",
           "source": "Tagesschau"
         }
       ]
@@ -98,6 +98,12 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Trump: US-Soldat gerettet und in Sicherheit",
+          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-news-soldat-usa-gerettet-li.3458356",
+          "summary": "„Wir haben ihn“, schreibt der US-Präsident auf seiner Plattform Truth Social. Der vermisste Soldat sei „wohlbehalten“.",
+          "source": "SZ"
+        },
+        {
           "title": "Stuttgart vs. BVB: Turbulentes Ende eines nicht gerade turbulenten Spiels",
           "url": "https://www.sueddeutsche.de/sport/bvb-vfb-bundesliga-li.3463286",
           "summary": "War das wirklich Borussia Dortmund? In Stuttgart zeigt der BVB eine rätselhaft teilnahmslose Leistung – dass trotzdem ein 2:0-Erfolg herausspringt, liegt an drei Einwechselspielern.",
@@ -107,12 +113,6 @@
           "title": "Spanischer Fußball: Real misslingt Generalprobe vor Bayern-Duell",
           "url": "https://www.sueddeutsche.de/sport/real-madrid-mallorca-muenchen-bayern-mbappe-li.3463411",
           "summary": "Der spanische Rekordmeister verliert auf Mallorca 1:2. Vor dem Viertelfinal-Hinspiel der Champions League gegen die Münchner nimmt Trainer Arbeloa die Schuld für die Niederlage auf sich.",
-          "source": "SZ"
-        },
-        {
-          "title": "28. Spieltag der Bundesliga: Neun-Tore-Spektakel in Leverkusen, Fairplay in Hamburg",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-28-spieltag-highlights-ergebnisse-li.3463284",
-          "summary": "Bayer 04 gewinnt nach Rückstand ein turbulentes Duell mit Dieter Heckings Wolfsburgern. Ein Österreicher tut sich als Ehrenmann hervor, und Mainz überrascht weiter. Das Wichtigste zum Spieltag.",
           "source": "SZ"
         }
       ]
