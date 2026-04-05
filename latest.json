@@ -1,26 +1,26 @@
 {
-  "generated": "2026-04-05T10:00:14.992Z",
-  "timestamp": "5.4.2026, 12:00:14",
+  "generated": "2026-04-05T14:00:11.013Z",
+  "timestamp": "5.4.2026, 16:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Zukunft der Weltmacht: „China hat eine Vision der Modernisierung, Europa nicht“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/china-hoert-xi-naechstes-jahr-auf-accg-200689680.html",
-          "summary": "Die Sinologin Marina Rudyak erklärt, was China und seinen mächtigen Staatschef Xi Jinping antreibt, wer neben ihm das Sagen hat, welche Rolle seine Frau spielt – und wie Peking über Europa, Amerika und Russland denkt.",
+          "title": "Generationenvergleich: 90 Minuten mehr mit den Kindern",
+          "url": "https://www.faz.net/aktuell/finanzen/eltern-heute-verbringen-mehr-zeit-mit-ihren-kindern-accg-200698246.html",
+          "summary": "Eltern widmen ihrem Nachwuchs heute doppelt so viel Zeit wie frühere Generationen. Dafür verzichten sie auf andere Dinge.",
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: „Wir haben ihn“: Trump bestätigt Rettung von vermisstem US-Soldaten",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-berichte-in-iran-vermisster-us-soldat-gerettet-faz-200583539.html",
-          "summary": "Zweites Besatzungsmitglied des abgeschossenen Kampfflugzeugs ist in Sicherheit +++ Trump pocht auf Ultimatum +++ Fabrik in Emiraten in Brand +++ alle Entwicklungen im Liveblog",
+          "title": "Alltag ohne Smartphones: Legt mal das Handy weg!",
+          "url": "https://www.faz.net/aktuell/politik/inland/digitale-sucht-legt-mal-das-handy-weg-accg-200698222.html",
+          "summary": "Nicht nur Kinder und Jugendliche, auch viele Erwachsene hängen zu viel am Smartphone. Höchste Zeit, etwas gegen die digitale Sucht zu tun, schreibt @OliverGeorgi",
           "source": "FAZ"
         },
         {
-          "title": "Predigt auf  Petersplatz: Leo XIV. feiert erste Ostermesse",
-          "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-feiert-erste-ostermesse-accg-200702882.html",
-          "summary": "In seiner Predigt zum Ostersonntag erbittet Papst Leo XIV. Frieden für die Welt. Er erinnert an Worte seines Vorgängers Franziskus, der vergangene Ostern gestorben ist.",
+          "title": "Digitaler Stress: „Sorry für die späte Antwort“",
+          "url": "https://www.faz.net/aktuell/stil/leib-seele/muss-man-ein-schlechtes-gewissen-haben-wenn-man-tagelang-nicht-auf-chatnachrichten-antwortet-accg-200654126.html",
+          "summary": "Unsere Autorin hat ständig ein schlechtes Gewissen, weil sie oft tagelang nicht auf Chatnachrichten antwortet. Zu Recht?",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Jeffrey Epstein: Wie erkennt man manipulierte Videos oder Fotos im Internet?",
-          "url": "https://www.spiegel.de/netzwelt/jeffrey-epstein-wie-erkennt-man-manipulierte-videos-oder-fotos-im-internet-a-61501b32-85e2-41a4-9797-672f3cd4a028#ref=rss",
-          "summary": "Das Internet ist voll von gefälschten Bildern und Videos. Neben Harmlosem, das erheitert, gibt es auch viele Inhalte, die Verschwörungsmythen erschaffen oder stützen. Auch im Fall Epstein. So erkennen Sie diese Fakes.",
+          "title": "FDP: Wolfgang Kubickis Kehrtwende sorgt für Wirbel bei den Liberalen",
+          "url": "https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubickis-kehrtwende-sorgt-fuer-wirbel-bei-den-liberalen-a-926099e2-5267-4699-be64-cb4169b5702c#ref=rss",
+          "summary": "Der bisherige Vorsitzende zieht sich zurück, ein 74-Jähriger soll das neue (und alte) Gesicht der FDP sein: Wolfgang Kubickis Kandidatur sorgt für Wirbel bei den Liberalen. Aus der Partei kommt scharfe Kritik.",
           "source": "Spiegel"
         },
         {
-          "title": "News: Kriege im Nahen Osten und Reformprogramme",
-          "url": "https://www.spiegel.de/politik/deutschland/news-reformprogramme-und-kriege-im-nahen-osten-a-c4c99d90-1e63-4e1a-9745-5df37c2c78ea#ref=rss",
-          "summary": "Reformprogramme in Deutschland und Kriege im Nahen Osten: Kanzler Friedrich Merz sollte den Gerhard Schröder machen. Das ist die Lage am Sonntag.",
+          "title": "Flensburg: Umstürzender Baum erschlägt mindestens drei Menschen",
+          "url": "https://www.spiegel.de/panorama/flensburg-umstuerzender-baum-erschlaegt-mindestens-zwei-menschen-a-54d17892-f187-45e5-a514-440ad4ebb3c5#ref=rss",
+          "summary": "In einem Wald bei Flensburg sind mindestens drei Menschen durch einen umstürzenden Baum ums Leben gekommen. Weitere Personen wurden zum Teil schwer verletzt.",
           "source": "Spiegel"
         },
         {
-          "title": "Iran-Krieg: Abgeschossener und vermisster US-Soldat gerettet",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-abgeschossener-und-vermisster-us-soldat-gerettet-a-dc157101-c4ac-4079-85af-f062599cc356#ref=rss",
-          "summary": "Suchtrupps der US-Armee haben das vermisste Besatzungsmitglied eines Kampfjets in Iran gefunden. Er sei verletzt, aber in Sicherheit, schrieb US-Präsident Trump. Medien berichten von einem »heftigen Feuergefecht«.",
+          "title": "Iran-Krieg: US-Flugzeuge offenbar während Rettungsaktion zerstört",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-us-flugzeuge-offenbar-waehrend-rettungsaktion-zerstoert-a-0dbb0ba4-84c5-40cc-badd-117fbd25cb83#ref=rss",
+          "summary": "Bei der Bergung des abgestürzten US-Soldaten sind wohl amerikanische Maschinen attackiert worden. Laut einem Medienbericht soll das US-Militär sie selbst zerstört haben. Iran meldet indes den Abschuss einer C-130-Maschine.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Reiseziele der Deutschen ändern sich durch Iran-Krieg - auch langfristig?",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tourismus-krise-reisen-100.html",
-          "summary": "Die Golfstaaten fallen als Pauschalreiseziel derzeit weg. Aber der Iran-Krieg hat auch in weit entfernten Regionen Folgen für den Tourismus: Viele Ziele werden teurer - außer, man hat rechtzeitig gebucht. Von Ingo Nathusius.",
+          "title": "USA: Mit Mini-Bunkern der Weltlage trotzen",
+          "url": "https://www.tagesschau.de/ausland/amerika/schutzbunker-usa-rekordnachfrage-100.html",
+          "summary": "Der Iran-Krieg macht auch in den USA vielen Angst. Das zeigt sich etwa an der steigenden Nachfrage nach kleinen Schutzbunkern. Eine Firma in Texas stellt entsprechende Modelle her. Kostenpunkt: mindestens 75. 000 Dollar.",
           "source": "Tagesschau"
         },
         {
-          "title": "Günstigere Bahntickets? Neue Vorschläge für Entlastung der Bürger",
-          "url": "https://www.tagesschau.de/inland/energiepreise-spritpreise-mehrwersteuer-100.html",
-          "summary": "Wie kann man die Bürger angesichts der hohen Spritpreise entlasten? Die Eisenbahngewerkschaft EVG schlägt deutlich günstigere Bahntickets vor. Der Städte- und Gemeindebund plädiert für eine vorübergehende Senkung der Mehrwertsteuer.",
+          "title": "Niederlande: Deep Canvassing soll gesellschaftliche Brücken bauen",
+          "url": "https://www.tagesschau.de/ausland/europa/niederlande-deep-canvassing-100.html",
+          "summary": "Freiwillige in den Niederlanden klingeln an fremden Türen und suchen das Gespräch. Nicht, um zu überzeugen, sondern um zuzuhören. Kann das sogenannte Deep Canvassing Brücken bauen? Nicht immer. Von Eva Münch.",
           "source": "Tagesschau"
         },
         {
-          "title": "Iran-Krieg: Anti-Kriegsdemo in Tel Aviv gewaltsam aufgelöst",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-protest-tel-aviv-100.html",
-          "summary": "In mehreren Orten Israels demonstrierten am Abend Hunderte Menschen gegen den Iran-Krieg. Eine Versammlung in Tel Aviv beendete die Polizei gewaltsam - einige setzten ihren Protest jedoch sogar unter Raketenalarm fort.",
+          "title": "Iran-Liveblog: ++ Trump droht erneut mit Angriffen auf Kraftwerke ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-106.html",
+          "summary": "US-Präsident Trump hat Iran für Dienstag mit Angriffen auf Kraftwerke und Brücken gedroht, sollte die Straße von Hormus nicht freigegeben werden. Vertreter Omans und Irans haben Gespräche über die Meerenge geführt.",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Schimmel vermeiden: Tipps für ein gesundes Raumklima",
-          "url": "https://www.telepolis.de/article/Schimmelbildung-vermeiden-Tipps-fuer-ein-gesundes-Raumklima-10655494.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Schimmel in der Wohnung kann krank machen. Mit der richtigen Luftfeuchtigkeit und gezieltem Lüften lässt sich das Risiko deutlich senken.",
+          "title": "Westpommerns Ostseeküste: Zwischen wildem Idyll und Betonriesen",
+          "url": "https://www.telepolis.de/article/Westpommerns-Ostseekueste-Zwischen-wildem-Idyll-und-Betonriesen-11241537.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Die polnische Ostseeküste lockt mit stillen Stränden und großer Geschichte – doch was richten neue Mega-Hotels an Europas letzten unberührten Stränden an?",
           "source": "Telepolis"
         },
         {
-          "title": "Nukleare  Abschreckung: Ohne Transparenz wird sie zum Risiko",
-          "url": "https://www.telepolis.de/article/Nukleare-Abschreckung-Ohne-Transparenz-wird-sie-zum-Risiko-11245820.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Abschreckung funktioniert nur, wenn man weiß, was der andere hat. Transparenz ist kein Ausdruck von Vertrauen, sondern dessen Ersatz. Eine Analyse.",
+          "title": "Von der Bunten Republik Deutschland zur Bundesidentitätsrepublik",
+          "url": "https://www.telepolis.de/article/Von-der-Bunten-Republik-Deutschland-zur-Bundesidentitaetsrepublik-11246031.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Wir sind Özil? Was passiert mit Deutschland? Zur ZDF-Doku: \"Mesut Özil – zu Gast bei Freunden\". Eine Kritik am Umgang mit Özil und Migration.",
           "source": "Telepolis"
         },
         {
-          "title": "Jetzt belegt: KI macht uns denkfaul und manipulierbar",
-          "url": "https://www.telepolis.de/article/Jetzt-belegt-KI-macht-uns-denkfaul-und-manipulierbar-11246004.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "KI macht uns nicht nur denkfaul – sie lässt uns dabei noch selbstsicherer werden. Warum das so gefährlich ist.",
+          "title": "Macht Chinas neuer Sensor die US-Atommarine wertlos?",
+          "url": "https://www.telepolis.de/article/Macht-Chinas-neuer-Sensor-die-US-Atommarine-wertlos-11246057.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Chinesische Forscher nutzen Schwerkraft zur U-Boot-Jagd. Das Tückische: Gegen Gravitation gibt es keine Tarnung.",
           "source": "Telepolis"
         }
       ]
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundesliga: „Was hast du gesagt? Dass es kein Foul war?“",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-hsv-augsburg-gregoritsch-aytekin-foul-ehrlich-li.3463416",
-          "summary": "Mit einer ehrlichen Aussage bewahrt Augsburgs Michael Gregoritsch seinen HSV-Gegenspieler vor einer Bestrafung. Eine Selbstverständlichkeit, eigentlich. Trotzdem sind alle aus dem Häuschen.",
+          "title": "Bundespolitik: FDP-Chef Dürr kandidiert nicht mehr",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-deutschland-news-christian-duerr-fdp-li.3463205",
+          "summary": "Angesichts der Kandidatur von FDP-Vize Kubicki für den Bundesvorsitz zieht der amtierende Parteichef seine eigene Bewerbung zurück.",
           "source": "SZ"
         },
         {
-          "title": "Vermisster US-Soldat: Trump: „Wir haben ihn!“",
-          "url": "https://www.sueddeutsche.de/politik/us-soldat-gerettet-iran-usa-krieg-f-15e-absturz-li.3463458",
-          "summary": "Die USA und Iran haben sich bei der Suche nach einem vermissten US-Soldaten einen Wettlauf geliefert. Nun ist den USA die Rettung gelungen.",
+          "title": "Katholische Kirche: „Wer Waffen in der Hand hält, lege sie nieder!“",
+          "url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-ostern-frieden-osterbotschaft-li.3460034",
+          "summary": "Leo XIV. feiert sein erstes Ostern als Papst. In seiner Osterbotschaft nennt er keine Namen und spricht keinen Konflikt konkret an – und setzt dennoch seine Friedensappelle der vergangenen Wochen fort.",
           "source": "SZ"
         },
         {
-          "title": "Krieg in Nahost: Trump: US-Soldat gerettet und in Sicherheit",
-          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-news-soldat-usa-gerettet-li.3458356",
-          "summary": "„Wir haben ihn“, schreibt der US-Präsident auf seiner Plattform Truth Social. Der vermisste Soldat sei „wohlbehalten“.",
+          "title": "FC Bayern: Jetzt muss es aber klappen in Madrid. Oder?",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-freiburg-real-karl-kimmich-kane-li.3463425",
+          "summary": "Der FC Bayern fährt mit so viel Zuversicht wie selten ins Bernabéu. In Freiburg gelingt ein später Siegtreffer, während Real auf Mallorca verliert. Und Harry Kane? Scheint fit zu werden.",
           "source": "SZ"
         }
       ]
