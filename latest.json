@@ -1,26 +1,26 @@
 {
-  "generated": "2026-04-06T06:00:16.993Z",
-  "timestamp": "6.4.2026, 08:00:16",
+  "generated": "2026-04-06T08:00:06.382Z",
+  "timestamp": "6.4.2026, 10:00:06",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Die Lage im Irankrieg: Trumps immer neue Fristen und Drohungen verpuffen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/trumps-immer-neue-fristen-und-drohungen-verpuffen-accg-200703979.html",
-          "summary": "Mit einer wüsten Tirade versucht US-Präsident Trump, die Öffnung der Straße von Hormus durch Iran zu erzwingen. Teheran kontert und will Reparationen für die Kriegsschäden eintreiben. Derweil steigt der Ölpreis immer weiter. Der Überblick.",
+          "title": "Versenkt vor Norwegen: Das Gift aus dem deutschen U-Boot",
+          "url": "https://www.faz.net/aktuell/politik/ausland/norwegen-das-gift-aus-dem-deutschen-u-boot-accg-200678063.html",
+          "summary": "Seit Jahren sucht Norwegen nach einer Lösung für ein U-Boot-Wrack voller Quecksilber aus dem Zweiten Weltkrieg. Jetzt wird eine Bergung geprüft.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Die Lage im Irankrieg: Teheran reagiert mit eigenen Drohungen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/trumps-neue-fristen-im-irankrieg-und-drohungen-verpuffen-accg-200703979.html",
+          "summary": "Mit einer wüsten Tirade versucht US-Präsident Trump, die Öffnung der Straße von Hormus durch Iran zu erzwingen. Teheran kontert und will Reparationen für die Kriegsschäden eintreiben. Derweil steigt der Ölpreis immer weiter.",
           "source": "FAZ"
         },
         {
           "title": "Liveblog Irankrieg: Iran plant eine Art Mautsystem für die Straße von Hormus",
           "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-verlaengert-ultimatum-und-droht-iran-nach-dienstag-mit-heftigen-angriffen-faz-200583539.html",
           "summary": "Iran meldet 13 Tote bei Angriff nahe Teheran +++ Ölpreis steigt auf mehr als 110 Dollar +++ Trump verlängert sein Ultimatum abermals, postet wüste Beschimpfungen in Richtung Iran +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "Wohnraum: Großstadt-Mieten binnen zehn Jahren um 43 Prozent gestiegen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/grossstadt-mieten-binnen-zehn-jahren-um-43-prozent-gestiegen-accg-200704003.html",
-          "summary": "Wer in Metropolen eine neue Bleibe sucht, muss tief in die Tasche greifen. Das belegen auch neue Zahlen des Bauministeriums, die die Linke abgefragt hat.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "AfD: In dieser Berufsschulklasse haben fast alle extrem rechts gewählt. Warum?",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-in-dieser-berufsschulklasse-haben-fast-alle-extrem-rechts-gewaehlt-warum-a-413670df-d4d1-42f6-aea8-a3d3dc2d7f00#ref=rss",
+          "summary": "Die AfD schneidet bei Jüngeren immer wieder gut ab, bei der Landtagswahl in Rheinland-Pfalz wurde sie stärkste Kraft. Schüler einer Berufsschulklasse erzählen, warum sie der AfD ihre Stimme gaben.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Donald Trump nach Evakuierung von Soldat in Iran: Erst die Rettung, dann die Drohung",
           "url": "https://www.spiegel.de/ausland/donald-trump-nach-evakuierung-von-soldat-in-iran-erst-die-rettung-dann-die-drohung-a-ebd86bdb-99ad-4f4b-b235-59391700bd97#ref=rss",
-          "summary": "Das Weiße Haus feiert die Rettung eines abgeschossenen US-Offiziers in Iran – und verbreitet Details der haarsträubenden Aktion. Donald Trump nutzt den Moment, um Iran mit totaler Vernichtung zu drohen.",
+          "summary": "Das Weiße Haus feiert die Rettung eines abgeschossenen US-Offiziers in Iran – und verbreitet Details der haarstr��ubenden Aktion. Donald Trump nutzt den Moment, um Iran mit totaler Vernichtung zu drohen.",
           "source": "Spiegel"
         },
         {
-          "title": "Arbeitswelt und KI: Entertainerin Peachy über Leistungswillen und Krankmeldungen",
-          "url": "https://www.spiegel.de/wirtschaft/arbeitswelt-und-ki-entertainerin-peachy-ueber-leistungswillen-und-krankmeldungen-a-a857dbe8-d968-421c-a5eb-c9512c0ec309#ref=rss",
-          "summary": "Niemand parodiert so gekonnt die Arbeitswelt wie die Komikerin Ina Reni Alexandrow alias Peachy. Hier redet sie über den Leistungswillen der Deutschen und die Frage, ob Friedrich Merz sie für faul halten würde.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Flensburg: Neue Details nach tödlichem Baumunglück bei Ostereiersuche",
-          "url": "https://www.spiegel.de/panorama/flensburg-neue-details-nach-toedlichem-baumunglueck-bei-ostereiersuche-a-70b45825-660e-4d0b-94b7-0edda8c57844#ref=rss",
-          "summary": "Die Polizei hat Details zu dem tödlichen Baumunglück bei Flensburg bekanntgegeben. Drei Menschen starben, eine verletzte 18-Jährige ist außer Lebensgefahr. Zahlreiche Rettungskräfte waren im Einsatz.",
+          "title": "NSU: 20 Jahre nach dem Mord an Halit Yozgat – was wusste der Verfassungsschutz?",
+          "url": "https://www.spiegel.de/panorama/justiz/nsu-20-jahre-nach-dem-mord-an-halit-yozgat-was-wusste-der-verfassungsschutz-a-3280e5dc-c6a0-4309-8058-5c63dc5bcad5#ref=rss",
+          "summary": "Auch 20 Jahre nach dem NSU-Mord an Halit Yozgat in Kassel bleibt vieles ungeklärt. Weit verbreitet ist die Annahme, der Verfassungsschützer Andreas T. sei verwickelt gewesen. Die SPIEGEL-Dokumentation erklärt, was dran ist.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Städtetag will Nachtfahrverbot für Mähroboter",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/igel-staedtetag-nachtverbot-maehroboter-100.html",
-          "summary": "Nachts wuselt es im Garten: Viele Kleintiere sind dann am aktivsten - und Mähroboter stellen für sie eine tödliche Gefahr dar. Die Forderung nach einem Verbot wird lauter.",
+          "title": "Wie viel Vermögen man durch Provisionen verliert",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/berater-provisionen-verlust-100.html",
+          "summary": "Die Mehrheit der Deutschen holt sich bei Anlagefragen finanzielle Beratung. Doch was auf den ersten Blick kaum etwas kostet, kann durch Gebühren schnell Zehntausende Euro verschlingen. Hiltscher und L.",
           "source": "Tagesschau"
         },
         {
-          "title": "Iran-Liveblog: ++ Iran fordert Entschädigung für Krieg ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-110.html",
-          "summary": "Iran reagiert auf Forderung von US-Präsident Trump und fordert Entschädigung für den Krieg. Die gegenseitigen Angriffe im Nahen Osten gehen weiter: Bei einem US-israelischen Angriff im Iran soll es mehrere Tote geben.",
+          "title": "NASA-Raumkapsel erreicht Einflusssphäre des Mondes",
+          "url": "https://www.tagesschau.de/ausland/amerika/nasa-artemis-mondmission-mondphase-100.html",
+          "summary": "Als erste Menschen seit mehr als 50 Jahren haben sich die Astronauten der Artemis-2-Mission Richtung Mond aufgemacht. Nun sind sie zu dessen Einflusssphäre vorgedrungen - und die entscheidende Umrundung beginnt.",
           "source": "Tagesschau"
         },
         {
-          "title": "Trump verlängert Ultimatum für Iran bis Dienstag",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-ultimatum-104.html",
-          "summary": "US-Präsident Trump will die Öffnung der Straße von Hormus. Zweimal hatte er ein Ultimatum dafür verschoben. Jetzt lässt er Iran offenbar noch mal etwas mehr Zeit.",
+          "title": "Schule in der Ukraine: Zum Unterricht unter die Erde",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-schule-bunker-100.html",
+          "summary": "Jederzeit drohen in Saporischschja russische Angriffe. Auch tagsüber. Bis zur Front sind es nur 30 Kilometer. Trotzdem haben in der ukrainischen Stadt viele Kinder regulär Unterricht - sieben Meter unter der Erde. Von Peter Sawicki.",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Iran: \"Krieg bringt weder Demokratie noch Stabilität\"",
+          "url": "https://www.telepolis.de/article/Iran-Krieg-bringt-weder-Demokratie-noch-Stabilitaet-11241548.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "US-Krieg gegen den Iran: Wissenschaftler veröffentlichen offenen Brief gegen Kriegsunterstützung. Spanische Regierung als Vorbild. Ein Telepolis-Interview.",
+          "source": "Telepolis"
+        },
         {
           "title": "Frauenwahlrecht: Warum unsere Demokratie weniger gerecht ist, als wir glauben",
           "url": "https://www.telepolis.de/article/Frauenwahlrecht-Warum-unsere-Demokratie-weniger-gerecht-ist-als-wir-glauben-11240677.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
@@ -85,12 +91,6 @@
           "url": "https://www.telepolis.de/article/Westpommerns-Ostseekueste-Zwischen-wildem-Idyll-und-Betonriesen-11241537.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Die polnische Ostseeküste lockt mit stillen Stränden und großer Geschichte – doch was richten neue Mega-Hotels an Europas letzten unberührten Stränden an?",
           "source": "Telepolis"
-        },
-        {
-          "title": "Von der Bunten Republik Deutschland zur Bundesidentitätsrepublik",
-          "url": "https://www.telepolis.de/article/Von-der-Bunten-Republik-Deutschland-zur-Bundesidentitaetsrepublik-11246031.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Wir sind Özil? Was passiert mit Deutschland? Zur ZDF-Doku: \"Mesut Özil – zu Gast bei Freunden\". Eine Kritik am Umgang mit Özil und Migration.",
-          "source": "Telepolis"
         }
       ]
     },
@@ -98,7 +98,7 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Mondmission: Artemis 2-Astronauten erreichen Einflusssphäre des Mondes",
+          "title": "Mondmission: Artemis 2-Astronauten erreichen sogenannte Einflusssphäre des Mondes",
           "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-einflussbereich-vorbeiflug-li.3460807",
           "summary": "„Orion“ sei an dem Punkt angekommen, an dem die Schwerkraft des Mondes stärker auf das Raumschiff wirke als die der Erde, teilt die US-Raumfahrtbehörde Nasa mit.",
           "source": "SZ"
