@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-05T22:00:11.793Z",
-  "timestamp": "6.4.2026, 00:00:11",
+  "generated": "2026-04-06T02:00:07.745Z",
+  "timestamp": "6.4.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Iran-Liveblog: ++ Tote bei US-israelischem Angriff im Iran ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-110.html",
+          "summary": "Die gegenseitigen Angriffe im Nahen Osten gehen weiter. Bei einem US-israelischen Angriff im Iran soll es mehrere Tote geben. Vor dem Hintergrund des Krieges ist der Ölpreis weiter angestiegen - auf jetzt mehr als 110 Dollar.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Trump verlängert Ultimatum für Iran bis Dienstag",
           "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-ultimatum-104.html",
           "summary": "US-Präsident Trump will die Öffnung der Straße von Hormus. Zweimal hatte er ein Ultimatum dafür verschoben. Jetzt lässt er Iran offenbar noch mal etwas mehr Zeit.",
@@ -61,12 +67,6 @@
           "title": "Reisen nur mit Genehmigung - Kritik an Wehrdienstregeln",
           "url": "https://www.tagesschau.de/inland/innenpolitik/wehrdienst-auslandsreise-genehmigung-100.html",
           "summary": "Nach vielen Diskussionen wurde zu Jahresbeginn eine verpflichtende Musterung für junge Männer eingeführt. Doch über ein Detail des neuen Gesetzes wurde bisher kaum gesprochen. Es betrifft potenziell sehr viele - und sorgt nun für Nachfragen.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Bomben an Ostern - Tote und Verletzte im Libanon",
-          "url": "https://www.tagesschau.de/ausland/asien/beirut-suedlibanon-angriffe-israel-100.html",
-          "summary": "Die Angriffe Israels gegen Hisbollah-Ziele gehen auch an Ostern weiter - dabei sind im Libanon mehrere Menschen gestorben. In Tyros, einer Küstenstadt im Süden, sind die meisten Anwohner bereits geflohen. Von S. Matthay.",
           "source": "Tagesschau"
         }
       ]
