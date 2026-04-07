@@ -1,12 +1,12 @@
 {
-  "generated": "2026-04-07T20:00:12.994Z",
-  "timestamp": "7.4.2026, 22:00:12",
+  "generated": "2026-04-07T22:00:07.588Z",
+  "timestamp": "8.4.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Mehrwertsteuer: Hafermilch ist kein „Gemelk“",
+          "title": "Mehrwertsteuer: Das Chaos mit der Mehrwertsteuer auf Nahrungsmittel",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mehrwertsteuer-hafermilch-ist-kein-gemelk-200708498.html",
           "summary": "Viele Lebensmittel werden steuerlich begünstigt. Für Milchersatzprodukte gilt der ermäßigte Mehrwertsteuersatz nicht. Ein stimmiges Konzept fehlt.",
           "source": "FAZ"
@@ -18,9 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Walz: „Der Präsident hat den Verstand verloren“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-ganze-zivilisation-wird-heute-nacht-sterben-faz-200583539.html",
-          "summary": "US-Demokraten fordern Amtsenthebung +++ US-Präsident droht Iran mit Auslöschung +++ Pakistan fordert Fristverlängerung um zwei Wochen +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: Pakistan fordert von Trump neue Frist für Ultimatum",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-pakistan-fordert-von-trump-neue-frist-fuer-ultimatum-faz-200583539.html",
+          "summary": "Islamabad ruft Iran zur Öffnung Straße von Hormus auf +++ „Präsident hat den Verstand verloren“: US-Demokraten fordern Amtsenthebung +++ US-Präsident droht Iran mit Auslöschung +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -29,15 +29,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Können sich die USA von Donald Trump erholen?",
-          "url": "https://www.spiegel.de/geschichte/koennen-sich-die-usa-von-donald-trump-erholen-a-334cded1-e615-4c4d-a099-a3e160660735#ref=rss",
-          "summary": "Wie kaum ein Präsident vor ihm verschmilzt Donald Trump die »Marke« USA mit seinen privaten Interessen. Das schadet dem Land. Doch wer genau hinschaut, erkennt, wie viel Widerstand sich regt.",
+          "title": "Iran-News 8. April: Experten sehen Hinweise auf Deeskalation",
+          "url": "https://www.spiegel.de/ausland/iran-news-8-april-pakistan-draengt-trump-zu-fristverlaengerung-a-e0a00e9d-3e50-420a-b9a8-2af53faa6211#ref=rss",
+          "summary": "Donald Trump droht Iran mit Auslöschung »einer ganzen Zivilisation«, sollte die Straße von Hormus nicht freigegeben werden. Vermittler Pakistan drängt auf eine Verlängerung der knappen Frist – womöglich mit Erfolg. Die Liveanalyse.",
           "source": "Spiegel"
         },
         {
-          "title": "Champions League im Liveticker: Real Madrid vs FC Bayern München",
-          "url": "https://www.spiegel.de/sport/fussball/champions-league-im-liveticker-real-madrid-vs-fc-bayern-muenchen-a-3737b5af-92b3-484e-8a84-948659377d7b#ref=rss",
-          "summary": "Torchancen auf beiden Seiten sehen die Fans im Bernabéu im Viertelfinalhinspiel der Champions League. Luis Díaz bringt die Bayern kurz vor der Pause in Führung. Real muss jetzt kommen. Die Partie im Live-Kommentar.",
+          "title": "Champions League: FC Bayern München bei Real Madrid - die Einzelkritik",
+          "url": "https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-bei-real-madrid-die-einzelkritik-a-54e194da-4c4d-4262-b1ee-6d5330d92da1#ref=rss",
+          "summary": "Bei seinem womöglich letzten Spiel bei Real Madrid konnte Manuel Neuer das Stadion mit einem Lächeln verlassen. An Joshua Kimmich richteten sich die Kollegen auf, Luis Díaz traf aus dem Nichts.",
           "source": "Spiegel"
         },
         {
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Britische Regierung verweigert Rapper Kanye West Einreise zu Musikfestival",
+          "url": "https://www.tagesschau.de/ausland/europa/kanye-west-einreise-100.html",
+          "summary": "Die britische Regierung verweigert dem US-Musiker Ye, ehemals Kanye West, die Einreise. Grund sind Nazi-Parolen und rassistische Beleidigungen. Nun fällt das Festival, bei dem er als Headliner auftreten sollte, aus.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Politikwissenschaftlerin: \"US-Regierung hat sich komplett verspekuliert\"",
           "url": "https://www.tagesschau.de/ausland/trump-iran-interview-cluever-100.html",
           "summary": "Aus Sicht von US-Expertin Clüver Ashbrook hat US-Präsident Trump die Ausdauer des iranischen Regimes unterschätzt. Einen Rückzug der USA hält sie für unwahrscheinlich. Kritiker habe Trump systematisch stummgeschaltet.",
@@ -60,13 +66,7 @@
         {
           "title": "Kommentar: Deutschlands Verbündete brauchen Klartext",
           "url": "https://www.tagesschau.de/kommentar/deutschland-aussenpolitik-iran-krieg-100.html",
-          "summary": "Die Folgen des Iran-Kriegs sind auch in Deutschland spürbar. Doch die Bundesregierung sollte nicht nur nach innen schauen, meint Philipp Eckstein. Gerade in der Außenpolitik braucht es Klartext gegenüber engen Verbündeten.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Wie Deutschland auf Trumps Iran-Drohungen reagieren könnte",
-          "url": "https://www.tagesschau.de/inland/trump-drohungen-deutschland-100.html",
-          "summary": "Aktuell ist Deutschlands Einfluss auf US-Präsident Trump eher gering. Die Bundesregierung hält sich auffallend zurück. Viele Politiker scheinen zu hoffen, dass es nach Ablauf des US-Ultimatums nicht so schlimm kommt. Von Jasper Ruppert.",
+          "summary": "Die Folgen des Iran-Kriegs treffen auch Deutschland. Entlastungen sind nötig. Die Bundesregierung sollte aber nicht nur nach innen schauen, meint Philipp Eckstein. Es braucht auch Klartext gegenüber engen Verbündeten.",
           "source": "Tagesschau"
         }
       ]
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: Pakistan bittet Trump, Ultimatum um zwei Wochen zu verlängern",
-          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-news-oelkrise-iea-birol-li.3458356",
-          "summary": "Im Gegenzug bittet das Land seine „iranischen Brüder“ aufrichtig, als Geste des guten Willens die Straße von Hormus für den entsprechenden Zeitraum zu öffnen. Der US-Präsident hatte mit vernichtender Gewalt gedroht.",
+          "title": "FC Bayern in der Einzelkritik: Manuel Neuer bewirbt sich für einen Fünfjahresvertrag",
+          "url": "https://www.sueddeutsche.de/sport/champions-league-bayern-real-einzelkritik-kane-neuer-diaz-li.3464641",
+          "summary": "Der Torwart zeigt sein komplettes Repertoire, Upamecano erlebt einen Sandmännchen-Moment und Tah hat Glück bei einem groben Tritt: Die Bayern in der Einzelkritik.",
           "source": "SZ"
         },
         {
-          "title": "Iran-Krieg: Hat hier jemand Steinzeit gesagt?",
-          "url": "https://www.sueddeutsche.de/kultur/iran-kulturerbe-usa-donald-trump-drohungen-li.3464346",
-          "summary": "Der Präsident eines 250 Jahre alten Landes droht einer 5000 Jahre alten Zivilisation mit totaler Vernichtung. Hat Donald Trump denn überhaupt je von den Kulturschätzen gehört, die er da auslöschen will?",
+          "title": "Champions League: Die Bayern erobern das Bernabéu",
+          "url": "https://www.sueddeutsche.de/sport/champions-league-real-bayern-spielbericht-analyse-tore-diaz-neuer-li.3464310",
+          "summary": "Die Münchner gewinnen erstmals seit einem Vierteljahrhundert bei Real Madrid – und lassen beim 2:1 im Viertelfinal-Hinspiel sogar noch hochkarätige Chancen aus.",
           "source": "SZ"
         },
         {
-          "title": "Ungarn: Und dann ist Trump am Apparat",
-          "url": "https://www.sueddeutsche.de/politik/ungarn-wahlkampf-orban-vance-trump-li.3464400",
-          "summary": "Wenige Tage vor der Parlamentswahl bekommt Ungarns Premier Unterstützung von J. D. Vance. Der zieht in einer Rede gegen die „Bürokraten in Brüssel“ her und wählt vor der jubelnden Menge eine Nummer.",
+          "title": "USA: Mehrere Demokraten fordern Amtsenthebung Trumps",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-amtsenthebung-li.3462913",
+          "summary": "Grund sind vor allem die harschen Drohungen des US-Präsidenten gegenüber Iran. Trump seine Präsidentschaft zu entziehen, wäre allerdings mit großen Hürden verbunden.",
           "source": "SZ"
         }
       ]
