@@ -1,26 +1,26 @@
 {
-  "generated": "2026-04-07T02:00:07.512Z",
-  "timestamp": "7.4.2026, 04:00:07",
+  "generated": "2026-04-07T06:00:25.656Z",
+  "timestamp": "7.4.2026, 08:00:25",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Bundeswehr: „Die Soldaten blicken existenzieller auf unseren Beruf“",
-          "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-ausbilder-im-interview-junge-offiziere-wollen-ueberzeugt-werden-200705317.html",
-          "summary": "An der Offizierschule des Heeres wird die Generation Z ausgebildet. Was zeichnet die künftigen Militärführer aus? Ein Interview mit dem Chef.",
+          "title": "Künstliche Intelligenz: Was darf KI im Krieg?",
+          "url": "https://www.faz.net/aktuell/politik/nutzung-von-ki-im-iran-krieg-viele-fragen-sind-ungeklaert-accg-200689562.html",
+          "summary": "Der militärische Nutzen von Künstlicher Intelligenz ist enorm. Doch viele Fragen sind noch nicht geklärt – zum Beispiel, wenn Fehler passieren.",
           "source": "FAZ"
         },
         {
-          "title": "Wehrerfassung der Männer: Noch ist Deutschland nicht bereit",
-          "url": "https://www.faz.net/aktuell/politik/inland/warum-die-bundeswehr-auslandsaufenthalte-genehmigen-muss-200705259.html",
-          "summary": "Achtzehnjährige spüren den Ernst, wenn sie ihre Wehr-Fragebögen ausfüllen. So erging es nun auch älteren Männern, als es ums Genehmigen von Auslandsaufenthalten ging. Was dachten sie denn?",
+          "title": "Das Recht und der Krieg: Wir brauchen das Völkerrecht",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/ueber-die-notwendigkeit-des-voelkerrechts-accg-200704629.html",
+          "summary": "Der Bruch des internationalen Gewaltverbots ist keine akademische Frage. Bundeskanzler Merz sollte die Illegalität des Irankriegs beim Namen nennen. Und Deutschland kann noch mehr für die Bewahrung und Reform der auf Regeln gegründeten Weltordnung tun.",
           "source": "FAZ"
         },
         {
-          "title": "Auslandsreisen genehmigen: Das Verteidigungsministerium arbeitet noch an den Regeln",
-          "url": "https://www.faz.net/aktuell/politik/inland/verteidigungsministerium-auslandsreisen-vorerst-genehmigt-accg-200705327.html",
-          "summary": "Müssen junge Männer sich längere Auslandsreisen von der Bundeswehr genehmigen lassen? Jein, sagt das Ministerium und kündigt eine Klarstellung an.",
+          "title": "US-Rettungsaktion in Iran: Zwei Tage in einem Felsspalt",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/so-lief-die-rettungsaktion-eines-us-soldaten-in-iran-accg-200705279.html",
+          "summary": "Die Rettungsoperation des in Iran nach dem Abschuss eines Kampfflugzeugs vermissten Soldaten könnte aus einem Actionfilm stammen. Trump brüstet sich damit.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Iran-Krieg: Donald Trump nennt Iraner »Tiere« – Teheran hält dagegen",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-nennt-iraner-tiere-teheran-haelt-dagegen-a-594b956e-31b9-4daa-a14d-d553c00791d8#ref=rss",
+          "summary": "Donald Trump beharrt auf seinem Ultimatum an Iran. Bleibt die Straße von Hormus geschlossen, droht er dem Land mit Zerstörung sämtlicher Brücken und Kraftwerke. Die Mullahs zeigen sich unbeeindruckt. Der Überblick.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "News: Donald Trump, Iran-Krieg, JD Vance, Viktor Orbán, Wolfgang Kubicki, Ursula von der Leyen",
+          "url": "https://www.spiegel.de/politik/deutschland/news-donald-trump-iran-krieg-jd-vance-viktor-orban-wolfgang-kubicki-ursula-von-der-leyen-a-3ab398ca-84d4-4684-a011-6f8acdbe9ffd#ref=rss",
+          "summary": "Der US-Präsident droht Iran mit Vernichtung. Sein Vize JD Vance macht Wahlkampf für Viktor Orbán. Wolfgang Kubicki plant die Rettung der FDP. Das ist die Lage am Dienstagmorgen.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Russlands und Chinas Satelliten-Manöver im Weltall",
           "url": "https://www.spiegel.de/wissenschaft/technik/als-raste-ein-autofahrer-immer-wieder-auf-einen-zu-und-stoppte-erst-kurz-vor-dem-aufprall-a-89348065-448a-4904-8f21-1bd5131812ac#ref=rss",
           "summary": "Die USA und ihre Verbündeten rüsten sich für Kriege mit Russland und China im All. Frankreichs Präsident Emmanuel Macron warnt vor einer »Brutalisierung«.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Iran-Krieg: Donald Trump droht Journalisten mit Haft wegen Infos zu Pilotenrettung in Iran",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-droht-journalisten-mit-haft-wegen-infos-zu-pilotenrettung-in-iran-a-944ccba7-0b21-4b06-8e52-d683c16cd87e#ref=rss",
-          "summary": "Der US-Präsident will wissen, wie ein Medienhaus zu Details über die Rettungsmission in Iran gekommen ist. Donald Trumps Ansage: Nennt uns die Quelle – oder es geht ins Gefängnis.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Janosch lebt auf Teneriffa und gibt eigentlich keine Interviews. Außer, man fährt einfach hin",
-          "url": "https://www.spiegel.de/kultur/literatur/janosch-meldet-sich-zu-wort-alles-was-man-nicht-braucht-muss-man-verschenken-a-9631bb93-8faf-4edb-a91a-d3d92c80664a#ref=rss",
-          "summary": "Der Erfinder der Tigerente ließ gerade ausrichten, dass er seine Ruhe haben will. Aber ein paar Sachen will der Zeichner Janosch doch noch mitteilen.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Iran-Liveblog: ++ UN warnen vor Verletzung des Völkerrechts ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-106.html",
-          "summary": "UN-Generalsekretär Guterres hat die USA und Israel aufgefordert, Irans Kraftwerke und andere zivile Infrastruktur nicht anzugreifen. Irans Militärführung hat die Warnungen von US-Präsident Trump als \"arrogante Rhetorik\" abgetan.",
+          "title": "Bundesjustizministerin Hubig will das Schwarzfahren entkriminalisieren",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-schwarzfahren-100.html",
+          "summary": "Wer beim Schwarzfahren erwischt wird und das Bußgeld nicht zahlen kann, riskiert bisher, im Gefängnis zu landen. Bundesjustizministerin Hubig denkt über eine Änderung nach. Das \"Erschleichen von Leistungen\" soll strafrechtlich neu bewertet werden.",
           "source": "Tagesschau"
         },
         {
-          "title": "Selenskyj schlägt Russland Waffenruhe für Kraftwerke vor",
-          "url": "https://www.tagesschau.de/ausland/europa/selenskyj-vorschlag-waffenruhe-energieanlagen-100.html",
-          "summary": "Ukrainische Drohnen treffen russische Raffinerien und Ölterminals, Moskau zerstört Kraftwerke und Umspannwerke. Jetzt schlägt der ukrainische Präsident Selenskyj Russland eine Teilwaffenruhe vor.",
+          "title": "Marktbericht: Ölpreise bestimmen weiter das Marktgeschehen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-osterfest-100.html",
+          "summary": "US-Präsident Trump hält an seinem Ultimatum fest: Sollte der Iran nicht einlenken, droht er mit weiteren Angriffen auf die Infrastruktur des Landes. Für Aktien bedeutet dies weitere Verluste.",
           "source": "Tagesschau"
         },
         {
-          "title": "\"Artemis 2\" entfernt sich bei Mondumrundung weiter von Erde",
-          "url": "https://www.tagesschau.de/ausland/artemis-rekord-102.html",
-          "summary": "Die \"Artemis 2\"-Crew hat in der Nacht wie geplant vorübergehend den Kontakt zur Erde verloren. Grund war der Überflug der von der Erde abgewandten Seite des Mondes. Im Tagesverlauf wird sich die \"Orion\"-Kapsel noch weiter wegbewegen.",
+          "title": "Iran-Krieg und China-Knappheit: Warum Wolfram knapp wird",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/wolfram-preis-iran-krieg-industrie-100.html",
+          "summary": "Wolfram ist für Werkzeuge, Maschinenbau und Rüstung unverzichtbar. Der Iran-Krieg hat den Preis auf ein Rekordhoch getrieben. Für die deutsche Wirtschaft ist das ein Alarmsignal. Von Angela Göpfert.",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Body Drain: Wenn Wohlstand auf fremden Körpern gebaut wird",
+          "url": "https://www.telepolis.de/article/Body-Drain-Wenn-Wohlstand-auf-fremden-Koerpern-gebaut-wird-11240515.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Nicht nur Köpfe, auch Körper fließen ab: Wohlstandszentren saugen physische Arbeitskraft aus der Peripherie. Was steckt hinter dem Phänomen?",
+          "source": "Telepolis"
+        },
         {
           "title": "Vom Master zum Jobcenter: Wenn der Titel nicht (mehr) reicht",
           "url": "https://www.telepolis.de/article/Vom-Master-zum-Jobcenter-Wenn-der-Titel-nicht-mehr-reicht-11241676.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
@@ -85,12 +91,6 @@
           "url": "https://www.telepolis.de/article/Krieg-ohne-Namen-Die-vergessenen-Opfer-in-der-Strasse-von-Hormus-11244067.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "000 Schiffe stecken in der Straße von Hormus fest. Was bedeutet das für die betroffenen Seeleute? Ein Blick auf einen wenig beleuchteten Aspekt.",
           "source": "Telepolis"
-        },
-        {
-          "title": "Schwüle Hitzewellen: Die unterschätzte Todesgefahr aus dem Meer",
-          "url": "https://www.telepolis.de/article/Schwuele-Hitzewellen-Die-unterschaetzte-Todesgefahr-aus-dem-Meer-11243630.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Schwüle Hitzewellen töten Tausende – auch Junge unter 35. Küstengewässer heizen sie an. Was sind die Ursachen des Phänomens?",
-          "source": "Telepolis"
         }
       ]
     },
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Irans Armee weist Trumps Drohungen als „haltlos“ zurück",
+          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-news-trump-usa-drohungen-li.3458356",
+          "summary": "Das iranische Militär kritisiert die „arrogante Rhetorik“ des US-Präsidenten. Die Angriffe gegen die USA und Israel werden fortgesetzt, erklärt ein Militärsprecher.",
+          "source": "SZ"
+        },
+        {
           "title": "USA: „Dem Sieger gehört die Beute“",
           "url": "https://www.sueddeutsche.de/politik/usa-iran-krieg-mond-artemis-trump-krieg-li.3463883",
           "summary": "Donald Trump droht Iran mit der Steinzeit, während vier Astronauten weiter ins All fliegen als je ein Mensch zuvor. Über ein Land im Splitscreen-Modus.",
           "source": "SZ"
         },
         {
-          "title": "Mondmission: „Orion“ umrundet Mond – Rückflug zur Erde hat begonnen",
+          "title": "Mondmission: „Orion“ umrundet Mond – und telefoniert mit US-Präsident Trump",
           "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-rekord-entfernung-erde-li.3460807",
-          "summary": "Die Orion-Crew hat sich aus dem Funkschatten hinter dem Mond zurückgemeldet. Wie es jetzt weitergeht.",
-          "source": "SZ"
-        },
-        {
-          "title": "USA: Trump droht Journalisten wegen Informationen zu Piloten-Rettung mit Haft",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-journalisten-haft-li.3462913",
-          "summary": "Nach der Rettung der Besatzung eines abgeschossenen Kampfjets in Iran sucht Trump nach einem Informanten, der etwas durchgestochen haben soll.",
+          "summary": "Die Orion-Crew hat sich aus dem Funkschatten hinter dem Mond zurückgemeldet. Nun beginnt ihr Rückflug zur Erde. Wie es jetzt weitergeht.",
           "source": "SZ"
         }
       ]
