@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-08T18:00:09.855Z",
-  "timestamp": "8.4.2026, 20:00:09",
+  "generated": "2026-04-08T20:00:05.675Z",
+  "timestamp": "8.4.2026, 22:00:05",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Waffenstillstand in Iran: Was Trump aus dem Vietnamkrieg hätte lernen können",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/was-trump-fuer-iran-aus-vietnam-haette-lernen-koennen-200712221.html",
-          "summary": "Schon Kissinger musste feststellen: In einem asymmetrischen Krieg verliert der Starke, wenn er nicht gewinnt – und umgekehrt. So wie jetzt womöglich in Iran.",
+          "title": "Vorläufige Bilanz: Wie groß sind die Zerstörungen?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/waffenstillstand-in-iran-was-haben-die-usa-und-israel-militaerisch-erreicht-200712134.html",
+          "summary": "Die USA und Israel haben Tausende Ziele in Iran angegriffen. Das Land verfügt aber wohl noch über ein großes Raketenarsenal. Und auch Teheran gelangen empfindliche Treffer.",
           "source": "FAZ"
         },
         {
@@ -18,9 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Öffnet die Straße von Hormus?: „Man schaltet die globalen Schifffahrtsströme nicht in 24 Stunden wieder ein“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/strasse-von-hormus-die-situation-ist-voellig-unberechenbar-sagen-reeder-200711797.html",
-          "summary": "Der amerikanische Präsident Trump verkündet die „sofortige, komplette“ Öffnung der Straße von Hormus. Zu sehen ist davon noch wenig, sagen Reeder der F. – und halten die Maut für illegal.",
+          "title": "Waffenstillstand in Iran: Was Trump aus dem Vietnamkrieg hätte lernen können",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/was-trump-fuer-iran-aus-vietnam-haette-lernen-koennen-200712221.html",
+          "summary": "Schon Kissinger musste feststellen: In einem asymmetrischen Krieg verliert der Starke, wenn er nicht gewinnt – und umgekehrt. So wie jetzt womöglich in Iran.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Iran-Krieg und Straße von Hormus: Kommt die Weltwirtschaft jetzt wieder in Schwung?",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-und-strasse-von-hormus-kommt-die-weltwirtschaft-jetzt-wieder-in-schwung-a-9f67da50-0c10-4870-8b12-1dc50c020fbe#ref=rss",
-          "summary": "Die Hoffnung nach der Waffenruhe ist groß: Der Stau vor der Straße von Hormus soll sich auflösen, die Weltwirtschaft wieder in Schwung kommen. Doch Ökonomen sind skeptisch – und dann spekuliert Trump auch noch über eine gemeinsame Maut mit Teheran.",
+          "title": "Waffenruhe in Nahost: Trump wollte Iran besiegen – jetzt soll die Welt Teheran Maut zahlen",
+          "url": "https://www.spiegel.de/ausland/waffenruhe-in-nahost-trump-wollte-iran-besiegen-jetzt-soll-die-welt-teheran-maut-zahlen-a-52c1da94-e846-4aff-bcc3-3ac02edb6a87#ref=rss",
+          "summary": "Mehr als fünf Wochen Krieg, weit mehr als 10. 000 Angriffsziele – und am Ende kontrolliert Teheran die Straße von Hormus. Donald Trump wollte ein Regime stürzen. Nun verhandelt er mit diesem Regime über dessen Forderungen.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "News des Tages: Spritpreise, Wolfgang Kubicki, tierischer Schutzwall",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss",
+          "summary": "Wolfgang Kubicki soll die FDP aus dem Umfragetief holen. Die Spritpreise werden durch die Waffenruhe wieder zum Thema. Und Indien will mit tierischer Hilfe Migranten abschrecken. Das ist die Lage am Mittwochabend.",
           "source": "Spiegel"
         },
         {
           "title": "FDP: Wolfgang Kubicki und sein Image als Stänkerer mit Hang zum Rechtspopulismus: Kann er die Partei retten?",
           "url": "https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss",
           "summary": "Wolfgang Kubicki gilt als FDP-Stänkerer mit Hang zum Rechtspopulismus. Nun könnte er bald die Partei anführen, mit 74 Jahren. Manche Liberale warnen schon vor einer Radikalisierung.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Lufthansa: Kabinenpersonal will am Freitag streiken",
-          "url": "https://www.spiegel.de/wirtschaft/lufthansa-kabinenpersonal-will-am-freitag-streiken-a-0bde3de3-6283-4880-80dc-0c43df70d011#ref=rss",
-          "summary": "Der Lufthansa steht der nächste Streik ins Haus. Betroffen sind vor allem die Drehkreuze der Fluggesellschaft in Frankfurt am Main und München. Aber auch zahlreiche Zubringerflüge werden wohl ausfallen.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Auslandsreisen und Wehrdienst: Was gilt wirklich?",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-meldepflicht-auslandsreisen-100.html",
+          "summary": "Der Verteidigungsminister stellt nach der Verwirrung über eine Regelung im Wehrdienstgesetz klar: Männer der Altersgruppe 17 bis 45 brauchen keine Genehmigung für lange Auslandsaufenthalte. Wie konnte es soweit kommen?",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Kommentar: Das Verteidigungsministerium hat die Sprengkraft unterschätzt",
+          "url": "https://www.tagesschau.de/kommentar/pistorius-meldepflicht-auslandsreisen-100.html",
+          "summary": "Das Verteidigungsministerium und Minister Pistorius stehen wegen unklarer Meldepflichten für Auslandsreisen in der Kritik. Eine Verwaltungsvorschrift soll nun Klarheit schaffen. Kein eleganter Schachzug, meint Oliver Neuroth.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Israel weitet Angriffe auf Hisbollah-Ziele im Libanon aus",
           "url": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-trotz-waffenruhe-iran-krieg-100.html",
           "summary": "Nur Stunden nach Eintritt der Waffenruhe im Iran-Krieg hat Israels Armee den Kampf gegen die Hisbollah-Miliz intensiviert. Behörden melden Dutzende Tote. Zur Frage, ob der Libanon Teil des Abkommens ist, gibt es widersprüchliche Angaben.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Kommentar: US-Präsident Trump ist mit seinen Zielen in Iran gescheitert",
-          "url": "https://www.tagesschau.de/kommentar/trump-iran-192.html",
-          "summary": "US-Präsident Trump konnte keines seiner Ziele in Iran erreichen. Dass er überhaupt diesen Krieg vom Zaun brach, ist zutiefst verstörend, meint Carsten Kühntopp.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Kabinenpersonal der Lufthansa streikt am Freitag",
-          "url": "https://www.tagesschau.de/wirtschaft/lufthansa-streik-332.html",
-          "summary": "Das Kabinenpersonal der Lufthansa ist für diesen Freitag zum Streik aufgerufen. Der Ausstand ist von 00. 01 Uhr bis 22. 00 Uhr vorgesehen, wie die Gewerkschaft UFO mitteilte.",
           "source": "Tagesschau"
         }
       ]
@@ -98,15 +98,15 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Luftfahrt: Kabinenpersonal der Lufthansa streikt am Freitag",
-          "url": "https://www.sueddeutsche.de/wirtschaft/lufthansa-streik-kabinenpersonal-freitag-li.3465127",
-          "summary": "Das teilt die Gewerkschaft Ufo mit. Die Arbeit soll von 00. 01 Uhr bis 22 Uhr niedergelegt werden – alle Abflüge in Frankfurt und München sollen in dieser Zeit bestreikt werden.",
+          "title": "Krieg in Nahost: Iran erwägt Ende der Waffenruhe - Straße von Hormus offenbar weiter blockiert",
+          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-usa-trump-waffenruhe-reaktionen-israel-libanon-li.3458356",
+          "summary": "Ungeachtet der Feuerpause hat Israel eine Großoffensive in Libanon gestartet. Nun erwägt Iran ein Ende der Waffenruhe und blockiert offenbar erneut die Straße von Hormus. Indessen meldet Katar iranischen Beschuss.",
           "source": "SZ"
         },
         {
-          "title": "Krieg in Nahost: Iran droht aus Waffenruhe auszusteigen",
-          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-usa-trump-waffenruhe-reaktionen-israel-libanon-li.3458356",
-          "summary": "Ungeachtet der Feuerpause hat Israel eine Großoffensive in Libanon gestartet. Nun erwägt Iran ein Ende der Waffenruhe und blockiert offenbar erneut die Straße von Hormus. Indessen meldet Katar iranischen Beschuss.",
+          "title": "Luftfahrt: Kabinenpersonal der Lufthansa streikt am Freitag",
+          "url": "https://www.sueddeutsche.de/wirtschaft/lufthansa-streik-kabinenpersonal-freitag-li.3465127",
+          "summary": "Das teilt die Gewerkschaft Ufo mit. Die Arbeit soll von 00. 01 Uhr bis 22 Uhr niedergelegt werden – alle Abflüge in Frankfurt und München sollen in dieser Zeit bestreikt werden.",
           "source": "SZ"
         },
         {
