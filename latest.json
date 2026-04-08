@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T20:00:05.675Z",
-  "timestamp": "8.4.2026, 22:00:05",
+  "generated": "2026-04-08T22:00:07.190Z",
+  "timestamp": "9.4.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -14,7 +14,7 @@
         {
           "title": "Liveblog Irankrieg: Maut und Uran: Trump kündigt enge Zusammenarbeit mit iranischem Regime an",
           "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-kuendigt-zusammenarbeit-mit-iran-an-faz-200583539.html",
-          "summary": "US-Präsident: „Sehr produktiver Regimewandel“ +++ Qatar meldet Beschuss aus Iran mit Raketen und Drohnen +++ Israelische Angriffe auf Libanon: Iran droht mit Ausstieg aus Waffenruhe +++  alle Entwicklungen im Liveblog",
+          "summary": "US-Präsident: „Sehr produktiver Regimewandel“ +++ Rutte bei Trump: US-Präsident will wohl NATO-Austritt diskutieren +++ Israelische Angriffe auf Libanon: Iran droht mit Ausstieg aus Waffenruhe +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         },
         {
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Waffenruhe in Nahost: Trump wollte Iran besiegen – jetzt soll die Welt Teheran Maut zahlen",
-          "url": "https://www.spiegel.de/ausland/waffenruhe-in-nahost-trump-wollte-iran-besiegen-jetzt-soll-die-welt-teheran-maut-zahlen-a-52c1da94-e846-4aff-bcc3-3ac02edb6a87#ref=rss",
-          "summary": "Mehr als fünf Wochen Krieg, weit mehr als 10. 000 Angriffsziele – und am Ende kontrolliert Teheran die Straße von Hormus. Donald Trump wollte ein Regime stürzen. Nun verhandelt er mit diesem Regime über dessen Forderungen.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "News des Tages: Spritpreise, Wolfgang Kubicki, tierischer Schutzwall",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-wolfgang-kubicki-tierischer-schutzwall-a-fdedb4bd-1baa-4496-9036-bb43eb4ae22d#ref=rss",
-          "summary": "Wolfgang Kubicki soll die FDP aus dem Umfragetief holen. Die Spritpreise werden durch die Waffenruhe wieder zum Thema. Und Indien will mit tierischer Hilfe Migranten abschrecken. Das ist die Lage am Mittwochabend.",
+          "title": "Libanon: Israel fliegt verheerende Angriffe auf Wohnviertel in Beirut",
+          "url": "https://www.spiegel.de/ausland/libanon-israel-fliegt-verheerende-angriffe-auf-wohnviertel-in-beirut-a-a8b9663e-9780-47d7-b338-5eaa8a24959b#ref=rss",
+          "summary": "Eigentlich sollte die Waffenruhe auch für den Libanon gelten, hieß es. Israels Premier Netanyahu befahl trotzdem ohne Vorwarnung die verheerenden Angriffe auf Stadtteile von Beirut – fernab der Hisbollah-Hochburgen.",
           "source": "Spiegel"
         },
         {
           "title": "FDP: Wolfgang Kubicki und sein Image als Stänkerer mit Hang zum Rechtspopulismus: Kann er die Partei retten?",
           "url": "https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-und-sein-image-als-staenkerer-mit-hang-zum-rechtspopulismus-kann-er-die-partei-retten-a-d0280b20-bdd0-4482-8b5f-00de8dc9284a#ref=rss",
           "summary": "Wolfgang Kubicki gilt als FDP-Stänkerer mit Hang zum Rechtspopulismus. Nun könnte er bald die Partei anführen, mit 74 Jahren. Manche Liberale warnen schon vor einer Radikalisierung.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Lufthansa: Kabinenpersonal will am Freitag streiken",
+          "url": "https://www.spiegel.de/wirtschaft/lufthansa-kabinenpersonal-will-am-freitag-streiken-a-0bde3de3-6283-4880-80dc-0c43df70d011#ref=rss",
+          "summary": "Der Lufthansa steht der nächste Streik ins Haus. Betroffen sind vor allem die Drehkreuze der Fluggesellschaft in Frankfurt am Main und München. Aber auch zahlreiche Zubringerflüge werden wohl ausfallen.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Capri geht gegen aufdringliches Ansprechen von Touristen vor",
+          "url": "https://www.tagesschau.de/ausland/europa/capri-touristen-aufdringlich-100.html",
+          "summary": "Auf der Insel Capri gilt künftig eine \"Anti-Belästigungs-Verordnung\": Wer Urlauber ungefragt in Restaurants locken oder ihnen Bootstouren und Ausflüge aufschwatzen will, muss zahlen - bis zu 500 Euro Strafe drohen.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Iran-Liveblog: ++ Vance warnt Iran vor Bruch der Waffenruhe ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-106.html",
+          "summary": "US-Vizepräsident Vance hat Iran mit Konsequenzen gedroht, sollte Teheran die Waffenruhe brechen. Die Mullahs wiederum werfen Washington vor, gegen mehrere Punkte der Einigung zu verstoßen.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Auslandsreisen und Wehrdienst: Was gilt wirklich?",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-meldepflicht-auslandsreisen-100.html",
           "summary": "Der Verteidigungsminister stellt nach der Verwirrung über eine Regelung im Wehrdienstgesetz klar: Männer der Altersgruppe 17 bis 45 brauchen keine Genehmigung für lange Auslandsaufenthalte. Wie konnte es soweit kommen?",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Kommentar: Das Verteidigungsministerium hat die Sprengkraft unterschätzt",
-          "url": "https://www.tagesschau.de/kommentar/pistorius-meldepflicht-auslandsreisen-100.html",
-          "summary": "Das Verteidigungsministerium und Minister Pistorius stehen wegen unklarer Meldepflichten für Auslandsreisen in der Kritik. Eine Verwaltungsvorschrift soll nun Klarheit schaffen. Kein eleganter Schachzug, meint Oliver Neuroth.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Israel weitet Angriffe auf Hisbollah-Ziele im Libanon aus",
-          "url": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-trotz-waffenruhe-iran-krieg-100.html",
-          "summary": "Nur Stunden nach Eintritt der Waffenruhe im Iran-Krieg hat Israels Armee den Kampf gegen die Hisbollah-Miliz intensiviert. Behörden melden Dutzende Tote. Zur Frage, ob der Libanon Teil des Abkommens ist, gibt es widersprüchliche Angaben.",
           "source": "Tagesschau"
         }
       ]
