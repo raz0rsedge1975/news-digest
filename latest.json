@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-08T22:00:07.190Z",
-  "timestamp": "9.4.2026, 00:00:07",
+  "generated": "2026-04-09T02:00:07.633Z",
+  "timestamp": "9.4.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Straße von Hormus: Keine Anzeichen für ein Ende der Blockade",
+          "url": "https://www.tagesschau.de/ausland/usa-iran-waffenruhe-hormus-100.html",
+          "summary": "Die Öffnung der Straße von Hormus ist ein zentraler Punkt der Waffenruhe-Vereinbarung zwischen den USA und Iran. Doch bisher blockiert Teheran die Meerenge offenbar weiter. Ein Grund: Israels anhaltende massive Angriffe im Libanon.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Iran-Liveblog: ++ Trump kritisiert NATO-Partner erneut scharf ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-106.html",
+          "summary": "US-Präsident Trump hat der NATO erneut mangelnde Unterstützung während des Krieges im Nahen Osten vorgeworfen. Frankreichs Präsident Macron sieht Israels Angriffe im Libanon als \"direkte Bedrohung\" für die Waffenruhe.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Capri geht gegen aufdringliches Ansprechen von Touristen vor",
           "url": "https://www.tagesschau.de/ausland/europa/capri-touristen-aufdringlich-100.html",
           "summary": "Auf der Insel Capri gilt künftig eine \"Anti-Belästigungs-Verordnung\": Wer Urlauber ungefragt in Restaurants locken oder ihnen Bootstouren und Ausflüge aufschwatzen will, muss zahlen - bis zu 500 Euro Strafe drohen.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Iran-Liveblog: ++ Vance warnt Iran vor Bruch der Waffenruhe ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-106.html",
-          "summary": "US-Vizepräsident Vance hat Iran mit Konsequenzen gedroht, sollte Teheran die Waffenruhe brechen. Die Mullahs wiederum werfen Washington vor, gegen mehrere Punkte der Einigung zu verstoßen.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Auslandsreisen und Wehrdienst: Was gilt wirklich?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-meldepflicht-auslandsreisen-100.html",
-          "summary": "Der Verteidigungsminister stellt nach der Verwirrung über eine Regelung im Wehrdienstgesetz klar: Männer der Altersgruppe 17 bis 45 brauchen keine Genehmigung für lange Auslandsaufenthalte. Wie konnte es soweit kommen?",
           "source": "Tagesschau"
         }
       ]
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: Iran erwägt Ende der Waffenruhe - Straße von Hormus offenbar weiter blockiert",
+          "title": "USA: Rutte: Trump ist „eindeutig enttäuscht“ von der Nato",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-amtsenthebung-demokraten-li.3462913",
+          "summary": "Nato-Generalsekretär Mark Rutte spricht nach einem Treffen mit Donald Trump im Weißen Haus von einer „offenen Diskussion“. Zu einem möglichen Austritt der USA äußert er sich nicht.",
+          "source": "SZ"
+        },
+        {
+          "title": "USA: König der verstrichenen Ultimaten",
+          "url": "https://www.sueddeutsche.de/politik/donald-trump-deadlines-ultimatum-usa-iran-krieg-li.3465084",
+          "summary": "Erst die Drohung, dann die Frist, dann die Verlängerung: Die zweite Amtszeit von Donald Trump lässt sich auch als Geschichte immer neuer Deadlines erzählen. Eine Chronologie.",
+          "source": "SZ"
+        },
+        {
+          "title": "Krieg in Nahost: Iran erwägt Ende der Waffenruhe – Straße von Hormus offenbar weiter blockiert",
           "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-usa-trump-waffenruhe-reaktionen-israel-libanon-li.3458356",
           "summary": "Ungeachtet der Feuerpause hat Israel eine Großoffensive in Libanon gestartet. Nun erwägt Iran ein Ende der Waffenruhe und blockiert offenbar erneut die Straße von Hormus. Indessen meldet Katar iranischen Beschuss.",
-          "source": "SZ"
-        },
-        {
-          "title": "Luftfahrt: Kabinenpersonal der Lufthansa streikt am Freitag",
-          "url": "https://www.sueddeutsche.de/wirtschaft/lufthansa-streik-kabinenpersonal-freitag-li.3465127",
-          "summary": "Das teilt die Gewerkschaft Ufo mit. Die Arbeit soll von 00. 01 Uhr bis 22 Uhr niedergelegt werden – alle Abflüge in Frankfurt und München sollen in dieser Zeit bestreikt werden.",
-          "source": "SZ"
-        },
-        {
-          "title": "Politik in München: Illegale Habeck-Projektion am Siegestor: Grüne müssen Bußgeld bezahlen",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-habeck-siegestor-strafe-li.3465101",
-          "summary": "Eine Stunde lang war der damalige Kanzlerkandidat der Partei auf der Fassade zu sehen – eine Genehmigung gab es dafür nicht. Wie hoch die Strafe nun ausfällt.",
           "source": "SZ"
         }
       ]
