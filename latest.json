@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-09T20:00:05.202Z",
-  "timestamp": "9.4.2026, 22:00:05",
+  "generated": "2026-04-09T22:00:07.122Z",
+  "timestamp": "10.4.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -12,9 +12,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Netanjahu kündigt direkte Verhandlungen mit Libanon an",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-netanjahu-kuendigt-direkte-verhandlungen-mit-libanon-an-faz-200583539.html",
-          "summary": "Hizbullah will vorerst keine Verhandlungen +++ Bundesregierung nimmt Gespräche mit Iran wieder auf  +++ Rutte sieht Forderungen der USA an die NATO erfüllt +++ Starmer will enger mit den Golfstaaten kooperieren +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: USA wollen Gespräche zwischen Israel und dem Libanon ausrichten",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-usa-wollen-gespraeche-zwischen-israel-und-dem-libanon-ausrichten-faz-200583539.html",
+          "summary": "US-Beamter: Gespräche ab kommender Woche +++ Bundesregierung nimmt Gespräche mit Iran wieder auf  +++ Rutte sieht Forderungen der USA an die NATO erfüllt +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         },
         {
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Deutschland braucht Reformen: Der riskante Umbauplan der mächtigsten Politiker des Landes",
-          "url": "https://www.spiegel.de/politik/deutschland/deutschland-braucht-reformen-der-riskante-umbauplan-der-maechtigsten-politiker-des-landes-a-9f76fe74-8364-4a2b-8dfb-2f912fa26ed0#ref=rss",
-          "summary": "Haben sie den Mut, ganze Wählergruppen zu verprellen? Bald wollen Kanzler und Vizekanzler erklären, wie Deutschland umgebaut werden soll. Die Gespräche laufen im Geheimen, schon jetzt zeichnet sich massiver Widerstand ab.",
+          "title": "Jeffrey Epstein: Melania Trump gibt Erklärung im Weißen Haus ab",
+          "url": "https://www.spiegel.de/ausland/jeffrey-epstein-melania-trump-gibt-erklaerung-im-weissen-haus-ab-a-dc7bee29-6f07-4b53-aaec-48f4b03f8a65#ref=rss",
+          "summary": "In einem unangekündigten Auftritt hat die First Lady betont, dass sie nichts von den Verbrechen Jeffrey Epsteins gewusst habe. Warum Melania Trump damit plötzlich an die Öffentlichkeit ging, ist unklar.",
           "source": "Spiegel"
         }
       ]
@@ -51,6 +51,12 @@
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Krieg gegen die Ukraine: Putin kündigt Feuerpause zu Ostern an",
+          "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-102.html",
+          "summary": "Russlands Präsident Putin hat eine Waffenruhe im Krieg gegen die Ukraine angekündigt. Anlässlich des orthodoxen Osterfestes soll sie ab Samstagnachmittag und den gesamten Sonntag über andauern.",
+          "source": "Tagesschau"
+        },
         {
           "title": "Israel will mit Libanon direkt über Hisbollah-Entwaffnung verhandeln",
           "url": "https://www.tagesschau.de/ausland/asien/israel-libanon-190.html",
@@ -61,12 +67,6 @@
           "title": "Marktbericht: Anleger werden wieder skeptischer",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-katerstimmung-100.html",
           "summary": "Nachlassende Friedenshoffnungen haben an der Börse heute für Tristesse gesorgt. Der DAX gab einen Teil seiner Vortagesgewinne ab. Sorgen bereitet der starke Ölpreis, der wieder anzog.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Merz zum Iran-Krieg: Ein offenkundig ratloser Bundeskanzler",
-          "url": "https://www.tagesschau.de/kommentar/irankrieg-bundeskanzler-merz-statement-100.html",
-          "summary": "In seiner Erklärung zum Iran-Krieg ergeht sich Bundeskanzler Merz in Abhandlungen über Außenpolitik. Über die Sorgen der Menschen in Deutschland - kein Wort. Warum kümmert er sich nicht um das, was er entscheiden kann? Fragt Sabine Henkel.",
           "source": "Tagesschau"
         }
       ]
@@ -98,6 +98,12 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Melania Trump streitet engere  Verbindungen zu Epstein ab",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-melania-first-lady-epstein-schliessung-militaerbasis-deutschland-spanien-li.3462913",
+          "summary": "Die First Lady dementiert in einer ungewöhnlichen Ansprache im Weißen Haus, mit dem Sexualstraftäter befreundet gewesen zu sein. Einem US-Medienbericht zufolge erwägen die USA die Schließung einer Militärbasis in Deutschland.",
+          "source": "SZ"
+        },
+        {
           "title": "Rechtsextremismus: Russland war nur kurz hinter der deutschen Grenze",
           "url": "https://www.sueddeutsche.de/panorama/liebich-rechtsextremismus-festnahme-tschechien-li.3465614",
           "summary": "Marla Svenja Liebich entzog sich einer Haftstrafe und behauptete, nach Russland geflohen zu sein. Nun wurde die rechtsextreme Person gefasst - direkt hinter der deutsch-tschechischen Grenze. Wie es jetzt weitergeht.",
@@ -107,12 +113,6 @@
           "title": "Kanzler über den Iran-Krieg: Ein Eiertanz nach Ostern",
           "url": "https://www.sueddeutsche.de/politik/deutschland-nato-merz-nahost-energiepreise-li.3465588",
           "summary": "Friedrich Merz spricht in Berlin über die aktuellen Krisen. Er will Tatkraft demonstrieren, ohne hohe Erwartungen zu wecken, sich ein wenig von Donald Trump distanzieren, ohne ihn zu verprellen. Sein Auftritt lässt viele Fragen offen.",
-          "source": "SZ"
-        },
-        {
-          "title": "Krieg in Nahost: Trotz Angriffswelle: Israel plant Verhandlungen mit Libanon",
-          "url": "https://www.sueddeutsche.de/politik/iran-krieg-liveblog-libanon-israel-angriffe-waffenruhe-verstoss-li.3458356",
-          "summary": "US-Präsident Trump hat Israels Ministerpräsidenten Netanjahu laut Medienberichten dazu aufgefordert, die Angriffe in Libanon herunterzufahren. Auch Bundeskanzler Friedrich Merz hatte am Nachmittag deutliche Kritik geäußert.",
           "source": "SZ"
         }
       ]
