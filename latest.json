@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-10T22:00:07.789Z",
-  "timestamp": "11.4.2026, 00:00:07",
+  "generated": "2026-04-11T02:00:08.170Z",
+  "timestamp": "11.4.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "katastrophe in CRANS-Montana: Wer noch schnell seine Jacke holte, starb in den Flammen",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/polizei-protokoll-von-crans-montana-zeigt-es-dauerte-nur-92-sekunden-bis-zum-inferno-200718640.html",
-          "summary": "Ein Polizeiprotokoll der Brandkatastrophe von Crans-Montana zeigt: Es dauerte nur 92 Sekunden, bis aus dem kleinen Brand an der Decke ein tödliches Inferno wurde. Und dann war da noch eine verriegelte Tür.",
+          "title": "Erfolgreiche Landung: „Artemis 2“-Crew nach Flug um den Mond zurück auf der Erde",
+          "url": "https://www.faz.net/aktuell/gesellschaft/orion-kapsel-von-artemis-2-mission-in-erdatmosphaere-eingetreten-accg-200720493.html",
+          "summary": "Es war eine historischer Mission: Erstmals seit mehr als 50 Jahren waren Menschen in der Nähe des Mondes. Sie sahen zuvor Ungesehenes und stellten Rekorde auf.",
           "source": "FAZ"
         },
         {
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Artemis 2: Nasa verkündet Soundtrack zur Landung",
+          "title": "Artemis 2 live: Mondmission erfolgreich beendet - Artemis-2-Crew landet im Pazifik",
           "url": "https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss",
-          "summary": "Das letzte große Manöver der Artemis-2-Mission hat geklappt: Der Kurs der Kapsel »Orion« wurde angepasst. Aber auch das gehört zu den Handgriffen an Bord: Jemand muss die Toilette deaktivieren. Verfolgen Sie die Rückkehr der Crew in der Liveanalyse und im Livestream.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Artemis 2: Hitzeschild, Fallschirme, Landung im Wasser – die heikelsten Momente der Rückkehr",
-          "url": "https://www.spiegel.de/wissenschaft/weltall/artemis-2-hitzeschild-fallschirme-landung-im-wasser-die-heikelsten-momente-der-rueckkehr-a-90df3bd6-af95-4f4b-948b-176ccb44849b#ref=rss",
-          "summary": "Hitzeschild, Fallschirme, am Ende die Landung im Wasser – heute Nacht endet die Mondmission Artemis 2. Unsere Grafik zeigt, welche Momente besonders heikel sind.",
+          "summary": "»Splash Down confirmed«: Die vier Astronauten der Artemis-2-Mission sind nach zehn Tagen im All zurück auf der Erde. Die Kapsel schwimmt im Meer, die Bergung mit Hubschraubern wird vorbereitet. Alle Entwicklungen in der Liveanalyse und im Livestream.",
           "source": "Spiegel"
         },
         {
           "title": "Iran-News heute: Trump droht Iran vor Beginn der Verhandlungen in Pakistan",
           "url": "https://www.spiegel.de/ausland/iran-news-heute-keir-starmer-wettert-gegen-donald-trump-und-wladimir-putin-a-48890908-4f56-4e0c-ae0f-6287816c1fff#ref=rss",
           "summary": "Die Vorbereitungen für US-iranische Gespräche in Pakistan laufen noch, doch der US-Präsident warnt bereits: Sollten sie scheitern, will er mit »den besten Waffen, die je hergestellt wurden«, angreifen. Die Liveanalyse.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "US-Regierung veröffentlicht Pläne für 76 Meter hohen »Arc de Trump«",
+          "url": "https://www.spiegel.de/ausland/us-regierung-veroeffentlicht-plaene-fuer-76-meter-hohen-arc-de-trump-a-010a2098-c3f6-42d2-b8a7-29027df4b2fa#ref=rss",
+          "summary": "Donald Trump ist einem weiteren Monument der US-Hauptstadt einen Schritt näher. Die US-Regierung hat konkrete Pläne für den pompösen Triumphbogen veröffentlicht – samt goldenem Adler und Engelsstatue.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Gegen hohe Spritpreise - Blockaden halten Irland in Atem",
+          "url": "https://www.tagesschau.de/ausland/europa/irland-proteste-spritpreise-100.html",
+          "summary": "Spediteure und Landwirte blockieren in Irland Treibstoffdepots und stören den Verkehr. Sie fordern, die Dieselsteuer zu streichen. Die Regierung droht mit dem Einsatz der Streitkräfte. Von Gabi Biesinger.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Iran-Liveblog: ++ Friedensbemühungen in Pakistan ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-102.html",
+          "summary": "Vor Beginn der Verhandlungen in Pakistan zeigt sich US-Präsident Trump optimistisch, dass die Straße von Hormus bald offen sein wird. In Kuwait sind Mitglieder der Nationalgarde bei einem Angriff verletzt worden.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Warum die Artemis-2-Mission kein Fake ist",
           "url": "https://www.tagesschau.de/faktenfinder/artemis-2-mondmission-100.html",
           "summary": "Seit dem Start der Artemis-2-Mission behaupten Menschen online, dass die Mission ein Fake sei - ganz ähnlich wie bei der ersten Mondlandung 1969. Damals wie heute gibt es dafür keine Belege. Von Karin König.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Artemis 2: Rückkehr unter extremen Bedingungen",
-          "url": "https://www.tagesschau.de/ausland/amerika/artemis-rueckkehr-landung-100.html",
-          "summary": "Nach ihrem Flug um den Mond sollen die vier Artemis-Astronauten heute Nacht auf die Erde zurückkehren. Dabei erwarten sie eine extreme Geschwindigkeit, Temperaturen von 2. 800 Grad und ein Ausfall der Kommunikation.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Vor Verhandlungen in Pakistan: Trump droht - Iran stellt Bedingungen",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-110.html",
-          "summary": "Die geplanten Friedensverhandlungen zwischen den USA und Iran in Pakistan werden von scharfen Äußerungen beider Seiten überschattet. US-Präsident Trump droht mit Waffen, Iran spricht von einer möglichen Absage.",
           "source": "Tagesschau"
         }
       ]
@@ -98,15 +98,15 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Mondmission: Artemis-2-Crew nimmt endgültig Kurs Richtung Erde",
+          "title": "Mondmission: Artemis 2 erfolgreich im Pazifik gelandet",
           "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-entfernung-erde-rueckflug-li.3460807",
-          "summary": "Seit der letzten Triebwerkszündung am Servicemodul sind die Astronauten definitiv auf dem Heimweg. Für den sicheren Atmosphäreneintrag muss Ballast aus Europa verglühen.",
+          "summary": "Nach einer Reise von 1,1 Millionen Kilometern sind die vier Astronauten Jeremy Hansen, Victor Glover, Christina Koch und Reid Wiseman pünktlich um 2.07 Uhr deutscher Zeit im Pazifik gelandet.",
           "source": "SZ"
         },
         {
           "title": "Krieg in Nahost: Trump droht: Iraner sind nur noch am Leben, um zu verhandeln",
           "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-israel-trump-verhandlungen-li.3465745",
-          "summary": "Die Führung Irans macht nun unter anderem die Freigabe blockierter ⁠iranischer Vermögen zur Bedingung für Gespräche. Netanjahu beantragt erneut Verschiebung seiner Aussage im Korruptionsprozess.",
+          "summary": "Die Führung Irans macht nun unter anderem die Freigabe blockierter ⁠iranischer Vermögen zur Bedingung für Gespräche. Laut einem Bericht bitten Libanon und die USA nun Israel um eine Angriffspause.",
           "source": "SZ"
         },
         {
