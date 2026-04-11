@@ -1,20 +1,20 @@
 {
-  "generated": "2026-04-11T06:00:17.334Z",
-  "timestamp": "11.4.2026, 08:00:17",
+  "generated": "2026-04-11T08:00:04.928Z",
+  "timestamp": "11.4.2026, 10:00:04",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Erfolgreiche Landung: „Artemis 2“-Crew nach Flug um den Mond zurück auf der Erde",
-          "url": "https://www.faz.net/aktuell/gesellschaft/orion-kapsel-von-artemis-2-mission-in-erdatmosphaere-eingetreten-accg-200720493.html",
-          "summary": "Es war eine historischer Mission: Erstmals seit mehr als 50 Jahren waren Menschen in der Nähe des Mondes. Sie sahen zuvor Ungesehenes und stellten Rekorde auf.",
+          "title": "Krieg in Iran: Teheran fühlt sich schon als Sieger",
+          "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-teheran-fuehlt-sich-schon-als-sieger-200719019.html",
+          "summary": "Iran geht aus gutem Grund selbstbewusst in die Verhandlungen mit den USA. Doch auf den Siegestaumel dürfte Katerstimmung folgen. Die Wirtschaft ist zerstört.",
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Trump: Werden Straße von Hormus „bald“ öffnen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-werden-strasse-von-hormus-bald-oeffnen-faz-200583539.html",
-          "summary": "Andere Länder bieten laut Trump dabei ihre Hilfe an +++ Iran stellt Bedingungen für geplante Gespräche mit den USA +++ Libanon bestätigt Verhandlungen mit Israel über Waffenruhe +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: US-Vizepräsident Vance in Islamabad eingetroffen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-us-vizepraesident-vance-in-islamabad-gelandet-faz-200583539.html",
+          "summary": "Geplante Verhandlungen über eine Friedenslösung +++ CNN: China plant laut US-Geheimdiensten Waffenlieferung an Iran +++ Iraner seit 1.000 Stunden vom Internet abgeschnitten +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         },
         {
@@ -29,9 +29,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Artemis 2 live: Mondmission erfolgreich beendet - Artemis-2-Crew landet im Pazifik",
-          "url": "https://www.spiegel.de/wissenschaft/artemis-ii-so-laeuft-die-erste-mondmission-seit-1972-alle-entwicklungen-live-a-5892f5f6-3f51-4b3f-ad00-fd84aa69d24d#ref=rss",
-          "summary": "»Splash Down confirmed«: Die Astronauten der Artemis-2-Mission sind nach zehn Tagen im All zurück auf der Erde. Alle vier sind wohlauf – die Nasa sprach von einer »perfekten Mission«.",
+          "title": "Artemis-2-Mission: ��Diesmal werden wir kommen, um zu bleiben«",
+          "url": "https://www.spiegel.de/wissenschaft/artemis-2-mission-diesmal-werden-wir-kommen-um-zu-bleiben-a-f41f093d-bb26-4402-8593-52c87ac9d2a2#ref=rss",
+          "summary": "Die Crew der Artemis-2-Mission ist wieder zurück auf der Erde. Der deutsche Astronaut Alexander Gerst erklärt, warum Mondstationen bald normal sein werden. Und er verrät die geheime Vorgeschichte des schwebenden Nutella-Glases.",
           "source": "Spiegel"
         },
         {
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Iran: Die Straße von Hormus ist Teherans gefährlichste Waffe",
-          "url": "https://www.spiegel.de/ausland/iran-die-strasse-von-hormus-ist-teherans-gefaehrlichste-waffe-a-be99a3b6-6396-4a94-a0d1-484dc529b289#ref=rss",
-          "summary": "Lange haben die Mullahs an der Bombe getüftelt. Es hat ihnen Sanktionen und Luftangriffe eingebracht. Jetzt haben sie die Straße von Hormus als Waffe entdeckt. Was heißt das für die Gespräche mit den USA?",
+          "title": "Irankrieg: US-Vizepräsident JD Vance für Iran-Gespräche in Pakistan gelandet",
+          "url": "https://www.spiegel.de/ausland/irankrieg-us-vizepraesident-jd-vance-fuer-iran-gespraeche-in-pakistan-gelandet-a-97b3fc17-801e-47db-8950-0560d81d902e#ref=rss",
+          "summary": "US-Präsident Trump hat zuletzt noch Drohungen an die Führung in Teheran geschickt, jetzt soll sein Vize Vance in Pakistan über eine Friedenslösung im Irankrieg verhandeln. Er ist mit seiner Delegation in dem Land eingetroffen.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Gegen hohe Spritpreise - Blockaden halten Irland in Atem",
-          "url": "https://www.tagesschau.de/ausland/europa/irland-proteste-spritpreise-100.html",
-          "summary": "Spediteure und Landwirte blockieren in Irland Treibstoffdepots und stören den Verkehr. Sie fordern, die Dieselsteuer zu streichen. Die Regierung droht mit dem Einsatz der Streitkräfte. Von Gabi Biesinger.",
+          "title": "Der Verteilungskampf ums griechische Wasser",
+          "url": "https://www.tagesschau.de/ausland/europa/griechenland-wassernot-100.html",
+          "summary": "Der Klimawandel gefährdet die Wasserversorgung Athens. Zwei Gebirgsflüsse sollen teils Richtung Hauptstadt umgeleitet werden. Aber das ruft Widerstand hervor. Ein Verteilungskampf hat begonnen. Von Moritz Pompl.",
           "source": "Tagesschau"
         },
         {
-          "title": "Artemis-Astronauten gelandet",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-raumfahrt-artemis-landung-100.html",
-          "summary": "Nach ihrem spektakulären Flug um den Mond sind die vier Artemis-Astronauten mit ihrer Kapsel sicher im Pazifik gelandet. Ihre Orion-Raumkapsel wurde bei der Landung von Fallschirmen abgebremst.",
+          "title": "Iran-Gespräche in Islamabad: Verhandlungen mit vielen Hürden",
+          "url": "https://www.tagesschau.de/ausland/asien/pakistan-verhandlungen-iran-usa-100.html",
+          "summary": "In Pakistan sollen die Friedensgespräche zwischen den USA und Iran beginnen. Beobachter sind nach dem Eintreffen beider Delegationen zuversichtlicher als bislang. Dabei sind längst nicht alle Schwierigkeiten aus dem Weg geräumt.",
           "source": "Tagesschau"
         },
         {
-          "title": "Iran-Liveblog: ++ Friedensbemühungen in Pakistan ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-102.html",
-          "summary": "Vor Beginn der Verhandlungen in Pakistan zeigt sich US-Präsident Trump optimistisch, dass die Straße von Hormus bald offen sein wird. In Kuwait sind Mitglieder der Nationalgarde bei einem Angriff verletzt worden.",
+          "title": "Wie Lachgas und K.o.-Tropfen jetzt eingeschränkt werden",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/lachgas-ko-tropfen-gesetz-100.html",
+          "summary": "Ab Sonntag gelten schärfere Regeln für Lachgas und K. Ziel ist es, vor allem junge Menschen vor Schäden und Straftaten zu schützen. Dass es kein komplettes Verbot gibt, hat seine Gründe. Von Dietrich Karl Mäurer.",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Attila der Hunne: Vom unbesiegbaren Herrscher zum tragischen Ende",
+          "url": "https://www.telepolis.de/article/Attila-der-Hunne-Vom-unbesiegbaren-Herrscher-zum-tragischen-Ende-10434759.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
+          "summary": "Attila plante 450 seinen Westfeldzug. Ostrom verweigerte Tribute, der Westen lockte mit Reichtum. Doch er ahnte nicht, dass sein größter Feind bereits lauerte.",
+          "source": "Telepolis"
+        },
         {
           "title": "Zwischen Heldentat und Hashtag: Der Kampf um die Jugend",
           "url": "https://www.telepolis.de/article/Zwischen-Heldentat-und-Hashtag-Der-Kampf-um-die-Jugend-11252039.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
@@ -85,12 +91,6 @@
           "url": "https://www.telepolis.de/article/Polens-Atombombe-Effektive-Abschreckung-oder-sicherheitspolitische-Illusion-11249363.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
           "summary": "Die Debatte um ein polnisches Atomprogramm ist Ausdruck von Unsicherheit. Aber ist der Weg zur Bombe realistisch, und kann sie sie das Sicherheitsproblem lösen?",
           "source": "Telepolis"
-        },
-        {
-          "title": "Kuba: Präsident lehnt Rücktritt auf US-Druck ab",
-          "url": "https://www.telepolis.de/article/Kuba-Praesident-lehnt-Ruecktritt-auf-US-Druck-ab-11252212.html?wt_mc=rss.red.tp.tp.atom.beitrag.beitrag",
-          "summary": "Kubas Staatschef Miguel Díaz-Canel im Gespräch mit US-Sender. Rücktritt auf US-Druck wird ausgeschlossen, während Moskau weitere Öllieferungen ankündigt.",
-          "source": "Telepolis"
         }
       ]
     },
@@ -98,21 +98,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: Bericht: USA und Libanon bitten Israel um Angriffspause",
+          "title": "Bundespolitik: CDU-Arbeitnehmerflügel fordert Entlassung von Reiche",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-reiche-entlassung-forderung-cdu-arbeitnehmerfluegel-li.3463205",
+          "summary": "Eine „Auswechslung“ der Ministerin sei unumgänglich, auch weil sie sich Kanzler Merz widersetzt habe, sagt der Vize-Chef des Arbeitnehmerflügels. Er wirft Reiche vor, „eine Koalition mit der AfD anzustreben“.",
+          "source": "SZ"
+        },
+        {
+          "title": "Krieg in Nahost: US-Delegation um J. D. Vance zu Gesprächen mit Iran gelandet",
           "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-israel-usa-libanon-li.3465745",
-          "summary": "Am Dienstag wollen Libanon und Israel über eine Waffenruhe beraten. Unmittelbar vor Beginn der geplanten Friedensgespräche in Pakistan zwischen den USA und Iran haben beide Kriegsparteien auf ihren jeweiligen Forderungen beharrt.",
+          "summary": "Pakistanischen Diplomatenkreisen zufolge sollen die Gespräche am Nachmittag Ortszeit beginnen. Am Dienstag wollen Libanon und Israel über eine Waffenruhe beraten.",
           "source": "SZ"
         },
         {
-          "title": "Mondmission: Artemis 2 erfolgreich im Pazifik gelandet",
-          "url": "https://www.sueddeutsche.de/wissen/mond-artemis-2-nasa-mission-liveticker-entfernung-erde-rueckflug-li.3460807",
-          "summary": "Nach einer Reise von 1,1 Millionen Kilometern sind die vier Astronauten um 2. 07 Uhr deutscher Zeit im Pazifik gelandet. Die Crew sei in einem „exzellenten Zustand“, meldet Nasa.",
-          "source": "SZ"
-        },
-        {
-          "title": "Überraschender Auftritt der First Lady: Die Trumps und die Geister, die sie riefen",
-          "url": "https://www.sueddeutsche.de/politik/melania-trump-jeffrey-epstein-li.3466045",
-          "summary": "Die First Lady der USA dementiert überraschend, ein Opfer von Jeffrey Epstein zu sein. Warum hat sie das getan? Wollte sie von etwas ablenken? Vielleicht gibt es eine viel einfachere Erklärung.",
+          "title": "Bundesregierung: Streit um Spritpreis entzweit die Koalition",
+          "url": "https://www.sueddeutsche.de/politik/spritpreise-entlastungen-koalition-li.3465814",
+          "summary": "Vizekanzler gegen Kanzler gegen Wirtschaftsministerin: Die Bundesregierung ist uneins, wie sie mit den hohen Benzinkosten umgehen soll. Finanzminister Klingbeil legt nun noch einmal nach.",
           "source": "SZ"
         }
       ]
