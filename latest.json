@@ -1,26 +1,26 @@
 {
-  "generated": "2026-04-18T20:02:09.291Z",
-  "timestamp": "18.4.2026, 22:02:09",
+  "generated": "2026-04-18T21:02:09.173Z",
+  "timestamp": "18.4.2026, 23:02:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Energiepreisschock: Die nächste Krise der Lohnpolitik",
-          "url": "https://www.faz.net/aktuell/wirtschaft/teure-energie-und-hohe-lohnerwartungen-die-naechste-krise-bahnt-sich-schon-an-accg-200738399.html",
-          "summary": "Teure Energie treibt die Lohnerwartungen der Arbeitnehmer nach oben. Doch die Spielräume der Wirtschaft schrumpfen. So läuft es seit bald sieben Jahren. Und die nächste Krise bahnt sich schon an.",
+          "title": "Börsengang von SpaceX: Die Welt ist nicht genug für Elon Musk",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elon-musk-plant-fuer-spacex-groessten-boersengang-der-geschichte-200716335.html",
+          "summary": "Der Milliardär plant für SpaceX den größten Börsengang der Finanzgeschichte. Mit den Erlösen will Musk angeblich Rechenzentren im All und Fabriken auf dem Mond bauen. Echt jetzt?",
           "source": "FAZ"
         },
         {
-          "title": "Business-Ticker: Chefs wissen nicht, wie sie die 1000-Euro-Prämie zahlen sollen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-krisenpraemie-von-1000-euro-blitzt-bei-unternehmen-ab-faz-200452404.html",
-          "summary": "Wirtschaftsministerin Reiche: In Deutschland droht keine Kerosinknappheit +++ Lufthansa-Piloten stoppen Streik vorerst +++ Neuigkeiten im Unternehmen-Liveblog.",
+          "title": "Bilder vom Mond: Sie sahen die Erde untergehen",
+          "url": "https://www.faz.net/aktuell/wissen/weltraum/die-schoensten-bilder-der-artemis-ii-mission-200727662.html",
+          "summary": "Auf ihrem Flug zum und um den Mond sind den Astronauten der NASA-Mission Artemis II einige ganz erstaunliche Aufnahmen gelungen. Eine ausführliche Bildbetrachtung.",
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Trump: Iran kann uns damit nicht erpressen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-iran-kann-uns-damit-nicht-erpressen-faz-200583539.html",
-          "summary": "Teheran schließt wieder Straße von Hormus +++ Französischer Blauhelm-Soldat in Libanon getötet +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: Revolutionsgarden drohen mit Beschuss aller Schiffe an der Straße von Hormus",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-revolutionsgarden-drohen-mit-beschuss-von-schiffen-an-der-strasse-von-hormus-faz-200583539.html",
+          "summary": "Jedes Schiff, das auf die Meerenge zufahre, werde „ins Visier genommen“ +++ Trump: Iran kann uns damit nicht erpressen +++ Bundesregierung verurteilt tödlichen Angriff auf Unifil-Truppe in Libanon +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Straße von Hormus wieder gesperrt - wie geht es jetzt weiter?",
+          "url": "https://www.tagesschau.de/ausland/krieg-iran-strasse-von-hormus-treffen-paris-102.html",
+          "summary": "Neue Verhandlungen mit den USA waren das Ziel. Nun hat Iran die Öffnung der Straße von Hormus aber wieder rückgängig gemacht. Wie geht es jetzt weiter? Und was bedeutet das für die Waffenruhe?",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Papst Leo XIV. will Streit mit US-Präsident Trump beilegen",
           "url": "https://www.tagesschau.de/ausland/amerika/papst-leo-trump-streit-100.html",
           "summary": "In der Auseinandersetzung mit US-Präsident Trump hat sich Papst Leo XIV. um Entspannung bemüht. Er habe nicht beabsichtigt, Trump zu widersprechen. An seiner Botschaft von Frieden in der Welt werde er dennoch festhalten.",
@@ -61,12 +67,6 @@
           "title": "Mehr als eine Million Zugriffe auf NSDAP-Mitgliederkartei",
           "url": "https://www.tagesschau.de/ausland/amerika/usa-nationalarchiv-suche-nsdap-100.html",
           "summary": "Seit knapp einem Monat kann man beim US-Nationalarchiv online nach früheren NSDAP-Mitgliedern suchen. Das Interesse ist gewaltig - in Deutschland unterliegt die Auskunft strikteren Auflagen.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Mann erschießt mehrere Menschen in Kiew",
-          "url": "https://www.tagesschau.de/ausland/europa/schusswaffenangriff-kiew-100.html",
-          "summary": "In der ukrainischen Hauptstadt Kiew hat ein Mann nach offiziellen Angaben sechs Menschen erschossen. Der Angreifer hatte sich in einem Supermarkt verschanzt und Geiseln genommen. Bei der Festnahme wurde er getötet.",
           "source": "Tagesschau"
         }
       ]
