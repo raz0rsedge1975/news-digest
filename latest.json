@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-19T22:00:04.605Z",
-  "timestamp": "20.4.2026, 00:00:04",
+  "generated": "2026-04-20T02:00:04.679Z",
+  "timestamp": "20.4.2026, 04:00:04",
   "news": [
     {
       "source": "FAZ",
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Prognose: Bündnis von Ex-Präsident Radev bei Wahl in Bulgarien vorn",
-          "url": "https://www.tagesschau.de/ausland/europa/bulgarien-wahl-prognose-100.html",
-          "summary": "In Bulgarien könnte demnächst der ehemalige Präsident Radev an die Spitze der Regierung rücken: Sein Bündnis liegt laut Prognosen bei der Parlamentswahl vorn. Der Ex-General hatte im Wahlkampf für bessere Beziehungen mit Moskau geworben.",
+          "title": "Drohnen und Roboter: Wie Technik den Krieg in der Ukraine verändert",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-roboter-drohnen-102.html",
+          "summary": "Erstmals sollen laut der Ukraine ausschließlich Roboter eine russische Stellung eingenommen haben. Unabhängig ist die Aussage nicht zu überprüfen. Doch fest steht: Die Technik hat die Kriegsführung längst verändert.",
           "source": "Tagesschau"
         },
         {
-          "title": "Acht Kinder bei Gewalttat in den USA getötet",
-          "url": "https://www.tagesschau.de/ausland/amerika/shreveport-usa-100.html",
-          "summary": "In den USA hat ein Mann laut Polizei acht Kinder getötet. Der Tatverdächtige - offenbar der Vater einiger der Kinder - wurde nach einer Verfolgungsjagd erschossen. Die Hintergründe der Tat sind noch unklar.",
+          "title": "Mehrheit in Nordrhein-Westfalen für Olympia-Bewerbung",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/olympia-entscheidung-nrw-100.html",
+          "summary": "Die Menschen in Nordrhein-Westfalen haben sich mehrheitlich für eine Bewerbung der Region \"Köln-Rhein-Ruhr\" für die Olympischen und Paralympischen Sommerspiele ausgesprochen. In Köln dauern die Auszählungen bis in die Nacht.",
           "source": "Tagesschau"
         },
         {
-          "title": "Ministerin Warken verteidigt Pläne für Gesundheitsreform",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/gesundheitsreform-warken-bab-100.html",
-          "summary": "Die Pläne zur Gesundheitsreform von Ministerin Warken sorgen für Widerspruch - auch innerhalb der Regierung. Im Bericht aus Berlin verteidigt sie ihre Pläne, gibt sich aber auch gesprächsbereit.",
+          "title": "Golf von Oman: US-Militär entert iranisches Frachtschiff",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-waffenruhe-100.html",
+          "summary": "Die US-Marine hat im Golf von Oman ein iranisches Frachtschiff angegriffen und unter ihre Kontrolle gebracht. Irans Generalstab spricht von einem Bruch der Waffenruhe und kündigte Vergeltung an. Neuen Gesprächen mit den USA erteilte Iran eine Absage.",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "„Caren Miosga“: Eine Nachhilfestunde für Jens Spahn",
+          "url": "https://www.sueddeutsche.de/medien/jens-spahn-caren-miosga-tv-kritik-ard-talkshow-iran-wirtschaftskrise-li.3469793",
+          "summary": "Bei „Caren Miosga“ verteidigt Jens Spahn Krisenhilfen, an die er selbst nicht zu glauben scheint, und bemängelt den schlechten Stil der Regierung, für den er mitverantwortlich ist.",
+          "source": "SZ"
+        },
         {
           "title": "Meisterschaft des FC Bayern: Diesmal hat die Bundesliga eine Ausrede für die Bayern-Dominanz",
           "url": "https://www.sueddeutsche.de/sport/bundesliga-fc-bayern-meisterschaft-kompany-kommentar-li.3470377",
@@ -84,12 +90,6 @@
           "title": "Nachruf: Die Erzmami",
           "url": "https://www.sueddeutsche.de/kultur/jonathan-meese-mutter-brigitte-nachruf-li.3470586",
           "summary": "Brigitte Meese war Mutter, Managerin, Muse und symbiotische Mit-Performerin des Künstlers Jonathan Meese. Jetzt ist die „große Chefin der Kunst“ im Alter von 96 Jahren verstorben. Ein Nachruf.",
-          "source": "SZ"
-        },
-        {
-          "title": "FC Bayern München: Der gnadenlose deutsche Meister",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-meisterschaft-bundesliga-stuttgart-li.3470427",
-          "summary": "15 Punkte und 50 Tore Vorsprung: Der FC Bayern schlägt Stuttgart mit 4:2 und ist vier Spieltage vor Schluss endgültig nicht mehr einzuholen. Gefeiert? Wird kaum. Es gibt ja noch mehr zu gewinnen.",
           "source": "SZ"
         }
       ]
