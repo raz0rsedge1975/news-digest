@@ -1,26 +1,26 @@
 {
-  "generated": "2026-04-21T02:00:05.152Z",
-  "timestamp": "21.4.2026, 04:00:05",
+  "generated": "2026-04-21T06:00:05.407Z",
+  "timestamp": "21.4.2026, 08:00:05",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Haushalte denken um: Kommt jetzt der Elektro-Boom?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/steigt-durch-irankrieg-und-hohe-energiepreise-nachfrage-nach-e-autos-waermepumpen-und-pv-200733698.html",
-          "summary": "Mit den höheren Öl- und Gaspreisen werden Elektroautos, Wärmepumpen und Co. im Vergleich zu ihren fossilen Alternativen attraktiver. So reagieren die Verbraucher.",
+          "title": "Fraport-Chef Schulte: „Wir beweisen, dass Großprojekte zuverlässig gelingen können“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/neuer-terminal-3-am-flughafen-frankfurt-fraport-chef-stefan-schulte-im-f-a-z-interview-accg-200733198.html",
+          "summary": "Der Frankfurter Flughafen eröffnet ein neues Terminal. Fraport-Chef Stefan Schulte spricht über Rezepte gegen ausufernde Kosten, den Irankrieg – und Gründe, warum es in Frankfurt nicht zu einem Joint Venture mit Lufthansa kommt.",
           "source": "FAZ"
         },
         {
-          "title": "Bidirektionales Laden: Gratisstrom fürs Elektroauto",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gratisstrom-fuers-elektroauto-was-steckt-hinter-der-idee-von-the-mobility-house-accg-200683275.html",
-          "summary": "Energieunternehmen und Autohersteller bringen jetzt Tarife heraus, die das Auto zum Stromspeicher machen. Einer der bekanntesten deutschen Auto-Manager mischt kräftig mit.",
+          "title": "Frankfurter Flughafen: Terminal 3 ist ein geniales Plagiat",
+          "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/architektur/neues-terminal-3-am-frankfurter-flughafen-geniales-plagiat-200746899.html",
+          "summary": "Die Architektur des Terminal 3 des Frankfurter Flughafens überzeugt. Architekt Christoph Mäckler hat für eine hochwertige Anmutung gesorgt.",
           "source": "FAZ"
         },
         {
-          "title": "Der Krieg in Zahlen: Wie schwer Iran getroffen wurde",
-          "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-was-haben-die-usa-und-israel-getroffen-200750368.html",
-          "summary": "Bald läuft die Waffenruhe aus, Amerikas Präsident Trump droht mit neuen Bomben. Was haben Amerika und Israel in ihrem wochenlangen Luftkrieg erreicht? Eine Datenanalyse.",
+          "title": "Flughafen Frankfurt: Warum manche Terminal 3 kritisieren",
+          "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-flughafen-warum-manche-das-terminal-3-kritisieren-accg-200730689.html",
+          "summary": "Das Terminal 3 am Frankfurter Flughafen wird in dieser Woche eröffnet. Nicht alle Menschen in der Region finden das gut.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Apple-Chef Tim Cook: Der Billionenmacher tritt zurück",
+          "url": "https://www.spiegel.de/netzwelt/gadgets/apple-chef-tim-cook-der-billionenmacher-tritt-zurueck-a-d56bf66c-746c-4c3b-92ef-ae12bfee56cf#ref=rss",
+          "summary": "Als der Logistikfachmann Tim Cook vor knapp 15 Jahren zum Apple-Chef aufstieg, befürchteten manche Kritiker das Schlimmste. Im September tritt er nun zurück. Für den Konzern endet damit eines der wichtigsten Kapitel.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "News: EuGH-Urteil zur Arbeitszeit, Prozess wegen Gift-Tod in Istanbul, Wal vor Ostsee-Insel Poel",
+          "url": "https://www.spiegel.de/politik/deutschland/news-eugh-urteil-zur-arbeitszeit-prozess-wegen-gift-tod-in-istanbul-wal-vor-ostsee-insel-poel-a-61d78a33-10c0-4d32-915a-313df2a086a4#ref=rss",
+          "summary": "Welche Auswirkungen ein EuGH-Urteil zur Arbeitszeit haben kann. Welche Strafen den Verantwortlichen für den Gifttod einer Hamburger Familie in Istanbul drohen. Und: das unendliche Wal-Drama. Das ist die Lage am Dienstagmorgen.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Iran-Krieg: Die USA wollen reden, Teheran zögert – das sind die Knackpunkte der Verhandlungen",
           "url": "https://www.spiegel.de/ausland/iran-krieg-die-usa-wollen-reden-teheran-zoegert-das-sind-die-knackpunkte-der-verhandlungen-a-880686bf-4096-45e6-b1ff-1adc824769d9#ref=rss",
           "summary": "Kurz vor Ablauf der Waffenruhe zögern die Iraner, an einer neuen Verhandlungsrunde mit den USA teilzunehmen. Die Positionen beider Seiten liegen weit auseinander. Teheran wähnt sich jedoch am längeren Hebel.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Apple-Chef Tim Cook tritt ab",
-          "url": "https://www.spiegel.de/netzwelt/apple-chef-tim-cook-tritt-ab-a-8599475b-a272-4c82-bb81-eb9a126a371a#ref=rss",
-          "summary": "Nach fast 15 Jahren an der Spitze wird Tim Cook seinen Posten als Apple-Chef Anfang September aufgeben. Nachfolger des 65-Jährigen wird der bisherige Hardware-Chef John Ternus.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Rettungsaktion Buckelwal in der Ostsee: Warum beten die Menschen in der Kirche von Poel für den Wal?",
-          "url": "https://www.spiegel.de/panorama/rettungsaktion-buckelwal-in-der-ostsee-warum-beten-die-menschen-in-der-kirche-von-poel-fuer-den-wal-a-a2f6a09f-e25b-4525-b804-1b6c72beeb74#ref=rss",
-          "summary": "Es riecht nach Bibel und Fäulnis in der Inselkirche auf Poel. Im Gedenkbuch geht es nur noch um den Wal vor der Küste. Hat er sich verirrt? Oder die Menschen hier?",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Prozessauftakt im Fall der vergifteten Hamburger Familie",
-          "url": "https://www.tagesschau.de/ausland/istanbul-vergiftete-familie-100.html",
-          "summary": "Zwei kleine Kinder und ihre Eltern starben im November 2025 in Istanbul - durch ein Insektengift, das in ihrem Hotel ausgebracht wurde. Heute beginnt der Prozess gegen die mutmaßlichen Verantwortlichen. Von Uwe Lueb.",
+          "title": "Marktbericht: Anleger sind unsicher, aber zuversichtlich",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-122.html",
+          "summary": "Trotz der Ungewissheit über die Fortsetzung der Waffenruhe im Nahen Osten bleiben die Anleger zuversichtlich. Der DAX dürfte zum Handelsstart leicht zulegen, auch in Japan geht es aufwärts.",
           "source": "Tagesschau"
         },
         {
-          "title": "Petersberger Klimadialog: Schub durch die Energiekrise?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/petersberger-dialog-100.html",
-          "summary": "Die Klimapolitik steckt in der Krise. Ausgerechnet der Iran-Krieg und die steigenden Energiepreise könnten nun für Rückenwind sorgen. Beim Petersberger Klimadialog, der heute beginnt, sollen Allianzen geschmiedet werden. Hebestreit.",
+          "title": "Japan lockert Regeln für Waffenexporte",
+          "url": "https://www.tagesschau.de/ausland/asien/japan-waffenexporte-100.html",
+          "summary": "Die japanische Regierung hat ihre historischen Beschränkungen für Waffenexporte ins Ausland weitgehend aufgehoben. Künftig ist es dem Land erlaubt, auch als \"tödliche Waffen\" eingestufte Rüstungsgüter zu verkaufen.",
           "source": "Tagesschau"
         },
         {
-          "title": "Arbeitsministerin Chavez-DeRemer verlässt US-Regierung",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-chavez-deremer-100.html",
-          "summary": "Es ist der dritte Rücktritt einer Ministerin in nur sieben Wochen: US-Arbeitsministerin Chavez-DeRemer verlässt die Trump-Regierung. Sie geriet zuletzt wegen mehrerer Vorfälle unter Druck.",
+          "title": "Waffenruhe zwischen USA und Iran endet: Gespräche - oder doch neue Härte?",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-verhandlungen-112.html",
+          "summary": "Das Kräftemessen zwischen USA und Iran geht in die nächste Runde. Bald endet die Waffenruhe. Die US-Delegation soll für eine Abreise zu neuen Verhandlungen in Pakistan bereit stehen - aber wer gibt nach?",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Computer: Tim Cook hört als Apple-Chef auf",
-          "url": "https://www.sueddeutsche.de/wirtschaft/apple-chef-john-ternus-tim-cook-li.3471193",
-          "summary": "Nach gut 15 Jahren bekommt der Konzern einen neuen Chef. Cooks Nachfolger steht schon fest. John Ternus wird die Computerfirma aus Kalifornien in Zukunft leiten.",
+          "title": "Bundespolitik: Dobrindt schließt höheren Spitzensteuersatz nicht aus",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-koalition-alexander-dobrindt-reformen-spitzensteuersatz-spd-li.3463205",
+          "summary": "Wenn man einen großen Reformprozess wolle, sei es „nicht klug, das eine oder andere kategorisch auszuschließen“, sagt der Bundesinnenminister. Die SPD will hohe Einkommen stärker besteuern.",
           "source": "SZ"
         },
         {
-          "title": "Krieg in der Ukraine: Wegen Drohungen:  Auswärtiges Amt bestellt russischen Botschafter ein",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-botschafter-russland-li.3470639",
-          "summary": "Das russische Militär hatte eine Liste mit Orten veröffentlicht, an denen angeblich für die Ukraine Drohnen produziert werden – und sprach von „potenziellen Zielen“. Berlin protestiert.",
+          "title": "Krieg in Nahost: Trump: Verlängerung der Iran-Waffenruhe „höchst unwahrscheinlich“",
+          "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-usa-trump-waffenruhe-li.3465745",
+          "summary": "Die USA erhöhen den Druck auf Iran, die Gespräche wiederaufzunehmen. Laut der Sprecherin des Weißen Hauses sei ein Abkommen „näher denn je“.",
           "source": "SZ"
         },
         {
-          "title": "Krise beim Kerosin: Niemand hat die Absicht, euch die Ferien zu verderben",
-          "url": "https://www.sueddeutsche.de/wirtschaft/reiche-kerosin-energiekrise-li.3471099",
-          "summary": "Seit die Internationale Energieagentur vor Engpässen beim Kerosin warnt, wächst auch in Deutschland die Nervosität. Doch die Wirtschaftsministerin spielt die Gefahr herunter. Wie ist die Lage wirklich?",
+          "title": "„Hart aber fair“: Ein Rebell in der CDU",
+          "url": "https://www.sueddeutsche.de/medien/brinkhaus-cdu-miersch-spd-hart-aber-fair-louis-klamroth-li.3470854",
+          "summary": "Ein CDU-Mann für erneuerbare Energien und Tempolimit? Ralph Brinkhaus entdeckt bei „Hart aber fair“ den Grünen in sich selbst. Sein Koalitionspartner Matthias Miersch ist begeistert.",
           "source": "SZ"
         }
       ]
