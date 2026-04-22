@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-21T22:00:06.694Z",
-  "timestamp": "22.4.2026, 00:00:06",
+  "generated": "2026-04-22T02:00:04.627Z",
+  "timestamp": "22.4.2026, 04:00:04",
   "news": [
     {
       "source": "FAZ",
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Krankenversicherung: So sollen Ihre Kassenbeiträge steigen – Modellrechnungen für sechs Haushalte",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-so-sollen-ihre-kassenbeitraege-steigen-modellrechnungen-fuer-sechs-haushalte-a-07e52a40-941b-45ab-b4a1-afd8ea88aa68#ref=rss",
-          "summary": "Ehepartner müssen sich selbst versichern, die Beitragsbemessungsgrenze steigt um 300 Euro: Das würde Versicherte ganz unterschiedlich treffen – wie detaillierte Rechnungen für sechs Modellhaushalte zeigen.",
+          "title": "Warum in Deutschland mehr Radfahrer sterben – und in anderen Staaten weniger",
+          "url": "https://www.spiegel.de/mobilitaet/fahrrad/warum-in-deutschland-mehr-radfahrer-sterben-und-in-anderen-staaten-weniger-a-11c20ce8-51e6-45ef-81ab-325b9f6414df#ref=rss",
+          "summary": "EU-weit sinkt die Zahl der tödlich verunglückten Radfahrer, in Deutschland allerdings nicht. Fachleute sehen dafür mehrere Gründe. Ein Land sticht ihnen zufolge besonders positiv heraus. Was wird dort anders gemacht?",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Nahost-Liveblog: ++ Keine Entspannung an den Ölmärkten ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-112.html",
+          "summary": "Trotz der angekündigten Verlängerung der Waffenruhe mit dem Iran zeichnet sich an den Ölmärkten keine echte Entspannung ab. Mehr als 30 Länder beteiligen sich an einer Planungskonferenz für einen neutralen Einsatz in der Straße von Hormus.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Internationale Studie: Pollensaison wird länger und stärker",
+          "url": "https://www.tagesschau.de/wissen/gesundheit/pollen-saison-klimawandel-100.html",
+          "summary": "Allergieauslösende Pollen wie die von Erle und Birke fliegen früher und stärker als noch vor 30 Jahren. Verantwortlich ist der Klimawandel - das belegen neueste Daten einer internationalen Studie. Von Jeanne Turczynski.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Trump verlängert Waffenruhe mit Iran",
           "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-waffenruhe-100.html",
-          "summary": "US-Präsident Trump hat angekündigt, Iran mehr Zeit für Verhandlungen zu geben. Damit komme er einer Bitte aus Pakistan nach, teilte er auf seiner Plattform Truth Social mit. Zugleich soll die Blockade iranischer Häfen aufrechterhalten bleiben.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Nahost-Liveblog: ++ Revolutionsgarde droht Golfstaaten ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html",
-          "summary": "Ein Kommandeur der Revolutionsgarde hat den Golfstaaten mit der Zerstörung ihrer Ölproduktion gedroht, sollten sie Angriffe auf Iran von ihrem Staatsgebiet aus erlauben. Die Hisbollah hat nach eigenen Angaben Raketen auf Israel abgefeuert.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Unklarheit über Waffenruhe und Verhandlungen zwischen Iran und USA",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-treffen-100.html",
-          "summary": "Eigentlich wollten sich Vertreter der USA und Irans vor Auslaufen der Waffenruhe zu Verhandlungen treffen. Doch weder sind die Delegationen nach Pakistan aufgebrochen, noch ist überhaupt klar, wann genau die Feuerpause eigentlich endet.",
+          "summary": "Kurz vor Ende der Waffenruhe hat US-Präsident Trump Iran mehr Zeit für eine Verhandlungslösung gegeben und die Waffenruhe überraschend verlängert. Zugleich soll die Blockade iranischer Häfen aufrechterhalten bleiben.",
           "source": "Tagesschau"
         }
       ]
@@ -87,9 +87,9 @@
           "source": "SZ"
         },
         {
-          "title": "Krieg in der Ukraine: Druschba-Pipeline laut Selenskij repariert",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-druschba-pipeline-eu-selenskij-li.3470639",
-          "summary": "Der ukrainische Präsident knüpft Öllieferungen über die Pipeline an die Freigabe der für die Ukraine vorgesehenen EU-Mittel in Milliardenhöhe. Am Mittwoch soll in der EU die Entscheidung über den Kredit fallen.",
+          "title": "Abitur in Bayern: „Ich denke, jede Generation hat ihr Päckchen zu tragen“",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-abitur-pruefungen-zukunft-studienplaene-g9-li.3468557",
+          "summary": "Heute beginnen die Abiprüfungen in Bayern – erstmals wieder im G9-Modus. Wie geht es den Schülerinnen und Schülern zum Start der Prüfungen und was planen sie danach?",
           "source": "SZ"
         }
       ]
