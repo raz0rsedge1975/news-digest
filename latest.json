@@ -1,10 +1,16 @@
 {
-  "generated": "2026-04-26T18:00:05.593Z",
-  "timestamp": "26.4.2026, 20:00:05",
+  "generated": "2026-04-26T22:00:06.590Z",
+  "timestamp": "27.4.2026, 00:00:06",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "PCK-Raffinerie: Wie viele Kesselwagen ersetzen eine Öl-Pipeline?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/oelversorgung-gibt-es-eine-alternative-zur-druschba-pipeline-200768450.html",
+          "summary": "Russland hat angekündigt, die Durchleitung von Rohöl nach Deutschland zu stoppen. Gibt es eine Alternative zur Druschba-Pipeline?",
+          "source": "FAZ"
+        },
         {
           "title": "Schüsse in Washington: Wie lange hält die Ruhe?",
           "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/schuesse-in-washington-wie-lang-haelt-die-ruhe-200770442.html",
@@ -16,12 +22,6 @@
           "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-trump-verdaechtiger-hat-manifest-hinterlassen-faz-19444916.html",
           "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ"
-        },
-        {
-          "title": "Nach den Schüssen: Wie konnte der Schütze ins Hotel gelangen?",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-den-schuessen-beim-pressedinner-wie-konnte-der-schuetze-ins-hilton-hotel-gelangen-accg-200770232.html",
-          "summary": "Offenbar gab es Lücken im Sicherheitskonzept für das Pressedinner. Dennoch lobt Trump den Secret Service – und nutzt den Vorfall, um ein eigenes Projekt voranzutreiben.",
-          "source": "FAZ"
         }
       ]
     },
@@ -29,9 +29,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Friedrich Merz und Lars Klingbeil: Die Woche der Wahrheit für die Reformpläne der Koalition",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-lars-klingbeil-die-woche-der-wahrheit-fuer-die-reformplaene-der-koalition-a-8b3b3574-f2b0-4cf6-bf26-a0586f69dcda#ref=rss",
-          "summary": "Rente, Gesundheit, Bürokratie, Steuern: In den nächsten Tagen muss sich zeigen, ob sich Union und SPD nach dem Streit in der Villa Borsig zusammenreißen können. Kanzler Merz und sein Vize Klingbeil wollen vertraulich sprechen.",
+          "title": "Verbraucherschutz: Was die Bundesregierung bislang getan hat - und was nicht",
+          "url": "https://www.spiegel.de/politik/deutschland/verbraucherschutz-was-die-bundesregierung-bislang-getan-hat-und-was-nicht-a-bf4070c3-2da2-414d-8254-f546d2dd681e#ref=rss",
+          "summary": "Strompreise, Deutschlandticket, Schutz vor Onlinetricksereien: Die Bundesregierung nahm sich bei Amtsantritt viel vor. Liefert sie auch? Die Verbraucherzentrale machte einen Check, das Ergebnis liegt dem SPIEGEL vor.",
           "source": "Spiegel"
         },
         {
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Diplomatie im Iran-Krieg: Viele Flugstunden, wenig Aussicht auf neues Treffen",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-gespraeche-100.html",
+          "summary": "Zum zweiten Mal binnen 24 Stunden ist Irans Außenminister Araghtschi im Vermittlerstaat Pakistan, um Irans Positionen zu übermitteln. Auch eine Reise nach Moskau ist geplant. Neue Gespräche mit den USA zeichnen sich nicht ab.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Reaktorstörfall im Labor: Stresstest für Brennelemente im Mini-AKW",
           "url": "https://www.tagesschau.de/wissen/technologie/mini-atomkraftwerke-stresstest-100.html",
           "summary": "Kleine, modulare Reaktoren sollen Atomkraftwerke billiger und sicherer machen. Ob die Kleinreaktoren den großen bei Störfällen tatsächlich überlegen sein können, testen Forschende in Karlsruhe. Von David Globig.",
@@ -62,18 +68,18 @@
           "url": "https://www.tagesschau.de/inland/innenpolitik/energieknappheit-kerosin-nouripour-100.html",
           "summary": "Seit Beginn des Iran-Kriegs haben sich die Preise für Kerosin mehr als verdoppelt. Die Branche warnt vor Engpässen, die Bundesregierung hält die Versorgung noch für gesichert. Der Grünen-Politiker Nouripour fordert im Bericht aus Berlin mehr Einsatz.",
           "source": "Tagesschau"
-        },
-        {
-          "title": "Schüsse bei Gala in Washington: Die Regierung im Visier?",
-          "url": "https://www.tagesschau.de/ausland/amerika/washington-anschlag-trump-100.html",
-          "summary": "Nach dem Angriff auf ein Gala-Dinner mit US-Präsident Trump sind noch viele Fragen offen. Laut Justizminister Blanche ist jedoch klar: Der Tatverdächtige hatte es auf Regierungsmitglieder abgesehen. Von Carsten Kühntopp.",
-          "source": "Tagesschau"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Korrespondenten-Dinner in den USA: Was über den mutmaßlichen Täter bekannt ist",
+          "url": "https://www.sueddeutsche.de/politik/washington-correspondents-dinner-schuesse-taeter-li.3473950",
+          "summary": "Wer ist der Mann, der trotz höchster Sicherheitsvorkehrungen in die Lobby des Hilton Hotels in Washington eindringen konnte?",
+          "source": "SZ"
+        },
         {
           "title": "Krieg in Iran: Irans Außenminister erneut in Islamabad - und am Montag in Moskau",
           "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-krieg-araghtschi-pakistan-moskau-putin-li.3472459",
@@ -84,12 +90,6 @@
           "title": "USA: US-Justizminister: Schütze hatte US-Regierung im Visier",
           "url": "https://www.sueddeutsche.de/politik/usa-news-trump-schuesse-weisses-haus-us-justitzminister-li.3471210",
           "summary": "Vermutlich sei auch US-Präsident Trump Ziel des Anschlags gewesen, sagt Blanche in einem Fernsehinterview. Am Montag soll der Attentäter angeklagt werden.",
-          "source": "SZ"
-        },
-        {
-          "title": "Merz beim Sozialflügel der CDU: „Es spricht zu Ihnen der Kaufhausdirektor“",
-          "url": "https://www.sueddeutsche.de/politik/cdu-rente-bundeskanzler-merz-radtke-cda-li.3473956",
-          "summary": "Der Arbeitnehmerflügel hadert immer wieder mit Aussagen des Kanzlers. Sein Chef möchte Friedrich Merz klarmachen, dass die CDU mehr ist als eine konservative Partei. Wie der Kanzler in Marburg damit umgeht?",
           "source": "SZ"
         }
       ]
