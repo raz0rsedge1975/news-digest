@@ -1,20 +1,14 @@
 {
-  "generated": "2026-04-25T22:00:07.222Z",
-  "timestamp": "26.4.2026, 00:00:07",
+  "generated": "2026-04-26T02:00:11.692Z",
+  "timestamp": "26.4.2026, 04:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: „Stillhalten, melden, am Leben bleiben“",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukrainekrieg-wo-drohnen-alles-beherrschen-200746953.html",
-          "summary": "Fußsoldaten haben im Ukrainekrieg nur noch wenige Aufgaben. Das Töten erledigen Drohnen – wenn das Wetter gut ist. Bei Nebel oder Wind sind die Soldaten gefragt.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Pipeline-Transitstopp: Wieder nutzt Russland Öl als Hebel gegen Berlin",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/moskau-nutzt-kasachisches-oel-als-hebel-gegen-berlin-200761968.html",
-          "summary": "Russland stoppt den Öltransport durch die Druschba-Pipeline nach Deutschland. So will Moskau ein Ende der ukrainischen Drohnenangriffe auf russische Häfen erreichen.",
+          "title": "Liveblog USA unter Trump: Secret Service holt Trump von Bühne – Schütze in Gewahrsam",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-secret-service-holt-trump-bei-korrespondentendinner-von-buehne-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ"
         },
         {
@@ -22,12 +16,24 @@
           "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-sagt-reise-von-unterhaendlern-zu-iran-gespraechen-ab-faz-200583539.html",
           "summary": "US-Präsident: Iran kann jederzeit anrufen +++ Iranischer Außenminister verlässt Islamabad nach Gesprächen mit Vertretern Pakistans +++ Deutscher Minensucher ins Mittelmeer verlegt +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
+        },
+        {
+          "title": "Import Export: Irans absurde Gesten des Triumphes",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/lego-und-pinke-waffen-irans-absurde-triumphgesten-accg-200764281.html",
+          "summary": "Bei einer iranischen Militärparade haben Regimeanhängerinnen pinkfarbene Waffen präsentiert und die Regierung bringt KI-generierte Videos von Lego-Figuren seiner Feinde in Umlauf. Was bezweckt Iran damit?",
+          "source": "FAZ"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Schussähnliche Ger��usche bei Korrespondentendinner – Trump in Sicherheit gebracht",
+          "url": "https://www.spiegel.de/ausland/zwischenfall-bei-korrespondentendinner-trump-in-sicherheit-gebracht-a-3f6ccd80-cdce-4ace-bd2a-a2046811af3e#ref=rss",
+          "summary": "US-Präsident Donald Trump ist am ‌Samstag beim Dinner der White-House-Korrespondenten von Personenschützern in Sicherheit gebracht worden. Vorausgegangen waren schussähnliche Geräusche im Saal.",
+          "source": "Spiegel"
+        },
         {
           "title": "Ukraine: Historiker Eckart Conze über Wege zu Frieden und Kriegsende",
           "url": "https://www.spiegel.de/geschichte/ukraine-historiker-eckart-conze-ueber-wege-zu-frieden-und-kriegsende-a-810fddfa-c18d-48b1-abbb-808167dd93e7#ref=rss",
@@ -39,12 +45,6 @@
           "url": "https://www.spiegel.de/ausland/ukraine-ermittlungen-nach-schockfotos-ignorierten-kommandeure-hilferufe-a-23401653-93da-4bf8-90ea-ae0503431161#ref=rss",
           "summary": "Im Netz sind Bilder ausgezehrter ukrainischer Soldaten aufgetaucht. Die Armeeführung hat personelle Konsequenzen gezogen und Untersuchungen eingeleitet. Ignorierten die zuständigen Militärs bewusst Hilferufe, um die Lage zu beschönigen?",
           "source": "Spiegel"
-        },
-        {
-          "title": "JD Vance und der Vatikan: Wie der US-Vize im Katholiken-Kampf gegen den Papst scheiterte",
-          "url": "https://www.spiegel.de/kultur/jd-vance-und-der-vatikan-wie-der-us-vize-im-katholiken-kampf-gegen-den-papst-scheiterte-a-e41b9f29-9e27-4722-b289-a36a5afc7af4#ref=rss",
-          "summary": "Bei der US-Rechten gilt das Katholische schon länger als schick. Doch nach dem verlorenen Konflikt mit dem Vatikan bemerkt nicht nur der US-Vizepräsident, dass er in einen Club eingetreten ist, dessen Regeln er nicht versteht.",
-          "source": "Spiegel"
         }
       ]
     },
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "40 Jahre Tschernobyl: Die Spuren einer Katastrophe",
-          "url": "https://www.tagesschau.de/wissen/technologie/tschernobyl-40-jahre-100.html",
-          "summary": "Mehr als 1. 000 Kilometer liegen zwischen Deutschland und Tschernobyl in der heutigen Ukraine. Trotz dieser Entfernung: Der Atomunfall von 1986 lebt auch hier nach. Was hat sich seitdem verändert? Von Dominik Bartoschek.",
+          "title": "Schussähnliche Geräusche: US-Präsident Trump in Sicherheit gebracht",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-korrespondentendinner-100.html",
+          "summary": "US-Präsident Trump wurde nach einem Vorfall bei einer Presse-Gala von seinen Sicherheitsleuten evakuiert. US-Medien berichteten von schussähnlichen Knallgeräuschen im Hotel. Ein Verdächtiger wurde festgenommen.",
           "source": "Tagesschau"
         },
         {
-          "title": "Was vor 40 Jahren in Tschernobyl passierte",
-          "url": "https://www.tagesschau.de/wissen/technologie/40-jahre-tschernobyl-hintergrund-100.html",
-          "summary": "Die Explosion im Atomkraftwerk in Tschernobyl vor 40 Jahren schockierte die Welt. In vielen Ländern spürten die Menschen die Folgen. Warum kam es zum Super-GAU? Welche Rolle spielte der Wind? Wie viele Menschen waren betroffen?",
+          "title": "Bahn verspricht stabile Fernticket-Preise für ein Jahr",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-fernverkehr-ticketpreise-100.html",
+          "summary": "Für ein Jahr will die Deutsche Bahn auf Preiserhöhungen im Fernverkehr verzichten. Bahnchefin Palla kündigte an, die Preise für ICE-Tickets ab dem 1. Mai für zwölf Monate stabil halten zu wollen.",
           "source": "Tagesschau"
         },
         {
-          "title": "Schweden: Atomkraft - ja, bitte",
-          "url": "https://www.tagesschau.de/ausland/europa/schweden-atomkraft-100.html",
-          "summary": "Schwedens Regierung hält Atomkraft für unverzichtbar, um den Energiebedarf des Landes klimaschonend zu decken. In den nächsten Jahren sollen neue Reaktoren entstehen. Doch gegen die Pläne gibt es auch Widerstand. Von Jana Sinram.",
+          "title": "Iran-Liveblog: ++ Netanjahu ordnet neue Angriffe im Libanon an ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html",
+          "summary": "Israels Premier Netanjahu hat das Militär zu neuen massiven Angriffen auf Ziele der Terror-Miliz Hisbollah im Libanon aufgerufen. Das US-Militär hat eigenen Angaben zufolge einen Frachter der iranischen Schattenflotte abgefangen.",
           "source": "Tagesschau"
         }
       ]
