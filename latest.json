@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-26T22:00:06.590Z",
-  "timestamp": "27.4.2026, 00:00:06",
+  "generated": "2026-04-27T02:00:05.668Z",
+  "timestamp": "27.4.2026, 04:00:05",
   "news": [
     {
       "source": "FAZ",
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Zahl der Kriegsdienstverweigerer steigt deutlich an",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/kriegsdienstverweigerer-zahl-steigt-100.html",
+          "summary": "Obwohl die Wehrpflicht weiterhin ausgesetzt ist, verweigern immer mehr Männer den Kriegsdienst. Im ersten Quartal dieses Jahres waren es mehr als 2. 600 - das entspricht fast 70 Prozent der gesamten Anträge aus 2025.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "SIPRI-Bericht: Neuer Rekord bei weltweiten Militärausgaben",
+          "url": "https://www.tagesschau.de/ausland/europa/sipri-militaerausgaben-gestiegen-100.html",
+          "summary": "Die weltweiten Militärausgaben haben im vergangenen Jahr laut einem Bericht einen neuen Höchststand erreicht - zum elften Mal in Folge. Gegen den Trend ging es ausgerechnet in den USA - zumindest vorübergehend. Von Jana Sinram.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Diplomatie im Iran-Krieg: Viele Flugstunden, wenig Aussicht auf neues Treffen",
           "url": "https://www.tagesschau.de/ausland/asien/iran-usa-gespraeche-100.html",
           "summary": "Zum zweiten Mal binnen 24 Stunden ist Irans Außenminister Araghtschi im Vermittlerstaat Pakistan, um Irans Positionen zu übermitteln. Auch eine Reise nach Moskau ist geplant. Neue Gespräche mit den USA zeichnen sich nicht ab.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Reaktorstörfall im Labor: Stresstest für Brennelemente im Mini-AKW",
-          "url": "https://www.tagesschau.de/wissen/technologie/mini-atomkraftwerke-stresstest-100.html",
-          "summary": "Kleine, modulare Reaktoren sollen Atomkraftwerke billiger und sicherer machen. Ob die Kleinreaktoren den großen bei Störfällen tatsächlich überlegen sein können, testen Forschende in Karlsruhe. Von David Globig.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Nouripour fordert mehr Tempo beim Kampf gegen Kerosinmangel",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/energieknappheit-kerosin-nouripour-100.html",
-          "summary": "Seit Beginn des Iran-Kriegs haben sich die Preise für Kerosin mehr als verdoppelt. Die Branche warnt vor Engpässen, die Bundesregierung hält die Versorgung noch für gesichert. Der Grünen-Politiker Nouripour fordert im Bericht aus Berlin mehr Einsatz.",
           "source": "Tagesschau"
         }
       ]
