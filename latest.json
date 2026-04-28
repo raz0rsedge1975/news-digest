@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-27T22:00:06.435Z",
-  "timestamp": "28.4.2026, 00:00:06",
+  "generated": "2026-04-28T02:00:06.493Z",
+  "timestamp": "28.4.2026, 04:00:06",
   "news": [
     {
       "source": "FAZ",
@@ -35,15 +35,15 @@
           "source": "Spiegel"
         },
         {
-          "title": "News des Tages: Klingbeil gegen Steuerhinterziehung, Fahrradunfälle, Trump-Attentat",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-klingbeil-gegen-steuerhinterziehung-fahrradunfaelle-trump-attentat-a-3d518179-a618-44df-8bcf-0e00710f8c53#ref=rss",
-          "summary": "US-Präsident Trump soll den Secret Service beim Attentat in Washington gebremst haben. Finanzminister Klingbeil will härter gegen Steuerbetrug vorgehen. Und immer mehr Radfahrer sterben im Straßenverkehr. Das ist die Lage am Montagabend.",
-          "source": "Spiegel"
-        },
-        {
           "title": "Haushalt und Gesundheitsreform: Diese Frist wird für Union und SPD zur Gefahr",
           "url": "https://www.spiegel.de/politik/deutschland/haushalt-und-gesundheitsreform-diese-frist-wird-fuer-union-und-spd-zur-gefahr-a-8e0f719c-7f44-4fa3-9947-2e3f72c00b32#ref=rss",
           "summary": "Der Reformstreit belastet Union und SPD schwer, sogar Kanzler und Vizekanzler zofften sich zuletzt heftig. Nun erhöht die Union den Druck: Am Mittwoch sollen wichtige Entscheidungen stehen. Rutscht die Koalition endgültig in die Krise?",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Friedrich Merz: Bundeskanzler spricht von Demütigung für die USA",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-bundeskanzler-spricht-von-demuetigung-fuer-die-usa-a-cf9cfdc0-c4e9-4f77-9185-9b62fd58335b#ref=rss",
+          "summary": "Die USA finden bislang keinen Weg aus dem Irankrieg. Bundeskanzler Merz übt nun Kritik. Die Iraner seien offensichtlich stärker als gedacht.",
           "source": "Spiegel"
         }
       ]
@@ -51,6 +51,12 @@
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Staatsbesuch: Charles III. und Camilla im Weißen Haus begrüßt",
+          "url": "https://www.tagesschau.de/ausland/amerika/charles-besuch-usa-100.html",
+          "summary": "US-Präsident Trump hat das britische Königspaar Charles III. und Camilla im Weißen Haus empfangen. Charles soll heute eine Rede vor dem US-Kongress halten - wegen der belasteten Beziehungen wird diese mit Spannung erwartet.",
+          "source": "Tagesschau"
+        },
         {
           "title": "Klausurtagung CDU/CSU: Reformpläne, Kanzler und Zweckoptimismus",
           "url": "https://www.tagesschau.de/inland/innenpolitik/unionsfraktion-klausur-100.html",
@@ -62,12 +68,6 @@
           "url": "https://www.tagesschau.de/ausland/amerika/anklage-verdaechtiger-correspondents-dinner-100.html",
           "summary": "Dem Mann, der in Washington bei einer Gala mit Präsident Trump schoss, wird versuchter Mord am US-Staatsoberhaupt vorgeworfen. Bei einer Verurteilung droht dem 31-Jährigen eine lebenslange Haftstrafe.",
           "source": "Tagesschau"
-        },
-        {
-          "title": "Veränderte Machtstrukturen: Wer hat in Iran das Sagen?",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-machtstrukturen-100.html",
-          "summary": "Seit Beginn des Iran-Kriegs ist der Einfluss der Revolutionsgarde im Land größer geworden - und auch die Gefahr von Machtkämpfen in den Eliten, sagt Politikwissenschaftlerin Zamirirad. Aber noch habe sich die politischen Ordnung nicht fundamental verändert.",
-          "source": "Tagesschau"
         }
       ]
     },
@@ -75,7 +75,7 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Vincent Kompany: „Ich passe nicht in einen Wäschekorb“",
+          "title": "Vincent Kompany: „Ich passe nicht in diese Wäschebox“",
           "url": "https://www.sueddeutsche.de/sport/champions-league-bayern-psg-kompany-sperre-aaron-danks-li.3474545",
           "summary": "Bayern-Trainer Vincent Kompany muss im Hinspiel des Champions-League-Halbfinals bei PSG eine Sperre absitzen. Am Tag vor dem Spiel erklärt er, wie er damit umgehen wird.",
           "source": "SZ"
