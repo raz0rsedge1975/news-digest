@@ -1,26 +1,26 @@
 {
-  "generated": "2026-04-29T22:00:07.135Z",
-  "timestamp": "30.4.2026, 00:00:07",
+  "generated": "2026-04-30T02:00:04.685Z",
+  "timestamp": "30.4.2026, 04:00:04",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Business-Ticker: Meta stockt Investitionen auf – und entlässt trotzdem Mitarbeiter",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-meta-stockt-investitionen-auf-und-entlaesst-trotzdem-mitarbeiter-faz-200452404.html",
-          "summary": "Alphabet übertrifft die Erwartungen +++ Cloud-Geschäft und Anthropic helfen Amazon +++ Microsoft übertrifft Erwartungen – überzeugt aber die Börse nicht +++ Operativer Gewinn von Porsche sinkt um ein Fünftel +++ BMW stellt 300 Millionen Dollar für KI-Startups bereit +++ Neuigkeit...",
+          "title": "Misstöne mit Merz: Trump: USA könnten Truppen aus Deutschland abziehen",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-usa-pruefen-truppenabzug-aus-deutschland-200783419.html",
+          "summary": "Offenbar will Trump den Kanzler für dessen kritische Töne zum Irankrieg abstrafen: Washington prüfe eine Truppenreduzierung in Deutschland. Fast 40.000 US-Soldaten sind hier stationiert.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Liveblog Irankrieg: Hegseth greift kritische Abgeordnete an",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-hegseth-greift-kritische-abgeordnete-an-faz-200583539.html",
+          "summary": "Pentagon: Krieg kostete USA bisher 25 Milliarden Dollar +++ Merz: Persönliches Verhältnis zu Trump „unverändert gut“ +++ Trump: Iran-Verhandlungen laufen telefonisch +++ Höchster US-Benzinpreis seit Kriegsbeginn +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         },
         {
           "title": "Fragen und Antworten zur GKV-Reform: Das ändert sich für Krankenversicherte",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nina-warkens-gkv-reform-das-aendert-sich-fuer-krankenversicherte-200781745.html",
           "summary": "Für Gutverdiener und Familien, in denen der Ehepartner kostenlos mitversichert wird, wird es spürbar teurer. Ein Überblick.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Deutschland-Liveblog: Koalition will Pflicht für 65 Prozent erneuerbare Energien in neuen Heizungen streichen",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-koalition-kippt-pflicht-fuer-65-prozent-erneuerbare-energien-in-neuen-heizungen-faz-110093143.html",
-          "summary": "Änderungen an Habecks „Heizungsgesetz“ verzögern sich +++ Merz: Ich brülle niemanden an +++ Gesundheitsreform vom Kabinett beschlossen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Andreas Büttner aus Brandenburg: Anschlag auf Antisemitismusbeauftragten - Das ist über den Fall bekannt",
-          "url": "https://www.spiegel.de/panorama/justiz/andreas-buettner-aus-brandenburg-anschlag-auf-antisemitismusbeauftragten-das-ist-ueber-den-fall-bekannt-a-0244c114-74c2-4dde-a8a4-2676fff3920a#ref=rss",
-          "summary": "Brandenburgs Antisemitismusbeauftragter Andreas Büttner wurde Opfer eines Anschlages. Nun gibt es zwei Beschuldigte, mit denen der Politiker offenbar Geschäfte machte. Und in die Oper ging.",
+          "title": "Louisiana: Supreme Court erklärt Wahlkreiszuschnitt für verfassungswidrig",
+          "url": "https://www.spiegel.de/ausland/louisiana-supreme-court-erklaert-wahlkreiszuschnitt-fuer-verfassungswidrig-a-ce244291-5161-4b8e-a0e6-97fa384730ea#ref=rss",
+          "summary": "Der US-Bundesstaat Louisiana muss seine Wahlbezirke neu anordnen. Der Oberste Gerichtshof entschied in einem wegweisenden Urteil, dass es nur einen statt zwei Wahlkreisen geben solle, in dem Schwarze die Mehrheit stellen.",
           "source": "Spiegel"
         }
       ]
@@ -51,6 +51,12 @@
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "USA erwägen laut Trump Truppenreduzierung in Deutschland",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-usa-truppen-deutschland-abzug-100.html",
+          "summary": "Die Stimmung zwischen Bundeskanzler Merz und US-Präsident Trump ist seit Tagen angespannt. Jetzt erwägt Trump, die US-Truppenpräsenz in Deutschland zu reduzieren. Eine Entscheidung solle \"in Kürze\" getroffen werden.",
+          "source": "Tagesschau"
+        },
         {
           "title": "Analyse zum Haushalt 2027: Klingbeil setzt auf das Prinzip Hoffnung",
           "url": "https://www.tagesschau.de/inland/innenpolitik/finanzplan-klingbeil-analyse-100.html",
@@ -62,12 +68,6 @@
           "url": "https://www.tagesschau.de/ausland/amerika/usa-new-york-laerm-100.html",
           "summary": "Presslufthammer, Sirenen, Gehupe. Der Alltag in New York ist vor allem eines: extrem laut. 800 Beschwerden gingen im vergangenen Jahr täglich über die Lärm-Hotline ein. Die Stadt will handeln. Ganslmeier.",
           "source": "Tagesschau"
-        },
-        {
-          "title": "Kanzler Merz: Persönliches Verhältnis zu Trump \"unverändert gut\"",
-          "url": "https://www.tagesschau.de/ausland/amerika/merz-trump-verhaeltnis-100.html",
-          "summary": "Vor kurzem nannte der US-Präsident den Bundeskanzler noch einen \"erfolgreichen Mann\". Nun warf er Merz vor, keine Ahnung zu haben. Ist das Verhältnis zum US-Präsidenten auf einem Tiefpunkt? Merz tritt diesem Eindruck entgegen.",
-          "source": "Tagesschau"
         }
       ]
     },
@@ -75,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Gesundheitsministerin über Sparpaket: „Das ist mir sehr bewusst, dass es für viele eine Zumutung ist“",
-          "url": "https://www.sueddeutsche.de/politik/thueringen-gesundheitsministerin-warken-sparpaket-krankenkassen-li.3475590",
-          "summary": "Tut mir leid, ich muss auch bei Ihnen kürzen: Gesundheitsministerin Nina Warken diskutiert ihr umstrittenes Sparpaket mit Betroffenen. Nebenbei erteilt sie Kanzler Merz eine Lektion.",
+          "title": "„Maischberger“: Deprimiert oder schon depressiv?",
+          "url": "https://www.sueddeutsche.de/medien/bundesregierung-maischberger-talkshow-carsten-linnemann-cdu-li.3475806",
+          "summary": "CDU-Generalsekretär Carsten Linnemann klagt bei „Maischberger“ über die Gesundheitsreform und eine deutsche „Misstrauenskultur“. So schwermütig saß seit Robert Habeck selten jemand im Talkshowsessel.",
           "source": "SZ"
         },
         {
-          "title": "Klimawandel und Raumfahrt: Forschungsministerin Bär in Norwegen: Nur noch kurz die Welt retten",
-          "url": "https://www.sueddeutsche.de/wissen/baer-norwegen-klimawandel-raumfahrt-li.3475017",
-          "summary": "CSU-Forschungsministerin Dorothee Bär hat in der schwierigen Koalition genug Baustellen. Bei ihrem Norwegenbesuch geht es zur Abwechslung mal um die ganz großen Probleme.",
+          "title": "USA: Oberster Gerichtshof schränkt Rassismus-Klausel für Wahlen ein",
+          "url": "https://www.sueddeutsche.de/politik/gerichtshof-usa-wahlkreise-rassismus-donald-trump-barack-obama-li.3476064",
+          "summary": "Donald Trump gratuliert den Richtern. Barack Obama spricht von einem schweren Rückschlag. Warum das Urteil aus Sicht der Kritiker eine zentrale Errungenschaft der Bürgerrechtsbewegung aushöhlt.",
           "source": "SZ"
         },
         {
-          "title": "Krieg in Nahost: Pentagon: Iran-Krieg kostete bislang 25 Milliarden Dollar",
-          "url": "https://www.sueddeutsche.de/politik/iran-liveblog-news-pentagon-kosten-krieg-li.3472459",
-          "summary": "Seit fast zwei Monaten geht das US-Militär gegen Iran vor. Die Offensive sorgt für gravierende Kosten.",
+          "title": "Champions League:  Atlético – Arsenal 1:1: Der Fokus liegt auf Fehlervermeidung",
+          "url": "https://www.sueddeutsche.de/sport/madrid-alvarez-handelfmeter-var-li.3475667",
+          "summary": "Im zweiten Champions-League-Halbfinale trennen sich Atlético Madrid und Arsenal 1:1 nach Toren und Elfmetern. Ein dritter Strafstoß wird kurz vor Schluss annulliert.",
           "source": "SZ"
         }
       ]
