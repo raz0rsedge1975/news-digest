@@ -1,10 +1,16 @@
 {
-  "generated": "2026-05-01T02:00:06.147Z",
-  "timestamp": "1.5.2026, 04:00:06",
+  "generated": "2026-05-01T06:00:07.733Z",
+  "timestamp": "1.5.2026, 08:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Liveblog Irankrieg: US-Regierung erklärt Feindseligkeiten mit Iran „im Sinne des Gesetzes“ für beendet",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-israels-verteidigungsminister-bringt-neue-iran-angriffe-ins-spiel-faz-200583539.html",
+          "summary": "Fristablauf: Trump muss Krieg heute beenden ⁠oder Genehmigung des ‌Kongresses einholen +++ Israel und Libanon: USA fordern direkte Gespräche +++ Japans Ministerpräsidentin telefoniert mit iranischem Präsidenten +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ"
+        },
         {
           "title": "Neue Details: Wie der Mossad das iranische Regime stürzen wollte",
           "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-wie-der-mossad-das-iranische-regime-stuerzen-wollte-200786303.html",
@@ -12,15 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Liveblog Irankrieg: Israels Verteidigungsminister bringt neue Iran-Angriffe ins Spiel",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-israels-verteidigungsminister-bringt-neue-iran-angriffe-ins-spiel-faz-200583539.html",
-          "summary": "Iranische Medien: Luftabwehr in Teilen Teherans zu hören +++ USA fordern direkte Gespräche zwischen Israel und Libanon +++ Merz bekräftigt Partnerschaft mit USA und fordert mehr Druck auf Iran +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "TV-Kritik Maybrit Illner: Bei der Vermögensteuer reden plötzlich alle durcheinander",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-maybrit-illner-kubickis-eierarsch-beleidigung-und-kuehnerts-umverteilungsideen-accg-200787609.html",
-          "summary": "Bei Maybrit Illner schickt Rentenrebell Winkel eine kleine Warnung an Kanzler Merz. Kubicki präzisiert die „Eierarsch“-Beleidigung. Und dann ist Kühnert dran.",
+          "title": "Zentralrat der Juden: Das Gefühl, von der Gesellschaft im Stich gelassen zu werden",
+          "url": "https://www.faz.net/redaktion/duestere-zukunftsperspektiven-der-juedischen-gemeinden-accg-200786516.html",
+          "summary": "Juden machen sich in der Öffentlichkeit zunehmend unsichtbar, weil sie Angriffe fürchten. Jüdische Gemeinden berichten von vermehrten Anfeindungen – und schwindender Solidarität.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Elektroauto: Vergleich des lokalen Anteils in Deutschland",
+          "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-vergleich-des-lokalen-anteils-in-deutschland-a-7cebb507-4737-4c99-8357-2f362a54bb73#ref=rss",
+          "summary": "E-Autos werden immer beliebter, aber der Zuwachs verläuft nicht in allen Teilen Deutschlands gleich schnell. Unsere Karte zeigt, wo sich die Elektro-Hochburgen befinden. Sie liegen nicht unbedingt dort, wo man sie erwartet.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "US-Regierung rechnet das Ende des Irankriegs herbei",
+          "url": "https://www.spiegel.de/ausland/us-regierung-rechnet-das-ende-des-irankriegs-herbei-a-7ae81444-37d9-49af-a6b5-06f0adfd9afe#ref=rss",
+          "summary": "Donald Trump hat mehrfach ein Ende des Irankonflikts angekündigt. Jetzt kommen von der US-Regierung tatsächlich Aussagen zu einem Kriegsende. Aber offenbar nur, um eine Abstimmung im Kongress zu vermeiden.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Baden-Württemberg: Grüne und CDU besiegeln Koalitionsvertrag",
           "url": "https://www.spiegel.de/politik/deutschland/baden-wuerttemberg-gruene-und-cdu-besiegeln-koalitionsvertrag-a-1b3002a0-caae-41d9-b110-6c5614a75cb2#ref=rss",
           "summary": "Grün-Schwarz im Süden kann schon bald weitermachen: Beide Parteien einigten sich auf eine Koalition. Die Ministerien sind bereits verteilt – spannende Personalien aber noch offen.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Alexander Dobrindt im SPIEGEL-Talk: »Merz muss mit dem zurechtkommen, was er hat«",
-          "url": "https://www.spiegel.de/politik/alexander-dobrindt-im-spiegel-talk-merz-muss-mit-dem-zurechtkommen-was-er-hat-a-51f0f92d-e839-48b4-a01b-dd0c2a631e3a#ref=rss",
-          "summary": "Scharfmacher oder Mr Nice Guy? Alexander Dobrindt polarisiert als Innenminister. Im SPIEGEL-Talk spricht der CSU-Politiker über Nervosität in der Koalition, seinen Migrationspakt und seinen Kindheitshelden Winnetou.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "König Charles König Charles verabschiedet sich von Donald Trump – in nur sechs Minuten",
-          "url": "https://www.spiegel.de/ausland/koenig-charles-koenig-charles-verabschiedet-sich-von-donald-trump-in-nur-sechs-minuten-a-c4968d1c-f43c-4e13-bae4-dd47e4684d23#ref=rss",
-          "summary": "Die USA-Reise von Charles und Camilla neigt sich dem Ende zu. Vor dem letzten Programmpunkt schauten die Royals noch einmal bei Donald Trump vorbei. Diesmal hatten es alle Beteiligten offenbar sehr eilig.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Jury der Kunstbiennale tritt geschlossen zurück",
-          "url": "https://www.tagesschau.de/kultur/ruecktritt-jury-biennale-100.html",
-          "summary": "Sie ist eine der weltweit wichtigsten Ausstellungen zeitgenössischer Kunst: die Biennale in Venedig. Wenige Tage vor der Eröffnung ist es nun zum Eklat gekommen. Die internationale Jury ist geschlossen zurückgetreten.",
+          "title": "Nahost-Liveblog: ++ US-Regierung will Kongressabstimmung umgehen ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-114.html",
+          "summary": "Offenbar um eine gesetzlich vorgegebene Abstimmung im Kongress zu vermeiden, betrachtet die US-Regierung den Iran-Krieg als beendet. Die USA drängen auf direkte Gespräche zwischen Israel und Libanon.",
           "source": "Tagesschau"
         },
         {
-          "title": "Myanmar: Friedensnobelpreisträgerin Suu Kyi kommt in Hausarrest",
-          "url": "https://www.tagesschau.de/ausland/asien/suu-kyi-hausarrest-100.html",
-          "summary": "Myanmars vom Militär gestützte Regierung hat die Haftstrafe von Friedensnobelpreisträgerin Aung San Suu Kyi in Hausarrest umgewandelt. Auch die Dauer wurde verkürzt - nicht zum ersten Mal.",
+          "title": "100 Jahre Route 66: Die Mutter aller Highways feiert Geburtstag",
+          "url": "https://www.tagesschau.de/ausland/amerika/100-jahre-route-66-100.html",
+          "summary": "4.000 Kilometer von den großen Seen im Norden der USA, quer durch den Mittleren Westen an die Küste Kaliforniens: Die legendäre Route 66 steht für den Roadtrip wie kein anderer Ort. Jetzt wird die \"Mother Road\" 100 Jahre alt. Von T. Börgers.",
           "source": "Tagesschau"
         },
         {
-          "title": "Nachruf auf den Maler Georg Baselitz",
-          "url": "https://www.tagesschau.de/inland/regional/sachsen/nachruf-baselitz-100.html",
-          "summary": "Mit seinen Bildern hat Georg Baselitz die Kunst in Deutschland geprägt. Er malte verkehrt herum, schockierte mit Skandalen, seine Werke hängen weltweit in großen Museen. Im Alter von 88 Jahren ist Baselitz gestorben.",
+          "title": "Oxfam-Berechnungen: Einkommensschere wächst weiter",
+          "url": "https://www.tagesschau.de/inland/oxfam-einkommensverteilung-100.html",
+          "summary": "Die Einkommen von Konzernchefs und Beschäftigten gehen nach Berechnungen der Organisation Oxfam immer weiter auseinander. Spitzengehälter sind demnach stark gestiegen - die Reallöhne vieler Angestellter liegen hingegen unter dem Niveau von 2019.",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Elternkolumne „Die Erziehungsberechtigten“: Die schönste Zumutung der Welt",
-          "url": "https://www.sueddeutsche.de/leben/geburtenrate-die-erziehungsberechtigten-li.3475654",
-          "summary": "Die Geburtenzahl ist auf den niedrigsten Stand seit 1946 gesunken. Unser Kolumnist rührt die Kinder-Werbetrommel.",
+          "title": "Tankrabatt: Wird Sprit jetzt billiger?",
+          "url": "https://www.sueddeutsche.de/wirtschaft/spritpreise-tankrabatt-preistrends-deutschland-li.3474781",
+          "summary": "Nach der 12-Uhr-Tankregel senkt der Staat von 1. Mai an die Steuer auf Benzin und Diesel. Kommt das bei den Autofahrern an? Und sind die Preise wirklich so hoch wie nie? Die wichtigsten Fragen und Antworten.",
           "source": "SZ"
         },
         {
-          "title": "Rheinland-Pfalz: Das steht im Koalitionsvertrag von CDU und SPD",
-          "url": "https://www.sueddeutsche.de/politik/rheinland-pfalz-koalitionsvertrag-cdu-spd-schnieder-schweitzer-li.3476219",
-          "summary": "Knapp sechs Wochen nach der Wahl in Rheinland-Pfalz steht fest: CDU und SPD wollen miteinander regieren.  Alle Fragen sind in Mainz aber noch nicht geklärt.",
+          "title": "Fifa-Kongress: Ein verweigerter Handschlag stört Infantinos Inszenierung",
+          "url": "https://www.sueddeutsche.de/sport/fifa-kongress-infantino-praesident-kandidatur-israel-palaestina-konflikt-li.3476669",
+          "summary": "Der umstrittene Fifa-Präsident Gianni Infantino kündigt auf dem Fifa-Kongress an, im nächsten Jahr erneut zu kandidieren. Doch der Tagesordnungspunkt zum Israel/Palästina-Konflikt läuft anders als geplant.",
           "source": "SZ"
         },
         {
-          "title": "Scholz in den USA: Nettigkeiten aus einer anderen Zeit",
-          "url": "https://www.sueddeutsche.de/politik/scholz-blinken-new-york-bundesverdienstkreuz-li.3476030",
-          "summary": "Seit Olaf Scholz vor knapp einem Jahr das Kanzleramt räumen musste, ist es eher still um ihn geworden. Aber jetzt ist er wieder da – zumindest für ein paar Tage in New York.",
+          "title": "Deutschland: Grüne und CDU einigen sich in Baden-Württemberg auf Koalition",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-koalition-heizungsgesetz-reform-li.3473640",
+          "summary": "Knapp acht Wochen nach der Landtagswahl verständigen sich Grünen-Verhandlungsführer Özdemir und CDU-Landeschef Hagel auf einen Koalitionsvertrag. Die Aufteilung der Ministerien ist schon geklärt.",
           "source": "SZ"
         }
       ]
