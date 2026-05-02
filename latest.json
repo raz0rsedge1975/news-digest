@@ -1,10 +1,16 @@
 {
-  "generated": "2026-05-02T14:00:05.709Z",
-  "timestamp": "2.5.2026, 16:00:05",
+  "generated": "2026-05-02T18:00:04.538Z",
+  "timestamp": "2.5.2026, 20:00:04",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Mehr Fußgänger- und Verkehrstote: Die Nackten sind die Toten",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/mehr-tote-unter-fussgaengern-und-fahrradfahrern-accg-200785372.html",
+          "summary": "Es verunglücken wieder mehr Fußgänger und Radfahrer. Hat deren Leben für den Staat etwa keinen absoluten Wert? Oder warum greift er hier nicht ein?",
+          "source": "FAZ"
+        },
         {
           "title": "US-Truppenabzug: Welche Einheiten könnten betroffen sein?",
           "url": "https://www.faz.net/aktuell/politik/inland/abzug-von-us-soldaten-aus-deutschland-welche-einheiten-koennten-betroffen-sein-accg-200791131.html",
@@ -12,15 +18,9 @@
           "source": "FAZ"
         },
         {
-          "title": "Straße von Hormus: Die NATO in der Bredouille",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/worum-es-fuer-die-nato-in-der-strasse-von-hormus-geht-200789575.html",
-          "summary": "Die Europäer dürfen sich nicht mehr als notwendig von den USA abhängig machen. Sie müssen sich aber mit ihnen arrangieren.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Klimaschutz: Das Heizungsgesetz ist und bleibt Murks",
-          "url": "https://www.faz.net/aktuell/wirtschaft/das-heizungsgesetz-ist-und-bleibt-murks-200787508.html",
-          "summary": "Die Regierung spricht von einem Durchbruch für ihr geplantes neues Heizungsgesetz. Gut ist es deshalb noch lange nicht.",
+          "title": "Wo ist der Buckelwal?: Walforscher: Keine Daten wären „eine Katastrophe“",
+          "url": "https://www.faz.net/aktuell/gesellschaft/tiere/buckelwal-in-der-nordsee-freigesetzt-keine-daten-waeren-katastrophe-accg-200788680.html",
+          "summary": "Der an deutschen Küsten gestrandete Buckelwal wurde in der Nordsee freigelassen. Mecklenburg-Vorpommerns Umweltminister sieht das als Erfolg. Doch wo der Wal ist und wie es ihm geht, ist noch völlig unklar.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Nato-Osterweiterung: »Russland musste nun schon dreimal Scheiße von uns fressen«",
-          "url": "https://www.spiegel.de/politik/nato-osterweiterung-russland-musste-nun-schon-dreimal-scheisse-von-uns-fressen-a-36cf1312-89b4-4d64-9faa-818cb8bdc34d#ref=rss",
-          "summary": "Strobe Talbott, Freund von Bill Clinton, setzte als US-Staatssekretär einst die Nato-Osterweiterung durch. Ein deutscher Historiker konnte sein Tagebuch auswerten. Es zeigt deutlich, wie Washington auf Russland blickte.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Abzug von 5000 US-Soldaten aus Deutschland: Boris Pistorius nennt Entscheidung »absehbar«",
-          "url": "https://www.spiegel.de/politik/deutschland/abzug-von-5000-us-soldaten-aus-deutschland-boris-pistorius-nennt-entscheidung-absehbar-a-e6ea98e5-b27d-4b9f-977f-eaec6183c99e#ref=rss",
-          "summary": "Verteidigungsminister Boris Pistorius versucht, in der Debatte über den Abzug von 5000 US-Soldaten aus Deutschland die Wogen zu glätten: Für beide Länder bleibe die Stationierung von US-Truppen wichtig. Doch es gibt eine andere Entwicklung, die größere Folgen haben könnte.",
+          "title": "USA zieht Truppen ab: Wie der Zorn von Donald Trump Deutschland trifft",
+          "url": "https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss",
+          "summary": "Die Bundesregierung zeigt sich gelassen angesichts des angekündigten Rückzugs von 5000 US-Soldaten. Problematischer ist für sie Trumps Absage bei der geplanten Stationierung von Mittelstreckenwaffen.",
           "source": "Spiegel"
         },
         {
           "title": "Lufthansa: Diese Verbindungen wackeln, wenn das Kerosin knapp wird",
           "url": "https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird-a-08b79bc2-f276-4a57-b817-8d32af77d09e#ref=rss",
           "summary": "Was passiert, wenn Kerosin tatsächlich knapp wird? In der Luftfahrtbranche kursieren konkrete Szenarien, Flüge zu streichen.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "FDP: Wer ist Martin Hagen, der Wunsch-Generalsekretär von Wolfgang Kubicki?",
+          "url": "https://www.spiegel.de/politik/deutschland/fdp-wer-ist-martin-hagen-der-wunsch-generalsekretaer-von-wolfgang-kubicki-a-9b5bec71-12d6-4992-ab0d-39cca7a4bc57#ref=rss",
+          "summary": "Martin Hagen galt als Progressiver in der FDP, dann heuerte er bei einer konservativen Denkfabrik an. Wer ist der Mann, der nun Generalsekretär werden will?",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Festgeld, Anleihen und Bauzinsen: Warum die Zinswende längst läuft",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/zinswende-festgeld-bauzinsen-ezb-100.html",
-          "summary": "Die EZB hält still, doch an den Märkten steigen die Zinsen bereits. Bundesanleihen rentieren so hoch wie seit 2011 nicht mehr. Für Hausbauer wird es teurer, Sparer bekommen mehr Festgeldzinsen. Von Angela Göpfert.",
+          "title": "HiPP-Erpressungsversuch: Verdächtiger in Österreich festgenommen",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/hipp-118.html",
+          "summary": "Der Fall hatte zuletzt für Unruhe gesorgt: Das Unternehmen HiPP ist in Österreich, Tschechien und der Slowakei mit Rattengift in Babynahrung erpresst worden. Nun melden die Ermittler: Ein Verdächtiger wurde festgenommen.",
           "source": "Tagesschau"
         },
         {
-          "title": "UN-Flüchtlingshilfswerk: 1,6 Millionen geflüchtete Syrer zurückgekehrt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/syrer-rueckkehr-102.html",
-          "summary": "Seit dem Machtwechsel in Syrien sind etwa 1,6 Millionen Geflüchtete zurück in die Heimat gekehrt. Darunter sind rund 6. 000 Menschen aus Deutschland. Insgesamt leben mehr als 900. 000 Syrer hier.",
+          "title": "Trumps Zölle würden deutsche Hersteller laut Experten besonders treffen",
+          "url": "https://www.tagesschau.de/wirtschaft/trump-zoelle-reaktionen-wirtschaft-100.html",
+          "summary": "Trumps Zoll-Ankündigung dürfte laut Experten vor allem deutsche Hersteller treffen - Audi und Porsche stärker als BMW und Mercedes. Doch vieles ist noch unklar. Und Trump hat schon oft Zölle angedroht, die dann so nicht kamen.",
           "source": "Tagesschau"
         },
         {
-          "title": "Abzug von US-Soldaten war laut Pistorius absehbar",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/us-truppenabzug-reaktionen-104.html",
-          "summary": "Noch sind die genaue Umsetzung des angekündigten US-Teilabzugs sowie mögliche Folgen unklar. Deutsche Politiker sprechen zwar von einem beunruhigenden Signal, mahnen aber auch gleichzeitig zur Gelassenheit.",
+          "title": "Sudans Hauptstadt erwacht langsam wieder zum Leben",
+          "url": "https://www.tagesschau.de/ausland/afrika/sudan-khartum-krieg-100.html",
+          "summary": "Sudans Hauptstadt liegt in weiten Teilen in Trümmern. Hier hatte der Bürgerkrieg vor drei Jahren begonnen. Mittlerweile es dort wieder relativ friedlich, etwa Alltag kehrt zurück. Doch die Wunden des Krieges sind unübersehbar.",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "US-Truppenabzug aus Deutschland: Merz sollte jetzt lieber nicht auf Trump antworten - das gibt nur neuen Zoff",
-          "url": "https://www.sueddeutsche.de/politik/donald-trump-friedrich-merz-nato-iran-abzug-li.3477187",
-          "summary": "Donald Trump benutzt das Militär für persönliche Racheaktionen. Die Sicherheit der europäischen Verbündeten bedeutet ihm nichts. Doch die Nato braucht die USA. Zwingend und in doppelter Hinsicht.",
-          "source": "SZ"
-        },
-        {
           "title": "Truppenabzug: Das sind die Reaktionen auf die US-Ankündigung",
           "url": "https://www.sueddeutsche.de/politik/usa-truppenabzug-reaktionen-pistorius-schweitzer-gruene-li.3477155",
-          "summary": "Verteidigungsminister Pistorius nennt die Ankündigung der USA, Soldaten aus Deutschland abziehen zu wollen „absehbar“, der rheinland-pfälzische Ministerpräsident Schweitzer ist besorgt.",
+          "summary": "Verteidigungsminister Pistorius nennt die Ankündigung der USA, Soldaten aus Deutschland abziehen zu wollen, „absehbar“, der rheinland-pfälzische Ministerpräsident Schweitzer ist besorgt.",
           "source": "SZ"
         },
         {
-          "title": "Wetter am ersten Maiwochenende: So schön startet München in den Sommer",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-wetter-freizeit-anfang-mai-bilder-li.3475869",
-          "summary": "Mai wird heuer zum Auftakt für ein langes warmes Wochenende. Bei Temperaturen bis zu 27 Grad beginnt die Freibadsaison und auch an anderen Orten in der Stadt sieht man Vorboten des Sommers. Die Bilder.",
+          "title": "3:3 gegen den FC Bayern: Heidenheims verflixte 100. Minute",
+          "url": "https://www.sueddeutsche.de/sport/bayern-heidenheim-bundesliga-aktuell-li.3477236",
+          "summary": "Der Tabellenletzte führt 3:2 in München, dann zieht Michael Olise mit der letzten Aktion noch mal ab. Die Partie reiht sich ein in die Serie der jüngsten Münchner Spektakelspiele – und sorgt dafür, dass Jupp Heynckes einen Rekord behält.",
+          "source": "SZ"
+        },
+        {
+          "title": "32. Bundesliga-Spieltag: Stuttgart setzt den letzten Treffer im Duell um die Königsklasse",
+          "url": "https://www.sueddeutsche.de/sport/bundesliga-aktuell-spieltag-stuttgart-frankfurt-union-li.3477237",
+          "summary": "Der VfB rettet bei der TSG Hoffenheim in Unterzahl einen Punkt – und fürs Erste Tabellenplatz vier. Im Abstiegskampf macht der Hamburger SV den größten Satz, Marie-Louise Eta holt ihren ersten Punkt mit Union. Das Wichtigste zum Spieltag.",
           "source": "SZ"
         }
       ]
