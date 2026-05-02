@@ -1,14 +1,20 @@
 {
-  "generated": "2026-05-02T18:00:04.538Z",
-  "timestamp": "2.5.2026, 20:00:04",
+  "generated": "2026-05-02T22:00:06.487Z",
+  "timestamp": "3.5.2026, 00:00:06",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Mehr Fußgänger- und Verkehrstote: Die Nackten sind die Toten",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/mehr-tote-unter-fussgaengern-und-fahrradfahrern-accg-200785372.html",
-          "summary": "Es verunglücken wieder mehr Fußgänger und Radfahrer. Hat deren Leben für den Staat etwa keinen absoluten Wert? Oder warum greift er hier nicht ein?",
+          "title": "Ein Jahr Schwarz-rot: Wenn Reformpolitik darin besteht, den Bürgern noch mehr Geld abzuverlangen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/merz-klingbeil-und-1-jahr-schwarz-rot-worauf-es-jetzt-ankommt-200788874.html",
+          "summary": "Die deutsche Wirtschaft dümpelt vor sich hin. Die Investitionsbereitschaft hat Friedrich Merz in seinem ersten Kanzlerjahr nicht gehoben. Dabei hängt genau davon alles ab.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Wolfgang Reitzle: „Im Ausland freut man sich über unsere Dummheit“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/wolfgang-reitzle-im-ausland-freut-man-sich-ueber-unsere-dummheit-accg-200765504.html",
+          "summary": "Wolfgang Reitzle ist einer der dienstältesten Topmanager. Im Abschiedsinterview rechnet er schonungslos mit den Schwächen des Wirtschaftsstandorts Deutschland ab – und spricht über eigene Versäumnisse.",
           "source": "FAZ"
         },
         {
@@ -16,18 +22,18 @@
           "url": "https://www.faz.net/aktuell/politik/inland/abzug-von-us-soldaten-aus-deutschland-welche-einheiten-koennten-betroffen-sein-accg-200791131.html",
           "summary": "Die Ankündigung eines Abzugs von 5000 amerikanischen Soldaten aus Deutschland dürfte in einigen Orten Nervosität auslösen. Gerade in der Oberpfalz.",
           "source": "FAZ"
-        },
-        {
-          "title": "Wo ist der Buckelwal?: Walforscher: Keine Daten wären „eine Katastrophe“",
-          "url": "https://www.faz.net/aktuell/gesellschaft/tiere/buckelwal-in-der-nordsee-freigesetzt-keine-daten-waeren-katastrophe-accg-200788680.html",
-          "summary": "Der an deutschen Küsten gestrandete Buckelwal wurde in der Nordsee freigelassen. Mecklenburg-Vorpommerns Umweltminister sieht das als Erfolg. Doch wo der Wal ist und wie es ihm geht, ist noch völlig unklar.",
-          "source": "FAZ"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Donald Trump über Saudi-Arabiens Kronprinzen: »Er muss jetzt nett zu mir sein«",
+          "url": "https://www.spiegel.de/ausland/donald-trump-ueber-saudi-arabiens-kronprinzen-er-muss-jetzt-nett-zu-mir-sein-a-318cb96d-8268-422f-9765-fef9f14c9ace#ref=rss",
+          "summary": "In Saudi-Arabien gibt man sich seit Beginn des Irankriegs Mühe, so zu tun, als sei alles wie immer. Doch hinter den Kulissen wächst die Nervosität und die Enttäuschung über Donald Trump. Wendet sich Riad von den USA ab?",
+          "source": "Spiegel"
+        },
         {
           "title": "USA zieht Truppen ab: Wie der Zorn von Donald Trump Deutschland trifft",
           "url": "https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss",
@@ -39,12 +45,6 @@
           "url": "https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird-a-08b79bc2-f276-4a57-b817-8d32af77d09e#ref=rss",
           "summary": "Was passiert, wenn Kerosin tatsächlich knapp wird? In der Luftfahrtbranche kursieren konkrete Szenarien, Flüge zu streichen.",
           "source": "Spiegel"
-        },
-        {
-          "title": "FDP: Wer ist Martin Hagen, der Wunsch-Generalsekretär von Wolfgang Kubicki?",
-          "url": "https://www.spiegel.de/politik/deutschland/fdp-wer-ist-martin-hagen-der-wunsch-generalsekretaer-von-wolfgang-kubicki-a-9b5bec71-12d6-4992-ab0d-39cca7a4bc57#ref=rss",
-          "summary": "Martin Hagen galt als Progressiver in der FDP, dann heuerte er bei einer konservativen Denkfabrik an. Wer ist der Mann, der nun Generalsekretär werden will?",
-          "source": "Spiegel"
         }
       ]
     },
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Trump verweigert offenbar \"Tomahawk\"-Stationierung in Deutschland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/usa-trump-tomahawk-100.html",
+          "summary": "Den Abzug von US-Soldaten aus Deutschland sehen Experten als das kleinere Problem. \"Viel dramatischer\" sei, dass Trump - laut Medienberichten - auch die geplante Stationierung von \"Tomahawk\"-Marschflugkörpern abgesagt hat. Die sollten Russland abschrecken.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Friedensnobelpreisträgerin Mohammadi in \"äußerst akuter Gefahr\"",
+          "url": "https://www.tagesschau.de/ausland/asien/mohammadi-nobelpreistraegerin-iran-100.html",
+          "summary": "Die Friedensnobelpreisträgerin Mohammadi ist nach Angaben ihrer Stiftung in einem sehr kritischen Zustand. Sie war in einem Gefängnis im Iran kollabiert und in eine Klinik verlegt worden.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "HiPP-Erpressungsversuch: Verdächtiger in Österreich festgenommen",
           "url": "https://www.tagesschau.de/inland/gesellschaft/hipp-118.html",
           "summary": "Der Fall hatte zuletzt für Unruhe gesorgt: Das Unternehmen HiPP ist in Österreich, Tschechien und der Slowakei mit Rattengift in Babynahrung erpresst worden. Nun melden die Ermittler: Ein Verdächtiger wurde festgenommen.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Trumps Zölle würden deutsche Hersteller laut Experten besonders treffen",
-          "url": "https://www.tagesschau.de/wirtschaft/trump-zoelle-reaktionen-wirtschaft-100.html",
-          "summary": "Trumps Zoll-Ankündigung dürfte laut Experten vor allem deutsche Hersteller treffen - Audi und Porsche stärker als BMW und Mercedes. Doch vieles ist noch unklar. Und Trump hat schon oft Zölle angedroht, die dann so nicht kamen.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Sudans Hauptstadt erwacht langsam wieder zum Leben",
-          "url": "https://www.tagesschau.de/ausland/afrika/sudan-khartum-krieg-100.html",
-          "summary": "Sudans Hauptstadt liegt in weiten Teilen in Trümmern. Hier hatte der Bürgerkrieg vor drei Jahren begonnen. Mittlerweile es dort wieder relativ friedlich, etwa Alltag kehrt zurück. Doch die Wunden des Krieges sind unübersehbar.",
           "source": "Tagesschau"
         }
       ]
@@ -74,6 +74,12 @@
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Schalke 04: Glück auf, Glück auf, der Aufsteiger kommt",
+          "url": "https://www.sueddeutsche.de/sport/schalke-2-bundesliga-aufstieg-feier-li.3477345",
+          "summary": "Nach drei Jahren in der zweiten Liga gelingt dem FC Schalke 04 durch ein 1:0 gegen Fortuna Düsseldorf die Rückkehr in die Bundesliga. Auch in der entscheidenden Partie führt der Stil von Trainer Miron Muslic zum Erfolg.",
+          "source": "SZ"
+        },
         {
           "title": "Truppenabzug: Das sind die Reaktionen auf die US-Ankündigung",
           "url": "https://www.sueddeutsche.de/politik/usa-truppenabzug-reaktionen-pistorius-schweitzer-gruene-li.3477155",
@@ -84,12 +90,6 @@
           "title": "3:3 gegen den FC Bayern: Heidenheims verflixte 100. Minute",
           "url": "https://www.sueddeutsche.de/sport/bayern-heidenheim-bundesliga-aktuell-li.3477236",
           "summary": "Der Tabellenletzte führt 3:2 in München, dann zieht Michael Olise mit der letzten Aktion noch mal ab. Die Partie reiht sich ein in die Serie der jüngsten Münchner Spektakelspiele – und sorgt dafür, dass Jupp Heynckes einen Rekord behält.",
-          "source": "SZ"
-        },
-        {
-          "title": "32. Bundesliga-Spieltag: Stuttgart setzt den letzten Treffer im Duell um die Königsklasse",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-aktuell-spieltag-stuttgart-frankfurt-union-li.3477237",
-          "summary": "Der VfB rettet bei der TSG Hoffenheim in Unterzahl einen Punkt – und fürs Erste Tabellenplatz vier. Im Abstiegskampf macht der Hamburger SV den größten Satz, Marie-Louise Eta holt ihren ersten Punkt mit Union. Das Wichtigste zum Spieltag.",
           "source": "SZ"
         }
       ]
