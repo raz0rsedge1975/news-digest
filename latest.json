@@ -1,26 +1,26 @@
 {
-  "generated": "2026-05-02T22:00:06.487Z",
-  "timestamp": "3.5.2026, 00:00:06",
+  "generated": "2026-05-03T02:00:06.978Z",
+  "timestamp": "3.5.2026, 04:00:06",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Ein Jahr Schwarz-rot: Wenn Reformpolitik darin besteht, den Bürgern noch mehr Geld abzuverlangen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/merz-klingbeil-und-1-jahr-schwarz-rot-worauf-es-jetzt-ankommt-200788874.html",
-          "summary": "Die deutsche Wirtschaft dümpelt vor sich hin. Die Investitionsbereitschaft hat Friedrich Merz in seinem ersten Kanzlerjahr nicht gehoben. Dabei hängt genau davon alles ab.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Wolfgang Reitzle: „Im Ausland freut man sich über unsere Dummheit“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/wolfgang-reitzle-im-ausland-freut-man-sich-ueber-unsere-dummheit-accg-200765504.html",
-          "summary": "Wolfgang Reitzle ist einer der dienstältesten Topmanager. Im Abschiedsinterview rechnet er schonungslos mit den Schwächen des Wirtschaftsstandorts Deutschland ab – und spricht über eigene Versäumnisse.",
+          "title": "Liveblog USA unter Trump: Trump will „deutlich mehr als 5000“ US-Soldaten aus Deutschland abziehen",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-will-deutlich-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ"
         },
         {
           "title": "US-Truppenabzug: Welche Einheiten könnten betroffen sein?",
           "url": "https://www.faz.net/aktuell/politik/inland/abzug-von-us-soldaten-aus-deutschland-welche-einheiten-koennten-betroffen-sein-accg-200791131.html",
-          "summary": "Die Ankündigung eines Abzugs von 5000 amerikanischen Soldaten aus Deutschland dürfte in einigen Orten Nervosität auslösen. Gerade in der Oberpfalz.",
+          "summary": "Die Ankündigung eines Abzugs von mindestens 5000 amerikanischen Soldaten aus Deutschland dürfte in einigen Orten Nervosität auslösen. Gerade in der Oberpfalz.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Ein Jahr Schwarz-rot: Wenn Reformpolitik darin besteht, den Bürgern noch mehr Geld abzuverlangen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/merz-klingbeil-und-1-jahr-schwarz-rot-worauf-es-jetzt-ankommt-200788874.html",
+          "summary": "Die deutsche Wirtschaft dümpelt vor sich hin. Die Investitionsbereitschaft hat Friedrich Merz in seinem ersten Kanzlerjahr nicht gehoben. Dabei hängt genau davon alles ab.",
           "source": "FAZ"
         }
       ]
@@ -29,15 +29,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump über Saudi-Arabiens Kronprinzen: »Er muss jetzt nett zu mir sein«",
-          "url": "https://www.spiegel.de/ausland/donald-trump-ueber-saudi-arabiens-kronprinzen-er-muss-jetzt-nett-zu-mir-sein-a-318cb96d-8268-422f-9765-fef9f14c9ace#ref=rss",
-          "summary": "In Saudi-Arabien gibt man sich seit Beginn des Irankriegs Mühe, so zu tun, als sei alles wie immer. Doch hinter den Kulissen wächst die Nervosität und die Enttäuschung über Donald Trump. Wendet sich Riad von den USA ab?",
+          "title": "Donald Trump will »weit mehr als 5000« US-Soldaten aus Deutschland abziehen",
+          "url": "https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss",
+          "summary": "Die USA könnten ihre Truppenpräsenz in Deutschland stärker reduzieren als bisher angekündigt. Präsident Trump spricht über einen Vorschlag aus Teheran. Und: Washington billigt Waffenexporte an Partner im Irankrieg. Der Überblick.",
           "source": "Spiegel"
         },
         {
-          "title": "USA zieht Truppen ab: Wie der Zorn von Donald Trump Deutschland trifft",
-          "url": "https://www.spiegel.de/politik/deutschland/usa-zieht-truppen-ab-wie-der-zorn-von-donald-trump-deutschland-trifft-a-f0778f01-91a5-4291-a54a-523652dfd5ee#ref=rss",
-          "summary": "Die Bundesregierung zeigt sich gelassen angesichts des angekündigten Rückzugs von 5000 US-Soldaten. Problematischer ist für sie Trumps Absage bei der geplanten Stationierung von Mittelstreckenwaffen.",
+          "title": "Donald Trump über Saudi-Arabiens Kronprinzen: »Er muss jetzt nett zu mir sein«",
+          "url": "https://www.spiegel.de/ausland/donald-trump-ueber-saudi-arabiens-kronprinzen-er-muss-jetzt-nett-zu-mir-sein-a-318cb96d-8268-422f-9765-fef9f14c9ace#ref=rss",
+          "summary": "In Saudi-Arabien gibt man sich seit Beginn des Irankriegs Mühe, so zu tun, als sei alles wie immer. Doch hinter den Kulissen wächst die Nervosität und die Enttäuschung über Donald Trump. Wendet sich Riad von den USA ab?",
           "source": "Spiegel"
         },
         {
@@ -52,6 +52,12 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Trump will deutlich mehr als 5.000 US-Soldaten aus Deutschland abziehen",
+          "url": "https://www.tagesschau.de/ausland/amerika/kritik-us-truppenabzug-republikaner-100.html",
+          "summary": "US-Präsident Trump will deutlich mehr als 5. 000 Soldaten aus Deutschland abziehen. Kritik an der bisherigen Ankündigung kommt aus dem Kongress: Republikaner sprachen von einem möglichen falschen Signal an Russlands Präsidenten Putin.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Trump verweigert offenbar \"Tomahawk\"-Stationierung in Deutschland",
           "url": "https://www.tagesschau.de/inland/innenpolitik/usa-trump-tomahawk-100.html",
           "summary": "Den Abzug von US-Soldaten aus Deutschland sehen Experten als das kleinere Problem. \"Viel dramatischer\" sei, dass Trump - laut Medienberichten - auch die geplante Stationierung von \"Tomahawk\"-Marschflugkörpern abgesagt hat. Die sollten Russland abschrecken.",
@@ -61,12 +67,6 @@
           "title": "Friedensnobelpreisträgerin Mohammadi in \"äußerst akuter Gefahr\"",
           "url": "https://www.tagesschau.de/ausland/asien/mohammadi-nobelpreistraegerin-iran-100.html",
           "summary": "Die Friedensnobelpreisträgerin Mohammadi ist nach Angaben ihrer Stiftung in einem sehr kritischen Zustand. Sie war in einem Gefängnis im Iran kollabiert und in eine Klinik verlegt worden.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "HiPP-Erpressungsversuch: Verdächtiger in Österreich festgenommen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/hipp-118.html",
-          "summary": "Der Fall hatte zuletzt für Unruhe gesorgt: Das Unternehmen HiPP ist in Österreich, Tschechien und der Slowakei mit Rattengift in Babynahrung erpresst worden. Nun melden die Ermittler: Ein Verdächtiger wurde festgenommen.",
           "source": "Tagesschau"
         }
       ]
