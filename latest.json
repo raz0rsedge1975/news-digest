@@ -1,26 +1,26 @@
 {
-  "generated": "2026-05-03T18:00:06.036Z",
-  "timestamp": "3.5.2026, 20:00:06",
+  "generated": "2026-05-03T22:00:07.092Z",
+  "timestamp": "4.5.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Kredite im Schatten: Die Angst vor einer neuen Finanzkrise wächst",
+          "url": "https://www.faz.net/aktuell/wirtschaft/die-angst-vor-einer-neuen-finanzkrise-waechst-accg-200773145.html",
+          "summary": "Private Credit ist zu einem Geschäft mit Billionen geworden. Nun zeigen sich Risse: Die Kreditgeber haben viel Geld an Unternehmen verliehen, die durch KI bedroht sind.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Deutschland-Liveblog: Merz sieht keine Krise im Verhältnis zu USA",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-stegner-begruesst-trumps-entscheidung-us-raketen-nicht-in-deutschland-zu-stationieren-faz-110093143.html",
+          "summary": "Kanzler bestätigt: Vorerst keine Stationierung von Tomahawk-Marschflugkörpern +++ SPD-Politiker erfreut +++ Ifo-Präsident warnt vor Rezession in Deutschland +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ"
+        },
+        {
           "title": "Deutsche Außenpolitik: Kanzler ohne klaren Kurs",
           "url": "https://www.faz.net/aktuell/politik/inland/kanzler-ohne-klaren-kurs-accg-200788834.html",
           "summary": "Friedrich Merz manövriert Deutschland durch den „Epochenbruch“. Fachleute erkennen Bewegung, aber keine Strategie.",
-          "source": "FAZ"
-        },
-        {
-          "title": "5000 Soldaten: Was der US-Truppenabzug aus Deutschland bedeutet",
-          "url": "https://www.faz.net/aktuell/politik/ausland/was-der-us-truppenabzug-aus-deutschland-bedeutet-accg-200793246.html",
-          "summary": "Nachdem der Kanzler Trump verärgert hat, zieht dieser Truppen aus Deutschland ab. Verteidigungsminister Pistorius redet die Sache klein.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Liveblog Irankrieg: Wadephul: Iran muss vollständig auf Atomwaffen verzichten",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-wadephul-iran-muss-vollstaendig-auf-atomwaffen-verzichten-faz-200583539.html",
-          "summary": "Nach Telefonat mit iranischem Amtskollegen Araghtschi +++ Iran: Sind bei Verhandlungen mit USA „zu beiden Optionen bereit“ +++ Trump: Iran-Vorschlag dürfte inakzeptabel sein +++ alle Entwicklungen im Liveblog",
           "source": "FAZ"
         }
       ]
@@ -29,9 +29,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ostsee: Der Wal ist weg – diese offenen Fragen bleiben",
-          "url": "https://www.spiegel.de/wissenschaft/ostsee-der-wal-ist-weg-diese-offenen-fragen-bleiben-a-0430e96f-20ff-4c94-84a5-09a25388eece#ref=rss",
-          "summary": "Das Schicksal des Buckelwals wurde minutiös dokumentiert - ausgerechnet von der Freilassung fehlen Bilder, auch Daten des Peilsenders rücken die Verantwortlichen nicht raus.",
+          "title": "Zohran Mamdani: 100 Tage war der Bürgermeister von New York ruhig - damit ist jetzt Schluss",
+          "url": "https://www.spiegel.de/ausland/zohran-mamdani-100-tage-war-der-buergermeister-von-new-york-ruhig-damit-ist-jetzt-schluss-a-dbceaa99-b687-4b4c-8741-7c240ac96d7b#ref=rss",
+          "summary": "New Yorks Bürgermeister setzt jetzt voll auf Klassenkampf: Mitten im Herzen des Kapitalismus verärgert Zohran Mamdani die High Society, lässt die britische Krone abblitzen – und legt sich mit Milliardären an.",
           "source": "Spiegel"
         },
         {
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Armenien: Emmanuel Macron springt für Friedrich Merz beim Europagipfel ein",
-          "url": "https://www.spiegel.de/politik/armenien-emmanuel-macron-springt-fuer-friedrich-merz-beim-europagipfel-ein-a-8212e7d2-1e3f-4312-ba7e-56e2ac5eb719#ref=rss",
-          "summary": "Wegen anderer Termine ist der Bundeskanzler beim Treffen der Europäischen Politischen Gemeinschaft am Montag nicht vor Ort. Der französische Präsident soll ihn vertreten – deutsches Stimmrecht inklusive.",
+          "title": "Ostsee: Der Wal ist weg – diese offenen Fragen bleiben",
+          "url": "https://www.spiegel.de/wissenschaft/ostsee-der-wal-ist-weg-diese-offenen-fragen-bleiben-a-0430e96f-20ff-4c94-84a5-09a25388eece#ref=rss",
+          "summary": "Das Schicksal des Buckelwals wurde minutiös dokumentiert - ausgerechnet von der Freilassung fehlen Bilder, auch Daten des Peilsenders rücken die Verantwortlichen nicht raus.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Iran-Liveblog: ++ Merz: US-Abzug hängt nicht mit Kritik an Iran-Strategie zusammen ++",
+          "title": "Innenminister Dobrindt will an umstrittenen Grenzkontrollen festhalten",
+          "url": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-bab-100.html",
+          "summary": "Die schwarz-rote Koalition ist ein Jahr im Amt. Ihr Innenminister Dobrindt rühmt sich, eine \"Migrationswende\" durchgesetzt zu haben. An den Grenzkontrollen hält er fest - auch wenn die nicht nur rechtlich umstritten sind. Kornmeier und P.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Iran-Liveblog: ++ Trump: Befreiung von Schiffen soll am Morgen starten ++",
           "url": "https://www.tagesschau.de/newsticker/liveblog-nahost-sonntag-290.html",
-          "summary": "Laut Kanzler Merz gibt es keinen direkten Zusammenhang zwischen dem US-Abzug und seinem Streit mit Trump über die Iran-Strategie. Nahe der Straße von Hormus ist nach Angaben der britischen Behörde UKMTO ein Frachter von kleineren Booten attackiert worden.",
+          "summary": "Laut US-Präsident Trump sollen die USA am Morgen mit der Befreiung von Schiffen in der Straße von Hormus beginnen. Iranische Medien berichten, dass die USA auf den 14-Punkte-Vorschlag des Iran geantwortet haben.",
           "source": "Tagesschau"
         },
         {
-          "title": "Israel und Hisbollah: Krieg trotz Waffenruhe",
-          "url": "https://www.tagesschau.de/ausland/asien/libanon-waffenruhe-106.html",
-          "summary": "Mehr als 40 Menschen starben am Wochenende durch israelische Angriffe im Libanon. Die Hisbollah-Miliz schoss erneut Raketen Richtung Israel. Die Waffenruhe existiert vielerorts nur noch auf dem Papier. Von Anna Osius.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Unionspolitiker kritisieren Zustand der Koalition",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-kritik-100.html",
-          "summary": "Kurz vor dem ersten Jahrestag der schwarz-roten Regierung kommt aus den eigenen Reihen erneut Kritik. Unionspolitiker Bilger kritisierte \"Blockaden\" der SPD - und SPD-Ministerin Bas forderte Kompromissbereitschaft.",
+          "title": "Merz zu den USA: \"Ich gebe die Zusammenarbeit mit Trump nicht auf\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-koalition-usa-100.html",
+          "summary": "Kanzler Merz hat bestätigt, dass die USA vorerst keine \"Tomahawk\"-Marschflugkörper in Deutschland stationieren werden. Einen Zusammenhang zu seiner Kritik an Trump gebe es aber nicht. Im ARD-Interview verteidigte Merz seinen Kommunikationsstil generell.",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Bundespolitik: Merz rechnet aktuell nicht mit US-Mittelstreckenraketen",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-usa-deutschland-merz-spd-mittelstreckenraketen-li.3477387",
+          "summary": "„Wenn ich es richtig weiß, haben die Amerikaner zurzeit selbst nicht genug“, sagt der Bundeskanzler. Innenpolitisch richtet er deutliche Worte an den Koalitionspartner SPD.",
+          "source": "SZ"
+        },
+        {
+          "title": "„Caren Miosga“: Merz knöpft sich seinen Koalitionspartner vor",
+          "url": "https://www.sueddeutsche.de/medien/friedrich-merz-koalition-us-beziehungen-deutschland-li.3477451",
+          "summary": "Im Studio bei Caren Miosga geht der Bundeskanzler die SPD hart an. Aber kann er damit den Missmut über seine Regierung dämpfen? In Bezug auf US-Präsident Trump scheint Merz etwas zu dämmern.",
+          "source": "SZ"
+        },
+        {
           "title": "Champions League der Frauen: Bayern zeigt Courage – und scheitert doch knapp",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-frauen-barcelona-li.3477644",
           "summary": "Gegen die Favoritinnen aus Barcelona können die Münchnerinnen im Halbfinal-Rückspiel erst zum Schluss richtig mithalten. Beim 2:4 ergeben sich trotz des Aus in der Königsklasse positive Erkenntnisse.",
-          "source": "SZ"
-        },
-        {
-          "title": "USA: Rubio besucht wohl Papst nach Trumps Attacke gegen Leo XIV.",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-rubio-papst-vatikan-li.3471210",
-          "summary": "Seit Monaten sind die Beziehungen zwischen Washington und dem Vatikan angespannt. Nun trifft der US-Außenminister offenbar das Oberhaupt der Katholischen Kirche.",
-          "source": "SZ"
-        },
-        {
-          "title": "Streit um Unterhalt: Wieder einmal juristischer Ärger für Boris Becker",
-          "url": "https://www.sueddeutsche.de/muenchen/boris-becker-unterhaltsstreit-lilly-becker-muenchen-kinder-li.3394263",
-          "summary": "London, Mailand, München: Wo und mit welchen Mitteln Deutschlands bekannteste Tennisgröße und seine ehemalige Frau Lilly über die Unterhaltszahlungen für den gemeinsamen Sohn streiten.",
           "source": "SZ"
         }
       ]
