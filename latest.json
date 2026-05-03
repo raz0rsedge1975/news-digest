@@ -1,26 +1,26 @@
 {
-  "generated": "2026-05-03T06:00:05.775Z",
-  "timestamp": "3.5.2026, 08:00:05",
+  "generated": "2026-05-03T10:00:10.337Z",
+  "timestamp": "3.5.2026, 12:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Erbschaften: Das Erbe gibt’s jetzt schon früher",
+          "url": "https://www.faz.net/aktuell/finanzen/vorgezogene-erbschaften-werden-immer-haeufiger-accg-200787501.html",
+          "summary": "Wer wohlhabende Eltern hat, erbt heute oft schon mit Mitte dreißig. Das schürt neue Konflikte.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Nachlass regeln: Ein Verzicht aufs Erbe kann teuer werden",
+          "url": "https://www.faz.net/premium/meine-finanzen/vererben-warum-ein-verzicht-auf-den-pflichtteil-teuer-werden-kann-accg-200717772.html",
+          "summary": "Wer beim Erbe auf sein Pflichtteil verzichtet, bekommt dafür oft eine Abfindung. Aber aufgepasst: Die Finanzämter schauen genau hin.",
+          "source": "FAZ"
+        },
+        {
           "title": "Liveblog USA unter Trump: Trump will „deutlich mehr als 5000“ US-Soldaten aus Deutschland abziehen",
           "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-will-deutlich-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-faz-19444916.html",
           "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
-          "source": "FAZ"
-        },
-        {
-          "title": "US-Truppenabzug: Welche Einheiten könnten betroffen sein?",
-          "url": "https://www.faz.net/aktuell/politik/inland/abzug-von-us-soldaten-aus-deutschland-welche-einheiten-koennten-betroffen-sein-accg-200791131.html",
-          "summary": "Die Ankündigung eines Abzugs von mindestens 5000 amerikanischen Soldaten aus Deutschland dürfte in einigen Orten Nervosität auslösen. Gerade in der Oberpfalz.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Ein Jahr Schwarz-rot: Wenn Reformpolitik darin besteht, den Bürgern noch mehr Geld abzuverlangen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/merz-klingbeil-und-1-jahr-schwarz-rot-worauf-es-jetzt-ankommt-200788874.html",
-          "summary": "Die deutsche Wirtschaft dümpelt vor sich hin. Die Investitionsbereitschaft hat Friedrich Merz in seinem ersten Kanzlerjahr nicht gehoben. Dabei hängt genau davon alles ab.",
           "source": "FAZ"
         }
       ]
@@ -29,9 +29,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Hamburg: Warum wurde »White Tiger« nicht früher gestoppt?",
-          "url": "https://www.spiegel.de/netzwelt/web/hamburg-warum-wurde-white-tiger-nicht-frueher-gestoppt-a-14e4d303-e011-48e3-b9e2-3bb197176601#ref=rss",
-          "summary": "Ein 21-Jähriger aus Hamburg soll online Kinder manipuliert und zum Suizid getrieben haben. SPIEGEL-Recherchen zeigen: Der Mann, der sich »White Tiger« nannte, fiel schon in der Schule auf.",
+          "title": "Eurovision Song Contest in Wien: Wird der ESC wirklich ein Fest des Friedens?",
+          "url": "https://www.spiegel.de/ausland/eurovision-song-contest-in-wien-wird-der-esc-wirklich-ein-fest-des-friedens-a-7bcf5e58-91d0-434d-bb64-7a06b154b890#ref=rss",
+          "summary": "»Das ist nicht mehr lustig«: Wien erwartet zum Eurovision Song Contest massive Proteste. Die Teilnahme Israels spaltet die Anhänger des weltgrößten Musikwettbewerbs. Selbst Drohnen-Attacken werden befürchtet.",
           "source": "Spiegel"
         },
         {
@@ -41,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Donald Trump will »weit mehr als 5000« US-Soldaten aus Deutschland abziehen",
-          "url": "https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss",
-          "summary": "Die USA könnten ihre Truppenpräsenz in Deutschland stärker reduzieren als bisher angekündigt. Präsident Trump spricht über einen Vorschlag aus Teheran. Und: Washington billigt Waffenexporte an Partner im Irankrieg. Der Überblick.",
+          "title": "Rheinland-Pfalz, Hessen, Bayern: Politiker in Sorge wegen US-Truppenabzug",
+          "url": "https://www.spiegel.de/politik/deutschland/rheinland-pfalz-hessen-bayern-politiker-in-sorge-wegen-us-truppenabzug-a-82ad7814-dceb-4fac-bead-432d155cf85c#ref=rss",
+          "summary": "Wen trifft es? Der von den USA angekündigte Teilabzug von Truppen aus Deutschland löst rund um die US-Basen Besorgnis aus. Länder und Kommunen fürchten Auswirkungen auf Wirtschaft und Infrastruktur.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ein Traum mit Preisschild: Lohnt sich das Ferienhaus wirklich?",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/investment-ferienhaus-100.html",
-          "summary": "Ein Ferienhaus als Rückzugsort, das vermietet auch noch Rendite abwirft: Das klingt verlockend. Doch es kann finanziell schnell zu einer Herausforderung werden. Hiltscher und C.",
+          "title": "Shakira gibt kostenloses Konzert für zwei Millionen Fans in Rio",
+          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-rio-shakira-riesenkonzert-100.html",
+          "summary": "Die Copacabana sei für sie ein \"magischer Ort\", sagt Shakira: Nun hat die Popsängerin an dem weltberühmten Strand das wohl größte Konzert ihrer Karriere gegeben. Geschätzt zwei Millionen Fans feierten ihre größten Hits.",
           "source": "Tagesschau"
         },
         {
-          "title": "Grundwasser an vielen Küsten sinkt - ist das Trinkwasser bedroht?",
-          "url": "https://www.tagesschau.de/wissen/forschung/versalzenes-grundwasser-100.html",
-          "summary": "Etwa ein Drittel der Weltbevölkerung lebt in Küstenregionen. Doch gibt es dort immer weniger Trinkwasser: Während der Meeresspiegel steigt, sinkt der Grundwasserspiegel. Von Sedir Dabbass.",
+          "title": "Bundesagrarminister Rainer will Steuerbefreiung für Biokraftstoff",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rainer-biokraftstoffe-landwirtschaftsminister-100.html",
+          "summary": "Bundesagrarminister Rainer schlägt vor, Biokraftstoffe künftig komplett von der Steuer zu befreien. Damit sollen sie attraktiver werden und die heimische Produktion ankurbeln.",
           "source": "Tagesschau"
         },
         {
-          "title": "Tunesien: Die Auslandspresse muss draußen bleiben",
-          "url": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-tunesien-100.html",
-          "summary": "Tunesien ist in der Rangliste der Pressefreiheit in nur vier Jahren um 43 Plätze abgerutscht. Für lokale Journalisten sind die Spielräume der freien Presse drastisch eingeschränkt worden. Journalisten aus dem Ausland dürfen nicht mehr einreisen.",
+          "title": "Iran-Liveblog: ++ Trump will neuen Verhandlungsvorschlag des Iran prüfen ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-nahost-sonntag-290.html",
+          "summary": "US-Präsident Donald Trump kündigt an, einen vom Iran übermittelten Plan für ein Ende des Kriegs prüfen zu wollen, er zeigte sich aber wenig optimistisch. Das israelische Militär fordert die Bewohner im Südlibanon auf, ihre Häuser zu verlassen.",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Werder Bremen: Ein seltsam fahrlässiger Auftritt",
+          "url": "https://www.sueddeutsche.de/sport/bundesliga-werder-augsburg-klassenerhalt-enttaeuschung-li.3477331",
+          "summary": "„Es geht bis zum Ende“: Werder Bremen spielt beim 1:3 gegen Augsburg, als hätte der Klub den Klassenerhalt bereits sicher – und muss somit weiter zittern.",
+          "source": "SZ"
+        },
+        {
+          "title": "Krieg in der Ukraine: Drohnen-Angriffe auf Kiew und Kämpfe in Donezk-Region",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-kiew-angriffe-donezk-li.3473071",
+          "summary": "In der Nacht auf Sonntag hat Russland Kiew massiv mit Drohnen angegriffen. Auch rücken russische Truppen in der östlichen Donezk-Region weiter vor.",
+          "source": "SZ"
+        },
+        {
           "title": "Schalke 04: Glück auf, Glück auf, der Aufsteiger kommt",
           "url": "https://www.sueddeutsche.de/sport/schalke-2-bundesliga-aufstieg-feier-li.3477345",
           "summary": "Nach drei Jahren in der zweiten Liga gelingt dem FC Schalke 04 durch ein 1:0 gegen Fortuna Düsseldorf die Rückkehr in die Bundesliga. Auch in der entscheidenden Partie führt der Stil von Trainer Miron Muslic zum Erfolg.",
-          "source": "SZ"
-        },
-        {
-          "title": "Truppenabzug: Das sind die Reaktionen auf die US-Ankündigung",
-          "url": "https://www.sueddeutsche.de/politik/usa-truppenabzug-reaktionen-pistorius-schweitzer-gruene-li.3477155",
-          "summary": "Verteidigungsminister Pistorius nennt die Ankündigung der USA, Soldaten aus Deutschland abziehen zu wollen, „absehbar“, der rheinland-pfälzische Ministerpräsident Schweitzer ist besorgt.",
-          "source": "SZ"
-        },
-        {
-          "title": "3:3 gegen den FC Bayern: Heidenheims verflixte 100. Minute",
-          "url": "https://www.sueddeutsche.de/sport/bayern-heidenheim-bundesliga-aktuell-li.3477236",
-          "summary": "Der Tabellenletzte führt 3:2 in München, dann zieht Michael Olise mit der letzten Aktion noch mal ab. Die Partie reiht sich ein in die Serie der jüngsten Münchner Spektakelspiele – und sorgt dafür, dass Jupp Heynckes einen Rekord behält.",
           "source": "SZ"
         }
       ]
