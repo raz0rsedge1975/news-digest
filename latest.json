@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T02:00:06.978Z",
-  "timestamp": "3.5.2026, 04:00:06",
+  "generated": "2026-05-03T06:00:05.775Z",
+  "timestamp": "3.5.2026, 08:00:05",
   "news": [
     {
       "source": "FAZ",
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Hamburg: Warum wurde »White Tiger« nicht früher gestoppt?",
+          "url": "https://www.spiegel.de/netzwelt/web/hamburg-warum-wurde-white-tiger-nicht-frueher-gestoppt-a-14e4d303-e011-48e3-b9e2-3bb197176601#ref=rss",
+          "summary": "Ein 21-Jähriger aus Hamburg soll online Kinder manipuliert und zum Suizid getrieben haben. SPIEGEL-Recherchen zeigen: Der Mann, der sich »White Tiger« nannte, fiel schon in der Schule auf.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "News: Friedrich Merz, Angela Merkel, SPIEGEL-Cover",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-angela-merkel-spiegel-cover-a-c6c609be-30f3-4328-85f3-9b0247156816#ref=rss",
+          "summary": "Der Kanzler wird für seine Kommunikation kritisiert, auch für ein SPIEGEL-Gespräch. Immerhin sagt er, was er denkt. Das ist die Lage am Sonntag.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Donald Trump will »weit mehr als 5000« US-Soldaten aus Deutschland abziehen",
           "url": "https://www.spiegel.de/ausland/donald-trump-will-weit-mehr-als-5000-us-soldaten-aus-deutschland-abziehen-a-24c62132-3e99-4021-9860-beb1a127ce86#ref=rss",
           "summary": "Die USA könnten ihre Truppenpräsenz in Deutschland stärker reduzieren als bisher angekündigt. Präsident Trump spricht über einen Vorschlag aus Teheran. Und: Washington billigt Waffenexporte an Partner im Irankrieg. Der Überblick.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Donald Trump über Saudi-Arabiens Kronprinzen: »Er muss jetzt nett zu mir sein«",
-          "url": "https://www.spiegel.de/ausland/donald-trump-ueber-saudi-arabiens-kronprinzen-er-muss-jetzt-nett-zu-mir-sein-a-318cb96d-8268-422f-9765-fef9f14c9ace#ref=rss",
-          "summary": "In Saudi-Arabien gibt man sich seit Beginn des Irankriegs Mühe, so zu tun, als sei alles wie immer. Doch hinter den Kulissen wächst die Nervosität und die Enttäuschung über Donald Trump. Wendet sich Riad von den USA ab?",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Lufthansa: Diese Verbindungen wackeln, wenn das Kerosin knapp wird",
-          "url": "https://www.spiegel.de/wirtschaft/lufthansa-diese-verbindungen-wackeln-wenn-das-kerosin-knapp-wird-a-08b79bc2-f276-4a57-b817-8d32af77d09e#ref=rss",
-          "summary": "Was passiert, wenn Kerosin tatsächlich knapp wird? In der Luftfahrtbranche kursieren konkrete Szenarien, Flüge zu streichen.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Trump will deutlich mehr als 5.000 US-Soldaten aus Deutschland abziehen",
-          "url": "https://www.tagesschau.de/ausland/amerika/kritik-us-truppenabzug-republikaner-100.html",
-          "summary": "US-Präsident Trump will deutlich mehr als 5. 000 Soldaten aus Deutschland abziehen. Kritik an der bisherigen Ankündigung kommt aus dem Kongress: Republikaner sprachen von einem möglichen falschen Signal an Russlands Präsidenten Putin.",
+          "title": "Ein Traum mit Preisschild: Lohnt sich das Ferienhaus wirklich?",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/investment-ferienhaus-100.html",
+          "summary": "Ein Ferienhaus als Rückzugsort, das vermietet auch noch Rendite abwirft: Das klingt verlockend. Doch es kann finanziell schnell zu einer Herausforderung werden. Hiltscher und C.",
           "source": "Tagesschau"
         },
         {
-          "title": "Trump verweigert offenbar \"Tomahawk\"-Stationierung in Deutschland",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/usa-trump-tomahawk-100.html",
-          "summary": "Den Abzug von US-Soldaten aus Deutschland sehen Experten als das kleinere Problem. \"Viel dramatischer\" sei, dass Trump - laut Medienberichten - auch die geplante Stationierung von \"Tomahawk\"-Marschflugkörpern abgesagt hat. Die sollten Russland abschrecken.",
+          "title": "Grundwasser an vielen Küsten sinkt - ist das Trinkwasser bedroht?",
+          "url": "https://www.tagesschau.de/wissen/forschung/versalzenes-grundwasser-100.html",
+          "summary": "Etwa ein Drittel der Weltbevölkerung lebt in Küstenregionen. Doch gibt es dort immer weniger Trinkwasser: Während der Meeresspiegel steigt, sinkt der Grundwasserspiegel. Von Sedir Dabbass.",
           "source": "Tagesschau"
         },
         {
-          "title": "Friedensnobelpreisträgerin Mohammadi in \"äußerst akuter Gefahr\"",
-          "url": "https://www.tagesschau.de/ausland/asien/mohammadi-nobelpreistraegerin-iran-100.html",
-          "summary": "Die Friedensnobelpreisträgerin Mohammadi ist nach Angaben ihrer Stiftung in einem sehr kritischen Zustand. Sie war in einem Gefängnis im Iran kollabiert und in eine Klinik verlegt worden.",
+          "title": "Tunesien: Die Auslandspresse muss draußen bleiben",
+          "url": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-tunesien-100.html",
+          "summary": "Tunesien ist in der Rangliste der Pressefreiheit in nur vier Jahren um 43 Plätze abgerutscht. Für lokale Journalisten sind die Spielräume der freien Presse drastisch eingeschränkt worden. Journalisten aus dem Ausland dürfen nicht mehr einreisen.",
           "source": "Tagesschau"
         }
       ]
