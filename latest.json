@@ -1,49 +1,26 @@
 {
-  "generated": "2026-05-04T18:00:11.349Z",
-  "timestamp": "4.5.2026, 20:00:11",
+  "generated": "2026-05-04T22:03:18.973Z",
+  "timestamp": "5.5.2026, 00:03:18",
   "news": [
-    {
-      "source": "FAZ",
-      "headlines": [
-        {
-          "title": "Fahrer Festgenommen: Auto fährt in Leipziger Innenstadt in Menschengruppe – zwei Tote",
-          "url": "https://www.faz.net/aktuell/gesellschaft/auto-faehrt-in-leipziger-innenstadt-in-menschengruppe-ein-toter-200797679.html",
-          "summary": "In der Leipziger Innenstadt ist ein Auto in eine Menschenmenge gefahren. Zwei Personen kamen ums Leben, mehrere wurden verletzt. Ministerpräsident Michael Kretschmer äußert sich zum Tatverdächtigen.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Liveblog Irankrieg: Großbrand in Arabischen Emiraten nach Drohnenangriff",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-grossbrand-in-arabischen-emiraten-nach-drohnenangriff-faz-200583539.html",
-          "summary": "Arabische Emirate melden abgefangene Drohnen aus Iran +++ US-Armee: Amerikanische Kriegsschiffe durchfahren Straße von Hormus +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "Straße von Hormus: Der Streit um die Meerenge wird zur militärischen Machtprobe",
-          "url": "https://www.faz.net/aktuell/politik/ausland/strasse-von-hormus-iran-gegen-trumps-projekt-freiheit-200795458.html",
-          "summary": "Donald Trump schickt Kriegsschiffe in die Straße von Hormus, um Handelsschiffen die Durchfahrt zu ermöglichen. Iran hält dagegen. Es droht eine Eskalation.",
-          "source": "FAZ"
-        }
-      ]
-    },
     {
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Leipzig: Was über die Amokfahrt in der Innenstadt bekannt ist",
+          "url": "https://www.spiegel.de/politik/was-ueber-die-amokfahrt-in-leipzig-bekannt-ist-a-6504d6b7-2780-4471-a55f-4395c7925aff#ref=rss",
+          "summary": "Mitten im Feierabendgewühl der Leipziger Innenstadt rast ein Auto durch die Fußgängerzone. Zwei Menschen sterben, mindestens 20 werden verletzt. Augenzeugen berichten von Panik und Chaos. Die Ermittler gehen von einer Amokfahrt aus.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "Konflikt im Nahen Osten: Warum Trumps Irankrieg nun wohl auch nach US-Recht illegal ist",
+          "url": "https://www.spiegel.de/ausland/konflikt-im-nahen-osten-warum-trumps-irankrieg-nun-wohl-auch-nach-us-recht-illegal-ist-a-9d181797-733e-4f94-a695-b84eb14546ec#ref=rss",
+          "summary": "Nach spätestens 60 Tagen muss der US-Kongress einer Fortführung des Krieges in Iran zustimmen, so will es das Gesetz. Diese Frist ist nun verstrichen – welche Folgen hat das?",
+          "source": "Spiegel"
+        },
+        {
           "title": "Donald Trump: So kann die EU auf Trumps neue Zollandrohung reagieren",
           "url": "https://www.spiegel.de/wirtschaft/donald-trump-so-kann-die-eu-auf-trumps-neue-zollandrohung-reagieren-a-2fb98c94-4a76-4d23-b6c6-cfeb95f6c00e#ref=rss",
           "summary": "Donald Trump dreht an der Zollschraube und Merz gibt der EU die Schuld. 25 Prozent auf europäische Autos würden vor allem Deutschland hart treffen, in Brüssel wächst die Lust auf Vergeltung. Wie könnte die aussehen?",
-          "source": "Spiegel"
-        },
-        {
-          "title": "News des Tages: Straße von Hormus, Wladimir Putin, Met-Gala in New York",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-strasse-von-hormus-wladimir-putin-met-gala-in-new-york-a-9b0cf94b-f93e-4d9d-8da1-1d6270baaf16#ref=rss",
-          "summary": "Der Kremlchef kriegt es angeblich mit der Angst zu tun. Das Minenjagdboot »Fulda« ist unterwegs zur Straße von Hormus. Und Aktivisten kritisieren Jeff Bezos als Sponsor der Met Gala. Das ist die Lage am Montagabend.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "Leipzig: Auto fährt in Leipziger Fußgängerzone – mindestens ein Toter",
-          "url": "https://www.spiegel.de/panorama/justiz/leipzig-auto-faehrt-in-fussgaengerzone-polizei-meldet-verletzte-a-02454516-3a3c-4441-ae93-19648c14657d#ref=rss",
-          "summary": "Ein Auto ist in eine Leipziger Fußgängerzone gefahren. Dabei ist laut Polizei mindestens ein Mensch ums Leben gekommen. Die Polizei habe den mutmaßlichen Täter gefasst.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +29,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Iran-Liveblog: ++ US-Militär meldet iranische Angriffe auf Schiffe  ++",
+          "title": "Spannungen zwischen USA und Iran verschärfen sich wieder",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-100.html",
+          "summary": "Die USA wollen Schiffe aus dem Persischen Golf befreien und die Blockade der Straße von Hormus beenden. Iran droht mit Angriffen und attackiert die Golfstaaten. Trotz Waffenruhe spitzt sich die Lage wieder zu.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Russische Armee verkündet Waffenruhe am 8. und 9. Mai - Ukraine reagiert",
+          "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-104.html",
+          "summary": "Russland hat für den 8. Mai eine Waffenruhe im Krieg gegen die Ukraine verkündet - auf Anordnung von Präsident Putin. Die Ukraine reagierte und kündigte ihrerseits eine Feuerpause an, die allerdings früher beginnt.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Iran-Liveblog: ++ USA wollen UN-Resolution einbringen ++",
           "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
-          "summary": "Das US-Militär meldet iranische Angriffe auf Schiffe in der Straße von Hormus und gibt an, iranische Schnellboote abgeschossen zu haben. In den Emiraten brach ein Großbrand nach einem Angriff in der Hafenstadt Fudschaira aus.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Ein Jahr schwarz-rote Koalition: Keine Feierlaune in Sicht",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-schwarz-rot-koalition-100.html",
-          "summary": "Zu Jahrestag ihres Bündnisses betonen CDU/CSU und SPD ihre Erfolge. Aber zum Feiern ist niemandem zumute. Kanzler Merz fordert von der SPD mehr Kompromissbereitschaft. Die verteidigt sich. Von Anne-Katrin Mellmann.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "DAX rutscht ab: Zu viel des Schlechten",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html",
-          "summary": "Nicht nur die Lage am Persischen Golf, auch eine neue Zolldrohung von US-Präsident Trump machte den Märkten zum Wochenstart zu schaffen. Der DAX drehte im Verlauf nach unten ab.",
+          "summary": "Die USA wollen im UN-Sicherheitsrat für eine Resolution zur Sicherung der Straße von Hormus werben - darin soll Iran aufgefordert werden, seine Angriffe und Drohungen einzustellen. Irans Streitkräfte verteidigen ihre Angriff auf die Emirate.",
           "source": "Tagesschau"
         }
       ]
@@ -75,15 +52,15 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Leipzig: Auto fährt in Menschengruppe – zwei Tote und zwei Schwerverletzte",
+          "title": "Leipzig: „Wir sind fassungslos“",
           "url": "https://www.sueddeutsche.de/panorama/leipzig-unfall-auto-menschenmenge-verletzte-li.3478446",
-          "summary": "Nach Angaben der Polizei bog das Fahrzeug am Augustusplatz in die Fußgängerzone ein. Der Fahrer wurde im Auto festgenommen. Sachsens Ministerpräsident Kretschmer spricht von einer mutmaßlichen „Amokfahrt“.",
+          "summary": "Ein Deutscher fährt Amok in Leipzig, tötet zwei Menschen und verletzt viele schwer. Sein Motiv bleibt nicht die einzige offene Frage an diesem Tag.",
           "source": "SZ"
         },
         {
-          "title": "Krieg in der Ukraine: Russland verkündet für 8. und 9. Mai Waffenruhe",
+          "title": "Krieg in der Ukraine: Russland und Ukraine verkünden Waffenruhe für unterschiedliche Tage",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-moskau-drohne-angriff-tag-des-sieges-waffenruhe-li.3473071",
-          "summary": "Das Verteidigungsministerium folge einer Anordnung von Präsident Putin. Der ukrainische Präsident Selenskij lehnt eine solche Feuerpause als „nicht ernst gemeint“ ab.",
+          "summary": "Moskau kündigte zunächst für den 8. Mai eine Feuerpause an. Die Ukraine lehnte ab, doch kurz darauf verkündet Präsident Selenskij eine Waffenruhe, die in der Nacht auf den 6. Mai beginnen soll.",
           "source": "SZ"
         },
         {
