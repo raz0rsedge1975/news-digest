@@ -1,7 +1,30 @@
 {
-  "generated": "2026-05-04T22:03:18.973Z",
-  "timestamp": "5.5.2026, 00:03:18",
+  "generated": "2026-05-05T02:00:07.501Z",
+  "timestamp": "5.5.2026, 04:00:07",
   "news": [
+    {
+      "source": "FAZ",
+      "headlines": [
+        {
+          "title": "Teure Spritpreise: Warum die Tankrabatte an den Tankstellen versagen",
+          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/spritpreis-die-tankrabatte-der-regierung-versagen-200795532.html",
+          "summary": "So teuer wie im April war Tanken noch nie. Die Steuersenkung für Benzin wird bislang nur zum Teil an Autofahrer weitergegeben. An manchen Tankstellen bilden sich mittags kurz vor zwölf Uhr Schlangen von all denjenigen, die noch schnell tanken wollen.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Teure Lkw-Logistik: Der Dieselpreis wird zur Existenzfrage für Spediteure",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dieselpreis-wird-zur-existenzfrage-fuer-spediteure-200792011.html",
+          "summary": "Der Kanzler besucht ein Fuhrunternehmen, will aber offiziell nichts zu den Nöten der Branche sagen. Auch die Steuererleichterung für Diesel zum 1. Mai macht den Transport per Lkw nicht profitabel.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Deutschland-Liveblog: Verkehrsminister Schnieder nennt Tankrabatt „richtige Entscheidung“",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-verkehrsminister-schnieder-nennt-tankrabatt-richtige-entscheidung-faz-110093143.html",
+          "summary": "Schnieder schließt Verlängerung nicht aus +++ Medienberichte: US-Truppenabzug betrifft Soldaten aus Vilseck +++ SPD-Fraktionschef: Parlament wird Reform nicht nur abnicken +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ"
+        }
+      ]
+    },
     {
       "source": "Spiegel",
       "headlines": [
@@ -18,9 +41,9 @@
           "source": "Spiegel"
         },
         {
-          "title": "Donald Trump: So kann die EU auf Trumps neue Zollandrohung reagieren",
-          "url": "https://www.spiegel.de/wirtschaft/donald-trump-so-kann-die-eu-auf-trumps-neue-zollandrohung-reagieren-a-2fb98c94-4a76-4d23-b6c6-cfeb95f6c00e#ref=rss",
-          "summary": "Donald Trump dreht an der Zollschraube und Merz gibt der EU die Schuld. 25 Prozent auf europäische Autos würden vor allem Deutschland hart treffen, in Brüssel wächst die Lust auf Vergeltung. Wie könnte die aussehen?",
+          "title": "Donald Trump: Dieser Raketen-Rückzieher wiegt schwerer als der Abzug von 5000 Soldaten",
+          "url": "https://www.spiegel.de/ausland/donald-trump-haelt-tomahawk-zurueck-dieser-raketen-rueckzieher-wiegt-schwerer-als-der-abzug-von-5000-soldaten-a-66e0eac3-e6f8-4f4b-a9d6-258894e7ed99#ref=rss",
+          "summary": "Donald Trump hat nicht nur angekündigt, die Zahl der US-Truppen in Deutschland zu verringern, auch zwei entscheidende Waffensysteme will er zurückhalten. Was sie können und was die Folgen der Entscheidung sind.",
           "source": "Spiegel"
         }
       ]
@@ -28,6 +51,12 @@
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Recherchen zur Trump-Regierung dominieren Pulitzer-Preise",
+          "url": "https://www.tagesschau.de/ausland/pulitzer-preise-2026-100.html",
+          "summary": "Die Pulitzer-Preise gelten als weltweit wichtigste Auszeichnung im Journalismus. In diesem Jahr wurden sie vor allem für die Berichterstattung zur US-Regierung unter Trump verliehen - etwa zur Einwanderungspolitik.",
+          "source": "Tagesschau"
+        },
         {
           "title": "Spannungen zwischen USA und Iran verschärfen sich wieder",
           "url": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-100.html",
@@ -38,12 +67,6 @@
           "title": "Russische Armee verkündet Waffenruhe am 8. und 9. Mai - Ukraine reagiert",
           "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-104.html",
           "summary": "Russland hat für den 8. Mai eine Waffenruhe im Krieg gegen die Ukraine verkündet - auf Anordnung von Präsident Putin. Die Ukraine reagierte und kündigte ihrerseits eine Feuerpause an, die allerdings früher beginnt.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Iran-Liveblog: ++ USA wollen UN-Resolution einbringen ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html",
-          "summary": "Die USA wollen im UN-Sicherheitsrat für eine Resolution zur Sicherung der Straße von Hormus werben - darin soll Iran aufgefordert werden, seine Angriffe und Drohungen einzustellen. Irans Streitkräfte verteidigen ihre Angriff auf die Emirate.",
           "source": "Tagesschau"
         }
       ]
