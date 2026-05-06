@@ -1,20 +1,14 @@
 {
-  "generated": "2026-05-05T22:00:06.485Z",
-  "timestamp": "6.5.2026, 00:00:06",
+  "generated": "2026-05-06T02:00:06.725Z",
+  "timestamp": "6.5.2026, 04:00:06",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Boom der Rüstungsbranche: Das Multimilliardengeschäft mit Waffen und Munition",
-          "url": "https://www.faz.net/aktuell/finanzen/rheinmetall-co-das-milliarden-geschaeft-mit-waffen-und-munition-200777090.html",
-          "summary": "Europa rüstet auf, und das zeigt sich am Kapitalmarkt. Der Branchenindex ist stark gestiegen, Waffenanbieter gehen an die Börse. Die nächsten Kandidaten warten schon.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Rüstungsaktien: Die Zeichen der Zeitenwende",
-          "url": "https://www.faz.net/aktuell/finanzen/boom-um-ruestungsaktien-die-zeichen-der-zeitenwende-200800445.html",
-          "summary": "Die Rüstungsbranche bewegt die Finanzmärkte. Börsengänge sind in Planung. Aber ist der große Boom schon vorbei?",
+          "title": "Irankrieg: US-Armee pausiert Einsatz in Straße von Hormus",
+          "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-us-armee-pausiert-einsatz-in-strasse-von-hormus-200802337.html",
+          "summary": "Die USA stoppen das erst am Montag gestartete „Projekt Freiheit“ zur Sicherung der Schifffahrt in der Straße von Hormus. US-Präsident Donald Trump spricht von „großen Fortschritten“ in den Friedensverhandlungen.",
           "source": "FAZ"
         },
         {
@@ -22,12 +16,24 @@
           "url": "https://www.faz.net/aktuell/politik/ausland/warum-es-keine-militaerische-loesung-fuer-die-strasse-von-hormus-gibt-200799190.html",
           "summary": "Trotz einer großen US-Streitmacht wagen nur wenige Schiffe die Fahrt durch die Meerenge. Iran braucht nicht viel, um die Weltwirtschaft als Geisel zu halten.",
           "source": "FAZ"
+        },
+        {
+          "title": "Straße von Hormus: Deutschlands Minensucherin",
+          "url": "https://www.faz.net/aktuell/politik/inland/inka-von-puttkamer-minensucherin-fuer-strasse-von-hormus-200799375.html",
+          "summary": "Inka von Puttkamer führt das Vorauskommando für einen möglichen Einsatz der Marine in der Straße von Hormus. Die Laufbahn der Kommandeurin ist außergewöhnlich.",
+          "source": "FAZ"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Iran-Krieg: Donald Trump setzt Militär-Einsatz für sichere Hormus-Durchfahrt aus",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-setzt-militaer-einsatz-fuer-sichere-hormus-durchfahrt-aus-a-09110b24-5de9-4643-9a3d-c701250ab14f#ref=rss",
+          "summary": "Die USA wollten feststeckenden Schiffen helfen, die Straße von Hormus zu passieren. Damit ist nun vorerst Schluss, verkündet Präsident Trump. Er spricht zugleich von »großen Fortschritten« bei den Friedensverhandlungen mit Iran.",
+          "source": "Spiegel"
+        },
         {
           "title": "Amokfahrt in Leipzig: Boxtrainer, Fußballfan, psychisch auffällig - wer ist Jeffrey K.?",
           "url": "https://www.spiegel.de/panorama/amokfahrt-in-leipzig-boxtrainer-fussballfan-psychisch-auffaellig-wer-ist-jeffrey-k-a-d4925e35-63fa-4295-a297-bd076a839dce#ref=rss",
@@ -39,12 +45,6 @@
           "url": "https://www.spiegel.de/wirtschaft/biontech-standortschliessung-impfstoffhersteller-streicht-tausende-stellen-a-fe4870a3-cec4-4409-8825-eab9a50fd180#ref=rss",
           "summary": "Das Biopharma-Unternehmen Biontech schließt Werke, fast 2000 Jobs sind in Gefahr. Was wie eine Reaktion auf den Einbruch der Impfnachfrage klingt, ist in Wirklichkeit die Quittung für Jahre verschlafener Entscheidungen.",
           "source": "Spiegel"
-        },
-        {
-          "title": "Russland-Ukraine-Krieg: Kyjiw meldet kurz vor angekündigter Feuerpause mehr als 20 Tote",
-          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-meldet-kurz-vor-angekuendigter-feuerpause-mehr-als-20-tote-a-fac07646-3620-4634-8df6-7efeb96249cb#ref=rss",
-          "summary": "Im Ukrainekrieg sollen die Waffen bald für mindestens zwei Tage schweigen. Aktuell greift Russland den Nachbarn aber weiter massiv an. Kyjiw meldet derweil den Einsatz des ukrainischen Marschflugkörpers Flamingo.",
-          "source": "Spiegel"
         }
       ]
     },
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Trump pausiert US-Hilfe für Schiffe in der Straße von Hormus",
+          "url": "https://www.tagesschau.de/ausland/trump-strasse-von-hormus-102.html",
+          "summary": "Nach nur einem Tag will US-Präsident Trump die Begleitung von Schiffen durch die Straße von Hormus kurzzeitig aussetzen. In dieser Zeit solle geprüft werden, ob ein Abkommen mit Iran geschlossen werden könne.",
+          "source": "Tagesschau"
+        },
+        {
+          "title": "Hantavirus-Ausbruch: Kreuzfahrtschiff darf nach Spanien",
+          "url": "https://www.tagesschau.de/ausland/hantavirus-kreuzfahrtschiff-spanien-100.html",
+          "summary": "Wegen mehrerer Infektionen mit dem Hantavirus hatte Kap Verde einem Kreuzfahrtschiff das Anlegen verweigert. Nun darf die \"Hondius\" nach Spanien. An Bord des Schiffs waren drei Passagiere gestorben.",
+          "source": "Tagesschau"
+        },
+        {
           "title": "Viele Tote durch russische Bombenangriffe auf die Ukraine",
           "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-tote-112.html",
           "summary": "Kurz vor dem Beginn einer möglichen Feuerpause fallen russische Bomben auf mehrere Städte in der Ukraine. Es gibt viele Tote und Verletzte. Präsident Selenskyj wirft Russland \"blanken Zynismus\" vor.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Wie sich Jens Spahn an der Fraktionsspitze behauptet",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-union-fraktionschef-wiederwahl-100.html",
-          "summary": "Die Amtszeit des Unionsfraktionschefs Spahn begann holprig. Es gab Kritik an seiner Führung und seine Maskendeals wirken bis heute nach. Aber Spahn bleibt - und will wohl noch weiter nach oben. Von Philip Kuntschner.",
-          "source": "Tagesschau"
-        },
-        {
-          "title": "Entwurf für Gebäudemodernisierungsgesetz: Klimaneutralität auf wackligem Boden",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/entwurf-gebaeudemodernisierungsgesetz-kritik-100.html",
-          "summary": "Bislang gab es nur grobe Eckpunkte - nun einen konkreten Entwurf zum Gebäudemodernisierungsgesetz. Das Papier zeigt, welche Regeln beim Heizen gelten sollen. Scharfe Kritik folgt direkt. Mellmann und J.",
           "source": "Tagesschau"
         }
       ]
