@@ -47,6 +47,7 @@
     .article.paywall { border-left-color: #ff6b6b; background: rgba(255, 107, 107, 0.05); }
     .article.paywall .article-title::before { content: '🔒 '; color: #ff6b6b; }
     .paywall-badge { display: inline-block; background: #ff6b6b; color: white; padding: 2px 8px; border-radius: 3px; font-size: 0.75em; font-weight: 600; margin-left: 8px; }
+    .article-image { width: 100%; max-height: 200px; object-fit: cover; border-radius: 4px; margin-bottom: 10px; display: block; }
     .footer { background: #f8f9fa; padding: 20px; text-align: center; color: #999; font-size: 0.9em; border-top: 1px solid #eee; }
     .loading { text-align: center; padding: 40px; color: #999; }
   </style>
@@ -56,7 +57,7 @@
     <div class="header">
       <h1>📰 News Digest</h1>
       <p>Aktuelle Nachrichten aus verschiedenen Quellen</p>
-      <p class="timestamp">Letzte Aktualisierung: 7.5.2026, 10:15:27</p>
+      <p class="timestamp">Letzte Aktualisierung: 7.5.2026, 10:20:25</p>
     </div>
     <div class="content" id="content">
       <div class="loading">Loading...</div>
@@ -89,6 +90,7 @@
             articleDiv.className = 'article' + (article.paywall ? ' paywall' : '');
             const paywallBadge = article.paywall ? '<span class="paywall-badge">PAYWALL</span>' : '';
             articleDiv.innerHTML = `
+              ${article.image ? '<img class="article-image" src="' + article.image + '" loading="lazy" alt="">' : ''}
               <div class="article-title">${article.title}${paywallBadge}</div>
               ${article.summary ? '<div class="article-summary">' + article.summary + '</div>' : ''}
               <a href="${article.url}" target="_blank" class="article-link">${article.url}</a>
