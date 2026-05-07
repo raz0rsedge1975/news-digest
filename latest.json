@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T10:27:11.123Z",
-  "timestamp": "7.5.2026, 12:27:11",
+  "generated": "2026-05-07T10:28:38.720Z",
+  "timestamp": "7.5.2026, 12:28:38",
   "news": [
     {
       "source": "FAZ",
@@ -48,7 +48,7 @@
           "summary": "Russland überzieht Deutschland und den Westen mit Cyberattacken und Lügenkampagnen. Geleakte Dokumente, die dem SPIEGEL vorliegen, zeigen nun, wie Moskau die Angreifer schult – in einem geheimen Universitätsprogramm.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5ab2c1e0-8d03-4f5e-8102-40f73f029470_w1200_r1.778_fpx55_fpy48.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5ab2c1e0-8d03-4f5e-8102-40f73f029470_w1200_r1.778_fpx47_fpy50.jpg"
         },
         {
           "title": "Steuer-Reform: Die Zeit ist reif für eine Wende",
@@ -86,6 +86,35 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/9d3198f4-98ef-477e-8e27-92a31451ef68/AAABngGO9DA/AAABnSSvrFg/16x9-big/google-maps-102.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Telepolis als \"Bevorzugte Quelle\" bei Google festlegen",
+          "url": "https://www.telepolis.de/article/Telepolis-als-Bevorzugte-Quelle-bei-Google-festlegen-11285510.html",
+          "summary": "So siehst du künftig mehr Telepolis-Artikel bei Google – mit einem einfachen Trick in den Sucheinstellungen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/1/1/0/shutterstock_2475784501-d75c7bc5c776d285.jpg"
+        },
+        {
+          "title": "Aufrüstung statt Print: Druckmaschinenbauer suchen neue Märkte",
+          "url": "https://www.telepolis.de/article/Aufruestung-statt-Print-Druckmaschinenbauer-suchen-neue-Maerkte-11285460.html",
+          "summary": "Während das Zeitungsgeschäft schrumpft, entdecken deutsche Maschinenbauer die Rüstungsindustrie – vom Patriot-Zulieferteil bis zur Drohnenabwehr.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/0/8/5/master_bartels-49b79217b1c7be4c.jpg"
+        },
+        {
+          "title": "Deutschlands Doppeloffensive für ein wehrhaftes Europa",
+          "url": "https://www.telepolis.de/article/Deutschlands-Doppeloffensive-fuer-ein-wehrhaftes-Europa-11285186.html",
+          "summary": "Zwei deutsche Initiativen wollen die EU zur Verteidigungsmacht umbauen – doch die größte Hürde liegt im System selbst.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/7/9/5/0/shutterstock_2650826769-0c8d007d25f08ea1.jpg"
         }
       ]
     },
