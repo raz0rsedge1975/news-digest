@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T08:09:16.850Z",
-  "timestamp": "7.5.2026, 10:09:16",
+  "generated": "2026-05-07T08:15:27.956Z",
+  "timestamp": "7.5.2026, 10:15:27",
   "news": [
     {
       "source": "FAZ",
@@ -36,21 +36,21 @@
           "url": "https://www.spiegel.de/politik/deutschland/nrw-ministerin-ina-scharrenbach-beschwerden-ueber-arbeitsklima-unter-verschluss-a-9d07a989-a06d-4781-a30c-5c8009a79770#ref=rss",
           "summary": "»Verheerend« ist das Arbeitsklima im NRW-Heimatministerium. So das Ergebnis einer Umfrage aus dem Herbst 2025. Und Chefin Ina Scharrenbach? Zieht ihren Stil offenbar weiter durch.",
           "source": "Spiegel",
-          "paywall": false
+          "paywall": true
         },
         {
           "title": "Hybrider Krieg: Moskau bildet in einem geheimen Uni-Programm Spione und Hacker aus",
           "url": "https://www.spiegel.de/ausland/hybrider-krieg-moskau-bildet-in-einem-geheimen-uni-programm-spione-und-hacker-aus-a-2de79023-aa56-4ed6-b5de-d7c222402e63#ref=rss",
           "summary": "Russland überzieht Deutschland und den Westen mit Cyberattacken und Lügenkampagnen. Geleakte Dokumente, die dem SPIEGEL vorliegen, zeigen nun, wie Moskau die Angreifer schult – in einem geheimen Universitätsprogramm.",
           "source": "Spiegel",
-          "paywall": false
+          "paywall": true
         },
         {
           "title": "Neuer Koalitionsstreit: Die Zeit ist reif für eine Steuerwende",
           "url": "https://www.spiegel.de/wirtschaft/neuer-koalitionsstreit-die-zeit-ist-reif-fuer-eine-steuerwende-a-106c7d76-e4c8-4040-8b8e-dd341d4db289#ref=rss",
           "summary": "Die Regierung sollte sich endlich zu einer tiefgreifenden Steuerreform durchringen. Vor allem die SPD muss sich bewegen.",
           "source": "Spiegel",
-          "paywall": false
+          "paywall": true
         }
       ]
     },
