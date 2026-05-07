@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-07T18:35:35.155Z",
-  "timestamp": "7.5.2026, 20:35:35",
+  "generated": "2026-05-07T22:00:09.118Z",
+  "timestamp": "8.5.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Zu wenig Geburten: Deutschland ohne Kinder",
-          "url": "https://www.faz.net/aktuell/wirtschaft/geburtenrueckgang-in-deutschland-land-ohne-kinder-200787529.html",
-          "summary": "Schon lange bekommen die Deutschen wenige Babys, doch plötzlich geht es richtig abwärts. Sogar das ist eine Folge der Wirtschaftskrise. Die Sorge wächst, dass sich der Trend nicht mehr umkehren lässt.",
+          "title": "Früherer Bundeskanzler: Scholz und seine Rolle in der Geschichte",
+          "url": "https://www.faz.net/aktuell/politik/inland/wie-scholz-und-merkel-ueber-putin-streiten-200805343.html",
+          "summary": "Nach dem Regierungswechsel war von Olaf Scholz lange kaum etwas zu hören. Nun hat er seiner Fraktion und dem Bundeskanzler ins Gewissen geredet.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/bee9c0c371fa/w6016h3143x0y258o/202604/5e4f8430-43c6-11f1-8527-64eaa3489506/in-deutschland-wurden-2025-so.webp"
+          "image": "https://media0.faz.net/image/w1200h627/9f90bc746181/w2479h1295x521y344o/202505/43601.0.1006217157/friedrich-merz-und-olaf-scholz.webp"
         },
         {
-          "title": "Familien unerwünscht: Kinder müssen draußen bleiben",
-          "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/als-familie-im-ice-ruhebereich-sind-die-deutschen-kinderfeindlich-accg-200787156.html",
-          "summary": "Sie werden nicht zur Hochzeit eingeladen, aus Hallenbädern ausgesperrt und bekommen Stress im ICE. Sind die Deutschen kinderfeindlich?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/30df6a4396f2/w5472h2859x0y622o/202605/43601.0.2042711209/eine-zugfahrt-mit-kindern.webp"
-        },
-        {
-          "title": "Kipppunkt – F.A.Z.-Klimablog: „Höchste Alarmstufe“ nach El-Niño-Vorhersage",
-          "url": "https://www.faz.net/aktuell/wissen/erde-klima/klimablog-kipppunkt-neue-indizien-fuer-einen-golfstrom-kollaps-17480648.html",
-          "summary": "„Code Red“ für stärksten El Niño seit 155 Jahren +++ Ein solarer Schutzschirm? +++ Schnellere Erwärmung in Bergen +++ Unrealistische Selbstverpflichtungen +++ alles Wichtige im F. Klimablog „Kipppunkt“.",
+          "title": "Reaktionen auf Bärbel Bas: „Eine Botschaft, die nicht nur für die SPD viel Schaden anrichten kann“",
+          "url": "https://www.faz.net/aktuell/politik/inland/baerbel-bas-keine-einwanderung-ins-sozialsystem-200809248.html",
+          "summary": "Ministerin Bärbel Bas sagt im Bundestag: „Niemand wandert in unsere Sozialsysteme ein.“ Auch SPD-Politiker kritisieren die Aussage ihrer Parteichefin.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1f7ef8bf910a/w3000h1567x0y263o/202307/43600.0.1904650802/ein-philippinisches-kind.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0adf5e035240/w5014h2619x0y623o/202605/43601.0.2049337954/es-wandert-niemand-in-unsere.webp"
+        },
+        {
+          "title": "Liveblog USA unter Trump: Trump setzt EU im Zollstreit Frist bis 4. Juli",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-praesident-setzt-eu-im-zollstreit-frist-bis-4-juli-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/28158675ca01/w3989h2084x0y1236o/202605/43601.0.2054535705/us-praesident-donald-trump-am.webp"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "WHO: Hantavirus-Ausbruch nicht der Beginn einer Pandemie",
-          "url": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-who-100.html",
-          "summary": "Der Ausbruch des Hantavirus auf einem Kreuzfahrtschiff löst in vielen Ländern Sorgen aus. Experten weisen allerdings darauf hin, dass das Virus weit weniger ansteckend ist als etwa Grippe. \"Das ist kein Covid\", hieß es von der WHO.",
+          "title": "Trump setzt der EU ein Ultimatum für den vereinbarten Zoll-Deal",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-usa-zoelle-eu-100.html",
+          "summary": "US-Präsident Trump hat die Europäische Union zur Umsetzung eines im vergangenen Jahr vereinbarten Handelsabkommens aufgefordert. Sollte dies nicht bis zum 4. Juli geschehen, droht er mit neuen Strafzöllen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3364421-5c9f-4cfe-b5d6-019ae71aeab3/AAABngOVOoI/AAABnSSvrFg/16x9-big/who-corona-131.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e717f7dc-bf32-4061-aaab-2fe8d92b46a6/AAABngQBi9I/AAABnSSvrFg/16x9-big/trump-4942.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Verlieren die Anleger die Geduld?",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-140.html",
-          "summary": "Trotz guter US-Vorgaben und neuer Friedenshoffnungen bleiben die Anleger zurückhaltend. Der DAX hält sich zwar auf hohem Niveau, zu mehr reicht es derzeit aber nicht.",
+          "title": "AfD und Linke scheitern erneut bei Wahl ins Geheimdienstgremium",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/geheimdienst-gremium-wahl-100.html",
+          "summary": "Die Überwachung der deutschen Geheimdienste - das ist die Aufgabe des Parlamentarischen Kontrollgremiums. AfD und Linke wollten sich erneut in das Gremium wählen lassen - ohne Erfolg. Von F. Jahn.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a6e0d9de-5d30-4538-9767-4dac22e3c10c/AAABngPU9uY/AAABnSSvrFg/16x9-big/bnd-besucherzentrum-100.jpg?width=1280"
         },
         {
-          "title": "Interview: \"AfD ist Hauptprofiteur der Unzufriedenheit\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/interview-afd-umfragewerte-100.html",
-          "summary": "Die Umfrageerfolge der AfD speisen sich aus Enttäuschung und Protest, sagt Wahlforscher Stefan Merz. Doch die Partei könne darauf nicht bauen. Bei einer besseren Performance der Regierung dürfte die AfD wieder schwächer werden.",
+          "title": "Klingbeil zu Besuch in Kanada: \"Stärke durch Kooperation\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-reise-kanada-100.html",
+          "summary": "Angesicht internationaler Spannungen will Deutschland die Zusammenarbeit mit Kanada vertiefen. Dazu dient auch der Besuch von Bundesfinanzminister Klingbeil. Durch mehr Kooperation sollen beide Länder profitieren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bc98457c-5d2e-432c-b20d-6ef99be69aee/AAABmsEAEog/AAABnSSvrFg/16x9-big/merz-weidel-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9da7cf8c-329f-4e25-9e43-88ae6b3eac1f/AAABngO9Ze0/AAABnSSvrFg/16x9-big/klingbeil-340.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Russland kündigt längere Feuerpause an: drei statt zwei Tage",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-waffenruhe-li.3473071",
-          "summary": "Ursprünglich war die Waffenruhe für den 8. Mai vorgesehen, nun ist sie laut Angaben aus Moskau einen Tag länger geplant. Die Ukraine wirft Russland vor, die Feuerpause diene lediglich dem Schutz einer Staatsfeier vor ukrainischen Drohnenangriffen.",
+          "title": "Krieg in Nahost: Berichte: US-Militär greift offenbar iranische Häfen an",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-angriffe-haefen-keschm-bandar-abbas-li.3457961",
+          "summary": "Medien beider Länder berichten von Angriffen und Explosionen. Iran will zudem amerikanische Kriegsschiffe angegriffen und beschädigt haben. Eigentlich herrscht weiterhin eine Waffenruhe in dem Konflikt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/07/01b853ee-c109-4020-ba32-5979d535f87b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C27%2C3898%2C2193"
+          "image": "https://www.sueddeutsche.de/2026/05/07/dad83435-37f2-48c0-9f97-2c09ba16a382.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Kreuzfahrtschiff: Was zum Hantavirus auf der „Hondius“ bekannt ist – und was nicht",
-          "url": "https://www.sueddeutsche.de/panorama/hantavirus-infektion-passagiere-hondius-li.3480029",
-          "summary": "Mehrere Passagiere an Bord des Schiffes haben sich mit dem oft tödlichen Virus infiziert. Wie viele sind von Bord gegangen? Droht eine neue Pandemie? Antworten auf die wichtigsten Fragen.",
+          "title": "SC Freiburg: Es isch historisch",
+          "url": "https://www.sueddeutsche.de/sport/freiburg-finale-braga-julian-schuster-kuebler-manzambi-li.3479848",
+          "summary": "Das hat es noch nicht gegeben in fast 122 Jahren Klubgeschichte: Der SC Freiburg schlägt Braga im Halbfinal-Rückspiel und steht im Finale der Europa League.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/07/7a7988f8-71bb-458f-a7a5-0a23e62902e3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/07/968de443-5046-4164-9393-ccb739c1a126.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=109%2C505%2C3636%2C2045"
         },
         {
-          "title": "Podcast „Auf den Punkt“: AfD in Sachsen-Anhalt: Die große Krise der Demokratie",
-          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-afd-sachsen-anhalt-landtagswahl-albrecht-von-lucke-li.3480192",
-          "summary": "Eine aktuelle Umfrage sieht die AfD bei 41 Prozent. Der Politologe Albrecht von Lucke über die Gründe und mögliche Szenarien nach der Landtagswahl.",
+          "title": "Krieg in der Ukraine: Vor Moskauer Parade: Selenskij warnt Vertreter anderer Staaten",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-parade-moskau-li.3473071",
+          "summary": "\"Wir haben auch Mitteilungen von einigen Russland nahestehenden Staaten erhalten, dass ihre Vertreter beabsichtigen, in Moskau zu sein“, sagt der ukrainische Präsident – und fügt an: „Wir empfehlen das nicht.“",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
+          "image": "https://www.sueddeutsche.de/2026/05/07/a82d48f0-6355-4232-aab2-2fc9eeb06d92.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
