@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T07:57:25.924Z",
-  "timestamp": "7.5.2026, 09:57:25",
+  "generated": "2026-05-07T08:04:36.450Z",
+  "timestamp": "7.5.2026, 10:04:36",
   "news": [
     {
       "source": "FAZ",
@@ -58,6 +58,13 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Etwa jeder vierte Wehrdienst-Fragebogen bleibt unbeantwortet",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-wehrdienst-frageboegen-100.html",
+          "summary": "Seit Januar werden 18-Jährige aufgefordert, per Fragebogen anzugeben, ob sie bereit sind, den freiwilligen Wehrdienst zu leisten. Für Männer ist die Antwort Pflicht - trotzdem bleiben einem Medienbericht zufolge zahlreiche Rückmeldungen aus.",
+          "source": "Tagesschau",
+          "paywall": false
+        },
+        {
           "title": "Spahn will an Erhöhung der Abgeordnetendiäten festhalten",
           "url": "https://www.tagesschau.de/inland/diaeten-erhoehung-bundestagsabgeordnete-100.html",
           "summary": "Ab Juli werden die Bezüge der Bundestagsabgeordneten automatisch steigen. SPD und Linke fordern, angesichts der wirtschaftlichen Lage auf die Erhöhung zu verzichten. Doch Unions-Fraktionschef Spahn will daran festhalten.",
@@ -68,13 +75,6 @@
           "title": "US-Gericht veröffentlicht angeblichen Epstein-Abschiedsbrief",
           "url": "https://www.tagesschau.de/ausland/amerika/epstein-brief-veroeffentlicht-100.html",
           "summary": "Im August 2019 starb der Sexualstraftäter Epstein in seiner Gefängniszelle - offiziell durch Suizid. Nun ist ein Schreiben aufgetaucht, das von ihm stammen soll. Darin wird ein Suizid angedeutet. Doch das Dokument wirft Fragen auf.",
-          "source": "Tagesschau",
-          "paywall": false
-        },
-        {
-          "title": "Verliert Labour seine Hochburgen - an rechts und links?",
-          "url": "https://www.tagesschau.de/ausland/europa/vereinigtes-koenigreich-regionalwahlen-100.html",
-          "summary": "Schottland und Wales wählen heute neue Regionalparlamente, und auch in vielen englischen Gemeinden wird gewählt. Der britische Premier Starmer dürfte besorgt sein - denn für seine Labour-Partei sehen die Umfragen trüb aus. Von C. Prössl.",
           "source": "Tagesschau",
           "paywall": false
         }
@@ -102,7 +102,7 @@
           "url": "https://www.sueddeutsche.de/wirtschaft/europa-verteidigung-unabhaengigkeit-usa-kooperation-li.3479450",
           "summary": "Krieg in der Ukraine und ein US-Präsident, der die Nato behandelt wie eine Karte beim Pokern? Zwei bekannte Manager, ein Ökonom, ein Politikberater und eine Investorin haben aufgeschrieben, was nun passieren sollte.",
           "source": "SZ",
-          "paywall": false
+          "paywall": true
         }
       ]
     }
