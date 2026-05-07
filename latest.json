@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T22:00:06.614Z",
-  "timestamp": "7.5.2026, 00:00:06",
+  "generated": "2026-05-07T02:00:05.829Z",
+  "timestamp": "7.5.2026, 04:00:05",
   "news": [
     {
       "source": "FAZ",
@@ -8,7 +8,7 @@
         {
           "title": "Nur 1:1 gegen Paris: Ein Fehler ist für die Bayern an diesem Abend einer zu viel",
           "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/bayern-scheidet-aus-champions-league-aus-200737027.html",
-          "summary": "Der FC Bayern hat das Finale der Champions League verpasst. Weil Osmane Dembélé die Münchner früh schockt. Und weil sie danach nie zu ihrem Spiel finden. Harry Kanes Tor kommt zu spät.",
+          "summary": "Der FC Bayern verpasst das Finale der Champions League. Weil Ousmane Dembélé die Münchner früh schockt. Und weil sie danach nie zu ihrem Spiel finden. Harry Kanes Tor kommt zu spät.",
           "source": "FAZ"
         },
         {
@@ -29,9 +29,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Champions League: FC Bayern München vs. Paris Saint-Germain im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-vs-paris-saint-germain-im-liveticker-a-be3af41e-4484-436b-9658-a639b7d392e8#ref=rss",
-          "summary": "Ein frühes Gegentor durch Ousmane Dembélé, danach mehr Wortgefechte mit dem Schiedsrichter als Ideen nach vorn: Paris Saint-Germain ist einen Schritt weiter als der FC Bayern. Das war das Spiel.",
+          "title": "Champions League: Bayern München spielt nur 1:1 gegen Paris Saint-Germain und verpasst den Finaleinzug",
+          "url": "https://www.spiegel.de/sport/fussball/champions-league-bayern-muenchen-spielt-nur-1-1-gegen-paris-saint-germain-und-verpasst-den-finaleinzug-a-8667995f-79f0-4534-9e89-1765823eaa50#ref=rss",
+          "summary": "Gegen dieses Paris sind auch die Bayern machtlos. Im Halbfinale der Champions League scheitern die Münchner an einer Spielweise, die man den Franzosen gar nicht zugetraut hätte – und an einem Mann mit einem schwierigen Namen.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "FC Bayern München: Einzelkritik – Joshua Kimmich fehlt Ruhe, Jamal Musiala Leichtigkeit",
+          "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-einzelkritik-joshua-kimmich-fehlt-ruhe-jamal-musiala-leichtigkeit-a-b77d1594-65cf-444f-8ce0-960a966dd3ac#ref=rss",
+          "summary": "Fehlende Offensivpower kostete den FC Bayern gegen PSG das Weiterkommen – auch, weil das Spiel für den rekonvaleszenten Jamal Musiala noch zu früh kam. Joshua Kimmich ging voran, aber neigte zum Übereifer. Die Einzelkritik.",
           "source": "Spiegel"
         },
         {
@@ -39,18 +45,18 @@
           "url": "https://www.spiegel.de/ausland/iron-beam-so-kann-israels-staerkster-laser-den-vereinigten-arabischen-emiraten-helfen-a-2a1253cf-dab1-46e1-9ad1-4503889f8256#ref=rss",
           "summary": "Der »Iron Beam« soll am Golf vor iranischen Drohnen schützen. Die Technik hat einen enormen Vorteil: der Abschuss kostet pro Flugobjekt nur wenige Cents. Warum das System gleich vor seiner ersten Bewährungsprobe steht.",
           "source": "Spiegel"
-        },
-        {
-          "title": "Zum Tod von Ted Turner: Gefühle, Emotionen, Schwäche – großes Fernsehen",
-          "url": "https://www.spiegel.de/wirtschaft/zum-tod-von-ted-turner-gefuehle-emotionen-schwaeche-grosses-fernsehen-a-1dda0516-167b-470c-9ed1-6b66e19a8ba8#ref=rss",
-          "summary": "Der CNN-Gründer bescherte den USA einst TV-Nachrichten rund um die Uhr. Vor allem aber zeigte er dem Land, dass Information nicht nur wichtig ist, sondern verdammt gute Unterhaltung.",
-          "source": "Spiegel"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Israel greift erstmals seit Waffenruhe Vorort von Beirut an",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-angriff-beirut-vorort-100.html",
+          "summary": "Eigentlich gilt eine Waffenruhe zwischen Israel und der Hisbollah, trotzdem gibt es fast täglich Angriffe. Nun hat die israelische Luftwaffe einen Vorort von Beirut beschossen. Dabei soll ein Kommandeur der Terrororganisation getötet worden sein.",
+          "source": "Tagesschau"
+        },
         {
           "title": "Nach Hantavirus-Ausbruch: Kreuzfahrtschiff unterwegs nach Teneriffa",
           "url": "https://www.tagesschau.de/ausland/europa/hantavirus-kreuzfahrtschiff-europa-100.html",
@@ -62,12 +68,6 @@
           "url": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-118.html",
           "summary": "Laut US-Militär hat ein Tanker versucht, einen iranischen Hafen im Golf von Oman anzulaufen. Er sei manövrierunfähig geschossen worden. Israel hat erstmals seit der Waffenruhe Vororte von Beirut angegriffen.",
           "source": "Tagesschau"
-        },
-        {
-          "title": "Bundeskanzler Merz sieht \"keine Alternative\" zur schwarz-roten Koalition",
-          "url": "https://www.tagesschau.de/inland/koalition-bundesregierung-merz-100.html",
-          "summary": "Schlechte Umfragewerte und Schlagzeilen über internen Streit überschatten den Jahrestag der schwarz-roten Bundesregierung. Kanzler Merz ruft im Kabinett zu Zusammenhalt auf. In einem Interview gibt er sich auch selbstkritisch.",
-          "source": "Tagesschau"
         }
       ]
     },
@@ -75,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Champions League: „Eine klare Fehlentscheidung“",
+          "url": "https://www.sueddeutsche.de/sport/champions-league-bayern-psg-stimmen-kritik-schiedsrichter-li.3479673",
+          "summary": "Trainer Vincent Kompany lobt PSG, Manuel Neuer vermisst den Killerinstinkt, am Schiedsrichter entlädt sich Kritik: Die Stimmen zum Spiel.",
+          "source": "SZ"
+        },
+        {
+          "title": "Pressestimmen: „PSG ist die Bestia Negra“",
+          "url": "https://www.sueddeutsche.de/sport/bayern-paris-psg-pressestimmen-champions-league-li.3479677",
+          "summary": "Die französische Presse feiert den Ort München als gutes Omen, die spanischen Zeitungen huldigen Luis Enrique – und in England erwartet man einen schwierigen Gegner für den FC Arsenal. Die Pressestimmen.",
+          "source": "SZ"
+        },
+        {
           "title": "FC Bayern in der Einzelkritik: Die Hand Laimers",
           "url": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-psg-einzelkritik-kane-diaz-olise-musiala-li.3479500",
           "summary": "Ein Handspiel des Verteidigers, das keines war, wird zu einer entscheidenden Szene. Michael Olise ist zwischendurch nicht zu sehen – und Harry Kane erst zu spät. Die Bayern in der Einzelkritik.",
-          "source": "SZ"
-        },
-        {
-          "title": "Bayern-Aus in der Champions League: Abgeprallt am Pariser Abwehrblock",
-          "url": "https://www.sueddeutsche.de/sport/champions-league-bayern-psg-spielbericht-tore-schiedsrichter-fehlentscheidung-li.3479653",
-          "summary": "Ein Tor fehlt zur Verlängerung: Die Bayern finden beim 1:1 im Rückspiel gegen PSG nie zu ihrem Spiel und verpassen das Champions-League-Finale. Eine Fehlentscheidung des Schiedsrichters ärgert die Münchner maßlos.",
-          "source": "SZ"
-        },
-        {
-          "title": "Krieg in Nahost: Israel greift erstmals seit Waffenruhe in Beiruter Vorort an",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-israel-libanon-hisbollah-beirut-angriff-iran-news-li.3457961",
-          "summary": "Ziel sei ein Kommandeur der libanesischen Hisbollah-Miliz gewesen, heißt es von Israel. US-Präsident Trump behauptet, Iran habe den Verzicht auf Atomwaffen angeboten.",
           "source": "SZ"
         }
       ]
