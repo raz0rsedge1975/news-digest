@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T08:04:36.450Z",
-  "timestamp": "7.5.2026, 10:04:36",
+  "generated": "2026-05-07T08:09:16.850Z",
+  "timestamp": "7.5.2026, 10:09:16",
   "news": [
     {
       "source": "FAZ",
@@ -84,23 +84,23 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Finanzindustrie: So könnte der Versicherer-Wechsel einfacher werden, aber nur vielleicht",
+          "url": "https://www.sueddeutsche.de/wirtschaft/fida-versicherung-versicherungswechsel-li.3465471",
+          "summary": "Mit wenigen Klicks eine günstigere Autopolice abschließen? Eine neue EU-Verordnung könnte das möglich machen. Doch Verbraucherschützer und Finanzkonzerne leisten Widerstand gegen das Vorhaben.",
+          "source": "SZ",
+          "paywall": true
+        },
+        {
           "title": "PSG nach dem Finaleinzug: In Paris erwächst ein süßes Gefühl der Unschlagbarkeit",
           "url": "https://www.sueddeutsche.de/sport/paris-muenchen-psg-champions-league-li.3479741",
           "summary": "Paris Saint-Germain gilt als wilder, stürmischer Haufen. Gegen den FC Bayern aber zeigt das Team seine disziplinierte Seite. Nach all dem Glamour hat Trainer Luis Enrique der Mannschaft auch das Kämpfen beigebracht.",
           "source": "SZ",
-          "paywall": false
+          "paywall": true
         },
         {
           "title": "FC Bayern in der Champions League: Eine Handbreit unterlegen",
           "url": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-paris-schiedsrichter-handspiel-debatte-li.3479680",
           "summary": "Nach dem Halbfinal-Aus gegen PSG empört sich der FC Bayern über einen Fehler des Schiedsrichters – und muss doch anerkennen: Fußballerisch fehlen ein paar Facetten zur absoluten Spitze.",
-          "source": "SZ",
-          "paywall": false
-        },
-        {
-          "title": "Rüstungsindustrie und Geopolitik: Wie Europas Verteidigung unabhängig von den USA werden soll",
-          "url": "https://www.sueddeutsche.de/wirtschaft/europa-verteidigung-unabhaengigkeit-usa-kooperation-li.3479450",
-          "summary": "Krieg in der Ukraine und ein US-Präsident, der die Nato behandelt wie eine Karte beim Pokern? Zwei bekannte Manager, ein Ökonom, ein Politikberater und eine Investorin haben aufgeschrieben, was nun passieren sollte.",
           "source": "SZ",
           "paywall": true
         }
