@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-07T18:00:10.429Z",
-  "timestamp": "7.5.2026, 20:00:10",
+  "generated": "2026-05-07T18:35:35.155Z",
+  "timestamp": "7.5.2026, 20:35:35",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "WHO: Hantavirus-Ausbruch nicht der Beginn einer Pandemie",
+          "url": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-who-100.html",
+          "summary": "Der Ausbruch des Hantavirus auf einem Kreuzfahrtschiff löst in vielen Ländern Sorgen aus. Experten weisen allerdings darauf hin, dass das Virus weit weniger ansteckend ist als etwa Grippe. \"Das ist kein Covid\", hieß es von der WHO.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a3364421-5c9f-4cfe-b5d6-019ae71aeab3/AAABngOVOoI/AAABnSSvrFg/16x9-big/who-corona-131.jpg?width=1280"
+        },
+        {
           "title": "Marktbericht: Verlieren die Anleger die Geduld?",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-140.html",
           "summary": "Trotz guter US-Vorgaben und neuer Friedenshoffnungen bleiben die Anleger zurückhaltend. Der DAX hält sich zwar auf hohem Niveau, zu mehr reicht es derzeit aber nicht.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/bc98457c-5d2e-432c-b20d-6ef99be69aee/AAABmsEAEog/AAABnSSvrFg/16x9-big/merz-weidel-100.jpg?width=1280"
-        },
-        {
-          "title": "ARD-DeutschlandTrend: AfD überholt Union in Sonntagsfrage",
-          "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-mai-100.html",
-          "summary": "Erstmals erhält die AfD im DeutschlandTrend mehr Zuspruch als alle anderen Parteien. Die Bewertung der aktuellen Regierung fällt ernüchternd aus - und die Zufriedenheit mit Kanzler Merz erreicht ein Rekordtief. Von C. Basl.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cc3708c1-f48c-43a9-ad65-499b2ce07d74/AAABmamZfiU/AAABnSSvrFg/16x9-big/deutschlandtrend-3337.jpg?width=1280"
         }
       ]
     },
