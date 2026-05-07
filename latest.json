@@ -1,26 +1,26 @@
 {
-  "generated": "2026-05-07T02:00:05.829Z",
-  "timestamp": "7.5.2026, 04:00:05",
+  "generated": "2026-05-07T06:00:05.790Z",
+  "timestamp": "7.5.2026, 08:00:05",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Satelliten und Drohnen fehlen: Europa braucht einen Kurs in moderner Selbstverteidigung",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/satelliten-und-drohnen-womit-europa-sich-selbst-verteidigen-koennte-accg-200805970.html",
+          "summary": "Namhafte Ökonomen und Investoren legen in einem schonungslosen Papier Lücken der europäischen Verteidigung bloß. Was kostet es, diese zu schließen? Das Resultat überrascht.",
+          "source": "FAZ"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Kreml verstärkt Sicherheitsmaßnahmen zum Schutz von Putin",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kreml-verstaerkt-sicherheitsmassnahmen-zum-schutz-von-putin-faz-110683325.html",
+          "summary": "Bericht eines europäischen Geheimdienstes +++ Polen ist bereit zur Aufnahme von mehr US-Soldaten +++ Ukrainische Bank hat Vermögenswerte aus Ungarn zurückerhalten +++ alle Neuigkeiten im Liveblog",
+          "source": "FAZ"
+        },
+        {
           "title": "Nur 1:1 gegen Paris: Ein Fehler ist für die Bayern an diesem Abend einer zu viel",
-          "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/bayern-scheidet-aus-champions-league-aus-200737027.html",
+          "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-scheitert-im-champions-league-halbfinale-an-psg-200737027.html",
           "summary": "Der FC Bayern verpasst das Finale der Champions League. Weil Ousmane Dembélé die Münchner früh schockt. Und weil sie danach nie zu ihrem Spiel finden. Harry Kanes Tor kommt zu spät.",
-          "source": "FAZ"
-        },
-        {
-          "title": "Liveblog Irankrieg: Trump: Iran hat Verzicht auf Atomwaffen zugesagt",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-trump-sagt-iran-hat-verzicht-auf-atomwaffen-zugesagt-faz-200583539.html",
-          "summary": "Eine Bestätigung Irans bleibt bislang aus +++ Macron telefoniert mit Irans Präsident +++ Iran: USA wollen Teheran zur Kapitulation zwingen +++ Beratungen zur Hormus-Mission am Donnerstag +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ"
-        },
-        {
-          "title": "Nahost: Israel greift erstmals seit Waffenruhe in Beiruter Vorort an",
-          "url": "https://www.faz.net/aktuell/politik/ausland/israel-greift-erstmals-seit-waffenruhe-in-beiruter-vorort-an-200806176.html",
-          "summary": "Trotz einer Waffenruhe beschießen sich Israel und die Hizbullah in Libanon weiter. Nun wird erstmals auch wieder ein Vorort der Hauptstadt Beirut getroffen.",
           "source": "FAZ"
         }
       ]
@@ -29,21 +29,21 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Hybrider Krieg: Moskau bildet in einem geheimen Uni-Programm Spione und Hacker aus",
+          "url": "https://www.spiegel.de/ausland/hybrider-krieg-moskau-bildet-in-einem-geheimen-uni-programm-spione-und-hacker-aus-a-2de79023-aa56-4ed6-b5de-d7c222402e63#ref=rss",
+          "summary": "Russland überzieht Deutschland und den Westen mit Cyberattacken und Lügenkampagnen. Geleakte Dokumente, die dem SPIEGEL vorliegen, zeigen nun, wie Moskau die Angreifer schult – in einem geheimen Universitätsprogramm.",
+          "source": "Spiegel"
+        },
+        {
+          "title": "News: Russland-Agenten in Deutschland, Johann Wadephul, USA, Peilsender am Buckel-Wal",
+          "url": "https://www.spiegel.de/politik/deutschland/news-russland-agenten-in-deutschland-johann-wadephul-usa-peilsender-am-buckel-wal-a-7b095b85-5fb3-42d2-b1e7-959d602d217a#ref=rss",
+          "summary": "In Deutschland agieren russische Agenten zunehmend hemmungslos. Im Verhältnis zu den USA zeigt sich Außenminister Wadephul unerschütterlich optimistisch. Und irgendwo in der Nordsee schwimmt ein Wal. Das ist die Lage am Donnerstagmorgen.",
+          "source": "Spiegel"
+        },
+        {
           "title": "Champions League: Bayern München spielt nur 1:1 gegen Paris Saint-Germain und verpasst den Finaleinzug",
           "url": "https://www.spiegel.de/sport/fussball/champions-league-bayern-muenchen-spielt-nur-1-1-gegen-paris-saint-germain-und-verpasst-den-finaleinzug-a-8667995f-79f0-4534-9e89-1765823eaa50#ref=rss",
           "summary": "Gegen dieses Paris sind auch die Bayern machtlos. Im Halbfinale der Champions League scheitern die Münchner an einer Spielweise, die man den Franzosen gar nicht zugetraut hätte – und an einem Mann mit einem schwierigen Namen.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "FC Bayern München: Einzelkritik – Joshua Kimmich fehlt Ruhe, Jamal Musiala Leichtigkeit",
-          "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-einzelkritik-joshua-kimmich-fehlt-ruhe-jamal-musiala-leichtigkeit-a-b77d1594-65cf-444f-8ce0-960a966dd3ac#ref=rss",
-          "summary": "Fehlende Offensivpower kostete den FC Bayern gegen PSG das Weiterkommen – auch, weil das Spiel für den rekonvaleszenten Jamal Musiala noch zu früh kam. Joshua Kimmich ging voran, aber neigte zum Übereifer. Die Einzelkritik.",
-          "source": "Spiegel"
-        },
-        {
-          "title": "»Iron Beam«: So kann Israels stärkster Laser den Vereinigten Arabischen Emiraten helfen",
-          "url": "https://www.spiegel.de/ausland/iron-beam-so-kann-israels-staerkster-laser-den-vereinigten-arabischen-emiraten-helfen-a-2a1253cf-dab1-46e1-9ad1-4503889f8256#ref=rss",
-          "summary": "Der »Iron Beam« soll am Golf vor iranischen Drohnen schützen. Die Technik hat einen enormen Vorteil: der Abschuss kostet pro Flugobjekt nur wenige Cents. Warum das System gleich vor seiner ersten Bewährungsprobe steht.",
           "source": "Spiegel"
         }
       ]
@@ -52,21 +52,21 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Israel greift erstmals seit Waffenruhe Vorort von Beirut an",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-angriff-beirut-vorort-100.html",
-          "summary": "Eigentlich gilt eine Waffenruhe zwischen Israel und der Hisbollah, trotzdem gibt es fast täglich Angriffe. Nun hat die israelische Luftwaffe einen Vorort von Beirut beschossen. Dabei soll ein Kommandeur der Terrororganisation getötet worden sein.",
+          "title": "EU will KI für Missbrauch-Deepfakes verbieten",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-ki-missbrauch-deepfakes-100.html",
+          "summary": "Die EU will KI-Anwendungen zum missbräuchlichen Erstellen von sexualisierten Deepfakes verbieten - und hat jetzt eine Einigung erzielt. Andere Regeln für KI-Anbieter sollen hingegen erst später gelten als bisher geplant.",
           "source": "Tagesschau"
         },
         {
-          "title": "Nach Hantavirus-Ausbruch: Kreuzfahrtschiff unterwegs nach Teneriffa",
-          "url": "https://www.tagesschau.de/ausland/europa/hantavirus-kreuzfahrtschiff-europa-100.html",
-          "summary": "Nachdem es mehrere Hantavirus-Fälle und drei Tote gab, ist das Kreuzfahrtschiff \"Hondius\" unterwegs nach Teneriffa. Mehrere Verdachtsfälle sind in die Niederlande gebracht worden. Fünf Fälle wurden durch Labortests bestätigt.",
+          "title": "Sachsen-Anhalt-Trend vor Landtagswahl: AfD baut Vorsprung zur CDU weiter aus",
+          "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-trend-106.html",
+          "summary": "Vier Monate vor der Landtagswahl bleibt die AfD in Sachsen-Anhalt stärkste Kraft: Im Sachsen-AnhaltTrend kommt sie auf 41 Prozent. Der Abstand zur CDU von Ministerpräsident Schulze wird größer: Die Partei käme derzeit auf 26 Prozent.",
           "source": "Tagesschau"
         },
         {
-          "title": "Iran-Liveblog: ++ USA schießen auf iranischen Tanker ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-118.html",
-          "summary": "Laut US-Militär hat ein Tanker versucht, einen iranischen Hafen im Golf von Oman anzulaufen. Er sei manövrierunfähig geschossen worden. Israel hat erstmals seit der Waffenruhe Vororte von Beirut angegriffen.",
+          "title": "Evakuierung: Hantavirus-Kontaktperson in Düsseldorf angekommen",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/hantavirus-kontaktperson-duesseldorf-100.html",
+          "summary": "Drei Patienten wurden nach einem Hantavirus-Ausbruch von dem Kreuzfahrtschiff \"Hondius\" evakuiert. Nun ist eine deutsche Passagierin mit einem Spezialtransport in die Uniklinik nach Düsseldorf gebracht worden.",
           "source": "Tagesschau"
         }
       ]
@@ -75,21 +75,21 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Champions League: „Eine klare Fehlentscheidung“",
-          "url": "https://www.sueddeutsche.de/sport/champions-league-bayern-psg-stimmen-kritik-schiedsrichter-li.3479673",
-          "summary": "Trainer Vincent Kompany lobt PSG, Manuel Neuer vermisst den Killerinstinkt, am Schiedsrichter entlädt sich Kritik: Die Stimmen zum Spiel.",
+          "title": "Rüstungsindustrie und Geopolitik: Wie Europas Verteidigung unabhängig von den USA werden soll",
+          "url": "https://www.sueddeutsche.de/wirtschaft/europas-verteidigung-unabhaengigkeit-usa-kooperation-li.3479450",
+          "summary": "Krieg in der Ukraine und ein US-Präsident, der die Nato behandelt wie eine Karte beim Pokern? Zwei bekannte Manager, ein Ökonom, ein Politikberater und eine Investorin haben aufgeschrieben, was nun passieren sollte.",
           "source": "SZ"
         },
         {
-          "title": "Pressestimmen: „PSG ist die Bestia Negra“",
-          "url": "https://www.sueddeutsche.de/sport/bayern-paris-psg-pressestimmen-champions-league-li.3479677",
-          "summary": "Die französische Presse feiert den Ort München als gutes Omen, die spanischen Zeitungen huldigen Luis Enrique – und in England erwartet man einen schwierigen Gegner für den FC Arsenal. Die Pressestimmen.",
+          "title": "Krieg in der Ukraine: Selenskij: Russland ignoriert Waffenruhe",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-waffenruhe-li.3473071",
+          "summary": "Nach Angaben des ukrainischen Präsidenten hält sich Russland nicht an eine von der Ukraine ausgerufenen Waffenruhe. An einer von Russland verkündeten Waffenruhe am 9. Mai hingegen habe die Ukraine kein Interesse, sagt Selenskij.",
           "source": "SZ"
         },
         {
-          "title": "FC Bayern in der Einzelkritik: Die Hand Laimers",
-          "url": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-psg-einzelkritik-kane-diaz-olise-musiala-li.3479500",
-          "summary": "Ein Handspiel des Verteidigers, das keines war, wird zu einer entscheidenden Szene. Michael Olise ist zwischendurch nicht zu sehen – und Harry Kane erst zu spät. Die Bayern in der Einzelkritik.",
+          "title": "Zum Tod von Ted Turner: Der Maverick",
+          "url": "https://www.sueddeutsche.de/medien/ted-turner-tod-cnn-fernsehen-usa-li.3479650",
+          "summary": "CNN-Gründer Ted Turner machte aus Nachrichten Unterhaltung. Sein Sender übertrug den Prozess gegen O. Simpson live, ebenso die Operation „Desert Storm“ im Irak. Verbiegen ließ sich der Medienunternehmer dabei nie. Nun ist er mit 87 Jahren gestorben.",
           "source": "SZ"
         }
       ]
