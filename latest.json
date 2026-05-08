@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-08T02:00:08.841Z",
-  "timestamp": "8.5.2026, 04:00:08",
+  "generated": "2026-05-08T06:00:08.223Z",
+  "timestamp": "8.5.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Ärger mit E-Scootern: „Hat denen jemand ins Gehirn geschissen?“",
+          "url": "https://www.faz.net/aktuell/politik/inland/reportage-sind-e-scooter-ein-gewinn-oder-nur-ein-aergernis-accg-200764804.html",
+          "summary": "E-Scooter nerven Fußgänger, führen zu vielen Unfällen und bringen der Umwelt nichts. Warum stehen sie trotzdem noch überall herum?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/4be2a5d752bc/w4910h2565x0y511o/202604/43601.0.1941602273/er-sammelt-leih-e-scooter-in.webp"
+        },
+        {
+          "title": "Kampf gegen Übernahme: Commerzbank schraubt Gewinnziele hoch",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/commerzbank-stemmt-sich-mit-stellenabbau-gegen-uebernahme-durch-unicredit-accg-200809322.html",
+          "summary": "Das Kreditinstitut will bis 2030 fast sechs Milliarden Euro Gewinn abliefern. Dafür werden weitere 3000 Arbeitsplätze gestrichen. Das soll die Aktionäre abhalten, ihre Anteile an Unicredit zu verkaufen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/6539a09f79fb/w5500h2873x0y506o/202605/43601.0.2056384023/hoch-hinaus-die-commerzbank.webp"
+        },
+        {
           "title": "Liveblog Irankrieg: Nach Beschuss von US-Kriegsschiff: USA greifen iranische Ziele an",
           "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-nach-beschuss-von-us-kriegsschiff-usa-greifen-iranische-ziele-an-faz-200583539.html",
-          "summary": "Trump: Waffenruhe „in Kraft“ +++ Wadephul: Streit zwischen Merz und Trump ist „großes Missverständnis“ +++ Irans Präsident hat nach eigener Aussage Obersten Führer getroffen +++ alle Entwicklungen im Liveblog",
+          "summary": "Trump: Waffenruhe weiterhin „in Kraft“ +++ Wadephul: Streit zwischen Merz und Trump ist „großes Missverständnis“ +++ Irans Präsident hat nach eigener Aussage Obersten Führer getroffen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/8d18b5b2ad81/w3274h1710x0y225o/202605/43601.0.2056102908/schiffe-in-der-strasse-von.webp"
-        },
-        {
-          "title": "Spaltmaterial: Iran, Trump und der „Atomstaub“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/welche-art-uran-hat-iran-und-wofuer-wird-es-genutzt-200742231.html",
-          "summary": "Wieder stellt Trump einen raschen Atom-Deal mit Iran in Aussicht. Worum geht es bei der Anreicherung? Welches Spaltmaterial hat Iran?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4a8599a5f2b6/w6144h3210x0y443o/202603/43601.0.1934426713/dieses-von-maxar-technologies.webp"
-        },
-        {
-          "title": "Marinemission: 42.000 Tonnen Diplomatie",
-          "url": "https://www.faz.net/aktuell/politik/ausland/strasse-von-hormus-emmanuel-macron-entsendet-charles-de-gaulle-200808927.html",
-          "summary": "Macron schickt den Flugzeugträger Charles de Gaulle in Richtung Straße von Hormus. Wie reagiert die Bundesregierung auf die französische Tempoverschärfung?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/275a8d67bb8d/w3860h2016x748y1329o/202604/43601.0.2026636573/der-franzoesische.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
-          "url": "https://www.spiegel.de/geschichte/nsdap-archiv-finden-sie-heraus-was-ihre-familie-unter-hitler-getan-hat-a-4b37a614-a790-4798-92e2-be6a921da384#ref=rss",
-          "summary": "Der SPIEGEL hat Millionen Mitgliedskarten der NSDAP für Sie aufbereitet. Hier können Sie die Kartei durchsuchen – und sich ein persönliches Dossier erstellen.",
+          "title": "Donald Trump und der Krieg gegen Iran: Die Raketen fliegen, Trump schlingert",
+          "url": "https://www.spiegel.de/ausland/donald-trump-und-der-krieg-gegen-iran-die-raketen-fliegen-der-praesident-wabert-a-acdaa801-b10f-47f6-a3a8-ffde2b31b688#ref=rss",
+          "summary": "Zwischen den USA und Iran gilt eine brüchige Waffenruhe. Nun aber haben sich die Kriegsparteien in der Straße von Hormus beschossen. Donald Trump droht dem Regime in Teheran – doch er wirkt zunehmend ratlos.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx50_fpy50.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/d56541e4-2289-426f-a6cb-3c1df018d448_w1200_r1.778_fpx52.5_fpy50.jpg"
         },
         {
-          "title": "NSDAP-Mitgliederkartei: Die wichtigsten Fakten über die Nazi-Datenbank",
-          "url": "https://www.spiegel.de/geschichte/nsdap-mitgliederkartei-die-wichtigsten-fakten-ueber-die-nazi-datenbank-a-6c7882bb-68a6-448f-86e6-52fb78e6e7fe#ref=rss",
-          "summary": "Woher kommen die Daten? Was bedeuten die Treffer? Welche Fehler gibt es? Und was verrät das Eintrittsdatum über die Verstrickung ins Hitler-Regime? Hier finden Sie die Antworten auf die wichtigsten Fragen zur Nazi-Kartei.",
+          "title": "Kriegsende: Sollte der 8. Mai auch in Deutschland Feiertag sein? »Ja!« sagt die eine, »Nein!« der andere",
+          "url": "https://www.spiegel.de/geschichte/kriegsende-sollte-der-8-mai-auch-in-deutschland-feiertag-sein-ja-sagt-die-eine-nein-der-andere-a-dfdf04ff-2922-4fb9-93ec-3f94cf95b376#ref=rss",
+          "summary": "Vor 81 Jahren kapitulierte die Wehrmacht. Europa lag in Schutt und Asche. Andere Länder feiern den »Tag der Befreiung«. Die Historiker Hedwig Richter und Magnus Brechtken sagen, wie Deutschland den Tag begehen sollte. Ein Pro und Contra.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/26464f18-4061-4c01-9951-b19b68d3e7e0_w1200_r1.778_fpx39_fpy49.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/a395ccf3-d943-4c83-b1b5-541be0f2daf6_w1200_r1.778_fpx74_fpy55.jpg"
         },
         {
-          "title": "News des Tages: Interaktive NSDAP-Mitgliederkartei, marodes Bahnnetz, neue Kriegsschiffe",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-interaktive-nsdap-mitgliederkartei-marodes-bahnnetz-neue-kriegsschiffe-a-f2c134c1-dd40-4d12-97c1-1afc7cd1ccb2#ref=rss",
-          "summary": "Neue smarte SPIEGEL-Suchfunktion hilft Nachfahren beim Auffinden von Nazi-Akten. Milliardeninvestitionen ins deutsche Schienennetz wirken bislang nicht. Und Rheinmetall will das Fregatten-Projekt der Marine retten. Das ist die Lage am Donnerstagabend.",
+          "title": "News: Keir Starmer, Nigel Farage, Marco Rubio, Papst Leo XIV., Iran, Donald Trump, Hantavirus, MV Hondius",
+          "url": "https://www.spiegel.de/ausland/news-keir-starmer-nigel-farage-marco-rubio-papst-leo-xiv-iran-donald-trump-hantavirus-mv-hondius-a-c3b2924b-2873-4938-8ecc-7164ee958763#ref=rss",
+          "summary": "Labour zittert bei den Kommunalwahlen, was wird aus Keir Starmer? US-Außenminister Rubio reist nach Rom. Und: Angst vor dem Hantavirus. Das ist die Lage am Freitagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Handelsgericht erklärt Trumps weltweite Zölle für unzulässig",
-          "url": "https://www.tagesschau.de/ausland/amerika/us-gericht-trump-zoelle-100.html",
-          "summary": "Neuer Rückschlag für den Präsidenten: Ein US-Handelsgericht hat Trumps globalen Zehn-Prozent-Zoll für unrechtmäßig erklärt. Grundlage dafür war ein Gesetz aus dem Jahr 1974, das laut Gericht falsch ausgelegt wurde.",
+          "title": "Marktbericht: Nahost-Konflikt bremst Börsen aus",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html",
+          "summary": "Wie stabil ist die Waffenruhe im Nahen Osten noch? Die USA greifen Ziele im Iran an. Anleger sind verunsichert. Die Rekordrally an einigen Aktienmärkten dürfte vorerst beendet sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f33604a0-cb36-48a2-ac32-57ad380772b3/AAABngTitIs/AAABnSSvrFg/16x9-big/donald-trump-786.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fe99f018-c075-4100-b866-642ea2df054d/AAABmnbk3IY/AAABnSSvrFg/16x9-big/boerse-466.jpg?width=1280"
         },
         {
-          "title": "USA und Iran beschießen sich in Straße von Hormus",
-          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-102.html",
-          "summary": "Trotz Waffenruhe haben sich die USA und Iran in der Straße von Hormus gegenseitig attackiert. Die US-Seite strebt nach eigenen Angaben keine Eskalation an. Irans Militär sieht die Waffenruhe verletzt.",
+          "title": "Golfstaaten in der Krise: Tiefe Kratzer im Lack der Emirate",
+          "url": "https://www.tagesschau.de/ausland/asien/emirate-golfstaaten-krise-100.html",
+          "summary": "Weniger Öl-Exporte und kaum Touristen - das Image der Vereinigten Arabischen Emirate hat durch den Iran-Krieg gelitten. Hinzu kommen wachsende Spannungen mit den Nachbarn am Golf. Der Druck wächst, sich zu positionieren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cb927cec-5749-4c9f-b4ea-d24b9e674735/AAABnYmlBOc/AAABnSSvrFg/16x9-big/strasse-von-hormus-138.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8365e3a2-8eda-4f3c-aa7f-0260c391dccb/AAABngOEQUA/AAABnSSvrFg/16x9-big/skyline-dubai-102.jpg?width=1280"
         },
         {
-          "title": "Trump setzt der EU ein Ultimatum für den vereinbarten Zoll-Deal",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-usa-zoelle-eu-100.html",
-          "summary": "US-Präsident Trump hat die Europäische Union zur Umsetzung eines im vergangenen Jahr vereinbarten Handelsabkommens aufgefordert. Sollte dies nicht bis zum 4. Juli geschehen, droht er mit neuen Strafzöllen.",
+          "title": "Fachkräftemangel in Deutschland: Ohne ausländische Ärzte geht es nicht",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/aerztemangel-178.html",
+          "summary": "Obwohl es in Deutschland so viele Ärzte gibt wie nie zuvor, sind viele Kliniken auf zugewanderte Mediziner angewiesen - vor allem auf dem Land. Die Gründe sind vielfältig, und eine schnelle Besserung ist nicht in Sicht. Von M. Hoffmann.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ccfd6bb3-b53f-4644-a66f-6c9a7eb98e90/AAABnFJZf1o/AAABnSSvrFg/16x9-big/eu-flaggen-115.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/551fa2cb-69d3-4a64-8d51-7b1377f5235b/AAABnfyEJHo/AAABnSSvrFg/16x9-big/aerztin-ultraschall-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Chinas Meeresbeobachtungsbojen: Innovatives Design soll altes Problem lösen",
+          "url": "https://www.telepolis.de/article/Chinas-Meeresbeobachtungsbojen-Innovatives-Design-soll-altes-Problem-loesen-11285470.html",
+          "summary": "China setzt auf eine neuartige Meeresboje mit einseitiger Verankerung, um ein jahrzehntealtes Problem der Ozeanforschung zu lösen. Was genau dahintersteckt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/0/9/0/bojendesign-0c3bdea27c0b0301.jpg"
+        },
         {
           "title": "Türkei zeigt erste Interkontinentalrakete mit 6000 km Reichweite",
           "url": "https://www.telepolis.de/article/Tuerkei-zeigt-erste-Interkontinentalrakete-mit-6000-km-Reichweite-11286509.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/4/0/2/Master_Demokratie-abcb43cc20cf63a7.jpg"
-        },
-        {
-          "title": "Tango im Gehirn: Wie synchrones Tanzen Gehirnwellen koppelt",
-          "url": "https://www.telepolis.de/article/Tango-im-Gehirn-Wie-synchrones-Tanzen-Gehirnwellen-koppelt-11285430.html",
-          "summary": "Forscher haben erstmals nachgewiesen, dass sich die Gehirnaktivität von Tanzpaaren aneinander angleicht. Was das über menschliche Koordination aussagt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/0/7/0/shutterstock_2073645812-f2905450461089cf.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in der Ukraine: Vor Moskauer Parade: Selenskij warnt Vertreter anderer Staaten",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-parade-moskau-li.3473071",
+          "summary": "Es gebe Meldungen aus einigen dieser Staaten, dass deren Vertreter beabsichtigten, sich in der russischen Hauptstadt aufzuhalten, so Selenskij. „Wir raten davon ab“, schreibt er auf Telegram. Moskaus Waffenruhe beginnt mit ukrainischen Attacken auf Russland. Auch die Ukraine meldet Angriffe.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/07/a82d48f0-6355-4232-aab2-2fc9eeb06d92.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C736%2C3306%2C1860"
+        },
+        {
+          "title": "USA: US-Handelsgericht erklärt Trumps weltweite Zölle für unzulässig",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-trump-zoelle-us-handelsgericht-li.3478505",
+          "summary": "Die Richter geben damit einer Klage von Kleinunternehmen statt. Seit dem 24. Februar gelten die Zölle von zehn Prozent.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/07/c4086ae1-33dc-4ed6-9534-94462d156f8e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C223%2C3500%2C1969"
+        },
+        {
           "title": "Krieg in Nahost: USA und Iran beschießen sich in Straße von Hormus – Trump: Waffenruhe „intakt“",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-angriffe-haefen-keschm-bandar-abbas-li.3457961",
           "summary": "Das US-Militär greift unter anderem iranische Häfen an, zuvor sollen die Iraner amerikanische Kriegsschiffe attackiert haben. Teheran wirft Washington einen Bruch der Waffenruhe vor.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/07/dad83435-37f2-48c0-9f97-2c09ba16a382.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
-        },
-        {
-          "title": "SC Freiburg: Es isch historisch",
-          "url": "https://www.sueddeutsche.de/sport/freiburg-finale-braga-julian-schuster-kuebler-manzambi-li.3479848",
-          "summary": "Das hat es noch nicht gegeben in fast 122 Jahren Klubgeschichte: Der SC Freiburg schlägt Braga im Halbfinal-Rückspiel und steht im Finale der Europa League.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/07/968de443-5046-4164-9393-ccb739c1a126.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=109%2C505%2C3636%2C2045"
-        },
-        {
-          "title": "Krieg in der Ukraine: Vor Moskauer Parade: Selenskij warnt Vertreter anderer Staaten",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-parade-moskau-li.3473071",
-          "summary": "\"Wir haben auch Mitteilungen von einigen Russland nahestehenden Staaten erhalten, dass ihre Vertreter beabsichtigen, in Moskau zu sein“, sagt der ukrainische Präsident – und fügt an: „Wir empfehlen das nicht.“",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/07/a82d48f0-6355-4232-aab2-2fc9eeb06d92.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/07/dad83435-37f2-48c0-9f97-2c09ba16a382.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=207%2C621%2C3636%2C2045"
         }
       ]
     }
