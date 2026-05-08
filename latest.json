@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-08T10:00:09.290Z",
-  "timestamp": "8.5.2026, 12:00:09",
+  "generated": "2026-05-08T14:00:08.524Z",
+  "timestamp": "8.5.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Automobilzulieferer: Kahlschlag im Harz – bald keine Aufträge mehr von VW",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/automobilzulieferer-kahlschlag-im-harz-bald-keine-auftraege-mehr-von-vw-accg-200808275.html",
+          "summary": "Die Krise der Automobilindustrie schlägt in Sachsen-Anhalt hart auf die Zulieferer durch. Im Harzgerode stehen 1000 Arbeitsplätze auf dem Spiel. Vier Monate vor der Landtagswahl liegt die AfD in Umfragen bei 41 Prozent.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a4c6ec4b8b3e/w5455h2850x0y1132o/202605/15a4ccca-7d7c-4151-b8f4-a1ce09571834/ig-metall-kundgebung-die.webp"
+        },
         {
           "title": "Die VW-Story – Folge 2: Die Legende entsteht",
           "url": "https://www.faz.net/podcasts/vw-podcast-die-duesteren-urspruenge-von-volkswagen-faz-200805034.html",
@@ -14,15 +22,7 @@
           "image": "https://media0.faz.net/image/w1200h627/3361f7edcb8a/w3000h1567x0y389o/201509/431.0.32337444/431032337444.webp"
         },
         {
-          "title": "Podcast-Serie der F.A.Z.: Eine Legende kämpft ums Überleben",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-podcast-die-legende-volkswagen-kaempft-im-schicksalsjahr-2026-ums-ueberleben-faz-200799082.html",
-          "summary": "„Die VW-Story“: Baut Volkswagen bald Rüstung statt Autos? Der Konzern steckt tief in der Krise. 2026 wird zum Schicksalsjahr. Schafft das Unternehmen die Wende? Jetzt im FAZ-Podcast anhören!",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/71799ff9cfdb/w1364h712x127y374o/202605/43601.0.2046375129/4360102046375129.webp"
-        },
-        {
-          "title": "Die VW-Story: Folge 1 – Alles oder nichts",
+          "title": "Die VW-Story – Folge 1: Alles oder nichts",
           "url": "https://www.faz.net/podcasts/vw-baut-volkswagen-bald-ruestung-statt-autos-faz-podcast-200804997.html",
           "summary": "„Die VW-Story“ Folge 1: Baut Volkswagen bald Rüstung statt Autos? Der Konzern steckt tief in der Krise. 2026 wird zum Schicksalsjahr. Schafft der Konzern die Wende? Jetzt im FAZ-Podcast anhören!",
           "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Spritpreise: Der Tankrabatt droht zu floppen – was ist nun noch möglich?",
-          "url": "https://www.spiegel.de/wirtschaft/service/spritpreise-der-tankrabatt-droht-zu-floppen-was-ist-nun-noch-moeglich-a-00755d38-21f9-4c9a-81d4-f7b3858339c6#ref=rss",
-          "summary": "Seit einer Woche gilt der Tankrabatt, aber die Preise für Benzin und Diesel sind weiterhin hoch. Was die Bundesregierung tun kann, um an der Zapfsäule spürbar für Entlastung zu sorgen.",
+          "title": "Entlastungsprämie: Blamage im Bundesrat, die 1000 Euro stehen auf der Kippe",
+          "url": "https://www.spiegel.de/politik/deutschland/entlastungspraemie-blamage-im-bundesrat-die-1000-euro-stehen-auf-der-kippe-a-15ced265-3222-474f-a57b-a429f3d7bb2d#ref=rss",
+          "summary": "Debakel mit Ansage: Die Entlastungsprämie der Regierung ist im Bundesrat durchgefallen. Nun überziehen sich Union und SPD mit Vorwürfen. Gibt es noch eine Chance auf das Geld?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f657af9d-2fe5-4ce6-9c9f-1954abe4781b_w1200_r1.778_fpx53_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d640a7c7-7ad6-419d-8930-2b5ec0386e05_w1200_r1.778_fpx47_fpy23.jpg"
         },
         {
           "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "Kriegsende: Sollte der 8. Mai auch in Deutschland Feiertag sein? »Ja!« sagt die eine, »Nein!« der andere",
-          "url": "https://www.spiegel.de/geschichte/kriegsende-sollte-der-8-mai-auch-in-deutschland-feiertag-sein-ja-sagt-die-eine-nein-der-andere-a-dfdf04ff-2922-4fb9-93ec-3f94cf95b376#ref=rss",
-          "summary": "Vor 81 Jahren kapitulierte die Wehrmacht. Europa lag in Schutt und Asche. Andere Länder feiern den »Tag der Befreiung«. Die Historiker Hedwig Richter und Magnus Brechtken sagen, wie Deutschland den Tag begehen sollte. Ein Pro und Contra.",
+          "title": "CIA-Bericht: Iran kann US-Seeblockade noch monatelang standhalten",
+          "url": "https://www.spiegel.de/ausland/cia-bericht-iran-kann-us-seeblockade-noch-monatelang-standhalten-a-dc86d0c5-4064-471c-8e90-0839ab4536d6#ref=rss",
+          "summary": "Eine vertrauliche Geheimdienst-Einschätzung kommt laut »Washington Post« zu dem Ergebnis, dass Iran deutlich besser dasteht als von Donald Trump behauptet. Damit wird deutlich, dass die US-Strategie ein grundlegendes Problem hat.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a395ccf3-d943-4c83-b1b5-541be0f2daf6_w1200_r1.778_fpx74_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7943203c-1c63-46fc-bd59-5be2085f37de_w1200_r1.778_fpx58_fpy39.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bundestag beschließt Einsatz von Fußfesseln bei häuslicher Gewalt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fussfessel-100.html",
-          "summary": "Es geht um den Schutz vor allem von Frauen: Der Bundestag hat mit großer Mehrheit beschlossen, dass bei häuslicher Gewalt künftig elektronische Fußfesseln angeordnet werden können. Das sei nur ein erster Schritt, so Justizministerin Hubig.",
+          "title": "Reisen ins Ausland mit der Bahn werden beliebter",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-auslandsreisen-100.html",
+          "summary": "Reisen mit der Bahn ins Ausland sind beliebter geworden. Im Sommer will die Bahn das internationale Angebot ausbauen und verstärken, etwa auf der Strecke von Kopenhagen über Hamburg und Berlin nach Prag.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6c1263d6-6061-47fe-b26a-96015d94da45/AAABmNWp02g/AAABnSSvrFg/16x9-big/fussfessel-140.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/facdc8e6-5828-46d2-a09d-e88530f4ac74/AAABngZgB3k/AAABnSSvrFg/16x9-big/bahn-1136.jpg?width=1280"
         },
         {
-          "title": "tagesschau.de als bevorzugte Quelle bei Google verfügbar",
-          "url": "https://www.tagesschau.de/mehr/in-eigener-sache-bevorzugte-quellen-google-100.html",
-          "summary": "Google hat eine neue Funktion eingeführt, die es Nutzerinnen und Nutzern ermöglicht, bestimmte Nachrichtenanbieter in den Suchergebnissen zu priorisieren. So richten Sie tagesschau. de als \"Bevorzugte Quelle\" ein.",
+          "title": "Drei Bergsteiger sterben bei Vulkanausbruch in Indonesien",
+          "url": "https://www.tagesschau.de/ausland/asien/vulkanausbruch-indonesien-bergsteiger-100.html",
+          "summary": "Mindestens drei Menschen sind beim Ausbruch des indonesischen Vulkans Dukono ums Leben gekommen. Sie waren trotz eines Verbots auf dem Berg unterwegs. Der Dukono gehört zu den aktivsten Vulkanen des Landes.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/89045d82-5cd5-46ad-8f91-73911add30ee/AAABlpITK5s/AAABnSSvrFg/16x9-big/tagesschau-logo-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9960b7c3-04a9-43ed-8041-db76cd845b30/AAABngeldt4/AAABnSSvrFg/16x9-big/vulkanausbruch-112.jpg?width=1280"
         },
         {
-          "title": "Streit über Kosten: Bundesrat stoppt Entlastungsprämie",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-bundesrat-100.html",
-          "summary": "Die umstrittene Entlastungsprämie kommt vorerst nicht. Der Bundesrat hat der steuerfreien Zahlung von bis zu 1. 000 Euro nicht zugestimmt. Streitpunkt sind die hohen Kosten.",
+          "title": "Welche neuen Eskalationen im Zollstreit durch Trumps Ultimatum drohen",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-zoelle-eu-autos-100.html",
+          "summary": "Eigentlich hatten sich die EU und die USA vergangenen Sommer auf einen Kompromiss im Zollstreit geeinigt. Doch umgesetzt hat Brüssel den Deal bisher nicht. Nun setzt Trump eine neue Frist. Worum geht es - und was droht?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9de33a17-80e9-434a-90ab-8feeb86d455c/AAABnga_rAo/AAABnSSvrFg/16x9-big/bundesrat-408.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d622f68e-5a02-42d7-9a2f-061feb1794a6/AAABngeurfs/AAABnSSvrFg/16x9-big/hamburger-hafen-container-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "EU-Panzerflotte: Warum der \"Panzerzoo\"-Mythos in die Irre führt",
-          "url": "https://www.telepolis.de/article/EU-Panzerflotte-Warum-der-Panzerzoo-Mythos-in-die-Irre-fuehrt-11287065.html",
-          "summary": "Das Strategiepapier „Sparta 2. 0“ kritisiert 14 EU-Panzertypen als ineffizient. Doch die Zahl stimmt nicht – und das eigentliche Problem liegt woanders.",
+          "title": "Irans Antwort auf die US-Blockade rollt auf Schienen",
+          "url": "https://www.telepolis.de/article/Irans-Antwort-auf-die-US-Blockade-rollt-auf-Schienen-11287948.html",
+          "summary": "Die US-Blockade trifft Iran hart – doch Teheran hat eine überraschende Ausweichroute gefunden, die Peking eine neue Machtposition verschafft.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/9/0/1/shutterstock_2252840019-88fa7a33fe9762bc.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/9/3/8/1/shutterstock_2703155569-d17e51eac301aaa3.jpg"
         },
         {
-          "title": "Einmalige Psilocybin-Dosis verändert die Hirnstruktur – zum Positiven",
-          "url": "https://www.telepolis.de/article/Einmalige-Psilocybin-Dosis-veraendert-die-Hirnstruktur-zum-Positiven-11285500.html",
-          "summary": "Studie liefert Hinweise, dass Psilocybin anatomische Veränderungen im menschlichen Gehirn auslösen kann – mit messbaren Folgen für das psychische Wohlbefinden.",
+          "title": "Entlastungsprämie: Bundesrat stoppt steuerfreie 1000-Euro-Zahlung",
+          "url": "https://www.telepolis.de/article/Entlastungspraemie-Bundesrat-stoppt-steuerfreie-1000-Euro-Zahlung-11287372.html",
+          "summary": "Die Länderkammer stoppt die geplante steuerfreie Entlastungsprämie von bis zu 1000 Euro. Streitpunkt: Steuerausfälle von 2,8 Milliarden Euro.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/1/0/5/shutterstock_2242338637-8a50a351480455d7.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/9/0/5/7/shutterstock_2704567679-667b1ce5260b3508.jpg"
         },
         {
-          "title": "\"Nürnberg\" im Kino: Das Charisma von Hermann Göring",
-          "url": "https://www.telepolis.de/article/Nuernberg-im-Kino-Das-Charisma-von-Hermann-Goering-11286779.html",
-          "summary": "James Vanderbilts Drama über die Nürnberger Prozesse ist eine Reflexion über die Faszination des Bösen. Eine Filmkritik.",
+          "title": "Der Iran-Krieg markiert das Ende der US-Vorherrschaft, wie wir sie kennen",
+          "url": "https://www.telepolis.de/article/Der-Iran-Krieg-markiert-das-Ende-der-US-Vorherrschaft-wie-wir-sie-kennen-11287154.html",
+          "summary": "Eine Ära geht zu Ende. Für Staaten, die sich bewusst auf den Schutz der USA verlassen haben, sollte dies ein Weckruf sein, meint unser Gastautor.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/7/5/5/Master_Film_N-8f7ae2145a09f6b9.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/9/4/6/shutterstock_2650412591-c5df2f5d0072eb03.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundesrat: Länder stoppen Entlastungsprämie",
-          "url": "https://www.sueddeutsche.de/politik/1000-euro-entlastungspraemie-bundesrat-stopp-kritik-merz-li.3480412",
-          "summary": "Die 1000-Euro-Prämie  Unternehmen an ihre Arbeitgeber zahlen können sollten, scheitert im Bundesrat. Es ist der nächste Rückschlag für die Bundesregierung – insbesondere für Bundeskanzler Friedrich Merz.",
+          "title": "Kreuzfahrtschiff: Was zum Hantavirus auf der „Hondius“ bekannt ist – und was nicht",
+          "url": "https://www.sueddeutsche.de/panorama/hantavirus-infektion-passagiere-hondius-li.3480029",
+          "summary": "Mehrere Kontaktpersonen von infizierten Passagieren an Bord des Schiffes wurden inzwischen negativ getestet. Eine bislang noch gesuchte Person wurde als Verdachtsfall identifiziert. Die Lage im Überblick.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/08/12db6fea-4d8a-41aa-80c5-7b35649b32a3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=693%2C541%2C2732%2C1537"
+          "image": "https://www.sueddeutsche.de/2026/05/07/7a7988f8-71bb-458f-a7a5-0a23e62902e3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Krieg in der Ukraine: Moskaus Waffenruhe hält nicht – Ukraine und Russland melden Angriffe",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-waffenruhe-angriffe-li.3473071",
-          "summary": "Die von Russland einseitig ausgerufene Feuerpause begann um 0 Uhr (23 Uhr MESZ) und sollte – so die Ankündigung – drei Tage halten. Dennoch kommen bereits am Morgen aus beiden Ländern Berichte über gegenseitige Attacken.",
+          "title": "SC Freiburg: „Wir im Euro-League-Finale, der kleine SC Freiburg!“",
+          "url": "https://www.sueddeutsche.de/sport/europa-league-freiburg-finale-braga-li.3480440",
+          "summary": "Erstmals in seiner Geschichte steht der SC Freiburg in einem europäischen Endspiel – und ist als Klub in einem anderen Zeitalter angekommen. Über einen Abend zwischen Feiern und Staunen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/08/e7b4df47-4a44-42c6-a0a9-6584835dd69a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/08/43510667-bd1b-43b3-82eb-af1edaeaf256.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C68%2C4000%2C2250"
         },
         {
-          "title": "Hohe Spritpreise: „Kurz nach 12 Uhr sollte man wirklich nur im Notfall tanken“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/bundeskartellamt-spritpreise-benzinpreise-deutschland-kontrolle-li.3478365",
-          "summary": "Andreas Mundt, der Chef des Bundeskartellamts, das schon mal als „Ansammlung zahmer Stallhasen“ beschimpft wird, soll dafür sorgen, dass die Spritpreise sinken. Aber wie will er das schaffen?",
+          "title": "Europa League: Der SC Freiburg als Repräsentant des deutschen Fußballs in Europa? Ja, bitte!",
+          "url": "https://www.sueddeutsche.de/sport/sc-freiburg-europa-league-finale-kommentar-li.3480413",
+          "summary": "In Freiburg ist die Welt noch ein wenig mehr in Ordnung als anderswo. Der örtliche Fußballverein, der erstmals ein Europapokalfinale erreicht hat, passt hervorragend in dieses Bild.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/05/aaba847a-954d-4af9-8e47-6e1d882d7d14.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C35%2C3898%2C2193"
+          "image": "https://www.sueddeutsche.de/2026/05/08/b6f69e51-bb52-4f71-b0c8-a228c6c185f7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C98%2C4000%2C2250"
         }
       ]
     }
