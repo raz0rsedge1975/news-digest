@@ -1,17 +1,25 @@
 {
-  "generated": "2026-05-08T18:00:09.471Z",
-  "timestamp": "8.5.2026, 20:00:09",
+  "generated": "2026-05-08T22:00:12.812Z",
+  "timestamp": "9.5.2026, 00:00:12",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Bundesrat stoppt Koalition: Die Entlastungsprämie war ein teurer Fehler",
-          "url": "https://www.faz.net/aktuell/wirtschaft/die-entlastungspraemie-war-ein-teurer-fehler-200812968.html",
-          "summary": "Die Entlastungsprämie war ein teurer Fehler",
+          "title": "Zukunft der Kirche: Wie ein Pfarrer die Kirche in Ostdeutschland wiederbeleben will",
+          "url": "https://www.faz.net/aktuell/politik/inland/pfarrer-justus-geilhufe-kirche-im-osten-neu-beleben-200798991.html",
+          "summary": "Pfarrer Justus Geilhufe will sich nicht damit abfinden, dass die Kirche in Ostdeutschland stirbt. Mit Social Media und Glaubenskursen kämpft er für ihr Überleben – und gegen die AfD.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4090331412fe/w4032h2106x0y372o/202605/43601.0.2060174133/durchgefallen-der-bundesrat.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4c76f8a938fa/w5200h2717x0y497o/202604/43601.0.1991086306/mit-klarer-mission-justus.webp"
+        },
+        {
+          "title": "Geplante Reform: So prekär ist die Lage in der Pflege",
+          "url": "https://www.faz.net/aktuell/wirtschaft/geplante-reform-so-prekaer-ist-die-lage-in-der-pflege-200813269.html",
+          "summary": "Ein neues Gesetz muss 2027 mindestens 7,5 Milliarden Euro einsparen, darunter bei Heimzuschüssen und Pflegegraden. Die Beitragssätze in der Pflegeversicherung steigen noch schneller als die in den Krankenkassen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cf615ec81e1c/w5490h2868x0y357o/202603/43601.0.1833438111/teure-unterkunft-ein-bewohner.webp"
         },
         {
           "title": "Deutschland-Liveblog: Bas: „Es ging mir um Fachkräfte“",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/5756da0888ed/w6000h3135x0y237o/202605/43601.0.2056045265/baerbel-bas-spricht-am-7-5-26.webp"
-        },
-        {
-          "title": "Iran verlangt Gebühren: Eine Behörde für die Straße von Hormus",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-hat-eine-agentur-fuer-strasse-von-hormus-geschaffen-200812036.html",
-          "summary": "Teheran verschickt Antragsformulare an Schiffe, die die Meerenge durchfahren wollen. Der Waffenstillstand zwischen den USA und Iran ist fragil.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/821a69cdad24/w3000h1567x0y233o/202605/43601.0.2059880861/ein-foto-der-amerikanischen.webp"
         }
       ]
     },
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "News des Tages: Stopp der Entlastungsprämie, Gedenken zum Kriegsende, Fall Collien Fernandes",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-stopp-der-entlastungspraemie-gedenken-zum-kriegsende-fall-collien-fernandes-a-f469a437-ac81-453d-9e4b-fc2c54d1ee08#ref=rss",
-          "summary": "Am »Tag der Befreiung« erinnert Deutschland an das Ende des Zweiten Weltkriegs. Der Bundesrat lehnt überraschend die Entlastungsprämie ab. Und Christian Ulmen scheitert vor Gericht. Das ist die Lage am Freitagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
           "title": "Entlastungsprämie: Blamage im Bundesrat, die 1000 Euro stehen auf der Kippe",
           "url": "https://www.spiegel.de/politik/deutschland/entlastungspraemie-blamage-im-bundesrat-die-1000-euro-stehen-auf-der-kippe-a-15ced265-3222-474f-a57b-a429f3d7bb2d#ref=rss",
           "summary": "Debakel mit Ansage: Die Entlastungsprämie der Regierung ist im Bundesrat durchgefallen. Nun überziehen sich Union und SPD mit Vorwürfen. Gibt es noch eine Chance auf das Geld?",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/d640a7c7-7ad6-419d-8930-2b5ec0386e05_w1200_r1.778_fpx47_fpy23.jpg"
+        },
+        {
+          "title": "Walerij Gerassimow und Russland: Der erfolglose Armeechef, an dem Wladimir Putin so hängt",
+          "url": "https://www.spiegel.de/ausland/walerij-gerassimow-und-russland-der-erfolglose-armeechef-an-dem-wladimir-putin-so-haengt-a-3ece24c0-4bb4-4b27-a970-f3ed26b14e32#ref=rss",
+          "summary": "Generalstabschef Walerij Gerassimow lügt schamlos über die Erfolge der russischen Armee in der Ukraine. Er ist bei der Truppe unbeliebt und sitzt trotzdem felsenfest im Sattel. Warum eigentlich?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ddf9b553-79c5-444c-a0e2-1c077df73cc7_w1200_r1.778_fpx70.4_fpy46.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Bei der Pflegeversicherung fehlt mehr Geld als erwartet",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/pflege-milliardenluecke-100.html",
+          "summary": "Mitte Mai will Gesundheitsministerin Warken eine Reform der Pflegeversicherung auf den Weg bringen. Im Vorfeld korrigiert sie das Ausmaß des erwarteten Defizits nach oben. Damit steigt der Reformdruck.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/217dab92-09fe-468f-941b-a52217c3aa64/AAABnYxlEVc/AAABnSSvrFg/16x9-big/warken-148.jpg?width=1280"
+        },
+        {
+          "title": "Rubio in Italien und dem Vatikan: Auf diplomatischer Mission",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-reise-rubio-100.html",
+          "summary": "Sowohl den Papst als auch Regierungschefin Meloni hatte US-Präsident Trump zuletzt scharf angegriffen. Sein Außenminister Rubio bemühte sich nun bei seiner Rom-Reise, die Wogen zu glätten. Mit Erfolg? Von Lisa Weiß.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d5ca48c0-3d44-4c0e-9b82-3af4d2043e64/AAABngjB-yM/AAABnSSvrFg/16x9-big/rubio-meloni-104.jpg?width=1280"
+        },
+        {
           "title": "EU-Handelskommissar Sefcovic erwartet baldige US-Zoll-Einigung",
           "url": "https://www.tagesschau.de/ausland/europa/zolldeal-handelskommissar-eu-usa-100.html",
           "summary": "Nach dem neuen Zoll-Ultimatum aus den USA reagiert die EU gelassen. EU-Handelskommissar Sefcovic sieht keinen zusätzlichen Druck, er erwarte eine rasche Einigung innerhalb der EU, sagte er in einem ARD-Interview.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/73d58163-5331-4dda-a139-064931b210c9/AAABnghbg-U/AAABnSSvrFg/16x9-big/sefcovic-134.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Alle Blicke auf den Persischen Golf",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html",
-          "summary": "Die Waffenruhe zwischen den USA und Iran ist wacklig und US-Präsident Trump stellt der EU ein Zoll-Ultimatum. Auch eine steigende Wall Street hilft dem DAX da nicht. Die Anleger bleiben vorsichtig.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/3826c0c0-910e-43a8-98a1-5a6165e2226a/AAABlvF5JNQ/AAABnSSvrFg/16x9-big/boerse-434.jpg?width=1280"
-        },
-        {
-          "title": "Soziale Plattformen untätig bei KI-Fälschungen zum Holocaust",
-          "url": "https://www.tagesschau.de/faktenfinder/ki-fakes-holocaust-100.html",
-          "summary": "Bereits seit längerer Zeit werden die Sozialen Netzwerke mit Bildern und Videos geflutet, die den Holocaust zeigen sollen. Gedenkstätten und Historiker schlagen Alarm, doch die Fakes sind weiter stark verbreitet. Reveland und P.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/82c2b5a2-428a-468e-892f-97ae9ad7c21f/AAABnYkiURs/AAABnSSvrFg/16x9-big/auschwitz-birkenau-106.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespolitik: Klingbeil zu gescheiterter Entlastungsprämie: „Meine Hand bleibt da ausgestreckt“",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-1000-euro-entlastungspraemie-bundesrat-klingbeil-li.3477387",
-          "summary": "Der Bundesrat bremst das Regierungsvorhaben für eine steuerfreie Prämie aus. Der Vizekanzler wirbt dafür, einen erneuten Anlauf für schnelle Entlastungen zu nehmen – mit breiterer Beteiligung.",
+          "title": "USA: Virginia-Urteil stärkt Republikaner vor Kongresswahlen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-trump-virginia-urteil-demokraten-li.3478505",
+          "summary": "Der Oberste Gerichtshof des Bundesstaates hat eine neue Wahlkreiseinteilung gekippt, mit der die Demokraten vier republikanische Sitze im US-Repräsentantenhaus für sich sichern wollten. Das Urteil ist ein wichtiger Sieg für die Partei von Präsident Trump.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/08/a651cab7-c6d8-4c3f-9854-6e6f0a2da869.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C278%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/08/f5bfbeb2-d621-440b-92c5-2fa39005fa90.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Großbritannien: Keir Starmer: „Ich werde nicht abtreten“",
-          "url": "https://www.sueddeutsche.de/politik/kommunalwahlen-labour-reform-uk-keir-starmer-nigel-farage-li.3480527",
-          "summary": "Bei den britischen Kommunalwahlen stürzt Labour dramatisch ab, als Sieger steht Nigel Farage mit seinen Rechtspopulisten da. Wie lange kann Premier Starmer noch durchhalten?",
+          "title": "Krieg in der Ukraine: Trump kündigt dreitägige Waffenruhe zwischen Ukraine und Russland an",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-eu-verhandlungen-putin-selenskij-costa-li.3473071",
+          "summary": "Die Vereinbarung umfasse die ‌Einstellung aller Kampfhandlungen sowie einen Gefangenenaustausch, so der US-Präsident auf Truth Social. Sowohl die Ukraine als auch Russland bestätigen die Vereinbarung.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/08/e25c886b-f2ec-4ee0-aed5-a64ad6636b8d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/08/c101f71f-aa0f-491e-bc11-09783840cc61.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2758%2C1551"
         },
         {
-          "title": "Hantavirus: Auswärtiges Amt bestätigt Deutsche an Bord des Kreuzfahrtschiffes",
-          "url": "https://www.sueddeutsche.de/panorama/hantavirus-infektion-passagiere-hondius-li.3480029",
-          "summary": "Das Schiff soll am Sonntag Teneriffa erreichen. Eine bislang noch gesuchte Person wurde als Verdachtsfall auf einer Insel im Südatlantik identifiziert. Die wichtigsten Fragen und Antworten zum Ausbruch des Hantavirus.",
+          "title": "SZ-Festival Mindpop: Drei Live-Bühnen für kluge Gedanken",
+          "url": "https://www.sueddeutsche.de/muenchen/mindpop-festival-sz-bavaria-studios-journalismus-li.3478842",
+          "summary": "Am Freitag und Samstag verwandeln sich die Bavaria Studios in ein Festival, das SZ-Journalismus zur Live-Erfahrung macht. Mit Gesprächen über Psychologie und Rassismus und Gästen wie „Checker Tobi“ und Podcasterin Linn Schütze („Mord auf Ex“, „Die Jägerin“).",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/07/7a7988f8-71bb-458f-a7a5-0a23e62902e3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/08/89846250-5372-4d7a-81af-2df02f411839.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C538%2C2667%2C1500"
         }
       ]
     }
