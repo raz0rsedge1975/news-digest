@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T02:00:08.667Z",
-  "timestamp": "9.5.2026, 04:00:08",
+  "generated": "2026-05-09T06:00:08.606Z",
+  "timestamp": "9.5.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "AfD und Vetternwirtschaft: Zu krank zum Unterrichten, aber fit genug für die Fraktion",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-und-vetternwirtschaft-zu-krank-zum-unterrichten-aber-fit-genug-fuer-die-fraktion-a-e75805cd-765f-480c-bc46-2dfba6eeb2ef#ref=rss",
+          "summary": "Die AfD im Saarland fällt mit einer neuen Variante von Vetternwirtschaft auf: Der Sohn des Fraktionschefs war dort als Mitarbeiter beschäftigt, während er sich in seinem Hauptberuf als Lehrer krankschreiben ließ.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/bf96c99e-0001-0004-0000-000000982675_w1200_r1.778_fpx60_fpy47.jpg"
+        },
+        {
           "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
           "url": "https://www.spiegel.de/geschichte/nsdap-archiv-finden-sie-heraus-was-ihre-familie-unter-hitler-getan-hat-a-4b37a614-a790-4798-92e2-be6a921da384#ref=rss",
           "summary": "Der SPIEGEL hat Millionen Mitgliedskarten der NSDAP für Sie aufbereitet. Hier können Sie die Kartei durchsuchen – und sich ein persönliches Dossier erstellen.",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "Entlastungsprämie: Blamage im Bundesrat, die 1000 Euro stehen auf der Kippe",
-          "url": "https://www.spiegel.de/politik/deutschland/entlastungspraemie-blamage-im-bundesrat-die-1000-euro-stehen-auf-der-kippe-a-15ced265-3222-474f-a57b-a429f3d7bb2d#ref=rss",
-          "summary": "Debakel mit Ansage: Die Entlastungsprämie der Regierung ist im Bundesrat durchgefallen. Nun überziehen sich Union und SPD mit Vorwürfen. Gibt es noch eine Chance auf das Geld?",
+          "title": "News: Wladimir Putin, Wolodymyr Selenskyj, Péter Magyar, Viktor Orbán, Nigel Farage, Keir Starmer",
+          "url": "https://www.spiegel.de/ausland/news-wladimir-putin-wolodymyr-selenskyj-peter-magyar-viktor-orban-nigel-farage-keir-starmer-a-66ce29f8-8d67-4f6d-9745-7576797e63e7#ref=rss",
+          "summary": "In Moskau findet zum 9. Mai nur eine kleine Feier statt – aus Angst vor ukrainischen Drohnen. In Budapest tritt Premier Magyar sein Amt an. Und in London wehrt sich Starmer gegen Rücktrittforderungen. Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d640a7c7-7ad6-419d-8930-2b5ec0386e05_w1200_r1.778_fpx47_fpy23.jpg"
-        },
-        {
-          "title": "Walerij Gerassimow und Russland: Der erfolglose Armeechef, an dem Wladimir Putin so hängt",
-          "url": "https://www.spiegel.de/ausland/walerij-gerassimow-und-russland-der-erfolglose-armeechef-an-dem-wladimir-putin-so-haengt-a-3ece24c0-4bb4-4b27-a970-f3ed26b14e32#ref=rss",
-          "summary": "Generalstabschef Walerij Gerassimow lügt schamlos über die Erfolge der russischen Armee in der Ukraine. Er ist bei der Truppe unbeliebt und sitzt trotzdem felsenfest im Sattel. Warum eigentlich?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ddf9b553-79c5-444c-a0e2-1c077df73cc7_w1200_r1.778_fpx70.4_fpy46.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wissenschaftsbetrieb: Junge Forschende sind innovativer",
-          "url": "https://www.tagesschau.de/wissen/forschung/forschende-alter-innovativ-100.html",
-          "summary": "Das Alter beeinflusst offenbar, wie wahrscheinlich Forschende bahnbrechende Innovationen hervorbringen. Das zeigt eine Studie, die Daten von 12,5 Millionen Forschenden untersucht hat. Von A. Braun.",
+          "title": "Nach Kommunalwahl in Großbritannien: Das Ende von Labour?",
+          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-kommunalwahl-labour-100.html",
+          "summary": "Es ist von einer historischen Niederlage die Rede: Die britische Regierungspartei Labour hat bei den Kommunalwahlen in Großbritannien massive Verluste erlitten. Manche sehen gar das Ende der Partei gekommen. Von Franziska Hoppen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b0501479-ae57-4c3d-8d8b-01e9a95984eb/AAABngbzT7w/AAABnSSvrFg/16x9-big/forscher-labor-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/db74a352-f2de-48f2-a292-d852eccedeab/AAABngsKc1M/AAABnSSvrFg/16x9-big/wahlanstecker-labour-100.jpg?width=1280"
         },
         {
-          "title": "Bei der Pflegeversicherung fehlt mehr Geld als erwartet",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/pflege-milliardenluecke-100.html",
-          "summary": "Mitte Mai will Gesundheitsministerin Warken eine Reform der Pflegeversicherung auf den Weg bringen. Im Vorfeld korrigiert sie das Ausmaß des erwarteten Defizits nach oben. Damit steigt der Reformdruck.",
+          "title": "Abwehrkrieg gegen Russland: Die Ukraine schöpft Zuversicht",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-diskurs-staerke-100.html",
+          "summary": "Im fünften Kriegsjahr zeichnet sich ein neues Denken in der Ukraine ab. Zwar ist das Land erschöpft von Russlands Angriffen - doch erstmals seit Langem gibt es Hoffnung, in diesem Krieg bestehen zu können. Von G. Dornblüth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/217dab92-09fe-468f-941b-a52217c3aa64/AAABnYxlEVc/AAABnSSvrFg/16x9-big/warken-148.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3097d2e5-5565-442a-a5a0-11c75b7f9212/AAABngb-B6o/AAABnSSvrFg/16x9-big/menschen-bruecke-stadtansicht-100.jpg?width=1280"
         },
         {
-          "title": "Rubio in Italien und dem Vatikan: Auf diplomatischer Mission",
-          "url": "https://www.tagesschau.de/ausland/europa/italien-reise-rubio-100.html",
-          "summary": "Sowohl den Papst als auch Regierungschefin Meloni hatte US-Präsident Trump zuletzt scharf angegriffen. Sein Außenminister Rubio bemühte sich nun bei seiner Rom-Reise, die Wogen zu glätten. Mit Erfolg? Von Lisa Weiß.",
+          "title": "Flughafenverband rechnet mit Flugstreichungen wegen hoher Kerosinpreise",
+          "url": "https://www.tagesschau.de/wirtschaft/flughafenverband-streichungen-kerosin-100.html",
+          "summary": "Wegen des Iran-Kriegs sind die Preise für Kerosin stark gestiegen. Die deutschen Flughäfen rechnen daher mit Flugstreichungen im Sommer: Mehr als 20 Millionen Passagiere könnten im schlimmsten Fall betroffen sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d5ca48c0-3d44-4c0e-9b82-3af4d2043e64/AAABngjB-yM/AAABnSSvrFg/16x9-big/rubio-meloni-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4ea331bc-5198-46cf-bf52-15718a6984b4/AAABngq7jtE/AAABnSSvrFg/16x9-big/flugzeug-flughafen-104.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Münchner Eisbachwelle: Surfer halten sich nicht an die Regeln",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-eisbachwelle-surfen-regeln-sicherheit-li.3480859",
+          "summary": "Aus Sicherheitsgründen ist es verboten, allein und nach 22 Uhr aufs Wasser zu gehen. Gleich an dem Tag, an dem die Welle wieder geöffnet wird, kommt es zu Verstößen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/08/dc78d0af-7c43-42c3-9c3c-da121e5b1e99.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C414%2C3540%2C1991"
+        },
+        {
+          "title": "Krieg in Nahost: USA feuern auf iranische Öltanker – Trump erwartet heute Antwort auf Friedensvorschlag",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-donald-trump-frieden-verhandlungen-hormus-li.3457961",
+          "summary": "Die USA erhöhen mit Angriffen und neuen Sanktionen den Druck auf Iran. Trump erwartet im Laufe des Tages eine Antwort aus Teheran auf seinen Vorschlag zur Beendigung der Kampfhandlungen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/09/daa7212f-6eae-4e46-913c-d6a9cf732a25.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C44%2C3968%2C2232"
+        },
+        {
           "title": "USA: Virginia-Urteil stärkt Republikaner vor Kongresswahlen",
           "url": "https://www.sueddeutsche.de/politik/usa-news-trump-virginia-urteil-demokraten-li.3478505",
           "summary": "Der Oberste Gerichtshof des Bundesstaates hat eine neue Wahlkreiseinteilung gekippt, mit der die Demokraten vier republikanische Sitze im US-Repräsentantenhaus für sich sichern wollten. Das Urteil ist ein wichtiger Sieg für die Partei von Präsident Trump.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/08/f5bfbeb2-d621-440b-92c5-2fa39005fa90.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Krieg in der Ukraine: Trump kündigt dreitägige Waffenruhe zwischen Ukraine und Russland an",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-eu-verhandlungen-putin-selenskij-costa-li.3473071",
-          "summary": "Die Vereinbarung umfasse die ‌Einstellung aller Kampfhandlungen sowie einen Gefangenenaustausch, so der US-Präsident auf Truth Social. Sowohl die Ukraine als auch Russland bestätigen die Vereinbarung.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/08/c101f71f-aa0f-491e-bc11-09783840cc61.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2758%2C1551"
-        },
-        {
-          "title": "SZ-Festival Mindpop: Drei Live-Bühnen für kluge Gedanken",
-          "url": "https://www.sueddeutsche.de/muenchen/mindpop-festival-sz-bavaria-studios-journalismus-li.3478842",
-          "summary": "Am Freitag und Samstag verwandeln sich die Bavaria Studios in ein Festival, das SZ-Journalismus zur Live-Erfahrung macht. Mit Gesprächen über Psychologie und Rassismus und Gästen wie „Checker Tobi“ und Podcasterin Linn Schütze („Mord auf Ex“, „Die Jägerin“).",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/08/89846250-5372-4d7a-81af-2df02f411839.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C538%2C2667%2C1500"
         }
       ]
     }
