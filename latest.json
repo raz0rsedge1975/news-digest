@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T22:00:12.812Z",
-  "timestamp": "9.5.2026, 00:00:12",
+  "generated": "2026-05-09T02:00:08.667Z",
+  "timestamp": "9.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Wissenschaftsbetrieb: Junge Forschende sind innovativer",
+          "url": "https://www.tagesschau.de/wissen/forschung/forschende-alter-innovativ-100.html",
+          "summary": "Das Alter beeinflusst offenbar, wie wahrscheinlich Forschende bahnbrechende Innovationen hervorbringen. Das zeigt eine Studie, die Daten von 12,5 Millionen Forschenden untersucht hat. Von A. Braun.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b0501479-ae57-4c3d-8d8b-01e9a95984eb/AAABngbzT7w/AAABnSSvrFg/16x9-big/forscher-labor-100.jpg?width=1280"
+        },
+        {
           "title": "Bei der Pflegeversicherung fehlt mehr Geld als erwartet",
           "url": "https://www.tagesschau.de/inland/gesellschaft/pflege-milliardenluecke-100.html",
           "summary": "Mitte Mai will Gesundheitsministerin Warken eine Reform der Pflegeversicherung auf den Weg bringen. Im Vorfeld korrigiert sie das Ausmaß des erwarteten Defizits nach oben. Damit steigt der Reformdruck.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/d5ca48c0-3d44-4c0e-9b82-3af4d2043e64/AAABngjB-yM/AAABnSSvrFg/16x9-big/rubio-meloni-104.jpg?width=1280"
-        },
-        {
-          "title": "EU-Handelskommissar Sefcovic erwartet baldige US-Zoll-Einigung",
-          "url": "https://www.tagesschau.de/ausland/europa/zolldeal-handelskommissar-eu-usa-100.html",
-          "summary": "Nach dem neuen Zoll-Ultimatum aus den USA reagiert die EU gelassen. EU-Handelskommissar Sefcovic sieht keinen zusätzlichen Druck, er erwarte eine rasche Einigung innerhalb der EU, sagte er in einem ARD-Interview.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/73d58163-5331-4dda-a139-064931b210c9/AAABnghbg-U/AAABnSSvrFg/16x9-big/sefcovic-134.jpg?width=1280"
         }
       ]
     },
