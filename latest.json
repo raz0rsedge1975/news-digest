@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T22:00:10.066Z",
-  "timestamp": "10.5.2026, 00:00:10",
+  "generated": "2026-05-10T02:00:09.181Z",
+  "timestamp": "10.5.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/61a5ad83-9e85-4b59-a9c1-94f43b168cf1_w1200_r1.778_fpx34.37_fpy50.jpg"
         },
         {
+          "title": "Tschernobyl: Waldbrand tobt in Sperrzone um Atomkraftwerk in der Ukraine – Drohnen als Ursache",
+          "url": "https://www.spiegel.de/panorama/tschernobyl-waldbrand-tobt-in-sperrzone-um-atomkraftwerk-in-der-ukraine-drohnen-als-ursache-a-a5e4b746-494d-40e2-b32d-66f9aa31e3b2#ref=rss",
+          "summary": "Rund um das ehemalige ukrainische AKW Tschernobyl brennt der kontaminierte Wald auf vielen Quadratkilometern. Auslöser war offenbar ein Drohnenabsturz – die Helfer erheben Vorwürfe gegen Russland.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/c81addc7-4e21-48c8-a066-53209440a386_w1200_r1.778_fpx52.04_fpy50.jpg"
+        },
+        {
           "title": "Ungarn: Peter Magyar löst Viktor Orbán ab - das Land hofft nun auf den guten Populisten",
           "url": "https://www.spiegel.de/ausland/ungarn-peter-magyar-loest-viktor-orban-als-ministerpraesident-ab-das-land-hofft-nun-auf-den-guten-populisten-a-4769a28f-1514-44ae-b369-5787d62192d1#ref=rss",
           "summary": "Am ungarischen Parlament weht wieder eine EU-Flagge: Nach 16 Jahren wird das Land nicht mehr von Viktor Orbán regiert. Doch das Team um Peter Magyar ist unerfahren. Und für seine angekündigten Veränderungen bleibt ihm nicht viel Zeit.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/9529f2d2-c5ec-4c46-8343-4dd4b76d8207_w1200_r1.778_fpx54_fpy80.jpg"
-        },
-        {
-          "title": "Spannungen mit Donald Trump: Friedrich Merz sieht Stärke der Nato nicht allein von Truppenzahl abhängig",
-          "url": "https://www.spiegel.de/ausland/spannungen-mit-donald-trump-friedrich-merz-sieht-staerke-der-nato-nicht-allein-von-truppenzahl-abhaengig-a-332e9a5e-bc4d-411f-b85c-6dbe4791a981#ref=rss",
-          "summary": "Die Stimmung zwischen Donald Trump und Friedrich Merz ist angespannt. In Schweden beschwört der Kanzler die Einigkeit der Nato. Derweil entsendet London ein Schiff für einen möglichen Einsatz in der Straße von Hormus.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9dbb49a6-f286-4890-8d80-49d3c06c121d_w1200_r1.778_fpx49.99_fpy37.5.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Hantavirus-Ausbruch: Wie die Evakuierung der Hondius ablaufen soll",
+          "url": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-ankunft-teneriffa-100.html",
+          "summary": "Nach dem Hantavirus-Ausbruch soll die \"Hondius\" am Morgen im Südosten Teneriffas ankern. Die Passagiere und ein Teil der Crew werden dort von Bord gebracht - unter hohen Sicherheitsvorkehrungen. Von Julia Macher.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/98f1035f-61dd-4669-8590-bd2be8b1679f/AAABng8q3as/AAABnSSvrFg/16x9-big/teneriffa-guardia-civil-hondous-100.jpg?width=1280"
+        },
+        {
+          "title": "Ministerpräsident Magyar löst Aufbruchstimmung in Ungarn aus",
+          "url": "https://www.tagesschau.de/ausland/europa/magyar-vereidigt-reportage-100.html",
+          "summary": "Euphorie vor Ungarns Parlament: Zehntausende jubelten begeistert ihrem neuen Ministerpräsidenten Magyar zu. Viele von ihnen setzen große Hoffnung in Orbans proeuropäischen Nachfolger - doch auf ihn warten einige Baustellen. Von S. Beham.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/1646bbfd-cee4-4a28-b4e6-4d1b68c9b6ff/AAABng92yw0/AAABnSSvrFg/16x9-big/ungarn-parlament-vereidigung-102.jpg?width=1280"
+        },
+        {
           "title": "Neubauprojekt des Bundestags vor dem Aus?",
           "url": "https://www.tagesschau.de/inland/bundestag-bauprojekt-stopp-100.html",
           "summary": "Bundestagspräsidentin Klöckner und ihr Vize Nouripour wollen ein wichtiges Bauprojekt des Parlaments stoppen: Angesichts knapper Kassen dürften keine teuren Erweiterungen vorangetrieben. Mindestens 600 Millionen Euro sollen so eingespart werden.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/4c325f20-261d-47f3-ae64-7a66360ef0a7/AAABng4sPaI/AAABnSSvrFg/16x9-big/kloeckner-274.jpg?width=1280"
-        },
-        {
-          "title": "Russland und Ukraine melden Verstöße gegen Waffenruhe",
-          "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-212.html",
-          "summary": "Die Ukraine und Russland werfen sich trotz der vereinbarten dreitägigen Feuerpause neue Angriffe vor. Die Militärparade in Moskau zum Weltkriegsgedenken ging aber ohne Störungen über die Bühne.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/95463e51-63cc-4dc3-8809-6955285f1570/AAABng4d5Y0/AAABnSSvrFg/16x9-big/ukraine-2662.jpg?width=1280"
-        },
-        {
-          "title": "Gouverneur in Kalifornien: Folgt auf Newsom ein Republikaner?",
-          "url": "https://www.tagesschau.de/ausland/amerika/newsom-gouverneur-kalifornien-nachfolge-100.html",
-          "summary": "Gouverneur Newsom will wohl ins Weiße Haus - doch wer tritt seine Nachfolge in Kalifornien an? Das Rennen ist in vollem Gange. Ausgerechnet den Demokraten droht dort jetzt eine Enttäuschung. Von Reinhard Spiegelhauer.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4c256b6b-eb62-4393-8841-dc5cf276e08a/AAABngAMkuQ/AAABnSSvrFg/16x9-big/gavin-newsom-112.jpg?width=1280"
         }
       ]
     },
