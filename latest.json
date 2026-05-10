@@ -1,25 +1,17 @@
 {
-  "generated": "2026-05-10T02:00:09.181Z",
-  "timestamp": "10.5.2026, 04:00:09",
+  "generated": "2026-05-10T06:00:08.453Z",
+  "timestamp": "10.5.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "In 25 Jahren: Deutschland ist ein anderes Land geworden",
-          "url": "https://www.faz.net/aktuell/finanzen/migration-loehne-alter-so-hat-sich-deutschland-in-25-jahren-veraendert-accg-200810294.html",
-          "summary": "Mehr Vielfalt, höhere Temperaturen, eine ältere Gesellschaft und höhere Löhne. Deutschland hat sich im vergangenen Vierteljahrhundert fundamental verändert. Ein Rückblick in Zahlen und Grafiken.",
+          "title": "„Hondius“ auf Teneriffa: Landung mit maximalem Sicherheitsabstand",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/hantavirus-ausbruch-evakuierung-des-kreuzfahrtschiffs-beginnt-auf-teneriffa-accg-200816699.html",
+          "summary": "Die vom Hantavirus geplagte „Hondius“ erreicht Teneriffa. Nun sollen Passagiere und Besatzung so schnell wie möglich nach Hause zurückkehren – ohne jeglichen Kontakt zur lokalen Bevölkerung.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/34f3f322a533/w6000h3135x0y580o/202604/43601.0.1959991143/in-deutschen-staedten-wie-hier.webp"
-        },
-        {
-          "title": "Vor 25 Jahren: War früher alles besser?",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/war-vor-25-jahren-noch-alles-besser-accg-200812856.html",
-          "summary": "Michael Schumacher fuhr noch Formel 1, die Mietpreise in Berlin waren moderat und Putin Gast beim Staatsbankett: 2001 erschien erstmals die F.A.S. – kann man da nostalgisch werden?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c036a1099c17/w2048h1070x0y41o/202605/bfa86e9e-bde4-44b2-becb-fd6f9fe4075e/auf-platz-eins-michael.webp"
+          "image": "https://media0.faz.net/image/w1200h627/823f56749867/w5000h2612x0y621o/202605/43601.0.2065645177/die-hondius-ankert-nun-im.webp"
         },
         {
           "title": "Liveblog Ukrainekrieg: Putin schlägt Gerhard Schröder als Vermittler vor",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/28139209297e/w5524h2886x0y365o/202605/43601.0.2064694105/russlands-praesident-putin-am.webp"
+        },
+        {
+          "title": "Deutschland als „sweet Spot“: Für Putin eröffnen sich Gelegenheiten",
+          "url": "https://www.faz.net/aktuell/politik/ausland/gefahren-fuer-deutschland-usa-drohen-mit-abzug-russland-droht-mit-krieg-accg-200813419.html",
+          "summary": "Amerika droht mit Abzug, Russland mit Krieg: Donald Trump will Friedrich Merz bestrafen – deshalb wird ein Raketenbataillon zur Abschreckung Russlands wohl nie in Deutschland eintreffen. Nun kommt es auf die nächsten fünf Jahre an.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ca5b4b2c15c2/w4088h2135x0y383o/202605/43601.0.2063655469/der-russische-praesident.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine: Wladimir Putin wünscht sich Gerhard Schröder als Vermittler im Krieg",
-          "url": "https://www.spiegel.de/ausland/ukraine-wladimir-putin-wuenscht-sich-gerhard-schroeder-als-vermittler-im-krieg-a-d52673ab-6c41-4852-9436-af42d61d7e22#ref=rss",
-          "summary": "Nach der Militärparade in Moskau ist Wladimir Putin überraschend vor Journalisten aufgetreten. Dabei erwähnte er mögliche Gespräche über ein Ende des Kriegs gegen die Ukraine – und wen er sich anstelle der USA als Vermittler vorstellt.",
+          "title": "12.000 Meter über dem Atlantik erfährt Lars Klingbeil von der nächsten Schlappe",
+          "url": "https://www.spiegel.de/politik/deutschland/12-000-meter-ueber-dem-atlantik-erfaehrt-lars-klingbeil-von-der-naechsten-schlappe-a-290ed09c-060a-4ba1-8655-11a6807b3f77#ref=rss",
+          "summary": "Zur falschen Zeit am falschen Ort: Vizekanzler Lars Klingbeil war auf dem Weg nach Kanada, als er vom Nein des Bundesrates zur Entschädigungsprämie hörte. Jetzt muss er auf den Koalitionsausschuss hoffen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/61a5ad83-9e85-4b59-a9c1-94f43b168cf1_w1200_r1.778_fpx34.37_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/01c2e413-46d7-436e-8a53-61bd08e3481b_w1200_r1.778_fpx56.4_fpy53.jpg"
         },
         {
-          "title": "Tschernobyl: Waldbrand tobt in Sperrzone um Atomkraftwerk in der Ukraine – Drohnen als Ursache",
-          "url": "https://www.spiegel.de/panorama/tschernobyl-waldbrand-tobt-in-sperrzone-um-atomkraftwerk-in-der-ukraine-drohnen-als-ursache-a-a5e4b746-494d-40e2-b32d-66f9aa31e3b2#ref=rss",
-          "summary": "Rund um das ehemalige ukrainische AKW Tschernobyl brennt der kontaminierte Wald auf vielen Quadratkilometern. Auslöser war offenbar ein Drohnenabsturz – die Helfer erheben Vorwürfe gegen Russland.",
+          "title": "Mount Everest: Wie eine Tragödie den Alpinismus am höchsten Berg der Erde veränderte",
+          "url": "https://www.spiegel.de/sport/mount-everest-wie-eine-tragoedie-den-alpinismus-am-hoechsten-berg-der-erde-veraenderte-a-55f54af7-bab5-4563-8455-edf2bf90012d#ref=rss",
+          "summary": "Vor dreißig Jahren starben acht Bergsteiger in einem Höhensturm am Mount Everest. Das Unglück lieferte den Stoff für Bücher und Filme – und wurde zum Mahnmal für den ausufernden Bergtourismus im Himalaja.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c81addc7-4e21-48c8-a066-53209440a386_w1200_r1.778_fpx52.04_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9dc83878-1a51-46ad-9d7b-3cca7235a814_w1200_r1.778_fpx43.97_fpy50.jpg"
         },
         {
-          "title": "Ungarn: Peter Magyar löst Viktor Orbán ab - das Land hofft nun auf den guten Populisten",
-          "url": "https://www.spiegel.de/ausland/ungarn-peter-magyar-loest-viktor-orban-als-ministerpraesident-ab-das-land-hofft-nun-auf-den-guten-populisten-a-4769a28f-1514-44ae-b369-5787d62192d1#ref=rss",
-          "summary": "Am ungarischen Parlament weht wieder eine EU-Flagge: Nach 16 Jahren wird das Land nicht mehr von Viktor Orbán regiert. Doch das Team um Peter Magyar ist unerfahren. Und für seine angekündigten Veränderungen bleibt ihm nicht viel Zeit.",
+          "title": "Ukraine-Krieg: Zoodirektor kämpft in Mykolajiw um seine Tiere",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-zoodirektor-kaempft-in-mykolajiw-um-seine-tiere-a-0cb0f6ae-7828-4f4b-9683-6b2da4e840ac#ref=rss",
+          "summary": "Dem Tierpark von Mykolajiw fehlen Besucher, Mitarbeiter und Futterlieferanten. Dazu schlagen russische Raketen und Drohnen ein. Kann Zoodirektor Wolodymyr Toptschy seine Tiere retten?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9529f2d2-c5ec-4c46-8343-4dd4b76d8207_w1200_r1.778_fpx54_fpy80.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/789685a8-9ee5-4f0e-a784-222b9bc3cc38_w1200_r1.778_fpx49.98_fpy55.jpg"
         }
       ]
     },
@@ -64,12 +64,20 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Hantavirus-Ausbruch: Wie die Evakuierung der Hondius ablaufen soll",
-          "url": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-ankunft-teneriffa-100.html",
-          "summary": "Nach dem Hantavirus-Ausbruch soll die \"Hondius\" am Morgen im Südosten Teneriffas ankern. Die Passagiere und ein Teil der Crew werden dort von Bord gebracht - unter hohen Sicherheitsvorkehrungen. Von Julia Macher.",
+          "title": "Putin bringt Schröder als Vermittler ins Gespräch",
+          "url": "https://www.tagesschau.de/ausland/europa/russland-ukraine-putin-schroeder-100.html",
+          "summary": "Russlands Präsident Putin und Altkanzler Schröder gelten als Freunde. Nun hat der Kremlchef ihn als bevorzugten europäischen Vermittler benannt. Den Ukraine-Krieg sieht Putin \"dem Ende zugehen\", wie er selbst sagt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/98f1035f-61dd-4669-8590-bd2be8b1679f/AAABng8q3as/AAABnSSvrFg/16x9-big/teneriffa-guardia-civil-hondous-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9fc62527-a6a3-4cc7-a429-07a6d237d9d1/AAABng_pgZM/AAABnSSvrFg/16x9-big/putin-pressekonferenz-112.jpg?width=1280"
+        },
+        {
+          "title": "Hantavirus-Ausbruch: Wie die Evakuierung der Hondius ablaufen soll",
+          "url": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-ankunft-teneriffa-100.html",
+          "summary": "Das Kreuzfahrtschiff \"Hondius\", auf dem sich mehrere Passagiere mit dem Hantavirus infiziert hatten, ist vor der Küste Teneriffas angekommen. Nun sollen die Gäste und ein Teil der Crew von Bord gebracht werden - unter hohen Sicherheitsvorkehrungen. Von Julia Macher.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/79a2dbe6-e90d-4094-9a24-74b3d8d7e17e/AAABnhBclJM/AAABnSSvrFg/16x9-big/hondius-teneriffa-102.jpg?width=1280"
         },
         {
           "title": "Ministerpräsident Magyar löst Aufbruchstimmung in Ungarn aus",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/1646bbfd-cee4-4a28-b4e6-4d1b68c9b6ff/AAABng92yw0/AAABnSSvrFg/16x9-big/ungarn-parlament-vereidigung-102.jpg?width=1280"
-        },
-        {
-          "title": "Neubauprojekt des Bundestags vor dem Aus?",
-          "url": "https://www.tagesschau.de/inland/bundestag-bauprojekt-stopp-100.html",
-          "summary": "Bundestagspräsidentin Klöckner und ihr Vize Nouripour wollen ein wichtiges Bauprojekt des Parlaments stoppen: Angesichts knapper Kassen dürften keine teuren Erweiterungen vorangetrieben. Mindestens 600 Millionen Euro sollen so eingespart werden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4c325f20-261d-47f3-ae64-7a66360ef0a7/AAABng4sPaI/AAABnSSvrFg/16x9-big/kloeckner-274.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "„Hondius“: WHO: Sechs Hantavirus-Fälle bestätigt – Kreuzfahrtschiff vor Teneriffa eingetroffen",
+          "url": "https://www.sueddeutsche.de/panorama/hantavirus-hondius-who-kreuzfahrt-teneriffa-deutsche-rueckflug-li.3480916",
+          "summary": "Die Passagiere und ⁠ein Teil der Besatzung sollen unter hohen Sicherheitsvorkehrungen an Land gebracht werden. Rückführungsflüge für deutsche und andere europäische Passagiere sind geplant.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/09/e7b36f36-6850-41a8-9286-9b1dcafe2643.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C76%2C2160%2C1215"
+        },
+        {
           "title": "FC Bayern in Wolfsburg: Wolfsburg kämpft, Olise zirkelt",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-muenchen-vfl-wolfsburg-olise-news-li.3481090",
           "summary": "Monsterbayern oder B-Elf? Trainer Vincent Kompany wählt in Wolfsburg eine hybride Variante. Weil der VfL zahlreiche Möglichkeiten auslässt, reicht das den Münchnern zum Sieg – und dazu, dass sie sich nichts vorwerfen lassen müssen.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/09/a909920b-6e71-4a6b-884d-96a9dbe5f081.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C187%2C4000%2C2250"
-        },
-        {
-          "title": "Leipzig schlägt St. Pauli: Einmal Champions League, einmal Hoffen aufs Endspiel",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-aktuell-leipzig-st-pauli-li.3481037",
-          "summary": "Nach einem Jahr ohne Europapokalteilnahme sichert sich RB Leipzig mit einem 2:1 gegen St. Pauli den Zugang zur Champions League. Den Hamburgern fehlt mal wieder die Torgefahr – doch sie bekommen im Abstiegskampf noch eine allerletzte Chance.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/09/9821d6ba-e079-4bdf-a23a-6a5dc7cfecae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C95%2C4000%2C2250"
         }
       ]
     }
