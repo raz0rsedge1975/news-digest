@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-10T22:00:07.983Z",
-  "timestamp": "11.5.2026, 00:00:07",
+  "generated": "2026-05-11T02:00:08.755Z",
+  "timestamp": "11.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Hantavirus auf der »Hondius«: Einer ruft: »Wenn irgendjemand das Schiff sieht, sagt uns Bescheid!«",
-          "url": "https://www.spiegel.de/ausland/hantavirus-auf-der-hondius-einer-ruft-wenn-irgendjemand-das-schiff-sieht-sagt-uns-bescheid-a-c741520f-5596-49cd-8c47-e28909ac47f6#ref=rss",
-          "summary": "Das Kreuzfahrtschiff MV »Hondius« legt auf Teneriffa an. Einwohner fürchten sich, manche sagen kurz vor der Ankunft, sie wollten den Hafen blockieren. 43 Uhr gehen die ersten Passagiere von Bord.",
+          "title": "Iran-Krieg: Donald Trump weist iranische Antwort als »inakzeptabel« zurück",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-weist-iranische-antwort-als-inakzeptabel-zurueck-a-5ed91dfb-5a27-4de3-900c-b329a4529a46#ref=rss",
+          "summary": "Iran hat einen Vorschlag für Friedensgespräche zur Beendigung des Krieges gemacht. Doch der gefiel dem US-Präsidenten offenbar so gar nicht. Ein Senator warnt derweil: Den USA könnte die Munition ausgehen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f8a63933-d5ee-4294-8d68-6fda6ec0c444_w1200_r1.778_fpx33.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7309da61-a6d3-43f6-a001-9f408292635a_w1200_r1.778_fpx58_fpy38.jpg"
         },
         {
           "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
@@ -51,18 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "Iran-Krieg: Donald Trump weist iranische Antwort als »inakzeptabel« zurück",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-weist-iranische-antwort-als-inakzeptabel-zurueck-a-5ed91dfb-5a27-4de3-900c-b329a4529a46#ref=rss",
-          "summary": "Iran hat einen Vorschlag für Friedensgespräche zur Beendigung des Krieges gemacht. Doch der gefiel dem US-Präsidenten offenbar nicht, er reagierte mit deutlichen Worten.",
+          "title": "Hantavirus auf der »Hondius«: Einer ruft: »Wenn irgendjemand das Schiff sieht, sagt uns Bescheid!«",
+          "url": "https://www.spiegel.de/ausland/hantavirus-auf-der-hondius-einer-ruft-wenn-irgendjemand-das-schiff-sieht-sagt-uns-bescheid-a-c741520f-5596-49cd-8c47-e28909ac47f6#ref=rss",
+          "summary": "Das Kreuzfahrtschiff MV »Hondius« legt auf Teneriffa an. Einwohner fürchten sich, manche sagen kurz vor der Ankunft, sie wollten den Hafen blockieren. 43 Uhr gehen die ersten Passagiere von Bord.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7309da61-a6d3-43f6-a001-9f408292635a_w1200_r1.778_fpx58_fpy38.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f8a63933-d5ee-4294-8d68-6fda6ec0c444_w1200_r1.778_fpx33.34_fpy50.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Nach US-Vorschlag: Trump findet Irans Antwort \"völlig inakzeptabel\"",
+          "url": "https://www.tagesschau.de/ausland/trump-iran-vorschlag-inakzeptabel-100.html",
+          "summary": "Iran hat auf den US-Vorschlag zur Beendigung des Kriegs reagiert - aber die Antwort missfällt US-Präsident Trump. Er wies die Forderungen aus Teheran zurück und nannte sie \"völlig inakzeptabel\".",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/9427df84-bb53-45e5-b2b8-085434378bfd/AAABnhQfWUo/AAABnSSvrFg/16x9-big/trump-rote-krawatte-100.jpg?width=1280"
+        },
         {
           "title": "Söder verlangt von der Regierung Ergebnisse - Prämie hält er für tot",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-innenpolitik-bericht-aus-berlin-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/5a82e9ce-9055-4e30-9919-f639ddb99adf/AAABngfID7A/AAABnSSvrFg/16x9-big/mahmud-abbas-110.jpg?width=1280"
-        },
-        {
-          "title": "ARD-Dialogprojekt: Miteinander reden - statt übereinander",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/ard-aktion-was-deutschland-verbindet-100.html",
-          "summary": "Was passiert, wenn Menschen aus ganz Deutschland, die sich vorher nicht kannten, ein Wochenende lang reden - nicht übereinander, sondern miteinander? Das will das ARD-Dialogprojekt \"Was Deutschland verbindet\" herausfinden. Von M. Immel.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/8cc081ee-05c4-4cb7-8ce0-3c0e37d94ce4/AAABngJ-Db0/AAABnSSvrFg/16x9-big/was-deutschland-verbindet-102.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Manuela Schwesig bei „Caren Miosga“: „Frau Schwesig, was soll das?“",
+          "url": "https://www.sueddeutsche.de/medien/caren-miosga-manuela-schwesig-spd-afd-fernsehen-talkrunde-li.3480758",
+          "summary": "Die SPD war selten unbeliebter als jetzt. Also schickte die Partei zu Caren Miosga am Sonntagabend eine ihrer beliebtesten Ministerpräsidentinnen. Manuela Schwesig stimmte ein paar alte Hits an.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/11/a2b43958-580f-4770-9434-8bf522580347.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
+        },
+        {
           "title": "Krieg in Nahost: Trump nennt Irans Antwort auf US-Vorschlag „absolut inakzeptabel“",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-frieden-vorschlag-antwort-pakistan-li.3457961",
           "summary": "Teheran hat auf die Absichtserklärung der USA zur Beendigung des Krieges reagiert. Was das Regime fordert, ist nicht bekannt – doch der US-Präsident ist verärgert.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/10/91de95ce-a940-4685-8f35-0dc6316e4fb6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C113%2C4000%2C2250"
-        },
-        {
-          "title": "FDP-Parteivorsitz: „Wir sind völlig unterschiedliche Typen“",
-          "url": "https://www.sueddeutsche.de/politik/fdp-vorsitz-wolfgang-kubicki-henning-hoene-li.3479845",
-          "summary": "Wolfgang Kubicki traut Henning Höne nicht zu, die FDP zu führen. Daher tritt der 74-Jährige gegen den 39-Jährigen an. Nun trafen die beiden erstmals zum öffentlichen Duell aufeinander.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/10/157ea185-6daa-45ea-8658-ba5270f977a5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
         }
       ]
     }
