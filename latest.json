@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-11T22:00:09.462Z",
-  "timestamp": "12.5.2026, 00:00:09",
+  "generated": "2026-05-12T02:00:08.422Z",
+  "timestamp": "12.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Klingbeil will Spitzenverdienern in die Tasche greifen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-steuerreform-spd-cdu-100.html",
+          "summary": "Die Koalition plant eine Steuerreform, doch wie sie finanzieren? Der Bundesfinanzminister sieht dabei eine Gruppe in der Pflicht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f35099c7-f2dd-4457-bd31-44c28e7b7c06/AAABnhmkZIM/AAABnSSvrFg/16x9-big/klingbeil-342.jpg?width=1280"
+        },
+        {
+          "title": "Druck wird stärker - Minister legen Starmer Rücktritt nahe",
+          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-starmer-labour-100.html",
+          "summary": "Er hatte sich nach der Wahlschlappe kämpferisch gezeigt, doch der Druck wächst. Mehrere Minister legen dem britischen Premier Starmer den Rücktritt nahe, und auch Abgeordnete gingen auf Distanz.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/e24a7895-ee41-4f0b-beb2-e8a12f947e8b/AAABnhlBMIc/AAABnSSvrFg/16x9-big/starmer-210.jpg?width=1280"
+        },
+        {
           "title": "Krieg in Nahost: USA und Iran lehnen gegenseitige Forderungen ab",
           "url": "https://www.tagesschau.de/ausland/iran-krieg-verhandlungen-100.html",
           "summary": "In den indirekten Verhandlungen zwischen den USA und Iran gibt es weiterhin keine Fortschritte. Beide Länder erneuerten ihre gegenseitigen Vorwürfe. Laut US-Präsident Trump ist die aktuelle Waffenruhe gefährdet wie nie.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/271fd6ef-08e2-4b27-9012-8548d4530355/AAABnhjkF5s/AAABnSSvrFg/16x9-big/strasse-von-hormus-146.jpg?width=1280"
-        },
-        {
-          "title": "Deutschland und Ukraine planen Bau von Drohnen mit großer Reichweite",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-selenskyj-drohnen-100.html",
-          "summary": "Bei einem Besuch in Kiew hat Verteidigungsminister Pistorius die Innovationskraft der Ukraine gelobt. Deutschland will mit dem Land künftig gemeinsam Waffensysteme entwickeln - darunter Drohnen mit bis zu 1. 500 Kilometer Reichweite.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/20bb95a9-0083-4e4d-991d-4eae00bb8049/AAABnhiO9MQ/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-boris-pistorius-100.jpg?width=1280"
-        },
-        {
-          "title": "Rettungsschiff \"Sea-Watch 5\" meldet Beschuss durch libysche Küstenwache",
-          "url": "https://www.tagesschau.de/ausland/afrika/sea-watch-5-beschuss-libyen-100.html",
-          "summary": "Das Rettungsschiff \"Sea-Watch 5\" ist nach Angaben der Hilfsorganisation von der libyschen Küstenwache mit scharfer Munition angegriffen worden. An Bord sind 90 aus Seenot Gerettete und 30 Crew-Mitglieder.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4b88ef50-ce11-4b74-bbab-a80acc035c06/AAABnher8ow/AAABnSSvrFg/16x9-big/sea-watch-228.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: USA erhöhen Druck auf Iran mit weiteren Sanktionen",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-trump-sanktionen-usa-china-li.3457961",
+          "summary": "Die Maßnahmen treffen auch Unternehmen mit Sitz in Hongkong und den Vereinigten Arabischen Emiraten. Am Mittwoch wird US-Präsident Trump zum Besuch in China erwartet, wo er Staatschef Xi Jinping treffen soll.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/04/23/ee364ebc-5764-434c-a0d7-2e47cabf94ad.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C109%2C2048%2C1152"
+        },
+        {
           "title": "Hantavirus: „Hondius“ nach Evakuierung auf dem Weg in die Niederlande",
           "url": "https://www.sueddeutsche.de/panorama/kreuzfahrtschiff-hondius-evakuierung-weg-rotterdam-li.3482149",
           "summary": "122 Menschen haben das von Infektionen mit dem Hantavirus betroffene Kreuzfahrtschiff „Hondius“ unter strengen Sicherheitsmaßnahmen verlassen. Das Schiff nahm Kurs auf Rotterdam.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/11/42cb750e-ca9d-46a8-a590-b40f70bec615.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=179%2C0%2C3643%2C2049"
-        },
-        {
-          "title": "USA: Trump will Steuern auf Benzin senken",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-trump-benzin-steuern-li.3478505",
-          "summary": "Auch in den USA ist der Spritpreis stark gestiegen. Offenbar will der Präsident der Unzufriedenheit nun etwas entgegensetzen. Entlastungen für Airlines lehnt er dagegen ab.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/11/df466593-1dec-46eb-aa4b-a5a0b6bd8c75.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
