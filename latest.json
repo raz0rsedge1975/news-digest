@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-12T06:00:09.459Z",
-  "timestamp": "12.5.2026, 08:00:09",
+  "generated": "2026-05-12T10:00:10.073Z",
+  "timestamp": "12.5.2026, 12:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Staatsbesuch in China: Glaubt man Trump, wird kein böses Wort fallen",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/was-von-trumps-besuch-in-china-zu-erwarten-ist-accg-200818923.html",
-          "summary": "Der Irankrieg wird den US-Präsidenten auch in China verfolgen. Trump erwartet Unterstützung bei der Beendigung – falls Peking sich darauf einlässt, dann nur gegen Zugeständnisse.",
+          "title": "Deindustrialisierung: „Die Politik der Regierung ist brutal wirtschaftsfeindlich“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/guenter-stecher-insolvenz-trotz-innovation-und-wandel-accg-200810092.html",
+          "summary": "Ein kleiner Zulieferer aus Baden emanzipiert sich von der Autoindustrie, erfindet neue Produkte – und rutscht doch in die Insolvenz. Der Fall Stecher ist ein Symptom für die Investitionsschwäche der deutschen Industrie.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/71a376c03b86/w2546h1330x0y238o/202605/43601.0.2044315850/donald-trump-besteigt-am-3-5.webp"
+          "image": "https://media0.faz.net/image/w1200h627/6f95b295baac/w6898h3604x287y972o/202605/e78da291-60b0-429c-9f44-da0e0bbd6d25/guenter-stecher-steht-auf-dem.webp"
         },
         {
-          "title": "Staatsbesuch in Peking: Trumps Werk und Chinas Beitrag",
-          "url": "https://www.faz.net/aktuell/politik/ausland/china-wartet-ab-200812745.html",
-          "summary": "Beide Länder sind systemische Rivalen – und doch profitiert China strategisch von Trumps Politik. Damit das so bleibt, muss Peking vorsichtig vorgehen.",
+          "title": "Deutschland-Liveblog: Buhrufe gegen Merz beim DGB-Kongress",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-buhrufe-gegen-merz-beim-dgb-kongress-faz-110093143.html",
+          "summary": "Bundeskanzler fordert gemeinsame Anstrengungen für mehr Wachstum +++ Spahn will Subventionen kürzen +++ Arbeitgeber verlangen von Bas zügige Reformen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/936f35412232/w2301h1202x0y189o/202605/ae6a9dbc-4a22-11f1-80b4-1128950390bf/der-amerikanische-praesident.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3782df5a3700/w6000h3135x0y403o/202605/43601.0.2072422055/friedrich-merz-am-dienstag.webp"
         },
         {
-          "title": "Liveblog Irankrieg: Trump: Waffenruhe mit Iran kurz vor dem Zusammenbruch",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-waffenruhe-mit-iran-kurz-vor-dem-zusammenbruch-faz-200583539.html",
-          "summary": "US-Präsident bezeichnet Antwort Irans als „dumm“ +++ „Wall Street Journal“: Vereinigte Arabische Emirate haben im April Iran angegriffen +++ USA verhängen Sanktionen +++ alle Entwicklungen im Liveblog",
+          "title": "Business-Ticker: 61 Prozent der deutschen Unternehmen in China wollen Investitionen ausweiten",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-61-prozent-der-deutschen-unternehmen-in-china-wollen-investitionen-ausweiten-faz-200452404.html",
+          "summary": "Munich Re macht weniger Neugeschäft +++ Bayer überrascht dank Agrarsparte positiv zum Jahresstart +++ Thyssenkrupp: Sparprogramm greift, Umsatz geht zurück +++ Neuigkeiten im Unternehmen-Liveblog.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c1e1d1ff422e/w6049h3160x0y436o/202605/43601.0.2071607581/donald-trump-am-11-mai-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/38e63a254c10/w6144h3210x0y609o/202604/43601.0.2033785271/grossinvestition-die-anlagen.webp"
         }
       ]
     },
@@ -35,20 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Koalitionsausschuss: Union und SPD suchen Ersatz für Entlastungsprämie",
-          "url": "https://www.spiegel.de/politik/koalitionsausschuss-union-und-spd-suchen-ersatz-fuer-entlastungspraemie-a-c7f331e8-e611-48de-9c88-9fab33da6fda#ref=rss",
-          "summary": "Nach dem Debakel um die 1000-Euro-Prämie suchen Union und SPD nach Alternativen. Von einer »Orientierungsdebatte« ist die Rede, nach zeitnahen Entlastungen klingt das nicht. Ein Erfolg wäre es schon, wenn das Treffen friedlich bleibt.",
+          "title": "Entlastungsprämie: Welche Alternativen zur gescheiterten 1000-Euro-Hilfe es gibt",
+          "url": "https://www.spiegel.de/wirtschaft/service/entlastungspraemie-welche-alternativen-zur-gescheiterten-1000-euro-hilfe-es-gibt-a-2d010968-53a1-4574-bd2b-429bcb727c9f#ref=rss",
+          "summary": "Der 1000-Euro-Bonus ist vorerst gescheitert, die Koalition muss sich nun entscheiden: Wird sie es noch mal mit der Entlastungsprämie versuchen oder macht jetzt eine andere Idee das Rennen? Diese Optionen gibt es.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0f7dd259-a47f-46bb-90d6-c0af1334efaf_w1200_r1.778_fpx63_fpy41.jpg"
-        },
-        {
-          "title": "News: Koalitionsausschuss im Kanzleramt, Bärbel Bas, Keir Starmer, Arbeitszeit",
-          "url": "https://www.spiegel.de/politik/deutschland/news-koalitionsausschuss-im-kanzleramt-baerbel-bas-keir-starmer-arbeitszeit-a-a315b741-510d-47ee-b0da-d72ecfcf149d#ref=rss",
-          "summary": "Die Koalitionsspitzen treffen sich im Kanzleramt. Ministerin Bas muss das Arbeitszeitgesetz ändern. Und Großbritanniens Premier Starmer stemmt sich gegen den Machtverlust. Das ist die Lage am Dienstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/6dab8b1e-659c-4938-b926-9ac16640c35c_w1200_r1.778_fpx47_fpy58.jpg"
         },
         {
           "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
@@ -56,7 +48,15 @@
           "summary": "Der SPIEGEL hat Millionen Mitgliedskarten der NSDAP für Sie aufbereitet. Hier können Sie die Kartei durchsuchen – und sich ein persönliches Dossier erstellen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx50_fpy50.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx49_fpy50.png"
+        },
+        {
+          "title": "Donald Trump und die Neugliederung der Wahlkreise: Vorteil für die Republikaner",
+          "url": "https://www.spiegel.de/ausland/donald-trump-und-die-neugliederung-der-wahlkreise-vorteil-fuer-die-republikaner-a-64180e30-fc25-407f-a7b5-eae43884aeb0#ref=rss",
+          "summary": "In den USA tobt seit Monaten eine Schlacht um den Neuzuschnitt von Wahlkreisen. Zwei Gerichtsentscheidungen helfen nun den Republikanern. Was das für die Halbzeitwahlen im November bedeutet.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/bca5a6c6-ba8e-4d51-b58b-a9603d7d14c5_w1200_r1.778_fpx60.7_fpy49.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Hoher Ölpreis verdirbt die Anlegerstimmung",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktien-geldanlage-110.html",
-          "summary": "Die Waffenruhe im Nahen Osten steht auf der Kippe, der Ölpreis steigt. Für die Anleger ist das ein Signal, das Risiko zu reduzieren. Der DAX dürfte heute zum Handelsstart zurückfallen.",
+          "title": "Die Eisheiligen bringen Schnee in Teilen Deutschlands",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/schnee-mai-deutschland-100.html",
+          "summary": "Ob Brocken, Fichtelberg, Feldberg oder im Oberallgäu: Die Farbe weiß dominiert. Mitten im Frühling meldet sich in einigen Teilen Deutschlands der Winter zurück. Schon bald dürfte das Ganze aber Schnee von gestern sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/42152e4c-2b1d-4f6e-a48d-9c1adf615e01/AAABnYVt-C0/AAABnSSvrFg/16x9-big/boerse-504.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/54e84f67-3f27-4b12-afda-471f2e6452ec/AAABnhth11E/AAABnSSvrFg/16x9-big/feldberg-128.jpg?width=1280"
         },
         {
-          "title": "Ukraine meldet russische Drohnenangriffe auf Kiew",
-          "url": "https://www.tagesschau.de/ausland/europa/russische-drohnenangriffe-kiew-100.html",
-          "summary": "Nach dem Auslaufen einer Waffenruhe zwischen Russland und der Ukraine gehen die Attacken weiter. Die Ukraine beschuldigt Russland, unter anderem Kiew angegriffen zu haben. In Russland wurde der Flugverkehr eingeschränkt.",
+          "title": "Gelingt Schwarz-Rot beim Koalitionsausschuss der Neustart?",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-spd-union-entlastungen-100.html",
+          "summary": "Erst Streit, jetzt Harmonie? Union und SPD wollen im heutigen Koalitionsausschuss besser zusammenarbeiten. Entscheidend dürfte sein, wie es mit den Entlastungen weitergeht. Mehrere Optionen liegen auf dem Tisch. Von Georg Schwarte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/333cc380-7559-4732-b7fd-3247fd6c4fea/AAABnhqiEOU/AAABnSSvrFg/16x9-big/kiew-426.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a8c3ea09-9c8a-4f72-92e8-d5428c9b9dbd/AAABmn2hM5Q/AAABnSSvrFg/16x9-big/koalitionsausschuss-250.jpg?width=1280"
         },
         {
-          "title": "DGB-Vorsitzende Fahimi: Gewerkschaftschefin in schweren Zeiten",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/yasmin-fahimi-118.html",
-          "summary": "Yasmin Fahimi geht in ihre zweite Amtszeit an der Spitze des Deutschen Gewerkschaftsbundes. Ihre ersten vier Jahre waren geprägt von Krisen und Herausforderungen. Doch die ehemalige SPD-Politikerin zeigt sich kämpferisch. Von Ole Hilgert.",
+          "title": "Bericht: Mehr Binnenvertriebene durch Gewalt als durch Naturkatastrophen",
+          "url": "https://www.tagesschau.de/ausland/europa/binnenvertriebene-idmc-genf-100.html",
+          "summary": "Mehr als 32 Millionen Menschen sind 2025 aufgrund von Konflikten und Gewalt innerhalb ihres Landes vertrieben worden - so viele wie noch nie. Experten der Beobachtungsstelle IDMC sprechen von \"weltweitem Versagen\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/703f1974-55f8-4da8-8c5f-84cacc750f12/AAABnhfz9Ys/AAABnSSvrFg/16x9-big/fahimi-172.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3658dab0-fb2d-447d-a1a0-5b76f82acbe2/AAABnhtVO88/AAABnSSvrFg/16x9-big/sudan-fluechtlinge-116.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "James-Webb-Teleskop analysiert erstmals fremde Planetenoberfläche",
-          "url": "https://www.telepolis.de/article/James-Webb-Teleskop-analysiert-erstmals-fremde-Planetenoberflaeche-11282298.html",
-          "summary": "Das Weltraumteleskop hat die Oberfläche des Planeten Kua'kua untersucht – und eine dunkle, atmosphärenlose Felswelt entdeckt, die dem Mond oder Merkur ähnelt.",
+          "title": "Ein Jahr Schwarz-Rot: Versprechen verpasst, Vertrauen verspielt",
+          "url": "https://www.telepolis.de/article/Ein-Jahr-Schwarz-Rot-Versprechen-verpasst-Vertrauen-verspielt-11290981.html",
+          "summary": "Merz, Macht und Mittelmaß: Sicherheitspolitik mit Syrien, Sozialstaat auf Sparflamme – die Ein-Jahres-Bilanz des Reform-Kabinetts ist ernüchternd. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/6/5/1/6/PIA15162-a461b7a75fca795d.jpeg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/0/9/1/3/shutterstock_2626262283-f9c0d096546308ac.jpg"
         },
         {
-          "title": "Helsing: Münchner Start-up knackt wohl die 18-Milliarden-Marke",
-          "url": "https://www.telepolis.de/article/Helsing-Muenchner-Start-up-knackt-wohl-die-18-Milliarden-Marke-11290493.html",
-          "summary": "Eine neue Milliarden-Finanzierung macht das Münchner KI-Unternehmen Helsing zu einem der wertvollsten Rüstungs-Start-ups Europas.",
+          "title": "Indiens neue Atomstrategie: Mehr Sprengköpfe, mehr Reichweite, mehr Risiko",
+          "url": "https://www.telepolis.de/article/Indiens-neue-Atomstrategie-Mehr-Sprengkoepfe-mehr-Reichweite-mehr-Risiko-11290651.html",
+          "summary": "Chinas Hyperschallwaffen und Pakistans Eskalationspolitik treiben Neu-Delhi in eine neue Phase nuklearer Aufrüstung. Eine Einschätzung.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/0/6/6/8/209d00a7efb9ecc8985425e37fada467dfb1544c-c69ebf5527f22ed0.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/0/7/4/7/master_Indien-d3d6b8a8a8060ee3.jpg"
         },
         {
-          "title": "Rente: Väter im Wechselmodell gehen bei Erziehungszeiten leer aus",
-          "url": "https://www.telepolis.de/article/Rente-Vaeter-im-Wechselmodell-gehen-bei-Erziehungszeiten-leer-aus-11290348.html",
-          "summary": "Ohne rechtzeitige Erklärung bei der Rentenversicherung bleiben Kindererziehungszeiten der Mutter zugeordnet – auch bei geteilter Betreuung.",
+          "title": "Iran greift nach den Datenkabeln im Persischen Golf",
+          "url": "https://www.telepolis.de/article/Iran-greift-nach-den-Datenkabeln-im-Persischen-Golf-11290647.html",
+          "summary": "Täglich fließen zehn Billionen Dollar durch die Kabel in der Straße von Hormus. Iran will jetzt seinen Anteil – und droht mit Sabotage.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/0/5/9/5/shutterstock_2677289323-cba38f04d29b096d.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/0/7/4/5/shutterstock_1378099850-159fb7eee76b92fa.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bürgergeld-Debatte: Warum in Thüringen Vollzugsmitarbeiter bei Arbeitslosen klingeln",
-          "url": "https://www.sueddeutsche.de/wirtschaft/thueringen-buergergeld-empfaenger-sanktionen-jendricke-vollzugsmitarbeiter-bilanz-li.3479090",
-          "summary": "Landrat Matthias Jendricke hat umgesetzt, was viele in einer aufgeladenen Debatte fordern: Er versucht, Bürgergeldempfänger mit mehr Druck zum Arbeiten zu bringen. Das ist sein Fazit nach der ersten Runde.",
+          "title": "Bundespolitik: Pfiffe und Buhrufe für Merz auf DGB-Kongress",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-dgb-kongress-li.3480868",
+          "summary": "Der Bundeskanzler wirbt beim Deutschen Gewerkschaftsbund für tiefgreifende Sozialreformen. Doch mit seinem Appell, den Reformprozess als Chance statt Bedrohung zu begreifen, dringt er kaum durch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/11/2b8057e4-d4b2-452e-a101-fa893a77c516.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C201%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/12/276ff760-6551-466b-8b8f-287c02f9db34.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C102%2C4000%2C2250"
         },
         {
-          "title": "Menschheitsgeschichte: Schon Steinzeitmenschen wollten nur das beste Material",
-          "url": "https://www.sueddeutsche.de/wissen/archaeologie-funde-suedafrika-steinbruch-steinzeit-werkzeuge-klingen-li.3478736",
-          "summary": "Bisher nahm man an, dass Homo sapiens einst zufällig zu Werkzeugen kamen. Doch Ausgrabungen in Südafrika zeigen: Ihre Ansprüche waren höher.",
+          "title": "Neuschnee in den Höhenlagen: Der Winter ist zurück in Bayern",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-wetter-mai-kaelteeinbruch-schnee-eisheilige-li.3482264",
+          "summary": "Am Wochenende war Freibadwetter - jetzt könnte der Schlitten nochmal zum Einsatz kommen. Zumindest in den höheren Lagen des Freistaats.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/07/df1952ea-e5d8-433a-bd38-61bb41d6787a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C136%2C1382%2C777"
+          "image": "https://www.sueddeutsche.de/2026/05/12/8337f57f-a813-426a-9aa3-7c45f8fe19de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: USA erhöhen Druck auf Iran mit weiteren Sanktionen",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-trump-sanktionen-usa-china-li.3457961",
-          "summary": "Die Maßnahmen treffen auch Unternehmen mit Sitz in Hongkong und den Vereinigten Arabischen Emiraten. Am Mittwoch wird US-Präsident Trump zum Besuch in China erwartet, wo er Staatschef Xi Jinping treffen soll.",
+          "title": "China-Besuch des US-Präsidenten: Xi weiß, was Trump braucht",
+          "url": "https://www.sueddeutsche.de/politik/xi-jinping-donald-trump-treffen-peking-handelsgespraeche-taiwan-themen-li.3481597",
+          "summary": "Chinas Führung will Donald Trump Deals und spektakuläre Bilder liefern, die der US-Präsident daheim als Erfolg verkaufen kann. Welches Kalkül dahintersteckt und wo Peking hart bleiben wird – Antworten auf die wichtigsten Fragen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/12/c4268993-7d45-442f-9925-c18523204c40.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/11/e18f6bac-daea-4f6d-8519-73a5a8ced3c5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C144%2C3839%2C2159"
         }
       ]
     }
