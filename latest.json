@@ -1,25 +1,25 @@
 {
-  "generated": "2026-05-12T18:00:10.359Z",
-  "timestamp": "12.5.2026, 20:00:10",
+  "generated": "2026-05-12T22:00:10.671Z",
+  "timestamp": "13.5.2026, 00:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Neues Gesetz in Israel: Ein Sondertribunal soll die Täter des 7. Oktobers richten",
-          "url": "https://www.faz.net/aktuell/politik/ausland/7-oktober-israel-schafft-sondertribunal-fuer-mutmassliche-taeter-200823863.html",
-          "summary": "In Israel sind Hunderte Palästinenser inhaftiert, die am Terrorangriff beteiligt gewesen sein sollen. Ein Tribunal soll über ihr Schicksal entscheiden.",
+          "title": "Gewalt in Kolumbien: Wo Kinder in den Krieg „exportiert“ werden",
+          "url": "https://www.faz.net/aktuell/politik/ausland/kolumbien-kinder-im-krieg-200798417.html",
+          "summary": "In Kolumbien kämpfen Splittergruppen der früheren Guerilla um das Geschäft mit Rauschgift und illegalem Gold. Dafür zwingen sie Kinder an die Waffen – so wie Sol und Ramón.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9bc2779dd6c1/w3000h1567x0y280o/202605/94195714-6d29-4d1d-a9a4-5d3da225aa65/trauernde-am-gedenkort-fuer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/778b284d46c4/w5551h2900x0y170o/202605/43601.0.2056200546/farc-dissidenten-im-august.webp"
         },
         {
-          "title": "Stillstand der Koalition: Die SPD ist nicht zu beneiden",
-          "url": "https://www.faz.net/aktuell/politik/inland/stillstand-der-koalition-dgb-sand-im-getriebe-200824976.html",
-          "summary": "Die Koalition kommt mit ihrer Reformpolitik nicht voran",
+          "title": "KanzlerRede beim DGB: Gelungene Generalprobe für eine Merz-Agenda",
+          "url": "https://www.faz.net/aktuell/wirtschaft/gelungene-generalprobe-fuer-eine-merz-agenda-200825612.html",
+          "summary": "Deutschland muss wissen, ob der Kanzler im Bundestag eine Mehrheit hat für seine Politik. Den ersten Schritt zu einer Klärung hat er in seiner Rede beim Gewerkschaftsbund getan.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6e1187c7cc6a/w6000h3135x0y398o/202605/43601.0.2073569574/die-spd-vorsitzende-baerbel.webp"
+          "image": "https://media0.faz.net/image/w1200h627/132d00e551d2/w7424h3879x0y535o/202605/43601.0.2072890845/mit-protest-empfangen.webp"
         },
         {
           "title": "Pfiffe auf DGB-Kongress: „Wir können nicht einfach so weitermachen wie in den letzten 20 Jahren“",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "NSDAP Mitglieder: »Das waren normale Menschen wie wir« – Spitzengespräch",
-          "url": "https://www.spiegel.de/politik/nsdap-mitglieder-das-waren-normale-menschen-wie-wir-spitzengespraech-a-9e6944a3-d9be-4c62-9203-d032cf934be3#ref=rss",
+          "title": "Ukraine-Krieg: So geschwächt ist Russlands Luftverteidigung",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-so-schwach-ist-russlands-luftverteidigung-a-18e471a0-2f04-421e-983a-deee9810f2da#ref=rss",
+          "summary": "Die Ukraine setzt dem Nachbarn mit Luftangriffen immer mehr zu. Dies könnte schon bald Folgen an der Front haben, aber auch die Menschen im russischen Hinterland haben Angst.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8f000593-a6d0-44a7-afb3-fe3b61fceca9_w1200_r1.778_fpx44_fpy59.png"
+        },
+        {
+          "title": "NSDAP Mitglieder: »Das waren normale Menschen wie wir« – Talk",
+          "url": "https://www.spiegel.de/politik/deutschland/nsdap-mitglieder-das-waren-normale-menschen-wie-wir-spitzengespraech-a-9e6944a3-d9be-4c62-9203-d032cf934be3#ref=rss",
           "summary": "Wie steht es um unsere Erinnerungskultur? Im SPIEGEL-Talk diskutieren Historiker Götz Aly, Autorin Susanne Siegert und Journalistin Hadija Haruna-Oelker über Nazi-Verstrickungen in der Familie – und wo Erinnern zu Gedächtnistheater wird.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/7b70871f-e826-4c0e-8965-d48bf76c27a3_w1200_r1.778_fpx45_fpy45.jpg"
         },
         {
-          "title": "News des Tages: Buhs für Merz, Gesundheitssystem, Grüne fordern Sanktionen",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-buhs-fuer-merz-gesundheitssystem-gruene-fordern-sanktionen-a-8f2b8c33-6e6b-4c22-8dbf-5857b3629f6f#ref=rss",
-          "summary": "Friedrich Merz wird beim DGB-Kongress ausgebuht. Viele Deutsche hadern mit dem Gesundheitssystem. Und die Grünen fordern Sanktionen gegen einen israelischen General. Das ist die Lage am Dienstagabend.",
+          "title": "DGB-Kongress: Friedrich Merz hat es schwer bei den Gewerkschaftern",
+          "url": "https://www.spiegel.de/politik/deutschland/dgb-kongress-friedrich-merz-hat-es-schwer-bei-den-gewerkschaftern-aber-bas-und-klingbeil-haben-es-nicht-viel-leichter-a-b20d5549-3537-4f3f-a23e-c238ac411b69#ref=rss",
+          "summary": "Vor dem Koalitionsgipfel am Abend verteidigt der Kanzler seine Reformpläne. Die Auftritte der Regierungsspitzen beim DGB zeigen, wie schwer der Prozess wird. Für die Union – aber auch für die SPD.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Regierungskrise in Großbritannien: Starmer gegen die Swifties",
-          "url": "https://www.spiegel.de/ausland/regierungskrise-in-grossbritannien-starmer-gegen-die-swifties-a-accb7c8a-8fc7-461f-9fa6-a69dfe1221ca#ref=rss",
-          "summary": "Charles III. soll am Mittwoch das neue Regierungsprogramm für das Vereinigte Königreich vorstellen. Dabei weiß niemand, ob diese Regierung nächste Woche noch im Amt ist. Über ein Land, das schon wieder im Chaos versinkt.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a3fe346b-57fe-463f-9021-2d8a2a63af47_w1200_r1.778_fpx52.66_fpy47.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c2a218fe-2837-4042-a17d-d6d711832810_w1200_r1.778_fpx47.32_fpy52.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Treffen in Brüssel: Wie weiter mit der Verteidigung Europas?",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-treffen-102.html",
+          "summary": "Der Ukraine-Krieg, der geplante Abzug von US-Soldaten, die Bedrohung durch Russland: Die potenziellen Verteidigungsaufgaben der EU werden immer größer. Doch eine gemeinsame Strategie lässt weiter auf sich warten. Von Stephan Stuchlik.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/dccdffcf-55bc-4907-b465-1a1be17e5e84/AAABldodMS4/AAABnSSvrFg/16x9-big/europaparlament-166.jpg?width=1280"
+        },
+        {
+          "title": "Debatte über möglichen Rücktritt Starmers spaltet Labour",
+          "url": "https://www.tagesschau.de/ausland/europa/starmer-debatte-ruecktritt-grossbritannien-100.html",
+          "summary": "Der britische Premier Starmer will im Amt bleiben, um das Land vor Chaos zu bewahren. Doch die Debatte um einen möglichen Rücktritt spaltet seine Labour-Partei. Davon profitieren könnte vor allem eine andere Partei. Von Franziska Hoppen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/92374c3b-90c6-4761-8576-498e132cc07f/AAABnh1_duQ/AAABnSSvrFg/16x9-big/starmer-212.jpg?width=1280"
+        },
+        {
           "title": "Schwarz-Rot ringt mit sich selbst - statt um Reformen",
           "url": "https://www.tagesschau.de/inland/koalitionsausschuss-296.html",
           "summary": "Union und SPD dämpfen die Erwartungen an den Koalitionsausschuss. Am Ende sollte zumindest ein Fahrplan für die anstehenden Reformen stehen, so Vizekanzler Klingbeil. Doch die Vorstellungen liegen teils deutlich auseinander.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/6e19e930-828f-497a-bf2b-2e3b0d5e615e/AAABnhzNlF4/AAABnSSvrFg/16x9-big/kanzleramt-302.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX fällt unter 24.000er-Marke",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktien-geldanlage-110.html",
-          "summary": "Die Situation im Nahen Osten scheint festgefahren. Je länger der Konflikt anhält, desto prekärer wird die Lage. Öl wird teurer. An der Börse bröckeln die Kurse. Der DAX fällt unter 24.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/2db31d03-cdba-46dd-9aea-71ef81a25776/AAABmnblNn8/AAABnSSvrFg/16x9-big/boerse-468.jpg?width=1280"
-        },
-        {
-          "title": "Bahn bietet im Sommer Familienticket an",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bahn-familienticket-100.html",
-          "summary": "Für die Sommerferien gibt es bei der Deutschen Bahn ein neues Pauschalticket für Familien: Bis zu fünf Personen können für 99,99 Euro mit Fernverkehrszügen zum Urlaubsort und zurückreisen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/facdc8e6-5828-46d2-a09d-e88530f4ac74/AAABngZgB3k/AAABnSSvrFg/16x9-big/bahn-1136.jpg?width=1280"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "F&E-Studie: Europas KI-Rückstand gefährdet die wirtschaftliche Souveränität",
-          "url": "https://www.telepolis.de/article/F-E-Studie-Europas-KI-Rueckstand-gefaehrdet-die-wirtschaftliche-Souveraenitaet-11292334.html",
-          "summary": "Fünf US-Konzerne investieren 16-mal mehr in F&E als alle 31 deutschen Top-Unternehmen zusammen. Die Gründe sind strukturell.",
+          "title": "Europas KI-Rückstand: Ein strukturelles Problem mit Ansage",
+          "url": "https://www.telepolis.de/article/Europas-KI-Rueckstand-Ein-strukturelles-Problem-mit-Ansage-11292334.html",
+          "summary": "Europas KI-Rückstand ist kein Zufall – eine neue Studie zeigt, warum der Kontinent strukturell verliert und was das für uns alle bedeutet.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/1/5/6/9/shutterstock_1047618076-a3cb54b614e70154.jpg"
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Film: Wer sie küsst, kriegt einen Stromschlag",
+          "url": "https://www.sueddeutsche.de/kultur/cannes-festival-eroeffnung-film-la-venus-electrique-kritik-li.3479292",
+          "summary": "Das Festival von Cannes eröffnet mit der Tragikomödie „La Vénus électrique“, einer zauberhaften Liebesgeschichte aus dem Paris der Zwanzigerjahre.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/12/0ac1416b-15fc-4bb1-8887-826d92463fcb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C192%2C4000%2C2250"
+        },
+        {
           "title": "USA: Grönland und USA verhandeln wohl über drei neue US-Stützpunkte",
           "url": "https://www.sueddeutsche.de/politik/usa-news-groenland-militaer-li.3478505",
           "summary": "Aktuell unterhalten die US-Amerikaner einen aktiven Stützpunkt auf der Arktisinsel. Zu einer Erweiterung der Militärpräsenz laufen Gespräche, berichtet die BBC.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/12/d6a77282-84fd-4110-9c29-d3ef121f819d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C123%2C4000%2C2250"
-        },
-        {
-          "title": "Großbritannien: Keir Starmer bleibt Premier. Vorerst",
-          "url": "https://www.sueddeutsche.de/politik/grossbritannien-starmer-premierminister-li.3482292",
-          "summary": "In London macht man sich wieder auf den Rücktritt eines Regierungschefs gefasst. Am Dienstag hält Starmer zwar noch am Amt fest. Aber im Hintergrund wird sein Schicksal offenbar bereits besiegelt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/12/9fe3ffd6-eb06-402f-b572-0cfe6f6311dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
