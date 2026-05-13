@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-12T22:00:10.671Z",
-  "timestamp": "13.5.2026, 00:00:10",
+  "generated": "2026-05-13T02:00:08.456Z",
+  "timestamp": "13.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Finnland und Griechenland ziehen ins ESC-Finale ein",
+          "url": "https://www.tagesschau.de/kultur/esc-halbfinale-128.html",
+          "summary": "Das erste ESC-Halbfinale ist vorbei - und wie erwartet haben Finnland und Griechenland den Einzug ins Finale geschafft. Deutschlands Kandidatin Sarah Engels war die Teilnahme schon sicher: Sie startete außer Konkurrenz.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7948847e-a673-433c-b153-71a6ac82744a/AAABnh7LONI/AAABnSSvrFg/16x9-big/esc-finnland-100.jpg?width=1280"
+        },
+        {
+          "title": "US-Verteidigungsminister verteidigt Pentagon-Ausgaben vor US-Kongress",
+          "url": "https://www.tagesschau.de/ausland/amerika/hegseth-pentagon-etat-100.html",
+          "summary": "Zum ersten Mal seit Beginn des Iran-Kriegs sagt der US-Verteidigungsminister vor dem Kongress aus. Von den Demokraten kommt scharfe Kritik - und von Hegseth ein eher schwacher Auftritt. Von Benedikt Scheper.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/e259947c-9481-4dc1-9a99-a972b871d38f/AAABnh6Gz_c/AAABnSSvrFg/16x9-big/hegseth-pentagon-etat-102.jpg?width=1280"
+        },
+        {
           "title": "Treffen in Brüssel: Wie weiter mit der Verteidigung Europas?",
           "url": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-treffen-102.html",
           "summary": "Der Ukraine-Krieg, der geplante Abzug von US-Soldaten, die Bedrohung durch Russland: Die potenziellen Verteidigungsaufgaben der EU werden immer größer. Doch eine gemeinsame Strategie lässt weiter auf sich warten. Von Stephan Stuchlik.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/dccdffcf-55bc-4907-b465-1a1be17e5e84/AAABldodMS4/AAABnSSvrFg/16x9-big/europaparlament-166.jpg?width=1280"
-        },
-        {
-          "title": "Debatte über möglichen Rücktritt Starmers spaltet Labour",
-          "url": "https://www.tagesschau.de/ausland/europa/starmer-debatte-ruecktritt-grossbritannien-100.html",
-          "summary": "Der britische Premier Starmer will im Amt bleiben, um das Land vor Chaos zu bewahren. Doch die Debatte um einen möglichen Rücktritt spaltet seine Labour-Partei. Davon profitieren könnte vor allem eine andere Partei. Von Franziska Hoppen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/92374c3b-90c6-4761-8576-498e132cc07f/AAABnh1_duQ/AAABnSSvrFg/16x9-big/starmer-212.jpg?width=1280"
-        },
-        {
-          "title": "Schwarz-Rot ringt mit sich selbst - statt um Reformen",
-          "url": "https://www.tagesschau.de/inland/koalitionsausschuss-296.html",
-          "summary": "Union und SPD dämpfen die Erwartungen an den Koalitionsausschuss. Am Ende sollte zumindest ein Fahrplan für die anstehenden Reformen stehen, so Vizekanzler Klingbeil. Doch die Vorstellungen liegen teils deutlich auseinander.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/6e19e930-828f-497a-bf2b-2e3b0d5e615e/AAABnhzNlF4/AAABnSSvrFg/16x9-big/kanzleramt-302.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Eurovision Song Contest: So unpolitisch wie es eben geht",
+          "url": "https://www.sueddeutsche.de/medien/eurovision-song-contest-halbfinale-wien-deutschland-sarah-engels-ard-li.3482340",
+          "summary": "Beim ersten Halbfinale des ESC stören Rufe aus dem Publikum den israelischen Beitrag. Sonst überzeugt zwar die Musik, aber das Randprogramm eher weniger: ein Schnelldurchlauf.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/12/d2e88ddd-2eb7-490f-8175-a7b6a82e32d2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C246%2C4000%2C2250"
+        },
+        {
           "title": "Film: Wer sie küsst, kriegt einen Stromschlag",
           "url": "https://www.sueddeutsche.de/kultur/cannes-festival-eroeffnung-film-la-venus-electrique-kritik-li.3479292",
           "summary": "Das Festival von Cannes eröffnet mit der Tragikomödie „La Vénus électrique“, einer zauberhaften Liebesgeschichte aus dem Paris der Zwanzigerjahre.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/12/bbc1532c-d66f-4d4f-ab79-b0d737d1b410.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
-        },
-        {
-          "title": "Unesco-Studie: Deutschland ist viertbeliebtestes Land für internationale Studierende",
-          "url": "https://www.sueddeutsche.de/panorama/deutschland-studium-unesco-li.3482703",
-          "summary": "Damit folgt Deutschland auf die USA, Großbritannien und Australien. Als Gründe nennen junge Studierende aus dem Ausland die Technologieführerschaft, englischsprachige Angebote und niedrige Kosten.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/12/d6a77282-84fd-4110-9c29-d3ef121f819d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C123%2C4000%2C2250"
         }
       ]
     }
