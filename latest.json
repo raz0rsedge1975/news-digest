@@ -1,10 +1,26 @@
 {
-  "generated": "2026-05-13T18:00:10.765Z",
-  "timestamp": "13.5.2026, 20:00:10",
+  "generated": "2026-05-13T22:00:09.136Z",
+  "timestamp": "14.5.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Machtwechsel in der Fed: Ein neuer US-Notenbankchef für niedrige Zinsen?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/fed-chef-ist-kevin-warsh-ein-neuer-alan-greenspan-200821919.html",
+          "summary": "Donald Trump will einen Fed-Chef, der Zinssenkungen durchsetzt. Kevin Warsh liefert ihm das nötige Argument. Leider ist es nicht schlüssig.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/fc771e9ae8eb/w5500h2873x0y395o/202604/43601.0.2020774868/kevin-warsh-soll-am-freitag.webp"
+        },
+        {
+          "title": "Neuer Fed-Chef: Der US-Senat bestätigt Kevin Warsh",
+          "url": "https://www.faz.net/aktuell/wirtschaft/us-senat-bestaetigt-kevin-warsh-als-neuen-fed-chef-200830692.html",
+          "summary": "Donald Trump bekommt seinen Wunschkandidaten an der Spitze der Federal Reserve. Doch kann er den Erwartungen gerecht werden?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c3f397b6d7a0/w2800h1463x0y201o/202604/43601.0.2004512611/der-neue-chef-der-federal.webp"
+        },
         {
           "title": "Deutscher Chef: Mit NASA-Technik ins Herz der chinesischen Batteriewelt",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nasa-technik-warum-ein-deutscher-mit-batterie-startup-nach-china-geht-200808397.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/9a0f15112697/w4508h2355x174y1169o/202605/43601.0.2057659269/neben-seinem-rohdiamanten.webp"
-        },
-        {
-          "title": "Niedrige Geburtenrate: Deutschland behandelt seinen Nachwuchs, als sei er eine Last",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/kinderlos-deutschland-behandelt-seinen-nachwuchs-als-sei-er-eine-last-200825736.html",
-          "summary": "Kinderlos satt Kinderfrei: Deutschland behandelt seinen Nachwuchs, als sei er eine Last.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/ece8c5f05cd6/w5598h2924x0y405o/202603/43601.0.1872708424/wo-bleibt-der-kinderlaerm-die.webp"
-        },
-        {
-          "title": "Brandanschlag in Holland: Proteste gegen Asylbewerber eskalieren",
-          "url": "https://www.faz.net/aktuell/politik/ausland/niederlande-gewalt-gegen-asylbewerberheime-200829181.html",
-          "summary": "Die Niederlande wollen Schutzsuchende fair verteilen – doch dagegen rührt sich zunehmend gewaltsamer Protest.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c2a0e366c22e/w7728h4037x0y901o/202605/43601.0.2077330332/am-12-mai-eskalierten-die.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Alexander Hurst wurde an der Börse zum Millionär: »Es ist erstaunlich, wie schnell man zum Arschloch wird«",
-          "url": "https://www.spiegel.de/wirtschaft/alexander-hurst-wurde-an-der-boerse-es-ist-erstaunlich-wie-schnell-man-zum-arschloch-wird-a-85347d30-4b1e-4db2-b4d9-6bc1996d75dd#ref=rss",
-          "summary": "Alexander Hurst brachte es mit riskanten Börsengeschäften binnen Monaten zum Millionär – und verlor alles wieder. Hier erzählt er, wie das viele Geld sein Beziehungsleben veränderte und warum junge Männer so anfällig fürs Zocken sind.",
+          "title": "Venezuela: Maduro-Sohn Nicolasito räumt im Interview Scheitern ein",
+          "url": "https://www.spiegel.de/ausland/venezuela-maduro-sohn-nicolasito-raeumt-im-interview-scheitern-ein-a-8d8c271b-ebd3-43b5-ae8a-bb9bbcccbbf7#ref=rss",
+          "summary": "Nicolás Maduro Guerra, Sohn des inhaftierten venezolanischen Machthabers, spricht erstmals mit westlichen Medien über die Fehler des Regimes – und seine Sorge, dass sein Vater im New Yorker Gefängnis zu viele Kohlenhydrate zu sich nimmt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/049f4931-f20e-44c6-87d5-b45c38aacbde_w1200_r1.778_fpx37_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/af8bb49c-bc7a-4c2e-ade3-bbfdea61a8e4_w1200_r1.778_fpx47_fpy57.jpg"
         },
         {
-          "title": "News des Tages: Cem Özdemir, deutsche NS-Erinnerungskultur, Milka-Schokolade",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-deutsche-ns-erinnerungskultur-milka-schokolade-a-519470d2-92c6-424d-87a6-d7052e889cdf#ref=rss",
-          "summary": "Cem Özdemir taugt zum Hoffnungsträger, nicht nur für seine Partei. Deutschland hängt bei der Aufarbeitung der NS-Zeit hinterher. Und die Tafel Milka ist zu dünn. Das ist die Lage am Mittwochabend.",
+          "title": "SPD: Von der Volkspartei zum Sorgenkind – SPIEGEL TV",
+          "url": "https://www.spiegel.de/politik/deutschland/spd-von-der-volkspartei-zum-sorgenkind-spiegel-tv-a-c2b9ca92-7757-4011-8e14-878b9826083d#ref=rss",
+          "summary": "Die SPD dümpelt bundesweit bei zwölf Prozent, verliert selbst unter Kernwählern den Rückhalt, viele landen bei der AfD. Was haben die Sozialdemokraten falsch gemacht?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/ad39b741-cc0c-4a6b-8487-1992d468a022_w1200_r1.778_fpx71_fpy80.jpg"
         },
         {
-          "title": "Hantavirus: Woher kommt die große Hantavirus-Angst?",
-          "url": "https://www.spiegel.de/psychologie/hantavirus-woher-kommt-die-grosse-hantavirus-angst-a-bc6e981d-ca6e-4381-9dc3-5f9989c9bd6e#ref=rss",
-          "summary": "Viele Menschen haben Angst vor einer erneuten Pandemie. Die Sozialpsychologin Judith Balzukat erklärt, wie diese Furcht entsteht und was Sie dagegen tun können.",
+          "title": "Wolodymyr Selenskyj und Korruption in der Ukraine: Wer ist der rätselhafte »R1«?",
+          "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-und-der-korruptionsskandal-in-der-ukraine-wer-ist-der-raetselhafte-r1-a-9eff4cac-feaf-438d-a751-2ff834759a3d#ref=rss",
+          "summary": "Im Skandal um eine verdächtig finanzierte Villenresidenz in Kyjiw wird nun auch gegen den früheren Stabschef des ukrainischen Präsidenten ermittelt. Wolodymyr Selenskyj schweigt dazu, und das ist gefährlich.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5ed235a3-ed58-45f6-b3b8-f590cfa8f31e_w1200_r1.778_fpx66_fpy63.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b1c13944-23bd-42ca-b0ee-f8569d283ac9_w1200_r1.778_fpx47.32_fpy54.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Tote bei massiven Luftangriffen in der Ukraine",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-massive-luftangriffe-100.html",
-          "summary": "Russland greift die Ukraine immer öfter auch tagsüber an. Heute wurden dabei mindestens sechs Menschen getötet und viele weitere verletzt. Nach ukrainischen Angaben feuerte die russische Armee mehr als 800 Drohnen ab.",
+          "title": "Manila: Schüsse im philippinischen Senat gefallen",
+          "url": "https://www.tagesschau.de/ausland/asien/philippinen-schuesse-senat-100.html",
+          "summary": "In den Philippinen sind im Senat Schüsse gefallen. Dort versucht seit Tagen Senator de la Rosa einer Festnahme zu entgehen. Der ehemalige Polizeichef wird per internationalem Haftbefehl gesucht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cd14b331-6113-4ce9-8b7a-8ab99954d9d0/AAABniJHP3I/AAABnSSvrFg/16x9-big/odessa-wohnhaus-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/872838ed-4a74-4260-b2c0-4ccd3cbbbf0c/AAABniJQuLk/AAABnSSvrFg/16x9-big/philippinen-senat-polizei-100.jpg?width=1280"
         },
         {
-          "title": "Rede von König Charles: Fanfaren mitten in Labours Krise",
-          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-krise-kings-speech-charles-100.html",
-          "summary": "Mit viel Pomp hat Charles III. im britischen Parlament das Programm der Labour-Regierung vorgetragen. Dabei ist fraglich, ob der angezählte Premier Starmer es überhaupt noch umsetzen kann. Steht sein Nachfolger schon bereit?",
+          "title": "Senat bestätigt Trumps Wunschkandidat Warsh als neuen Fed-Chef",
+          "url": "https://www.tagesschau.de/ausland/amerika/warsh-fed-bestaetigt-100.html",
+          "summary": "Der Wunschkandidat von US-Präsident Trump für den Chefposten der Notenbank Fed ist vom republikanisch dominierten Senat bestätigt worden. Die Demokraten fürchten um die Unabhängigkeit des Instituts.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a5abd138-e056-46e3-baa1-c3f759736177/AAABniJF8kA/AAABnSSvrFg/16x9-big/koenig-charles-578.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e67605e6-d8c9-45a3-8d29-bc2b22d8b1a2/AAABniLbWI0/AAABnSSvrFg/16x9-big/warsh-106.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Gute Stimmung vor dem Feiertag",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-iran-krieg-dow-jones-nasdaq-dax-100.html",
-          "summary": "Erfreuliche Geschäftsberichte und Hoffnungen auf eine Entspannung im Zollstreit haben den Frankfurter Aktienmarkt heute angetrieben. Doch der Iran-Krieg dämpft weiter die Stimmung.",
+          "title": "Regierungskoalition in Lettland zerbricht im Streit über Posten",
+          "url": "https://www.tagesschau.de/ausland/europa/lettland-regierung-zerbrochen-100.html",
+          "summary": "Nach dem Absturz zweier Drohnen in Lettland war zunächst der Verteidigungsminister zurückgetreten. Über die Nachbesetzung seines Postens geriet die Regierung so sehr in Streit, dass eine Partei die Koalition verließ.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c7f7cdd1-9edb-4333-a567-a729968cc13e/AAABmgG0R-A/AAABnSSvrFg/16x9-big/boerse-454.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/18fe2792-f1c1-4ea2-94a1-86272666c1de/AAABniLclyM/AAABnSSvrFg/16x9-big/silina-102.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Trump-Kandidat Kevin Warsh wird neuer Chef der US-Notenbank",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-kevin-warsh-us-notenbank-us-senat-li.3478505",
+          "summary": "Die Mehrheit der US-Senatoren stimmt für den früheren Fed-Gouverneur als Nachfolger von Jerome Powell. Trump reist zum ersten Mal seit acht Jahren wieder nach China.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/13/5bb2fb40-4f83-4c42-8180-f148bfb80e13.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Krieg in der Ukraine: Tote bei russischem Drohnenangriff im Westen der Ukraine",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnenangriff-waffenruhe-polen-nato-li.3473071",
           "summary": "Mindestens sechs Menschen kommen ums Leben. Vorsorglich lässt das Nachbarland Polen Kampfjets aufsteigen. Die Slowakei schließt für kurze Zeit alle Grenzübergänge zur Ukraine.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/13/fbbeb0b9-a9e4-41e8-8691-bef6831f6710.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=269%2C103%2C3306%2C1860"
-        },
-        {
-          "title": "Kino: Schafe sterben nicht, sie werden zu Wolken",
-          "url": "https://www.sueddeutsche.de/kultur/kino-kritik-glenkill-verfilmung-leonie-swann-schafe-li.3481790",
-          "summary": "Der Schafskrimi „Glenkill“ kommt ins Kino – als wollig-süße Fabel über Herdenblödheit, Herdenklugheit und den Glauben an Gott.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/12/d1410537-8216-4ca7-927a-3ad65b75c454.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3291%2C1851"
         }
       ]
     }
