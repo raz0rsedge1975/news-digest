@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-13T14:00:09.902Z",
-  "timestamp": "13.5.2026, 16:00:09",
+  "generated": "2026-05-13T18:00:10.765Z",
+  "timestamp": "13.5.2026, 20:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Deutscher Chef: Mit NASA-Technik ins Herz der chinesischen Batteriewelt",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nasa-technik-warum-ein-deutscher-mit-batterie-startup-nach-china-geht-200808397.html",
+          "summary": "Seit Jahrzehnten setzt die US-Raumfahrtagentur NASA auf Nickel-Wasserstoff-Batterien. Für die Erde waren sie zu teuer, bis Forscher eine Lösung fanden. Seine Fabrik baut das Start-up Enervenue nun aber ausgerechnet in China.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9a0f15112697/w4508h2355x174y1169o/202605/43601.0.2057659269/neben-seinem-rohdiamanten.webp"
+        },
+        {
           "title": "Niedrige Geburtenrate: Deutschland behandelt seinen Nachwuchs, als sei er eine Last",
           "url": "https://www.faz.net/aktuell/feuilleton/debatten/kinderlos-deutschland-behandelt-seinen-nachwuchs-als-sei-er-eine-last-200825736.html",
           "summary": "Kinderlos satt Kinderfrei: Deutschland behandelt seinen Nachwuchs, als sei er eine Last.",
           "source": "FAZ",
-          "paywall": false,
+          "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/ece8c5f05cd6/w5598h2924x0y405o/202603/43601.0.1872708424/wo-bleibt-der-kinderlaerm-die.webp"
         },
         {
-          "title": "Eltern-Kind-Beziehung: „Väter leiden später darunter, dass sie schlechter mit den Kindern vernetzt sind als Mütter“",
-          "url": "https://www.faz.net/aktuell/stil/eltern-familie/tillmann-pruefer-eltern-haben-das-gefuehl-ich-kann-alles-nur-kaputtmachen-accg-200762569.html",
-          "summary": "Der Autor und vierfache Vater Tillmann Prüfer erklärt im Gespräch, wie viel Einfluss Erziehung wirklich auf die Persönlichkeitsbildung hat, welcher Denkfehler Vätern oft unterläuft und warum Wärme mehr bringt als Strafen.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/35562ebcf5eb/w3478h1817x198y105o/202604/cef5cfee-3eeb-11f1-a9bb-63f79e308ac4/der-wichtigste-job-den-man-als.webp"
-        },
-        {
-          "title": "Weltölmarkt: Energieagentur warnt: Ölreserven schrumpfen in Rekordtempo",
-          "url": "https://www.faz.net/aktuell/finanzen/iea-warnt-oelreserven-schrumpfen-in-rekordtempo-accg-200828681.html",
-          "summary": "Die Verschnaufpause für den Ölpreis scheint nur vorübergehend gewesen zu sein. Droht an den Tankstellen nun neues Ungemach?",
+          "title": "Brandanschlag in Holland: Proteste gegen Asylbewerber eskalieren",
+          "url": "https://www.faz.net/aktuell/politik/ausland/niederlande-gewalt-gegen-asylbewerberheime-200829181.html",
+          "summary": "Die Niederlande wollen Schutzsuchende fair verteilen – doch dagegen rührt sich zunehmend gewaltsamer Protest.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2d0d231367b4/w4508h2355x311y1421o/202605/43601.0.2047081270/700-bis-900-millionen-fass-oel.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c2a0e366c22e/w7728h4037x0y901o/202605/43601.0.2077330332/am-12-mai-eskalierten-die.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "NSDAP-Akten: Warum das Bundesarchiv keine NS-Personenakten freischaltet",
-          "url": "https://www.spiegel.de/geschichte/nsdap-akten-warum-das-bundesarchiv-keine-ns-personenakten-freischaltet-a-6ec28e19-edb1-4117-b8da-f1acb6aaf634#ref=rss",
-          "summary": "Das Bundesarchiv erreicht jährlich Zehntausende Anfragen zu Personen in der NS-Zeit. Präsident Michael Hollmann sagt, warum seine Behörde Personenakten nicht einfach freischalten will.",
+          "title": "Alexander Hurst wurde an der Börse zum Millionär: »Es ist erstaunlich, wie schnell man zum Arschloch wird«",
+          "url": "https://www.spiegel.de/wirtschaft/alexander-hurst-wurde-an-der-boerse-es-ist-erstaunlich-wie-schnell-man-zum-arschloch-wird-a-85347d30-4b1e-4db2-b4d9-6bc1996d75dd#ref=rss",
+          "summary": "Alexander Hurst brachte es mit riskanten Börsengeschäften binnen Monaten zum Millionär – und verlor alles wieder. Hier erzählt er, wie das viele Geld sein Beziehungsleben veränderte und warum junge Männer so anfällig fürs Zocken sind.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6a27b7d1-dad0-434b-af0a-ea24ca803b2c_w1200_r1.778_fpx39.33_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/049f4931-f20e-44c6-87d5-b45c38aacbde_w1200_r1.778_fpx37_fpy44.jpg"
         },
         {
-          "title": "Wes Streeting: Gesundheitsminister sucht offenbar Konfrontation mit Premier Starmer",
-          "url": "https://www.spiegel.de/ausland/wes-streeting-gesundheitsminister-sucht-offenbar-konfrontation-mit-premier-starmer-a-01e37da6-b6ab-42d1-afaf-1854c34be05f#ref=rss",
-          "summary": "Mitten im Überlebenskampf seiner Regierung will der britische Gesundheitsminister Streeting Berichten zufolge Premier Starmer herausfordern. Er soll bereits seinen Rücktritt vorbereiten, um für den Parteivorsitz zu kandidieren.",
+          "title": "News des Tages: Cem Özdemir, deutsche NS-Erinnerungskultur, Milka-Schokolade",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-cem-oezdemir-deutsche-ns-erinnerungskultur-milka-schokolade-a-519470d2-92c6-424d-87a6-d7052e889cdf#ref=rss",
+          "summary": "Cem Özdemir taugt zum Hoffnungsträger, nicht nur für seine Partei. Deutschland hängt bei der Aufarbeitung der NS-Zeit hinterher. Und die Tafel Milka ist zu dünn. Das ist die Lage am Mittwochabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e51141f0-ae74-4b2c-9106-108bdf80128f_w1200_r1.778_fpx46_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Irankrieg: Raketenabschussvorrichtungen an der Straße von Hormus sind laut US-Geheimdiensten größtenteils intakt",
-          "url": "https://www.spiegel.de/ausland/irankrieg-raketenabschussvorrichtungen-an-der-strasse-von-hormus-sind-laut-us-geheimdiensten-groesstenteils-intakt-a-db18e0e1-64e8-46db-a3fe-da19cdfc2872#ref=rss",
-          "summary": "Mehrfach hat Donald Trump behauptet, Irans Militär liege durch die US-israelischen Angriffe in Trümmern. Die US-Geheimdienste widersprechen: Dutzende Abschussrampen an der Straße von Hormus sind demnach weiter betriebsbereit.",
+          "title": "Hantavirus: Woher kommt die große Hantavirus-Angst?",
+          "url": "https://www.spiegel.de/psychologie/hantavirus-woher-kommt-die-grosse-hantavirus-angst-a-bc6e981d-ca6e-4381-9dc3-5f9989c9bd6e#ref=rss",
+          "summary": "Viele Menschen haben Angst vor einer erneuten Pandemie. Die Sozialpsychologin Judith Balzukat erklärt, wie diese Furcht entsteht und was Sie dagegen tun können.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1789a35e-0293-475a-92d4-3287e20d2623_w1200_r1.778_fpx54.66_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5ed235a3-ed58-45f6-b3b8-f590cfa8f31e_w1200_r1.778_fpx66_fpy63.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Neue Gaskraftwerke: Kritik an Wasserstoffstrategie der Bundesregierung",
-          "url": "https://www.tagesschau.de/wissen/technologie/wasserstoff-ready-gaskraftwerke-100.html",
-          "summary": "Wirtschaftsministerin Reiche will Gaskraftwerke bauen lassen, um Lücken bei der Stromversorgung zu schließen. Die sollen auch Wasserstoff verbrennen können. Doch Forschende plädieren für andere Technologien.",
+          "title": "Tote bei massiven Luftangriffen in der Ukraine",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-massive-luftangriffe-100.html",
+          "summary": "Russland greift die Ukraine immer öfter auch tagsüber an. Heute wurden dabei mindestens sechs Menschen getötet und viele weitere verletzt. Nach ukrainischen Angaben feuerte die russische Armee mehr als 800 Drohnen ab.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8d673849-f852-44a8-9fd5-a092b32767d4/AAABniBxvSQ/AAABnSSvrFg/16x9-big/gaskraftwerk-gelsenkirchen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/cd14b331-6113-4ce9-8b7a-8ab99954d9d0/AAABniJHP3I/AAABnSSvrFg/16x9-big/odessa-wohnhaus-104.jpg?width=1280"
         },
         {
-          "title": "Trotz Waffenruhe: Israels Armee beginnt neue Angriffe im Südlibanon",
-          "url": "https://www.tagesschau.de/ausland/asien/israelische-angriffe-libanon-100.html",
-          "summary": "Die israelischen Angriffe im Libanon gehen trotz Waffenruhe weiter. Im Süden des Landes zielte das Militär offenbar auf Autos. Laut Regierungsangaben wurden dabei acht Menschen getötet, darunter auch zwei Kinder.",
+          "title": "Rede von König Charles: Fanfaren mitten in Labours Krise",
+          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-krise-kings-speech-charles-100.html",
+          "summary": "Mit viel Pomp hat Charles III. im britischen Parlament das Programm der Labour-Regierung vorgetragen. Dabei ist fraglich, ob der angezählte Premier Starmer es überhaupt noch umsetzen kann. Steht sein Nachfolger schon bereit?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5324be21-74fa-47d8-a039-eb985b9da65f/AAABniFq9ug/AAABnSSvrFg/16x9-big/truemmer-auto-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a5abd138-e056-46e3-baa1-c3f759736177/AAABniJF8kA/AAABnSSvrFg/16x9-big/koenig-charles-578.jpg?width=1280"
         },
         {
-          "title": "Verlag siegt vor EU-Gericht: Kein Markenschutz für Waffen namens Obelix",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-gericht-obelix-waffen-munition-100.html",
-          "summary": "Ein polnischer Waffenhersteller wollte mit dem Namen Obelix werben. Doch dem Verlag der beliebten Asterix-Comics gefiel das nicht. Nun hat das Gericht der Europäischen Union in dem Streit entschieden.",
+          "title": "Marktbericht: Gute Stimmung vor dem Feiertag",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-iran-krieg-dow-jones-nasdaq-dax-100.html",
+          "summary": "Erfreuliche Geschäftsberichte und Hoffnungen auf eine Entspannung im Zollstreit haben den Frankfurter Aktienmarkt heute angetrieben. Doch der Iran-Krieg dämpft weiter die Stimmung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b79782c3-d505-43be-872e-019d452ba31f/AAABniE2-MI/AAABnSSvrFg/16x9-big/eugh-236.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c7f7cdd1-9edb-4333-a567-a729968cc13e/AAABmgG0R-A/AAABnSSvrFg/16x9-big/boerse-454.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "PCK-Raffinerie unter Druck: Diese Alternativen sollen die Versorgung retten",
+          "url": "https://www.telepolis.de/article/PCK-Raffinerie-unter-Druck-Diese-Alternativen-sollen-die-Versorgung-retten-11293519.html",
+          "summary": "Die PCK-Raffinerie in Schwedt kämpft ums Öl – und die Zeit läuft. Welche Alternativen jetzt auf dem Tisch liegen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/1/7/2/csm_PCK-Fahnen_e03020b379-2a60ac6ef959459c.jpg"
+        },
         {
           "title": "Erst Energiepreise, dann Jobs: Europa rutscht in die Stagflation",
           "url": "https://www.telepolis.de/article/Erst-Energiepreise-dann-Jobs-Europa-rutscht-in-die-Stagflation-11293376.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/1/9/0/3/shutterstock_2630230675-0392a319d4e3a8cb.jpg"
-        },
-        {
-          "title": "Ein Recht auf analoges Leben?",
-          "url": "https://www.telepolis.de/article/Ein-Recht-auf-analoges-Leben-11293308.html",
-          "summary": "Eine Petition fordert, das Recht auf ein Leben ohne Digitalzwang im Grundgesetz zu verankern. Zehntausende haben bereits unterschrieben. Worum geht es?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/0/6/5/master_Online-4c93fd28997143e1.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Gedenken an Albrecht Weinberg: Oh, boy",
-          "url": "https://www.sueddeutsche.de/kultur/alfred-weinberg-guener-balci-kz-ueberlebender-nachruf-auschwitz-li.3482856",
-          "summary": "„Ich hab dich viel zu spät kennengelernt“: Erinnerungen der Neuköllner Integrationsbeauftragten an Albrecht Weinberg, der Auschwitz überlebte, zu den Tätern zurückkehrte und mit Leichtigkeit vom Schweren sprach.",
+          "title": "Krieg in der Ukraine: Tote bei russischem Drohnenangriff im Westen der Ukraine",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnenangriff-waffenruhe-polen-nato-li.3473071",
+          "summary": "Mindestens sechs Menschen kommen ums Leben. Vorsorglich lässt das Nachbarland Polen Kampfjets aufsteigen. Die Slowakei schließt für kurze Zeit alle Grenzübergänge zur Ukraine.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/13/1db88adb-260b-4d3b-8ace-94f0c582ade2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/13/cabb7493-6345-4309-9d46-6f763e4dde1a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C120%2C1280%2C720"
         },
         {
-          "title": "Digitalpolitik: Etwa 40 Prozent der Deutschen wollen keine digitale Brieftasche",
-          "url": "https://www.sueddeutsche.de/wirtschaft/wildberger-digitale-brieftasche-umfrage-li.3483118",
-          "summary": "Die digitale Brieftasche gehört zu den wichtigsten digitalpolitischen Vorhaben der Bundesregierung. Eine neue Umfrage zeigt: Vor allem Jüngere und höher Gebildete sind offen, doch ein Großteil muss noch überzeugt werden.",
+          "title": "Urteil gegen den Regensburger Ex-OB: „In besonderem Maße das Vertrauen der Bevölkerung beschädigt“",
+          "url": "https://www.sueddeutsche.de/bayern/wolbergs-prozess-regensburg-oberbuergermeister-schmiergeld-korruption-urteil-li.3480839",
+          "summary": "Das Münchner Landgericht spricht Joachim Wolbergs wegen Vorteilsannahme schuldig. Es geht um rund 475 000 Euro Schmiergeld aus der Baubranche. Der frühere SPD-Politiker will nun in Revision gehen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/13/a1d2b317-a958-4b6e-b583-461c4e1bdba2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C750%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/13/fbbeb0b9-a9e4-41e8-8691-bef6831f6710.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=269%2C103%2C3306%2C1860"
         },
         {
-          "title": "Eurovision Song Contest in Wien: Teilnehmer, Songs, Termine: Alles zum ESC 2026",
-          "url": "https://www.sueddeutsche.de/medien/esc-halbfinale-2026-finale-teilnehmer-reihenfolge-deutschland-uebertragung-li.3355056",
-          "summary": "Wer tritt auf, wer moderiert und welche neuen Regeln gibt es? In Wien laufen die Vorbereitungen für die 70. Ausgabe des Musik-Events. Wissenswertes zum Eurovision Song Contest.",
+          "title": "Kino: Schafe sterben nicht, sie werden zu Wolken",
+          "url": "https://www.sueddeutsche.de/kultur/kino-kritik-glenkill-verfilmung-leonie-swann-schafe-li.3481790",
+          "summary": "Der Schafskrimi „Glenkill“ kommt ins Kino – als wollig-süße Fabel über Herdenblödheit, Herdenklugheit und den Glauben an Gott.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/01/16/6c78b1b7-0f05-436f-be23-70ff16b8fa09.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C190%2C3283%2C1847"
+          "image": "https://www.sueddeutsche.de/2026/05/12/d1410537-8216-4ca7-927a-3ad65b75c454.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3291%2C1851"
         }
       ]
     }
