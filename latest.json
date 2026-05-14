@@ -1,25 +1,17 @@
 {
-  "generated": "2026-05-14T14:00:11.578Z",
-  "timestamp": "14.5.2026, 16:00:11",
+  "generated": "2026-05-14T18:00:10.101Z",
+  "timestamp": "14.5.2026, 20:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Staatsbesuch in Peking: Xi setzt Trump die Pistole auf die Brust",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/xi-fordert-trump-in-peking-beim-thema-taiwan-heraus-accg-200831643.html",
-          "summary": "Chinas Staatschef empfängt Trump mit Pomp. Aber beim Thema Taiwan fordert Xi den Präsidenten sofort heraus – und sagt: Wir sind auf Augenhöhe.",
+          "title": "Gute Nachrichten: 25 Dinge, die uns Freude machen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/es-gibt-noch-gute-nachrichten-25-dinge-die-uns-freude-machen-200812636.html",
+          "summary": "Das Leben besteht nicht nur aus Krieg und Krisen. Hier kommen einige Gründe, die uns optimistisch auf die Welt blicken lassen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6bec023ecb30/w5354h2797x0y412o/202605/43601.0.2079994782/donald-trump-posiert-mit-xi.webp"
-        },
-        {
-          "title": "Besuch in China: Trump könnte es Peking schwerer machen",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/donald-trump-koennte-es-peking-schwerer-machen-200832260.html",
-          "summary": "Trump in China",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/73caa3e0d75d/w4468h2334x0y322o/202605/43601.0.2080620334/xi-jinping-und-donald-trump.webp"
+          "image": "https://media0.faz.net/image/w1200h627/7b66969ee6e4/w5800h3030x0y722o/202605/4f9f63ba-4a06-11f1-bb40-ba1c78b1c919/es-gibt-noch-gute-nachrichten.webp"
         },
         {
           "title": "Die VW-Story – Folge 3: Der große Betrug",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/bf3a88e403aa/w2936h1534x0y304o/201509/431.0.32360263/431032360263.webp"
+        },
+        {
+          "title": "Dieselskandal: Warum VW den größten Skandal seiner Geschichte nicht loswird",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-volkswagen-den-dieselskandal-nicht-loswird-accg-200829841.html",
+          "summary": "Eine frühere VW-Vorständin, ein Bosch-Ingenieur und Ermittlungen bis heute: Die neue Folge des Podcasts „Die VW-Story“ rekonstruiert den Ursprung des Abgasbetrugs – und warum er bis heute nachwirkt.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/26f3eb713a98/w3500h1828x0y250o/202605/eed2d6a0-7d2d-4c68-b0e0-95a0798c68a7/kreuzverhoer-zum-dieselskandal.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "»Der MSCI World ist eine große Wette auf den KI-Boom« - Fondsmanager Bert Flossbach im Interview",
-          "url": "https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss",
-          "summary": "Die Börsenkurse schießen trotz des Irankriegs in neue Rekordhöhen. Hier spricht Fondsmanager Bert Flossbach über die Gründe und ein Problem, das er beim beliebten Aktienindex MSCI World sieht.",
+          "title": "Abnehmspritzen Wegovy und Mounjaro: Was gegen den Jo-Jo-Effekt helfen könnte",
+          "url": "https://www.spiegel.de/wissenschaft/abnehmspritzen-wegovy-und-mounjaro-was-gegen-den-jo-jo-effekt-helfen-koennte-a-ae9a352b-c65e-43ac-a694-bc1ccdb145c8#ref=rss",
+          "summary": "Spritzen haben das Abnehmen revolutioniert. Doch viele Menschen legen schnell wieder Gewicht zu, wenn sie die Medikamente absetzen. Eine neue Studie zeigt: Diese Pillen könnten helfen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0a0e48c0-e37a-4c7e-ad2d-7addf97ff730_w1200_r1.778_fpx47_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/07366678-ca7d-4294-a480-d63fbbd9c174_w1200_r1.778_fpx55_fpy44.jpg"
         },
         {
           "title": "NSDAP-Mitgliedschaft und Nazi-Kartei: Wie die NSDAP-Datenbank das Land aufrüttelt",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/a0a8de8b-1446-4df1-80c9-701b21b6228a_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "Iran-Krieg: Seewege als moderne Waffen – wie sich Deutschland schützen kann",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann-a-8a53e705-16ab-4aed-8cef-68ed7b670060#ref=rss",
-          "summary": "US-Außenminister Rubio beklagte, Iran verfüge mit der Straße von Hormus über eine »wirtschaftliche Nuklearwaffe«. Europa drohen an anderer Stelle aber noch größere Gefahren.",
+          "title": "Großbritannien: Wes Streeting - Der Mann, der die Vorhänge ausmaß",
+          "url": "https://www.spiegel.de/ausland/grossbritannien-gesundheitsminister-wes-streeting-entzieht-keir-starmer-das-vertrauen-a-c3d4a82e-39ab-4ff8-8991-2933d1db537e#ref=rss",
+          "summary": "Wes Streeting tritt als britischer Gesundheitsminister zurück und entzieht Premier Keir Starmer das Vertrauen. Zugleich meldet sich die Ex-Vizepremierministerin Angela Rayner zurück. In London entbrennt ein Kampf um die Macht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/25112465-cfa9-424d-93c7-6b66902a7e88_w1200_r1.778_fpx54_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bfddbbb9-c496-41af-be0d-d24e7f12f8f6_w1200_r1.778_fpx37_fpy56.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Früherer EZB-Chef Draghi mit Aachener Karlspreis ausgezeichnet",
-          "url": "https://www.tagesschau.de/inland/karlspreis-draghi-ausgezeichnet-100.html",
-          "summary": "Für sein Lebenswerk hat der Italiener Draghi in Aachen den Karlspreis verliehen bekommen. Bundeskanzler Merz hob in seiner Festrede vor allem die Verdienste des früheren EZB-Chefs während der Euro-Finanzkrise hervor.",
+          "title": "Harmonie und freundliche Worte zwischen Trump und Xi am ersten Gipfeltag",
+          "url": "https://www.tagesschau.de/ausland/asien/treffen-trump-xi-peking-100.html",
+          "summary": "US-Präsident Trump und Chinas Staatschef Xi haben sich am ersten Gipfeltag um Harmonie bemüht. Den mitgereisten Wirtschaftsbossen versprach Xi mehr Handel - im Gegenzug für AI-Chips. Zum Iran-Krieg gab es nur spärliche Statements.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3ce973fd-ea25-4eaa-8f26-f847523d434e/AAABniYUDAw/AAABnSSvrFg/16x9-big/mario-draghi-136.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a9ee69e3-9f19-4dfd-88ce-6388aceb2335/AAABnieVcg0/AAABnSSvrFg/16x9-big/trump-xi-160.jpg?width=1280"
         },
         {
-          "title": "Streit über Drohnenvorfälle: Lettlands Regierungschefin tritt zurück",
-          "url": "https://www.tagesschau.de/ausland/europa/lettland-regierungschefin-100.html",
-          "summary": "In Lettland gab es zuletzt Streit über Drohnenvorfälle an der Grenze zu Russland. Der Verteidigungsminister musste zurücktreten, die Regierung zerbrach. Nun hat auch Regierungschefin Silina ihren Rückzug bekanntgegeben.",
+          "title": "Erste gleichgeschlechtliche Ehe in Polen eingetragen",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-erste-gleichgeschlechtliche-ehe-100.html",
+          "summary": "Nach jahrelangem Rechtsstreit hat ein polnisches Standesamt erstmals eine im Ausland geschlossene Ehe zweier Männer eingetragen. Das Paar hatte 2018 in Berlin geheiratet. Polens Regierung plant nun einen Gesetzesvorschlag. Tomaszewski.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f3de21a6-a0a3-47d8-b8f7-07f2138061d5/AAABniJwSJo/AAABnSSvrFg/16x9-big/silina-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bcabf458-3e33-42ba-a821-e1a25272be8d/AAABmrt12xM/AAABnSSvrFg/16x9-big/haende-maenner-ehering-100.jpg?width=1280"
         },
         {
-          "title": "Ehemaliger ukrainischer Stabschef Jermak in Untersuchungshaft",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-jermak-u-haft-100.html",
-          "summary": "Der frühere Selenskyj-Vertraute Andrij Jermak galt als einer der mächtigsten Politiker der Ukraine. Nun muss er wegen Korruptionsverdachts in Untersuchungshaft. Es geht um Geldwäsche-Vorwürfe in Millionenhöhe.",
+          "title": "Katholikentag in Würzburg: Wie politisch kann Kirche noch sein?",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/einfluss-kirche-politik-diskussion-100.html",
+          "summary": "Beim Katholikentag unterstreicht die Kirche: Sie will sich einmischen in die Politik. Doch ausgerechnet in der ihr nahestehenden Union wird immer schärfer diskutiert, wie viel Einfluss die Kirche nehmen darf. Von Korbinian Bauer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/aa3b64bd-59b2-4169-8302-2ad5597e34cd/AAABniYHSX8/AAABnSSvrFg/16x9-big/jermak-ukraine-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a809f9c5-214e-4c6a-b67b-0fc5de30eab7/AAABniaM6Z8/AAABnSSvrFg/16x9-big/bischof-jung-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Osterinsel: Klimaschock und Kolonialismus statt Ökozid",
+          "url": "https://www.telepolis.de/article/Osterinsel-Klimaschock-und-Kolonialismus-statt-Oekozid-11288387.html",
+          "summary": "Die Osterinsel galt lange als Beispiel für selbstverschuldeten Untergang. Doch dieses Narrativ ist unhaltbar, wie die neuere Forschung zeigt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/9/6/1/2/Marquicio_Pagola-cd040f015e18460e.jpg"
+        },
         {
           "title": "Epigenetik: Wie Väter Lebenserfahrungen an Kinder vererben",
           "url": "https://www.telepolis.de/article/Epigenetik-Wie-Vaeter-Lebenserfahrungen-an-Kinder-vererben-11290047.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/4/0/5/Master_Fess-ec6b77724977bfef.jpg"
-        },
-        {
-          "title": "73,5-Stunden-Woche: Das droht mit dem neuen Arbeitszeitgesetz",
-          "url": "https://www.telepolis.de/article/73-5-Stunden-Woche-Das-droht-mit-dem-neuen-Arbeitszeitgesetz-11290213.html",
-          "summary": "Experten rechnen vor: Bei einer Sechs-Tage-Woche wären künftig bis zu 73,5 Stunden legal – mit drastischen Folgen für die Gesundheit.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/0/8/0/5/2/5/az-01-d1ddfaf9522ccf71.gif"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Eurovision Song Contest in Wien: Teilnehmer, Songs, Termine: Alles zum ESC 2026",
-          "url": "https://www.sueddeutsche.de/medien/esc-2-halbfinale-2026-heute-live-reihenfolge-uebertragung-finale-teilnehmer-li.3355056",
-          "summary": "Wer tritt auf, wer moderiert und welche neuen Regeln gibt es? In Wien laufen die Vorbereitungen für die 70. Ausgabe des Musik-Events. Wissenswertes zum Eurovision Song Contest.",
+          "title": "Dem Geheimnis auf der Spur: Der Prunk von Babylon",
+          "url": "https://www.sueddeutsche.de/reise/gaerten-babylon-muenchen-li.3479427",
+          "summary": "Die Hängenden Gärten der Semiramis gehören zu den sieben Weltwundern der Antike. Und doch ist unklar, ob es sie überhaupt je gab.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/01/16/6c78b1b7-0f05-436f-be23-70ff16b8fa09.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C190%2C3283%2C1847"
+          "image": "https://www.sueddeutsche.de/2026/05/07/76eb354e-c65e-4fc6-8a70-20e325517f9c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C469%2C4000%2C2250"
         },
         {
-          "title": "Bosnien-Herzegowina: „Ich hatte gehofft, dass viele Dinge leichter zu lösen wären“",
-          "url": "https://www.sueddeutsche.de/politik/christian-schmidt-ruecktritt-bosnien-herzegowina-interview-li.3483204",
-          "summary": "Christian Schmidt, der seit 2021 über die Nachkriegsordnung in Bosnien-Herzegowina wacht, gibt „schweren Herzens“ sein Amt ab – wohl auf Druck der Trump-Regierung. Das politische Klima im Land hält er für zunehmend gefährlich.",
+          "title": "Cyberkriminalität: Vorbereitung: mangelhaft",
+          "url": "https://www.sueddeutsche.de/wirtschaft/cyberkriminalitaet-deutschland-risiken-schutzmassnahmen-li.3482548",
+          "summary": "Die wenigsten Deutschen schützen sich gegen Cyberkriminelle. Trotzdem glaubt die Mehrheit, sie wäre gut vorbereitet. Gangster haben da leichtes Spiel.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/14/1b319811-a748-44ba-965b-c48d7aa21c9a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C231%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2023/04/05/153c1bdc-ff25-4a03-b54b-cbe2a0951d1a.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C64%2C1371%2C771"
         },
         {
-          "title": "Gipfel in China: Trump will Deals – Taiwan ist nun Verhandlungsmasse",
-          "url": "https://www.sueddeutsche.de/politik/trump-xi-peking-taiwan-handelsgespraeche-fokus-li.3483393",
-          "summary": "Der US-Präsident befindet sich auf Staatsbesuch in China – und Gastgeber Xi dürfte mit dem ersten Gipfeltag ziemlich zufrieden sein.",
+          "title": "Zukunft von Manuel Neuer: Münchner Mentor im WM-Tor?",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-deutschland-kader-manuel-neuer-rueckkehr-nagelsmann-li.3483406",
+          "summary": "Manuel Neuer, 40, steht unmittelbar davor, seine Laufbahn zu verlängern, womöglich gar in doppelter Hinsicht: bei den Bayern und im Nationalteam. Seine Aufnahme in den WM-Kader wird beim DFB gerade diskutiert.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/14/037b12b8-3202-43cc-ab94-d6f6f6e12621.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/14/a8ab070e-5c10-489e-a6c8-371547b79e4a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C76%2C3100%2C1744"
         }
       ]
     }
