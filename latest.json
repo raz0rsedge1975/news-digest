@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-14T10:00:09.657Z",
-  "timestamp": "14.5.2026, 12:00:09",
+  "generated": "2026-05-14T14:00:11.578Z",
+  "timestamp": "14.5.2026, 16:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Wie weiter mit der CDU?: Thüringer Rezepte für Merz",
-          "url": "https://www.faz.net/aktuell/politik/inland/cdu-thueringen-was-merz-und-voigt-unterscheidet-accg-200821963.html",
-          "summary": "Thüringens Ministerpräsident Mario Voigt ist zwar rhetorisch nicht so stark wie  der Bundeskanzler. Dafür gelingt es ihm, Konsens in seiner Koalition zu finden – und Differenzen auszuklammern. Zur Überraschung vieler.",
+          "title": "Staatsbesuch in Peking: Xi setzt Trump die Pistole auf die Brust",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/xi-fordert-trump-in-peking-beim-thema-taiwan-heraus-accg-200831643.html",
+          "summary": "Chinas Staatschef empfängt Trump mit Pomp. Aber beim Thema Taiwan fordert Xi den Präsidenten sofort heraus – und sagt: Wir sind auf Augenhöhe.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/402b7825149c/w3000h1567x0y60o/202512/43601.0.1542586533/parteifreunde-bundeskanzler.webp"
+          "image": "https://media0.faz.net/image/w1200h627/6bec023ecb30/w5354h2797x0y412o/202605/43601.0.2079994782/donald-trump-posiert-mit-xi.webp"
         },
         {
-          "title": "Bärbel Bas: Ministerin mit Totenkopf-Mentalität",
-          "url": "https://www.faz.net/aktuell/politik/inland/nach-debatte-zu-sozialsystemen-will-baerbel-bas-wirklich-reformen-accg-200812714.html",
-          "summary": "Als Reformministerin gestartet, jetzt Klassenkämpferin? Viele in der Koalition zweifeln an Bärbel Bas.",
+          "title": "Besuch in China: Trump könnte es Peking schwerer machen",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/donald-trump-koennte-es-peking-schwerer-machen-200832260.html",
+          "summary": "Trump in China",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/73caa3e0d75d/w4468h2334x0y322o/202605/43601.0.2080620334/xi-jinping-und-donald-trump.webp"
+        },
+        {
+          "title": "Die VW-Story – Folge 3: Der große Betrug",
+          "url": "https://www.faz.net/podcasts/vw-podcast-folge-3-warum-der-dieselskandal-volkswagen-bis-heute-nicht-loslaesst-faz-podcast-200824465.html",
+          "summary": "„Die VW-Story“ Folge 3: Der Dieselskandal hat Volkswagen bis ins Mark erschüttert. Noch immer ringt die Justiz mit der Aufarbeitung. Jetzt im FAZ-Podcast anhören!",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/f8abd3377763/w4182h2185x0y1538o/202605/70da4354-53a4-413a-ba38-fcd62b775837/baerbel-bas-beim-spd-parteitag.webp"
-        },
-        {
-          "title": "Koalitionsausschuss: Die ungewöhnliche Nachricht: Es blieb ruhig",
-          "url": "https://www.faz.net/aktuell/politik/inland/koalition-einig-zu-haushalt-und-reformen-accg-200827992.html",
-          "summary": "In einer sechsstündigen Sitzung sollen Spitzenvertreter der Koalition einen Fahrplan für Reformen vereinbart haben. Abgeräumt haben sie die Entlastungsprämie.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e3faab2e34ee/w6000h3135x0y311o/202605/43601.0.2074296083/beratungen-in-berlin.webp"
+          "image": "https://media0.faz.net/image/w1200h627/bf3a88e403aa/w2936h1534x0y304o/201509/431.0.32360263/431032360263.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "»Der MSCI World ist eine große Wette auf den KI-Boom« - Fondsmanager Bert Flossbach im Interview",
+          "url": "https://www.spiegel.de/wirtschaft/der-msci-world-ist-eine-grosse-wette-auf-den-ki-boom-fondsmanager-bert-flossbach-im-interview-a-87c0769d-b0f3-4458-a9fb-44a4e882b78e#ref=rss",
+          "summary": "Die Börsenkurse schießen trotz des Irankriegs in neue Rekordhöhen. Hier spricht Fondsmanager Bert Flossbach über die Gründe und ein Problem, das er beim beliebten Aktienindex MSCI World sieht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/0a0e48c0-e37a-4c7e-ad2d-7addf97ff730_w1200_r1.778_fpx47_fpy45.jpg"
+        },
+        {
           "title": "NSDAP-Mitgliedschaft und Nazi-Kartei: Wie die NSDAP-Datenbank das Land aufrüttelt",
           "url": "https://www.spiegel.de/geschichte/nsdap-mitgliedschaft-und-nazi-kartei-wie-die-nsdap-datenbank-das-land-veraendert-a-878565c6-2caf-4055-87e6-a6909b3e3248#ref=rss",
-          "summary": "Mehr als zehn Millionen Menschen waren einst in der Hitler-Partei, die meisten verschwiegen es ihr Leben lang. Jetzt ist die Mitgliederkartei online, und mit ein paar Klicks sind Opa oder Oma entlarvt. Was macht das neue Wissen mit dem Land?",
+          "summary": "Mehr als zehn Millionen Menschen waren einst in der Hitlerpartei, die meisten verschwiegen es ihr Leben lang. Jetzt ist die Mitgliederkartei online, und mit ein paar Klicks sind Opa oder Oma entlarvt. Was macht das neue Wissen mit dem Land?",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/a0a8de8b-1446-4df1-80c9-701b21b6228a_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "Xi Jinping empfängt Donald Trump in China: Xi umgarnt Trump – und macht Druck bei Taiwan",
-          "url": "https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss",
-          "summary": "Der Himmelspalast, Flaggen schwenkende Kinder und viel Militär: Chinas Staatschef Xi Jinping bietet Donald Trump einen pompösen Empfang in Peking. Verfängt das beim US-Präsidenten? Der Staatsbesuch in der Liveanalyse.",
+          "title": "Iran-Krieg: Seewege als moderne Waffen – wie sich Deutschland schützen kann",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/iran-krieg-seewege-als-moderne-waffen-wie-sich-deutschland-schuetzen-kann-a-8a53e705-16ab-4aed-8cef-68ed7b670060#ref=rss",
+          "summary": "US-Außenminister Rubio beklagte, Iran verfüge mit der Straße von Hormus über eine »wirtschaftliche Nuklearwaffe«. Europa drohen an anderer Stelle aber noch größere Gefahren.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3673b8cf-d88d-435c-86b9-8022207ed6ec_w1200_r1.778_fpx57.81_fpy49.99.jpg"
-        },
-        {
-          "title": "Bundesregierung: CDU-Arbeitnehmerflügel und SPD-Konservative mahnen Frieden an",
-          "url": "https://www.spiegel.de/politik/deutschland/bundesregierung-cdu-arbeitnehmerfluegel-und-spd-konservative-mahnen-frieden-an-a-29db8d75-6b4a-40be-9980-3c1127fe50aa#ref=rss",
-          "summary": "In einer ungewöhnlichen Allianz wenden sich CDU-Arbeitnehmerflügel und konservative Sozialdemokraten an die Koalitionsspitzen: Der Streit müsse aufhören, die Vernünftigen müssten lauter werden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d67c6f63-d231-4395-b3d9-15e754e8d9cd_w1200_r1.778_fpx43.33_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/25112465-cfa9-424d-93c7-6b66902a7e88_w1200_r1.778_fpx54_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Proteste wegen massiver Stromausfälle in Kuba",
-          "url": "https://www.tagesschau.de/ausland/amerika/kuba-proteste-stromausfaelle-102.html",
-          "summary": "Seit Anfang des Jahres blockieren die USA Öllieferungen an Kuba. Der Energieminister spricht von einem \"kritischen Zustand\" des Stromnetzes. Nun gab es die wohl größten Proteste seit Beginn der Krise.",
+          "title": "Früherer EZB-Chef Draghi mit Aachener Karlspreis ausgezeichnet",
+          "url": "https://www.tagesschau.de/inland/karlspreis-draghi-ausgezeichnet-100.html",
+          "summary": "Für sein Lebenswerk hat der Italiener Draghi in Aachen den Karlspreis verliehen bekommen. Bundeskanzler Merz hob in seiner Festrede vor allem die Verdienste des früheren EZB-Chefs während der Euro-Finanzkrise hervor.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b5a30c01-ad9c-4bbb-8eef-db2d76895a93/AAABniWOSLM/AAABnSSvrFg/16x9-big/proteste-kuba-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3ce973fd-ea25-4eaa-8f26-f847523d434e/AAABniYUDAw/AAABnSSvrFg/16x9-big/mario-draghi-136.jpg?width=1280"
         },
         {
-          "title": "Normenkontrollrat: Scharfe Kritik am Gebäudemodernisierungsgesetz",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/normenkontrollrat-gebaeudemodernisierungsgesetz-100.html",
-          "summary": "Kaum verständlich, praxisfern und kostspielig - der Normenkontrollrat lässt kein gutes Haar am geplanten Gebäudemodernisierungsgesetz. Der Rat fordert den Bundestag auf, nachzubessern. Das Gesetz soll dort noch vor der Sommerpause beraten werden.",
+          "title": "Streit über Drohnenvorfälle: Lettlands Regierungschefin tritt zurück",
+          "url": "https://www.tagesschau.de/ausland/europa/lettland-regierungschefin-100.html",
+          "summary": "In Lettland gab es zuletzt Streit über Drohnenvorfälle an der Grenze zu Russland. Der Verteidigungsminister musste zurücktreten, die Regierung zerbrach. Nun hat auch Regierungschefin Silina ihren Rückzug bekanntgegeben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/56868974-f13d-45fb-abe5-110e3e0ff38e/AAABnd0Bjdc/AAABnSSvrFg/16x9-big/heizung-202.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f3de21a6-a0a3-47d8-b8f7-07f2138061d5/AAABniJwSJo/AAABnSSvrFg/16x9-big/silina-100.jpg?width=1280"
         },
         {
-          "title": "Libanon und Israel verhandeln - Kämpfe gehen weiter",
-          "url": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-verhandlungen-100.html",
-          "summary": "Im Libanon gehen die Kämpfe zwischen Israel und der Hisbollah-Miliz weiter. Das Militär forderte Bewohner mehrerer Orte zur Evakuierung auf. Parallel sollen heute direkte Gespräche zwischen Israel und Libanon stattfinden.",
+          "title": "Ehemaliger ukrainischer Stabschef Jermak in Untersuchungshaft",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-jermak-u-haft-100.html",
+          "summary": "Der frühere Selenskyj-Vertraute Andrij Jermak galt als einer der mächtigsten Politiker der Ukraine. Nun muss er wegen Korruptionsverdachts in Untersuchungshaft. Es geht um Geldwäsche-Vorwürfe in Millionenhöhe.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f8e1a7a5-f3ae-4dc4-8af4-ba55e017749f/AAABniWBTFQ/AAABnSSvrFg/16x9-big/libanon-angriffe-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/aa3b64bd-59b2-4169-8302-2ad5597e34cd/AAABniYHSX8/AAABnSSvrFg/16x9-big/jermak-ukraine-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Epigenetik: Wie Väter Lebenserfahrungen an Kinder vererben",
+          "url": "https://www.telepolis.de/article/Epigenetik-Wie-Vaeter-Lebenserfahrungen-an-Kinder-vererben-11290047.html",
+          "summary": "Forscher weisen nach, dass kleine RNA-Fragmente im Sperma den Lebensstil des Vaters an Nachkommen weitergeben.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/0/4/3/9/shutterstock_2634624385-1a13ee06f59a1d5f.jpg"
+        },
+        {
+          "title": "Alarmstufe Rot im Rathaus:  Wirtschaftswachstum rettet Kommunen nicht mehr",
+          "url": "https://www.telepolis.de/article/Alarmstufe-Rot-im-Rathaus-Wirtschaftswachstum-rettet-Kommunen-nicht-mehr-11293984.html",
+          "summary": "Deutscher Städtetag warnt vor drohender Handlungsunfähigkeit. Ölpreise gießen Öl ins Feuer. Paritätischer Wohlfahrtsverband fürchtet Kahlschlag im Sozialen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/4/0/5/Master_Fess-ec6b77724977bfef.jpg"
+        },
+        {
           "title": "73,5-Stunden-Woche: Das droht mit dem neuen Arbeitszeitgesetz",
           "url": "https://www.telepolis.de/article/73-5-Stunden-Woche-Das-droht-mit-dem-neuen-Arbeitszeitgesetz-11290213.html",
           "summary": "Experten rechnen vor: Bei einer Sechs-Tage-Woche wären künftig bis zu 73,5 Stunden legal – mit drastischen Folgen für die Gesundheit.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/0/8/0/5/2/5/az-01-d1ddfaf9522ccf71.gif"
-        },
-        {
-          "title": "Berlins gefährliches Schweigen im Sanktionskrieg",
-          "url": "https://www.telepolis.de/article/Berlins-gefaehrliches-Schweigen-im-Sanktionskrieg-11293138.html",
-          "summary": "Wie man Nein sagt: Peking hat eine Gegenstrategie zu US-Sanktionen entwickelt. Berlin will keine. Eine erste Bilanz des geoökonomischen Versagens.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/1/9/8/0/shutterstock_2657812747-0b5e9794d80a1895.jpg"
-        },
-        {
-          "title": "PCK-Raffinerie unter Druck: Diese Alternativen sollen die Versorgung retten",
-          "url": "https://www.telepolis.de/article/PCK-Raffinerie-unter-Druck-Diese-Alternativen-sollen-die-Versorgung-retten-11293519.html",
-          "summary": "Die PCK-Raffinerie in Schwedt kämpft ums Öl – und die Zeit läuft. Welche Alternativen jetzt auf dem Tisch liegen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/1/7/2/csm_PCK-Fahnen_e03020b379-2a60ac6ef959459c.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Trump und Xi: Dass Taiwan jetzt Thema wird, ist kein Zufall",
+          "title": "Eurovision Song Contest in Wien: Teilnehmer, Songs, Termine: Alles zum ESC 2026",
+          "url": "https://www.sueddeutsche.de/medien/esc-2-halbfinale-2026-heute-live-reihenfolge-uebertragung-finale-teilnehmer-li.3355056",
+          "summary": "Wer tritt auf, wer moderiert und welche neuen Regeln gibt es? In Wien laufen die Vorbereitungen für die 70. Ausgabe des Musik-Events. Wissenswertes zum Eurovision Song Contest.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/01/16/6c78b1b7-0f05-436f-be23-70ff16b8fa09.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C190%2C3283%2C1847"
+        },
+        {
+          "title": "Bosnien-Herzegowina: „Ich hatte gehofft, dass viele Dinge leichter zu lösen wären“",
+          "url": "https://www.sueddeutsche.de/politik/christian-schmidt-ruecktritt-bosnien-herzegowina-interview-li.3483204",
+          "summary": "Christian Schmidt, der seit 2021 über die Nachkriegsordnung in Bosnien-Herzegowina wacht, gibt „schweren Herzens“ sein Amt ab – wohl auf Druck der Trump-Regierung. Das politische Klima im Land hält er für zunehmend gefährlich.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/14/1b319811-a748-44ba-965b-c48d7aa21c9a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C231%2C3500%2C1969"
+        },
+        {
+          "title": "Gipfel in China: Trump will Deals – Taiwan ist nun Verhandlungsmasse",
           "url": "https://www.sueddeutsche.de/politik/trump-xi-peking-taiwan-handelsgespraeche-fokus-li.3483393",
-          "summary": "US-Präsident Trump ist zum Staatsbesuch in China – und Präsident Xi dürfte mit dem ersten Verhandlungstag zufrieden sein.",
+          "summary": "Der US-Präsident befindet sich auf Staatsbesuch in China – und Gastgeber Xi dürfte mit dem ersten Gipfeltag ziemlich zufrieden sein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/14/fc4b9be8-31b3-42ad-bb11-ae2b3eff02fe.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C298%2C2859%2C1608"
-        },
-        {
-          "title": "Film: Seinen größten Erfolg verdankt Peter Jackson dem Finanzamt",
-          "url": "https://www.sueddeutsche.de/kultur/peter-jackson-cannes-interview-herr-der-ringe-li.3482041",
-          "summary": "Der „Herr der Ringe“-Regisseur erhält in Cannes den Preis für sein Lebenswerk. Ein spontanes Treffen im Salon – und die Frage: Warum wurde er bei seinem ersten Besuch rausgeschmissen?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/14/98e25987-a248-4201-9355-c7a7fee488db.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=437%2C228%2C2893%2C1627"
-        },
-        {
-          "title": "Premiere in München: Überraschung bei „LOL“-Besetzung",
-          "url": "https://www.sueddeutsche.de/muenchen/lol-last-one-laughing-comedy-show-bully-hunziker-kerkeling-li.3475296",
-          "summary": "Vorstellung der Bloß-nicht-lachen-Show „LOL“:  Intime Momente, die besondere Rolle von Horst Schlämmer und wer für Michelle Hunziker der schlimmste Gegner ist.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/14/4e52ae8c-3878-4736-bcec-62c97e20fd6f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/14/037b12b8-3202-43cc-ab94-d6f6f6e12621.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         }
       ]
     }
