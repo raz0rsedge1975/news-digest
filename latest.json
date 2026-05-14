@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-14T06:00:10.075Z",
-  "timestamp": "14.5.2026, 08:00:10",
+  "generated": "2026-05-14T10:00:09.657Z",
+  "timestamp": "14.5.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog USA unter Trump: Xi warnt Trump vor Konflikt wegen Taiwan",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-in-china-eingetroffen-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
+          "title": "Wie weiter mit der CDU?: Thüringer Rezepte für Merz",
+          "url": "https://www.faz.net/aktuell/politik/inland/cdu-thueringen-was-merz-und-voigt-unterscheidet-accg-200821963.html",
+          "summary": "Thüringens Ministerpräsident Mario Voigt ist zwar rhetorisch nicht so stark wie  der Bundeskanzler. Dafür gelingt es ihm, Konsens in seiner Koalition zu finden – und Differenzen auszuklammern. Zur Überraschung vieler.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d76c4156dc40/w4766h2490x0y95o/202605/43601.0.2079345721/us-praesident-donald-trump-ist.webp"
+          "image": "https://media0.faz.net/image/w1200h627/402b7825149c/w3000h1567x0y60o/202512/43601.0.1542586533/parteifreunde-bundeskanzler.webp"
         },
         {
-          "title": "Hunderte Drohnen: Russland beschießt Ukraine massiv mit Raketen und Drohnen",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/russland-beschiesst-ukraine-massiv-mit-raketen-und-drohnen-accg-200831189.html",
-          "summary": "Die Waffenruhe hielt nur kurz, nun läuft die wohl längste Angriffswelle seit Kriegsbeginn. Kiew spricht von „Terror“. Auch in der Nacht werden Explosionen aus ukrainischen Städten gemeldet.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6028e628d1c9/w5229h2732x0y632o/202605/43601.0.2079210020/a-woman-walks-amid-rubble-as.webp"
-        },
-        {
-          "title": "F.A.Z. Podcast für Deutschland: Militärexperte Lange über neuen Ukraine-Friedensplan: „Kann man sich gleich den Russen ausliefern“",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/neuer-ukraine-friedensplan-kann-man-sich-gleich-den-russen-ausliefern-200250849.html",
-          "summary": "Über den von amerikanischen Medien veröffentlichten, angeblichen Friedensplan für die Ukraine sprechen wir mit dem Politikwissenschaftler Nico Lange und dem F.A.Z.-Korrespondenten Stefan Locke.",
+          "title": "Bärbel Bas: Ministerin mit Totenkopf-Mentalität",
+          "url": "https://www.faz.net/aktuell/politik/inland/nach-debatte-zu-sozialsystemen-will-baerbel-bas-wirklich-reformen-accg-200812714.html",
+          "summary": "Als Reformministerin gestartet, jetzt Klassenkämpferin? Viele in der Koalition zweifeln an Bärbel Bas.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/a98ca5f8b560/w5000h2612x0y361o/202511/43601.0.1502599675/4360101502599675.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f8abd3377763/w4182h2185x0y1538o/202605/70da4354-53a4-413a-ba38-fcd62b775837/baerbel-bas-beim-spd-parteitag.webp"
+        },
+        {
+          "title": "Koalitionsausschuss: Die ungewöhnliche Nachricht: Es blieb ruhig",
+          "url": "https://www.faz.net/aktuell/politik/inland/koalition-einig-zu-haushalt-und-reformen-accg-200827992.html",
+          "summary": "In einer sechsstündigen Sitzung sollen Spitzenvertreter der Koalition einen Fahrplan für Reformen vereinbart haben. Abgeräumt haben sie die Entlastungsprämie.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e3faab2e34ee/w6000h3135x0y311o/202605/43601.0.2074296083/beratungen-in-berlin.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "NSDAP-Mitgliederdatei: Gebt die Nazi-Akten frei!",
-          "url": "https://www.spiegel.de/geschichte/meinung-digitale-nsdap-mitgliederdatei-gebt-die-nazi-akten-frei-a-4dc5675a-4b1d-4508-a969-544449f15bf4#ref=rss",
-          "summary": "Die Nazi-Kartei zeigt, wie Aufarbeitung im Internet aussehen kann. Das wäre eigentlich Aufgabe des Bundesarchivs.",
+          "title": "NSDAP-Mitgliedschaft und Nazi-Kartei: Wie die NSDAP-Datenbank das Land aufrüttelt",
+          "url": "https://www.spiegel.de/geschichte/nsdap-mitgliedschaft-und-nazi-kartei-wie-die-nsdap-datenbank-das-land-veraendert-a-878565c6-2caf-4055-87e6-a6909b3e3248#ref=rss",
+          "summary": "Mehr als zehn Millionen Menschen waren einst in der Hitler-Partei, die meisten verschwiegen es ihr Leben lang. Jetzt ist die Mitgliederkartei online, und mit ein paar Klicks sind Opa oder Oma entlarvt. Was macht das neue Wissen mit dem Land?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9cb35dc9-2279-4293-8b1a-8d9c0cc380cd_w1200_r1.778_fpx52.59_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a0a8de8b-1446-4df1-80c9-701b21b6228a_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "Xi Jinping empfängt Donald Trump in China: Warnung vor Konflikt wegen Taiwan",
+          "title": "Xi Jinping empfängt Donald Trump in China: Xi umgarnt Trump – und macht Druck bei Taiwan",
           "url": "https://www.spiegel.de/ausland/donald-trump-besucht-china-usa-hoffen-auf-xi-jinpings-hilfe-in-iran-doch-china-hat-eigene-prioritaetenenen-interessen-a-2db6f226-ddcc-4873-8652-eadd74a7e9b1#ref=rss",
-          "summary": "Donald Trump trifft Xi Jinping. Chinas Staatschef warnt vor einer »sehr gefährlichen Lage« in der Taiwanfrage. Kann der US-Präsident in Peking punkten? Der Staatsbesuch im News-Update.",
+          "summary": "Der Himmelspalast, Flaggen schwenkende Kinder und viel Militär: Chinas Staatschef Xi Jinping bietet Donald Trump einen pompösen Empfang in Peking. Verfängt das beim US-Präsidenten? Der Staatsbesuch in der Liveanalyse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1cdb1258-cd9b-4cf5-a469-c34dee470588_w1200_r1.778_fpx50_fpy59.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3673b8cf-d88d-435c-86b9-8022207ed6ec_w1200_r1.778_fpx57.81_fpy49.99.jpg"
         },
         {
           "title": "Bundesregierung: CDU-Arbeitnehmerflügel und SPD-Konservative mahnen Frieden an",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Präsident Trump bei Chinas Xi: \"Welt schaut auf dieses Treffen\"",
-          "url": "https://www.tagesschau.de/ausland/asien/china-usa-trump-xi-treffen-100.html",
-          "summary": "In Peking hat der Staatsbesuch von US-Präsident Trump begonnen. Trump und Chinas Staatschef Xi wollen über viele Themen sprechen - von Handel bis Sicherheitspolitik. Hoffnungen hat dabei auch die deutsche Wirtschaft. Von Maximilian Seib.",
+          "title": "Proteste wegen massiver Stromausfälle in Kuba",
+          "url": "https://www.tagesschau.de/ausland/amerika/kuba-proteste-stromausfaelle-102.html",
+          "summary": "Seit Anfang des Jahres blockieren die USA Öllieferungen an Kuba. Der Energieminister spricht von einem \"kritischen Zustand\" des Stromnetzes. Nun gab es die wohl größten Proteste seit Beginn der Krise.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f5b6b402-d961-47bf-823e-fbdcfffe151f/AAABniTSdR0/AAABnSSvrFg/16x9-big/xi-trump-peking-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b5a30c01-ad9c-4bbb-8eef-db2d76895a93/AAABniWOSLM/AAABnSSvrFg/16x9-big/proteste-kuba-104.jpg?width=1280"
         },
         {
-          "title": "Trump und Xi sprechen in Peking: \"Die Welt befindet sich an einem Scheideweg“",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-xi-156.html",
-          "summary": "Chinas Staats- und Parteichef Xi und US-Präsident Trump haben Gespräche in Peking begonnen. Trump lobte Xi als \"großartigen Anführer\" und sprach von einer \"fantastischen\" Zukunft. Xi erklärte, die Welt befinde sich an einem Scheideweg.",
+          "title": "Normenkontrollrat: Scharfe Kritik am Gebäudemodernisierungsgesetz",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/normenkontrollrat-gebaeudemodernisierungsgesetz-100.html",
+          "summary": "Kaum verständlich, praxisfern und kostspielig - der Normenkontrollrat lässt kein gutes Haar am geplanten Gebäudemodernisierungsgesetz. Der Rat fordert den Bundestag auf, nachzubessern. Das Gesetz soll dort noch vor der Sommerpause beraten werden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ffd7bcd8-13e1-4a00-a864-1b71708b4a0d/AAABniSQrbY/AAABnSSvrFg/16x9-big/trump-xi-bejiing-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/56868974-f13d-45fb-abe5-110e3e0ff38e/AAABnd0Bjdc/AAABnSSvrFg/16x9-big/heizung-202.jpg?width=1280"
         },
         {
-          "title": "Russischer Zerstörer vor deutscher Ostseeküste",
-          "url": "https://www.tagesschau.de/ausland/europa/russland-zerstoerer-ostseekueste-100.html",
-          "summary": "Ein russischer Zerstörer hat vor der deutschen Ostseeküste Position bezogen. Es ist nicht das erste Mal, dass die russische Marine hier Flagge zeigt. Die deutsche Marine, die Bundespolizei und die NATO beobachten die Aktivitäten aufmerksam.",
+          "title": "Libanon und Israel verhandeln - Kämpfe gehen weiter",
+          "url": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-verhandlungen-100.html",
+          "summary": "Im Libanon gehen die Kämpfe zwischen Israel und der Hisbollah-Miliz weiter. Das Militär forderte Bewohner mehrerer Orte zur Evakuierung auf. Parallel sollen heute direkte Gespräche zwischen Israel und Libanon stattfinden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ee9b401e-2510-4df1-aa7d-8f882a9f5cfe/AAABniQaMJw/AAABnSSvrFg/16x9-big/karte-ostsee-anrainerlaender-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f8e1a7a5-f3ae-4dc4-8af4-ba55e017749f/AAABniWBTFQ/AAABnSSvrFg/16x9-big/libanon-angriffe-106.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "73,5-Stunden-Woche: Das droht mit dem neuen Arbeitszeitgesetz",
+          "url": "https://www.telepolis.de/article/73-5-Stunden-Woche-Das-droht-mit-dem-neuen-Arbeitszeitgesetz-11290213.html",
+          "summary": "Experten rechnen vor: Bei einer Sechs-Tage-Woche wären künftig bis zu 73,5 Stunden legal – mit drastischen Folgen für die Gesundheit.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/0/8/0/5/2/5/az-01-d1ddfaf9522ccf71.gif"
+        },
+        {
+          "title": "Berlins gefährliches Schweigen im Sanktionskrieg",
+          "url": "https://www.telepolis.de/article/Berlins-gefaehrliches-Schweigen-im-Sanktionskrieg-11293138.html",
+          "summary": "Wie man Nein sagt: Peking hat eine Gegenstrategie zu US-Sanktionen entwickelt. Berlin will keine. Eine erste Bilanz des geoökonomischen Versagens.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/1/9/8/0/shutterstock_2657812747-0b5e9794d80a1895.jpg"
+        },
+        {
           "title": "PCK-Raffinerie unter Druck: Diese Alternativen sollen die Versorgung retten",
           "url": "https://www.telepolis.de/article/PCK-Raffinerie-unter-Druck-Diese-Alternativen-sollen-die-Versorgung-retten-11293519.html",
           "summary": "Die PCK-Raffinerie in Schwedt kämpft ums Öl – und die Zeit läuft. Welche Alternativen jetzt auf dem Tisch liegen.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/1/7/2/csm_PCK-Fahnen_e03020b379-2a60ac6ef959459c.jpg"
-        },
-        {
-          "title": "Erst Energiepreise, dann Jobs: Europa rutscht in die Stagflation",
-          "url": "https://www.telepolis.de/article/Erst-Energiepreise-dann-Jobs-Europa-rutscht-in-die-Stagflation-11293376.html",
-          "summary": "EZB-Ratsmitglied Rehn sieht erste Stagflationszeichen. Inflation bei 3 Prozent, Wachstum nahe null – und die Zinswende nach oben rückt näher.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/0/9/9/shutterstock_2224928059-2acff5a45db4c001.jpg"
-        },
-        {
-          "title": "Trumps Kuba-Strategie: Ein Desaster in Zeitlupe",
-          "url": "https://www.telepolis.de/article/Trumps-Kuba-Strategie-Ein-Desaster-in-Zeitlupe-11292997.html",
-          "summary": "Trotz aller Gespräche über Abkommen scheint die Politik von Donald Trump nun darauf ausgerichtet zu sein, die Insel zu brechen. Ein Gastbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/1/9/0/3/shutterstock_2630230675-0392a319d4e3a8cb.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA und China: Xi warnt Trump vor einem Konflikt wegen Taiwan",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-pentagon-soldaten-china-trump-peking-besuch-li.3478505",
-          "summary": "Nach warmen Worten beider Präsidenten zu Beginn von Trumps Staatsbesuch in Peking kommt Chinas Staatschef Xi schnell auf ein heikles Thema zu sprechen. Das Pentagon stoppt die Entsendung von 4000 Soldaten nach Polen.",
+          "title": "Trump und Xi: Dass Taiwan jetzt Thema wird, ist kein Zufall",
+          "url": "https://www.sueddeutsche.de/politik/trump-xi-peking-taiwan-handelsgespraeche-fokus-li.3483393",
+          "summary": "US-Präsident Trump ist zum Staatsbesuch in China – und Präsident Xi dürfte mit dem ersten Verhandlungstag zufrieden sein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/14/1456e150-ef1d-4bf0-bf10-760478f29282.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/14/fc4b9be8-31b3-42ad-bb11-ae2b3eff02fe.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C298%2C2859%2C1608"
         },
         {
-          "title": "Bundespolitik: AfD und BSW verhelfen Grünen-Antrag in Sachsen zur Mehrheit",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-entlastungspraemie-koalitionsausschuss-li.3480868",
-          "summary": "„Sehr bestürzt“ sind die Grünen im sächsischen Landtag über die Mehrheit zur Unterstützung kleiner Schlachtbetriebe. Auf die Stimmen der AfD hätten sie gern verzichtet.",
+          "title": "Film: Seinen größten Erfolg verdankt Peter Jackson dem Finanzamt",
+          "url": "https://www.sueddeutsche.de/kultur/peter-jackson-cannes-interview-herr-der-ringe-li.3482041",
+          "summary": "Der „Herr der Ringe“-Regisseur erhält in Cannes den Preis für sein Lebenswerk. Ein spontanes Treffen im Salon – und die Frage: Warum wurde er bei seinem ersten Besuch rausgeschmissen?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/14/1e396625-db86-45b1-ac69-bf3718739ddd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C353%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/14/98e25987-a248-4201-9355-c7a7fee488db.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=437%2C228%2C2893%2C1627"
         },
         {
-          "title": "Christi Himmelfahrt und das Brauchtum: Der Niedergang des Auffahrtstags",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-brauchtum-christi-himmelfahrt-vatertag-auffahrtstag-1.4914178",
-          "summary": "Einst wurde Christi Himmelfahrt mit spektakulären Gottesdiensten begangen. Die heutigen Spektakel am sogenannten Vatertag mit Leiterwagen voller Bierkästen sind weit profaner. Das ist, nüchtern betrachtet, eher traurig.",
+          "title": "Premiere in München: Überraschung bei „LOL“-Besetzung",
+          "url": "https://www.sueddeutsche.de/muenchen/lol-last-one-laughing-comedy-show-bully-hunziker-kerkeling-li.3475296",
+          "summary": "Vorstellung der Bloß-nicht-lachen-Show „LOL“:  Intime Momente, die besondere Rolle von Horst Schlämmer und wer für Michelle Hunziker der schlimmste Gegner ist.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/05/28/ad6f26fd-ab8d-4e66-91b7-3a4644016800.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C113%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/14/4e52ae8c-3878-4736-bcec-62c97e20fd6f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
         }
       ]
     }
