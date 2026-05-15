@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-14T22:00:11.937Z",
-  "timestamp": "15.5.2026, 00:00:11",
+  "generated": "2026-05-15T02:00:08.956Z",
+  "timestamp": "15.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Eurovision Song Contest: Alles in Ordnung",
+          "url": "https://www.sueddeutsche.de/medien/esc-zweites-halbfinale-eurovision-song-contest-wien-stadthalle-li.3483607",
+          "summary": "Ist eine ESC-Show auch ohne politische Kontroverse möglich? Das zweite Halbfinale bemüht sich sehr – und liefert eine glatt polierte Hochglanzshow.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/15/00cb6489-7f14-4451-828a-9d433897f914.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C544%2C4000%2C2250"
+        },
+        {
           "title": "Eurovision Song Contest in Wien: Teilnehmer, Songs, Termine: Alles zum ESC 2026",
           "url": "https://www.sueddeutsche.de/medien/esc-2-halbfinale-2026-heute-live-tv-uebertragung-startreihenfolge-teilnehmer-li.3355056",
           "summary": "Wer tritt auf, wer moderiert und welche neuen Regeln gibt es? In Wien laufen die Vorbereitungen für die 70. Ausgabe des Musik-Events. Wissenswertes zum Eurovision Song Contest.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/07/76eb354e-c65e-4fc6-8a70-20e325517f9c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C469%2C4000%2C2250"
-        },
-        {
-          "title": "Cyberkriminalität: Vorbereitung: mangelhaft",
-          "url": "https://www.sueddeutsche.de/wirtschaft/cyberkriminalitaet-deutschland-risiken-schutzmassnahmen-li.3482548",
-          "summary": "Die wenigsten Deutschen schützen sich gegen Cyberkriminelle. Trotzdem glaubt die Mehrheit, sie wäre gut vorbereitet. Gangster haben da leichtes Spiel.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2023/04/05/153c1bdc-ff25-4a03-b54b-cbe2a0951d1a.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C64%2C1371%2C771"
         }
       ]
     }
