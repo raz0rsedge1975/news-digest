@@ -1,10 +1,26 @@
 {
-  "generated": "2026-05-16T02:00:09.621Z",
-  "timestamp": "16.5.2026, 04:00:09",
+  "generated": "2026-05-16T06:00:10.104Z",
+  "timestamp": "16.5.2026, 08:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Liveblog USA unter Trump: Trump zu Waffenverkauf an Taiwan: Gutes Druckmittel für USA",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-zu-waffenverkauf-an-taiwan-gutes-druckmittel-fuer-usa-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a0e3d3451a0f/w4000h2090x0y289o/202605/43601.0.2086431121/us-praesident-donald-trump-bei.webp"
+        },
+        {
+          "title": "Aktiengeschäfte: Trumps Aktienkäufe werfen Fragen auf",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nvidia-und-donald-trump-brisante-aktienkaeufe-enthuellt-200835977.html",
+          "summary": "In Trumps Wertpapiervermögen gab es binnen drei Monaten 3600 Transaktionen. Der US-Präsident kaufte auch Anteile von Unternehmen, die von seiner Politik abhängig sind. Darf er das? Und was ist in Deutschland erlaubt?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/5166c3d33c2c/w5500h2873x0y397o/202605/43601.0.2084749918/us-praesident-donald-trump-auf.webp"
+        },
         {
           "title": "Katholikentag und AfD: In der Kirche hilft keine Brandmauer",
           "url": "https://www.faz.net/aktuell/politik/inland/katholikentag-und-afd-in-der-kirche-helfen-keine-brandmauern-200833302.html",
@@ -12,28 +28,20 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/5ab431ac8525/w6144h3210x0y502o/202605/43601.0.2080338226/eroeffnungsgottesdienst-des.webp"
-        },
-        {
-          "title": "Kanzler beim Katholikentag: Nur beim Gebet weicht er aus",
-          "url": "https://www.faz.net/aktuell/politik/inland/wie-merz-beim-katholikentag-mit-jungen-menschen-spricht-200833267.html",
-          "summary": "Wieder spricht Friedrich Merz in Würzburg vor jungen Leuten über die USA. Und wieder hält er sich dabei kaum zurück.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3d24d91eb20e/w8640h4514x0y382o/202605/43601.0.2084136756/bundeskanzler-friedrich-merz.webp"
-        },
-        {
-          "title": "Alleinregierung in Magdeburg: Der interne Machtplan der AfD",
-          "url": "https://www.faz.net/aktuell/politik/sachsen-anhalt-der-interne-machtplan-der-afd-200836110.html",
-          "summary": "Die Rechtspopulisten in Sachsen-Anhalt bereiten sich auf eine Alleinregierung vor. Sie drohen allen Beamten, die sich ihnen in den Weg stellen wollen, mit Konsequenzen.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/55b2c5797cf3/w2037h1064x0y875o/202605/8f8b4d0c-4eea-11f1-a739-a4e6250accd9/afd-blaue-farbe-auf-dem.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "AfD in Mecklenburg-Vorpommern: Bei Wahlsieg Remigration und Rückführungspolizei geplant",
+          "url": "https://www.spiegel.de/politik/afd-in-mecklenburg-vorpommern-bei-wahlsieg-remigration-und-rueckfuehrungspolizei-geplant-a-5b35b287-9c0b-4dbb-8835-34cbfa9fc5da#ref=rss",
+          "summary": "Die AfD im Nordosten bereitet sich auf die Macht vor. Ein interner Programmentwurf zeigt, wie radikal der Umbau von Migration, Bildung und Kulturpolitik nach einem möglichen Wahlsieg der Partei ausfallen könnte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7bd10e77-4c36-4b09-bc7f-1837e0456919_w1200_r1.778_fpx62_fpy42.jpg"
+        },
         {
           "title": "NSDAP-Mitgliedschaft: »Es gab keinen Zwang – aber sozialen Druck«",
           "url": "https://www.spiegel.de/geschichte/nsdap-mitgliedschaft-es-gab-keinen-zwang-aber-sozialen-druck-a-024f3952-1999-45c4-9843-ed731e9b7981#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/fe36ce1a-f1e7-4824-86a1-527de0aca64f_w1200_r1.778_fpx34.75_fpy50.jpg"
         },
         {
-          "title": "Friedrich Merz spricht auf Katholikentag über USA unter Trump und deutsche Arbeitsmoral",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/friedrich-merz-spricht-auf-katholikentag-ueber-usa-unter-trump-und-deutsche-arbeitsmoral-a-3f39b398-3599-4bae-9269-100599478031#ref=rss",
-          "summary": "Kanzler Merz will auf dem Katholikentag mit jungen Menschen ins Gespräch kommen. Er redet über die USA unter Trump und die Arbeitseinstellung in Deutschland. Störer im Saal werden schnell zum Schweigen gebracht.",
+          "title": "News: Manuel Neuer vor Comeback für Deutschland, Tucker Carlson vs. Donald Trump, ESC-Finale in Wien",
+          "url": "https://www.spiegel.de/politik/deutschland/news-manuel-neuer-vor-comeback-fuer-deutschland-tucker-carlson-vs-donald-trump-esc-finale-in-wien-a-314d374a-27c1-4b66-81ce-c7dcc2f8256a#ref=rss",
+          "summary": "Spekulationen über Deutschlands Nummer eins. Tucker Carlsons Bruch mit Donald Trump. Und: Wie viel Politik verträgt der Eurovision Song Contest? Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/87191922-5b3f-4110-a205-d970dc558094_w1200_r1.778_fpx33.34_fpy50.jpg"
-        },
-        {
-          "title": "FDP-Krise: Warum die Liberalen sowohl Kubicki als auch Höne brauchen",
-          "url": "https://www.spiegel.de/politik/deutschland/fdp-krise-warum-die-liberalen-sowohl-kubicki-als-auch-hoene-brauchen-a-bc08ceff-8710-4909-ae12-07c7d399e38d#ref=rss",
-          "summary": "Dass der Zweikampf um den Vorsitz der FDP beendet wurde, ist richtig. Um zu überleben, braucht sie Wolfgang Kubicki und Henning Höne. Ein Duell auf dem Parteitag hätte die Liberalen weiter entzweit.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9cf4c9b3-b998-4749-b428-f4b6832c759f_w1200_r1.778_fpx46.58_fpy49.88.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -82,7 +82,7 @@
         {
           "title": "Forschungsschiff Polarstern: Klimaforscher unter Druck",
           "url": "https://www.tagesschau.de/wissen/polarstern-klimaforscher-druck-100.html",
-          "summary": "Dürren und Hochwasser nehmen zu. Gleichzeitig steigt der Druck auf jene Forscher, die nach den Ursachen suchen. An Bord des Forschungsschiffs Polarstern lassen sie sich nicht beirren. Von Dominic Hebestreit.",
+          "summary": "Dürren und Hochwasser nehmen zu, gleichzeitig steigt der Druck auf Klimaforscher. Das merkt auch die Besatzung des Forschungsschiffs Polarstern, das nach 183 Tagen in der Antarktis wieder in Bremerhaven ist. Von Dominic Hebestreit.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/192fd790-0377-4791-a363-cf4af5cac03f/AAABmxJjpGA/AAABnSSvrFg/16x9-big/polarstern-132.jpg?width=1280"
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "„Me too“: Warum erneut ein Prozess gegen Weinstein geplatzt ist",
+          "url": "https://www.sueddeutsche.de/panorama/harvey-weinstein-prozess-new-york-metoo-li.3484169",
+          "summary": "Schon zum zweiten Mal scheitert ein Prozess wegen Vergewaltigung gegen den ehemaligen Produzenten. Sein Fall zeigt, wie schwierig die juristische Aufarbeitung von „Me too“ ist.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/16/aec8d076-9625-46ef-973d-47a3373ef10f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
           "title": "Film: Schauspielerin Angelica Domröse ist tot",
           "url": "https://www.sueddeutsche.de/kultur/angelica-domroese-ddr-schauspielerin-tot-li.3484114",
           "summary": "Domröse galt als eine der beliebtesten Schauspielerinnen in der DDR, erfolgreich war sie später auch im Westen. „Die Legende von Paul und Paula“ war ihr bekanntester Film. Sie wurde 85 Jahre alt.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/15/9f77609e-b435-4b67-aab6-61c624578f11.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C187%2C3595%2C2022"
-        },
-        {
-          "title": "Krieg in der Ukraine: Selenskij: Russland erwägt Angriff auf Nato-Staat von Belarus aus",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-belarus-russland-nato-angriff-li.3483341",
-          "summary": "Der ukrainische Präsident beruft sich auf Geheimdienstinformationen und behauptet, Russland wolle Belarus zum Eintritt in den Krieg bewegen – oder von dort aus die Nato attackieren.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/01/700013d2-89a6-4c96-9f74-29d78fd90e70.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
