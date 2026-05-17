@@ -1,17 +1,17 @@
 {
-  "generated": "2026-05-16T22:00:19.579Z",
-  "timestamp": "17.5.2026, 00:00:19",
+  "generated": "2026-05-17T02:00:08.885Z",
+  "timestamp": "17.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Immobilien: Was das neue Heizungsgesetz für die Hauspreise bedeutet",
-          "url": "https://www.faz.net/aktuell/finanzen/was-das-neue-heizungsgesetz-fuer-die-hauspreise-bedeutet-accg-200834937.html",
-          "summary": "Das Bundeskabinett hat dem entschärften Heizungsgesetz zugestimmt. Das könnte die Abschläge auf den Preis von Bestandsimmobilien dämpfen. Auch Banken finanzieren solche Objekte wohl wieder etwas entspannter.",
+          "title": "Deutschland auf Rang 23: Dara aus Bulgarien gewinnt sensationell ESC-Finale in Wien",
+          "url": "https://www.faz.net/aktuell/gesellschaft/eurovision-song-contest/finale-des-esc-dara-aus-bulgarien-gewinnt-sensationell-in-wien-accg-200838057.html",
+          "summary": "Die Favoriten straucheln, und die Bulgarin Dara macht am Ende das Rennen mit ihrem Lied „Bangaranga“. In welcher Stadt der ESC nächstes Jahr stattfindet, steht auch schon fest.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/7d6ae19dd407/w2727h1424x0y67o/202207/43600.0.1050444223/schoene-lage-aber.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/994edb77bd76/w2378h1242x0y103o/202605/43601.0.2090065690/der-erste-sieg-fuer-bulgarien.webp"
         },
         {
           "title": "Angriff auf Europa?: Putins Fenster öffnet sich jetzt",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "ESC 2026 in Wien: So läuft das Finale",
+          "title": "ESC 2026 in Wien: Dara aus Bulgarien gewinnt Eurovision mit »Bangaranga«",
           "url": "https://www.spiegel.de/kultur/musik/esc-2026-in-wien-sarah-engels-geht-zuversichtlich-ins-finale-a-fb58b646-6ed7-4d66-8b9b-2333c7d05437#ref=rss",
-          "summary": "Schon als Zweite ging Deutschlands Abgesandte Sarah Engels an den Start. Außerdem gab es eine monströse Grusel-Alte, einen Nebelkrähenfürsten und ein Tanzaquarium zu sehen. Verfolgen Sie den ESC im Liveblog.",
+          "summary": "Alle Punkte sind vergeben: Dara beerbt JJ aus Österreich als Siegerin des ESC. Deutschland wird Drittletzter. Die Ergebnisse und der Abend zum Nachlesen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5d8b7680-c197-48d1-af69-628e2322598f_w1200_r1.778_fpx46_fpy63.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8b95800d-b34c-4711-98ae-27810cb12015_w1200_r1.778_fpx53.7_fpy49.99.jpg"
         },
         {
           "title": "NSDAP-Mitgliedschaft: Max Czollek kritisiert die Familienrecherche",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "WHO ruft wegen Ebola internationalen Gesundheitsnotstand aus",
+          "url": "https://www.tagesschau.de/ausland/afrika/ebola-who-gesundheitsnotlage-100.html",
+          "summary": "Wegen des Ebola-Ausbruchs in Zentralafrika hat die WHO eine internationale Gesundheitsnotlage ausgerufen. So sollen Nachbarländer in Alarmbereitschaft versetzt und internationale Hilfe mobilisiert werden. Es gebe aber keinen Pandemie-Alarm.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/1e2001d8-91ea-4d6d-ac9c-d8afd46b9ca5/AAABnjOOTdY/AAABnSSvrFg/16x9-big/ebola-786.jpg?width=1280"
+        },
+        {
+          "title": "Bulgarien gewinnt ESC - Deutschland Drittletzter",
+          "url": "https://www.tagesschau.de/kultur/bulgarien-gewinnt-esc-100.html",
+          "summary": "Die Bulgarin Dara hat mit ihrem Lied \"Bangaranga\" den diesjährigen Eurovision Song Contest in Wien gewonnen. Die deutsche Teilnehmerin Sarah Engels landete mit ihrem Lied \"Fire\" auf dem 23. und damit drittletzten Platz.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/36de2a34-b710-4c14-8a0c-a62d1f1df0b4/AAABnjMLB2s/AAABnSSvrFg/16x9-big/esc-296.jpg?width=1280"
+        },
+        {
           "title": "Walkadaver durch GPS-Tracker eindeutig identifiziert",
           "url": "https://www.tagesschau.de/ausland/europa/wal-kadaver-daenemark-100.html",
           "summary": "Nach dem Fund des Walkadavers ist die Tierärztin Herrschaft auf die dänische Insel Anholt gereist. Ein GPS-Sender habe die Identität eindeutig bestätigt, so die Ärztin. Kritik an der Rettungsaktion weist sie zurück. Von Jana Sinram.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/f33fbad7-9717-44b1-8117-6ddb65dac13f/AAABnjEvIPk/AAABnSSvrFg/16x9-big/toter-buckelwal-100.jpg?width=1280"
-        },
-        {
-          "title": "Macrons Nachfolge - die Extremen bringen sich in Position",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-nachfolge-macron-kandidaten-100.html",
-          "summary": "In knapp einem Jahr scheidet Frankreichs Präsident Macron aus dem Amt. Am rechten und linken politischen Rand stehen die Kandidaten für die Nachfolge fest. In der politischen Mitte droht hingegen Chaos. Von Cai Rienäcker.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c89c5dc4-64b3-42b2-b5d8-827efd1a2fc4/AAABnirG6i0/AAABnSSvrFg/16x9-big/emmanuel-macron-180.jpg?width=1280"
-        },
-        {
-          "title": "Berlin: Mehrere Menschen bei pro-palästinensischer Demo festgenommen",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/festnahmen-demo-berlin-100.html",
-          "summary": "Zum palästinensischen Nakba-Gedenktag haben etwa 2. 000 Menschen in Berlin demonstriert. Wegen \"versammlungstypischer Straftaten\" wurden nach Polizeiangaben 15 Teilnehmer festgenommen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/57b57ce8-c7e9-4934-81a5-6a3cd7882c9a/AAABnjJf2Ws/AAABnSSvrFg/16x9-big/rbb-polizei-demo-nakba-102.jpg?width=1280"
         }
       ]
     },
@@ -122,12 +122,20 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Liveblog zum Eurovision Song Contest 2026: ESC-Finale in Wien: Jetzt wird abgestimmt",
-          "url": "https://www.sueddeutsche.de/medien/esc-2026-live-ticker-heute-finale-sarah-engels-auftritt-abstimmung-li.3475029",
-          "summary": "Das ESC-Finale ist laut, grell – und liefert auch ein paar schiefe Töne. Wie viele Punkte gibt es für Sarah Engels? Alle Entwicklungen im Liveblog.",
+          "title": "Liveblog zum Eurovision Song Contest 2026: Bulgarien gewinnt den Eurovision Song Contest",
+          "url": "https://www.sueddeutsche.de/medien/esc-2026-live-ticker-finale-bulgarien-gewinner-punkte-israel-deutschland-sarah-engels-li.3475029",
+          "summary": "„Connect to the Bangaranga“: Sängerin Dara gewinnt für Bulgarien, Sarah Engels landet für Deutschland mit zwölf Punkten auf Platz 23. Alle Entwicklungen im Liveblog.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/16/b339c2f1-7ff5-42df-ab65-5e79474220db.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C164%2C3161%2C1778"
+          "image": "https://www.sueddeutsche.de/2026/05/16/2db1c827-3f5a-4ce6-977e-fca59239768c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C91%2C4000%2C2250"
+        },
+        {
+          "title": "Eurovision Song Contest in Wien: Ergebnis und wo landete Deutschland: alles zum ESC-Finale 2026",
+          "url": "https://www.sueddeutsche.de/medien/esc-2026-heute-finale-bulgarien-sieg-ergebnis-punkte-deutschland-li.3355056",
+          "summary": "Wer trat auf, wer moderierte und welche neuen Regeln gibt es? Deutschland steht mal wieder ganz weit hinten im Tableau. Wissenswertes zum Eurovision Song Contest und das Ergebnis.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/15/37638376-7ef3-403b-ad90-755797ceb3e0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C166%2C4000%2C2250"
         },
         {
           "title": "DFB-Team: Nagelsmann lässt Neuer-Rückkehr offen",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/03/31/d6cf61d9-c8b9-4256-a61a-8c23512c5d61.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C110%2C4000%2C2250"
-        },
-        {
-          "title": "FC-Bayern-Meisterfeier: Drei Abschiede und ein geheimnisvoller Neuer",
-          "url": "https://www.sueddeutsche.de/sport/bayern-meister-schale-goretzka-neuer-kane-rekord-li.3484319",
-          "summary": "Nach dem 5:1 der Bayern gegen Köln wird Leon Goretzka würdevoll vom Publikum verabschiedet. Und Manuel Neuer? Der könnte doch noch mit zur Weltmeisterschaft in die USA reisen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/16/48870507-cd9b-496f-b85f-c7e51067d340.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C64%2C4000%2C2250"
         }
       ]
     }
