@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-17T06:00:09.903Z",
-  "timestamp": "17.5.2026, 08:00:09",
+  "generated": "2026-05-17T10:00:09.369Z",
+  "timestamp": "17.5.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Was Deutschland falsch macht: Es war absehbar, dass Sarah Engels’ Lied „Fire“ scheitern würde",
+          "url": "https://www.faz.net/aktuell/gesellschaft/eurovision-song-contest/eurovision-song-contest-2026-sarah-engels-scheitert-mit-fire-accg-200838424.html",
+          "summary": "Der Absturz war unausweichlich. Alle ESC-Experten gingen schon im Februar von einem schlechten Abschneiden von Sarah Engels aus. Die Fehler sind dieselben.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/d5ac48021d67/w4641h2424x0y93o/202605/43601.0.2089682678/sarah-engels-aus-deutschland.webp"
+        },
         {
           "title": "Deutschland auf Rang 23: Dara aus Bulgarien gewinnt sensationell ESC-Finale in Wien",
           "url": "https://www.faz.net/aktuell/gesellschaft/eurovision-song-contest/finale-des-esc-dara-aus-bulgarien-gewinnt-sensationell-in-wien-accg-200838057.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/994edb77bd76/w2378h1242x0y103o/202605/43601.0.2090065690/der-erste-sieg-fuer-bulgarien.webp"
         },
         {
-          "title": "Angriff auf Europa?: Putins Fenster öffnet sich jetzt",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/russland-droht-europa-angriffsszenarien-analysiert-200835318.html",
-          "summary": "Russland verliert in der Ukraine, Europa ist Kiews größter Helfer. Die Zeit für einen russischen Angriff ist jetzt.",
+          "title": "Rückfall in Sowjetzeiten: Unter Putin muss selbst das Desaster gefeiert werden",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-putins-russland-in-sowjetzeiten-zurueckfaellt-accg-200830277.html",
+          "summary": "Russland im Frühjahr 2026: In Sibirien gratuliert eine Reporterin der Mutter eines Kämpfers, der nicht aus dem Ukrainekrieg zurückgekehrt ist.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/09a957e0994a/w3000h1567x0y123o/202605/dfb0ebca-503e-11f1-a739-a4e6250accd9/wann-wenn-nicht-jetzt-wladimir.webp"
-        },
-        {
-          "title": "Liveblog Ukrainekrieg: Putin reist am Dienstag nach China",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-putin-reist-am-dienstag-nach-china-faz-110683325.html",
-          "summary": "Russischer Machthaber trifft chinesischen Präsidenten Xi +++ Selenskyj kündigt weitere Drohnenangriffe auf Russland an +++ Russische Wirtschaft schrumpft +++ alle Neuigkeiten im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3e940c390677/w5000h2612x0y100o/202605/43601.0.2084321756/putin-und-xi-im-september-2025.webp"
+          "image": "https://media0.faz.net/image/w1200h627/23b9179122ec/w5156h2694x0y639o/202605/3631e6de-eba4-4c58-b58a-01fd67aae28c/fiel-dieses-jahr-kleiner-aus.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "ESC-Gewinnerin Dara im Porträt: Sie machte Europa ganz »bangaranga«",
-          "url": "https://www.spiegel.de/kultur/musik/esc-gewinnerin-dara-im-portraet-sie-machte-europa-ganz-bangaranga-a-5dac27e0-5f32-4773-8037-9dc0bce916be#ref=rss",
-          "summary": "Jung, wild und aus dem Osten: Dass die Bulgarin Dara den ESC gewonnen hat, verdankt sie auch Verschiebungen in der Contest-Struktur. Aber vor allem war es ein verdienter Triumph des Wagemuts gegen die Routine.",
+          "title": "Nationalsozialismus: Was meine Mutter über ihre NS-Vergangenheit verschwieg",
+          "url": "https://www.spiegel.de/panorama/nationalsozialismus-was-meine-mutter-ueber-ihre-ns-vergangenheit-verschwieg-a-bf5ca6e5-c9ba-4377-b851-31bdbfee7e3e#ref=rss",
+          "summary": "Als Wissenschaftler habe ich oft unbequeme Wahrheiten aufgedeckt. Bei meiner eigenen Familie habe ich lange gezögert. Über meine Mutter, das Phänomen der »willentlichen Unwissenheit« und Onkel Hans, General der Waffen-SS.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/aeb58c0b-cc1b-4aa4-85b7-aa2342bc9005_w1200_r1.778_fpx51.22_fpy54.82.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/da3c72b5-f0b8-4a21-a077-04366dde9ef1_w1200_r1.778_fpx47_fpy31.jpg"
         },
         {
-          "title": "NSDAP-Mitgliedschaft: Max Czollek kritisiert die Familienrecherche",
-          "url": "https://www.spiegel.de/geschichte/nsdap-mitgliedschaft-max-czollek-kritisiert-die-familienrecherche-a-7638c85d-9106-4bc9-91f8-eda5498f4e23#ref=rss",
-          "summary": "Jetzt in der NSDAP-Kartei nach Vorfahren zu suchen, sei wohlfeil, sagt der Publizist Max Czollek. Das tue heute keinem mehr weh. Viele Deutsche nutzten die Familienrecherche eher, um selbst besser dazustehen.",
+          "title": "News: Friedrich Merz beim DGB, Bärbel Bas beim Arbeitgebertag, Nazi-Kartei",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-beim-dgb-baerbel-bas-beim-arbeitgebertag-nazi-kartei-a-d995f1bd-7f2b-4a6c-b579-ca1021630d1d#ref=rss",
+          "summary": "Die Gewerkschaften verhöhnen den Bundeskanzler, die Arbeitgeber die Arbeitsministerin. Eine überlebensfähige Mitte kann sich aber nur bilden, wenn das Lagerdenken endlich überwunden wird. Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/47f436b3-1b2a-4a29-a319-a5f0d4180cb0_w1200_r1.778_fpx37_fpy45.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Buckelwal aus der Ostsee: »Timmy« schwamm vor seinem Tod wohl in die falsche Richtung",
-          "url": "https://www.spiegel.de/wissenschaft/buckelwal-aus-der-ostsee-timmy-schwamm-vor-seinem-tod-wohl-in-die-falsche-richtung-a-700b7e55-2497-462f-9854-af0604f5ccf6#ref=rss",
-          "summary": "Er sollte zurück in den Atlantik schwimmen, doch kam nie dort an. Was Senderdaten und der Fundort vor einer dänischen Insel über die letzten Stunden des Wals aus der Ostsee verraten.",
+          "title": "Buckelwal tot vor Anholt: Bei einem Herzinfarkt ruft keiner zuerst den besten Freund an",
+          "url": "https://www.spiegel.de/wissenschaft/natur/buckelwal-tot-vor-anholt-bei-einem-herzinfarkt-ruft-keiner-zuerst-den-besten-freund-an-a-14f23764-8554-43a0-9e08-aa15626d50e1#ref=rss",
+          "summary": "Wochenlang investierten Forscher, Politiker und Bürger vergeblich Zeit, Nerven und viel Geld in Rettungsversuche für einen todgeweihten Wal. Die Aktion ist Symptom einer Zeit, in der gefühlte Wahrheiten zum Maßstab werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a33a21ea-532c-44c7-849f-67676d70720e_w1200_r1.778_fpx52.66_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7a0eaa5b-8a85-4295-80ce-7e9ea8373679_w1200_r1.778_fpx59_fpy48.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Venezuela liefert Maduro-Vertrauten Saab an USA aus",
-          "url": "https://www.tagesschau.de/ausland/amerika/venezuela-saab-usa-100.html",
-          "summary": "Die Regierung in Caracas hat den venezolanischen Geschäftsmann und Vertrauten von Ex-Präsident Maduro, Saab, an die USA ausgeliefert. Dort könnte er den Behörden helfen, die Anklage gegen Maduro zu untermauern.",
+          "title": "Russland will Hunderte Drohnen abgefangen haben",
+          "url": "https://www.tagesschau.de/ausland/ukraine-russland-214.html",
+          "summary": "Nach russischen Angaben hat es offenbar einen größeren ukrainischen Drohnenangriff gegeben. Mehr als 500 Drohnen seien laut russischem Verteidigungsministerium abgefangen worden. In Moskau sollen dabei drei Menschen getötet worden sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3819256c-7a81-4bd8-a1f9-de44fb48fcf4/AAABnjNSjTI/AAABnSSvrFg/16x9-big/saab-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/41dc9271-6203-4b4a-b966-714d70c490f7/AAABnjUbPjk/AAABnSSvrFg/16x9-big/moskau-388.jpg?width=1280"
         },
         {
-          "title": "WHO ruft wegen Ebola internationalen Gesundheitsnotstand aus",
-          "url": "https://www.tagesschau.de/ausland/afrika/ebola-who-gesundheitsnotlage-100.html",
-          "summary": "Wegen des Ebola-Ausbruchs in Zentralafrika hat die WHO eine internationale Gesundheitsnotlage ausgerufen. So sollen Nachbarländer in Alarmbereitschaft versetzt und internationale Hilfe mobilisiert werden. Es gebe aber keinen Pandemie-Alarm.",
+          "title": "UNICEF-Studie sieht Deutschland bei Kindeswohl unterdurchschnittlich",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/unicef-kindeswohl-laendervergleich-100.html",
+          "summary": "Kinderarmut, Lesekompetenz, Gesundheit - Deutschland landet in einer internationalen UNICEF-Vergleichsstudie zum Wohlbefinden von Kindern weit hinten. Andere Länder würden zeigen, wie es besser geht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/213eb839-f157-477b-a6f0-a5221281afbd/AAABnjRFSD0/AAABnSSvrFg/16x9-big/ebola-788.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ca89658d-7bc8-4ad2-8562-0b14c3c718ab/AAABnjUBIrg/AAABnSSvrFg/16x9-big/kinder-398.jpg?width=1280"
         },
         {
-          "title": "Bulgarien gewinnt ESC - Deutschland Drittletzter",
-          "url": "https://www.tagesschau.de/kultur/bulgarien-gewinnt-esc-100.html",
-          "summary": "Die Bulgarin Dara hat mit ihrem Lied \"Bangaranga\" den diesjährigen Eurovision Song Contest in Wien gewonnen. Die deutsche Teilnehmerin Sarah Engels landete mit ihrem Lied \"Fire\" auf dem 23. und damit drittletzten Platz.",
+          "title": "USA lassen Ausnahmen von Sanktionen auf russisches Öl auslaufen",
+          "url": "https://www.tagesschau.de/ausland/usa-russisches-oel-sanktionen-100.html",
+          "summary": "Der Iran-Krieg und seine Folgen treibt die Energiepreise in die Höhe. Die US-Regierung lockerte die Sanktionen auf russisches Öl vorübergehend. Nun ist die Ausnahmeregelung ausgelaufen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/36de2a34-b710-4c14-8a0c-a62d1f1df0b4/AAABnjMLB2s/AAABnSSvrFg/16x9-big/esc-296.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5117627d-5e75-4a2e-ba88-9c5060fe674b/AAABnjTW44w/AAABnSSvrFg/16x9-big/russischer-tanker-oel-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "IT-Branche entdeckt die Macht der Mitbestimmung",
+          "url": "https://www.telepolis.de/article/IT-Branche-entdeckt-die-Macht-der-Mitbestimmung-11294845.html",
+          "summary": "4.000 IT-Fachleute bei Aldi DX wählen erstmals einen Betriebsrat – und könnten damit eine Blaupause für die ganze Branche liefern.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/0/8/2/8/3/1/programmierer-02-89d88f78e150f7b8.gif"
+        },
+        {
+          "title": "Schweizer Endlichkeit? Was hinter der 10-Millionen-Initiative steht",
+          "url": "https://www.telepolis.de/article/Schweizer-Endlichkeit-Was-hinter-der-10-Millionen-Initiative-steht-11291788.html",
+          "summary": "Eine Zahl als Weltanschauung: Die SVP will die Schweiz abschotten. Bevölkerung begrenzen, Bilaterale EU-Abkommen begraben. Doch was wird damit gelöst?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/1/3/1/2/shutterstock_2753090935-ce6f757728abd9b3.jpg"
+        },
+        {
           "title": "Der Storch: Symbol des Lebens, Opfer der Zeit",
           "url": "https://www.telepolis.de/article/Der-Storch-Symbol-des-Lebens-Opfer-der-Zeit-11295267.html",
           "summary": "Störche gelten als Glücksboten – doch ihr Überleben hängt am seidenen Faden. Was ihnen wirklich zusetzt, ist überraschender als gedacht.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/3/0/6/1/stork-dc0401d7a3a45f09.jpg"
-        },
-        {
-          "title": "Kein Gesetz, aber Kameras: Großbritannien überwacht Proteste per Gesichtsscan",
-          "url": "https://www.telepolis.de/article/Kein-Gesetz-aber-Kameras-Grossbritannien-ueberwacht-Proteste-per-Gesichtsscan-11296029.html",
-          "summary": "Die Met Police scannt Gesichter bei einer Großdemo – ohne Gesetz, ohne Parlamentsvotum. Eine Premiere mit Signalwirkung für ganz Europa.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/3/4/4/3/shutterstock_2677980499-9c1deefe87645360.jpg"
-        },
-        {
-          "title": "Vom Meer bedroht: Warum New Orleans, Hamburg und Bangkok um ihre Zukunft bangen",
-          "url": "https://www.telepolis.de/article/Vom-Meer-bedroht-Warum-New-Orleans-Hamburg-und-Bangkok-um-ihre-Zukunft-bangen-11294577.html",
-          "summary": "Klimaforscher schlagen Alarm: Manche Küstenstädte haben keine Zukunft mehr – und die Prognosen dazu sind erschreckend präzise.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/2/7/0/4/fernglas-hochwasser-1ee618dbe84ba5da.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Eurovision Song Contest: Diese Frau ist Bangaranga",
-          "url": "https://www.sueddeutsche.de/meinung/esc-eurovision-song-contest-bangaranga-dara-bulgarien-li.3482348",
-          "summary": "Dara hat für Bulgarien den ESC gewonnen, das erste Mal in der Geschichte des Landes. Sie ist ein Traumprodukt der glattgebügelten Pop-Industrie.",
+          "title": "Leute: Grillen, chillen und dann ab in die Politik",
+          "url": "https://www.sueddeutsche.de/panorama/julia-kloeckner-adrien-brody-bushido-li.3483750",
+          "summary": "Julia Klöckner denkt gerne an die Würstchen der Jungen Union zurück, Bushido muss unters Messer, und der Ultraläufer Arda Saatçi freut sich auf einen Berliner Döner.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/17/5dfdb560-caaf-4028-ad9e-d63710db99a0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C246%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/17/6937173b-2231-4374-a370-76502adffc35.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C124%2C4000%2C2250"
         },
         {
-          "title": "USA: Venezuela liefert Vertrauten Maduros an die USA aus",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-venezuela-maduro-saab-vertrauter-prozess-li.3478505",
-          "summary": "Bereits 2020 wurde Saab festgenommen, unter der Biden-Regierung kam er bei einem Gefangenenaustausch wieder frei. Nun könnte der Kolumbianer US-Ermittlern im Prozess gegen Maduro helfen.",
+          "title": "Harry Styles: „Legt das Telefon weg und geht raus! Es kann euer Leben ändern.“",
+          "url": "https://www.sueddeutsche.de/kultur/harry-styles-tour-amsterdam-kritik-li.3471563",
+          "summary": "Harry Styles, der Popsuperstar und nicht-toxische Discokönig, startet in Amsterdam seine fiebrig erwartete Welttournee. Es wird eine Party mit akuten Anlaufschwierigkeiten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/17/61ee6869-5f5c-4a06-9bd1-0d8e11153529.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C142%2C2477%2C1393"
+          "image": "https://www.sueddeutsche.de/2026/05/17/2fe0370a-fe98-4b17-aa89-df29518d865d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=300%2C629%2C3005%2C1690"
         },
         {
-          "title": "Liveblog zum Eurovision Song Contest 2026: Bulgarien gewinnt den Eurovision Song Contest",
-          "url": "https://www.sueddeutsche.de/medien/esc-2026-live-ticker-finale-bulgarien-gewinner-punkte-israel-deutschland-sarah-engels-li.3475029",
-          "summary": "„Connect to the Bangaranga“: Sängerin Dara gewinnt für Bulgarien, Sarah Engels landet für Deutschland mit zwölf Punkten auf Platz 23. Alle Entwicklungen im Liveblog.",
+          "title": "Film: „Ich kann mich nicht erinnern, wann ich das letzte Mal so aufgeregt war“",
+          "url": "https://www.sueddeutsche.de/kultur/jella-haase-cannes-interview-gentle-monster-li.3482044",
+          "summary": "„Fack ju Göhte“ war gestern: Jella Haase präsentiert in Cannes ihr Missbrauchsdrama „Gentle Monster“, in dem sie an der Seite von Superstar Léa Seydoux spielt. Ein Treffen kurz vor der Weltpremiere.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/16/2db1c827-3f5a-4ce6-977e-fca59239768c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C91%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/16/33382753-97c3-4674-871d-d8311912678f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
