@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T02:00:08.885Z",
-  "timestamp": "17.5.2026, 04:00:08",
+  "generated": "2026-05-17T06:00:09.903Z",
+  "timestamp": "17.5.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "ESC 2026 in Wien: Dara aus Bulgarien gewinnt Eurovision mit »Bangaranga«",
-          "url": "https://www.spiegel.de/kultur/musik/esc-2026-in-wien-sarah-engels-geht-zuversichtlich-ins-finale-a-fb58b646-6ed7-4d66-8b9b-2333c7d05437#ref=rss",
-          "summary": "Alle Punkte sind vergeben: Dara beerbt JJ aus Österreich als Siegerin des ESC. Deutschland wird Drittletzter. Die Ergebnisse und der Abend zum Nachlesen.",
+          "title": "ESC-Gewinnerin Dara im Porträt: Sie machte Europa ganz »bangaranga«",
+          "url": "https://www.spiegel.de/kultur/musik/esc-gewinnerin-dara-im-portraet-sie-machte-europa-ganz-bangaranga-a-5dac27e0-5f32-4773-8037-9dc0bce916be#ref=rss",
+          "summary": "Jung, wild und aus dem Osten: Dass die Bulgarin Dara den ESC gewonnen hat, verdankt sie auch Verschiebungen in der Contest-Struktur. Aber vor allem war es ein verdienter Triumph des Wagemuts gegen die Routine.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8b95800d-b34c-4711-98ae-27810cb12015_w1200_r1.778_fpx53.7_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/aeb58c0b-cc1b-4aa4-85b7-aa2342bc9005_w1200_r1.778_fpx51.22_fpy54.82.jpg"
         },
         {
           "title": "NSDAP-Mitgliedschaft: Max Czollek kritisiert die Familienrecherche",
@@ -64,12 +64,20 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Venezuela liefert Maduro-Vertrauten Saab an USA aus",
+          "url": "https://www.tagesschau.de/ausland/amerika/venezuela-saab-usa-100.html",
+          "summary": "Die Regierung in Caracas hat den venezolanischen Geschäftsmann und Vertrauten von Ex-Präsident Maduro, Saab, an die USA ausgeliefert. Dort könnte er den Behörden helfen, die Anklage gegen Maduro zu untermauern.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/3819256c-7a81-4bd8-a1f9-de44fb48fcf4/AAABnjNSjTI/AAABnSSvrFg/16x9-big/saab-100.jpg?width=1280"
+        },
+        {
           "title": "WHO ruft wegen Ebola internationalen Gesundheitsnotstand aus",
           "url": "https://www.tagesschau.de/ausland/afrika/ebola-who-gesundheitsnotlage-100.html",
           "summary": "Wegen des Ebola-Ausbruchs in Zentralafrika hat die WHO eine internationale Gesundheitsnotlage ausgerufen. So sollen Nachbarländer in Alarmbereitschaft versetzt und internationale Hilfe mobilisiert werden. Es gebe aber keinen Pandemie-Alarm.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1e2001d8-91ea-4d6d-ac9c-d8afd46b9ca5/AAABnjOOTdY/AAABnSSvrFg/16x9-big/ebola-786.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/213eb839-f157-477b-a6f0-a5221281afbd/AAABnjRFSD0/AAABnSSvrFg/16x9-big/ebola-788.jpg?width=1280"
         },
         {
           "title": "Bulgarien gewinnt ESC - Deutschland Drittletzter",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/36de2a34-b710-4c14-8a0c-a62d1f1df0b4/AAABnjMLB2s/AAABnSSvrFg/16x9-big/esc-296.jpg?width=1280"
-        },
-        {
-          "title": "Walkadaver durch GPS-Tracker eindeutig identifiziert",
-          "url": "https://www.tagesschau.de/ausland/europa/wal-kadaver-daenemark-100.html",
-          "summary": "Nach dem Fund des Walkadavers ist die Tierärztin Herrschaft auf die dänische Insel Anholt gereist. Ein GPS-Sender habe die Identität eindeutig bestätigt, so die Ärztin. Kritik an der Rettungsaktion weist sie zurück. Von Jana Sinram.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f33fbad7-9717-44b1-8117-6ddb65dac13f/AAABnjEvIPk/AAABnSSvrFg/16x9-big/toter-buckelwal-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Eurovision Song Contest: Diese Frau ist Bangaranga",
+          "url": "https://www.sueddeutsche.de/meinung/esc-eurovision-song-contest-bangaranga-dara-bulgarien-li.3482348",
+          "summary": "Dara hat für Bulgarien den ESC gewonnen, das erste Mal in der Geschichte des Landes. Sie ist ein Traumprodukt der glattgebügelten Pop-Industrie.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/17/5dfdb560-caaf-4028-ad9e-d63710db99a0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C246%2C4000%2C2250"
+        },
+        {
+          "title": "USA: Venezuela liefert Vertrauten Maduros an die USA aus",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-venezuela-maduro-saab-vertrauter-prozess-li.3478505",
+          "summary": "Bereits 2020 wurde Saab festgenommen, unter der Biden-Regierung kam er bei einem Gefangenenaustausch wieder frei. Nun könnte der Kolumbianer US-Ermittlern im Prozess gegen Maduro helfen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/17/61ee6869-5f5c-4a06-9bd1-0d8e11153529.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C142%2C2477%2C1393"
+        },
+        {
           "title": "Liveblog zum Eurovision Song Contest 2026: Bulgarien gewinnt den Eurovision Song Contest",
           "url": "https://www.sueddeutsche.de/medien/esc-2026-live-ticker-finale-bulgarien-gewinner-punkte-israel-deutschland-sarah-engels-li.3475029",
           "summary": "„Connect to the Bangaranga“: Sängerin Dara gewinnt für Bulgarien, Sarah Engels landet für Deutschland mit zwölf Punkten auf Platz 23. Alle Entwicklungen im Liveblog.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/16/2db1c827-3f5a-4ce6-977e-fca59239768c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C91%2C4000%2C2250"
-        },
-        {
-          "title": "Eurovision Song Contest in Wien: Ergebnis und wo landete Deutschland: alles zum ESC-Finale 2026",
-          "url": "https://www.sueddeutsche.de/medien/esc-2026-heute-finale-bulgarien-sieg-ergebnis-punkte-deutschland-li.3355056",
-          "summary": "Wer trat auf, wer moderierte und welche neuen Regeln gibt es? Deutschland steht mal wieder ganz weit hinten im Tableau. Wissenswertes zum Eurovision Song Contest und das Ergebnis.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/15/37638376-7ef3-403b-ad90-755797ceb3e0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C166%2C4000%2C2250"
-        },
-        {
-          "title": "DFB-Team: Nagelsmann lässt Neuer-Rückkehr offen",
-          "url": "https://www.sueddeutsche.de/sport/nagelsmann-sportstudio-nominierung-wm-li.3484408",
-          "summary": "Im ZDF-Sportstudio weicht Julian Nagelsmann Fragen nach einer Rückkehr von Manuel Neuer aus. Der Bundestrainer wird seinen Kader für die Fußball-WM kommenden Donnerstag bekannt geben.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/03/31/d6cf61d9-c8b9-4256-a61a-8c23512c5d61.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C110%2C4000%2C2250"
         }
       ]
     }
