@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T18:00:25.970Z",
-  "timestamp": "17.5.2026, 20:00:25",
+  "generated": "2026-05-17T22:00:16.672Z",
+  "timestamp": "18.5.2026, 00:00:16",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Deutschland, Frustland: Warum sich die Bundesregierung so schwer mit Reformen tut",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/deutschland-frustland-warum-sich-die-bundesregierung-so-schwer-mit-reformen-tut-a-ae321b12-d6cc-4d52-ac55-33d094bdacc6#ref=rss",
-          "summary": "Die Regierung tut sich mit tiefgreifenden Reformen schwer, die Deutschen scheuen Veränderungen, sie haben den Glauben an eine gute Zukunft verloren. Dass es auch anders geht, zeigt ein Blick nach Dänemark.",
+          "title": "Iran-Krise: »Mein Leben ist gelähmt. Einkommen weg, ich verkaufe Sachen«",
+          "url": "https://www.spiegel.de/ausland/iran-krise-mein-leben-ist-gelaehmt-einkommen-weg-ich-verkaufe-sachen-a-d9ada9a4-f2fa-410c-b4ff-b961fbc53963#ref=rss",
+          "summary": "Internet-Blackout, Rekordinflation, Massenentlassungen: Viele Iranerinnen und Iraner verarmen. Wut über das Regime weicht einer tiefen Resignation. Stimmen aus Teheran.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b73ae591-f6f9-4110-9207-36ae5bd2d9bd_w1200_r1.778_fpx45.99_fpy52.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cd498baf-8b45-4dd5-8b3d-00725e47804c_w1200_r1.778_fpx42.66_fpy50.jpg"
         },
         {
           "title": "NSDAP-Kartei und Familiengeschichte: »Opa, hattest du was mit dem KZ zu tun?«",
@@ -64,9 +64,17 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Trump droht mit Zerstörung: \"Für Iran tickt die Uhr\"",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-drohung-iran-102.html",
+          "summary": "Die diplomatischen Bemühungen im Iran-Krieg sind festgefahren. Nun hat US-Präsident Trump der Führung in Teheran mit Zerstörung gedroht, sollte sich das Regime nicht bewegen. In Washington wächst der Frust über den Konflikt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/275e4ceb-8a39-403f-ace3-1d9742b6d05e/AAABnY0JGF0/AAABnSSvrFg/16x9-big/trump-4886.jpg?width=1280"
+        },
+        {
           "title": "Ver.di-Chef Werneke verteidigt Pfiffe gegen Merz auf DGB-Tag",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-werneke-100.html",
-          "summary": "Buhrufe, Pfiffe: Auf dem DGB-Tag hatte es Kanzler Merz während seiner Rede nicht leicht. Im Bericht aus Berlin verteidigt ver. di-Chef Werneke die Kritik der Delegierten. Merz suche für seine Reformpläne keinen Konsens.",
+          "summary": "Buhrufe, Pfiffe: Auf dem DGB-Kongress hatte es Kanzler Merz während seiner Rede nicht leicht. Im Bericht aus Berlin verteidigt ver. di-Chef Werneke die Kritik der Delegierten. Merz suche für seine Reformpläne keinen Konsens.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/1492a18e-37bc-4d9c-9918-ea2d0f676856/AAABnjbRVsM/AAABnSSvrFg/16x9-big/sendungsbild-1734734.jpg?width=1280"
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/74f93682-e35b-423e-b186-336119e5eb8d/AAABniqisR8/AAABnSSvrFg/16x9-big/tiertransport-kaelber-102.jpg?width=1280"
-        },
-        {
-          "title": "Brasiliens Korallen: Die Retter der Riffe",
-          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-touristen-umweltschutz-riffe-100.html",
-          "summary": "Sie nennen es den \"Korallen-Kindergarten\": In Brasilien versuchen Forscher, im Meer neue Korallen zu züchten, um die bedrohten Riffe zu retten. Unterstützt werden sie dabei von Touristen, die Urlaub mit Umweltschutz verbinden. Von X. Böttcher.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/942c3617-addc-4799-ba68-894c40e1e81e/AAABniqroTo/AAABnSSvrFg/16x9-big/taucher-korallenriff-brasilien-100.jpg?width=1280"
         }
       ]
     },
@@ -115,6 +115,35 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/3/6/7/1/shutterstock_2648307105-5f757b7383841e2f.jpg"
+        }
+      ]
+    },
+    {
+      "source": "SZ",
+      "headlines": [
+        {
+          "title": "Krieg in der Ukraine: Tote bei ukrainischem Angriff auf Großraum Moskau",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-angriff-moskau-li.3483341",
+          "summary": "Bei den ukrainischen Angriffen mit mehr als 100 Drohnen sind nahe Moskau nach Angaben russischer Behörden mindestens drei Menschen getötet worden. Präsident Selenskij betont, dass die vergrößerte Reichweite der Waffen den Krieg erheblich verändere.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/17/f339ea82-5577-4586-a5c3-dd382ffd49c7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C147%2C2820%2C1586"
+        },
+        {
+          "title": "SV Elversberg: Der Ort ohne Bahnhof spielt jetzt wirklich Bundesliga",
+          "url": "https://www.sueddeutsche.de/sport/elversberg-aufstieg-2-bundesliga-saarland-li.3484624",
+          "summary": "Die SV Elversberg wird in der kommenden Saison der 59. Klub in der Geschichte der Fußball-Bundesliga – und ihr bisher kleinster Standort. Dabei hatten vor der Saison nicht Wenige mit dem Abstieg gerechnet.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/17/e489d29e-9fa8-4d61-9f88-f6d60f0b9376.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C178%2C4000%2C2250"
+        },
+        {
+          "title": "Münchner Marienplatz: Löwen-Fans kapern Meisterfeier des FC Bayern mit riesigem Schmähplakat",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-fc-bayern-meisterfeier-marienplatz-balkon-bilder-rathaus-krause-plakat-loewen-1860-li.3484662",
+          "summary": "Vor den Augen der Spieler wird das beleidigende Transparent entrollt. Es bleibt nicht die einzige Panne beim Auftritt auf dem Rathausbalkon.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/17/4347c7e3-06e3-496e-b03d-234217a6021f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
         }
       ]
     }
