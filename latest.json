@@ -1,25 +1,25 @@
 {
-  "generated": "2026-05-19T18:00:09.540Z",
-  "timestamp": "19.5.2026, 20:00:09",
+  "generated": "2026-05-19T22:00:08.344Z",
+  "timestamp": "20.5.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Sturm auf das Kapitol: Ein Fonds für die Fans des Präsidenten",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/usa-justizministerium-will-fast-1-8-milliarden-an-opfer-politischer-justiz-auszahlen-200846129.html",
-          "summary": "Fast 1,8 Milliarden Dollar will das US-Justizministerium an „Opfer politischer Justiz“ auszahlen. Dafür kommen wohl vor allem Aufrührer infrage.",
+          "title": "Mercosur-abkommen: Gibt es bald keine Fleischimporte mehr aus Brasilien?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mercosur-abkommen-bald-keine-fleischimporte-mehr-aus-brasilien-200846596.html",
+          "summary": "Kurz nach dem Inkrafttreten des Freihandelsabkommens will die EU den Import von Fleisch aus Brasilien verbieten. Die Bauern hierzulande freut es. Brasilien spricht von einer „Bombe“.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1d544c56dc62/w3000h1567x0y235o/202107/43600.0.234357379/im-namen-trumps-ein-mob.webp"
+          "image": "https://media0.faz.net/image/w1200h627/00493622800b/w3072h1605x0y221o/201003/431.0.55610523/fehlende-kontrollen-brasilien.webp"
         },
         {
-          "title": "Trumps Außenpolitik: Eine Kuba-Intervention als Ablenkung vom Irankrieg?",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/greift-trump-in-kuba-ein-um-vom-irankrieg-abzulenken-200843125.html",
-          "summary": "Washington erhöht den Druck auf Havanna. Einiges erinnert dabei an das Vorgehen mit Caracas – bevor Amerika in Venezuela intervenierte.",
+          "title": "Fleisch aus Brasilien: Zweifelhaftes Importverbot",
+          "url": "https://www.faz.net/aktuell/wirtschaft/importverbot-trotz-mercosur-vertrag-eu-vorgehen-weckt-zweifel-200847160.html",
+          "summary": "Mercosur-Vertrag hin oder her: Die Kommission untersagt die Einfuhr von Fleisch aus Brasilien. So stärkt sie die Zweifel daran, dass Europa ein zuverlässiger Handelspartner ist.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e308329cb141/w2922h1526x0y298o/202605/43601.0.2082974043/ra-l-castro-schwenkt-2025-eine.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e53dbf937c2a/w4750h2481x0y305o/201909/43600.0.1400860922/brasilien-droht-ein.webp"
         },
         {
           "title": "Besuch in Serbien geplant: Vučić lässt Selenskyj in Putins Hinterhof auftreten",
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Russland-Ukraine-Krieg: Kyjiw zieht bei Gleitbomben nach",
-          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-zieht-bei-gleitbomben-nach-a-eec59eba-eaa1-4fde-a0a6-3ac31f5ed937#ref=rss",
-          "summary": "Die Ukraine will in der Luft mit Moskau gleichziehen und entwickelt eine lenkbare Bombe. Das Land wird damit immer unabhängiger vom Westen.",
+          "title": "Grönland: Donald Trump hält an seiner Fixierung fest – und die Arktisinsel ist besorgt",
+          "url": "https://www.spiegel.de/ausland/groenland-donald-trump-haelt-an-seiner-fixierung-fest-und-die-arktisinsel-ist-besorgt-a-ec27ca0f-93ee-4a91-8d9b-31687cb0e9d1#ref=rss",
+          "summary": "Der Irankrieg würde Trump ablenken, hofften viele Grönländer. Nun ist sein Sondergesandter auf der Insel gelandet – offiziell für nette Gespräche. Doch im Hintergrund gibt es neue US-Forderungen. Und die sind beängstigend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3bb87404-5c0b-4b18-b09d-3ee33a44083c_w1200_r1.778_fpx68.89_fpy44.96.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1362c774-aa38-4f60-9960-6203884af398_w1200_r1.778_fpx52_fpy49.99.jpg"
+        },
+        {
+          "title": "NSDAP-Mitgliedschaft und andere Familiengeheimnisse: So sprechen Sie mit Verwandten darüber",
+          "url": "https://www.spiegel.de/psychologie/nsdap-mitgliedschaft-und-andere-familiengeheimnisse-so-sprechen-sie-mit-verwandten-darueber-a-b6e11280-6f81-4569-84e5-3017faed0053#ref=rss",
+          "summary": "Opa war in der NSDAP. Und nun? Therapeut Henrik Kessler erklärt, wie Sie in der Familie über unbequeme Erinnerungen sprechen können – und warum man nicht zu sehr bohren sollte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/e2eea4b6-a031-4dfc-9a67-5df796a2042f_w1200_r1.778_fpx55_fpy41.png"
         },
         {
           "title": "News des Tages: EU-Parlament blockiert Ermittlungen gegen CSU-Abgeordnete, Anklage gegen Tengelmann-Chef Haub, Minderheitsregierung",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Mittelmeer: Hatte das russische Schiff »Ursa Major« Atomreaktoren für Nordkorea geladen?",
-          "url": "https://www.spiegel.de/ausland/mittelmeer-hatte-das-russische-schiff-ursa-major-atomreaktoren-fuer-nordkorea-geladen-a-3d554a78-4842-4eae-8d9b-f356f05c5c32#ref=rss",
-          "summary": "Unter mysteriösen Umständen sank vor zwei Jahren ein russisches Schiff vor der spanischen Küste. Jetzt zeigen Recherchen, dass der Frachter Reaktorteile geladen haben könnte ��� für Nordkorea.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d58f4524-ff07-4caa-b51b-c86af0b3933f_w1200_r1.778_fpx41.93_fpy54.97.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Merz bei SPD-Fraktion: Ein Besuch, um die Wogen zu glätten",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-bei-spd-fraktion-100.html",
-          "summary": "Weder Pfiffe noch begeisterte Zugabe-Rufe: In freundlicher Atmosphäre ist der Besuch von Kanzler Merz bei der SPD-Fraktion verlaufen. Doch ein Restzweifel bleibt, ob dies ein Auftakt für eine bessere Zusammenarbeit ist. Von Iris Sayram.",
+          "title": "Russischer Präsident in China: Nach Trump nun Putin bei Xi",
+          "url": "https://www.tagesschau.de/ausland/asien/putin-besuch-china-100.html",
+          "summary": "Gerade erst war US-Präsident Trump zu Besuch in Peking. Jetzt ist Kremlchef Putin bei Chinas Staatschef Xi. Dabei dürfte es vor allem um Wirtschaftsfragen gehen - und den Ausbau der strategischen Partnerschaft der beiden Länder.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0f79040a-c562-47ec-9963-23a57321619c/AAABnkFRHZ4/AAABnSSvrFg/16x9-big/merz-miersch-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c84be13d-4b49-48aa-a619-4eb5f5dfb445/AAABnkGKJ0c/AAABnSSvrFg/16x9-big/xi-putin-136.jpg?width=1280"
         },
         {
-          "title": "Waldzustandserhebung: Der Wald der Zukunft braucht Vielfalt",
-          "url": "https://www.tagesschau.de/inland/wald-der-zukunft-106.html",
-          "summary": "Die deutschen Wälder sind in einem kritischen Zustand. Nur jeder fünfte Baum ist gesund. Für die Zukunft setzen Förster deshalb auf möglichst gemischte Wälder und einige nicht-heimische Baumarten. Von Carolyn Wißing.",
+          "title": "Trump-Beauftragter in Grönland: Ein Besuch nicht ohne Absichten",
+          "url": "https://www.tagesschau.de/ausland/europa/groenland-besuch-landry-100.html",
+          "summary": "Er solle nach Grönland fahren und so viele Freunde wie möglich finden, hat Trump seinem Beauftragten Landry aufgetragen. Allerdings: Eingeladen hat ihn keiner - und auf der Insel ist er nicht recht willkommen. Von C. Blenker.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cb496f11-ef65-442f-b4db-8758dbe49001/AAABnkEkTyU/AAABnSSvrFg/16x9-big/mischwald-122.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/10a8dcb9-d10e-4d6b-ad47-6c90d88b7316/AAABnITBR2c/AAABnSSvrFg/16x9-big/groenland-nuuk-106.jpg?width=1280"
         },
         {
-          "title": "Spahn will Verzicht auf Diätenerhöhung an Krankenkassen-Reform koppeln",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-diaeten-gvk-100.html",
-          "summary": "Inzwischen sind alle Bundestagsfraktionen bereit, auf höhere Diäten zu verzichten. Unionsfraktionschef Spahn will die Abstimmung darüber mit jener zur Gesundheitsreform koppeln. Die Linksfraktion vermutet einen \"Deal\".",
+          "title": "Wie ist der aktuelle Stand im Zollstreit zwischen EU und USA?",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-usa-zoelle-abkommen-100.html",
+          "summary": "Unter dem Druck neuer Drohungen von US-Präsident Trump verhandeln EU-Vertreter heute über ein Zollabkommen mit den USA. Wie könnte das aussehen? Welche Zölle gelten derzeit? Und was, wenn sich die USA nicht an den möglichen Deal halten?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/435d6986-88c3-483b-a4cc-d46e17d8bb34/AAABnkDbXQs/AAABnSSvrFg/16x9-big/spahn-728.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d72ab884-7092-48df-95c8-6298b30fb4bf/AAABlsPGMGc/AAABnSSvrFg/16x9-big/usa-import-export-104.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Jüdisches Leben: Baumeisterin eines säkularen Tempels",
+          "url": "https://www.sueddeutsche.de/kultur/dan-diner-rachel-salamander-literaturhandlung-monacensia-li.3484154",
+          "summary": "Mit ihrer Münchener „Literaturhandlung“ riskierte Rachel Salamander eine Grenzüberschreitung und machte jüdisches Denken wieder sichtbar. Wenn ihr Wirken nun in ein Archiv geht, dann hoffentlich für eine bessere Zukunft.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/19/b7817798-b94d-4cd1-9d56-eead237faeb7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C431%2C4000%2C2250"
+        },
+        {
           "title": "Bundespolitik: US-General bestätigt Aus für Mittelstreckenwaffen in Deutschland",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-usa-truppen-militaer-waffen-grynkewich-merz-trump-li.3484192",
           "summary": "Die geplante Stationierung weitreichender US-Waffen in Deutschland wird vorerst nicht umgesetzt. Der Planänderung war ein verbaler Schlagabtausch zwischen Bundeskanzler Merz und US-Präsident Trump vorausgegangen.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/19/24b86104-3746-4183-8288-ec2dde57894a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C416%2C4000%2C2250"
-        },
-        {
-          "title": "Ebola: Infizierter US-Bürger soll in Berliner Charité behandelt werden",
-          "url": "https://www.sueddeutsche.de/gesundheit/ebola-patient-usa-behandlung-berlin-charite-li.3485617",
-          "summary": "Der Arzt hatte sich bei der Arbeit in einem Krankenhaus in Kongo mit dem Ebolavirus infiziert. Die Charité ist auf die Versorgung von Patienten mit hochansteckenden lebensbedrohlichen Infektionskrankheiten spezialisiert.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/19/39e9577b-9384-4bca-ba21-7bd2b15ed28b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
         }
       ]
     }
