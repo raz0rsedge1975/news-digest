@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T22:00:10.073Z",
-  "timestamp": "19.5.2026, 00:00:10",
+  "generated": "2026-05-19T02:00:07.797Z",
+  "timestamp": "19.5.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -8,7 +8,7 @@
         {
           "title": "Liveblog Irankrieg: Trump sagt Angriff auf Iran für Dienstag ab",
           "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-sagt-angriff-auf-iran-fuer-dienstag-ab-faz-200583539.html",
-          "summary": "Trump kommt Bitten aus den Golfstaaten nach +++ Bundeswehr verlegt „Patriot“-Einheit in die Türkei +++ Klingbeil: Irankrieg ist „ernsthafte Bedrohung für die Weltwirtschaft“ +++ alle Entwicklungen im Liveblog",
+          "summary": "Trump kommt Bitten aus Golfstaaten nach, sieht „sehr positive Entwicklung“ bei Iran-Gesprächen +++ Bundeswehr verlegt „Patriot“-Einheit in die Türkei +++ Klingbeil: Irankrieg ist „ernsthafte Bedrohung für Weltwirtschaft“ +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/2de1b32aad2e/w6144h3210x0y443o/202605/43601.0.2069476082/donald-trump-archivbild.webp"
@@ -43,26 +43,34 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e058d6c6-0092-46c7-b542-71908bf8348f_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "News des Tages: Streit um Grönland, Verkehrswende, Ebola-Ausbruch",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-streit-um-groenland-verkehrswende-ebola-ausbruch-a-2a64e162-1c33-4c4d-b37a-038b0331df8f#ref=rss",
-          "summary": "Der US-Präsident greift wieder nach Grönland. Der Verkehrsminister verschläft seine Verkehrswende. Und der neue Ebola-Ausbruch ist womöglich bedrohlicher als zunächst gedacht. Das ist die Lage am Montagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
           "title": "Ukraine-Krieg – Gegenangriff auf Russland: Jetzt herrscht auch in Moskau Panik",
           "url": "https://www.spiegel.de/ausland/ukraine-krieg-gegenangriff-auf-russland-jetzt-herrscht-auch-in-moskau-panik-a-19c8ad1b-e063-4549-995c-c8d7461f06de#ref=rss",
           "summary": "Bei der bisher wohl größten ukrainischen Attacke auf die russische Hauptstadtregion gab es mehrere Tote und Verletzte. Das dürfte erst der Anfang sein.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/5a12d47c-f0be-48b0-9a00-b119d7ab659c_w1200_r1.778_fpx52.62_fpy50.jpg"
+        },
+        {
+          "title": "»Ich hab’ viel vom Sperrmüll geholt«",
+          "url": "https://www.spiegel.de/politik/deutschland/ich-hab-viel-vom-sperrmuell-geholt-a-e8af8c15-1f4b-4381-9c15-1ce0bf1b71a2#ref=rss",
+          "summary": "Voller Saal, junges Publikum, viele Frauen: Angela Merkels Auftritt auf der »re:publica« ist erneut ein Wohlfühltermin – mit Fragen zu Dönerpreisen und Buckelwal. Beim Thema Putin wird die Altbundeskanzlerin grundsätzlich.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/c1ab9f51-d89d-4b75-b556-5dd8a211ed7d_w1200_r1.778_fpx37.5_fpy50.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Tote bei Angriff auf Islamisches Zentrum in San Diego",
+          "url": "https://www.tagesschau.de/ausland/amerika/sandiego-angriff-tote-100.html",
+          "summary": "In der kalifornischen Hafenstadt San Diego hat es einen Angriff auf ein islamisches Zentrum gegeben. Nach Polizeiangaben wurden drei Menschen vor dem Gebäude erschossen, auch zwei Tatverdächtige sind tot.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4d731841-61e7-4606-a485-2b80628abc69/AAABnj0fQ94/AAABnSSvrFg/16x9-big/sandiego-islamischeszentrum-100.jpg?width=1280"
+        },
         {
           "title": "Musk scheitert mit Klage gegen OpenAI",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/klage-musk-open-ai-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/1b01ff5d-46cd-4ff3-a933-00ba908c2e94/AAABnjx7TSw/AAABnSSvrFg/16x9-big/wes-streeting-106.jpg?width=1280"
-        },
-        {
-          "title": "USA verlängern Ausnahmen von Sanktionen für Russland-Öl",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-russisches-oel-100.html",
-          "summary": "Die Energiepreise sind weiterhin hoch. Nun verlängern die USA die Ausnahmen von Sanktionen für russisches Öl. Für weitere 30 Tage bleibt der Kauf von russischem Öl, das sich auf Schiffen befindet, erlaubt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/636330b4-2038-44f3-9621-f5b8ff2529dc/AAABnjxY6XU/AAABnSSvrFg/16x9-big/russischer-tanker-102.jpg?width=1280"
         }
       ]
     },
