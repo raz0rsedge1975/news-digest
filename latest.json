@@ -1,25 +1,17 @@
 {
-  "generated": "2026-05-19T22:00:08.344Z",
-  "timestamp": "20.5.2026, 00:00:08",
+  "generated": "2026-05-20T02:00:08.633Z",
+  "timestamp": "20.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Mercosur-abkommen: Gibt es bald keine Fleischimporte mehr aus Brasilien?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mercosur-abkommen-bald-keine-fleischimporte-mehr-aus-brasilien-200846596.html",
-          "summary": "Kurz nach dem Inkrafttreten des Freihandelsabkommens will die EU den Import von Fleisch aus Brasilien verbieten. Die Bauern hierzulande freut es. Brasilien spricht von einer „Bombe“.",
+          "title": "Brüssel: EU-Verhandler einigen sich auf Umsetzung von US-Zolldeal",
+          "url": "https://www.faz.net/aktuell/wirtschaft/europaeische-union-einigung-auf-us-zollvereinbarung-erreicht-accg-200849363.html",
+          "summary": "Die USA sollen versprochene Zollvorteile bekommen. Die EU verkündet eine Einigung zwischen Parlament und Regierungen auf die vollständige Umsetzung der umstrittenen Vereinbarung. Unter anderem werden Zölle auf amerikanische Industriegüter abgeschafft.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/00493622800b/w3072h1605x0y221o/201003/431.0.55610523/fehlende-kontrollen-brasilien.webp"
-        },
-        {
-          "title": "Fleisch aus Brasilien: Zweifelhaftes Importverbot",
-          "url": "https://www.faz.net/aktuell/wirtschaft/importverbot-trotz-mercosur-vertrag-eu-vorgehen-weckt-zweifel-200847160.html",
-          "summary": "Mercosur-Vertrag hin oder her: Die Kommission untersagt die Einfuhr von Fleisch aus Brasilien. So stärkt sie die Zweifel daran, dass Europa ein zuverlässiger Handelspartner ist.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e53dbf937c2a/w4750h2481x0y305o/201909/43600.0.1400860922/brasilien-droht-ein.webp"
+          "image": "https://media0.faz.net/image/w1200h627/607632fc8a23/w5983h3126x0y230o/202603/43601.0.1922007963/container-werden-am-hamburger.webp"
         },
         {
           "title": "Besuch in Serbien geplant: Vučić lässt Selenskyj in Putins Hinterhof auftreten",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/8ae3549bbe7d/w3000h1567x0y160o/202506/43601.0.1085695951/wolodymyr-selenskyj-und.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Selenskyj genehmigt neue Angriffspläne",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-genehmigt-neue-angriffsplaene-faz-110683325.html",
+          "summary": "Ukrainischer Präsident: Veränderung der Kriegsdynamik zugunsten der Ukraine +++ Putin in Peking eingetroffen +++ Russland hält Manöver seiner Atomstreitkräfte ab +++ Merz: Führen mit Nachdruck Gespräche über Friedenslösung  +++  alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/87272a86970d/w6000h3135x0y745o/202605/43601.0.2091535117/der-ukrainische-praesident.webp"
         }
       ]
     },
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e2eea4b6-a031-4dfc-9a67-5df796a2042f_w1200_r1.778_fpx55_fpy41.png"
         },
         {
-          "title": "News des Tages: EU-Parlament blockiert Ermittlungen gegen CSU-Abgeordnete, Anklage gegen Tengelmann-Chef Haub, Minderheitsregierung",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-eu-parlament-blockiert-ermittlungen-gegen-csu-abgeordnete-anklage-gegen-tengelmann-chef-haub-minderheitsregierung-a-8e20921d-5857-48ab-aa70-ca5bf61b737e#ref=rss",
-          "summary": "Das EU-Parlament stoppt die Ermittlungen gegen die einflussreiche CSU-Frau Niebler. Die Staatsanwaltschaft erhebt Anklage gegen den Tengelmann-Chef. Und Kanzler Merz schwört die SPD-Fraktion auf Koalitionstreue ein. Das ist die Lage am Dienstagabend.",
+          "title": "EU stimmt Zolldeal mit USA zu",
+          "url": "https://www.spiegel.de/wirtschaft/eu-stimmt-zolldeal-mit-usa-zu-a-4fabba05-7cc3-4576-9b7f-92ab6d90420a#ref=rss",
+          "summary": "Die Europäische Union hat die vollständige Umsetzung des umstrittenen Zolldeals mit den USA beschlossen. Zölle auf US-Industriewaren werden damit abgeschafft – die USA erheben hingegen bis zu 15 Prozent auf EU-Produkte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/f8373049-6780-4f6d-998c-0544b02bfd6f_w1200_r1.778_fpx49.3_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Russischer Präsident in China: Nach Trump nun Putin bei Xi",
-          "url": "https://www.tagesschau.de/ausland/asien/putin-besuch-china-100.html",
-          "summary": "Gerade erst war US-Präsident Trump zu Besuch in Peking. Jetzt ist Kremlchef Putin bei Chinas Staatschef Xi. Dabei dürfte es vor allem um Wirtschaftsfragen gehen - und den Ausbau der strategischen Partnerschaft der beiden Länder.",
+          "title": "Mindestens 19 Tote bei israelischen Angriffen im Libanon",
+          "url": "https://www.tagesschau.de/ausland/asien/libanon-angriffe-108.html",
+          "summary": "Die Waffenruhe zwischen Israel und dem Libanon bleibt brüchig: Bei jüngsten israelischen Angriffen wurden nach libanesischen Angaben mindestens 19 Menschen getötet. Israel hatte zuvor die Bewohner mehrerer Dörfer zur Evakuierung aufgefordert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c84be13d-4b49-48aa-a619-4eb5f5dfb445/AAABnkGKJ0c/AAABnSSvrFg/16x9-big/xi-putin-136.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/91ab64a1-d2c4-42c9-829e-00c9a96b3021/AAABnkLQQm8/AAABnSSvrFg/16x9-big/libanon-rauch-104.jpg?width=1280"
         },
         {
-          "title": "Trump-Beauftragter in Grönland: Ein Besuch nicht ohne Absichten",
-          "url": "https://www.tagesschau.de/ausland/europa/groenland-besuch-landry-100.html",
-          "summary": "Er solle nach Grönland fahren und so viele Freunde wie möglich finden, hat Trump seinem Beauftragten Landry aufgetragen. Allerdings: Eingeladen hat ihn keiner - und auf der Insel ist er nicht recht willkommen. Von C. Blenker.",
+          "title": "Bundeskabinett befasst sich mit Führerscheinreform",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-reform-106.html",
+          "summary": "Politiker und Verbraucherschützer sind sich einig: Die Führerscheinausblidung in Deutschland ist zu teuer. Das Bundeskabinett will daher heute eine Reform auf den Weg bringen, die eine Reihe von Erleichterungen vorsieht. Von F. Tenbaum.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/10a8dcb9-d10e-4d6b-ad47-6c90d88b7316/AAABnITBR2c/AAABnSSvrFg/16x9-big/groenland-nuuk-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/60a0757a-c615-4a84-a1d0-ef2a8555dfa2/AAABnkJwkBE/AAABnSSvrFg/16x9-big/fahrschule-244.jpg?width=1280"
         },
         {
-          "title": "Wie ist der aktuelle Stand im Zollstreit zwischen EU und USA?",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-usa-zoelle-abkommen-100.html",
-          "summary": "Unter dem Druck neuer Drohungen von US-Präsident Trump verhandeln EU-Vertreter heute über ein Zollabkommen mit den USA. Wie könnte das aussehen? Welche Zölle gelten derzeit? Und was, wenn sich die USA nicht an den möglichen Deal halten?",
+          "title": "Moschee-Angreifer von San Diego laut Polizei von Hass getrieben",
+          "url": "https://www.tagesschau.de/ausland/amerika/san-diego-moschee-ermittlungen-100.html",
+          "summary": "Die beiden jungen Angreifer von San Diego hatten laut Polizei einen Hass auf Menschen mit anderer Religion oder Hautfarbe. An einer Moschee hatten sie drei Menschen getötet. Ein Wachmann soll noch weit Schlimmeres verhindert haben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d72ab884-7092-48df-95c8-6298b30fb4bf/AAABlsPGMGc/AAABnSSvrFg/16x9-big/usa-import-export-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/80c91ebd-9d97-419d-8f72-e691b1a16af3/AAABnkI-kdE/AAABnSSvrFg/16x9-big/san-diego-angriff-100.jpg?width=1280"
         }
       ]
     },
@@ -138,12 +138,12 @@
           "image": "https://www.sueddeutsche.de/2026/05/19/ab7ee77f-6703-4bad-b179-92b0680f0b84.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: Trump droht Iran mit neuen Angriffen in den kommenden Tagen",
-          "url": "https://www.sueddeutsche.de/politik/iran-news-liveblog-nahost-trump-angriff-atomwaffe-li.3483620",
-          "summary": "Der US-Präsident begründet das mit der weiteren Uneinigkeit im Hinblick auf ein Friedensabkommen. Es gelte zu verhindern, dass Iran eine Atomwaffe bekomme.",
+          "title": "Krieg in Nahost: US-Senat stimmt erstmals für mehr Mitsprache im Iran-Krieg",
+          "url": "https://www.sueddeutsche.de/politik/iran-news-liveblog-nahost-trump-senat-usa-li.3483620",
+          "summary": "Die Demokraten wollen Trumps Befugnisse über die Streitkräfte im Iran-Krieg einschränken. Die Republikaner sehen das anders – doch ihre Geschlossenheit bröckelt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/19/24b86104-3746-4183-8288-ec2dde57894a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C416%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/20/41339f94-89e1-4819-ae11-aa644d1a4615.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C106%2C4000%2C2250"
         }
       ]
     }
