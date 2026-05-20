@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-20T06:00:11.000Z",
-  "timestamp": "20.5.2026, 08:00:11",
+  "generated": "2026-05-20T10:00:09.875Z",
+  "timestamp": "20.5.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Ukrainekrieg: Was Roboter schaffen, müssen Soldaten nicht tun",
+          "title": "Arbeit in der Notaufnahme: Zwei Tage zwischen Leben, Tod und Teamgeist",
+          "url": "https://www.faz.net/aktuell/politik/inland/notaufnahme-in-trier-zwei-tage-zwischen-leben-tod-und-teamgeist-200836168.html",
+          "summary": "Die Ärzte und Pfleger einer Notaufnahme in Trier federn die Folgen von Krankenhaussterben und Ärztemangel ab – und geraten dabei immer häufiger an ihre Grenzen.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/2911c175ee59/w5459h2852x0y319o/202604/43601.0.2034815305/4360102034815305.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Luftalarm in Litauen: Staatsspitze in Schutzräume gebracht",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-luftalarm-in-litauen-staatsspitze-in-schutzraeume-gebracht-faz-110683325.html",
+          "summary": "Entwarnung nach einer halben Stunde +++ Auslöser war eine Drohne aus Richtung Belarus +++ Putin und Xi betonen bei Treffen enge Beziehungen +++ alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/1fd3b974f160/w4000h2090x0y81o/202605/43601.0.2103359249/schutzraum-des-litauischen.webp"
+        },
+        {
+          "title": "Ukrainekrieg: Wenn ein Roboter russische Soldaten gefangen nimmt",
           "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-wenn-ein-roboter-russische-soldaten-gefangen-nimmt-accg-200808294.html",
           "summary": "Die Ukraine setzt zunehmend auf unbemannte Fahrzeuge. Mit ihnen kann man in der Todeszone operieren, ohne Soldatenleben zu riskieren.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3de13005fb4e/w6000h3135x209y1020o/202605/19804555-99ed-4d83-9db5-d09c9342dc94/baut-roboter-fuer-den-krieg.webp"
-        },
-        {
-          "title": "Liveblog Ukrainekrieg: Putin und Xi betonen bei Treffen enge Beziehungen",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-putin-und-xi-betonen-bei-treffen-enge-beziehungen-faz-110683325.html",
-          "summary": "Xi: „Strategische Zusammenarbeit hat tausend Prüfungen standgehalten“ +++ Selenskyj genehmigt neue Angriffspläne +++ Russland hält Manöver seiner Atomstreitkräfte ab +++ alle Neuigkeiten im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/210fc3fce5fd/w4358h2277x0y162o/202605/43601.0.2102654614/in-peking-ist-wladimir-putin.webp"
-        },
-        {
-          "title": "F.A.Z. PODCAST FÜR DEUTSCHLAND: Militärexperte Lange: „Putin hat eine Schwächephase“",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/militaerexperte-lange-putin-hat-eine-schwaechephase-200846333.html",
-          "summary": "Nach Trump trifft auch Putin auf Xi Jinping. Ukrainische Drohnen treffen derweil auf Moskau. Und droht in Kuba vielleicht schon der nächste Konflikt? Der Militärexperte Nico Lange schätzt die Lage ein.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/86b43bb03140/w2366h1236x0y47o/202605/43601.0.2101053755/wladimir-putin-am-dienstag-bei.webp"
+          "image": "https://media0.faz.net/image/w1200h627/56c3914c51c7/w6000h3135x226y1167o/202605/19804555-99ed-4d83-9db5-d09c9342dc94/baut-roboter-fuer-den-krieg.webp"
         }
       ]
     },
@@ -35,15 +35,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Handelsstreit mit den USA: EU setzt Trumps Null-Zoll-Deal unter Zeitdruck um",
-          "url": "https://www.spiegel.de/wirtschaft/handelsstreit-mit-den-usa-eu-setzt-trumps-null-zoll-deal-unter-zeitdruck-um-a-6ec07268-4cd3-480f-a0d5-022fdc0b4574#ref=rss",
-          "summary": "Juli muss die EU den Handelsdeal mit Donald Trump umsetzen, sonst droht der US-Präsident mit hohen Autozöllen. Nun haben sich das Europaparlament und die Mitgliedstaaten auf die Details geeinigt. Doch zwei Hürden bleiben.",
+          "title": "Festnahmen in Bayern: Chinesische Agenten sollen deutsche Professoren ausgespäht haben",
+          "url": "https://www.spiegel.de/panorama/justiz/festnahmen-in-bayern-chinesische-agenten-sollen-deutsche-professoren-ausgespaeht-haben-a-d61936fb-b2a6-4163-9aa4-65fe2541803a#ref=rss",
+          "summary": "Die Bundesanwaltschaft hat zwei mutmaßliche Agenten verhaften lassen, die offenbar gezielt auf deutsche Universitäten angesetzt waren. Betroffen ist nach SPIEGEL-Informationen unter anderem die Technische Hochschule in Aachen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5d8b77a4-b95d-4c56-8410-d50812ae862e_w1200_r1.778_fpx53_fpy63.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f3bb0306-9df5-4687-b605-540b735e3513_w1200_r1.778_fpx38.69_fpy50.jpg"
         },
         {
-          "title": "NSDAP-Mitgliedschaft und andere Familiengeheimnisse: So sprechen Sie mit Verwandten darüber",
+          "title": "NSDAP-Mitgliedschaft und andere Geheimnisse: So sprechen Sie mit der Familie darüber",
           "url": "https://www.spiegel.de/psychologie/nsdap-mitgliedschaft-und-andere-familiengeheimnisse-so-sprechen-sie-mit-verwandten-darueber-a-b6e11280-6f81-4569-84e5-3017faed0053#ref=rss",
           "summary": "Opa war in der NSDAP. Und nun? Therapeut Henrik Kessler erklärt, wie Sie in der Familie über unbequeme Erinnerungen sprechen können – und warum man nicht zu sehr bohren sollte.",
           "source": "Spiegel",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e2eea4b6-a031-4dfc-9a67-5df796a2042f_w1200_r1.778_fpx55_fpy41.png"
         },
         {
-          "title": "News: Angela Merkel tritt auf, Wladimir Putin bei Xi Jinping, Nationaltorwart Manuel Neuer",
-          "url": "https://www.spiegel.de/politik/deutschland/news-angela-merkel-tritt-auf-wladimir-putin-bei-xi-jinping-nationaltorwart-manuel-neuer-a-2f160936-c9d3-4ff5-b7ff-bdb6de93763f#ref=rss",
-          "summary": "Wladimir Putin besucht seinen Herrn und Meister. Die Altkanzlerin hat mehrere bemerkenswerte Auftritte. Und: Manuel Neuer soll noch ein bisschen das Tor hüten. Das ist die Lage am Mittwochmorgen.",
+          "title": "Donald Trump vs Thomas Massie: Republikaner aus Kentucky verliert Vorwahl - ein Sieg für den Präsidenten",
+          "url": "https://www.spiegel.de/ausland/donald-trump-vs-thomas-massie-republikaner-aus-kentucky-verliert-vorwahl-ein-sieg-fuer-den-praesidenten-a-3c87e221-e0d7-4829-899a-12a41431242b#ref=rss",
+          "summary": "Thomas Massie aus Kentucky war der prominenteste republikanische Widersacher des US-Präsidenten im Parlament. Jetzt statuiert Donald Trump an ihm ein Exempel. Und zeigt: Seine Basis hat er noch immer im Würgegriff.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/2d611083-d513-4994-af7e-ad2ed97d27e6_w1200_r1.778_fpx53_fpy48.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Höhere US-Renditen drücken Stimmung",
+          "title": "US-Senatoren stimmen für mehr Mitsprache im Iran-Krieg",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-senat-resolution-iran-100.html",
+          "summary": "Im US-Senat hatten die Demokraten erstmals mit einer Resolution zum Iran-Krieg Erfolg - vier Republikaner stimmten mit ihnen. Die Chancen, Trump damit zu kontrollieren, sind aber wohl klein.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABleBcZrE/AAABnSSvrFg/16x9-big/kongress-usa-102.jpg?width=1280"
+        },
+        {
+          "title": "Hauseinsturz in Görlitz: Suche nach Vermissten wieder angelaufen",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/sachsen-goerlitz-gasaustritt-hauseinsturz-100.html",
+          "summary": "Nach dem Einsturz eines Wohnhauses in Görlitz ist die Suche nach den drei verbliebenen Vermissten erneut angelaufen. Zuvor war es den Einsatzkräften gelungen, die Gasleitung abzustellen und die Explosionsgefahr zu verringern.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://www.mdr.de/nachrichten/sachsen/bautzen/goerlitz-weisswasser-zittau/luftbilder-einsturz-wohnhaus-104_v-variantBig16x9_wm-true_zc-ecbbafc6.jpg?version=47728"
+        },
+        {
+          "title": "Marktbericht: Zwischen Hoffnung und Eskalationsangst",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-nikkei-nvidia-100.html",
-          "summary": "Schwache Vorgaben aus Asien und steigende US-Renditen sorgen für Zurückhaltung an den Börsen. Für neuen Schwung dürften die Quartalszahlen des KI-Schwergewichts Nvidia nach Börsenschluss sorgen.",
+          "summary": "Am Aktienmarkt bleibt die Geopolitik der entscheidende Taktgeber. Aussagen von US-Präsident Donald Trump zum Iran-Konflikt verunsichern die Anleger. Zugleich beunruhigen die steigenden Anleiherenditen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6c27bbdd-9480-4b9a-82b9-1f3c2346ad51/AAABnObPiLk/AAABnSSvrFg/16x9-big/boerse-496.jpg?width=1280"
-        },
-        {
-          "title": "EU mit Aktionsplan gegen hohe Düngemittel-Preise",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-hilfen-duenger-102.html",
-          "summary": "Kriege und Krisen in der Welt lassen die Düngerpreise in die Höhe steigen. Angesichts der Kosten warnen Europäische Bauern vor sinkenden Ernteerträgen und Höfesterben. Nun will ihnen die EU-Kommission unter die Arme greifen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/05e7232a-ae7f-426e-b62a-1f70bbcfc192/AAABnkK2u9w/AAABnSSvrFg/16x9-big/traktor-duenger-108.jpg?width=1280"
-        },
-        {
-          "title": "Erste Auslandsreise: Ungarns Ministerpräsident Magyar sucht Nähe zu Polen",
-          "url": "https://www.tagesschau.de/ausland/europa/ungarn-magyar-polen-100.html",
-          "summary": "Ungarns Ministerpräsident Magyar ist auf seiner ersten Auslandsreise. Die Beziehungen zu Polen hatten sich unter seinem Vorgänger Orban verschlechtert. Für Magyar geht es darum, neues Vertrauen aufzubauen. Kellermann.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/57b7a4c6-319d-48cb-ab68-4d4c39c7c4eb/AAABnkNiQFE/AAABnSSvrFg/16x9-big/magyar-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/eee2f737-03cc-4107-872f-1a79f01488f4/AAABnipnoiI/AAABnSSvrFg/16x9-big/boerse-514.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Nvidia und AMD auf China-Kurs: Chip-Riesen hoffen auf mehr Marktzugang",
-          "url": "https://www.telepolis.de/article/Nvidia-und-AMD-auf-China-Kurs-Chip-Riesen-hoffen-auf-mehr-Marktzugang-11299514.html",
-          "summary": "Trumps China-Besuch hat die Hoffnungen von US-Herstellern auf einen Wiedereinstieg in den chinesischen KI-Chipmarkt neu entfacht. Doch es könnte zu spät sein.",
+          "title": "US-China-Deal: Große Zahlen, kleine Verbindlichkeit",
+          "url": "https://www.telepolis.de/article/US-China-Deal-Grosse-Zahlen-kleine-Verbindlichkeit-11300330.html",
+          "summary": "200 Jets, Milliarden-Summen – doch China nennt die Deals nur \"vorläufig\". Was das Abkommen wirklich wert ist, bleibt offen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/2/0/9/shutterstock_2700285039-2c9ce6f7e8881771.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/6/2/5/shutterstock_1621695445-f806ae627d87d26c.jpg"
         },
         {
-          "title": "KIRK: Helsing und OHB bringen Kriegsführung in den Weltraum",
-          "url": "https://www.telepolis.de/article/KIRK-Helsing-und-OHB-bringen-Kriegsfuehrung-in-den-Weltraum-11299696.html",
-          "summary": "KI-Satelliten sollen Ziele in Echtzeit erfassen – und die Zeit zwischen Erkennen und Waffeneinsatz radikal verkürzen.",
+          "title": "Putins \"Superrakete\": Warum die Sarmat Moskau selbst überfordert",
+          "url": "https://www.telepolis.de/article/Putins-Superrakete-Warum-die-Sarmat-Moskau-selbst-ueberfordert-11300113.html",
+          "summary": "Russland feiert die RS-28 Sarmat als \"mächtigste Rakete der Welt\". Doch hinter der Drohkulisse stehen Fehlstarts, Krisen und neue Eskalationsrisiken.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/3/0/5/generated-image-1__7_-8bb9e87a1a7bee54.png"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/5/1/5/master_Lange_top-b8f9b13dc005ab82.jpg"
         },
         {
-          "title": "Öffentlich-rechtlicher Rundfunk: Was kann der Bürgerrat beim RBB bewirken?",
-          "url": "https://www.telepolis.de/article/Oeffentlich-rechtlicher-Rundfunk-Was-kann-der-Buergerrat-beim-RBB-bewirken-11299292.html",
-          "summary": "Nach RBB-Skandal sollen 51 geloste Bürger Empfehlungen zur Zukunft erarbeiten – ohne klare Fragestellung droht das Gremium zur Alibi-Veranstaltung zu werden.",
+          "title": "Bunker-App statt Bunker: Dobrindts leeres Zivilschutz-Versprechen",
+          "url": "https://www.telepolis.de/article/Bunker-App-statt-Bunker-Dobrindts-leeres-Zivilschutz-Versprechen-11300147.html",
+          "summary": "Dobrindt plant zehn Milliarden für den Zivilschutz. Doch Bunker sind praktisch nicht vorhanden und Zuständigkeiten unklar. Wer rettet wen?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/0/9/8/Master_RBB-8d6744b5df3ef38e.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/5/3/3/shutterstock_2762015683-9e1e46456e3dd0a5.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Streich von 1860-Anhängern auf der Bayern-Meisterfeier: „Besser kann man Häme über den Konkurrenzverein nicht ausschütten“",
-          "url": "https://www.sueddeutsche.de/muenchen/fc-bayern-muenchen-meisterfeier-1860-muenchen-banner-fanaktionen-interview-li.3486018",
-          "summary": "Im Moment größter Euphorie düpiert: Fan-Forscher Harald Lange erklärt, warum der Streich von 1860-Anhängern bei der Bayern-Meisterfeier so außergewöhnlich ist – und was er mit dem Brauch des Braut-Raubes gemeinsam hat.",
+          "title": "Leute: Heißer denn je",
+          "url": "https://www.sueddeutsche.de/panorama/heidi-klum-wechseljahre-hotter-than-ever-cannes-promis-li.3486265",
+          "summary": "Heidi Klum spricht über ihre Wechseljahre. Narendra Modi schenkt Georgia Meloni Toffees. Und Kylie Minogue enthüllt, dass sie 2021 eine zweite Brustkrebsdiagnose erhalten hat.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/19/824b9da2-94d9-4980-abd4-223553c0188f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=210%2C204%2C2104%2C1184"
+          "image": "https://www.sueddeutsche.de/2026/05/20/fc960174-3712-41c4-8f5e-0b2ab2763342.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "USA: Vance: Truppenstopp für Polen nicht schlecht für Europa",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-vance-polen-truppen-li.3478505",
-          "summary": "„Das ermutigt Europa, mehr Verantwortung zu übernehmen“, behauptet der US-Vizepräsident. Die Verlegung von 4000 Soldaten nach Polen zu streichen, sei eine „normale Verzögerung“.",
+          "title": "Ebola: Polizei-Eskorte bringt infizierten US-Bürger in Berliner Charité",
+          "url": "https://www.sueddeutsche.de/gesundheit/ebola-patient-usa-behandlung-berlin-charite-li.3485617",
+          "summary": "Die Zahl der Erkrankten nach dem Ebola-Ausbruch im Kongo steigt. Ein dort mit dem Virus infizierter US-amerikanischer Arzt wird nun in einer Spezialstation in Berlin behandelt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/20/fe666b68-bfee-4017-bf2c-968bcdd19479.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/20/9b6a2b64-f493-4607-b349-e6cd9a4a5ae8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1920%2C1080"
         },
         {
-          "title": "„Maischberger“: Warum ist die Stimmung in Deutschland so schlecht?",
-          "url": "https://www.sueddeutsche.de/medien/maischberger-ard-tv-kritik-julia-kloeckner-cdu-li.3486026",
-          "summary": "Darauf hat Bundestagspräsidentin Klöckner bei „Maischberger“ eine Antwort: Schuld seien „die Medien“. Einen Ratschlag hat sie auch.",
+          "title": "Zollabkommen mit den USA: Das ist ein schlechter Deal. Aber immerhin ein erträglicher",
+          "url": "https://www.sueddeutsche.de/meinung/eu-usa-zoll-abkommen-freihandel-kommentar-li.3486267",
+          "summary": "Ja, die Übereinkunft kommt einer Demütigung der Europäer durch Donald Trump gleich. Aber dank dem Europaparlament gelten nun drei wichtige Grundsätze.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/20/064fcaa2-ae73-42ea-a818-e8e348a9047e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C16%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/20/c73c8b05-58c3-4cc9-88fb-5cc160ae3e11.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1268%2C447%2C2732%2C1537"
         }
       ]
     }
