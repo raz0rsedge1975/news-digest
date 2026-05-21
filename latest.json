@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-21T10:00:11.819Z",
-  "timestamp": "21.5.2026, 12:00:11",
+  "generated": "2026-05-21T14:00:12.359Z",
+  "timestamp": "21.5.2026, 16:00:12",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Außenpolitik der SPD: Die sozialdemokratischen Schatten der Vergangenheit",
-          "url": "https://www.faz.net/aktuell/politik/inland/zeitenwende-wo-steht-die-spd-in-der-aussenpolitik-accg-200843291.html",
-          "summary": "Nach dem russischen Überfall auf die Ukraine sollte auch die sozialdemokratische Außenpolitik eine Zeitenwende erleben. Was ist daraus geworden?",
+          "title": "Protest der Gewerkschaften: Jetzt entbrennt der Machtkampf um die Rente",
+          "url": "https://www.faz.net/aktuell/wirtschaft/rente-mit-70-der-machtkampf-um-die-reform-entbrennt-200854756.html",
+          "summary": "Was plant die Rentenkommission? Eine höhere Altersgrenze und gedämpfte Rentenerhöhungen stehen zur Debatte. Die Gewerkschaften verschärfen ihren Protest. Und was ist mit der Rente mit 70?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/add8dd627c5c/w5578h2914x1023y1922o/202605/43601.0.2072890845/nur-ein-vorgeschmack-kommender.webp"
+        },
+        {
+          "title": "SPD fordert höhere Reichensteuer: Breite Schultern tragen schon heute mehr",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spd-fordert-hoehere-reichensteuer-belastung-fuer-familienunternehmen-steigt-accg-200851175.html",
+          "summary": "Die Union öffnet sich dem Wunsch der SPD, Spitzeneinkommen stärker zu belasten. Die Familienunternehmer sind alarmiert, denn viele von ihnen zahlen Einkommensteuer, nicht Körperschaftsteuer.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/809fd7e83f1e/w3964h2071x0y156o/202603/43601.0.1841144647/rolf-muetzenich-2025-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4e4465e59dba/w6192h3235x0y316o/202605/43601.0.2104613035/finanzminister-lars-klingbeil.webp"
         },
         {
-          "title": "Liveblog Ukrainekrieg: Tote durch nächtliche Drohnenangriffe",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-tote-durch-naechtliche-drohnenangriffe-faz-110683325.html",
-          "summary": "Einschläge in Russland und Ukraine +++ Sorge vor russischer Offensive im Norden der Ukraine +++ Litauens Präsident nennt Luftalarm „wichtige Lektion“ +++ alle Neuigkeiten im Liveblog",
+          "title": "Liveblog Fußball-WM 2026: Nagelsmann erklärt Neuer-Entscheidung – Kritik aus Hoffenheim",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/liveblog-zur-fussball-wm-2026-hoffenheim-kritik-an-nagelsmann-kommunikation-faz-200749933.html",
+          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2d0e4f0f6f46/w2000h1045x0y207o/202605/43601.0.2107249084/der-katastrophenschutz-im.webp"
-        },
-        {
-          "title": "Statt schnellem Beitritt: Wie Merz sich einen Sonderstatus für die Ukraine vorstellt",
-          "url": "https://www.faz.net/aktuell/politik/inland/statt-schnellem-beitritt-wie-merz-sich-einen-sonderstatus-fuer-die-ukraine-vorstellt-accg-200852793.html",
-          "summary": "Die Teilnahme an Räten, etwas Geld aus dem EU-Haushalt und die Eröffnung aller Beitrittskapitel – damit versüßt der Kanzler eine bittere Botschaft für Kiew.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ba1c07ab37d6/w5538h2893x0y322o/202604/43601.0.1985947389/bundeskanzler-friedrich-merz.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2ca633d8cf51/w2112h1103x0y94o/202605/43601.0.2108069511/vertraut-auf-manuel-neuers.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Inflation in den USA: Wut auf Donald Trump und den Iran-Krieg wächst",
-          "url": "https://www.spiegel.de/wirtschaft/inflation-in-den-usa-wut-auf-donald-trump-und-den-iran-krieg-waechst-a-5553bee3-449a-4ab4-a805-a6114385c342#ref=rss",
-          "summary": "Hohe Benzinpreise und eine anziehende Inflation vermiesen den Amerikanern die Konsumfreude. Die Wut auf den Präsidenten wächst – und das ausgerechnet vor den Midterm-Wahlen.",
+          "title": "Israel und die Gaza-Flotille: Benjamin Netanyahu hält trotz Empörung an Itamar Ben-Gvir fest",
+          "url": "https://www.spiegel.de/ausland/israel-und-die-gaza-flotille-benjamin-netanyahu-haelt-trotz-empoerung-an-itamar-ben-gvir-fest-a-035dc365-e09a-4925-b51e-9fc76ebe091e#ref=rss",
+          "summary": "Israels Sicherheitsminister Ben-Gvir verhöhnt gefangene Gaza-Aktivisten, Anwälte prangern das gewaltsame Vorgehen an, auch von sexueller Belästigung ist die Rede. Warum Premier Netanyahu trotzdem an dem Rechtsradikalen festhält.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/790cacbb-902e-41ee-80c7-23500b20c70c_w1200_r1.778_fpx74_fpy65.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bcab3725-c15a-4746-8138-7462ec943992_w1200_r1.778_fpx65_fpy53.jpg"
         },
         {
-          "title": "WM 2026: Diese Spieler hat der DFB bereits per Instagram nominiert",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-diese-spieler-hat-der-dfb-bereits-per-instagram-nominiert-a-d953da8c-eab2-45da-9219-1a2a298f4d64#ref=rss",
-          "summary": "Der DFB hat schon vor der offiziellen Pressekonferenz um 13 Uhr die ersten WM-Fahrer bekannt gegeben, in Instagramvideos mit Ehefrauen, Jugendfreunden und dem Bundestrainer. Verfolgen Sie die Nominierungen in der Liveanalyse.",
+          "title": "WM 2026: DFB-Kader in der Analyse - Können sie wirklich Weltmeister werden?",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-dfb-kader-in-der-analyse-koennen-sie-wirklich-weltmeister-werden-a-b4fe756c-1c24-4a50-91c9-e4a9db1e6985#ref=rss",
+          "summary": "Bundestrainer Julian Nagelsmann hat sein Aufgebot enthüllt. Offensiv ist die Elf stark, bei vielen Spielern und beim Trainer gibt es allerdings ein Aber. Hier sind die 27 WM-Fahrer im Kurzporträt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6592d7aa-207f-4e8c-b169-72d14f3341c9_w1200_r1.778_fpx58.65_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9bd1bac2-bcbc-4d14-9377-6b3d10db1f41_w1200_r1.778_fpx51_fpy40.jpg"
         },
         {
-          "title": "Konferenz re:publica: Die letzte Party auf der »Titanic«",
-          "url": "https://www.spiegel.de/kultur/konferenz-re-publica-die-letzte-party-auf-der-titanic-a-5bf8fc9b-c86b-45d7-a25b-41888bd62992#ref=rss",
-          "summary": "Die re:publica träumte einst davon, mithilfe des Internets eine bessere Welt zu schaffen. Nun wirkt die Konferenz wie das Symbol für die geistige Erstarrung eines progressiven Milieus.",
+          "title": "Iran soll Ermordung von Josef Schuster und Volker Beck geplant haben",
+          "url": "https://www.spiegel.de/politik/deutschland/iran-soll-ermordung-von-josef-schuster-und-volker-beck-geplant-haben-a-87c39671-175e-4c7b-94ee-a0799304c34d#ref=rss",
+          "summary": "Ein mutmaßlicher iranischer Agent soll Attentate auf die Chefs des Zentralrats der Juden und der Deutsch-Israelischen Gesellschaft vorbereitet haben. Nun wurde er nach SPIEGEL-Informationen angeklagt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a3547edc-f949-4ab2-aaa1-ff97d997935a_w1200_r1.778_fpx37_fpy47.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1f54894e-2f29-4c77-bc3e-20578ddc279e_w1200_r1.778_fpx52.66_fpy44.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Erneut weniger ausländische Investitionen in Deutschland",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/investitionen-ausland-deutschland-100.html",
-          "summary": "Lange war Deutschland ein attraktiver Standort für Investitionen aus dem Ausland. Aber seit Jahren geht die Zahl der Projekte zurück. Deutschland tut zu wenig, um für Investoren interessant zu bleiben, kritisiert ein Experte.",
+          "title": "Offene Fragen zum vorgeschlagenen EU-Sonderstatus für Ukraine",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-ukraine-sonderstatus-100.html",
+          "summary": "Weil ein sofortiger EU-Beitritt der Ukraine nicht möglich ist, schlägt Kanzler Merz einen Sonderstatus vor: Die Ukraine wäre quasi ein Mitglied, aber mit weniger Rechten. Was spricht für den Vorschlag, was dagegen? Von Sabrina Fritz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/95d28eec-e010-4c0f-ac07-d0fa38287567/AAABnkmGhkA/AAABnSSvrFg/16x9-big/chipfabrik-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2b0fc369-c678-4d5b-bde0-165d3652fbb3/AAABmO-Ayl0/AAABnSSvrFg/16x9-big/eu-ukraine-138.jpg?width=1280"
         },
         {
-          "title": "Wie Rechte zunehmend in die Kurven deutscher Fußballstadien drängen",
-          "url": "https://www.tagesschau.de/investigativ/monitor/fussball-fankurven-rechtsextremismus-100.html",
-          "summary": "Rechte und rechtsextreme Akteure drängen zunehmend in Fankurven deutscher Fußballstadien. Das zeigen Monitor-Recherchen. Online und auf Veranstaltungen wird wird daran gearbeitet, sich stärker zu vernetzen. Im Fokus: die 3.",
+          "title": "Gestoppte Flotte - Israel schiebt Hunderte Gaza-Aktivisten ab",
+          "url": "https://www.tagesschau.de/ausland/europa/israel-gaza-aktivisten-abschiebung-100.html",
+          "summary": "Der Umgang mit den Aktivisten der Gaza-Flotte und ein demütigendes Video des israelischen Polizeiministers haben international für Empörung gesorgt. Nun werden die ersten Festgenommenen in ihre Heimatländer zurückgebracht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6c67818c-cd0f-43c0-a1bc-466be6bbf78d/AAABnklsg2M/AAABnSSvrFg/16x9-big/rot-weiss-essen-164.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/33c65cb3-d32c-40ba-aafc-3e5355712300/AAABnkrD2n0/AAABnSSvrFg/16x9-big/schiffe-gaza-flotte-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX legt Verschnaufpause ein",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-nvidia-100.html",
-          "summary": "Der DAX ist nach seiner jüngsten Erholung mit leichten Abschlägen in den Handelstag gestartet. Anleger warten auf neue Signale im Iran-Konflikt. Unterstützung kommt derweil von starken Tech-Werten.",
+          "title": "Blinde Patientin scheitert mit Klage gegen Rehaklinik am BGH",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/bgh-klage-blinde-diskriminierung-100.html",
+          "summary": "Eine blinde Frau soll nach einer Operation zur Reha. Dort nimmt man sie aber nicht auf - wegen ihrer Blindheit. Die Patientin klagt auf Entschädigung. Diese Klage lehnte der BGH nun in letzter Instanz ab.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/eee2f737-03cc-4107-872f-1a79f01488f4/AAABnipnoiI/AAABnSSvrFg/16x9-big/boerse-514.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5347ddff-7a28-4c40-ad86-871fe4e52bbe/AAABnkpbaFc/AAABnSSvrFg/16x9-big/renate-s-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Drohnen, Anklage und Eskalation: Washington lernt in Sachen Kuba nicht dazu",
-          "url": "https://www.telepolis.de/article/Drohnen-Anklage-und-Eskalation-Washington-lernt-in-Sachen-Kuba-nicht-dazu-11302081.html",
-          "summary": "Nach der Entführung von Maduro erheben die USA jetzt Anklage gegen Raúl Castro. Warum sich Trump wieder auf gefährliche Pfade begibt. Ein Gastbeitrag.",
+          "title": "Öffentlich-rechtlicher Rundfunk: Wer bestimmt, was \"ausgewogen\" ist?",
+          "url": "https://www.telepolis.de/article/Oeffentlich-rechtlicher-Rundfunk-Wer-bestimmt-was-ausgewogen-ist-11302656.html",
+          "summary": "Neues Gutachten soll den Streit um die politische Schlagseite von ARD und ZDF versachlichen. Doch die Messung von Vielfalt wirft neue Fragen auf.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/5/0/5/shutterstock_421663108-93cf793fa38d1a11.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/8/1/1/master_Media-4b12e4bc51421567.jpg"
         },
         {
-          "title": "Das offene Web? Für Google nur noch Futter",
-          "url": "https://www.telepolis.de/article/Das-offene-Web-Fuer-Google-nur-noch-Futter-11302063.html",
-          "summary": "Google baut seine Suche radikal um. Was nach Innovation klingt, könnte das offene Web grundlegend verändern. Ein Kommentar.",
+          "title": "Baltikum: Wo eine Drohne den nächsten Weltkrieg auslösen könnte",
+          "url": "https://www.telepolis.de/article/Baltikum-Wo-ein-Drohne-den-naechsten-Weltkrieg-ausloesen-koennte-11300702.html",
+          "summary": "Drohnen im Nato-Luftraum heizen die Lage rund um Kaliningrad auf. Russland droht, der Westen rüstet. Warum es jetzt De-Eskalation braucht. Ein Gastbeitrag.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/4/9/5/shutterstock_2689013653-74c90808c1313fd8.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/8/1/1/shutterstock_2667919745-abb054bc1cdd9376.jpg"
         },
         {
-          "title": "Cannes-Schock \"Fjord\": Zwei totalitäre Welten prallen aufeinander",
-          "url": "https://www.telepolis.de/article/Cannes-Schock-Fjord-Zwei-totalitaere-Welten-prallen-aufeinander-11301672.html",
-          "summary": "Die blinden Flecken vermeintlich progressiver Gesellschaften: Cristian Mungius neuer Film bei den Filmfestspielen in Cannes erzählt von Moralterror im Westen.",
+          "title": "Starbucks: Kein einziger Plastikbecher landet im Recycling",
+          "url": "https://www.telepolis.de/article/Starbucks-Kein-einziger-Plastikbecher-landet-im-Recycling-11302309.html",
+          "summary": "Beyond Plastics verfolgte 53 Starbucks-Becher per Tracker. Keiner der 36 auswertbaren landete im Recycling. Starbucks löschte seine Recycling-Werbeseite.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/3/0/1/Master_Film-833acf040e0bed71.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/6/2/0/shutterstock_2717644431-896a8bbe943fb19a.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "KI-Chips: Nvidia, wie lange kann das noch gut gehen?",
-          "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-umsatz-boersenwert-ki-boom-li.3486911",
-          "summary": "Wertvollstes Unternehmen der Welt, riesiger Gewinn – und trotzdem nur mäßig begeisterte Investoren. Was ist los beim KI-Profiteur Nummer eins?",
+          "title": "Israel: Aufstieg eines Radikalen",
+          "url": "https://www.sueddeutsche.de/politik/israel-itamar-ben-gvir-sicherheitsministerrolle-gaza-li.3486934",
+          "summary": "Itamar Ben-Gvir demütigt Friedensaktivisten, marschiert auf den Tempelberg und fordert die Vertreibung von Palästinensern. Sein Land distanziert sich, aber viele wählen ihn trotzdem.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/21/0d23bd02-d8e3-461e-a288-42f3774eea93.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/21/a6814f16-0ae0-4f4b-95d4-398b5ef42010.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Fauxpas bei CSU-Vize Niebler: Die CSU und ihre Liebe zur Heimat – in Südtirol",
-          "url": "https://www.sueddeutsche.de/bayern/oberbayern-csu-niebler-berge-homepage-suedtirol-li.3486902",
-          "summary": "CSU-Vize Angelika Niebler wirbt auf ihrer Homepage mit ihrer Heimat. Blöd nur, dass zwar Oberbayern beschrieben wird, aber Südtirol zu sehen ist.",
+          "title": "Gaza-Flottille: „Inakzeptabel“ und „menschenverachtend“",
+          "url": "https://www.sueddeutsche.de/politik/israel-hilfsflotte-gaza-reaktionen-botschafter-italien-frankreich-li.3486939",
+          "summary": "Aktivisten der Hilfsflottille für Gaza beschweren sich über öffentliche Erniedrigungen und Misshandlungen in Israel. Italien und Frankreich bestellen die israelischen Botschafter ein. Und Deutschland?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/21/1b2ff95a-4493-4287-903c-5c6921115373.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C604%2C1620%2C911"
+          "image": "https://www.sueddeutsche.de/2026/05/21/2ef7d979-a4e1-44e0-b43c-d9f3c61ae74a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1920%2C1080"
         },
         {
-          "title": "USA: Weißes Haus dementiert Abweisung von Ebola-Patient",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-ebola-amerikanischer-arzt-berlin-charite-weigerung-trump-li.3478505",
-          "summary": "Die „Washington Post“ hatte zuvor berichtet, ein mit Ebola infizierter amerikanischer Arzt sei deshalb zur Behandlung nach Berlin gebracht worden, weil die US-Regierung sich geweigert habe, ihn aufzunehmen.",
+          "title": "Infektionskrankheiten: Wie der amerikanische Ebola-Patient nach Berlin kam",
+          "url": "https://www.sueddeutsche.de/gesundheit/ebola-patient-usa-berliner-charite-li.3486965",
+          "summary": "Ein Zeitungsbericht legt nahe, dass die US-Regierung ihren infizierten Bürger nicht im eigenen Land haben wollte. Doch es gibt auch gute objektive Gründe, ihn in Berlin zu behandeln.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/21/bdccc07b-5424-44cf-bb01-7bdb4881faff.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C166%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/05/21/beaf1fb9-7309-49ac-8659-5525be8ff4b8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=509%2C700%2C2893%2C1627"
         }
       ]
     }
