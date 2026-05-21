@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T22:00:08.152Z",
-  "timestamp": "21.5.2026, 00:00:08",
+  "generated": "2026-05-21T02:00:08.451Z",
+  "timestamp": "21.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/ed65cc75af3f/w2796h1460x694y221o/202605/43601.0.2105969166/nichts-zu-holen-in-istanbul.webp"
         },
         {
-          "title": "Beschaffungsreform: Pistorius will die Trutzburg am Rhein schleifen",
-          "url": "https://www.faz.net/aktuell/politik/inland/pistorius-will-das-beschaffungswesen-der-bundeswehr-reformieren-200851222.html",
-          "summary": "Verteidigungsminister Pistorius will das Beschaffungswesen der Bundeswehr reformieren. Er ist nicht der Erste.",
+          "title": "Raumfahrtunternehmen: Musk macht sich bei SpaceX unkündbar",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-boersenprospekt-zeigt-eigentuemerstruktur-200853206.html",
+          "summary": "SpaceX legt seinen Börsenprospekt vor. Das Unternehmen wächst rasant – und hat Elon Musk mit einer bemerkenswerten Machtfülle ausgestattet.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7439131004d1/w3000h1567x0y216o/202308/43600.0.1976413034/einst-als-regierungsgebaeude.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3db67f949e04/w5492h2869x0y396o/202605/43601.0.2106138418/spacex-duerfte-zu-einem.webp"
         }
       ]
     },
@@ -43,12 +43,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/b0126675-9a75-41f9-a943-ffdb1533d6f9_w1200_r1.778_fpx48_fpy50.jpg"
         },
         {
-          "title": "Europa-League-Finale: SC Freiburg gegen Aston Villa im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/europa-league-finale-sc-freiburg-gegen-aston-villa-im-liveticker-a-39742b96-855f-4010-af6a-a90b5c9ac3cf#ref=rss",
-          "summary": "Kein Titel für den SC Freiburg: Aston Villa zeigte den Breisgauern im Europa-League-Finale einen Klassenunterschied auf. Lesen Sie hier die Höhepunkte der Partie nach.",
+          "title": "Europa League: SC Freiburg unterliegt Aston Villa 0:3 – Gerüchte um Abgang von Noah Atubolu",
+          "url": "https://www.spiegel.de/sport/fussball/europa-league-sc-freiburg-unterliegt-aston-villa-0-3-geruechte-um-abgang-von-noah-atubolu-a-59289638-9e9e-4796-8dc8-23a493e6e2f4#ref=rss",
+          "summary": "Aston Villas Topstars sind zu viel für den SC Freiburg. Während Unai Emery seine einzigartige Rekordbilanz ausbaut, geht im Breisgau das Warten auf einen Titel weiter. Jetzt dürfte ein Umbruch anstehen – zumindest im Tor.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/af8d4b7a-b223-4d83-b692-13a0067aaccb_w1200_r1.778_fpx44_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c3b0af6b-6723-43b0-ab15-dfafe68cbc61_w1200_r1.778_fpx30.11_fpy44.96.jpg"
         },
         {
           "title": "USA gegen Kuba: Vereinigte Staaten klagen Ex-Staatschef Raúl Castro an",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "SpaceX kündigt wohl größten Börsengang der Geschichte an",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-boersengang-100.html",
+          "summary": "Das Raumfahrtunternehmen von Tech-Milliardär Musk könnte den größten Börsengang der Geschichte vollziehen. Dabei schrieb SpaceX zuletzt einen Milliardenverlust.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/de190503-26fd-4942-9afd-327ca9958b31/AAABnkfcyp8/AAABnSSvrFg/16x9-big/spacex-258.jpg?width=1280"
+        },
+        {
+          "title": "Großbritannien: Streit um Öl-Sanktionen gegen Russland",
+          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-sanktionen-russland-102.html",
+          "summary": "Großbritannien erlaubt weiter den Import von Kerosin und Diesel, der aus russischem Öl raffiniert wurde. Die Opposition wirft der Regierung vor, die Ukraine zu verraten. Premier Starmer hält dagegen. Von Gabi Biesinger.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2ad99ca7-6726-47dc-bd34-c9af013df0bb/AAABnkdyFqU/AAABnSSvrFg/16x9-big/starmer-214.jpg?width=1280"
+        },
+        {
           "title": "Ex-Verfassungsschützer Ott in Österreich wegen Spionage verurteilt",
           "url": "https://www.tagesschau.de/ausland/europa/urteil-spionage-egisto-ott-100.html",
           "summary": "Besonders die Zusammenarbeit mit Ex-Wirecard-Chef Marsalek machte den Fall zu einem der größten Spionageprozesse Österreichs. Nun ist ein Urteil gefallen: mehr als vier Jahre Haft für Ex-Verfassungsschützer Ott wegen Spionage für Russland.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/71db2442-0f0c-4ccc-a3bb-f070008b2783/AAABnkcbqJ0/AAABnSSvrFg/16x9-big/egisto-ott-100.jpg?width=1280"
-        },
-        {
-          "title": "Bundesregierung will offenbar bei Panzerbauer KNDS einsteigen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/knds-110.html",
-          "summary": "KNDS ist eine der großen Rüstungsfirmen Europas und soll an die Börse. Lange wurde um einen Einstieg der Bundesregierung bei dem deutsch-französischen Konzern gerungen. Nun gibt es offenbar eine Entscheidung.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/31d31175-558c-456a-90e2-c907b87b0c30/AAABnkb4w-M/AAABnSSvrFg/16x9-big/knds-112.jpg?width=1280"
-        },
-        {
-          "title": "Samsung wendet Streik vorerst ab",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/samsung-generalstreik-tarifstreit-102.html",
-          "summary": "Ein Streik bei Samsung hätte weltweit Auswirkungen. In letzter Minute konnte er abgewendet werden - vorerst zumindest. Der südkoreanische Elektronikkonzern ist der weltweit größte Produzent von Speicherchips.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/becbbb72-f005-4fd9-9ff2-66dfa5f11af9/AAABnkQzObc/AAABnSSvrFg/16x9-big/samsung-230.jpg?width=1280"
         }
       ]
     },
