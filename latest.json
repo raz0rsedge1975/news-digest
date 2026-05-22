@@ -1,10 +1,26 @@
 {
-  "generated": "2026-05-22T06:00:09.966Z",
-  "timestamp": "22.5.2026, 08:00:09",
+  "generated": "2026-05-22T10:00:08.341Z",
+  "timestamp": "22.5.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Vom Krieg eingeholt: Putin ist geschwächt",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/putin-ist-geschwaecht-sein-nimbus-broeckelt-200854093.html",
+          "summary": "Raffinerien brennen, die Wirtschaft stottert, doch Wladimir Putin findet weder in Washington noch in Peking den erhofften Ausweg. Sein Nimbus bröckelt.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/4d14dc81070b/w2026h1058x0y163o/202605/43601.0.2104569618/wladimir-putin-bei-seinem.webp"
+        },
+        {
+          "title": "Zusätzliche US-Soldaten: Rutte warnt vor zu großer Erleichterung",
+          "url": "https://www.faz.net/aktuell/politik/ausland/trump-will-5000-zusaetzliche-soldaten-nach-polen-schicken-accg-200858203.html",
+          "summary": "Donald Trump will plötzlich 5000 zusätzliche Soldaten nach Polen schicken. Der NATO-Generalsekretär beharrt aber auf dem eingeschlagenen Kurs.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9bf6f9f6d3d0/w8064h4213x0y287o/202303/43600.0.1585606831/amerikanische-soldaten-in.webp"
+        },
         {
           "title": "Drohnen über dem Baltikum: Das Risiko für Fehleinschätzungen steigt",
           "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-russland-droht-wegen-drohnen-aus-der-ukraine-dem-baltikum-accg-200854234.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/17f1375d93b7/w3418h1785x0y424o/202605/43601.0.2104947648/drohnenalarm-in-vilnius.webp"
-        },
-        {
-          "title": "TV-Kritik: „Markus Lanz“: „Wir werden in einem Krieg mit Russland landen“",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-markus-lanz-wir-werden-in-einem-krieg-mit-russland-landen-accg-200857616.html",
-          "summary": "In der Sendung von Markus Lanz fliegen die Fetzen: Mit Roderich Kiesewetter und Erich Vad geraten zwei ehemalige Militärs arg aneinander. Die Frage der deutschen Kriegstüchtigkeit gerät dabei in den Hintergrund.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5f11db44f496/w5455h2850x1729y1457o/202605/ca2262ef-10c5-4761-a761-858ec77be37d/die-talkrunde-an-21-5-bei.webp"
-        },
-        {
-          "title": "USA unter Trump: Republikaner im Senat stoppen vorerst Gesetz zur Einwanderung",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-republikaner-im-senat-stoppen-vorerst-gesetz-zur-einwanderung-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/810928dc1672/w6144h3210x0y443o/202603/43601.0.1878632916/ine-gruppe-von-migranten-ohne.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump: Wie der US-Präsident die Staatskasse plündert, um seine Unterstützer zu belohnen",
-          "url": "https://www.spiegel.de/ausland/donald-trump-wie-der-us-praesident-die-staatskasse-pluendert-um-seine-unterstuetzer-zu-belohnen-a-30a571e9-5e95-47a0-8992-ecd6ed37b076#ref=rss",
-          "summary": "Erst verklagt der Privatmann Trump die Regierung Trump, dann orchestriert er einen Deal, der 1,8 Milliarden Dollar Steuergelder für einen Entschädigungsfonds vorsieht. Das geht selbst den sonst so folgsamen Republikanern zu weit.",
+          "title": "Deutsche Bahn bekommt Konkurrenz im Fernverkehr – von Flixtrain und Italo",
+          "url": "https://www.spiegel.de/wirtschaft/deutsche-bahn-bekommt-konkurrenz-im-fernverkehr-von-flixtrain-und-italo-a-f4a3d6a5-fd82-4484-8f4b-9adc76ea1239#ref=rss",
+          "summary": "Lange dominierte die Deutsche Bahn den Fernverkehr. Jetzt will der italienische Wettbewerber Italo das Quasimonopol brechen, auch Flixtrain kündigt eine Offensive an. Auf der Schiene zeichnet sich ein Dreikampf ab.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/954cff95-89ae-4b85-ad04-33cc9d73632d_w1200_r1.778_fpx59.16_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6a0482fd-43e2-4b91-8415-92964deb6dad_w1200_r1.778_fpx51_fpy61.png"
         },
         {
-          "title": "NSDAP: Harald Welzer über den Umgang mit der NS-Zeit und die Folgen aus der Datenbank",
-          "url": "https://www.spiegel.de/kultur/nsdap-harald-welzer-ueber-den-umgang-mit-der-ns-zeit-und-die-folgen-aus-der-datenbank-a-adcf615d-154e-43c7-951a-955bb3bd500c#ref=rss",
-          "summary": "Nach dem Krieg blieben viele düstere Familiengeheimnisse im Verborgenen. Was hat das mit den Deutschen gemacht? Und welche Folgen hat der neue Zugang zu Nazi-Akten? Der Soziologe Harald Welzer über den harten Umgang mit der Schuld.",
+          "title": "Verfolgung von Vergewaltigungen: Wie eine Gesetzeslücke mutmaßliche Taten schützt",
+          "url": "https://www.spiegel.de/politik/deutschland/verfolgung-von-vergewaltigungen-wie-eine-gesetzesluecke-mutmassliche-taten-schuetzt-a-754d69df-7557-46ff-ac57-a026c0d3bdbf#ref=rss",
+          "summary": "Claudia Wuttke wurde von ihrem Ex-Partner mutmaßlich vergewaltigt, es gibt 67 Videoaufnahmen. Doch nur zwei landen vor Gericht. Weil die Politik aus Versehen das Sexualstrafrecht gelockert hat.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/34f88ffb-1cc7-4c61-b410-477cb7ad9bea_w1200_r1.778_fpx44.63_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bad076cd-5ab2-441d-b88e-e97f14332334_w1200_r1.778_fpx65_fpy46.jpg"
         },
         {
-          "title": "News: Donald Trump, Polen, Itamar Ben-Gvir, Friedrich Merz, Wolodymyr Selenskyj, Alican Uludağ",
-          "url": "https://www.spiegel.de/ausland/news-donald-trump-polen-itamar-ben-gvir-friedrich-merz-wolodymyr-selenskyj-alican-uludag-a-bdf579c8-6173-4cbe-8ed8-de00b8fcb1c6#ref=rss",
-          "summary": "Der US-Präsident verspricht seinem Warschauer Kollegen Truppen. Trägt die Bundesregierung Sanktionen gegen Israels Sicherheitsminister mit? Die Republikaner im Senat machen nicht mehr alles mit. Das ist die Lage am Freitagmorgen.",
+          "title": "Katherina Reiche: Wirtschaftsministerin fordert Stopp der Frühverrentung",
+          "url": "https://www.spiegel.de/wirtschaft/katherina-reiche-wirtschaftsministerin-fordert-stopp-der-fruehverrentung-a-1431dcba-6f19-4bbd-ac28-3814c1a9fafc#ref=rss",
+          "summary": "Die Rentenkommission hat ihre Vorschläge noch nicht vorgelegt. Trotzdem ist die Diskussion schon in vollem Gange. Auch Wirtschaftsministerin Katherina Reiche beteiligt sich daran.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/452404f2-1696-4a26-b9e9-4de104f04548_w1200_r1.778_fpx58_fpy48.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Senat stoppt Entschädigungsfonds für angebliche Justizopfer",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-senat-trump-streit-100.html",
-          "summary": "Im US-Senat gibt es Gegenwind für Präsident Trump. Der Grund ist ein Entschädigungsfonds für angebliche Justizopfer. Davon könnten auch Beteiligte des Sturms auf das US-Kapitol 2021 profitieren. Demokraten und Republikaner stoppten nun eine Abstimmung.",
+          "title": "Verwirrung nach Trumps Truppen-Ankündigung",
+          "url": "https://www.tagesschau.de/ausland/trump-truppen-polen-100.html",
+          "summary": "Kommen bald 5. 000 zusätzliche US-Soldaten nach Polen? Eine entsprechende Ankündigung von US-Präsident Trump sorgt bei den NATO-Partnern für Verwirrung. Denn eigentlich hatten die USA zuletzt von Abzug gesprochen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3dc69df5-8f9e-4fad-87bf-66626302d5ae/AAABnk4pob4/AAABnSSvrFg/16x9-big/kapitol-usa-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/56d98951-16bd-4d23-9e94-eb047a5b578e/AAABnFgmsPg/AAABnSSvrFg/16x9-big/us-soldaten-polen-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: KI-Fantasien beflügeln Börsen",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-ki-brent-100.html",
-          "summary": "Die asiatischen Aktienmärkte steigen am Morgen. Für Rückenwind sorgen vor allem Technologiewerte und die Begeisterung rund um das Thema Künstliche Intelligenz. Das dürfte auch dem DAX helfen.",
+          "title": "Kampf ums All: Wie Satelliten zur Machtfrage werden",
+          "url": "https://www.tagesschau.de/ausland/amerika/ki-weltall-podcast-100.html",
+          "summary": "Ohne Satelliten läuft kaum noch etwas - weder im Alltag noch im Krieg. Während die USA und China ihre Präsenz im All ausbauen, stört Russland Navigationssignale vor Europas Haustür. Deutschland versucht, aufzuholen und unabhängiger zu werden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/68dbb183-1517-4291-a260-61dfdc68e500/AAABnLJS29A/AAABnSSvrFg/16x9-big/boerse-490.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1ab1aca1-1e6c-41e9-8eef-604bfc345197/AAABnksmuXY/AAABnSSvrFg/16x9-big/satellit-nasa-100.jpg?width=1280"
         },
         {
-          "title": "Trump: USA wollen 5.000 Soldaten nach Polen entsenden",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-soldaten-polen-100.html",
-          "summary": "Gerade erst wurde die Entsendung einer Brigade nach Polen gestoppt - doch nun will US-Präsident Trump 5. 000 zusätzliche Soldaten dorthin schicken. Bei den Details blieb Trump allerdings vage.",
+          "title": "Zahl fertiggestellter Wohnungen fällt auf niedrigsten Stand seit 2012",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungsbau-fertiggestellte-wohnung-tiefststand-100.html",
+          "summary": "2025 wurden hierzulande so wenige Wohnungen fertiggestellt wie seit 2012 nicht mehr. Das liegt an hohen Kosten, verschärft auch durch den Iran-Krieg. Experten kritisieren aber auch die überbordende Bürokratie.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cf3d786c-1759-460a-a459-386877a1adc9/AAABmgYamaU/AAABnSSvrFg/16x9-big/us-soldaten-132.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a83ef8fd-a285-44a5-b90e-279c630f3e12/AAABnk54Zlo/AAABnSSvrFg/16x9-big/baustelle-314.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "\"Cantona\": Fußballgott, Filmstar, Widerständler",
+          "url": "https://www.telepolis.de/article/Cantona-Fussballgott-Filmstar-Widerstaendler-11303495.html",
+          "summary": "Festival Cannes: Ein Dokumentarfilm erzählt vom Aufstieg eines Fußballrebellen – und davon, warum moderne Moralgesellschaften keine Störenfriede mehr ertragen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/7/2/2/3/Master_Cantona-31d0e07b009af130.jpg"
+        },
+        {
+          "title": "KI enteignen: Wie Aktivisten die Übermacht der Tech-Konzerne brechen wollen",
+          "url": "https://www.telepolis.de/article/KI-enteignen-Wie-Aktivisten-die-Uebermacht-der-Tech-Konzerne-brechen-wollen-11303045.html",
+          "summary": "Big-Tech-Konzerne sollen enteignet werden. Aktivisten fordern demokratische Kontrolle über KI – und stellen die Eigentumsfrage.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/9/9/7/generated-image-1__8_-e5235e38b8799d6c.png"
+        },
+        {
           "title": "Kuba: Die reife Frucht",
           "url": "https://www.telepolis.de/article/Kuba-Die-reife-Frucht-11302215.html",
           "summary": "Ein Trump-Vertrauter übernimmt Kubas Nickelbergbau, Reedereien kappen Handelsrouten: Wie Washington versucht, ein Land auf die Knie zu zwingen. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/5/7/2/shutterstock_2591438465-12bc06cf457d733b.jpg"
-        },
-        {
-          "title": "Inferno RTC: Turm mit 54 Läufen schießt auf Drohnen in alle Richtungen",
-          "url": "https://www.telepolis.de/article/Inferno-RTC-Turm-mit-54-Laeufen-schiesst-auf-Drohnen-in-alle-Richtungen-11303193.html",
-          "summary": "Kein Radar, kein Schwenken: Der Inferno-Turm erkennt Drohnen per Mikrofon – und das hat im Gefecht einen entscheidenden Haken.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/7/0/7/2/DB_image_751-52bc13c12c7ea2cc.webp"
-        },
-        {
-          "title": "Öffentlich-rechtlicher Rundfunk: Wer bestimmt, was \"ausgewogen\" ist?",
-          "url": "https://www.telepolis.de/article/Oeffentlich-rechtlicher-Rundfunk-Wer-bestimmt-was-ausgewogen-ist-11302656.html",
-          "summary": "Neues Gutachten soll den Streit um die politische Schlagseite von ARD und ZDF versachlichen. Doch die Messung von Vielfalt wirft neue Fragen auf.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/8/1/1/master_Media-4b12e4bc51421567.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespolitik: Bundestag beschließt niedrigere Steuer für Flugtickets",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-bundestack-beschluss-flugticket-steuer-li.3484192",
-          "summary": "Mit der Gesetzesänderung sinkt die Abgabe je nach Strecke um einen Betrag zwischen 2,50 Euro und 11,40 Euro pro Flug. Der Bundestag stimmt auch der weiteren Planung neuer Bahnstrecken zu.",
+          "title": "FC Bayern im Pokalfinale: Manuel Neuer fällt aus",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-dfb-pokal-finale-manuel-neuer-verletzt-urbig-li.3487598",
+          "summary": "Der Torwart fehlt am Samstag im Pokalfinale gegen den VfB Stuttgart wegen muskulärer Probleme in der Wade. Er wird durch Jonas Urbig ersetzt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/22/46207de8-7517-4d2e-8a75-a6750b74020f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C140%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/22/1c7db9fa-fd88-4c67-8c56-8a92696ffb2c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C46%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: Keine Mehrheit: US-Republikaner sagen Abstimmung zum Iran-Krieg kurzfristig ab",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-senat-trump-krieg-abstimmung-li.3487408",
-          "summary": "Spannungen in der Partei wachsen: Die Republikaner im US-Repräsentantenhaus ziehen eine Abstimmung zum Ende des Iran-Kriegs in letzter Minute zurück – offenbar fehlen ihnen Stimmen.",
+          "title": "Sommerfestival: erste Höhepunkte: Schauspielstar Sandra Hüller eröffnet das Filmfest München",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-filmfest-2026-sandra-hueller-toni-servillo-vaterland-kino-li.3475931",
+          "summary": "Von Cannes nach München: Die international gefeierte deutsche Schauspielerin Sandra Hüller wird Ende Juni das 43. Filmfest eröffnen. Auch der preisdekorierte Italiener Toni Servillo reist als Ehrengast an. Das sind weitere Höhepunkte des Sommerfestivals.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/22/0df3c2f6-3311-4dda-a8c7-a47de3f52600.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C416%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/20/54e5dd78-ea72-4dda-9d3b-b1fc729b7069.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
         },
         {
-          "title": "„Markus Lanz“: „Machen wir so weiter, werden wir in einem Krieg mit Russland landen“",
-          "url": "https://www.sueddeutsche.de/medien/markus-lanz-talkshow-tv-kritik-russland-ukraine-krieg-drohnen-iran-kiesewetter-vad-li.3487240",
-          "summary": "Muss Deutschland mit Russland verhandeln, um nicht als Nächstes angegriffen zu werden? Bei „Markus Lanz“ kriegen sich Roderich Kiesewetter und Erich Vad ganz wunderbar in die Haare.",
+          "title": "Wann ist der Gipfel erreicht?: Wie Gehzeiten in den Bergen errechnet werden",
+          "url": "https://www.sueddeutsche.de/bayern/gehzeiten-wegweiser-alpen-berechnung-bedeutung-wanderer-alpenverein-li.3486329",
+          "summary": "Für seine Wegweiser nutzt der Alpenverein eine Formel, um Wanderzeiten zu errechnen, abhängig von Höhenmetern und Entfernung. Experten raten zu einer umfassenden Tourenplanung.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/22/254b404d-eede-432f-a26c-e9de15afdfc5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=213%2C172%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/05/20/99fb3007-04f7-470b-b50b-6642e9836715.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=453%2C490%2C3005%2C1690"
         }
       ]
     }
