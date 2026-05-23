@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-23T18:00:12.278Z",
-  "timestamp": "23.5.2026, 20:00:12",
+  "generated": "2026-05-23T22:00:10.803Z",
+  "timestamp": "24.5.2026, 00:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Trumps Woche: Ein Fonds, Immunität und weitere Aufreger",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/was-hat-donald-trump-in-der-vergangenen-woche-getan-accg-200862129.html",
-          "summary": "Donald Trump sorgt immer wieder für Überraschungen. Was hat er vergangene Woche getan? Ein Überblick.",
+          "title": "3:0 gegen VfB Stuttgart: King Kane führt den FC Bayern zum DFB-Pokalsieg",
+          "url": "https://www.faz.net/aktuell/sport/fussball/fc-bayern-muenchen-dank-harry-kane-dfb-pokalsieger-gegen-vfb-stuttgart-200767524.html",
+          "summary": "Der VfB Stuttgart nimmt den FC Bayern im DFB-Pokalfinale zunächst in den schwäbischen Schwitzkasten. Am Ende jubeln doch die Münchner, weil ihr Torjäger auch in Berlin trifft und trifft und trifft.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/111aafd2e0ef/w5240h2737x0y105o/202605/43601.0.2123279265/donald-trump-am-freitag-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5cdbe00ab664/w6144h3210x0y559o/202605/43601.0.2134783449/harry-kane-und-der-fc-bayern.webp"
         },
         {
-          "title": "Republikaner: Trump hat den Bogen überspannt",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/republikaner-blockieren-trump-der-muss-sich-nicht-sorgen-200859547.html",
-          "summary": "Kein Plan für Iran, aber Milliarden für Kapitolstürmer und Konsorten? Der Präsident macht es den Republikanern nicht leicht. Doch die haben mehr zu befürchten als er.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4f059b3b5c47/w5500h2873x0y455o/202605/43601.0.2109376516/trump-waehrend-einer.webp"
-        },
-        {
-          "title": "Liveblog Irankrieg: Trump: Kommen Einigung mit Iran „deutlich näher“",
+          "title": "Liveblog Irankrieg: Trump: Einigung mit Iran steht kurz bevor",
           "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-kommen-einigung-mit-iran-deutlich-naeher-faz-200583539.html",
-          "summary": "US-Präsident droht gleichzeitig mit neuen Angriffen +++ Auch Iran spricht von Annäherung +++ Frankreich untersagt Israels Polizeiminister Einreise +++ alle Entwicklungen im Liveblog",
+          "summary": "Trump: Kommen Einigung mit Iran „deutlich näher“ +++ US-Präsident droht gleichzeitig mit neuen Angriffen +++ Auch Iran spricht von Annäherung +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/be413bb76523/w5500h2873x0y511o/202605/43601.0.2132506087/donald-trump-am-freitag-in-new.webp"
+          "image": "https://media0.faz.net/image/w1200h627/704406f3dd2d/w5500h2873x0y397o/202605/43601.0.2123033593/us-praesident-donald-trump-am.webp"
+        },
+        {
+          "title": "Filmfest Cannes: Deutsche Regisseurin Grisebach in Cannes ausgezeichnet",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/deutsche-regisseurin-grisebach-in-cannes-ausgezeichnet-200862860.html",
+          "summary": "Valeska Grisebach erhält für „Das geträumte Abenteuer“ den Preis der Jury in Cannes. Die Goldene Palme geht an den Rumänen Cristian Mungiu für das Religionsdrama „Fjord“. Und Darsteller wurden gleich paarweise ausgezeichnet.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/77cc4769ea9d/w2947h1539x1078y270o/202605/43601.0.2134817649/regisseurin-valeska-grisebach.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "China: Blogger berichtet, wie ein Überwachungstool ihn selbst erfasste",
-          "url": "https://www.spiegel.de/ausland/china-blogger-berichtet-wie-ein-ueberwachungstool-ihn-selbst-erfasste-a-a300f188-5e0b-4a15-a75f-20c4fa8643a4#ref=rss",
-          "summary": "Der Blogger Marc Hofer entdeckte zuerst ein unbekanntes chinesisches Überwachungstool – und dann sein eigenes Passfoto darin. Hier berichtet er über die Fähigkeiten des Programms und darüber, wie es sich anfühlt, selbst zum Ziel zu werden.",
+          "title": "DFB-Pokalsieg des FC Bayern: Einer behält im Berliner Pyro-Nebel den Durchblick",
+          "url": "https://www.spiegel.de/sport/fussball/dfb-pokalsieg-des-fc-bayern-einer-behaelt-im-berliner-pyro-nebel-den-durchblick-a-3f7df929-7a38-40c7-ac28-e666f4b267a3#ref=rss",
+          "summary": "Es war einmal wieder die Show des Harry Kane. Mit seinen drei Toren beendet der FC Bayern eine überragende Saison – und gewinnt auch dann, wenn es bei ihm nicht so gut läuft.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e1784406-38ab-400e-9981-05efe9ca1c1a_w1200_r1.778_fpx60.04_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9f6f7d61-46b8-4911-93a8-53b26b57f031_w1200_r1.778_fpx33.3_fpy49.99.jpg"
+        },
+        {
+          "title": "Irankrieg: USA und Iran melden Fortschritte bei Verhandlungen – es gibt wohl ein vorläufiges Abkommen",
+          "url": "https://www.spiegel.de/ausland/irankrieg-usa-und-iran-melden-fortschritte-bei-verhandlungen-es-gibt-wohl-ein-vorlaeufiges-abkommen-a-7244d4a9-7e43-43e6-acff-f80afa445f78#ref=rss",
+          "summary": "Nach übereinstimmenden Medienberichten steht eine Einigung zwischen den USA und Iran kurz vor dem Abschluss. Auch eine Öffnung der Straße von Hormus steht im Raum. US-Präsident Donald Trump will offenbar am Sonntag entscheiden.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/e9c8c226-a2ed-412f-9404-92a88cc31b63_w1200_r1.778_fpx70_fpy39.jpg"
         },
         {
           "title": "Berlin: Warum wird ein Nazi-Sympathisant aus dem Auswärtigen Amt mit einem Stolperstein geehrt?",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/7b83ee62-666b-42c5-b000-e85fbd8dfee6_w1200_r1.778_fpx47.99_fpy50.jpg"
-        },
-        {
-          "title": "DFB-Pokal-Finale live: Bayern München gegen den VfB Stuttgart",
-          "url": "https://www.spiegel.de/sport/fussball/dfb-pokal-finale-live-bayern-muenchen-gegen-den-vfb-stuttgart-a-513d9c5d-4a4e-4178-8726-861810c741e8#ref=rss",
-          "summary": "Der Meister trifft auf den Titelverteidiger: Ohne Manuel Neuer spielen die Bayern ihr erstes Pokalfinale seit sechs Jahren. Gegen den VfB Stuttgart gelten sie wohl dennoch als Favorit. Der Live-Kommentar.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2d8c2a6b-9833-43d7-948b-3724174501c7_w1200_r1.778_fpx32_fpy47.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Cannes: Goldene Palme für rumänischen Regisseur Mungiu",
+          "url": "https://www.tagesschau.de/kultur/cannes-goldene-palme-110.html",
+          "summary": "Der Film \"Fjord\" des rumänischen Regisseurs Mungiu ist beim Filmfestival von Cannes mit der Goldenen Palme ausgezeichnet worden. Für den Filmemacher ist es die zweite Goldene Palme. Ein Preis ging auch an die deutsche Regisseurin Grisebach.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c22c107c-32ab-45aa-997d-aa7f462577eb/AAABnlabBeA/AAABnSSvrFg/16x9-big/mungiu-100.jpg?width=1280"
+        },
+        {
+          "title": "Proteste in Bolivien werden immer massiver",
+          "url": "https://www.tagesschau.de/ausland/amerika/bolivien-proteste-126.html",
+          "summary": "Die Proteste und Blockaden in Bolivien werden immer massiver. In La Paz werden Lebensmittel und Treibstoff knapp. Es ist die größte Bewährungsprobe für die erst vor sechs Monaten angetretene Mitte-Rechts-Regierung. Von Anne Herrberg.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/ea89cf72-faf3-47e2-841d-98ea3a69b784/AAABnlYJttU/AAABnSSvrFg/16x9-big/protest-bolivien-102.jpg?width=1280"
+        },
+        {
           "title": "Das Finale im Liveticker",
           "url": "https://www.tagesschau.de/sport/dfb-pokal-finale-liveticker-100.html",
           "summary": "Im DFB-Pokalfinale 2026 trifft der Rekord-Pokalsieger Bayern München auf den Titelverteidiger VfB Stuttgart. Verfolgen Sie das Spiel im Liveticker.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.sportschau.de/image/8039954d-42c9-4630-9308-be21458fa18b/AAABlcSOzQM/AAABnSSvrFg/16x9-big/dfbpokal-sp-100.jpg?width=1280"
-        },
-        {
-          "title": "USA und Iran haben sich offenbar angenähert",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-gespraeche-100.html",
-          "summary": "Sowohl die USA als auch Iran zeigen sich nach jüngsten Verhandlungen optimistisch. Laut Präsident Trump ist man einem Abkommen ein großes Stück näher gekommen. Er werde sich noch heute mit seinen Beratern darüber austauschen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f443cf16-8648-4906-a3ac-0e24691a338c/AAABnlXbzGM/AAABnSSvrFg/16x9-big/trump-4978.jpg?width=1280"
-        },
-        {
-          "title": "200 Jahre Klosterfrau: Wie eine Nonne den Grundstein einer Weltmarke legte",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/200-jahre-klosterfrau-100.html",
-          "summary": "Fast jeder kennt Klosterfrau \"Melissengeist\", doch kaum jemand kennt die Geschichte dahinter. Geburtstag würdigt ein Buch das Leben der Nonne Maria Clementine Martin, die den Grundstein des Unternehmens legte. Von Jens Eberl.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f7edd389-50bd-405a-8839-51d16ad2d129/AAABnkqeFlU/AAABnSSvrFg/16x9-big/klosterfrau-melissengeist-102.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: USA und Iran melden Fortschritte bei Verhandlungen über Kriegsende",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-krieg-usa-trump-verhanldungen-li.3487408",
-          "summary": "Laut Sprecher des iranischen Außenministeriums befinden sich die USA und Iran „in der abschließenden Phase der Ausarbeitung eines Memorandums.“ Das Papier soll einen Rahmen für Verhandlungen schaffen und den Krieg beenden.",
+          "title": "VfB Stuttgart in der Einzelkritik: Das Monster hat das Nachsehen",
+          "url": "https://www.sueddeutsche.de/sport/vfb-stuttgart-fc-bayern-muenchen-dfb-pokal-einzelkritik-li.3488189",
+          "summary": "Ramon Hendriks verliert einen entscheidenden Wettlauf, Ermedin Demirovic imitiert das Stefan-Effenberg-Begrüßungsfoul,  Alexander Nübel ist chancenlos im Nebel: Der VfB Stuttgart in der Einzelkritik.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/23/d0b961dc-6a67-45fa-9960-4c4e4f9cecf4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=477%2C650%2C3005%2C1690"
+          "image": "https://www.sueddeutsche.de/2026/05/23/d28ce051-3470-4bd3-b0c2-b7cbbc375ece.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C310%2C4000%2C2250"
         },
         {
-          "title": "Verkehr: „Jedes fremde Kennzeichen ist als Feind gesehen worden“",
-          "url": "https://www.sueddeutsche.de/bayern/frasdorf-a8-autobahn-durchfahrverbot-stau-reiseverkehr-li.3487088",
-          "summary": "An den Hauptreisetagen wurden Orte wie Frasdorf von Autofahrern geplagt, die den Stau auf der Autobahn umgehen wollten. Seit einigen Monaten soll ein Durchfahrverbot genau das verhindern. Wirkt die Regelung? Ein Besuch.",
+          "title": "FC Bayern gewinnt DFB-Pokal: Ein Pokal für Harry Kane",
+          "url": "https://www.sueddeutsche.de/sport/dfb-pokal-fc-bayern-vfb-stuttgart-harry-kane-tore-li.3488192",
+          "summary": "Ein Hattrick des Stürmers führt den FC Bayern zu einem 3:0 gegen den VfB Stuttgart im Pokalfinale und zum Double. Nur in der ersten Halbzeit werden die Münchner vor große Schwierigkeiten gestellt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/23/5fb2c03d-dedc-4c79-89a0-68ce005363da.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C375%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/23/fc933b05-d898-49b0-9bae-fcf7e9f553bb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C190%2C4000%2C2250"
         },
         {
-          "title": "Krieg in der Ukraine: „Assoziierte EU-Mitgliedschaft“: Selenskij lehnt Merz-Vorschlag ab",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-merz-assoziierte-eu-mitgliedschaft-li.3483341",
-          "summary": "Der ukrainische Präsident bezeichnet die Idee des Bundeskanzlers als ungerecht, da die Ukraine damit kein Stimmrecht in der Europäischen Union erhielte.",
+          "title": "FC Bayern in der Einzelkritik: Das ganze Repertoire der hohen Stürmerkunst",
+          "url": "https://www.sueddeutsche.de/sport/bayern-stuttgart-pokalfinale-einzelkritik-harry-kane-li.3488190",
+          "summary": "Michael Olise braucht nur eine Aktion, Dayot Upamecano vermeidet eine Upamecano-Aktion – und was soll man zu Harry Kane noch sagen? Der FC Bayern in der Einzelkritik.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/22/e6bc3077-9034-4e55-bf26-99c7815883bd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/23/54d05f1a-dd18-4c44-b94e-1078c31f4917.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3495%2C1966"
         }
       ]
     }
