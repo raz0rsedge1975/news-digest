@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-23T06:00:09.613Z",
-  "timestamp": "23.5.2026, 08:00:09",
+  "generated": "2026-05-23T10:00:11.079Z",
+  "timestamp": "23.5.2026, 12:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "„Doping-Spiele“ in Las Vegas: Das steckt hinter dem Menschenversuch bei den  „Enhanced Games“",
+          "url": "https://www.faz.net/aktuell/sport/sportpolitik/doping/enhanced-games-menschenversuch-als-milliardenwette-accg-200857318.html",
+          "summary": "Die „Enhanced Games“ sollen Peter Thiel, Donald Trump und der Pharmaindustrie vor allem noch mehr Gewinne im Anti-Aging-Geschäft bescheren. Was als Traum verkauft wird, nennt ein Experte „russisches Roulette“.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/5a3a8e6e682d/w2500h1306x0y116o/202503/43601.0.886368184/traum-und-mast-schon.webp"
+        },
+        {
+          "title": "„Enhanced Games“: Das Sportevent, bei dem Doping ausdrücklich erwünscht ist",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/enhanced-games-in-las-vegas-hier-ist-doping-ausdruecklich-erwuenscht-200848604.html",
+          "summary": "In Las Vegas finden die ersten „Enhanced Games“ statt. Die Idee von neuen Körpern und einer „Superhumanity“ ist alt. Sie passt aber perfekt ins globale Disruptionskonzept von Donald Trump bis Peter Thiel.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9c185564a9e6/w3000h1567x0y288o/202512/43601.0.1595489781/ben-proud-war-der-erste.webp"
+        },
+        {
           "title": "Liveblog Irankrieg: USA bereiten offenbar mögliche neue Angriffe auf Iran vor",
           "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-bereiten-laut-berichten-moegliche-neue-angriffe-auf-iran-vor-faz-200583539.html",
-          "summary": "Rubio: Brauchen „Plan B“ für die Öffnung der Straße von Hormus +++ Verhandlungen: Pakistans Armeechef reist nach Teheran +++ Israels Botschafter fordert Konsequenzen aus Mord-Plan +++ alle Entwicklungen im Liveblog",
+          "summary": "Medienberichte: Trump stimmt sich mit Beratern ab +++ Rubio: Brauchen „Plan B“ für die Öffnung der Straße von Hormus +++ Pakistans Armeechef reist nach Teheran +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/48a55fa9f46b/w2129h1112x0y170o/202605/43601.0.2079906597/pete-hegseth-und-donald-trump.webp"
-        },
-        {
-          "title": "Geld für Günstlinge: Trumps Deal stinkt nach Korruption",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/trumps-korrupter-deal-immunitaet-fuer-seine-guenstlinge-200857573.html",
-          "summary": "Manche Republikaner sind nicht begeistert, dass der Präsident mit sich selbst Geldgeschenke an politische Freunde und Immunität beim Finanzamt aushandelt. Aber das heißt nicht, dass sie handeln werden.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/466e4b95fba9/w7759h4054x0y500o/202605/43601.0.2109758818/kann-sich-auf-die.webp"
-        },
-        {
-          "title": "Wie lange reicht das Öl?: Die ersten Öl-Engpässe könnte es im Sommer geben",
-          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/erste-oel-engpaesse-im-sommer-moeglich-wie-lange-reichen-die-oelreserven-200858770.html",
-          "summary": "Die Ölreserven auf der Welt schrumpfen in Rekordtempo. Rechnerisch reichen die Vorräte noch 15 Monate. Aber Öl ist nicht gleich Öl.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/4df011b94c21/w1904h994x0y138o/202604/43601.0.2027202082/eine-lehre-aus-den-1970er.webp"
         }
       ]
     },
@@ -35,25 +35,25 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump: Warum Geheimdienstkoordinatorin Tulsi Gabbard die Regierung verlässt",
-          "url": "https://www.spiegel.de/ausland/donald-trumps-geheimdienstkoordinatorin-tulsi-gabbard-sie-wollte-keinen-neuen-kriege-er-liess-sieben-laender-bombardieren-a-2f32813a-5d5d-4062-b784-3ad4b67c1930#ref=rss",
-          "summary": "Mit Tulsi Gabbard verlässt eine der bekanntesten Vertreterinnen der reinen MAGA-Lehre die US-Regierung. Viele ihrer Überzeugungen standen im krassen Widerspruch zu Trumps Handlungen. Und sie ist nicht die Erste, die geht.",
+          "title": "Nato: Mark Rutte erniedrigt sich vor Donald Trump, um sein Bündnis zu retten",
+          "url": "https://www.spiegel.de/ausland/nato-mark-rutte-erniedrigt-sich-vor-donald-trump-um-sein-buendnis-zu-retten-a-95e6d63b-5de7-442c-8722-c2d664c76980#ref=rss",
+          "summary": "Nato-Generalsekretär Mark Rutte hofiert US-Präsident Donald Trump bis hin zur Selbstverleugnung. Kritiker sagen, er trage auf diese Weise das Bündnis zu Grabe. Womöglich aber ist das Gegenteil wahr.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/239ef2ca-eb16-4f86-988b-cce8306be269_w1200_r1.778_fpx33.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/089a3ad0-a555-45eb-b1e3-ba4cae491190_w1200_r1.778_fpx44_fpy41.jpg"
         },
         {
-          "title": "News: Grundgesetz, Kuba, türkische Opposition, CHP",
-          "url": "https://www.spiegel.de/politik/deutschland/news-grundgesetz-kuba-tuerkische-opposition-chp-a-b8f1245f-8509-47b2-ae8c-c9874458a185#ref=rss",
-          "summary": "Die Verfassung benötigt zum 77. Geburtstag mehr Schutz denn je. Trump richtet seinen Blick auf Kuba. Und: In der Türkei verschanzt sich der Oppositionsführer in seiner Parteizentrale. Das ist die Lage am Samstagmorgen.",
+          "title": "Elektroauto kaufen? Laden, Reichweite, Komfort – Fahrer berichten",
+          "url": "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-laden-reichweite-komfort-fahrer-berichten-a-aab3cf7d-c753-4449-9815-f7d3cd7db810#ref=rss",
+          "summary": "Elektroautos sind angesagt, der Staat fördert den Kauf. Für die meisten Deutschen sind die Fahrzeuge aber noch neu. Wir haben Menschen gefragt, die schon umgestiegen sind: Was hat Sie überrascht, was hat Sie enttäuscht?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/ab1ea161-991d-4785-9b12-4d73d7ec96a6_w1200_r1.778_fpx37.5_fpy50.jpg"
         },
         {
           "title": "Pakistanische Vermittler zu Gesprächen in Teheran – USA bereiten womöglich neue Angriffe auf Iran vor",
           "url": "https://www.spiegel.de/ausland/pakistanische-vermittler-zu-gespraechen-in-teheran-usa-bereiten-womoeglich-neue-angriffe-auf-iran-vor-a-3ddac7ce-ded4-472d-afcb-158b920787fc#ref=rss",
-          "summary": "Kommt eine Einigung oder droht im Irankonflikt die Eskalation? Pakistan versucht weiter zu vermitteln; der US-Außenminister spricht von Fortschritten. Zugleich berichten Medien über mögliche neue Angriffspläne von Präsident Trump.",
+          "summary": "Kommt eine Einigung oder droht im Irankonflikt die Eskalation? Pakistan versucht, weiter zu vermitteln; der US-Außenminister spricht von Fortschritten. Zugleich berichten Medien über mögliche neue Angriffspläne von Präsident Trump.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/3b5955c4-6e3c-4412-ae5a-f126900a43a4_w1200_r1.778_fpx33.19_fpy47.jpg"
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kalifornien: Chemietank droht zu explodieren - Evakuierungen angeordnet",
-          "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-evakuierungen-chemikalie-100.html",
-          "summary": "In Kalifornien droht ein Lagertank mit einer leicht entzündbaren Chemikalie zu explodieren. Die Behörden haben in dem Gebiet südlich von Los Angeles Evakuierungen angeordnet. Zehntausende sind betroffen.",
+          "title": "Was steht im Grundgesetz - und wie ist es entstanden?",
+          "url": "https://www.tagesschau.de/inland/grundgesetz-fragen-antworten-100.html",
+          "summary": "Vor 77 Jahren, am 23. Mai 1949, wurde das Grundgesetz feierlich verkündet. Wie ist es entstanden, und was steht eigentlich drin? Frank Bräutigam mit einem Überblick.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5f2d5646-4b72-43fc-84e4-b8c7aaa24a7f/AAABnlLqcOA/AAABnSSvrFg/16x9-big/chemietank-kalifornien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a4ad67af-1c20-430b-9f0c-8573c6764752/AAABnlQzoS8/AAABnSSvrFg/16x9-big/grundgesetz-deutschland-102.jpg?width=1280"
         },
         {
-          "title": "SpaceX: Überarbeitete \"Starship\"-Rakete absolviert Testflug",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-starship-136.html",
-          "summary": "Mehrere Testflüge absolvierte SpaceX mit seiner Riesenrakete bereits - immer wieder gab es Rückschläge. Nun hat das Unternehmen von Milliardär Musk eine überarbeitete Variante der \"Starship\" getestet - weitgehend erfolgreich.",
+          "title": "Demokratie braucht laut Steinmeier \"aktive Bürger\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ehrentag-grundgesetz-100.html",
+          "summary": "Zum Jahrestag des Grundgesetzes fordert Bundespräsident Steinmeier mehr gesellschaftliches Engagement, um Begegnungen und Gemeinschaftsgefühl zu fördern. Zwei Wochen lang soll mit Aktionen für das Ehrenamt geworben werden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a5faef53-4e6e-45a8-8823-a855c53a6358/AAABnlKgBdc/AAABnSSvrFg/16x9-big/spacex-starship-138.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3733d057-6eb8-4cd5-a4c3-b79cc4dbc73a/AAABnlQNQkg/AAABnSSvrFg/16x9-big/frank-walter-steinmeier-236.jpg?width=1280"
         },
         {
-          "title": "EU und Mexiko unterzeichnen Freihandelsabkommen",
-          "url": "https://www.tagesschau.de/ausland/amerika/eu-mexiko-freihandelsabkommen-100.html",
-          "summary": "Angesichts der undurchsichtigen Zollpolitik von US-Präsident Trump rücken Mexiko und die EU näher zusammen: Beide Seiten unterzeichneten jetzt ein Freihandelsabkommen, in dem es um den Abbau von Zöllen geht, etwa bei landwirtschaftlichen Produkten.",
+          "title": "Komplikationen bei der Geburt gibt es auch bei Tieren",
+          "url": "https://www.tagesschau.de/wissen/tiere-geburten-mensch-100.html",
+          "summary": "Bisher galt die Geburt des Menschen als deutlich schwieriger als bei anderen Säugetieren. Doch das stimmt nicht unbedingt, wie eine Untersuchung zeigt. Demnach haben auch andere Tiere teils erhebliche Geburtsprobleme. Von Sylvaine von Liebe.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/308ea9f6-3dc7-41f4-8502-76e7fc79ff6d/AAABnlH3QQM/AAABnSSvrFg/16x9-big/costa-sheinbaum-von-der-leyen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bf33a3f0-270d-48cc-b929-c0fc484986d0/AAABnk_dNPQ/AAABnSSvrFg/16x9-big/pferd-fohlen-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Pharma-Produktion in Europa: Warum der Plan an der Finanzierung scheitern könnte",
+          "url": "https://www.telepolis.de/article/Pharma-Produktion-in-Europa-Warum-der-Plan-an-der-Finanzierung-scheitern-koennte-11303081.html",
+          "summary": "Die EU will Medikamente wieder in Europa produzieren – doch wer die milliardenschweren Subventionen zahlen soll, ist völlig offen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/7/0/1/5/shutterstock_2369827707-254c68b398683f45.jpg"
+        },
+        {
+          "title": "Leviathan: Warum der Staat ein Monster sein muss",
+          "url": "https://www.telepolis.de/article/Leviathan-Warum-der-Staat-ein-Monster-sein-muss-11299576.html",
+          "summary": "Thomas Hobbes war von Angst geprägt. Sein radikales Konzept vom Staat erschüttert bis heute. Ein Blick auf das elisabethanische Zeitalter (Teil 4 von 5).",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/2/4/2/Leviathan_frontispiece_cropped_British_Museum-c68803274a7c49ac.jpg"
+        },
+        {
           "title": "Tulsi Gabbard sollte die Geheimdienste führen. Stattdessen wurde sie ignoriert",
           "url": "https://www.telepolis.de/article/Tulsi-Gabbard-sollte-die-Geheimdienste-fuehren-Stattdessen-wurde-sie-ignoriert-11305024.html",
           "summary": "Bei wichtigen Kriegsentscheidungen war sie nicht dabei. Nun zieht Gabbard Konsequenzen – und hinterlässt wohl einen geschwächten Geheimdienst.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/0/1/7/shutterstock_2429017397-4771f9da241405f4.jpg"
-        },
-        {
-          "title": "Palantir: Wie Polizeibehörden in die Abhängigkeitsfalle tappen",
-          "url": "https://www.telepolis.de/article/Palantir-Wie-Polizeibehoerden-in-die-Abhaengigkeitsfalle-tappen-11304437.html",
-          "summary": "Londons Bürgermeister blockiert einen Millionen-Deal mit Palantir. Was dahintersteckt, sollten auch deutsche Behörden kennen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/7/7/2/1/shutterstock_2514605451-4524cc0d9983c9bb.jpg"
-        },
-        {
-          "title": "Macht Social Media Kinder krank? Schulen fordern Milliarden von Meta",
-          "url": "https://www.telepolis.de/article/Macht-Social-Media-Kinder-krank-Schulen-fordern-Milliarden-von-Meta-11304363.html",
-          "summary": "Nicht Eltern, sondern Schulbezirke ziehen gegen Instagram, TikTok und Facebook vor Gericht – weil sie die psychischen Folgen auffangen müssen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/7/6/8/4/master_meta-d3575cf965cf05c3.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Berichte: USA bereiten neue Schläge gegen Iran vor",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-krieg-usa-trump-li.3487408",
+          "summary": "Während diplomatische Bemühungen, besonders durch pakistanische Vermittler, weiter laufen, melden verschiedene Medien, die US-Regierung plane neue Militärschläge.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/23/f092e23e-36b4-4b4c-8130-b15741d39c69.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C61%2C2976%2C1674"
+        },
+        {
+          "title": "Krieg in der Ukraine: „Assoziierte EU-Mitgliedschaft“: Selenskij lehnt Merz-Vorschlag ab",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-merz-assoziierte-eu-mitgliedschaft-li.3483341",
+          "summary": "Der ukrainische Präsident bezeichnet die Idee des Bundeskanzlers als ungerecht, da die Ukraine damit kein Stimmrecht in der Europäischen Union erhielte.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/22/e6bc3077-9034-4e55-bf26-99c7815883bd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Torsten Albig: Ex-Landeschef Albig empfiehlt SPD Zusammenarbeit mit AfD",
           "url": "https://www.sueddeutsche.de/politik/albig-spd-afd-zusammenarbeit-li.3487997",
-          "summary": "Man könne nicht so tun, als wäre die AfD „die Ausgeburt der Hölle“, sagt Schleswig-Holsteins früherer Landeschef Albig. Eine Zusammenarbeit bedeute aber nicht, dass man das ideologische Gedankengut von Rechtspopulisten teilen.",
+          "summary": "Man könne nicht so tun, als wäre die AfD „die Ausgeburt der Hölle“, sagt Schleswig-Holsteins früherer Ministerpräsident. Eine Zusammenarbeit bedeute aber nicht, dass man das ideologische Gedankengut von Rechtspopulisten teile.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2023/09/01/f4906c67-681b-494d-906c-cdc8266b062f.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C58%2C1350%2C759"
-        },
-        {
-          "title": "Krieg in Nahost: Libanon: Sechs Sanitäter bei israelischen Angriffen getötet",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-krieg-libanon-israel-angriffe-li.3487408",
-          "summary": "Binnen 24 Stunden sind in Südlibanon nach Angaben des Gesundheitsministeriums sechs Sanitäter bei israelischen Angriffen getötet worden. Das israelische Militär will die Fälle prüfen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/23/489bc2ae-17af-4498-96a7-cc2305c6b459.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C396%2C3306%2C1860"
-        },
-        {
-          "title": "Chase gegen Norisbank: Banken locken mit vier Prozent Zinsen – doch taugt das was?",
-          "url": "https://www.sueddeutsche.de/wirtschaft/chase-tagesgeld-vier-prozent-norisbank-li.3487883",
-          "summary": "Die US-Bank JP Morgan drängt ins deutsche Bankgeschäft und bietet zum Start bis zu vier Prozent Zinsen. Die Deutsche Bank zieht nach. Das Wichtigste zum Zins-Rennen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/22/c51360ca-6943-44f7-922a-97ea9ba7e795.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
