@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T22:00:08.394Z",
-  "timestamp": "23.5.2026, 00:00:08",
+  "generated": "2026-05-23T02:00:11.067Z",
+  "timestamp": "23.5.2026, 04:00:11",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "EU und Mexiko unterzeichnen Freihandelsabkommen",
+          "url": "https://www.tagesschau.de/ausland/amerika/eu-mexiko-freihandelsabkommen-100.html",
+          "summary": "Angesichts der undurchsichtigen Zollpolitik von US-Präsident Trump rücken Mexiko und die EU näher zusammen: Beide Seiten unterzeichneten jetzt ein Freihandelsabkommen, in dem es um den Abbau von Zöllen geht, etwa bei landwirtschaftlichen Produkten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/308ea9f6-3dc7-41f4-8502-76e7fc79ff6d/AAABnlH3QQM/AAABnSSvrFg/16x9-big/costa-sheinbaum-von-der-leyen-100.jpg?width=1280"
+        },
+        {
           "title": "US-Geheimdienstkoordinatorin Gabbard kündigt Rücktritt an",
           "url": "https://www.tagesschau.de/ausland/amerika/usa-geheimdienste-gebbard-ruecktritt-100.html",
           "summary": "Mit Verweis auf eine schwere Erkrankung ihres Mannes zieht sich US-Geheimdienstkoordinatorin Gabbard von ihrem Amt zurück. Berichte legen auch Differenzen mit Präsident Trump nahe.",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/752b7e45-b161-4abf-b9a4-0b5047abfb99/AAABnlEi93M/AAABnSSvrFg/16x9-big/sendungsbild-1737830.jpg?width=1280"
-        },
-        {
-          "title": "Deutschland und drei Partnerstaaten warnen Israel vor Siedlungsbau",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-siedler-kritik-100.html",
-          "summary": "Israel schafft im Westjordanland mit neuen Siedlungen Fakten. Gleichzeitig steigt die Siedler-Gewalt weiter an. Deutschland und drei europäische Partnerstaaten kritisieren das Vorgehen scharf.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/d656fd7a-f553-4b8e-8296-fe145a9f0c21/AAABnlC0cMc/AAABnSSvrFg/16x9-big/westjordanland-186.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Tulsi Gabbard sollte die Geheimdienste führen. Stattdessen wurde sie ignoriert",
+          "url": "https://www.telepolis.de/article/Tulsi-Gabbard-sollte-die-Geheimdienste-fuehren-Stattdessen-wurde-sie-ignoriert-11305024.html",
+          "summary": "Bei wichtigen Kriegsentscheidungen war sie nicht dabei. Nun zieht Gabbard Konsequenzen – und hinterlässt wohl einen geschwächten Geheimdienst.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/0/1/7/shutterstock_2429017397-4771f9da241405f4.jpg"
+        },
         {
           "title": "Palantir: Wie Polizeibehörden in die Abhängigkeitsfalle tappen",
           "url": "https://www.telepolis.de/article/Palantir-Wie-Polizeibehoerden-in-die-Abhaengigkeitsfalle-tappen-11304437.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/7/6/8/4/master_meta-d3575cf965cf05c3.jpg"
-        },
-        {
-          "title": "Der Kampf um die Begriffe:  Wie die UN über die US-Politik gegen Kuba sprechen",
-          "url": "https://www.telepolis.de/article/Der-Kampf-um-die-Begriffe-Wie-die-UN-ueber-die-US-Politik-gegen-Kuba-spricht-11299204.html",
-          "summary": "Worte als Waffen: Die USA nennen ihre Maßnahmen gegen Kuba \"Sanktionen\" – warum der Begriff in die Irre führt. Eine Analyse.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/5/0/5/3/shutterstock_1125494432-de68427913d9f9f6.jpg"
         }
       ]
     },
@@ -138,12 +138,12 @@
           "image": "https://www.sueddeutsche.de/2026/05/22/ac16fe98-a3c8-4f33-a445-f39504ee68b4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C207%2C4000%2C2250"
         },
         {
-          "title": "Krieg in der Ukraine: Selenskij: Verbündete sehen Ukraine im Krieg gestärkt",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-merz-starmer-macron-li.3483341",
-          "summary": "Das teilte der ukrainische Präsident in den sozialen Netzwerken nach einer Videoschalte mit Kanzler Merz (CDU), dem britischen Premier Starmer und dem französischen Präsidenten Macron mit.",
+          "title": "Rücktritt von Lukas Podolski: Der Prinz macht Schluss",
+          "url": "https://www.sueddeutsche.de/sport/lukas-podolski-1-fc-koeln-karriereende-li.3487909",
+          "summary": "Lukas Podolski, Fußball-Weltmeister von 2014, beendet seine Laufbahn. Der mittlerweile 40-Jährige hat nicht nur seinen Heimatklub 1. FC Köln nachhaltig geprägt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/22/e6bc3077-9034-4e55-bf26-99c7815883bd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/22/467df47a-3722-4e76-a83f-5651bd17cb52.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C137%2C3395%2C1910"
         }
       ]
     }
