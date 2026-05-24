@@ -1,10 +1,26 @@
 {
-  "generated": "2026-05-23T22:00:10.803Z",
-  "timestamp": "24.5.2026, 00:00:10",
+  "generated": "2026-05-24T02:00:08.247Z",
+  "timestamp": "24.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "USA unter Trump: Vorfall nahe dem Weißen Haus: Verdächtiger stirbt nach Schusswechsel",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-secret-service-verdaechtiger-stirbt-nach-schusswechsel-nahe-weissem-haus-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3b41d6af5d18/w4990h2607x0y100o/202605/43601.0.2136885796/der-secret-service-sichert-den.webp"
+        },
+        {
+          "title": "Liveblog Irankrieg: Iran will Kontrolle über Straße von Hormus behalten",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-will-kontrolle-ueber-strasse-von-hormus-behalten-faz-200583539.html",
+          "summary": "Teheran will die Meerenge auch im Falle eines Abkommens mit den USA kontrollieren +++ Trump: Einigung mit Iran steht kurz bevor +++ US-Präsident droht gleichzeitig mit neuen Angriffen +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b0b282cd8dde/w6000h3135x0y433o/202605/43601.0.2062488497/ein-containerschiff-liegt-vor.webp"
+        },
         {
           "title": "3:0 gegen VfB Stuttgart: King Kane führt den FC Bayern zum DFB-Pokalsieg",
           "url": "https://www.faz.net/aktuell/sport/fussball/fc-bayern-muenchen-dank-harry-kane-dfb-pokalsieger-gegen-vfb-stuttgart-200767524.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/5cdbe00ab664/w6144h3210x0y559o/202605/43601.0.2134783449/harry-kane-und-der-fc-bayern.webp"
-        },
-        {
-          "title": "Liveblog Irankrieg: Trump: Einigung mit Iran steht kurz bevor",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-kommen-einigung-mit-iran-deutlich-naeher-faz-200583539.html",
-          "summary": "Trump: Kommen Einigung mit Iran „deutlich näher“ +++ US-Präsident droht gleichzeitig mit neuen Angriffen +++ Auch Iran spricht von Annäherung +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/704406f3dd2d/w5500h2873x0y397o/202605/43601.0.2123033593/us-praesident-donald-trump-am.webp"
-        },
-        {
-          "title": "Filmfest Cannes: Deutsche Regisseurin Grisebach in Cannes ausgezeichnet",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/deutsche-regisseurin-grisebach-in-cannes-ausgezeichnet-200862860.html",
-          "summary": "Valeska Grisebach erhält für „Das geträumte Abenteuer“ den Preis der Jury in Cannes. Die Goldene Palme geht an den Rumänen Cristian Mungiu für das Religionsdrama „Fjord“. Und Darsteller wurden gleich paarweise ausgezeichnet.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/77cc4769ea9d/w2947h1539x1078y270o/202605/43601.0.2134817649/regisseurin-valeska-grisebach.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "DFB-Pokalsieg des FC Bayern: Einer behält im Berliner Pyro-Nebel den Durchblick",
-          "url": "https://www.spiegel.de/sport/fussball/dfb-pokalsieg-des-fc-bayern-einer-behaelt-im-berliner-pyro-nebel-den-durchblick-a-3f7df929-7a38-40c7-ac28-e666f4b267a3#ref=rss",
-          "summary": "Es war einmal wieder die Show des Harry Kane. Mit seinen drei Toren beendet der FC Bayern eine überragende Saison – und gewinnt auch dann, wenn es bei ihm nicht so gut läuft.",
+          "title": "Schüsse nahe dem Weißen Haus – Secret Service erschießt Angreifer",
+          "url": "https://www.spiegel.de/ausland/berichte-ueber-schuesse-nahe-dem-weissen-haus-polizei-riegelt-strassen-ab-a-42538ce7-71ed-422f-ac51-5a323cd2e171#ref=rss",
+          "summary": "In der Nähe des Amtssitzes von Donald Trump hat eine Person auf Secret-Service-Beamte geschossen. Diese erwiderten das Feuer und töteten den Angreifer. Der US-Präsident hielt sich zum Zeitpunkt des Vorfalls im Weißen Haus auf.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9f6f7d61-46b8-4911-93a8-53b26b57f031_w1200_r1.778_fpx33.3_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f544eb25-806b-4c12-a73f-092757d47440_w1200_r1.778_fpx30_fpy54.99.jpg"
         },
         {
           "title": "Irankrieg: USA und Iran melden Fortschritte bei Verhandlungen – es gibt wohl ein vorläufiges Abkommen",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Schüsse in der Nähe vom Weißen Haus in Washington",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-weisses-haus-100.html",
+          "summary": "In der Nähe des Weißen Hauses in der US-Hauptstadt Washington sind Schüsse gefallen. Laut Secret Service ist der Schütze tot. Ein Passant sei angeschossen worden. US-Präsident Trump befand sich zu dem Zeitpunkt in seinem Amtssitz.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/66ac66d6-53c9-436b-ae1e-fcf7a8294aa8/AAABnld7eLo/AAABnSSvrFg/16x9-big/sicherheitsbeamte-washington-100.jpg?width=1280"
+        },
+        {
+          "title": "Schwere russische Luftangriffe auf die ukrainische Hauptstadt",
+          "url": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-134.html",
+          "summary": "Kurz nach der Warnung des ukrainischen Präsidenten Selenskyj vor einem schweren russischen Luftangriff ist Kiew von heftigem Beschuss erschüttert worden. Zuvor hatte Kremlchef Putin der Ukraine mit Vergeltung gedroht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b88cc964-5891-4556-8e9c-f21706083584/AAABnld100M/AAABnSSvrFg/16x9-big/kiew-luftabwehr-100.jpg?width=1280"
+        },
+        {
           "title": "Cannes: Goldene Palme für rumänischen Regisseur Mungiu",
           "url": "https://www.tagesschau.de/kultur/cannes-goldene-palme-110.html",
           "summary": "Der Film \"Fjord\" des rumänischen Regisseurs Mungiu ist beim Filmfestival von Cannes mit der Goldenen Palme ausgezeichnet worden. Für den Filmemacher ist es die zweite Goldene Palme. Ein Preis ging auch an die deutsche Regisseurin Grisebach.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/c22c107c-32ab-45aa-997d-aa7f462577eb/AAABnlabBeA/AAABnSSvrFg/16x9-big/mungiu-100.jpg?width=1280"
-        },
-        {
-          "title": "Proteste in Bolivien werden immer massiver",
-          "url": "https://www.tagesschau.de/ausland/amerika/bolivien-proteste-126.html",
-          "summary": "Die Proteste und Blockaden in Bolivien werden immer massiver. In La Paz werden Lebensmittel und Treibstoff knapp. Es ist die größte Bewährungsprobe für die erst vor sechs Monaten angetretene Mitte-Rechts-Regierung. Von Anne Herrberg.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ea89cf72-faf3-47e2-841d-98ea3a69b784/AAABnlYJttU/AAABnSSvrFg/16x9-big/protest-bolivien-102.jpg?width=1280"
-        },
-        {
-          "title": "Das Finale im Liveticker",
-          "url": "https://www.tagesschau.de/sport/dfb-pokal-finale-liveticker-100.html",
-          "summary": "Im DFB-Pokalfinale 2026 trifft der Rekord-Pokalsieger Bayern München auf den Titelverteidiger VfB Stuttgart. Verfolgen Sie das Spiel im Liveticker.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.sportschau.de/image/8039954d-42c9-4630-9308-be21458fa18b/AAABlcSOzQM/AAABnSSvrFg/16x9-big/dfbpokal-sp-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Stimmen zum Pokalfinale: Manuel Neuer: „Zum Jubeln reicht es auf jeden Fall“",
+          "url": "https://www.sueddeutsche.de/sport/max-eberl-uli-hoeness-dfb-pokal-aussagen-fc-bayern-li.3488211",
+          "summary": "Der Torwart spricht am Rande der Pokal-Feierlichkeiten über seine Verletzung, Max Eberl reagiert auf die Zweifel von Uli Hoeneß an ihm – und Hoeneß schimpft über die Fans.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/23/ec18c83d-630a-4f31-adc6-bbf1bf8197f7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
+        },
+        {
           "title": "VfB Stuttgart in der Einzelkritik: Das Monster hat das Nachsehen",
           "url": "https://www.sueddeutsche.de/sport/vfb-stuttgart-fc-bayern-muenchen-dfb-pokal-einzelkritik-li.3488189",
           "summary": "Ramon Hendriks verliert einen entscheidenden Wettlauf, Ermedin Demirovic imitiert das Stefan-Effenberg-Begrüßungsfoul,  Alexander Nübel ist chancenlos im Nebel: Der VfB Stuttgart in der Einzelkritik.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/23/fc933b05-d898-49b0-9bae-fcf7e9f553bb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C190%2C4000%2C2250"
-        },
-        {
-          "title": "FC Bayern in der Einzelkritik: Das ganze Repertoire der hohen Stürmerkunst",
-          "url": "https://www.sueddeutsche.de/sport/bayern-stuttgart-pokalfinale-einzelkritik-harry-kane-li.3488190",
-          "summary": "Michael Olise braucht nur eine Aktion, Dayot Upamecano vermeidet eine Upamecano-Aktion – und was soll man zu Harry Kane noch sagen? Der FC Bayern in der Einzelkritik.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/23/54d05f1a-dd18-4c44-b94e-1078c31f4917.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3495%2C1966"
         }
       ]
     }
