@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-25T02:00:08.004Z",
-  "timestamp": "25.5.2026, 04:00:08",
+  "generated": "2026-05-25T06:00:09.167Z",
+  "timestamp": "25.5.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Liveblog Irankrieg: Trump dämpft Hoffnung auf schnellen Iran-Deal: „Es darf keine Fehler geben!“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-daempft-hoffnung-auf-schnellen-iran-deal-es-darf-keine-fehler-geben-faz-200583539.html",
+          "summary": "Rubio: Mehrere Golfstaaten signalisieren Unterstützung für Atomabkommen +++ Trump: Abkommen mit Iran nicht überstürzen +++ Netanjahu pocht auf Handlungsfreiheit in Libanon +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a7c84b1a21cc/w3321h1735x0y105o/202605/43601.0.2135273293/us-praesident-donald-trump-im.webp"
+        },
         {
           "title": "Mangel und Blockade: Kubas schwerste Krise?",
           "url": "https://www.faz.net/aktuell/politik/ausland/so-ist-das-leben-in-kuba-in-zeiten-von-trumps-us-blockade-200855419.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/d7c6a8f9320e/w4557h2381x0y316o/202605/0fcc920a-5440-11f1-813d-8f2bf5333936/zapfhaehne-aber-kein-benzin.webp"
         },
         {
-          "title": "Trump erhöht Druck: Venezuela hat Öl – und was hat Kuba?",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/raul-castro-und-kuba-droht-ein-venezuela-szenario-accg-200857449.html",
-          "summary": "Die Anklage Raúl Castros wirkt wie eine letzte Bestätigung: Will die Trump-Regierung Kuba angreifen wie Venezuela? Vieles spricht dafür. Obwohl die Fälle sehr unterschiedlich gelagert sind.",
+          "title": "Singapur und die KI: „Das Tempo des Wandels wird schneller sein als alles, was wir bisher erlebt haben“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/singapur-und-die-angst-vor-kuenstlicher-intelligenz-200854193.html",
+          "summary": "Nirgendwo scheint der Wohlstand vieler so sehr von Künstlicher Intelligenz bedroht wie im wirtschaftsliberalen Hightech-Staat Singapur. Mit Milliarden Dollar will die Regierung nun Massenarbeitslosigkeit verhindern – und zahlt erstmals auch Arbeitslosenhilfe.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4ede64f3a073/w5444h2844x0y109o/202605/43601.0.2109760718/us-praesident-donald-trump-im.webp"
-        },
-        {
-          "title": "Liveblog Irankrieg: Nach monatelanger Blockade: Weitere Tanker verlassen Straße von Hormus",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-nach-monatelanger-blockade-weitere-tanker-verlassen-strasse-von-hormus-faz-200583539.html",
-          "summary": "Rubio: Mehrere Golfstaaten signalisieren Unterstützung für Atomabkommen +++ Trump: Abkommen mit Iran nicht überstürzen +++ Netanjahu pocht auf Handlungsfreiheit in Libanon +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/65d55925833b/w3274h1710x0y225o/202605/43601.0.2119890624/schiffe-in-der-strasse-von.webp"
+          "image": "https://media0.faz.net/image/w1200h627/895bc302910f/w5000h2612x0y621o/202605/43601.0.2107492726/in-singapurs-buerotuermen-geht.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Donald Trump: Was über den möglichen USA-Iran-Deal bekannt ist",
+          "url": "https://www.spiegel.de/ausland/donald-trump-was-ueber-den-moeglichen-usa-iran-deal-bekannt-ist-a-2799098c-186a-481a-90f1-45af90127bbc#ref=rss",
+          "summary": "Als Donald Trump nicht zur Hochzeit seines Sohnes kam, rechneten viele mit neuen US-Angriffen auf Iran. Dann aber tönte der Präsident, eine Einigung mit Teheran stehe kurz bevor. Nun mahnt ausgerechnet er plötzlich zu Geduld.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/cf328e55-8baf-4b76-92dc-eef09f599bbf_w1200_r1.778_fpx50.12_fpy44.98.jpg"
+        },
+        {
+          "title": "NS-Verbrechen: Studie über Kinder als Täter im »Dritten Reich«",
+          "url": "https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich-a-2cfbe46f-d3ac-46cc-bff2-a13d8afb513e#ref=rss",
+          "summary": "Verprügeln, ausrauben, bespitzeln – wenn es gegen Juden ging, machten viele Kinder und Jugendliche mit. Nun erscheint eine Studie über Minderjährige, die Hitlers Häschern halfen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/e2b86c19-4e1c-44ef-b585-b9eb31a1686e_w1200_r1.778_fpx34_fpy50.jpg"
+        },
+        {
           "title": "Bosnien-Krieg: Zahl der mutmaßlichen Menschenjäger von Sarajevo wächst",
           "url": "https://www.spiegel.de/ausland/bosnien-krieg-zahl-der-mutmasslichen-menschenjaeger-von-sarajevo-waechst-a-299f211e-7da7-451f-b372-598c6bc85574#ref=rss",
           "summary": "Mailänder Staatsanwälte ermitteln gegen mehrere Männer, die als »Touristen« im Jugoslawienkrieg Zivilisten getötet haben sollen. Italiens Geheimdienst war offenbar informiert.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/934ee617-efd8-4e56-855b-bba8f7bbbcaf_w1200_r1.778_fpx66.07_fpy49.97.jpg"
-        },
-        {
-          "title": "NS-Verbrechen: Studie über Kinder als Täter im »Dritten Reich«",
-          "url": "https://www.spiegel.de/panorama/ns-verbrechen-studie-ueber-kinder-als-taeter-im-dritten-reich-a-2cfbe46f-d3ac-46cc-bff2-a13d8afb513e#ref=rss",
-          "summary": "Verprügeln, Ausrauben, Bespitzeln – wenn es gegen Juden ging, machten viele Kinder und Jugendliche mit. Nun erscheint eine Studie über Minderjährige, die Hitlers Häschern halfen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e2b86c19-4e1c-44ef-b585-b9eb31a1686e_w1200_r1.778_fpx34_fpy50.jpg"
-        },
-        {
-          "title": "Irankrieg: Plötzlich will Trump in den Verhandlungen »nichts überstürzen«",
-          "url": "https://www.spiegel.de/ausland/irankrieg-ploetzlich-will-trump-in-den-verhandlungen-nichts-ueberstuerzen-a-6107c2b2-97ef-463a-ad33-449e1117485e#ref=rss",
-          "summary": "Tagelang nährte Washington Hoffnungen auf ein baldiges Abkommen mit Iran – zum Missfallen Israels. Nun tritt US-Präsident Donald Trump überraschend auf die Bremse und verkündet, keine Eile zu haben.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4317fcc0-c8d0-4377-9fe9-49c893f8ff46_w1200_r1.778_fpx49.33_fpy50.jpg"
         }
       ]
     },
@@ -82,7 +82,7 @@
         {
           "title": "SIPRI-Bericht - Friedensmissionen unter Druck",
           "url": "https://www.tagesschau.de/ausland/sipri-internationale-friedensmissionen-100.html",
-          "summary": "Internationale Friedenseinsätze kämpfen mit Geld- und Personalproblemen - während die Konflikte zunehmen. Aber 2025 sank die Zahl der beteiligten Personen auf den niedrigsten Stand seit Jahrzehnten. Von Jana Sindram.",
+          "summary": "Internationale Friedenseinsätze kämpfen mit Geld- und Personalproblemen - während die Konflikte zunehmen. Aber 2025 sank die Zahl der beteiligten Personen auf den niedrigsten Stand seit Jahrzehnten. Von Jana Sinram.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/7e19d3b0-da64-4761-9912-985afc689cbc/AAABnlwBo2I/AAABnSSvrFg/16x9-big/un-blauhelm-soldat-flagge-100.jpg?width=1280"
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Trump dämpft Hoffnungen auf schnellen Iran-Deal",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-krieg-usa-iran-trump-deal-li.3487408",
+          "summary": "Man werde beim Deal nichts überstürzen, schreibt US-Präsident Donald Trump auf seiner Plattform Truth Social. Das ist ein rhetorischer Kurswechsel: Seit Samstag hatte er immer wieder betont, dass eine Einigung kurz bevorstehe.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/25/a5127757-3378-4028-8545-a88af6f7bff4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C172%2C3321%2C1868"
+        },
+        {
           "title": "Tschechien: „Sie haben mich einfach umarmt“",
           "url": "https://www.sueddeutsche.de/politik/sudetendeutsche-tschechien-bruenn-li.3485140",
           "summary": "Kann Versöhnung 80 Jahre nach dem Krieg gelingen? Der Sudetendeutsche Tag in Tschechien macht Hoffnung. Trotz Protesten gegen die Versammlung der Vertriebenen bleibt es insgesamt friedlich und die Stimmung herzlich.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/24/6e67e0b7-6f15-4d51-bed6-54bb45308ac6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C329%2C4000%2C2250"
-        },
-        {
-          "title": "Krieg in Iran: Ein Ende zeichnet sich ab",
-          "url": "https://www.sueddeutsche.de/politik/usa-iran-krieg-abkommen-waffenruhe-strasse-von-hormus-li.3488300",
-          "summary": "Iran und die USA scheinen sich auf ein gemeinsames Papier verständigt zu haben. Mit den bisher bekannten Ergebnissen kann vor allem das Regime in Teheran zufrieden sein.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/24/bc7761e9-2775-4a07-b048-4f6dd2a85d86.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
         }
       ]
     }
