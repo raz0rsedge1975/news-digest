@@ -1,10 +1,26 @@
 {
-  "generated": "2026-05-25T18:00:09.123Z",
-  "timestamp": "25.5.2026, 20:00:09",
+  "generated": "2026-05-25T22:00:08.431Z",
+  "timestamp": "26.5.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Leos Enzyklika zu KI: Die Wahl zwischen Babel und Jerusalem",
+          "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-das-steht-in-der-enzyklika-des-papstes-zur-ki-accg-200865185.html",
+          "summary": "In seinem Lehrschreiben „Magnifica Humanitas“ wägt der Papst Chancen und Risiken der Künstlichen Intelligenz ab. Er offenbart einen Geist zuversichtlicher Skepsis.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/1124f0150b9d/w5585h2918x0y278o/202605/43601.0.2147259546/papst-leo-xiv-stellt-am-montag.webp"
+        },
+        {
+          "title": "KI-Enzyklika: Der Mensch hält das aus",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/die-ki-enzyklika-des-papstes-200858548.html",
+          "summary": "Der Papst selbst sagt, seine Aussagen zur KI könnten in kurzer Zeit überholt sein: Methodischer Agnostizismus paart sich in der neuen Enzyklika mit geradezu poetischen Beschwörungen eines Menschseins, wie wir es kennen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c5f290caf247/w2882h1505x0y208o/202605/43601.0.2139500846/anthropologie-am-kreuz-leo-xiv.webp"
+        },
         {
           "title": "Cem Özdemir: „Wir wollen den Stil des Regierens ändern“",
           "url": "https://www.faz.net/aktuell/politik/inland/cem-oezdemir-wer-den-staat-als-gaengelstaat-wahrnimmt-verliert-den-glauben-an-ihn-accg-200865337.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/9c64d92c21f1/w7100h3709x0y229o/202605/43601.0.2119287284/cem-oezdemir-mitte-mai-im.webp"
-        },
-        {
-          "title": "Cem Özdemir: Ein „Turbolader“ im Staatsministerium",
-          "url": "https://www.faz.net/aktuell/politik/inland/wie-cem-oezdemir-baden-wuerttemberg-regieren-will-accg-200823506.html",
-          "summary": "An diesem Mittwoch wird Cem Özdemir zum Ministerpräsidenten Baden-Württembergs gewählt. Er übernimmt das Land mitten in einer Wirtschaftskrise. Wie wird er es führen?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0885efeea56c/w5459h2852x0y109o/202605/43601.0.2072119113/cem-oezdemir-bei-der.webp"
-        },
-        {
-          "title": "Liveblog Ukrainekrieg: Moskau: Haben NATO-Minen in Ostseehafen gefunden",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-moskau-haben-nato-minen-in-ostseehafen-gefunden-faz-110683325.html",
-          "summary": "Taucher sollen die Sprengsätze an einem Schiffsrumpf entdeckt haben +++ Merz kritisiert Einsatz der russischen Oreschnik-Rakete +++ ARD-Studio in Kiew beschädigt +++ alle Neuigkeiten im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ad1c4c2fb9b4/w2560h1337x0y51o/202605/43601.0.2147398276/ein-von-russischen-medien-am.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Dschingis Khan: Der Mann aus der Hölle, der sogar Berlin bedrohte",
-          "url": "https://www.spiegel.de/wissenschaft/dschingis-khan-der-mann-aus-der-hoelle-der-sogar-berlin-bedrohte-a-a618a340-498e-41ef-acfb-e6d379d85b45#ref=rss",
-          "summary": "»Er zeugte sieben Kinder in einer Nacht«: Bei Dschingis Khan denken viele an eine alte Band und deren Hit – dabei ließ der Mongolenherrscher Millionen Menschen massakrieren. Forscher enträtseln den Jahrtausendschlächter.",
+          "title": "Israel - Libanon: Bezalel Smotrich will für ​jede Hisbollah-Drohne zehn Gebäude in Beirut fallen sehen",
+          "url": "https://www.spiegel.de/ausland/israel-libanon-bezalel-smotrich-will-fuer-jede-hisbollah-drohne-zehn-gebaeude-in-beirut-fallen-sehen-a-3d846ad8-1719-4f6d-b8a0-3ad8a2159fd6#ref=rss",
+          "summary": "Irans Top-Verhandler sind in Katar, um über einen Deal mit Donald Trump zu sprechen. Währenddessen eskaliert der Konflikt zwischen der Hisbollah und Israel. Der alternde Premier Netanyahu setzt im Wahlkampf auf Härte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/35942e90-0b34-4991-ae74-9ffafa597ccf_w1200_r1.778_fpx47_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/efdced34-0bf7-4d35-84af-004826ccba79_w1200_r1.778_fpx47.33_fpy44.98.jpg"
+        },
+        {
+          "title": "Hisbollah-Chef ruft zum Sturz der Regierung im Libanon auf",
+          "url": "https://www.spiegel.de/ausland/hisbollah-chef-ruft-zum-sturz-der-regierung-im-libanon-auf-a-d31ccf7f-8781-4e9b-9f10-0b03f2514e99#ref=rss",
+          "summary": "Israel hat die Hisbollah in den vergangenen zwei Jahren militärisch hart getroffen. Aufgeben will die Schiitenmiliz aber nicht. Im Gegenteil: Sie schießt Drohnen über die Grenze und attackiert die libanesische Regierung.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/898e4540-018d-4dae-848f-97850ce140d2_w1200_r1.778_fpx41.33_fpy50.jpg"
         },
         {
           "title": "Deutsche Politiker und das NSDAP-Archiv: »Es gab sofort einen Treffer«",
@@ -49,20 +57,20 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/4d09c94b-5a77-437f-8a27-489436fef039_w1200_r1.778_fpx32.62_fpy49.99.jpg"
-        },
-        {
-          "title": "IW-Studie zur Daseinsvorsorge und Unzufriedenheit: So gut ist Ihre Kommune ausgestattet",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/iw-studie-zur-daseinsvorsorge-und-unzufriedenheit-so-gut-ist-ihre-kommune-ausgestattet-a-65ad61d6-bd90-49ab-b46b-e0b95a458b3b#ref=rss",
-          "summary": "Wenn es um Schulen, Schwimmbäder oder den Schienenverkehr geht, sind die Bürger in Deutschland unterschiedlich gut versorgt – und damit unterschiedlich erfüllt. So sieht es laut einer IW-Studie in Ihrer Gemeinde aus.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/11f7129f-ea30-48e9-afe7-0814959da1f4_w1200_r1.778_fpx45_fpy64.png"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Paderborn zurück in der Bundesliga - Wolfsburg steigt erstmals ab",
+          "url": "https://www.tagesschau.de/sport/relegation-paderborn-wolfsburg-100.html",
+          "summary": "Der VfL Wolfsburg ist zum ersten Mal in seiner Geschichte aus der Fußball-Bundesliga abgestiegen. Die Niedersachsen unterlagen im Rückspiel der Relegation beim SC Paderborn mit 1:2 nach Verlängerung.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2896ecbb-40e0-43de-8d55-5538984db856/AAABnmDm1AQ/AAABnSSvrFg/16x9-big/relegation-wolfsburg-paderborn-100.jpg?width=1280"
+        },
         {
           "title": "Enzyklika des Papstes: Grundsatzprogramm des christlichen Pazifismus",
           "url": "https://www.tagesschau.de/ausland/europa/papst-enzyklika-ki-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/066cd134-2165-4225-9770-394fdcdceda6/AAABnkS43fo/AAABnSSvrFg/16x9-big/metropolitan-detention-center-102.jpg?width=1280"
-        },
-        {
-          "title": "Ebola-Ausbruch: Wie Freiwillige gegen das Virus kämpfen",
-          "url": "https://www.tagesschau.de/ausland/afrika/ebola-ausbruch-unterschaetzt-100.html",
-          "summary": "Mehr als 900 Verdachtsfälle und bereits über 200 Tote: In der Demokratischen Republik Kongo breitet sich das Ebola-Virus aus - auch, weil viele Menschen nicht wissen, wie sie sich schützen können. Freiwillige bemühen sich nun um Aufklärung. Von B. Rühl.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/29f41072-98df-45c6-af09-ec22a681ee46/AAABnl9Q1CQ/AAABnSSvrFg/16x9-big/ebola-kongo-162.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Relegation zur Bundesliga: Paderborn stürzt Wolfsburg in die zweite Liga",
+          "url": "https://www.sueddeutsche.de/sport/paderborn-wolfsburg-relegation-bundesliga-li.3489042",
+          "summary": "Der SC Paderborn spielt 106 Minuten in Überzahl, trifft zweimal den Pfosten, muss in die Verlängerung, strapaziert die Nerven seiner Fans – und jubelt am Ende trotzdem. In Wolfsburg endet eine Ära. Der VW-Klub steigt nach 29 Jahren in der ersten Liga erstmals ab.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/25/cb32676b-bd3d-4ecf-857f-fbcba3338f2e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C157%2C3186%2C1792"
+        },
+        {
+          "title": "Krieg in Nahost: Israel verstärkt Angriffe auf Hisbollah",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-israel-libanon-angriffe-li.3487408",
+          "summary": "Der Konflikt in Libanon eskaliert trotz offizieller Waffenruhe. Dies droht auch die Verhandlungen zwischen USA und Iran zu belasten. Israels Ministerpräsident Netanjahu wird von seinen rechtsradikalen Koalitionspartnern unter Druck gesetzt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/25/ad1d8190-d64a-40dc-a5c1-8a3bb18399a9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C205%2C3936%2C2214"
+        },
+        {
           "title": "KI und Katholizismus: Neuer Turmbau zu Babel",
           "url": "https://www.sueddeutsche.de/kultur/vatikan-papst-leo-xiv-enzyklika-ki-li.3488677",
           "summary": "Papst Leo weist der Künstlichen Intelligenz in seiner ersten Enzyklika theologisch ihren Platz zu: Eine Technik, die sich an die Stelle des Menschen will, sei die maximale Verleugnung der Würde des Menschen.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/25/14e49f02-9192-41af-9732-5bcd2a1aab2f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C357%2C4000%2C2250"
-        },
-        {
-          "title": "Clemens Tönnies: „In unserer Familie gibt es keine Vegetarier“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/toennies-premium-food-group-bernd-robert-clemens-li.3480240",
-          "summary": "Clemens Tönnies hat einen riesigen Fleischkonzern aufgebaut und lange den Fußballklub Schalke 04 geführt. Dabei stand der Milliardär oft in der Kritik. Nun wird er 70 – und spricht offen über den größten Fehler seiner Unternehmerlaufbahn.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/25/57ea9c58-b172-4b80-8d24-3172a73f9141.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C455%2C2548%2C1433"
-        },
-        {
-          "title": "Pyrotechnik beim DFB-Pokal: Den Finalisten drohen Geldstrafen in sechsstelliger Höhe",
-          "url": "https://www.sueddeutsche.de/sport/dfb-pokal-finale-fans-pyrotechnik-strafen-stuttgart-bayern-li.3488566",
-          "summary": "Wegen Pyrovergehen ihrer Fans beim Pokalfinale und beleidigender Transparente drohen dem FC Bayern und dem VfB Stuttgart beachtliche Geldstrafen. Die Proteste richten sich gegen DFB und Politik.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/25/62f536e9-a016-4b25-b337-b147fd30e9bf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
