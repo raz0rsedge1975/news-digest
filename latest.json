@@ -1,25 +1,25 @@
 {
-  "generated": "2026-05-25T22:00:08.431Z",
-  "timestamp": "26.5.2026, 00:00:08",
+  "generated": "2026-05-26T02:00:08.535Z",
+  "timestamp": "26.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Leos Enzyklika zu KI: Die Wahl zwischen Babel und Jerusalem",
-          "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-das-steht-in-der-enzyklika-des-papstes-zur-ki-accg-200865185.html",
-          "summary": "In seinem Lehrschreiben „Magnifica Humanitas“ wägt der Papst Chancen und Risiken der Künstlichen Intelligenz ab. Er offenbart einen Geist zuversichtlicher Skepsis.",
+          "title": "Liveblog Irankrieg: USA greifen Ziele in Iran an",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-irans-praesident-ordnet-freischaltung-des-internets-an-faz-200583539.html",
+          "summary": "Das US-Militär hat nach eigenen Angaben Raketenabschussanlagen attackiert +++ Irans Uran soll laut Trump zerstört werden +++ Irans Präsident ordnet Freischaltung des Internets an +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1124f0150b9d/w5585h2918x0y278o/202605/43601.0.2147259546/papst-leo-xiv-stellt-am-montag.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e14d4cf293bf/w6000h3135x0y745o/202605/43601.0.2059904417/der-us-lenkwaffenzerstoerer.webp"
         },
         {
-          "title": "KI-Enzyklika: Der Mensch hält das aus",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/die-ki-enzyklika-des-papstes-200858548.html",
-          "summary": "Der Papst selbst sagt, seine Aussagen zur KI könnten in kurzer Zeit überholt sein: Methodischer Agnostizismus paart sich in der neuen Enzyklika mit geradezu poetischen Beschwörungen eines Menschseins, wie wir es kennen.",
+          "title": "Naher Osten: Konflikt zwischen Israel und Hizbullah spitzt sich zu",
+          "url": "https://www.faz.net/aktuell/politik/ausland/konflikt-zwischen-israel-und-hizbullah-spitzt-sich-zu-accg-200866974.html",
+          "summary": "Israels Regierungschef Benjamin Netanjahu will die Militäroffensive gegen diepro-iranische Miliz im Libanon ausweiten. Die Hizbullah nimmt israelische Kasernen ins Visier.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c5f290caf247/w2882h1505x0y208o/202605/43601.0.2139500846/anthropologie-am-kreuz-leo-xiv.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e2d920f8dc3b/w3936h2056x0y284o/202605/43601.0.2147776746/rauch-steigt-nach-einem.webp"
         },
         {
           "title": "Cem Özdemir: „Wir wollen den Stil des Regierens ändern“",
@@ -35,20 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Israel - Libanon: Bezalel Smotrich will für ​jede Hisbollah-Drohne zehn Gebäude in Beirut fallen sehen",
-          "url": "https://www.spiegel.de/ausland/israel-libanon-bezalel-smotrich-will-fuer-jede-hisbollah-drohne-zehn-gebaeude-in-beirut-fallen-sehen-a-3d846ad8-1719-4f6d-b8a0-3ad8a2159fd6#ref=rss",
-          "summary": "Irans Top-Verhandler sind in Katar, um über einen Deal mit Donald Trump zu sprechen. Währenddessen eskaliert der Konflikt zwischen der Hisbollah und Israel. Der alternde Premier Netanyahu setzt im Wahlkampf auf Härte.",
+          "title": "Irankrieg: USA greifen Ziele im Iran an - mitten in Verhandlungen zum Kriegsende",
+          "url": "https://www.spiegel.de/ausland/irankrieg-usa-greifen-ziele-im-iran-an-mitten-in-verhandlungen-zum-kriegsende-a-35074028-1cd5-4e3b-bcff-af0425d0fb4c#ref=rss",
+          "summary": "Washington und Teheran verhandeln über einen Deal zur Beendigung des Kriegs, iranische Vertreter sind dafür in Doha. Jetzt meldet die US-Armee neue Angriffe auf Raketenstellungen und ​Boote im Süden Irans.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/efdced34-0bf7-4d35-84af-004826ccba79_w1200_r1.778_fpx47.33_fpy44.98.jpg"
-        },
-        {
-          "title": "Hisbollah-Chef ruft zum Sturz der Regierung im Libanon auf",
-          "url": "https://www.spiegel.de/ausland/hisbollah-chef-ruft-zum-sturz-der-regierung-im-libanon-auf-a-d31ccf7f-8781-4e9b-9f10-0b03f2514e99#ref=rss",
-          "summary": "Israel hat die Hisbollah in den vergangenen zwei Jahren militärisch hart getroffen. Aufgeben will die Schiitenmiliz aber nicht. Im Gegenteil: Sie schießt Drohnen über die Grenze und attackiert die libanesische Regierung.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/898e4540-018d-4dae-848f-97850ce140d2_w1200_r1.778_fpx41.33_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/41a695ef-5866-48f1-ac04-2654c2ca8b27_w1200_r1.778_fpx55_fpy56.jpg"
         },
         {
           "title": "Deutsche Politiker und das NSDAP-Archiv: »Es gab sofort einen Treffer«",
@@ -57,6 +49,14 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/4d09c94b-5a77-437f-8a27-489436fef039_w1200_r1.778_fpx32.62_fpy49.99.jpg"
+        },
+        {
+          "title": "IW-Studie zur Daseinsvorsorge und Unzufriedenheit: So gut ist Ihre Kommune ausgestattet",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/iw-studie-zur-daseinsvorsorge-und-unzufriedenheit-so-gut-ist-ihre-kommune-ausgestattet-a-65ad61d6-bd90-49ab-b46b-e0b95a458b3b#ref=rss",
+          "summary": "Wenn es um Schulen, Schwimmbäder oder den Schienenverkehr geht, sind die Bürger in Deutschland unterschiedlich gut versorgt – und damit unterschiedlich erfüllt. So sieht es laut einer IW-Studie in Ihrer Gemeinde aus.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/11f7129f-ea30-48e9-afe7-0814959da1f4_w1200_r1.778_fpx45_fpy64.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Paderborn zurück in der Bundesliga - Wolfsburg steigt erstmals ab",
-          "url": "https://www.tagesschau.de/sport/relegation-paderborn-wolfsburg-100.html",
-          "summary": "Der VfL Wolfsburg ist zum ersten Mal in seiner Geschichte aus der Fußball-Bundesliga abgestiegen. Die Niedersachsen unterlagen im Rückspiel der Relegation beim SC Paderborn mit 1:2 nach Verlängerung.",
+          "title": "Bericht: Höhere Beiträge für Kinderlose in Pflegeversicherung?",
+          "url": "https://www.tagesschau.de/inland/warken-pflegeversicherung-kinderlose-100.html",
+          "summary": "Wer keine Kinder hat, könnte laut einem Medienbericht bald mehr in die Pflegeversicherung einzahlen müssen als bisher. Demnach plant Ministerin Warken, bei der Pflegereform den Zuschlag für Kinderlose um 0,1 Prozentpunkte zu erhöhen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2896ecbb-40e0-43de-8d55-5538984db856/AAABnmDm1AQ/AAABnSSvrFg/16x9-big/relegation-wolfsburg-paderborn-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b8c8baee-1d4a-4868-a421-d83f7c315c88/AAABnmF2NIM/AAABnSSvrFg/16x9-big/warken-176.jpg?width=1280"
         },
         {
-          "title": "Enzyklika des Papstes: Grundsatzprogramm des christlichen Pazifismus",
-          "url": "https://www.tagesschau.de/ausland/europa/papst-enzyklika-ki-100.html",
-          "summary": "Die erste Enzyklika des Papstes ist in mehrfacher Hinsicht bemerkenswert: Nicht nur stellte er sie persönlich vor. Er setzt sich darin differenziert mit KI-Waffensystemen auseinander - im Beisein eines Tech-Pioniers. Von T. Kleinjung.",
+          "title": "USA greifen Raketenstellungen in Iran und Boote an",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-202.html",
+          "summary": "Inmitten der Verhandlungen beider Länder hat das US-Militär Ziele in Iran angegriffen. Laut USA wurden Raketenstellungen sowie Boote attackiert, die Minen verlegen sollten. Es habe sich um \"Selbstverteidigungsmaßnahmen\" gehandelt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/388b9c2b-2f68-40e4-bb56-3582b9c2dd8e/AAABnl_7o7g/AAABnSSvrFg/16x9-big/papst-leo-166.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/20ef4b7d-9dff-40c9-976c-2d86ffb18dfc/AAABnmGz3rw/AAABnSSvrFg/16x9-big/boote-hormus-100.jpg?width=1280"
         },
         {
-          "title": "Keine Einzelhaft mehr: Maduros Haftbedingungen offenbar verbessert",
-          "url": "https://www.tagesschau.de/ausland/amerika/maduro-haft-100.html",
-          "summary": "Seit fast fünf Monaten sitzt der frühere Präsident von Venezuela, Nicolas Maduro, in einem Bundesgefängnis in New York. Zunächst in Isolationshaft, mittlerweile sollen sich aber die Bedingungen verbessert haben. Von Martin Ganslmeier.",
+          "title": "Irans Präsident ordnet Ende der Internet-Blockade an",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-internet-freischaltung-100.html",
+          "summary": "Seit Kriegsbeginn blockiert Irans Regierung im Land den Zugang zum internationalen Internet. Nun hat Präsident Peseschkian die Freischaltung angeordnet. Wann das Dekret umgesetzt werden soll, bleibt jedoch offen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/066cd134-2165-4225-9770-394fdcdceda6/AAABnkS43fo/AAABnSSvrFg/16x9-big/metropolitan-detention-center-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/74e8c7c8-3803-4c0d-adb8-f65dd17e59a6/AAABl-Ug1j0/AAABnSSvrFg/16x9-big/pseschkian-100.jpg?width=1280"
         }
       ]
     },
@@ -124,18 +124,18 @@
         {
           "title": "Relegation zur Bundesliga: Paderborn stürzt Wolfsburg in die zweite Liga",
           "url": "https://www.sueddeutsche.de/sport/paderborn-wolfsburg-relegation-bundesliga-li.3489042",
-          "summary": "Der SC Paderborn spielt 106 Minuten in Überzahl, trifft zweimal den Pfosten, muss in die Verlängerung, strapaziert die Nerven seiner Fans – und jubelt am Ende trotzdem. In Wolfsburg endet eine Ära. Der VW-Klub steigt nach 29 Jahren in der ersten Liga erstmals ab.",
+          "summary": "Der SC Paderborn spielt 106 Minuten in Überzahl, trifft zweimal den Pfosten, muss in die Verlängerung – und jubelt am Ende trotzdem. In Wolfsburg endet eine Ära. Der VW-Klub steigt nach 29 Jahren in der ersten Liga erstmals ab.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/25/cb32676b-bd3d-4ecf-857f-fbcba3338f2e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C157%2C3186%2C1792"
         },
         {
-          "title": "Krieg in Nahost: Israel verstärkt Angriffe auf Hisbollah",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-israel-libanon-angriffe-li.3487408",
-          "summary": "Der Konflikt in Libanon eskaliert trotz offizieller Waffenruhe. Dies droht auch die Verhandlungen zwischen USA und Iran zu belasten. Israels Ministerpräsident Netanjahu wird von seinen rechtsradikalen Koalitionspartnern unter Druck gesetzt.",
+          "title": "Krieg in Nahost: USA greifen Ziele in Iran an",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-usa-hormus-angriffe-li.3487408",
+          "summary": "Während in Katar weiter über Frieden verhandelt wird, fliegen die USA Angriffe zur „Selbstverteidigung“ auf Raketenstellungen und iranische Boote in der Straße von Hormus.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/25/ad1d8190-d64a-40dc-a5c1-8a3bb18399a9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C205%2C3936%2C2214"
+          "image": "https://www.sueddeutsche.de/2026/05/26/59810ac8-84c7-4ca4-a91a-40d0d833259d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C364%2C3500%2C1969"
         },
         {
           "title": "KI und Katholizismus: Neuer Turmbau zu Babel",
