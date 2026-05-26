@@ -1,25 +1,25 @@
 {
-  "generated": "2026-05-26T18:00:08.868Z",
-  "timestamp": "26.5.2026, 20:00:08",
+  "generated": "2026-05-26T22:00:08.515Z",
+  "timestamp": "27.5.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Repression in der Türkei: „Passen Sie auf sich auf, und glauben Sie keinen Lügen“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/repression-in-der-tuerkei-der-sender-tele-1-leistet-widerstand-200868015.html",
-          "summary": "Die Schließung des türkischen Senders Tele 1 ist wie eine Parabel für die Demontage der Demokratie unter Erdoğan. Aber sie zeigt auch, dass es noch Widerstand gibt.",
+          "title": "Küchenschaben-Volkspartei: Indiens Jugend erklärt eine Kakerlake zum Anführer",
+          "url": "https://www.faz.net/aktuell/politik/ausland/indien-kakerlake-wird-zum-symbol-einer-gen-z-bewegung-200859084.html",
+          "summary": "In Indien hat ein Oberster Richter junge Arbeitslose mit Küchenschaben gleichgesetzt. Die Generation Z lässt das nicht auf sich sitzen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/41477bca41fd/w3665h1914x138y417o/202605/43601.0.2150158462/wir-wollen-nicht-dass-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/dfd72b1210ad/w5452h2848x1805y1718o/202605/43601.0.2149777966/junge-inder-hier-bewerber-fuer.webp"
         },
         {
-          "title": "Abgesetzter CHP-Chef: Vom loyalen Parteigenossen zum Protestanführer",
-          "url": "https://www.faz.net/aktuell/politik/ausland/oezguer-oezel-fordert-urwahl-fuer-chp-200869885.html",
-          "summary": "Der abgesetzte CHP-Chef galt früher einmal als dröge. Doch seine Unerschrockenheit hat ihm in der Türkei viel Anerkennung verschafft.",
+          "title": "Wachstum ohne Jobs: Indiens Akademiker arbeiten als Lieferfahrer und leben wie im Slum",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/indiens-akademiker-arbeiten-als-lieferfahrer-und-leben-wie-im-slum-200868689.html",
+          "summary": "In der Ölkrise geht Indiens Aufstieg der Treibstoff aus, warnt Regierungschef Modi. Doch für das Heer an Uniabsolventen lief der Wirtschaftsmotor schon zuvor nicht schnell genug.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c2ba2fb310d8/w6000h3135x0y126o/202605/43601.0.2150417227/der-abgesetzte-chp-chef.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0388f4a409fb/w4721h2466x991y340o/202605/43601.0.2120079354/von-indiens-aufstieg.webp"
         },
         {
           "title": "Bilanz des Irankriegs: Iran traf mehr, als Amerika zugibt",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
+          "url": "https://www.spiegel.de/geschichte/nsdap-archiv-finden-sie-heraus-was-ihre-familie-unter-hitler-getan-hat-a-4b37a614-a790-4798-92e2-be6a921da384#ref=rss",
+          "summary": "Der SPIEGEL hat weitere 864. 000 Mitgliedskarten der NSDAP für Sie aufbereitet, außerdem Millionen Ortsdaten mit der Nazi-Kartei verknüpft. Hier können Sie herausfinden, was Ihre Familie unter Hitler getan hat.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx49_fpy50.png"
+        },
+        {
           "title": "KTM: Motorrad-Hersteller bringt reihenweise illegale Maschinen auf die Straße",
           "url": "https://www.spiegel.de/mobilitaet/ktm-motorrad-hersteller-bringt-reihenweise-illegale-maschinen-auf-die-strasse-a-8561e7d1-f7bc-41cd-b966-ebeca9565bf3#ref=rss",
           "summary": "50 PS statt 15: Der österreichische Motorradhersteller KTM und seine Händler verkaufen entdrosselte Geländemaschinen, die nie auf die Straße dürften. Die Polizei und Verbände wie der ADAC ignorieren das Problem weitgehend.",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/6938467f-9cfc-4a2a-ba40-1c1fc34f6ae9_w1200_r1.778_fpx80_fpy77.jpg"
         },
         {
-          "title": "News des Tages: Macht Trump die Nato zum Schwarzen Ritter?, Ermittlungen gegen Christian Ulmen",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-macht-trump-die-nato-zum-schwarzen-ritter-ermittlungen-gegen-christian-ulmen-a-0d209e36-c701-43bc-b10c-25f2d3d37d00#ref=rss",
-          "summary": "Der US-Präsident verzwergt die Allianz. Die Staatsanwaltschaft Potsdam ermittelt gegen Christian Ulmen. Und die Jugend qualmt wieder mehr. Das ist die Lage am Dienstagabend.",
+          "title": "Russlands Oreschnik-Rakete: »Schwer abwehrbare Terrorwaffe«",
+          "url": "https://www.spiegel.de/wissenschaft/technik/russlands-oreschnik-rakete-schwer-abwehrbare-terrorwaffe-a-c8885698-fd17-494d-a906-62216132ced5#ref=rss",
+          "summary": "Wie gefährlich ist die Oreschnik-Rakete, mit der Russland nun zum dritten Mal die Ukraine attackiert hat, wirklich? Fachleute nehmen an, dass sie eher für Angst als für massive Schäden sorgen soll.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Katherina Reiche: Ministerium verbreitet Kampagne von Arbeitgeberlobby",
-          "url": "https://www.spiegel.de/politik/deutschland/katherina-reiche-ministerium-verbreitet-kampagne-von-arbeitgeberlobby-a-88c5450d-2c8a-4ce4-8676-1b95e220fff1#ref=rss",
-          "summary": "Das Haus von Wirtschaftsministerin Katherina Reiche hat ein Video geteilt, das von der Lobbygruppe INSM produziert wurde. Die Arbeitgeberorganisation verspottete in der Vergangenheit Politiker von SPD und Grünen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b90c6fd5-dcc4-4096-ba3a-3e05b70ab705_w1200_r1.778_fpx43.94_fpy46.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c6cdcd6b-1de0-47c8-953d-c02aa1101ae7_w1200_r1.778_fpx30_fpy45.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Türkei: Polizei geht hart gegen Özel und seine Anhänger vor",
-          "url": "https://www.tagesschau.de/ausland/asien/izmir-proteste-chp-100.html",
-          "summary": "Nach der Absetzung des türkischen Oppositionsführers Özel gibt es weiter Proteste. Obwohl die Polizei gegen ihn und seine Anhänger vorgeht, könnte der Ex-CHP-Chef für die Regierung Erdoğan gefährlich bleiben. Von B. Weber.",
+          "title": "Hitzewelle in Deutschland: Vielerorts über 30 Grad, aber noch kein Mai-Rekord",
+          "url": "https://www.tagesschau.de/wetter/deutschland/wetter-mai-temperaturen-100.html",
+          "summary": "Eine Hitzewelle hat weite Teile Westeuropas im Griff. Anders als Frankreich und Großbritannien gab es in Deutschland aber bislang keinen Temperaturrekord für den Monat Mai. In Regensburg war es mit 34 Grad am wärmsten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6c38d233-63d4-4e9f-be10-f1d35d2db38d/AAABnmVGr9g/AAABnSSvrFg/16x9-big/oezel-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/584fc468-df8a-44f0-b774-d0c43f8347b5/AAABnmXkpfs/AAABnSSvrFg/16x9-big/hitze-deutschland-138.jpg?width=1280"
         },
         {
-          "title": "Ukraine beruhigt Bürger und Diplomaten nach Putin-Drohung",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohungen-diplomaten-100.html",
-          "summary": "Der Kreml droht ausländischen Botschaften in Kiew. In der Ukraine sehen viele darin lediglich einen Versuch, Panik auszulösen. Dennoch bleibt die Angst, Diplomaten könnten das Land verlassen. Kellermann.",
+          "title": "Einschätzungen von ARD-Korrespondentin Diettrich zu den russischen Drohungen",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-diettrich-100.html",
+          "summary": "Russland verschärft seine Rhetorik: Der Kreml kündigt weitere massive Angriffe auf Kiew an. Silke Diettrich, Moskau-Korrespondentin der ARD sagt, solche Drohungen müsse man ernst nehmen. Russland wolle nun ein Zeichen der Stärke setzen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6fde53ec-efc7-45fb-a67b-56a050b5763e/AAABnmT5lDA/AAABnSSvrFg/16x9-big/skyline-kiew-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bec12eca-6495-4967-b3bf-4a03daf864ce/AAABnmVLX5Y/AAABnSSvrFg/16x9-big/sendungsbild-1739342.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Anleger verlieren die Geduld",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-euro-dollar-104.html",
-          "summary": "Ein echter Durchbruch in den Friedensverhandlungen am Persischen Golf lässt weiter auf sich warten. Der DAX gab einen Teil seiner jüngsten Gewinne ab, während die Ölpreise wieder anzogen.",
+          "title": "Israel weitet Bodeneinsätze gegen Hisbollah im Libanon aus",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-126.html",
+          "summary": "Israel hat die angekündigte neue Offensive gegen die Hisbollah-Miliz im Süden des Libanon begonnen. Laut Medienberichten sollen israelische Bodentruppen auch nördlich des Litani-Flusses operieren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/68dbb183-1517-4291-a260-61dfdc68e500/AAABnLJS29A/AAABnSSvrFg/16x9-big/boerse-490.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d1a5084e-b1b3-4cf9-9dc6-195846b6d28f/AAABnmU2zwA/AAABnSSvrFg/16x9-big/libanon-rauch-106.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Jangbogo-N: Südkoreas Einstieg in die Atom-U-Boot-Technik",
+          "url": "https://www.telepolis.de/article/Jangbogo-N-Suedkoreas-Einstieg-in-die-Atom-U-Boot-Technik-11307269.html",
+          "summary": "Seoul will Atom-U-Boote bauen – doch Trump fordert den Bau in den USA. Nun ringen beide Länder um ein beispielloses Produktionsmodell.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/9/1/5/5/shutterstock_2583800129-5df5bd4346e59032.jpg"
+        },
         {
           "title": "Hyperschallflug: Tokio–Los Angeles in rund zwei Stunden",
           "url": "https://www.telepolis.de/article/Hyperschallflug-Tokio-Los-Angeles-in-rund-zwei-Stunden-11306805.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/7/8/5/shutterstock_1515110915-f48eb765364a2114.jpg"
-        },
-        {
-          "title": "Fußball-WM 2026: Die Sender haben die Rechte – TikTok hat die Macht",
-          "url": "https://www.telepolis.de/article/Fussball-WM-2026-Die-Sender-haben-die-Rechte-TikTok-hat-die-Macht-11306424.html",
-          "summary": "Während Fernsehsender Milliarden investieren, bestimmen Creator, Algorithmen und Kurzvideos darüber, wie junge Menschen das Turnier erleben.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/7/2/2/master_Fussball-d51a5fe9b177bc2e.jpg"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "USA: Nach Gesundheitscheck bescheinigt Trump sich selbst: „Alles perfekt“",
+          "url": "https://www.sueddeutsche.de/politik/trump-gesundheit-check-kritiker-li.3478505",
+          "summary": "Details gibt das Weiße Haus zunächst nicht bekannt. Kritiker bemängeln, dass kaum unabhängig nachprüfbare medizinische Fakten zum körperlichen Zustand des US-Präsidenten veröffentlicht werden.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/26/159ff15d-8511-494e-a4ec-09c9b889f981.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C155%2C2977%2C1675"
+        },
         {
           "title": "Krieg in Nahost: Syrien: Reste von Assads geheimen Chemiewaffen gefunden",
           "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-syrien-assad-chemiewaffen-reste-buergerkrieg-uebergangsregierung-li.3487408",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/26/a3d8da49-eaa0-4e11-8111-016cff5e3b28.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3840%2C2160"
-        },
-        {
-          "title": "Basketball: Fußball-WM? In New York dreht sich alles um die Knicks",
-          "url": "https://www.sueddeutsche.de/sport/new-york-knicks-jalen-brunson-basketball-nba-finalserie-li.3489027",
-          "summary": "Die New York Knicks stehen im Finale um die NBA-Meisterschaft – und sind dank der One-Man-Show von Jalen Brunson so nah dran wie lange nicht, ihre legendäre Durststrecke zu beenden.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/26/56d7cfee-5585-41d4-bddd-e5e48dc7d0d9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=91%2C0%2C3636%2C2045"
         }
       ]
     }
