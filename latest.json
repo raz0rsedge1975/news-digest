@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-26T10:00:09.663Z",
-  "timestamp": "26.5.2026, 12:00:09",
+  "generated": "2026-05-26T14:00:09.747Z",
+  "timestamp": "26.5.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Künstliche Intelligenz: So gewinnt Deutschland die KI-Revolution",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kuenstliche-intelligenz-so-gewinnt-deutschland-die-ki-revolution-200863936.html",
-          "summary": "Es gibt keinen Artenschutz für natürliche Intelligenz. Die Arbeitswelt wird sich deshalb radikal wandeln. Deutschland hat alles, um der große Gewinner zu werden.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/bec929fd9f9d/w7116h3718x0y509o/202507/43601.0.1148599273/blick-aus-einem-frankfurter.webp"
-        },
-        {
-          "title": "A&O-Shearman-Manager: „Mit der KI brauchen wir nicht weniger Anwälte – wir brauchen andere Anwälte“",
-          "url": "https://www.faz.net/premium/digitalwirtschaft/kuenstliche-intelligenz/ki-und-kanzleien-wir-brauchen-nicht-weniger-anwaelte-sondern-andere-accg-200846388.html",
-          "summary": "Wolf Bussian, Managing Partner Deutschland von A&O Shearman, über die Folgen Künstlicher Intelligenz für das Geschäftsmodell der Großkanzleien, neue Wettbewerber und die Frage, warum er trotz Effizienzsprung nicht weniger Anwälte braucht.",
+          "title": "Techkonzerne: Der große Streit im Silicon Valley",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/techkonzerne-der-grosse-streit-im-silicon-valley-200855545.html",
+          "summary": "Verschwörung? Die amerikanische Techbranche ist so zerstritten wie nie zuvor. Manche Konflikte sind ideologisch, andere sehr persönlich.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/811ab40c25dd/w3543h1851x0y256o/202605/430247d0-7923-4af9-a1cc-c9e3f06ed0c8/die-spitzenjuristen-mit-13.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f9c05e0e9570/w5000h2612x0y269o/202604/43601.0.2034594799/4360102034594799.webp"
         },
         {
-          "title": "Singapur und die KI: „Das Tempo des Wandels wird schneller sein als alles, was wir bisher erlebt haben“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/singapur-und-die-angst-vor-kuenstlicher-intelligenz-200854193.html",
-          "summary": "Nirgendwo scheint der Wohlstand vieler so sehr von Künstlicher Intelligenz bedroht wie im wirtschaftsliberalen Hightech-Staat Singapur. Mit Milliarden Dollar will die Regierung nun Massenarbeitslosigkeit verhindern – und zahlt erstmals auch Arbeitslosenhilfe.",
+          "title": "Business-Ticker: Open-AI-Chef Altman korrigiert sich: KI führt nicht zur „Job-Apokalypse“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-chef-altman-korrigiert-sich-ki-fuehrt-nicht-zur-job-apokalypse-faz-200452404.html",
+          "summary": "Bund darf bei Stromnetzbetreiber Tennet einsteigen +++ Exporterwartungen schlecht wie seit über einem Jahr nicht mehr +++ FMC beschließt abermals Aktienrückkäufe +++ Neuigkeiten im Unternehmen-Liveblog.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/895bc302910f/w5000h2612x0y621o/202605/43601.0.2107492726/in-singapurs-buerotuermen-geht.webp"
+          "image": "https://media0.faz.net/image/w1200h627/490ae9d842b2/w4744h2478x0y381o/202605/43601.0.2105505504/aendert-seine-kommunikation.webp"
+        },
+        {
+          "title": "Bilanz des Irankriegs: Iran traf mehr, als Amerika zugibt",
+          "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-iran-traf-mehr-als-trumps-usa-zugeben-accg-200858554.html",
+          "summary": "Im Kampf gegen das mächtigste Militär der Welt gelangen Iran einige überraschende Erfolge. Das liegt wohl auch an Lücken in der amerikanischen Flugabwehr.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/fb8b380e3ed2/w1536h802x0y39o/202604/43601.0.2006841720/ein-getroffenes-amerikanisches.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Nato: USA wollen militärische Beiträge für Europas Sicherheit kürzen",
+          "title": "SpaceX: Elon Musk plant den größten Börsengang aller Zeiten - Der Überirdische",
+          "url": "https://www.spiegel.de/wirtschaft/spacex-elon-musk-plant-den-groessten-boersengang-aller-zeiten-a-915c628c-cbfd-47de-9ce9-a6bda209efaf#ref=rss",
+          "summary": "Elon Musk plant mit seiner Weltraumfirma SpaceX den größten Börsengang der Geschichte. Der US-Milliardär will das All erobern, ganzen Nationen droht eine gefährliche Abhängigkeit.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ef3b4a13-0fba-4964-a5d4-3bff48488c13_w1200_r1.778_fpx53_fpy48.jpg"
+        },
+        {
+          "title": "Ukraine-Krieg: Deutschland bestellt russischen Botschafter ein",
+          "url": "https://www.spiegel.de/ausland/russland-droht-diplomaten-in-kyjiw-nun-bestellt-die-eu-den-russischen-gesandten-ein-a-9aca78bf-d4a2-4250-9f21-9f7e0e425739#ref=rss",
+          "summary": "Seit Tagen fliegt Russland massive Luftangriffe gegen die Ukraine, in der Hauptstadt stehen die Rauchschwaden. Nun reagiert nicht nur die EU, sondern auch das Auswärtige Amt scharf.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/1b21de57-c57a-441f-b6d3-c7dda52f921b_w1200_r1.778_fpx45_fpy56.jpg"
+        },
+        {
+          "title": "Nato: USA wollen militärische Beiträge für das Bündnis deutlich reduzieren",
           "url": "https://www.spiegel.de/politik/deutschland/nato-usa-wollen-militaerische-beitraege-fuer-europas-sicherheit-kuerzen-a-98cdf71e-c6c6-4c1d-bee7-180d4a6592a3#ref=rss",
           "summary": "Die US-Regierung will nach SPIEGEL-Informationen erheblich weniger Waffensysteme und Soldaten für die Nato bereithalten. Washington erhöht damit den Druck: Die entstehenden Lücken müssen die Europäer schnell schließen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/6f0fd327-4afa-4dc5-b17f-59aab1dea78c_w1200_r1.778_fpx49_fpy22.jpg"
-        },
-        {
-          "title": "Türkei: Polizei nimmt Bürgermeister der türkischen Opposition fest",
-          "url": "https://www.spiegel.de/ausland/tuerkei-polizei-nimmt-buergermeister-der-tuerkischen-opposition-fest-a-9e5ff140-6d90-4d66-bbb5-66040d821a92#ref=rss",
-          "summary": "Ein Gericht in der Türkei hat den Vorsitzenden der größten Opposionspartei Özgür Özel abgesetzt. Nach heftigen Protesten eskaliert die Lage weiter. Mustafa Güney, Bürgermeister und Unterstützer Özels, wurde festgenommen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5e79871f-33ec-4876-ad4f-5566013f10a3_w1200_r1.778_fpx33.34_fpy50.jpg"
-        },
-        {
-          "title": "Iran: Zensiertes Internet soll nach US-Angriff wieder freigegeben werden",
-          "url": "https://www.spiegel.de/ausland/iran-masoud-pezeshkian-will-zensiertes-internet-wieder-freigeben-a-2e421bf6-8759-431d-9cd5-7726cb447f96#ref=rss",
-          "summary": "Seit knapp drei Monaten haben die Menschen in Iran keinen Zugang zum weltweiten Internet – angeblich aus Sicherheitsgründen aufgrund des US-Angriffs. Nun soll die Zensur zeitnah enden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/121cdaff-db00-462d-9fad-703782961785_w1200_r1.778_fpx51.74_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wie die Fußballproduktion Frauen in Pakistan hilft",
-          "url": "https://www.tagesschau.de/ausland/asien/pakistan-fussballproduktion-100.html",
-          "summary": "Die pakistanische Stadt Sialkot gilt als Hauptstadt der Fußballproduktion. 70 Prozent aller handgenähten Fußbälle weltweit werden hier gefertigt - auch der WM-Ball. Davon profitieren vor allem pakistanische Frauen. Von Lena Bodewein.",
+          "title": "Viele offene Fragen bei Verhandlungen zwischen USA und Iran",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-konflikt-verhandlungen-waffenruhe-100.html",
+          "summary": "Es sind Verhandlungen mit vielen offenen Fragen: Die Knackpunkte im Konflikt zwischen den USA und Iran sind nur schwer lösbar. Und die neuen Angriffe des US-Militärs auf den Iran könnten ein weiteres Hindernis sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a614144a-a739-4e97-a02d-3ab561972ca6/AAABnXNOyZQ/AAABnSSvrFg/16x9-big/fussball-wm-2026-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/020b9f90-8fbd-4660-8bfa-13008742c979/AAABnmQ21jA/AAABnSSvrFg/16x9-big/boote-hormus-102.jpg?width=1280"
         },
         {
-          "title": "Rund ein Fünftel der Deutschen raucht - Zahl der jungen Raucher steigt",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/gesundheit-rauchen-weltnichtrauchertag-100.html",
-          "summary": "Etwa ein Fünftel der Deutschen raucht mindestens gelegentlich. Besonders hoch ist der Anteil in der Gruppe der 40- bis 44-Jährigen. Aber auch die Jüngeren greifen wieder etwas häufiger zur Zigarette.",
+          "title": "Staatsanwaltschaft ermittelt gegen Ulmen wegen häuslicher Gewalt",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/ermittlungen-ulmen-haeusliche-gewalt-100.html",
+          "summary": "Die Staatsanwaltschaft Potsdam ermittelt gegen Ulmen wegen des Verdachts der Körperverletzung im Rahmen häuslicher Gewalt. Die Behörde wurde zuständig, weil Fernandes und Ulmen dort gewohnt hatten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cfed1214-051c-4590-b072-305d61437b9c/AAABnmNLUc0/AAABnSSvrFg/16x9-big/rauchen-182.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/97aebec1-3beb-43f2-bdcd-8cc60511841f/AAABnmPuG1A/AAABnSSvrFg/16x9-big/ulmen-106.jpg?width=1280"
         },
         {
-          "title": "Acht Prozent der Flüge 2025 waren innerhalb von Deutschland",
-          "url": "https://www.tagesschau.de/wirtschaft/fluege-kurzstrecken-inlandsflug-100.html",
-          "summary": "Innerdeutsche Flüge sind aus Klimaschutzgründen und mit Blick auf einen möglichen Treibstoffmangel umstritten. Im vergangenen Jahr gab es rund 120. 000 Inlandsflüge - Tendenz sinkend.",
+          "title": "Erste EZB-Zinserhöhung naht",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-zinserwartung-ezb-juni-100.html",
+          "summary": "Der Ölpreisschock infolge des Iran-Krieges hat die Währungshüter der EZB alarmiert. Eine Zinserhöhung im Juni wird immer wahrscheinlicher. Der Aktienmarkt zeigt sich bisher recht gelassen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a673f4f6-0a7d-4f72-abfb-b4844595193b/AAABnmM890g/AAABnSSvrFg/16x9-big/flugverkehr-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7e0ebef9-5a64-4072-97e6-2500ff406c69/AAABmydCjMc/AAABnSSvrFg/16x9-big/isabel-schnabel-106.jpg?width=1280"
         }
       ]
     },
@@ -93,42 +93,34 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Eskalation geht weiter: US-Angriffe auf Iran trotz laufender Verhandlungen",
-          "url": "https://www.telepolis.de/article/Eskalation-geht-weiter-US-Angriffe-auf-Iran-trotz-laufender-Verhandlungen-11306218.html",
-          "summary": "Während Irans Unterhändler in Katar über ein Abkommen verhandeln, greifen US-Streitkräfte erneut an. Teheran schoss daraufhin eine US-Drohne ab. Ein Überblick.",
+          "title": "Batterie-Test: 1.300 Stunden stabile Leistung erreicht",
+          "url": "https://www.telepolis.de/article/Batterie-Test-1-300-Stunden-stabile-Leistung-erreicht-11306545.html",
+          "summary": "Japanische Forscher lösen ein jahrzehntealtes Problem – und machen aus dem größten Feind der Batterie ihren stärksten Verbündeten.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/6/1/7/shutterstock_2354940233-fdaed96fe8fd7e24.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/7/8/5/shutterstock_1515110915-f48eb765364a2114.jpg"
         },
         {
-          "title": "Closed-end Funds: Bis zu 10 Prozent Ertrag für die Altersvorsorge",
-          "url": "https://www.telepolis.de/article/Closed-end-Funds-Bis-zu-10-Prozent-Ertrag-fuer-die-Altersvorsorge-11306180.html",
-          "summary": "In den USA schütten manche Fonds seit über 100 Jahren verlässlich Erträge aus – in Deutschland kennt sie kaum jemand.",
+          "title": "Fußball-WM 2026: Die Sender haben die Rechte – TikTok hat die Macht",
+          "url": "https://www.telepolis.de/article/Fussball-WM-2026-Die-Sender-haben-die-Rechte-TikTok-hat-die-Macht-11306424.html",
+          "summary": "Während Fernsehsender Milliarden investieren, bestimmen Creator, Algorithmen und Kurzvideos darüber, wie junge Menschen das Turnier erleben.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/5/9/7/shutterstock_2742858553-9f53ce6c87c925e0.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/7/2/2/master_Fussball-d51a5fe9b177bc2e.jpg"
         },
         {
-          "title": "Deutschland: 100.000 Regeln – und niemand fühlt sich frei",
-          "url": "https://www.telepolis.de/article/Deutschland-100-000-Regeln-und-niemand-fuehlt-sich-frei-11305862.html",
-          "summary": "Immer neue Regeln sollen Konflikte lösen – und machen Demokratie zugleich komplizierter. Warum Freiheit und Gesetzgebung neu verhandelt werden müssen.",
+          "title": "Taiwan und die USA: Rüstungskooperation im Spannungsfeld",
+          "url": "https://www.telepolis.de/article/Taiwan-und-die-USA-Ruestungskooperation-im-Spannungsfeld-11306414.html",
+          "summary": "Die USA pausieren einen Waffendeal mit Taipeh – und schicken eine Rüstungsdelegation auf die Insel. Was steckt hinter den widersprüchlichen Signalen?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/4/3/6/master_Rieg-2a29c807b0ded06a.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/7/1/7/shutterstock_2188560593-b8317a7db2aa511f.jpg"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
-        {
-          "title": "Unkontaktierte Völker: „Offensichtlich gibt das Klicks“",
-          "url": "https://www.sueddeutsche.de/panorama/north-sentinel-unkontaktierte-voelker-indien-youtuber-coladose-li.3472648",
-          "summary": "2025 fuhr der Youtuber Mishka Polyakov zur Insel des isolierten Volks der Sentinelesen und hinterließ eine Coladose. Dafür musste er ins Gefängnis. Inzwischen ist er wieder unterwegs. Welche Bedrohung geht von Leuten wie ihm aus?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/04/04/e29aeb5d-b8fe-4287-bdf6-afa4e0fdfafe.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C104%2C2500%2C1406"
-        },
         {
           "title": "Krieg in Nahost: Chamenei: Kein sicherer Hafen mehr in der Region für die USA",
           "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-usa-hormus-angriffe-li.3487408",
@@ -138,12 +130,20 @@
           "image": "https://www.sueddeutsche.de/2026/05/26/7f8a4614-cf31-4b38-b66f-526c2aac5b72.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Aufstieg des SC Paderborn: Die Talente-Werkstatt ist zurück",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-relegation-wolfsburg-paderborn-sieg-talente-li.3489159",
-          "summary": "Seit Jahren bringt der SC Paderborn Trainer hervor, beim dritten Bundesliga-Aufstieg ist auch die Mannschaft besonders jung. Die finanziellen Möglichkeiten sind größer als zuvor, um erstmals die Klasse zu halten.",
+          "title": "Staudammunglück in Brasilien: War der TÜV Süd mitschuldig an der Katastrophe?",
+          "url": "https://www.sueddeutsche.de/politik/brasilien-staudamm-katastrophe-klage-tuev-sued-li.3489158",
+          "summary": "In München geht nach langer Pause ein Prozess gegen den deutschen Konzern weiter. Hinterbliebene von Opfern eines riesigen Umweltunglücks in Brasilien fordern Schadenersatz. Doch auch die deutsche Justiz steht in der Kritik.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/26/533fdf73-0b13-4ec7-854d-a02ece0a6557.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C169%2C3254%2C1830"
+          "image": "https://www.sueddeutsche.de/2026/05/26/9a3c52cb-e156-480c-8f40-d3a36599074f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C242%2C4000%2C2250"
+        },
+        {
+          "title": "Eishockey: Deutschland verpasst das WM-Viertelfinale",
+          "url": "https://www.sueddeutsche.de/sport/eishockey-wm-nationalmannschaft-aus-viertelfinale-bundestrainer-kreis-li.3489211",
+          "summary": "Wie schon im vergangenen Jahr scheitert das DEB-Team in der Vorrunde der Weltmeisterschaft. Ein Jahr vor der Heim-WM übt Kapitän Seider deutliche Selbstkritik, auch an Bundestrainer Kreis mehren sich die Zweifel.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/26/d53eb591-fc8e-4a9b-8d3b-270a566b2819.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=73%2C0%2C3306%2C1860"
         }
       ]
     }
