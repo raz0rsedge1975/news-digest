@@ -1,39 +1,47 @@
 {
-  "generated": "2026-05-27T02:00:08.357Z",
-  "timestamp": "27.5.2026, 04:00:08",
+  "generated": "2026-05-27T06:00:10.105Z",
+  "timestamp": "27.5.2026, 08:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Küchenschaben-Volkspartei: Indiens Jugend erklärt eine Kakerlake zum Anführer",
-          "url": "https://www.faz.net/aktuell/politik/ausland/indien-kakerlake-wird-zum-symbol-einer-gen-z-bewegung-200859084.html",
-          "summary": "In Indien hat ein Oberster Richter junge Arbeitslose mit Küchenschaben gleichgesetzt. Die Generation Z lässt das nicht auf sich sitzen.",
+          "title": "Privates Vermögen: Zahl der Superreichen in Deutschland steigt stark",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/zahl-der-superreichen-in-deutschland-steigt-stark-accg-200870926.html",
+          "summary": "Multimillionäre besitzen die Mehrheit des Finanzvermögens. Warum sich der Wohlstand bei den Reichen immer weiter ballt – und was den Vermögensaufbau in der Breite der Gesellschaft dämpft.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dfd72b1210ad/w5452h2848x1805y1718o/202605/43601.0.2149777966/junge-inder-hier-bewerber-fuer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/8c0daf9c2323/w6000h3135x0y276o/202106/43600.0.217730997/eine-frau-steht-vor-ihrem.webp"
         },
         {
-          "title": "Wachstum ohne Jobs: Indiens Akademiker arbeiten als Lieferfahrer und leben wie im Slum",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/indiens-akademiker-arbeiten-als-lieferfahrer-und-leben-wie-im-slum-200868689.html",
-          "summary": "In der Ölkrise geht Indiens Aufstieg der Treibstoff aus, warnt Regierungschef Modi. Doch für das Heer an Uniabsolventen lief der Wirtschaftsmotor schon zuvor nicht schnell genug.",
+          "title": "Wohlstandsgefälle: Wie viel ärmer ist Europa wirklich?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/europa-vs-usa-wie-arm-ist-europa-wirklich-accg-200843469.html",
+          "summary": "Deutschland und Europa haben schon glorreichere Zeiten erlebt. Eine Debatte unter Ökonomen zeigt: Der Abstand zu Amerika ist größer, als viele Europäer wahrhaben wollen. Oder etwa nicht?",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0388f4a409fb/w4721h2466x991y340o/202605/43601.0.2120079354/von-indiens-aufstieg.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/a07dbae49edd/w5000h2612x0y1035o/202605/43601.0.2119466064/heruntergekommen-gulfport-in.webp"
         },
         {
-          "title": "Bilanz des Irankriegs: Iran traf mehr, als Amerika zugibt",
-          "url": "https://www.faz.net/aktuell/politik/ausland/irankrieg-iran-traf-mehr-als-trumps-usa-zugeben-accg-200858554.html",
-          "summary": "Im Kampf gegen das mächtigste Militär der Welt gelangen Iran einige überraschende Erfolge. Das liegt wohl auch an Lücken in der amerikanischen Flugabwehr.",
+          "title": "Vermögensaufbau: Reich werden mit den besten Tipps der Geschichte",
+          "url": "https://www.faz.net/aktuell/finanzen/reich-werden-mit-den-besten-tipps-der-geschichte-accg-200813562.html",
+          "summary": "Ein Historiker hat die vergangenen 300 Jahre nach den besten Strategien durchsucht. Das Ergebnis ist verblüffend.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fb8b380e3ed2/w1536h802x0y39o/202604/43601.0.2006841720/ein-getroffenes-amerikanisches.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/bba2a75019d1/w4253h2222x305y630o/202605/78173cd8-4a05-11f1-bb40-ba1c78b1c919/george-washington-hat-reich.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Vermögensverteilung in Deutschland: Zahl der Superreichen steigt deutlich",
+          "url": "https://www.spiegel.de/wirtschaft/vermoegensverteilung-in-deutschland-zahl-der-superreichen-steigt-deutlich-a-3a9dade3-f04d-45d6-ac8d-ea28d9d2421e#ref=rss",
+          "summary": "Das Geld liegt auf Konten, steckt in Aktien oder Pensionen: Mittlerweile haben 5000 Deutsche mehr als 100 Millionen Euro Finanzvermögen. Pro Person. Die neuen Zahlen dürften auch die Steuerdebatte der Koalition befeuern.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/188a2c8b-32d3-40f6-80c4-fc407a262553_w1200_r1.778_fpx65.4_fpy50.jpg"
+        },
         {
           "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
           "url": "https://www.spiegel.de/geschichte/nsdap-archiv-finden-sie-heraus-was-ihre-familie-unter-hitler-getan-hat-a-4b37a614-a790-4798-92e2-be6a921da384#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx49_fpy50.png"
         },
         {
-          "title": "Republikaner in South Carolina verweigern Trump auch im zweiten Anlauf den Gehorsam",
-          "url": "https://www.spiegel.de/ausland/republikaner-in-south-carolina-verweigern-trump-auch-im-zweiten-anlauf-den-gehorsam-a-ce793d82-4d23-44fb-b7d5-e9d621f4e250#ref=rss",
-          "summary": "Die Ansage aus der Hauptstadt war unmissverständlich: Auch South Carolina soll Wahlkreise so zuschneiden, dass Republikaner gewinnen. Doch erneut gibt es Widerstand in den eigenen Reihen – und nun ist der Plan vom Tisch.",
+          "title": "News: Gerüchte um Friedrich Merz, Markus Söder wackelt, Urteil gegen Daniela Klette",
+          "url": "https://www.spiegel.de/politik/deutschland/news-geruechte-um-friedrich-merz-markus-soeder-wackelt-urteil-gegen-daniela-klette-a-30330bff-20a4-4db6-9f42-9b18a62b920b#ref=rss",
+          "summary": "Heute geht es um die Frage, wie viele Fehler ein Bundeskanzler machen darf. Wie ernst die Lage für Markus Söder ist. Und darum, welches Urteil Daniela Klette zu erwarten hat. Das ist die Lage am Mittwochmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d75012b8-e6fb-476b-bc52-dfcf3f9c8e04_w1200_r1.778_fpx46_fpy32.jpg"
-        },
-        {
-          "title": "Gesundheitscheck für US-Staatsoberhäupter: Wie frühere US-Präsidenten ihre Krankheiten verheimlichten",
-          "url": "https://www.spiegel.de/geschichte/gesundheitscheck-fuer-us-staatsoberhaeupter-wie-fruehere-us-praesidenten-ihre-krankheiten-verheimlichten-a-1057c618-a8bb-4668-9066-548c959fbc62#ref=rss",
-          "summary": "In der Vergangenheit flunkerten US-Präsidenten über ihren Gesundheitszustand, was das Zeug hielt. Donald Trump bleibt dieser Tradition treu.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ffe81120-e7b7-4504-a927-9f938215d551_w1200_r1.778_fpx46.58_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Gekürzte Hilfsgelder erschweren Kampf gegen Ebola",
-          "url": "https://www.tagesschau.de/ausland/afrika/ebola-hilfsgelder-100.html",
-          "summary": "In Kongo kämpfen Ärzte und Hilfsorganisationen gegen Ebola - doch es fehlt an Nahrung, Unterkünften und medizinischer Versorgung. Gekürzte Hilfsgelder verschärfen die Lage in einem Gesundheitssystem am Limit. Von Bettina Rühl.",
+          "title": "Wirtschaftsministerin in China - Reiche mahnt fairen Wettbewerb an",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiche-china-100.html",
+          "summary": "Für Deutschland ist China Handelspartner Nummer eins. Darum will Wirtschaftsministerin Reiche bei ihrem Besuch in der Volksrepublik die Zusammenarbeit stärken. Aber dafür müssen die Bedingungen stimmen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/38081e27-e3c5-4ef5-a31c-17c8779bff55/AAABnmcjwn8/AAABnSSvrFg/16x9-big/ebola-808.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c49b2999-f865-452f-868a-f1272428b6b9/AAABnmf1JdE/AAABnSSvrFg/16x9-big/reiche-china-102.jpg?width=1280"
         },
         {
-          "title": "Mehrere Tote bei Chemie-Unglück in Fabrik in den USA",
-          "url": "https://www.tagesschau.de/ausland/amerika/tank-washington-100.html",
-          "summary": "Im Nordwesten der USA ist auf dem Gelände einer Verpackungsfirma ein Tank mit Chemikalien implodiert. Dabei sollen mehrere Menschen ums Leben gekommen sein. Der Unfall ereignete sich in der Kleinstadt Longview, im US-Bundesstaat Washington.",
+          "title": "Marktbericht: Neue Rekorde für Börsen in Asien und den USA",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-100.html",
+          "summary": "In Asien sind die Börsen mit neuen Höchstständen in die Wochenmitte gestartet. Gute Vorgaben kommen aus den USA: Dort hat der Tech-Index Nasdaq 100 erstmals die Marke von 30. 000 Punkten übersprungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c5bcf030-8ff0-41b4-9443-4f74948d7002/AAABnmcX4wk/AAABnSSvrFg/16x9-big/longview-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/cb182fed-9c3f-4c0c-b353-b76d89033c9e/AAABnOd6a-s/AAABnSSvrFg/16x9-big/nyse-450.jpg?width=1280"
         },
         {
-          "title": "Israel attackiert neuen Hamas-Chef im Gazastreifen",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-toetet-hamas-fuehrer-100.html",
-          "summary": "Israel hat den neuen Führer der Hamas im Gazastreifen, Odeh, angegriffen. Bei einem Luftangriff auf Gaza-Stadt seien mehrere Menschen getötet worden - unter ihnen könne sich auch der neue Chef der Terrororganisation befinden. Die Hamas bestätigte dies zunächst nicht.",
+          "title": "11KM-Podcast: Dammbruch in Brasilien - Welche Verantwortung trägt TÜV Süd?",
+          "url": "https://www.tagesschau.de/podcast-11km-brasilien-dammbruch-tuev-100.html",
+          "summary": "2019 überrollt nach einem Dammbruch eine Schlammlawine die Gegend um den brasilianischen Ort Brumadinho. Mindestens 270 Menschen sterben. TÜV Süd hatte den Damm als sicher eingestuft. 11KM über die Rolle des deutschen Prüfunternehmens.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9256382f-72b2-49b2-9c53-d0c411a7152b/AAABnmZcZoU/AAABnSSvrFg/16x9-big/gaza-1472.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1a068b00-6242-41ef-b138-eff8c350b159/AAABnmegMzc/AAABnSSvrFg/16x9-big/podcast-11km-3608.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Glasfaser-Drohnen zeigen die Grenzen moderner Waffentechnik auf",
+          "url": "https://www.telepolis.de/article/Glasfaser-Drohnen-zeigen-die-Grenzen-moderner-Waffentechnik-auf-11306578.html",
+          "summary": "Warum der Krieg in der Ukraine erhebliche Zweifel an der Strategie weckt, sich zunehmend auf unbemannte militärische Ausrüstung zu verlassen. Ein Gastbeitrag.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/8/0/2/shutterstock_2606435345-866fab03f21802a2.jpg"
+        },
         {
           "title": "Jangbogo-N: Südkoreas Einstieg in die Atom-U-Boot-Technik",
           "url": "https://www.telepolis.de/article/Jangbogo-N-Suedkoreas-Einstieg-in-die-Atom-U-Boot-Technik-11307269.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/9/1/8/Jaxa_Hyperschall-cebb1436d88d8868-aad52fd71f416a33.webp"
-        },
-        {
-          "title": "Batterie-Test: 1.300 Stunden stabile Leistung erreicht",
-          "url": "https://www.telepolis.de/article/Batterie-Test-1-300-Stunden-stabile-Leistung-erreicht-11306545.html",
-          "summary": "Japanische Forscher lösen ein jahrzehntealtes Problem – und machen aus dem größten Feind der Batterie ihren stärksten Verbündeten.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/7/8/5/shutterstock_1515110915-f48eb765364a2114.jpg"
         }
       ]
     },
@@ -122,7 +122,15 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "„Markus Lanz“: Sigmar Gabriel kann verstehen, dass die Deutschen „stinksauer“ sind",
+          "title": "Krieg in Nahost: Iran verurteilt US-Angriffe als groben Verstoß gegen Waffenruhe",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-angriffe-usa-trump-krieg-verhandlungen-li.3487408",
+          "summary": "Das iranische Außenministerium droht mit Vergeltung und erklärt, Teheran werde „keinen provokativen Akt unbeantwortet lassen“. Die laufenden Friedensverhandlungen dürfte das nicht leichter machen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/23/d0b961dc-6a67-45fa-9960-4c4e4f9cecf4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
+        },
+        {
+          "title": "„Markus Lanz“: Gabriel kann verstehen, dass die Deutschen „stinksauer“ sind",
           "url": "https://www.sueddeutsche.de/medien/markus-lanz-sigmar-gabriel-ukraine-spd-iran-li.3489376",
           "summary": "Ob Iran, Ukraine oder deutsche Krise: Der ehemalige SPD-Vorsitzende verteilt bei „Markus Lanz“ großzügig Ratschläge. Aber Vorsicht: Widerspruch mag er nicht.",
           "source": "SZ",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/26/159ff15d-8511-494e-a4ec-09c9b889f981.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C155%2C2977%2C1675"
-        },
-        {
-          "title": "Krieg in Nahost: Syrien: Reste von Assads geheimen Chemiewaffen gefunden",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-liveblog-nahost-syrien-assad-chemiewaffen-reste-buergerkrieg-uebergangsregierung-li.3487408",
-          "summary": "Mehr als ein Dutzend hochrangige Militärs, Politiker und technische Experten wurden nach Angaben der syrischen Übergangsregierung festgenommen. Assad hatte im Bürgerkrieg chemische Kampfstoffe gegen die eigene Bevölkerung eingesetzt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2024/11/30/b836229f-23c0-431b-8977-8b388e6321be.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
         }
       ]
     }
