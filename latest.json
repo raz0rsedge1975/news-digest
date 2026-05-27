@@ -1,25 +1,17 @@
 {
-  "generated": "2026-05-27T14:00:25.865Z",
-  "timestamp": "27.5.2026, 16:00:25",
+  "generated": "2026-05-27T18:00:09.822Z",
+  "timestamp": "27.5.2026, 20:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Italo in Deutschland: Die Deutsche Bahn braucht wahre Wettbewerber",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/italo-die-deutsche-bahn-braucht-wahre-wettbewerber-200868534.html",
-          "summary": "Der private italienische Zugbetreiber Italo will auf deutschen Gleisen fahren, doch die DB erklärt die Trassen als belegt. Dabei müsste die Devise gelten: mehr Konkurrenz wagen.",
+          "title": "Politiker und Kinder: Vorsicht, Schulbesuch!",
+          "url": "https://www.faz.net/aktuell/politik/inland/warum-schulbesuche-fuer-politiker-schwierig-werden-koennen-200850116.html",
+          "summary": "Öffentlich vor Kindern und Jugendlichen zu sprechen, das kann für Politiker schnell gefährlich werden. Warum ist das so?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/bd4bff36aaed/w2115h1105x0y313o/201112/431.0.49111728/ein-italo-zug-auf.webp"
-        },
-        {
-          "title": "Wettbewerb auf der Schiene: Deutsche Bahn will italienischen Konkurrenten aussperren",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fernverkehr-deutsche-bahn-will-italienischen-konkurrenten-italo-aussperren-accg-200861957.html",
-          "summary": "Der Zugbetreiber Italo streitet mit dem deutschen Platzhirsch: Es geht um Milliardeninvestitionen in neue Züge und um echte Konkurrenz im Fernverkehr. Nun muss die Bundesnetzagentur entscheiden.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/218edac74ca1/w5760h3009x0y539o/202407/43601.0.482643065/italo-zuege-am-hauptbahnhof.webp"
+          "image": "https://media0.faz.net/image/w1200h627/08bb1d0a5b94/w4128h2156x0y417o/202604/43601.0.2023031331/bundeskanzler-friedrich-merz.webp"
         },
         {
           "title": "Regierung Merz: Was, wenn die Koalition zerbricht?",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/91af6ef3fa70/w4959h2591x510y975o/202604/43601.0.1997503937/die-vorsitzenden-der.webp"
+        },
+        {
+          "title": "Urteil gegen Daniela Klette: Die Schuld sieht sie noch immer beim System, ausschließlich",
+          "url": "https://www.faz.net/aktuell/politik/inland/urteil-gegen-daniela-klette-ex-raf-terroristin-sieht-schuld-beim-system-accg-200871172.html",
+          "summary": "Wegen mehrerer Raubüberfälle verurteilt das Landgericht Verden die frühere RAF-Terroristin zu 13 Jahren Haft. Der Versuch ihrer Verteidiger, den Prozess zu politisieren, ist weitgehend gescheitert.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9fcdc3840788/w2172h1134x0y109o/202605/43601.0.2153329193/winkt-ihren-unterstuetzern-zu.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Texas: Warum Donald Trump die Siegeschancen der Demokraten erhöhten haben könnte",
-          "url": "https://www.spiegel.de/ausland/texas-warum-donald-trump-die-siegeschancen-der-demokraten-erhoehten-haben-koennte-a-64b912b0-9215-49ee-8a4f-843d3c8f0834#ref=rss",
-          "summary": "Texas ist fest in Republikaner-Hand – noch. Nun hat sich Trumps MAGA-Kandidat in der eigenen Partei durchgesetzt. Der US-Präsident könnte damit die Chance der Demokraten bei den Midterms erhöht haben.",
+          "title": "So deckten die Behörden die mutmaßlichen Anschlagspläne gegen Josef Schuster und Volker Beck auf",
+          "url": "https://www.spiegel.de/politik/deutschland/so-deckten-die-behoerden-die-mutmasslichen-anschlaegsplaene-gegen-josef-schuster-und-volker-beck-auf-a-adbd8fa7-d3ab-442a-a7f8-eb025e493e6e#ref=rss",
+          "summary": "Er soll im Auftrag Irans Anschläge auf Josef Schuster und Volker Beck geplant haben, die Chefs des Zentralrats der Juden und der Deutsch-Israelischen Gesellschaft. Wer ist Ali S.? Die SPIEGEL-Recherche.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6119000b-8040-43d3-9b07-d365f96776a7_w1200_r1.778_fpx34_fpy43.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8ab7cb17-3740-4e5f-8df2-765a1076a02a_w643_r1.778_fpx44.95_fpy44.95.jpg"
         },
         {
-          "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
-          "url": "https://www.spiegel.de/geschichte/nsdap-archiv-finden-sie-heraus-was-ihre-familie-unter-hitler-getan-hat-a-4b37a614-a790-4798-92e2-be6a921da384#ref=rss",
-          "summary": "Der SPIEGEL hat weitere 864. 000 Mitgliedskarten der NSDAP für Sie aufbereitet, außerdem Millionen Ortsdaten mit der Nazi-Kartei verknüpft. Hier können Sie herausfinden, was Ihre Familie unter Hitler getan hat.",
+          "title": "News des Tages: Mehr Superreiche, Friedrich Merz, Lange Haft für Daniela Klette",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-mehr-superreiche-friedrich-merz-lange-haft-fuer-daniela-klette-a-f854ef06-0b5c-4773-bbd3-1545c67f4e76#ref=rss",
+          "summary": "Die Wirtschaft schwächelt, aber die Zahl der superreichen Deutschen steigt massiv. Berlin tuschelt über einen »Einwechslungskanzler« Wüst. Und Daniela Klette muss 13 Jahre in Haft. Das ist die Lage am Mittwochabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/40755c81-979d-4d99-a472-2258517838b3_w1200_r1.778_fpx49_fpy50.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Demokratie: Wenn Sie im Bundestag wären – wie würden Sie entscheiden?",
-          "url": "https://www.spiegel.de/politik/demokratie-wenn-sie-im-bundestag-waeren-wie-wuerden-sie-entscheiden-a-c50ad1c7-93db-4054-a040-ca5e59fd4f24#ref=rss",
-          "summary": "Migration, Soziales, Finanzen: Die Merz-Regierung will wichtige Gesetze beschließen. Wo stehen Sie politisch? Hier können Sie abstimmen.",
+          "title": "Pistorius plant Rückkehr der Reservepflicht",
+          "url": "https://www.spiegel.de/politik/deutschland/pistorius-plant-rueckkehr-der-reservepflicht-a-d224d737-c789-4c03-9495-1c42f1af76aa#ref=rss",
+          "summary": "Das Bundesverteidigungsministerium will Reservisten per Gesetz künftig zu Übungen verpflichten können. Bisher waren diese freiwillig. Ziel ist es, eine »verlässliche Verfügbarkeit der Reserve« herzustellen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/62a02ab7-0b2a-44e1-aa07-9b0d0a56add4_w1200_r1.778_fpx46_fpy52.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/a80bc40a-270e-4a5b-b707-1a15c4de29c9_w1200_r1.778_fpx40_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Cyberabwehr: BSI und Polizei sollen mehr Befugnisse erhalten",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/cyberabwehr-106.html",
-          "summary": "Die Bundesregierung will den Sicherheitsbehörden mehr Möglichkeiten bei der Abwehr von Cyberangriffen geben. Bundesbehörden sollen sich laut einem Kabinettsentwurf künftig nicht nur verteidigen, sondern auch Gegenangriffe starten können.",
+          "title": "FAQ: So soll der Wohnungsbau vorankommen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/wohnungsbau-gesetzentwurf-100.html",
+          "summary": "In Deutschland fehlen Schätzungen zufolge etwa 1,4 Millionen Wohnungen - und der Bau von neuen geht nur schleppend voran. Ein Gesetzentwurf soll das ändern. Ein Überblick über die Pläne des Bundeskabinetts.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d4f0a064-65a6-49cc-bd71-b814c633d9ae/AAABnmlugiQ/AAABnSSvrFg/16x9-big/cyber-polizei-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7c9d612a-32d9-45fd-a158-bdd17beb72a0/AAABnmk0F-o/AAABnSSvrFg/16x9-big/baustelle-316.jpg?width=1280"
         },
         {
-          "title": "So kann man sich vor Hackern schützen",
-          "url": "https://www.tagesschau.de/wissen/technologie/cybersicherheit-120.html",
-          "summary": "Handy, Router und Computer - Einfallstore für Hacker. Im vergangenen Jahr wurden elf Prozent der Internetnutzer in Deutschland Opfer von Cyberkriminalität. Wie kann man sich am besten gegen Angriffe wappnen? Von Stefan Zanev.",
+          "title": "Uganda schließt wegen Ebola die Grenze zur Demokratischen Republik Kongo",
+          "url": "https://www.tagesschau.de/ausland/afrika/uganda-ebola-kongo-grenze-100.html",
+          "summary": "Uganda befürchtet, dass sich das Ebolavirus von der Demokratischen Republik Kongo aus weiter verbreiten könnte. Und schließt die Grenze zum Nachbarland. Von der WHO kommt Kritik.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d641f9c9-6b76-403a-9fa5-249bf64394d4/AAABnlBCzsU/AAABnSSvrFg/16x9-big/serverschrank-kabel-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5bb5ddfa-cc14-4513-b833-c79a5246c805/AAABnmn0mAk/AAABnSSvrFg/16x9-big/fieber-thermometer-stirn-102.jpg?width=1280"
         },
         {
-          "title": "Neue Festnahme nach Messerattacke am Berliner Holocaust-Mahnmal",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/neue-festnahme-messerattacke-holocaust-mahnmal-100.html",
-          "summary": "Im Zusammenhang mit der Messerattacke am Berliner Holocaust-Mahnmal im Februar 2025 ist ein weiterer Mann festgenommen worden. Er soll den inzwischen verurteilten Angreifer zu der Tat ermutigt haben.",
+          "title": "Lina E. wird vorzeitig aus Haft entlassen",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/lina-e-haft-100.html",
+          "summary": "Vor drei Jahren war Lina E. wegen schwerer Angriffe auf Rechtsextreme verurteilt worden. Nun kommt sie vorzeitig aus der Haft. Sie habe sich glaubhaft von der Gewalt losgesagt, so ein Gutachten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f8f68eca-fb2b-48d9-9300-8bc1789b8f42/AAABnmjG5Lw/AAABnSSvrFg/16x9-big/rbb-polizeieinsatz-holocaustmahnmal-538684325-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ffde206f-9768-47ca-9450-e20610099ece/AAABnmn8AfQ/AAABnSSvrFg/16x9-big/lina-e-114.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Wer KI kritisiert, ist jetzt Extremist",
+          "url": "https://www.telepolis.de/article/Wer-KI-kritisiert-ist-jetzt-Extremist-11308872.html",
+          "summary": "US-Behörden erfinden eine neue Terror-Kategorie für Tech-Kritiker. Deutschland baut parallel die digitalen Werkzeuge für ähnliche Überwachung. Ein Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/9/9/6/3/shutterstock_1043596813-84a23b533ff7628a.jpg"
+        },
         {
           "title": "Weißer Schaum am Strand: Was Eltern an Nord- und Ostsee wissen müssen",
           "url": "https://www.telepolis.de/article/Weisser-Schaum-am-Strand-Was-Eltern-an-Nord-und-Ostsee-wissen-muessen-11308629.html",
@@ -101,20 +109,12 @@
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/9/8/4/1/shutterstock_2575815147-1d0e0711f860746a.jpg"
         },
         {
-          "title": "Uber und Lyft: 70.000 Fahrer erzwingen erste US-Gewerkschaft",
+          "title": "Uber und Lyft: Kippt das Machtgefüge der Plattformökonomie?",
           "url": "https://www.telepolis.de/article/Uber-und-Lyft-70-000-Fahrer-erzwingen-erste-US-Gewerkschaft-11308309.html",
-          "summary": "Fahrer in Massachusetts gründen die erste anerkannte Ride-Share-Gewerkschaft der USA – und setzen Uber und Lyft unter Druck.",
+          "summary": "70.000 Fahrer in Massachusetts gründen die erste anerkannte Ride-Share-Gewerkschaft der USA – und könnten damit ein Modell für die ganze Branche setzen.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/9/6/7/7/shutterstock_1385064434-b923c1f2de0cb545.jpg"
-        },
-        {
-          "title": "Nasa stellt Mondbasispläne vor – und setzt Grenzen",
-          "url": "https://www.telepolis.de/article/Nasa-stellt-Mondbasisplaene-vor-und-setzt-Grenzen-11307979.html",
-          "summary": "Mit neuen Verträgen konkretisiert die Nasa ihre Pläne für eine dauerhafte Mondpräsenz. Auch Territorialfragen spielen mit Blick auf China bereits eine Rolle.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/9/5/1/2/nhq202605260002-bbe4fd0f0c30181c.webp"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Energiewende: Solar auf dem Dach? Bitte zahlen!",
-          "url": "https://www.sueddeutsche.de/wirtschaft/stromnetz-gebuehren-solarstrom-deutschland-li.3489701",
-          "summary": "Weil immer mehr Haushalte ihren Strom selbst erzeugen, schrumpft die Zahl jener, die das Stromnetz finanzieren. Jetzt will die Bundesnetzagentur gegensteuern – und das ist erst der Anfang.",
+          "title": "Bundespolitik: Spritpreise sinken – laut ADAC aber zu langsam",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-spritpreise-benzin-li.3484192",
+          "summary": "Sinkende Ölpreise würden nur verzögert an die Kunden weitergegeben, steigende Preise dagegen unmittelbar, kritisiert der ADAC.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/27/c4e2b2d1-109f-4d10-a297-623b500728a6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C499%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/27/6066d2e3-deed-4868-a822-2f1311fbfc50.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Konjunktur: Der Aufschwung fällt aus – zum vierten Mal in Folge",
-          "url": "https://www.sueddeutsche.de/politik/konjunktur-wachstum-sachverstaendigenrat-li.3489344",
-          "summary": "Die Wirtschaftsweisen halbieren ihre Wachstumsprognose auf 0,5 Prozent. Dabei habe Deutschland die Grundlagen, um auf dem Weltmarkt wieder vorn mitzuspielen.",
+          "title": "DFB-Team: Onkel Rudi beschützt seinen Bundestrainer",
+          "url": "https://www.sueddeutsche.de/sport/nationalmannschaft-voeller-dfb-team-nagelsmann-li.3489977",
+          "summary": "„Wenn es Gegenwind gibt, bin ich ja auch noch da“: Sportdirektor Rudi Völler nutzt die Auftaktveranstaltung im WM-Trainingslager, um Julian Nagelsmann den Rücken zu stärken.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/27/635dab80-1794-4ae3-ab54-ab490ed51c1a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/27/27e866ba-26b3-40f9-8d29-77e861782b2f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C221%2C4000%2C2250"
         },
         {
-          "title": "Finanzstabilität: „Wie ein Tanz am Rande des Vulkans“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/ezb-inflation-finanzrisiken-iran-krieg-li.3487302",
-          "summary": "An den Aktienmärkten herrscht Euphorie, obwohl Inflation und Zinsen steigen. Die EZB warnt, dass Investoren die Verlustrisiken an den Börsen unterschätzen.",
+          "title": "Nachruf: Fleißiger Berserker",
+          "url": "https://www.sueddeutsche.de/medien/klaus-emmerich-gestorben-nachruf-regisseur-rote-erde-li.3489889",
+          "summary": "Der Fernseh- und Theaterregisseur Klaus Emmerich ist im Alter von 82 Jahren gestorben. Mit der Serie „Rote Erde“ schuf er eine Art Gründungsmythos des Ruhrpotts.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/04/2dfe756c-3df3-47f5-85de-4b29ea16984d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/27/fd42f5db-af45-461e-a4de-b520c2f0e4f9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C54%2C2882%2C1621"
         }
       ]
     }
