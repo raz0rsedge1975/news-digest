@@ -1,10 +1,26 @@
 {
-  "generated": "2026-05-28T14:00:09.720Z",
-  "timestamp": "28.5.2026, 16:00:09",
+  "generated": "2026-05-28T18:00:08.424Z",
+  "timestamp": "28.5.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Kritik am CSU-Chef: Söder sitzt auf einem Vulkan",
+          "url": "https://www.faz.net/aktuell/politik/inland/rumoren-in-der-csu-markus-soeder-sitzt-auf-einem-vulkan-200876834.html",
+          "summary": "Steht Bundeskanzler Merz vor der Ablösung? Söders Ambitionen muss Merz derzeit nicht fürchten. Denn der muss erst einmal um seine Ämter in Bayern kämpfen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/06d30fc850e8/w6000h3135x0y432o/202604/43bb80805e-3710-11f1-a336-9258afe83df4/hier-noch-mit-bart-aber-schon.webp"
+        },
+        {
+          "title": "Grundsatzdebatte in CSU: Söders Herrschaft und Webers Weckruf",
+          "url": "https://www.faz.net/aktuell/politik/inland/csu-theo-waigel-sieht-in-manfred-webers-brief-weckruf-200873668.html",
+          "summary": "Nach dem „Pfingstbrief“ von CSU-Vize Manfred Weber diskutiert die Partei über ihre Ausrichtung. Prominente Parteimitglieder fordern mehr Breite in der Spitze – und mehr Inhalte.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b917e27a67db/w5363h2802x0y481o/202605/43601.0.2049666485/manfred-weber-und-markus.webp"
+        },
         {
           "title": "Kanzler in Bedrängnis: Bei Wüst hört für Merz der Spaß auf",
           "url": "https://www.faz.net/aktuell/politik/inland/kanzler-merz-reagiert-scharf-auf-wuest-geruecht-accg-200875600.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/7ccf44dbfbd5/w5215h2724x0y169o/202509/43601.0.1351553025/wuest-und-merz-im-september.webp"
-        },
-        {
-          "title": "Was das Grundgesetz sagt: Drei Szenarien für einen Kanzlerwechsel",
-          "url": "https://www.faz.net/aktuell/politik/inland/kanzlerwechsel-in-der-legislaturperiode-was-das-grundgesetz-sagt-accg-200876611.html",
-          "summary": "Ein Kanzlerwechsel mitten in der Legislaturperiode ist in Deutschland möglich, aber das Grundgesetz stellt hohe Hürden. Was denkbar wäre.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f2738e5d183b/w5000h2612x0y100o/202605/43601.0.2119889364/bundeskanzler-friedrich-merz.webp"
-        },
-        {
-          "title": "Kritik an Merz: Das Ende der Konsenskultur",
-          "url": "https://www.faz.net/aktuell/politik/inland/kritik-an-friedrich-merz-das-ende-der-konsenskultur-200871379.html",
-          "summary": "Aus der Furcht vor einem „Staatsstreich“ der AfD spricht vor allem eines: Die Kompromisskultur lässt keinen echten Machtwechsel mehr zu.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1c395afc5715/w5313h2776x0y384o/202602/43601.0.1805049154/friedrich-merz-und-angela.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine-Krieg: Wie Kyjiw Russland mit KI und Drohnen ausbremst - und auf eine Wende hofft",
-          "url": "https://www.spiegel.de/ausland/ukraine-warum-kyjiw-im-fuenften-kriegsjahr-ploetzlich-wieder-hoffen-kann-a-bbe8a8f3-2e70-43c1-949a-711bfcbc1249#ref=rss",
-          "summary": "Mit Billigwaffen und revolutionärer Kriegssoftware fügt die Ukraine Russland immer schwerere Verluste zu, Kyjiw gibt sich optimistisch. Doch die unerbittliche Rekrutierung droht das Land zu zerreißen. Die SPIEGEL-Titelstory.",
+          "title": "Armedangels: Die toxische Geschichte hinter der nachhaltigen Jeans",
+          "url": "https://www.spiegel.de/kultur/armedangels-die-toxische-geschichte-hinter-der-nachhaltigen-jeans-a-41bcfbb9-f56f-412b-895f-0bbc1ff50de6#ref=rss",
+          "summary": "Armedangels steht wie kaum ein Label für verantwortungsbewusste Mode. Doch SPIEGEL-Recherchen legen nahe: Das Kölner Unternehmen lässt auf seinem Wachstumskurs reihenweise enttäuschte Mitarbeiter zurück.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1630f714-0b09-4d93-b982-cb7b243c18b6_w1200_r1.778_fpx47_fpy38.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/95ec6cf1-3a4b-4e4d-bd0d-a77774db2ed4_w1200_r1.778_fpx52_fpy49.jpg"
         },
         {
-          "title": "Ebola in der DR Kongo: Wird dieser Ausbruch der größte, den es bisher gab?",
-          "url": "https://www.spiegel.de/wissenschaft/medizin/ebola-in-der-dr-kongo-wird-dieser-ausbruch-der-groesste-den-es-bisher-gab-a-3eb36133-a0f7-49b5-91a7-1524907894b4#ref=rss",
-          "summary": "Das Ebolavirus verbreitet sich in Zentralafrika. Vor allem im Osten der Demokratischen Republik Kongo, aber auch in Uganda gibt es immer mehr Infizierte und Tote. Diese Daten verdeutlichen, warum Fachleute so besorgt sind.",
+          "title": "News des Tages: Irankrieg, Visa-Dienstleister VFS Global, Markus Söder",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-irankrieg-visa-dienstleister-vfs-global-markus-soeder-a-10f503e2-1490-4ba2-b1b4-f90c9dc7cf31#ref=rss",
+          "summary": "Die Verhandlungen zu einem möglichen Ende des Irankriegs stocken. Ein privater Dienstleister macht mit Visumsanträgen das große Geschäft. Und Markus Söder erfindet sich neu. Das ist die Lage am Donnerstagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/de423379-62dd-4c80-9884-950456414b88_w1200_r1.778_fpx55_fpy64.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "AfD: Mitarbeiter mit Bandido-Vergangenheit bekommt keinen Hausausweis im Bundestag",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-mitarbeiter-mit-bandido-vergangenheit-bekommt-keinen-hausausweis-im-bundestag-a-abf23607-e524-4b76-a01c-d1d080ab9740#ref=rss",
-          "summary": "Er war bei der verbotenen Rockergruppe Bandidos aktiv und gilt als gewaltbereit. Deshalb bekommt ein Mitarbeiter der AfD aus Nordrhein-Westfalen keine Zugangserlaubnis für den Bundestag.",
+          "title": "Heizungsgesetz: Verbände fürchten drastische Folgen für Mieter durch Wärmepumpen",
+          "url": "https://www.spiegel.de/wirtschaft/service/heizungsgesetz-verbaende-fuerchten-drastische-folgen-fuer-mieter-durch-waermepumpen-a-d0d2ab97-124b-4632-ab2c-4289e3ec19e3#ref=rss",
+          "summary": "Im Streit über das neue Heizungsgesetz warnen Verbände vor drastischen Folgen für Mieter und Eigentümer. Sie befürchten, dass zahlreiche Wohnungen künftig nicht mehr vermietet werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7b2ed621-92e7-4e11-b056-c814d35211ee_w1200_r1.778_fpx44_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b4cd1634-c696-40f2-9de7-1a0754f715dc_w1200_r1.778_fpx33.34_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "EU ernennt vorerst keinen Russland-Ukraine-Vermittler",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-treffen-zypern-100.html",
-          "summary": "Der ukrainische Präsident Selenskyj zeigt sich offen für eine wichtige Rolle der EU bei Friedensgesprächen mit Russland. Einen Chefvermittler wird es aber vorerst nicht geben. Die Außenbeauftragte Kallas warnte vor einer russischen Falle.",
+          "title": "Studie zu Aufholprozess: Abstand zum Westen schrumpft nur langsam",
+          "url": "https://www.tagesschau.de/wirtschaft/ostdeutschland-wirtschaft-wettbewerbsreport-100.html",
+          "summary": "Das Wachstum in den neuen Bundesländern hat an Schwung verloren. Der Abstand zum Westen schrumpfe nur langsam, mahnen die Autoren einer Studie - und fordern einen Blickwechsel. Von Dietrich Karl Mäurer",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/24f240f7-12d7-4770-a842-2120e244a646/AAABnm6mU2k/AAABnSSvrFg/16x9-big/kallas-176.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3270717b-c51c-48aa-a901-071ce840bcc0/AAABnm6gKgI/AAABnSSvrFg/16x9-big/stahlindustrie-120.jpg?width=1280"
         },
         {
-          "title": "Tag der Frauengesundheit: Stärkerer Fokus auf Frauengesundheit gefordert",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/geschlechtersensible-medizin-warken-100.html",
-          "summary": "Noch immer werden Krankheiten und Medikamente überwiegend an Männern erforscht und getestet. Politiker, Ärzte und Krankenkassen fordern, dass die medizinischen Belange von Frauen endlich mehr berücksichtigt werden.",
+          "title": "Marktbericht: DAX ganz im Bann des Iran-Konflikts",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-ki-100.html",
+          "summary": "Die Hängepartie am Persischen Golf geht weiter. Die Anleger blicken extrem nervös auf die Lage in Nahost. Der DAX ringt mit der Marke von 25. 000 Punkten - und beendet den Handelstag leicht im Minus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3bf5e295-d522-4881-86e9-5fa978bc57f3/AAABnm5o2Bc/AAABnSSvrFg/16x9-big/arztpraxis-150.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6c27bbdd-9480-4b9a-82b9-1f3c2346ad51/AAABnObPiLk/AAABnSSvrFg/16x9-big/boerse-496.jpg?width=1280"
         },
         {
-          "title": "Täterinnen im Fall Luise müssen 144.000 Euro zahlen",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schmerzensgeld-freudenberg-100.html",
-          "summary": "Das Landgericht Koblenz hat entschieden, dass die beiden minderjährigen Täterinnen im Fall der getöteten Luise aus Freudenberg 144. 000 Euro zahlen müssen. Die Summe setzt sich aus Schmerzensgeld, Anwalts- und Beerdigungskosten zusammen.",
+          "title": "Krieg im Nahen Osten: Israel greift wieder Vororte von Beirut an",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-beirut-100.html",
+          "summary": "Israels Armee hat erstmals seit Wochen die libanesische Hauptstadt Beirut angegriffen. Ziel soll ein Hisbollah-naher Milizionär gewesen sein. Bei Luftangriffen auf den Süden des Libanon starben zahlreiche Menschen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/adf62d17-4bae-46db-8a20-b64085e21e81/AAABnm7MrgQ/AAABnSSvrFg/16x9-big/wdr-taeterinnen-im-fall-luise-muessen-144-400-euro-bezahlen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ae76190b-c10f-4b61-a4ab-95690dc231c6/AAABnm8WlOI/AAABnSSvrFg/16x9-big/zerstoerte-strasse-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Ukraine: Hälfte der Geberländer steigt aus Prager Initiative aus",
+          "url": "https://www.telepolis.de/article/Ukraine-Haelfte-der-Geberlaender-steigt-aus-Prager-Initiative-aus-11310410.html",
+          "summary": "Das Programm sicherte der Ukraine die Hälfte ihrer Artilleriemunition – doch warum steigen jetzt neun Geberländer gleichzeitig aus?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/7/4/7/shutterstock_1937671666-78e0b9c5eab6b38f.jpg"
+        },
         {
           "title": "Superfood für Bienen: Entscheidet es über unsere Ernährung?",
           "url": "https://www.telepolis.de/article/Superfood-fuer-Bienen-Entscheidet-es-ueber-unsere-Ernaehrung-11310195.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/5/5/5/master_schwimm-20150ae1a3bef512.jpg"
-        },
-        {
-          "title": "Nichts ist gefährlicher als ein in die Enge getriebener Netanjahu",
-          "url": "https://www.telepolis.de/article/Nichts-ist-gefaehrlicher-als-ein-in-die-Enge-getriebener-Netanjahu-11309709.html",
-          "summary": "Während Netanjahu unter Druck steht, wird der Libanon zum Schauplatz israelischer Machtspiele. Warum ihm ein Iran-Deal gefährlich werden kann. Ein Gastbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/3/8/7/shutterstock_2682994285-356d2e53ff255f1c.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Tickets für die Fußball-WM: Die Fifa ist wieder ein Fall für die Staatsanwaltschaft",
-          "url": "https://www.sueddeutsche.de/sport/wm-tickets-preise-fifa-us-justiz-ermittlungen-li.3490272",
-          "summary": "Seit Monaten beschweren sich Fans über die hohen Preise und die intransparente Zuteilung der WM-Tickets. Jetzt ist eine neue Eskalationsstufe erreicht: Die US-Justiz ermittelt rund um die Vergabepraxis – und das könnte erst der Anfang sein.",
+          "title": "Besuch auf der Erlanger Bergkirchweih: „Die Lieder sind immer gespielt worden und wir haben’s damals auch überlebt“",
+          "url": "https://www.sueddeutsche.de/bayern/erlanger-bergkirchweih-lieder-liste-debatte-ortsbesuch-reaktionen-li.3489410",
+          "summary": "Die Stadt Erlangen empfiehlt, einige Partyhits auf der Bergkirchweih nicht mehr zu spielen – darunter „Skandal im Sperrbezirk“. Ändert sich etwas auf dem Fest? Ein Besuch auf dem Berg.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/07/66f9dbb3-c386-4d83-ac0a-020d5eb118e1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=174%2C120%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/05/28/833fcfb7-93b2-4687-952a-5b6442ec9bbf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Iran-Verhandlungen: Ein Krisendeal im Schwebezustand",
-          "url": "https://www.sueddeutsche.de/politik/usa-trump-iran-krieg-hormus-verhandlungen-li.3490276",
-          "summary": "Die Einigung mit Iran sei nahezu verhandelt, sagte Donald Trump vor wenigen Tagen. Nun klingt er wieder vorsichtiger. Iran feilt derweil an der Botschaft, dass es den Krieg nicht verloren hat.",
+          "title": "Unternehmen: „Bassd scho“? Nicht für den neuen  Schwan-Stabilo-Chef Michele Molon",
+          "url": "https://www.sueddeutsche.de/wirtschaft/schwan-stabilo-schreibgeraete-deuter-li.3487304",
+          "summary": "Zum ersten Mal kommt der Chef nicht aus der Familie: Der ehemalige Swarovski-Manager aus Italien soll den fränkischen Stiftehersteller und Outdoor-Konzern aus der Krise führen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/28/722af077-01c7-4eea-ab12-7bf22c2974ae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C0%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/05/28/811f38a0-38ee-4678-919d-f19917cc55e9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C1250%2C2667%2C1500"
         },
         {
-          "title": "Krieg in Nahost: Israels Armee meldet Angriff in Beirut",
-          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-israel-angriff-beirut-libanon-li.3487408",
-          "summary": "Seit Tagen gibt es schwere Angriffe in Südlibanon. Nun nimmt das israelische Militär eigenen Angaben zufolge auch ein Ziel in der libanesischen Hauptstadt ins Visier.",
+          "title": "USA: Krieg mit Iran treibt Inflation auf Drei-Jahres-Hoch",
+          "url": "https://www.sueddeutsche.de/politik/usa-liveblog-news-inflation-li.3478505",
+          "summary": "Die Inflation in den USA hat sich im April wegen des Kriegs und steigender Energiepreise beschleunigt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/28/0f870d45-5910-4284-a8c1-567ca6cc7af4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/28/7102bf19-b142-4e79-b0e1-b84b5737976d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
