@@ -1,10 +1,26 @@
 {
-  "generated": "2026-05-28T10:00:08.965Z",
-  "timestamp": "28.5.2026, 12:00:08",
+  "generated": "2026-05-28T14:00:09.720Z",
+  "timestamp": "28.5.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Kanzler in Bedrängnis: Bei Wüst hört für Merz der Spaß auf",
+          "url": "https://www.faz.net/aktuell/politik/inland/kanzler-merz-reagiert-scharf-auf-wuest-geruecht-accg-200875600.html",
+          "summary": "„Gefährliche Lust an der Zündelei“: Gerüchte über angebliche Ambitionen von NRW-Ministerpräsident Hendrik Wüst sorgen für viel Erregung – vor allem im Bundeskanzleramt.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/7ccf44dbfbd5/w5215h2724x0y169o/202509/43601.0.1351553025/wuest-und-merz-im-september.webp"
+        },
+        {
+          "title": "Was das Grundgesetz sagt: Drei Szenarien für einen Kanzlerwechsel",
+          "url": "https://www.faz.net/aktuell/politik/inland/kanzlerwechsel-in-der-legislaturperiode-was-das-grundgesetz-sagt-accg-200876611.html",
+          "summary": "Ein Kanzlerwechsel mitten in der Legislaturperiode ist in Deutschland möglich, aber das Grundgesetz stellt hohe Hürden. Was denkbar wäre.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/f2738e5d183b/w5000h2612x0y100o/202605/43601.0.2119889364/bundeskanzler-friedrich-merz.webp"
+        },
         {
           "title": "Kritik an Merz: Das Ende der Konsenskultur",
           "url": "https://www.faz.net/aktuell/politik/inland/kritik-an-friedrich-merz-das-ende-der-konsenskultur-200871379.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/1c395afc5715/w5313h2776x0y384o/202602/43601.0.1805049154/friedrich-merz-und-angela.webp"
-        },
-        {
-          "title": "Die Macht der Umfragen: „Genervt“ und unter „ständigem Druck“ – sind Politiker Getriebene?",
-          "url": "https://www.faz.net/aktuell/politik/inland/genervt-und-unter-staendigem-druck-sind-politiker-getriebene-der-umfragen-accg-200823843.html",
-          "summary": "AfD vor Union, Grüne vor SPD – kaum ein Tag vergeht ohne eine neue Umfrage. Omid Nouripour, Kevin Kühnert und ein CDU-Minister der Merkel-Zeit über den Druck, der auf Politikern lastet.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/37246491e137/w2254h1177x416y328o/202408/43601.0.526745061/gedrueckte-stimmung-omid.webp"
-        },
-        {
-          "title": "Mecklenburg-Vorpommern: Die Angst der Künstler vor der AfD",
-          "url": "https://www.faz.net/aktuell/politik/inland/mecklenburg-vorpommern-die-angst-der-kuenstler-vor-der-afd-accg-200867574.html",
-          "summary": "Die AfD im Nordosten will „Volkskunst“ anstatt das „Degenerative der Neuzeit“, außerdem einen „Heimatstil“ in der Architektur.  Künstler fürchten um ihre Existenz.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2b6811913415/w2391h1249x532y920o/202605/43601.0.2153669143/die-gruppe-grotest-maru-auf.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump beherrscht die Republikaner wie nie – und ist so unbeliebt wie nie",
-          "url": "https://www.spiegel.de/ausland/donald-trump-beherrscht-die-republikaner-wie-nie-und-ist-so-unbeliebt-wie-nie-a-d1ad53cd-4610-4307-9d9e-6fffa8c78227#ref=rss",
-          "summary": "Donald Trumps Umfragewerte sind auf dem Tiefstand, viele Anhänger wenden sich von dem US-Präsidenten ab. Doch in den Vorwahlen gehorcht ihm seine Partei blind, mit Folgen für die Midterms.",
+          "title": "Ukraine-Krieg: Wie Kyjiw Russland mit KI und Drohnen ausbremst - und auf eine Wende hofft",
+          "url": "https://www.spiegel.de/ausland/ukraine-warum-kyjiw-im-fuenften-kriegsjahr-ploetzlich-wieder-hoffen-kann-a-bbe8a8f3-2e70-43c1-949a-711bfcbc1249#ref=rss",
+          "summary": "Mit Billigwaffen und revolutionärer Kriegssoftware fügt die Ukraine Russland immer schwerere Verluste zu, Kyjiw gibt sich optimistisch. Doch die unerbittliche Rekrutierung droht das Land zu zerreißen. Die SPIEGEL-Titelstory.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b4017947-2bca-46b9-9a88-4a3272e1a780_w1200_r1.778_fpx43_fpy52.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1630f714-0b09-4d93-b982-cb7b243c18b6_w1200_r1.778_fpx47_fpy38.jpg"
         },
         {
-          "title": "Migrationspolitik: Alexander Dobrindts Grenzkontrollen lassen sich nicht mehr rechtfertigen",
-          "url": "https://www.spiegel.de/politik/migrationspolitik-alexander-dobrindts-grenzkontrollen-lassen-sich-nicht-mehr-rechtfertigen-a-8baf04aa-5093-4f32-938b-239f4aaf1f0f#ref=rss",
-          "summary": "Mit der beginnenden Urlaubszeit sind Staus vorprogrammiert. Trotzdem hält der Innenminister an den Grenzkontrollen fest. Mit den Asylbewerberzahlen ist das nicht mehr zu rechtfertigen.",
+          "title": "Ebola in der DR Kongo: Wird dieser Ausbruch der größte, den es bisher gab?",
+          "url": "https://www.spiegel.de/wissenschaft/medizin/ebola-in-der-dr-kongo-wird-dieser-ausbruch-der-groesste-den-es-bisher-gab-a-3eb36133-a0f7-49b5-91a7-1524907894b4#ref=rss",
+          "summary": "Das Ebolavirus verbreitet sich in Zentralafrika. Vor allem im Osten der Demokratischen Republik Kongo, aber auch in Uganda gibt es immer mehr Infizierte und Tote. Diese Daten verdeutlichen, warum Fachleute so besorgt sind.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e7fe6704-8164-44ae-a698-a579ce1b0d28_w1200_r1.778_fpx69.06_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/de423379-62dd-4c80-9884-950456414b88_w1200_r1.778_fpx55_fpy64.jpg"
         },
         {
-          "title": "Markus Söder: Wie der CSU-Chef Kritiker mit einem Imagewandel besänftigen will",
-          "url": "https://www.spiegel.de/politik/deutschland/markus-soeder-wie-der-csu-chef-kritiker-mit-einem-imagewandel-besaenftigen-will-a-7c838121-9628-4dd8-bb43-a050e95dfbe3#ref=rss",
-          "summary": "Bayerns Ministerpräsident steht unter Druck. Wohl deshalb gibt sich Markus Söder neuerdings betont seriös. Aber reicht der Imagewandel, um Kritiker verstummen zu lassen? Ein Rivale bringt sich in Stellung.",
+          "title": "AfD: Mitarbeiter mit Bandido-Vergangenheit bekommt keinen Hausausweis im Bundestag",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-mitarbeiter-mit-bandido-vergangenheit-bekommt-keinen-hausausweis-im-bundestag-a-abf23607-e524-4b76-a01c-d1d080ab9740#ref=rss",
+          "summary": "Er war bei der verbotenen Rockergruppe Bandidos aktiv und gilt als gewaltbereit. Deshalb bekommt ein Mitarbeiter der AfD aus Nordrhein-Westfalen keine Zugangserlaubnis für den Bundestag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5ce7e64f-1584-432a-b897-50d3dd3d962a_w1200_r1.778_fpx50_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7b2ed621-92e7-4e11-b056-c814d35211ee_w1200_r1.778_fpx44_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Israelische Angriffe in der Nacht: Libanon meldet mehrere Tote",
-          "url": "https://www.tagesschau.de/ausland/asien/libanon-tote-104.html",
-          "summary": "Seit Tagen verschärft sich die Konfrontation zwischen Israel und der Hisbollah im Libanon. Zuletzt berichten die Bewohner von einer \"schrecklichen Nacht\". Mehrere Menschen wurden getötet - auch Soldaten auf beiden Seiten.",
+          "title": "EU ernennt vorerst keinen Russland-Ukraine-Vermittler",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-treffen-zypern-100.html",
+          "summary": "Der ukrainische Präsident Selenskyj zeigt sich offen für eine wichtige Rolle der EU bei Friedensgesprächen mit Russland. Einen Chefvermittler wird es aber vorerst nicht geben. Die Außenbeauftragte Kallas warnte vor einer russischen Falle.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ea01014b-d322-4094-8eb3-702ca3102dba/AAABnm36TvA/AAABnSSvrFg/16x9-big/libanon-wohnhaus-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/24f240f7-12d7-4770-a842-2120e244a646/AAABnm6mU2k/AAABnSSvrFg/16x9-big/kallas-176.jpg?width=1280"
         },
         {
-          "title": "Düstere Stimmung in Iran nach drei Monaten Krieg",
-          "url": "https://www.tagesschau.de/ausland/iran-drei-monate-nach-kriegsbeginn-100.html",
-          "summary": "Drei Monate nach Beginn des Iran-Kriegs ist die Stimmung im Land düster. Die Hoffnung auf einen Regimewechsel ist verflogen, der Druck der Herrscher auf die Bevölkerung massiv. Und dazu kommen große wirtschaftliche Sorgen. Von Uwe Lueb.",
+          "title": "Tag der Frauengesundheit: Stärkerer Fokus auf Frauengesundheit gefordert",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/geschlechtersensible-medizin-warken-100.html",
+          "summary": "Noch immer werden Krankheiten und Medikamente überwiegend an Männern erforscht und getestet. Politiker, Ärzte und Krankenkassen fordern, dass die medizinischen Belange von Frauen endlich mehr berücksichtigt werden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3dc5c18d-afc4-4e3e-a9f9-e747de8c6880/AAABnmohNhU/AAABnSSvrFg/16x9-big/teheran-einkaufsstrasse-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3bf5e295-d522-4881-86e9-5fa978bc57f3/AAABnm5o2Bc/AAABnSSvrFg/16x9-big/arztpraxis-150.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Verflogene Friedenshoffnungen lassen Ölpreise steigen",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-ki-100.html",
-          "summary": "Eine erneute Zuspitzung der Lage im Nahen Osten hat am Morgen für fallende Kurse an den Börsen gesorgt. Die Ölpreise zogen in Reaktion auf die jüngsten Entwicklungen im Iran-Krieg wieder deutlich an.",
+          "title": "Täterinnen im Fall Luise müssen 144.000 Euro zahlen",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schmerzensgeld-freudenberg-100.html",
+          "summary": "Das Landgericht Koblenz hat entschieden, dass die beiden minderjährigen Täterinnen im Fall der getöteten Luise aus Freudenberg 144. 000 Euro zahlen müssen. Die Summe setzt sich aus Schmerzensgeld, Anwalts- und Beerdigungskosten zusammen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8080c411-a4f0-4a6f-a4e2-515285924a9d/AAABlg9yr_U/AAABnSSvrFg/16x9-big/dax-haendlerin-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/adf62d17-4bae-46db-8a20-b64085e21e81/AAABnm7MrgQ/AAABnSSvrFg/16x9-big/wdr-taeterinnen-im-fall-luise-muessen-144-400-euro-bezahlen-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Verkehr und Gebäude bremsen Deutschlands Klimabilanz",
-          "url": "https://www.telepolis.de/article/Verkehr-und-Gebaeude-bremsen-Deutschlands-Klimabilanz-11309323.html",
-          "summary": "Verpasst, vertagt, vergessen: Merz-Kabinett versagt beim Klimaschutz – was dies für die Zukunft der Bundesregierung bedeuten kann. Eine Analyse.",
+          "title": "Superfood für Bienen: Entscheidet es über unsere Ernährung?",
+          "url": "https://www.telepolis.de/article/Superfood-fuer-Bienen-Entscheidet-es-ueber-unsere-Ernaehrung-11310195.html",
+          "summary": "Oxforder Forscher haben ein Superfood für Bienen entwickelt. Doch ob es unsere Ernte wirklich sichern kann, ist umstritten.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/1/9/2/shutterstock_2684376929-f6b0879489a3832a.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/6/3/3/shutterstock_2744363139-eaeb3a806b37e356.jpg"
         },
         {
-          "title": "Italiens neue Regel: Wer Äcker mit Rechenzentren zubetoniert, zahlt dreifach",
-          "url": "https://www.telepolis.de/article/Italiens-neue-Regel-Wer-Aecker-mit-Rechenzentren-zubetoniert-zahlt-dreifach-11309367.html",
-          "summary": "Die Lombardei zeigt Europa, wie man den ungehemmten KI-Boom bremst – mit einem Gesetz, das selbst Konzerne wie Google und Amazon spüren sollen.",
+          "title": "Nackte Haut im Schwimmbad: Deutschland wird wieder prüde",
+          "url": "https://www.telepolis.de/article/Nackte-Haut-im-Schwimmbad-Deutschland-wird-wieder-pruede-11310043.html",
+          "summary": "Die neue Scham: Oben ohne ist erlaubt, nackt duschen auch. Trotzdem verhüllen sich viele Jüngere heute stärker als ihre Eltern.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/2/1/4/shutterstock_2718876939-18c812abc1908493.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/5/5/5/master_schwimm-20150ae1a3bef512.jpg"
         },
         {
-          "title": "Horror mit Tiefgang: Korea zeigt in Cannes die Zukunft des Genrekinos",
-          "url": "https://www.telepolis.de/article/Horror-mit-Tiefgang-Korea-zeigt-in-Cannes-die-Zukunft-des-Genrekinos-11309175.html",
-          "summary": "Von Alien-Monstern bis Zombie-Kollektiven; Menschen werden zu Ameisenkolonien: Südkoreas Kino zerlegt die Ängste der Gegenwart.",
+          "title": "Nichts ist gefährlicher als ein in die Enge getriebener Netanjahu",
+          "url": "https://www.telepolis.de/article/Nichts-ist-gefaehrlicher-als-ein-in-die-Enge-getriebener-Netanjahu-11309709.html",
+          "summary": "Während Netanjahu unter Druck steht, wird der Libanon zum Schauplatz israelischer Machtspiele. Warum ihm ein Iran-Deal gefährlich werden kann. Ein Gastbeitrag.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/1/1/5/master_1_Suchsland-3266420826763d38.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/3/8/7/shutterstock_2682994285-356d2e53ff255f1c.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Debatte: Ist Wim Wenders unantastbar?",
-          "url": "https://www.sueddeutsche.de/kultur/kommentar-nastassja-kinski-mit-13-nackt-im-im-film-ist-wim-wenders-unantastbar-li.3489705",
-          "summary": "Nastassja Kinski spricht über ihren Kampf, eine Szene mit ihr als entblößter 13-Jähriger aus einem Film von Wim Wenders entfernen zu lassen. Doch der Regisseur schweigt – und mit ihm die gesamte Filmbranche. Wie kann das sein?",
+          "title": "Tickets für die Fußball-WM: Die Fifa ist wieder ein Fall für die Staatsanwaltschaft",
+          "url": "https://www.sueddeutsche.de/sport/wm-tickets-preise-fifa-us-justiz-ermittlungen-li.3490272",
+          "summary": "Seit Monaten beschweren sich Fans über die hohen Preise und die intransparente Zuteilung der WM-Tickets. Jetzt ist eine neue Eskalationsstufe erreicht: Die US-Justiz ermittelt rund um die Vergabepraxis – und das könnte erst der Anfang sein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/28/2b31d84c-4378-4604-87ee-4da192a76d0e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C178%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/07/66f9dbb3-c386-4d83-ac0a-020d5eb118e1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=174%2C120%2C3636%2C2045"
         },
         {
-          "title": "Reform der Kita-Finanzierung: Eltern müssen mit höheren Kita-Gebühren in Bayern rechnen",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-kita-gebuehren-erhoehung-nuernberg-augsburg-wuerzburg-regensburg-ingolstadt-li.3487603",
-          "summary": "Nicht nur München, auch andere große Städte gehen von steigenden Beiträgen in Krippen und Kindergärten aus. Und das, obwohl die Staatsregierung in den kommenden Jahren fast drei Milliarden Euro mehr ins System geben will. Was läuft da schief?",
+          "title": "Iran-Verhandlungen: Ein Krisendeal im Schwebezustand",
+          "url": "https://www.sueddeutsche.de/politik/usa-trump-iran-krieg-hormus-verhandlungen-li.3490276",
+          "summary": "Die Einigung mit Iran sei nahezu verhandelt, sagte Donald Trump vor wenigen Tagen. Nun klingt er wieder vorsichtiger. Iran feilt derweil an der Botschaft, dass es den Krieg nicht verloren hat.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2024/07/17/714390d6-77c4-4cb9-82bd-ecda9946b21c.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/28/722af077-01c7-4eea-ab12-7bf22c2974ae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C0%2C3636%2C2045"
         },
         {
-          "title": "Holocaust-Gedenkstätte: Bildungszentrum von Yad Vashem soll in München entstehen",
-          "url": "https://www.sueddeutsche.de/muenchen/yad-vashem-muenchen-bildungszentrum-karolinenplatz-li.3490258",
-          "summary": "In dem Zentrum am Karolinenplatz soll eine Auseinandersetzung mit den Verbrechen des Nationalsozialismus stattfinden. Auch in Leipzig soll es eine Außenstelle geben.",
+          "title": "Krieg in Nahost: Israels Armee meldet Angriff in Beirut",
+          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-israel-angriff-beirut-libanon-li.3487408",
+          "summary": "Seit Tagen gibt es schwere Angriffe in Südlibanon. Nun nimmt das israelische Militär eigenen Angaben zufolge auch ein Ziel in der libanesischen Hauptstadt ins Visier.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2023/06/25/b2d5758f-c479-4a43-b067-5f9ac0e02c37.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C141%2C1350%2C759"
+          "image": "https://www.sueddeutsche.de/2026/05/28/0f870d45-5910-4284-a8c1-567ca6cc7af4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
