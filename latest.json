@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-27T22:00:09.445Z",
-  "timestamp": "28.5.2026, 00:00:09",
+  "generated": "2026-05-28T02:00:08.020Z",
+  "timestamp": "28.5.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Liveblog Irankrieg: USA greifen erneut Ziel in Iran an",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-droht-iran-mit-fortsetzung-der-angriffe-faz-200583539.html",
+          "summary": "Das US-Militär attackiert nach eigenen Angaben einen Stützpunkt, von dem Drohnen abgeschossen wurden +++ US-Präsident: Bislang nicht zufrieden mit Verhandlungen mit Iran +++ Israel fordert Einwohner von Nabatieh zur Flucht auf +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/7cf5baf85956/w5705h2980x0y114o/202605/43601.0.2052103192/kampfflugzeuge-an-bord-des.webp"
+        },
         {
           "title": "Irankrieg treibt Preise: Die Folgen der Düngerkrise könnten erst noch kommen",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/iran-krieg-treibt-preise-die-folgen-der-duengerkrise-koennten-erst-noch-kommen-200868042.html",
@@ -12,14 +20,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/d8242b6bcdf0/w6000h3135x0y120o/202605/43601.0.2100710808/ein-traktor-faehrt-mit-einem.webp"
-        },
-        {
-          "title": "Liveblog Irankrieg: Trump: „Vielleicht werden wir zurückkehren und es beenden, vielleicht nicht“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-droht-iran-mit-fortsetzung-der-angriffe-faz-200583539.html",
-          "summary": "US-Präsident: Bislang nicht zufrieden mit Verhandlungen mit Iran +++ Israel fordert Einwohner von Nabatieh zur Flucht auf +++ Revolutionsgarde: Aufflammen des Kriegs unwahrscheinlich +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c77053d95ea1/w3600h1881x0y72o/202605/43601.0.2155339544/trump-beim-treffen-mit-seinem.webp"
         },
         {
           "title": "USA unter Trump: Fonds von Trumps „Friedensrat“ ist offenbar leer",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Pistorius wirbt in Kanada für Kauf deutscher U-Boote",
-          "url": "https://www.tagesschau.de/ausland/amerika/kanada-pistorius-100.html",
-          "summary": "Der NATO-Partner Kanada will neue U-Boote anschaffen. Bei seinem Besuch in Kanada warb Bundesverteidigungsminister Pistorius für ein deutsch-norwegisches Produkt. Doch Konkurrenz kommt aus Südkorea.",
+          "title": "USA greifen erneut Ziele in Iran an",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-neue-angriffe-100.html",
+          "summary": "Die USA haben nach Regierungsangaben erneut Iran angegriffen. Ziel war demnach ein Militärgelände in Bandar Abbas, von dem eine Bedrohung ausging. Die Angriffe seien \"zurückhaltend und rein defensiv\" gewesen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/317e714e-70d0-423e-9c35-92a63086c59b/AAABnmrx7e4/AAABnSSvrFg/16x9-big/pistorius-608.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2f61789a-e94c-4d14-8ad6-0e251b55e58b/AAABnLGnbuQ/AAABnSSvrFg/16x9-big/angriffe-usa-100.jpg?width=1280"
         },
         {
-          "title": "Israel erklärt Südlibanon zur \"Kampfzone\"",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-suedlibanon-evakuierung-100.html",
-          "summary": "Die israelische Armee hat große Teile des Südlibanon zur \"Kampfzone\" erklärt - trotz der Waffenruhe. Sie will hart gegen die Hisbollah-Miliz vorgehen. Die Bevölkerung wurde zur Flucht in den Norden des Landes aufgerufen.",
+          "title": "Norwegen rückt unter Frankreichs Atomschutzschirm",
+          "url": "https://www.tagesschau.de/ausland/europa/norwegen-nuklearschirm-100.html",
+          "summary": "Norwegen stellt seine Sicherheitsstrategie neu auf. Das Land soll künftig Teil des atomaren Schutzschirms von Frankreich werden. Das teilten beide Staaten mit. Dies sei eine Reaktion auf die Bedrohung durch Russland.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/55e9385f-7634-4876-b00c-2e0267686e88/AAABnmqJJVw/AAABnSSvrFg/16x9-big/libanon-428.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/24a2fe71-7814-4e60-b2c3-6042e46198e1/AAABlmcHUJU/AAABnSSvrFg/16x9-big/frankreich-atom-u-boot-100.jpg?width=1280"
         },
         {
-          "title": "Reaktionen in der CSU nach Webers Pfingstbrief",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/weber-pfingstbrief-100.html",
-          "summary": "CSU-Vize Weber hat in einem fünfseitigen Schreiben einen Kurswechsel seiner Partei gefordert. Ist es nur ein Denkanstoß - oder doch ein Angriff auf Parteichef Söder? Von Eva Eichmann, Katharina Pfadenhauer und Jonas Wengert.",
+          "title": "DRK-Chef fordert Verdopplung des Taschengeldes im FSJ",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/fsj-taschengeld-100.html",
+          "summary": "Soziale Einrichtungen sind auf Helfer angewiesen. Sie zu finden ist schwierig. Um attraktiver zu werden, fordert DRK-Chef Gröhe nun eine Verdopplung der Bezüge für Helfer im Freiwilliges Soziales Jahr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8bb5b4fb-b953-4104-800e-763d96d37501/AAABnmorwN4/AAABnSSvrFg/16x9-big/weber-soeder-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3a3eaaab-93ab-4aab-9694-4cdaf37e8c2f/AAABlgy-ryE/AAABnSSvrFg/16x9-big/deutsches-rotes-kreuz-101.jpg?width=1280"
         }
       ]
     },
@@ -130,12 +130,12 @@
           "image": "https://www.sueddeutsche.de/2026/05/27/cad80edc-0405-4e4c-8899-965041d18839.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C233%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: Hamas bestätigt Tod ihres neuen Führers in Gaza",
-          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-israel-hamas-gaza-mohammed-odeh-getoetet-li.3487408",
-          "summary": "Die Hamas bestätigt den Tod ihres Militärchefs. Zuvor hatte Israel eigenen Angaben zufolge auch dessen Vorgänger getötet.",
+          "title": "Krieg in Nahost: USA greifen erneut Ziele in Iran an – Verhandlungen stocken",
+          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-iran-usa-donald-trump-angriffe-krieg-li.3487408",
+          "summary": "Kein Ende in Sicht: Das US-Militär greift ein iranisches Militärgelände an. Zugleich laufen die Friedensverhandlungen weiter – doch beide Seiten zeigen sich unzufrieden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/27/e164258b-442f-4f72-86e8-0cd343b3c3db.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/28/0f2e9628-77dc-47a2-a915-e93ad9180c2c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C195%2C3443%2C1937"
         },
         {
           "title": "DFB-Team: Onkel Rudi beschützt seinen Bundestrainer",
