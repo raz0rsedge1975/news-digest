@@ -1,39 +1,47 @@
 {
-  "generated": "2026-05-29T18:00:08.719Z",
-  "timestamp": "29.5.2026, 20:00:08",
+  "generated": "2026-05-29T22:00:10.733Z",
+  "timestamp": "30.5.2026, 00:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "US-Website über Migranten: Wer die Aliens sichtet",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-regierung-veroeffentlicht-alien-website-ueber-migranten-200878419.html",
-          "summary": "Die US-Regierung betreibt eine neue Website. Darauf ist zu sehen, wo wie viele Ausländer festgenommen worden sind. Die Migranten werden behandelt wie Außerirdische.",
+          "title": "Vorsitz der Liberalen: Die FDP nimmt Abschied von der Wirtschaft",
+          "url": "https://www.faz.net/aktuell/wirtschaft/fdp-wolfgang-kubicki-und-die-abkehr-von-wirtschaftspolitik-200859687.html",
+          "summary": "Die FDP galt immer als Partei mit Kompetenz fürs Ökonomische. Für den künftigen Vorsitzenden steht das Thema nicht im Zentrum: Wolfgang Kubicki kümmert sich lieber um anderes.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/90ff4a2985f5/w1582h826x179y32o/202605/43601.0.2161234365/screenshot-der-website-des.webp"
+          "image": "https://media0.faz.net/image/w1200h627/56d8b42a1238/w7728h4037x113y155o/202605/3cc4d666-54f2-11f1-8e72-935af61147ac/wolfgang-kubicki-74-will-sich.webp"
         },
         {
-          "title": "USA unter Trump: Trumps Entschädigungsfonds vorerst blockiert",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trumps-entschaedigungsfonds-vorerst-blockiert-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump aktuell: Aktuelle News & Nachrichten von heute ► Jetzt lesen im Liveticker der FAZ",
+          "title": "Parteitag am Wochenende: Die FDP streitet über eine andere Partei",
+          "url": "https://www.faz.net/aktuell/fdp-streitet-vor-parteitag-ueber-verhaeltnis-zur-afd-200879176.html",
+          "summary": "Die FDP wählt an diesem Wochenende einen neuen Chef – mutmaßlich Wolfgang Kubicki. Doch viele sind verunsichert, manche frustriert. Das könnte sich auf dem Parteitag Bahn brechen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3ded90b31997/w3600h1881x0y260o/202605/43601.0.2155344793/donald-trump-spricht-waehrend.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2886fd17d153/w4127h2156x0y297o/202605/43601.0.2085319143/henning-hoene-und-wolfgang.webp"
         },
         {
-          "title": "Trump-Geburtstag: Blut am Weißen Haus",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/wie-in-rom-trump-feiert-geburtstag-mit-gladiatorenkaempfen-200880572.html",
-          "summary": "Ein Bild für den Niedergang des Westens: Donald Trump feiert Geburtstag wie die römischen Kaiser. Mit Gladiatorenkämpfen in einem überdimensionierten Käfig vor dem Regierungssitz.",
+          "title": "FDP streitet über AfD: Auf dem falschen Schlachtfeld",
+          "url": "https://www.faz.net/aktuell/politik/inland/brandmauer-auch-die-fdp-hat-ein-afd-problem-200880078.html",
+          "summary": "Schon vor dem Bundesparteitag zeigen sich Risse in der designierten FDP-Führung. Es geht um die AfD.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6b0a3c75c704/w6144h3210x0y550o/202605/43601.0.2154901424/kampf-mit-allen-mitteln.webp"
+          "image": "https://media0.faz.net/image/w1200h627/7539b76621a0/w3000h1567x0y373o/202601/43601.0.1665023958/im-ehemaligen-sitzungssaal-der.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Russland: »Wladimir Putin hat begonnen, sich wirtschaftlich selbst ins Bein zu schießen«",
+          "url": "https://www.spiegel.de/wirtschaft/russland-unter-wladimir-putin-ex-kreml-berater-ueber-den-riskanten-kurswechsel-in-der-wirtschaft-a-391a0103-1a8f-4350-b99d-5e279004f151#ref=rss",
+          "summary": "Die russische Wirtschaft hat lange geboomt, nun gerät sie in Stocken. Dafür ist nicht nur der Krieg verantwortlich, sagt Ökonom Wladislaw Inosemzew. Sondern ein seltsamer Kursschwenk des Präsidenten.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/49b75c6f-2a63-4c6a-b80c-7b6ddae81800_w1200_r1.778_fpx60.64_fpy44.99.jpg"
+        },
         {
           "title": "Sexismus-Debatte in Erlangen: Jetzt spielen sie »Skandal im Sperrbezirk« erst recht",
           "url": "https://www.spiegel.de/panorama/sexismus-debatte-in-erlangen-jetzt-spielen-sie-skandal-im-sperrbezirk-erst-recht-a-5cfd5a5d-147f-43a4-af8c-8c323a31dea6#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/7de5bbf5-65be-45ba-bfde-03dbecca22c7_w1200_r1.778_fpx49_fpy21.jpg"
         },
         {
-          "title": "News des Tages: Prozess gegen Andreas Scheuer, russische Drohne in Rumänien, Sperrung am Brenner",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-prozess-gegen-andreas-scheuer-russische-drohne-in-rumaenien-sperrung-am-brenner-a-d3f8ecdf-2068-4180-8a03-66518f69d7fa#ref=rss",
-          "summary": "Ein Ex-Verkehrsminister muss vor Gericht. Eine russische Drohne offenbart die Probleme der europäischen Luftabwehr. Und der Brenner wird dichtgemacht. Das ist die Lage am Freitagabend.",
+          "title": "Christina Block: Mutmaßliche Entführerin nannte sie »Lady C«",
+          "url": "https://www.spiegel.de/panorama/justiz/christina-block-mutmassliche-entfuehrerin-nannte-sie-lady-c-a-febe696b-88de-49b8-ad6d-e35ebd6cceac#ref=rss",
+          "summary": "Im Block-Prozess hat eine mutmaßliche Entführerin vier Tage lang ausgesagt. Die Israelin stand Christina Block einst nahe, nahm darauf aber vor Gericht keine Rücksicht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Rumänien: Der Drohneneinschlag zeigt, dass die Nato bei der Abwehr hinterhinkt",
-          "url": "https://www.spiegel.de/ausland/rumaenien-der-drohneneinschlag-zeigt-dass-die-nato-bei-der-abwehr-hinterhinkt-a-03179bc2-7500-43f8-ae44-39284211faa3#ref=rss",
-          "summary": "Die Ukraine holt täglich Hunderte Drohnen vom Himmel, im Nato-Staat Rumänien hat ein einziger russischer Flugkörper einen Wohnblock in Brand gesetzt. Wie kann das sein?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5662a61e-d149-4271-bb51-2bad8d95dc6a_w1200_r1.778_fpx59.04_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4fc27a98-47a7-41aa-b2af-022413c16770_w1200_r1.778_fpx48_fpy46.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Deutscher Arzt beklagt zögerliche Ebola-Forschung",
-          "url": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-aerzte-ohne-grenzen-100.html",
-          "summary": "Mehr als 900 Ebola-Verdachtsfälle zählt die WHO mittlerweile im Kongo. Einige Schlüsse hätte man schon aus früheren Ausbrüchen ziehen müssen, findet Thomas Pärisch. Er ist Arzt und bricht am Wochenende zu einem Hilfseinsatz im Kongo auf.",
+          "title": "Warum der Brenner dicht ist - und welche Alternativen es gibt",
+          "url": "https://www.tagesschau.de/ausland/europa/brenner-blockade-100.html",
+          "summary": "Wer am Samstag nach Italien oder zurück will - der sollte sich nach Alternativen zum Brenner umsehen. Die Autobahn wird wegen einer Protestaktion gesperrt. Wann beginnt die Sperrung, welche Ausweichrouten gibt es - und, um was geht es eigentlich?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c91fc142-8dcf-4cfd-b6dc-1d6f5e907004/AAABnnQ2oXA/AAABnSSvrFg/16x9-big/rotes-kreuz-uganda-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9c0b0de8-fd41-4ad0-86a4-42ca01df80a2/AAABnnLKgrM/AAABnSSvrFg/16x9-big/brenner-autobahn-100.jpg?width=1280"
         },
         {
-          "title": "Rettungskräfte befreien ersten Goldsucher aus Höhle in Laos",
-          "url": "https://www.tagesschau.de/ausland/asien/laos-hoehle-rettung-100.html",
-          "summary": "Enge Tunnel, viel Wasser, Einsturzgefahr - die Rettung der eingeschlossenen Goldsucher in Laos gestaltet sich schwierig. Nun gibt es einen Erfolg: Der erste Arbeiter konnte befreit werden.",
+          "title": "Livestream: Die Nachrichten bei tagesschau24",
+          "url": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
+          "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/be5bd7f3-d053-44c7-8734-fd1093cc793b/AAABnnRCEgE/AAABnSSvrFg/16x9-big/hoehle-laos-102.jpg?width=1280"
+          "image": null
         },
         {
-          "title": "Marktbericht: Dem DAX fehlt der zündende Funke",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-frieden-100.html",
-          "summary": "Der DAX behauptete zum Wochenschluss sein hohes Niveau - zu mehr reichte es aber nicht. Denn die Lage im Iran bleibt unklar - und die KI-Hausse findet hauptsächlich an der Wall Street statt.",
+          "title": "NATO macht Russland für Drohneneinschlag in Rumänien verantwortlich",
+          "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohneneinschlag-reaktionen-102.html",
+          "summary": "In dem NATO-Land Rumänien hat eine Drohne ein Wohnhaus getroffen. Die Militärallianz macht Russland dafür verantwortlich - Kremlchef Putin weist die Vorwürfe zurück.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fc804edc-8bff-4415-a92e-7e6219ee85e1/AAABmJe6eFU/AAABnSSvrFg/16x9-big/boerse-446.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d0f393b0-fa1a-4eab-8f5d-ecaf6f46e5e3/AAABnnTqugQ/AAABnSSvrFg/16x9-big/galati-102.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Podcast „Auf den Punkt“: Konstantin Wecker: Weitere Frauen schildern intime Begegnungen",
-          "url": "https://www.sueddeutsche.de/kultur/podcast-nachrichten-auf-den-punkt-konstantin-wecker-li.3491158",
-          "summary": "Sie sagen, sie seien damals 17 Jahre alt gewesen. Und sie berichten, noch heute unter den Folgen zu leiden.",
+          "title": "USA: Trumps Name muss vom Kennedy-Center entfernt werden",
+          "url": "https://www.sueddeutsche.de/politik/usa-liveblog-news-kennedy-center-trump-li.3478505",
+          "summary": "Ein Bundesrichter hat entschieden, dass eine Namensänderung vom Kongress hätte bewilligt werden müssen. In Louisiana teilen Republikaner Wahlbezirke neu auf.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
+          "image": "https://www.sueddeutsche.de/2026/05/29/28b35d9b-7a25-4cc7-92e7-e445f277866e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Französischer Präsident: Ein Thermomix für den Élysée",
-          "url": "https://www.sueddeutsche.de/wirtschaft/macron-vorwerk-thermomix-werk-frankreich-li.3490325",
-          "summary": "Emmanuel Macron präsentiert die Küchenmaschine von Vorwerk als deutsch-französisches Vorzeigeprojekt. Das Wuppertaler Unternehmen hat in der Provinz südwestlich von Paris 130 Millionen Euro investiert – auch weil in Deutschland Genehmigungen zu lange dauern.",
+          "title": "Krieg in Nahost: Trump kündigt „endgültige Entscheidung“ zu Iran an",
+          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-trump-waffenruhe-iran-li.3487408",
+          "summary": "Er werde sich ins Lagezentrum des Weißen Hauses begeben, schreibt der US-Präsident auf Truth Social - und listet auf, was ein Abkommen mit Iran beinhalten müsse.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/29/033839b4-6708-4031-9924-4d4cdb73892d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C179%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/05/29/56366c00-1233-4f97-891a-5762a6cf9234.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C260%2C3500%2C1969"
         },
         {
-          "title": "Investigativ: Sie war 17, er war 58",
-          "url": "https://www.sueddeutsche.de/kultur/konstantin-wecker-marie-franz-minderjaehrig-video-geschichte-li.3489338",
-          "summary": "Marie Franz erklärt im Video, welche schmerzliche Erkenntnis sie aufgrund ihrer Begegnungen mit Konstantin Wecker hatte – und warum sie heute offen darüber spricht.",
+          "title": "Kino: Er will",
+          "url": "https://www.sueddeutsche.de/kultur/rezension-kritik-kevin-james-romcom-li.3489160",
+          "summary": "Aber sie nicht. Und dann fährt er eben allein nach Italien. Kevin James spielt in der unbeschwert bella-vita-verliebten Komödie „Solo Mio“ einen Bräutigam auf Solo-Flitterwochen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/29/9b0a31e5-fa4f-48f5-b6e0-e1186b5e977a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/29/c430c5a9-3d2f-4453-8ebf-b6dcf4a5c1ab.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
