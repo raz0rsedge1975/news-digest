@@ -1,33 +1,33 @@
 {
-  "generated": "2026-05-29T06:00:09.266Z",
-  "timestamp": "29.5.2026, 08:00:09",
+  "generated": "2026-05-29T10:00:08.533Z",
+  "timestamp": "29.5.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Rentenreform: Nehmt den Männern ihr Rollenverständnis weg!",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/rentenreform-darf-nicht-zu-lasten-der-frauen-gehen-accg-200876559.html",
-          "summary": "Weniger Rente für Kinderlose? Das würde die Geschlechterungerechtigkeit verschärfen. Wer will, dass Jüngere nicht unter der Beitragslast kollabieren und Familiengründung attraktiver wird, muss sich anderes einfallen lassen.",
+          "title": "Gabriel Attal: Macrons Leute halten ihn für einen Erbschleicher",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-frankreich-2027-wer-ist-gabriel-attal-accg-200874986.html",
+          "summary": "Gabriel Attal, als Premierminister entlassen, will Frankreichs Präsident werden. Allzu beliebt ist er nicht, aber er hat zwei große Vorteile. Kann er Macron beerben?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6e795905097e/w2381h1244x0y171o/202601/43601.0.1653520959/ein-mann-steht-mit-seinem-kind.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e72066a161dd/w8066h4214x0y696o/202605/43601.0.2120109697/der-renaissance-vorsitzende.webp"
         },
         {
-          "title": "debatte um Reformen: Wer keine Kinder hat, sollte weniger Rente bekommen",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/reformdebatte-wer-keine-kinder-hat-sollte-weniger-rente-bekommen-200870074.html",
-          "summary": "Jahrhundertelang war Nachwuchs die einzige Altersvorsorge. Heute untergräbt der Kindermangel das System – und trotzdem bekommen Eltern häufig weniger Rente als Kinderlose. Das muss sich ändern.",
+          "title": "Bardella im Interview: „Wir werden nationales Recht über Europarecht stellen“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wir-werden-nationales-recht-ueber-europarecht-stellen-jordan-bardella-von-rassemblement-national-accg-200822399.html",
+          "summary": "Im Interview spricht der Vorsitzende des Rassemblement National über Deutschland, die Rhetorik der AfD, seine Pläne für eine Migrationswende – und warum er nicht zu jung für das Präsidentenamt ist.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8f92d4a5ff79/w5446h2845x128y1438o/202605/43601.0.2153485150/zum-glueck-denken-sie-gerade.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a71e593abb0b/w5199h2716x0y406o/202605/43601.0.2071307382/frankreich-ist-an-einem.webp"
         },
         {
-          "title": "Kanzler in Bedrängnis: Bei Wüst hört für Merz der Spaß auf",
-          "url": "https://www.faz.net/aktuell/politik/inland/kanzler-merz-reagiert-scharf-auf-wuest-geruecht-accg-200875600.html",
-          "summary": "„Gefährliche Lust an der Zündelei“: Gerüchte über angebliche Ambitionen von NRW-Ministerpräsident Hendrik Wüst sorgen für viel Erregung – vor allem im Bundeskanzleramt.",
+          "title": "Deutschland-Liveblog: Scheuer soll wegen mutmaßlicher Falschaussage vor Gericht",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-scheuer-soll-wegen-mutmasslicher-falschaussage-vor-gericht-faz-110093143.html",
+          "summary": "Ehemaliger Bundesverkehrsminister soll im U-Ausschuss zur Pkw-Maut gelogen haben – Gericht lässt Anklage zu +++ Roland Koch: Merz ist der richtige Kanzler +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7ccf44dbfbd5/w5215h2724x0y169o/202509/43601.0.1351553025/wuest-und-merz-im-september.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d7860a5e609d/w6000h3135x0y433o/202605/43601.0.2160417941/andreas-scheuer-csu-anfang.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Pflegeversicherung: Müssen Pflegebedürftige ums Eigenheim fürchten?",
+          "url": "https://www.spiegel.de/wirtschaft/pflegeversicherung-muessen-pflegebeduerftige-ums-eigenheim-fuerchten-a-ebe9e09e-413f-4219-95d9-44bdbf7ff122#ref=rss",
+          "summary": "Regierungsberater empfehlen drastische Kürzungen bei der Pflegeversicherung, ein CDU-Politiker schmäht das System gar als »Erbenschutzprogramm«. Was Betroffenen wirklich droht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6abfa106-1089-4bae-97db-b8f9a4733efd_w1200_r1.778_fpx64.54_fpy50.jpg"
+        },
+        {
+          "title": "Andreas Scheuer: Ex-Minister soll nach Maut-Debakel vor Gericht",
+          "url": "https://www.spiegel.de/politik/ex-minister-scheuer-soll-nach-maut-debakel-vor-gericht-a-1c48bd59-d927-4691-bc93-1b14f3386272#ref=rss",
+          "summary": "Vorwurf der Falschaussage: In Verbindung mit der gescheiterten Autobahnmaut ist eine Anklage gegen den früheren Bundesverkehrsminister Scheuer zugelassen worden. Am Anfang der Ermittlungen stand eine Enthüllung des SPIEGEL.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/2326482c-45d5-4129-807f-0eee17eae92d_w1200_r1.778_fpx29.52_fpy54.97.jpg"
+        },
+        {
           "title": "Hoyerswerda: AfD-Nachwuchs wirbt frühmorgens vor Schule",
           "url": "https://www.spiegel.de/politik/hoyerswerda-afd-nachwuchs-wirbt-fruehmorgens-vor-schule-a-0c0d72be-0e32-4948-b09d-f65f491dca2f#ref=rss",
           "summary": "Der sächsische AfD-Nachwuchs versucht am frühen Morgen, Schülerinnen und Schüler zu beeinflussen. Auf der anderen Seite protestieren die Omas gegen Rechts. Und die Schüler? Ziehen den Kopf ein.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/dc7a5d89-7b34-4987-b7f7-d023cbf768f7_w1024_r1.778_fpx37.5_fpy50.jpg"
-        },
-        {
-          "title": "News: Péter Magyar, Ursula von der Leyen, Pete Hegseth, Robert Habeck",
-          "url": "https://www.spiegel.de/politik/deutschland/news-peter-magyar-ursula-von-der-leyen-pete-hegseth-robert-habeck-a-16466196-bbdb-4014-8d38-00efff7f361a#ref=rss",
-          "summary": "Ursula von der Leyen hat ein wichtiges Date, München ist nicht der Nabel der Welt, und Robert Habeck erzählt hoffentlich, wie es ihm geht. Das ist die Lage am Freitagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Reichensteuer erhöhen? Union signalisiert Kompromissbereitschaft",
-          "url": "https://www.spiegel.de/politik/deutschland/reichensteuer-erhoehen-union-signalisiert-kompromissbereitschaft-a-da8b334f-19a8-4296-9f6b-abc036d05bec#ref=rss",
-          "summary": "Die Zahl der Superreichen steigt – das belebt auch den festgefahrenen Streit in der Koalition um die Reichensteuer. Nun geht ein wichtiger Finanzpolitiker der Union auf die SPD zu.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d353d13f-2ff1-4f3a-a537-60565a5d668e_w1200_r1.778_fpx53.83_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Friedenshoffnungen dürften beflügeln",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-frieden-100.html",
-          "summary": "Die Aussicht auf eine Entspannung im Nahen Osten dürfte die Börsen zum Wochenschluss antreiben. Auch die anhaltende Euphorie um Künstliche Intelligenz beflügelt die Aktienmärkte.",
+          "title": "Brennerautobahn gesperrt: Demo legt am Samstag den Verkehr lahm",
+          "url": "https://www.tagesschau.de/ausland/europa/brenner-sperrung-100.html",
+          "summary": "Mit einer Protestaktion legen morgen Anwohner die Brennerautobahn A13 lahm. Sie wollen ein Zeichen setzen gegen das massive Verkehrsaufkommen und die Folgen. Von der Politik fühlen sie sich alleingelassen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/08ae1278-d545-43b3-b614-0a7c91771de8/AAABnIlTn5c/AAABnSSvrFg/16x9-big/boerse-482.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/834126c4-d922-4f7f-8342-6e0dc2d1129c/AAABnnL8HlE/AAABnSSvrFg/16x9-big/brennerautobahn-102.jpg?width=1280"
         },
         {
-          "title": "Korruptionsverdacht: Spaniens Regierungspartei im Visier der Justiz",
-          "url": "https://www.tagesschau.de/ausland/europa/spanien-sozialisten-ermittlungen-100.html",
-          "summary": "Korruptionsvorwürfe setzen die spanische Regierungspartei von Ministerpräsident Sánchez unter Druck. Vor allem Ermittlungen gegen Ex-Regierungschef Zapatero lösten ein mittleres politische Erdbeben aus. Von Hans-Günter Kellner.",
+          "title": "Vorwurf der Falschaussage - Ex-Minister Scheuer soll vor Gericht",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/scheuer-falschaussage-gericht-100.html",
+          "summary": "Ex-Verkehrsminister Scheuer soll wegen einer mutmaßlichen Falschaussage im Zusammenhang mit der gescheiterten Pkw-Maut vor Gericht. Das Landgericht Berlin ließ die Anklage gegen den CSU-Politiker zu.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3494cbf6-2375-4dae-bb09-146416bdcd98/AAABnnIEhx8/AAABnSSvrFg/16x9-big/sanchez-230.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/69028b1a-c1ec-46ff-93da-0c528781990a/AAABnnLcRTc/AAABnSSvrFg/16x9-big/scheuer-256.jpg?width=1280"
         },
         {
-          "title": "Wie die Hamas an der Not in Gaza verdient",
-          "url": "https://www.tagesschau.de/ausland/asien/lebensmittel-preise-gaza-100.html",
-          "summary": "Die Preise für Fleisch sind explodiert, eine Jeans ist fast unbezahlbar. Das Leben im Gazastreifen wird immer teurer. Dahinter stehen Strukturen, von denen vor allem die Hamas profitiert. Von Björn Dake.",
+          "title": "Besuch in Brüssel: Magyar kämpft um Freigabe von EU-Geldern",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-magyar-von-der-leyen-100.html",
+          "summary": "Gut 10 Milliarden Euro hat die EU während der Amtszeit von Ungarns Ex-Regierungschef Orban eingefroren. Dessen Nachfolger Magyar setzt sich nun in Brüssel für die Freigabe der Gelder ein. Doch dort ist der Schritt nicht unumstritten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b4b9d748-1c7c-42d1-9741-41ab695a5f93/AAABnnIAYLA/AAABnSSvrFg/16x9-big/gaza-markt-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/563edf99-2e7d-4aa8-a258-878dc40ab7c4/AAABnnJ_VNM/AAABnSSvrFg/16x9-big/magyar-122.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "\"Bohai-Seeungeheuer\": Neues Bildmaterial belegt Waffenfähigkeit",
-          "url": "https://www.telepolis.de/article/Bohai-Seeungeheuer-Neues-Bildmaterial-belegt-Waffenfaehigkeit-11309483.html",
-          "summary": "Ein mysteriöses chinesisches Bodeneffektfahrzeug taucht mit Bewaffnungsvorrichtungen unter den Tragflächen wieder auf – und wirft neue Fragen auf.",
+          "title": "EU-Kommission: Sensible Daten sollen raus aus US-Clouds",
+          "url": "https://www.telepolis.de/article/EU-Kommission-Sensible-Daten-sollen-raus-aus-US-Clouds-11311298.html",
+          "summary": "Die EU plant den „Cloud and AI Development Act“. Hochsensible Daten von Behörden sollen künftig nicht mehr auf Servern US-amerikanischer Anbieter liegen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/2/7/2/bohainewim-884203d86b64be95.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/2/0/5/shutterstock_2526424969-51d763e05ff5488b.jpg"
         },
         {
-          "title": "Kanzlersturz in der CDU? Merz kämpft gegen die eigene Partei",
-          "url": "https://www.telepolis.de/article/Kanzlersturz-in-der-CDU-Merz-kaempft-gegen-die-eigene-Partei-11310659.html",
-          "summary": "Merz ist der unbeliebteste Regierungschef unter 24 Demokratien – und die eigene Partei tuschelt bereits. Doch ein Sturz ist kaum möglich. Leitartikel.",
+          "title": "Papst Leo XIV: KI als soziale Frage des 21. Jahrhunderts",
+          "url": "https://www.telepolis.de/article/Papst-Leo-XIV-KI-als-soziale-Frage-des-21-Jahrhunderts-11310913.html",
+          "summary": "Mit seinem ersten Lehrschreiben warnt Papst Leo XIV. vor den Folgen von KI. Wie die kirchliche Soziallehre des 21. Jahrhunderts ausgestaltet ist. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/8/7/8/shutterstock_2639918429-cf85a5a08c072c99.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/0/0/6/shutterstock_2703598979-6d954ba39b1d70b0.jpg"
         },
         {
-          "title": "Ukraine: Hälfte der Geberländer steigt aus Prager Initiative aus",
-          "url": "https://www.telepolis.de/article/Ukraine-Haelfte-der-Geberlaender-steigt-aus-Prager-Initiative-aus-11310410.html",
-          "summary": "Das Programm sicherte der Ukraine die Hälfte ihrer Artilleriemunition – doch warum steigen jetzt neun Geberländer gleichzeitig aus?",
+          "title": "Freiwillig rein, verpflichtend raus? Neuer Wehrdienst wird zum Langzeitvertrag",
+          "url": "https://www.telepolis.de/article/Freiwillig-rein-verpflichtend-raus-Neuer-Wehrdienst-wird-zum-Langzeitvertrag-11310917.html",
+          "summary": "Die Bundeswehr braucht mehr Reservisten. Ein neues Gesetz soll deshalb Widerspruchsrechte streichen und Dienstpflichten bis ins Rentenalter ausweiten.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/7/4/7/shutterstock_1937671666-78e0b9c5eab6b38f.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/0/0/8/Master_Bundeswehr-ce32c5ffaa840146.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: Vance: USA und Iran „kurz vor“ Abkommen – Trump muss zustimmen",
-          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-trump-waffenruhe-iran-li.3487408",
-          "summary": "Laut dem US-Vizepräsidenten gibt es zwischen den USA und Iran eine vorläufige Einigung. Entscheidend ist, ob Trump den Deal absegnet und Iran bei Uran und der Straße von Hormus nachgibt.",
+          "title": "Vorwurf der Falschaussage: Ex-Minister Scheuer soll nach Maut-Debakel vor Gericht",
+          "url": "https://www.sueddeutsche.de/politik/andreas-scheuer-pkw-maut-gericht-li.3490860",
+          "summary": "Seine Aussage im Kontext des Maut-Debakels hat ein juristisches Nachspiel für den ehemaligen CSU-Minister. Das Landgericht Berlin hat eine Anklage gegen ihn zugelassen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/29/8a65e1c9-cbea-493a-b229-2c8e55b56bff.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2022/06/28/53aa88c4-f36e-4f09-be86-6bf221f2d636.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1350%2C759"
         },
         {
-          "title": "„Germany's Next Top Model“: Ein Finale, das den Namen nicht verdient",
-          "url": "https://www.sueddeutsche.de/medien/gntm-finale-los-angeles-gewinner-heidi-klum-li.3490227",
-          "summary": "Wegen einer Panne waren die Gewinner schon vorab bekannt. Nicht mal die geladenen Promis rund um Heidi Klum konnten das GNTM-Finale retten. Die Nachtkritik.",
+          "title": "Demonstration am Brenner: „Wir werden unserer Freiheit beraubt“",
+          "url": "https://www.sueddeutsche.de/politik/brenner-demonstration-verkehr-wipptal-interview-li.3485953",
+          "summary": "Karl Mühlsteiger, 49, ist Bürgermeister von Gries am Brenner und verantwortlich dafür, dass mitten zur Hauptreisezeit die Brenner-Route stundenlang gesperrt ist. Weil es sein muss, wie er findet.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/29/3743b07d-cce8-4c31-9bcb-e93542e4ed66.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C193%2C3700%2C2081"
+          "image": "https://www.sueddeutsche.de/2026/05/21/312fdcb6-8dfb-4a6f-8044-7d58d82a204f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C229%2C4000%2C2250"
         },
         {
-          "title": "Folgen des Klimawandels: Hitzewelle belastet französische Wirtschaft",
-          "url": "https://www.sueddeutsche.de/wirtschaft/frankreich-hitze-wirtschaft-auswirkungen-bip-klima-li.3490020",
-          "summary": "Die französische Zentralbank mahnt: Ändert sich nichts in der Klimapolitik, droht schon in diesem Jahr ein massiver Konjunkturrückgang. Auch für Deutschland gibt es Warnungen.",
+          "title": "Verkehr: Ab der deutschen Grenze im Bummeltempo",
+          "url": "https://www.sueddeutsche.de/bayern/brennerbasistunnel-nordzulauf-verkehr-planung-bahnstrecke-bundestag-li.3485951",
+          "summary": "Während Italien und Österreich energisch das Projekt Brennerbasistunnel vorantreiben und die Zugstrecken ertüchtigten, streiten die Deutschen seit Jahrzehnten über Strecke und Art des Nordzulaufs.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/28/25c8878e-fbc5-477a-9416-753275cb73cd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C365%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/05/29/b817e316-eff4-47e5-9ca9-07054f78aa63.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C255%2C4000%2C2250"
         }
       ]
     }
