@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-30T10:00:09.324Z",
-  "timestamp": "30.5.2026, 12:00:09",
+  "generated": "2026-05-30T14:00:08.597Z",
+  "timestamp": "30.5.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Deutschland-Liveblog: Strack-Zimmermann kandidiert als Parteivorsitzende der FDP",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-strack-zimmermann-kandidiert-als-parteivorsitzende-der-fdp-faz-110093143.html",
+          "summary": "Kampfkandidatur auf Berliner Parteitag gegen Kubicki +++ Bewerbungsreden um den FDP-Vorsitz +++ Wüst sichert Merz volle Unterstützung zu +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e0360a11d751/w5808h3034x0y243o/202605/43601.0.2163799922/verkuendet-auf-dem-parteitag.webp"
+        },
         {
           "title": "Wahl Kubickis: Die FDP im postliberalen Zeitalter",
           "url": "https://www.faz.net/aktuell/politik/alternative-der-mitte-wolfgang-kubicki-und-die-fdp-200879446.html",
@@ -12,14 +20,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/4c7c066e6c53/w5030h2628x0y228o/202605/43601.0.2163708950/wolfgang-kubicki-designierter.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: FDP verabschiedet Dürr mit stehendem Applaus",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-fdp-verabschiedet-duerr-mit-stehendem-applaus-faz-110093143.html",
-          "summary": "Bisheriger Parteichef plädiert für optimistische Mitte-Politik +++ Wüst sichert Merz volle Unterstützung zu +++ Scheuer soll wegen mutmaßlicher Falschaussage vor Gericht +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/03c8d2ee3f37/w3293h1720x0y162o/202605/43601.0.2163713660/der-scheidende-parteichef.webp"
         },
         {
           "title": "Die FDP und die Jugend: Mehr TikTok, weniger Talkshows",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Traumjob Influencer: Was die Generation TikTok von Pamela Reif lernen kann",
-          "url": "https://www.spiegel.de/wirtschaft/pamela-reif-hat-die-karriere-gemacht-von-der-eine-ganze-generation-traeumt-a-a9ee5152-ee0e-41c9-bbb9-6175abea047f#ref=rss",
-          "summary": "Influencer ist der Traumjob der meisten jungen Menschen, dabei können nur sehr wenige davon leben. Pamela Reif hat es geschafft. Und will sich jetzt trotzdem zurückziehen. Der SPIEGEL-Report.",
+          "title": "FDP: Marie-Agnes Strack-Zimmermann tritt gegen Wolfgang Kubicki an",
+          "url": "https://www.spiegel.de/politik/deutschland/fdp-marie-agnes-strack-zimmermann-tritt-gegen-wolfgang-kubicki-an-a-695c1c5d-7055-4367-bee4-443d421fd0ba#ref=rss",
+          "summary": "Beim FDP-Parteitag kommt es zum überraschenden Showdown zweier Rivalen: Eigentlich wollte sich Wolfgang Kubicki unangefochten zum Parteichef wählen lassen. Nun fordert ihn Marie-Agnes Strack-Zimmermann heraus.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/51c106fe-cc31-4f7e-87e5-9b9831f6bf4c_w1200_r1.778_fpx55_fpy14.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b1cc7a51-6c08-43ec-8734-87df0cae8878_w1200_r1.778_fpx38_fpy48.98.jpg"
         },
         {
-          "title": "Brenner-Autobahn: Dieser Mann lässt am Samstag die wichtigste Straße nach Italien sperren",
-          "url": "https://www.spiegel.de/reise/brenner-autobahn-dieser-mann-laesst-am-samstag-die-wichtigste-strasse-nach-italien-sperren-a-f623b7b9-92c6-4c7a-ac5d-c3716f1036c1#ref=rss",
-          "summary": "Karl Mühlsteiger könnte an diesem Samstag für Chaos sorgen. Aus Protest will der Tiroler Bürgermeister die Brenner-Autobahn blockieren, die wichtigste Straße nach Italien. Treffen mit einem, der keine Zweifel hat, das Richtige zu tun.",
+          "title": "Russland-Ukraine-Krieg: Warum griffen Kyjiws Truppen ein Studierendenwohnheim an?",
+          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-warum-griffen-kyjiws-truppen-ein-studierendenwohnheim-in-luhansk-an-a-988a739b-ae1b-4469-bd92-2d4ad1deee11#ref=rss",
+          "summary": "Ukrainische Drohnen sollen in der besetzten Region Luhansk 21 junge Menschen getötet haben. Wladimir Putin spricht von »Terror« gegen Zivilisten. Kyjiw beharrt darauf, ein militärisches Ziel getroffen zu haben. Was bekannt ist.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/21f457e4-31f3-489b-ae4c-f72a273560e5_w1200_r1.778_fpx39_fpy41.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e0986d6e-131c-4428-ab4b-bc88cf8ea5b3_w1200_r1.778_fpx47.27_fpy54.87.jpg"
         },
         {
-          "title": "Hendrik Wüst: Taugt der NRW-Ministerpräsident zum Reformkanzler? Eher nö.",
-          "url": "https://www.spiegel.de/politik/deutschland/hendrik-wuest-taugt-der-nrw-ministerpraesident-zum-reformkanzler-eher-noe-a-c552bfd5-445a-45a0-9ec5-1372a2a54812#ref=rss",
-          "summary": "In der Hauptstadt wird heftig spekuliert, ob NRW-Ministerpräsident Wüst den Bundeskanzler ablösen sollte. Dafür bräuchte er Mut zu Reformen. In Düsseldorf ist davon wenig zu sehen.",
+          "title": "Peter Thiel: US-Milliardär soll sich Zufluchtsort in Argentinien aufgebaut haben",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/peter-thiel-soll-sich-zufluchtsort-in-buenos-aires-aufgebaut-haben-a-012abffe-e7ab-4a42-bb59-371d43c721eb#ref=rss",
+          "summary": "Flüchtet der rechtsgerichtete Unternehmer aus den USA nach Argentinien? Peter Thiel arbeitet laut »New York Times« an einem neuen Leben in Buenos Aires. Dahinter sollen politische Gründe stecken.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/547b0425-6027-4ae2-98a8-9053d770dc3f_w1200_r1.778_fpx47.32_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d67cc254-82ce-4ec7-b24c-d1c2dae81060_w1200_r1.778_fpx58.65_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bislang ruhige Verkehrslage trotz Sperrung der Brennerautobahn",
-          "url": "https://www.tagesschau.de/ausland/europa/oesterreich-italien-brenner-sperrung-100.html",
-          "summary": "Die Brennerautobahn zwischen Österreich und Italien ist wegen einer Demonstration bis zum Abend gesperrt - Anwohner protestieren gegen die zunehmende Belastung in ihrem Tal. Größere Staus auf den Ausweichstrecken sind bislang ausgeblieben.",
+          "title": "Sensorpflaster als Lebensretter im Katastrophenfall",
+          "url": "https://www.tagesschau.de/wissen/forschung/katastrophenhilfe-sensorpflaster-100.html",
+          "summary": "Welche Verletzten werden zuerst versorgt? Das müssen Rettungskräfte im Katastrophenfall sekundenschnell entscheiden. Ein neues Sensorpflaster soll sie nun entlasten. Es sendet Vitaldaten der Opfer per Funk und könnte damit Leben retten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/52e9d34f-3be5-4d93-9e02-b331acce3396/AAABnngtq50/AAABnSSvrFg/16x9-big/brenner-autobahn-schliessung-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8c10583d-428f-4bc6-8c36-5afbccb440d6/AAABnm4rjyo/AAABnSSvrFg/16x9-big/rettungswagen-blaulicht-100.jpg?width=1280"
         },
         {
-          "title": "Israel rückt laut Netanjahu weiter ins Landesinnere des Libanon vor",
-          "url": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-112.html",
-          "summary": "Israel führt mit dem Libanon in Washington Gespräche, während die Kämpfe mit der Hisbollah-Miliz weitergehen. Die israelische Armee dringt dabei laut Premier Netanjahu immer weiter ins Landesinnere des Libanon vor.",
+          "title": "Warum sich Menschen für den schönsten Tag im Leben verschulden",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/hochzeit-finanzen-schulden-pleite-100.html",
+          "summary": "Die Hochzeit soll der schönste Tag im Leben sein - da will man nicht geizen. Doch der Wunsch nach Perfektion ist so groß, dass jedes dritte Paar bereit ist, sich zu verschulden. Ist das sinnvoll? Hiltscher und D.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1b3ab8b4-ad49-4a1d-b8fa-35c6f1e6b737/AAABnngTxeE/AAABnSSvrFg/16x9-big/angriffe-libanon-nabatieh-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bb92774f-3c25-4087-831a-a5c1f83a3e66/AAABlgZAAyQ/AAABnSSvrFg/16x9-big/hochzeit-117.jpg?width=1280"
         },
         {
-          "title": "Mögliche Drohnensichtung: Flughafen München vorübergehend gesperrt",
-          "url": "https://www.tagesschau.de/inland/flughafen-muenchen-drohnen-100.html",
-          "summary": "Am Münchner Flughafen konnten am Morgen eine Stunde lang keine Maschinen starten oder landen. Grund ist, dass dort möglicherweise Drohnen unterwegs waren. Es ist nicht der erste Vorfall dieser Art.",
+          "title": "Strack-Zimmermann kandidiert überraschend für FPD-Vorsitz",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/kandidatur-strack-zimmermann-fdp-100.html",
+          "summary": "Bis kurz vor der Wahl des neuen FDP-Parteichefs sah es so aus, als sei Kubicki der einzige Kandidat für den Posten. Doch ein anderes bekanntes Gesicht der Liberalen wirft überraschend ihren Hut in den Ring: die Verteidigungspolitikerin Strack-Zimmermann.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0bcc4666-20e2-41ca-b1bb-cf20c92b5976/AAABnXKn40w/AAABnSSvrFg/16x9-big/lufthansa-terminal-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/30c168f1-5a12-476f-9833-426cf9d39b39/AAABnnj72OI/AAABnSSvrFg/16x9-big/strack-zimmermann-170.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Shangri-La-Dialog: Hegseth warnt vor China – ein Wort fehlt aber",
-          "url": "https://www.telepolis.de/article/Shangri-La-Dialog-Hegseth-warnt-vor-China-ein-Wort-fehlt-aber-11312353.html",
-          "summary": "US-Verteidigungsminister fordert mehr Militärausgaben von Verbündeten, mäßigt aber die China-Rhetorik drastisch.",
+          "title": "Nicht die Eltern versagen – Gerichte nehmen jetzt Meta und TikTok in die Pflicht",
+          "url": "https://www.telepolis.de/article/Nicht-die-Eltern-versagen-Gerichte-nehmen-jetzt-Meta-und-TikTok-in-die-Pflicht-11312465.html",
+          "summary": "Ein kleiner Schulbezirk zwang Meta, TikTok und Co. zur Zahlung von 27 Millionen Dollar – und Gerichte sehen Suchtdesign jetzt als Produktfehler.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/7/4/3/shutterstock_2591234205-d6402ff7d06a82ea.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/7/9/9/shutterstock_2715815691-24b20569200d3094.jpg"
         },
         {
-          "title": "USA gegen China: Warum die Rivalität weit über Militärpolitik hinausgeht",
-          "url": "https://www.telepolis.de/article/USA-gegen-China-Warum-die-Rivalitaet-weit-ueber-Militaerpolitik-hinausgeht-11309149.html",
-          "summary": "Großmachtdenken ist zurück – doch diesmal kämpft man nicht mit Panzern, sondern mit Lieferketten und Algorithmen.",
+          "title": "Niemand will Walfleisch – trotzdem werden Fangquoten erhöht",
+          "url": "https://www.telepolis.de/article/Niemand-will-Walfleisch-trotzdem-werden-Fangquoten-erhoeht-11307401.html",
+          "summary": "Norwegen erhöht die Fangquote, obwohl Walfleisch kaum jemand will – und das hat einen überraschenden Grund.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/0/9/0/1/0/2/erde_zerren-2-01-f24434ac4cf3d5ec.gif"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/9/2/2/1/harpune-F-1-4bb67e23b66ca06e.jpg"
         },
         {
-          "title": "Shakespeare und London: Als das Theater zur Massenkultur wurde",
-          "url": "https://www.telepolis.de/article/Shakespeare-und-London-Als-das-Theater-zur-Massenkultur-wurde-11306696.html",
-          "summary": "Ein Mann, über den nicht allzu viel bekannt ist, prägte das moderne Theater wie kein anderer. Ein Blick auf das elisabethanische Zeitalter (Teil 5 von 5).",
+          "title": "Neuhardenberg: Das Dorf, in dem ganz Deutschland steckt",
+          "url": "https://www.telepolis.de/article/Neuhardenberg-Das-Dorf-in-dem-ganz-Deutschland-steckt-11312395.html",
+          "summary": "Quilitz, Neu-Hardenberg, Marxwalde: An einem Ort lassen sich 250 Jahre deutscher Geschichte ablesen – von Preußen bis Tesla.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/8/8/6/3/shutterstock_2514227755-c5b1d18de8b3f8eb.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/7/6/4/Master_neuhardenberg-fd97e8a9d5d04e0e.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Nach Pfingstbrief: Weber legt nach: Debatte in CSU ist notwendig",
+          "url": "https://www.sueddeutsche.de/bayern/csu-bayern-markus-soeder-manfred-weber-pfingstbrief-neuausrichtung-debatte-li.3491432",
+          "summary": "Mit seinem „Pfingstbrief“ hat CSU-Vize Manfred Weber für Aufmerksamkeit gesorgt. Nun benennt er weitere Forderungen - will darin aber keine Personaldebatte sehen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/30/66a5d50a-5bc1-478c-859d-2095aee0e8a8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C200%2C4000%2C2250"
+        },
+        {
+          "title": "Edgar Morin: Er legte sich mit allen an",
+          "url": "https://www.sueddeutsche.de/kultur/edgar-morin-tot-soziologe-alter-li.3491344",
+          "summary": "Der große Soziologe Edgar Morin sagte stets, was ihn störte. Vielen Kollegen ging er auf die Nerven, doch im Alter fragten ihn die französischen Präsidenten um Rat. Nun ist er mit 104 Jahren gestorben. Eine Würdigung.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/30/28e1388d-0f42-49ab-9901-1d3c88b7c7de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
           "title": "Lola-Verleihung in Berlin: Die Macht der Erinnerungen",
           "url": "https://www.sueddeutsche.de/kultur/filmpreis-wim-wenders-nastassja-kinski-filme-auszeichnungen-li.3490292",
           "summary": "Beim Deutschen Filmpreis 2026 kann man einen nachdenklichen Wim Wenders und viele starke Frauen erleben, außerdem eine umjubelte Senta Berger. Es ist ein Abend der kleinen Pannen und der großen Emotionen.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/30/b12bcc56-5cb1-46a4-8fc3-72e2ec8d02bf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Französischer Präsident: Ein Thermomix für den Élysée",
-          "url": "https://www.sueddeutsche.de/wirtschaft/macron-vorwerk-thermomix-werk-frankreich-li.3490325",
-          "summary": "Emmanuel Macron präsentiert die Küchenmaschine von Vorwerk als deutsch-französisches Vorzeigeprojekt. Das Wuppertaler Unternehmen hat in der Provinz südwestlich von Paris 130 Millionen Euro investiert – auch weil in Deutschland Genehmigungen zu lange dauern.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/29/033839b4-6708-4031-9924-4d4cdb73892d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C179%2C3500%2C1969"
-        },
-        {
-          "title": "USA: Trumps Name muss vom Kennedy-Center entfernt werden",
-          "url": "https://www.sueddeutsche.de/politik/usa-liveblog-news-kennedy-center-trump-li.3478505",
-          "summary": "Ein Bundesrichter entscheidet, dass eine Namensänderung vom Kongress hätte bewilligt werden müssen. Der US-Präsident reagiert verärgert.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/29/28b35d9b-7a25-4cc7-92e7-e445f277866e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
