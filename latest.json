@@ -1,10 +1,18 @@
 {
-  "generated": "2026-05-30T18:00:09.287Z",
-  "timestamp": "30.5.2026, 20:00:09",
+  "generated": "2026-05-30T22:00:08.054Z",
+  "timestamp": "31.5.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Bauern in China: Als Beamter bekäme er vierzigmal mehr",
+          "url": "https://www.faz.net/aktuell/politik/ausland/rente-in-china-22-euro-fuer-ein-leben-auf-dem-acker-accg-200867095.html",
+          "summary": "22 Euro für ein Leben auf dem Acker: Chinesische Bauern bekommen kaum Rente, Peking hat andere Prioritäten. Ein Besuch in Henan.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/da6cc91c6958/w4032h2106x0y604o/202605/43601.0.2149800806/im-landkreis-hua-in-der.webp"
+        },
         {
           "title": "FDP-Bundesvorsitz: Wie Strack-Zimmermann Kubicki überraschte",
           "url": "https://www.faz.net/aktuell/politik/inland/fdp-vorsitz-wie-strack-zimmermann-kubicki-ueberraschte-accg-200883202.html",
@@ -12,14 +20,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/fbddde63dd57/w4800h2508x0y347o/202605/43601.0.2164462683/marie-agnes-strack-zimmermann.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Kubicki gewinnt Kampfabstimmung um Bundesvorsitz der FDP",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-kubicki-zum-bundesvorsitzenden-der-fdp-gewaehlt-faz-110093143.html",
-          "summary": "Höne wird Stellvertreter, Hagel neuer Generalsekretär +++  Kubicki spricht in erster größerer Rede als Parteichef über Grundsätzliches +++ überraschende Kandidatur von Strack-Zimmermann +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b0b91245797c/w5808h3034x0y419o/202605/43601.0.2164442453/wolfgang-kubicki-beim.webp"
         },
         {
           "title": "Wahl Kubickis: Die FDP im postliberalen Zeitalter",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "FDP: Wolfgang Kubicki setzt sich im überraschenden Duell um Vorsitz durch",
+          "url": "https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-setzt-sich-im-ueberraschenden-duell-um-vorsitz-durch-a-c5586743-aa84-480b-bd98-454907095cda#ref=rss",
+          "summary": "Plötzlich kam es doch zum Duell: Weil Marie-Agnes Strack-Zimmermann kurzfristig gegen Wolfgang Kubicki kandidierte, wurde die Vorsitzenden-Wahl spannend. Der neue FDP-Chef startet mit Ballast.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/240953f2-8af0-48fe-ac9f-e480aecbabb0_w1200_r1.778_fpx48.66_fpy54.99.jpg"
+        },
+        {
+          "title": "Champions League: Paris Saint-Germain gewinnt Finale gegen Arsenal nach Elfmeterschießen",
+          "url": "https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-gewinnt-finale-gegen-arsenal-nach-elfmeterschiessen-a-3a43c120-55be-406c-8941-58a190c0b007#ref=rss",
+          "summary": "Der FC Arsenal würgt die Pariser Offensivwucht ab, Kai Havertz trifft – und doch reicht es nicht zum ersten Champions-League-Titel für die Gunners. Luis Enriques PSG-Team baut sich ein Denkmal auf dem Elfmeterpunkt.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/da8f8f05-8e09-4eb1-8b7f-4e68f32909fb_w1200_r1.778_fpx68.65_fpy54.99.jpg"
+        },
+        {
           "title": "Robert Habeck im SPIEGEL-Talk: Kehren Sie zurück?",
           "url": "https://www.spiegel.de/politik/robert-habeck-im-spiegel-talk-kehren-sie-zurueck-a-5b08b5c7-16e5-4faa-92aa-418dd4d73159#ref=rss",
           "summary": "Im SPIEGEL-Talk auf der Bühne des Admiralspalasts spricht Robert Habeck über seine Vision für Europa, persönliche Fehler – und die Frage: Ist unsere Welt aus den Fugen?",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/d54da421-1cfe-4234-929f-9f6adff08fc3_w1200_r1.778_fpx47_fpy31.jpg"
-        },
-        {
-          "title": "Champions League: Paris Saint-Germain oder Arsenal - wer ist das beste Team Europas?",
-          "url": "https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-oder-arsenal-wer-ist-das-beste-team-europas-a-6a56bb4d-8828-4e93-bee3-42559fed264c#ref=rss",
-          "summary": "Lange fiel Paris keine Antwort auf den Führungstreffer von DFB-Star Havertz ein. Dann ging Kvaratskhelia im Londoner Strafraum zu Boden. Verfolgen Sie die Partie im Livekommentar.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a1822a7a-59a3-41d0-a033-5aea07738dc2_w1200_r1.778_fpx49_fpy37.jpg"
-        },
-        {
-          "title": "Donald Trump vs. E. Jean Carroll: Trump geht mit Justizministerium gegen Klägerin vor",
-          "url": "https://www.spiegel.de/ausland/donald-trump-vs-e-jean-carroll-trump-geht-mit-justizministerium-gegen-klaegerin-vor-a-2ffa3cdb-c14c-4cf8-96db-a00547ca6fe2#ref=rss",
-          "summary": "Die Autorin E. Jean Carroll verklagte Donald Trump wegen sexueller Belästigung und Verleumdung. Er wurde zu 88,3 Millionen Dollar Schadensersatz verurteilt. Statt zu zahlen, schlägt er nun zurück – mithilfe des Justizministeriums.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8e9ce220-1728-4cbb-bb6e-cbf876d47d66_w1200_r1.778_fpx42_fpy50.99.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Machtkampf in der Türkei: Großdemonstration für abgesetzten CHP-Chef Özel",
-          "url": "https://www.tagesschau.de/ausland/europa/tuerkei-protest-112.html",
-          "summary": "Seit einem Gerichtsurteil ist in der türkischen Oppositionspartei CHP unklar, wer künftig den Kurs vorgibt: der durch das Urteil abgesetzte CHP-Chef Özel oder sein Vorgänger Kilicdaroglu? Nun haben beide Kontrahenten ihre Anhänger mobilisiert.",
+          "title": "tagesthemen-Interview: FDP-Chef Kubicki zufrieden mit Wahlergebnis",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/kubicki-tt-interview-100.html",
+          "summary": "FDP-Chef Kubicki hat sich im tagesthemen-Interview zufrieden über sein Wahlergebnis geäußert. Seine Gegner will er nicht überzeugen, die AfD nicht zu wichtig nehmen. Mit welchen Themen er das FDP-Comeback schaffen will, ließ er aber offen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/10b471ce-8e58-4977-89ba-401e0403b09f/AAABnnnumG0/AAABnSSvrFg/16x9-big/oezel-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/17c31efe-7e48-4be2-bdc6-df420aa975f0/AAABnnplyHo/AAABnSSvrFg/16x9-big/sendungsbild-1741578.jpg?width=1280"
         },
         {
-          "title": "Star-Wars-Cutterin Marcia Lucas ist mit 80 Jahren gestorben",
-          "url": "https://www.tagesschau.de/kultur/star-wars-marcia-lucas-100.html",
-          "summary": "Viele kennen die Star-Wars-Filme, doch nur wenige die Namen dahinter: Einer von ihnen ist Marcia Lucas. Sie prägte als Film-Editorin einige der ikonischsten Momente der Saga. Nun ist sie im Alter von 80 Jahren gestorben.",
+          "title": "Wie die Ukraine mit behinderten Kindern umgeht",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-inklusion-100.html",
+          "summary": "Russlands Angriffskrieg hat viele Kinder in der Ukraine traumatisiert und ihnen schwere Wunden zugefügt. Im Land mangelt es an Therapieplätzen - und doch hat der Krieg das Verständnis für Behinderungen gestärkt. Von Gesine Dornblüth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b9df578a-71d1-40d0-be9e-c91c5302be37/AAABnnnEigc/AAABnSSvrFg/16x9-big/marcia-lucas-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/734776f3-1e20-4618-b7ee-891f05757b97/AAABnm3ryF4/AAABnSSvrFg/16x9-big/irpin-tagesstaette-100.jpg?width=1280"
         },
         {
-          "title": "Familienministerin Prien gegen Bildschirmzeit für kleine Kinder",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/familienministerium-bildschirmzeit-kinder-100.html",
-          "summary": "Kein Kontakt zu Smartphones und Tablets für Kinder unter drei Jahren: Das fordert Familienministerin Prien. Um das zu erreichen, will die CDU-Politikerin auch über gesetzliche Regelungen nachdenken. Von Ruth Kirchner.",
+          "title": "Kubicki ist FDP-Chef: Alles andere als ein strahlender Sieger",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-neustart-100.html",
+          "summary": "Das \"alte Schlachtross\" Wolfgang Kubicki soll die FDP in die Zukunft führen. Beim Parteitag wählten ihn aber weniger als 60 Prozent. Ein Grund: die überraschende Kandidatur einer alten Kontrahentin. Jetzt braucht Kubicki schnelle Erfolge.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c9a6d379-93ee-4ddf-b260-e8b0e022f244/AAABnnlA-s4/AAABnSSvrFg/16x9-big/kleinkind-smartphone-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4e37ed2d-9cdd-43ba-9406-b4be1f4f905c/AAABnnn_60w/AAABnSSvrFg/16x9-big/kubicki-176.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Verkauft eure Häuser: Wie der Staat seine eigenen Ideale verrät",
+          "url": "https://www.telepolis.de/article/Verkauft-eure-Haeuser-Wie-der-Staat-seine-eigenen-Ideale-verraet-11312565.html",
+          "summary": "Der Staat zwang Bürger ins Eigenheim – und will es jetzt zurück. Die FAZ befeuert die Debatte, macht dabei aber einen groben Fehler. Ein Leitartikel.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/8/4/9/shutterstock_2519112131-5150711300ad45e1.jpg"
+        },
         {
           "title": "SpaceX vor Börsengang: Pensionsfonds setzt Musks Firma auf die schwarze Liste",
           "url": "https://www.telepolis.de/article/SpaceX-vor-Boersengang-Pensionsfonds-setzt-Musks-Firma-auf-die-schwarze-Liste-11312511.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/8/0/9/master_Kinder-d5c59cd80df388a3.jpg"
-        },
-        {
-          "title": "Bestäuberkrise: 427.000 Todesfälle durch weniger Obst und Gemüse",
-          "url": "https://www.telepolis.de/article/Bestaeuberkrise-427-000-Todesfaelle-durch-weniger-Obst-und-Gemuese-11312477.html",
-          "summary": "Reiche Länder trifft die Krise am härtesten – nicht wegen Ernteausfällen, sondern wegen Krankheiten durch fehlende Nährstoffe.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/8/0/5/shutterstock_2739176577-8a21e30ec717eb9f.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "FDP-Parteitag in Berlin: Eine Kampfabstimmung, die alles offenlegt",
-          "url": "https://www.sueddeutsche.de/politik/fdp-parteitag-kubicki-strack-zimmermann-li.3491473",
-          "summary": "Die FDP erlebt giftige Stunden: Nach der überraschenden Kandidatur von Marie-Agnes Strack-Zimmermann prallen Fans und Gegner von Wolfgang Kubicki ungebremst aufeinander. Er gewinnt nur knapp.",
+          "title": "Pressestimmen zum Champions-League-Finale: „Ein Doppelpack für die Geschichtsbücher“",
+          "url": "https://www.sueddeutsche.de/sport/champions-league-finale-pressestimmen-psg-arsenal-fussball-li.3491521",
+          "summary": "Die französischen Zeitungen feiern PSG-Trainer Luis Enrique und sein Team – in England leiden sie mit dem FC Arsenal. Die Pressestimmen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/30/c15a930a-21ee-4079-b692-b4df0250c5dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/30/7672548a-3771-45ee-bf57-f957a61c48ee.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
         },
         {
-          "title": "Klimaprotest von „Ende Gelände“: Die Klimabewegung versucht ihr Comeback",
-          "url": "https://www.sueddeutsche.de/politik/klima-demo-hamm-ende-gelaende-blockade-gas-li.3489334",
-          "summary": "Lützerath und der Boom von Fridays for Future – eine halbe Ewigkeit her. Jetzt treffen sich Klimaaktivisten in Hamm mal wieder zu größeren Blockaden und einer Demo. Ihr neuestes Feindbild: Wirtschaftsministerin Reiche. Und ein Stargast ist auch dabei.",
+          "title": "Finale der Champions League: Paris beherrscht den Kontinent",
+          "url": "https://www.sueddeutsche.de/sport/champions-league-finale-paris-psg-arsenal-havertz-budapest-li.3491488",
+          "summary": "Als erst zweite Mannschaft gewinnt Paris Saint-Germain den wichtigsten Klubwettbewerb zweimal nacheinander. Ein Tor von Kai Havertz und ein Aufreger in der Verlängerung reichen dem FC Arsenal nicht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/30/d4a19f65-5cbf-4ce0-822a-a7d4827ef8ef.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C125%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/30/a5e05737-5f59-49cf-81a4-a3cb774dfaca.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C92%2C4000%2C2250"
         },
         {
-          "title": "Stauchaos wegen Brenner-Sperre bleibt aus: „Ich habe nicht damit gerechnet, dass heute so wenig los ist“",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-demonstration-brenner-30-mai-folgen-stau-verkehr-autobahnen-li.3489941",
-          "summary": "Das Rote Kreuz, der ADAC, die Polizei – alle hatten sich wegen der Sperre am Brenner auf Mega-Staus und Verkehrschaos bis nach Bayern eingerichtet. Und dann passierte: fast nichts.",
+          "title": "Ausrichtung der Partei: Das Misstrauen in der FDP wächst. Das ist die Schuld von Kubicki und Strack-Zimmermann",
+          "url": "https://www.sueddeutsche.de/meinung/fdp-kubicki-strack-zimmermann-li.3489784",
+          "summary": "Wer sind die wahren Liberalen? Der Streit zwischen Konservativen und Progressiven hat spalterisches Potenzial.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/30/4b27fcf9-4716-4a4b-a7d2-fed046ae8967.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/30/f748e710-fb4e-433c-bf88-4458e3a6368b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
