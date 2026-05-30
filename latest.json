@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T02:00:08.416Z",
-  "timestamp": "30.5.2026, 04:00:08",
+  "generated": "2026-05-30T06:00:08.378Z",
+  "timestamp": "30.5.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,34 +35,42 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Russland: »Wladimir Putin hat begonnen, sich wirtschaftlich selbst ins Bein zu schießen«",
-          "url": "https://www.spiegel.de/wirtschaft/russland-unter-wladimir-putin-ex-kreml-berater-ueber-den-riskanten-kurswechsel-in-der-wirtschaft-a-391a0103-1a8f-4350-b99d-5e279004f151#ref=rss",
-          "summary": "Die russische Wirtschaft hat lange geboomt, nun gerät sie in Stocken. Dafür ist nicht nur der Krieg verantwortlich, sagt Ökonom Wladislaw Inosemzew. Sondern ein seltsamer Kursschwenk des Präsidenten.",
+          "title": "Frankreich: Emmanuel Macron wirbt in Europa für gemeinsamen Atomschirm",
+          "url": "https://www.spiegel.de/ausland/frankreich-emmanuel-macron-wirbt-in-europa-fuer-gemeinsamen-atomschirm-a-9a4f5595-60fe-42b4-8d81-d87ee952b100#ref=rss",
+          "summary": "Frankreich bietet immer mehr europäischen Staaten nuklearen Schutz an – auch Deutschland. Doch die finale Entscheidung über den Einsatz von Atomwaffen liegt allein in Paris. Was bedeutet das, falls 2027 Marine Le Pens Partei regiert?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/49b75c6f-2a63-4c6a-b80c-7b6ddae81800_w1200_r1.778_fpx60.64_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/11307807-de3e-4fab-8405-3c0b18cbe931_w1200_r1.778_fpx5_fpy55.jpg"
         },
         {
-          "title": "Name Donald Trump muss von Kennedy Center verschwinden",
-          "url": "https://www.spiegel.de/ausland/name-donald-trump-muss-von-kennedy-center-verschwinden-a-fa717387-4350-4fc4-8835-e9e93b0ed155#ref=rss",
-          "summary": "Der US-Präsident will sich mit seinem Namen vielerorts verewigen, doch beim Kennedy Center hat ihn nun ein Gericht gestoppt. Trumps Name muss binnen zwei Wochen entfernt werden – der Präsident wirft wütend hin.",
+          "title": "News: Wolfgang Kubicki, Robert Habeck, Kanzlertausch-Gerüchte, Marilyn Monroe",
+          "url": "https://www.spiegel.de/politik/deutschland/news-wolfgang-kubicki-robert-habeck-kanzlertausch-geruechte-marilyn-monroe-a-4120c9ba-9537-42df-8a7c-fd8a19e892c9#ref=rss",
+          "summary": "Kann Wolfgang Kubicki seine FDP aus der Todeszone retten? Außerdem: Was das Kanzlertausch-Gerücht über die politische Kultur und Friedrich Merz aussagt. Und: Wunderbare Marilyn Monroe. Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/65e78655-66d7-4673-bf0c-4153832d5ca0_w1200_r1.778_fpx58.02_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Robert Habeck im SPIEGEL-Gespräch: »Markus Söder gehört wirklich zu den Menschen, an denen ich nichts bewundere«",
-          "url": "https://www.spiegel.de/politik/deutschland/robert-habeck-im-spiegel-gespraech-markus-soeder-gehoert-wirklich-zu-den-menschen-an-denen-ich-nichts-bewundere-a-c09cae1a-f534-4e37-9c47-3c399560490d#ref=rss",
-          "summary": "Keine Sitzordnung im Bundestag, Koalitionsverträge schon im Wahlkampf: Robert Habeck denkt laut über einen anderen Politikstil nach. Im SPIEGEL-Spitzengespräch mit Markus Feldenkirchen zeigt sich der Ex-Wirtschaftsminister nachdenklich – und bissig.",
+          "title": "Gerichte prüfen Donald Trumps umstrittenen Milliardenfonds für »politische Opfer«",
+          "url": "https://www.spiegel.de/ausland/gerichte-pruefen-donald-trumps-umstrittenen-milliardenfonds-fuer-politische-opfer-a-98216c11-175d-4cb2-974f-5b5a6708aed3#ref=rss",
+          "summary": "Donald Trump klagte wegen Steuer-Enthüllungen gegen die US-Regierung – und erzielte eine für ihn äußerst attraktive außergerichtliche Einigung mit seinem eigenen Justizminister. Jetzt schalten sich Gerichte ein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/db354151-a648-4f29-ad93-fcc019e77492_w1200_r1.778_fpx31.34_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/580bc3d6-78f1-4133-bda3-97a299bf94ca_w1200_r1.778_fpx64.18_fpy50.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Digitalminister: G7 wollen Minderjährige im Netz besser schützen",
+          "url": "https://www.tagesschau.de/ausland/g7-kinderschutz-100.html",
+          "summary": "Mehr Altersüberprüfungen, stärkerer Kampf gegen illegale Inhalte: Die G7-Digitalminister haben sich auf gemeinsame Grundsätze zum Schutz von Minderjährigen im Netz geeinigt. Beim Thema KI gab es keine gemeinsame Linie.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/fa1bd5ae-6580-4578-b02d-7519f1476a04/AAABnnbZ330/AAABnSSvrFg/16x9-big/kind-sofa-100.jpg?width=1280"
+        },
         {
           "title": "Syrien: Euphrat-Hochwasser sorgt für Überschwemmungen",
           "url": "https://www.tagesschau.de/ausland/asien/ueberflutungen-syrien-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/aa329393-d125-4093-ad8f-7a42defc3439/AAABnZct3E0/AAABnSSvrFg/16x9-big/weisses-haus-256.jpg?width=1280"
-        },
-        {
-          "title": "Nach Hitze: Unwetter sorgen für zahlreiche Feuerwehreinsätze",
-          "url": "https://www.tagesschau.de/inland/unwetter-1168.html",
-          "summary": "Umgestürzte Bäume, vollgelaufene Keller, unterbrochene Veranstaltungen: Gewitter und Starkregen haben vor allem in NRW und Niedersachen für viele Einsätze bei Rettungskräften gesorgt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/de50b346-6ef4-4473-b2af-876abcd1e8bf/AAABnnaV_aU/AAABnSSvrFg/16x9-big/auto-regen-100.jpg?width=1280"
         }
       ]
     },
@@ -124,15 +124,15 @@
         {
           "title": "USA: Trumps Name muss vom Kennedy-Center entfernt werden",
           "url": "https://www.sueddeutsche.de/politik/usa-liveblog-news-kennedy-center-trump-li.3478505",
-          "summary": "Ein Bundesrichter hat entschieden, dass eine Namensänderung vom Kongress hätte bewilligt werden müssen. In Louisiana teilen Republikaner Wahlbezirke neu auf.",
+          "summary": "Ein Bundesrichter entscheidet, dass eine Namensänderung vom Kongress hätte bewilligt werden müssen. Der US-Präsident reagiert verärgert.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/29/28b35d9b-7a25-4cc7-92e7-e445f277866e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: Trump kündigt „endgültige Entscheidung“ zu Iran an",
-          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-trump-waffenruhe-iran-li.3487408",
-          "summary": "Er werde sich ins Lagezentrum des Weißen Hauses begeben, schreibt der US-Präsident auf Truth Social. Berichten zufolge endete auch dieses Treffen ohne Ergebnis.",
+          "title": "Krieg in Nahost: Trumps angekündigte Entscheidung zu Iran-Abkommen bleibt aus",
+          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-trump-waffenruhe-iran-usa-li.3487408",
+          "summary": "Der US-Präsident hatte eine „endgültige Entscheidung“ am Freitag versprochen. Doch nach einer Lagebesprechung im Weißen Haus endet auch diese Frist ohne Ergebnis.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/05/29/56366c00-1233-4f97-891a-5762a6cf9234.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C260%2C3500%2C1969"
