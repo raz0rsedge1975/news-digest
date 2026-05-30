@@ -1,17 +1,25 @@
 {
-  "generated": "2026-05-30T14:00:08.597Z",
-  "timestamp": "30.5.2026, 16:00:08",
+  "generated": "2026-05-30T18:00:09.287Z",
+  "timestamp": "30.5.2026, 20:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Deutschland-Liveblog: Strack-Zimmermann kandidiert als Parteivorsitzende der FDP",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-strack-zimmermann-kandidiert-als-parteivorsitzende-der-fdp-faz-110093143.html",
-          "summary": "Kampfkandidatur auf Berliner Parteitag gegen Kubicki +++ Bewerbungsreden um den FDP-Vorsitz +++ Wüst sichert Merz volle Unterstützung zu +++ alle Entwicklungen im Liveblog",
+          "title": "FDP-Bundesvorsitz: Wie Strack-Zimmermann Kubicki überraschte",
+          "url": "https://www.faz.net/aktuell/politik/inland/fdp-vorsitz-wie-strack-zimmermann-kubicki-ueberraschte-accg-200883202.html",
+          "summary": "Wolfgang Kubicki trat ohne Konkurrenz für den FDP-Chefposten beim Parteitag an – bis ihn eine alte Rivalin herausforderte. Es wurde zum Duell der Schlachtrösser.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e0360a11d751/w5808h3034x0y243o/202605/43601.0.2163799922/verkuendet-auf-dem-parteitag.webp"
+          "image": "https://media0.faz.net/image/w1200h627/fbddde63dd57/w4800h2508x0y347o/202605/43601.0.2164462683/marie-agnes-strack-zimmermann.webp"
+        },
+        {
+          "title": "Deutschland-Liveblog: Kubicki gewinnt Kampfabstimmung um Bundesvorsitz der FDP",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-kubicki-zum-bundesvorsitzenden-der-fdp-gewaehlt-faz-110093143.html",
+          "summary": "Höne wird Stellvertreter, Hagel neuer Generalsekretär +++  Kubicki spricht in erster größerer Rede als Parteichef über Grundsätzliches +++ überraschende Kandidatur von Strack-Zimmermann +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b0b91245797c/w5808h3034x0y419o/202605/43601.0.2164442453/wolfgang-kubicki-beim.webp"
         },
         {
           "title": "Wahl Kubickis: Die FDP im postliberalen Zeitalter",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/4c7c066e6c53/w5030h2628x0y228o/202605/43601.0.2163708950/wolfgang-kubicki-designierter.webp"
-        },
-        {
-          "title": "Die FDP und die Jugend: Mehr TikTok, weniger Talkshows",
-          "url": "https://www.faz.net/aktuell/politik/inland/wolfgang-kubicki-bei-vielen-fdp-julis-stoesst-er-auf-skepsis-accg-200869650.html",
-          "summary": "Vor ein paar Jahren war die FDP noch die Partei der Jugend. Doch wie „jugendnah“ ist eigentlich Wolfgang Kubicki?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f8ec1cd88faa/w7134h3727x0y177o/202605/43601.0.2160747115/die-jungen-in-der-fdp-sind.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "FDP: Marie-Agnes Strack-Zimmermann tritt gegen Wolfgang Kubicki an",
-          "url": "https://www.spiegel.de/politik/deutschland/fdp-marie-agnes-strack-zimmermann-tritt-gegen-wolfgang-kubicki-an-a-695c1c5d-7055-4367-bee4-443d421fd0ba#ref=rss",
-          "summary": "Beim FDP-Parteitag kommt es zum überraschenden Showdown zweier Rivalen: Eigentlich wollte sich Wolfgang Kubicki unangefochten zum Parteichef wählen lassen. Nun fordert ihn Marie-Agnes Strack-Zimmermann heraus.",
+          "title": "Robert Habeck im SPIEGEL-Talk: Kehren Sie zurück?",
+          "url": "https://www.spiegel.de/politik/robert-habeck-im-spiegel-talk-kehren-sie-zurueck-a-5b08b5c7-16e5-4faa-92aa-418dd4d73159#ref=rss",
+          "summary": "Im SPIEGEL-Talk auf der Bühne des Admiralspalasts spricht Robert Habeck über seine Vision für Europa, persönliche Fehler – und die Frage: Ist unsere Welt aus den Fugen?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b1cc7a51-6c08-43ec-8734-87df0cae8878_w1200_r1.778_fpx38_fpy48.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d54da421-1cfe-4234-929f-9f6adff08fc3_w1200_r1.778_fpx47_fpy31.jpg"
         },
         {
-          "title": "Russland-Ukraine-Krieg: Warum griffen Kyjiws Truppen ein Studierendenwohnheim an?",
-          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-warum-griffen-kyjiws-truppen-ein-studierendenwohnheim-in-luhansk-an-a-988a739b-ae1b-4469-bd92-2d4ad1deee11#ref=rss",
-          "summary": "Ukrainische Drohnen sollen in der besetzten Region Luhansk 21 junge Menschen getötet haben. Wladimir Putin spricht von »Terror« gegen Zivilisten. Kyjiw beharrt darauf, ein militärisches Ziel getroffen zu haben. Was bekannt ist.",
+          "title": "Champions League: Paris Saint-Germain oder Arsenal - wer ist das beste Team Europas?",
+          "url": "https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-oder-arsenal-wer-ist-das-beste-team-europas-a-6a56bb4d-8828-4e93-bee3-42559fed264c#ref=rss",
+          "summary": "Lange fiel Paris keine Antwort auf den Führungstreffer von DFB-Star Havertz ein. Dann ging Kvaratskhelia im Londoner Strafraum zu Boden. Verfolgen Sie die Partie im Livekommentar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e0986d6e-131c-4428-ab4b-bc88cf8ea5b3_w1200_r1.778_fpx47.27_fpy54.87.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a1822a7a-59a3-41d0-a033-5aea07738dc2_w1200_r1.778_fpx49_fpy37.jpg"
         },
         {
-          "title": "Peter Thiel: US-Milliardär soll sich Zufluchtsort in Argentinien aufgebaut haben",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/peter-thiel-soll-sich-zufluchtsort-in-buenos-aires-aufgebaut-haben-a-012abffe-e7ab-4a42-bb59-371d43c721eb#ref=rss",
-          "summary": "Flüchtet der rechtsgerichtete Unternehmer aus den USA nach Argentinien? Peter Thiel arbeitet laut »New York Times« an einem neuen Leben in Buenos Aires. Dahinter sollen politische Gründe stecken.",
+          "title": "Donald Trump vs. E. Jean Carroll: Trump geht mit Justizministerium gegen Klägerin vor",
+          "url": "https://www.spiegel.de/ausland/donald-trump-vs-e-jean-carroll-trump-geht-mit-justizministerium-gegen-klaegerin-vor-a-2ffa3cdb-c14c-4cf8-96db-a00547ca6fe2#ref=rss",
+          "summary": "Die Autorin E. Jean Carroll verklagte Donald Trump wegen sexueller Belästigung und Verleumdung. Er wurde zu 88,3 Millionen Dollar Schadensersatz verurteilt. Statt zu zahlen, schlägt er nun zurück – mithilfe des Justizministeriums.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d67cc254-82ce-4ec7-b24c-d1c2dae81060_w1200_r1.778_fpx58.65_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8e9ce220-1728-4cbb-bb6e-cbf876d47d66_w1200_r1.778_fpx42_fpy50.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Sensorpflaster als Lebensretter im Katastrophenfall",
-          "url": "https://www.tagesschau.de/wissen/forschung/katastrophenhilfe-sensorpflaster-100.html",
-          "summary": "Welche Verletzten werden zuerst versorgt? Das müssen Rettungskräfte im Katastrophenfall sekundenschnell entscheiden. Ein neues Sensorpflaster soll sie nun entlasten. Es sendet Vitaldaten der Opfer per Funk und könnte damit Leben retten.",
+          "title": "Machtkampf in der Türkei: Großdemonstration für abgesetzten CHP-Chef Özel",
+          "url": "https://www.tagesschau.de/ausland/europa/tuerkei-protest-112.html",
+          "summary": "Seit einem Gerichtsurteil ist in der türkischen Oppositionspartei CHP unklar, wer künftig den Kurs vorgibt: der durch das Urteil abgesetzte CHP-Chef Özel oder sein Vorgänger Kilicdaroglu? Nun haben beide Kontrahenten ihre Anhänger mobilisiert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8c10583d-428f-4bc6-8c36-5afbccb440d6/AAABnm4rjyo/AAABnSSvrFg/16x9-big/rettungswagen-blaulicht-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/10b471ce-8e58-4977-89ba-401e0403b09f/AAABnnnumG0/AAABnSSvrFg/16x9-big/oezel-110.jpg?width=1280"
         },
         {
-          "title": "Warum sich Menschen für den schönsten Tag im Leben verschulden",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/hochzeit-finanzen-schulden-pleite-100.html",
-          "summary": "Die Hochzeit soll der schönste Tag im Leben sein - da will man nicht geizen. Doch der Wunsch nach Perfektion ist so groß, dass jedes dritte Paar bereit ist, sich zu verschulden. Ist das sinnvoll? Hiltscher und D.",
+          "title": "Star-Wars-Cutterin Marcia Lucas ist mit 80 Jahren gestorben",
+          "url": "https://www.tagesschau.de/kultur/star-wars-marcia-lucas-100.html",
+          "summary": "Viele kennen die Star-Wars-Filme, doch nur wenige die Namen dahinter: Einer von ihnen ist Marcia Lucas. Sie prägte als Film-Editorin einige der ikonischsten Momente der Saga. Nun ist sie im Alter von 80 Jahren gestorben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bb92774f-3c25-4087-831a-a5c1f83a3e66/AAABlgZAAyQ/AAABnSSvrFg/16x9-big/hochzeit-117.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b9df578a-71d1-40d0-be9e-c91c5302be37/AAABnnnEigc/AAABnSSvrFg/16x9-big/marcia-lucas-100.jpg?width=1280"
         },
         {
-          "title": "Strack-Zimmermann kandidiert überraschend für FPD-Vorsitz",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/kandidatur-strack-zimmermann-fdp-100.html",
-          "summary": "Bis kurz vor der Wahl des neuen FDP-Parteichefs sah es so aus, als sei Kubicki der einzige Kandidat für den Posten. Doch ein anderes bekanntes Gesicht der Liberalen wirft überraschend ihren Hut in den Ring: die Verteidigungspolitikerin Strack-Zimmermann.",
+          "title": "Familienministerin Prien gegen Bildschirmzeit für kleine Kinder",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/familienministerium-bildschirmzeit-kinder-100.html",
+          "summary": "Kein Kontakt zu Smartphones und Tablets für Kinder unter drei Jahren: Das fordert Familienministerin Prien. Um das zu erreichen, will die CDU-Politikerin auch über gesetzliche Regelungen nachdenken. Von Ruth Kirchner.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/30c168f1-5a12-476f-9833-426cf9d39b39/AAABnnj72OI/AAABnSSvrFg/16x9-big/strack-zimmermann-170.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c9a6d379-93ee-4ddf-b260-e8b0e022f244/AAABnnlA-s4/AAABnSSvrFg/16x9-big/kleinkind-smartphone-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Nicht die Eltern versagen – Gerichte nehmen jetzt Meta und TikTok in die Pflicht",
-          "url": "https://www.telepolis.de/article/Nicht-die-Eltern-versagen-Gerichte-nehmen-jetzt-Meta-und-TikTok-in-die-Pflicht-11312465.html",
-          "summary": "Ein kleiner Schulbezirk zwang Meta, TikTok und Co. zur Zahlung von 27 Millionen Dollar – und Gerichte sehen Suchtdesign jetzt als Produktfehler.",
+          "title": "SpaceX vor Börsengang: Pensionsfonds setzt Musks Firma auf die schwarze Liste",
+          "url": "https://www.telepolis.de/article/SpaceX-vor-Boersengang-Pensionsfonds-setzt-Musks-Firma-auf-die-schwarze-Liste-11312511.html",
+          "summary": "Ein dänischer Pensionsfonds hält SpaceX für massiv überbewertet und kritisiert die extreme Machtkonzentration bei Elon Musk vor dem geplanten Börsengang.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/7/9/9/shutterstock_2715815691-24b20569200d3094.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/8/2/2/shutterstock_2580601423-3601238a77abb616.jpg"
         },
         {
-          "title": "Niemand will Walfleisch – trotzdem werden Fangquoten erhöht",
-          "url": "https://www.telepolis.de/article/Niemand-will-Walfleisch-trotzdem-werden-Fangquoten-erhoeht-11307401.html",
-          "summary": "Norwegen erhöht die Fangquote, obwohl Walfleisch kaum jemand will – und das hat einen überraschenden Grund.",
+          "title": "Der Sozialstaat braucht Nachwuchs – die Moderne nicht",
+          "url": "https://www.telepolis.de/article/Der-Sozialstaat-braucht-Nachwuchs-die-Moderne-nicht-11312485.html",
+          "summary": "Kinder sind heute Privatsache. Doch Renten, Pflege und Krankenversicherung beruhen darauf, dass genügend Menschen trotzdem welche bekommen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/9/2/2/1/harpune-F-1-4bb67e23b66ca06e.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/8/0/9/master_Kinder-d5c59cd80df388a3.jpg"
         },
         {
-          "title": "Neuhardenberg: Das Dorf, in dem ganz Deutschland steckt",
-          "url": "https://www.telepolis.de/article/Neuhardenberg-Das-Dorf-in-dem-ganz-Deutschland-steckt-11312395.html",
-          "summary": "Quilitz, Neu-Hardenberg, Marxwalde: An einem Ort lassen sich 250 Jahre deutscher Geschichte ablesen – von Preußen bis Tesla.",
+          "title": "Bestäuberkrise: 427.000 Todesfälle durch weniger Obst und Gemüse",
+          "url": "https://www.telepolis.de/article/Bestaeuberkrise-427-000-Todesfaelle-durch-weniger-Obst-und-Gemuese-11312477.html",
+          "summary": "Reiche Länder trifft die Krise am härtesten – nicht wegen Ernteausfällen, sondern wegen Krankheiten durch fehlende Nährstoffe.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/7/6/4/Master_neuhardenberg-fd97e8a9d5d04e0e.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/8/0/5/shutterstock_2739176577-8a21e30ec717eb9f.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nach Pfingstbrief: Weber legt nach: Debatte in CSU ist notwendig",
-          "url": "https://www.sueddeutsche.de/bayern/csu-bayern-markus-soeder-manfred-weber-pfingstbrief-neuausrichtung-debatte-li.3491432",
-          "summary": "Mit seinem „Pfingstbrief“ hat CSU-Vize Manfred Weber für Aufmerksamkeit gesorgt. Nun benennt er weitere Forderungen - will darin aber keine Personaldebatte sehen.",
+          "title": "FDP-Parteitag in Berlin: Eine Kampfabstimmung, die alles offenlegt",
+          "url": "https://www.sueddeutsche.de/politik/fdp-parteitag-kubicki-strack-zimmermann-li.3491473",
+          "summary": "Die FDP erlebt giftige Stunden: Nach der überraschenden Kandidatur von Marie-Agnes Strack-Zimmermann prallen Fans und Gegner von Wolfgang Kubicki ungebremst aufeinander. Er gewinnt nur knapp.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/30/66a5d50a-5bc1-478c-859d-2095aee0e8a8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C200%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/30/c15a930a-21ee-4079-b692-b4df0250c5dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Edgar Morin: Er legte sich mit allen an",
-          "url": "https://www.sueddeutsche.de/kultur/edgar-morin-tot-soziologe-alter-li.3491344",
-          "summary": "Der große Soziologe Edgar Morin sagte stets, was ihn störte. Vielen Kollegen ging er auf die Nerven, doch im Alter fragten ihn die französischen Präsidenten um Rat. Nun ist er mit 104 Jahren gestorben. Eine Würdigung.",
+          "title": "Klimaprotest von „Ende Gelände“: Die Klimabewegung versucht ihr Comeback",
+          "url": "https://www.sueddeutsche.de/politik/klima-demo-hamm-ende-gelaende-blockade-gas-li.3489334",
+          "summary": "Lützerath und der Boom von Fridays for Future – eine halbe Ewigkeit her. Jetzt treffen sich Klimaaktivisten in Hamm mal wieder zu größeren Blockaden und einer Demo. Ihr neuestes Feindbild: Wirtschaftsministerin Reiche. Und ein Stargast ist auch dabei.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/30/28e1388d-0f42-49ab-9901-1d3c88b7c7de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/30/d4a19f65-5cbf-4ce0-822a-a7d4827ef8ef.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C125%2C4000%2C2250"
         },
         {
-          "title": "Lola-Verleihung in Berlin: Die Macht der Erinnerungen",
-          "url": "https://www.sueddeutsche.de/kultur/filmpreis-wim-wenders-nastassja-kinski-filme-auszeichnungen-li.3490292",
-          "summary": "Beim Deutschen Filmpreis 2026 kann man einen nachdenklichen Wim Wenders und viele starke Frauen erleben, außerdem eine umjubelte Senta Berger. Es ist ein Abend der kleinen Pannen und der großen Emotionen.",
+          "title": "Stauchaos wegen Brenner-Sperre bleibt aus: „Ich habe nicht damit gerechnet, dass heute so wenig los ist“",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-demonstration-brenner-30-mai-folgen-stau-verkehr-autobahnen-li.3489941",
+          "summary": "Das Rote Kreuz, der ADAC, die Polizei – alle hatten sich wegen der Sperre am Brenner auf Mega-Staus und Verkehrschaos bis nach Bayern eingerichtet. Und dann passierte: fast nichts.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/30/b12bcc56-5cb1-46a4-8fc3-72e2ec8d02bf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/05/30/4b27fcf9-4716-4a4b-a7d2-fed046ae8967.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
