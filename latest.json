@@ -1,39 +1,47 @@
 {
-  "generated": "2026-05-31T14:00:08.696Z",
-  "timestamp": "31.5.2026, 16:00:08",
+  "generated": "2026-05-31T18:00:09.160Z",
+  "timestamp": "31.5.2026, 20:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Wohnen in heißen Städten: Ist diese Mutation zum Höhlenmenschen unvermeidlich?",
-          "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/hitze-in-den-staedten-bauen-im-zeitalter-des-schattens-accg-200879321.html",
-          "summary": "46 Grad, und es wird noch heißer: Der Klimawandel macht viele Städte unbewohnbar. Teile Europas werden ohne Klimaanlagen nicht mehr auszuhalten sein. Kann eine neue Architektur für die ersehnte Abkühlung sorgen?",
+          "title": "Parteitag: Die FDP will die Erbschaftsteuer abschaffen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wolfgang-kubicki-die-fdp-will-die-erbschaftsteuer-abschaffen-200884417.html",
+          "summary": "Die FDP will die Menschen nicht betreuen, sondern beflügeln: „Wir wollen also nicht Milliardäre abschaffen, sondern dafür sorgen, dass jeder Milliardär werden kann, wenn er sich anstrengt“, sagt der neue Parteichef Wolfgang Kubicki.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/05c9bcb6a082/w2498h1305x22y238o/202605/692a3b34-5915-11f1-8413-71841d673283/ist-die-zukunft-des-hochhauses.webp"
+          "image": "https://media0.faz.net/image/w1200h627/902fa0d5a36e/w3854h2013x0y77o/202605/43601.0.2164472627/angriffslustig-wolfgang.webp"
         },
         {
-          "title": "Schulleiterin macht mut: „Die Message bei schlechten Noten ist: Du bist schwierig, du genügst nicht“",
-          "url": "https://www.faz.net/aktuell/besser-leben/familie/wie-das-bildungssystem-sich-aendern-muesste-erzaehlt-eine-schulleiterin-accg-200875157.html",
-          "summary": "Ausgebrannte Lehrer, verhaltensauffällige Schüler und Eltern, die kaum zu erreichen sind: Unser Bildungssystem scheint überfordert. Warum die Schulleiterin Swantje Dietrich optimistisch bleibt.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/37651f29e90a/w3000h1567x0y404o/202605/035a0682-5905-11f1-9457-f347112ff4bd/eine-sozial-herausfordernde.webp"
-        },
-        {
-          "title": "Neustart der FDP?: Kubicki hat seiner Konkurrenz etwas voraus",
-          "url": "https://www.faz.net/aktuell/politik/inland/neustart-der-fdp-mit-kubicki-die-luecke-des-liberalismus-200884419.html",
-          "summary": "Das Potential für liberale Politik ist groß. Jetzt gilt es für die Freien Demokraten. Ungeachtet des durchwachsenen Parteitags hat der neue Vorsitzende eine echte Chance.",
+          "title": "FDP-Programmatik: Der doppelte Befreiungsschlag",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/neustart-deutschland-die-vielleicht-letzte-chance-der-fdp-200884251.html",
+          "summary": "„Neustart Deutschland“ steht über dem Leitantrag, über den am Sonntag auf dem FDP-Parteitag diskutiert wurde. Gilt das mit der Neuaufstellung auch für die Partei selbst?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/746d28e429ff/w5030h2628x0y314o/202605/43601.0.2163708950/in-neuer-rolle-wolfgang.webp"
+          "image": "https://media0.faz.net/image/w1200h627/faff9ac9c313/w7694h4020x269y154o/202605/43601.0.2163841327/delegierte-diskutieren-wie-die.webp"
+        },
+        {
+          "title": "Neuer FDP-Generalsekretär: Keine Angst vor dem Zeitgeist",
+          "url": "https://www.faz.net/aktuell/politik/inland/martin-hagen-kubickis-fdp-generalsekretaer-polarisiert-200883954.html",
+          "summary": "Der neue FDP-Generalsekretär Martin Hagen setzt auf Zuspitzung statt auf Konsens. Mit Kubicki ist er da ganz auf einer Linie.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c32f45afe3c0/w6000h3135x0y156o/202605/43601.0.2165028657/martin-hagen-waehrend-seiner.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Primatologin Christine Webb: Warum sie im Zweifel auch einen Hund retten würde statt einen Menschen",
+          "url": "https://www.spiegel.de/wissenschaft/christine-webb-warum-sie-im-zweifel-auch-einen-hund-retten-wuerde-statt-einen-menschen-a-a5740db6-c72d-49c2-8fa7-41957a127ff2#ref=rss",
+          "summary": "Der Mensch hält sich für etwas Besseres. Die US-Primatologin Christine Webb sieht darin den großen Fluch unserer Zeit. Sie könnte sich vorstellen, einen Mann sterben zu lassen – zugunsten dreier Hunde.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/5685473a-da5a-47fe-9d25-efb3b1c9ec57_w1200_r1.778_fpx43_fpy34.jpg"
+        },
         {
           "title": "NSDAP-Mitgliederkartei: Bisher kein Treffer? So können Sie weitersuchen",
           "url": "https://www.spiegel.de/geschichte/nsdap-mitgliederkartei-bisher-kein-treffer-so-koennen-sie-weitersuchen-a-8d3dd4ec-3977-44a2-9536-d3fa61e42c04#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/3e9cda7f-d51e-49a4-bdb6-5609300bdfd2_w1200_r1.778_fpx57.27_fpy50.jpg"
         },
         {
-          "title": "FDP: Wolfgang Kubicki attackiert unterlegene Marie-Agnes Strack-Zimmermann – »Jetzt weißt du, wo der Hammer hängt«",
-          "url": "https://www.spiegel.de/politik/deutschland/fdp-wolfgang-kubicki-attackiert-unterlegene-marie-agnes-strack-zimmermann-jetzt-weisst-du-wo-der-hammer-haengt-a-87285ced-2ca2-426d-b0f8-561dd9f3ec00#ref=rss",
-          "summary": "Ihren Vorsitzenden hat die FDP gewählt, doch von Frieden kann in der Partei keine Rede sein. Auch am Tag nach der turbulenten Abstimmung ätzen die Kontrahenten Kubicki und Strack-Zimmermann gegeneinander.",
+          "title": "FDP: Wie der Konflikt zwischen Kubicki und Strack-Zimmermann die Partei belastet",
+          "url": "https://www.spiegel.de/politik/deutschland/zukunft-der-liberalen-dieser-interne-zwist-kann-die-fdp-endgueltig-zerstoeren-a-76c2e94c-4dda-4168-9e8d-5e04b5429c15#ref=rss",
+          "summary": "Die Kampfabstimmung um den Vorsitz hat die FDP aufgewühlt. Aber wenn sich der neue Parteichef Kubicki und die unterlegene Strack-Zimmermann nicht zusammenreißen, können die Liberalen dichtmachen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/20be8594-4598-4465-818e-50be2c3b41e5_w1200_r1.778_fpx52_fpy36.jpg"
-        },
-        {
-          "title": "Geldanlage: Ich habe 100 Euro im Monat übrig. Wie soll ich sie anlegen?",
-          "url": "https://www.spiegel.de/wirtschaft/geldanlage-ich-habe-100-euro-im-monat-uebrig-wie-soll-ich-sie-anlegen-a-f41fead5-422d-42d4-9cd5-31fbce5a6b2f#ref=rss",
-          "summary": "Die Investmentexpertin Anja Mikus leitet den deutschen Staatsfonds Kenfo und muss aus 25 Milliarden Euro 130 Milliarden machen. Hier erklärt sie, worauf bei langfristiger Geldanlage zu achten ist und warum eine Aktienrente sinnvoll ist.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/046cf6ea-433b-4dca-b09e-26e05bdda00e_w1200_r1.778_fpx54_fpy37.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/385e3d3a-8277-436b-9618-20f20dbb7ea1_w1200_r1.778_fpx47.31_fpy46.96.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Autos in Nordkorea: Plötzlich Parkplatzmangel in Pjöngjang?",
-          "url": "https://www.tagesschau.de/ausland/asien/nordkorea-autos-100.html",
-          "summary": "In der nordkoreanischen Hauptstadt Pjöngjang soll es immer mehr Autos geben. Das zeigen wohl Satellitenbilder und private Aufnahmen aus dem abgeschotteten und streng sanktionierten Land. Was steckt dahinter? Von Thorsten Iffland.",
+          "title": "Wadephul wirbt für Deutschlands Sitz im UN-Sicherheitsrat",
+          "url": "https://www.tagesschau.de/inland/deutschland-un-sicherheitsrat-100.html",
+          "summary": "Deutschland erhofft sich mehr Einfluss durch einen Sitz im UN-Sicherheitsrat. Außenminister Wadephul ist aktuell auf Werbetour. Im Bericht aus Berlin wirbt er für Deutschland als Vermittler. Ein Selbstläufer ist die Abstimmung am Mittwoch aber nicht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b1321a05-3ca9-40bf-97ea-3c3d014f9d6c/AAABnk_l4Qk/AAABnSSvrFg/16x9-big/autos-parkplatz-nordkorea-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b8eaeaa2-0782-4bce-b3db-2c0c5db3f02c/AAABnn8mzaA/AAABnSSvrFg/16x9-big/wadephul-vereinte-nationen-102.jpg?width=1280"
         },
         {
-          "title": "Streit zwischen Union und SPD: BAföG-Reform auf der Kippe",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-koalition-100.html",
-          "summary": "Es knirscht mal wieder in der Koalition: Bundesforschungsministerin Bär hat sich von einer schnellen BAföG-Erhöhung verabschiedet. Dafür gebe es keinen Rückhalt in der Koalition. Die SPD widerspricht. Von Ruth Kirchner.",
+          "title": "Mehr als 50 Tote bei Explosion in Rebellengebiet von Myanmar",
+          "url": "https://www.tagesschau.de/ausland/asien/myanmar-explosion-100.html",
+          "summary": "Nach einer Explosion in einem Munitionslager in Myanmar sind mindestens 50 Menschen ums Leben gekommen. Dutzende weitere wurden verletzt. Offenbar detonierte durch ein Versehen Sprengstoff, der für den Bergbau vorgesehen war.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c617c19d-75c5-4df8-97c0-62d0acb0d9cc/AAABngJMz5g/AAABnSSvrFg/16x9-big/studium-126.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/637fb4f5-a438-48bd-9bd3-ec06a35e9ef4/AAABm2S444g/AAABnSSvrFg/16x9-big/myanmar-592.jpg?width=1280"
         },
         {
-          "title": "Maltas Regierungspartei erringt vierten Wahlsieg in Folge",
-          "url": "https://www.tagesschau.de/ausland/europa/malta-wahlen-ergebnis-abela-wiedergewaehlt-100.html",
-          "summary": "Angesichts internationaler Krisen wollte Maltas Premier Abela von den Bürgern ein neues Mandat für seine Regierung bekommen. Das erhielt seine Labour-Partei bei der Wahl auch - allerdings wohl knapper als gedacht.",
+          "title": "Israels Bodenoffensive im Libanon geht weiter: Experte sieht \"Wendepunkt\"",
+          "url": "https://www.tagesschau.de/ausland/libanon-israel-festung-100.html",
+          "summary": "Israel rückt weiter im Libanon vor. Nun hat die Armee eine strategisch wichtige Festung eingenommen. Ein Experte sieht einen \"Wendepunkt\" gekommen, die libanesische Regierung kritisiert den Einsatz massiv.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5fbdcf3f-25a1-4a91-9eb3-846c643aa05f/AAABnn2tJR0/AAABnSSvrFg/16x9-big/wahl-malta-abela-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1368cb91-bdbb-4cca-b88f-95a9656307bf/AAABnn56pmc/AAABnSSvrFg/16x9-big/beaufort-libanon-israel-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Atomare Abschreckung: Der Westen verliert sein stärkstes Argument",
+          "url": "https://www.telepolis.de/article/Atomare-Abschreckung-Der-Westen-verliert-sein-staerkstes-Argument-11312711.html",
+          "summary": "Der Westen fordert atomaren Verzicht, hält aber selbst an nuklearen Sonderregeln fest. Die Folge: Das Fundament des Nichtverbreitungsvertrags gerät unter Druck.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/9/2/2/master_nuklear-e09f0a66a3eb2605.jpg"
+        },
         {
           "title": "KI und das Orakel von Delphi: Warum beide mit Deutung statt Wissen arbeiten",
           "url": "https://www.telepolis.de/article/KI-und-das-Orakel-von-Delphi-Warum-beide-mit-Deutung-statt-Wissen-arbeiten-11311093.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/9/0/2/shutterstock_2553197117-e2bab82001cab208.jpg"
-        },
-        {
-          "title": "\"Soziale Medien treiben junge Männer immer tiefer in extreme Rollenbilder\"",
-          "url": "https://www.telepolis.de/article/Soziale-Medien-treiben-junge-Maenner-immer-tiefer-in-extreme-Rollenbilder-11312641.html",
-          "summary": "Vom Muskel-Content zur Manosphere: Medienforscherin Maya Götz über Algorithmen und gefährlich einfache Antworten zu Klimawandel, Erfolg und Männlichkeit.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/8/8/7/Grafik_Master_1-ea94c7d964d66153.png"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Überflutete Goldmine: „Sie sind von selbst aus der Höhle gekrabbelt, das sagt schon viel über sie“",
-          "url": "https://www.sueddeutsche.de/panorama/laos-goldmine-rettung-arbeitern-xaisomboun-li.3491628",
-          "summary": "Tagelang sind Goldsucher in einer überfluteten Höhle  gefangen, eingeschlossen in beängstigender Enge. Gerade als Retter aufbrechen wollen, schaffen es vier der Männer aus eigener Kraft an die Oberfläche. Doch das Drama ist nicht vorbei.",
+          "title": "Netflix: Emily wohnt nicht mehr hier",
+          "url": "https://www.sueddeutsche.de/wirtschaft/paris-emily-drehort-immobilienmarkt-li.3487753",
+          "summary": "Die Kultserie „Emily in Paris“ wird eingestellt. Für Fans eine traurige Nachricht – aber was bedeutet das für jene Menschen in Paris, die damit ihr Geld verdient haben? Ein Spaziergang durch die französische Hauptstadt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/31/b70b4d98-da6b-4824-91cb-0d0c2a8f5fa2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/05/31/a0acf0a5-ac7c-4495-8cb6-420b80707ead.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Arsenals Niederlage im Champions-League-Finale: Die Standardkönige scheitern an Elfmetern",
-          "url": "https://www.sueddeutsche.de/sport/champions-league-finale-paris-arsenal-elfmeter-havertz-li.3491613",
-          "summary": "Der Fluch hält an: Weil Arsenal einen Strafstoß verursacht und zwei Elfmeter verballert, verpasst der Klub erneut seinen ersten Champions-League-Titel. Torschütze Kai Havertz bleibt ein Eintrag in die Geschichtsbücher verwehrt.",
+          "title": "Champions-League-Finale: Gut für den Fußball, dass Arsenals Zynismus besiegt wurde",
+          "url": "https://www.sueddeutsche.de/sport/champions-league-finale-arsenal-taktik-arteta-kommentar-li.3491633",
+          "summary": "Die Fantasie von Trainer Mikel Arteta reicht derzeit selten über die Freude an der Zerstörung hinaus. Mit diesem Fußball kommt er beinahe auch im Finale durch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/31/a6b2760a-bea5-491d-a297-cc6d5f8f8917.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=694%2C115%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/05/31/05deb150-d461-4b36-a712-82d0b7668701.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Zweiter Champions-League-Titel für PSG: Europa sollte gewarnt sein",
-          "url": "https://www.sueddeutsche.de/sport/champions-league-titel-psg-li.3491617",
-          "summary": "Mit der erfolgreichen Titelverteidigung reiht sich Paris Saint-Germain unter die großen europäischen Klubs ein. Im Finale von Budapest gewinnt das Team, das Fußball spielen will – und schon die nächsten Ziele im Visier hat.",
+          "title": "Podcast: „Auf den Punkt“: Kann Kubicki die FDP retten?",
+          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-fdp-kubicki-li.3491612",
+          "summary": "Der neue FDP-Chef ist Instinktpolitiker. Seine Unberechenbarkeit ist seine Stärke – und seine Schwäche.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/05/31/32d9eefb-2fd5-4858-ab9c-c432ee52c738.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C277%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
         }
       ]
     }
