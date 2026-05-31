@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T22:00:08.054Z",
-  "timestamp": "31.5.2026, 00:00:08",
+  "generated": "2026-05-31T02:00:07.915Z",
+  "timestamp": "31.5.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Nach Champions-League-Sieg: Festnahmen und Ausschreitungen in Paris",
+          "url": "https://www.tagesschau.de/ausland/europa/ausschreitungen-paris-psg-100.html",
+          "summary": "In Paris wurde der Champions-League-Sieg von PSG ausgelassen gefeiert. Nach massiven Ausschreitungen im Vorjahr war die Polizei mit etwa 8. 000 Kräften im Einsatz. Es gab zahlreiche Festnahmen und einige Zwischenfälle.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/671a60e4-90a3-440e-92dd-7577589828f4/AAABnnsw43I/AAABnSSvrFg/16x9-big/paris-psg-ausschreitungen-100.jpg?width=1280"
+        },
+        {
+          "title": "US-Armee beschießt erneut Schiff im Golf von Oman",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-angriff-strasse-von-hormus-100.html",
+          "summary": "Die Straße von Hormus ist weitgehend blockiert: Nun teilt die US-Armee mit, erneut ein Schiff auf dem Weg nach Iran gewaltsam gestoppt zu haben. Eine Rakete sei auf die \"Lian Star\" abgefeuert worden, hieß es.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/9f6a8e49-8032-4b90-a491-22835d6989e4/AAABnnqn5Fw/AAABnSSvrFg/16x9-big/hormus-schiffe-102.jpg?width=1280"
+        },
+        {
           "title": "tagesthemen-Interview: FDP-Chef Kubicki zufrieden mit Wahlergebnis",
           "url": "https://www.tagesschau.de/inland/innenpolitik/kubicki-tt-interview-100.html",
           "summary": "FDP-Chef Kubicki hat sich im tagesthemen-Interview zufrieden über sein Wahlergebnis geäußert. Seine Gegner will er nicht überzeugen, die AfD nicht zu wichtig nehmen. Mit welchen Themen er das FDP-Comeback schaffen will, ließ er aber offen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/17c31efe-7e48-4be2-bdc6-df420aa975f0/AAABnnplyHo/AAABnSSvrFg/16x9-big/sendungsbild-1741578.jpg?width=1280"
-        },
-        {
-          "title": "Wie die Ukraine mit behinderten Kindern umgeht",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-inklusion-100.html",
-          "summary": "Russlands Angriffskrieg hat viele Kinder in der Ukraine traumatisiert und ihnen schwere Wunden zugefügt. Im Land mangelt es an Therapieplätzen - und doch hat der Krieg das Verständnis für Behinderungen gestärkt. Von Gesine Dornblüth.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/734776f3-1e20-4618-b7ee-891f05757b97/AAABnm3ryF4/AAABnSSvrFg/16x9-big/irpin-tagesstaette-100.jpg?width=1280"
-        },
-        {
-          "title": "Kubicki ist FDP-Chef: Alles andere als ein strahlender Sieger",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-neustart-100.html",
-          "summary": "Das \"alte Schlachtross\" Wolfgang Kubicki soll die FDP in die Zukunft führen. Beim Parteitag wählten ihn aber weniger als 60 Prozent. Ein Grund: die überraschende Kandidatur einer alten Kontrahentin. Jetzt braucht Kubicki schnelle Erfolge.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4e37ed2d-9cdd-43ba-9406-b4be1f4f905c/AAABnnn_60w/AAABnSSvrFg/16x9-big/kubicki-176.jpg?width=1280"
         }
       ]
     },
