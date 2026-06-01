@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T22:00:09.109Z",
-  "timestamp": "1.6.2026, 00:00:09",
+  "generated": "2026-06-01T02:00:08.770Z",
+  "timestamp": "1.6.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Fußball-Länderspiel Deutschland gegen Finnland: Ein wenig losgelöst",
-          "url": "https://www.spiegel.de/sport/fussball/fussball-laenderspiel-deutschland-gegen-finnland-ein-wenig-losgeloest-a-f197f406-71ef-424b-b831-868fa6383188#ref=rss",
-          "summary": "Dank eines deutlichen Erfolges gegen harmlose Finnen reist die DFB-Elf mit Rückenwind nach Nordamerika. Gut für Bundestrainer Julian Nagelsmann: Die Spieler, die sich beweisen sollten, gehörten zu den besten.",
+          "title": "Israel: Benjamin Netanyahu sieht »dramatische Wendung« im Libanon – scharfe Kritik aus Berlin, Paris und London",
+          "url": "https://www.spiegel.de/ausland/israel-benjamin-netanyahu-sieht-dramatische-wendung-im-libanon-scharfe-kritik-aus-berlin-paris-und-london-a-333dba06-f444-4120-923e-2868b3c6a307#ref=rss",
+          "summary": "Israels Armee dringt so weit in den Libanon vor wie seit 26 Jahren nicht mehr. Was Benjamin Netanyahu als Erfolg verkauft, stößt in Europas Machtzentralen auf Ablehnung. Besonders aus Paris kommen klare Worte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f0765d4d-a16d-4e24-b26d-b3c549bed9da_w1200_r1.778_fpx61.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/55f2d90d-5c1d-4a14-bfc2-7f0b5caea1db_w1200_r1.778_fpx40_fpy62.jpg"
         },
         {
           "title": "NSDAP-Mitgliederkartei: Bisher kein Treffer? So können Sie weitersuchen",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Stichwahl um Präsidentenamt in Kolumbien",
+          "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-stichwahl-espriella-cepeda-100.html",
+          "summary": "Bei der Präsidentschaftswahl in Kolumbien wird der Sieger erst in der Stichwahl entschieden. Keiner der Kandidaten erreichte eine absolute Mehrheit. Der Ausgang des Votums gilt als Richtungsentscheidung in dem südamerikanischen Land.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2db8d7cd-55c2-4163-a4d0-13bc6df56da8/AAABnoDZBJc/AAABnSSvrFg/16x9-big/kolumbien-wahl-116.jpg?width=1280"
+        },
+        {
           "title": "FDP-Parteitag: Quicklebendig im Umfragetief",
           "url": "https://www.tagesschau.de/kommentar/fdp-parteitag-266.html",
           "summary": "Der FDP-Parteitag hat gezeigt, dass in der totgesagten Partei noch Leben steckt, meint Lissy Kaufmann. Parteichef Kubicki muss nun zeigen, dass die Liberalen noch gebraucht werden. Darin steckt auch eine Chance.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/b8eaeaa2-0782-4bce-b3db-2c0c5db3f02c/AAABnn8mzaA/AAABnSSvrFg/16x9-big/wadephul-vereinte-nationen-102.jpg?width=1280"
-        },
-        {
-          "title": "Mehr als 50 Tote bei Explosion in Rebellengebiet von Myanmar",
-          "url": "https://www.tagesschau.de/ausland/asien/myanmar-explosion-100.html",
-          "summary": "Nach einer Explosion in einem Munitionslager in Myanmar sind mindestens 50 Menschen ums Leben gekommen. Dutzende weitere wurden verletzt. Offenbar detonierte durch ein Versehen Sprengstoff, der für den Bergbau vorgesehen war.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/384a0082-ebb6-4db6-a0b6-571df85c4e93/AAABnn9yqe8/AAABnSSvrFg/16x9-big/myanmar-explosion-102.jpg?width=1280"
         }
       ]
     },
