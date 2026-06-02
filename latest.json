@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-02T06:00:11.186Z",
-  "timestamp": "2.6.2026, 08:00:11",
+  "generated": "2026-06-02T10:00:09.809Z",
+  "timestamp": "2.6.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Ideen gegen Apothekensterben: „Du kannst nicht überleben, wenn du nur Apotheker bist“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/apothekensterben-in-deutschland-welche-loesungen-helfen-koennten-accg-200851413.html",
-          "summary": "Tausende Apotheken in Deutschland machen dicht. Zwei Pharmazeuten wollen nicht aufgeben: Der eine nutzt seine Reichweite auf Instagram, der andere erschließt ständig neue Geschäftszweige.",
+          "title": "NS-Suche im Netz: Die trügerische Gewissheit der Karteikarten",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/nsdap-mitgliedsdatei-der-reiz-der-schnellen-nummer-accg-200877546.html",
+          "summary": "Großvater war kein Nazi? Mit dieser Legende räumt die NSDAP-Mitgliedsdatei auf. Aber ändert sie auch die Art, wie wir uns erinnern? Gedanken eines Spurensuchenden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7d219211e773/w4994h2609x0y367o/202605/43601.0.2060442036/die-huendin-ist-der-star-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0b868daa74d9/w2077h1085x0y43o/202606/43601.0.2170765183/die-meisten-gesichter-bekommen.webp"
         },
         {
-          "title": "Liveblog Ukrainekrieg: Massive russische Luftangriffe auf Kiew – Tote in Dnipro",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-bericht-russische-luftangriffe-auf-kiew-tote-in-dnipro-faz-110683325.html",
-          "summary": "In der ukrainischen Hauptstadt stürzt ein mehrstöckiges Wohnhaus ein +++ Selenskyj: „Operation Spinnennetz“ hat vieles verändert +++ Ukrainischer  Stabschef hält Kriegsende vor Winter für realistisch +++ alle Neuigkeiten im Liveblog",
+          "title": "Raul Hilberg: Chronist der Vernichtung der europäischen Juden",
+          "url": "https://www.faz.net/aktuell/politik/geschichte/raul-hilberg-chronist-der-vernichtung-der-europaeischen-juden-accg-200809696.html",
+          "summary": "Raul Hilbergs bahnbrechende Studie über den Holocaust erschien 1961, die Übersetzung ins Deutsche erst zwei Jahrzehnte später. Auch wegen Widerständen in einem namhaften Forschungsinstitut.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a1c08bbfa50c/w5710h2983x0y412o/202606/43601.0.2172430719/rauch-steigt-nach-naechtlichen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f1df56229cb9/w3524h1841x0y256o/200708/431.0.65461512/raul-hilberg-frankfurt-am-main.webp"
         },
         {
-          "title": "Bezahlung von Beamten: Der Staat muss seine Aufgaben endlich abschmelzen",
-          "url": "https://www.faz.net/aktuell/politik/inland/dobrindts-reform-der-beamtenbesoldung-aufgaben-endlich-abschmelzen-200824542.html",
-          "summary": "Bundesinnenminister Alexander Dobrindt will die Besoldung der Bundesbeamten reformieren. Sein Plan ist gut – reicht aber nicht aus. Überflüssige Aufgaben müssen weg.",
+          "title": "Forschungsprojekt zu verfolgten musikern: Artisten ohne Publikum",
+          "url": "https://www.faz.net/aktuell/karriere-hochschule/hoersaal/akademieprojekt-untersucht-die-ns-verfolgung-von-musikern-accg-200834671.html",
+          "summary": "Ein neues Akademieprojekt untersucht die NS-Verfolgung von Musikern. Es zeigt, wie sehr die Musikgeschichte des 20. Jahrhunderts von erzwungenem Verstummen geprägt ist.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6a375a7a9ad4/w6144h3210x0y340o/202603/43601.0.1927767141/dobrindt-schuettelt-einem.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3199ae36e939/w2468h1289x0y323o/202605/37cb7a58-5061-4d79-8a92-c4d81a17eb85/endstation-kalifornien-der.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "AfD: Wie schützt man die Demokratie vor ihren Feinden, bevor es zu spät ist?",
+          "url": "https://www.spiegel.de/politik/afd-wie-schuetzt-man-die-demokratie-vor-ihren-feinden-bevor-es-zu-spaet-ist-a-5287670b-7ca1-4508-8458-15ff65ebe116#ref=rss",
+          "summary": "Die rechtsextreme AfD greift nach der Macht – und in den Landtagen versuchen die anderen Parteien, noch eilig Gerichte, Parlamente oder den Rundfunk abzusichern. Wo das gelingen kann und wo es weiteren Schaden anrichtet: der SPIEGEL-Report.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/06d0fadd-c0f4-49e5-b514-66a89882bc1d_w1200_r1.778_fpx56_fpy38.jpg"
+        },
+        {
+          "title": "CDU/CSU und SPD: Konsenskränzchen mit Arbeitgebern und Gewerkschaften? Das wird nicht gutgehen",
+          "url": "https://www.spiegel.de/wirtschaft/reformpolitik-von-cdu-csu-und-spd-konzertierter-unsinn-a-f80664ca-a893-4677-89d0-0377baea6c45#ref=rss",
+          "summary": "Die Regierung will alle an einen Tisch holen, damit es mit der Wirtschaft vorangeht. Doch schon das historische Vorbild dieser Idee hat nicht funktioniert.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ec42d946-c713-4ee7-880c-b14fe7829908_w1200_r1.778_fpx47_fpy31.jpg"
+        },
+        {
           "title": "Todd Blanche und Donald Trump: Der Racheengel des Präsidenten",
           "url": "https://www.spiegel.de/ausland/todd-blanche-und-donald-trump-der-racheengel-des-praesidenten-a-21d2ebe6-9d9c-4cfe-b4d7-b176224a8c80#ref=rss",
           "summary": "Er galt als einer der Fairsten seines Fachs, nun ist Todd Blanche Trumps Mann fürs Schmutzige: Er genehmigt brutale Hinrichtungsmethoden und nutzt sein neues Amt aus, um Widersacher des Präsidenten zu verfolgen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/cf89f641-2fcd-42fc-8ed8-95e6f18047cb_w1200_r1.778_fpx41_fpy40.jpg"
-        },
-        {
-          "title": "News: Péter Magyar, Friedrich Merz, Donald Trump, Benjamin Netanyahu, Libanon, Dario Amodei, Anthropic",
-          "url": "https://www.spiegel.de/ausland/news-peter-magyar-friedrich-merz-donald-trump-benjamin-netanyahu-libanon-dario-amodei-anthropic-a-df3b87b6-b45d-4fab-b73d-11e8fae69ad5#ref=rss",
-          "summary": "Der ungarische Premier Péter Magyar besucht Friedrich Merz. Donald Trump versucht, die Irangespräche am Laufen zu halten. Anthropic plant einen der größten Börsengänge der Geschichte. Das ist die Lage am Dienstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Russland greift Kyjiw mit Raketen und Drohnen an – Wohnblock stürzt ein",
-          "url": "https://www.spiegel.de/ausland/russland-greift-kyjiw-mit-raketen-und-drohnen-an-wohnblock-stuerzt-ein-a-1b4b4902-cae7-44af-8984-97bb8cc5cc92#ref=rss",
-          "summary": "In der Nacht hat es schwere russische Luftangriffe auf Kyjiw gegeben. Menschen flüchteten sich in U-Bahn-Stationen und Luftschutzkeller. Laut Bürgermeister Klitschko wurde ein großes Wohnhaus zerstört, unter den Trümmern werden Opfer befürchtet.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ba29f4f0-19fe-40f0-afce-5927f9c4e22c_w1200_r1.778_fpx58_fpy17.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Anleger zwischen KI-Hoffnung und Nahost-Sorge",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-euro-dollar-106.html",
-          "summary": "Neue Rekorde an der Wall Street setzen positive Vorzeichen für den deutschen Aktienmarkt. Trotzdem bleibt weiterhin die Unsicherheit, ob die Gespräche zwischen USA und Iran zu einem Ende des Krieges führen.",
+          "title": "ARD-Dialogprojekt: Miteinander reden - was bleibt davon?",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/was-deutschland-verbindet-teilnehmende-100.html",
+          "summary": "84 Teilnehmende für 84 Millionen Menschen: Beim ARD-Dialogprojekt \"Was Deutschland verbindet\" wurde zwei Tage über aktuelle Themen diskutiert. Was hat das ausgelöst und wie wirkt es nach? Mastrocola und K.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fc804edc-8bff-4415-a92e-7e6219ee85e1/AAABmJe6eFU/AAABnSSvrFg/16x9-big/boerse-446.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8006cf09-321e-45a1-8004-d991587d4b86/AAABnoczk-I/AAABnSSvrFg/16x9-big/teilnehmende-ard-dialog-100.jpg?width=1280"
         },
         {
-          "title": "Bas für Einbeziehung von Beamten in gesetzliche Rentenversicherung",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/beamte-rentenversicherung-bas-100.html",
-          "summary": "Arbeitsministerin Bas will, dass künftig auch Beamte in die gesetzliche Rentenversicherung einzahlen. Die Rechnung: mehr Beitragszahler, mehr Geld in der klammen Kasse. Noch im Juni soll es einen konkreten Vorschlag geben.",
+          "title": "Ostdeutsches Wirtschaftsforum zeigt Chancen - aber auch Risiken",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsforum-ostdeutschland-100.html",
+          "summary": "Das Ostdeutsche Wirtschaftsforum gilt als Stimmungsbarometer der Wirtschaft östlich der Elbe. Laut einer Umfrage sind viele Unternehmer von der Politik enttäuscht. Aber: Ostdeutsche Städte punkten in Sachen Lebensqualität. Kartschall.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/89548465-3cda-476b-ac6c-c0de6877e0d2/AAABnoad60A/AAABnSSvrFg/16x9-big/bas-198.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9610644f-5898-444a-9ba1-e54d89f20fb3/AAABnod814Y/AAABnSSvrFg/16x9-big/ostdeutsches-wirtschaftsforum-108.jpg?width=1280"
         },
         {
-          "title": "Festivals 2026: Die fetten Jahre sind vorbei",
-          "url": "https://www.tagesschau.de/kultur/festivals-2026-ausverkauf-oder-auslaufmodell-100.html",
-          "summary": "Volle Felder am Nürburgring, leere Kassen anderswo: Der Festivalsommer 2026 zeigt, wie sich die Branche zwischen Boom und Strukturkrise neu erfinden muss. Von Samira Straub.",
+          "title": "Libanon: \"Israels Führung hat die Gelegenheit erkannt\"",
+          "url": "https://www.tagesschau.de/ausland/asien/libanon-israel-iran-usa-100.html",
+          "summary": "Im Libanon haben sowohl Israel als auch Iran handfeste Interessen, analysiert der Nahost-Experte Daniel Gerlach. Im Interview spricht er über Kriegsziele, verworrene Kommunikation - und welche Rolle Trump dabei spielt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a974c18e-f576-4591-bced-69ce81e700a7/AAABnoapWOE/AAABnSSvrFg/16x9-big/rock-am-ring-150.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b1884ae7-a901-4cd1-8e35-4085c6d6ab7a/AAABnoe0jmo/AAABnSSvrFg/16x9-big/israel-libanon-208.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "E-Auto-Rabatte sinken: Hersteller testen Markt nach Rückkehr der Förderung",
-          "url": "https://www.telepolis.de/article/E-Auto-Rabatte-sinken-Hersteller-testen-Markt-nach-Rueckkehr-der-Foerderung-11313614.html",
-          "summary": "Die E-Auto-Prämie zeigt einen unerwarteten Nebeneffekt: Autobauer fahren ihre eigenen Preisnachlässe zurück. Doch der Gebracuhtmarkt wächst rasant.",
+          "title": "Studie: Europas Militärpotenzial deutlich höher als oft dargestellt",
+          "url": "https://www.telepolis.de/article/Studie-Europas-Militaerpotenzial-deutlich-hoeher-als-oft-dargestellt-11314791.html",
+          "summary": "Europas Militärpotenzial übersteigt Russlands bei weitem – das belegt eine neue Greenpeace-Studie. Doch die eigentliche Schwäche liegt woanders. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/2/3/7/4/shutterstock_2629277519-d3bbf921d0607548.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/2/9/6/9/shutterstock_2697088483-c67c868d1984ce4d.jpg"
         },
         {
-          "title": "EU erwägt Schutz-Aus für ukrainische Männer im Wehrpflichtalter",
-          "url": "https://www.telepolis.de/article/EU-erwaegt-Schutz-Aus-fuer-ukrainische-Maenner-im-Wehrpflichtalter-11314248.html",
-          "summary": "Wer als ukrainischer Mann im wehrfähigen Alter künftig Schutz in der EU beantragt, könnte abgewiesen werden. EU-Staaten diskutieren eine brisante Einschränkung.",
+          "title": "Eigenheim als Spardose: Warum Hausbesitzer reicher werden als Mieter",
+          "url": "https://www.telepolis.de/article/Eigenheim-als-Spardose-Warum-Hausbesitzer-reicher-werden-als-Mieter-11312809.html",
+          "summary": "Mieter könnten mit ETFs theoretisch mehr Vermögen aufbauen. In der Praxis scheitert das an der menschlichen Psychologie.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/2/6/9/5/shutterstock_2595703795-3fe4c75e913812f8.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/1/9/7/1/shutterstock_2753827209-7f05a12f58a139ef.jpg"
         },
         {
-          "title": "Meta Plus: Was jetzt bei Instagram, WhatsApp und Facebook Geld kostet",
-          "url": "https://www.telepolis.de/article/Meta-Plus-Was-jetzt-bei-Instagram-WhatsApp-und-Facebook-Geld-kostet-11314154.html",
-          "summary": "Wer Stories anonym schauen will, zahlt künftig dafür. Meta macht Komfortfunktionen kostenpflichtig – und eine Garantie für Gratisfunktionen gibt es nicht.",
+          "title": "Polizei kauft illegale Handy-Standortdaten von Datenhändlern",
+          "url": "https://www.telepolis.de/article/Polizei-kauft-illegale-Handy-Standortdaten-von-Datenhaendlern-11314853.html",
+          "summary": "Deutsche Landeskriminalämter haben Standortdaten aus dem Werbe-Tracking für Ermittlungen genutzt – ohne Rechtsgrundlage, wie Experten kritisieren.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/2/6/4/8/shutterstock_2642550633-ee72582cadd85d59.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/3/0/0/1/shutterstock_2637563829-882174ed5cff33ca.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Preise: Die Inflation kehrt zurück",
+          "url": "https://www.sueddeutsche.de/wirtschaft/inflation-energiepreise-deutschland-eurozone-entwicklung-folgen-li.3489679",
+          "summary": "In der Euro-Zone steigt die Inflation wegen des Iran-Krieges auf 3,2 Prozent. Droht nach 2022 ein erneuter Preisschock? Die EZB wird wohl bald die Leitzinsen erhöhen – mit spürbaren Folgen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/02/59aa1fbb-bf5f-485f-b7bf-5c7669737d81.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C494%2C4000%2C2250"
+        },
+        {
+          "title": "Wirtschaftsforum Sankt Petersburg: AfD-Politiker folgen Putins Einladung",
+          "url": "https://www.sueddeutsche.de/politik/afd-politiker-wirtschaftsforum-russland-putin-li.3492309",
+          "summary": "Mehrere Abgeordnete der AfD nehmen in Sankt Petersburg an einem Wirtschaftsforum teil. Dort wird auch Wladimir Putin erwartet. Und ein alter Bekannter des deutschen Verfassungsschutzes.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/02/3f3960cf-0c84-4243-8121-fc462c416edb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+        },
+        {
           "title": "Bundespolitik: Freistellung für Auslandsreisen wehrfähiger Männer soll per Gesetz geregelt werden",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-pistorius-wehrpflichtgesetz-bundeswehr-li.3491578",
           "summary": "Dass das Verteidigungsministerium eine vom Parlament beschlossene Regelung einfach außer Kraft setzte, ist einem Gutachten zufolge rechtswidrig. Der „Fehler“ des Ministeriums soll nun schnell korrigiert werden.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/01/1a5c110f-c347-46f2-9f23-3b8289225db2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C446%2C4000%2C2250"
-        },
-        {
-          "title": "„Hart aber fair“: Weniger Bühne, mehr Begegnung",
-          "url": "https://www.sueddeutsche.de/medien/hart-aber-fair-weniger-buehne-mehr-begegnung-li.3492121",
-          "summary": "Vielleicht ist es der neue Tisch, der die Gesprächsrunde verändert. Die geladenen Politiker und Politikerinnen legen ihren performativen Modus ab und plötzlich sind da: Ehrlichkeit und sogar etwas Harmonie.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/02/f6c06e45-77c3-43f2-80dd-1e70ddfb9d97.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Krieg in Nahost: Trump spricht von Einigung „nächste Woche“ – Iran bricht wohl Gespräche ab",
-          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-iran-usa-trump-verhandlungen-abbruch-li.3487408",
-          "summary": "Wie so oft verkündet der US-Präsident einen optimistischen Zeitplan für ein Kriegsende. Kurz zuvor meldet die iranische Nachrichtenagentur Tasnim jedoch einen Verhandlungsstopp wegen Israels Angriffen in Libanon.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/01/f80afb0b-3da1-4aac-84b1-258314f6cbd9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
