@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-02T02:00:09.451Z",
-  "timestamp": "2.6.2026, 04:00:09",
+  "generated": "2026-06-02T06:00:11.186Z",
+  "timestamp": "2.6.2026, 08:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Investitionen in Infrastruktur: Inzwischen bringt nur das Sondervermögen Wachstum – sagt die Regierung",
-          "url": "https://www.faz.net/aktuell/wirtschaft/marode-infrastruktur-so-kommt-die-regierung-mit-dem-sondervermoegen-voran-200887538.html",
-          "summary": "Der Bund kann 500 Milliarden Euro Sonderschulden aufnehmen über zwölf Jahre. Der Start verlief holprig, doch das soll sich bessern.",
+          "title": "Ideen gegen Apothekensterben: „Du kannst nicht überleben, wenn du nur Apotheker bist“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/apothekensterben-in-deutschland-welche-loesungen-helfen-koennten-accg-200851413.html",
+          "summary": "Tausende Apotheken in Deutschland machen dicht. Zwei Pharmazeuten wollen nicht aufgeben: Der eine nutzt seine Reichweite auf Instagram, der andere erschließt ständig neue Geschäftszweige.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6530361affbf/w3000h1567x0y336o/202408/43601.0.533147736/ein-hoffentlich-puenktlicher.webp"
+          "image": "https://media0.faz.net/image/w1200h627/7d219211e773/w4994h2609x0y367o/202605/43601.0.2060442036/die-huendin-ist-der-star-der.webp"
         },
         {
-          "title": "Bericht zu den Sonderinvestitionen: Warten auf den großen Schub",
-          "url": "https://www.faz.net/aktuell/wirtschaft/warten-auf-den-grossen-schub-200887122.html",
-          "summary": "Der Monitoringbericht ist besser als das alte Prinzip, Viel-hilft-viel. Gleichwohl sollte man sich vor der Illusion hüten, dass es der Staat mit seinen Ausgaben allein richten kann.",
+          "title": "Liveblog Ukrainekrieg: Massive russische Luftangriffe auf Kiew – Tote in Dnipro",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-bericht-russische-luftangriffe-auf-kiew-tote-in-dnipro-faz-110683325.html",
+          "summary": "In der ukrainischen Hauptstadt stürzt ein mehrstöckiges Wohnhaus ein +++ Selenskyj: „Operation Spinnennetz“ hat vieles verändert +++ Ukrainischer  Stabschef hält Kriegsende vor Winter für realistisch +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cfc54824f6e3/w3000h1567x0y373o/202411/43601.0.690790326/bahnbaustelle-ertuechtigte.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a1c08bbfa50c/w5710h2983x0y412o/202606/43601.0.2172430719/rauch-steigt-nach-naechtlichen.webp"
         },
         {
-          "title": "EU-Rückführungsverordnung: Brüssel ermöglicht die Abschiebung in Drittstaaten",
-          "url": "https://www.faz.net/aktuell/politik/ausland/eu-ermoeglicht-die-abschiebung-in-drittstaaten-200886442.html",
-          "summary": "EU-Parlament und Mitgliedstaaten haben sich geeinigt: Künftig dürfen EU-Staaten Menschen ohne Schutzanspruch in aufnahmewillige Drittstaaten abschieben. Deutschland sucht bereits nach Partnerländern.",
+          "title": "Bezahlung von Beamten: Der Staat muss seine Aufgaben endlich abschmelzen",
+          "url": "https://www.faz.net/aktuell/politik/inland/dobrindts-reform-der-beamtenbesoldung-aufgaben-endlich-abschmelzen-200824542.html",
+          "summary": "Bundesinnenminister Alexander Dobrindt will die Besoldung der Bundesbeamten reformieren. Sein Plan ist gut – reicht aber nicht aus. Überflüssige Aufgaben müssen weg.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e89330206e9c/w3000h1567x0y301o/202501/43601.0.782975156/gefluechtete-tragen-ihre.webp"
+          "image": "https://media0.faz.net/image/w1200h627/6a375a7a9ad4/w6144h3210x0y340o/202603/43601.0.1927767141/dobrindt-schuettelt-einem.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Todd Blanche und Donald Trump: Der Racheengel des Präsidenten",
+          "url": "https://www.spiegel.de/ausland/todd-blanche-und-donald-trump-der-racheengel-des-praesidenten-a-21d2ebe6-9d9c-4cfe-b4d7-b176224a8c80#ref=rss",
+          "summary": "Er galt als einer der Fairsten seines Fachs, nun ist Todd Blanche Trumps Mann fürs Schmutzige: Er genehmigt brutale Hinrichtungsmethoden und nutzt sein neues Amt aus, um Widersacher des Präsidenten zu verfolgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/cf89f641-2fcd-42fc-8ed8-95e6f18047cb_w1200_r1.778_fpx41_fpy40.jpg"
+        },
+        {
+          "title": "News: Péter Magyar, Friedrich Merz, Donald Trump, Benjamin Netanyahu, Libanon, Dario Amodei, Anthropic",
+          "url": "https://www.spiegel.de/ausland/news-peter-magyar-friedrich-merz-donald-trump-benjamin-netanyahu-libanon-dario-amodei-anthropic-a-df3b87b6-b45d-4fab-b73d-11e8fae69ad5#ref=rss",
+          "summary": "Der ungarische Premier Péter Magyar besucht Friedrich Merz. Donald Trump versucht, die Irangespräche am Laufen zu halten. Anthropic plant einen der größten Börsengänge der Geschichte. Das ist die Lage am Dienstagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
           "title": "Russland greift Kyjiw mit Raketen und Drohnen an – Wohnblock stürzt ein",
           "url": "https://www.spiegel.de/ausland/russland-greift-kyjiw-mit-raketen-und-drohnen-an-wohnblock-stuerzt-ein-a-1b4b4902-cae7-44af-8984-97bb8cc5cc92#ref=rss",
           "summary": "In der Nacht hat es schwere russische Luftangriffe auf Kyjiw gegeben. Menschen flüchteten sich in U-Bahn-Stationen und Luftschutzkeller. Laut Bürgermeister Klitschko wurde ein großes Wohnhaus zerstört, unter den Trümmern werden Opfer befürchtet.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/ba29f4f0-19fe-40f0-afce-5927f9c4e22c_w1200_r1.778_fpx58_fpy17.jpg"
-        },
-        {
-          "title": "Migration und Asyl: Europäische Union macht Weg für Abschiebezentren in Drittstaaten frei",
-          "url": "https://www.spiegel.de/politik/deutschland/eu-macht-weg-fuer-abschiebezentren-in-drittstaaten-frei-a-4970fc7b-c6d1-466f-88f6-15e21345e132#ref=rss",
-          "summary": "Unterhändler des Europaparlaments und der EU-Länder haben sich auf neue Abschieberegeln verständigt. Diese sehen neben der Erlaubnis von Abschiebezentren in Drittstaaten weitere Verschärfungen vor.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1cbbb3e9-78e3-406e-9e63-e0fda9cbe3e3_w1200_r1.778_fpx61.05_fpy50.jpg"
-        },
-        {
-          "title": "Iran-Krieg: Donald Trump spricht von Fortsetzung der Iran-Gespräche – und Deeskalation zwischen Israel und Hisbollah",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-spricht-von-fortsetzung-der-iran-gespraeche-und-deeskalation-zwischen-israel-und-hisbollah-a-422959dd-cebf-499d-8633-d03650456d83#ref=rss",
-          "summary": "Donald Trump widerspricht Berichten, Iran würde die Verhandlungen mit den USA abbrechen. Zudem habe Israels Premier Netanyahu dem US-Präsidenten in einem Telefonat zugesichert, keine Truppen nach Beirut zu schicken.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/13d77947-ec82-4d91-939a-654f6c2fb7cd_w1200_r1.778_fpx40_fpy51.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Florida verklagt KI-Unternehmen OpenAI wegen Gefährdung von Kindern",
-          "url": "https://www.tagesschau.de/ausland/amerika/openai-klage-florida-100.html",
-          "summary": "Dem KI-Unternehmen OpenAI drohen juristische Probleme: Der US-Bundesstaat Florida will den ChatGPT-Entwickler wegen der Gefährdung von Kindern und Jugendlichen belangen. Risiken seien bewusst ignoriert worden.",
+          "title": "Marktbericht: Anleger zwischen KI-Hoffnung und Nahost-Sorge",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-euro-dollar-106.html",
+          "summary": "Neue Rekorde an der Wall Street setzen positive Vorzeichen für den deutschen Aktienmarkt. Trotzdem bleibt weiterhin die Unsicherheit, ob die Gespräche zwischen USA und Iran zu einem Ende des Krieges führen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/abc8ab20-8997-4f07-aa2c-63a3e8c4c6ac/AAABnoXySuQ/AAABnSSvrFg/16x9-big/sam-altman-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fc804edc-8bff-4415-a92e-7e6219ee85e1/AAABmJe6eFU/AAABnSSvrFg/16x9-big/boerse-446.jpg?width=1280"
         },
         {
-          "title": "EU einigt sich auf Abschiebezentren für Migranten in Drittstaaten",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-104.html",
-          "summary": "Die EU steht vor einer Verschärfung ihrer Asylpolitik. Neben härteren Regeln sollen abgelehnte Bewerber auch in Drittstaaten gebracht werden können. Partnerstaaten für das rechtlich umstrittene Vorhaben gibt es noch kaum. Von Kathrin Schmid.",
+          "title": "Bas für Einbeziehung von Beamten in gesetzliche Rentenversicherung",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/beamte-rentenversicherung-bas-100.html",
+          "summary": "Arbeitsministerin Bas will, dass künftig auch Beamte in die gesetzliche Rentenversicherung einzahlen. Die Rechnung: mehr Beitragszahler, mehr Geld in der klammen Kasse. Noch im Juni soll es einen konkreten Vorschlag geben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7fa5fd77-4ae4-43e2-8592-6ea08879999d/AAABnoWyd1M/AAABnSSvrFg/16x9-big/abschiebung-254.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/89548465-3cda-476b-ac6c-c0de6877e0d2/AAABnoad60A/AAABnSSvrFg/16x9-big/bas-198.jpg?width=1280"
         },
         {
-          "title": "Frederiksen verkündet Einigung auf neue Koalition in Dänemark",
-          "url": "https://www.tagesschau.de/ausland/europa/daenemark-regierung-108.html",
-          "summary": "Gut zwei Monate nach der Parlamentswahl sind die Koalitionsverhandlungen in Dänemark abgeschlossen. Ministerpräsidentin Frederiksen will mit einem Mitte-Links-Bündnis in ihre dritte Amtszeit gehen. Von Jana Sinram.",
+          "title": "Festivals 2026: Die fetten Jahre sind vorbei",
+          "url": "https://www.tagesschau.de/kultur/festivals-2026-ausverkauf-oder-auslaufmodell-100.html",
+          "summary": "Volle Felder am Nürburgring, leere Kassen anderswo: Der Festivalsommer 2026 zeigt, wie sich die Branche zwischen Boom und Strukturkrise neu erfinden muss. Von Samira Straub.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/10c6de3e-6e7f-40c1-b76d-367ee7b79828/AAABnoVm3kk/AAABnSSvrFg/16x9-big/mette-frederiksen-116.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a974c18e-f576-4591-bced-69ce81e700a7/AAABnoapWOE/AAABnSSvrFg/16x9-big/rock-am-ring-150.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "E-Auto-Rabatte sinken: Hersteller testen Markt nach Rückkehr der Förderung",
+          "url": "https://www.telepolis.de/article/E-Auto-Rabatte-sinken-Hersteller-testen-Markt-nach-Rueckkehr-der-Foerderung-11313614.html",
+          "summary": "Die E-Auto-Prämie zeigt einen unerwarteten Nebeneffekt: Autobauer fahren ihre eigenen Preisnachlässe zurück. Doch der Gebracuhtmarkt wächst rasant.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/2/3/7/4/shutterstock_2629277519-d3bbf921d0607548.jpg"
+        },
         {
           "title": "EU erwägt Schutz-Aus für ukrainische Männer im Wehrpflichtalter",
           "url": "https://www.telepolis.de/article/EU-erwaegt-Schutz-Aus-fuer-ukrainische-Maenner-im-Wehrpflichtalter-11314248.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/2/6/4/8/shutterstock_2642550633-ee72582cadd85d59.jpg"
-        },
-        {
-          "title": "China versorgt Drohnen per Funkstrom aus der Luft",
-          "url": "https://www.telepolis.de/article/China-versorgt-Drohnen-per-Funkstrom-aus-der-Luft-11313891.html",
-          "summary": "Chinas Xidian-Universität versorgt fliegende Drohnen drahtlos mit Strom. Das \"Sun Chasing\"-Projekt soll eines Tages Energie aus dem Orbit übertragen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/2/5/1/3/shutterstock_521421886-5c8812bbd5416548.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Bundespolitik: Freistellung für Auslandsreisen wehrfähiger Männer soll per Gesetz geregelt werden",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-pistorius-wehrpflichtgesetz-bundeswehr-li.3491578",
+          "summary": "Dass das Verteidigungsministerium eine vom Parlament beschlossene Regelung einfach außer Kraft setzte, ist einem Gutachten zufolge rechtswidrig. Der „Fehler“ des Ministeriums soll nun schnell korrigiert werden.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/01/1a5c110f-c347-46f2-9f23-3b8289225db2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C446%2C4000%2C2250"
+        },
+        {
+          "title": "„Hart aber fair“: Weniger Bühne, mehr Begegnung",
+          "url": "https://www.sueddeutsche.de/medien/hart-aber-fair-weniger-buehne-mehr-begegnung-li.3492121",
+          "summary": "Vielleicht ist es der neue Tisch, der die Gesprächsrunde verändert. Die geladenen Politiker und Politikerinnen legen ihren performativen Modus ab und plötzlich sind da: Ehrlichkeit und sogar etwas Harmonie.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/02/f6c06e45-77c3-43f2-80dd-1e70ddfb9d97.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Krieg in Nahost: Trump spricht von Einigung „nächste Woche“ – Iran bricht wohl Gespräche ab",
-          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-iran-usa-verhandlungen-abbruch-li.3487408",
+          "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-iran-usa-trump-verhandlungen-abbruch-li.3487408",
           "summary": "Wie so oft verkündet der US-Präsident einen optimistischen Zeitplan für ein Kriegsende. Kurz zuvor meldet die iranische Nachrichtenagentur Tasnim jedoch einen Verhandlungsstopp wegen Israels Angriffen in Libanon.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/01/f80afb0b-3da1-4aac-84b1-258314f6cbd9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Podcast: „Auf den Punkt“: Libanon: Israel wendet die Gaza-Methode an",
-          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-libanon-israel-hisbollah-li.3492024",
-          "summary": "Tausend Tote und Verletzte, Hunderttausende auf der Flucht: Ein echter Waffenstillstand sieht anders aus.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
-        },
-        {
-          "title": "Nationalspielerin Laura Freigang: Negativ getestet und trotzdem bald gesperrt?",
-          "url": "https://www.sueddeutsche.de/sport/laura-freigang-doping-tests-verpasst-nada-dfb-eintracht-frankfurt-fussball-li.3492026",
-          "summary": "Die deutsche Fußball-Nationalspielerin Laura Freigang ist in den Fokus der Anti-Doping Agentur Nada geraten: Ihr droht wegen Formfehlern bei Dopingtests eine Sperre.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/01/6a0ff09d-dd9c-4d16-a6a4-0ac3f13aaf26.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C375%2C4000%2C2250"
         }
       ]
     }
