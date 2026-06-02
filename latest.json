@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-01T22:00:16.450Z",
-  "timestamp": "2.6.2026, 00:00:16",
+  "generated": "2026-06-02T02:00:09.451Z",
+  "timestamp": "2.6.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine: Beschwerden von Soldaten - »Angst kann man nicht mit Angst besiegen«",
-          "url": "https://www.spiegel.de/ausland/ukraine-beschwerden-von-soldaten-angst-kann-man-nicht-mit-angst-besiegen-a-79c42105-e680-447e-a476-bd6d9a1f6ed1#ref=rss",
-          "summary": "Monatelange Fronteinsätze ohne Ablösung, Konflikte mit Kommandeuren: Ukrainische Soldaten kämpfen mit Entbehrungen. Olha Reschetylowa soll ihre Rechte stärken. Welche Beschwerden hört sie am häufigsten?",
+          "title": "Russland greift Kyjiw mit Raketen und Drohnen an – Wohnblock stürzt ein",
+          "url": "https://www.spiegel.de/ausland/russland-greift-kyjiw-mit-raketen-und-drohnen-an-wohnblock-stuerzt-ein-a-1b4b4902-cae7-44af-8984-97bb8cc5cc92#ref=rss",
+          "summary": "In der Nacht hat es schwere russische Luftangriffe auf Kyjiw gegeben. Menschen flüchteten sich in U-Bahn-Stationen und Luftschutzkeller. Laut Bürgermeister Klitschko wurde ein großes Wohnhaus zerstört, unter den Trümmern werden Opfer befürchtet.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/235bdec1-121a-498c-9560-d85825e8cced_w1200_r1.778_fpx53_fpy41.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ba29f4f0-19fe-40f0-afce-5927f9c4e22c_w1200_r1.778_fpx58_fpy17.jpg"
         },
         {
           "title": "Migration und Asyl: Europäische Union macht Weg für Abschiebezentren in Drittstaaten frei",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Korrespondent: EU-Beschluss zu Abschiebezentren kaum zu unterschätzen",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-verordnung-stuchlik-100.html",
-          "summary": "Eine Einigung auf Abschiebezentren in Drittstaaten sei bis vor kurzem in der EU nicht vorstellbar gewesen wären, sagt ARD-Korrespondent Stephan Stuchlik. Die Entscheidung sei ein Kompromiss mit den Rechtsaußenparteien.",
+          "title": "Florida verklagt KI-Unternehmen OpenAI wegen Gefährdung von Kindern",
+          "url": "https://www.tagesschau.de/ausland/amerika/openai-klage-florida-100.html",
+          "summary": "Dem KI-Unternehmen OpenAI drohen juristische Probleme: Der US-Bundesstaat Florida will den ChatGPT-Entwickler wegen der Gefährdung von Kindern und Jugendlichen belangen. Risiken seien bewusst ignoriert worden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/21dda81f-ec16-44f4-b4f5-b25d1e39b036/AAABnoUBjpo/AAABnSSvrFg/16x9-big/stuchlik-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/abc8ab20-8997-4f07-aa2c-63a3e8c4c6ac/AAABnoXySuQ/AAABnSSvrFg/16x9-big/sam-altman-120.jpg?width=1280"
         },
         {
-          "title": "EU macht Weg für Abschiebezentren in Drittstaaten frei",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-102.html",
-          "summary": "Das EU-Parlament und die Mitgliedstaaten haben sich auf eine Verordnung geeinigt, die mehr Abschiebungen aus der EU ermöglichen sollen. Auch Abschiebezentren in Ländern außerhalb der EU sollen dadurch erlaubt sein.",
+          "title": "EU einigt sich auf Abschiebezentren für Migranten in Drittstaaten",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-104.html",
+          "summary": "Die EU steht vor einer Verschärfung ihrer Asylpolitik. Neben härteren Regeln sollen abgelehnte Bewerber auch in Drittstaaten gebracht werden können. Partnerstaaten für das rechtlich umstrittene Vorhaben gibt es noch kaum. Von Kathrin Schmid.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a5825345-e164-4d40-b8cb-dae28c41dccb/AAABnoTU4fs/AAABnSSvrFg/16x9-big/eu-flaggen-168.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7fa5fd77-4ae4-43e2-8592-6ea08879999d/AAABnoWyd1M/AAABnSSvrFg/16x9-big/abschiebung-254.jpg?width=1280"
         },
         {
-          "title": "KI-Unternehmen Anthropic bereitet Börsengang vor",
-          "url": "https://www.tagesschau.de/wirtschaft/boerse/boersengang-anthropic-100.html",
-          "summary": "Es ist der erste Schritt auf dem Weg an die Börse: Das US-Unternehmen Anthropic - bekannt für seine KI-Anwendung Claude - hat Unterlagen bei der Börsenaufsicht eingereicht.",
+          "title": "Frederiksen verkündet Einigung auf neue Koalition in Dänemark",
+          "url": "https://www.tagesschau.de/ausland/europa/daenemark-regierung-108.html",
+          "summary": "Gut zwei Monate nach der Parlamentswahl sind die Koalitionsverhandlungen in Dänemark abgeschlossen. Ministerpräsidentin Frederiksen will mit einem Mitte-Links-Bündnis in ihre dritte Amtszeit gehen. Von Jana Sinram.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/024b5aa6-9ac8-495e-ac68-7bbc1c56affd/AAABnoSf7y4/AAABnSSvrFg/16x9-big/anthropic-116.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/10c6de3e-6e7f-40c1-b76d-367ee7b79828/AAABnoVm3kk/AAABnSSvrFg/16x9-big/mette-frederiksen-116.jpg?width=1280"
         }
       ]
     },
@@ -122,9 +122,9 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: Iran stoppt offenbar Verhandlungen mit USA – Trump widerspricht",
+          "title": "Krieg in Nahost: Trump spricht von Einigung „nächste Woche“ – Iran bricht wohl Gespräche ab",
           "url": "https://www.sueddeutsche.de/politik/news-liveblog-nahost-iran-usa-verhandlungen-abbruch-li.3487408",
-          "summary": "Teheran begründe dies mit anhaltenden Angriffen Israels auf Libanon, meldet die iranische Nachrichtenagentur Tasnim. Der US-Präsident verkündet hingegen, die Gespräche würden fortgesetzt.",
+          "summary": "Wie so oft verkündet der US-Präsident einen optimistischen Zeitplan für ein Kriegsende. Kurz zuvor meldet die iranische Nachrichtenagentur Tasnim jedoch einen Verhandlungsstopp wegen Israels Angriffen in Libanon.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/01/f80afb0b-3da1-4aac-84b1-258314f6cbd9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
