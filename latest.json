@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T22:00:11.942Z",
-  "timestamp": "9.6.2026, 00:00:11",
+  "generated": "2026-06-09T02:00:07.802Z",
+  "timestamp": "9.6.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/1c28e9c5-d4e2-4149-8cba-263d96ae20e4_w1200_r1.778_fpx45.33_fpy50.jpg"
         },
         {
-          "title": "CDU in Sachsen-Anhalt: Landespartei geht im Wahlkampf auf Distanz zu Friedrich Merz",
-          "url": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-landespartei-geht-im-wahlkampf-auf-distanz-zu-friedrich-merz-a-23bf0662-b934-4fb2-a990-e79d08caa723#ref=rss",
-          "summary": "In Ostdeutschland steht für die CDU viel auf dem Spiel, vor allem in Sachsen-Anhalt. Friedrich Merz könnte im Wahlkampf unterstützen, doch die Landespartei grenzt sich von ihrem Kanzler ab.",
+          "title": "Moskau gibt Kraftstoff-Probleme infolge ukrainischer Angriffe zu",
+          "url": "https://www.spiegel.de/ausland/moskau-gibt-kraftstoff-probleme-infolge-ukrainischer-angriffe-zu-a-07c27dcb-5d20-4b2c-a8e0-c440c4866331#ref=rss",
+          "summary": "Seit Monaten zielt die Ukraine bei ihren Gegenangriffen auf die Ölindustrie Russlands – dort war die Ausgabe von Benzin teilweise eingeschränkt. Nun kommentiert ein Moskauer Ministerium die Lage.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/49a39b1d-c035-4945-ba61-a2c484307fa0_w1200_r1.778_fpx48_fpy53.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6c5cf90c-0d0a-4778-bcad-e81c7f71a675_w1200_r1.778_fpx68.92_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Auch Klingbeil spricht sich für verpflichtende Betriebsrente aus",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-betriebsrente-100.html",
+          "summary": "Der Deutsche Gewerkschaftsbund hatte eine verpflichtende Betriebsrente vorgeschlagen - und erhält jetzt Unterstützung vom Bundesfinanzminister. In der ARD-Arena sprach sich Klingbeil auch für mehr Anreize zur privaten Altersvorsorge aus.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b32f5826-891e-4f9f-ba00-ddf6687bd0f3/AAABnqnd9gc/AAABnSSvrFg/16x9-big/sendungsbild-1746170.jpg?width=1280"
+        },
+        {
+          "title": "Internationaler Strafgerichtshof suspendiert Chefankläger Khan",
+          "url": "https://www.tagesschau.de/ausland/europa/internationaler-strafgerichtshof-chefanklaeger-100.html",
+          "summary": "Seit mehr als einem Jahr untersucht der Internationale Strafgerichtshof Anschuldigungen gegen seinen Chefankläger: Khan werden sexuelle Übergriffe vorgeworfen. Sein Amt lässt er bereits ruhen - jetzt suspendiert ihn der Gerichtshof.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/83eac642-d2f1-4526-b8a7-ddb45319d101/AAABlJNoAXo/AAABnSSvrFg/16x9-big/karim-khan-108.jpg?width=1280"
+        },
+        {
           "title": "Aus für Kampfjet-Projekt FCAS: Deutsch-französisches Scheitern mit Ansage",
           "url": "https://www.tagesschau.de/ausland/europa/fcas-kampfjet-100.html",
           "summary": "Die Idee klang vielversprechend: Deutschland und Frankreich bauen gemeinsam einen Kampfjet. Doch nach viel Hin und Her haben Merz und Macron das Prestigeprojekt der Rüstungskooperation gestoppt. Von Cai Rienäcker.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/c408669e-307c-44c1-b608-0cb9f2b24223/AAABnqjAxHE/AAABnSSvrFg/16x9-big/fcas-114.jpg?width=1280"
-        },
-        {
-          "title": "4.000 Menschen demonstrieren gegen Bundesregierung",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-208.html",
-          "summary": "Deutschlandfahnen und Rufe gegen Migration: Am Brandenburger Tor in Berlin haben Demonstranten den Rücktritt der Regierung gefordert. Die Straße des 17. Juni war zeitweise auf einem Abschnitt voll gesperrt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/41e5d8c5-b634-4a10-9766-bd587a4d6a54/AAABnqie1Cc/AAABnSSvrFg/16x9-big/rbb-gegen-merz-100.jpg?width=1280"
-        },
-        {
-          "title": "Papst bezeichnet sexuellen Missbrauch in Spanien als \"Plage\"",
-          "url": "https://www.tagesschau.de/ausland/europa/papst-madrid-missbrauch-100.html",
-          "summary": "Während seiner Spanien-Reise hat sich Papst Leo XIV. mit Opfern sexualisierter Gewalt getroffen. Auch Mitglieder des katholischen Klerus hätten jene verletzt, die sie hätten schützen sollen. Von Hans-Günter Kellner.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/92ed95ff-94a8-453f-96b5-939afa2841d6/AAABnqhAl_A/AAABnSSvrFg/16x9-big/papst-leo-170.jpg?width=1280"
         }
       ]
     },
