@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-10T18:00:10.871Z",
-  "timestamp": "10.6.2026, 20:00:10",
+  "generated": "2026-06-10T22:00:12.672Z",
+  "timestamp": "11.6.2026, 00:00:12",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Krankenversorgung: Wo Milliarden im Gesundheitssystem versickern",
-          "url": "https://www.faz.net/aktuell/finanzen/wo-milliarden-im-gesundheitssystem-versickern-200898540.html",
-          "summary": "Der Bundestag diskutiert über das Gesundheitssystem. Entscheidend ist, wofür das Geld eingesetzt wird. Wer mitreden will, sollte diese Zahlen kennen.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/f3ed557b70fb/w3000h1567x0y113o/202512/43601.0.1584319794/warten-auf-den-einsatz.webp"
-        },
-        {
-          "title": "Minderausgaben und Mehreinnahmen: So will die Gesundheitsministerin die Pflegeversicherung retten",
-          "url": "https://www.faz.net/aktuell/wirtschaft/so-will-die-gesundheitsministerin-die-pflegeversicherung-retten-accg-200897536.html",
-          "summary": "Nina Warken plant mit höheren Finanzbeiträgen von Kinderlosen, gut verdienenden Versicherten und von den Arbeitgebern. Die Kassen sollen die Rentenbeiträge pflegender Angehöriger nicht mehr voll übernehmen.",
+          "title": "Türkische Opposition: Erdoğans großer Masterplan",
+          "url": "https://www.faz.net/aktuell/politik/oezguer-oezel-abgesetzt-erdoans-grosser-masterplan-200902541.html",
+          "summary": "Der türkische Präsident hat dem Oppositionsführer Özgür Özel eine Falle gestellt. Es sieht so aus, als sei er schon hineingetappt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/40557730be25/w5949h3108x0y504o/202406/43601.0.407756505/nicht-alleingelassen-mobile.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b0a44092853d/w4713h2462x136y405o/202606/43601.0.2197527868/der-fruehere-chp-vorsitzende.webp"
         },
         {
           "title": "Irankrieg: Ein Abschuss als Nadelstich",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/954a6ae88b07/w3757h1963x397y1297o/202503/4330331f08-ffed-11ef-8cca-ce250c2c62e3/ein-hubschrauber-der-us.webp"
+        },
+        {
+          "title": "Liveblog Irankrieg: Trump spricht von „geheimer Mission“ in Straße von Hormus",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-spricht-von-geheimer-mission-faz-200583539.html",
+          "summary": "US-Präsident: Mehr als 200 Handelsschiffe haben die Meerenge sicher durchquert +++ Trump droht Teheran: Iran wird Preis für verpasstes Abkommen zahlen +++ US-Angriff auf Tanker im Golf von Oman – Indien protestiert +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/6766b15f7b92/w6144h3210x0y170o/202606/43601.0.2202305910/praesident-donald-trump-am.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "FCAS: Airbus hofft nach Projekt-Aus auf neuen Kampfjetauftrag",
-          "url": "https://www.spiegel.de/politik/deutschland/fcas-airbus-hofft-nach-projekt-aus-auf-neuen-kampfjetauftrag-a-858e4164-469a-43c2-b1e0-f22191a72622#ref=rss",
-          "summary": "Nach dem Aus für den gemeinsamen Kampfjet mit Frankreich prescht die deutsche Industrie vor. Doch Kanzler Merz hält sich beim Rundgang auf der Luftfahrtmesse ILA alle Optionen offen.",
+          "title": "Großbritannien: Rassistische Ausschreitungen in Belfast und Southampton - Sikhs in Angst",
+          "url": "https://www.spiegel.de/ausland/grossbritannien-rassistische-ausschreitungen-in-belfast-und-southampton-sikhs-in-angst-a-7141485e-53ea-4202-b488-da0279ef687a#ref=rss",
+          "summary": "In Southampton fordern Demonstranten Abschiebungen, in Belfast brennen Häuser und Autos: Aus Kritik an einer angeblich zu woken Polizei wird Hass gegen Migranten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/90319f1f-3e03-4828-8fc8-f49fc30c87f4_w1200_r1.778_fpx43.13_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0a2cd216-96a0-404e-9a31-ab08cdbc1efa_w1200_r1.778_fpx74_fpy57.jpg"
         },
         {
-          "title": "Fußball-WM in den USA: Deutsche Spitzenpolitiker meiden die Trump-WM",
-          "url": "https://www.spiegel.de/politik/deutschland/fussball-wm-in-den-usa-deutsche-spitzenpolitiker-meiden-die-trump-wm-a-bcaed639-8696-4465-9539-03cc94a69b7c#ref=rss",
-          "summary": "Deutsche Spitzenpolitiker besuchen Spiele des Nationalteams, einst war das üblich bei Fußball-Weltmeisterschaften im Ausland. Nicht so diesmal: Vorerst reist nur die zuständige Staatssekretärin an.",
+          "title": "Wehrpflicht: »Ich halte unser Gemeinwesen nicht für verteidigungswert«",
+          "url": "https://www.spiegel.de/politik/deutschland/wehrpflicht-ich-halte-unser-gemeinwesen-nicht-fuer-verteidigungswert-a-0eac246d-6931-4043-b0e1-899f7018ffe4#ref=rss",
+          "summary": "Autor Stephan Anpalagan hat seine Kriegsdienstverweigerung widerrufen, Aktivist Simon David Dressler hält Deutschland für nicht schützenswert. Im SPIEGEL-Talk streiten sie über die Rückkehr der Wehrpflicht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/87061264-e193-4b91-8822-e69fe0095842_w1200_r1.778_fpx46_fpy53.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c4012dfb-8ea9-4b8d-b572-6ed24d551c3f_w1200_r1.778_fpx51_fpy45.png"
         },
         {
-          "title": "Fußball-WM 2026: Welches WM-Trikot gefällt Ihnen am besten?",
-          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-welches-wm-trikot-gefaellt-ihnen-am-besten-a-3958b807-5055-4aaf-9b6d-509b213f67b7#ref=rss",
-          "summary": "Kennen Sie die Trikots von Kap Verde, Jordanien oder Usbekistan? Und was halten Sie von surrealistischen Auswärtstrikots? So bunt wird es bei der Rekord-WM.",
+          "title": "Bundestag-Planspiel »Jugend und Parlament«: Eklat um »White Power«-Geste",
+          "url": "https://www.spiegel.de/politik/deutschland/bundestag-planspiel-jugend-und-parlament-eklat-um-white-power-geste-a-494a5cdf-ca34-46d0-9845-a703e9d5e364#ref=rss",
+          "summary": "Beschimpfungen, Handzeichen, ein Polizeieinsatz: Im Bundestag ist das Planspiel »Jugend und Parlament« eskaliert, im Mittelpunkt steht die AfD-Fraktion. Doch Bundestagspräsidentin Klöckner will nichts »überskandalisieren«.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c8c9e3ef-2961-4689-b444-630094e1520c_w1200_r1.778_fpx50_fpy46.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/c821e3e2-7c47-47ae-ad15-1a490ab3cc38_w1200_r1.778_fpx46_fpy52.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Baerbock warnt vor Folgen von Finanzkürzungen bei UN für Afrika",
+          "url": "https://www.tagesschau.de/ausland/finanzen-un-100.html",
+          "summary": "Die Vereinten Nationen stehen finanziell massiv unter Druck - das ist in Afrika schon jetzt sichtbar. Die Präsidentin der UN-Generalversammlung, Baerbock, warnt vor schweren Folgen für den Kontinent. Von Karin Bensch.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d1216796-4c6d-463d-be8d-2412005e1d76/AAABnrKqHPE/AAABnSSvrFg/16x9-big/baerbock-874.jpg?width=1280"
+        },
+        {
+          "title": "US-Präsident Trump droht mit \"harten\" Angriffen auf Iran",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-204.html",
+          "summary": "Offiziell herrscht zwischen Iran und den USA eine Waffenruhe. Doch die gegenseitigen Angriffe nehmen wieder zu. Jetzt droht US-Präsident Trump einmal mehr, das Land \"hart\" zu treffen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/e1dea058-910e-4799-bebf-8695a783e4c7/AAABnrKWo0M/AAABnSSvrFg/16x9-big/trump-5006.jpg?width=1280"
+        },
+        {
           "title": "Tankrabatt wird nicht verlängert",
           "url": "https://www.tagesschau.de/wirtschaft/tankrabatt-ende-102.html",
           "summary": "Lange war über eine mögliche Verlängerung diskutiert worden - nun ist klar: Der Tankrabatt endet. Wie geplant läuft die Maßnahme Ende Juni aus. Man sei aber vorbereitet, eine mögliche Preisexplosion zu stoppen, hieß es aus der Koalition.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/6fff196c-16e6-457e-bbaf-0d8e69976021/AAABnrJj8C0/AAABnSSvrFg/16x9-big/zapfpistole-110.jpg?width=1280"
-        },
-        {
-          "title": "DIW befürchtet Rezession in Deutschland",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/diw-wirtschaftsprognose-100.html",
-          "summary": "Die Ökonomen des DIW haben ihre Konjukturprognose nach unten korrigiert: Im Frühjahr und Sommer rechnen sie nun mit einer Rezession in Deutschland. Wichtig sei, dass die Mittel des Sondervermögens klug genutzt werden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/5d004e94-9130-44d8-8064-976002ac93e0/AAABnrD1JXs/AAABnSSvrFg/16x9-big/dany-knedlik-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX gibt weiter nach",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-iran-100.html",
-          "summary": "Am Persischen Golf wird wieder geschossen und die KI-Rally stockt. Der DAX schließt daher deutlich im Minus. Die US-Verbraucherpreise steigen derweil wie erwartet um 4,2 Prozent. Es hätte schlimmer kommen können.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/08f80415-bd58-42f5-8e03-d332e5065f16/AAABk92xd0U/AAABnSSvrFg/16x9-big/boerse-380.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Fifa-Präsident vor der WM: Infantino ruft: Chillt und relaxt!",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-infantino-pressekonferenz-tickets-visa-iran-li.3496811",
+          "summary": "Einreiseprobleme? Ticketpreise? Alles halb so wild, wenn es nach Gianni Infantino geht. Der Fifa-Präsident präsentiert einen Tag vor dem Turnier seine Sicht der Dinge.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/10/d56f1756-baa7-4c7e-a0e6-4f8e5d36c8cc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Energiepolitik: Der Tankrabatt wird nicht verlängert",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-benzinpreise-tankrabatt-nicht-verlaengert-li.3496631",
           "summary": "Zwei Monate lang senkte die Koalition künstlich die Spritpreise – durch einen 1,6 Milliarden Euro teuren Steuernachlass. Ende Juni soll damit Schluss sein. Aber neue Entlastungen werden geprüft.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/10/c21383c9-531e-47c1-b123-9dd8cb04fa3a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1680%2C945"
-        },
-        {
-          "title": "Podcast: „Auf den Punkt“: WM: America first, Fußball second?",
-          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-wm-usa-trump-fifa-li.3496565",
-          "summary": "Wie viel Donald Trump steckt in diesem Fußballturnier der Fifa in Mexiko, Kanada und den USA?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
         }
       ]
     }
