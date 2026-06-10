@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-10T10:00:11.651Z",
-  "timestamp": "10.6.2026, 12:00:11",
+  "generated": "2026-06-10T14:00:10.263Z",
+  "timestamp": "10.6.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Unruhen in belfast: Eine barbarische Momentaufnahme",
+          "url": "https://www.faz.net/aktuell/politik/ausland/unruhen-in-belfast-eine-barbarische-momentaufnahme-200916449.html",
+          "summary": "Eine grausame Gewalttat durch einen Migranten, ein Pogrom durch einen ausländerfeindlichen Mob – Europas Problem mit der Einwanderung bleibt groß.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/be2cdb8c1f5b/w6144h3210x0y690o/202606/43601.0.2201046214/belfast-am-9-juni-2026.webp"
+        },
+        {
           "title": "Unruhen in Belfast: „Männer gingen von Haus zu Haus und suchten Ausländer“",
           "url": "https://www.faz.net/aktuell/politik/ausland/gewalt-in-belfast-abgeordnete-spricht-von-rassistischem-pogrom-accg-200915558.html",
-          "summary": "Nach dem Messerangriff eines Sudanesen gehen Häuser und Autos in Belfast in Flammen auf. Die Feuerwehr zählt mehr als 60 Einsätze. Der britische Premierminister kündigte eine harte Reaktion an.",
+          "summary": "Nach der Messerattacke durch einen Sudanesen ist es in Belfast zu gewalttätigen Ausschreitungen gekommen. Der britische Premierminister Starmer versucht, die Kontrolle wiederherzustellen.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/b29e3b4dd78c/w6144h3210x0y710o/202606/43601.0.2199328361/am-anfang-der-eskalation-stand.webp"
         },
         {
-          "title": "Liveblog Irankrieg: Iran meldet Angriff auf US-Stützpunkt in Jordanien – Kuwait abermals unter Beschuss",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-armee-neue-angriffe-auf-iran-gestartet-faz-200583539.html",
-          "summary": "US-Militär: Neue Angriffe auf Ziele in Iran beendet +++ Dramatische Rettungsaktion am Golf +++ Teheran greift US-Stützpunkte in der Region an ++ alle Entwicklungen im Liveblog",
+          "title": "Irankrieg: Ein Abschuss als Nadelstich",
+          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-hat-iran-den-us-kampfhubscharuber-abgeschossen-200915736.html",
+          "summary": "Erst begnügt sich Trump mit symbolischer Vergeltung, dann droht er wieder wüst: Der Absturz eines Apache-Kampfhubschraubers bringt den US-Präsidenten in Nöte.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/24c4e346b899/w5000h2612x0y742o/202606/43601.0.2186244027/kuwait-hat-in-der-nacht-neue.webp"
-        },
-        {
-          "title": "Als israelisch deklariert: Wie Waren aus Siedlungen beim Export in die EU begünstigt werden",
-          "url": "https://www.faz.net/aktuell/politik/ausland/wie-waren-aus-israelischen-siedlungen-in-die-eu-gelangen-accg-200914432.html",
-          "summary": "Die EU nimmt für sich in Anspruch, Produkte aus israelischen Siedlungen nicht zu begünstigen. Viele Exporteure verschleiern aber die Herkunft der Waren.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b1478a6e161f/w6144h3210x0y454o/202605/43601.0.2075032180/ein-israeli-erntet-in-einer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/954a6ae88b07/w3757h1963x397y1297o/202503/4330331f08-ffed-11ef-8cca-ce250c2c62e3/ein-hubschrauber-der-us.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Fußball-WM 2026 in den USA, Kanada und Mexiko: New York trotzt dem Chaos",
-          "url": "https://www.spiegel.de/ausland/fussball-wm-2026-in-den-usa-kanada-und-mexiko-new-york-trotzt-dem-chaos-a-e70f20f1-1b7f-4b72-9100-8056b72f92cb#ref=rss",
-          "summary": "Die USA haben enorme Probleme bei der Organisation der Fußball-WM. In New York City bemüht sich Bürgermeister Zohran Mamdani um gute Fußballlaune – und zeigt der Fifa, wie es gehen kann.",
+          "title": "Vermisstenfall Michele: Die verschwundene Deutsche aus den Epstein-Akten",
+          "url": "https://www.spiegel.de/panorama/vermisstenfall-michele-die-verschwundene-deutsche-aus-den-epstein-akten-a-66e5e9a8-79b4-44aa-b3cd-aee4f8b63cd8#ref=rss",
+          "summary": "Vor elf Jahren verschwindet eine junge Deutsche spurlos. Jetzt taucht ihr Name in den Epstein-Akten auf. Ihre Familie fragt sich: Was ist mit Michele passiert?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f04da325-861c-4be1-ac03-7d5e575c0867_w1200_r1.778_fpx51_fpy38.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/aeae0dca-72c2-4bc3-bf98-8f9bd3df1108_w1200_r1.778_fpx46_fpy15.jpg"
         },
         {
-          "title": "CCS-Vorzeigeprojekt von Heidelberg Materials in Norwegen: SPIEGEL-Recherche weckt Zweifel",
-          "url": "https://www.spiegel.de/wissenschaft/technik/ccs-vorzeigeprojekt-von-heidelberg-materials-in-norwegen-spiegel-recherche-weckt-zweifel-a-d2253fea-68ca-4900-b116-09bd09a0d347#ref=rss",
-          "summary": "Bis zu acht Prozent der weltweiten CO₂-Emissionen entstehen in Zementwerken. Ein deutscher Konzern will das Treibhausgas abfangen und im Boden speichern, doch sein Vorzeigeprojekt in Norwegen funktioniert schlechter als gedacht.",
+          "title": "Jeffrey Epstein Files: Die Suche nach der verschwundenen Michele aus Deutschland",
+          "url": "https://www.spiegel.de/ausland/jeffrey-epstein-files-die-suche-nach-der-verschwundenen-michele-aus-deutschland-a-5dab44b2-0e6b-4730-b8fb-e647c0483161#ref=rss",
+          "summary": "2015 verlässt sie mit Koffer und Pass die Wohnung, seitdem wurde Michele nie wieder gesehen. So haben der SPIEGEL und das ZDF versucht, die Geschichte der jungen Frau zu rekonstruieren.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c9a7710b-1908-4360-9f25-da9deb158a73_w1200_r1.778_fpx33.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/790a2c11-1060-42fc-8ebc-941233493afd_w960_r1.778_fpx50_fpy61.32.jpg"
         },
         {
-          "title": "Iran-Krieg: Unbemanntes US-Boot birgt Apache-Piloten aus Meer vor Oman",
-          "url": "https://www.spiegel.de/politik/iran-krieg-unbemanntes-us-boot-birgt-apache-piloten-aus-meer-vor-oman-a-6c58db72-952a-4f72-9839-58335a7b7dc7#ref=rss",
-          "summary": "Stundenlang trieben die beiden US-Piloten in den Gewässern vor der Küste Omans, dann kam die Rettung – auf ungewöhnliche Weise. Die mutmaßlich von Iran abgeschossene Hubschrauberbesatzung ist laut Militärangaben in stabilem Zustand.",
+          "title": "WM-News: Irans Sportminister droht mit Abbruch von WM-Spielen",
+          "url": "https://www.spiegel.de/sport/fussball/wm-news-irans-sportminister-droht-mit-abbruch-von-wm-spielen-a-1bc883c2-51d5-4fd1-a9c1-ff3bd34e4c3e#ref=rss",
+          "summary": "Politische Parolen auf den Rängen? Die persische Flagge weht? Dann könnte es bei Iranspielen zum WM-Eklat kommen. Und: DFB-Sportdirektor Völler ist bei Musialas Fitness optimistisch. Alle WM-News im Liveblog.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2944573d-202a-4c3e-a92b-ba11222d4f8c_w1200_r1.778_fpx52.67_fpy50.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e9ad4eca-0161-4f08-bfa3-8a0329540077_w1200_r1.778_fpx50_fpy49.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Tote durch pakistanische Angriffe auf afghanisches Grenzgebiet",
-          "url": "https://www.tagesschau.de/ausland/asien/angriffe-pakistan-afghanistan-tote-100.html",
-          "summary": "Pakistan hat erneut Angriffe auf das afghanische Grenzgebiet geflogen und dabei eigenen Angaben nach mehrere Kämpfer getötet. Die afghanischen Taliban werfen dem Nachbarland hingegen Attacken auf Zivilisten vor.",
+          "title": "Schweizer Soziologe Jean Ziegler mit 92 Jahren gestorben",
+          "url": "https://www.tagesschau.de/ausland/jean-ziegler-gestorben-100.html",
+          "summary": "Er gehörte zu den schärfsten Globalisierungskritikern, prangerte Kapitalismus und Profitgier an - und er polarisierte, vor allem auch in seiner Heimat Schweiz. Nun ist der Soziologe Jean Ziegler im Alter von 92 Jahren gestorben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/be561c89-64e4-49c0-9b87-80da5e1d5b6c/AAABmKzIUEg/AAABnSSvrFg/16x9-big/afghanistan-pakistan-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1f69f40f-29f0-4e37-9e09-bd1bb02ccd65/AAABnrGGbmo/AAABnSSvrFg/16x9-big/ziegler-106.jpg?width=1280"
         },
         {
-          "title": "Südafrika: Tote bei Angriff auf Armensiedlung nahe Johannesburg",
-          "url": "https://www.tagesschau.de/ausland/afrika/suedafrika-massenschiesserei-100.html",
-          "summary": "In der Nähe von Johannesburg ist eine Armensiedlung angegriffen worden. Nach Angaben der Polizei überfielen mehr als zehn Täter nachts das Viertel - mindestens zwölf Menschen starben. Von Stephan Ueberbach.",
+          "title": "Knicks in NBA-Finals: New York City träumt vom Basketball-Titel",
+          "url": "https://www.tagesschau.de/ausland/amerika/knicks-nba-finals-100.html",
+          "summary": "New York trägt, fühlt und träumt orange-blau: Die ganze Stadt fiebert mit den Knicks, die derzeit in der NBA-Finalserie gegen die San Antonio Spurs spielen. Einzig US-Präsident Trump sorgte für einen kurzen Dämpfer. Von G. Ucar.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6a4a30ef-ef1a-4227-a526-67c957db1946/AAABnrC7CbU/AAABnSSvrFg/16x9-big/spurensicherung-cleveland-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/78ff8317-6b08-4882-945f-bf02be9760d4/AAABnrF-iVo/AAABnSSvrFg/16x9-big/knicks-fans-100.jpg?width=1280"
         },
         {
-          "title": "Eskalation am Persischen Golf: DAX im Minus",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-iran-100.html",
-          "summary": "Die KI-Rally stockt, und am Persischen Golf wird wieder geschossen. Das kostet den DAX zur Wochenmitte weitere Punkte. Am Nachmittag stehen wichtige Konjunkturdaten aus den USA an.",
+          "title": "Commerzbank-Übernahme rückt näher",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-284.html",
+          "summary": "UniCredit hat mit ihrem Übernahmeangebot für die Commerzbank weitere Aktien angedient bekommen. Damit ist die italienische Großbank einen Schritt weiter bei der Übernahme der zweitgrößten deutschen Privatbank.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1cd7783b-220b-4d14-9b74-536f856c926b/AAABnjsd-94/AAABnSSvrFg/16x9-big/dax-220.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/efa4c7f2-a407-4d7f-a01e-3aa240842dff/AAABnapCU8g/AAABnSSvrFg/16x9-big/commerzbank-266.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Solarstrom federt Europas Energiemarkt ab",
-          "url": "https://www.telepolis.de/article/Solarstrom-federt-Europas-Energiemarkt-ab-11327142.html",
-          "summary": "Europas Solarflotte spart täglich über 100 Millionen Euro an teurem Gas. Warum der Boom die Stromrechnung der Verbraucher trotzdem nicht senkt.",
+          "title": "Langlebigkeit: Warum zwei Stunden Krafttraining pro Woche reichen",
+          "url": "https://www.telepolis.de/article/Langlebigkeit-Warum-zwei-Stunden-Krafttraining-pro-Woche-reichen-11327604.html",
+          "summary": "Mehr Training bringt keinen Vorteil mehr – ab einer bestimmten Schwelle ist das Risiko für frühen Tod laut Harvard-Studie nicht weiter senkbar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/7/8/5/3/shutterstock_1838091802-50c614857ae438a6.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/8/0/8/3/shutterstock_2715515525-04a0c454effaa6f6.jpg"
         },
         {
-          "title": "Aus Stuttgart 21 wird Stuttgart 31",
-          "url": "https://www.telepolis.de/article/Aus-Stuttgart-21-wird-Stuttgart-31-11327016.html",
-          "summary": "Falsch verlegte Kabel, Baumängel, Digitalisierungsstau: Das Milliardengrab Stuttgart 21 wird zum Symbol für Deutschlands fehlende Planungskultur. Ein Kommentar.",
+          "title": "Iran: \"Krieg und Isolation stärken nicht die demokratischen Kräfte\"",
+          "url": "https://www.telepolis.de/article/Iran-Krieg-und-Isolation-staerken-nicht-die-demokratischen-Kraefte-11327056.html",
+          "summary": "Der Iran steht unter Beschuss – von außen und innen. Was Sanktionen und Krieg mit einer Gesellschaft machen und was Europa dabei vergisst. Ein Interview.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/7/7/9/0/shutterstock_2724972223-b117f21412521532.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/7/8/1/0/shutterstock_2741158805-9c4fc6b7d01d012e.jpg"
         },
         {
-          "title": "Fußball-WM 2026: Soll man die WM boykottieren?",
-          "url": "https://www.telepolis.de/article/Fussball-WM-2026-Soll-man-die-WM-boykottieren-11326778.html",
-          "summary": "Die utopische Gerechtigkeit des Fußballs: Vor einer WM der Überraschungen; WM Blog – Folge 01.",
+          "title": "Wer kontrolliert die Öffentlichkeit?",
+          "url": "https://www.telepolis.de/article/Wer-kontrolliert-die-Oeffentlichkeit-11327512.html",
+          "summary": "YouTube, Instagram und TikTok bestimmen zunehmend, was wir sehen. Forscher verlangen Einblick in die Mechanismen hinter den Feeds.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/7/6/7/0/master_suchsland-79fb2cd41c57f8f4.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/8/0/3/7/Master_Insta-086a1cf640ed02ce.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Konjunktur: DIW-Prognose: Deutsche Wirtschaft rutscht in die Rezession",
-          "url": "https://www.sueddeutsche.de/wirtschaft/wirtschaft-rezession-energiepreisschock-diw-fussball-wm-wm-fratzscher-merz-regierung-sozialpartner-oel-iran-krieg-li.3495768",
-          "summary": "Die deutsche Wirtschaft schrumpft bis Herbst, sagt das DIW-Institut voraus. Jetzt solle die Regierung handeln und die Menschen gezielt entlasten – aber nicht durch einen neuen Tankrabatt.",
+          "title": "Nachruf: Jean Ziegler ist tot",
+          "url": "https://www.sueddeutsche.de/kultur/jean-ziegler-nachruf-kapitalismuskritik-li.3496736",
+          "summary": "Der Autor, Politiker und Kapitalismuskritiker kämpfte stets vehement und provokant für seine Anliegen. Das machte ihn weit über die Schweiz hinaus bekannt. Nun ist er im Alter von 92 Jahren gestorben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/11/2ac84623-1135-45e3-bc0c-e171f7ffb579.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/06/10/ade66451-e2ef-43e1-bec9-77d0576ae72d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Weltall: Die Antwort auf Space-X kommt aus München",
-          "url": "https://www.sueddeutsche.de/wirtschaft/raumfahrt-nyx-erdorbit-kapsel-rakete-li.3495766",
-          "summary": "Das Münchner Start-up The Exploration Company will langfristig auch große wiederverwendbare Trägerraketen bauen und damit Europa im All unabhängiger machen, auch von Elon Musk. Doch zunächst muss dafür ein leistungsfähiges Triebwerk her.",
+          "title": "USA: Iran-Krieg heizt Inflation in den USA stark an",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-trump-inflation-iran-krieg-li.3494806",
+          "summary": "Die Verbraucherpreise stiegen im Mai um 4,2 Prozent zum Vorjahresmonat, wie ⁠das Arbeitsministerium mitteilt. Eine Senkung des Leitzinses, wie von US-Präsident Trump gefordert, wird damit wirtschaftlich unwahrscheinlicher.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/09/80a07508-0908-4da2-bd3a-1142149eab57.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3840%2C2160"
+          "image": "https://www.sueddeutsche.de/2026/06/10/9d18046b-9e07-4362-a421-e4c033df61ea.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
         },
         {
-          "title": "DFB-Sportdirektor bei der WM: Professor Völler und der Trick mit der nackten Kanone",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-dfb-sportdirektor-rudi-voeller-pressekonferenz-li.3496379",
-          "summary": "Wer in den USA zur deutschen Nationalelf will, reist durch ein Örtchen namens „Welcome“ an. Der menschgewordene Willkommensgruß des DFB heißt Rudi Völler – der vor dem WM-Start jegliche Debatten kleinzuhalten versucht.",
+          "title": "Indien: Der Nationalist überflügelt den Architekten der Demokratie",
+          "url": "https://www.sueddeutsche.de/politik/indien-narendra-modi-jawaharlal-nehru-premierminister-li.3495584",
+          "summary": "Narendra Modi ist nun länger Premier als Jawaharlal Nehru, der erste Regierungschef des unabhängigen Indien. Seine Anhänger feiern den Rekord als Sieg des Hinduismus über die Idee eines weltlichen Staates.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/10/55e35859-b109-4bc5-b92b-0d7ed8d2255e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C2%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/10/8e759c57-7a78-4611-9d1f-cabea566bf16.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
