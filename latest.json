@@ -1,17 +1,25 @@
 {
-  "generated": "2026-06-10T22:00:12.672Z",
-  "timestamp": "11.6.2026, 00:00:12",
+  "generated": "2026-06-11T02:00:08.565Z",
+  "timestamp": "11.6.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Türkische Opposition: Erdoğans großer Masterplan",
-          "url": "https://www.faz.net/aktuell/politik/oezguer-oezel-abgesetzt-erdoans-grosser-masterplan-200902541.html",
-          "summary": "Der türkische Präsident hat dem Oppositionsführer Özgür Özel eine Falle gestellt. Es sieht so aus, als sei er schon hineingetappt.",
+          "title": "Irankrieg: Trump wirft Iran besonders schweren Bruch der Waffenruhe vor",
+          "url": "https://www.faz.net/aktuell/politik/ausland/trump-wirft-iran-schweren-waffenruhebruch-vor-accg-200918834.html",
+          "summary": "Donald Trump wirft Iran schweren Waffenruhebruch vor",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b0a44092853d/w4713h2462x136y405o/202606/43601.0.2197527868/der-fruehere-chp-vorsitzende.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a4a504240b4c/w5249h2742x0y311o/202606/43601.0.2202256951/us-praesident-donald-trump.webp"
+        },
+        {
+          "title": "Liveblog Irankrieg: US-Militär greift erneut in Iran an – Iran erklärt Straße von Hormus für komplett gesperrt",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-militaer-greift-erneut-in-iran-an-faz-200583539.html",
+          "summary": "Trump spricht von „geheimer Mission“ in Straße von Hormus +++ Iranische Staatsmedien melden Explosionen an Südküste +++ USA greifen Tanker mit iranischem Öl an +++  alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cade25bc0200/w3683h1924x0y272o/202606/43601.0.2203303526/us-praesident-donald-trump-am.webp"
         },
         {
           "title": "Irankrieg: Ein Abschuss als Nadelstich",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/954a6ae88b07/w3757h1963x397y1297o/202503/4330331f08-ffed-11ef-8cca-ce250c2c62e3/ein-hubschrauber-der-us.webp"
-        },
-        {
-          "title": "Liveblog Irankrieg: Trump spricht von „geheimer Mission“ in Straße von Hormus",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-spricht-von-geheimer-mission-faz-200583539.html",
-          "summary": "US-Präsident: Mehr als 200 Handelsschiffe haben die Meerenge sicher durchquert +++ Trump droht Teheran: Iran wird Preis für verpasstes Abkommen zahlen +++ US-Angriff auf Tanker im Golf von Oman – Indien protestiert +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6766b15f7b92/w6144h3210x0y170o/202606/43601.0.2202305910/praesident-donald-trump-am.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Großbritannien: Rassistische Ausschreitungen in Belfast und Southampton - Sikhs in Angst",
-          "url": "https://www.spiegel.de/ausland/grossbritannien-rassistische-ausschreitungen-in-belfast-und-southampton-sikhs-in-angst-a-7141485e-53ea-4202-b488-da0279ef687a#ref=rss",
-          "summary": "In Southampton fordern Demonstranten Abschiebungen, in Belfast brennen Häuser und Autos: Aus Kritik an einer angeblich zu woken Polizei wird Hass gegen Migranten.",
+          "title": "Iran erklärt Straße von Hormus für komplett gesperrt",
+          "url": "https://www.spiegel.de/ausland/iran-erklaert-strasse-von-hormus-fuer-komplett-gesperrt-a-00d939ee-993a-4e9f-9537-2d21b352e7d0#ref=rss",
+          "summary": "Das US-Militär hat in der zweiten Nacht in Folge Attacken auf Iran gestartet. Die Militärführung in Teheran reagierte umgehend: Die Straße von Hormus sei für alle Schiffe geschlossen. Wer versuche, sie zu passieren, werde angegriffen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0a2cd216-96a0-404e-9a31-ab08cdbc1efa_w1200_r1.778_fpx74_fpy57.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f8e6ef2a-8bea-4176-9265-fc0e0639b8d2_w1200_r1.778_fpx63.34_fpy55.01.jpg"
         },
         {
           "title": "Wehrpflicht: »Ich halte unser Gemeinwesen nicht für verteidigungswert«",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Baerbock warnt vor Folgen von Finanzkürzungen bei UN für Afrika",
-          "url": "https://www.tagesschau.de/ausland/finanzen-un-100.html",
-          "summary": "Die Vereinten Nationen stehen finanziell massiv unter Druck - das ist in Afrika schon jetzt sichtbar. Die Präsidentin der UN-Generalversammlung, Baerbock, warnt vor schweren Folgen für den Kontinent. Von Karin Bensch.",
+          "title": "Neue ausländerfeindliche Proteste in Nordirland",
+          "url": "https://www.tagesschau.de/ausland/europa/nordirland-ausschreitungen-104.html",
+          "summary": "In Nordirland ist es bereits den zweiten Abend in Folge zu schweren rassistisch motivierten Ausschreitungen gekommen. Die Polizei setzte Wasserwerfer ein. Auslöser der Krawalle war eine Messerattacke.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d1216796-4c6d-463d-be8d-2412005e1d76/AAABnrKqHPE/AAABnSSvrFg/16x9-big/baerbock-874.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4163bab8-13d1-48da-9922-64f5ef8ffb7b/AAABnrQeD9k/AAABnSSvrFg/16x9-big/nordirland-krawall-100.jpg?width=1280"
         },
         {
-          "title": "US-Präsident Trump droht mit \"harten\" Angriffen auf Iran",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-204.html",
-          "summary": "Offiziell herrscht zwischen Iran und den USA eine Waffenruhe. Doch die gegenseitigen Angriffe nehmen wieder zu. Jetzt droht US-Präsident Trump einmal mehr, das Land \"hart\" zu treffen.",
+          "title": "Treffen im Kanzleramt: Weitere Reformgespräche mit Sozialpartnern vereinbart",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/kanzleramt-reformgespraeche-100.html",
+          "summary": "Die heiße Phase der Verhandlungen über das Reformpaket der Bundesregierung hat begonnen: Mehr als drei Stunden lang berieten die Spitzen der Koalition am Abend mit Wirtschaftsverbänden und Gewerkschaften.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e1dea058-910e-4799-bebf-8695a783e4c7/AAABnrKWo0M/AAABnSSvrFg/16x9-big/trump-5006.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7a7e0668-f19f-40f9-ac21-8f8986ac64dd/AAABnrPt5Ok/AAABnSSvrFg/16x9-big/kanzleramt-reformgespraeche-102.jpg?width=1280"
         },
         {
-          "title": "Tankrabatt wird nicht verlängert",
-          "url": "https://www.tagesschau.de/wirtschaft/tankrabatt-ende-102.html",
-          "summary": "Lange war über eine mögliche Verlängerung diskutiert worden - nun ist klar: Der Tankrabatt endet. Wie geplant läuft die Maßnahme Ende Juni aus. Man sei aber vorbereitet, eine mögliche Preisexplosion zu stoppen, hieß es aus der Koalition.",
+          "title": "Iran-Liveblog: ++ US-Armee startet neue Angriffe auf Iran ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html",
+          "summary": "Die US-Streitkräfte haben nach eigenen Angaben erneut Iran angegriffen, es handele sich um \"Selbstverteidigungsschläge\". Iran meldet seinerseits Attacken auf US-Stützpunkte in den Golfstaaten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6fff196c-16e6-457e-bbaf-0d8e69976021/AAABnrJj8C0/AAABnSSvrFg/16x9-big/zapfpistole-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/714a2e18-8919-4fc5-9c40-c6f29bb33eae/AAABllYYWVY/AAABnSSvrFg/16x9-big/us-flugzeugtraeger-110.jpg?width=1280"
         }
       ]
     },
