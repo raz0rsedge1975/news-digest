@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-11T14:00:08.684Z",
-  "timestamp": "11.6.2026, 16:00:08",
+  "generated": "2026-06-11T18:00:09.370Z",
+  "timestamp": "11.6.2026, 20:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Unruhen in Nordirland: Wie der Hass im Netz die Gewalt in Belfast befeuerte",
-          "url": "https://www.faz.net/aktuell/politik/ausland/das-netz-als-brandbeschleuniger-in-belfast-200920521.html",
-          "summary": "Nach der Gewalt in Belfast richtet sich der Blick auf die Hetze in den sozialen Medien und rechtsextreme Aufwiegler. Die Regierung will strenger gegen Hass im Netz vorgehen.",
+          "title": "Eskalation am Golf: Was die Verhandlungen zwischen Iran und den USA so schwierig macht",
+          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-was-die-verhandlungen-zwischen-iran-und-den-usa-so-schwierig-macht-200920230.html",
+          "summary": "Donald Trump will Iran mit Bomben zu einer Verhandlungslösung zwingen. Doch Teheran wirkt entschlossen, sich nicht einschüchtern zu lassen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e782b5592d42/w6144h3210x0y765o/202606/43601.0.2205266489/blick-auf-einen-ausgebrannten.webp"
-        },
-        {
-          "title": "Extremisten in Moskau: Mit Putin den Westen untergehen lassen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/tommy-robinson-und-errol-musk-in-moskau-mit-putin-den-westen-untergehen-lassen-200919835.html",
-          "summary": "Rechtsextremist Tommy Robinson dreht in einem Moskauer Hotel ein Video mit Elon Musks Vater Errol. Auch weitere Westler preisen gerade in Russland das Regime.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b3a410221038/w4751h2482x0y158o/202606/43601.0.2175704806/tommy-robinson-bei-einer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/aa8c9bda4eeb/w1512h790x0y184o/202606/43601.0.2204265973/feuerwehrmaenner-in-bahrain.webp"
         },
         {
           "title": "Liveblog Irankrieg: Trump droht mit „vollständiger Kontrolle“ über Irans Öl",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/26a2f471a094/w3683h1924x0y223o/202606/43601.0.2203303526/der-amerikanische-praesident.webp"
+        },
+        {
+          "title": "Statistiken zur Fußball-WM: Diese Spieler schossen die meisten WM-Tore",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/zahlen-und-statistiken-zur-fussball-wm-2026-200877583.html",
+          "summary": "Wer wird bei der WM siegen? Ein Blick auf vergangene Turniere hilft: Wer hat die meisten WM-Tore geschossen? Wer war am häufigsten dabei?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/d7de6c933e20/w2756h1440x0y210o/201006/431.0.54619831/431054619831.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Polen und die Ukraine: Wie konnte es zum Zerwürfnis über die Geschichte kommen?",
-          "url": "https://www.spiegel.de/ausland/polen-und-die-ukraine-wie-konnte-es-zum-zerwuerfnis-ueber-die-geschichte-kommen-a-1d6b49a1-e5de-4a2c-9376-3107d40ecc6f#ref=rss",
-          "summary": "Das polnisch-ukrainische Verhältnis ist im Jahr fünf des russischen Angriffskrieges an einem Tiefpunkt angelangt. Wie konnte es so weit kommen?",
+          "title": "News des Tages: Russische Aufrüstung an Nato-Grenzen, Fußball-WM 2026, Marius Borg Høiby",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-russische-aufruestung-an-nato-grenzen-fussball-wm-2026-marius-borg-hoiby-a-176cd934-fb11-41b0-b877-ab0427a56d51#ref=rss",
+          "summary": "Russland errichtet neue Militärbasen an der Grenze zu Finnland und Norwegen. Für uns steht der Sieger der WM jetzt schon fest. Und Marius Borg Høiby genießt erstaunlichen Luxus im Gefängnis von Oslo. Das ist die Lage am Donnerstagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7def6f10-b72e-434e-b345-a97fda96ae98_w1200_r1.778_fpx53_fpy32.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Europäische Zentralbank erhöht Leitzins erstmals seit knapp drei Jahren",
-          "url": "https://www.spiegel.de/wirtschaft/europaeische-zentralbank-erhoeht-leitzins-erstmals-seit-knapp-drei-jahren-a-b33257ff-5894-4db7-9993-3ed59ebbab64#ref=rss",
-          "summary": "Wegen des Irankriegs wachsen die Sorgen vor der Inflation. Die Europäische Zentralbank reagiert.",
+          "title": "Als der Arbeitgeberboss und die Gewerkschaftschefin aufeinandertreffen, droht die Stimmung zu kippen",
+          "url": "https://www.spiegel.de/politik/deutschland/als-der-arbeitgeber-boss-und-die-gewerkschaftschefin-aufeinandertreffen-droht-die-stimmung-zu-kippen-a-7d75ab8b-d0ed-457b-9bac-b4589028adf3#ref=rss",
+          "summary": "»Konstruktive Atmosphäre«, »sachlich und angenehm«: Nach dem Spitzentreffen im Kanzleramt geben sich die Beteiligten betont harmonisch. Nach SPIEGEL-Informationen gab es gleich zu Beginn einen heftigen Schlagabtausch.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ee2ef799-c7aa-4720-a9cb-525b863333ea_w1200_r1.778_fpx45.99_fpy52.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7f897006-a45b-47a0-8585-f9c7d0caec68_w1200_r1.778_fpx61_fpy64.jpg"
         },
         {
-          "title": "Fußball-WM 2026: Unterwegs im Viertel rund um das Aztekenstadion",
-          "url": "https://www.spiegel.de/reise/fernweh/fussball-wm-2026-unterwegs-im-viertel-rund-um-das-aztekenstadion-a-86cb7851-cb4b-49c3-a7bc-24111f9029f1#ref=rss",
-          "summary": "WM-Anpfiff in Mexiko-Stadt – einer dicht besiedelten Millionenmetropole. Doch das Viertel Tlalpan, unweit des Aztekenstadions, wirkt mystisch und nahezu beschaulich. Ein Besuch.",
+          "title": "FCAS-Aus: Wie muss der deutsche Kampfjet der Zukunft aussehen, Herr Hinz?",
+          "url": "https://www.spiegel.de/ausland/fcas-aus-wie-muss-der-deutsche-kampfjet-der-zukunft-aussehen-herr-hinz-a-c35823d1-ba50-4de7-8253-0778e29182c7#ref=rss",
+          "summary": "Das deutsch-französische Rüstungsprojekt FCAS ist gescheitert. Der Militärexperte Fabian Hinz über mögliche Alternativen und die Vor- und Nachteile von Drohnen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b0c416b9-38c2-41aa-a2b7-a35f4bf9d27f_w1200_r1.778_fpx89_fpy64.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2fabc382-de68-478a-8b34-d7ede301ef77_w1200_r1.778_fpx52_fpy59.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Britischer Verteidigungsminister tritt im Etatstreit zurück",
-          "url": "https://www.tagesschau.de/ausland/europa/healey-ruecktritt-uk-100.html",
-          "summary": "Noch ein Dämpfer für Premier Starmer: Im Streit um den Militärhaushalt hat der britische Verteidigungsminister Healey seinen Rücktritt angekündigt. Weitere schlechte Nachrichten für Starmer könnten bald folgen.",
+          "title": "Konferenz der Ministerpräsidenten: Der Osten will Transparenz - und seinen Anteil",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/ostdeutschland-ministerpraesidenten-konferenz-100.html",
+          "summary": "Mit dem Sondervermögen soll die Infrastruktur saniert und ausgebaut werden. Die Regierungschefs der Ost-Länder kritisieren jedoch einen intransparenten Umgang mit den Mitteln. Aus Brandenburg kommen besonders klare Worte. Von Andre Kartschall.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4dedce71-b11f-4961-bea9-8dbec44d879b/AAABnraBtZ4/AAABnSSvrFg/16x9-big/healey-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fb3d7a80-2ab8-4f75-b4bd-54c0e4b67382/AAABnrdWsoQ/AAABnSSvrFg/16x9-big/regierungschefs-ostdeutschland-100.jpg?width=1280"
         },
         {
-          "title": "Ethikrat gegen pauschales Social-Media-Verbot für Jugendliche",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/ethikrat-soziale-medien-kinder-100.html",
-          "summary": "TikTok, Instagram und Co sind bei Kindern und Jugendlichen beliebt, sie bergen aber auch Gefahren. Um Kinder besser zu schützen hat der Deutsche Ethikrat eine Empfehlung ausgegeben. Von Alicia Heid.",
+          "title": "Kontroverse Debatte über Gebäudemodernisierungsgesetz im Bundestag",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestagsdebatte-gebaeudemodernisierungsgesetz-100.html",
+          "summary": "Die erste Debatte im Bundestag über das Gebäudemodernisierungsgesetz war kontrovers. Ministerin Reiche sprach von \"Freiheit beim Heizen\", die AfD vom \"Heizungshammer durch die Hintertür\" - und die SPD gibt sich selbstkritisch. Von F. Aischmann.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ab05f68c-163a-4896-8858-b4a81f16ad32/AAABnrbW1RI/AAABnSSvrFg/16x9-big/kinder-tablet-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d32babec-8ea7-45ac-b607-b970a188d9d4/AAABnrdH_YU/AAABnSSvrFg/16x9-big/reiche-188.jpg?width=1280"
         },
         {
-          "title": "Bill Gates berichtet von Erpressung durch Epstein",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-gates-epstein-100.html",
-          "summary": "Vor dem US-Kongress hat Microsoft-Mitgründer Gates angegeben, der Sexualstraftäter Epstein habe ihn wegen seiner Affären erpresst. Kriminelles Verhalten habe er aber sonst nie beobachtet. Der Kontakt sei ein Fehler gewesen.",
+          "title": "Neue Kampfjet-Allianz von acht Rüstungsfirmen",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ruestung-kampfjet-allianz-europa-100.html",
+          "summary": "Nach dem Aus des französisch-deutschen Kampfflugzeug-Projekts FCAS will ein Zusammenschluss deutscher Unternehmen ein neues Luftkampf-System für Europa entwickeln. Daran beteiligt ist auch die Rüstungssparte von Airbus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/98ec6e9a-85b7-46f7-a850-152bcccf5e04/AAABnrbT8Wo/AAABnSSvrFg/16x9-big/bill-gates-132.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/10cc6226-ff51-47b0-9696-10307673ba19/AAABnraIlC4/AAABnSSvrFg/16x9-big/airbus-defence-space-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "2-Milliarden-Plan: BYD plant die schnellsten Lader Europas",
+          "url": "https://www.telepolis.de/article/2-Milliarden-Plan-BYD-plant-die-schnellsten-Lader-Europas-11329334.html",
+          "summary": "BYD investiert Milliarden in Europas schnellste Ladepunkte. In nur fünf Minuten sollen E-Autos voll sein – doch die Rekord-Power hat einen Haken.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/8/9/6/1/shutterstock_2644113713-cbe584735b89f6dc.jpg"
+        },
         {
           "title": "Pokémon Go: 30 Milliarden Spieler-Scans landen in US-Militärdrohnen",
           "url": "https://www.telepolis.de/article/Pokemon-Go-30-Milliarden-Spieler-Scans-landen-in-US-Militaerdrohnen-11329208.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/8/6/7/8/shutterstock_2667961787-cf7298ece5a0c7ed.jpg"
-        },
-        {
-          "title": "Studie zum Bildermarkt: KI vertieft den Graben zwischen Medien und Fotografen",
-          "url": "https://www.telepolis.de/article/Studie-zum-Bildermarkt-KI-vertieft-den-Graben-zwischen-Medien-und-Fotografen-11328941.html",
-          "summary": "Redaktionen und Werber entdecken KI-Bilder für sich. Die Folgen spüren Fotografen bereits bei Aufträgen und Honoraren.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/8/7/6/0/master_Fotografen-68a9ce6fdac3246d.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: Trump droht mit „vollständiger Kontrolle“ über Irans Öl",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-liveblog-usa-trump-drohung-oel-kontrolle-li.3494580",
-          "summary": "In nicht allzu ferner Zukunft werde man die Insel Charg und andere Öl-Infrastrukturpunkte übernehmen, schreibt der US-Präsident in sozialen Medien. Zugleich kündigt Trump schwere Angriffe auf Iran für die Nacht an.",
+          "title": "Nach Diebstahl in Sparkasse Gelsenkirchen: „Ich könnt' meine eigene Beerdigung nicht bezahlen“",
+          "url": "https://www.sueddeutsche.de/panorama/ueberfall-sparkasse-gelsenkirchen-gerichtsprozess-essen-li.3487156",
+          "summary": "Wie viel die Diebe an Weihnachten aus den mehr als 3000 Schließfächern der Sparkasse Gelsenkirchen gestohlen haben, ist noch immer unklar. Im ersten Zivilprozess kämpfen jetzt zwei von Hunderten Opfern um Entschädigung. Sie haben all ihre Ersparnisse verloren.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/03/18/f297b983-c4c9-4e88-b28f-456d295db045.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C250%2C2400%2C1350"
+          "image": "https://www.sueddeutsche.de/2026/06/11/dc6cdab0-b21f-44db-ae34-6a46953d7bbe.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C459%2C4000%2C2250"
         },
         {
-          "title": "Inflation: Die EZB will diesmal alles richtig machen. Und könnte genau damit falschliegen",
-          "url": "https://www.sueddeutsche.de/meinung/ezb-leitzins-inflation-europa-kommentar-li.3496226",
-          "summary": "Die Europäische Zentralbank erhöht wegen der steigenden Preise die Leitzinsen. Aus der Entscheidung spricht die Angst vor einem neuerlichen Irrtum – und darin liegt die ganze Tragik der Geldpolitik.",
+          "title": "Immobilienmarkt in Bayern: Bis zu 25 Prozent plus – Mietpreisspirale erreicht den ländlichen Raum",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-mieten-wohnen-auf-dem-land-teurer-unterallgaeu-bamberg-fuerth-li.3496688",
+          "summary": "Die Mieten sind in Bayern zuletzt deutlich gestiegen – selbst da, wo das Wohnen bislang halbwegs erschwinglich war. Die Staatsregierung setzt für mehr Wohnraum nun auf einen „Bauturbo“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/11/6565d744-3762-4267-b59c-f13dd49dc532.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C250%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/11/f5abe5ff-e42f-48e1-bb35-4127d61e4c05.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
         },
         {
-          "title": "Geldpolitik: EZB erhöht Leitzins auf 2,25 Prozent",
-          "url": "https://www.sueddeutsche.de/wirtschaft/ezb-leitzins-prozent-inflation-iran-li.3496508",
-          "summary": "Erstmals seit drei Jahren hebt die EZB den Leitzins an. Die Folgen sind spürbar: Immobilienkredite verteuern sich, während Tagesgeldzinsen nur mäßig steigen.",
+          "title": "Teuerste Villa, höchste Miete: Die unfassbaren Preise für Immobilien in München",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-immobilien-teuer-rekorde-haeuser-wohnungen-preise-li.3497188",
+          "summary": "Ein neuer Bericht weist die teuerste je verkaufte Eigentumswohnung aus. Doch auch andere Deals haben Schlagzeilen gemacht. Die Rekordbeträge für Villen, Geschäfte und Hochhäuser.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2024/11/20/553868f3-8fa6-44ab-a610-d88f06ce42db.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C243%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/06/11/56f539c7-7658-4ed1-ac7d-130fce428a6c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=54%2C14%2C902%2C507"
         }
       ]
     }
