@@ -1,10 +1,18 @@
 {
-  "generated": "2026-06-11T02:00:08.565Z",
-  "timestamp": "11.6.2026, 04:00:08",
+  "generated": "2026-06-11T06:00:09.665Z",
+  "timestamp": "11.6.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Liveblog Irankrieg: Iran greift Ziele in Golfstaaten an – Explosionen in Teheran",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-greift-ziele-in-golfstaaten-an-explosionen-in-teheran-faz-200583539.html",
+          "summary": "Straße von Hormus nach iranischen Angaben wieder komplett gesperrt +++ Trump wirft Iran schweren Bruch der Waffenruhe vor +++  alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c4ac1d5c0a84/w3590h1875x0y72o/202606/43601.0.2200443881/eine-iranische-rakete-startet.webp"
+        },
         {
           "title": "Irankrieg: Trump wirft Iran besonders schweren Bruch der Waffenruhe vor",
           "url": "https://www.faz.net/aktuell/politik/ausland/trump-wirft-iran-schweren-waffenruhebruch-vor-accg-200918834.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/a4a504240b4c/w5249h2742x0y311o/202606/43601.0.2202256951/us-praesident-donald-trump.webp"
         },
         {
-          "title": "Liveblog Irankrieg: US-Militär greift erneut in Iran an – Iran erklärt Straße von Hormus für komplett gesperrt",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-militaer-greift-erneut-in-iran-an-faz-200583539.html",
-          "summary": "Trump spricht von „geheimer Mission“ in Straße von Hormus +++ Iranische Staatsmedien melden Explosionen an Südküste +++ USA greifen Tanker mit iranischem Öl an +++  alle Entwicklungen im Liveblog",
+          "title": "F.A.Z. Frühdenker: Wie ausgelassen kann die Fußball-WM werden?",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wie-ausgelassen-kann-die-fussball-wm-werden-faz-fruehdenker-200918638.html",
+          "summary": "Heute beginnt die Fußball-WM der Superlative. Die EZB erhöht wohl erstmals seit drei Jahren die Zinsen. Und es startet der erste Prozess zum Millionenraub von Gelsenkirchen. -Frühdenker.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cade25bc0200/w3683h1924x0y272o/202606/43601.0.2203303526/us-praesident-donald-trump-am.webp"
-        },
-        {
-          "title": "Irankrieg: Ein Abschuss als Nadelstich",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-krieg-hat-iran-den-us-kampfhubscharuber-abgeschossen-200915736.html",
-          "summary": "Erst begnügt sich Trump mit symbolischer Vergeltung, dann droht er wieder wüst: Der Absturz eines Apache-Kampfhubschraubers bringt den US-Präsidenten in Nöte.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/954a6ae88b07/w3757h1963x397y1297o/202503/4330331f08-ffed-11ef-8cca-ce250c2c62e3/ein-hubschrauber-der-us.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/aa247d4a5427/w6144h3210x0y200o/202606/43601.0.2202452582/09-06-2026-mexiko-mexiko-stadt.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Iran erklärt Straße von Hormus für komplett gesperrt",
-          "url": "https://www.spiegel.de/ausland/iran-erklaert-strasse-von-hormus-fuer-komplett-gesperrt-a-00d939ee-993a-4e9f-9537-2d21b352e7d0#ref=rss",
-          "summary": "Das US-Militär hat in der zweiten Nacht in Folge Attacken auf Iran gestartet. Die Militärführung in Teheran reagierte umgehend: Die Straße von Hormus sei für alle Schiffe geschlossen. Wer versuche, sie zu passieren, werde angegriffen.",
+          "title": "SPD in der Krise: Lars Klingbeil und Bärbel Bas unter Druck",
+          "url": "https://www.spiegel.de/politik/deutschland/spd-in-der-krise-lars-klingbeil-und-baerbel-bas-unter-druck-a-52675351-fe2e-408b-9210-5dc0e2fc8fb0#ref=rss",
+          "summary": "Lars Klingbeil und Bärbel Bas sind als Parteichefs unter Druck. In der SPD wird bereits über Nachfolger spekuliert. Darunter sind alte Bekannte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f8e6ef2a-8bea-4176-9265-fc0e0639b8d2_w1200_r1.778_fpx63.34_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d758ad39-63a1-4579-8fda-5868b6372d70_w1200_r1.778_fpx50.65_fpy49.99.jpg"
         },
         {
-          "title": "Wehrpflicht: »Ich halte unser Gemeinwesen nicht für verteidigungswert«",
-          "url": "https://www.spiegel.de/politik/deutschland/wehrpflicht-ich-halte-unser-gemeinwesen-nicht-fuer-verteidigungswert-a-0eac246d-6931-4043-b0e1-899f7018ffe4#ref=rss",
-          "summary": "Autor Stephan Anpalagan hat seine Kriegsdienstverweigerung widerrufen, Aktivist Simon David Dressler hält Deutschland für nicht schützenswert. Im SPIEGEL-Talk streiten sie über die Rückkehr der Wehrpflicht.",
+          "title": "News: Auftakt der Fußball-WM, Frust in der SPD, EZB entscheidet über Leitzins",
+          "url": "https://www.spiegel.de/politik/deutschland/news-auftakt-der-fussball-wm-frust-in-der-spd-ezb-entscheidet-ueber-leitzins-a-b2ed6ee4-c889-41ff-9671-258210cf332c#ref=rss",
+          "summary": "In Mexiko beginnt die Fußball-WM der Herren. In der SPD braut sich Unmut über die Parteispitze zusammen. Und in Frankfurt entscheidet die EZB über den Leitzins. Das ist die Lage am Donnerstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c4012dfb-8ea9-4b8d-b572-6ed24d551c3f_w1200_r1.778_fpx51_fpy45.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Bundestag-Planspiel »Jugend und Parlament«: Eklat um »White Power«-Geste",
-          "url": "https://www.spiegel.de/politik/deutschland/bundestag-planspiel-jugend-und-parlament-eklat-um-white-power-geste-a-494a5cdf-ca34-46d0-9845-a703e9d5e364#ref=rss",
-          "summary": "Beschimpfungen, Handzeichen, ein Polizeieinsatz: Im Bundestag ist das Planspiel »Jugend und Parlament« eskaliert, im Mittelpunkt steht die AfD-Fraktion. Doch Bundestagspräsidentin Klöckner will nichts »überskandalisieren«.",
+          "title": "Bundesregierung: Auf Gipfeltreffen sollen weitere Gespräche mit Sozialpartnern folgen",
+          "url": "https://www.spiegel.de/politik/deutschland/bundesregierung-auf-gipfeltreffen-sollen-weitere-gespraeche-mit-sozialpartnern-folgen-a-538d2967-e42f-4801-b0eb-ed0f37286a86#ref=rss",
+          "summary": "Mehr als drei Stunden sprachen Bundesregierung und Sozialpartner. Zumindest darüber, dass Reformen nötig sind, sei man sich laut Regierungssprecher Kornelius einig. Eine Gewerkschafterin verließ das Treffen »gut gelaunt«.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c821e3e2-7c47-47ae-ad15-1a490ab3cc38_w1200_r1.778_fpx46_fpy52.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/697fb2f1-62d3-4bbb-8034-ea37925adf28_w1200_r1.778_fpx64_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Neue ausländerfeindliche Proteste in Nordirland",
-          "url": "https://www.tagesschau.de/ausland/europa/nordirland-ausschreitungen-104.html",
-          "summary": "In Nordirland ist es bereits den zweiten Abend in Folge zu schweren rassistisch motivierten Ausschreitungen gekommen. Die Polizei setzte Wasserwerfer ein. Auslöser der Krawalle war eine Messerattacke.",
+          "title": "Marktbericht: Zwischen Nahost-Eskalation und Zinssorgen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-iran-usa-100.html",
+          "summary": "Die Zuspitzung des Konflikts zwischen den USA und Iran belastet die Finanzmärkte. Der DAX dürfte mit Verlusten starten. Marktteilnehmer befürchten vor allem weiter steigende Rohstoffpreise.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4163bab8-13d1-48da-9922-64f5ef8ffb7b/AAABnrQeD9k/AAABnSSvrFg/16x9-big/nordirland-krawall-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/68dbb183-1517-4291-a260-61dfdc68e500/AAABnLJS29A/AAABnSSvrFg/16x9-big/boerse-490.jpg?width=1280"
         },
         {
-          "title": "Treffen im Kanzleramt: Weitere Reformgespräche mit Sozialpartnern vereinbart",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/kanzleramt-reformgespraeche-100.html",
-          "summary": "Die heiße Phase der Verhandlungen über das Reformpaket der Bundesregierung hat begonnen: Mehr als drei Stunden lang berieten die Spitzen der Koalition am Abend mit Wirtschaftsverbänden und Gewerkschaften.",
+          "title": "Aufgebrochene Schließfächer: Prozess gegen Sparkasse Gelsenkirchen beginnt",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/gelsenkirchen-sparkasse-einbruch-prozess-100.html",
+          "summary": "Unbekannte frästen sich mit einem Kernbohrer in den Tresorraum und räumten Tausende Schließfächer aus: Nach dem Einbruch in eine Sparkasse in Gelsenkirchen starten heute die ersten beiden Zivilverfahren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7a7e0668-f19f-40f9-ac21-8f8986ac64dd/AAABnrPt5Ok/AAABnSSvrFg/16x9-big/kanzleramt-reformgespraeche-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/538c9040-9afc-44f9-8e8a-475892c78dab/AAABnrTx_HE/AAABnSSvrFg/16x9-big/wdr-das-loch-im-tresorraum-der-sparkasse-gelsenkirchen-100.jpg?width=1280"
         },
         {
-          "title": "Iran-Liveblog: ++ US-Armee startet neue Angriffe auf Iran ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html",
-          "summary": "Die US-Streitkräfte haben nach eigenen Angaben erneut Iran angegriffen, es handele sich um \"Selbstverteidigungsschläge\". Iran meldet seinerseits Attacken auf US-Stützpunkte in den Golfstaaten.",
+          "title": "11KM-Podcast: Wem gehört die WM 2026?",
+          "url": "https://www.tagesschau.de/podcast-11km-fussball-wm-trump-100.html",
+          "summary": "Die WM 2026 in den USA, Mexiko und Kanada findet in politisch angespannten Zeiten statt: Es geht um Macht, Geld und Image. 11KM fragt, wie Präsident Trump das Turnier für sich nutzen will.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/714a2e18-8919-4fc5-9c40-c6f29bb33eae/AAABllYYWVY/AAABnSSvrFg/16x9-big/us-flugzeugtraeger-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d2f54cf7-27d4-4309-bd08-83d35fb6fd5f/AAABnrTfvpo/AAABnSSvrFg/16x9-big/podcast-11km-3652.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Wissenschaftsunfreiheit: Die Grenzen des Erforschbaren",
+          "url": "https://www.telepolis.de/article/Wissenschaftsunfreiheit-Die-Grenzen-des-Erforschbaren-11327224.html",
+          "summary": "Freie Forschung, gefesselter Forscher: Wer unbequeme Fragen stellt, riskiert Reputation und Rang. Wie steht es um die Freiheit der Forschung in Deutschland?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/7/8/9/4/shutterstock_2079200719-15bbca8f9ffa747c.jpg"
+        },
         {
           "title": "Kampfjet-Knall: Berlin serviert Paris ab und will jetzt die Luft-Führung",
           "url": "https://www.telepolis.de/article/Kampfjet-Knall-Berlin-serviert-Paris-ab-und-will-jetzt-die-Luft-Fuehrung-11327680.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/8/0/8/3/shutterstock_2715515525-04a0c454effaa6f6.jpg"
-        },
-        {
-          "title": "Iran: \"Krieg und Isolation stärken nicht die demokratischen Kräfte\"",
-          "url": "https://www.telepolis.de/article/Iran-Krieg-und-Isolation-staerken-nicht-die-demokratischen-Kraefte-11327056.html",
-          "summary": "Der Iran steht unter Beschuss – von außen und innen. Was Sanktionen und Krieg mit einer Gesellschaft machen und was Europa dabei vergisst. Ein Interview.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/7/8/1/0/shutterstock_2741158805-9c4fc6b7d01d012e.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fifa-Präsident vor der WM: Infantino ruft: Chillt und relaxt!",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-infantino-pressekonferenz-tickets-visa-iran-li.3496811",
-          "summary": "Einreiseprobleme? Ticketpreise? Alles halb so wild, wenn es nach Gianni Infantino geht. Der Fifa-Präsident präsentiert einen Tag vor dem Turnier seine Sicht der Dinge.",
+          "title": "Pop: Gottvertrauen in die irdische Liebe",
+          "url": "https://www.sueddeutsche.de/kultur/helene-fischer-tour-dresden-konzert-li.3487710",
+          "summary": "Helene Fischer startet in Dresden ihre Stadiontour. Und gibt dem Publikum, was die politischen Diskurse der Gegenwart und die wild ums Chaos herumredenden Talkshows nicht mehr bieten können.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/10/d56f1756-baa7-4c7e-a0e6-4f8e5d36c8cc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/11/8a3b7f19-2693-4bba-acc3-c861016f735b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Energiepolitik: Der Tankrabatt wird nicht verlängert",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-benzinpreise-tankrabatt-nicht-verlaengert-li.3496631",
-          "summary": "Zwei Monate lang senkte die Koalition künstlich die Spritpreise – durch einen 1,6 Milliarden Euro teuren Steuernachlass. Ende Juni soll damit Schluss sein. Aber neue Entlastungen werden geprüft.",
+          "title": "Fußball-WM 2026: Polizei in Mexiko sichert Flughafen und Stadion",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-usa-eroeffnungsspiel-mexiko-polizei-flughafen-stadion-lehrerproteste-li.3492650",
+          "summary": "Vor dem WM-Start sichern hunderte Polizisten den Flughafen und das Aztekenstadion in Mexiko-Stadt. Anlass sind mögliche Lehrerproteste, die bereits seit Wochen für Anspannung sorgen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/04/14/f0d0e1e9-fba5-4836-aca3-3d85c7b86cd2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C198%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/11/afd8a7cb-0e2e-4a50-b943-9ab23535c850.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
         },
         {
-          "title": "Neuer Immobilienbericht: Die teuerste Eigentumswohnung, die je in München verkauft wurde",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-immobilienmarkt-quadratmeterpreis-rekord-millionen-eigentumswohnung-li.3492536",
-          "summary": "Während die Durchschnittspreise sinken, erreichen Luxusangebote schwindelerregende Höhen. Wie viel das neue Rekord-Domizil kostete, was es bietet und wo es liegt.",
+          "title": "Raumfahrt: Warum kleine Space-Firmen vom Börsengang profitieren könnten",
+          "url": "https://www.sueddeutsche.de/wirtschaft/boerse-raumfahrt-spacex-boerse-musk-li.3493423",
+          "summary": "Als sich deutsche Start-ups anschickten, mit dem Weltraum Geld zu verdienen, fehlte mitunter Kapital. Das könnte sich ändern, wenn Space-X an die Börse geht. Dabei spielen auch Wagniskapitalfirmen eine Rolle, die seit Jahren nach vielversprechenden Firmen suchen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/10/c21383c9-531e-47c1-b123-9dd8cb04fa3a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1680%2C945"
+          "image": "https://www.sueddeutsche.de/2025/03/28/d35ea385-8d59-472b-8542-9e166d2e16e3.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C101%2C4000%2C2250"
         }
       ]
     }
