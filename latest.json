@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-11T22:00:17.407Z",
-  "timestamp": "12.6.2026, 00:00:17",
+  "generated": "2026-06-12T02:00:14.055Z",
+  "timestamp": "12.6.2026, 04:00:14",
   "news": [
     {
       "source": "FAZ",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/74a2d9cd9121/w4940h2581x0y613o/202604/43601.0.2034809318/die-inanspruchnahme-der.webp"
         },
         {
-          "title": "2:0 zum WM-Auftakt: Zehn Mexikaner schlagen neun Südafrikaner",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-mexiko-schlaegt-zum-auftakt-schwaches-suedafrika-200797790.html",
-          "summary": "Haben Sie schon Rot? Zum WM-Auftakt verteilt der Schiedsrichter drei Platzverweise. Shakira singt, Gastgeber Mexiko siegt 2:0, der erste Torschütze heißt Julian Quinones. Südafrika verliert verdient.",
+          "title": "Wm-Eröffnungsspiel: Durchschnittsware zum Spitzenpreis",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-mexiko-besiegt-suedafrika-mit-2-0-accg-200922772.html",
+          "summary": "Mexiko und Südafrika lieferten sich ein Eröffnungsspiel auf durchwachsenem Niveau. Das könnte ein Fingerzeig für die Vorrunden-Qualität des aufgeblähten Turniers werden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cfc094aa3777/w5173h2702x0y643o/202606/43601.0.2206866819/ein-auftakt-nach-mass-jimenez.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d33cf99b9149/w3532h1845x0y266o/202606/43601.0.2206678380/juli-n-qui-ones-l-erzielte.webp"
         }
       ]
     },
@@ -51,18 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/43166dbf-92b1-4d64-af92-aaa3774c5da3_w1200_r1.778_fpx43.98_fpy49.99.jpg"
         },
         {
-          "title": "Jeffrey Epstein: So tobte der Streit über die Akten im Weißen Haus",
-          "url": "https://www.spiegel.de/ausland/jeffrey-epstein-so-tobte-im-weissen-haus-der-streit-ueber-die-epstein-akten-a-bcb9d2e1-ae99-4369-a45a-8cf4f2014788#ref=rss",
-          "summary": "Donald Trump schützen? Oder totale Transparenz? Bei Meetings zum Epstein-Skandal kam es laut »New York Times« zu offenem Streit im Weißen Haus. Vizepräsident JD Vance machte einen erstaunlichen Vorschlag.",
+          "title": "Donald Trump: Unbekannte schreiben »8647«-Botschaft in Rasen in US-Hauptstadt",
+          "url": "https://www.spiegel.de/ausland/donald-trump-unbekannte-schreiben-8647-botschaft-in-rasen-in-us-hauptstadt-a-353f5de4-685f-426e-bef7-1bcd2c0b5bf4#ref=rss",
+          "summary": "Die Zahlenkombination »8647« hat schon Ex-FBI-Chef James Comey Ärger eingebracht. Angeblich soll dahinter eine verschlüsselte Morddrohung gegen Donald Trump stecken. Nun ist die Botschaft erneut aufgetaucht – in gewaltiger Größe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9b83cc05-9c90-48f1-9030-a39f802aefe2_w1200_r1.778_fpx63.1_fpy54.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5b0abf23-d74f-41af-883f-4e700f4eb612_w1200_r1.778_fpx30_fpy45.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Bundestag: Aussetzung der Diätenerhöhung trifft auf Zustimmung",
+          "url": "https://www.tagesschau.de/inland/diaeten-bundestag-106.html",
+          "summary": "Für die Abgeordneten des Bundestags zeichnet sich eine Nullrunde ab. Die Erhöhung ihrer Bezüge soll nach dem Willen der Koalition ausgesetzt werden. Zustimmung kommt aus der Opposition, die von einem \"richtigen Zeichen\" spricht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/ae9a94cd-e6c2-4d4e-b2a5-677271550869/AAABnrk8rVc/AAABnSSvrFg/16x9-big/bundestag-1324.jpg?width=1280"
+        },
         {
           "title": "Iran-Liveblog: ++ Sechs Tote und mehrere Verletzte im Libanon ++",
           "url": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/f094780d-6f42-4cac-9b57-9564a6389230/AAABno1y7Xw/AAABnSSvrFg/16x9-big/trump-4994.jpg?width=1280"
-        },
-        {
-          "title": "Konferenz der Ministerpräsidenten: Der Osten will Transparenz - und seinen Anteil",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/ostdeutschland-ministerpraesidenten-konferenz-100.html",
-          "summary": "Mit dem Sondervermögen soll die Infrastruktur saniert und ausgebaut werden. Die Regierungschefs der Ost-Länder kritisieren jedoch einen intransparenten Umgang mit den Mitteln. Aus Brandenburg kommen besonders klare Worte. Von Andre Kartschall.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/fb3d7a80-2ab8-4f75-b4bd-54c0e4b67382/AAABnrdWsoQ/AAABnSSvrFg/16x9-big/regierungschefs-ostdeutschland-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Fußball-WM: Ein Fehler-Festival beim ZDF",
+          "url": "https://www.sueddeutsche.de/medien/fussball-wm-eroeffnung-mexiko-suedafrika-zdf-tv-kritik-li.3496069",
+          "summary": "Nicht nur beim WM-Auftaktspiel, sondern auch in der ZDF-Regie reiht sich Fehler an Fehler. Erst fehlen sieben Minuten der Eröffnungsfeier, dann liefern Kommentator und Experten doch noch ab.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/11/47a15bde-cfe7-4138-9804-891076a9989e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C1024%2C576"
+        },
+        {
           "title": "WM-Eröffnungsspiel: Zweimal Tor, dreimal Rot",
           "url": "https://www.sueddeutsche.de/sport/fussball-wm-2026-eroeffnungsspiel-mexiko-suedafrika-rote-karten-li.3496996",
           "summary": "Ohne an seine Leistungsgrenze gehen zu müssen, schlägt Co-Gastgeber Mexiko zum Auftakt der Weltmeisterschaft Südafrika mit 2:0. Der Schiedsrichter zückt gleich drei rote Karten, davon zwei für die Afrikaner.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/11/a178b3ba-f127-474c-9a58-7d03288502c9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C338%2C4000%2C2250"
-        },
-        {
-          "title": "Eröffnung der Fußball-WM: Die größte Attraktion ist das Stadion selbst",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-eroeffnungsfeier-aztekenstadion-mexiko-city-stadt-fifa-show-li.3496998",
-          "summary": "Shakira singt diesmal „Dai Dai“ statt „Waka Waka“, dann ist es auch bald schon geschafft. Die WM startet im berühmten Aztekenstadion von Mexiko-Stadt mit weniger Geschepper, als zu befürchten war.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/11/b061a2ce-7714-4463-8e56-11ba45b5667b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=108%2C0%2C3182%2C1790"
         }
       ]
     }
