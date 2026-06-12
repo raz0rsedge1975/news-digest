@@ -1,25 +1,17 @@
 {
-  "generated": "2026-06-12T18:00:10.191Z",
-  "timestamp": "12.6.2026, 20:00:10",
+  "generated": "2026-06-12T22:00:10.914Z",
+  "timestamp": "13.6.2026, 00:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Länder streiten mit Bund: Wer bezahlt für die Ukrainer?",
-          "url": "https://www.faz.net/aktuell/politik/inland/bund-und-laender-streiten-ueber-leistungen-fuer-ukrainer-200920186.html",
-          "summary": "Der Bund will, dass Ukrainer kein Bürgergeld mehr bekommen. Das unterstützen eigentlich auch die Länder. Doch für die Mehrkosten wollen sie nicht aufkommen.",
+          "title": "Börsengang von SpaceX: Die beunruhigende Macht von Elon Musk",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/boersengang-von-spacex-die-beunruhigende-macht-von-elon-musk-200926504.html",
+          "summary": "Der fulminante Börsengang von SpaceX zeigt: Elon Musk hat sich die Finanzmärkte unterworfen. Und sein Aufstieg zum ersten Billionär der Welt sollte der breiten Öffentlichkeit zu denken geben.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f9a17b8ffb79/w5501h2874x0y110o/202603/43601.0.1866229687/kurz-nach-beginn-des.webp"
-        },
-        {
-          "title": "Ukrainische Flüchtlinge: Ein etwas blauäugiges Entgegenkommen",
-          "url": "https://www.faz.net/aktuell/politik/inland/ukrainische-fluechtlinge-die-bundeslaender-wollen-nicht-bezahlen-200924553.html",
-          "summary": "Die Privilegierung der ukrainischen Flüchtlinge rächt sich. Hätten die Länder darauf gedrungen, dass die Ukrainer in Arbeit kommen, hätten sie heute weniger Sorgen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a3f3308c84cd/w3000h1567x0y215o/202511/43601.0.1446398995/deutschkurs-fuer-ukrainer-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/673e8cb0c638/w5000h2612x0y360o/202606/43601.0.2210042584/zum-mond-zum-mars-und.webp"
         },
         {
           "title": "Musks Weltraumunternehmen: SpaceX-Aktien starten mit Kursgewinn – Elon Musk jetzt Billionär",
@@ -28,12 +20,28 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/0a50da587a36/w4200h2194x0y188o/202606/43601.0.2207257316/gelungenes-boersendebuet-elon.webp"
+        },
+        {
+          "title": "SpaceX-Aktie: Ein Börsenprospekt wie im Science-Fiction-Film",
+          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/spacex-an-der-boerse-elon-musk-wuerde-fuer-mars-kolonie-einen-bonus-erhalten-accg-200918080.html",
+          "summary": "Der Prospekt zum SpaceX-Börsengang ist voll von Ideen aus der Science-Fiction. Er richtet sich offenbar längst nicht nur an klassische Anleger.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/9a891063620f/w1966h1027x1y39o/201803/431.0.21154501/blick-in-die-zukunft-spacex.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Fußball-WM 2026: Kanada freut sich, Bosnien-Herzegowina verpasst den Sieg",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-kanada-freut-sich-bosnien-herzegowina-verpasst-den-sieg-a-e751e230-1625-49e2-9a87-a036b9c894f4#ref=rss",
+          "summary": "Wenn Michael Bublé singt, der unglückliche Alphonso Davies noch warten muss und ein Joker das Stadion in Toronto beben lässt, dann ist die Weltmeisterschaft in Kanada angekommen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/178ad47b-7aa7-489f-8bcc-f75025c7f0b3_w1200_r1.778_fpx48.71_fpy55.jpg"
+        },
         {
           "title": "Arbeitslos als Unternehmensberater: »Behaltet euren Job, egal, wie scheiße der ist«",
           "url": "https://www.spiegel.de/karriere/arbeitsloser-unternehmensberater-behaltet-euren-job-egal-wie-scheisse-der-ist-a-2f3b0e48-f09b-4042-b5ed-e3193906eae1#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/7aa13d48-23f2-4e07-98f9-e96f859e7ac9_w1200_r1.778_fpx52_fpy34.jpg"
         },
         {
-          "title": "WM 2026 News heute: Ghanaer Thomas Partey darf nicht nach Kanada einreisen",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-news-heute-raul-jimenez-widmet-tor-fuer-mexiko-dem-verstorbenen-vater-a-5b7240ee-9dde-4dec-b200-89ee8a231f0f#ref=rss",
-          "summary": "Die kanadischen Behörden haben Ghanas Vizekapitän die Einreise verweigert. Ihm wird in mehreren Fällen Vergewaltigung vorgeworfen. Und: Cristiano Ronaldo weist Zweifel an seiner Fitness zurück. Alles Wichtige zur WM.",
+          "title": "Krieg in der Ukraine: Europäische Diplomaten bringen in Moskau Protestnote vor",
+          "url": "https://www.spiegel.de/politik/deutschland/krieg-in-der-ukraine-europaeische-diplomaten-bringen-in-moskau-protestnote-vor-a-3c25486a-1f3e-42f1-8500-6bc8d8075747#ref=rss",
+          "summary": "Ein Besuch dreier europäischer Diplomaten in Moskau hat Spekulationen über ein mögliches Gesprächsangebot an den Kreml genährt. Nach SPIEGEL-Informationen ging es stattdessen um eine perfide Propagandalüge Russlands.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/626ef02e-963a-4b81-bca4-09ff22e4221e_w1200_r1.778_fpx53_fpy10.jpg"
-        },
-        {
-          "title": "News des Tages: SpaceX an der Börse, das West-Nil-Virus, David Hockney gestorben.",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-spacex-an-der-boerse-das-west-nil-virus-david-hockney-gestorben-a-77d382a4-a318-4369-890a-2114c8afa20a#ref=rss",
-          "summary": "Die Aktie von Elon Musks Weltraumfirma SpaceX feiert an der Nasdaq ihr Handelsdebüt. Das West-Nil-Virus ist jetzt in Berlin heimisch. Und der große Maler David Hockney ist tot. Das ist die Lage am Freitagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/ed1a71a0-bee3-44ab-8b4a-b498f29e3604_w1200_r1.778_fpx41.32_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ökonom über Reformpaket: \"Das ist vielleicht die größte Hürde für die Regierung\"",
-          "url": "https://www.tagesschau.de/inland/fratzscher-reformpaket-bundesregierung-100.html",
-          "summary": "Schwarz-Rot steht wegen seiner Reformpläne unter Druck. Dabei müsse die Politik auf die Wirklichkeit reagieren, sagt Ökonom Marcel Fratzscher. Für ihn ist ein ganzes Paket an Veränderungen notwendig - mit einer Priorität.",
+          "title": "EU-Einigung: Fluggastrechte werden erweitert",
+          "url": "https://www.tagesschau.de/wirtschaft/eu-fluggastrechte-einigung-100.html",
+          "summary": "Nach jahrelangen Verhandlungen haben sich Vertreter der EU-Mitgliedsstaaten und des Europäischen Parlaments auf eine Reform der Fluggastrechte geeinigt - mit guten Nachrichten für die Passagiere. Von Thomas Spickhofen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ad6205ee-9a24-4a1a-8a1a-77132299f692/AAABnrxW1Tg/AAABnSSvrFg/16x9-big/lars-klingbeil-friedrich-merz-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/58d21a18-e975-4007-9db7-7753a028be43/AAABnr1tSf0/AAABnSSvrFg/16x9-big/flughafen-342.jpg?width=1280"
         },
         {
-          "title": "Bildungsminister wollen kritischen Umgang mit Sozialen Medien",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/kmk-beschluss-social-media-100.html",
-          "summary": "Erstmals haben sich die Bildungsminister auf Leitlinien verständigt, um die Kompetenz junger Menschen im Umgang mit Sozialen Medien zu stärken. Das Thema soll etwa in Lehrplänen ausreichend Platz bekommen.",
+          "title": "Börsengang von SpaceX: Riskante Wette auf Raketen, Satelliten und Visionen",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-boersengang-nasdaq-elon-musk-100.html",
+          "summary": "Es ist der größte Börsengang der Geschichte: Das Raumfahrtunternehmen SpaceX ist erfolgreich an der Nasdaq gestartet. Doch trotz einer Bewertung von 1,8 Billionen Dollar schreibt das Unternehmen noch Verluste. Was steckt hinter dem Hype?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/30f93518-2fab-4d8c-bd1f-718474ca6337/AAABnGG19aQ/AAABnSSvrFg/16x9-big/jugendliche-smartphone-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/796d991b-7706-49ca-b1b5-03aac808d8eb/AAABnr0ZNZA/AAABnSSvrFg/16x9-big/elon-musk-282.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX legt zu Wochenschluss kräftig zu",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html",
-          "summary": "Die Hoffnung auf Frieden zwischen den USA und Iran sorgt für gute Stimmung an den Finanzmärkten. Aber Skepsis bleibt. Beim Rekord-Börsengang in den USA startet die Aktie von SpaceX 11 Prozent über dem Ausgabepreis.",
+          "title": "SpaceX-Aktie nach Börsenstart auf Höhenflug",
+          "url": "https://www.tagesschau.de/wirtschaft/spacex-musk-boersengang-100.html",
+          "summary": "Elon Musks Weltraumfirma SpaceX ist bei ihrem Rekord-Börsengang mit einem Plus in den Handel gestartet. Der erste Kurs wurde bei 150 Dollar festgestellt - nach einem Ausgabepreis von 135 Dollar. Musk kann sich nun erster Billionär der Welt nennen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/eee2f737-03cc-4107-872f-1a79f01488f4/AAABnipnoiI/AAABnSSvrFg/16x9-big/boerse-514.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dad98b81-dd77-4c8d-9dca-f897eb49524f/AAABnr04uxE/AAABnSSvrFg/16x9-big/spacex-268.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Iran und USA: Gibt es am Wochenende einen Deal?",
-          "url": "https://www.sueddeutsche.de/politik/iran-abkommen-usa-trump-waffenruhe-atomgespraeche-li.3497684",
-          "summary": "US-Präsident Trump sagt weitere Angriffe auf Iran ab und macht Hoffnung auf eine direkt bevorstehende Einigung. Iran hätte sich dann bei wichtigen Punkten durchgesetzt.",
+          "title": "Fußball-WM: Zumindest ein Traum der Gastgeber erfüllt sich",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-kanada-bosnien-li.3498014",
+          "summary": "Kanadas Nationalteam kämpft gegen Bosnien nach frühem Rückstand aufopferungsvoll – und belohnt sich in der zweiten Halbzeit mit einem historischen Punkt. Auch Bekannte aus der Bundesliga haben ihren Auftritt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/12/a7805582-606f-49a0-90ac-50dde7083443.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C318%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/06/12/0c083491-5b59-4e02-94ae-27fe41ff5fad.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         },
         {
-          "title": "Krieg in der Ukraine: Putin kündigt Drohnen mit KI-Unterstützung an",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-drohnen-li.3490156",
-          "summary": "Der russische Präsident räumt ein, dass die Ukraine den Einsatz von Drohnen verstärkt habe. Russland wolle auf einem wichtigen Feld nun nachziehen – und ein eigenes Satellitennetz in niedriger Umlaufbahn aufbauen.",
+          "title": "Börse: Space-X knackt die Zwei-Billionen-Dollar-Marke",
+          "url": "https://www.sueddeutsche.de/wirtschaft/spacex-musk-boersengang-nasdaq-kurs-li.3498031",
+          "summary": "Der erste Kurs wurde bei 150 Dollar festgestellt. Gründer Elon Musk ist damit zumindest auf dem Papier der erste Billionär der Welt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/12/8465e9ca-1771-44e2-9155-55c4b61c5ca5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C159%2C3057%2C1720"
+          "image": "https://www.sueddeutsche.de/2026/06/12/4851ed5e-2106-4f48-9954-ef366724b438.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: Irans Außenminister behauptet: Rahmenabkommen zum Greifen nah – Trump teilt Post",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-liveblog-usa-trump-iran-deal-araghtschi-li.3494580",
-          "summary": "Die Absichtserklärung von Islamabad stand noch nie so kurz vor dem Abschluss“, schreibt Araghtschi in einem X-Post. Details würden später bekanntgegeben. US-Präsident Trump teilt den Beitrag ohne Kommentar.",
+          "title": "Krieg in Nahost: USA und Iran nähern sich offenbar Friedensabkommen",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-liveblog-usa-trump-iran-deal-li.3494580",
+          "summary": "Beide Seiten senden positive Signale, und auch Vermittler Pakistan verbreitet vorsichtigen Optimismus. Es gibt jedoch unterschiedliche Angaben zu den Punkten, die das Abkommen umfassen soll.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/12/56131d3d-5c38-4068-917b-5d8b614b6444.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
