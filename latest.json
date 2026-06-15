@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-15T18:00:09.460Z",
-  "timestamp": "15.6.2026, 20:00:09",
+  "generated": "2026-06-15T22:00:16.095Z",
+  "timestamp": "16.6.2026, 00:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "F.A.Z. exklusiv: Die USA entziehen der NATO wichtige militärische Beiträge – ab sofort",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/usa-entziehen-der-nato-ab-sofort-wichtige-faehigkeiten-200933064.html",
-          "summary": "Schon länger wird darüber spekuliert, dass die USA militärische Zusagen zurückziehen. Nun ist klar: Sie haben es schon getan – und es werden nicht die letzten sein.",
+          "title": "„Mythos“ und „Fable 5“: Was die amerikanische Anthropic-Sperre für Europa bedeutet",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mythos-und-fable-5-was-bedeutet-die-amerikanische-anthropic-sperre-fuer-europa-200930881.html",
+          "summary": "Die US-Regierung schneidet den Rest der Welt von den leistungsfähigsten KI-Modellen Anthropics ab. Was bedeutet das für deutsche Unternehmen? Und profitiert jetzt China? Antworten auf die wichtigsten Fragen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/45ab8a804f29/w6144h3210x0y178o/202606/43601.0.2198291745/ein-flugzeugtraeger-weniger.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e99295d2c86a/w6495h3393x0y214o/202606/43601.0.2204712846/muss-zwei-modelle-fuer-den.webp"
         },
         {
-          "title": "NATO und abschreckung: Die langsame Rüstungsproduktion ist das größte Risiko",
-          "url": "https://www.faz.net/aktuell/politik/ausland/nato-general-markus-laubenthal-die-ruestungsproduktion-ist-zu-langsam-200859856.html",
-          "summary": "Der Westen läuft Gefahr, von seinen Gegnern übertroffen zu werden. Was hindert uns daran, die Produktion zu beschleunigen, sodass in einem Jahr die ersten Flugabwehrraketen vom Band laufen?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/c0631084a52b/w3854h2013x193y406o/202405/43601.0.359512578/in-der-uebung-quadriga-2024.webp"
-        },
-        {
-          "title": "Deutsch-französischer Zwist: Der Kampf um den Panzer der Zukunft spitzt sich zu",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/der-kampf-um-den-panzer-der-zukunft-spitzt-sich-zu-200931546.html",
-          "summary": "Das deutsch-französische Kampfflugzeug ist Geschichte. Nicht nur in der Luft, auch am Boden gibt es unterschiedliche Konzepte. Die Vorstellungen in zentralen Rüstungsfragen divergieren.",
+          "title": "Anthropic gegen US-Regierung: Der KI-Warnschuss",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/exportsperre-von-anthropic-ki-warnschuss-fuer-europa-200931840.html",
+          "summary": "Die Exportsperre der US-Regierung für das Anthropic-Modell Mythos war ein rabiates Manöver und sollte die ganze Welt alarmieren. Die Lektion für Europa kann nur darin liegen, die Abhängigkeit von den USA zu reduzieren.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/36077e018157/w6000h3135x0y392o/202606/43601.0.2220021631/das-modell-des-franzoesischen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5a62d9a91a47/w4961h2592x0y112o/202606/43601.0.2201008326/gerangel-um-mythos-anthropic.webp"
+        },
+        {
+          "title": "Krieg in Nahost: Amerikas Macht kann wenig wert sein",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/vereinbarung-mit-iran-amerikas-macht-kann-wenig-wert-sein-200931724.html",
+          "summary": "Trumps Vereinbarung mit Iran erscheint provisorisch. Bisher hat er nur ein Problem beseitigt, das er selbst geschaffen hat.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/5b1b1eabf44b/w5684h2969x0y114o/202606/43601.0.2212802371/praesident-donald-trump-im-mai.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "WM 2026 News heute: Tunesien wirft offenbar während der WM den Trainer raus",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-news-heute-schottische-fans-feiern-boston-red-sox-a-0689ab29-b212-46e6-85df-da2341c803f2#ref=rss",
-          "summary": "Kein Durchkommen: Spanien rannte gegen WM-Außenseiter Kap Verde an, konnte aber kein Tor erzielen. Und: Die Fifa hat wegen einer Handgeste eine Erklärung des Videoschiedsrichters eingefordert. Alles Wichtige zur Fußball-WM.",
+          "title": "USA-Iran-Einigung: Plötzlich steht Benjamin Netanyahu als Verlierer da",
+          "url": "https://www.spiegel.de/ausland/usa-iran-einigung-ploetzlich-steht-benjamin-netanyahu-als-verlierer-da-a-964b6a06-2adc-45df-bd36-7ebf200662f2#ref=rss",
+          "summary": "Das Abkommen der USA mit Iran wird in Israel als Katastrophe gesehen. Die Partnerschaft zwischen Netanyahu und Trump ist wohl beendet.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0b25480b-1473-4078-a1f8-c7dbe6e3f6e5_w1200_r1.778_fpx63_fpy10.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/498983a9-3fb7-44a7-99d4-888f477c8fe3_w1200_r1.778_fpx54_fpy55.01.jpg"
         },
         {
-          "title": "News des Tages: Exportbann für KI-Modelle, Urteil gegen Marius Borg Høiby, EU-Fluggastrechte",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-exportbann-fuer-ki-modelle-urteil-gegen-marius-borg-hoiby-eu-fluggastrechte-a-17c302c9-5e74-46cc-aa96-da264aa318f7#ref=rss",
-          "summary": "Der US-Präsident belegt mächtige KI-Modelle mit einem Exportbann, mit drastischen Folgen. Das Urteil gegen Norwegens »Bonusprins« ist da. Und: Neue Fluggastrechte in der EU. Das ist die Lage am Montagabend.",
+          "title": "WM 2026: Gegen Spanien – Kap Verde sorgt für eine der größten Sensationen der WM-Geschichte",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-kap-verde-trotzt-europameister-spanien-ein-remis-ab-a-8fc2e533-389a-48b8-b06e-e36b79151175#ref=rss",
+          "summary": "Kap Verde ist zum ersten Mal bei einer WM-Endrunde, der Linksverteidiger spielte vor Kurzem noch bei Viktoria Köln. Nun blamierte der Inselstaat Europameister Spanien. Daran konnte auch Lamine Yamal nichts ändern.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/9a10ee10-fe72-4672-897d-a30d36518a6a_w1200_r1.778_fpx62_fpy37.jpg"
         },
         {
-          "title": "Iran-Krieg: Räumt die Bundeswehr bald Minen in der Straße von Hormus?",
-          "url": "https://www.spiegel.de/politik/deutschland/iran-krieg-raeumt-die-bundeswehr-bald-minen-in-der-strasse-von-hormus-a-fc77e7a3-e1c1-406f-9885-ad0079f7476a#ref=rss",
-          "summary": "Kanzler Merz hat US-Präsident Trump zugesagt: Deutschland wird sich an einer Schutzmission vor Iran beteiligen. Zwei Schiffe der Bundeswehr warten auf ihren Einsatz. Worauf es nun ankommt.",
+          "title": "Gavin Newsom wirft Donald Trump vor, gegen ihn zu ermitteln",
+          "url": "https://www.spiegel.de/ausland/gavin-newsom-wirft-donald-trump-vor-gegen-ihn-zu-ermitteln-a-be8c51ff-ef21-4d1d-8801-0ae0d40c7a4f#ref=rss",
+          "summary": "Beamte sollen sich durch Berge von Akten gewühlt haben: Kaliforniens Gouverneur sagt, die Trump-Regierung habe eine politisch motivierte Untersuchung gegen ihn aufgenommen. Auch seine Frau sei ins Visier der Ermittler geraten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/acb35c21-810b-4c3d-befc-054db91c0caf_w1200_r1.778_fpx70_fpy46.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b06f3bfd-5f3f-4c52-b2d5-2bcea49978b1_w1200_r1.778_fpx12_fpy31.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kommentar zum Abkommen zwischen USA und Iran: Ein schlechter Deal",
-          "url": "https://www.tagesschau.de/kommentar/iran-usa-abkommen-102.html",
-          "summary": "Der Iran-Krieg ist wohl vorbei - das ist eine gute Nachricht. Doch das Abkommen mit den USA ist fragil und stärkt nur die Führung in Teheran, meint Benjamin Weber. Es zeugt von der Ahnungslosigkeit der Regierung von US-Präsident Trump.",
+          "title": "Zehn-Punkte-Plan: CSU-Chef Söder verschafft sich Zeit",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/csu-markus-soeder-manfred-weber-100.html",
+          "summary": "Nach CSU-interner Kritik verspricht Parteichef Söder mehr Mitbestimmung. Ein Versuch, auf Unmut zu reagieren, ohne seinem Kontrahenten Weber recht zu geben. Der Konflikt ist damit nur vorerst entschärft. Jerabek und A.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b70031e3-e2e8-4e20-9e04-69fd60a770ab/AAABnsxYqWU/AAABnSSvrFg/16x9-big/iran-usa-218.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2430220f-bdfc-4650-a47b-6f4dc36e83b3/AAABnsxz-54/AAABnSSvrFg/16x9-big/markus-soeder-452.jpg?width=1280"
         },
         {
-          "title": "AfD-Bundesvorstand verbietet Zusammenarbeit mit Politikberater",
-          "url": "https://www.tagesschau.de/investigativ/afd-beschluss-tom-rohrboeck-100.html",
-          "summary": "Der AfD-Bundesvorstand greift in die Auseinandersetzung um den Einfluss eines Geschäftsmannes innerhalb der Partei ein. Laut WDR, NDR und SZ beschloss der Vorstand, dass er weder an Parteiveranstaltungen teilnehmen noch sie mitorganisieren darf.",
+          "title": "Interview: \"Trump will ein Minimalabkommen als Sieg darstellen\"",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-adebahr-100.html",
+          "summary": "Ihre Kriegsziele haben die USA nicht erreicht, es gibt keine Klarheit über das iranische Atomprogramm und die Hardliner in Teheran sitzen weiter fest im Sattel. Dennoch versucht Trump, das Abkommen als Sieg zu verkaufen, sagt Nahost-Experte Adebahr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/85304172-470a-457f-9105-7d3a13a56002/AAABmso2jAw/AAABnSSvrFg/16x9-big/afd-logo-156.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/405227d7-620e-4c55-9f92-c4dcda6de275/AAABnsyA3Cs/AAABnSSvrFg/16x9-big/trump-5040.jpg?width=1280"
         },
         {
-          "title": "Wie der Lehrermangel Schulen in Brandenburg zusetzt",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/lehrermangel-brandenburg-100.html",
-          "summary": "Brandenburgs Bildungsminister schlägt Alarm: Zu viele Lehrer fehlen. Einige Fächer können nach den Sommerferien möglicherweise nicht mehr unterrichtet werden. Könnte das Folgen für die bundesweite Anerkennung von Abschlüssen haben?",
+          "title": "Iran-Liveblog: ++ Netanjahu will Truppen im Libanon lassen ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html",
+          "summary": "Ungeachtet des Iran-Abkommens will Israels Premier Netanjahu weiter Soldaten in den besetzten Gebieten im Libanon stationieren. Frankreichs Präsident Macron hat angeboten, Kampfjets zur Sicherung der Straße von Hormus bereitzustellen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8ab7bab8-7189-457c-bf1d-3a44808c8257/AAABnsuiPQc/AAABnSSvrFg/16x9-big/sendungsbild-still-klassenzimmer-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/45434993-4a77-467a-a109-5b3524c24efc/AAABnsygpP0/AAABnSSvrFg/16x9-big/israel-libanon-216.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Deutsche Luftwaffe bereit, \"noch heute Nacht\" gegen Russland zu kämpfen",
+          "url": "https://www.telepolis.de/article/Deutsche-Luftwaffe-bereit-noch-heute-Nacht-gegen-Russland-zu-kaempfen-11333337.html",
+          "summary": "Die Ansage von Generalleutnant Neumann ist ein historischer Bruch mit der deutschen Zurückhaltung. Er nennt bereits konkrete russische Angriffsziele.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/9/7/5/shutterstock_2751965335-24f8fd84e32adc4f.jpg"
+        },
+        {
+          "title": "6.100 km/h: Frankreich baut eine unaufhaltsame neue Atomwaffe",
+          "url": "https://www.telepolis.de/article/6-100-km-h-Frankreich-baut-eine-unaufhaltsame-neue-Atomwaffe-11333267.html",
+          "summary": "Frankreichs Rüstungsbehörde DGA beauftragt MBDA mit dem Flugkörper ASN4G. Ab 2035 soll er die luftgestützte Atomabschreckung sichern.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/9/4/0/shutterstock_2525269879-4054222ebfda8ddc.jpg"
+        },
+        {
           "title": "Krankengeld für Teilrentner: Das Aus für den 99-Prozent-Trick",
           "url": "https://www.telepolis.de/article/Krankengeld-fuer-Teilrentner-Das-Aus-fuer-den-99-Prozent-Trick-11333201.html",
           "summary": "Ab 2027 greift eine neue Zwei-Drittel-Grenze beim Krankengeld. Wer zu viel Teilrente bezieht, geht im Krankheitsfall leer aus.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/9/0/7/shutterstock_2664533131-9c7e74b31557d81c.jpg"
-        },
-        {
-          "title": "Streit um Paragraf 188: Warum Bundesländer den Sonderschutz reformieren wollen",
-          "url": "https://www.telepolis.de/article/Streit-um-Paragraf-188-Warum-Bundeslaender-den-Sonderschutz-reformieren-wollen-11332839.html",
-          "summary": "Wer Politiker im Netz beleidigt, riskiert Gefängnis. Sogar die UN übt Kritik an dem Gesetz – nun wackelt das Sonderrecht.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/7/2/4/shutterstock_2583006153-90c1c83408e7b44a.jpg"
-        },
-        {
-          "title": "Voigt, Döpfner und die KI-Debatte: Das Problem sind nicht die Maschinen",
-          "url": "https://www.telepolis.de/article/Voigt-Doepfner-und-die-KI-Debatte-Das-Problem-sind-nicht-die-Maschinen-11332693.html",
-          "summary": "Ungeprüfte KI-Texte in Politik und Medien zeigen: Nicht die Technik ist das Problem, sondern die Bequemlichkeit der Anwender. Ein Leitartikel.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/6/5/1/shutterstock_2703581157-196c93d216acf301.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Buchhandlungspreis: Der Golden Shop hat sich verkleidet",
-          "url": "https://www.sueddeutsche.de/kultur/wolfram-weimer-buchhandlungspreis-the-golden-shop-bremen-li.3499342",
-          "summary": "Statt linker Slogans zeigt die Bremer Buchhandlung seit dem Wochenende Zitate des Kulturstaatsministers auf der Fassade. Nun dürfte der staatlichen Förderung nichts mehr im Wege stehen.",
+          "title": "USA: Kaliforniens Gouverneur Newsom wirft Trump willkürliche Ermittlungen gegen sich vor",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-newsom-ermittlungen-trump-li.3494806",
+          "summary": "Der Top-Demokrat gilt als aussichtsreicher Kandidat für das nächste Rennen um die Präsidentschaft. Jetzt ist er nach eigenen Angaben zusammen mit seiner Familie ohne ersichtlichen Grund ins Visier der Justiz geraten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/15/74e9601b-5e42-48ed-9a22-128c7af89d2a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C375%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/15/9d2b7284-5f9c-4c00-b6a2-1cc016a41027.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "„Ein schwerer Fehler“: Allianz fordert  Rücknahme der Ehrung für AfD-Politiker",
-          "url": "https://www.sueddeutsche.de/bayern/oberfranken-bezirkstag-ehrung-politiker-afd-genniges-li.3499425",
-          "summary": "Nach der öffentlichen Ehrung für einen AfD-Mann in Oberfranken mit dem Segen der CSU hat die Allianz gegen Rechtsextremismus der Metropolregion Nürnberg eine klare Forderung.",
+          "title": "Vor dem Bundesparteitag: Wer ist das „Phantom“ der AfD?",
+          "url": "https://www.sueddeutsche.de/politik/afd-tom-rohrboeck-strippenzieher-brief-li.3499322",
+          "summary": "Tom Rohrböck gilt als Strippenzieher in der Partei. Nun verordnet Alice Weidel ihren Leuten Distanz zu ihm. Dabei soll sie einst selbst zu seinem Netzwerk gehört haben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/15/529c7c8b-249d-4901-8172-96ae05deca84.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/15/b29e3615-0449-4784-8dd4-c4a228ebb5bd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Sicherheitsbedenken in Bayreuth: „Wer soll diese Begründung bitte glauben?“",
-          "url": "https://www.sueddeutsche.de/kultur/bayreuth-feststpiele-gedenkkonzert-michel-friedman-li.3499146",
-          "summary": "Die Bayreuther Festspiele planten zu ihrem 150. Geburtstag eine Gedenkveranstaltung samt Rede von Michel Friedman zum Thema Wagner und Antisemitismus. Nun wurde der Termin abgesagt – und man fragt sich: Was ist da passiert?",
+          "title": "Krieg in der Ukraine: EU und Ukraine starten Beitrittsverhandlungen",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-newsblog-eu-beitrittsverhandlungen-moldau-li.3490156",
+          "summary": "Nach zweijähriger Blockade durch Ungarn beginnen am Abend in Luxemburg offiziell die ersten Gespräche. Auch Moldau ist ein Kandidat für einen Beitritt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2023/07/19/6eebff43-f074-4cbe-92cb-af568a391272.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=36%2C126%2C1225%2C689"
+          "image": "https://www.sueddeutsche.de/2026/06/15/f8b6a7b5-1a4d-4cfe-a2f1-74cd1876241c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
