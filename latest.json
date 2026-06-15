@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-14T22:00:15.524Z",
-  "timestamp": "15.6.2026, 00:00:15",
+  "generated": "2026-06-15T02:00:10.273Z",
+  "timestamp": "15.6.2026, 04:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog Irankrieg: USA und Iran vereinbaren offenbar Kriegsende",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-vermittler-pakistan-usa-und-iran-vereinbaren-kriegsende-faz-200583539.html",
-          "summary": "USA und Iran haben sich nach Angaben der pakistanischen Regierung und Trump auf ein Friedensabkommen geeinigt +++ Israelische Luftschläge auf Ziele in Beiruts Vororten+++ US-Militär meldet Abschuss iranischer Drohnen +++  alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: USA und Iran einigen sich auf Abkommen zu Kriegsende",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-und-vermittler-pakistan-verkuenden-einigung-auf-abkommen-zu-iran-kriegsende-faz-200583539.html",
+          "summary": "Die Unterzeichnung soll am Freitag in der Schweiz stattfinden +++ Trump: Hormus-Seeblockade aufgehoben +++ Israelische Luftschläge auf Ziele in Beiruts Vororten+++  alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/153437cd9be9/w8640h4514x0y173o/202606/43601.0.2202696999/die-usa-und-iran-sollen-sich.webp"
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Krieg in Iran: Pakistan meldet Friedensvereinbarung zwischen USA und Iran",
+          "title": "Iran-Krieg: USA und Iran einigen sich auf Friedensvereinbarung",
           "url": "https://www.spiegel.de/ausland/krieg-in-iran-pakistan-meldet-friedensabkommen-zwischen-usa-und-iran-a-5fa96386-89fa-48c3-86fb-db3e3848137d#ref=rss",
-          "summary": "Die ​USA und Iran haben sich auf eine Absichtserklärung ​zur Beendigung ihres ⁠Krieges ⁠verständigt. Das teilen der Vermittlerstaat Pakistan ‌und US-Präsident Trump mit. Iran selbst hat sich noch nicht geäußert.",
+          "summary": "Washington und Teheran haben sich auf eine Absichtserklärung zur Beendigung ihres Kriegs verständigt. Am Freitag wollen beide Seiten unterschreiben – erst dann soll laut US-Präsident Trump auch die Straße von Hormus geöffnet werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/97993aad-45d8-4c57-b1c1-91efceac3e2f_w1200_r1.778_fpx34_fpy52.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/39473c30-acbe-45fe-8cd8-07567d0818d3_w1200_r1.778_fpx68_fpy53.jpg"
         },
         {
           "title": "WM 2026: Deutschland besiegt Curaçao mit 7:1: Ein Tag, an dem fast alles gelingt",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/778d233e-2380-42cb-a288-68c92ef46148_w1200_r1.778_fpx33.34_fpy50.jpg"
         },
         {
-          "title": "KI-Rechenzentren in den USA: Diese Menschen kämpfen gegen die Maschinenfarmen der Techriesen",
-          "url": "https://www.spiegel.de/wissenschaft/ki-rechenzentren-in-den-usa-menschen-gegen-maschinen-a-b57d9dad-2f2c-4fe1-8a97-17cb93b73bab#ref=rss",
-          "summary": "In den USA verhindern Anwohner immer häufiger den Bau von KI-Rechenzentren. Der Hass auf Google, Amazon und Co. vereint die politischen Lager.",
+          "title": "Russland überzieht Ukraine mit Angriffen – Polen lässt Kampfjets aufsteigen",
+          "url": "https://www.spiegel.de/ausland/russland-ueberzieht-ukraine-mit-angriffen-polen-laesst-kampfjets-aufsteigen-a-f62f7b72-29d1-425d-b4a7-0e23c58c4eba#ref=rss",
+          "summary": "Auch in dieser Nacht hat es massive russische Raketenangriffe auf ukrainische Ziele gegeben. Polen aktivierte als Reaktion seine Luftwaffe. In Kyjiw steht ein historisches Kloster in Flammen, die Stadt ist teilweise ohne Strom.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7616774e-bf9e-443b-b1cf-d87ef0b8fd49_w1200_r1.778_fpx50_fpy41.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6ee2786d-403c-450a-b92a-0c99ac0c4fa5_w1200_r1.778_fpx33.33_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Iran-Liveblog: Merz gratuliert Trump zu \"diplomatischem Durchbruch\"",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html",
+          "summary": "Bundeskanzler Merz hat die Einigung zwischen den USA und Iran begrüßt und US-Präsident Trump zu einem \"diplomatischen Durchbruch\" gratuliert. Die Straße von Hormus soll laut USA erst am Freitag geöffnet werden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/988209e3-d35b-46bd-b18e-a022eea8f10e/AAABnsjq3yA/AAABnSSvrFg/16x9-big/friedrich-merz-440.jpg?width=1280"
+        },
+        {
+          "title": "Trump verkündet Einigung auf Friedensabkommen mit Iran",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-abkommen-usa-krieg-100.html",
+          "summary": "Die USA und Iran haben sich nach Angaben von US-Präsident Trump auf ein Rahmenabkommen für ein Ende des Krieges geeinigt. Die Blockade der Straße von Hormus werde aufgehoben. Zuvor hatte auch Vermittler Pakistan eine Einigung vermeldet.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/50eb3eb7-3af5-4f1e-818a-9a157397d68c/AAABnsgsCEg/AAABnSSvrFg/16x9-big/donald-trump-824.jpg?width=1280"
+        },
+        {
           "title": "Krieg in Nahost: Trump ermahnt Israel nach Angriff im Libanon",
           "url": "https://www.tagesschau.de/ausland/usa-trump-iran-israel-libanon-100.html",
           "summary": "US-Präsident Trump hat einen Angriff Israels auf den Libanon deutlich verurteilt. Hintergrund ist die Sorge, dass sich die mögliche Unterzeichnung einer Vereinbarung mit Iran verzögert - die war eigentlich für heute vorgesehen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/78a56f2a-2fdc-46d7-88c3-2ec037e8e3a6/AAABnscjhjI/AAABnSSvrFg/16x9-big/donald-trump-820.jpg?width=1280"
-        },
-        {
-          "title": "Schweizer lehnen Einwohner-Obergrenze in Volksabstimmung ab",
-          "url": "https://www.tagesschau.de/ausland/europa/schweiz-volksabtimmung-migration-102.html",
-          "summary": "Hohe Mieten waren ein Argument, mit dem die Schweizer SVP eine Begrenzung der Einwohnerzahl begründet hatte. Doch gerade in Städten war das Nein bei der Volksabstimmung deutlich. Die SVP ist enttäuscht, sonst überwiegt Erleichterung.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c28c7cc0-93a4-465a-9b0b-93ace3ad7ca3/AAABnscda7s/AAABnSSvrFg/16x9-big/schweiz-volksabstimmung-116.jpg?width=1280"
-        },
-        {
-          "title": "Tausende protestieren in Genf gegen G7-Gipfel",
-          "url": "https://www.tagesschau.de/ausland/europa/g7-protest-genf-100.html",
-          "summary": "Vor dem G7-Gipfel im französischen Évian sind mehrere Tausend Menschen in Genf gegen die Politik der mächtigen Industrienationen auf die Straße gegangen. Nach mehreren Vorfällen ordnete die Polizei die Auflösung der Demonstration an.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/e71c763a-db4d-400a-b4bf-88263b2bf660/AAABnscNb2M/AAABnSSvrFg/16x9-big/g7-protest-genf-102.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Fußball-WM: „Ah, man muss es nur herbeireden!“",
+          "url": "https://www.sueddeutsche.de/medien/deutschland-curacao-magenta-ard-tv-kritik-wm-li.3496073",
+          "summary": "Während die ARD macht, was die ARD bei Turnieren so macht, gerät das Expertenduo Klopp und Müller bei Magenta in die Defensive: Rudi Völler räumt eine Bundestrainerdebatte ab, die nach dem 7:1 ohnehin schräg wäre.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/14/c35f554d-1a70-4c52-9be2-8782623b3f02.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C136%2C4000%2C2250"
+        },
+        {
+          "title": "Krieg in Nahost: USA und Iran vereinbaren Friedensabkommen",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-liveblog-usa-deal-israel-li.3494580",
+          "summary": "„Lasst das Öl fließen! “: Die USA und Iran haben sich auf ein Abkommen verständigt, teilt US-Präsident Trump mit. Es soll am Freitag in der Schweiz unterzeichnet werden. Teheran bestätigt das.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/14/48afa49e-8c45-44d3-8794-46984bf91b51.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C188%2C4000%2C2250"
+        },
+        {
           "title": "Pressestimmen: „Deutschland erstickt die kleine Rebellion“",
           "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-curacao-pressestimmen-li.3498686",
           "summary": "Die Zeitungen loben den Mut der Fußballer von Curaçao, die jedoch untergehen, als „die deutsche Torlawine“ losbricht. Die Pressestimmen.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/14/acc100d3-764e-4220-b209-bd10bf60b005.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C75%2C2763%2C1554"
-        },
-        {
-          "title": "Stimmen zum Auftaktsieg: „Curaçao hat noch nie Raute gespielt, da mussten wir etwas anpassen“",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-deutschland-curacao-stimmen-li.3498680",
-          "summary": "Julian Nagelsmann erklärt das Problem der Anfangsphase und lobt, was danach geschah. Kai Havertz sagt: „Wir haben gut Selbstvertrauen getankt. “ Die Stimmen zum 7:1 gegen Curaçao.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/14/205f3b82-41ef-4ea3-b8d5-dcf20568b30a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C5%2C2852%2C1604"
-        },
-        {
-          "title": "Deutschland in der Einzelkritik: Brown zeigt, warum die Bayern ihn wollen",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-deutschland-sieg-curacao-einzelkritik-neuer-havertz-undav-nmecha-li.3498619",
-          "summary": "Der Verteidiger schießt sein erstes WM-Tor, auch Felix Nmecha überzeugt. Florian Wirtz muss zum Patentamt – und Leroy Sané bestätigt ein paar Vorurteile. Die DFB-Elf in der Einzelkritik.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/14/bb734fe8-360d-476d-8539-25131efca520.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C151%2C4000%2C2250"
         }
       ]
     }
