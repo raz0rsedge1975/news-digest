@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-15T06:00:10.778Z",
-  "timestamp": "15.6.2026, 08:00:10",
+  "generated": "2026-06-15T10:00:11.674Z",
+  "timestamp": "15.6.2026, 12:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Vereinbarung mit Iran: Was Trump mit seinem Krieg erreicht hat – und was nicht",
-          "url": "https://www.faz.net/aktuell/politik/ausland/trumps-kriegsbilanz-faellt-duerftig-aus-accg-200926255.html",
-          "summary": "Nach zweimonatigem Ringen haben Iran und die USA eine Einigung zur Öffnung der Straße von Hormus erreicht. Teheran kann sich als Sieger inszenieren.",
+          "title": "Sozialleistungsbetrug: Ein perfektioniertes mafiöses System",
+          "url": "https://www.faz.net/aktuell/politik/inland/sozialleistungsbetrug-in-bremen-ein-mafioeses-system-accg-200925028.html",
+          "summary": "Bremen hat ein Problem mit Sozialleistungsbetrug. Doch die Politik tut sich schwer, die Dinge beim Namen zu nennen. Im Ruhrgebiet geht man längst einen anderen Weg.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4622f1007360/w6000h3135x0y276o/202606/43601.0.2210850751/antiamerikanisches.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/4774899dfb48/w8064h4213x0y1002o/202606/43601.0.2215110678/eine-wohnsiedlung-im-bremer.webp"
         },
         {
-          "title": "Liveblog Irankrieg: Der Ölpreis sinkt deutlich, Asiens Börsenkurse steigen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-und-vermittler-pakistan-verkuenden-einigung-auf-abkommen-zu-iran-kriegsende-faz-200583539.html",
-          "summary": "Die Unterzeichnung soll am Freitag in der Schweiz stattfinden +++ Straße von Hormus soll erst danach geöffnet werden +++  Kanzler Merz: Abkommen muss „zielstrebig“ umgesetzt werden +++ alle Entwicklungen im Liveblog",
+          "title": "„Vertrauensverlust“: Bremer Jobcenter-Chef nach Kostenexplosion für „Kreativraum“ gefeuert",
+          "url": "https://www.faz.net/aktuell/bremer-jobcenter-thorsten-spinn-nach-kostenexplosion-gefeuert-accg-200923695.html",
+          "summary": "Bremer Jobcenter-Chef gefeuert, weil sich Kosten von \"Kreativraum\" fast verzehnfachten",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/37b615bd2804/w3968h2073x0y340o/202606/43601.0.2177515718/schiffe-in-der-strasse-von.webp"
+          "image": "https://media0.faz.net/image/w1200h627/85dc1c79edf7/w6144h3210x0y587o/202606/43601.0.2191224233/der-eingang-zur-agentur-fuer.webp"
         },
         {
-          "title": "DFB-Team nach WM-Start: Muss Undav jetzt nicht von Beginn an spielen?",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/fussball-wm-2026-sollte-deniz-undav-in-startelf-beim-dfb-team-accg-200930109.html",
-          "summary": "Deniz Undav braucht gegen Curaçao 24 Minuten für ein Tor und zwei Vorlagen. Sollte so ein Quotenstürmer nicht in der Startelf beim nächsten WM-Spiel stehen? Es gibt auch Gründe, die dagegensprechen.",
+          "title": "Behördenleiter entlassen: Die Verschwendung im Bremer Jobcenter ist ein Skandal",
+          "url": "https://www.faz.net/aktuell/politik/inland/kreativraum-die-verschwendung-im-bremer-jobcenter-ist-ein-skandal-200924596.html",
+          "summary": "Die Entlassung des Bremer Jobcenter-Chefs macht den angerichteten Schaden nicht wett. Der Staat muss sich endlich eiserne Kostendisziplin auferlegen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8d1eaadd10a2/w2979h1556x509y287o/202606/43601.0.2216677026/einer-trifft-ein-anderer-nicht.webp"
+          "image": "https://media0.faz.net/image/w1200h627/838cd00372ce/w1808h944x0y130o/202606/43601.0.2208503015/in-bremen-vor-der-ampel.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Fußball-WM 2026: Deutschland siegt 7:1 gegen Curacao: Felix Nmecha - Der Gotteskicker",
+          "title": "Donald Trump feiert 80. Geburtstag: Erst ein Deal mit Iran, dann Käfigkämpfe",
+          "url": "https://www.spiegel.de/ausland/donald-trump-feiert-80-geburtstag-erst-ein-deal-mit-iran-dann-kaefigkaempfe-a-55d6084a-112b-4b92-8b06-c49f2ec7f2a1#ref=rss",
+          "summary": "Trump schenkt sich zum Achtzigsten einen Wettkampf im Ultimate Fighting und kann kurz vor dem Start noch ein Abkommen mit Iran verkünden. Unter harten Männern will er sich in Zeiten schwacher Umfragen als starker Anführer zeigen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/4bbf3dd0-b646-4833-a870-07d0b6b8ca89_w1200_r1.778_fpx56_fpy53.jpg"
+        },
+        {
+          "title": "Donald Trump und sein 80. Geburtstag: Käfigkampf und Kampfjets vorm Weißen Haus",
+          "url": "https://www.spiegel.de/ausland/donald-trump-und-sein-80-geburtstag-kaefigkampf-und-kampfjets-vorm-weissen-haus-a-e2b84cb1-8d0a-42d5-b51c-96b51a22965e#ref=rss",
+          "summary": "Der Vorgarten des Weißen Hauses wurde zur Wrestling-Arena: Donald Trump hat seinen 80. Geburtstag auf sehr spezielle Art gefeiert. Und das Friedensabkommen mit Iran? Ach ja, da war ja noch was.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/04622150-25a5-4759-b80a-5ddbb32f065f_w1080_r1.778_fpx42_fpy48.jpg"
+        },
+        {
+          "title": "Felix Nmecha bei der WM 2026: Der Gotteskicker",
           "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-siegt-7-1-gegen-curacao-felix-nmecha-der-gotteskicker-a-c0250872-667e-4811-9ec4-a5fd2cfa8c06#ref=rss",
-          "summary": "Felix Nmecha gelingt ein erstaunliches WM-Debüt und betet danach mit dem Gegner. Über einen, der im Fußball die Chance zur Lobpreisung des Herrn sieht. Und den sein Förderer im SPIEGEL einen »potenziellen Weltklassespieler« nennt.",
+          "summary": "Felix Nmecha gelingt ein erstaunliches WM-Debüt, und danach betet er mit dem Gegner. Über einen, der im Fußball die Chance zur Lobpreisung des Herrn sieht. Und den sein Förderer im SPIEGEL einen »potenziellen Weltklassespieler« nennt.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/40b9cf15-b270-4aec-8fe9-c9f7ff47051c_w1200_r1.778_fpx50_fpy46.jpg"
-        },
-        {
-          "title": "News: Iran-Krieg, Donald Trump Geburtstag, Schweiz-Volksbefragung, Urteil im Prozess gegen Marius Borg Høiby",
-          "url": "https://www.spiegel.de/politik/deutschland/news-iran-krieg-donald-trump-geburtstag-schweiz-volksbefragung-urteil-im-prozess-gegen-marius-borg-hoiby-a-6330e1b1-43d9-4479-9ae3-c1c6a7f07d3a#ref=rss",
-          "summary": "Der US-Präsident feiert seinen 80. Geburtstag mit einem Irandeal und Käfigkämpfern. Die Schweiz stimmt mehrheitlich gegen einen Bevölkerungsdeckel. Und: Urteil im Prozess gegen Marius Borg Høiby. Das ist die Lage am Montagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Iran-Krieg: USA und Iran einigen sich auf Friedensvereinbarung",
-          "url": "https://www.spiegel.de/ausland/krieg-in-iran-pakistan-meldet-friedensabkommen-zwischen-usa-und-iran-a-5fa96386-89fa-48c3-86fb-db3e3848137d#ref=rss",
-          "summary": "Washington und Teheran haben sich auf eine Absichtserklärung zur Beendigung ihres Kriegs verständigt. Am Freitag wollen beide Seiten unterschreiben – erst dann soll laut US-Präsident Trump auch die Straße von Hormus geöffnet werden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/39473c30-acbe-45fe-8cd8-07567d0818d3_w1200_r1.778_fpx68_fpy53.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Angehörige im Pflegefall: Debatte über 100.000-Euro-Grenze",
-          "url": "https://www.tagesschau.de/inland/pflegekosten-angehoerige-pflegebeauftragte-100.html",
-          "summary": "Werden Kinder pflegebedürftiger Eltern weiter bis zu einem Einkommen von 100. 000 Euro finanziell geschützt? Gesundheitsministerin Warken will diese Grenze streichen. Die Pflegebeauftragte der Regierung lehnt das ab. Von Kirsten Girschick.",
+          "title": "Großbritannien plant Social-Media-Verbot für unter 16-Jährige",
+          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-verbot-socialmedia-100.html",
+          "summary": "In Großbritannien soll der Zugang zu sozialen Medien für Kinder und Jugendliche unter 16 Jahren bald tabu sein. Mehrere EU-Staaten erwägen ebenfalls ein Social-Media-Verbot, auch in Deutschland werden Einschränkungen geprüft.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c74becb4-5a80-4b29-baa7-3c14f4377c41/AAABnp0SwIo/AAABnSSvrFg/16x9-big/pflege-angehoerige-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5c59851a-3a86-4091-ba3d-4711e5f73b4b/AAABnsqfEZk/AAABnSSvrFg/16x9-big/jugendliche-socialmedia-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Börsen hoffen auf Entspannung nach Iran-Einigung",
+          "title": "Iran-Liveblog: ++ Israel will im Libanon bleiben ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html",
+          "summary": "Israels Verteidigungsminister Katz hat betont, dass das israelische Militär in Sicherheitszonen im Libanon, in Syrien und im Gazastreifen bleiben werde, um die Grenzen zu schützen. Kanzler Merz hat die Einigung zwischen den USA und Iran begrüßt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/fc7337a4-0d67-4fb3-842b-5b13e2e7040a/AAABnspg_bg/AAABnSSvrFg/16x9-big/israel-katz-112.jpg?width=1280"
+        },
+        {
+          "title": "Marktbericht: Anleger erleichtert über Entspannung im Nahen Osten",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-friedensabkommen-100.html",
-          "summary": "Die Ölpreise geben deutlich nach, in Asien erreicht der Nikkei ein Rekordhoch - auch der DAX dürfte nach dem Rahmenabkommen zwischen Iran und den USA zum Wochenstart kräftig zulegen.",
+          "summary": "Die Hoffnung auf Frieden in Iran schiebt den DAX kräftig an, die Ölpreise geben deutlich nach. Aber Experten warnen: Es bleiben Unsicherheiten - und noch ist das angekündigte Rahmenabkommen nicht unterzeichnet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/85918134-74fc-42bf-b695-1f93756f4f76/AAABleXAi8s/AAABnSSvrFg/16x9-big/boerse-frankfurt-192.jpg?width=1280"
-        },
-        {
-          "title": "Sechs Tote bei Zusammenstoß von Hubschraubern in Rio de Janeiro",
-          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-unfall-helikopter-100.html",
-          "summary": "Im brasilianischen Rio de Janeiro sind zwei Hubschrauber in der Luft miteinander kollidiert. Sechs Menschen kamen durch das Unglück ums Leben. Zu den Opfern soll auch der US-Sänger und Komiker Oliver Tree gehören.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/3c8bc49e-f8a5-49ff-8eb1-14da5c675214/AAABnsmkPe8/AAABnSSvrFg/16x9-big/riodejaneiro-absturz-helikopter-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/302f3316-6801-4009-b2e7-32411206b9d1/AAABlep2Acc/AAABnSSvrFg/16x9-big/boerse-frankfurt-184.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Feindbild Faule? Friedrich Merz und der Feldzug gegen den Sozialstaat",
-          "url": "https://www.telepolis.de/article/Feindbild-Faule-Friedrich-Merz-und-der-Feldzug-gegen-den-Sozialstaat-11326023.html",
-          "summary": "Sanktionen, Streichungen, Schikanen: Was bleibt von einem Sozialstaat, der seine Schwächsten unter Generalverdacht stellt? Ein Kommentar.",
+          "title": "US-Iran-Abkommen: Waffenstillstand mit Fragezeichen",
+          "url": "https://www.telepolis.de/article/US-Iran-Abkommen-Waffenstillstand-mit-Fragezeichen-11332275.html",
+          "summary": "USA und Iran haben ein Rahmenabkommen zur Beendigung des Krieges vereinbart. Doch Analysten zweifeln – und Israels rechte Minister wollen weiterkämpfen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/7/2/9/0/shutterstock_2541337743-7e9205c6c8c9199e.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/4/4/1/shutterstock_2477351975-61fc579f223e0179.jpg"
         },
         {
-          "title": "Verdacht auf \"Rechtsbeugung\": Polizist soll Beweise per KI fabriziert haben",
-          "url": "https://www.telepolis.de/article/Verdacht-auf-Rechtsbeugung-Polizist-soll-Beweise-per-KI-fabriziert-haben-11331633.html",
-          "summary": "Ermittlungen wegen des Fälschens von Beweisen in Derbyshire – zeitgleich startet die Regierung ihr 75-Millionen-Pfund-Programm PoliceAI.",
+          "title": "\"Technologie ist bereit\": Weltgrößter Wasserstoffmotor startet im Netz",
+          "url": "https://www.telepolis.de/article/Technologie-ist-bereit-Weltgroesster-Wasserstoffmotor-startet-im-Netz-11332168.html",
+          "summary": "Ein neuer Riesenmotor startet in zwei Minuten. Doch wegen der Brennstoffkosten von 470 Euro je Megawattstunde bleibt es ein teures Experiment.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/1/1/6/shutterstock_2623292191-57a7866daaa6039a.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/3/8/6/Powerpoint_Optimised_Image-Waertsilae_bermeo_8june26_high-8_1_-684ec11b4a4d7834.jpg"
         },
         {
-          "title": "Fleischwerbe-Verbot: \"Kein Platz für Firmen, die Klimakrise vorantreiben\"",
-          "url": "https://www.telepolis.de/article/Fleischwerbe-Verbot-Kein-Platz-fuer-Firmen-die-Klimakrise-vorantreiben-11326899.html",
-          "summary": "Amsterdam verbannt Fleisch- und Auto-Werbung von Plakatwänden. Die Fleischindustrie kritisiert die Maßnahme scharf.",
+          "title": "Afrika: Atomstrom auf dem Vormarsch",
+          "url": "https://www.telepolis.de/article/Afrika-Atomstrom-auf-dem-Vormarsch-11331355.html",
+          "summary": "Noch ist die Liste der Atomkraftwerke in Afrika ziemlich übersichtlich. Doch das dürfte sich bald ändern. Eine neue Technik spielt dabei eine besondere Rolle.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/7/7/3/0/amsterdarm-01-a95fab5c818518ca.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/9/9/7/7/Charles_Brutlag-3eafa273d6a548db.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: US-Stars protestieren auf Konzert gegen Trumps Politik",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-trump-politik-protest-fonda-li.3494806",
-          "summary": "Es gebe Anstrengungen, grundlegende demokratische Rechte wie Meinungsfreiheit und Pressefreiheit zu zerstören, sagt Schauspielerin Jane Fonda auf einem Event in New York am Geburtstag des US-Präsidenten.",
+          "title": "Leute: Familienplanung, inspiriert von Erika Kirk",
+          "url": "https://www.sueddeutsche.de/panorama/vance-familienplanung-viertes-kind-erika-kirk-li.3498863",
+          "summary": "Das Ehepaar Vance erzählt, warum es sich für ein viertes Kind entschieden hat, Ed Sheeran verhilft einem uralten Album zu spätem Erfolg, und Jerry Hall erklärt Rentnerbeige zur unerwünschten Farbe.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/15/cd9f1f3a-5708-4425-963f-c299e5ffea62.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C217%2C3469%2C1951"
-        },
-        {
-          "title": "DFB-Team: Für Browns Karriere bräuchten andere eine Zeitmaschine",
-          "url": "https://www.sueddeutsche.de/sport/dfb-team-wm-brown-curacao-fc-bayern-li.3498706",
-          "summary": "Ab in die Zukunft: Nathaniel Brown überzeugt in seinem erst sechsten Länderspiel in allen Disziplinen, nun auch mit Flanken. Der FC Bayern darf sich in seinem Interesse bestätigt fühlen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/15/c1629e71-7f36-4b44-a325-d4897e55a487.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C149%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2025/03/27/539a14f9-0de4-4070-a1e0-03f0a8fc7120.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
         },
         {
           "title": "Trumps 80. Geburtstag: Wenn der Präsident sich mit einer Prügelei feiern lässt",
           "url": "https://www.sueddeutsche.de/politik/trump-80-geburtstag-washington-dc-ufc-li.3497922",
-          "summary": "US-Präsident Trump spaltet das Land selbst mit seiner Geburtstagsparty, einem Kampfspektakel vor dem Weißen Haus. Die Fans sind begeistert und skandieren immer wieder „USA, USA“. Die Kritiker spotten.",
+          "summary": "US-Präsident Trump spaltet das Land selbst mit seiner Geburtstagsparty, einem Kampfspektakel vor dem Weißen Haus. Die Fans sind begeistert und skandieren „USA, USA“. Die Kritiker spotten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/15/48a6dfd6-8485-43dd-9523-e403e9e7bfdd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C294%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/15/48a6dfd6-8485-43dd-9523-e403e9e7bfdd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=118%2C622%2C3636%2C2045"
+        },
+        {
+          "title": "US-Sitcom: „Alf“-Star Anne Schedeen ist tot",
+          "url": "https://www.sueddeutsche.de/medien/anne-schedeen-tot-alf-kate-tanner-li.3499099",
+          "summary": "Sie spielte in der Sitcom Kate Tanner. Nun ist die Schauspielerin mit 77 Jahren gestorben. Von den Darstellerinnen und Darstellern der Familie lebt nur noch eine.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/15/5db520ff-daf9-4ac1-9ff3-e10d3a68c19a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C2598%2C1461"
         }
       ]
     }
