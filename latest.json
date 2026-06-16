@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-16T06:00:09.040Z",
-  "timestamp": "16.6.2026, 08:00:09",
+  "generated": "2026-06-16T10:00:12.437Z",
+  "timestamp": "16.6.2026, 12:00:12",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog Irankrieg: Vance: Iran-Abkommen ist „sehr allgemeines Dokument“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-jd-vance-deal-mit-iran-ist-sehr-allgemein-faz-200583539.html",
-          "summary": "US-Vizepräsident: Viele Themen in technischen Verhandlungen klären +++ Teheran: Mehrere iranische Schiffe passieren US-Blockade +++ US-Präsident: Deal mit Iran werde der Welt „eine Menge Erfolg bringen“ +++ alle Entwicklungen im Liveblog",
+          "title": "Boom oder Hype?: Wir sind die Roboter",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/neuer-boom-kommen-jetzt-wirklich-die-humanoiden-roboter-accg-200918655.html",
+          "summary": "In Fabriken, in Pflegeheimen und zu Hause sollen humanoide Roboter bald viele Aufgaben übernehmen. Das versprechen die Unternehmen schon seit zwanzig Jahren und mehr. Doch diesmal ist einiges anders.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4b80ae85a851/w6144h3210x0y286o/202606/43601.0.2222409572/der-amerikanische.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2d57ba6a5b64/w6000h3135x0y120o/202602/43601.0.1823987258/bundeskanzler-friedrich-merz.webp"
         },
         {
-          "title": "F.A.Z. Frühdenker: Trump beim G-7-Gipfel – Lösungen für die Ukraine und Iran?",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/trump-beim-g7-gipfel-loesungen-fuer-die-ukraine-und-den-iran-faz-fruehdenker-200933393.html",
-          "summary": "Am Genfersee geht es zuerst um die Ukraine und danach um Iran und die Straße von Hormus. Die Grünen fühlen sich bei Landwirtschaftsminister Rainer an Trump erinnert und klagen vor dem Bundesverfassungsgericht. Newsletter.",
+          "title": "„Mythos“ und „Fable 5“: Was die amerikanische Anthropic-Sperre für Europa bedeutet",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mythos-und-fable-5-was-bedeutet-die-amerikanische-anthropic-sperre-fuer-europa-200930881.html",
+          "summary": "Die US-Regierung schneidet den Rest der Welt von den leistungsfähigsten KI-Modellen Anthropics ab. Was bedeutet das für deutsche Unternehmen? Und profitiert jetzt China? Antworten auf die wichtigsten Fragen.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/0aba9511509d/w3287h1717x0y237o/202606/43601.0.2221807183/wollen-gespraeche-ueber-eine.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e99295d2c86a/w6495h3393x0y214o/202606/43601.0.2204712846/muss-zwei-modelle-fuer-den.webp"
         },
         {
-          "title": "Krieg in Nahost: Amerikas Macht kann wenig wert sein",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/vereinbarung-mit-iran-amerikas-macht-kann-wenig-wert-sein-200931724.html",
-          "summary": "Trumps Vereinbarung mit Iran erscheint provisorisch. Bisher hat er nur ein Problem beseitigt, das er selbst geschaffen hat.",
+          "title": "Liveblog Ukrainekrieg: Brand in Erdölraffinerie in Moskau",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-erdoelraffinerie-in-moskau-brennt-faz-110683325.html",
+          "summary": "Bürgermeister meldet Drohnenangriffe +++ Merz: Russland kann militärisch nicht gewinnen +++ Selenskyj schlägt persönliches Treffen mit Putin in den USA vor +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5b1b1eabf44b/w5684h2969x0y114o/202606/43601.0.2212802371/praesident-donald-trump-im-mai.webp"
+          "image": "https://media0.faz.net/image/w1200h627/fcc10419b556/w5472h2859x0y394o/202606/43601.0.2222986171/auch-die-russische-hauptstadt.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Drogen und Rauschgift: Opioide und Tabletten werden zur tödlichen Gefahr",
+          "url": "https://www.spiegel.de/wissenschaft/drogen-und-rauschgift-opioide-und-tabletten-werden-zur-toedlichen-gefahr-a-1409e27d-37ed-4ed9-9042-c4c855974cbe#ref=rss",
+          "summary": "Opioide, Stimulanzien, verunreinigte Vapes: In Deutschland kommt es immer wieder zu tragischen Todesfällen wegen neuartiger Drogen. Oft werden sie unter andere Substanzen gemischt, ohne dass die Konsumenten es ahnen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/d7490e2d-ef4c-4a11-a4c2-a0440394a779_w1200_r1.778_fpx44_fpy61.jpg"
+        },
+        {
+          "title": "Fußball-WM 2026: Wie konnte sich Spanien gegen Kap Verde so blamieren - trotz Lamine Yamal?",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-wie-konnte-sich-spanien-gegen-kap-verde-so-blamieren-trotz-lamine-yamal-a-fd6e64d2-8900-4477-9870-69bce663d35e#ref=rss",
+          "summary": "»Wenn der Ball nicht rein will, will er nicht rein«: So erklärt Spaniens Trainer die Nullnummer gegen Kap Verde. Ist es so simpel, oder ist da noch mehr? Alles hängt nun an Lamine Yamal.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f851b702-9ead-4cfe-9807-d661b57871bd_w1200_r1.778_fpx39_fpy39.jpg"
+        },
+        {
           "title": "Pflegereform: Sollen Kinder künftig für die Pflege ihrer Eltern zahlen?",
           "url": "https://www.spiegel.de/wirtschaft/pflegereform-sollen-kinder-kuenftig-fuer-die-pflege-ihrer-eltern-zahlen-a-16c6eaea-2b8b-4cbb-b0c2-d8c1a22a7a8a#ref=rss",
           "summary": "Weniger Schonvermögen und Zugriff auf Omas Häuschen: Zuletzt haben Unionspolitiker harte Sparvorschläge für Pflege und Gesundheit gemacht. Emmi Zeulner von der CSU gibt Kontra.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/6342b29e-3c55-4962-9362-24a327981960_w1200_r1.778_fpx53_fpy55.jpg"
-        },
-        {
-          "title": "WM 2026: Gegen Spanien – Kap Verde sorgt für eine der größten Sensationen der WM-Geschichte",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-kap-verde-trotzt-europameister-spanien-ein-remis-ab-a-8fc2e533-389a-48b8-b06e-e36b79151175#ref=rss",
-          "summary": "Kap Verde ist zum ersten Mal bei einer WM-Endrunde, der Linksverteidiger spielte vor Kurzem noch bei Viktoria Köln. Nun blamierte der Inselstaat Europameister Spanien. Daran konnte auch Lamine Yamal nichts ändern.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9a10ee10-fe72-4672-897d-a30d36518a6a_w1200_r1.778_fpx62_fpy37.jpg"
-        },
-        {
-          "title": "News: Emmanuel Macron, Donald Trump, Wolodymyr Selenskyj, Friedrich Merz, Benjamin Netanyahu, Alexander Dobrindt",
-          "url": "https://www.spiegel.de/ausland/news-emmanuel-macron-donald-trump-wolodymyr-selenskyj-friedrich-merz-benjamin-netanyahu-alexander-dobrindt-a-2f10d069-351f-4060-b114-620d3eaa1842#ref=rss",
-          "summary": "Gastgeber Macron umwirbt den US-Präsidenten beim G7-Gipfel in Évian-les-Bains. Netanyahu ist der Verlierer des Irankriegs. Und Dobrindt weiht ein Zentrum gegen hybride Bedrohungen ein. Das ist die Lage am Dienstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Newsom wirft Trump politisch motivierte Ermittlungen vor",
-          "url": "https://www.tagesschau.de/ausland/amerika/ermittlungen-newsom-vorwuerfe-gegen-trump-100.html",
-          "summary": "Das US-Justizministerium ermittelt offenbar gegen den kalifornischen Gouverneur Newsom und seine Ehefrau. Der Demokrat, der als Präsidentschaftskandidat gehandelt wird, vermutet politische Motive.",
+          "title": "Zahl der Einwohner in Deutschland leicht gesunken",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/schrumpfende-bevoelkerung-100.html",
+          "summary": "Mit 83,5 Millionen Einwohnern ist die Bevölkerung in Deutschland im vergangenen Jahr leicht gesunken. Die Zuwanderung kann das Geburtendefizit nicht mehr ausgleichen, wie Daten des Statistischen Bundesamtes zeigen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6026304f-918d-474d-a270-1fbf32747b68/AAABns7kXg4/AAABnSSvrFg/16x9-big/newsom-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8d2cc2a1-0bdb-48af-9c68-9dc2046b165a/AAABns-6LXQ/AAABnSSvrFg/16x9-big/menschen-fussgaengerzone-104.jpg?width=1280"
         },
         {
-          "title": "Tschechische Regierung spart beim öffentlich-rechtlichen Rundfunk",
-          "url": "https://www.tagesschau.de/ausland/europa/tschechien-medienreform-100.html",
-          "summary": "Die tschechische Regierung setzt ihre Medienreform um. Dazu gehört die Abschaffung der Rundfunkgebühr. Künftig soll der Rundfunk aus dem Staatsetat finanziert werden - und 15 Prozent weniger bekommen. Von Marianne Allweiss.",
+          "title": "Bombenentschärfung in Potsdam: Evakuierungen in der Innenstadt",
+          "url": "https://www.tagesschau.de/inland/regional/brandenburg/bombenentschaerfung-potsdam-sperrungen-100.html",
+          "summary": "Weite Teile der Potsdamer Innenstadt stehen still. Dort soll eine Weltkriegsbombe entschärft werden. Tausende Menschen sind von den Evakuierungen betroffen, auch der Hauptbahnhof ist gesperrt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/24943b36-6083-4774-9aa0-1a1d1c76bcd1/AAABns4xRng/AAABnSSvrFg/16x9-big/tschechien-rundfunkgebuehren-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ef2a22ba-1b38-4863-a69c-9378d93b9c8c/AAABns-19kY/AAABnSSvrFg/16x9-big/potsdam-polizei-sperrung-bombe-100.jpg?width=1280"
         },
         {
-          "title": "11KM-Podcast: KI-Rechenzentren - verspielt Deutschland die Zukunft?",
-          "url": "https://www.tagesschau.de/podcast-11km-ki-rechenzentren-100.html",
-          "summary": "Rechenzentren für Künstliche Intelligenz gelten als Zukunftsinvestition. 11KM über die Frage, warum der Ausbau in Deutschland trotzdem stockt und was das für Folgen haben wird.",
+          "title": "Marktbericht: Anleger sezieren geplantes Friedensabkommen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-132.html",
+          "summary": "Was ist das Abkommen zwischen den USA und Iran wert? Die Investoren müssen nun abwägen, wie es an den Märkten weitergeht. Für Spannung sorgt der Fed-Entscheid am Mittwoch, auch die Ölpreise stehen unter Beobachtung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a5239adc-cd37-463b-9402-b4c4433b8857/AAABns6fWzA/AAABnSSvrFg/16x9-big/podcast-11km-3664.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b2b76f04-0530-48e9-8be0-732700cde583/AAABlhkA9cE/AAABnSSvrFg/16x9-big/boerse-408.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Pinocchio-Paragraph ade: Das Ende des Maulkorbs?",
-          "url": "https://www.telepolis.de/article/Pinocchio-Paragraph-ade-Das-Ende-des-Maulkorbs-11332851.html",
-          "summary": "Paragraph 188, üble Nachrede gegen politische Personen, soll durch einen erneuten AfD-Antrag gekippt werden. Was stattdessen kommen könnte. Ein Kommentar.",
+          "title": "WM-Wahnsinn: Warum wir beim Fußball nicht mehr locker sind",
+          "url": "https://www.telepolis.de/article/WM-Wahnsinn-Warum-wir-beim-Fussball-nicht-mehr-locker-sind-11333477.html",
+          "summary": "Vom TV-Therapiejargon bis zum Hasssturm gegen Laura Schmitt: Warum die WM zeigt, wie verkrampft und empfindlich wir Deutschen geworden sind. WM Blog – Folge 03",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/7/3/0/shutterstock_2014974722-3a673085853426c1.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/1/0/4/6/shutterstock_2760653625-52593f32546d0e9b.jpg"
         },
         {
-          "title": "Deutsche Luftwaffe bereit, \"noch heute Nacht\" gegen Russland zu kämpfen",
-          "url": "https://www.telepolis.de/article/Deutsche-Luftwaffe-bereit-noch-heute-Nacht-gegen-Russland-zu-kaempfen-11333337.html",
-          "summary": "Die Ansage von Generalleutnant Neumann ist ein historischer Bruch mit der deutschen Zurückhaltung. Er nennt bereits konkrete russische Angriffsziele.",
+          "title": "Präzedenzfall Brandenburg: Minister Hoffmann bangt um Anerkennung von Abitur",
+          "url": "https://www.telepolis.de/article/Praezedenzfall-Brandenburg-Minister-Hoffmann-bangt-um-Anerkennung-von-Abitur-11333761.html",
+          "summary": "Der Lehrermangel bedroht die KMK-Standards. Bildungsminister Hoffmann sorgt sich um die bundesweite Anerkennung der Brandenburger Abschlüsse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/9/7/5/shutterstock_2751965335-24f8fd84e32adc4f.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/1/1/8/8/shutterstock_1795173919-450001e61ba31457.jpg"
         },
         {
-          "title": "6.100 km/h: Frankreich baut eine unaufhaltsame neue Atomwaffe",
-          "url": "https://www.telepolis.de/article/6-100-km-h-Frankreich-baut-eine-unaufhaltsame-neue-Atomwaffe-11333267.html",
-          "summary": "Frankreichs Rüstungsbehörde DGA beauftragt MBDA mit dem Flugkörper ASN4G. Ab 2035 soll er die luftgestützte Atomabschreckung sichern.",
+          "title": "Ist der Iran-Deal nur politisches Timing für Washington?",
+          "url": "https://www.telepolis.de/article/Ist-der-Iran-Deal-nur-politisches-Timing-fuer-Washington-11333599.html",
+          "summary": "Trump feiert den Frieden, Tel Aviv bombardiert, Teherans Hardliner rufen nach Widerstand. Warum der Deal von Genf ist ein leeres Versprechen ist. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/9/4/0/shutterstock_2525269879-4054222ebfda8ddc.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/1/1/0/7/shutterstock_2653052043-0215fa0d8875edac.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fußball-WM 2026: Franzose soll Tunesiens Nationalteam übernehmen",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-tunesien-trainer-wechsel-renard-li.3492650",
-          "summary": "Tunesien hat nach nur einem WM-Spiel seinen Trainer entlassen. Nun übernimmt laut tunesischem Fernsehen ein erfahrener Mann: Hervé Renard coachte schon Sambia und die Elfenbeinküste zum Afrika-Cup-Titel.",
+          "title": "Nächtlicher Einbruch bei früherem Bayern-Spieler: Mehmet Scholl soll Eindringling überwältigt haben",
+          "url": "https://www.sueddeutsche.de/muenchen/mehmet-scholl-muenchen-solln-einbruch-polizei-li.3499661",
+          "summary": "Der Einbrecher soll sich im Haus des früheren Nationalspielers in München-Solln nach Medieninformationen in das Bett der 20-jährigen Tochter gelegt haben. Dieser gelang es offenbar, den Mann mit ihrem Freund und ihrem Vater festzusetzen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/16/af20118b-6a04-4481-941c-3204371a4b5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C155%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2022/06/13/24946ff9-2840-44d2-a4c3-3b4ea9710053.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1352%2C760"
         },
         {
-          "title": "Kapverden-Torhüter Vozinha: Die Leistung seines Lebens",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-kapverden-spanien-torwart-li.3499458",
-          "summary": "Der 40-jährige Torhüter Vozinha ist der Mann des Spiels beim sensationellen 0:0 der Kapverden gegen Spanien. Nach der Partie kommen ihm die Tränen – auch, weil seine Mutter nicht in die USA einreisen konnte.",
+          "title": "Regeländerung bei der Fußball-WM: Schafft die verpflichtenden Trinkpausen wieder ab!",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-trinkpausen-kommentar-li.3499500",
+          "summary": "Wer in der Hitze Sport treibt, sollte Wasser trinken. Aber die neuen Unterbrechungen bei der WM greifen in den Charakter des Fußballs ein – zumal es der Fifa nicht ums Wohlergehen der Spieler geht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/16/2f696a27-4745-49e4-bb63-9c69ea3adaaf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C162%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/06/16/1e21e162-be46-4f9c-a57b-22ef8e02f7b7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=995%2C609%2C3005%2C1690"
         },
         {
-          "title": "Fußball-WM: Und sie spielen doch",
-          "url": "https://www.sueddeutsche.de/medien/iran-neuseeland-zdf-tv-kritik-wm-fussball-wm-li.3496100",
-          "summary": "Bei der Übertragung der Partie Iran gegen Neuseeland verzichtet das ZDF auf jegliches Geplänkel. Und konzentriert sich stattdessen auf das Wesentliche: den Fußball und die Politik.",
+          "title": "Fußball-WM 2026: „Desaster“ und „Unterdrückung“: Iraner kritisieren Fifa",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-iran-fifa-usa-tunesien-trainer-renard-li.3492650",
+          "summary": "Nach dem 2:2 gegen Neuseeland darf die Mannschaft nicht wie geplant in den USA bleiben – danach entlädt sich die Wut darüber. Tunesien tauscht seinen Trainer nach nur einem Spiel.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/16/533dd39b-3f59-44d9-9c9f-b750dc2ead53.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C137%2C2630%2C1479"
+          "image": "https://www.sueddeutsche.de/2026/06/16/74f94a96-4f8d-44f3-a61b-b8d99adae072.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C159%2C3636%2C2045"
         }
       ]
     }
