@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-15T22:00:16.095Z",
-  "timestamp": "16.6.2026, 00:00:16",
+  "generated": "2026-06-16T02:00:09.678Z",
+  "timestamp": "16.6.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Jedes zweite Kind laut UNICEF-Studie von Klimarisiken betroffen",
+          "url": "https://www.tagesschau.de/wissen/klima/klima-kinder-unicef-100.html",
+          "summary": "Die Folgen des Klimawandels sind besonders heftig für schutzbedürftige Menschen - allen voran für Kinder. Das Kinderhilfswerk UNICEF warnt in seiner neusten Studie davor, dass jedes zweite Kind auf der Erde dadurch mehrfach gefährdet ist. Von K. Wilhelm.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7227f035-d3af-4a06-a3b5-b3c48d2557ab/AAABns2Jb1Y/AAABnSSvrFg/16x9-big/kinder-indien-102.jpg?width=1280"
+        },
+        {
+          "title": "B-52-Bomber der US-Luftwaffe bei Testflug in Kalifornien abgestürzt",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-kaliformien-b52-absturz-100.html",
+          "summary": "Bei einem Flugzeugunglück im US-Bundesstaat Kalifornien sind acht Menschen ums Leben gekommen. Der B-52-Bomber war nach Angaben der US-Luftwaffe kurz nach dem Start abgestürzt. Die Ursache für den Absturz ist noch unklar.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/9f8dcf66-6bb3-424d-9bb2-0fe9732684ac/AAABns29TyQ/AAABnSSvrFg/16x9-big/bomber-us-luftwaffe-100.jpg?width=1280"
+        },
+        {
           "title": "Zehn-Punkte-Plan: CSU-Chef Söder verschafft sich Zeit",
           "url": "https://www.tagesschau.de/inland/innenpolitik/csu-markus-soeder-manfred-weber-100.html",
           "summary": "Nach CSU-interner Kritik verspricht Parteichef Söder mehr Mitbestimmung. Ein Versuch, auf Unmut zu reagieren, ohne seinem Kontrahenten Weber recht zu geben. Der Konflikt ist damit nur vorerst entschärft. Jerabek und A.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/2430220f-bdfc-4650-a47b-6f4dc36e83b3/AAABnsxz-54/AAABnSSvrFg/16x9-big/markus-soeder-452.jpg?width=1280"
-        },
-        {
-          "title": "Interview: \"Trump will ein Minimalabkommen als Sieg darstellen\"",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-adebahr-100.html",
-          "summary": "Ihre Kriegsziele haben die USA nicht erreicht, es gibt keine Klarheit über das iranische Atomprogramm und die Hardliner in Teheran sitzen weiter fest im Sattel. Dennoch versucht Trump, das Abkommen als Sieg zu verkaufen, sagt Nahost-Experte Adebahr.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/405227d7-620e-4c55-9f92-c4dcda6de275/AAABnsyA3Cs/AAABnSSvrFg/16x9-big/trump-5040.jpg?width=1280"
-        },
-        {
-          "title": "Iran-Liveblog: ++ Netanjahu will Truppen im Libanon lassen ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html",
-          "summary": "Ungeachtet des Iran-Abkommens will Israels Premier Netanjahu weiter Soldaten in den besetzten Gebieten im Libanon stationieren. Frankreichs Präsident Macron hat angeboten, Kampfjets zur Sicherung der Straße von Hormus bereitzustellen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/45434993-4a77-467a-a109-5b3524c24efc/AAABnsygpP0/AAABnSSvrFg/16x9-big/israel-libanon-216.jpg?width=1280"
         }
       ]
     },
@@ -122,12 +122,12 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Kaliforniens Gouverneur Newsom wirft Trump willkürliche Ermittlungen gegen sich vor",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-newsom-ermittlungen-trump-li.3494806",
-          "summary": "Der Top-Demokrat gilt als aussichtsreicher Kandidat für das nächste Rennen um die Präsidentschaft. Jetzt ist er nach eigenen Angaben zusammen mit seiner Familie ohne ersichtlichen Grund ins Visier der Justiz geraten.",
+          "title": "USA: US-Militärflugzeug stürzt in Kalifornien ab – Acht Tote befürchtet",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-absturz-militaer-flugzeug-kalifornien-tote-li.3494806",
+          "summary": "Ein B-52-Bomber ist kurz nach dem Start in Südkalifornien abgestürzt. Nach Angaben des US-Militärs sind vermutlich alle acht Insassen ums Leben gekommen. Die Rettungsarbeiten laufen noch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/15/9d2b7284-5f9c-4c00-b6a2-1cc016a41027.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/15/a07c9c17-7179-4311-93a4-77c73d580b9e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=492%2C292%2C3306%2C1860"
         },
         {
           "title": "Vor dem Bundesparteitag: Wer ist das „Phantom“ der AfD?",
