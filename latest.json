@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-16T22:00:14.634Z",
-  "timestamp": "17.6.2026, 00:00:14",
+  "generated": "2026-06-17T02:00:08.126Z",
+  "timestamp": "17.6.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "USA: Warum Franchises gerade so beliebt sind",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-warum-franchises-gerade-so-beliebt-sind-a-78eb5c15-9c89-4095-a6b8-1d651dad7063#ref=rss",
-          "summary": "Chef statt Student: Immer mehr junge Menschen wollen Franchisenehmer großer Ketten werden. Auch, weil das Geschäft als KI-sicher gilt und längst mehr bietet als nur Fast-Food.",
+          "title": "G7 erhöhen Druck auf Russland mit neuen Sanktionen",
+          "url": "https://www.spiegel.de/ausland/g7-erhoehen-druck-auf-russland-mit-neuen-sanktionen-a-fb11095e-90e9-4dd1-886c-51f1e51651dc#ref=rss",
+          "summary": "Die G7-Staats- und Regierungschefs verschärfen die Druckmittel, um Moskau an den Verhandlungstisch zu bringen. Friedrich Merz sprach von einem »Tag der Hoffnung« – und lobte Donald Trump fürs aufmerksame Zuhören.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/98b5f693-534d-4b3f-a047-a7fb4b5c68f6_w1200_r1.778_fpx39.98_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b02855cf-af0b-47eb-a309-1aafd6b55bb1_w1200_r1.778_fpx51_fpy41.jpg"
         },
         {
           "title": "Fußball-WM 2026: Michael Olise und Kylian Mbappé führen Frankreich zu Auftaktsieg",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Migration und zivile Verteidigungsfähigkeit Themen bei Innenministerkonferenz",
+          "url": "https://www.tagesschau.de/inland/innenministerkonferenz-154.html",
+          "summary": "Migrationspolitik wird eines der Themen der heute beginnen Innenministerkonferenz sein. Hamburgs Innensenator Grote forderte im Vorfeld, die Hürden für die Abschiebung straffälliger Flüchtlinge zu senken - auch solcher mit Schutzstatus.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7e30ab6e-5cc8-4778-875f-252bf8d39f17/AAABntMfDXw/AAABnSSvrFg/16x9-big/grote-118.jpg?width=1280"
+        },
+        {
           "title": "Israels Libanon-Politik wird zur Belastungsprobe für Rahmenabkommen",
           "url": "https://www.tagesschau.de/ausland/europa/libanon-israel-friedensloesung-100.html",
           "summary": "Kann aus dem Rahmenabkommen zwischen den USA und Iran eine endgültige Friedenseinigung werden? Viel hängt davon ab, ob Israel mit seinem Vorgehen gegen die Hisbollah im Libanon weitermacht oder seine Truppen abzieht. Von Bettina Meier.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/a0b9112f-81d0-491c-97f4-779e204c5710/AAABntGJVS4/AAABnSSvrFg/16x9-big/g7-160.jpg?width=1280"
-        },
-        {
-          "title": "50 Jahre Soweto-Aufstand: Der Anfang vom Ende der Apartheid",
-          "url": "https://www.tagesschau.de/ausland/afrika/suedafrika-soweto-aufstand-100.html",
-          "summary": "Vor genau 50 Jahren gingen im südafrikanischen Township Soweto Tausende Schüler auf die Straße. Der Aufstand markierte einen Wendepunkt im Kampf der schwarzen Bevölkerungsmehrheit gegen das rassistische Apartheid-System. Von Stephan Ueberbach.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/44e94dd2-e4e2-4f5c-a748-073f1cc3acd4/AAABntGJNfk/AAABnSSvrFg/16x9-big/soweto-museum-100.jpg?width=1280"
         }
       ]
     },
