@@ -1,39 +1,47 @@
 {
-  "generated": "2026-06-17T10:00:14.613Z",
-  "timestamp": "17.6.2026, 12:00:14",
+  "generated": "2026-06-17T14:00:10.988Z",
+  "timestamp": "17.6.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Entwurf für Mandatstext: Bundesregierung bereitet Einsatz in Straße von Hormus vor",
-          "url": "https://www.faz.net/aktuell/politik/strasse-von-hormus-bundesregierung-bereitet-einsatz-vor-accg-200938449.html",
-          "summary": "Die Vorbereitungen für einen Bundeswehr-Einsatz in der Straße von Hormus werden konkreter. Ein erster Mandatstext liegt jetzt vor – ob er die SPD überzeugt, ist noch offen.",
+          "title": "Rechtspopulismus: Der aufhaltsame Aufstieg der AfD",
+          "url": "https://www.faz.net/aktuell/politik/inland/rechtspopulismus-was-hilft-gegen-die-afd-was-nicht-200924160.html",
+          "summary": "Die AfD soll durch Inhalte und gute Politik zurückgedrängt werden. Doch die Migrationspolitik zeigt: Daraus wird nichts.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8c9977706d39/w5827h3044x0y724o/202605/43601.0.2046617288/das-minenjagdboot-fulda.webp"
+          "image": "https://media0.faz.net/image/w1200h627/52c0f421efcd/w5111h2670x0y634o/202605/43601.0.2163724464/ein-parteimitglied-haelt-auf.webp"
         },
         {
-          "title": "Liveblog Irankrieg: Details aus Vereinbarung zwischen USA und Iran bekannt",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-wollen-sanktionen-gegen-iran-aufheben-faz-200583539.html",
-          "summary": "Ölexporte laufen wieder an, Wirtschaftsfonds geplant +++ Iran kündigt neue Verhandlungen mit den USA an +++ alle Entwicklungen im Liveblog",
+          "title": "Streitgespräch über Brandmauer: „Die AfD lebt von der Phantasie, dass sie niemals auffliegt“ – „Das ist ein Märchen“",
+          "url": "https://www.faz.net/aktuell/politik/was-bringt-eine-brandmauer-streitgespraech-zwischen-amthor-und-stecker-accg-200896842.html",
+          "summary": "Der Politikwissenschaftler Christian Stecker wirbt für eine Minderheitsregierung unter Einbindung der AfD – der CDU-Politiker Philipp Amthor hält im Streitgespräch dagegen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3d514d6070e8/w6000h3135x0y433o/202606/43601.0.2224716403/blick-auf-die-strasse-von.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5114980746b7/w5379h2810x554y1013o/202606/43601.0.2179572641/politikprofessor-christian.webp"
         },
         {
-          "title": "G-7-Gipfel: Die KI soll gebändigt werden – und europäischer",
-          "url": "https://www.faz.net/aktuell/wirtschaft/die-ki-soll-gebaendigt-werden-und-europaeischer-accg-200934698.html",
-          "summary": "Der französische Präsident hat die Chefs mehrerer KI-Unternehmen zum G-7-Gipfel eingeladen. Es ist eine Premiere – und der Versuch einer Aufholjagd.",
+          "title": "Landtagswahl in Sachsen-Anhalt: Wie der Mittelstand die AfD beklatscht",
+          "url": "https://www.faz.net/aktuell/wirtschaft/wie-der-mittelstand-die-afd-beklatscht-in-sachsen-anhalt-accg-200937974.html",
+          "summary": "Eine Wahlveranstaltung in Halberstadt zeigt angeblich die Nähe von CDU und AfD. Tatsächlich sind es die mittelständischen Unternehmen, die an die in Sachsen-Anhalt als rechtsextrem eingestufte Partei herangerückt sind. Ein Ortstermin.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e79f86ff337e/w7979h4169x0y518o/202606/43601.0.2221311257/frankreichs-praesident.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4f602e6037a6/w5838h3050x0y725o/202606/43601.0.2227633982/wahlveranstaltung-des.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Maja Göpel: Wie die Vordenkerin der Nachhaltigkeit sich neu erfindet",
+          "url": "https://www.spiegel.de/wirtschaft/maja-goepel-wie-die-vordenkerin-der-nachhaltigkeit-sich-neu-erfindet-a-fe220f66-ed7f-4976-a637-515b3ff0f05b#ref=rss",
+          "summary": "Maja Göpel war der Shootingstar der Nachhaltigkeitsszene. Doch ihr Kampf gegen Klimawandel und Umweltzerstörung läuft derzeit ins Leere. Nun sucht sie neue Verbündete.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/0aea64f2-5cf3-4a33-b625-ef106c1e6568_w1200_r1.778_fpx52_fpy31.jpg"
+        },
         {
           "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
           "url": "https://www.spiegel.de/geschichte/nsdap-archiv-finden-sie-heraus-was-ihre-familie-unter-hitler-getan-hat-a-4b37a614-a790-4798-92e2-be6a921da384#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/9b78b49c-d28e-4fae-a2d3-2027392eb74d_w1200_r1.778_fpx50_fpy50.jpg"
         },
         {
-          "title": "Fußball-WM 2026 - Frankreichs 3:1 gegen Senegal: Kylian Mbappé und die unglaubliche Statistik",
-          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-frankreichs-3-1-gegen-senegal-kylian-mbappe-und-die-unglaubliche-statistik-a-5d666a4a-9eab-4dee-a666-bbfa832fd51b#ref=rss",
-          "summary": "Im Angriff Weltklasse, verteidigen müssen andere: Dieser Makel hängt Kylian Mbappé seit Jahren an. Er selbst gelobte vor der WM Besserung. Warum eigentlich?",
+          "title": "Semjon Skrepezkij in Polen ermordet: Fünf Kugeln versetzen das Land in Angst",
+          "url": "https://www.spiegel.de/ausland/semjon-skrepezkij-in-polen-ermordet-fuenf-kugeln-versetzen-das-land-in-angst-a-666733cf-e6e6-42a1-991e-d62c3271a992#ref=rss",
+          "summary": "Mit seiner Kunst verspottete Semjon Skrepezkij den russischen Machthaber Wladimir Putin, jetzt wurde er in Polen erschossen. Der Fall bestärkt das Gefühl der Polen, Frontstaat im Ukrainekrieg zu sein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7060f412-4894-4c08-9846-81e21046686f_w1200_r1.778_fpx64.67_fpy52.98.jpg"
-        },
-        {
-          "title": "Irankrieg: Auf diese Punkte wollen sich die USA und Iran offenbar einigen",
-          "url": "https://www.spiegel.de/ausland/irankrieg-auf-diese-punkte-wollen-sich-die-usa-und-iran-offenbar-einigen-a-406ef2ae-11db-4ffb-88d3-f2a747d6987b#ref=rss",
-          "summary": "Aufhebung von Sanktionen und 300 Milliarden Dollar für Teheran: Medien berichten übereinstimmend über den Entwurf der Absichtserklärung zwischen den USA und Iran. Lesen Sie hier den 14-Punkte-Plan.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8b15ddf3-5e67-48b4-a347-8b12dd24a5aa_w1200_r1.778_fpx59.33_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a2854615-3f1b-4204-ab44-09fba8337635_w1200_r1.778_fpx58.67_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kronprinzessin Mette-Marit hat neue Lunge erhalten",
-          "url": "https://www.tagesschau.de/ausland/europa/norwegens-kronprinzessin-erhaelt-lunge-100.html",
-          "summary": "Norwegens schwer kranke Kronprinzessin Mette-Marit hat eine Spenderlunge erhalten. Die Transplantation sei erfolgreich verlaufen, teilte das Königshaus mit. Zusätzlich zu ihrer Krankheit belasten mehrere Skandale die Kronprinzessin.",
+          "title": "Vor Unterzeichnung des Abkommens: Trump schickt erneut Drohung Richtung Iran",
+          "url": "https://www.tagesschau.de/ausland/trump-iran-abkommen-100.html",
+          "summary": "In zwei Tagen soll das Abkommen zwischen den USA und Iran für einen Ausweg aus dem Krieg unterzeichnet werden. US-Präsident Trump hat die G7-Bühne nun noch mal genutzt, um der Islamischen Republik zu drohen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9022485a-cc3c-447a-9e38-2dc53ff66718/AAABntTYtLo/AAABnSSvrFg/16x9-big/mette-marit-290.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4350332c-6f68-4006-95f4-6066d43ac5ea/AAABntVW4-s/AAABnSSvrFg/16x9-big/trump-5046.jpg?width=1280"
         },
         {
-          "title": "Anleger halten sich vor Fed-Entscheidung zurück",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dow-dax-100.html",
-          "summary": "Vor dem Zinsentscheid der US-Notenbank am Abend halten sich die Anleger auch hierzulande noch bedeckt. Der DAX tendiert leicht schwächer, bleibt aber auf hohem Niveau. Im Fokus stehen im DAX BMW, die enttäuschen.",
+          "title": "Was steckt hinter den russischen Warnschüssen im Ärmelkanal?",
+          "url": "https://www.tagesschau.de/ausland/europa/warnschuesse-aermelkanal-russisches-kriegsschiff-100.html",
+          "summary": "Ein russisches Kriegsschiff gibt im Ärmelkanal Warnschüsse ab - angeblich, weil eine Jacht auf Kollisionskurs war. Die Segler beschreiben den Fall anders. In Großbritannien wird der Fall breit diskutiert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/86f7dba7-5f0a-4b4b-b654-194c3fd83baa/AAABlR1x0-U/AAABnSSvrFg/16x9-big/boerse-388.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/79c6e84a-616f-48f2-8834-ca1ab098235e/AAABntWESmc/AAABnSSvrFg/16x9-big/schiff-aermelkanal-100.jpg?width=1280"
         },
         {
-          "title": "Deutschland und Polen: Eine komplizierte Freundschaft",
-          "url": "https://www.tagesschau.de/ausland/europa/deutsch-polnische-beziehung-proteste-100.html",
-          "summary": "Die deutsch-polnischen Beziehungen sind eng, doch es gibt Verstimmungen. Vor allem über Nazi-Verbrechen wird gestritten. Ein Dauerthema: polnische Reparationsforderungen. Es beschäftigt nicht nur Rechte in Polen. Von Palina Milling.",
+          "title": "Ravensburger übernimmt Mehrheit bei Plüschtier-Hersteller Steiff",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ravensburger-uebernahme-steiff-100.html",
+          "summary": "Ravensburger steigt beim Plüschtierhersteller Steiff ein. Gemeinsam solle die weltweite Expansion vorangetrieben werden - und zwei der bekanntesten deutschen Spielwarenhersteller sind künftig eng verflochten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/dc9ee3b5-611f-49ec-9589-69b83f8ea583/AAABmaBSof0/AAABnSSvrFg/16x9-big/grenzpfosten-polen-deutschland-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3b5f979e-34cf-4609-9620-5a502bb9e0b7/AAABntUzvGs/AAABnSSvrFg/16x9-big/steiff-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Kleine Reaktoren, große Versprechen: Katherina Reiches Atomwette",
-          "url": "https://www.telepolis.de/article/Kleine-Reaktoren-grosse-Versprechen-Katharina-Reiches-Atomwette-11335146.html",
-          "summary": "Strahlende Zukunft oder gefährlicher Irrtum? Warum Ministerin Reiche vom Kernkraft-Comeback im Kleinformat träumt und ein positiver Ausgang offen ist.",
+          "title": "Offshore-Wende: Deutschland baut Mega-Konverter gegen Chinas Dominanz",
+          "url": "https://www.telepolis.de/article/Offshore-Wende-Deutschland-baut-Mega-Konverter-gegen-Chinas-Dominanz-11335992.html",
+          "summary": "Erstmals seit einem Jahrzehnt entstehen 2-GW-Konverterplattformen in Deutschland. Der Milliarden-Deal soll Chinas Vormacht brechen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/1/8/8/4/shutterstock_2605990007-9ae3b42cedc7f8cd.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/2/3/0/9/shutterstock_1454940068-2f085a5208722dd0.jpg"
         },
         {
-          "title": "Atomschirm nur gegen Rafale-Kauf: Jordan Bardellas neue Bedingung an Europa",
-          "url": "https://www.telepolis.de/article/Atomschirm-nur-gegen-Rafale-Kauf-Jordan-Bardellas-neue-Bedingung-an-Europa-11334879.html",
-          "summary": "Alle acht Partnerländer haben F-35 bestellt – auch Deutschland und Polen. Jordan Bardella stellt sie jetzt vor die Wahl: amerikanischer Jet oder Atomschutz.",
+          "title": "Details des Iran-Deals: Teheran soll Milliarden erhalten",
+          "url": "https://www.telepolis.de/article/Details-des-Iran-Deals-Teheran-soll-Milliarden-erhalten-11335280.html",
+          "summary": "Das geplante Abkommen zwischen den USA und dem Iran sieht weitreichende Zugeständnisse vor. Die Märkte reagieren – während Trump bereits erneut droht.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/1/7/5/1/shutterstock_2769723735-89e791eb83c26d2e.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/1/9/5/2/shutterstock_2569989401-3b9dbf6849f0729b.jpg"
         },
         {
-          "title": "Lieferando, Wolt & Uber Eats: Kommt jetzt die Pflicht zur Festanstellung?",
-          "url": "https://www.telepolis.de/article/Lieferando-Wolt-Uber-Eats-Kommt-jetzt-die-Pflicht-zur-Festanstellung-11331885.html",
-          "summary": "Die EU-Richtlinie zur Plattformarbeit setzt Lieferdienste unter Druck. Die Gewerkschaft NGG fordert nun ein striktes Direktanstellungsgebot.",
+          "title": "Diehl Defence zeigt Cobra 600: Jetdrohne verzehnfacht IRIS-T-Reichweite",
+          "url": "https://www.telepolis.de/article/Diehl-Defence-zeigt-Cobra-600-Jetdrohne-verzehnfacht-IRIS-T-Reichweite-11335573.html",
+          "summary": "Auf der ILA zeigt Diehl Defence die Jetdrohne Cobra 600. Sie trägt IRIS-T-Raketen huckepack und steigert deren Reichweite auf 400 Kilometer.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/2/4/2/work-3d028f75cd4905e5.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/2/1/0/0/generated-image-1__11_-0dc57446eb2bae9c.png"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Forschung: Weshalb jüngere Geschwister weniger erfolgreich sind",
-          "url": "https://www.sueddeutsche.de/wissen/erfolg-geschwister-li.3497130",
-          "summary": "Zweitgeborene haben schlechtere Bildungsabschlüsse und verdienen weniger als ihre älteren Geschwister. Lange dachte man, das liege daran, dass sich Eltern um sie nicht so viel kümmern. Doch jetzt gibt es eine neue, überraschende Erklärung.",
+          "title": "Schnellzüge durch Bayern: Das würden die Italo-Pläne für den Nahverkehr in Bayern bedeuten",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-italo-nahverkehr-folgen-verdraengung-li.3500430",
+          "summary": "Die Italiener wollen von München aus mit Schnellzügen nach Berlin und Dortmund fahren. Nun zeigt eine Untersuchung: Die Auswirkungen auf den Regionalverkehr in Bayern wären erheblich.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/16/b421b2c1-dffa-4ad4-baa9-07a65c1f706b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=282%2C606%2C3005%2C1690"
+          "image": "https://www.sueddeutsche.de/2026/06/17/0b149d67-26df-4208-8d99-fba0c035c597.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Sommerfestival: Von David Duchovny bis Angelina Jolie: Das sind die Höhepunkte des Münchner Filmfests",
-          "url": "https://www.sueddeutsche.de/muenchen/filmfest-muenchen-2026-sandra-hueller-david-duchovny-kino-programm-tipps-li.3486633",
-          "summary": "Beim Filmfest wird München zur Kinometropole. Stars wie David Duchovny, Sandra Hüller, Toni Servillo und Pedro Almodóvar sind Ehrengäste, Neues gibt es auch von Angelina Jolie. Der große Überblick.",
+          "title": "WM-Kolumne: „Willkommen im Stadion mit dem [geschwärzten] Namen“",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-levi-s-stadium-name-fifa-kampagne-li.3500065",
+          "summary": "Wer nicht zahlt, der nicht wirbt – das schreibt die Fifa bei der WM vor. Doch ein berühmter Jeans-Hersteller macht sich das Verbot gerade zunutze.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/15/cbb6e2c6-3e0e-4600-938e-bae739aef232.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C133%2C1280%2C720"
+          "image": "https://www.sueddeutsche.de/2026/06/17/a2c352f5-ec34-4a0c-8d38-6687c36e7c8f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C446%2C3636%2C2045"
         },
         {
-          "title": "Sicherheit am Mount Everest: „Wenn ein Sherpa in Schwierigkeiten gerät, kann ich als Kunde nicht einfach weitergehen“",
-          "url": "https://www.sueddeutsche.de/panorama/mount-everest-hillary-dawa-sherpa-rettung-sicherheit-kritik-lukas-furtenbach-li.3499228",
-          "summary": "Seit ein verschollener Sherpa sich in der Todeszone selbst gerettet hat, ist eine Diskussion um die Sicherheit am Mount Everest entbrannt. Der Expeditionsanbieter Lukas Furtenbach geht hart mit so manchem Bergsteiger ins Gericht – und sagt, was sich ändern müsste.",
+          "title": "Russisches Kriegsschiff im Ärmelkanal: Auf den Schock erst mal einen Rosé",
+          "url": "https://www.sueddeutsche.de/politik/kriegsschiff-warnschuesse-yacht-aermelkanal-li.3500281",
+          "summary": "Das britische Rentnerpaar, das im Ärmelkanal von einem russischen Kriegsschiff bedroht wurde, setzt den Segelurlaub fort. Für Premierminister Keir Starmer aber ist die Angelegenheit keineswegs erledigt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/02/05/42e8df0f-2ba6-415f-9982-fc492b73fcaf.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C1425%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/06/17/7c609e14-78e1-4a55-b285-dfaa6311cf68.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         }
       ]
     }
