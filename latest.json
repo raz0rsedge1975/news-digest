@@ -1,17 +1,17 @@
 {
-  "generated": "2026-06-17T22:00:13.611Z",
-  "timestamp": "18.6.2026, 00:00:13",
+  "generated": "2026-06-18T02:00:10.538Z",
+  "timestamp": "18.6.2026, 04:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "US-Notenbank: Kevin Warsh liefert erste Überraschungen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/leitzins-unveraendert-neuer-fed-chef-kevin-warsh-startet-als-falke-200941093.html",
-          "summary": "Der neue Fed-Chef startet als Falke: Die US-Notenbank stellt den Kampf gegen die Inflation über Zinssenkungen. Zugleich kündigt Kevin Warsh grundlegende Reformen an.",
+          "title": "Liveblog Irankrieg: Bestätigung aus Iran und USA: Rahmenabkommen ist digital unterzeichnet und in Kraft",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-rahmenabkommen-ist-digital-unterzeichnet-und-in-kraft-faz-200583539.html",
+          "summary": "Iran sagt Gebührenfreiheit für Straße von Hormus nur für 60 Tage zu +++ US-Medien veröffentlichen offiziellen Text des Memorandums +++ Trump bedankt sich bei China und Russland: „Sehr neutral“ geblieben +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b8f767b32432/w5568h2909x0y111o/202606/43601.0.2230287079/der-neue-fed-chef-kevin-warsh.webp"
+          "image": "https://media0.faz.net/image/w1200h627/648beebc1912/w6000h3135x0y401o/202606/43601.0.2224716403/tanker-und-frachtschiffe-im.webp"
         },
         {
           "title": "Straße von Hormus: „Am meisten Angst haben wir vor den Amerikanern gehabt“",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/ad608744f10d/w6000h3135x0y741o/202606/43601.0.2205716954/schiffe-in-der-strasse-von.webp"
         },
         {
-          "title": "Liveblog Irankrieg: Iran sagt Gebührenfreiheit für Straße von Hormus nur für 60 Tage zu",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-strasse-von-hormus-nur-fuer-60-tage-gebuehrenfrei-faz-200583539.html",
-          "summary": "Amerikanische Medien veröffentlichen offiziellen Text des Memorandums +++ Trump über Xi und Putin: „Sie hätten es uns deutlich schwieriger machen können“ +++ Merz peilt Bundeswehr-Mandat vor Sommerpause an +++ alle Entwicklungen im Liveblog",
+          "title": "4:2 gegen Kroatien: Plötzlich entfachen Tuchels Engländer Euphorie",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-ploetzlich-entfachen-tuchels-englaender-euphorie-200815925.html",
+          "summary": "Fußball-WM 2026 England furios gegen Kroatien",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/648beebc1912/w6000h3135x0y401o/202606/43601.0.2224716403/tanker-und-frachtschiffe-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f59c2783b6c1/w2746h1434x0y178o/202606/43601.0.2230798885/jude-bellingham-mitte.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "WM 2026 Live: England gegen Kroatien im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-england-gegen-kroatien-im-liveticker-a-44ed90fe-02bb-464d-ab43-9fd642ab961b#ref=rss",
-          "summary": "In einem sehr attraktiven Spiel musste England lange um den Sieg gegen Kroatien zittern. Dann machte der eingewechselte Marcus Rashford das 4:2. Alles Wichtige zum Spiel im WM-Liveticker.",
+          "title": "Irankrieg: USA und Iran unterzeichnen 14-Punkte-Plan zur Waffenruhe",
+          "url": "https://www.spiegel.de/ausland/irankrieg-usa-und-iran-unterzeichnen-14-punkte-plan-zur-waffenruhe-a-d6e2ebd4-a156-4f75-87a9-1e91cb02f372#ref=rss",
+          "summary": "Der Irankrieg ist vorerst beendet. Teheran und Washington haben die zuletzt besprochene Einigung über ein Ende des Konflikts abgesegnet. Neben einer Waffenruhe vereinbarten beide Seiten, dass die Straße von Hormus wieder für die Schifffahrt geöffnet wird.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b1573107-5897-467e-9791-73ebbe276b0b_w1200_r1.778_fpx56.01_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8cf82cc0-b04f-4a97-85a7-7b0e6fff1a29_w1200_r1.778_fpx35.57_fpy50.jpg"
+        },
+        {
+          "title": "Fußball-WM 2026: England gegen Kroatien: Thomas Tuchels Team startet mit Feuerwerk",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-england-gegen-kroatien-thomas-tuchels-team-startet-mit-feuerwerk-a-0cead3e2-6e3f-4b71-841e-da1d9d4fa5f3#ref=rss",
+          "summary": "In einem begeisternden Match trotzt England zwei kroatischen Traumtoren. Torjäger Harry Kane holt Gary Lineker ein. Einen ersten Fluch haben die »Three Lions« überwunden, einen zweiten muss Thomas Tuchel erst noch besiegen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/318cc099-da49-44a4-82c6-bccaf3bd12c6_w1200_r1.778_fpx61.39_fpy50.jpg"
         },
         {
           "title": "Nationalsozialismus: »Die SS war der Motor für Hitlers Mordapparat«",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/60a3d349-9d90-44a3-8ea9-0c71537ab53f_w1200_r1.778_fpx62.23_fpy45.jpg"
-        },
-        {
-          "title": "Jeffrey Epstein: Das verraten seine Notizen aus dem Gefängnis",
-          "url": "https://www.spiegel.de/ausland/jeffrey-epstein-das-verraten-seine-notizen-aus-dem-gefaengnis-a-e31a9651-2218-4fb6-a3bf-048941855f6d#ref=rss",
-          "summary": "Wie kam Jeffrey Epstein zu Tode? Eine Recherche der »New York Times« gibt Einblick in seine letzten Wochen. Sie zeigt einen Mann, der über Donald Trump schimpft und mit den Haftbedingungen hadert.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/54bfbe79-7daf-4f87-ac17-f89d8982c587_w1200_r1.778_fpx51.55_fpy48.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Notenbank lässt Leitzins unverändert",
-          "url": "https://www.tagesschau.de/wirtschaft/fed-leitzins-154.html",
-          "summary": "Es ist die erste Zinsentscheidung unter dem neuen Fed-Chef Warsh: Der US-Leitzins bleibt unverändert und liegt weiter bei 3,5 bis 3,75 Prozent. Präsident Trump geht mit seinen Forderungen nach Zinssenkungen leer aus.",
+          "title": "Entscheidender Tag für Starmer: Schicksalswahl in Makersfield",
+          "url": "https://www.tagesschau.de/ausland/europa/wahlkampf-makerfield-100.html",
+          "summary": "Andy Burnham hat große Pläne - er will den angeschlagenen Premier Starmer herausfordern. Dafür muss Burnham heute aber zunächst die Nachwahl in Makerfield gewinnen. Denn nur mit einem Mandat kann er Starmer den Parteivorsitz streitig machen. Von Christoph Prössl.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ef6e9f50-7cc6-4d77-bd22-b297ac9722c0/AAABntbSeAM/AAABnSSvrFg/16x9-big/warsh-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d1cf743f-05a7-4f98-8c44-ed5a7f8379e4/AAABnteGJjM/AAABnSSvrFg/16x9-big/makerfield-100.jpg?width=1280"
         },
         {
-          "title": "Wie viel KI verträgt die deutsche Politik?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/ki-politik-reden-100.html",
-          "summary": "Künstliche Intelligenz ist auf dem Vormarsch - und macht auch vor der Politik nicht halt. Kaum ein Redenschreiber arbeitet ohne KI: Was bedeutet das für die Politik und für innovative Ideen? Von Frank Aischmann.",
+          "title": "USA und Iran haben Rahmenabkommen wohl bereits unterzeichnet",
+          "url": "https://www.tagesschau.de/ausland/vereinbarung-usa-iran-unterzeichnet-100.html",
+          "summary": "Die USA und Iran haben die Absichtserklärung für ein Ende des Konflikts unterzeichnet - früher als geplant. US-Präsident Trump unterschrieb am Abend im Schloss Versailles, der Iran digital. Nach Angaben Pakistans soll die Straße von Hormus nun wieder geöffnet werden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e7a3113d-bcae-4bb7-8839-09af59e2ac94/AAABntUuZ-o/AAABnSSvrFg/16x9-big/rednerpult-bundestag-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3a7c4e17-21b5-438d-b4af-5f6b8ee21b84/AAABnthAByg/AAABnSSvrFg/16x9-big/trump-5052.jpg?width=1280"
         },
         {
-          "title": "G7-Gipfel: Die Lage bleibt fragil",
-          "url": "https://www.tagesschau.de/kommentar/trump-g7-gipfel-100.html",
-          "summary": "Dass der G7-Gipfel zum Erfolg wurde, liegt vor allem an US-Präsident Trump, meint Julia Borutta. Das Treffen könnte die Wende gewesen sein - für die Ukraine und für das Verhältnis der Europäer zu den USA. Doch sicher ist nichts.",
+          "title": "Was in der Absichtserklärung zwischen den USA und Iran steht",
+          "url": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-iran-100.html",
+          "summary": "Die Absichtserklärung zwischen den USA und Iran ist unterzeichnet. Bereits vorab berichten einige Medien über mehrere Punkte, auf die sich die beiden Länder geeinigt haben sollen - bestätigt von einem US-Beamten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/24dc02b5-6a41-4866-bd26-916eae1e298e/AAABnta91QU/AAABnSSvrFg/16x9-big/trump-5050.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7e9171dc-37db-472d-872e-6ceff795cd6a/AAABnteh85A/AAABnSSvrFg/16x9-big/iran-teheran-142.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Fußball-WM: Kane überragt bei Englands Auftaktsieg",
+          "url": "https://www.sueddeutsche.de/sport/england-wm-kane-kroatien-ergebnis-li.3500748",
+          "summary": "Der Stürmer des FC Bayern erzielt zwei Tore und zieht in der ewigen englischen WM-Torschützenliste mit Gary Lineker gleich. Ein besonderes Lob verteilt Harry Kane an Trainer Thomas Tuchel.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/17/f77d53c8-c21f-4785-a0ff-fcda135aede5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C67%2C4000%2C2250"
+        },
+        {
           "title": "Bundespolitik: Wadephul unterstützt Entschädigung für polnische NS-Opfer",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-wadephul-polen-ns-regime-entschaedigung-li.3495864",
           "summary": "Aus der deutsch-polnischen Geschichte ergebe sich eine Verpflichtung gegenüber Menschen, die unter der deutschen Besatzung gelitten haben, betont der Außenminister.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/17/bc01a233-ceab-4f8a-a212-a1da0da60def.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=295%2C191%2C3636%2C2045"
-        },
-        {
-          "title": "Portugal patzt gegen Kongo: Schwacher Start von Ronaldo",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-portugal-ronaldo-kongo-houston-li.3500725",
-          "summary": "WM-Mitfavorit Portugal geht gegen die Demokratische Republik Kongo zwar früh in Führung – doch es reicht nur zum 1:1. Cristiano Ronaldo agiert unauffällig.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/17/715eef9c-a82e-4146-a59d-fb934ffd5ced.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C113%2C3000%2C1687"
         }
       ]
     }
