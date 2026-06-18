@@ -1,39 +1,47 @@
 {
-  "generated": "2026-06-18T18:00:15.448Z",
-  "timestamp": "18.6.2026, 20:00:15",
+  "generated": "2026-06-18T22:00:08.697Z",
+  "timestamp": "19.6.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Wochen- statt Tageslimit: Lässt Bas die Reform der Arbeitszeitregeln platzen?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/laesst-bas-die-reform-der-arbeitszeitregeln-platzen-200943011.html",
-          "summary": "Union und SPD planen flexiblere Arbeitszeitregeln – sagt der Koalitionsvertrag. Nun gibt es Ärger: Ein Entwurf aus dem Arbeitsministerium sieht strengere Vorgaben vor. Die Arbeitgeber sind entsetzt.",
+          "title": "Liveblog Ukrainekrieg: EU verhängt Russland-Sanktionen erstmals für zwölf Monate",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-verhaengt-russland-sanktionen-erstmals-fuer-zwoelf-monate-faz-110683325.html",
+          "summary": "Novum bei den Wirtschaftssanktionen gegen Russland +++ Hegseth kündigt Überprüfung der US-Truppenpräsenz in Europa an +++  Massiver Drohnenangriff auf Moskau +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f8d5ee557e27/w5455h2850x183y955o/202605/43601.0.2073412008/nah-an-den-gewerkschaften-am.webp"
+          "image": "https://media0.faz.net/image/w1200h627/6c985252ef35/w2749h1436x0y55o/202606/43601.0.2235040147/die-praesidentin-des.webp"
         },
         {
-          "title": "Der US-Deal mit Iran: Trump setzt seinem Scheitern die Krone auf",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-abkommen-mit-iran-trump-setzt-seinem-scheitern-die-krone-auf-200943555.html",
-          "summary": "Das Abkommen mit Iran liest sich wie ein Förderprogramm für das Regime in Teheran. Europa kann aus Trumps Debakel am Golf nur einen Schluss ziehen.",
+          "title": "Gipfel in Brüssel: EU-Chefs ringen um Antwort auf Chinas Exportoffensive",
+          "url": "https://www.faz.net/aktuell/wirtschaft/hat-die-eu-zu-viel-angst-vor-china-200944353.html",
+          "summary": "So wie bisher kann es im Verhältnis mit China nicht weitergehen – darin sind sich alle EU-Chefs einig. Über die richtige Medizin aber gibt es Streit.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/52ef707d8ab0/w1240h647x76y267o/202606/43601.0.2232169921/mittwochabend-auf-schloss.webp"
+          "image": "https://media0.faz.net/image/w1200h627/58e82900696e/w6000h3135x0y433o/202606/43601.0.2234495178/kommissionspraesidentin-von.webp"
         },
         {
-          "title": "Rahmenvereinbarung: Iran feiert sich als Sieger",
-          "url": "https://www.faz.net/aktuell/politik/ausland/iran-feiert-das-memorandum-als-beleg-fuer-amerikas-scheitern-200943454.html",
-          "summary": "Iran verkauft das Memorandum als Beleg für Amerikas Niederlage. In die weiteren Verhandlungen geht Teheran mit tiefem Misstrauen gegenüber Trump.",
+          "title": "Liveblog Irankrieg: Netanjahu schließt Truppenabzug aus Südlibanon aus",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-netanjahu-schliesst-truppenabzug-aus-suedlibanon-aus-faz-200583539.html",
+          "summary": "Rahmenabkommen verlangt israelischen Truppenabzug nicht explizit +++ US-Armee hebt Blockade iranischer Häfen auf +++  Vermittler Pakistan bestätigt: Abkommen zwischen USA und Iran in Kraft +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/773e6ef056b9/w3723h1945x5y74o/202606/43601.0.2232416418/screenshot-irans-praesident.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d69cd5cfd6f9/w5292h2765x0y106o/202606/43601.0.2221481137/benjamin-netanjahu.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "NSDAP-Archiv: Wie Sie die NS-Vergangenheit in Ihrer Familie ansprechen können",
+          "url": "https://www.spiegel.de/wissenschaft/mensch/nsdap-archiv-wie-sie-die-ns-vergangenheit-in-ihrer-familie-ansprechen-koennen-a-b80e58a5-62f3-4ee2-b387-211efdd75750#ref=rss",
+          "summary": "Ein überraschender Fund in der Nazi-Kartei? Hier sagt Psychiater Gereon Heuft, ob und wie man in der Familie darüber reden kann. Und weshalb das manchen Kriegskindern bis heute unmöglich ist.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/cf2e4757-97d0-48e1-a1a4-72e0d72ebc19_w1200_r1.778_fpx55_fpy56.jpg"
+        },
         {
           "title": "Omid Nouripour zum Iran-Krieg: »Die Amerikaner haben bedingungslos kapituliert«",
           "url": "https://www.spiegel.de/politik/deutschland/omid-nouripour-zum-iran-krieg-die-amerikaner-haben-bedingungslos-kapituliert-a-8804c84c-07e5-4d14-a467-94b5cd1e7716#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/ec41f626-0ef9-4f5b-b117-a397e6bb4817_w1200_r1.778_fpx45_fpy45.png"
         },
         {
-          "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
-          "url": "https://www.spiegel.de/geschichte/nsdap-archiv-finden-sie-heraus-was-ihre-familie-unter-hitler-getan-hat-a-4b37a614-a790-4798-92e2-be6a921da384#ref=rss",
-          "summary": "Der SPIEGEL hat Hunderttausende Einträge zu SS-Akten mit den Millionen Mitgliedskarten der NSDAP abgeglichen. Hier können Sie die aktualisierte Kartei durchsuchen und Hinweise finden auf mögliche Mitgliedschaften in SS oder Waffen-SS.",
+          "title": "Fußball-WM 2026: Johan Manzambi führt Schweiz zu 4:1 gegen Bosnien-Herzegowina",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-johan-manzambi-fuehrt-schweiz-zu-4-1-gegen-bosnien-herzegowina-a-188b8b2d-baaa-498a-9e69-43b8309490ab#ref=rss",
+          "summary": "Der Schweizer Kapitän Granit Xhaka hatte nach der Enttäuschung gegen Katar öffentlich die Charakterfrage gestellt. Die ist jetzt beantwortet. Der Sieg gegen Bosnien-Herzegowina ist vor allem den Jokern zu verdanken.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9b78b49c-d28e-4fae-a2d3-2027392eb74d_w1200_r1.778_fpx50_fpy50.jpg"
-        },
-        {
-          "title": "WM 2026 Live: Tschechien gegen Südafrika im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-tschechien-gegen-suedafrika-im-liveticker-a-92828e8f-25c1-4a7d-a33c-ee84802f16b3#ref=rss",
-          "summary": "Umstrittener Elfmeter in Atlanta, aber die Proteste nutzen nichts: Kurz vor Schluss trifft auch Südafrika in Atlanta. Und: Die Mutter von Kap Verdes Torhüter darf doch einreisen. Alles Wichtige zur WM.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7d4e6632-fae5-4115-bc79-adff37b2b258_w1200_r1.778_fpx58.2_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6a196247-0be4-43be-974c-232bb5cf10a3_w1200_r1.778_fpx48_fpy25.jpg"
         }
       ]
     },
@@ -93,6 +93,14 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Hitze-Falle Altbau: Warum Dämmen ohne Lüftungskonzept im Sommer versagt",
+          "url": "https://www.telepolis.de/article/Hitze-Falle-Altbau-Warum-Daemmen-ohne-Lueftungskonzept-im-Sommer-versagt-11337796.html",
+          "summary": "Forscher warnen: Wärmedämmung hält im Sommer die Hitze im Haus. Ohne automatisierte Lüftung drohen Überhitzung und Schimmel.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/2/2/2/shutterstock_2757226573-4dedcf9561275e1c.jpg"
+        },
+        {
           "title": "1.000-jährige Eiche: Englands bekanntester Baum ist tot",
           "url": "https://www.telepolis.de/article/1-000-jaehrige-Eiche-Englands-bekanntester-Baum-ist-tot-11336865.html",
           "summary": "Englands berühmteste Eiche, der Major Oak, ist tot. Klimawandel, Besucherdruck und gut gemeinte Eingriffe besiegelten das Schicksal des Robin-Hood-Baumes.",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/2/0/4/1/liegestuhl-2fi-nato-3-3744c8c008945fb3.jpg"
-        },
-        {
-          "title": "EU-Schulden: Warum auf jedem Deutschen 1.437 Euro verdeckte Lasten liegen",
-          "url": "https://www.telepolis.de/article/EU-Schulden-Warum-auf-jedem-Deutschen-1-437-Euro-verdeckte-Lasten-liegen-11336985.html",
-          "summary": "Das ZEW warnt vor einer \"fiskalischen Illusion\". Während Kanzler Merz neue Eurobonds ablehnt, bürgt Deutschland längst mit Milliarden.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/2/8/1/5/shutterstock_2628207821-66fa1604d64aeaf7.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Podcast „Und nun zur WM“: DFB-Elf gegen die Elfenbeinküste: Da kommt Arbeit auf Kimmich zu",
-          "url": "https://www.sueddeutsche.de/sport/podcast-wm-2026-deutsche-nationalmannschaft-kimmich-elfenbeinkueste-li.3499459",
-          "summary": "Der Auftaktsieg gegen Curaçao hat für gute Laune gesorgt – aber wo steht das deutsche Nationalteam wirklich? Auf wen kommt es jetzt an? Und was zeichnet die Elfenbeinküste fußballerisch aus?",
+          "title": "Fußball-WM: Ganz spät dreht die Schweiz auf",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-schweiz-bosnien-manzambi-li.3501359",
+          "summary": "Lange tut sich die Schweiz im zweiten WM-Spiel gegen Bosnien-Herzegowina schwer. Doch dann fallen die Tore.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/08/ea827773-778c-49b7-b242-347be1beb6cd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2560%2C1440"
+          "image": "https://www.sueddeutsche.de/2026/06/18/690500ca-7748-4dce-a1f7-c22e61aa27d7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Bayreuther Festspiele: „Es tut mir wirklich sehr leid!“",
-          "url": "https://www.sueddeutsche.de/kultur/bayreuth-festspiele-michel-friedman-findet-doch-statt-li.3501248",
-          "summary": "Kehrtwende in Bayreuth: Festspielleiterin Katharina Wagner entschuldigt sich bei Michel Friedman und lädt ihn ein, zu den Festspielen zu kommen. Das abgesagte Gedenkkonzert soll wie geplant stattfinden – ein paar Details sind aber noch zu klären.",
+          "title": "Deutsche Nationalmannschaft: Manuel Neuers großartiger Trick",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-manuel-neuer-li.3501285",
+          "summary": "Die letzten Turniere? Seine Wade? Alles kein Thema für den deutschen Torhüter. Manuel Neuer ist im WM-Tunnel angelangt – und lässt die Zweifel draußen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/18/fd284999-1984-4b9c-b571-a4b05a433dd4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1920%2C1080"
+          "image": "https://www.sueddeutsche.de/2026/06/18/6a7ac2ad-6bb3-4fff-96e9-005478a440ab.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C244%2C4000%2C2250"
         },
         {
-          "title": "Serie: Macht, Medien und Männerfreundschaft",
-          "url": "https://www.sueddeutsche.de/medien/the-hack-medienskandal-journalismus-grossbritannien-li.3498886",
-          "summary": "In „The Hack“ auf Arte geht es um den britischen Abhörskandal. Allerdings paart die Serie Presse-Ethik mit einem True-Crime-Fall. Und das ist zu viel.",
+          "title": "Krieg in Nahost: US-Vizepräsident Vance warnt Israel vor Kritik an Iran-Abkommen",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-vance-israel-kritik-abkommen-li.3500746",
+          "summary": "Er würde an Israels Stelle „vielleicht nicht den einzigen mächtigen Verbündeten angreifen, den ich auf der ganzen Welt noch habe“, sagt Vance. Israels Premier Netanjahu will Israels Truppen nicht aus Südlibanon abziehen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/17/3f03a673-f729-4757-a874-2fe63261ae12.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/18/0123b8df-c11b-4141-9cf0-0582532b5485.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
