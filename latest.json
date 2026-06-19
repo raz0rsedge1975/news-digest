@@ -1,10 +1,18 @@
 {
-  "generated": "2026-06-19T18:00:12.789Z",
-  "timestamp": "19.6.2026, 20:00:12",
+  "generated": "2026-06-19T22:00:14.713Z",
+  "timestamp": "20.6.2026, 00:00:14",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Pauline Hanson: Sie machte den Rechtspopulismus in Australien mehrheitsfähig",
+          "url": "https://www.faz.net/aktuell/politik/ausland/pauline-hanson-sie-machte-rechtspopulismus-in-australien-mehrheitsfaehig-200923530.html",
+          "summary": "Die Politikerin Pauline Hanson verkaufte früher Fish-and-Chips. Jetzt führt sie die Umfragen an und könnte die nächste Ministerpräsidentin werden. Wer ist sie?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/663c9118e91f/w6144h3210x0y763o/202606/4a84bbf2-640d-11f1-a722-bd763fdb1624/hanson-2025-in-burka-im-senat.webp"
+        },
         {
           "title": "Trump und Netanjahu: Trumps Geduld mit Israel ist am Ende",
           "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/der-iran-deal-entzweit-amerika-und-israel-200947344.html",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/67456e935d9b/w3000h1567x0y308o/202606/43601.0.2237001106/die-chefunterhaendlerin-der-eu.webp"
-        },
-        {
-          "title": "Liveblog Irankrieg: USA verkünden Waffenruhe zwischen Israel und Hizbullah",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-verkuenden-waffenruhe-zwischen-israel-und-hizbullah-faz-200583539.html",
-          "summary": "Vereinbarung soll seit 15 Uhr deutscher Zeit gelten +++ Libanon: Mindestens 18 Tote bei israelischen Angriffen +++ Frankreich fordert Ende israelischer Angriffe in Libanon +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/297c061a76ca/w3463h1809x0y135o/202606/43601.0.2237471563/der-israelische.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Fußball-WM 2026: USA stehen nach 2:0 gegen Australien in der nächsten Runde",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-usa-stehen-nach-2-0-gegen-australien-in-der-naechsten-runde-a-c8fd7385-bfe3-4b04-a349-582577694ca0#ref=rss",
+          "summary": "Für die Gastgeber wird die Fußball-WM zum Sommermärchen. Nach zwei Spielen stehen die Amerikaner bereits in der nächsten Runde – obwohl gegen Australien der große Hoffnungsträger ausfiel.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/be3439d8-42a9-487d-880c-941f5acd546a_w1200_r1.778_fpx50_fpy39.jpg"
+        },
+        {
+          "title": "Nato-Gipfel in der Türkei: Recep Tayyip Erdoğan, der unbequeme Gastgeber",
+          "url": "https://www.spiegel.de/ausland/nato-gipfel-in-der-tuerkei-recep-tayyip-erdogan-der-unbequeme-gastgeber-a-90ef3f4e-3e8e-4743-8d20-bff7c2d9fb98#ref=rss",
+          "summary": "Im eigenen Land wickelt Präsident Recep Tayyip Erdoğan die Demokratie ab, in der Weltpolitik aber ist er bedeutend wie nie. Vor dem Nato-Gipfel in Ankara muss sich der Westen fragen: wie umgehen mit diesem Autokraten?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/9c6b3ed1-7aad-48da-b292-430880df1141_w1200_r1.778_fpx27_fpy46.jpg"
+        },
+        {
           "title": "Großbritannien: Andy Burnham und Keir Starmer - Der Premier und sein Rivale",
           "url": "https://www.spiegel.de/ausland/grossbritannien-andy-burnham-und-keir-starmer-der-premier-und-sein-rivale-a-b99b9ca5-fc34-4a41-9444-02639059c727#ref=rss",
           "summary": "Dank seines Siegs im nordenglischen Makerfield sitzt Andy Burnham nun im Unterhaus und kann Keir Starmer herausfordern. Was jetzt passieren kann – die drei Szenarien.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/b45f304d-06f7-4735-b557-6dad0745397b_w1200_r1.778_fpx42_fpy49.jpg"
-        },
-        {
-          "title": "Deniz Undav bei der Fußball-WM 2026: Der »Scheißegal, ich mach das schon«-Fußballer",
-          "url": "https://www.spiegel.de/sport/fussball/deniz-undav-bei-der-fussball-wm-2026-der-scheissegal-ich-mach-das-schon-fussballer-a-68d67c4f-8e6e-48eb-a53a-ad6089915211#ref=rss",
-          "summary": "Er ist nicht schnell, kein Modellathlet und kam erst spät im Spitzenfußball an: Trotzdem hat sich Deniz Undav zu einem WM-Torjäger entwickelt. Zwei Wegbegleiter berichten, wie er das geschafft hat.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e18586ed-ef69-42ad-8ea4-03ea97e0f0d2_w1200_r1.778_fpx33.34_fpy50.jpg"
-        },
-        {
-          "title": "News des Tages: Bonner Nordbrücke, AfD-Mitglieder horten Waffen, Trinkpausen beim Fußball",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-bonner-nordbruecke-afd-mitglieder-horten-waffen-trinkpausen-beim-fussball-a-a9b8e10a-8a80-4c74-8289-393915c21587#ref=rss",
-          "summary": "In Bonn muss eine Autobahnbrücke neu gebaut werden. In vielen deutschen Bundesländern horten AfD-Mitglieder Waffen. Und bei der Fußball-WM helfen die Trinkpausen nicht nur gegen Hitze, sondern auch der Macht der Trainer. Das ist die Lage am Freitagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Hitzewelle mit bis zu 38,5 Grad in Deutschland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/wetter-hitze-deutschland-100.html",
+          "summary": "Es war kein neuer Rekord - aber der Freitag war überall in Deutschland sehr heiß. Der wärmste Ort lag im Norden Bayerns, gefolgt von einem in Rheinland-Pfalz. Am Abend gab es vielerorts heftige Gewitter.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/6d9d4f96-f146-4b02-ac4c-1f2cb000bc19/AAABnuGHcmA/AAABnSSvrFg/16x9-big/hitze-426.jpg?width=1280"
+        },
+        {
+          "title": "EU-Gipfel: Ein gemeinsamer Nenner - und viel Uneinigkeit",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-abschluss-100.html",
+          "summary": "Zwei Tage hat man sich Zeit genommen für den EU-Gipfel - und viele Themen. In Sachen Ukraine gelangen schnelle Beschlüsse. Doch da hörte die Einstimmigkeit auf. Und es gab Ärger über den Ratspräsidenten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/71d09094-7565-4f59-8c24-9e7f40d51a07/AAABnuEVt5Y/AAABnSSvrFg/16x9-big/eu-gipfel-antonio-costa-emmanuel-macron-100.jpg?width=1280"
+        },
+        {
           "title": "In Syrien festgehaltene deutsche Journalistin Michelmann frei",
           "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-koelner-journalistin-in-syrien-festgehaltene-eva-maria-michelmann-ist-frei-100.html",
           "summary": "Die mehrere Monate in Syrien inhaftierte Kölner Journalistin Michelmann ist frei und inzwischen in Deutschland gelandet. Sie hatte jahrelang für kurdische Medien aus Nordsyrien berichtet. Von Alexa Schulz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8c3a9eef-222a-4964-a073-d898e3d084d9/AAABnuDuoCE/AAABnSSvrFg/16x9-big/wdr-ein-foto-von-eva-michelmann-vor-ihrer-festnahme-100.jpg?width=1280"
-        },
-        {
-          "title": "Innenminister wollen mehr Zivilschutz bis 2029",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/innenministerkonferenz-hamburg-schutz-der-zivilbevoelkerung-krisenvorsorge-100.html",
-          "summary": "Wie lässt sich die Bevölkerung im Falle von Naturkatastrophen oder Angriffen auf die kritische Infrastruktur besser schützen? Das war einer der Schwerpunkte der Innenministerkonferenz. Einig waren sich alle: Deutschland muss hier besser werden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cfff5e87-36f7-4a50-b5ee-7256367b4187/AAABnuAXMUg/AAABnSSvrFg/16x9-big/dobrindt-grote-pistorius-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX rutscht knapp unter 25.000 Punkte",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-134.html",
-          "summary": "Der DAX hat am Freitag die Marke von 25. 000 Punkten verteidigt, kurz vor Schluss kann er sie nicht halten. Der Ölpreis steigt wieder leicht, da die Lage am Persischen Golf weiter unsicher ist.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/19ab4768-3477-4100-bcab-e52e5d20ae7c/AAABmfFZNHI/AAABnSSvrFg/16x9-big/boerse-450.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8c3a9eef-222a-4964-a073-d898e3d084d9/AAABnuElsAQ/AAABnSSvrFg/16x9-big/wdr-ein-foto-von-eva-michelmann-vor-ihrer-festnahme-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Streit um KI-Texte: Warum das Feuilleton die falschen Fronten aufbaut",
+          "url": "https://www.telepolis.de/article/Streit-um-KI-Texte-Warum-das-Feuilleton-die-falschen-Fronten-aufbaut-11339237.html",
+          "summary": "Die Debatte um KI-generierte Texte ist oft fehlgeleitet. Nicht die Maschine ist das Problem, sondern der Mangel an menschlicher Qualitätskontrolle. Leitartikel.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/9/5/9/shutterstock_2676962401-221d25d81571ee59.jpg"
+        },
         {
           "title": "Abnehmmedikamente: Studie sieht Zusammenhang mit Impulskontrolle",
           "url": "https://www.telepolis.de/article/Abnehmmedikamente-Studie-sieht-Zusammenhang-mit-Impulskontrolle-11338178.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/6/8/5/shutterstock_2443626343-8b2936253a6b1adb.jpg"
-        },
-        {
-          "title": "LSG Bayern urteilt: Krankenkassen dürfen eGK bei Schulden nicht einziehen",
-          "url": "https://www.telepolis.de/article/LSG-Bayern-urteilt-Krankenkassen-duerfen-eGK-bei-Schulden-nicht-einziehen-11338518.html",
-          "summary": "Das Bayerische Landessozialgericht stoppt die Praxis der Kassen. Der Entzug der Gesundheitskarte bei Beitragsrückstand ist laut Urteil illegal.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/5/8/6/eGK21_blue-9bfd7cfdffbe065a.jpg"
         }
       ]
     },
@@ -122,12 +122,20 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Einzug der USA in nächste Runde: Sie glauben dran, WM-Favorit zu sein",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-usa-australien-li.3501358",
+          "summary": "Die Identität, die Trainer Pochettino der US-Elf verpasst hat, funktioniert auch beim 2:0 gegen Australien: aggressive Zweikämpfe, scharfe Hereingaben, ab 20 Metern vorm Tor: Schuss! Das reicht, um Schwächen zu verbergen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/19/c90e2d1c-d642-4a4e-8738-56e39e0e0b6d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C124%2C4000%2C2250"
+        },
+        {
           "title": "Philosophie: Und jetzt weitermachen in seinem Sinn",
           "url": "https://www.sueddeutsche.de/kultur/habermas-trauerfeier-frankfurter-paulskirche-steinmeier-li.3496289",
           "summary": "In der Frankfurter Paulskirche nehmen Wegbegleiter, Intellektuelle und Politiker Abschied von Jürgen Habermas. Keine Soldaten, keine Geistlichen, dafür viele gute Reden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/19/22769781-2e0b-4541-8c4e-da5422ddadc7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C223%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/19/22769781-2e0b-4541-8c4e-da5422ddadc7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
           "title": "Versammlung bei 1860 München: „Der Befreiungskampf befindet sich in der entscheidenden Phase“",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2022/08/05/64ccdfd6-69cf-4e11-8de8-6de1e9ab92d9.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=97%2C186%2C1250%2C703"
-        },
-        {
-          "title": "Krieg in Nahost: Neue Waffenruhe zwischen Israel und Hisbollah offenbar wieder brüchig",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-hisbollah-usa-waffenruhe-li.3500746",
-          "summary": "Die Schiitenmiliz und Tel Aviv haben sich zwar nach US-Angaben auf eine Feuerpause geeinigt, doch laut libanesischen Sicherheitskreisen kam es in den ersten 45 Minuten bereits zu zwölf israelischen Angriffen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/19/90c052ac-7e69-4dc5-b0db-3b3068d8a23b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         }
       ]
     }
