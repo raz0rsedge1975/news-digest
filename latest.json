@@ -1,39 +1,47 @@
 {
-  "generated": "2026-06-19T02:00:08.590Z",
-  "timestamp": "19.6.2026, 04:00:08",
+  "generated": "2026-06-19T06:00:13.575Z",
+  "timestamp": "19.6.2026, 08:00:13",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog Ukrainekrieg: EU verhängt Russland-Sanktionen erstmals für zwölf Monate",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-verhaengt-russland-sanktionen-erstmals-fuer-zwoelf-monate-faz-110683325.html",
-          "summary": "Novum bei den Wirtschaftssanktionen gegen Russland +++ Hegseth kündigt Überprüfung der US-Truppenpräsenz in Europa an +++  Massiver Drohnenangriff auf Moskau +++ alle Neuigkeiten im Liveblog",
+          "title": "Liveblog Ukrainekrieg: Ärger bei EU-Gipfel um Russland-Initiative Costas",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-aerger-bei-eu-gipfel-um-russland-initiative-costas-faz-110683325.html",
+          "summary": "Eine unabgesprochene Kontaktaufnahme zu Russland durch EU-Ratspräsident António Costa überschattet das Treffen +++ EU verhängt Russland-Sanktionen erstmals für zwölf Monate +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6c985252ef35/w2749h1436x0y55o/202606/43601.0.2235040147/die-praesidentin-des.webp"
+          "image": "https://media0.faz.net/image/w1200h627/47120c63d1fb/w5000h2612x260y954o/202606/43601.0.2233885007/sorgt-mit-seinem-vorpreschen.webp"
         },
         {
           "title": "Gipfel in Brüssel: EU-Chefs ringen um Antwort auf Chinas Exportoffensive",
           "url": "https://www.faz.net/aktuell/wirtschaft/hat-die-eu-zu-viel-angst-vor-china-200944353.html",
-          "summary": "So wie bisher kann es im Verhältnis mit China nicht weitergehen – darin sind sich alle EU-Chefs einig. Über die richtige Medizin aber gibt es Streit.",
+          "summary": "Das Verhältnis mit China ist nicht nachhaltig – darin sind sich die EU-Chefs einig. Am Ende steht dennoch nur ein vorsichtiger Arbeitsauftrag an die Kommission.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/58e82900696e/w6000h3135x0y433o/202606/43601.0.2234495178/kommissionspraesidentin-von.webp"
         },
         {
-          "title": "Liveblog Irankrieg: Netanjahu schließt Truppenabzug aus Südlibanon aus",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-netanjahu-schliesst-truppenabzug-aus-suedlibanon-aus-faz-200583539.html",
-          "summary": "Rahmenabkommen verlangt israelischen Truppenabzug nicht explizit +++ US-Armee hebt Blockade iranischer Häfen auf +++  Vermittler Pakistan bestätigt: Abkommen zwischen USA und Iran in Kraft +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: Schweiz: Gespräche zwischen USA und Iran abgesagt",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-tanker-passieren-strasse-von-hormus-faz-200583539.html",
+          "summary": "Tanker passieren Straße von Hormus – USA heben Blockade iranischer Häfen auf +++ Gefechte zwischen Hizbullah und Israel +++ Netanjahu schließt Truppenabzug aus Südlibanon aus +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d69cd5cfd6f9/w5292h2765x0y106o/202606/43601.0.2221481137/benjamin-netanjahu.webp"
+          "image": "https://media0.faz.net/image/w1200h627/bc9050be4393/w5000h2612x0y360o/202606/43601.0.2224799186/buergenstock-ueber-dem.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "China-Politik auf dem EU-Gipfel: Merz und Kollegen tasten sich an härtere Linie heran",
+          "url": "https://www.spiegel.de/politik/china-politik-auf-dem-eu-gipfel-merz-und-kollegen-tasten-sich-an-haertere-linie-heran-a-9b3f070e-bcc5-4f00-b7d2-7cba1667b9fa#ref=rss",
+          "summary": "China flutet den Weltmarkt mit Autos, Paketen und Maschinen. Nun will die EU mit einer neuen Handelspolitik antworten, um die hiesige Industrie zu schützen. Kanzler Merz äußert sich dazu nur vorsichtig.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/d60e45d5-a11e-441a-9631-3104940a6fc9_w1200_r1.778_fpx53_fpy35.jpg"
+        },
         {
           "title": "USA und Iran: Republikaner kritisieren Donald Trumps Milliarden-Fonds in Abkommen",
           "url": "https://www.spiegel.de/ausland/usa-und-iran-republikaner-kritisieren-donald-trumps-milliarden-fonds-in-abkommen-a-dcb0243a-88f7-4b13-a405-1849b8ccda55#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/c865ef26-1d30-40d1-ac31-31dd6ea603ee_w1200_r1.778_fpx56_fpy62.jpg"
         },
         {
-          "title": "NSDAP-Archiv: Wie Sie die NS-Vergangenheit in Ihrer Familie ansprechen können",
-          "url": "https://www.spiegel.de/wissenschaft/mensch/nsdap-archiv-wie-sie-die-ns-vergangenheit-in-ihrer-familie-ansprechen-koennen-a-b80e58a5-62f3-4ee2-b387-211efdd75750#ref=rss",
-          "summary": "Ein überraschender Fund in der Nazi-Kartei? Hier sagt Psychiater Gereon Heuft, ob und wie man in der Familie darüber reden kann. Und weshalb das manchen Kriegskindern bis heute unmöglich ist.",
+          "title": "News: JD Vance, Donald Trump, Michael Kretschmer, Innenministerkonferenz, Bärbel Bas",
+          "url": "https://www.spiegel.de/politik/deutschland/news-jd-vance-donald-trump-michael-kretschmer-innenministerkonferenz-baerbel-bas-a-b8dfd389-43ae-4c5a-bf31-dc2eb0efe858#ref=rss",
+          "summary": "US-Vizepräsident JD Vance droht Kritikern in Israel. Sachsens Ministerpräsident Michael Kretschmer sieht die Brandmauer brennen. Und die Innenminister wollen im Fall eines AfD-Wahlsiegs gerüstet sein. Das ist die Lage am Freitagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cf2e4757-97d0-48e1-a1a4-72e0d72ebc19_w1200_r1.778_fpx55_fpy56.jpg"
-        },
-        {
-          "title": "Ukraine-Krieg: EU verlängert Russland-Sanktionen erstmals um zwölf Monate",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-eu-verlaengert-russland-sanktionen-erstmals-um-zwoelf-monate-a-a88b3c92-6692-41be-b02d-c4d030fe1504#ref=rss",
-          "summary": "Der Regierungswechsel in Ungarn macht sich auch in Brüssel bemerkbar: Auf dem EU-Gipfel wurden die Wirtschaftssanktionen gegen Moskau ausgedehnt, alle 27 Mitgliedstaaten stimmten der Erklärung zu.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/513c4389-882b-4e1c-a58d-0396e1cf9258_w1200_r1.778_fpx61.29_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Klimakonferenz in Bonn: Zwischen Visionen und Widerständen",
-          "url": "https://www.tagesschau.de/wissen/klimakonferenz-bonn-118.html",
-          "summary": "Zehn Tage lang haben mehr als 5. 000 Delegierte in Bonn die nächste Weltklimakonferenz im November vorbereitet. Dabei gab es Fortschritte, aber auch Widerstände. So ist von \"schwerwiegenden\" Angriffen auf die Wissenschaft die Rede.",
+          "title": "Gespräche zwischen Iran und USA über Friedensabkommen verschoben",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-verhandlungen-100.html",
+          "summary": "Schon heute sollten die Gespräche zwischen den USA und Iran über ein finales Friedensabkommen beginnen. Doch der Verhandlungstisch in der Schweiz bleibt vorerst leer, die Anreise von US-Vizepräsident Vance wurde abgesagt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c568c2dc-50a6-4af7-8317-bae856b9c69d/AAABntxMiqo/AAABnSSvrFg/16x9-big/bonn-136.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fb162801-0348-49fc-a122-a807e333477c/AAABnt5v7tQ/AAABnSSvrFg/16x9-big/usa-vance-100.jpg?width=1280"
         },
         {
-          "title": "EU verlängert Russland-Sanktionen um zwölf Monate",
-          "url": "https://www.tagesschau.de/ausland/eu-sanktionen-russland-206.html",
-          "summary": "Bislang mussten die EU-Sanktionen gegen Russland alle sechs Monate einstimmig verlängert werden - nun aber haben die Staats- und Regierungschefs diesen Zeitraum auf zwölf Monate ausgedehnt. Möglich wurde das durch den Regierungswechsel in Ungarn.",
+          "title": "10. Todestag Götz George: \"Schimanski\" prägt das deutsche Fernsehen bis heute",
+          "url": "https://www.tagesschau.de/kultur/schimanski-praegt-deutsche-fernsehen-bis-heute,goetz-george-142.html",
+          "summary": "Er fluchte, trank, prügelte - und wurde zur Kultfigur: Götz George sprengte als Horst Schimanski alle Konventionen des braven TV-Kommissars und schenkte dem Ruhrgebiet neues Selbstbewusstsein. Vor zehn Jahren starb er. Von S. Fritz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/41414fd2-1a61-48e8-b465-e1c6580cd815/AAABnty0Blg/AAABnSSvrFg/16x9-big/eu-gipfel-656.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3d5b2217-10bb-443f-a89e-a3793c1b396c/AAABntXWC38/AAABnSSvrFg/16x9-big/george-174.jpg?width=1280"
         },
         {
-          "title": "In den USA überwiegen nach Rahmenabkommen Skepsis und Kritik",
-          "url": "https://www.tagesschau.de/ausland/usa-iran-reax-104.html",
-          "summary": "\"Milliarden für nichts\": In den USA stößt das Rahmenabkommen mit Iran nicht nur bei den Demokraten auf Skepsis. Kritiker sehen Iran klar als Profiteur - am Ende stehe das Land sogar besser da als vor dem Krieg. Von Nina Barth.",
+          "title": "Was der Einstieg von Italo ins deutsche Bahngeschäft bringen könnte",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/einstieg-italo-deutsche-bahn-100.html",
+          "summary": "Das deutsche Zugangebot könnte bald aufgemischt werden. Das italienische Unternehmen Italo will in den Fernverkehr einsteigen. Wie realistisch ist das? Und was heißt das für Bahnkunden? Von Jan Zimmermann.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b89310c1-8a1a-4027-b50f-2ad66cc5ea0e/AAABntuXopg/AAABnSSvrFg/16x9-big/trump-5056.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/005e3778-9f88-4c37-8ee2-8c316f5aa8cc/AAABntrsveY/AAABnSSvrFg/16x9-big/italo-zug-104.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Super-El-Niño im Pazifik: NASA-Satelliten zeigen bedrohliche Erwärmung",
+          "url": "https://www.telepolis.de/article/Super-El-Nino-im-Pazifik-NASA-Satelliten-zeigen-bedrohliche-Erwaermung-11337900.html",
+          "summary": "Neue NASA-Daten zeigen eine bedrohliche Erwärmung im Pazifik. Experten befürchten durch den El Niño nun schwere Ernteausfälle bei Kakao und Kaffee.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/2/7/4/shutterstock_344023856-4487893f91fb115a.jpg"
+        },
+        {
+          "title": "China entwickelt Strategie gegen Träger aus 3.000 Kilometern Distanz",
+          "url": "https://www.telepolis.de/article/Chinas-entwickelt-Strategie-gegen-Traeger-aus-3-000-Kilometern-Distanz-11336381.html",
+          "summary": "Chinesische Militärforscher haben eine Strategie entwickelt, um US-Trägerkampfgruppen aus großer Entfernung zu zerstören. Ob sie funktioniert, ist umstritten.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/2/5/0/4/shutterstock_1395748316-c19b6cb7171ebd04.jpg"
+        },
+        {
           "title": "Hitze-Falle Altbau: Warum Dämmen ohne Lüftungskonzept im Sommer versagt",
           "url": "https://www.telepolis.de/article/Hitze-Falle-Altbau-Warum-Daemmen-ohne-Lueftungskonzept-im-Sommer-versagt-11337796.html",
           "summary": "Forscher warnen: Wärmedämmung hält im Sommer die Hitze im Haus. Ohne automatisierte Lüftung drohen Überhitzung und Schimmel.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/2/2/2/shutterstock_2757226573-4dedcf9561275e1c.jpg"
-        },
-        {
-          "title": "1.000-jährige Eiche: Englands bekanntester Baum ist tot",
-          "url": "https://www.telepolis.de/article/1-000-jaehrige-Eiche-Englands-bekanntester-Baum-ist-tot-11336865.html",
-          "summary": "Englands berühmteste Eiche, der Major Oak, ist tot. Klimawandel, Besucherdruck und gut gemeinte Eingriffe besiegelten das Schicksal des Robin-Hood-Baumes.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/2/7/5/5/Major_Oak_in_Sherwood_Forest_in_2006-7d4a5bbc3836b193.jpg"
-        },
-        {
-          "title": "Nato-General Grynkewich bestätigt US-Abzug und plant den Ernstfall",
-          "url": "https://www.telepolis.de/article/Nato-General-Grynkewich-bestaetigt-US-Abzug-und-plant-den-Ernstfall-11335455.html",
-          "summary": "Weil die USA Truppen und Jets abziehen, muss der oberste Nato-Befehlshaber Grynkewich Notfallpläne für Europa mit weniger US-Mitteln entwickeln.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/2/0/4/1/liegestuhl-2fi-nato-3-3744c8c008945fb3.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fußball-WM: Schlimme Verletzung überschattet Kanadas 6:0 gegen Katar",
-          "url": "https://www.sueddeutsche.de/sport/kanada-katar-verletzung-kone-rot-li.3501376",
-          "summary": "Kanada besiegt Katar deutlich, der WM-Gastgeber von 2022 beendet das Spiel nur mit neun Mann. Assim Madibo sieht Rot, weil er Ismael Koné offenbar das Bein bricht.",
+          "title": "Krieg in Nahost: Vance sagt Reise in die Schweiz ab",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-vance-schweiz-reise-abkommen-li.3500746",
+          "summary": "Eigentlich war vorgesehen, dass sich Delegationen aus Iran und den USA an diesem Freitag treffen, um über ein dauerhaftes Ende des Krieges zu verhandeln. Dem US-Vizepräsidenten zufolge finden die Verhandlungen statt, einen Zeitpunkt nennt er aber nicht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/18/42985adc-c22f-4ad0-baf0-81814d54bbbb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C415%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/18/0123b8df-c11b-4141-9cf0-0582532b5485.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Fußball-WM: Mit Manzambi und Vargas kommt der Schwung: Schweiz gewinnt 4:1",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-schweiz-bosnien-manzambi-li.3501359",
-          "summary": "Lange tut sich die Schweiz im zweiten WM-Spiel gegen Bosnien-Herzegowina schwer. Doch dann fallen die Tore.",
+          "title": "„Maybrit Illner“: „Das ist die strategische Niederlage der USA auf ganzer Linie“",
+          "url": "https://www.sueddeutsche.de/medien/zdf-maybrit-illner-talk-iran-tv-kritik-li.3501019",
+          "summary": "Norbert Röttgen bleibt Fan der großen Worte. Ein politischer Korrespondent greift stattdessen zu Fußballmetaphern, um die Absichtserklärung zwischen den USA und Iran zu beschreiben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/18/690500ca-7748-4dce-a1f7-c22e61aa27d7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/19/12ddc7c3-58cf-4aa8-a005-48186e52417d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1228%2C304%2C2484%2C1397"
         },
         {
-          "title": "Deutsche Nationalmannschaft: Manuel Neuers großartiger Trick",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-manuel-neuer-li.3501285",
-          "summary": "Die letzten Turniere? Seine Wade? Alles kein Thema für den deutschen Torhüter. Manuel Neuer ist im WM-Tunnel angelangt – und lässt die Zweifel draußen.",
+          "title": "6:0 gegen Katar: Konés schlimme Verletzung überschattet Kanadas historischen Tag",
+          "url": "https://www.sueddeutsche.de/sport/kanada-katar-rot-verletzung-kone-wm-2026-li.3499504",
+          "summary": "Es ist der erste WM-Sieg Kanadas überhaupt und dann gleich so einer: Mit 6:0 schlägt der WM-Mitgastgeber Katar. Doch ein schwerwiegendes Foul an Ismael Koné verhindert eine ausgelassene Party.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/18/6a7ac2ad-6bb3-4fff-96e9-005478a440ab.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C244%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/19/27d88db3-75a3-47f3-aec3-044deaf53017.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=184%2C517%2C3636%2C2045"
         }
       ]
     }
