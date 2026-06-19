@@ -1,39 +1,47 @@
 {
-  "generated": "2026-06-19T10:00:09.149Z",
-  "timestamp": "19.6.2026, 12:00:09",
+  "generated": "2026-06-19T14:00:08.758Z",
+  "timestamp": "19.6.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Mercedes, BMW & VW: Der Niedergang in China geht weiter",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-bmw-vw-in-der-krise-der-niedergang-in-china-geht-weiter-accg-200945930.html",
-          "summary": "Unter den zehn meistverkauften Modellen war in China zuletzt kein einziges reines Verbrennerauto mehr. Niemanden trifft das so hart wie die deutsche Autoindustrie. Vorbild könnten ausgerechnet die Japaner werden.",
+          "title": "Erfahrene Diplomaten: „Iranische Verhandler sind sehr belesen, sehr gebildet und knallhart“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/atomabkommen-diplomaten-schmid-und-lucas-berichten-ueber-verhandlungen-mit-iran-200946964.html",
+          "summary": "Helga Schmid und Hans-Dieter Lucas haben das Atomabkommen von 2015 verhandelt. Sie schauen mit Sorge auf die stockenden Gespräche zwischen Iran und den USA.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2f104788f0f7/w3491h1824x0y252o/202604/43601.0.2013993140/der-messestand-von-vw-auf-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/67456e935d9b/w3000h1567x0y308o/202606/43601.0.2237001106/die-chefunterhaendlerin-der-eu.webp"
         },
         {
-          "title": "Klimafreundliche Verkehrspolitik: Die Politik für das E-Auto war ein teurer Flop",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/die-politik-fuer-das-e-auto-war-ein-teurer-flop-200886996.html",
-          "summary": "Die Politik hat nicht genügend Voraussetzungen für das E-Auto geschaffen. So entstanden Milliardenverluste, Arbeitsplätze gehen verloren. Doch die Regulierer wollen weitermachen wie bisher.",
+          "title": "Liveblog Irankrieg: USA verkünden Waffenruhe zwischen Israel und Hizbullah",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-verkuenden-waffenruhe-zwischen-israel-und-hizbullah-faz-200583539.html",
+          "summary": "Vereinbarung soll seit 15 Uhr deutscher Zeit gelten +++ Libanon: Mindestens 18 Tote bei israelischen Angriffen +++ Frankreich fordert Ende israelischer Angriffe in Libanon +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/588e4ad5a62c/w4277h2234x886y129o/202409/43601.0.593931517/noch-gibt-es-zu-wenige.webp"
+          "image": "https://media0.faz.net/image/w1200h627/297c061a76ca/w3463h1809x0y135o/202606/43601.0.2237471563/der-israelische.webp"
         },
         {
-          "title": "Vinfast: Ein Autohersteller aus Vietnam verliert Milliarden – und macht trotzdem immer weiter",
-          "url": "https://www.faz.net/aktuell/wirtschaft/vinfast-automobilhersteller-aus-vietnam-schreibt-milliardenverluste-accg-200942533.html",
-          "summary": "Vinfast aus Vietnam sollte zum Weltauto werden. Doch der Autohersteller verkauft fast nur in seiner Heimat und verliert Jahr für Jahr Milliarden. Ist das Ende nah?",
+          "title": "Trumps Abkommen mit Iran: Nahe am Albtraumszenario",
+          "url": "https://www.faz.net/aktuell/politik/ausland/fuer-israel-ist-trumps-iran-deal-nahe-am-albtraum-200947568.html",
+          "summary": "Israel ist der Verlierer von Trumps „Deal“ mit dem alt-neuen Regime in Iran. Auch am Golf werden die Folgen erheblich sein.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/62e25a259775/w3500h1828x0y434o/202604/43601.0.1978335056/auf-hanois-strassen-praesent.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/11af34e1c153/w3822h1996x0y77o/202606/43601.0.2232414069/der-iranische-praesident.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Irankrieg und Atomprogramm: »Der Westen ist in einer viel schlechteren Verhandlungsposition«",
+          "url": "https://www.spiegel.de/ausland/irankrieg-und-atomprogramm-der-westen-ist-in-einer-viel-schlechteren-verhandlungsposition-a-7794578b-2216-4edf-84de-9ec5646d9d79#ref=rss",
+          "summary": "Iran werde nie eine Atombombe haben, behauptet Donald Trump. Doch die Verhandlungen gehen erst los. Und der US-Präsident müsste für einen Nukleardeal erhebliche Zugeständnisse machen, sagt Rüstungskontrollexpertin Kelsey Davenport.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ad450116-06b0-409b-8db7-d703060a18c1_w1200_r1.778_fpx36.62_fpy50.jpg"
+        },
         {
           "title": "NSDAP-Archiv: Finden Sie heraus, was Ihre Familie unter Hitler getan hat",
           "url": "https://www.spiegel.de/geschichte/nsdap-archiv-finden-sie-heraus-was-ihre-familie-unter-hitler-getan-hat-a-4b37a614-a790-4798-92e2-be6a921da384#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/9b78b49c-d28e-4fae-a2d3-2027392eb74d_w1200_r1.778_fpx50_fpy50.jpg"
         },
         {
-          "title": "WM 2026: Es fehlen die türkischen Namen in Deutschlands Kader - Meinung",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-es-fehlen-die-tuerkischen-namen-in-deutschlands-kader-meinung-a-130c6e39-cb09-44b9-856e-59452305890f#ref=rss",
-          "summary": "Im deutschen WM-Kader hat die Hälfte der Spieler eine Migrationsgeschichte. Doch was auffällt: Türkische Namen fehlen.",
+          "title": "Fußball-WM 2026: Fifa-Präsident Gianni Infantino, ein Privatjet und viele Flugkilometer",
+          "url": "https://www.spiegel.de/sport/fussball-wm-2026-fifa-praesident-gianni-infantino-ein-privatjet-und-viele-flugkilometer-a-79f3fa2a-1577-40ce-aed3-9e027acdacc8#ref=rss",
+          "summary": "Gianni Infantino will bei der WM zwei Spiele pro Tag besuchen. Er fliegt mit dem Privatjet einer katarischen Gesellschaft über den Kontinent. Die Zahlen des Vielfliegers und was sie für das Klima bedeuten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/320cc0ea-9307-467c-b467-f57ec61622ad_w1200_r1.778_fpx68.37_fpy49.99.jpg"
-        },
-        {
-          "title": "Bonn: Nordbrücke wird nicht mehr freigegeben",
-          "url": "https://www.spiegel.de/mobilitaet/bonn-nordbruecke-wird-nicht-mehr-freigegeben-a-21ba0524-5c61-4fa6-8ccd-2eb5d0d0cc3b#ref=rss",
-          "summary": "Anfang Juni wurde die Bonner Nordbrücke wegen Straßenschäden gesperrt. Nun steht fest: Ein Ersatzneubau muss her. Der soll laut Verkehrsminister Schnieder Ende 2028 fertig werden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1a01e16f-df43-4eac-81bf-19a485633f66_w1200_r1.778_fpx38.8_fpy52.96.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/74b28d3f-274a-4d8a-a43f-43523c20f563_w1200_r1.778_fpx58_fpy38.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "18 Tote bei israelischem Angriff auf Hisbollah im Libanon",
-          "url": "https://www.tagesschau.de/ausland/asien/nahost-libanon-tote-100.html",
-          "summary": "Schon kurz nach Unterzeichnung des Rahmenabkommens zwischen den USA und Iran kommt es erneut zu Zwischenfällen: Aus dem Libanon werden nach israelischen Angriffen mindestens 18 Tote gemeldet.",
+          "title": "Wie der fallende Ölpreis Russlands Kriegswirtschaft bedroht",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-wirtschaft-putin-oelpreis-rubel-100.html",
+          "summary": "Der Iran-Krieg hat Russland nur kurz Luft verschafft. Sinkende Ölpreise, ukrainische Drohnenangriffe und die Rubel-Stärke belasten zunehmend die Wirtschaft. Wie lange kann Putin den Krieg noch finanzieren? Von Angela Göpfert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/df409632-55ff-42be-ae70-cb8e932b9c81/AAABnt67cfY/AAABnSSvrFg/16x9-big/rauch-suedlibanon-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/56f11d8a-0a6a-4366-b7b1-7c919aa4da33/AAABnt_vtAg/AAABnSSvrFg/16x9-big/putin-1492.jpg?width=1280"
         },
         {
-          "title": "Marktbericht:  Freundlicher DAX, aber keine Entwarnung",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-134.html",
-          "summary": "Der DAX hält sich im frühen Handel über der Marke von 25. 000 Punkten. Damit rückt das Allzeithoch zwar wieder näher, aber noch gibt es Nervosität wegen der Lage im Nahen Osten.",
+          "title": "Kurz nach dem Börsengang will sich SpaceX Geld am Kapitalmarkt leihen.",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-spacex-100.html",
+          "summary": "Nach dem Rekord-Börsenstart an der Wall Street will sich SpaceX neues Geld leihen. Zwischenzeitlich übertraf der Raumfahrtkonzern Online-Händler Amazon im Börsenwert. Wie hat sich die Aktie entwickelt?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8e91dfd3-7deb-4f36-91d4-085ad3fcdc11/AAABldcpt5s/AAABnSSvrFg/16x9-big/boerse-356.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b46a7ca9-3217-4c27-830b-b0504b2845b4/AAABnt8YZX8/AAABnSSvrFg/16x9-big/spacex-272.jpg?width=1280"
         },
         {
-          "title": "Im Onlinehandel ist der Widerrufsbutton jetzt Pflicht",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/online-widerruf-100.html",
-          "summary": "Online-Shops müssen ab sofort einen gut sichtbaren Widerrufsbutton anbieten. Die Grundidee dahinter: Das Kaufen soll online genau so einfach sein, wie das Widerrufen eines Vertrags. Der Handelsverband warnt vor \"Bürokratielasten\".",
+          "title": "Nachfolge des Bundespräsidenten: Steinmeier spricht sich für Politik-Profi aus",
+          "url": "https://www.tagesschau.de/inland/steinmeier-interview-104.html",
+          "summary": "Wer folgt auf Bundespräsident Steinmeier? Er selbst befürwortet einen Politik-Profi - und Steinmeier sagt im ARD-Interview auch, warum. Mit Blick auf Iran meint er: \"Man wird irre in dieser Situation.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/510ad11e-45c1-49d0-8105-8e94aa38d858/AAABmQ902Ls/AAABnSSvrFg/16x9-big/online-shopping-140.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/db34629d-645d-420b-804c-a1f66f7edc6e/AAABnt-kbNg/AAABnSSvrFg/16x9-big/steinmeier-1440.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Atom-Comeback in der Schweiz: Nationalrat ebnet Weg für neue AKW",
-          "url": "https://www.telepolis.de/article/Atom-Comeback-in-der-Schweiz-Nationalrat-ebnet-Weg-fuer-neue-AKW-11338188.html",
-          "summary": "Der Nationalrat hebt das Bauverbot für Reaktoren auf. Doch internationale Milliarden-Kostenrisiken sorgen für heftigen Streit.",
+          "title": "Abnehmmedikamente: Studie sieht Zusammenhang mit Impulskontrolle",
+          "url": "https://www.telepolis.de/article/Abnehmmedikamente-Studie-sieht-Zusammenhang-mit-Impulskontrolle-11338178.html",
+          "summary": "Forscher haben einen möglichen Zusammenhang zwischen der Einnahme von Abnehmmedikamenten und Impulsivität und Gewalt festgestellt. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/4/2/1/shutterstock_2622887267-9d955e4f3979d380.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/4/1/6/shutterstock_2436176383-6b826e9c07e130e9.jpg"
         },
         {
-          "title": "Visa, Verbote, Symbolik: Die militarisierte Meisterschaft",
-          "url": "https://www.telepolis.de/article/Visa-Verbote-Symbolik-Die-militarisierte-Meisterschaft-11338068.html",
-          "summary": "Die WM als Waffe Washingtons? Wie der Trumpismus mit Schikanen und MMA im Oval Office Sport als imperiales Happening inszeniert. Eine Analyse.",
+          "title": "ASML in der China-Falle: Drohen dem Tech-Riesen jetzt US-Sanktionen?",
+          "url": "https://www.telepolis.de/article/ASML-in-der-China-Falle-Drohen-dem-Tech-Riesen-jetzt-US-Sanktionen-11338716.html",
+          "summary": "Die Trump-Regierung vermutet illegale Lieferungen von ASML-Anlagen nach Peking. Für Nvidia und Apple steht im Chip-Krieg alles auf dem Spiel.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/3/5/9/shutterstock_2746247003-42d222442d988b71.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/6/8/5/shutterstock_2443626343-8b2936253a6b1adb.jpg"
         },
         {
-          "title": "Staubsauger gegen den Klimakollaps: Wie die Luft von CO2 befreit werden kann",
-          "url": "https://www.telepolis.de/article/Staubsauger-gegen-den-Klimakollaps-Wie-die-Luft-von-CO2-befreit-werden-kann-11333787.html",
-          "summary": "Neue Filter-Technologien auf Island und in Berlin saugen das Treibhausgas aus der Atmosphäre. Doch laut PIK-Forschern drängt die Zeit.",
+          "title": "LSG Bayern urteilt: Krankenkassen dürfen eGK bei Schulden nicht einziehen",
+          "url": "https://www.telepolis.de/article/LSG-Bayern-urteilt-Krankenkassen-duerfen-eGK-bei-Schulden-nicht-einziehen-11338518.html",
+          "summary": "Das Bayerische Landessozialgericht stoppt die Praxis der Kassen. Der Entzug der Gesundheitskarte bei Beitragsrückstand ist laut Urteil illegal.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/1/2/0/1/staubsauger-CO2-2-7cdb74e19e2e7abc.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/5/8/6/eGK21_blue-9bfd7cfdffbe065a.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespolitik: Wichtige Rheinbrücke in Bonn bleibt gesperrt",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-deutschland-news-bonn-nordbruecke-schnieder-li.3495864",
-          "summary": "Eine der meistbefahrenen Autobahnbrücken des Rheinlands muss abgerissen werden. Bis Ende 2028 soll der Neubau befahrbar sein, sagt Verkehrsminister Schnieder.",
+          "title": "Krieg in Nahost: Israel und Hisbollah einigen sich laut USA auf Waffenruhe",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-hisbollah-usa-waffenruhe-li.3500746",
+          "summary": "Die Abmachung zwischen der Schiitenmiliz und Tel Aviv sei bereits in Kraft, teilen Washingtoner Regierungskreise mit. Eine Bestätigung gibt es bislang nicht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/19/14e61831-064d-450d-ba31-b1c14bd2979a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=81%2C0%2C3390%2C1907"
+          "image": "https://www.sueddeutsche.de/2026/06/19/90c052ac-7e69-4dc5-b0db-3b3068d8a23b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Deutscher Wetterdienst: Bis zu 38 Grad: Hitzewarnungen für alle Bundesländer",
-          "url": "https://www.sueddeutsche.de/panorama/wetter-deutschland-freitag-hitze-hitzewarnung-li.3501460",
-          "summary": "Für manche Regionen sagt der Deutsche Wetterdienst sogar extreme Hitze voraus. In einigen Landesteilen könne es auch heftige Gewitter geben.",
+          "title": "USA: Meloni wirft Trump Lüge vor",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-italien-trump-meloni-li.3494806",
+          "summary": "Der US-Präsident hatte im italienischen Fernsehen behauptet, die Ministerpräsidentin habe ihn um ein Foto angefleht. Diese weist das scharf zurück. Italiens Außenminister sagt deshalb seine USA-Reise ab.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2024/07/31/1dad94f2-b5e1-4210-a845-525a7b4b889f.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C58%2C1395%2C785"
+          "image": "https://www.sueddeutsche.de/2026/06/19/a5f8e5fb-527e-46ce-a02f-6a24906197a9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2856%2C1606"
         },
         {
-          "title": "Schwimmen an Flüssen und Seen: Die schönsten Naturbäder in Bayern",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-naturbaeder-flussbaeder-empfehlungen-tipps-ausflug-li.3486560",
-          "summary": "Draußen schwimmen ja, Chlor und andere Chemie lieber nicht? An den Ufern einiger Flüsse und Seen in Bayern gibt es Strandbäder – manchmal mit, manchmal ohne Infrastruktur. Eine Auswahl.",
+          "title": "Leute: Auf „zwei Meter“ Bier mit Bad Bunny",
+          "url": "https://www.sueddeutsche.de/panorama/bad-bunny-duesseldorf-bier-konzerttickets-promis-li.3501518",
+          "summary": "Der Latino-Sänger gibt in einer Düsseldorfer Kneipe einen aus. US-Fußballer Alex Freeman bekommt einen unverhofften Spitznamen. Und Pietro Lombardi ärgert sich über Gaffer.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/05/22/b5c1db5a-b451-4985-898b-5b1f4ddc9e7e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C137%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/19/ca453a9a-2839-4c51-b84e-e15b21d8ad32.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C365%2C3500%2C1969"
         }
       ]
     }
