@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-18T22:00:08.697Z",
-  "timestamp": "19.6.2026, 00:00:08",
+  "generated": "2026-06-19T02:00:08.590Z",
+  "timestamp": "19.6.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "USA und Iran: Republikaner kritisieren Donald Trumps Milliarden-Fonds in Abkommen",
+          "url": "https://www.spiegel.de/ausland/usa-und-iran-republikaner-kritisieren-donald-trumps-milliarden-fonds-in-abkommen-a-dcb0243a-88f7-4b13-a405-1849b8ccda55#ref=rss",
+          "summary": "Donald Trumps vorläufiges Abkommen zur Beendigung des Irankriegs stößt auf scharfe Kritik in der eigenen Partei. Vor allem die finanziellen Zuwendungen an Teheran finden unter den Senatoren wenig Verständnis.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/c865ef26-1d30-40d1-ac31-31dd6ea603ee_w1200_r1.778_fpx56_fpy62.jpg"
+        },
+        {
           "title": "NSDAP-Archiv: Wie Sie die NS-Vergangenheit in Ihrer Familie ansprechen können",
           "url": "https://www.spiegel.de/wissenschaft/mensch/nsdap-archiv-wie-sie-die-ns-vergangenheit-in-ihrer-familie-ansprechen-koennen-a-b80e58a5-62f3-4ee2-b387-211efdd75750#ref=rss",
           "summary": "Ein überraschender Fund in der Nazi-Kartei? Hier sagt Psychiater Gereon Heuft, ob und wie man in der Familie darüber reden kann. Und weshalb das manchen Kriegskindern bis heute unmöglich ist.",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/cf2e4757-97d0-48e1-a1a4-72e0d72ebc19_w1200_r1.778_fpx55_fpy56.jpg"
         },
         {
-          "title": "Omid Nouripour zum Iran-Krieg: »Die Amerikaner haben bedingungslos kapituliert«",
-          "url": "https://www.spiegel.de/politik/deutschland/omid-nouripour-zum-iran-krieg-die-amerikaner-haben-bedingungslos-kapituliert-a-8804c84c-07e5-4d14-a467-94b5cd1e7716#ref=rss",
-          "summary": "Donald Trump kündigte Irans Regimewechsel an – am Ende steht ein Deal, den die Mullahs feiern. Wie kam es zu diesem Desaster? Im SPIEGEL-Talk diskutieren USA-Expertin Cathryn Clüver Ashbrook und Grünenpolitiker Omid Nouripour.",
+          "title": "Ukraine-Krieg: EU verlängert Russland-Sanktionen erstmals um zwölf Monate",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-eu-verlaengert-russland-sanktionen-erstmals-um-zwoelf-monate-a-a88b3c92-6692-41be-b02d-c4d030fe1504#ref=rss",
+          "summary": "Der Regierungswechsel in Ungarn macht sich auch in Brüssel bemerkbar: Auf dem EU-Gipfel wurden die Wirtschaftssanktionen gegen Moskau ausgedehnt, alle 27 Mitgliedstaaten stimmten der Erklärung zu.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ec41f626-0ef9-4f5b-b117-a397e6bb4817_w1200_r1.778_fpx45_fpy45.png"
-        },
-        {
-          "title": "Fußball-WM 2026: Johan Manzambi führt Schweiz zu 4:1 gegen Bosnien-Herzegowina",
-          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-johan-manzambi-fuehrt-schweiz-zu-4-1-gegen-bosnien-herzegowina-a-188b8b2d-baaa-498a-9e69-43b8309490ab#ref=rss",
-          "summary": "Der Schweizer Kapitän Granit Xhaka hatte nach der Enttäuschung gegen Katar öffentlich die Charakterfrage gestellt. Die ist jetzt beantwortet. Der Sieg gegen Bosnien-Herzegowina ist vor allem den Jokern zu verdanken.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6a196247-0be4-43be-974c-232bb5cf10a3_w1200_r1.778_fpx48_fpy25.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/513c4389-882b-4e1c-a58d-0396e1cf9258_w1200_r1.778_fpx61.29_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Klimakonferenz in Bonn: Zwischen Visionen und Widerständen",
+          "url": "https://www.tagesschau.de/wissen/klimakonferenz-bonn-118.html",
+          "summary": "Zehn Tage lang haben mehr als 5. 000 Delegierte in Bonn die nächste Weltklimakonferenz im November vorbereitet. Dabei gab es Fortschritte, aber auch Widerstände. So ist von \"schwerwiegenden\" Angriffen auf die Wissenschaft die Rede.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c568c2dc-50a6-4af7-8317-bae856b9c69d/AAABntxMiqo/AAABnSSvrFg/16x9-big/bonn-136.jpg?width=1280"
+        },
+        {
+          "title": "EU verlängert Russland-Sanktionen um zwölf Monate",
+          "url": "https://www.tagesschau.de/ausland/eu-sanktionen-russland-206.html",
+          "summary": "Bislang mussten die EU-Sanktionen gegen Russland alle sechs Monate einstimmig verlängert werden - nun aber haben die Staats- und Regierungschefs diesen Zeitraum auf zwölf Monate ausgedehnt. Möglich wurde das durch den Regierungswechsel in Ungarn.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/41414fd2-1a61-48e8-b465-e1c6580cd815/AAABnty0Blg/AAABnSSvrFg/16x9-big/eu-gipfel-656.jpg?width=1280"
+        },
+        {
           "title": "In den USA überwiegen nach Rahmenabkommen Skepsis und Kritik",
           "url": "https://www.tagesschau.de/ausland/usa-iran-reax-104.html",
           "summary": "\"Milliarden für nichts\": In den USA stößt das Rahmenabkommen mit Iran nicht nur bei den Demokraten auf Skepsis. Kritiker sehen Iran klar als Profiteur - am Ende stehe das Land sogar besser da als vor dem Krieg. Von Nina Barth.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/b89310c1-8a1a-4027-b50f-2ad66cc5ea0e/AAABntuXopg/AAABnSSvrFg/16x9-big/trump-5056.jpg?width=1280"
-        },
-        {
-          "title": "Nach Schüssen auf Kreml-Kritiker: Verdächtiger festgenommen",
-          "url": "https://www.tagesschau.de/ausland/europa/polen-russland-putin-kuenstler-100.html",
-          "summary": "Der russische Künstler Skrepezki demonstriert mit einer Putin-Karikatur in Berlin. Drei Tage später wird er erschossen. Polens Regierungschef glaubt an einen politischen Mord. Von Palina Milling.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cffc2b53-1147-4776-bd55-c8d32b2cec37/AAABnttTAvs/AAABnSSvrFg/16x9-big/skrepetsky-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX kommt nicht vom Fleck",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelmarkt-fed-100.html",
-          "summary": "Der DAX hat sich heute im Sog einer steigenden Wall Street von seinen Tagestiefs zwar gelöst - die Marke von 25. 000 Punkten bleibt aber eine hohe Hürde. Vor allem Halbleiteraktien treiben die US-Indizes.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1280"
         }
       ]
     },
@@ -122,7 +122,15 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fußball-WM: Ganz spät dreht die Schweiz auf",
+          "title": "Fußball-WM: Schlimme Verletzung überschattet Kanadas 6:0 gegen Katar",
+          "url": "https://www.sueddeutsche.de/sport/kanada-katar-verletzung-kone-rot-li.3501376",
+          "summary": "Kanada besiegt Katar deutlich, der WM-Gastgeber von 2022 beendet das Spiel nur mit neun Mann. Assim Madibo sieht Rot, weil er Ismael Koné offenbar das Bein bricht.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/18/42985adc-c22f-4ad0-baf0-81814d54bbbb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C415%2C4000%2C2250"
+        },
+        {
+          "title": "Fußball-WM: Mit Manzambi und Vargas kommt der Schwung: Schweiz gewinnt 4:1",
           "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-schweiz-bosnien-manzambi-li.3501359",
           "summary": "Lange tut sich die Schweiz im zweiten WM-Spiel gegen Bosnien-Herzegowina schwer. Doch dann fallen die Tore.",
           "source": "SZ",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/18/6a7ac2ad-6bb3-4fff-96e9-005478a440ab.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C244%2C4000%2C2250"
-        },
-        {
-          "title": "Krieg in Nahost: US-Vizepräsident Vance warnt Israel vor Kritik an Iran-Abkommen",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-vance-israel-kritik-abkommen-li.3500746",
-          "summary": "Er würde an Israels Stelle „vielleicht nicht den einzigen mächtigen Verbündeten angreifen, den ich auf der ganzen Welt noch habe“, sagt Vance. Israels Premier Netanjahu will Israels Truppen nicht aus Südlibanon abziehen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/18/0123b8df-c11b-4141-9cf0-0582532b5485.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
