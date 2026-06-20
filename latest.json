@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T22:00:14.713Z",
-  "timestamp": "20.6.2026, 00:00:14",
+  "generated": "2026-06-20T02:00:07.494Z",
+  "timestamp": "20.6.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Hitzewelle mit bis zu 38,5 Grad in Deutschland",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/wetter-hitze-deutschland-100.html",
-          "summary": "Es war kein neuer Rekord - aber der Freitag war überall in Deutschland sehr heiß. Der wärmste Ort lag im Norden Bayerns, gefolgt von einem in Rheinland-Pfalz. Am Abend gab es vielerorts heftige Gewitter.",
+          "title": "Ein Toter bei Zugunglück bei London",
+          "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-grossbritannien-100.html",
+          "summary": "In Großbritannien sind zwei Züge kolldiert. Dabei ist mindestens ein Mensch ums Leben gekommen, viele weitere wurden verletzt. Einige von ihnen schwer. Die Unglücksursache ist noch unklar.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6d9d4f96-f146-4b02-ac4c-1f2cb000bc19/AAABnuGHcmA/AAABnSSvrFg/16x9-big/hitze-426.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6baf7ba3-c2ae-4f51-9c0d-f8d95afa0d80/AAABnuKE1rs/AAABnSSvrFg/16x9-big/zugunglueck-198.jpg?width=1280"
         },
         {
-          "title": "EU-Gipfel: Ein gemeinsamer Nenner - und viel Uneinigkeit",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-abschluss-100.html",
-          "summary": "Zwei Tage hat man sich Zeit genommen für den EU-Gipfel - und viele Themen. In Sachen Ukraine gelangen schnelle Beschlüsse. Doch da hörte die Einstimmigkeit auf. Und es gab Ärger über den Ratspräsidenten.",
+          "title": "Mensche in Gaza: Hilflos, traumatisiert und ohne jede Perspektive",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-iran-gaza-100.html",
+          "summary": "Während die Welt auf das Abkommen zwischen Iran und den USA schaut, schafft Israel in Gaza Fakten. Die Bewegungsfreiheit der Menschen wird weiter eingeschränkt, fast täglich gibt es Angriffe. Viele Gazaner fühlen sich vergessen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/71d09094-7565-4f59-8c24-9e7f40d51a07/AAABnuEVt5Y/AAABnSSvrFg/16x9-big/eu-gipfel-antonio-costa-emmanuel-macron-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f288c083-ad15-4515-9855-e21eae12ad96/AAABnuJ-o6E/AAABnSSvrFg/16x9-big/gaza-fluechtlinge-108.jpg?width=1280"
         },
         {
-          "title": "In Syrien festgehaltene deutsche Journalistin Michelmann frei",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-koelner-journalistin-in-syrien-festgehaltene-eva-maria-michelmann-ist-frei-100.html",
-          "summary": "Die mehrere Monate in Syrien inhaftierte Kölner Journalistin Michelmann ist frei und inzwischen in Deutschland gelandet. Sie hatte jahrelang für kurdische Medien aus Nordsyrien berichtet. Von Alexa Schulz.",
+          "title": "Polens Präsident entzieht Selenskyj höchsten Orden",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-ukraine-110.html",
+          "summary": "Zwischen Polen und der Ukraine ist ein Geschichtsstreit eskaliert. Der polnische Präsident hat dem ukrainischen Staatschef die höchste Auszeichnung des Landes entzogen. Auslöser ist die Benennung einer ukrainischen Armeeeinheit.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8c3a9eef-222a-4964-a073-d898e3d084d9/AAABnuElsAQ/AAABnSSvrFg/16x9-big/wdr-ein-foto-von-eva-michelmann-vor-ihrer-festnahme-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/464c96c7-127b-4b60-a841-ee0abb7a6700/AAABnuIFWHs/AAABnSSvrFg/16x9-big/nawrocki-selenskyj-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Marokko besiegt Schottland: Bayern-Wunschspieler Saibari trifft erneut, Hakimi ausgebuht",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-schottland-marokko-saibari-fc-bayern-li.3501970",
+          "summary": "Zweites Spiel, zweites Tor: Ismael Saibari, der offenbar kurz vor einem Wechsel zum FC Bayern steht, trifft beim 1:0-Sieg Marokkos gegen Schottland. Marokkos Kapitän Achraf Hakimi wird wegen eines Vergewaltigungsvorwurfs ausgebuht.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/20/85ec5d3a-272a-478b-b14f-c1b5cfb74409.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C339%2C3506%2C1972"
+        },
+        {
           "title": "Einzug der USA in nächste Runde: Sie glauben dran, WM-Favorit zu sein",
           "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-usa-australien-li.3501358",
           "summary": "Die Identität, die Trainer Pochettino der US-Elf verpasst hat, funktioniert auch beim 2:0 gegen Australien: aggressive Zweikämpfe, scharfe Hereingaben, ab 20 Metern vorm Tor: Schuss! Das reicht, um Schwächen zu verbergen.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/19/22769781-2e0b-4541-8c4e-da5422ddadc7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
-        },
-        {
-          "title": "Versammlung bei 1860 München: „Der Befreiungskampf befindet sich in der entscheidenden Phase“",
-          "url": "https://www.sueddeutsche.de/sport/tsv-1860-ismaik-verhandlungen-mitgliederversammlung-li.3501861",
-          "summary": "Noch gibt es keine Einigung zwischen Investor Hasan Ismaik und dem Stammverein. Auch eine Insolvenz steht weiter im Raum – und die Fans mobilisieren für die Mitgliederversammlung am Sonntag.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2022/08/05/64ccdfd6-69cf-4e11-8de8-6de1e9ab92d9.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=97%2C186%2C1250%2C703"
         }
       ]
     }
