@@ -1,39 +1,47 @@
 {
-  "generated": "2026-06-20T06:00:08.952Z",
-  "timestamp": "20.6.2026, 08:00:08",
+  "generated": "2026-06-20T10:00:11.219Z",
+  "timestamp": "20.6.2026, 12:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Niedrige Geburtenrate: Haben wir Eltern zu viel übers Kinderkriegen gejammert?",
-          "url": "https://www.faz.net/aktuell/besser-leben/familie/geburtenrate-im-keller-haben-wir-eltern-zu-viel-gejammert-accg-200899199.html",
-          "summary": "Man hört es überall: Kinder haben ist ja so ermüdend! Möglicherweise sind auch klagende Eltern schuld, dass die Geburtenrate im Keller ist. Aber ist das Leben mit Kindern wirklich so furchtbar anstrengend?",
+          "title": "Podcaster „ungeskriptet“: Wer ist dieser Benjamin Berndt?",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/podcast-ungeskriptet-wer-ist-der-podcaster-benjamin-berndt-accg-200944051.html",
+          "summary": "Mit seinem langen Gespräch mit dem AfD-Mann Björn Höcke hat der Podcaster Benjamin Berndt Furore gemacht. Ist er darauf aus? Krawall, Polarisierung, hat er eine politische Agenda? Bei einem Treffen in Köln fragen wir ihn.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/403349fea288/w4550h2377x15y393o/202606/b717017a-5fef-11f1-868e-33a38084f13b/die-geburtenrate-ist-gelinde.webp"
+          "image": "https://media0.faz.net/image/w1200h627/1aa3c58368c2/w5998h3133x0y433o/202606/43601.0.2237015551/benjamin-berndt-betreibt-den.webp"
         },
         {
-          "title": "Demographie und Digitalleben: Weniger Babys dank iPhone",
-          "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/studie-zeigt-wo-sich-das-iphone-verbreitete-sank-die-zahl-der-geburten-deutlich-accg-200924992.html",
-          "summary": "Wo das iPhone eingeführt wird, kommen weniger Kinder zur Welt. Das hat auch sein Gutes.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/797dfaa8097a/w6000h3135x0y501o/202606/04528972-6640-11f1-a722-bd763fdb1624/ein-baby-streckt-die-hand-nach.webp"
-        },
-        {
-          "title": "Trump und Netanjahu: Trumps Geduld mit Israel ist am Ende",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/der-iran-deal-entzweit-amerika-und-israel-200947344.html",
-          "summary": "Die amerikanische Operation „Epic Fury“ in Iran endet so wie der Zwölftagekrieg vor einem Jahr: mit deutlichen Verstimmungen im amerikanisch-israelischen Verhältnis.",
+          "title": "Streitgespräch über Brandmauer: „Die AfD lebt von der Phantasie, dass sie niemals auffliegt“ – „Das ist ein Märchen“",
+          "url": "https://www.faz.net/aktuell/politik/was-bringt-eine-brandmauer-streitgespraech-zwischen-amthor-und-stecker-accg-200896842.html",
+          "summary": "Der Politikwissenschaftler Christian Stecker wirbt für eine Minderheitsregierung unter Einbindung der AfD – der CDU-Politiker Philipp Amthor hält im Streitgespräch dagegen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0b5c8dc0374c/w3000h1567x0y79o/202510/43601.0.1378143402/trump-und-netanjahu-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5114980746b7/w5379h2810x554y1013o/202606/43601.0.2179572641/politikprofessor-christian.webp"
+        },
+        {
+          "title": "Hitze in Deutschland: Diese zehn Regionen sind besonders heiß",
+          "url": "https://www.faz.net/aktuell/gesellschaft/hitze-diese-zehn-regionen-sind-besonders-betroffen-accg-200949835.html",
+          "summary": "Über Deutschland rollt eine Hitzewelle – teils mit heftigen Unwettern am Abend. Diese zehn Städte und Regionen müssen sich besonders wappnen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e46722169def/w6144h3210x0y763o/202606/43601.0.2238733013/eine-frau-steht-auf-dem.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Reformen: Wirtschaftsweise Monika Schnitzer fordert Sparmaßnahmen",
+          "url": "https://www.spiegel.de/wirtschaft/reformen-wirtschaftsweise-monika-schnitzer-fordert-sparmassnahmen-a-c117bb74-a970-4897-8ea9-9dfe5e83c77a#ref=rss",
+          "summary": "Pflege, Mehrwertsteuer, Diesel: Im Reformstreit wächst der Druck auf die Bundesregierung. Hier macht Wirtschaftsweisen-Chefin Monika Schnitzer konkrete Sparvorschläge – und sagt, was für die Menschen teurer werden könnte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f6614cde-5b1c-4269-aece-347acfa8b13d_w1200_r1.778_fpx42_fpy49.jpg"
+        },
         {
           "title": "Fußball-WM 2026: Deutschland vs. Elfenbeinküste - Das deutsche Standard-Geheimnis",
           "url": "https://www.spiegel.de/sport/fussball-wm-2026-deutschland-vs-elfenbeinkueste-das-deutsche-standard-geheimnis-a-7b7d696c-940e-4cba-9087-21e8fc53a768#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/14576765-3ab9-4214-837f-866384c6d42a_w1200_r1.778_fpx47_fpy39.jpg"
         },
         {
-          "title": "News: Deutschland auf dem Sprung in die K.o.-Runde, Unberechenbare Linke, Einladung ins Kanzleramt",
-          "url": "https://www.spiegel.de/politik/deutschland/news-deutschland-auf-dem-sprung-in-die-k-o-runde-unberechenbare-linke-einladung-ins-kanzleramt-a-4f27e36b-a8cb-4a5f-b9b7-7d976f64a645#ref=rss",
-          "summary": "Deutschland setzt im zweiten WM-Spiel auch auf Gottes Hilfe. Die Linke macht sich selbst das Leben schwer. Und: Der Kanzler und sein Kabinett laden die Bürger ein. Das ist die Lage am Samstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
           "title": "Donald Trump und sein Reflecting Pool: Von Königsblau zu Algengrün",
           "url": "https://www.spiegel.de/kultur/donald-trump-und-sein-reflecting-pool-von-koenigsblau-zu-algengruen-a-f1b359ed-d3a7-44c1-911f-8307b522d544#ref=rss",
           "summary": "Donald Trump wollte in Washington den allegorischen Sumpf austrocknen. Inzwischen hat er mit Steuermitteln einen ganz realen geschaffen: Der Lincoln Memorial Reflecting Pool hat sich algengrün verfärbt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5e3af999-c627-4d48-8bed-d5f619361662_w1200_r1.778_fpx33.81_fpy49.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ed17af26-1144-41f9-bac7-158c2f1ad9bb_w1200_r1.778_fpx52_fpy33.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kampf um Labour-Vorsitz: Wer ist Andy Burnham?",
-          "url": "https://www.tagesschau.de/ausland/europa/burnham-portrait-100.html",
-          "summary": "Andy Burnham und Keir Starmer stehen kurz vor einem offenen Konkurrenzkampf um den Labour-Vorsitz. Für seine Anhänger strahlt Burnham etwas aus, das der Premier schon lange verloren hat. Wofür steht er? Von Christoph Prössl.",
+          "title": "Chemieunfall in NRW: 25 Mitarbeitende durch Chemikalien verletzt",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/chemieunfall-chempark-dormagen-100.html",
+          "summary": "Beim Austritt einer giftigen Chemikalie sind im Chempark Dormagen in NRW 25 Mitarbeitende verletzt worden. Sie befinden sich in ärztlicher Behandlung. Noch ist nicht bekannt, wie es zu dem Vorfall gekommen ist.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/47a5bbd2-7c8d-4ccc-9231-3a3ebecceb83/AAABnuC8m3U/AAABnSSvrFg/16x9-big/burnham-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0667d58f-8b07-434e-ac45-30b03232304e/AAABnuQ5BJ0/AAABnSSvrFg/16x9-big/wdr-archivbild-bebaute-und-unbebaute-flaechen-auf-dem-werksgelaende-des-chemparks-dormagen-100.jpg?width=1280"
         },
         {
-          "title": "Güterzug-Waggons stürzen in München von Brücke",
-          "url": "https://www.tagesschau.de/inland/regional/gueterzug-muenchen-100.html",
-          "summary": "Zwei Waggons eines Güterzugs sind in München von einer Brücke in die Tiefe gestürzt. Eine Person wurde lebensgefährlich verletzt. Wie es zu dem Unfall kommen konnte, ist noch unklar.",
+          "title": "Weltflüchtlingstag: Sudanesen in Kairo zwischen Angst und Hoffnungslosigkeit",
+          "url": "https://www.tagesschau.de/ausland/afrika/weltfluechtlingstag-sudanesische-gefluechtete-aegypten-100.html",
+          "summary": "Mehr als 1,3 Millionen sudanesische Geflüchtete leben in Kairo. Trotz milliardenschwerer EU-Hilfen für Ägypten fliehen viele weiter Richtung Europa - aus Angst und wegen gekürzter Hilfsangebote. Von Anna Osius.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b6056334-1d51-43d3-8b98-723395f11b2a/AAABnuL1eN0/AAABnSSvrFg/16x9-big/gueterzug-140.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f0b0ac4d-6c14-40d4-b5a4-61cae761936f/AAABnuRaTMA/AAABnSSvrFg/16x9-big/sudan-480.jpg?width=1280"
         },
         {
-          "title": "Ein Toter bei Zugunglück bei London",
-          "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-grossbritannien-100.html",
-          "summary": "In Großbritannien sind zwei Züge kollidiert. Dabei ist mindestens ein Mensch ums Leben gekommen, viele weitere wurden verletzt. Einige von ihnen schwer. Die Unglücksursache ist noch unklar.",
+          "title": "Wetter in Deutschland: Zwischen Hitze und Gewittern",
+          "url": "https://www.tagesschau.de/inland/unwetter-hitze-deutschland-100.html",
+          "summary": "Es bleibt heiß in Deutschland: Der Deutsche Wetterdienst warnt vor extremen Temperaturen - auch Schauer und Gewitter sind im Anmarsch. In Baden-Württemberg sind in der Nacht mehrere Menschen bei einem Blitzeinschlag verletzt worden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6baf7ba3-c2ae-4f51-9c0d-f8d95afa0d80/AAABnuKE1rs/AAABnSSvrFg/16x9-big/zugunglueck-198.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6b98731c-eb27-4dff-ab44-a19fdbc97007/AAABnuQgviA/AAABnSSvrFg/16x9-big/blitz-144.jpg?width=1280"
         }
       ]
     },
@@ -93,34 +93,42 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "\"Definitiv zu spät\": Warum EZB-Direktorin Schnabel vor höheren Löhnen warnt",
+          "url": "https://www.telepolis.de/article/Definitiv-zu-spaet-Warum-EZB-Direktorin-Schnabel-vor-hoeheren-Loehnen-warnt-11335361.html",
+          "summary": "EZB-Direktorin Isabel Schnabel warnt vor Lohnerhöhungen. Kritiker werfen der Zentralbank vor, bewusst Arbeitslosigkeit in Kauf zu nehmen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/1/0/1/9/9/2/ezb-zins-01-b124987794387ce1.gif"
+        },
+        {
+          "title": "\"Nicht gut sein können\" als Prinzip: Was uns Machiavelli  über Autokraten lehrt",
+          "url": "https://www.telepolis.de/article/Nicht-gut-sein-koennen-als-Prinzip-Was-uns-Machiavelli-ueber-Autokraten-lehrt-11336915.html",
+          "summary": "Niccolò Machiavelli prägte die Politikwissenschaft wie kaum ein anderer. \"Der Fürst\" schrieb Geschichte. Warum Autokraten dennoch immer wieder scheitern.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/2/7/8/0/bem-bb273d25edd9c75f.jpg"
+        },
+        {
           "title": "Streit um KI-Texte: Warum das Feuilleton die falschen Fronten aufbaut",
           "url": "https://www.telepolis.de/article/Streit-um-KI-Texte-Warum-das-Feuilleton-die-falschen-Fronten-aufbaut-11339237.html",
           "summary": "Die Debatte um KI-generierte Texte ist oft fehlgeleitet. Nicht die Maschine ist das Problem, sondern der Mangel an menschlicher Qualitätskontrolle. Leitartikel.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/9/5/9/shutterstock_2676962401-221d25d81571ee59.jpg"
-        },
-        {
-          "title": "Abnehmmedikamente: Studie sieht Zusammenhang mit Impulskontrolle",
-          "url": "https://www.telepolis.de/article/Abnehmmedikamente-Studie-sieht-Zusammenhang-mit-Impulskontrolle-11338178.html",
-          "summary": "Forscher haben einen möglichen Zusammenhang zwischen der Einnahme von Abnehmmedikamenten und Impulsivität und Gewalt festgestellt. Ein Überblick.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/4/1/6/shutterstock_2436176383-6b826e9c07e130e9.jpg"
-        },
-        {
-          "title": "ASML in der China-Falle: Drohen dem Tech-Riesen jetzt US-Sanktionen?",
-          "url": "https://www.telepolis.de/article/ASML-in-der-China-Falle-Drohen-dem-Tech-Riesen-jetzt-US-Sanktionen-11338716.html",
-          "summary": "Die Trump-Regierung vermutet illegale Lieferungen von ASML-Anlagen nach Peking. Für Nvidia und Apple steht im Chip-Krieg alles auf dem Spiel.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/3/6/8/5/shutterstock_2443626343-8b2936253a6b1adb.jpg"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Bundespolitik: Parteitagsbeschluss: Linke nennt Gaza-Krieg offiziell „Völkermord“",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-deutschland-linke-parteitag-gaza-krieg-voelkermord-li.3495864",
+          "summary": "Nach einer emotionalen Nahost-Debatte nimmt der Bundesparteitag einen Kompromissvorschlag an, der unter Federführung des scheidenden Parteivorsitzenden van Aken erarbeitet wurde.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/20/f2f594ef-718d-42df-bd34-77fa8b28db1d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C63%2C4000%2C2250"
+        },
         {
           "title": "Krieg in Nahost: USA und Iran verschieben Gespräche wegen Angriffen in Libanon",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-israel-hisbollah-usa-iran-li.3500746",
@@ -130,20 +138,12 @@
           "image": "https://www.sueddeutsche.de/2026/06/20/72190a1e-3bfc-40b9-a4eb-92de5c9bdd75.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C307%2C4000%2C2250"
         },
         {
-          "title": "0:1 gegen Paraguay: Die Türkei ist raus",
-          "url": "https://www.sueddeutsche.de/sport/fussball-wm-tuerkei-ausscheiden-paraguay-li.3502030",
+          "title": "0:1 gegen Paraguay: „Beschämend“: Die Türkei ist raus",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-tuerkei-aus-paraguay-gueler-montella-li.3502030",
           "summary": "Nach nur zwei Spielen hat die Türkei bei der WM bereits keine Chance mehr auf die K.-o.-Runde. Trotz einer Halbzeit in Überzahl gelingt dem Team um Arda Güler kein Tor gegen Paraguay.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/20/a50f4ca1-4e76-43cc-b1a5-2ec6515b1a55.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C145%2C3936%2C2214"
-        },
-        {
-          "title": "Brasilien bei der Fußball-WM: Der Präsident macht Witze, die Seleção macht ihren Job",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-brasilien-haiti-neymar-cunha-ancelotti-sieg-hertha-li.3501958",
-          "summary": "Wer braucht schon Neymar, wenn er Cunha hat? Während Brasiliens Fußballpatient  „im Homeoffice“ auf Genesung wartet, schießt ein ehemaliger Herthaner die Seleção zum 3:0 gegen Haiti.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/20/842e900a-b912-44dd-a0d7-c8d3b1b136f9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=168%2C73%2C3359%2C1889"
         }
       ]
     }
