@@ -1,10 +1,26 @@
 {
-  "generated": "2026-06-20T22:00:08.734Z",
-  "timestamp": "21.6.2026, 00:00:08",
+  "generated": "2026-06-21T02:00:09.051Z",
+  "timestamp": "21.6.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Einzug in K.-o.-Runde fix: Undav rettet deutschen WM-Sieg in Nachspielzeit",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/deutschland-gewinnt-bei-fussball-wm-2026-gegen-elfenbeinkueste-nach-undav-toren-200817704.html",
+          "summary": "Bei der Fußball-Weltmeisterschaft führt die Elfenbeinküste lange gegen die DFB-Auswahl. Dann ist der eingewechselte Deniz Undav gleich zweimal zur Stelle. Nico Schlotterbeck muss verletzt ausgewechselt werden.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/353c34e2f583/w4284h2238x428y470o/202606/43601.0.2242896474/nicht-mehr-zu-halten-die-dfb.webp"
+        },
+        {
+          "title": "DFB-Team in Einzelkritik: Mehr Undav geht immer",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-dfb-team-mit-undav-gegen-elfenbeinkueste-in-der-einzelkritik-200817714.html",
+          "summary": "Beim 2:1 gegen die Elfenbeinküste besteht nur ein deutscher Mittelfeldspieler den TÜV für Zweikampfverhalten. Kimmich muss in den Rückspiegel blicken. Und Undav macht den nächsten. Und übernächsten – easy!",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ba3df409729a/w3860h2016x0y226o/202606/43601.0.2242928623/mehr-stuermer-geht-nicht-deniz.webp"
+        },
         {
           "title": "Liveblog Fußball-WM 2026: Manuel Neuer stellt WM-Rekord auf",
           "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-manuel-neuer-jetzt-rekord-torhueter-faz-200749933.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/cf8e51bfe0b4/w6144h3210x0y677o/202606/43601.0.2242434239/weiterhin-am-ball-manuel-neuer.webp"
-        },
-        {
-          "title": "Niederlande dreht bei WM auf: „Houston, wir haben die Lösung“",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-niederlande-besiegt-schweden-5-1-200817694.html",
-          "summary": "Wo die Niederländer bei diesem Turnier auftreten, scheint Spektakel garantiert. Gegen Schweden kommt ihre Offensive ins Rollen. Ist die Elftal so ein Mitfavorit auf den Titel?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ee78f55391b4/w6198h3238x0y596o/202606/43601.0.2242252061/orangefarbene-wand-die.webp"
-        },
-        {
-          "title": "Torontos Behelfstribüne: 1500 Euro für einen Sitzplatz auf einem wackeligen Baugerüst",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-torontos-stadion-kann-zuschauern-angst-machen-200944151.html",
-          "summary": "Weil Toronto unbedingt WM-Spielort werden wollte, mussten neue Stahlrohrtribünen her. Darauf kann Zuschauern des Deutschland-Spiels schwummrig werden.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/917c2f216177/w6000h3135x0y433o/202606/43601.0.2231243283/auf-manchen-plaetzen-im.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "WM 2026 Live: Deutschland spielt gegen Elfenbeinküste unentschieden",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-deutschland-gegen-elfenbeinkueste-im-liveticker-a-e58314ee-984f-4a92-98de-9335a82e6ec1#ref=rss",
-          "summary": "Er ist der erste deutsche Spieler seit Miroslav Klose, der in seinen ersten beiden WM-Spielen trifft. Gegen die Elfenbeinküste drehte Deniz Undav nach seiner Einwechslung mit zwei Toren das Spiel. Alles Wichtige im Liveticker.",
+          "title": "Fußball-WM 2026: Deniz Undav schießt Deutschland zum Sieg über die Elfenbeinküste – Gruppensieg fix",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-deniz-undav-schiesst-deutschland-zum-sieg-ueber-die-elfenbeinkueste-gruppensieg-fix-a-1000ad40-40fa-4954-a6a9-01cc9ce96181#ref=rss",
+          "summary": "Deutschland darf sich auf das erste WM-K. -Spiel seit 2014 freuen. Für Matchwinner Deniz Undav ist Nervosität ein Fremdwort. Und Julian Nagelsmann kann sich für Undav inzwischen sogar die Startelf vorstellen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3ba40180-b07d-4ba9-89ce-c2060607c0be_w1200_r1.778_fpx51.98_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bbec6ce8-de98-4be7-90f4-3c2dd3e66b87_w1200_r1.778_fpx37.34_fpy50.jpg"
         },
         {
           "title": "Rente: Kommission will »Rente mit 63« abschaffen und kapitalgedeckte Zusatzrente einführen",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Luigi Pantisano: Auftrag mit schwierigem Auftakt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/luigi-pantisano-106.html",
-          "summary": "Er ist der erste Linken-Vorsitzende mit Migrationsgeschichte: Luigi Pantisano, Kind italienischer Gastarbeiter. Der Schwabe hat Großes vor mit seiner Partei. Doch er startet mit wenig Rückhalt. Von Maximilian Ulrich.",
+          "title": "\"CopenPay\" - Belohnung für nachhaltigen Tourismus in Kopenhagen",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/copenpay-nachhaltiger-tourismus-100.html",
+          "summary": "Gutes tun und dafür Gutes bekommen: Das ist die Idee von \"CopenPay\". Mit dem Modell will die dänische Hauptstadt Kopenhagen nachhaltigen Tourismus fördern. Wer etwa mit der Bahn anreist, wird mit Rabatten belohnt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e3be1209-e63a-45bc-8d77-99b1366b67dc/AAABnuaWUP4/AAABnSSvrFg/16x9-big/luigi-pantisano-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c3c12e5c-7f2f-4b3d-8a42-76750253170e/AAABnt9yGsU/AAABnSSvrFg/16x9-big/touristen-meerjungfrau-kopenhagen-100.jpg?width=1280"
         },
         {
-          "title": "Selenskyj schickt polnischen Orden zurück",
-          "url": "https://www.tagesschau.de/ausland/europa/polen-ukraine-112.html",
-          "summary": "Im Streit um die Umbenennung einer ukrainischen Armeeeinheit hatte der polnische Präsident seinem ukrainischen Amtskollegen die höchste polnische Auszeichnung aberkannt. Nun schickte Selenskyj den Orden per Post zurück.",
+          "title": "Kopf-an-Kopf-Rennen bei Kolumbiens Stichwahl",
+          "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-stichwahl-108.html",
+          "summary": "Kolumbien wählt heute einen neuen Präsidenten. Zunehmende Gewalt bewaffneter Gruppen ist ein dominierendes Thema und spielt dem rechten Kandidaten bei der Stichwahl in die Hand - der nun in Umfragen leicht vorne liegt. Von Jenny Barke.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/513ca25f-481d-4222-bd08-4c32fde8d337/AAABnuXezwk/AAABnSSvrFg/16x9-big/polnischer-orden-selenskyj-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5dc95ab3-5fba-4abd-8afb-5c1758c698fd/AAABnt7eajo/AAABnSSvrFg/16x9-big/zeitung-kandidaten-kolumbien-100.jpg?width=1280"
         },
         {
-          "title": "Wetter: Schäden durch Hitze und Gewitter - und es bleibt heiß",
-          "url": "https://www.tagesschau.de/inland/unwetter-hitze-102.html",
-          "summary": "Durch hohe Temperaturen beschädigte Autobahnen und ausgefallene ÖPNV-Anzeigen auf der einen Seite - überflutete Straßen und umgeknickte Bäume auf der anderen: Das Wetter in Deutschland pendelt weiter zwischen Hitze und Unwettern.",
+          "title": "Trumps Gremium für Gaza: \"Friedensrat\" mit leeren Kassen",
+          "url": "https://www.tagesschau.de/ausland/amerika/us-friedensrat-gaza-100.html",
+          "summary": "Milliarden wurden angekündigt - doch die Kassen sind offenbar leer. Rund fünf Monate nach Startschuss hält der von US-Präsident Trump ins Leben gerufene \"Friedensrat\" kaum etwas von dem, was er versprochen hat. Von Kerstin Klein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bc7ba0c9-562c-4031-be2f-3bef2231504a/AAABnuYszOY/AAABnSSvrFg/16x9-big/unwetter-cottbus-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f2ec0f62-2876-4406-8f05-ff2a11632161/AAABnt8rpE8/AAABnSSvrFg/16x9-big/trump-5062.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fußball-WM 2026: Manuel Neuer ist jetzt WM-Rekordtorwart",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-dfb-deutschland-neuer-rekord-li.3492650",
-          "summary": "Das Spiel gegen die Elfenbeinküste ist Neuers 21. Einsatz bei einer Weltmeisterschaft. Er löst damit den Franzosen Hugo Lloris ab. Toronto und die Niagarafälle leuchten schwarz-rot-gold.",
+          "title": "Pressestimmen: „Deutschland wird immer mehr zu Deutschland“",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-deutschland-elfenbeinkueste-presse-undav-li.3502261",
+          "summary": "Die internationalen Zeitungen loben die Energieleistung des DFB-Teams, Nagelsmanns Einwechslungen und Undavs Tore. Die Pressestimmen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/20/66dadd77-cb2d-4c79-a228-f567fe7d826f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C57%2C3680%2C2070"
+          "image": "https://www.sueddeutsche.de/2026/06/20/d98741f3-1b48-4f33-9194-0ff8d91002c7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=182%2C55%2C1818%2C1023"
         },
         {
-          "title": "Niederlande gegen Schweden: Fünf Tore gegen die Zweifler",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-niederlande-schweden-li.3502224",
-          "summary": "Nach dem Stotterstart gegen Japan brillieren die Niederlande beim 5:1 gegen schwache Schweden – und können mit der K.-o.-Runde planen.",
+          "title": "Stimmen zum Sieg der DFB-Elf: „Zwei super Tore, ohne Nachdenken“",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-deutschland-elfenbeinkueste-stimmen-undav-nagelsmann-li.3502231",
+          "summary": "Bundestrainer Julian Nagelsmann lobt Deniz Undav – und ahnt, dass eine Debatte auf ihn zukommt. Bei Nico Schlotterbeck sieht es „nicht ganz so gut aus“. Die Stimmen zum Spiel.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/20/52afa065-8fa7-4cf8-8880-e8e97a697b99.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C191%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/06/20/e4e0e44c-06b5-458a-a6af-fe52021213cb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C60%2C2023%2C1138"
         },
         {
-          "title": "Italien und USA: Schatzi, schenk mir ein Foto",
-          "url": "https://www.sueddeutsche.de/politik/meloni-trump-streit-foto-g7-li.3502063",
-          "summary": "US-Präsident Trump und Italiens Ministerpräsidentin Meloni, einst politische Freunde, streiten über „komplett erfundene Behauptungen“. Endet hier ihre besondere politische Freundschaft?",
+          "title": "Deutschland in der Einzelkritik: Mittelfeldchef Nmecha spielt den Traumpass",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-deutsche-nationalmannschaft-einzelkritik-li.3502214",
+          "summary": "Der Dortmunder glänzt, Leroy Sané muss auf den Ballon d'Or noch ein wenig warten, die Frau des Bundestrainers verdient sich zwei inoffizielle Assists: das deutsche Team in der Einzelkritik.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/20/97b91c67-c187-4983-9d34-99d763ac0a03.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3871%2C2177"
+          "image": "https://www.sueddeutsche.de/2026/06/20/c5388651-f46b-41c9-a197-f20e2e48953d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C174%2C4000%2C2250"
         }
       ]
     }
