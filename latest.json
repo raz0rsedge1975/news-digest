@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-22T06:00:11.813Z",
-  "timestamp": "22.6.2026, 08:00:11",
+  "generated": "2026-06-22T10:00:14.663Z",
+  "timestamp": "22.6.2026, 12:00:14",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Reform der Einkommensteuer: Klippen für Klingbeils Steuerpläne",
-          "url": "https://www.faz.net/aktuell/wirtschaft/klippen-fuer-klingbeils-steuerplaene-accg-200948355.html",
-          "summary": "Hinter den Kulissen wird um die Finanzierung gerungen: Müssen Gutverdiener künftig mehr an das Finanzamt überweisen? Werden Steuervergünstigungen gestrichen? Und hat der Handwerkerbonus eine Zukunft?",
+          "title": "Großbritannien: Keir Starmer kündigt seinen Rücktritt an",
+          "url": "https://www.faz.net/aktuell/politik/ausland/keir-starmer-kuendigt-ruecktritt-an-accg-200953483.html",
+          "summary": "Bis seine Partei einen Nachfolger gefunden hat, will Starmer im Amt bleiben. Vor seinem Amtssitz erklärt der Premierminister, wie es weitergehen soll.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0e8a4d176a5f/w5110h2669x0y102o/202606/43601.0.2205266442/lars-klingbeil-spd-links.webp"
+          "image": "https://media0.faz.net/image/w1200h627/54249ab44e3a/w4902h2561x0y410o/202606/43601.0.2247710163/der-britische-premierminister.webp"
         },
         {
-          "title": "Liveblog Irankrieg: USA und Iran einigen sich auf Vorgehen für endgültiges Abkommen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-und-iran-einigen-sich-auf-vorgehen-fuer-endgueltiges-abkommen-faz-200583539.html",
-          "summary": "Kommunikationskanal zur Straße von Hormus +++ Trump droht Iran wieder mit Angriffen +++ Vance in der Schweiz: Haben Fortschritte erzielt +++ alle Entwicklungen im Liveblog",
+          "title": "Starmers Herausforderer: Der König des Nordens will den Thron in London",
+          "url": "https://www.faz.net/aktuell/politik/ausland/will-keir-starmer-abloesen-wer-ist-andy-burnham-200946644.html",
+          "summary": "Andy Burnham strebt schon lange nach der Führung der Labour-Partei – auch um das „Driften nach rechts“ unter Starmer zu verhindern. Nach dem Rücktritt des Premierministers hat er es fast geschafft.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e7c0411a28e1/w3240h1692x0y234o/202606/43601.0.2245255477/mitarbeiter-der-delegationen.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/bda350d3ebbd/w5641h2947x0y470o/202606/43601.0.2237514711/andy-burnham-spricht-zu-seinen.webp"
         },
         {
-          "title": "Gespräche in der Schweiz: Zum Auftakt droht Trump",
-          "url": "https://www.faz.net/aktuell/politik/ausland/trump-droht-zum-auftakt-der-gespraeche-mit-iran-200952899.html",
-          "summary": "Die Delegationen aus Washington und Teheran haben am Sonntag ihre Verhandlungen aufgenommen. Die Gefechte in Libanon komplizieren die Gespräche.",
+          "title": "Digitalisierung: So trifft KI den Arbeitsmarkt",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/so-trifft-ki-den-arbeitsmarkt-accg-200939201.html",
+          "summary": "Warum Erfahrung wertvoller wird, Berufseinsteiger unter Druck geraten. Und Wachstum künftig weniger Jobs schaffen könnte.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6ac8bd6db6c7/w3828h2000x0y121o/202606/43601.0.2229698957/us-praesident-donald-trump.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/ac10e9342a67/w3000h1567x0y333o/201610/431.0.27757498/die-ki-umarmen-gute-chancen.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Keir Starmer kündigt Rückzug als Premier von Großbritannien an",
+          "url": "https://www.spiegel.de/ausland/keir-starmer-kuendigt-rueckzug-als-premier-von-grossbritannien-an-a-67482a97-ad9d-4030-804d-cbc4b2e59af8#ref=rss",
+          "summary": "Der britische Regierungschef Keir Starmer legt den Vorsitz seiner Labour-Partei nieder. Dies bedeutet, dass er auch sein Amt als Premierminister verlieren wird. Er hat bereits mit König Charles gesprochen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/44be1555-cfd0-4c81-894a-5e234dfec760_w1200_r1.778_fpx43_fpy46.jpg"
+        },
+        {
           "title": "Rente: So sieht die Revolution aus, die jetzt auf dem Tisch liegt",
           "url": "https://www.spiegel.de/wirtschaft/soziales/rente-so-sieht-die-revolution-aus-die-jetzt-auf-dem-tisch-liegt-a-58c028fc-fb31-42a1-8db0-b1d1d0499f20#ref=rss",
           "summary": "Wie ist Deutschlands Rente zu retten? Die von der Bundesregierung eingesetzte Reformkommission schlägt einen weitreichenden Umbau vor. Hier erfahren Sie im Detail, was genau im Bericht steht und was es für Sie bedeuten würde.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2964dbb4-76cd-42d5-acd8-a804dbcac0a9_w509_r1.778_fpx42.44_fpy54.28.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/23915f14-cc73-4e24-bcfa-16e66658eaf7_w1200_r1.778_fpx43.33_fpy55.jpg"
         },
         {
-          "title": "News: Renten-Reform, Keir Starmer vor Rücktritt, Friedrich Merz, Linken-Chef Luigi Pantisano",
-          "url": "https://www.spiegel.de/politik/deutschland/news-renten-reform-keir-starmer-vor-ruecktritt-friedrich-merz-linken-chef-luigi-pantisano-a-3fc981c3-f2ba-430c-8145-347cb61d203b#ref=rss",
-          "summary": "Vielleicht wird der Ruhestand doch nicht so armselig, wie viele sagen. Vielleicht tritt der britische Premier Keir Starmer heute zurück. Und vielleicht war der neue Linkenchef Luigi Pantisano keine gute Wahl. Das ist die Lage am Montagmorgen.",
+          "title": "Nebeneinkünfte von Politikern: Wie viel verdient Ihr Bundestagsabgeordneter nebenbei?",
+          "url": "https://www.spiegel.de/politik/deutschland/nebeneinkuenfte-von-politikern-wie-viel-verdient-ihr-bundestagsabgeordneter-nebenbei-a-903d1a2f-4b30-442e-bd14-c53482490dab#ref=rss",
+          "summary": "Insgesamt mehr als zehn Millionen Euro haben die Parlamentarier seit Beginn der Wahlperiode neben ihrer politischen Arbeit verdient. Kommen sich Nebenjobs und Volksvertretung in die Quere?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "WM 2026 News heute: Kap Verdes WM-Märchen geht weiter",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-news-heute-kap-verdes-wm-maerchen-geht-weiter-a-2f221d46-8478-4ec4-a830-c5ae9d5e4a9c#ref=rss",
-          "summary": "Nach der Überraschung gegen Spanien bleibt Kap Verde auch gegen Uruguay ungeschlagen. Und: Salah trifft – Ägypten gewinnt erstmals bei einer WM. Alles Wichtige im News-Update.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a48ef517-231e-46f6-a017-db5d8f68a2eb_w1200_r1.778_fpx56.48_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e0dc508d-67cc-4454-a550-6f70b6757e3c_w1200_r1.778_fpx50_fpy50.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Opposition und Gewerkschaften kritisieren Vorschläge der Rentenkommission",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/diskussion-rentenreform-100.html",
-          "summary": "Die bereits bekannt gewordenen Vorschläge der Rentenkommission stoßen auf geteilte Meinungen. Lob kommt von der Jungen Union und der Senioren-Union, Kritik von Opposition und Gewerkschaften.",
+          "title": "Milliarden für Tore - Saudi-Arabiens Investitionen in den Fußball",
+          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-fussball-102.html",
+          "summary": "Ob durch im Land verpflichtete Spieler, Werbung oder Sponsoring: Saudi-Arabien ist bei der WM omnipräsent. Viele Milliarden hat das Land in den vergangenen Jahren in den Sport investiert - vor allem mit zwei Zielen. Von Moritz Behrendt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3811b66a-116c-4da8-b96d-0ca6633f6dcd/AAABnu3HSFM/AAABnSSvrFg/16x9-big/rente-472.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/735b095b-6b51-4be5-b411-d80d11ad8d19/AAABnu6kk2Q/AAABnSSvrFg/16x9-big/saudi-arabien-fans-100.jpg?width=1280"
         },
         {
-          "title": "Großbritannien: Spekulationen über Starmer-Rücktritt",
-          "url": "https://www.tagesschau.de/ausland/europa/starmer-grossbritannien-106.html",
-          "summary": "Der britische Premierminister Keir Starmer steht seit Wochen massiv unter Druck. Nun verdichten sich die Hinweise, dass er heute zurücktreten könnte. Oder auch doch nicht?",
+          "title": "Marktbericht: Investoren hoffen auf Schub von der Wall Street",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-hochtief-100.html",
+          "summary": "Die Ölpreise geben nach, Iran und die USA verhandeln über ein Friedensabkommen - trotzdem fehlt dem DAX der Zug nach oben. Die Anleger bleiben zurückhaltend, vor allem die Situation im Libanon nährt die Skepsis.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9dc9845e-3d60-4c6b-8a02-a77132b4fa89/AAABnu26h_4/AAABnSSvrFg/16x9-big/starmer-224.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fe99f018-c075-4100-b866-642ea2df054d/AAABmnbk3IY/AAABnSSvrFg/16x9-big/boerse-466.jpg?width=1280"
         },
         {
-          "title": "Sind Süßstoffe gesundheitsschädlich?",
-          "url": "https://www.tagesschau.de/wissen/gesundheit/suessstoffe-ernaehrung-100.html",
-          "summary": "Süßer Geschmack ohne Kalorien - Süßstoffe machen es möglich. Ihr Nutzen für Diabetiker und zur Gewichtskontrolle ist groß. Aber immer wieder wird über mögliche Gesundheitsgefahren berichtet. Was ist dran? Von Tilman Hassenstein.",
+          "title": "Britischer Premier Starmer kündigt Rücktritt an",
+          "url": "https://www.tagesschau.de/ausland/europa/starmer-ruecktritt-104.html",
+          "summary": "Nach anhaltendem Druck aus den eigenen Reihen hat der britische Premierminister Keir Starmer seinen Rücktritt als Chef der Labour-Partei bekanntgegeben. Premierminister will er bleiben, bis ein Nachfolger gefunden ist.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/263d4833-15b2-4cee-a895-4babae8ce257/AAABnt-Ub-8/AAABnSSvrFg/16x9-big/getraenkeregal-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/188eb447-52c8-41bb-b387-0734fe242d88/AAABnu6FeIg/AAABnSSvrFg/16x9-big/starmer-228.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Republik der Gläubigen: Indiens langer Marsch nach Rechts",
-          "url": "https://www.telepolis.de/article/Republik-der-Glaeubigen-Indiens-langer-Marsch-nach-Rechts-11332729.html",
-          "summary": "Bedrohen, Brandschatzen, Brandmarken: Wie die Hindu-Nationalisten Indien neu erfinden und welche Gefahren von der indischen Rechten ausgehen. Eine Analyse.",
+          "title": "Das Ende eines Irrwegs: Über Trumps Beendigung des Iran-Krieges",
+          "url": "https://www.telepolis.de/article/Das-Ende-eines-Irrwegs-Ueber-Trumps-Beendigung-des-Iran-Krieges-11339977.html",
+          "summary": "Wer den Vergleich mit Obamas Iran-Deal zieht, läuft Gefahr, in alte Fallen zu tappen. Warum das Abkommen jetzt wichtig ist. Ein Gastbeitrag.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/0/6/6/9/shutterstock_277358270-05855a44282c1d46.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/4/3/2/9/shutterstock_2581753259-7b153a4a51f7ead1.jpg"
         },
         {
-          "title": "Longevity in Japan: Wirkstoff RS5614 dreht biologische Gen-Uhr zurück",
-          "url": "https://www.telepolis.de/article/Longevity-in-Japan-Wirkstoff-RS5614-dreht-biologische-Gen-Uhr-zurueck-11339661.html",
-          "summary": "Im globalen XPRIZE-Wettbewerb zeigt der PAI-1-Inhibitor der Universität Tohoku spektakuläre Verjüngungs-Effekte bei älteren Menschen.",
+          "title": "Fußball-WM 2026: Elf Softies wollt ihr sein?",
+          "url": "https://www.telepolis.de/article/Fussball-WM-2026-Elf-Softies-wollt-ihr-sein-11339697.html",
+          "summary": "Muss man Nagelsmann mögen? Dem DFB-Team fehlt der Konkurrenzkampf; WM Blog – Folge 06",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/4/1/7/1/shutterstock_2706533409-d5596a8a3bd72074.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/4/1/8/9/Master_Nagelsmann-a462c849c903162e.jpg"
         },
         {
-          "title": "Warum Krebs? Wenn Zellen außer Kontrolle geraten",
-          "url": "https://www.telepolis.de/article/Warum-Krebs-Wenn-Zellen-ausser-Kontrolle-geraten-11339483.html",
-          "summary": "Jeder normal gebildete Mensch weiß, dass man Krebs vom Rauchen oder Alkohol bekommen kann. Doch was dabei im Körper passiert, wird erst jetzt langsam klar.",
+          "title": "Gazprom-Anlagen brennen: \"Russlands Wirtschaft ist im Endstadium\"",
+          "url": "https://www.telepolis.de/article/Gazprom-Anlagen-brennen-Russlands-Wirtschaft-ist-im-Endstadium-11339941.html",
+          "summary": "Über 20 Prozent der Raffineriekapazität sind lahmgelegt. Auf der Krim gibt es Benzin nur noch per QR-Code – und die Schlangen erreichen Sibirien.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/4/0/8/2/3dMediSphere-264fa3898f76b60f.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/4/3/1/1/shutterstock_2682906843-0092886abe99ed35.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Iran bei der Fußball-WM: Zerrissenheit, die offiziell „Einheit“ genannt wird",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-iran-protest-belgien-li.3502600",
-          "summary": "Auch bei ihrem zweiten WM-Spiel, einem 0:0 gegen Belgien, beklagt Irans Nationalelf die Benachteiligung durch die restriktiven US-Behörden. Ausgepfiffen wird sie aber auch von den eigenen Leuten.",
+          "title": "Bundespolitik: Günther fordert Rücktritt des neuen Linken-Chefs Pantisano",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-linke-guenther-pantisano-ruecktritt-li.3495864",
+          "summary": "Mittlerweile hat sich der neue Parteichef dafür entschuldigt, dass er die Politik der CDU „faschistisch“ genannt und mit der AfD gleichgesetzt hat. CSU-Chef Huber schließt sich der Rücktrittsforderung an.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/22/53dece46-a517-4183-936d-77c966a59b6c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=505%2C483%2C3005%2C1690"
+          "image": "https://www.sueddeutsche.de/2026/06/22/80f7c6e2-5a4f-4e7d-b223-57f5403763d6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C33%2C4000%2C2250"
         },
         {
-          "title": "Fußball-WM: „Stolz, Stolz, Stolz!“ – Kapverden gelingt der nächste Coup",
-          "url": "https://www.sueddeutsche.de/sport/fussball-wm-kap-verde-uruguay-li.3502616",
-          "summary": "Nach  Spanien schafft es auch der zweimalige Weltmeister Uruguay nicht, den afrikanischen Inselstaat zu bezwingen. Trainer Bubista spricht nun von der K. -Runde als Ziel.",
+          "title": "Frankreich: Paris ist schön, aber noch nicht schön genug",
+          "url": "https://www.sueddeutsche.de/panorama/paris-recht-auf-schoenheit-emmanuel-gregoire-lily-munson-li.3502561",
+          "summary": "Der neue Bürgermeister gibt ein „Recht auf Schönheit“ aus, samt Manifest. Damit kontert er die Nörgler, die die Stadt im Niedergang sehen. Ist das wirklich nötig?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/22/5135d9d4-5eed-49fd-89fd-1b0e440e101b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C445%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/22/386047e5-e378-4d46-8fb8-dc192408c007.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Angeschlagener Premierminister: Großbritannien wartet auf Starmers Rücktritt – Trump verabschiedet ihn bereits",
-          "url": "https://www.sueddeutsche.de/politik/starmer-grossbritannien-ruecktritt-nachfolge-li.3502562",
-          "summary": "„I wish him well“: der US-Präsident wirft dem britischen Regierungschef Versagen vor. Tatsächlich mehren sich die Anzeichen, dass der britische Premierminister noch in dieser Woche aufgeben könnte.",
+          "title": "Großbritannien: Starmer kündigt Rücktritt als Premierminister an",
+          "url": "https://www.sueddeutsche.de/politik/starmer-grossbritannien-premier-ruecktritt-li.3482256",
+          "summary": "Der Druck auf den Regierungschef wurde zuletzt immer größer. Nun zieht er Konsequenzen. Starmer will die Amtsgeschäfte bis zum September an seinen Nachfolger übergeben haben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/03/04/925db5d4-e9da-4c3a-9dc3-5c20162f1098.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
+          "image": "https://www.sueddeutsche.de/2026/06/22/08d841b9-b88e-4ed2-b4e4-8a533597857f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         }
       ]
     }
