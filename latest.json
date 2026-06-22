@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-22T14:00:12.937Z",
-  "timestamp": "22.6.2026, 16:00:12",
+  "generated": "2026-06-22T18:00:11.820Z",
+  "timestamp": "22.6.2026, 20:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Regierungskrise in London: Neuer Kopf – alte Probleme",
-          "url": "https://www.faz.net/aktuell/politik/ausland/keir-starmers-ruecktritt-grossbritannien-hofft-auf-burnham-200954514.html",
-          "summary": "Nach dem Rücktritt von Keir Starmer ruhen die Hoffnungen auf seinem Nachfolger. Der erbt jede Menge Probleme – und muss schnell liefern.",
+          "title": "Zehn Jahre Brexit-Entscheid: Die EU spricht immer noch Englisch, aber nicht gut",
+          "url": "https://www.faz.net/aktuell/politik/ausland/zehn-jahre-brexit-referendum-was-hat-sich-in-der-eu-veraendert-200924838.html",
+          "summary": "Vor zehn Jahren votierte die Mehrheit der Briten für den EU-Austritt. Was denken die letzten beiden Briten darüber, die noch im EU-Parlament sind?",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/d3cd0b076cd9/w6745h3524x0y516o/202606/43601.0.2248253818/macht-den-weg-frei-fuer-den.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a4f29b9a279d/w3221h1682x322y615o/202002/43af843dee-8118-11eb-999d-f618c23268c9/am-31-januar-2020-dem-tag-des.webp"
         },
         {
-          "title": "Starmers Herausforderer: Der König des Nordens will den Thron in London",
-          "url": "https://www.faz.net/aktuell/politik/ausland/will-keir-starmer-abloesen-wer-ist-andy-burnham-200946644.html",
-          "summary": "Andy Burnham strebt schon lange nach der Führung der Labour-Partei – auch um das „Driften nach rechts“ unter Starmer zu verhindern. Nach dem Rücktritt des Premierministers hat er es fast geschafft.",
+          "title": "Zehnter Jahrestag: Die bittere Brexit-Bilanz in sechs Grafiken",
+          "url": "https://www.faz.net/aktuell/wirtschaft/die-bittere-brexit-bilanz-der-briten-accg-200923911.html",
+          "summary": "Vor zehn Jahren stimmte Großbritannien für den EU-Austritt. Die wirtschaftlichen Schäden für das Land sind noch größer als damals befürchtet.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/bda350d3ebbd/w5641h2947x0y470o/202606/43601.0.2237514711/andy-burnham-spricht-zu-seinen.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cfad15541af2/w4665h2437x0y287o/202605/43601.0.2104174834/proeuropaeische-demonstration.webp"
         },
         {
-          "title": "Regierung in London: Sieben Premierminister in zehn Jahren",
-          "url": "https://www.faz.net/aktuell/politik/ausland/warum-so-viele-britische-premierminister-scheitern-accg-200954033.html",
-          "summary": "Ein unmöglicher Job? Noch bevor ein Nachfolger für Keir Starmer feststeht, ist klar: Viele scheitern an der Aufgabe.",
+          "title": "Liveblog Fußball-WM 2026: 17 WM-Tore – Messi ist alleiniger WM-Rekordtorschütze",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-17-wm-tore-messi-ist-alleiniger-wm-rekordtorschuetze-faz-200749933.html",
+          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/2ce0a331d704/w6088h3180x0y757o/202606/43601.0.2247763280/der-britische-premierminister.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cc9b6e723476/w3644h1903x0y312o/202606/43601.0.2249798934/lionel-messi-jubelt-nach.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Rente: »Jeder bekommt aus der gesetzlichen Rente mehr raus, als er eingezahlt hat«",
-          "url": "https://www.spiegel.de/wirtschaft/rente-jeder-bekommt-aus-der-gesetzlichen-rente-mehr-raus-als-er-eingezahlt-hat-a-d90c2ea1-b052-49e4-a4a4-cb5d917eadd8#ref=rss",
-          "summary": "Die heutigen Rentner plündern die Kasse, den Jungen bleibt nichts? Der Finanzmathematiker Werner Siepe erklärt, warum das Quatsch ist – und warum gerade junge Leute sogar freiwillig mehr ins System einzahlen sollten.",
+          "title": "Halle (Saale): Strandbad verweigert Gästen ohne Deutschkenntnisse den Zutritt – ist das erlaubt?",
+          "url": "https://www.spiegel.de/panorama/halle-saale-strandbad-verweigert-gaesten-ohne-deutschkenntnisse-den-zutritt-ist-das-erlaubt-a-08cd42db-d7a5-45b4-96ef-4e614f32b164#ref=rss",
+          "summary": "Ein Strandbad in Halle an der Saale verwehrt Besuchern den Zutritt, wenn sie nicht gut genug Deutsch sprechen. Der Geschäftsführer argumentiert mit Sicherheitsaspekten. Doch rechtlich ist das äußerst angreifbar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8178c129-9c12-4c31-bf04-6dd64d09e969_w1200_r1.778_fpx33.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9ef0191c-955f-4ebc-bd5a-e5fffb3876b5_w1200_r1.778_fpx46_fpy48.jpg"
         },
         {
-          "title": "Keir Starmer verkündet Rückzug: Aber warum läuft dabei für Musik?",
-          "url": "https://www.spiegel.de/ausland/keir-starmer-verkuendet-rueckzug-aber-warum-laeuft-dabei-fuer-musik-a-fd9ffaf5-0d19-4055-a0a0-608206bac61e#ref=rss",
-          "summary": "Eine ernste Rede, ins Lächerliche gezogen: Vor 10 Downing Street erklärt der britische Premier Keir Starmer gerade seinen Rücktritt vom Parteivorsitz, als von der Seite laute Musik ertönt.",
+          "title": "Irina Scherbakowa: »Stalin wollte nicht glauben, dass Deutschland sein Land attackieren würde«",
+          "url": "https://www.spiegel.de/geschichte/irina-scherbakowa-stalin-wollte-nicht-glauben-dass-deutschland-sein-land-attackieren-wuerde-a-c5929a3b-a51c-40e3-8346-6841c01db78b#ref=rss",
+          "summary": "Ihr Vater überlebte als sowjetischer Soldat die Schlacht um Stalingrad: Hier erklärt Historikerin Irina Scherbakowa die russische Perspektive auf Hitlers Vernichtungskrieg – und wie Putin sie instrumentalisiert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3528244d-2509-4e52-8855-2c66e9b06ab8_w1200_r1.778_fpx51_fpy37.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ceed642c-77fc-4e3a-ad05-0937290ef938_w1200_r1.778_fpx45_fpy46.jpg"
         },
         {
-          "title": "Ukraine-Krieg: Treibstoffkrise auf der Krim – russische Besatzer setzen Tourismus aus",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-treibstoffkrise-auf-der-krim-russische-besatzer-setzen-tourismus-aus-a-95e10d66-1ecf-4f15-bc1a-80d3d4311547#ref=rss",
-          "summary": "Seit Wochen greift Kyjiw die Benzinversorgung auf der von Russland besetzten Halbinsel Krim an. Jetzt haben die Behörden alle Ferienlager geschlossen, der Tourismus soll bis September eingestellt werden.",
+          "title": "WM 2026 Live: Argentinien gegen Österreich im Liveticker",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-argentinien-gegen-oesterreich-im-liveticker-a-2f221d46-8478-4ec4-a830-c5ae9d5e4a9c#ref=rss",
+          "summary": "Einen Elfmeter hatte er noch verschossen, aber jetzt hat Lionel Messi gegen Österreich doch noch getroffen. Es ist sein 17. WM-Tor, das war noch niemandem gelungen. Alles Wichtige im Livekommentar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d6e72a1a-c0d4-4ccf-acc7-821e956b434b_w1200_r1.778_fpx45_fpy53.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0cd958c1-4602-4070-ad12-071dba1d5dde_w1200_r1.778_fpx58.42_fpy49.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ex-US-Notenbanker Alan Greenspan stirbt mit 100 Jahren",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/alan-greenspan-gestorben-100.html",
-          "summary": "Er führte fast zwei Jahrzehnte lang die Fed und prägte damit die Weltwirtschaft: Alan Greenspan. Jetzt ist der ehemalige US-Notenbanker im Alter von 100 Jahren gestorben.",
+          "title": "Weiter viel Kritik am Gebäudemodernisierungsgesetz",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierungsgesetz-wirtschaftsausschuss-bundestag-100.html",
+          "summary": "Im Bundestag üben Experten und Verbände harte Kritik am neuen Gebäudemodernisierungsgesetz. Wegen verfassungsrechtlicher Bedenken will ein Verband nun gegen das Gesetz klagen. Von Jannik Pentz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9fba1b32-1fdb-4fd4-b078-94607cbcf09e/AAABnu84y7M/AAABnSSvrFg/16x9-big/greenspan-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/56868974-f13d-45fb-abe5-110e3e0ff38e/AAABnd0Bjdc/AAABnSSvrFg/16x9-big/heizung-202.jpg?width=1280"
         },
         {
-          "title": "Diesel kostet weniger als vor Beginn des Iran-Kriegs",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-diesel-vorkrisenniveau-tankrabatt-100.html",
-          "summary": "Im Zuge der Friedensgespräche zwischen den USA und Iran sinken die Ölpreise. Das macht sich auch an den Tankstellen bemerkbar. Vor allem Diesel ist deutlich günstiger als zuletzt. Bald läuft jedoch die Steuersenkung aus.",
+          "title": "Die Linke ringt um ihr Verhältnis zur CDU",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/linke-cdu-pantisano-100.html",
+          "summary": "Der neue Linken-Chef Pantisano bringt seine Partei mit einem missglückten Interview in Erklärungsnot. Während im Osten über Kooperationen mit der CDU diskutiert wird, wächst die Sorge vor einer Zerreißprobe im Kampf gegen die AfD. Von A. Budweg.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/eecd9422-366f-4a35-bd40-0f15444978f5/AAABnu7q9ls/AAABnSSvrFg/16x9-big/spritpreise-208.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5778e90a-a98f-4bd5-8b09-d5cc7fc7fc1d/AAABnvBNpnk/AAABnSSvrFg/16x9-big/pantisano-108.jpg?width=1280"
         },
         {
-          "title": "Märkte reagieren kühl auf Starmer-Rücktritt",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-starmer-grossbritannien-100.html",
-          "summary": "Scheinbar gelassen reagiert die Londoner Börse auf den Rücktritt des Premiers Keir Starmer. Am Devisen- und Anleihenmarkt hat die Dauerkrise auf der Insel aber bereits tiefe Spuren hinterlassen.",
+          "title": "Verhandlungen im Libanon-Konflikt: \"Waffenruhe heißt, dass weniger geschossen wird\"",
+          "url": "https://www.tagesschau.de/ausland/libanon-israel-usa-iran-verhandlungen-100.html",
+          "summary": "Vor neuen Verhandlungen mit Israel herrscht im Libanon ein fragiler Waffenstillstand. US-Präsident Trump setzt darauf, dass es ruhig bleibt - damit seine Vereinbarung mit Iran nicht gefährdet wird. Von Moritz Behrendt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/42b0c282-ff5e-42bf-a55a-acf3675721d6/AAABnu63u8U/AAABnSSvrFg/16x9-big/london-832.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6d9baaa6-a18b-49c9-aa60-c0a105044c27/AAABnvBH0i4/AAABnSSvrFg/16x9-big/libanon-438.jpg?width=1280"
         }
       ]
     },
@@ -101,9 +101,9 @@
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/4/5/7/3/batterie-produktion-e-auto-lithium-natrium-7bc09dbbbc3c28f0.jpg"
         },
         {
-          "title": "Rückzug nach Druck: Starmer kündigt seinen Rücktritt an",
-          "url": "https://www.telepolis.de/article/Rueckzug-nach-Druck-Starmer-kuendigt-seinen-Ruecktritt-an-11340177.html",
-          "summary": "Keir Starmer tritt als britischer Premier zurück – Andy Burnham gilt als Favorit für die Nachfolge. Doch das Land bleibt in politisch unsicheren Gewässern.",
+          "title": "Keir Starmer tritt zurück: Hat Großbritannien dieses Karussell satt?",
+          "url": "https://www.telepolis.de/article/Keir-Starmer-tritt-zurueck-Hat-Grossbritannien-dieses-Karussell-satt-11340177.html",
+          "summary": "Nach massivem Druck tritt Premier Keir Starmer zurück. Großbritannien droht mit dem siebten Regierungschef in zehn Jahren neues politisches Chaos.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/4/4/3/1/shutterstock_2427239485-aa7a3f52d040810f.jpg"
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "US-Notenbank Fed: Er sprach in rätselhaften Sätzen, auch mal mit dadaistischen Zügen",
-          "url": "https://www.sueddeutsche.de/wirtschaft/alan-greenspan-federal-reserve-us-notenbank-chef-tod-jahren-li.3503159",
-          "summary": "Alan Greenspan führte 19 Jahre lang die US-Notenbank und galt als Orakel. In seiner Amtszeit sorgte er für niedrige Zinsen, die Börsen boomten, danach kam die Finanzkrise. Jetzt ist er mit 100 Jahren gestorben.",
+          "title": "Nadiem Amiri: Der perfekte Einwechselspieler",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-nationalmannschaft-amiri-joker-li.3502605",
+          "summary": "Nadiem Amiri kam gegen die Elfenbeinküste von der Bank – und bereitete prompt den Ausgleich vor. Das ist kein Zufall: Amiri hat mit einer Mentaltrainerin daran gearbeitet, der optimale Joker zu sein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/22/a8c708af-6484-443e-9035-f696fdae3bc2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C175%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/06/22/68f38c98-7b2d-42b3-bff5-cc689ca9fc19.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=204%2C449%2C3306%2C1860"
         },
         {
-          "title": "Nepal: Die vielleicht bekannteste Leiche am Everest soll geborgen werden",
-          "url": "https://www.sueddeutsche.de/panorama/mount-everest-leiche-green-boots-bergsteiger-bergung-li.3502518",
-          "summary": "„Green Boots“ diente Bergsteigern am Mount Everest lange als Wegmarke. Die Identität des Toten mit den grünen Stiefeln ist seit 30 Jahren nicht zweifelsfrei geklärt. Das könnte sich bald ändern.",
+          "title": "Fußball-WM 2026: 17 WM-Treffer – Lionel Messi bricht Miroslav Kloses Rekord",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-deutschland-schiedsrichterin-ecuador-li.3492650",
+          "summary": "Der Argentinier verschießt gegen Österreich erst einen Elfmeter und trifft dann doch noch zum 1:0. Damit ist er nun alleiniger WM-Rekordtorschütze.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/22/08d03f90-987c-49c0-a2b0-2efe70bd29ed.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C142%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/06/22/49cbd701-cbd7-44fc-b093-db1682f2a1d5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C178%2C3637%2C2046"
         },
         {
-          "title": "Haftbefehl: „Ich kämpfe jeden Tag“",
-          "url": "https://www.sueddeutsche.de/kultur/haftbefehl-auftritte-absage-doku-netflix-li.3502735",
-          "summary": "Ende April gab Haftbefehl noch einen kurzen Auftritt am Ballermann, jetzt sagt der Rapper alle Shows ab: „Der ganze Rummel“ nach der Netflix-Doku habe seine Probleme verstärkt.",
+          "title": "Verletzung von Nico Schlotterbeck: Der goldene Fuß ist kaputt",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-schlotterbeck-verletzung-deutschland-li.3503252",
+          "summary": "Nico Schlotterbeck fällt für die WM aus, dabei sollten seine Pässe mit links elementarer Bestandteil des deutschen Spiels sein. Nun wird ihn der Rechtsfuß Antonio Rüdiger ersetzen – was Vor- und Nachteile mit sich bringt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/22/2fe321a6-c180-4123-9618-29f605e28523.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C229%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/22/24fe9f3c-55d4-4bd0-ae4c-aef6338e2751.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=395%2C807%2C3306%2C1860"
         }
       ]
     }
