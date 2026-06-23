@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-22T22:00:08.975Z",
-  "timestamp": "23.6.2026, 00:00:08",
+  "generated": "2026-06-23T02:00:09.925Z",
+  "timestamp": "23.6.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/2cda3ad33c2b/w6000h3135x0y433o/202606/43601.0.2248622430/in-hitzewellen-wie-dieser.webp"
         },
         {
-          "title": "Hitze-Liveblog: Frankreich meldet die höchste im Juni jemals gemessene Durchschnittstemperatur",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/hitze-im-liveticker-frankreich-meldet-hoechste-im-juni-jemals-gemessene-durchschnittstemperatur-faz-200949959.html",
+          "title": "Hitze-Liveblog: Hitze in Deutschland – Am Freitag könnte ein Rekord fallen",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/hitze-im-liveticker-hitze-in-deutschland-am-freitag-koennte-ein-rekord-fallen-faz-200949959.html",
           "summary": "Frankreich: vielerorts über 40 Grad +++ Weitere europäische Länder erwarten Hitzerekorde +++ Einheitliche Hitzeregeln für Schulen gefordert +++ Mehrere Menschen sterben bei Badeunfällen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/04d3d1d732bb/w8256h4313x0y466o/202606/43601.0.2249622543/in-frankreich-wurde-diesen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/16c54f7b6477/w6000h3135x0y433o/202606/43601.0.2249722734/touristinnen-schauen-vom.webp"
         }
       ]
     },
@@ -43,12 +43,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/1e1561f8-2599-4e98-be84-67120ac01100_w1200_r1.778_fpx66_fpy54.99.jpg"
         },
         {
-          "title": "WM 2026 Live: Frankreich gegen Irak im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-frankreich-gegen-irak-im-liveticker-a-2f221d46-8478-4ec4-a830-c5ae9d5e4a9c#ref=rss",
-          "summary": "In seinem 100. Länderspiel hat Kylian Mbappé für Frankreich getroffen. Es ist sein 15. WM-Tor, er ist damit mit Ronaldo gleichgezogen und liegt nur noch ein Tor hinter Miroslav Klose. Und drei hinter Lionel Messi.",
+          "title": "WM 2026: Kylian Mbappé bleibt Lionel Messi trotz Regen-Pause auf den Fersen",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-kylian-mbappe-bleibt-lionel-messi-trotz-regen-pause-auf-den-fersen-a-74e48deb-8066-44fc-a05b-0541d66a4856#ref=rss",
+          "summary": "Es regnete und regnete in Philadelphia, mehr als zwei Stunden dauerte die Halbzeitpause der WM-Partie zwischen Frankreich und Irak. Matchwinner war Kylian Mbappé. Er bleibt Lionel Messi auf den Fersen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/32756428-b0bf-4053-b893-77f4a3c532bb_w1200_r1.778_fpx30.73_fpy49.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/246bc3cd-7a56-47f7-82e1-93d4d5152dd0_w1200_r1.778_fpx40_fpy53.jpg"
         },
         {
           "title": "Gregor Gysi: 7200 Euro für einen Auftritt – der Linkenpolitiker ist mit seinen Reden einer der Großverdiener im Bundestag",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Regierungsbildung in Rumänien gescheitert - Proeuropäer unter Druck",
+          "url": "https://www.tagesschau.de/ausland/europa/rumaenien-regierungsbildung-scheitern-100.html",
+          "summary": "In Rumänien hat das Parlament den prowestlichen Politiker Adrian Vestea als Regierungschef abgelehnt. Damit verlängert sich die politische Krise in dem EU-Land. Der Staatspräsident muss nun einen neuen Kandidaten finden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4d127080-b6d1-4469-9c41-c4be6fd1337a/AAABnvIV8-8/AAABnSSvrFg/16x9-big/adrian-vestea-100.jpg?width=1280"
+        },
+        {
           "title": "Ex-Gotteskrieger verhandelt mit EU über Abschiebungen",
           "url": "https://www.tagesschau.de/investigativ/ndr/afghanistan-taliban-eu-verhandlungen-100.html",
           "summary": "Eine fünfköpfige Delegation der Taliban soll in Brüssel mit Vertretern von EU-Staaten über Abschiebungen nach Afghanistan verhandeln. Angeführt werden sie von einem Mann, der gegen die Bundeswehr kämpfte. Von Peter Hornung",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/52a1e14a-1dbc-42fe-8faa-8c750176a9aa/AAABnvCC4s4/AAABnSSvrFg/16x9-big/clive-davis-tot-102.jpg?width=1280"
-        },
-        {
-          "title": "Weiter viel Kritik am Gebäudemodernisierungsgesetz",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierungsgesetz-wirtschaftsausschuss-bundestag-100.html",
-          "summary": "Im Bundestag üben Experten und Verbände harte Kritik am neuen Gebäudemodernisierungsgesetz. Wegen verfassungsrechtlicher Bedenken will ein Verband nun gegen das Gesetz klagen. Von Jannik Pentz.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/56868974-f13d-45fb-abe5-110e3e0ff38e/AAABnd0Bjdc/AAABnSSvrFg/16x9-big/heizung-202.jpg?width=1280"
         }
       ]
     },
@@ -122,12 +122,20 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fußball-WM 2026: Präsidentin lädt Ente ein",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-philadelphia-wetter-li.3492650",
-          "summary": "Der Ente Merlin wird in Mexiko eine besondere Ehre zuteil. Eine US-Schiedsrichterin leitet das Spiel des DFB-Teams gegen Ecuador.",
+          "title": "Fußball-WM: Zwei Stunden Unterbrechung halten Mbappé nicht auf",
+          "url": "https://www.sueddeutsche.de/sport/frankreich-irak-gewitter-wm-li.3503452",
+          "summary": "Die Partie zwischen Frankreich und Irak muss wegen eines Gewitters in Philadelphia sehr lang pausieren. Der Favorit setzt sich trotzdem klar durch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/22/8a9aca7a-c288-4a1e-bb6a-b1f14b384113.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C163%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/23/7eb9748f-6253-4681-aa5c-da443dd9ea53.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C328%2C3150%2C1772"
+        },
+        {
+          "title": "Fußball-WM 2026: Wetter in den USA sorgt für Spielunterbrechung und Trainingsabbruch",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-philadelphia-wetter-li.3492650",
+          "summary": "Wegen Gewitters wird das Spiel zwischen Frankreich und Irak über zwei Stunden unterbrochen und das Training der Spanier kann nicht stattfinden. Der Ente Merlin wird in Mexiko eine besondere Ehre zuteil.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/22/c3186414-d719-4c90-9f26-d9a963a1a128.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         },
         {
           "title": "WM-Treffer 17 und 18: Messi denkt an die Ewigkeit",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/22/4ff2d178-2695-4ede-9a96-448473b58710.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
-        },
-        {
-          "title": "Reaktion auf WM-Treffer 17 und 18: Klose gratuliert Messi zum Torrekord",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-klose-gratuliert-messi-rekord-tore-li.3503404",
-          "summary": "„Ich habe doch immer gesagt, der Messi ist kein Schlechter“: Mit nun 18 Treffern hat der Argentinier Lionel Messi den Deutschen Miroslav Klose als WM-Rekordtorschütze abgelöst. Aber Klose nimmt es mit Humor.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/22/1807903e-42ee-4a95-8cc1-fa54d3442d54.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=288%2C0%2C2880%2C1620"
         }
       ]
     }
