@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-24T18:00:08.726Z",
-  "timestamp": "24.6.2026, 20:00:08",
+  "generated": "2026-06-24T22:00:16.751Z",
+  "timestamp": "25.6.2026, 00:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Kritik aus dem Osten: Torpediert Schwesig die Rentenreform?",
-          "url": "https://www.faz.net/aktuell/politik/inland/schwesig-kritisiert-rentenreform-200960126.html",
-          "summary": "Die Ministerpräsidentin übt Kritik, um die eigene Wahl zu gewinnen. Oder will sie doch noch einen anderen SPD-Posten?",
+          "title": "Buchungszurückhaltung: Zum Ferienbeginn werden noch Urlauber gesucht",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tui-sommerurlaub-jetzt-noch-guenstige-last-minute-angebote-200962907.html",
+          "summary": "Wegen des Irankriegs sind die Neubuchungen eingebrochen. Zu Beginn der Sommerferien setzt der TUI-Konzern auf Kurzentschlossene. Urlaubsforscher befürchten, dass vielerorts die Urlaubskasse leer ist.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8c1b3d23bf76/w6000h3135x0y308o/202606/43601.0.2252592630/manuela-schwesig-spd.webp"
+          "image": "https://media0.faz.net/image/w1200h627/22a0c6ec2acc/w2440h1274x513y496o/202508/43601.0.1201990768/viele-schirme-reichlich-platz.webp"
         },
         {
-          "title": "Rentenkommission: Minijobbern droht Abgabenschock",
-          "url": "https://www.faz.net/aktuell/wirtschaft/minijobbern-droht-abgabenschock-200962799.html",
-          "summary": "Gewerkschaften kämpfen seit je gegen den Minijob und seine Abgabenvorteile. Nun rückt deren Abschaffung auf die Agenda. Mögliche Folge: Von 603 Euro Nettolohn bleiben nicht mal mehr 475 Euro übrig.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/516fc92035d0/w3200h1672x0y229o/202310/43600.0.2137269698/sauber-im.webp"
-        },
-        {
-          "title": "Rentenpaket: Was bringt eine Kapitalrente?",
-          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/was-bringt-die-neue-kapitalrente-antworten-zur-rentenreform-accg-200958394.html",
-          "summary": "Die Rentenkommission hat sich sehr deutlich für mehr Kapitalmarkt im deutschen Rentensystem ausgesprochen. Dazu gibt es viele Fragen. Wir liefern einige Antworten.",
+          "title": "Ab in den Urlaub: So schonen Sie Ihre Reisekasse",
+          "url": "https://www.faz.net/aktuell/finanzen/die-groessten-kostenfallen-im-urlaub-und-wie-sie-sie-umgehen-accg-200940729.html",
+          "summary": "Die Sommerferien stehen vor der Tür: Kein preiswertes Vergnügen, das sich aber trotzdem viele Deutsche noch leisten. Die F.A.Z. gibt Tipps, wie Sie Ihre Reisekasse vor unnötigen Kosten schützen.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/81857783f944/w6000h3135x0y433o/202606/43601.0.2250858398/wichtige-informationen-fuer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c9d60e1ef916/w5851h3057x0y617o/202604/43601.0.2025149518/der-berg-saentis-so-schoen-die.webp"
+        },
+        {
+          "title": "Business-Ticker: Ölpreise fallen auf tiefsten Stand seit Beginn des Irankriegs",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-oelpreise-fallen-auf-tiefsten-stand-seit-beginn-des-irankriegs-faz-200452404.html",
+          "summary": "Brent und WTI geben deutlich nach +++ Rheinmetall-Aktienkurs fällt um 17 Prozent +++ Ifo-Index legt nach Iran-Einigung zu +++ Neuigkeiten im Unternehmen-Liveblog.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/691cfc40b9b1/w3968h2073x0y79o/202606/43601.0.2236722847/schiffe-in-der-strasse-von.webp"
         }
       ]
     },
@@ -35,20 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Zohran Mamdani: New Yorker Bürgermeister baut seine Machtbasis in der Demokratischen Partei aus",
-          "url": "https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss",
-          "summary": "Bei den Vorwahlen in New York zeigt sich der junge Bürgermeister Zohran Mamdani als Königsmacher: Seine Kandidaten gewinnen gegen die des demokratischen Establishments. Strategen sprechen vom »Bürgerkrieg« innerhalb der Partei.",
+          "title": "E5-Gipfel im Kanzleramt: Wie Merz und Europas Spitzen Trump beeindrucken wollen",
+          "url": "https://www.spiegel.de/politik/deutschland/e5-gipfel-im-kanzleramt-wie-merz-und-europas-spitzen-trump-beeindrucken-wollen-a-bca37fc5-f262-4711-bc3d-b3dbeeec08c9#ref=rss",
+          "summary": "Der Kanzler und seine Amtskollegen aus Frankreich, Großbritannien, Italien und Polen wollen verhindern, dass der kommende Nato-Gipfel im Chaos endet. Also geben sie sich stark und geeint. Doch die Inszenierung hat Risse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/93ca7e9e-6ad4-4c1c-9e5a-fdd08b0cbd00_w1200_r1.778_fpx64_fpy50.jpg"
-        },
-        {
-          "title": "News des Tages: Deutsche Bahn, Friedrich Merz, Rente, Klima, Elon Musk, SpaceX",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bahn-friedrich-merz-rente-klima-elon-musk-spacex-a-f2ea9697-dd70-4d10-9c0a-e5bef6665be7#ref=rss",
-          "summary": "Nach einem Ausfall wegen Funkstille rollen die Züge wieder. Merz muss sich fragen lassen, ob er die Rente rettet, aber das Klima schrottet. Und Elon Musk ist nur noch Milliardär. Das ist die Lage am Mittwochabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/c786b153-e429-4df4-b745-5cc3cba08835_w1200_r1.778_fpx55.01_fpy57.34.jpg"
         },
         {
           "title": "Kriegsverbrecher-Tribunal in Den Haag: Wohin mit den Beweisen für ein Jahrhundertverbrechen?",
@@ -57,6 +49,14 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/3ec3e0c0-176f-415c-8fd5-348a2462a376_w1200_r1.778_fpx37.5_fpy50.jpg"
+        },
+        {
+          "title": "Zohran Mamdani: New Yorker Bürgermeister baut seine Machtbasis in der Demokratischen Partei aus",
+          "url": "https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss",
+          "summary": "Bei den Vorwahlen in New York zeigt sich der junge Bürgermeister Zohran Mamdani als Königsmacher: Seine Kandidaten gewinnen gegen die des demokratischen Establishments. Strategen sprechen vom »Bürgerkrieg« innerhalb der Partei.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/93ca7e9e-6ad4-4c1c-9e5a-fdd08b0cbd00_w1200_r1.778_fpx64_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wahlstreit in Kolumbien beigelegt: Linker Kandidat räumt Niederlage ein",
-          "url": "https://www.tagesschau.de/ausland/amerika/wahlergebnis-kolumbien-100.html",
-          "summary": "Der Rechtsruck in Südamerika setzt sich fort: In Kolumbien gewinnt mit de la Espriella ein weiterer rechtsgerichteter Politiker die Präsidentschaftswahl. Der linke Kandidat Cepeda räumte seine Niederlage ein.",
+          "title": "Bilanz des Verteidigungsministeriums: Mehr junge Menschen wollen zur Bundeswehr",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-1122.html",
+          "summary": "Der neue Wehrdienst steigert die Zahl der Bewerbungen für die Bundeswehr: Das Verteidigungsministerium hat Bilanz gezogen - und auch Zahlen zum Rücklauf bei den Fragebögen veröffentlicht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e98a0278-86f9-4e1b-b71d-c4317b5ad121/AAABnvqMVXg/AAABnSSvrFg/16x9-big/cepeda-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e89697e4-8697-455b-80ca-c8eee11f6e74/AAABnW5fiTQ/AAABnSSvrFg/16x9-big/bundeswehr-1016.jpg?width=1280"
         },
         {
-          "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-          "url": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-          "summary": "Donnerstag ist es meist sonnig, später gibts über den Bergen ein paar Quellwolken, aber es bleibt trocken. 22 Grad auf den Nordseeinseln bis 39 Grad im Südwesten.",
+          "title": "Debatte über Äußerungen Pantisanos: \"Infam, geschichtsvergessen und niederträchtig\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/pantisano-aktuelle-stunde-100.html",
+          "summary": "Der neue Linken-Chef Pantisano hat von einer \"faschistischen Politik\" der CDU gesprochen. Auch wenn er sich später entschuldigte - so schnell vergessen ist es offenbar nicht. Im Bundestag wurde hitzig darüber debattiert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABnvqxMIo/AAABnSSvrFg/16x9-big/teaserbild-124.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f3b22f41-342e-4e91-b816-1515df991295/AAABnvseP5U/AAABnSSvrFg/16x9-big/pantisano-114.jpg?width=1280"
         },
         {
-          "title": "Hitzewelle in Europa - Vereinigtes Königreich bricht Temperaturrekord",
-          "url": "https://www.tagesschau.de/ausland/europa/hitzewelle-temperaturrekorde-100.html",
-          "summary": "Europa ächzt weiter unter einer Hitzewelle. Großbritannien verzeichnet die höchste Juni-Temperatur seit Beginn der Aufzeichnungen. Und auch Frankreich meldet Rekord-Hitze - mit 40,9 Grad in Paris.",
+          "title": "\"Hartes Ende\" - Pistorius stoppt F126-Fregatten-Pläne",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/fregatte-ausstieg-pistorius-100.html",
+          "summary": "Verteidigungsminister Pistorius zieht die Reißleine beim Marine-Projekt zum Bau von F126-Fregatten. 2,3 Milliarden Euro an Steuergeld sind bereits in das Projekt geflossen. Die Opposition spricht von einer \"teuren Blamage\". Von Oliver Neuroth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/26ea23fb-7306-4617-9a79-54b3257466e2/AAABnvqWwuk/AAABnSSvrFg/16x9-big/hitze-grossbritannien-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c7c38d7e-46ee-45ac-badc-b52be4d2a8b3/AAABnvp_Va0/AAABnSSvrFg/16x9-big/pistorius-642.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Omega-Lage über Europa: Warum die Hitze nicht weichen will",
+          "url": "https://www.telepolis.de/article/Omega-Lage-ueber-Europa-Warum-die-Hitze-nicht-weichen-will-11343788.html",
+          "summary": "Frankreich, Großbritannien und Italien verzeichnen historische Juni-Rekorde. Ein blockiertes Strömungsmuster hält die Temperaturen fest.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/6/2/5/1/shutterstock_1761076565-d12598c8f9099dd6.jpg"
+        },
         {
           "title": "Pazifik-Machtkampf: Wie Chinas DF-17-Rakete die US-Abwehr aushebelt",
           "url": "https://www.telepolis.de/article/Pazifik-Machtkampf-Wie-Chinas-DF-17-Rakete-die-US-Abwehr-aushebelt-11343456.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/5/9/5/9/shutterstock_502044892-acb298bfb32d88e8.jpg"
-        },
-        {
-          "title": "Warum der US-Dollar trotz des Iran-Krieges (noch) dominant bleibt",
-          "url": "https://www.telepolis.de/article/Warum-der-US-Dollar-trotz-des-Iran-Krieges-noch-dominant-bleibt-11342725.html",
-          "summary": "Nicht der Krieg, sondern Washington selbst könnte die Dominanz des Greenbacks gefährden. Denn die eigentliche Bedrohung lauert im Inneren. Ein Gastbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/5/7/1/5/shutterstock_1106325101-e7dbc4b14df5ddf6.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "René Benko: Der Trick mit dem Staubsauger",
-          "url": "https://www.sueddeutsche.de/wirtschaft/rene-benko-muenchen-ermittlungen-finanzverschiebungen-signa-li.3504447",
-          "summary": "Das Geld von Investoren sollte im Reich von René Benko immer „zentral nach Österreich“ geschoben werden. Die Münchner Staatsanwaltschaft ermittelt nun wegen möglicher Untreue und Betrugs.",
+          "title": "Bosnien bei der WM 2026: Bosnien hat das Sechzehntelfinale so gut wie sicher",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-ergebnisse-heute-bosnien-katar-dzeko-li.3504728",
+          "summary": "Mit der Unterstützung vieler tausender Fans schlägt Bosnien Außenseiter Katar mit 3:1 - und sichert den dritten Platz in der Gruppe. Die K.-o.-Runde dürfte ihnen nicht mehr zu nehmen sein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/24/69c12418-4027-49d5-b646-4360e90470a2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C81%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/06/24/ea0a3d6e-9eea-4d94-a565-fe13987234de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C428%2C3330%2C1873"
         },
         {
-          "title": "Stadtpolitik: Wie läuft’s mit dem grünen Umbau Münchens, Herr Krause?",
-          "url": "https://www.sueddeutsche.de/wirtschaft/muenchen-umbau-wohnungsbau-ob-krause-li.3502055",
-          "summary": "Aufbruch und Erneuerung hat der grüne Oberbürgermeister vor seiner Wahl versprochen. Doch genau das zu liefern ist nicht immer leicht, wie bei seinem Auftritt beim SZ-Nachhaltigkeitsgipfel deutlich wird.",
+          "title": "Schweiz bei der WM 2026: In Vancouver läuten die Kuhglocken",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-ergebnisse-heute-schweiz-kanada-li.3504115",
+          "summary": "Die Schweiz sichert sich mit einem am Ende etwas schmeichelhaften 2:1 gegen Co-Gastgeber Kanada den Gruppensieg. Entscheidender Spieler ist dabei einmal mehr Freiburgs Johan Manzambi.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/24/0c13c366-d162-4ba6-ba28-9717051c53f8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C273%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/24/345c0305-b82f-455d-bcc7-2442b195c3e2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         },
         {
-          "title": "Heimatpflege in Bayern: Hopfenanbau ist immaterielles Kulturerbe",
-          "url": "https://www.sueddeutsche.de/bayern/hallertau-spalt-bayern-hopfenanbau-kulturerbe-li.3504679",
-          "summary": "Hopfen aus Bayern wird in die ganze Welt verkauft. Doch die Felder mit den markanten Dolden sind weit mehr als nur Rohstofflieferant.",
+          "title": "E5-Treffen in Berlin: Wie fünf Europäer die Nato retten wollen",
+          "url": "https://www.sueddeutsche.de/politik/nato-gipfel-berlin-europa-ukrainekrieg-sicherheit-europas-donald-trump-e5-li.3504280",
+          "summary": "Der Gipfel der Allianz in Ankara gilt als schicksalhaft. Friedrich Merz lud deshalb vier Staats- und Regierungschefs zu einer Vorbesprechung ins Kanzleramt. Besonders emotional wurde es für einen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/24/da17723e-b630-4b87-9cfa-d9f1ced426ac.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/24/eac61beb-04bb-48aa-9d7d-2690220cd57f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=244%2C468%2C1679%2C944"
         }
       ]
     }
