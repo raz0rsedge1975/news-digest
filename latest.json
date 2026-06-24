@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-24T02:00:10.336Z",
-  "timestamp": "24.6.2026, 04:00:10",
+  "generated": "2026-06-24T06:00:08.883Z",
+  "timestamp": "24.6.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Wegen Funkstörung: Nach komplettem Stillstand läuft Bahnverkehr wieder an",
-          "url": "https://www.faz.net/aktuell/gesellschaft/zugbetrieb-bundesweit-eingestellt-massive-beeintraechtigung-durch-funkstoerung-200960759.html",
-          "summary": "Der Zugverkehr ist am Dienstagabend in ganz Deutschland eingestellt worden. Die Bahn nennt als Ursache eine Störung des digitalen Bahnfunks GSMR. Nach Mitternacht begannen die ersten Züge wieder zu rollen.",
+          "title": "Künstliche Intelligenz: Denken die Deutschen an KI, dann denken sie an Fortschritt",
+          "url": "https://www.faz.net/aktuell/politik/inland/umfrage-zu-ki-deutsche-sehen-gefahren-und-chancen-accg-200958529.html",
+          "summary": "Die Deutschen sind hin- und hergerissen: Viele teilen die Faszination für Künstliche Intelligenz, doch die Sorge vor negativen Folgen der Technik ist weit verbreitet.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/404943ef1873/w3505h1831x0y398o/202606/43601.0.2254359309/nichts-geht-mehr-anzeige-auf.webp"
+          "image": "https://media0.faz.net/image/w1200h627/bb516cb727d9/w3000h1567x0y155o/202503/43601.0.893738049/schueler-eines-gymnasiums-in.webp"
         },
         {
-          "title": "F.A.Z.-Empfang in Berlin: Menschen mit Menschen",
-          "url": "https://www.faz.net/aktuell/politik/inland/faz-sommerempfang-2026-im-berliner-borchardt-200956073.html",
-          "summary": "schreiben Menschen für Menschen. Und die geballte menschliche Intelligenz kann auch feiern. Ein heißer Abend im Berliner Borchardt.",
+          "title": "Kritik und KI: Lob der Langsamkeit",
+          "url": "https://www.faz.net/aktuell/politik/inland/warum-eltern-nicht-nur-auf-ihre-handys-gucken-sollten-200935950.html",
+          "summary": "Durch KI wird plötzlich alles ganz schnell. Lernen aber ist langsam. Und das kann nicht ersetzt werden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/628689b51211/w5434h2839x0y675o/202606/43601.0.2254072249/warmer-sommerabend-mit-kuehlen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c1827993f508/w6720h3511x0y786o/202606/43601.0.2227933669/eine-frau-geht-in-einem-park.webp"
         },
         {
-          "title": "Beziehung zur Industrie: Ist Merz der Kanzler der Bosse?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/verhaeltnis-zur-industrie-ist-merz-der-kanzler-der-bosse-200957392.html",
-          "summary": "Erst waren sie seine größten Fans, dann seine größten Kritiker – und jetzt? Über das komplizierte Verhältnis zwischen der Wirtschaft und Friedrich Merz.",
+          "title": "Funkstörung: Nach komplettem Stillstand läuft Bahnverkehr wieder an",
+          "url": "https://www.faz.net/aktuell/gesellschaft/nach-komplettem-stillstand-laeuft-bahnverkehr-wieder-an-200960759.html",
+          "summary": "Wegen einer Funkstörung stand der Zugverkehr in ganz Deutschland am Dienstagabend still. In der Nacht rollten die ersten Züge wieder an – am Mittwochmorgen ist nur noch vereinzelt mit Einschränkungen zu rechnen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6b2098dd7632/w5472h2859x0y375o/202606/43601.0.2251708690/friedrich-merz-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/04dbfe285b7d/w6000h3135x0y556o/202606/43601.0.2254474406/in-berlin-am-hauptbahnhof.webp"
         }
       ]
     },
@@ -35,9 +35,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Deutsche Bahn: Erst Züge fahren wieder nach bundesweitem Ausfall wieder",
+          "title": "Deutsche Bahn: Erste Züge fahren nach bundesweitem Ausfall wieder",
           "url": "https://www.spiegel.de/panorama/deutsche-bahn-erst-zuege-fahren-wieder-nach-bundesweitem-ausfall-wieder-a-74fcd72d-64a3-4365-b901-5027eac4b787#ref=rss",
-          "summary": "Im ganzen Land standen Züge der Deutschen Bahn für rund anderthalb Stunden still. Nun rollen die ersten zwar wieder. Es wird aber noch lange mit Verspätungen und Ausfällen gerechnet. Die Ursache der Störung ist offenbar gefunden.",
+          "summary": "Im ganzen Land standen Züge der Deutschen Bahn für rund anderthalb Stunden still. Nun rollen die ersten wieder. Es wird aber noch lange mit Verspätungen und Ausfällen gerechnet. Die Ursache der Störung ist offenbar gefunden.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/85e02e0b-d294-4dd1-8d78-b1e6b0d5a21c_w1200_r1.778_fpx35_fpy66.jpg"
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/c263a43c-b342-4f5c-8305-9f50232bd4ef_w1200_r1.778_fpx48_fpy39.jpg"
         },
         {
-          "title": "Zweiter Weltkrieg: Wie ein Enkel der Schuld des Großvaters auf die Spur kam",
-          "url": "https://www.spiegel.de/geschichte/zweiter-weltkrieg-wie-ein-enkel-der-schuld-des-grossvaters-auf-die-spur-kam-a-4b07b535-7fb1-44a6-96a2-2cb68ff1ef10#ref=rss",
-          "summary": "Aus Scham und Schuld wurden die Verbrechen der Wehrmacht im Zweiten Weltkrieg lange totgeschwiegen. Der Historiker Johannes Hürter erzählt, wie er seinen Großvater zum Reden gebracht hat.",
+          "title": "News: Hitze-Welle in Europa, Social-Media-Verbot, Panzer-Hersteller KNDS",
+          "url": "https://www.spiegel.de/politik/deutschland/news-hitze-welle-in-europa-social-media-verbot-panzer-hersteller-knds-a-375ede7d-bd66-419f-ab23-104325e35a27#ref=rss",
+          "summary": "Die Klimakatastrophe ist längst da. Familienministerin Prien muss sich zu einem Social-Media-Verbot für Minderjährige verhalten. Und: Der Bund steigt wohl beim Panzerbauer KNDS ein. Das ist die Lage am Mittwochmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a974ac2d-c6fc-4668-9d34-abb8eeb2730d_w1200_r1.778_fpx43.09_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Senat stimmt gegen Iran-Einsätze ohne Kongressmandat",
-          "url": "https://www.tagesschau.de/ausland/amerika/uskongress-iran-trump-100.html",
-          "summary": "Der US-Senat hat Präsident Trump aufgefordert, vor einem Militäreinsatz gegen Iran eine Genehmigung des Kongresses einzuholen. Der Schritt ist symbolisch - allerdings stimmten auch vier Republikaner für die Resolution.",
+          "title": "Wie gut funktioniert Australiens Social-Media-Verbot?",
+          "url": "https://www.tagesschau.de/ausland/ozeanien/australien-verbot-socialmedia-100.html",
+          "summary": "Seit gut einem halben Jahr sind in Australien Accounts in sozialen Medien für unter 16-Jährige tabu - eigentlich, denn es gibt Schlupflöcher. Und manchmal hilft sogar Michael Jackson beim Schummeln. Von Jennifer Johnston.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f554b08d-b42a-48e0-af88-775d5865551f/AAABm4gyzE8/AAABnSSvrFg/16x9-big/us-kapitol-152.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/88eb1a88-3d81-438c-a7a8-aa4677612222/AAABnvgrZU4/AAABnSSvrFg/16x9-big/jugendliche-soziale-medien-handys-100.jpg?width=1280"
         },
         {
-          "title": "NATO-Generalsekretär Rutte trifft Präsident Trump in Washington",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-nato-rutte-100.html",
-          "summary": "Der Iran-Krieg hat die Spannungen zwischen den USA und vielen europäischen NATO-Partnerstaaten verdeutlicht. Beim Treffen von NATO-Generalsekretär Rutte mit Präsident Trump gibt es viel Gesprächsstoff. Von Carsten Kühntopp.",
+          "title": "11KM-Podcast: Wie Putin seine Schattenflotte schützen will",
+          "url": "https://www.tagesschau.de/podcast-11km-russland-schattenflotte-100.html",
+          "summary": "Die russische Schattenflotte reagiert auf den Druck des Westens mit vermehrt kampfbereiten Crews. 11KM über aufschlussreiche Daten, die Russland gerne geheim gehalten hätte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8f4be6a6-b384-4090-9b1c-c731c179c7aa/AAABnEbh_-w/AAABnSSvrFg/16x9-big/trump-rutte-davos-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8f17c86e-fd57-488d-80a8-42971c654831/AAABnvKiwq8/AAABnSSvrFg/16x9-big/podcast-11km-3684.jpg?width=1280"
         },
         {
-          "title": "Bundesweite IT-Störung bei der Bahn behoben - Zugverkehr läuft wieder an",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-behoben-100.html",
-          "summary": "Die Störung bei der Deutschen Bahn ist nach Unternehmensangaben behoben. Der Zugverkehr läuft wieder an, es wird aber zu Folgeverspätungen und kurzfristigen Fahrtausfällen kommen.",
+          "title": "BND und Verfassungsschutz - Die Spione sorgen sich um ihre Sicherheit",
+          "url": "https://www.tagesschau.de/investigativ/wdr/spione-sicherheit-100.html",
+          "summary": "Bei den deutschen Nachrichtendiensten häufen sich Verdachtsfälle von Ausspähung. Beim BND und beim Verfassungsschutz sieht man sich zunehmend im Fokus russischer Geheimdienste - und verschärft die Sicherheitsmaßnahmen. Lehberger und F.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/50a91348-db15-453d-b7bf-8d6021e56a4d/AAABnva8uVM/AAABnSSvrFg/16x9-big/deutsche-bahn-tafel-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a6e0d9de-5d30-4538-9767-4dac22e3c10c/AAABngPU9uY/AAABnSSvrFg/16x9-big/bnd-besucherzentrum-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Chinesisches KI-Startup: DeepSeek baut KI-Agentensparte auf",
+          "url": "https://www.telepolis.de/article/Chinesisches-KI-Startup-DeepSeek-baut-KI-Agentensparte-auf-11341696.html",
+          "summary": "DeepSeek baut mit seinem neuen Harness-Team sein Engagement im Markt für KI-Agenten aus – und kämpft dabei mit einem akuten Fachkräftemangel.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/5/1/9/7/shutterstock_2578334337-c59b78822ff631d0.jpg"
+        },
         {
           "title": "Präzedenzfall Garfield AI: Wie ein Algorithmus das Gericht erobert",
           "url": "https://www.telepolis.de/article/Praezedenzfall-Garfield-AI-Wie-ein-Algorithmus-das-Gericht-erobert-11341806.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/5/0/1/5/shutterstock_528525355-651c99d9a15da776.jpg"
-        },
-        {
-          "title": "Aktienrente und höheres Rentenalter: So radikal baut Merz die Rente um",
-          "url": "https://www.telepolis.de/article/Aktienrente-und-hoeheres-Rentenalter-So-radikal-baut-Merz-die-Rente-um-11341464.html",
-          "summary": "Bundeskanzler Merz will alle 33 Vorschläge der Rentenkommission umsetzen. Neben dem Börsen-Pflichtbeitrag droht das Aus für die Frührente.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/5/0/7/8/shutterstock_2709409513-0cf0282372aba5a2.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Verkehr: Nach bundesweitem Ausfall: Bahnstörung komplett behoben",
+          "title": "Wetter: Analyse: Klimawandel macht Hitzewelle bis zu vier Grad heißer",
+          "url": "https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-analyse-klimawandel-temperaturen-li.3502376",
+          "summary": "Wissenschaftler erkennen in der aktuellen Hitzewelle ein bekanntes Muster – mit einem Unterschied: Die Temperaturen nähern sich dem Limit, an das sich Menschen und Ökosysteme anpassen können.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/21/649227ee-2224-4908-ac98-b83d248821db.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=197%2C196%2C1399%2C787"
+        },
+        {
+          "title": "USA: US-Richter stoppt ICE-Festnahmen in Einwanderungsgerichten",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-ice-richter-festnahmen-einwanderungsgerichte-li.3494806",
+          "summary": "Der Beschluss stoppt einen besonders umstrittenen Teil der Abschiebepolitik von US-Präsident Trump. ICE-Mitarbeiter hatten im vergangenen Jahr immer wieder Migranten in den Fluren von Gerichtsgebäuden festgenommen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/18/8295b541-809f-4767-8486-700498cdf960.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C166%2C2597%2C1461"
+        },
+        {
+          "title": "Verkehr: Nach bundesweiter Bahnstörung: Verspätungen und Ausfälle",
           "url": "https://www.sueddeutsche.de/panorama/bahn-zugverkehr-stoerung-li.3504078",
-          "summary": "Der Bahnverkehr soll nun schrittweise wieder anlaufen. Zuvor hatte eine Störung des digitalen Bahnfunks den Fern-  und Regionalverkehr sowie die S-Bahnen bundesweit lahmgelegt.",
+          "summary": "Der Bahnverkehr ist wieder schrittweise angelaufen – Einschränkungen bleiben aber weiter bestehen. Eine Störung des digitalen Bahnfunks hatte den Fern-  und Regionalverkehr sowie die S-Bahnen bundesweit lahmgelegt.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/23/902abffa-afb4-4144-af1b-b35e0418165a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "0:0 in Foxborough: Ghana verdirbt England komplett den Spaß",
-          "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-england-ghana-li.3504083",
-          "summary": "Kane vergibt seine einzige große Chance, Tuchels Wechsel verpuffen: England liefert im zweiten Gruppenspiel einen enttäuschenden Auftritt. Ghanas Defensivtaktik geht voll auf.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/23/7f887fb4-994d-4d93-abe3-695818b0226a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C246%2C4000%2C2250"
-        },
-        {
-          "title": "Krieg in Nahost: Dämpfer für Trump: US-Senat stimmt für Ende der Angriffe auf Iran",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-senat-usa-abstimmung-li.3500746",
-          "summary": "Die republikanisch dominierte Kammer stimmt mit 50 zu 48 Stimmen für die Resolution, die Anfang Juni bereits vom Repräsentantenhaus verabschiedet worden war. Die genauen Konsequenzen der Abstimmung sind unklar.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/23/728ff970-c295-450d-acc8-13d9aecbb63b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C158%2C4000%2C2250"
         }
       ]
     }
