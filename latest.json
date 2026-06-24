@@ -1,10 +1,18 @@
 {
-  "generated": "2026-06-23T22:00:13.771Z",
-  "timestamp": "24.6.2026, 00:00:13",
+  "generated": "2026-06-24T02:00:10.336Z",
+  "timestamp": "24.6.2026, 04:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Wegen Funkstörung: Nach komplettem Stillstand läuft Bahnverkehr wieder an",
+          "url": "https://www.faz.net/aktuell/gesellschaft/zugbetrieb-bundesweit-eingestellt-massive-beeintraechtigung-durch-funkstoerung-200960759.html",
+          "summary": "Der Zugverkehr ist am Dienstagabend in ganz Deutschland eingestellt worden. Die Bahn nennt als Ursache eine Störung des digitalen Bahnfunks GSMR. Nach Mitternacht begannen die ersten Züge wieder zu rollen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/404943ef1873/w3505h1831x0y398o/202606/43601.0.2254359309/nichts-geht-mehr-anzeige-auf.webp"
+        },
         {
           "title": "F.A.Z.-Empfang in Berlin: Menschen mit Menschen",
           "url": "https://www.faz.net/aktuell/politik/inland/faz-sommerempfang-2026-im-berliner-borchardt-200956073.html",
@@ -12,14 +20,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/628689b51211/w5434h2839x0y675o/202606/43601.0.2254072249/warmer-sommerabend-mit-kuehlen.webp"
-        },
-        {
-          "title": "Funkstörung: Bahnverkehr bundesweit eingestellt",
-          "url": "https://www.faz.net/aktuell/gesellschaft/zugbetrieb-bundesweit-eingestellt-massive-beeintraechtigung-durch-funkstoerung-200960759.html",
-          "summary": "Der Zugverkehr ist derzeit bundesweit eingestellt. Mehrere Betreiber berichten von erheblichen Beeinträchtigungen durch eine bundesweite Funkstörung. Das genaue Ausmaß und die Hintergründe sind derzeit noch unklar.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/404943ef1873/w3505h1831x0y398o/202606/43601.0.2254359309/nichts-geht-mehr-anzeige-auf.webp"
         },
         {
           "title": "Beziehung zur Industrie: Ist Merz der Kanzler der Bosse?",
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Deutsche Bahn: Bundesweiter Ausfall des Zugfunks legt Bahnverkehr lahm",
-          "url": "https://www.spiegel.de/mobilitaet/bus-bahn/deutsche-bahn-bundesweiter-ausfall-des-zugfunks-legt-bahnverkehr-lahm-a-7aa32bf5-4c51-4769-af66-29fc3261b8c5#ref=rss",
-          "summary": "Bundesweite IT-Probleme bei der Bahn sorgen für erhebliche Einschränkungen im Zugverkehr. Nach Angaben des Konzerns sind interne Kommunikationssysteme betroffen, Züge werden aus Sicherheitsgründen zurückgehalten. Die Ursache ist unklar.",
+          "title": "Deutsche Bahn: Erst Züge fahren wieder nach bundesweitem Ausfall wieder",
+          "url": "https://www.spiegel.de/panorama/deutsche-bahn-erst-zuege-fahren-wieder-nach-bundesweitem-ausfall-wieder-a-74fcd72d-64a3-4365-b901-5027eac4b787#ref=rss",
+          "summary": "Im ganzen Land standen Züge der Deutschen Bahn für rund anderthalb Stunden still. Nun rollen die ersten zwar wieder. Es wird aber noch lange mit Verspätungen und Ausfällen gerechnet. Die Ursache der Störung ist offenbar gefunden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4c2db461-4a8e-49ef-8a09-481cc339866f_w1200_r1.778_fpx63_fpy48.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/85e02e0b-d294-4dd1-8d78-b1e6b0d5a21c_w1200_r1.778_fpx35_fpy66.jpg"
         },
         {
-          "title": "WM 2026 Live: England gegen Ghana im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-england-gegen-ghana-im-liveticker-a-112a8112-0048-44de-968c-b8611617fd7e#ref=rss",
-          "summary": "Noch steht es 0:0 in Boston. Bei einem Konter kollidiert Englands Torhüter Jordan Pickford außerhalb seines Strafraums mit Ghanas Prince Kwabena. Der Schiedsrichter hat kein Foul gesehen. Alles Wichtige im Livekommentar.",
+          "title": "WM 2026: England und Thomas Tuchel enttäuschen gegen Ghana",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-england-und-thomas-tuchel-enttaeuschen-gegen-ghana-a-cffdc826-acb4-4cad-a7c8-e0555b56f5e1#ref=rss",
+          "summary": "Thomas Tuchels Engländer begeisterten zum WM-Auftakt gegen Kroatien – davon war gegen Ghana kaum etwas zu sehen. Immerhin konnte sich der Trainer der Three Lions abseits des Rasens durchsetzen: gegen die Fotografen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f6e7ff1f-ba59-46ca-a1a6-b0ec3c7b46f5_w1200_r1.778_fpx46.83_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c263a43c-b342-4f5c-8305-9f50232bd4ef_w1200_r1.778_fpx48_fpy39.jpg"
         },
         {
           "title": "Zweiter Weltkrieg: Wie ein Enkel der Schuld des Großvaters auf die Spur kam",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Zugverkehr wegen Funkstörung bundesweit eingestellt",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-zugfunk-100.html",
-          "summary": "Wegen massiver Probleme mit dem digitalen Funk hat die Deutsche Bahn den Zugverkehr bundesweit eingestellt. Das bestätigte ein Sprecher des Unternehmens. Vorläufig würden alle Züge an Bahnhöfen zurückgehalten, heißt es in einem Statement.",
+          "title": "US-Senat stimmt gegen Iran-Einsätze ohne Kongressmandat",
+          "url": "https://www.tagesschau.de/ausland/amerika/uskongress-iran-trump-100.html",
+          "summary": "Der US-Senat hat Präsident Trump aufgefordert, vor einem Militäreinsatz gegen Iran eine Genehmigung des Kongresses einzuholen. Der Schritt ist symbolisch - allerdings stimmten auch vier Republikaner für die Resolution.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/86cd71e9-5234-47eb-977c-eefea77c439d/AAABnvZ0tbY/AAABnSSvrFg/16x9-big/bahn-muenchen-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f554b08d-b42a-48e0-af88-775d5865551f/AAABm4gyzE8/AAABnSSvrFg/16x9-big/us-kapitol-152.jpg?width=1280"
         },
         {
-          "title": "Schiffsverkehr in der Straße von Hormus nimmt zu",
-          "url": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-verkehr-absichtserklaerung-100.html",
-          "summary": "Nach der Absichtserklärung zwischen den USA und Iran fahren wieder mehr Schiffe durch die Straße von Hormus. Aber der Streit über mögliche Durchfahrtsgebühren gefährdet einen dauerhaften Frieden - ebenso die Frage von Atomkontrollen.",
+          "title": "NATO-Generalsekretär Rutte trifft Präsident Trump in Washington",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-nato-rutte-100.html",
+          "summary": "Der Iran-Krieg hat die Spannungen zwischen den USA und vielen europäischen NATO-Partnerstaaten verdeutlicht. Beim Treffen von NATO-Generalsekretär Rutte mit Präsident Trump gibt es viel Gesprächsstoff. Von Carsten Kühntopp.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6c5ccc46-d10c-48c6-9fc8-cea58115ea6c/AAABnt8Fvkg/AAABnSSvrFg/16x9-big/schiffe-strasse-von-hormus-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8f4be6a6-b384-4090-9b1c-c731c179c7aa/AAABnEbh_-w/AAABnSSvrFg/16x9-big/trump-rutte-davos-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: KI-Verkaufswelle belastet den DAX",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-spacex-geldanlage-100.html",
-          "summary": "Die Technologie-Rally an der Börse hat einen empfindlichen Rückschlag erlitten. Der Kurseinbruch bei SpaceX und asiatischen Technologiewerten zog auch den DAX in Mitleidenschaft.",
+          "title": "Bundesweite IT-Störung bei der Bahn behoben - Zugverkehr läuft wieder an",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-behoben-100.html",
+          "summary": "Die Störung bei der Deutschen Bahn ist nach Unternehmensangaben behoben. Der Zugverkehr läuft wieder an, es wird aber zu Folgeverspätungen und kurzfristigen Fahrtausfällen kommen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ac5471dd-2140-4880-86ee-40edd442eb13/AAABnUI3xTI/AAABnSSvrFg/16x9-big/boerse-500.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/50a91348-db15-453d-b7bf-8d6021e56a4d/AAABnva8uVM/AAABnSSvrFg/16x9-big/deutsche-bahn-tafel-100.jpg?width=1280"
         }
       ]
     },
@@ -122,12 +122,20 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Verkehr: Bahnverkehr wegen Funkstörung bundesweit eingestellt",
+          "title": "Verkehr: Nach bundesweitem Ausfall: Bahnstörung komplett behoben",
           "url": "https://www.sueddeutsche.de/panorama/bahn-zugverkehr-stoerung-li.3504078",
-          "summary": "Grund ist eine Störung der „internen Kommunikationskanäle“, teilt die Bahn mit. Alle Züge werden in Bahnhöfen zurückgehalten. Das gilt für den Fernverkehr genauso wie für S-Bahnen. Fahrgäste berichten, auf freier Strecke im Zug zu sitzen.",
+          "summary": "Der Bahnverkehr soll nun schrittweise wieder anlaufen. Zuvor hatte eine Störung des digitalen Bahnfunks den Fern-  und Regionalverkehr sowie die S-Bahnen bundesweit lahmgelegt.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/23/902abffa-afb4-4144-af1b-b35e0418165a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "0:0 in Foxborough: Ghana verdirbt England komplett den Spaß",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-england-ghana-li.3504083",
+          "summary": "Kane vergibt seine einzige große Chance, Tuchels Wechsel verpuffen: England liefert im zweiten Gruppenspiel einen enttäuschenden Auftritt. Ghanas Defensivtaktik geht voll auf.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/23/7f887fb4-994d-4d93-abe3-695818b0226a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C246%2C4000%2C2250"
         },
         {
           "title": "Krieg in Nahost: Dämpfer für Trump: US-Senat stimmt für Ende der Angriffe auf Iran",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/23/728ff970-c295-450d-acc8-13d9aecbb63b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C158%2C4000%2C2250"
-        },
-        {
-          "title": "Öffentlich-rechtlicher Rundfunk: Rekonstruktion eines teuren Streits",
-          "url": "https://www.sueddeutsche.de/medien/rundfunkbeitrag-bundesverfassungsgericht-ard-zdf-klage-laender-li.3483739",
-          "summary": "Ist die Erhöhung des Rundfunkbeitrags politische Selbstzerstörung? Das Bundesverfassungsgericht verhandelt die Klage von ARD und ZDF gegen die Verweigerung der Bundesländer – mit erstaunlichen Einsichten.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/23/ee3e6f6b-78be-4ee0-be5d-997b2a17751b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C403%2C4000%2C2250"
         }
       ]
     }
