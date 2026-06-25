@@ -1,10 +1,26 @@
 {
-  "generated": "2026-06-24T22:00:16.751Z",
-  "timestamp": "25.6.2026, 00:00:16",
+  "generated": "2026-06-25T02:00:09.584Z",
+  "timestamp": "25.6.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "7,5 auf der Richterskala: Schweres Erdbeben erschüttert Venezuela: US-Behörde befürchtet bis zu 100.000 Tote",
+          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-venezuela-staerke-7-1-erschuettert-caracas-200965011.html",
+          "summary": "Nach zwei heftigen Beben in Venezuela gibt es noch keine Angaben zu Schäden und Opferzahlen, doch der Innenminister des Landes spricht von einer „äußerst alarmierenden Situation“. Unweit des Epizentrums leben Hunderttausende Menschen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/d9846ff4982d/w2560h1337x0y51o/202606/43601.0.2258857185/helfer-suchten-nach-den-beben.webp"
+        },
+        {
+          "title": "Liveblog Irankrieg: Trump lobt Rutte und übt Kritik an NATO-Partnern",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-lobt-rutte-und-uebt-kritik-an-nato-partnern-faz-200583539.html",
+          "summary": "NATO-Generalsekretär trifft den US-Präsidenten im Weißen Haus ++ Oman richtet tempörären Seekorridor duch Straße von Hormus an +++ Ölpreise fallen weiter +++  alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/4546ac02531a/w5747h3002x0y499o/202606/43601.0.2258390028/treffen-im-oval-office-us.webp"
+        },
         {
           "title": "Buchungszurückhaltung: Zum Ferienbeginn werden noch Urlauber gesucht",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tui-sommerurlaub-jetzt-noch-guenstige-last-minute-angebote-200962907.html",
@@ -12,28 +28,20 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/22a0c6ec2acc/w2440h1274x513y496o/202508/43601.0.1201990768/viele-schirme-reichlich-platz.webp"
-        },
-        {
-          "title": "Ab in den Urlaub: So schonen Sie Ihre Reisekasse",
-          "url": "https://www.faz.net/aktuell/finanzen/die-groessten-kostenfallen-im-urlaub-und-wie-sie-sie-umgehen-accg-200940729.html",
-          "summary": "Die Sommerferien stehen vor der Tür: Kein preiswertes Vergnügen, das sich aber trotzdem viele Deutsche noch leisten. Die F.A.Z. gibt Tipps, wie Sie Ihre Reisekasse vor unnötigen Kosten schützen.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/c9d60e1ef916/w5851h3057x0y617o/202604/43601.0.2025149518/der-berg-saentis-so-schoen-die.webp"
-        },
-        {
-          "title": "Business-Ticker: Ölpreise fallen auf tiefsten Stand seit Beginn des Irankriegs",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-oelpreise-fallen-auf-tiefsten-stand-seit-beginn-des-irankriegs-faz-200452404.html",
-          "summary": "Brent und WTI geben deutlich nach +++ Rheinmetall-Aktienkurs fällt um 17 Prozent +++ Ifo-Index legt nach Iran-Einigung zu +++ Neuigkeiten im Unternehmen-Liveblog.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/691cfc40b9b1/w3968h2073x0y79o/202606/43601.0.2236722847/schiffe-in-der-strasse-von.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Zwei starke Erdbeben erschüttern Venezuela",
+          "url": "https://www.spiegel.de/panorama/zwei-starke-erdbeben-erschuettern-venezuela-a-d7774dca-3f2f-44cf-8940-98b260d15e6d#ref=rss",
+          "summary": "Nach zwei heftigen Beben in Venezuela zeigen Videos Schäden an Gebäuden und am Flughafen der Hauptstadt Caracas. Laut der US-Erdbebenwarte USGS sind viele Opfer zu befürchten.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/82d105a1-cf4e-4558-aef2-040ab4d8b831_w1200_r1.778_fpx38_fpy50.jpg"
+        },
         {
           "title": "E5-Gipfel im Kanzleramt: Wie Merz und Europas Spitzen Trump beeindrucken wollen",
           "url": "https://www.spiegel.de/politik/deutschland/e5-gipfel-im-kanzleramt-wie-merz-und-europas-spitzen-trump-beeindrucken-wollen-a-bca37fc5-f262-4711-bc3d-b3dbeeec08c9#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/c786b153-e429-4df4-b745-5cc3cba08835_w1200_r1.778_fpx55.01_fpy57.34.jpg"
         },
         {
-          "title": "Kriegsverbrecher-Tribunal in Den Haag: Wohin mit den Beweisen für ein Jahrhundertverbrechen?",
-          "url": "https://www.spiegel.de/geschichte/kriegsverbrecher-tribunal-in-den-haag-wohin-mit-den-beweisen-fuer-ein-jahrhundertverbrechen-a-5e6e5035-cd70-485a-bc54-21eb4ee13c25#ref=rss",
-          "summary": "Rund 24 Jahre lang verfolgte ein Uno-Strafgericht Kriegsverbrechen in den Ländern des ehemaligen Jugoslawien. Davon zeugen kilometerweise Akten, Videos und andere Beweise. Nun wollen die Niederlande das Archiv offenbar loswerden.",
+          "title": "Donald Trump streitet mit der eigenen Partei und brüllt Senator an",
+          "url": "https://www.spiegel.de/ausland/donald-trump-streitet-mit-der-eigenen-partei-und-bruellt-senator-an-a-c5549322-9b94-42db-b6d9-eff6e953a171#ref=rss",
+          "summary": "Im Disput um ein verschärftes Wahlrecht erpresst Donald Trump seine Republikaner. Er will ein anderes Gesetz so lange blockieren, bis er seinen Willen bekommt. Ein Mittagessen mit Senatoren aus den eigenen Reihen ist nun eskaliert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3ec3e0c0-176f-415c-8fd5-348a2462a376_w1200_r1.778_fpx37.5_fpy50.jpg"
-        },
-        {
-          "title": "Zohran Mamdani: New Yorker Bürgermeister baut seine Machtbasis in der Demokratischen Partei aus",
-          "url": "https://www.spiegel.de/ausland/zohran-mamdani-new-yorker-buergermeister-baut-seine-machtbasis-in-der-demokratischen-partei-aus-a-32fe3edb-73ea-4d42-8c3b-6e7475a21ecc#ref=rss",
-          "summary": "Bei den Vorwahlen in New York zeigt sich der junge Bürgermeister Zohran Mamdani als Königsmacher: Seine Kandidaten gewinnen gegen die des demokratischen Establishments. Strategen sprechen vom »Bürgerkrieg« innerhalb der Partei.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/93ca7e9e-6ad4-4c1c-9e5a-fdd08b0cbd00_w1200_r1.778_fpx64_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4e1122f0-dd72-41ad-b1ba-d4979b9680ba_w1200_r1.778_fpx66.64_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Viele Tote befürchtet: Erbeben erschüttern Venezuela",
+          "url": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-102.html",
+          "summary": "Zwei Erdbeben haben Venezuela getroffen. Auch die Hauptstadt Caracas ist betroffen. Messungen gehen von den stärksten weltweiten Erdbeben dieses Jahr aus. Die US-Geologiebehörde befürchtet Tausende Tote.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/62fc2998-1293-4e53-98c5-6169eceaff60/AAABnvvtMu0/AAABnSSvrFg/16x9-big/venezuela-erdbeben-caracas-100.jpg?width=1280"
+        },
+        {
+          "title": "Warme Abschiedsworte für Starmer bei E5-Treffen in Berlin",
+          "url": "https://www.tagesschau.de/ausland/europa/e5-treffen-100.html",
+          "summary": "Die E5-Staaten Deutschland, Frankreich, Großbritannien, Italien und Polen sind sich in vielen Themen einig - vor allem bei der Ukraine. Beim Treffen im Berliner Kanzleramt wurde auch der britische Premier Starmer verabschiedet.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/51b1f7ed-d073-44ed-9491-53b681a62768/AAABnvtTtCE/AAABnSSvrFg/16x9-big/e5-treffen-102.jpg?width=1280"
+        },
+        {
           "title": "Bilanz des Verteidigungsministeriums: Mehr junge Menschen wollen zur Bundeswehr",
           "url": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-1122.html",
           "summary": "Der neue Wehrdienst steigert die Zahl der Bewerbungen für die Bundeswehr: Das Verteidigungsministerium hat Bilanz gezogen - und auch Zahlen zum Rücklauf bei den Fragebögen veröffentlicht.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e89697e4-8697-455b-80ca-c8eee11f6e74/AAABnW5fiTQ/AAABnSSvrFg/16x9-big/bundeswehr-1016.jpg?width=1280"
-        },
-        {
-          "title": "Debatte über Äußerungen Pantisanos: \"Infam, geschichtsvergessen und niederträchtig\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/pantisano-aktuelle-stunde-100.html",
-          "summary": "Der neue Linken-Chef Pantisano hat von einer \"faschistischen Politik\" der CDU gesprochen. Auch wenn er sich später entschuldigte - so schnell vergessen ist es offenbar nicht. Im Bundestag wurde hitzig darüber debattiert.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f3b22f41-342e-4e91-b816-1515df991295/AAABnvseP5U/AAABnSSvrFg/16x9-big/pantisano-114.jpg?width=1280"
-        },
-        {
-          "title": "\"Hartes Ende\" - Pistorius stoppt F126-Fregatten-Pläne",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/fregatte-ausstieg-pistorius-100.html",
-          "summary": "Verteidigungsminister Pistorius zieht die Reißleine beim Marine-Projekt zum Bau von F126-Fregatten. 2,3 Milliarden Euro an Steuergeld sind bereits in das Projekt geflossen. Die Opposition spricht von einer \"teuren Blamage\". Von Oliver Neuroth.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c7c38d7e-46ee-45ac-badc-b52be4d2a8b3/AAABnvp_Va0/AAABnSSvrFg/16x9-big/pistorius-642.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Naturkatastrophe: Zwei Erdbeben erschüttern Venezuela - bis zu 100 000 Tote befürchtet",
+          "url": "https://www.sueddeutsche.de/panorama/venezuela-erdbeben-caracas-flughafen-naturkatastrophe-li.3504761",
+          "summary": "Die kurz aufeinander folgenden Erdbeben zählen zu den stärksten des laufenden Jahres. Videos zeigen eingestürzte Gebäude, Innenminister Cabello spricht von einer „alarmierenden Situation“.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/25/03713c68-b3c7-415c-b01e-85b63826b4dc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "Fußball-WM: Schottland patzt, Vinícius feiert, Neymar spielt",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-brasilien-schottland-haiti-marokko-aktuell-li.3504748",
+          "summary": "Brasilien schlägt Schottland unter Mithilfe der Schotten klar mit 3:0 und holt sich den Gruppensieg. Vinícius Junior erzielt zwei Tore, Neymar wird eingewechselt. Haiti wehrt sich lange tapfer gegen Marokko.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/06/24/907aef30-2d26-4d06-9e82-14d5d994cc53.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C25%2C3323%2C1869"
+        },
+        {
           "title": "Bosnien bei der WM 2026: Bosnien hat das Sechzehntelfinale so gut wie sicher",
           "url": "https://www.sueddeutsche.de/sport/wm-2026-ergebnisse-heute-bosnien-katar-dzeko-li.3504728",
           "summary": "Mit der Unterstützung vieler tausender Fans schlägt Bosnien Außenseiter Katar mit 3:1 - und sichert den dritten Platz in der Gruppe. Die K.-o.-Runde dürfte ihnen nicht mehr zu nehmen sein.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/24/ea0a3d6e-9eea-4d94-a565-fe13987234de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C428%2C3330%2C1873"
-        },
-        {
-          "title": "Schweiz bei der WM 2026: In Vancouver läuten die Kuhglocken",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-ergebnisse-heute-schweiz-kanada-li.3504115",
-          "summary": "Die Schweiz sichert sich mit einem am Ende etwas schmeichelhaften 2:1 gegen Co-Gastgeber Kanada den Gruppensieg. Entscheidender Spieler ist dabei einmal mehr Freiburgs Johan Manzambi.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/24/345c0305-b82f-455d-bcc7-2442b195c3e2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
-        },
-        {
-          "title": "E5-Treffen in Berlin: Wie fünf Europäer die Nato retten wollen",
-          "url": "https://www.sueddeutsche.de/politik/nato-gipfel-berlin-europa-ukrainekrieg-sicherheit-europas-donald-trump-e5-li.3504280",
-          "summary": "Der Gipfel der Allianz in Ankara gilt als schicksalhaft. Friedrich Merz lud deshalb vier Staats- und Regierungschefs zu einer Vorbesprechung ins Kanzleramt. Besonders emotional wurde es für einen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/24/eac61beb-04bb-48aa-9d7d-2690220cd57f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=244%2C468%2C1679%2C944"
         }
       ]
     }
