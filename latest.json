@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T22:00:12.025Z",
-  "timestamp": "27.6.2026, 00:00:12",
+  "generated": "2026-06-27T02:00:08.163Z",
+  "timestamp": "27.6.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "USA-Iran-Krieg: USA greifen laut Armee Ziele in Iran an",
+          "title": "USA-Iran-Krieg: USA greifen Ziele in Iran an – Teheran meldet Gegenschläge",
           "url": "https://www.spiegel.de/ausland/usa-iran-krieg-usa-greifen-laut-armee-ziele-in-iran-an-a-6fc3850a-cca5-4d1f-803e-870cf918719f#ref=rss",
-          "summary": "Das US-Militär hat nach eigenen Angaben Angriffe gegen Iran durchgeführt, trotz vereinbarter Waffenruhe. Die Luftschläge waren demnach gegen Raketen- und Drohnenlager sowie Radaranlagen an der Küste gerichtet.",
+          "summary": "Die USA beschuldigen Iran, ein Schiff in der Straße von Hormus attackiert zu haben – und greifen iranische Ziele an. Iran meldet danach Attacken auf US-Ziele in der Region. US-Vizepräsident JD Vence droht: »Gewalt wird mit Gewalt beantwortet«.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/e621f328-3432-4106-a35b-ce0534d3c613_w1200_r1.778_fpx45_fpy53.jpg"
+        },
+        {
+          "title": "WM 2026: Frankreich schlägt Norwegen, drei Tore Ousmane Dembélé",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-frankreich-schlaegt-norwegen-drei-tore-ousmane-dembele-a-7903e497-10fc-458c-bb51-cffc4ea1138c#ref=rss",
+          "summary": "Haaland gegen Mbappé? Denkste: Norwegen schonte seine Stars, bei Frankreich erwischte Weltfußballer Ousmane Dembélé einen perfekten Tag. Deutschland darf vor seinem möglichen Achtelfinalgegner bange sein.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/1e62c696-8aaa-487e-baaf-63d113fc725d_w1200_r1.778_fpx44_fpy44.jpg"
         },
         {
           "title": "Donald Trump: US-Präsident droht im Fall einer Digitalsteuer mit 100-Prozent-Zöllen",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/a93b45ab-ff43-4dcb-8da9-379dc343869d_w1200_r1.778_fpx37.35_fpy49.99.jpg"
-        },
-        {
-          "title": "WM 2026: Drei Erkenntnisse aus Frankreichs Gala gegen Norwegen",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-norwegen-gegen-frankreich-im-liveticker-a-b2b113e8-b3ba-4e35-89cb-1cd958055533#ref=rss",
-          "summary": "Frankreich hat sich gegen Norwegen durchgesetzt und könnte nun früh den Weg des DFB-Teams kreuzen. Das Ergebnis nahmen die Norweger in Kauf. Lesen Sie die Erkenntnisse zum Spiel im Livekommentar nach.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/aa7a6ca4-c6c7-4063-823a-26689b91394b_w1200_r1.778_fpx57_fpy33.jpg"
         }
       ]
     },
@@ -138,9 +138,9 @@
           "image": "https://www.sueddeutsche.de/2026/06/26/34863c4a-3b03-4e93-b173-ff5cc16b865f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C157%2C3500%2C1969"
         },
         {
-          "title": "Krieg in Nahost: US-Militär: Haben Angriffe gegen Iran ausgeführt",
+          "title": "Krieg in Nahost: USA und Iran beschießen gegenseitig Militärstützpunkte",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-israel-libanon-li.3505461",
-          "summary": "Dies sei eine Reaktion auf die Attacke auf ein Frachtschiff am Donnerstag, die die USA Iran zuschreiben, teilt das für den Nahen Osten zuständige Regionalkommando (Centcom) mit.",
+          "summary": "Trotz vereinbarter Waffenruhe greifen sich beide Staaten nahe der Straße von Hormus aus der Luft an. US-Vizepräsident J. Vance droht: „Gewalt wird mit Gewalt beantwortet“.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/25/67b72c71-5977-4c5a-bf15-cc1e8dfdf0f6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C85%2C4000%2C2250"
