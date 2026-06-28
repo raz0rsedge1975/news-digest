@@ -1,33 +1,33 @@
 {
-  "generated": "2026-06-28T14:00:09.949Z",
-  "timestamp": "28.6.2026, 16:00:09",
+  "generated": "2026-06-28T18:00:07.877Z",
+  "timestamp": "28.6.2026, 20:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Hohe Baukosten: Warum ein Platz im Pflegeheim 9000 Euro kostet",
-          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/warum-ein-platz-im-pflegeheim-9000-euro-kostet-accg-200912688.html",
-          "summary": "Für so viel Geld kann man einen Monat im Berliner Hotel Adlon wohnen – oder in einem neu gebauten Pflegeheim. Ein aufschlussreicher Besuch auf einer Baustelle in Köln.",
+          "title": "Grüne im Osten: Schaut her, wir essen Bratwurst",
+          "url": "https://www.faz.net/aktuell/politik/inland/gruene-im-osten-seht-her-wir-essen-bratwurst-200975048.html",
+          "summary": "Die Grünen wollen den Osten endlich von sich überzeugen. Sie rufen zum optimistischen Kampf gegen rechts auf. Den Einzug in die Landtage wollen sie anders schaffen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/68bd5a3bfe3f/w5649h2951x0y408o/202604/43601.0.2011779452/bauen-ist-zu-kompliziert-uwe.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2a2d830c39cb/w6144h3210x0y457o/202606/43601.0.2271707277/kommen-vom-grillfest-mit-afd.webp"
         },
         {
-          "title": "Studie zu Wählerpotential: Wie stark kann die AfD noch wachsen?",
-          "url": "https://www.faz.net/aktuell/politik/inland/waehlerpotential-wie-stark-kann-die-afd-noch-wachsen-accg-200970974.html",
-          "summary": "Laut dem Umfrageinstitut Insa soll die AfD jetzt ein Wählerpotential von 35 Prozent haben und erstmals vor der Union liegen. Kann das sein?",
+          "title": "Mecklenburg-Vorpommern: Rutscht die CDU hier bald unter zehn Prozent?",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/landtagswahl-in-mecklenburg-vorpommern-die-cdu-kaempft-um-zweistelligkeit-200918164.html",
+          "summary": "Die CDU in Mecklenburg-Vorpommern darbt. In Umfragen steht sie bei zehn Prozent. Doch nach der Landtagswahl könnten die Probleme erst so richtig losgehen.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/998e1c75417b/w3000h1567x0y373o/202507/43601.0.1143290839/fuehrende-afd-abgeordnete.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/d9acf0e0aeea/w8192h4280x0y592o/202606/43601.0.2200879896/nur-noch-viertstaerkste-kraft.webp"
         },
         {
-          "title": "Finnische Außenministerin: „Für Gespräche mit russischen Politikern ist die Zeit noch nicht reif“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/elina-valtonen-fuer-gespraeche-mit-russischen-politikern-ist-die-zeit-noch-nicht-reif-accg-200975639.html",
-          "summary": "Die finnische Außenministerin Elina Valtonen spricht über neue russische Einschüchterungsversuche und warnt davor, schon wieder über Handelsbeziehungen mit Russland nachzudenken.",
+          "title": "Prognose vor K.-o.-Runde: Und wer wird nun wirklich Fußball-Weltmeister 2026?",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/prognose-zur-fussball-wm-2026-vor-sechzehntelfinale-wer-wird-weltmeister-accg-200973775.html",
+          "summary": "Nach der Vorrunde ist das Teilnehmerfeld der Fußball-WM 2026 wieder auf die Größe früherer Turniere geschrumpft. Die F.A.Z.-Prognose zeigt, wie groß die Titelchancen nun sind – auch für die Deutschen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/36564e159bdc/w5197h2715x0y263o/202605/430084bcc2-4d2f-11f1-91b0-cd36eab60358/finnlands-aussenministerin.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2af5e420577e/w3178h1660x416y164o/202606/43601.0.2247373641/nicht-nur-julian-nagelsmann.webp"
         }
       ]
     },
@@ -35,7 +35,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Fußball WM: Florian Wirtz und Jamal Musiala – wann kommt ihre große Stunde?",
+          "title": "Gehren in Ilmenau: Urteil im Prozess um Anschlag auf Flüchtlingsunterkunft",
+          "url": "https://www.spiegel.de/panorama/justiz/gehren-in-ilmenau-urteil-im-prozess-um-anschlag-auf-fluechtlingsunterkunft-a-4878df75-8265-4d50-b242-747219b8fa6d#ref=rss",
+          "summary": "Sechs junge Männer feiern einen Geburtstag und werfen zwischendurch eine Feuerwerksbatterie in eine Flüchtlingswohnung in Ilmenau. Ein Anwalt spricht von einem Dummejungenstreich, aber so einfach ist es nicht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/e12e7b42-ce3c-4de8-9e62-d83d3eaa9d38_w1200_r1.778_fpx50_fpy50.jpg"
+        },
+        {
+          "title": "Florian Wirtz und Jamal Musiala bei der WM 2026: Wann kommt ihre große Stunde?",
           "url": "https://www.spiegel.de/sport/fussball/fussball-wm-florian-wirtz-und-jamal-musiala-wann-kommt-ihre-grosse-stunde-a-c5c83cc6-13ad-400c-9ed9-8e508ce346ee#ref=rss",
           "summary": "Es war bisher nicht das Turnier der beiden deutschen Supertalente Jamal Musiala und Florian Wirtz. Trotzdem genießen sie Rückhalt von den Verantwortlichen. Noch.",
           "source": "Spiegel",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/b54a0f3c-d87b-4d22-91b2-fb79184be9b3_w1200_r1.778_fpx50_fpy20.jpg"
         },
         {
-          "title": "Hitze: Mindestens zehn Menschen sterben bei Badeunfällen am Wochenende",
-          "url": "https://www.spiegel.de/wissenschaft/natur/wetter-in-europa-hitze-breitet-sich-aus-zehntausende-haushalte-in-frankreich-ohne-strom-a-7ab72bc7-1317-4658-b13c-9ddef9ed5b83#ref=rss",
-          "summary": "Viele suchen wegen der Hitze nach Abkühlung, mindestens zehn Menschen sind seit Freitag dabei gestorben. In Leipzig und Nürnberg stehen die Straßenbahnen still. Und: In Rheinland-Pfalz wird wegen eines Waldbrandes ein Ort evakuiert. Das News-Update.",
+          "title": "Kinder und Drogen: »Ich ging anfangs bei jedem Verdacht an die Decke«",
+          "url": "https://www.spiegel.de/familie/kinder-und-drogen-ich-ging-anfangs-bei-jedem-verdacht-an-die-decke-a-9dcf090c-e0fc-4653-ac73-8249548943de#ref=rss",
+          "summary": "Mandy Rohde-Schmid hat erlebt, wie ihr Sohn und ihre Tochter schwer suchterkrankten. Heute berät sie andere Eltern, denen das passiert. Worauf kommt es an, wenn Kinder plötzlich Drogen nehmen?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/55d66083-f790-4041-99e8-7559eec60654_w1200_r1.778_fpx41.25_fpy55.jpg"
-        },
-        {
-          "title": "Ex-Mossad-Agent über seine Operationen: »Die Iraner haben keine Vorstellung davon, wie tief ihre Systeme infiltriert sind«",
-          "url": "https://www.spiegel.de/ausland/ex-mossad-agent-ueber-seine-operationen-die-iraner-haben-keine-vorstellung-davon-wie-tief-ihre-systeme-infiltriert-sind-a-733f1294-00b8-4a00-86b8-fb6aa51635b0#ref=rss",
-          "summary": "Er warb Iraner als Spione an, schleuste Viren ein und half, geheime Waffenlager in der Islamischen Republik vorzubereiten. Hier erzählt ein früherer Mossad-Agent von seinen Operationen – und sagt, was er bereut.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/db96bcdf-ae9e-40aa-ae4c-27c244cb049f_w1200_r1.778_fpx44.98_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a974c2e0-2059-40e7-99af-48cb52e40bd0_w1200_r1.778_fpx52_fpy54.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Elf Tote bei Absturz von Kleinflugzeug in Frankreich",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-flugzeugabsturz-100.html",
-          "summary": "In der Nähe der französischen Stadt Nancy ist ein Kleinflugzeug abgestürzt. Alle elf Insassen sind tot. An Bord war eine Gruppe von Fallschirmspringern. Die Maschine vom Typ \"Pilatus\" war in Deutschland registriert.",
+          "title": "USA-Iran-Konflikt verschärft sich trotz des Rahmenabkommens wieder",
+          "url": "https://www.tagesschau.de/ausland/asien/angriffe-iran-usa-100.html",
+          "summary": "Knapp zwei Wochen nach Unterzeichnung eines Rahmenabkommens eskaliert der Konflikt zwischen den USA und Iran weiter. Während die USA als Reaktion auf die Attacke auf ein Frachtschiff Iran angriff, beschoss Iran Ziele in Kuwait und Bahrain.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/694778c9-ee6b-40b8-bf67-101f2bfe2a9b/AAABnw452ks/AAABnSSvrFg/16x9-big/rettungskraefte-kleinflugzeug-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9dbe408b-ff79-429f-a61a-4fa5d69cc94e/AAABnw8xqLE/AAABnSSvrFg/16x9-big/zerstoerung-bahrain-100.jpg?width=1280"
         },
         {
-          "title": "Deutsche Autorin Lena Schätte gewinnt Bachmann-Preis",
-          "url": "https://www.tagesschau.de/kultur/ingeborg-bachmann-preis-lena-schaette-100.html",
-          "summary": "Die Deutsche Lena Schätte erhält den diesjährigen Ingeborg-Bachmann-Preis. Ihr im Wettlesen vorgetragener Text über die Freundschaft zweier übergewichtiger Schülerinnen sei von \"existenzieller Wucht\", hieß es in der Laudatio.",
+          "title": "Parteichefs der Koalition beraten zu Reformen im Kanzleramt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-parteichefs-beratung-100.html",
+          "summary": "Vor dem Koalitionsausschuss am Mittwoch beraten derzeit die Parteispitzen im Kanzleramt über strittige Punkte der anstehenden Reformprojekte. Bei der Reichensteuer zeigte sich CDU-Generalsekretär Linnemann im Bericht aus Berlin kompromissbereit.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/39eb95a4-3786-4a5f-9835-b4e6ad23ad53/AAABnw4fCb8/AAABnSSvrFg/16x9-big/lena-schaette-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/25468939-6e2d-4032-9b1c-e9991c11c1df/AAABnw6rnwA/AAABnSSvrFg/16x9-big/bundeskanzleramt-206.jpg?width=1280"
         },
         {
-          "title": "Feuerwehren im Großeinsatz: Kampf gegen Waldbrände - und die Munition im Boden",
-          "url": "https://www.tagesschau.de/inland/regional/waldbraende-gohrischheide-bad-kreuznach-100.html",
-          "summary": "In mehreren Teilen Deutschlands kämpfen Feuerwehren gegen Waldbrände. Mancherorts erschweren Kampfmittelrückstände im Boden die Einsätze, es kommt zu Explosionen. Böige Winde lassen die Feuer immer wieder auflodern.",
+          "title": "Erneuter Temperaturhöchstwert in Deutschland",
+          "url": "https://www.tagesschau.de/inland/temperatur-hoechstwert-sonntag-100.html",
+          "summary": "In Deutschland ist den dritten Tag in Folge ein neuer Temperaturhöchstwert gemessen worden. Der Deutsche Wetterdienst (DWD) meldete einen vorläufigen Wert von 41,7 Grad im brandenburgischen Neißemünde-Coschen an der polnischen Grenze.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/739738f2-09d9-484b-bb10-c962c7a8e2dd/AAABnw4YMQQ/AAABnSSvrFg/16x9-big/gohrischheide-feuerwehr-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dc50cac8-4d26-4e59-922a-4156d31b19ca/AAABnw6lEys/AAABnSSvrFg/16x9-big/hitze-regenschirm-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Iran trickst USA aus: Wie Teheran Washingtons Sanktionsmacht untergräbt",
+          "url": "https://www.telepolis.de/article/Iran-trickst-USA-aus-Wie-Teheran-Washingtons-Sanktionsmacht-untergraebt-11347054.html",
+          "summary": "Während das Memorandum mit den USA dem Iran milliardenschwere Öleinnahmen sichert, schafft Teheran hinter den Kulissen unumkehrbare geopolitische Fakten.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/7/9/0/5/Matthew_Nichols1_cropped-8536aba12c10570e.jpg"
+        },
         {
           "title": "Rentenpläne der Bundesregierung: Profitieren nur \"Menschen mit der Rolex\"?",
           "url": "https://www.telepolis.de/article/Rentenplaene-der-Bundesregierung-Profitieren-nur-Menschen-mit-der-Rolex-11346776.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/7/9/1/9/shutterstock_1998065048-9ede8036fd1e0af7.jpg"
-        },
-        {
-          "title": "Science-Studie: Können Männer ab 40 gar nichts für ihren Bauch?",
-          "url": "https://www.telepolis.de/article/Science-Studie-Koennen-Maenner-gar-nichts-fuer-ihren-Bauch-ab-40-11347048.html",
-          "summary": "Ein Forschungsteam von City of Hope wies nach, dass neu entdeckte CP-A-Stammzellen im männlichen Körper ab der Lebensmitte die Fettbildung steuern.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/7/9/0/2/shutterstock_2691652059-ba678585ee387eec.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Stefan Reuter im Gespräch: Kimmich im Mittelfeld? „Es wäre von Anfang an das Vernünftigste gewesen“",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-deutschland-reuter-interview-paraguay-li.3506109",
-          "summary": "Stefan Reuter, Rechtsverteidiger der Weltmeistermannschaft von 1990, fordert, dass der aktuelle Aushilfs-Rechtsverteidiger sofort ins Mittelfeld verschoben wird. Und er wundert sich, dass der Bundestrainer kein weiteres Tor gegen Ecuador wollte.",
+          "title": "Krieg in Nahost: Irans Geistliche drängen darauf, die Friedensgespräche abzubrechen",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-klerus-friedensgespraeche-ende-li.3505461",
+          "summary": "Der einflussreiche iranische Klerus fordert das Regime auf, die Verhandlungen abzubrechen, sollte das US-Militär erneut gegen die Waffenruhe verstoßen. Beide Seiten hatten sich zuletzt angegriffen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/28/7adabf07-a550-4ae9-857f-4cdc589ae004.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C96%2C1904%2C1071"
+          "image": "https://www.sueddeutsche.de/2026/06/28/00d26ba2-f6f4-4734-8f47-9ebb209ebeda.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Biografie über Hans Schwerte: Der SS-Offizier, der Uni-Rektor in Aachen wurde",
-          "url": "https://www.sueddeutsche.de/politik/hans-schwerte-ss-hauptsturmfuehrer-rektor-rwth-aachen-angelina-pils-schwerte-schneider-li.3498866",
-          "summary": "Das Doppelleben von Hans Ernst Schneider, der nach dem Krieg als Hans Schwerte zum liberalen Germanisten mutiert war und erst 1995 aufflog, verrät einiges über den Umgang der Deutschen mit der NS-Zeit.",
+          "title": "Wetter: 41,7 Grad: neuer Hitzerekord in Deutschland",
+          "url": "https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-41-7-grad-hitze-rekord-li.3502376",
+          "summary": "Am Sonntagnachmittag war es im brandenburgischen Neißemünde 41,7 Grad heiß, meldet der Deutsche Wetterdienst. Drei Tage in Folge wurde hierzulande nun ein neuer Höchstwert aufgestellt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/23/320de6cb-7c8b-4e6f-b231-6fd4dc3a4c4c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C39%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/06/28/632d1916-b60e-48ff-9264-3557d56fc078.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
         },
         {
-          "title": "Erinnerungen von Elisabeth Schwarzhaupt: „Dieser erste weibliche Minister“",
-          "url": "https://www.sueddeutsche.de/politik/elisabeth-schwarzhaupt-ministerin-deutschland-cdu-memoiren-li.3480115",
-          "summary": "Elisabeth Schwarzhaupt war 1961 die erste bundesdeutsche Ministerin. Wie sich die CDU-Politikerin gegen Adenauer und die anderen Herrn durchsetzte, schrieb sie in einem „Lebensbericht“ nieder.",
+          "title": "Landtagswahlen: Die Grünen wollen den Absturz im Osten abwenden",
+          "url": "https://www.sueddeutsche.de/politik/gruene-ostdeutschland-wahlkampf-herausforderungen-li.3503890",
+          "summary": "Ostdeutschland gilt als Problemzone der Partei. Helfen sollen jetzt Beschlüsse für niedrigere Strompreise und bessere Bildung. Und die Grünen wollen nahbarer werden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/24/1a810925-aa6a-4e6a-8d2d-b985b37331ac.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C416%2C1417%2C797"
+          "image": "https://www.sueddeutsche.de/2026/06/28/a7b01bcb-68ab-4e0f-b3e1-90a8cdf5e2a0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C4000%2C2250"
         }
       ]
     }
