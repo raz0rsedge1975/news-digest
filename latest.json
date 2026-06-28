@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T22:00:09.036Z",
-  "timestamp": "28.6.2026, 00:00:09",
+  "generated": "2026-06-28T02:00:08.260Z",
+  "timestamp": "28.6.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -43,12 +43,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/dce76043-3814-4f04-a74d-fadf2df0549b_w1200_r1.778_fpx50_fpy29.jpg"
         },
         {
-          "title": "WM 2026 live: England gegen Panama im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-england-gegen-panama-im-liveticker-a-461861ed-b288-43d2-81ed-944e9e4b0dd0#ref=rss",
-          "summary": "Das Team von Thomas Tuchel ist offensiv ohne Idee, Harry Kane noch kaum am Ball. Gelingt England kein Sieg gegen Panama, droht bereits im Sechzehntelfinale ein Topteam als Gegner. Der Livekommentar.",
+          "title": "WM 2026: England gewinnt Gruppe L dank Jude Bellingham und Harry Kane",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-gruppe-l-dank-jude-bellingham-und-harry-kane-a-0c063e1d-e837-4105-b009-2321913a6007#ref=rss",
+          "summary": "Defensiv sicher, vorne werden es Jude Bellingham und Harry Kane schon richten: Unter Thomas Tuchel sieht England genau so aus wie bei den letzten Turnieren. Kroatien und Ghana sorgten für Gewitter in der Blitztabelle.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4e20fb25-deb3-48ac-904a-afb99b034b73_w1200_r1.778_fpx44_fpy20.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/01066e7d-ff6f-4d89-8b0d-b49d78d65b58_w1200_r1.778_fpx45.89_fpy44.86.jpg"
         },
         {
           "title": "Rente - Reformpläne: »Am schlimmsten sind die Empfehlungen 14 und 15«",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "USA greifen erneut Iran an - gegenseitige Drohungen",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-108.html",
+          "summary": "Die zweite Nacht in Folge haben die USA Ziele in Iran angegriffen. Grund sei ein erneuter iranischer Angriff auf einen Frachter gewesen. Teheran griff nach eigenen Angaben im Gegenzug US-Militärstützpunkte an.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/12001675-4261-4a81-9d26-9a94e8e478b8/AAABnmIoK6o/AAABnSSvrFg/16x9-big/strasse-von-hormus-satellitenfoto-102.jpg?width=1280"
+        },
+        {
+          "title": "Serbiens Präsident Vucic kündigt erneut Rücktritt an",
+          "url": "https://www.tagesschau.de/ausland/europa/serbien-vucic-ruecktritt-100.html",
+          "summary": "Seit langem gibt es Proteste gegen die serbische Regierung. Nun hat Präsident Vucic seinen Rücktritt und Neuwahlen angekündigt - erneut. Nach den vergangenen vorgezogenen Wahlen hatte sich kaum etwas geändert.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f9f9b333-51d8-4000-841b-0eaa386570d4/AAABnwsq0IY/AAABnSSvrFg/16x9-big/aleksandar-vucic-106.jpg?width=1280"
+        },
+        {
           "title": "Zahl der Toten nach Erdbeben in Venezuela weiter gestiegen",
           "url": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-134.html",
           "summary": "Nach den Erdbeben in Venezuela sprechen die Behörden von mehr als 1. Noch immer werden Zehntausende Menschen vermisst. Viele sind obdachlos. Die Suche nach Überlebenden geht weiter - doch die Hoffnung schwindet.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/ddc74e16-53ce-4c45-86e6-9d6d965f578b/AAABnwo6LY8/AAABnSSvrFg/16x9-big/venezuela-caraballeda-100.jpg?width=1280"
-        },
-        {
-          "title": "Kuba kündigt Wirtschaftsreformen an - hilft das den Menschen?",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kuba-wirtschaft-reform-100.html",
-          "summary": "Marode Infrastruktur, Stromausfälle und Versorgungsmängel bestimmen den Alltag in Kuba. Nun hat die Führung in Havanna eine wirtschaftspolitische Kehrtwende angekündigt - und eine Öffnung für Investoren. Doch kann das funktionieren? Von Jenny Barke.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f720b04a-d41a-4088-a35a-7a71139418a9/AAABnQEvYcA/AAABnSSvrFg/16x9-big/kuba-354.jpg?width=1280"
-        },
-        {
-          "title": "Zehntausende feiern bei Pride-Parade in Budapest - ohne Verbot",
-          "url": "https://www.tagesschau.de/ausland/europa/pride-parade-budapest-102.html",
-          "summary": "Zehntausende haben in Budapest bei der Pride-Parade gefeiert. Es war der erste Umzug seit der Abwahl von Regierungschef Orban, der die Parade untersagt hatte. An die neue Regierung richteten die Teilnehmer Appelle.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c25eab78-df0f-42ce-afad-4dae1b76127a/AAABnwo6rME/AAABnSSvrFg/16x9-big/pride-budapest-106.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Bürgermeister: Fast zwei Dutzend Drohnen vor Moskau abgeschossen",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-moskau-drohnen-li.3500126",
-          "summary": "Erneut sind ukrainische Drohnen im Anflug auf die Millionenmetropole. Die Ukraine meldet einen Angriff auf eine russische Ölpumpstation.",
+          "title": "Fußball-WM: DR Kongo feiert, Portugal nur auf Platz zwei",
+          "url": "https://www.sueddeutsche.de/sport/kongo-usbekistan-portugal-ronaldo-wm-li.3506517",
+          "summary": "Die DR Kongo schlägt Usbekistan und qualifiziert sich als achte afrikanische Mannschaft für die K.-o.-Runde. Portugal kommt gegen Kolumbien nicht über ein 0:0 hinaus.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/16/8a29c6f7-0c7d-4e74-a618-b3d26ea66a15.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/28/dc474794-14c2-4a3b-9f28-eb3a80625fb2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1799%2C1012"
         },
         {
-          "title": "Wetter: Erneut Temperaturrekord in Deutschland: 41,5 Grad gemessen",
-          "url": "https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-temperaturrekord-deutschland-sachsen-anhalt-li.3502376",
-          "summary": "Der vorläufige Höchstwert wurde um 16. 20 Uhr in Möckern-Drewitz in Sachsen-Anhalt gemessen, wie der Deutsche Wetterdienst mitteilt. Zudem registriert der DWD in mehreren Bundesländern die jeweils höchste Temperatur, die dort jemals gemessen wurde.",
+          "title": "Fußball-WM: England und Kroatien jubeln",
+          "url": "https://www.sueddeutsche.de/sport/england-kroatien-fussball-wm-kane-li.3506496",
+          "summary": "Beide Favoriten haben gegen Panama und Ghana ihre Schwierigkeiten, ziehen aber dennoch am Ende als Gruppensieger und Gruppenzweiter in die nächste Runde ein. Auch Ghana bleibt im Turnier.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/27/b790f472-a5ef-476c-9ff4-3494dd228bc2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C99%2C3203%2C1802"
+          "image": "https://www.sueddeutsche.de/2026/06/27/70234f71-8d9f-486f-b8f8-2f6827ea2057.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2951%2C1660"
         },
         {
-          "title": "CSD in München: Wo Bill Kaulitz einer unter vielen ist",
-          "url": "https://www.sueddeutsche.de/muenchen/csd-muenchen-2026-dominik-krause-bill-kaulitz-li.3503242",
-          "summary": "Ein Bürgermeister küsst seinen Verlobten, es herrscht eine Sommerhitze wie noch nie – und dann biegt auch noch einer der „Tokio Hotel“-Zwillinge um die Ecke: So bunt war es auf dem CSD in München.",
+          "title": "Krieg in Nahost: USA und Iran greifen sich erneut an – Trump droht mit Vernichtung",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-israel-libanon-li.3505461",
+          "summary": "Waffenruhe unter Druck: Die USA greifen erneut Ziele in Iran an, Teheran beschießt US-Militärbasen in Kuwait und Bahrain – beide Seiten drohen, die Verhandlungen platzen zu lassen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/27/2ede0a8a-a2cf-45ef-8b2e-3ec66e92d3c4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C176%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/28/cb89fbdf-bec2-4a9d-9cc7-5c2aca09de03.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C34%2C4000%2C2250"
         }
       ]
     }
