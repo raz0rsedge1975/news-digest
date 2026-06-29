@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-28T22:00:10.145Z",
-  "timestamp": "29.6.2026, 00:00:10",
+  "generated": "2026-06-29T02:00:10.128Z",
+  "timestamp": "29.6.2026, 04:00:10",
   "news": [
     {
       "source": "FAZ",
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/2b6774de-7bbb-43a0-b7f0-8655a011779f_w1200_r1.778_fpx59_fpy48.jpg"
         },
         {
-          "title": "WM 2026 live: Südafrika und Kanada im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-suedafrika-und-kanada-im-liveticker-a-10b0cccf-e052-40db-a321-4ffe4a8b37f6#ref=rss",
-          "summary": "Superstar Alphonso Davies verleiht Kanada neuen Schwung, Südafrikas energische Verteidigung hält nur bis zur Nachspielzeit. Jetzt zählt der Gastgeber zu den besten 16 Mannschaften der Welt. Das war der Live-Kommentar.",
+          "title": "WM 2026: Kanada nach spätem Tor gegen Südafrika erstmals im Achtelfinale",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-kanada-nach-spaetem-tor-gegen-suedafrika-erstmals-im-achtelfinale-a-e75a5a36-206f-4206-9a56-65b8c09635ed#ref=rss",
+          "summary": "Als erster WM-Gastgeber hat Kanada eine Partie im Ausland gewonnen und steht jetzt im Achtelfinale. In Los Angeles zog Südafrikas Aufbaustrategie den Unmut der Fans auf sich.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0d463c43-eb40-4e35-a5ef-7d2ced2da644_w1200_r1.778_fpx65.32_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a513327f-9bb3-44c8-b68d-13c2503e46b1_w1200_r1.778_fpx50.65_fpy50.jpg"
         },
         {
-          "title": "Kinder und Drogen: »Ich ging anfangs bei jedem Verdacht an die Decke«",
-          "url": "https://www.spiegel.de/familie/kinder-und-drogen-ich-ging-anfangs-bei-jedem-verdacht-an-die-decke-a-9dcf090c-e0fc-4653-ac73-8249548943de#ref=rss",
-          "summary": "Mandy Rohde-Schmid hat erlebt, wie ihr Sohn und ihre Tochter schwer suchterkrankten. Heute berät sie andere Eltern, denen das passiert. Worauf kommt es an, wenn Kinder plötzlich Drogen nehmen?",
+          "title": "Russland: Wladimir Putin räumt Treibstoffmangel nach ukrainischen Angriffen ein",
+          "url": "https://www.spiegel.de/ausland/russland-wladimir-putin-raeumt-treibstoffmangel-nach-ukrainischen-angriffen-ein-a-a69147bc-7d0e-47a7-81d8-83520968cab7#ref=rss",
+          "summary": "Nach ukrainischen Attacken sind in vielen russischen Regionen Benzin und Diesel knapp. Lange schwiegen Machthaber Putin und die Staatsmedien dazu. Nun rief der Präsident eine Krisensitzung ein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a974c2e0-2059-40e7-99af-48cb52e40bd0_w1200_r1.778_fpx52_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1937f0ca-e5b0-4002-917b-8c1b5ad288d8_w1200_r1.778_fpx66.68_fpy44.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Israels Armee zerstört Tunnel im Südlibanon",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-libanon-hisbollah-118.html",
+          "summary": "Israel hat die Zerstörung eines unterirdischen Tunnels der Hisbollah-Miliz im Südlibanon gemeldet. Die Anlage war laut Armee mit Waffen bestückt und habe als Ausgangspunkt für Angriffe gedient.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f6945001-f264-4dd4-96bd-41e8451df3a5/AAABnxEIjsI/AAABnSSvrFg/16x9-big/libanon-israel-146.jpg?width=1280"
+        },
+        {
+          "title": "Treibstoffmangel: Putin räumt Versorgungsprobleme ein",
+          "url": "https://www.tagesschau.de/ausland/europa/russland-treibstoff-knappheit-100.html",
+          "summary": "Die Ukraine verstärkte zuletzt ihre Angriffe gegen die russische Erdölindustrie - und bringt Russland damit in Bedrängnis: Präsident Putin rief wegen Versorgungsproblemen beim Treibstoff zur Krisensitzung.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/57f91595-4566-413c-aba1-d6e87520a5fd/AAABnxBRvdc/AAABnSSvrFg/16x9-big/putin-1496.jpg?width=1280"
+        },
+        {
           "title": "Hitzewelle in Deutschland: Wie Pflegeheime mit der Hitze umgehen",
           "url": "https://www.tagesschau.de/inland/gesellschaft/senioren-hitze-100.html",
           "summary": "Die hohen Temperaturen sind besonders für alte Menschen anstrengend. Pflegeheime und Senioren begegnen der Hitzewelle mit Eis, Melonen, Lüften - und Hitzepaten. Wundersee und J.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e437a409-2614-4204-bfe4-1f9cdf812f14/AAABnwRrmbg/AAABnSSvrFg/16x9-big/seniorin-pflegeheim-100.jpg?width=1280"
-        },
-        {
-          "title": "Suche nach Überlebenden: Die Wut auf die Regierung in Venezuela wächst",
-          "url": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-suche-100.html",
-          "summary": "Noch immer werden in Venezuela Überlebende aus den Trümmern geborgen. Die Hilfe aus dem Ausland ist zwar angelaufen, aber viele Bürger organisieren sich selbst - denn sie fühlen sich von der Regierung allein gelassen. Von J. Barke.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/111dfbf8-5b4e-4689-9d51-757374184f96/AAABnw_EmBY/AAABnSSvrFg/16x9-big/venezuela-truemmer-suche-100.jpg?width=1280"
-        },
-        {
-          "title": "Ugandas Armeechef und Präsidentensohn schließt Medien",
-          "url": "https://www.tagesschau.de/ausland/afrika/uganda-medien-100.html",
-          "summary": "Der ugandische Armeechef und Präsidentensohn Kainerugaba hat den Betrieb verschiedener Medien gestoppt. Der konkrete Grund ist unklar. Jedoch nimmt die politische Repression in Uganda allgemein immer mehr zu - vor allem durch Kainerugaba.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/efd6b1ed-94fc-420e-adbf-23c160212612/AAABnw900Rs/AAABnSSvrFg/16x9-big/militaer-nation-media-group-100.jpg?width=1280"
         }
       ]
     },
