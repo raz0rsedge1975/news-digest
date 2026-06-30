@@ -1,10 +1,26 @@
 {
-  "generated": "2026-06-30T02:00:09.188Z",
-  "timestamp": "30.6.2026, 04:00:09",
+  "generated": "2026-06-30T06:00:11.591Z",
+  "timestamp": "30.6.2026, 08:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Nagelsmann und der DFB: Diese Beziehung ist nicht mehr zu retten",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/nagelsmann-und-das-nationalteam-diese-beziehung-ist-nicht-mehr-zu-retten-200981850.html",
+          "summary": "Der Bundestrainer ist bei dieser WM gescheitert. Er hat sein Team und sich in seinen Möglichkeiten maßlos überschätzt.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/d6abd9650bd9/w3980h2079x0y238o/202606/43601.0.2278895801/wir-sind-dann-mal-raus-julian.webp"
+        },
+        {
+          "title": "Liveblog Fußball-WM 2026: Sportdirektor Völler stärkt Nagelsmann den Rücken",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-dfb-sportdirektor-rudi-voeller-staerkt-nagelsmann-den-ruecken-faz-200749933.html",
+          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b61d4838dcba/w4353h2274x0y540o/202606/43601.0.2278743370/rudi-voeller-nach-dem-wm-aus.webp"
+        },
         {
           "title": "Frühes WM-Aus: Eine Niederlage, die die deutsche WM auf den Punkt bringt",
           "url": "https://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/wm-2026-deutschland-scheitert-an-paraguay-nach-elfmeterschiessen-200975265.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/0cf07dd857eb/w3973h2075x0y226o/202606/43601.0.2278644444/enttaeuschte-gesichter-das-dfb.webp"
-        },
-        {
-          "title": "DFB-Team in Einzelkritik: Neuers Aura hilft nur zwei Mal",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/deutschland-gegen-paraguay-einzelkritik-zur-dfb-elf-bei-fussball-wm-2026-accg-200975266.html",
-          "summary": "Beim WM-Aus gegen Paraguay erinnert sich Florian Wirtz erst in der zweiten Hälfte daran, dass er kein deutscher Ballermanntourist ist. Und Deniz Undav wird die Luft aus den Armen gelassen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cd1db6d700ff/w4165h2176x222y543o/202606/43601.0.2278696844/im-sechzehntelfinale-der.webp"
-        },
-        {
-          "title": "Liveblog Fußball-WM 2026: Kanzler Merz spricht DFB-Team nach WM-Aus Mut zu",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-kanzler-merz-spricht-dfb-team-nach-wm-aus-mut-zu-faz-200749933.html",
-          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4636a30b81df/w3856h2014x0y247o/202606/43601.0.2278876932/tief-enttaeuscht-deutschlands.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Fußball-WM 2026: Deutschland scheidet im Elfmeterschießen gegen Paraguay aus",
-          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-deutschland-scheidet-im-elfmeterschiessen-gegen-paraguay-aus-a-d5e3ae53-d3aa-474a-93a7-d064b7771bdd#ref=rss",
-          "summary": "Die deutsche Nationalmannschaft erlebt ihr nächstes WM-Debakel. Gegen ein limitiertes Paraguay fiel dem DFB-Team sehr wenig ein – und dann versagten drei Spielern im Elfmeterschießen die Nerven.",
+          "title": "Fußball-WM 2026: Die Verzwergung einer einst großen Fußballnation",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-die-verzwergung-einer-einst-grossen-fussballnation-a-112f234e-e261-4b7d-803a-be44996e3f65#ref=rss",
+          "summary": "Die Fußball-WM ist für das deutsche Team zum Debakel geworden. Das sportliche Abschneiden spiegelt den miserablen Auftritt des DFB bei diesem Turnier wider. Er hat den Niedergang verdient.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/435fe3b6-3c13-41cd-a9c3-bb675425111c_w1200_r1.778_fpx50_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d6b39466-ff53-489d-983e-f5587ea8d4e8_w1200_r1.778_fpx69.99_fpy45.jpg"
         },
         {
-          "title": "Stade: Sechs Tote nach Schüssen in Mutter-Kind-Heim",
-          "url": "https://www.spiegel.de/panorama/stade-sechs-tote-nach-schuessen-in-mutter-kind-heim-a-18c3cd2b-5866-439e-abf4-2862bfb27ace#ref=rss",
-          "summary": "In der niedersächsischen Idylle fallen Schüsse, sechs Menschen sterben in einem Mutter-Kind-Heim. Die mutmaßliche Beziehungstat schockiert nicht nur Politiker und Polizisten, sondern auch die Anwohner.",
+          "title": "WM 2026 News heute: Niederlande scheitern im Elfmeterschießen an Marokko",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-news-heute-joshua-kimmich-will-dfb-karriere-nach-wm-aus-gegen-paraguay-fortsetzen-a-c378b182-6f46-46cf-bf0e-e3afb01c2cd7#ref=rss",
+          "summary": "Wie das DFB-Team ist auch der Nachbar aus den Niederlanden im Elfmeterschießen gescheitert und muss seine Titelträume früh begraben. Und: Paraguays Präsident ruft nach dem Sieg über Deutschland einen Nationalfeiertag aus. Alles Wichtige im Newsblog.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/622b035f-9715-4445-b389-8e894d4e46e1_w1200_r1.778_fpx36.57_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4eeac23d-e756-4134-b6c6-eb5092478a74_w1200_r1.778_fpx33.61_fpy50.jpg"
         },
         {
-          "title": "Donald Trump will Ölkonzerne zu niedrigeren Benzinpreisen zwingen",
-          "url": "https://www.spiegel.de/ausland/donald-trump-will-oelkonzerne-zu-niedrigeren-benzinpreisen-zwingen-a-9a9f5433-306d-42ed-99e3-d1857b23fb3d#ref=rss",
-          "summary": "Der Irankrieg hat auch in den USA die Spritkosten eskalieren lassen. Für Donald Trump ist das ein erhebliches Problem. Deshalb wendet sich der US-Präsident direkt an die Ölkonzerne. Und er hat einen konkreten Preis im Blick.",
+          "title": "News: Tödliche Schüsse in Stade, Angela Merkel Porträt, WM-Niederlage der Nationalmannschaft gegen Paraguay",
+          "url": "https://www.spiegel.de/politik/deutschland/news-toedliche-schuesse-in-stade-angela-merkel-portraet-wm-niederlage-der-nationalmannschaft-gegen-paraguay-a-63cc0a18-31e3-425b-8e45-d5dafca1769a#ref=rss",
+          "summary": "Nach der Amoktat herrscht in Stade Fassungslosigkeit. Merkels Kanzlerinnenporträt wird enthüllt. Die deutsche Fußballnationalmannschaft scheitert gegen Paraguay. Das ist die Lage am Dienstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/790cacbb-902e-41ee-80c7-23500b20c70c_w1200_r1.778_fpx74_fpy65.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "USA und Iran wollen Gespräche fortsetzen",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-verhandlungen-100.html",
-          "summary": "Trotz gegenseitiger Angriffe in den letzten Tagen sollen die Gespräche zwischen den USA und Iran offenbar wie geplant stattfinden. Laut US-Präsident Trump gibt es heute ein Treffen in Doha. Darüber, wer mit wem spricht, gibt es widersprüchliche Angaben.",
+          "title": "Drei Verletzte durch Explosion im Fürstentum Monaco",
+          "url": "https://www.tagesschau.de/ausland/europa/monaco-explosion-100.html",
+          "summary": "In einem Wohnhaus im Fürstentum Monaco ist gestern Abend offenbar ein Sprengsatz gezündet worden. Drei Menschen wurden teils lebensgefährlich verletzt - darunter ist Berichten zufolge ein ukrainischer Oligarch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bb8052ae-199b-4748-9591-bbf956f2ea14/AAABnxX731U/AAABnSSvrFg/16x9-big/doha-skyline-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/df9b992a-2379-4ac8-8ba7-ea9845a31002/AAABnxcSIOg/AAABnSSvrFg/16x9-big/monaco-explosion-wohnhaus-100.jpg?width=1280"
         },
         {
-          "title": "Was über die Gewalttat von Stade mit sechs Toten bekannt ist",
-          "url": "https://www.tagesschau.de/inland/stade-schuesse-faq-100.html",
-          "summary": "In einer Mutter-Kind-Einrichtung in Stade sind sechs Mitarbeiter erschossen worden. Was weiß die Polizei über den mutmaßlichen Schützen und sein Motiv? Was ist über die Opfer bekannt?",
+          "title": "Marktbericht: Starke Vorgaben dürften DAX anschieben",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-geldanlage-100.html",
+          "summary": "Der DAX könnte heute zum Handelsstart einen Erholungsversuch unternehmen - die Vorgaben aus Asien und den USA fallen stark aus. Der wichtigste Termin des Tages werden die deutschen Inflationsdaten sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/41f5a8c3-58da-4d76-8ae1-1f7f2922a40d/AAABnxS7ZAI/AAABnSSvrFg/16x9-big/stade-198.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/42152e4c-2b1d-4f6e-a48d-9c1adf615e01/AAABnYVt-C0/AAABnSSvrFg/16x9-big/boerse-504.jpg?width=1280"
         },
         {
-          "title": "Zahl der Erdbeben-Todesopfer in Venezuela erhöht sich auf mehr als 1.700",
-          "url": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-148.html",
-          "summary": "In Venezuela wurden nach den verheerenden Erdbeben izwischen 1. 719 Tote und 5. 034 Verletzte registriert. Da noch Zehntausende Menschen vermisst sind, werden weitere Opfer befürchtet. Die USA erweiterten ihre Hilfszusagen.",
+          "title": "Singapur: KI-Kurse fürs Volk",
+          "url": "https://www.tagesschau.de/ausland/asien/singapur-ki-kurse-100.html",
+          "summary": "Singapur hat ein ehrgeiziges Ziel: Es will der KI-Hub für die gesamte Region werden. Auch deshalb macht Singapur mit staatlich subventionierten Kursen die breite Bevölkerung fit. Von Jennifer Johnston.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2f384128-bbff-4dbb-86e0-9d23ab92f81d/AAABnxTWDtk/AAABnSSvrFg/16x9-big/erdbeben-venezuela-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6a9c9548-4d5c-47ae-b05c-48f302518d8a/AAABnwQNpAU/AAABnSSvrFg/16x9-big/ki-kurs-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Brexit-Stimmung kippt: Mehrheit denkt an Rückkehr zur EU",
+          "url": "https://www.telepolis.de/article/Brexit-Stimmung-kippt-Mehrheit-denkt-an-Rueckkehr-zur-EU-11348147.html",
+          "summary": "Labour in Trümmern, Reform UK oben auf – doch plötzlich flüstern britische Eliten wieder von Brüssel. Kommt der Exit vom Brexit? Eine Reportage.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/8/4/6/4/shutterstock_2691183673-dbdc421b546ddc7c.jpg"
+        },
         {
           "title": "VW-Umbau: Blume plant wohl Ausgliederung der Pkw-Sparte",
           "url": "https://www.telepolis.de/article/VW-Umbau-Blume-plant-wohl-Ausgliederung-der-Pkw-Sparte-11348427.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/8/4/3/4/shutterstock_2781718069-5e7ad0e44fe408f3.jpg"
-        },
-        {
-          "title": "Commodore meldet sich zurück: Klapphandy für den digitalen Entzug",
-          "url": "https://www.telepolis.de/article/Commodore-meldet-sich-zurueck-Klapphandy-fuer-den-digitalen-Entzug-11347638.html",
-          "summary": "Das Callback 8020 soll Nutzern helfen, ihr Smartphone-Verhalten zu ändern – ganz ohne Browser und soziale Medien. Nach Kritik am Preis reagiert der Hersteller.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/8/2/0/3/flipphone-089dfa209706c9f0.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "TV-Kritik Deutschland-Paraguay: KAMPF. EINSATZ. HÄRTE. LEIDENSCHAFT.",
-          "url": "https://www.sueddeutsche.de/medien/deutschland-paraguay-tv-kritik-zdf-li.3507663",
-          "summary": "Das ZDF tut alles, um die erste deutsche K. -Partie der WM so dramatisch wie möglich zu inszenieren. Und die Nationalmannschaft spielt brav mit – bis zum bitteren Ende.",
+          "title": "Volksbanken: Bangen um die Volksbank Braunschweig Wolfsburg",
+          "url": "https://www.sueddeutsche.de/wirtschaft/volksbank-braunschweig-wolfsburg-vertreterversammlung-verluste-li.3507570",
+          "summary": "Die Brawo verschiebt ihre Vertreterversammlung erneut. Damit bleibt unklar, wie es um die kriselnde Volksbank steht, die inzwischen zu den großen Sorgenfällen des Sektors zählt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/29/3fe1358b-956b-47d0-8c98-eae6e6fc798d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C163%2C3127%2C1759"
+          "image": "https://www.sueddeutsche.de/2026/05/05/d29f75ed-9d86-44d9-8fd6-28b3630feee4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=278%2C0%2C3444%2C1937"
         },
         {
-          "title": "Pressestimmen zum WM-Aus: „Von Deutschland ist nichts mehr übrig“",
-          "url": "https://www.sueddeutsche.de/sport/deutschland-paraguay-wm-2026-aus-boston-pressestimmen-li.3507714",
-          "summary": "Für die internationalen Medien ist das deutsche WM-Aus  – ausgerechnet im Elfmeterschießen – die große Überraschung des Turniers. Die Pressestimmen.",
+          "title": "WM-Aus der Nationalmannschaft: Jemand sollte Julian Nagelsmann sagen: Es geht nicht weiter",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-bleibt-julian-nagelsmann-bundestrainer-dfb-li.3507717",
+          "summary": "Julian Nagelsmann will Bundestrainer bleiben, hat er nach dem WM-Aus in Boston erklärt. Jetzt gegen das Misstrauen anzucoachen, das ihm aus vielen Gründen entgegenschlägt, sollte er sich aber ersparen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/30/49ff58ac-a261-4dd2-ae6d-12262afc2c87.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C220%2C3600%2C2025"
+          "image": "https://www.sueddeutsche.de/2026/06/30/d26a9a3b-81b7-4814-a107-7f45fe5495fa.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C178%2C3500%2C1969"
         },
         {
-          "title": "Stimmen zum WM-Aus: Nagelsmann schließt Rücktritt aus",
-          "url": "https://www.sueddeutsche.de/sport/deutschland-paraguay-wm-2026-stimmen-spieler-bundestrainer-li.3507692",
-          "summary": "„Ich stehe bereit, wenn man das möchte“, sagt der Bundestrainer. Er will seinen Vertrag erfüllen. Kai Havertz möchte sich entschuldigen. Die Stimmen.",
+          "title": "Podcast „Und nun zur WM“: Nächste WM, nächstes Fiasko: Deutschland ist raus – und jetzt?",
+          "url": "https://www.sueddeutsche.de/sport/wm-deutschland-paraguay-elfmeterschiessen-podcast-li.3507706",
+          "summary": "Zum dritten Mal nacheinander verabschiedet sich die DFB-Elf frühzeitig von einer Weltmeisterschaft, diesmal zum ersten Mal in ihrer Geschichte im Elfmeterschießen. Julian Nagelsmann schließt einen Rücktritt als Bundestrainer aus.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/30/d26a9a3b-81b7-4814-a107-7f45fe5495fa.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/06/08/ea827773-778c-49b7-b242-347be1beb6cd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2560%2C1440"
         }
       ]
     }
