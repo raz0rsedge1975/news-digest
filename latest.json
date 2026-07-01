@@ -1,10 +1,26 @@
 {
-  "generated": "2026-07-01T02:00:08.193Z",
-  "timestamp": "1.7.2026, 04:00:08",
+  "generated": "2026-07-01T06:00:11.477Z",
+  "timestamp": "1.7.2026, 08:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Soziologe Steffen Mau: „Dann wird Wohlstand vielleicht wichtiger als Freiheit“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/soziologe-steffen-mau-dann-wird-wohlstand-vielleicht-wichtiger-als-freiheit-accg-200962378.html",
+          "summary": "Der Soziologe Steffen Mau analysiert, was der Aufstieg der AfD mit dem Geld zu tun hat – und wie Reformen aussehen können, die im Land Zustimmung finden.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/ac34a7e0a832/w5051h2639x0y364o/202510/43601.0.1387304050/der-soziologe-steffen-mau.webp"
+        },
+        {
+          "title": "Koalitionsausschuss: Kommt die Einkommensteuerreform?",
+          "url": "https://www.faz.net/aktuell/politik/inland/kommt-die-einkommensteuerreform-darum-geht-es-im-koalitionsausschuss-accg-200982645.html",
+          "summary": "Kurz vor der Sommerpause will die Regierung den großen Wurf wagen – oder doch nicht? Die wichtigsten Fragen und Antworten.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a9decff02f40/w6144h3210x0y123o/202606/43601.0.2238515202/ort-des-geschehens-der.webp"
+        },
         {
           "title": "Koalitionsausschuss: Kündigungsschutz nur bis 100.000 Euro im Jahr",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/vor-koalitionsausschuss-kuendigungsschutz-nur-bis-100-000-euro-im-jahr-200982993.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/54aaf0226b5a/w5388h2815x0y662o/202406/43601.0.401375103/vorbild-daenemark-menschen-am.webp"
-        },
-        {
-          "title": "Arbeitsmarkt: Mehr Wohlstand durch klügeren Kündigungsschutz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/dominig-groll-mehr-wohlstand-durch-kluegeren-kuendigungsschutz-200978354.html",
-          "summary": "Der starke deutsche Kündigungsschutz verhindert nicht nur Entlassungen, er verhindert Innovation. Daher ist eine Reform überfällig.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/79dccf5dddc7/w6144h3210x0y123o/202606/43601.0.2236508808/menschen-sitzen-am-rheinufer.webp"
-        },
-        {
-          "title": "3:0 gegen Schweden: Mbappé schießt Frankreich ins Achtelfinale",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-frankreich-siegt-souveraen-3-0-gegen-schweden-200975275.html",
-          "summary": "Frankreich lässt Schweden keine Chance. Superstar Mbappé trifft doppelt, überholt Klose in der WM-Torjägerliste – und rückt nah an Messi heran. Im Achtelfinale wartet nun Paraguay.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5d2397f853c9/w5781h3020x0y309o/202606/43601.0.2282907988/kylian-mbapp-erzielt-sein.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Angela Merkels Staatsporträt: Zwischen Queen und Vorarbeiterin",
-          "url": "https://www.spiegel.de/kultur/angela-merkels-staatsportraet-zwischen-queen-und-vorarbeiterin-a-984e52b8-c9b0-4390-8e41-8daf6aad4483#ref=rss",
-          "summary": "Der Blazer so blau wie die Augen, die Mimik ernst: Angela Merkel stellt ihr offizielles Porträt vor und wirkt mehr als zufrieden. Auch der Künstler will ihr mit dem Werk sicher schmeicheln. Ist ihm das Bild gelungen?",
+          "title": "Koalition und Reformen: Gelingt der Regierung doch noch der große Wurf?",
+          "url": "https://www.spiegel.de/politik/deutschland/koalition-und-reformen-gelingt-der-regierung-doch-noch-der-grosse-wurf-a-c946092b-51f7-4354-882b-aa17a56b0193#ref=rss",
+          "summary": "Ein Teil des Reformpakets steht. Doch bei der Einkommensteuer und der Liberalisierung des Arbeitsmarkts sind Union und SPD weit voneinander entfernt. So gehen die Parteien in die entscheidenden Verhandlungen. Die SPIEGEL-Analyse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0628c4ec-68bb-4360-add2-189ff57ad050_w1200_r1.778_fpx47.32_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4b04b28e-14f1-45a8-a90b-69cb2cf62d92_w1200_r1.778_fpx41.88_fpy45.jpg"
+        },
+        {
+          "title": "News: Friedrich Merz, Koalitionsausschuss, Nato-Gipfel, Türkei, Iran-Krieg",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-koalitionsausschuss-nato-gipfel-tuerkei-iran-krieg-a-e1249ef5-1188-4d3f-b7db-67ab658d943e#ref=rss",
+          "summary": "Die Koalition muss beweisen, dass sie handlungsfähig ist. Die Türkei bereitet sich auf den Nato-Gipfel vor – mit Repressionen. Und: Die USA und Iran verhandeln ohne ein klares Ziel. Das ist die Lage am Mittwochmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "WM 2026: Frankreich begeistert gegen Schweden, Kylian Mbappé trifft doppelt",
@@ -48,15 +56,7 @@
           "summary": "Mitschreiben, DFB! Favorit Frankreich bot gegen Schweden Fußball der Extraklasse dar. Kylian Mbappé und Bradley Barcola servierten ein Drei-Gänge-Menü, Michael Olise verpasste das schönste WM-Tor um Zentimeter.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6b934254-002e-453d-9948-bba17ff9bb27_w1200_r1.778_fpx36.66_fpy50.jpg"
-        },
-        {
-          "title": "Gerrymandering in den USA: Wie Donald Trump das Wahlsystem zu seinen Gunsten verändert",
-          "url": "https://www.spiegel.de/ausland/gerrymandering-in-den-usa-wie-donald-trump-das-wahlsystem-zu-seinen-gunsten-veraendert-a-0dc803c3-d86b-41dd-8e72-8ea44c81658d#ref=rss",
-          "summary": "Der US-Präsident ist unbeliebt wie selten – doch seine Republikaner haben gute Chancen, die kommende Kongresswahl zu gewinnen. Auf Trumps Befehl hin haben sie das Wahlsystem zu ihren Gunsten umgestaltet.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8d117a8c-b019-4b3c-be9a-c02346ae9a00_w1200_r1.778_fpx50_fpy50.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/6b934254-002e-453d-9948-bba17ff9bb27_w1200_r1.778_fpx54_fpy45.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Zwei Tote bei Waldbrand in Griechenland",
-          "url": "https://www.tagesschau.de/ausland/europa/waldbrand-thessaloniki-100.html",
-          "summary": "In der Nähe der griechischen Stadt Thessaloniki ist ein Waldbrand ausgebrochen. Zwei Menschen sind ums Leben gekommen. Die Feuerwehr kämpft auch aus der Luft gegen die Flammen. Bisher ist das Land glimpflich durch die Waldbrandsaison gekommen.",
+          "title": "Kölner Dom kostet ab heute bis zu 12 Euro Eintritt",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koelner-dom-eintritt-104.html",
+          "summary": "Ab heute zahlen Besucher bis zu 12 Euro Eintritt für den Kölner Dom. Erhalt und Sanierung der Kathedrale kosten jedes Jahr Millionen. Die Ticketpreise sollen das jetzt mitfinanzieren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b792893e-1e3f-4d89-bdd1-df69c65d8135/AAABnxr8-HA/AAABnSSvrFg/16x9-big/waldbrand-griechenland-138.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4fe7913b-e4ba-4ea7-b597-b5b86a73f5bc/AAABnxwXZtY/AAABnSSvrFg/16x9-big/wdr-bereits-im-jahr-1248-wurde-der-grundstein-fuer-den-heutigen-koelner-dom-gelegt-100.jpg?width=1280"
         },
         {
-          "title": "Warum Schweden zurück zum Bargeld will",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/schweden-bargeld-rueckkehr-100.html",
-          "summary": "Scheine und Münzen sind in Schweden fast vollständig aus den Läden verschwunden. Doch nun müssen Lebensmittelgeschäfte und Apotheken wieder Bargeld annehmen. Ein neues Gesetz verpflichtet sie dazu. Was steckt dahinter? Von Charlotte Littgen.",
+          "title": "Bischofsweihe in der Schweiz: Piusbrüder wagen den Konflikt mit dem Papst",
+          "url": "https://www.tagesschau.de/ausland/europa/pius-brueder-bischofsweihe-100.html",
+          "summary": "Trotz einer Mahnung von Papst Leo XIV. will die traditionalistische Piusbruderschaft in der Schweiz vier Bischöfe weihen. Die Beteiligten nehmen dafür die Exkommunikation in Kauf - sie sehen sich als Hüter des wahren Glaubens.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0fa9335c-149e-4e4f-b246-26d9eaab35be/AAABnxsQEkE/AAABnSSvrFg/16x9-big/schweden-340.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f2c779f1-d0b9-4d19-8958-eee7dae55e77/AAABnxwM5us/AAABnSSvrFg/16x9-big/lefebvre-100.jpg?width=1280"
         },
         {
-          "title": "Trump kündigt Parteitag der Republikaner vor Midterms an",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-parteitag-100.html",
-          "summary": "Die Zustimmung für die Republikaner von Donald Trump geht zurück. Wohl auch deshalb hat der US-Präsident nun einen ungewöhnlichen Schritt angekündigt: Vor der Midterms soll ein Parteitag neuen Schwung geben.",
+          "title": "Neue Förderung: Aus Büros werden Wohnungen - ein Beispiel aus NRW",
+          "url": "https://www.tagesschau.de/wirtschaft/bueros-wohnungen-foerderung-100.html",
+          "summary": "In Deutschlands Metropolen stehen immer mehr Büroflächen leer. Einige davon könnten zu Wohnungen umgewandelt werden. Um das für Investoren attraktiver zu machen, startet heute ein neues Förderprogramm. Von David Zajonz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/224b28cd-1804-42a6-b5f6-f993faaf9c59/AAABnxs7db0/AAABnSSvrFg/16x9-big/trump-flagge-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8782f539-9efb-428f-a4b2-c74625b16319/AAABnxkLj0M/AAABnSSvrFg/16x9-big/wohnkomplex-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Europas Gasspeicher: Niedrigster Füllstand seit 15 Jahren droht",
+          "url": "https://www.telepolis.de/article/Europas-Gasspeicher-Niedrigster-Fuellstand-seit-15-Jahren-droht-11349825.html",
+          "summary": "Die EU könnte mit nur 76 Prozent Speicherfüllung in den Winter starten – so wenig wie seit 2011 nicht. Höhere Heizkosten werden wahrscheinlicher.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/3/1/4/shutterstock_2750226223-144f71ea16d7c1cd.jpg"
+        },
+        {
+          "title": "Vergessene Tradition: Der Antiimperialismus der USA",
+          "url": "https://www.telepolis.de/article/Vergessene-Tradition-Der-Antiimperialismus-der-USA-11349270.html",
+          "summary": "Einst war Antiimperialismus in den USA Mainstream – heute gilt er als unamerikanisch. Warum es eine Debatte über die Rolle der USA braucht. Ein Gastbeitrag.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/0/3/6/shutterstock_787304683-818f319c1181299d.jpg"
+        },
+        {
           "title": "Anthropic: Claude Science automatisiert Laborarbeit per KI-Agent",
           "url": "https://www.telepolis.de/article/Anthropic-Claude-Science-automatisiert-Laborarbeit-per-KI-Agent-11349813.html",
           "summary": "Anthropic startet Claude Science als KI-Werkbank für Biologie und Chemie. Die App orchestriert Analysen, prüft Zitate und läuft auf eigener Hardware.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/3/0/8/shutterstock_2761906005-58a7ce301f54cf98.jpg"
-        },
-        {
-          "title": "Aus für Lithium? Warum GM und BYD jetzt auf billige Natrium-Akkus setzen",
-          "url": "https://www.telepolis.de/article/Aus-fuer-Lithium-Warum-GM-und-BYD-jetzt-auf-billige-Natrium-Akkus-setzen-11349475.html",
-          "summary": "Weil die Lithiumpreise massiv steigen, setzen GM und BYD auf billiges Natrium. Die neuen Akkus sichern die Stromversorgung auch bei extremem Wetter.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/1/3/9/shutterstock_2760326415-d3b12ccd358247d7.jpg"
-        },
-        {
-          "title": "B-2-Bomber erweitert seine Rolle mit Anti-Schiff-Rakete LRASM",
-          "url": "https://www.telepolis.de/article/B-2-Bomber-erweitert-seine-Rolle-mit-Anti-Schiff-Rakete-LRASM-11349156.html",
-          "summary": "Erstmals hat ein B-2-Tarnkappenbomber eine Anti-Schiff-Rakete abgefeuert. Die Übung unter Beteiligung der japanischen Armee gilt als Signal an Peking.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/8/9/7/8/shutterstock_723598180-f632dfc9ce1c9ab4.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Einzug ins WM-Achtelfinale: Wer um Himmels willen soll diese Franzosen schlagen?",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-frankreich-schweden-li.3508335",
+          "summary": "Ist wohl besser so, dass Deutschland ein Achtelfinale gegen Frankreich erspart bleibt. Beim 3:0 gegen Schweden liefert die Deschamps-Elf eine Demonstration ab – und beschert ihrem Coach einen emotionalen Moment.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/01/98dd604a-f17f-4662-979e-dac17d71aed4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C14%2C4000%2C2250"
+        },
+        {
+          "title": "USA: Trump bringen Krypto-Geschäfte mindestens 1,4 Milliarden Dollar ein",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-donald-trump-krypto-einnahmen-li.3506498",
+          "summary": "Der US-Präsident treibt die Deregulierung der Kryptobranche voran – und profitiert laut einem Finanzbericht privat erheblich davon.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/01/dda74cec-2845-45f1-a551-cee6610963ef.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=624%2C1056%2C2732%2C1537"
+        },
+        {
           "title": "Frankreich bei der WM: Der Superfavorit zeigt seine nächste Show",
           "url": "https://www.sueddeutsche.de/sport/frankreich-schweden-fussball-wm-mbappe-li.3508322",
           "summary": "Frankreich scheint bei dieser WM unaufhaltsam. Gegen Schweden überragen erneut Kylian Mbappé und Michael Olise.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/30/91c969bc-84c2-4db3-938a-536c53e3e2b7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C399%2C4000%2C2250"
-        },
-        {
-          "title": "Fußball-WM 2026: Fifa-Schiedsrichterchef Collina: Deutsches Tor zu Recht aberkannt",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-undav-spieler-statements-li.3492650",
-          "summary": "Der ehemalige Weltklassereferee verteidigt die umstrittene Entscheidung. Ronald Koeman tritt nach dem WM-Aus der Niederlande als Bondscoach zurück.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/30/912d5710-654a-43b2-b85f-c9f93c0497a4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C262%2C4000%2C2250"
-        },
-        {
-          "title": "Angela Merkels Kanzlerporträt: „Mal ein Bild nur mit mir“",
-          "url": "https://www.sueddeutsche.de/kultur/angela-merkels-portraet-bodemuseum-li.3508078",
-          "summary": "Angela Merkel hatte sich Zeit gelassen mit ihrem Porträt für die Kanzlergalerie. Jetzt wurde das Werk des 28 Jahre alten Deutschfranzosen Jérémie Queyras in Berlin enthüllt. Viel Licht, viel Schatten – und viel Blau.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/30/04b6af69-a1e2-492f-9db4-e37eddeaed6b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
