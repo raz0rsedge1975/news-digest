@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-01T10:00:15.087Z",
-  "timestamp": "1.7.2026, 12:00:15",
+  "generated": "2026-07-01T14:00:10.258Z",
+  "timestamp": "1.7.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Wahl in Sachsen-Anhalt: Warum ist diese politische Spitzenbeamtin gegangen?",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/sachsen-anhalt-warum-die-spitzenbeamtin-yana-mark-ihr-amt-aufgegeben-hat-accg-200959463.html",
-          "summary": "In Sachsen-Anhalt stehen nach der Landtagswahl die Jobs von einigen politischen Spitzenbeamten auf dem Spiel. Yana Mark war eine von ihnen. Warum ist sie jetzt schon gegangen?",
+          "title": "Nach dem WM-Aus: Wer übernimmt beim DFB Verantwortung?",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-das-seltsame-verstaendnis-von-verantwortung-beim-dfb-200985867.html",
+          "summary": "Erst mal unsichtbar: Das frühe Scheitern bei der WM stellt dem deutschen Fußball eine drängendere Frage als die nach dem nächsten Bundestrainer.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/01174d4a681f/w6040h3155x297y540o/202606/43601.0.2275611785/engagiert-bei-der-fdp-yana.webp"
+          "image": "https://media0.faz.net/image/w1200h627/30f59ee5ba93/w2162h1129x0y260o/202606/43601.0.2216875677/als-die-deutsche-fussballwelt.webp"
         },
         {
-          "title": "Vor dem AfD-Parteitag: Wie stark ist Höcke?",
-          "url": "https://www.faz.net/aktuell/politik/inland/wie-viel-einfluss-hat-bjoern-hoecke-in-der-afd-accg-200964081.html",
-          "summary": "Am Wochenende trifft die AfD sich in Erfurt – ausgerechnet da, wo Björn Höcke die Partei führt. Viele in der Partei sehen seine Ambitionen mit Argwohn.",
+          "title": "Liveblog Fußball-WM 2026: Nagelsmann verschwindet durch die Seitentür",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-julian-nagelsmann-nach-wm-aus-zurueck-in-deutschland-faz-200749933.html",
+          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/afda8a8245d1/w6492h3392x0y573o/202606/43601.0.2275679106/hoecke-kommt-am-20-mai-2026-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/81021d023fe5/w4380h2288x0y316o/202607/43601.0.2283876071/abgang-nach-dem-abflug-julian.webp"
         },
         {
-          "title": "Einspruch Exklusiv: Warum das neue AfD-Parteiverbotsgutachten nicht überzeugt",
-          "url": "https://www.faz.net/premium/einspruch/exklusiv/warum-das-neue-afd-parteiverbotsgutachten-nicht-ueberzeugt-200981210.html",
-          "summary": "Ein Gutachten der „Gesellschaft für Freiheitsrechte“ will Klarheit über die Erfolgsaussichten eines AfD-Verbotsverfahrens schaffen. Doch politische Missbilligung allein begründet noch keine Verfassungswidrigkeit.",
+          "title": "K.-o.-Runde gegen England: Das lange Warten für den Kongo ist vorbei",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-wie-der-kongo-england-schlagen-will-200978226.html",
+          "summary": "Korruption, Bürgerkrieg, fehlende Nachwuchsstrukturen: Der Kongo ist ein Land mit vielen Problemen. Das Nationalteam hat dennoch die WM-Gruppenphase überstanden. Bringt es nun auch England zu Fall?",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/b1f49e964ba0/w8230h4300x0y529o/202606/43601.0.2261128107/sollte-der-bundestag-ein-afd.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/17d5b3f8a72a/w4249h2220x0y306o/202606/43601.0.2272645048/spitzenkraft-fiston-mayele.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Einkommensteuer-Reform: Welche Entlastungen Klingbeil vorschlägt",
+          "url": "https://www.spiegel.de/politik/deutschland/einkommensteuer-reform-welche-entlastungen-klingbeil-vorschlaegt-a-d1abb242-90e5-428f-85a5-44edd9060816#ref=rss",
+          "summary": "Einigt sich Schwarz-Rot in der Steuerfrage? Finanzminister Lars Klingbeil hat zwei Varianten vorgeschlagen. Probieren Sie mit unserem interaktiven Rechner aus, wie viel mehr oder weniger Ihnen netto bleibt.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/128a4687-4816-4823-a5d3-15065c160b4f_w1200_r1.778_fpx49.31_fpy49.98.jpg"
+        },
         {
           "title": "WM 2026: Deutschland im Zukunftscheck – Wer soll bleiben, wer nicht?",
           "url": "https://www.spiegel.de/sport/fussball/wm-2026-deutschland-im-zukunftscheck-wer-soll-bleiben-wer-nicht-a-8536a5e5-eca7-46c8-926d-d53e75efab19#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/259669c4-39f0-4073-a281-fcf2a12cf91a_w1200_r1.778_fpx49_fpy41.jpg"
         },
         {
-          "title": "DFB: Ermittler durchsuchen Zentrale und Stadtverwaltungen wegen EM-Tickets",
-          "url": "https://www.spiegel.de/sport/fussball/dfb-ermittler-durchsuchen-zentrale-und-stadtverwaltungen-wegen-em-tickets-a-b00aad42-7c8c-4460-a20a-f026acc7741f#ref=rss",
-          "summary": "Korruptionsverdacht um die EM 2024: Mitarbeiter einer EM-Gastgeberstadt sollen Tickets ohne Genehmigung angenommen haben. Die Polizei hat Durchsuchungen in mehreren Städten durchgeführt. Auch die DFB-Zentrale ist betroffen.",
+          "title": "Militärbasen auf Grönland: Das giftige Erbe der USA",
+          "url": "https://www.spiegel.de/ausland/militaerbasen-auf-groenland-das-giftige-erbe-der-usa-a-94352630-cf68-4d39-bec1-7bbd59d09782#ref=rss",
+          "summary": "Die USA wollen mit aller Macht mehr Einfluss in Grönland. Recherchen zeigen nun die Umweltschäden, die das Land an früheren Militärbasen auf der Insel hinterlassen hat.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c56eca41-f094-49a5-a15d-b22dfe64128c_w1200_r1.778_fpx30_fpy55.01.jpg"
-        },
-        {
-          "title": "Zweiter Weltkrieg und Reparationen: Deutschlands Versäumnisse gegenüber polnischen NS-Opfern",
-          "url": "https://www.spiegel.de/ausland/zweiter-weltkrieg-und-reparationen-deutschlands-versaeumnisse-gegenueber-polnischen-ns-opfern-a-75e0c720-928f-4ece-a715-cc5a8268571a#ref=rss",
-          "summary": "Deutschland schuldet Polen etwas für die Verbrechen im Zweiten Weltkrieg. Dass noch immer kaum Entschädigungen geflossen sind, ist peinlich für ein Land, das so stolz auf seine Vergangenheitsbewältigung ist.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/38a518bc-d1d1-467d-a948-d59e6e399cfd_w1200_r1.778_fpx54.03_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2cd9b2be-bfc6-4ce4-9231-b82eb973432a_w1200_r1.778_fpx61.52_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Umfrage des EU-Parlaments: 75 Prozent bewerten die EU als \"sicheren Hafen\"",
-          "url": "https://www.tagesschau.de/ausland/europa/eurobarometer-2026-100.html",
-          "summary": "Das Vertrauen der Europäer in die EU ist aktuell so groß wie lange nicht mehr - so das Ergebnis der Umfrage Eurobarometer. Die weltpolitische Lage sorgt allerdings für Verunsicherung. Von Kathrin Schmid.",
+          "title": "NATO-Generalsekretär Rutte lobt Deutschlands Einsatz die NATO",
+          "url": "https://www.tagesschau.de/inland/rutte-nato-deutschland-100.html",
+          "summary": "Kommende Woche findet der NATO-Gipfel in der Türkei statt, im Vorfeld kam NATO-Generalsekretär Rutte nach Berlin und lobte Deutschland. Kanzler Merz sagte, Europa werde beim Gipfel den USA gegenüber \"selbstbewusst\" auftreten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3d55b8a-281a-44a3-a0a7-789f0840c023/AAABnxzsnnE/AAABnSSvrFg/16x9-big/europaflaggen-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/926df113-f414-45bc-9dfd-de549cf4bf05/AAABnx2WJrY/AAABnSSvrFg/16x9-big/rutte-merz-102.jpg?width=1280"
         },
         {
-          "title": "Korruptions-Razzia wegen Tickets für Fußball-EM 2024",
-          "url": "https://www.tagesschau.de/inland/razzia-em-2024-100.html",
-          "summary": "Im Zusammenhang mit der Fußball-EM 2024 hat es in mehreren deutschen Städten Razzien gegeben. Auch die DFB-Zentrale wurde durchsucht. Stadtverwaltungen sollen Tausende EM-Tickets zu Vorzugspreisen erhalten haben.",
+          "title": "Tankstellen-Pächter befürchten neuen Unmut von Autofahrern",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-bilanz-100.html",
+          "summary": "Monatelang sahen sich Tankstellenpächter wütenden Kunden und einbrechenden Umsätzen ausgesetzt. Der Tankrabatt brachte Entspannung. Gibt es jetzt neuen Unmut bei Autofahrern, wenn der Sprit wieder teuer wird? Von Susett Kleine.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/59ec38af-18ce-4d15-b202-557989c4f50f/AAABnxzdk5o/AAABnSSvrFg/16x9-big/fussballstadion-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d5f87f4f-21ad-45a8-b5ee-fc6665a2e430/AAABnxya3wo/AAABnSSvrFg/16x9-big/benzinpreis-150.jpg?width=1280"
         },
         {
-          "title": "Warum Stahlaktien trotz Dauerkrise so gut laufen",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahlindustrie-krise-zoelle-100.html",
-          "summary": "Hohe Energiekosten und wachsende Konkurrenz: Die Stahlindustrie ist in der Dauerkrise. Hinzu kommen neue US-Zölle auf europäischen Stahl. Trotzdem glänzten Stahlaktien zuletzt mit steigenden Kursen. Von Stefan Wolff.",
+          "title": "Spritpreise ziehen mit dem Ende des Tankrabatts kräftig an",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuererleichterung-100.html",
+          "summary": "Die Spritpreise an deutschen Tankstellen sind mit Auslaufen des Tankrabatts massiv angestiegen. Sowohl Super E10 als auch Diesel kosten am Mittag im bundesweiten Schnitt wieder deutlich über zwei Euro pro Liter.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2c526f8e-eae0-4b28-a0a1-515f2fd5258b/AAABnxyOF2k/AAABnSSvrFg/16x9-big/stahl-226.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fc315c26-ee2d-45d2-a126-af72784f29e8/AAABnx15FUo/AAABnSSvrFg/16x9-big/tanken-186.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Nasa erwägt, Mars-Testroboter zum Mond zu schicken",
-          "url": "https://www.telepolis.de/article/Nasa-erwaegt-Mars-Testroboter-zum-Mond-zu-schicken-11350152.html",
-          "summary": "Prioritätenwechsel vom Mars zum Mond? Testroboter Promise könnte bald den Erdtrabant erkunden. Der nukleare Antrieb macht ihn zum idealen Kandidaten.",
+          "title": "Krim im Ausnahmezustand: Drohnenangriffe lähmen Infrastruktur",
+          "url": "https://www.telepolis.de/article/Krim-im-Ausnahmezustand-Drohnenangriffe-laehmen-Infrastruktur-11350329.html",
+          "summary": "Nach massiven Drohnenangriffen ruft Russland den Krisenmodus aus. Die Realität vor Ort: Treibstoffknappheit, Stromausfälle und ein kollabierender Tourismus.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/4/7/9/shutterstock_2644843317-3db3f16fcb9084ce.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/5/6/8/shutterstock_2803702867-00aa54f6d9bb59b6.jpg"
         },
         {
-          "title": "Fraunhofer: Netzkosten verdoppeln Preis für grünen Wasserstoff",
-          "url": "https://www.telepolis.de/article/Fraunhofer-Netzkosten-verdoppeln-Preis-fuer-gruenen-Wasserstoff-bis-2035-11350182.html",
-          "summary": "Betreiber von Wasserstoffkraftwerken drohen laut CINES-Forschern Kosten von bis zu 15,16 Euro je Kilo. Die Infrastruktur trägt die Hälfte.",
+          "title": "Schluss mit freiwillig: Was das neue Bundeswehr-Gesetz für Firmen bedeutet",
+          "url": "https://www.telepolis.de/article/Schluss-mit-freiwillig-Was-das-neue-Bundeswehr-Gesetz-fuer-Firmen-bedeutet-11350565.html",
+          "summary": "Mit dem Reservestärkungsgesetz von Boris Pistorius müssen Betriebe Mitarbeiter für Übungen freistellen. Droht im Ernstfall die Wehrpflicht?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/4/9/4/shutterstock_2608375427-81d83e035fd4b8ad.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/6/8/6/shutterstock_761939458-ee864248075a4957.jpeg"
         },
         {
-          "title": "Ukraine: Das Drohnen-Netzwerk, das Russland herausfordert",
-          "url": "https://www.telepolis.de/article/Ukraine-Das-Drohnen-Netzwerk-das-Russland-herausfordert-11349857.html",
-          "summary": "Aus einer Casting-Agentur wurde ein Rüstungskonzern. Gemeinsam mit Europa baut Kiew eine neue Drohnenindustrie auf – mit militärischen und politischen Folgen.",
+          "title": "Nacktmull-Gen stoppt Altern: Forscher der Universität Rochester mit Durchbruch",
+          "url": "https://www.telepolis.de/article/Nacktmull-Gen-stoppt-Altern-Forscher-der-Universitaet-Rochester-mit-Durchbruch-11347100.html",
+          "summary": "Gentechnisch veränderte Mäuse lebten im Median 4,4 Prozent länger und entwickelten seltener Tumore. Forscher planen bereits Therapien für Menschen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/9/3/3/0/Master_Lange-2876da940af8af70.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/7/9/2/8/Butusova_Elena_cropped-087baca420c6720c.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "In eigener Sache: Urteil zur SZ-Berichterstattung über Konstantin Wecker",
-          "url": "https://www.sueddeutsche.de/medien/konstantin-wecker-sz-in-eigener-sache-berufung-li.3508231",
-          "summary": "Das Landgericht Berlin II sieht kein öffentliches Interesse daran, über mutmaßliche Beziehungen des Künstlers zu damals minderjährigen Mädchen aufzuklären. Die SZ wird Berufung einlegen.",
+          "title": "Verteidigungspolitik: Rutte lobt deutsche Anstrengungen für die Nato",
+          "url": "https://www.sueddeutsche.de/politik/nato-merz-rutte-usa-trump-verteidigung-li.3508472",
+          "summary": "Vor dem Nato-Gipfel in Ankara empfängt die Bundesregierung den Generalsekretär der Allianz – und demonstriert Selbstbewusstsein. Kanzler Merz sieht die Europäer auf Augenhöhe mit den USA.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/szde-assets/img/szde-article-sharing-image-no-teaser-image-fallback.png"
+          "image": "https://www.sueddeutsche.de/2026/07/01/731f95ae-413c-4391-bfa2-37d9663353f3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Pandemie: Neue Studie: Kein Beleg für Labor-Ursprung des Coronavirus",
-          "url": "https://www.sueddeutsche.de/gesundheit/coronavirus-ursprung-studie-laborherkunft-li.3507217",
-          "summary": "Ein Team um den Virologen Christian Drosten hat anhand von Millionen Virus-Genomen und Viren-Züchtungen die Hypothese untersucht, dass Covid-19 aus dem Labor gekommen sein könnte. Was dabei herauskam.",
+          "title": "Bundestrainerfrage beim DFB: Das Dilemma des Rudi Völler",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-bundestrainer-nagelsmann-sportdirektor-voeller-zukunft-li.3508326",
+          "summary": "Der Sportdirektor steht hierarchisch und aus eigener Erfahrung im Zentrum der Frage, ob es mit Julian Nagelsmann weitergehen kann. Ob für Völler auch eine Zusammenarbeit mit Jürgen Klopp möglich wäre, ist eher fraglich.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/29/3e0ac1f9-a19e-4e24-ab0a-b4680f3eab17.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C517%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/01/78b742d9-ddc8-4091-88f2-7879fe3b831d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=344%2C468%2C3436%2C1933"
         },
         {
-          "title": "ZDF-Serie „München Beats“: Größte Partyzone Europas: Der Kunstpark Ost kehrt zurück",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-filmfest-zdf-serie-mimi-kezele-muenchen-beats-kunstpark-ost-li.3495050",
-          "summary": "Vor 30 Jahren wurde in München der Kunstpark Ost eröffnet. Eine ZDF-Serie über große Träume und junge Musik erinnert an das einzigartige Partyareal. Die Regisseurin Mimi Kezele hat die Energie damals selbst erlebt – und ist noch immer berauscht davon.",
+          "title": "Fußball-WM 2026: Bundestrainer Nagelsmann und Spieler in München gelandet",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-nagelsmann-li.3492650",
+          "summary": "Julian Nagelsmann kehrt mit Musiala und Pavlovic nach Hause zurück. Der ehemalige Weltklassereferee Collina findet, Tahs Treffer gegen Paraguay sei zu Recht aberkannt worden. Bei den Niederlanden und Ecuador treten die Nationaltrainer zurück.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/29/d400f50d-3359-44ec-8eea-afbd3d0a5573.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C49%2C3720%2C2092"
+          "image": "https://www.sueddeutsche.de/2026/07/01/54608821-247e-483e-a863-09c31d28d4a2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C84%2C2068%2C1163"
         }
       ]
     }
