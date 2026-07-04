@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-04T18:00:08.678Z",
-  "timestamp": "4.7.2026, 20:00:08",
+  "generated": "2026-07-04T22:00:09.688Z",
+  "timestamp": "5.7.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "AfD-Parteitag: Viel Routine und ein paar Überraschungen",
-          "url": "https://www.faz.net/aktuell/politik/inland/afd-parteitag-in-erfurt-alice-weidel-fest-im-sattel-accg-200997983.html",
-          "summary": "In Erfurt geht es auf dem AfD-Parteitag mehr um Personen als um Inhalte. Alice Weidel sitzt fest im Sattel. Ein paar kleine Scharmützel gibt es trotzdem.",
+          "title": "Le Pen vor ihrem Urteil: „Was immer auch passiert, ich werde nicht sterben“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/marine-le-pen-drei-richterinnen-entscheiden-ueber-kandidatur-200992930.html",
+          "summary": "Marine Le Pen gibt sich vor dem Berufungsurteil demonstrativ gelassen. Zugleich bereitet sich der Rassemblement National auf alle Szenarien vor.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b759c5a5dbf6/w4332h2263x280y279o/202607/43601.0.2297123414/tino-chrupalla-und-alice.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0017874f5505/w7162h3742x0y253o/202607/43601.0.2286615555/marine-le-pen-vor-einem.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Chrupalla und Weidel als AfD-Bundessprecher wiedergewählt",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-chrupalla-und-weidel-als-afd-bundessprecher-wiedergewaehlt-faz-110093143.html",
-          "summary": "Anders als noch vor zwei Jahren schneidet Weidel deutlich besser ab als Chrupalla +++ Brisanter Antrag fliegt von der Tagesordnung beim AfD-Parteitag +++ Merz kündigt bei CDU-Landesparteitag Aktionsplan gegen Sozialleistungsmissbrauch an +++  alle Entwicklungen im Liveblog",
+          "title": "3:0 gegen Kanada: Marokko als Party-Crasher",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-marokko-als-party-crasher-fuer-kanada-200993637.html",
+          "summary": "Das erste Achtelfinale der WM verläuft zunächst langweilig und zugleich hitzig. Dann wacht Marokko auf. Ein Bayern-Neuzugang bereitet derweil Sorgen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6ee5b70549d9/w5796h3028x0y119o/202607/43601.0.2296884448/chrupalla-und-weidel-auf-dem.webp"
+          "image": "https://media0.faz.net/image/w1200h627/84d0b58c552e/w3440h1797x0y248o/202607/43601.0.2298622720/feiern-ihre-eigene-wm-party.webp"
         },
         {
-          "title": "Merz bei NRW-CDU: „Kulturpessimisten, Untergangspropheten, Nöler, Nörgler und Berufskritiker: Wegtreten.\"",
-          "url": "https://www.faz.net/aktuell/politik/inland/merz-an-wuest-lieber-hendrik-du-hast-manchmal-ein-wenig-genervt-accg-200997832.html",
-          "summary": "Kein Wort zur AfD, kein Wort zur Weltlage: In Düsseldorf tritt Friedrich Merz ganz als Reformkanzler auf – und hat Botschaften an Hendrik Wüst dabei.",
+          "title": "Liveblog Fußball-WM 2026: So geht es mit Klopp weiter",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-dfb-spitze-reist-wohl-zu-juergen-klopp-fuer-gespraeche-faz-200749933.html",
+          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1a4eac0313fd/w5659h2956x0y296o/202607/43601.0.2296874278/merz-und-wuest-beim.webp"
+          "image": "https://media0.faz.net/image/w1200h627/48d9dfdc89a1/w5434h2839x0y382o/202607/43601.0.2296851935/jetzt-sollen-gespraeche.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "USA 250 Jahre Unabhängigkeit: Liveticker – Wladimir Putin gratuliert Donald Trump",
+          "title": "WM 2026 live: Frankreich gegen Paraguay im Liveticker",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-frankreich-gegen-paraguay-im-liveticker-a-66fbff07-1109-41cc-b191-364407d28b20#ref=rss",
+          "summary": "Nicht nur Deutschland tut sich schwer gegen Paraguay. Auch Titelfavorit Frankreich schafft es bisher nicht, die Abwehrmauer zu überwinden. Verfolgen Sie das Achtelfinale im Livekommentar.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/2db4165f-9d51-47a9-bfcd-eb916a87721c_w1200_r1.778_fpx43.33_fpy44.99.jpg"
+        },
+        {
+          "title": "AfD-Parteitag in Erfurt: Alice Weidels Rache",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-parteitag-in-erfurt-alice-weidels-rache-a-fe6359b6-c667-493a-8743-c739a33fb9f1#ref=rss",
+          "summary": "Beim Parteitag macht die AfD ihre Machtkämpfe öffentlich. Und Alice Weidel zeigt, wie weit ihr Einfluss mittlerweile reicht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/1f128ed6-6545-4397-a8b8-570df8f63c59_w1200_r1.778_fpx70.57_fpy44.98.jpg"
+        },
+        {
+          "title": "USA 250 Jahre Unabhängigkeit: Liveticker – so feiert das Land",
           "url": "https://www.spiegel.de/ausland/usa-250-jahre-unabhaengigkeit-liveticker-zu-den-feierlichkeiten-a-b963d9cc-6e8c-4a61-a4e1-3e9debf8fb79#ref=rss",
-          "summary": "Die USA feiern 250 Jahre Unabhängigkeit, mit einer Bootsparade in New York und Dutzenden Veranstaltungen. Gratulanten aus aller Welt melden sich. Bemerkenswert ist ein Telegramm aus dem Kreml. Das Live-Update.",
+          "summary": "US-Präsident Trump gibt sich begeistert von den Feierlichkeiten, seine Vize Vance verbittet sich Kritik an den USA. Und: Mitglieder der nationalistischen »Patriot Front« sind durch Washington marschiert. Das Live-Update.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/772e173b-8d7c-47db-a8aa-308e7e36a76c_w1200_r1.778_fpx57.3_fpy49.99.jpg"
-        },
-        {
-          "title": "WM 2026 live: Kanada gegen Marokko im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-kanada-gegen-marokko-im-liveticker-a-623689c1-6483-4596-8e62-3f473a515bc7#ref=rss",
-          "summary": "Damit war nicht zu rechnen: Favorit Marokko tut sich gegen Kanada sehr schwer und kommt bisher praktisch gar nicht zu Torchancen. Was geht in der zweiten Halbzeit in Houston? Alles zum Spiel im Livekommentar.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/97c8e679-a43c-4e98-b63c-f4809be3beb5_w1200_r1.778_fpx42.44_fpy50.jpg"
-        },
-        {
-          "title": "Rheinmetall: Wie Armin Papperger vom Hoffnungsträger zum Risiko wird",
-          "url": "https://www.spiegel.de/wirtschaft/rheinmetall-wie-armin-papperger-vom-hoffnungstraeger-zum-risiko-wird-a-7c305969-9539-4d4d-a9b3-da77ff248aab#ref=rss",
-          "summary": "Hat der ehrgeizige Vorstandschef sich übernommen?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f0c6d775-7dc1-407c-b15d-29481cbe1178_w1200_r1.778_fpx49_fpy35.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7d071415-ce8f-42dc-a8f3-a6e15c5fc4f5_w1200_r1.778_fpx39_fpy34.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Chrupalla: \"Bürger erwarten von der AfD Führungsqualitäten\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-chrupalla-tagesthemen-100.html",
+          "summary": "AfD-Co-Chef Chrupalla hat sich in den tagesthemen zufrieden über seine Wiederwahl gezeigt. Zum Kurs der AfD erklärte er, die Bürger erwarteten \"Führungsqualitäten\" - inhaltliche Fragen wolle die Partei allerdings erst im kommenden Jahr besprechen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a245bfdc-78a3-446f-b8d5-3e332122b071/AAABny7gHDU/AAABnSSvrFg/16x9-big/sendungsbild-1759506.jpg?width=1280"
+        },
+        {
+          "title": "Analyse zu AfD-Bundesparteitag in Erfurt: Professionelle Radikale",
+          "url": "https://www.tagesschau.de/inland/afd-parteitag-erfurt-110.html",
+          "summary": "Die AfD versucht auf ihrem Parteitag in Erfurt, nicht allzu radikal aufzutreten. Das gelingt mal mehr, mal weniger. Querelen und kritische Debatten will man vermeiden und sich als geordnete Volkspartei inszenieren. Von Lissy Kaufmann.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/0e0ffcbf-c4aa-4fb2-ab6e-c774d837545f/AAABny5HUiY/AAABnSSvrFg/16x9-big/afd-1166.jpg?width=1280"
+        },
+        {
           "title": "Parlamentswahl in Israel: Geben arabische Frauen den Ausschlag?",
           "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-araber-frauen-100.html",
           "summary": "Im Herbst wird in Israel ein neues Parlament gewählt. Entscheidend könnte dabei die arabische Minderheit sein. Die Wahlbeteiligung arabischer Frauen aber war zuletzt gering. Das könnte sich nun ändern. Von Bettina Meier.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/c612fd30-1256-4207-88d0-d3c0bf8aeb85/AAABny20E_k/AAABnSSvrFg/16x9-big/haifa-114.jpg?width=1280"
-        },
-        {
-          "title": "Haushaltsentwurf: Klingbeil will auch beim Klimafonds sparen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-klimafonds-100.html",
-          "summary": "Die Bundesregierung will investieren - und muss sparen. Der Konsolidierungskurs von Finanzminister Klingbeil sieht auch Kürzungen beim Klima- und Transformationsfonds vor. Das könnte Einschnitte bei der Heizungsförderung zur Folge haben.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c6cf4965-be30-45ba-9318-87acf8c23ede/AAABngKr8ck/AAABnSSvrFg/16x9-big/klingbeil-338.jpg?width=1280"
-        },
-        {
-          "title": "Papst auf Lampedusa - \"Habt den Mut, anders zu denken\"",
-          "url": "https://www.tagesschau.de/ausland/europa/italien-papst-lampedusa-100.html",
-          "summary": "Auf der Insel Lampedusa kommen viele Geflüchtete an, die von Nordafrika nach Europa gelangen wollen. Der Papst besucht hier das \"Tor Europas\" und appelliert auch an Touristen. Von Lisa Weiß.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f03bea30-b65c-4699-ac73-a62cec579ada/AAABny1phOk/AAABnSSvrFg/16x9-big/papst-lampedusa-denkmal-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "3:0 gegen Kanada: Marokko träumt weiter vom großen Wurf",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-marokko-kanada-saibari-li.3510520",
+          "summary": "Eine Halbzeit lang ist Co-Gastgeber Kanada das bessere Team, dann wacht der Favorit auf und gewinnt am Ende deutlich. Allerdings verletzt sich Marokkos Stürmer Ismael Saibari – der gerade beim FC Bayern unterschrieben hat.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/04/d1b77a62-8b4e-4f4e-8b31-808ff9ab50c7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "USA: Zeitkapsel für 250 Jahre vergraben",
           "url": "https://www.sueddeutsche.de/politik/usa-news-ice-85-jaehriger-deutscher-stirbt-li.3506498",
           "summary": "In Philadelphia, wo vor 250 Jahren einst die Unabhängigkeitserklärung verfasst wurde, soll es in weiteren 250 Jahren etwas zu entdecken geben.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/04/96c7e7ea-6c27-43cd-ba50-4913833ce250.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C9%2C4000%2C2250"
-        },
-        {
-          "title": "Fußball-WM: „Wir haben die Kapverden auf die Landkarte gesetzt“",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-kapverden-argentinien-messi-vozinha-li.3510338",
-          "summary": "Nach großer Leistung und einer Beinahe-Sensation gegen Argentinien fährt der zweitkleinste WM-Teilnehmer nach Hause. Doch die Spieler um Torwart Vozinha hoffen, dass sie anderen Ländern Mut gemacht haben.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/04/8d009809-81fe-41bf-8f43-f2e2f7c7eddf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C132%2C2300%2C1294"
         }
       ]
     }
