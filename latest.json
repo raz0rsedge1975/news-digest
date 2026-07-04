@@ -1,17 +1,25 @@
 {
-  "generated": "2026-07-04T14:00:09.876Z",
-  "timestamp": "4.7.2026, 16:00:09",
+  "generated": "2026-07-04T18:00:08.678Z",
+  "timestamp": "4.7.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Reformen der Regierung: Die unzureichende Politik des Möglichen",
-          "url": "https://www.faz.net/aktuell/politik/inland/das-reformpaket-der-koalition-reicht-nicht-aus-200991717.html",
-          "summary": "Das Reformpaket der Koalition ist umfassender, als viele erwartet haben. Aber die Lage des Landes verlangt weitaus mehr.",
+          "title": "AfD-Parteitag: Viel Routine und ein paar Überraschungen",
+          "url": "https://www.faz.net/aktuell/politik/inland/afd-parteitag-in-erfurt-alice-weidel-fest-im-sattel-accg-200997983.html",
+          "summary": "In Erfurt geht es auf dem AfD-Parteitag mehr um Personen als um Inhalte. Alice Weidel sitzt fest im Sattel. Ein paar kleine Scharmützel gibt es trotzdem.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/27e92d600c6c/w6144h3210x0y326o/202607/43601.0.2288288995/die-parteivorsitzenden-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b759c5a5dbf6/w4332h2263x280y279o/202607/43601.0.2297123414/tino-chrupalla-und-alice.webp"
+        },
+        {
+          "title": "Deutschland-Liveblog: Chrupalla und Weidel als AfD-Bundessprecher wiedergewählt",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-chrupalla-und-weidel-als-afd-bundessprecher-wiedergewaehlt-faz-110093143.html",
+          "summary": "Anders als noch vor zwei Jahren schneidet Weidel deutlich besser ab als Chrupalla +++ Brisanter Antrag fliegt von der Tagesordnung beim AfD-Parteitag +++ Merz kündigt bei CDU-Landesparteitag Aktionsplan gegen Sozialleistungsmissbrauch an +++  alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/6ee5b70549d9/w5796h3028x0y119o/202607/43601.0.2296884448/chrupalla-und-weidel-auf-dem.webp"
         },
         {
           "title": "Merz bei NRW-CDU: „Kulturpessimisten, Untergangspropheten, Nöler, Nörgler und Berufskritiker: Wegtreten.\"",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/1a4eac0313fd/w5659h2956x0y296o/202607/43601.0.2296874278/merz-und-wuest-beim.webp"
-        },
-        {
-          "title": "Reform der Krankschreibung: So bleiben wir krank",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/krankschreibungs-plaene-der-regierung-so-bleiben-wir-krank-200995411.html",
-          "summary": "Die Bundesregierung will es Blaumachern schwerer machen. Das Nachsehen haben alle anderen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f57b0b52b44c/w6144h3210x0y763o/202605/43601.0.2069841186/bald-voller-ein-schild-an.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "USA 250 Jahre Unabhängigkeit: Liveticker zu den Feierlichkeiten",
+          "title": "USA 250 Jahre Unabhängigkeit: Liveticker – Wladimir Putin gratuliert Donald Trump",
           "url": "https://www.spiegel.de/ausland/usa-250-jahre-unabhaengigkeit-liveticker-zu-den-feierlichkeiten-a-b963d9cc-6e8c-4a61-a4e1-3e9debf8fb79#ref=rss",
-          "summary": "Am Mount Rushmore hat US-Präsident Donald Trump am Abend von der Großartigkeit der USA geschwärmt. Gleich beginnt die Bootsparade der Superlative in New York. Der Feiertag in den USA im Live-Update.",
+          "summary": "Die USA feiern 250 Jahre Unabhängigkeit, mit einer Bootsparade in New York und Dutzenden Veranstaltungen. Gratulanten aus aller Welt melden sich. Bemerkenswert ist ein Telegramm aus dem Kreml. Das Live-Update.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/75f6641e-a907-4fef-b851-0c17da9bab9e_w1200_r1.778_fpx38_fpy46.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/772e173b-8d7c-47db-a8aa-308e7e36a76c_w1200_r1.778_fpx57.3_fpy49.99.jpg"
         },
         {
-          "title": "AfD-Parteitag in Erfurt: Delegierte wählen Chrupalla und Weidel als Co-Chefs",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-parteitag-in-erfurt-delegierte-waehlen-chrupalla-und-weidel-als-co-chefs-a-089b6f4d-0135-42c0-a5f5-999e1a64aca2#ref=rss",
-          "summary": "Seit vier Jahren führen sie gemeinsam die Partei, und das bleibt auch so: Alice Weidel und Tino Chrupalla sind als Co-Vorsitzende der AfD bestätigt worden – das Ergebnis fiel bei einem der beiden jedoch enttäuschend aus.",
+          "title": "WM 2026 live: Kanada gegen Marokko im Liveticker",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-kanada-gegen-marokko-im-liveticker-a-623689c1-6483-4596-8e62-3f473a515bc7#ref=rss",
+          "summary": "Damit war nicht zu rechnen: Favorit Marokko tut sich gegen Kanada sehr schwer und kommt bisher praktisch gar nicht zu Torchancen. Was geht in der zweiten Halbzeit in Houston? Alles zum Spiel im Livekommentar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/88e16b40-f1b2-463d-bfe6-ffa992d1896f_w1200_r1.778_fpx49_fpy73.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/97c8e679-a43c-4e98-b63c-f4809be3beb5_w1200_r1.778_fpx42.44_fpy50.jpg"
         },
         {
-          "title": "Jürgen Klopp: Diese sieben Momente erklären den möglichen Bundestrainer",
-          "url": "https://www.spiegel.de/sport/fussball/juergen-klopp-diese-sieben-momente-erklaeren-den-moeglichen-bundestrainer-a-359d612e-ee9a-4ec9-b42a-f07995f6d89a#ref=rss",
-          "summary": "TV-Bundestrainer, Mann der Worte, Seitenwechsel zum unbeliebten Konzern Red Bull: Jürgen Klopp soll neuer Bundestrainer werden. In einer Zeitreise durch seine Karriere zeigen wir, was ihn auszeichnet. Und was eher nicht.",
+          "title": "Rheinmetall: Wie Armin Papperger vom Hoffnungsträger zum Risiko wird",
+          "url": "https://www.spiegel.de/wirtschaft/rheinmetall-wie-armin-papperger-vom-hoffnungstraeger-zum-risiko-wird-a-7c305969-9539-4d4d-a9b3-da77ff248aab#ref=rss",
+          "summary": "Hat der ehrgeizige Vorstandschef sich übernommen?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8a02db6d-f574-4ac3-a2fc-706b44a70ff4_w1200_r1.778_fpx50_fpy33.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f0c6d775-7dc1-407c-b15d-29481cbe1178_w1200_r1.778_fpx49_fpy35.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Pilotprojekt für junge Arbeitslose: Ein Ausweg aus dem Teufelskreis?",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/pirmasens-arbeitslosigkeit-grundsicherung-100.html",
-          "summary": "Abwertung, Misserfolg und Rückzug: Wenn junge Menschen in die Arbeitslosigkeit abrutschen, kann ein Neuanfang schwierig sein. In Pirmasens soll ein Pilotprojekt helfen - mit Strafen in der Hinterhand. Von Sandra Biegger.",
+          "title": "Parlamentswahl in Israel: Geben arabische Frauen den Ausschlag?",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-araber-frauen-100.html",
+          "summary": "Im Herbst wird in Israel ein neues Parlament gewählt. Entscheidend könnte dabei die arabische Minderheit sein. Die Wahlbeteiligung arabischer Frauen aber war zuletzt gering. Das könnte sich nun ändern. Von Bettina Meier.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7efe146f-79b3-4381-894b-178edb488475/AAABlesSXOY/AAABnSSvrFg/16x9-big/jobcenter-146.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c612fd30-1256-4207-88d0-d3c0bf8aeb85/AAABny20E_k/AAABnSSvrFg/16x9-big/haifa-114.jpg?width=1280"
         },
         {
-          "title": "Baustoffe werden knapp: Recycling kommt kaum zum Einsatz",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/baustoffe-knapp-recycling-100.html",
-          "summary": "Kies, Sand und Schotter werden knapp und teurer. Recycling-Baustoffe könnten helfen. Doch trotz ausgereifter Technik gibt es vor allem bei öffentlichen Projekten große Hürden. Von Johannes Lenz.",
+          "title": "Haushaltsentwurf: Klingbeil will auch beim Klimafonds sparen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-klimafonds-100.html",
+          "summary": "Die Bundesregierung will investieren - und muss sparen. Der Konsolidierungskurs von Finanzminister Klingbeil sieht auch Kürzungen beim Klima- und Transformationsfonds vor. Das könnte Einschnitte bei der Heizungsförderung zur Folge haben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/925a831f-c474-4bbb-b2c5-fbecc278ac08/AAABnu8-ueY/AAABnSSvrFg/16x9-big/kieswerk-bagger-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c6cf4965-be30-45ba-9318-87acf8c23ede/AAABngKr8ck/AAABnSSvrFg/16x9-big/klingbeil-338.jpg?width=1280"
         },
         {
-          "title": "Geplante Reform zu Krankschreibung auch in Koalition umstritten",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-reform-100.html",
-          "summary": "Gegen die Reformpläne zur Krankschreibung gibt es viel Protest. Zunächst vor allem von Gewerkschaften und Ärzten- aber nun regt sich auch Kritik aus Kreisen der schwarz-roten Koalition.",
+          "title": "Papst auf Lampedusa - \"Habt den Mut, anders zu denken\"",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-papst-lampedusa-100.html",
+          "summary": "Auf der Insel Lampedusa kommen viele Geflüchtete an, die von Nordafrika nach Europa gelangen wollen. Der Papst besucht hier das \"Tor Europas\" und appelliert auch an Touristen. Von Lisa Weiß.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bde64062-fc19-4338-a7a4-2cd6ae2d234c/AAABm9oejBM/AAABnSSvrFg/16x9-big/krankschreibung-142.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f03bea30-b65c-4699-ac73-a62cec579ada/AAABny1phOk/AAABnSSvrFg/16x9-big/papst-lampedusa-denkmal-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "WM-Debakel & Nagelsmann-Aus: Wie der deutsche Fußball jetzt umdenken muss",
+          "url": "https://www.telepolis.de/article/WM-Debakel-Nagelsmann-Aus-Wie-der-deutsche-Fussball-jetzt-umdenken-muss-11353938.html",
+          "summary": "Deutschland scheitert in der schwächsten WM-Gruppe, Bundestrainer Nagelsmann wirft hin. Welches Erfolgsmodell der DFB jetzt kopieren muss. WM-Blog – Folge 11.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/1/3/8/1/master_wmblog-837eed3bf2d18f1f.jpg"
+        },
         {
           "title": "Schrödingers Souverän: Das Volk zwischen Wahl und Wirkung",
           "url": "https://www.telepolis.de/article/Schroedingers-Souveraen-Das-Volk-zwischen-Wahl-und-Wirkung-11349789.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/1/3/3/4/master_Lange-97f95e9ccc69e5b7.jpg"
-        },
-        {
-          "title": "Reform des IFG: Bundesregierung plant drastische Einschränkungen",
-          "url": "https://www.telepolis.de/article/Reform-des-IFG-Bundesregierung-plant-drastische-Einschraenkungen-11353514.html",
-          "summary": "Die Bundesregierung will das Informationsfreiheitsgesetz (IFG) reformieren. Künftig drohen Bürgern immense Kosten bei amtlichen Auskünften.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/1/1/7/7/shutterstock_744158275-d72d719daa6b01b1.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Erfurt: AfD-Parteitag: Chrupalla und Weidel als Parteichefs wiedergewählt",
-          "url": "https://www.sueddeutsche.de/politik/afd-parteitag-erfurt-demonstrationen-li.3510352",
-          "summary": "Tino Chrupalla wird mit 70 Prozent im Amt bestätigt, Alice Weidel mit mehr als 80 Prozent. Tausende Menschen demonstrieren in Erfurt gegen den Bundesparteitag der AfD. Aktivisten blockierten die Autobahn.",
+          "title": "USA: Zeitkapsel für 250 Jahre vergraben",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-ice-85-jaehriger-deutscher-stirbt-li.3506498",
+          "summary": "In Philadelphia, wo vor 250 Jahren einst die Unabhängigkeitserklärung verfasst wurde, soll es in weiteren 250 Jahren etwas zu entdecken geben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/04/5b0fd58f-467d-43e8-8645-c0a491190059.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C65%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/04/17d86f16-359c-4f76-b613-721e3c26fdde.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C198%2C4000%2C2250"
         },
         {
-          "title": "Iran: Sie beerdigen eine Ära",
-          "url": "https://www.sueddeutsche.de/politik/iran-beerdigung-ali-chamenei-teheran-li.3509890",
-          "summary": "Das iranische Regime will die Beerdigung von Ali Chamenei als historisches Ereignis inszenieren. Fast eine Woche soll sie dauern. Dabei dürften in der Führung manche froh sein, dass Chamenei nicht mehr da ist.",
+          "title": "Nachts in München: Party oder Ruhe: Wenn im Univiertel der Kulturkampf ausbricht",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-univiertel-party-anwohner-aerger-akim-li.3507912",
+          "summary": "Die Fronten sind verhärtet zwischen jungen Menschen, die feiern, und Anwohnern, die ihre Ruhe wollen. Über allem schwebt ein drohendes Verkaufsverbot für Bier. Unterwegs mit Konfliktmanagern der Stadt, die versuchen, für Verständnis zu werben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/04/6594f829-b555-41be-8c7a-10c9c1f10b83.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/04/96c7e7ea-6c27-43cd-ba50-4913833ce250.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C9%2C4000%2C2250"
         },
         {
-          "title": "Krieg in der Ukraine: Russland meldet Einnahme von Kostjantyniwka, Ukraine dementiert",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-kostjantyniwka-li.3500126",
-          "summary": "„Es ist nur eine weitere russische Lüge“, erklärt der ukrainische Präsident Selenskij.",
+          "title": "Fußball-WM: „Wir haben die Kapverden auf die Landkarte gesetzt“",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-kapverden-argentinien-messi-vozinha-li.3510338",
+          "summary": "Nach großer Leistung und einer Beinahe-Sensation gegen Argentinien fährt der zweitkleinste WM-Teilnehmer nach Hause. Doch die Spieler um Torwart Vozinha hoffen, dass sie anderen Ländern Mut gemacht haben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/04/91c4e6bd-c7e8-491f-a225-d3d67fa72685.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/04/8d009809-81fe-41bf-8f43-f2e2f7c7eddf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C132%2C2300%2C1294"
         }
       ]
     }
