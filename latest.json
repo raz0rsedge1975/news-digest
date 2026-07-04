@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T22:00:10.374Z",
-  "timestamp": "4.7.2026, 00:00:10",
+  "generated": "2026-07-04T02:00:08.040Z",
+  "timestamp": "4.7.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "New York City: Taylor Swift heiratet Travis Kelce – Die größte Hochzeit des Jahres",
-          "url": "https://www.spiegel.de/kultur/new-york-city-taylor-swift-heiratet-travis-kelce-die-groesste-hochzeit-des-jahres-a-0061587c-3b4f-4656-bc23-1fbfd961d85f#ref=rss",
-          "summary": "Die Hochzeit von Taylor Swift und Travis Kelce ist das gesellschaftliche Großereignis des Jahres. 500 SUVs bringen 1000 Gäste zum Madison Square Garden. Anhänger hoffen auf einen Blick auf das Brautpaar – wohl vergebens. Alle Ereignisse im Liveblog.",
+          "title": "WM 2026 live: Drei Erkenntnisse aus Argentinien - Kap Verde",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-drei-erkenntnisse-aus-argentinien-kap-verde-a-6fdbcdee-0303-4ec4-a591-490300c5aa6f#ref=rss",
+          "summary": "Argentinien kann auch schwierig. Kap Verde hat alles, was eine WM ausmacht. Und Vozinha... aber lesen Sie selbst. Alles zum Spiel im Livekommentar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/565f19b0-23cc-41a9-a5f5-4ae242f01857_w1200_r1.778_fpx37.31_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6002f537-7fb6-4749-be12-60007243782b_w1200_r1.778_fpx48.4_fpy50.jpg"
         },
         {
-          "title": "WM 2026 live: Argentinien gegen Kap Verde im Liveticker",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-argentinien-gegen-kap-verde-im-liveticker-a-6fdbcdee-0303-4ec4-a591-490300c5aa6f#ref=rss",
-          "summary": "Das Duell zwischen dem Titelverteidiger und dem WM-Neuling sollte eigentlich eine klare Sache sein. Aber noch hat Kap Verde kein einziges WM-Spiel verloren, nicht einmal gegen Spanien. Wie ergeht es Messi und Co? Das erfahren Sie im Liveticker.",
+          "title": "New York City: Taylor Swift und Travis Kelce sind verheiratet – Die größte Hochzeit des Jahres",
+          "url": "https://www.spiegel.de/kultur/new-york-city-taylor-swift-heiratet-travis-kelce-die-groesste-hochzeit-des-jahres-a-0061587c-3b4f-4656-bc23-1fbfd961d85f#ref=rss",
+          "summary": "Sie haben »Ja« gesagt: Taylor Swift und Travis Kelce sind nun ein Ehepaar. Getraut von Comedian Adam Sandler, begleitet von einem Wahnsinn an Promi-Gästen, Fans und Medien aus aller Welt. Die Mega-Hochzeit aus New York im Live-Protokoll.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9a9512ec-597a-4f04-ae74-cc8313a8918e_w1200_r1.778_fpx43_fpy39.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/19a6726c-762b-4922-a254-bd9a1d941931_w1200_r1.778_fpx33.34_fpy50.jpg"
         },
         {
           "title": "250 Jahre USA: Was sagen die Nachfahren der Gründerväter heute?",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Russland meldet Einnahme wichtiger Stadt im ukrainischen Donbass",
+          "url": "https://www.tagesschau.de/ausland/ukraine-russland-krieg-142.html",
+          "summary": "Russland rückt nach eigenen Angaben im Osten der Ukraine vor und will eine strategisch wichtige Stadt erobert haben. Bei einem russischen Angriff auf die ukrainische Stadt Sumy gibt es mehrere Tote.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/ac433ffb-83bb-4e93-bd5d-18403a988516/AAABnyoZ_2g/AAABnSSvrFg/16x9-big/putin-1502.jpg?width=1280"
+        },
+        {
           "title": "Bundeshaushalt 2027: Klingbeil plant höhere Ausgaben und mehr Schulden",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-166.html",
           "summary": "Laut einem Haushaltsentwurf plant Bundesfinanzminister Klingbeil für kommendes Jahr mit höheren Ausgaben - und auch neuen Schulden. Letztere beziffern sich insgesamt auf 203 Milliarden Euro.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/49737b94-83f9-4756-92a2-c02b79468024/AAABnykAdm4/AAABnSSvrFg/16x9-big/nato-gipfel-ankara-100.jpg?width=1280"
-        },
-        {
-          "title": "Klinische Studie für Medikamente gegen seltene Ebola-Variante",
-          "url": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-klinische-tests-medikamente-100.html",
-          "summary": "In der Demokratischen Republik Kongo beginnen erste klinische Tests gegen die seltene Ebola-Variante Bundibugyo. Zwei antivirale Therapien sollen auf ihre Wirksamkeit geprüft werden. Von Karin Bensch.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ded8a9a8-2490-42c6-9c47-9d1f4296b59d/AAABnyjRam4/AAABnSSvrFg/16x9-big/kongo-ebola-120.jpg?width=1280"
         }
       ]
     },
@@ -122,7 +122,15 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "DFB-Team: „Ich bin bereit“: Klopp will Bundestrainer werden",
+          "title": "3:2 nach Verlängerung: Die Kapverden bringen den Weltmeister an den Rand des Abgrunds",
+          "url": "https://www.sueddeutsche.de/sport/argentinien-kap-verde-wm-messi-vozinha-li.3510264",
+          "summary": "Der Außenseiter verpasst die größte Sensation der WM-Geschichte: Die Kapverden zwingen Argentinien in die Verlängerung. Torhüter Vozinha hält erneut überragend, dem ehemaligen Erfurter Lopes Cabral gelingt ein Traumtor.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/04/4bb259bb-b97b-4625-963c-b9ac383f185f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
+        },
+        {
+          "title": "DFB-Team: „Ich bin bereit“: Jürgen Klopp will Bundestrainer werden",
           "url": "https://www.sueddeutsche.de/sport/klopp-bundestrainer-nationalmannschaft-li.3510254",
           "summary": "Bei Magenta-TV bestätigt Jürgen Klopp sein Interesse am Bundestrainerposten. Er sagt aber auch: „Wir müssen jetzt Dinge grundlegend verändern.“",
           "source": "SZ",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/03/6ce641e1-13a9-4bb3-b080-c53a92a12e1f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C97%2C3120%2C1755"
-        },
-        {
-          "title": "Debatte: Nur ein Tag Ruhe, bitte",
-          "url": "https://www.sueddeutsche.de/kultur/krankschreibung-ab-tag-1-kritik-migraene-frauen-li.3509789",
-          "summary": "Attestpflicht ab dem ersten Tag? Wie sich diese Wunschreform der CDU in der Realität einer Migränepatientin anfühlt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/03/ef7835c4-1605-4510-9bb2-8894d0e132ed.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C414%2C4000%2C2250"
         }
       ]
     }
