@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-05T10:00:09.150Z",
-  "timestamp": "5.7.2026, 12:00:09",
+  "generated": "2026-07-05T14:00:08.751Z",
+  "timestamp": "5.7.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "AfD-Zuspruch im Osten: Doch nicht so immun",
-          "url": "https://www.faz.net/aktuell/politik/inland/radebeul-ist-wohlhabend-trotzdem-waechst-die-afd-warum-accg-200954457.html",
-          "summary": "Radebeul in Sachsen ist stolz darauf, eine der letzten Inseln im blauen Osten zu sein. Aber auch in der „Stadt der Millionäre“ wächst die AfD. Warum?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/78345896bd46/w6000h3135x0y458o/202603/43601.0.1846297084/unten-der-elberadweg-oben-die.webp"
-        },
-        {
-          "title": "„Dreckig“ gegen Paraguay: Was dieser Sieg über Titelfavorit Frankreich offenbart",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/sieg-ueber-paraguay-bei-fussball-wm-2026-was-dieses-spiel-ueber-frankreich-offenbart-200993652.html",
-          "summary": "Deutschland-Bezwinger Paraguay bereitet auch den Franzosen große Probleme. Die allerdings finden am Ende den richtigen Umgang mit der grenzwertigen Spielweise der Südamerikaner – zeigen aber auch Schwächen.",
+          "title": "Bundesparteitag: Die AfD zelebriert den wirtschaftlichen Niedergang",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/afd-bundesparteitag-alice-weidel-zelebriert-den-wirtschaftlichen-niedergang-accg-200999296.html",
+          "summary": "Alice Weidel will die Staatsfinanzen durch rigorose Ausgabenkürzungen bei Ausländern sanieren. „Das wird einschneidend“, kündigte die AfD-Chefin in Erfurt an. Ihr Hauptgegner sitzt im Kanzleramt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/efa51f618590/w2474h1292x251y318o/202607/43601.0.2299212804/es-geht-auch-anders-kylian.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2e5489e8ab44/w4765h2489x0y343o/202607/43601.0.2297123414/kuendigt-sparmassnahmen-an-die.webp"
         },
         {
-          "title": "Liveblog Fußball-WM 2026: „Kontrollverlust“: Massive Schiedsrichter-Kritik nach „schlechtester WM-Leistung“",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-kritik-an-schiedsrichter-und-paraguay-faz-200749933.html",
-          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
+          "title": "Neuer AfD-Vize: Höckes Mann im Bundesvorstand",
+          "url": "https://www.faz.net/aktuell/politik/inland/stefan-moeller-ist-hoeckes-mann-im-bundesvorstand-accg-200998937.html",
+          "summary": "Stefan Möller ist neuer Vizechef der AfD. Er gilt als Stratege. Doch seine Aufgabe an der Parteispitze könnte zu Konflikten führen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/da549872e936/w3537h1848x0y170o/202607/43601.0.2299129072/entscheidung-erst-nach.webp"
+          "image": "https://media0.faz.net/image/w1200h627/dba23ca482a4/w5140h2685x0y117o/202607/43601.0.2297803667/stefan-moeller-nach-seiner.webp"
+        },
+        {
+          "title": "Unrühmlicher WM-Abschied: „Das ist nicht nur beschämend, das ist schlimmer“",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/paraguay-bei-fussball-wm-2026-beschaemender-abschied-gegen-frankreich-accg-200999265.html",
+          "summary": "Der Auftritt von Deutschland-Bezwinger Paraguay im WM-Achtelfinale gegen Frankreich erhitzt die Gemüter. Experten in mehreren Ländern wählen zum Teil drastische Worte.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e57b70ca35ab/w4455h2327x240y285o/202607/43601.0.2299425354/diskussionsbedarf-frankreichs.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Influencerin im Fußball: Rosa Jacob ist Fan vom 1. FC Köln und wurde deshalb angegriffen",
+          "url": "https://www.spiegel.de/sport/fussball/influencerin-im-fussball-rosa-jacob-ist-fan-vom-1-fc-koeln-und-wurde-deshalb-angegriffen-a-df37281b-4baa-4916-ae49-7e5abe155198#ref=rss",
+          "summary": "Rosa Jacob ist Köln-Fan, wird in der eigenen Kurve aber beleidigt, bedroht und angegriffen. Nun berichtet die Influencerin von der WM. Wie viel Liebe zum Fußball bleibt, wenn der eigene Block zu einem Ort der Angst wird?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ed6b57a0-3ad5-4c47-8a69-b77191f66cf4_w1200_r1.778_fpx53_fpy24.jpg"
+        },
         {
           "title": "Medizin: Was Frauen an Missbrauch und Übergriffen in der ärztlichen Ausbildung erleben",
           "url": "https://www.spiegel.de/panorama/medizin-vorschlaege-gegen-missbrauch-und-uebergriffe-in-der-aerztlichen-ausbildung-a-606986a9-3793-4511-b872-3c0304ca8af2#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/4f74d564-d9c2-4f94-a8ad-c65fd04e78de_w1200_r1.778_fpx65_fpy76.jpg"
         },
         {
-          "title": "Donald Trump: 250 Jahre USA – und dann diese Rede",
-          "url": "https://www.spiegel.de/ausland/usa-250-jahre-unabhaengigkeit-liveticker-zu-den-feierlichkeiten-a-b963d9cc-6e8c-4a61-a4e1-3e9debf8fb79#ref=rss",
-          "summary": "»Alle versuchen, wie wir zu sein. « US-Präsident Trump hat seine Ansprache zum Unabhängigkeitstag für reichlich Eigenlob genutzt – und mit Superlativen gespickt: Kein Land sei großartiger, kein Volk genialer. Der Wettergott sah das offenbar anders. Die Liveanalyse zum Nachlesen.",
+          "title": "Bosch-Betriebsratschef will Gespräche mit Politikern und Bossen",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/bosch-betriebsratschef-will-gespraeche-mit-politikern-und-bossen-a-82dc719a-2d63-40d2-ad9d-2cd4550923a0#ref=rss",
+          "summary": "Mercedes fordert unbezahlte Mehrarbeit, Volkswagen droht mit dem Aus für vier Werke. »Wir können nicht so weitermachen«, sagt ein einflussreicher Gewerkschafter dem SPIEGEL und fordert einen runden Tisch für Deutschland.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9747608a-cf53-4157-93b4-86b743ca6c6f_w1200_r1.778_fpx48_fpy47.jpg"
-        },
-        {
-          "title": "Haushalt 2027: Fünf Lehren aus dem Entwurf über eine halbe Billion Euro",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-fuenf-lehren-aus-dem-entwurf-ueber-eine-halbe-billion-euro-a-f0c224dd-2a75-48f3-af65-d726766d00d4#ref=rss",
-          "summary": "Mehr als eine halbe Billion Euro gibt die Bundesregierung im nächsten Jahr aus, davon ein Fünftel auf Pump. So will sie die Wirtschaft ankurbeln. Wird die Wette auf die Zukunft funktionieren?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9b84d00f-8d6d-4699-a02e-75de34328b5e_w1200_r1.778_fpx51.8_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9b9569c4-7b3f-4d21-9b41-6e408b3ad5d0_w1200_r1.778_fpx67.33_fpy52.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Pistorius: Keine Weitergabe von Geheiminformationen an AfD",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-bundeswehr-afd-100.html",
-          "summary": "Was, wenn die AfD etwa in Sachsen-Anhalt an die Regierung kommt? Dann will Verteidigungsminister Pistorius die Weitergabe geheimer Informationen an die Partei verhindern. Eine AfD-Nähe zu Putin sei \"nicht zu übersehen\".",
+          "title": "Abschluss des AfD-Parteitags: \"Endlich aus der Opposition in die Regierung\"",
+          "url": "https://www.tagesschau.de/inland/afd-parteitag-weidel-chrupalla-100.html",
+          "summary": "Zum Ende ihres Parteitags haben die AfD-Chefs nochmal klargestellt, dass sie regieren wollen - in den Ländern und nach 2029 auch auf Bundesebene. Kritik an einem Landesverband gab es von Co-Chefin Weidel - für dessen Aussagen zum Familienbild.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7233566d-c81d-4da3-997a-d37b449aa508/AAABnzGL28k/AAABnSSvrFg/16x9-big/boris-pistorius-206.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dadc56bc-bd1e-49ba-8a39-82db96522074/AAABnzJxYHU/AAABnSSvrFg/16x9-big/afd-1168.jpg?width=1280"
         },
         {
-          "title": "DGB: 40 Prozent der Beschäftigten zweifeln am Durchhalten bis zur Rente",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/dgb-studie-rente-100.html",
-          "summary": "Mehr als jeder Dritte Beschäftigte in Deutschland zweifelt daran, bis zur Rente durchhalten zu können. Das ergab eine Erhebung des DGB. Besonders pessimistisch sind Arbeitnehmer aus den Bereichen Pflege, Handwerk und Bau.",
+          "title": "Demos gegen AfD-Parteitag: Thüringer Polizei zieht positive Bilanz",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-polizeibilanz-100.html",
+          "summary": "Zehntausende Menschen haben in Erfurt am Wochenende weitgehend friedlich gegen den AfD-Bundesparteitag demonstriert. Die Thüringer Polizei zieht eine positive Bilanz. Es gibt aber auch Kritik am Vorgehen der Einsatzkräfte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1e18a83c-d74b-45c5-a523-bbd2257b49f3/AAABnzGh0S8/AAABnSSvrFg/16x9-big/strassenbau-sachsen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3578401f-9527-45eb-9d0e-76780fecffb4/AAABnzJ1EPo/AAABnSSvrFg/16x9-big/gegedemo-afd-100.jpg?width=1280"
         },
         {
-          "title": "250 Jahre USA: Was wird aus den Idealen der Gründerväter?",
-          "url": "https://www.tagesschau.de/ausland/amerika/us-verfassung-geschichte-100.html",
-          "summary": "Die USA feiern ihre Unabhängigkeit und ihre demokratische Verfassung. Doch von Anfang an waren diese auch von Widersprüchen geprägt - und werden in Zeiten von Präsident Trump zunehmend neu interpretiert. Von Max Bauer.",
+          "title": "Statt auf Öl setzt Brasilien auf Alkohol im Straßenverkehr",
+          "url": "https://www.tagesschau.de/wirtschaft/oelkrise-brasilien-alkohol-100.html",
+          "summary": "Wer in Brasilien tankt, bekommt inzwischen mehr als 30 Prozent Bioethanol im Benzin. Das macht Land unabhängiger von Preisschocks auf dem Ölmarkt. Doch es gibt auch Kritik. Von Anne Herrberg.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/179cdc60-9b39-4ca2-bad6-f6f6f4ee6d83/AAABnzGNtd8/AAABnSSvrFg/16x9-big/statue-washington-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e5f5469d-2973-4489-9b84-f28420839ef2/AAABnvRPXyU/AAABnSSvrFg/16x9-big/tankstelle-brasilien-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Sany e263: China-Gigant will europäische E-Lkw um 30 Prozent unterbieten",
+          "url": "https://www.telepolis.de/article/Sany-e263-China-Gigant-will-europaeische-E-Lkw-um-30-Prozent-unterbieten-11347652.html",
+          "summary": "Der chinesische Hersteller Sany bringt den Elektro-Lkw e263 nach Europa. Dank Putzmeister-Service soll er hiesige Marken beim Preis massiv schlagen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/1/0/8/2/1/1/Sany-Lkw-2F-01-214d65c892db1c62.gif"
+        },
+        {
+          "title": "Putins Signale: Was der Westen möglicherweise übersieht",
+          "url": "https://www.telepolis.de/article/Putins-Signale-Was-der-Westen-moeglicherweise-uebersieht-11354102.html",
+          "summary": "Interview: Reiner Schwalb, ehemaliger Militärattaché in Moskau, analysiert russische Sicherheitsinteressen, Verhandlungen und die Logik militärischer Drohungen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/1/4/6/3/master_Russland-c8abbb56603b20c8.jpg"
+        },
+        {
           "title": "Weser-Vertiefung: Warum Kühe plötzlich bis zu 1,8 Kilo Salz fressen",
           "url": "https://www.telepolis.de/article/Weser-Vertiefung-Warum-Kuehe-ploetzlich-bis-zu-1-8-Kilo-Salz-fressen-11349144.html",
           "summary": "Weil die Weser vertieft wird, versalzen die Weidegräben. Landwirte warnen: Rinder nehmen täglich lebensgefährliche Mengen Salz auf.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/8/9/7/2/wasser_2-2181a467a02408b8.jpg"
-        },
-        {
-          "title": "Meinungsfreiheit im Fokus: Der Fall des Lehrers Julian Hundt",
-          "url": "https://www.telepolis.de/article/Meinungsfreiheit-im-Fokus-Der-Fall-des-Lehrers-Julian-Hundt-11348183.html",
-          "summary": "Ein Lehrer wird suspendiert – nicht wegen eines Dienstvergehens, sondern wegen privater Posts. Was das für die Gesellschaft bedeutet, ist erschreckend.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/0/8/4/8/2/shutterstock_2735443477-10ba0a01736b5fa9.jpg"
-        },
-        {
-          "title": "WM-Debakel & Nagelsmann-Aus: Wie der deutsche Fußball jetzt umdenken muss",
-          "url": "https://www.telepolis.de/article/WM-Debakel-Nagelsmann-Aus-Wie-der-deutsche-Fussball-jetzt-umdenken-muss-11353938.html",
-          "summary": "Deutschland scheitert in der schwächsten WM-Gruppe, Bundestrainer Nagelsmann wirft hin. Welches Erfolgsmodell der DFB jetzt kopieren muss. WM-Blog – Folge 11.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/1/3/8/1/master_wmblog-837eed3bf2d18f1f.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "AfD-Parteitag: Wie mächtig ist Björn Höcke in der AfD?",
-          "url": "https://www.sueddeutsche.de/politik/bjoern-hoecke-afd-einfluss-thueringen-bundesebene-li.3510500",
-          "summary": "Björn Höcke befeuert gern den Nimbus vom mächtigen Mann im Hintergrund, der aus Erfurt die Geschicke der AfD lenkt. Wie weit reicht sein Einfluss tatsächlich?",
+          "title": "Fußball-WM 2026: Irritiert bis entsetzt: Reaktionen auf Paraguays letzten Auftritt",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-tuchel-viagra-li.3492650",
+          "summary": "Nach dem Sieg über Deutschland verliert Paraguay gegen Frankreich – und verspielt viele Sympathien.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/05/1a1587b6-bab0-4ed8-8d7e-66a31496b7c8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/05/7bb8ebfe-a115-4ead-8f5d-13f7a7e74510.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=406%2C0%2C2027%2C1140"
         },
         {
-          "title": "USA: Trump warnt vor „kommunistischer Bedrohung“",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-trump-kommunismus-li.3506498",
-          "summary": "Der US-Präsident warnte in seiner Rede zum 250. Jahrestag erneut vor einem Erstarken des Kommunismus in den USA.",
+          "title": "Parteitag in Erfurt: Alice Weidel baut ihre Macht aus",
+          "url": "https://www.sueddeutsche.de/politik/afd-parteitag-erfurt-weidel-chrupalla-li.3510364",
+          "summary": "Der Parteitag der AfD zeigt: Die Machtverhältnisse in der Partei verschieben sich in Richtung Alice Weidel. Thüringens Landeschef Björn Höcke inszeniert sich derweil als Heiler der Nation. Und woher kommt eigentlich die Musik?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/05/1b9083c3-d647-48ea-8f13-4c524b662632.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2685%2C1510"
+          "image": "https://www.sueddeutsche.de/2026/07/05/6771d6a3-ae82-4666-b40b-d09b95bbe195.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Bundespolitik: Pistorius: Keine geheimen Infos an AfD wegen Nähe zu Putin",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-pistorius-afd-russland-li.3495864",
-          "summary": "Der Verteidigungsminister warnt vor dem Zugang der AfD zu geheimen Informationen – und verweist auf die Nähe der Partei zu Russland.",
+          "title": "USA: Trump und Swift zeigen mit ihren Spektakeln, dass ein neues „Gilded Age“ angebrochen ist",
+          "url": "https://www.sueddeutsche.de/meinung/usa-trump-swift-250-unabhaengigkeit-hochzeit-kommentar-li.3509768",
+          "summary": "Der Präsident feiert den 250. Geburtstag der Vereinigten Staaten, der Popstar eine pompöse Hochzeit mit tausend Gästen. Doch für die Mittelschicht ist vieles unbezahlbar geworden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/01/2bd9ada7-a947-4eb0-870b-4000e1e6644f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C362%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/05/c76d7e8e-d9c2-4a20-ab83-31ed5310657b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C203%2C4000%2C2250"
         }
       ]
     }
