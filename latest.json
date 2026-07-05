@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-05T02:00:11.650Z",
-  "timestamp": "5.7.2026, 04:00:11",
+  "generated": "2026-07-05T06:00:07.868Z",
+  "timestamp": "5.7.2026, 08:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Le Pen vor ihrem Urteil: „Was immer auch passiert, ich werde nicht sterben“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/marine-le-pen-drei-richterinnen-entscheiden-ueber-kandidatur-200992930.html",
-          "summary": "Marine Le Pen gibt sich vor dem Berufungsurteil demonstrativ gelassen. Zugleich bereitet sich der Rassemblement National auf alle Szenarien vor.",
+          "title": "250 Jahre USA: Mit nächtlicher Rede des Präsidenten",
+          "url": "https://www.faz.net/aktuell/politik/ausland/250-jahre-usa-donald-trump-gibt-sich-ungewohnt-zahm-accg-200998510.html",
+          "summary": "Geburtstag der USA lief in Washington nicht alles nach Plan. Schuld daran war vor allem das Wetter. Donald Trump gab sich ungewohnt zahm.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0017874f5505/w7162h3742x0y253o/202607/43601.0.2286615555/marine-le-pen-vor-einem.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b288c501ee53/w5513h2880x0y397o/202607/43601.0.2299893863/feuerwerkskoerper-explodieren.webp"
         },
         {
-          "title": "Frankreich bezwingt Paraguay: Mbappés Elfmetertor reicht",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-mbappes-elfmetertor-reicht-frankreich-gegen-paraguay-200993652.html",
-          "summary": "Frankreichs Champagner-Fußball prickelt nicht und perlt an Paraguays Spielverderbern ab. Schließlich entscheidet ein Elfmetertor von Star-Stürmer Kylian Mbappé das WM-Achtelfinale.",
+          "title": "USA unter Trump: Trump warnt vor Übernahme durch „Kommunisten“",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-vance-verbittet-sich-am-us-unabhaengigkeitstag-kritik-an-den-usa-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump soll republikanischen Senator angeschrien haben / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/387dda00e3c6/w4661h2435x0y336o/202607/43601.0.2298986209/kylian-mbapp-behaelt-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/aff7faa8e83d/w3692h1929x0y74o/202607/43601.0.2299886015/us-praesident-donald-trump.webp"
         },
         {
-          "title": "3:0 gegen Kanada: Marokko als Party-Crasher",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-marokko-als-party-crasher-fuer-kanada-200993637.html",
-          "summary": "Das erste Achtelfinale der WM verläuft zunächst langweilig und zugleich hitzig. Dann wacht Marokko auf. Ein Bayern-Neuzugang bereitet derweil Sorgen.",
+          "title": "„Dreckig“ gegen Paraguay: Was dieser Sieg über Titelfavorit Frankreich offenbart",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/sieg-ueber-paraguay-bei-fussball-wm-2026-was-dieses-spiel-ueber-frankreich-offenbart-200993652.html",
+          "summary": "Deutschland-Bezwinger Paraguay bereitet auch den Franzosen große Probleme. Die allerdings finden am Ende den richtigen Umgang mit der grenzwertigen Spielweise der Südamerikaner – zeigen aber auch Schwächen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/84d0b58c552e/w3440h1797x0y248o/202607/43601.0.2298622720/feiern-ihre-eigene-wm-party.webp"
+          "image": "https://media0.faz.net/image/w1200h627/efa51f618590/w2474h1292x251y318o/202607/43601.0.2299212804/es-geht-auch-anders-kylian.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Donald Trump: 250 Jahre USA – und dann diese Rede",
+          "url": "https://www.spiegel.de/ausland/usa-250-jahre-unabhaengigkeit-liveticker-zu-den-feierlichkeiten-a-b963d9cc-6e8c-4a61-a4e1-3e9debf8fb79#ref=rss",
+          "summary": "»Alle versuchen, wie wir zu sein. « US-Präsident Trump hat seine Ansprache zum Unabhängigkeitstag für reichlich Eigenlob genutzt – und mit Superlativen gespickt: Kein Land sei großartiger, kein Volk genialer. Der Wettergott sah das offenbar anders. Die Live-Analyse zum Nachlesen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/9747608a-cf53-4157-93b4-86b743ca6c6f_w1200_r1.778_fpx48_fpy47.jpg"
+        },
         {
           "title": "WM 2026: Frankreich ringt Paraguay nieder und steht im Viertelfinale",
           "url": "https://www.spiegel.de/sport/fussball/wm-2026-frankreich-ringt-paraguay-nieder-und-steht-im-viertelfinale-a-7144bdad-e0af-4e5a-a539-a624e7478971#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/7ee57a89-b101-44dd-b278-f36809f38f2a_w1200_r1.778_fpx52_fpy49.jpg"
         },
         {
-          "title": "USA 250 Jahre Unabhängigkeit: Liveticker – so feiert das Land",
-          "url": "https://www.spiegel.de/ausland/usa-250-jahre-unabhaengigkeit-liveticker-zu-den-feierlichkeiten-a-b963d9cc-6e8c-4a61-a4e1-3e9debf8fb79#ref=rss",
-          "summary": "Tausende Menschen feierten auf der Great American State Fair den 250. Geburtstag der USA. Jetzt müssen sie das Gelände verlassen. Präsident Trump will seine Rede aber »auf jeden Fall« halten. Das Live-Update.",
+          "title": "News: Krankschreibung, Friedrich Merz, Taylor Swift, George Washington, Donald Trump,",
+          "url": "https://www.spiegel.de/politik/deutschland/news-krankschreibung-friedrich-merz-taylor-swift-george-washington-donald-trump-a-294085c6-d894-4b9b-9973-77a1614feb0e#ref=rss",
+          "summary": "Am ersten Tag zum Arzt – das kann nicht gut gehen und sollte schnell korrigiert werden. Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ec8b274a-a16a-4c66-875f-9cf60accef09_w1200_r1.778_fpx66.58_fpy49.87.jpg"
-        },
-        {
-          "title": "AfD-Parteitag in Erfurt: Alice Weidels Rache",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-parteitag-in-erfurt-alice-weidels-rache-a-fe6359b6-c667-493a-8743-c739a33fb9f1#ref=rss",
-          "summary": "Beim Parteitag macht die AfD ihre Machtkämpfe öffentlich. Und Alice Weidel zeigt, wie weit ihr Einfluss mittlerweile reicht.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1f128ed6-6545-4397-a8b8-570df8f63c59_w1200_r1.778_fpx70.57_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Behörden in Venezuela melden fast 3.000 Tote nach Erdbeben",
-          "url": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-opferzahl-steigt-100.html",
-          "summary": "Die Hoffnung schwindet, nach den Erdbeben in Venezuela noch Überlebende zu finden. Doch Helfer und Rettungskräfte suchen weiter. Die Zahl der bestätigten Todesopfer liegt mittlerweile bei fast 3.",
+          "title": "Trump hält Rede zum 250. Unabhängigkeitstag der USA",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-rede-unwetter-250-jahre-usa-102.html",
+          "summary": "Selbstlob, Attacken, angebliches Rekordfeuerwerk: US-Präsident Trump hat die Feiern zum 250. US-Unabhängigkeitstag beendet. In seiner Rede feierte er sich selbst. Ein Unwetter hatte seinen Auftritt massiv verzögert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/63fb6dce-187e-442c-822d-b34c56c91a05/AAABny-dMe4/AAABnSSvrFg/16x9-big/venezuela-1174.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6d861fe9-09bb-4f3c-bac3-4a7840a2c56e/AAABnzDXfpM/AAABnSSvrFg/16x9-big/donald-trump-844.jpg?width=1280"
         },
         {
-          "title": "Chrupalla: \"Bürger erwarten von der AfD Führungsqualitäten\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-chrupalla-tagesthemen-100.html",
-          "summary": "AfD-Co-Chef Chrupalla hat sich in den tagesthemen zufrieden über seine Wiederwahl gezeigt. Zum Kurs der AfD erklärte er, die Bürger erwarteten \"Führungsqualitäten\" - inhaltliche Fragen wolle die Partei allerdings erst im kommenden Jahr besprechen.",
+          "title": "30 Jahre nach \"Dolly\": Wie das Klonschaf die Forschung veränderte",
+          "url": "https://www.tagesschau.de/wissen/forschung/klonen-schaf-dolly-tiere-100.html",
+          "summary": "Vor 30 Jahren kam Schaf \"Dolly\" zur Welt - als das erste geklonte Säugetier. Heute ist das Laborwunder die Grundlage wichtiger Forschung. Was kann Klonen leisten und wo liegen die Grenzen - auch ethisch? Fiedler und E.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a245bfdc-78a3-446f-b8d5-3e332122b071/AAABny7gHDU/AAABnSSvrFg/16x9-big/sendungsbild-1759506.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/479f17c8-08d3-46ec-84a4-c9fcc9b48c2d/AAABnyiKCBs/AAABnSSvrFg/16x9-big/klonschaf-dolly-101.jpg?width=1280"
         },
         {
-          "title": "Analyse zu AfD-Bundesparteitag in Erfurt: Professionelle Radikale",
-          "url": "https://www.tagesschau.de/inland/afd-parteitag-erfurt-110.html",
-          "summary": "Die AfD versucht auf ihrem Parteitag in Erfurt, nicht allzu radikal aufzutreten. Das gelingt mal mehr, mal weniger. Querelen und kritische Debatten will man vermeiden und sich als geordnete Volkspartei inszenieren. Von Lissy Kaufmann.",
+          "title": "Altersabsicherung oder Verkaufsfalle: Was das Altersvorsorgedepot bietet",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-renten-reform-100.html",
+          "summary": "Das Altersvorsorgedepot soll das Rentensystem entlasten und für viele Menschen zugänglich sein. Doch Experten bezweifeln, dass mit dem neuen Depot soziale Gerechtigkeit hergestellt wird. Hiltscher und C.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0e0ffcbf-c4aa-4fb2-ab6e-c774d837545f/AAABny5HUiY/AAABnSSvrFg/16x9-big/afd-1166.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e39515f9-89af-4127-8f74-7d8b8c08027e/AAABnm2bagU/AAABnSSvrFg/16x9-big/rentner-105.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fußball-WM: Frankreich überwindet das Bollwerk Paraguay",
-          "url": "https://www.sueddeutsche.de/sport/frankreich-paraguay-wm-ergebnis-li.3510592",
-          "summary": "Erneut ist Paraguay ein ekliger Gegner, der Schiedsrichter bekommt das Spiel nicht in den Griff: Frankreich bezwingt die Südamerikaner dennoch mit 1:0 und trifft nun auf Marokko.",
+          "title": "250 Jahre USA: Amerikas hitzige Geburtstagsfeier",
+          "url": "https://www.sueddeutsche.de/politik/usa-250-jahre-geburtstag-trump-li.3510176",
+          "summary": "Am 250. Geburtstag der Vereinigten Staaten wird in Philadelphia eine Zeitkapsel vergraben, in Washington marschieren Rechtsextreme durch die Stadt. Und Donald Trump verspricht dem Land, das Beste komme noch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/04/f6515811-c723-48b3-ac6c-6443a9dc6a7b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C68%2C3579%2C2013"
+          "image": "https://www.sueddeutsche.de/2026/07/05/f3f6a7a5-1b28-48dd-be8e-64ddb43af295.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=333%2C806%2C3306%2C1860"
         },
         {
-          "title": "3:0 gegen Kanada: Marokko träumt weiter vom großen Wurf",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-marokko-kanada-saibari-li.3510520",
-          "summary": "Eine Halbzeit lang ist Co-Gastgeber Kanada das bessere Team, dann wacht der Favorit auf und gewinnt am Ende deutlich. Allerdings verletzt sich Marokkos Stürmer Ismael Saibari – der gerade beim FC Bayern unterschrieben hat.",
+          "title": "Paraguays 0:1 gegen Frankreich: Der Deutschlandbezwinger ist bezwungen",
+          "url": "https://www.sueddeutsche.de/sport/paraguay-frankreich-fouls-schiedsrichter-wm-li.3510582",
+          "summary": "Gegen Kylian Mbappé und seine Franzosen hat Paraguay keine Chance, nicht mal mit unfairsten Mitteln. Aber der Sieg gegen das DFB-Team macht die Heimreise erträglich.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/04/d1b77a62-8b4e-4f4e-8b31-808ff9ab50c7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/05/246d7747-5289-4441-93be-a33478a2a699.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "USA: Zeitkapsel für 250 Jahre vergraben",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-ice-85-jaehriger-deutscher-stirbt-li.3506498",
-          "summary": "In Philadelphia, wo vor 250 Jahren einst die Unabhängigkeitserklärung verfasst wurde, soll es in weiteren 250 Jahren etwas zu entdecken geben.",
+          "title": "Frankreich bei der WM: Jetzt gewinnen sie auch noch die – Verzeihung – Drecksspiele",
+          "url": "https://www.sueddeutsche.de/sport/frankreich-mbappe-paraguay-wm-schiedsrichter-li.3510581",
+          "summary": "Tritte, Provokationen und ein Schiedsrichter, der weder Tritte noch Provokationen sieht: Frankreich trotzt in der Bullenhitze von Philadelphia gegen Paraguay erstaunlich gelassen allen schmutzigen Tricks.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/04/17d86f16-359c-4f76-b613-721e3c26fdde.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C198%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/05/74bd9cbc-c102-4b3f-b1fb-095a05b59e6a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C219%2C4000%2C2250"
         }
       ]
     }
