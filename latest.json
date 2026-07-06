@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-06T18:00:08.297Z",
-  "timestamp": "6.7.2026, 20:00:08",
+  "generated": "2026-07-06T22:00:08.443Z",
+  "timestamp": "7.7.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Präsident als Feldherr: Warum Putin gerade jetzt in Flecktarn auftritt",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/putin-inszeniert-sich-vor-nato-gipfel-in-flecktarn-201001380.html",
-          "summary": "Vor dem NATO-Gipfel in Ankara zeigt sich Russlands Präsident in militärischer Kluft. Der Zeitpunkt ist kein Zufall.",
+          "title": "U-Boote aus Kiel: TKMS bekommt Zuschlag für Milliarden-Auftrag aus Kanada",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tkms-erhaelt-milliarden-auftrag-fuer-kanadas-u-boot-flotte-201001761.html",
+          "summary": "Kanada hat sich entschieden: Der Auftrag für zwölf U-Boote geht an den Kieler Schiffbauer TKMS. Das Rekordvolumen lässt die Börse schon vorab jubeln.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7e957b65d7ee/w2548h1331x0y51o/202607/43601.0.2296499463/der-herrscher-im-tunnel-putin.webp"
+          "image": "https://media0.faz.net/image/w1200h627/1a6cdc66da4a/w3000h1567x0y259o/202508/43601.0.1241494707/beginn-einer-langjaehrigen.webp"
         },
         {
-          "title": "Putins imperialismus: Er will gewinnen – um jeden Preis",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/russland-zahlt-einen-preis-fuer-putins-imperialismus-200964711.html",
-          "summary": "Putins historische Mission: Der Kreml-Herrscher will sein Land zum Sieg führen. Der Preis, den die Bevölkerung dafür bezahlen muss, ist ihm egal.",
+          "title": "1:0 gegen Portugal: Rodri hält die Fäden, Spaniens Joker bringen die Entscheidung",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-joker-merino-schiesst-spanien-gegen-portugal-und-ronaldo-ins-viertelfinale-200993666.html",
+          "summary": "Die Superstars Ronaldo und Yamal nehmen beim Achtelfinale zwischen Portugal und Spanien nur Nebenrollen ein. Dafür brilliert ein anderer. Als die Verlängerung naht, entscheiden drei Einwechselspieler die Partie.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/eb8e647234b2/w7895h4125x0y744o/202606/43601.0.2253099664/fuer-eine-unbeschraenkte-macht.webp"
+          "image": "https://media0.faz.net/image/w1200h627/9afbe656e0b1/w3629h1896x0y191o/202607/43601.0.2306946665/mikel-merino-ist-nach-seiner.webp"
         },
         {
-          "title": "Nato-Gipfel: Rutte sieht „bahnbrechende Fortschritte“ auf dem Weg zum Fünfprozentziel",
-          "url": "https://www.faz.net/aktuell/politik/inland/rutte-bahnbrechende-fortschritte-bei-fuenfprozentziel-201003424.html",
-          "summary": "NATO-Chef Mark Rutte lobt die Investitionen der Mitgliedsländer. Doch seine Angaben sind geschönt.",
+          "title": "Liveblog Fußball-WM 2026: Fall Balogun: FIFA-Chef Infantino weist Einflussnahme Trumps zurück",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-fifa-chef-infantino-weist-einflussnahme-trumps-zurueck-faz-200749933.html",
+          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d38f328f75a0/w6144h3210x0y633o/202607/43601.0.2305655050/rutte-bei-der-pressekonferenz.webp"
+          "image": "https://media0.faz.net/image/w1200h627/df52523c258d/w4367h2281x639y250o/202607/43601.0.2304245762/der-fifa-praesident-und-der.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "WM 2026 live: Das Achtelfinale zwischen Portugal und Spanien",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-live-das-achtelfinale-zwischen-portugal-und-spanien-a-2f78d66c-0e9e-4095-8458-ac6e2dc70edd#ref=rss",
+          "summary": "Es war nicht das Spiel des Cristiano Ronaldo – aber auch Lamine Yamal konnte kaum Akzente setzen. Der spanische Trainer wechselte den Sieg ein. Lesen Sie das Wichtigste zum WM-Achtelfinale im Live-Kommentar nach.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/c29819a4-ca71-4975-8d96-20679329dcd8_w1200_r1.778_fpx56_fpy56.jpg"
+        },
         {
           "title": "Haushalt 2027: Wo Lars Klingbeil die Milliarden herholt",
           "url": "https://www.spiegel.de/wirtschaft/soziales/haushalt-2027-wo-lars-klingbeil-die-milliarden-herholt-a-022e0110-13cf-4d7e-9fc2-16a4a5168e5c#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/dc463d8f-338c-4b72-b396-b9e843287f78_w1200_r1.778_fpx43.33_fpy54.99.jpg"
         },
         {
-          "title": "News des Tages: Donald Trump, Fußball-WM, Nato-Gipfel, Haushaltsentwurf von Lars Klingbeil",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-donald-trump-fussball-wm-nato-gipfel-haushaltsentwurf-von-lars-klingbeil-a-304817b6-ff6a-4df1-a576-0e7e6782105d#ref=rss",
-          "summary": "Trump greift als Hobby-Schiedsrichter in die Fußball-WM ein und brüskiert danach Italiens Ministerpräsidentin Meloni. Immerhin: Klingbeils Haushaltsentwurf hat er noch nicht kommentiert. Das ist die Lage am Montagabend.",
+          "title": "Rüstung: Kanada bestellt ein Dutzend U-Boote bei deutscher Werft TKMS",
+          "url": "https://www.spiegel.de/politik/deutschland/ruestung-kanada-bestellt-ein-dutzend-u-boote-bei-deutscher-werft-tkms-a-470a6a87-5ed4-49f2-8ce4-4cfba383b1cb#ref=rss",
+          "summary": "Milliardenauftrag aus Kanada vor dem Nato-Gipfel: Der Kieler Marineschiffbauer TKMS soll bis zu zwölf U-Boote nach Nordamerika liefern, sie sollen in Kiel und Wismar gebaut werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "WM 2026 News heute: Infantino tut so, als sei der Fall Balogun ein ganz normaler Vorgang",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-news-heute-trump-sagt-er-habe-infantino-um-eine-ueberpruefung-der-roten-karte-gebeten-a-1436a65b-8c63-45f3-b0d1-e3ec52abe0c9#ref=rss",
-          "summary": "US-Präsident Donald Trump hat bestätigt, mit Gianni Infantino wegen der Roten Karte Kontakt gehabt zu haben. Auch der Fifa-Präsident hat sich nun geäußert. Und: Folarin Balogun darf spielen. Alles Wichtige zum WM-Tag.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e7d64e75-81ab-41e4-80bf-9147183d6657_w1200_r1.778_fpx54_fpy38.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/245e257d-a91d-458a-826d-b8448994b852_w1200_r1.778_fpx30.9_fpy44.84.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Kanada bestellt bis zu zwölf U-Boote in Deutschland",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tkms-u-boote-kanada-100.html",
+          "summary": "Milliardenauftrag aus Kanada vor dem NATO-Gipfel: Der Kieler Marineschiffbauer TKMS soll bis zu zwölf U-Boote nach Nordamerika liefern. Verteidigungsminister Pistorius hatte sich für den Deal stark eingesetzt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/0a9db3b0-ca19-4ca4-a707-0df5350e0770/AAABnze6Lyg/AAABnSSvrFg/16x9-big/tkms-u-boot-100.jpg?width=1280"
+        },
+        {
+          "title": "Die EVP und rechte Parteien: Schadet Manfred Webers Kurs der EU?",
+          "url": "https://www.tagesschau.de/ausland/europa/weber-evp-brandmauer-100.html",
+          "summary": "Manfred Weber ist der starke Mann der Konservativen im Europaparlament. Doch die EVP steht immer mehr in der Kritik, mit Parteien am rechten Rand abzustimmen. Manche befürchten, dass sie dabei die Kontrolle verlieren könnten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7e155351-3b61-4be5-b55f-45186513d5f0/AAABnze5j-s/AAABnSSvrFg/16x9-big/manfred-weber-132.jpg?width=1280"
+        },
+        {
           "title": "Die Straße als Erstaufnahme für Geflüchtete in Paris",
           "url": "https://www.tagesschau.de/ausland/europa/paris-gefluechtete-100.html",
           "summary": "Etwa 900 Menschen leben unter den Hochgleisen der Metro-Linie 2 in Paris. Im Gegensatz zu anderen informellen Camps räumt die Polizei dieses Migranten-Lager nicht, sondern scheint Menschen vielmehr dorthin zu bringen. Von C. Dylla.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/b9d8da92-96c0-4e16-9fc8-270ab2318c69/AAABnzh4YZA/AAABnSSvrFg/16x9-big/migranten-lager-paris-100.jpg?width=1280"
-        },
-        {
-          "title": "Trauerprozession für Chamenei in Teheran",
-          "url": "https://www.tagesschau.de/ausland/iran-chameini-100.html",
-          "summary": "Es geht mehr um Politik als um Trauer: Mit der mehrtägigen Zeremonie für den getöteten Obersten Führer Chamenei will Irans Regime Signale senden - nach innen und außen. Doch viele Menschen blieben der Prozession in Teheran fern. Von U. Lueb.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/39d10b26-548a-4e5b-ad99-41d8c80de25b/AAABnzgoTxk/AAABnSSvrFg/16x9-big/teheran-300.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX kann Rekordhoch nicht halten",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-140.html",
-          "summary": "Der DAX behält seine Rekordlaune, kurzzeitig zumindest. Positive Konjunkturdaten aus der Industrie locken Anleger in den Markt. Doch dann kommt es zu Gewinnmitnahmen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/2db31d03-cdba-46dd-9aea-71ef81a25776/AAABmnblNn8/AAABnSSvrFg/16x9-big/boerse-468.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Longevity: Boston-Studie entdeckt besonderes Blutbild bei 100-Jährigen",
+          "url": "https://www.telepolis.de/article/Longevity-Boston-Studie-entdeckt-besonderes-Blutbild-bei-100-Jaehrigen-11355607.html",
+          "summary": "Eine neue Longevity-Studie der Boston University zeigt: Extrem Langlebige haben ein besonderes Blutbild. Ein Kausalitätsbeweis steht aber noch aus.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/2/2/2/5/shutterstock_2772719269-33d5ab095f5b1bff.jpg"
+        },
         {
           "title": "Trumps FIFA-Intervention: UEFA und Belgien entsetzt über aufgehobene Sperre",
           "url": "https://www.telepolis.de/article/Trumps-FIFA-Intervention-UEFA-und-Belgien-entsetzt-ueber-aufgehobene-Sperre-11355413.html",
@@ -101,20 +109,12 @@
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/2/1/2/8/folarin-balogun-as-monaco-psg-uefa-d296dde29210a2e9.jpg"
         },
         {
-          "title": "DGB-Studie: 40 Prozent glauben nicht ans Durchhalten bis zur Rente",
-          "url": "https://www.telepolis.de/article/DGB-Studie-40-Prozent-glauben-nicht-ans-Durchhalten-bis-zur-Rente-11355194.html",
-          "summary": "Knapp 28.000 Beschäftigte befragt: Körperliche Belastung, Lärm und Zeitdruck treiben Millionen vorzeitig aus dem Job.",
+          "title": "Handwerk, Pflege, Bau: Hier ist die Rente mit 67 für die meisten unerreichbar",
+          "url": "https://www.telepolis.de/article/Handwerk-Pflege-Bau-Hier-ist-die-Rente-mit-67-fuer-die-meisten-unerreichbar-11355194.html",
+          "summary": "Bis zu drei von vier Beschäftigten in Handwerk, Pflege und Bau schaffen es laut DGB-Studie nicht bis zur Rente. Wer früher geht, zahlt drauf.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/2/0/1/1/shutterstock_2638781871-17a572b27282e8aa.jpg"
-        },
-        {
-          "title": "Elektroautos erstmals vor allen anderen Antrieben",
-          "url": "https://www.telepolis.de/article/Elektroautos-erstmals-vor-allen-anderen-Antrieben-11354944.html",
-          "summary": "Reine Elektroautos wurden im Juni 2026 häufiger zugelassen als jeder andere Antrieb. BYD steigerte seinen Absatz um das Vierfache. Ein Überblick.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/1/8/8/5/shutterstock_2700676763-6a2f92017ffed305.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Donald Trump und die Fifa: „Ja, ich habe mit Gianni geredet“",
-          "url": "https://www.sueddeutsche.de/politik/wm-2026-fussball-wm-trump-telefonat-infantino-fifa-balogun-skandal-li.3511355",
-          "summary": "Es war kein Foul, die Besten sollen spielen, aber was eine rote Karte ist, das wusste er nicht: In einem umfangreichen Statement erläutert US-Präsident Trump, warum er wegen der Sperre für US-Stürmer Balogun beim Fifa-Präsidenten anrief.",
+          "title": "Spaniens Sieg gegen Portugal: Ronaldos letzter WM-Tanz endet mit Tränen",
+          "url": "https://www.sueddeutsche.de/sport/spanien-portugal-wm-2026-merino-ronaldo-li.3511512",
+          "summary": "Spanien bezwingt Portugal durch einen Treffer in der 90. Minute und zieht ins Viertelfinale ein. Cristiano Ronaldos schillernde Fußballer-Karriere bleibt auf der größten Bühne unvollständig.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/06/6db092f5-bfcc-4204-8fa6-5285e289e939.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C235%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/06/1679930a-07e5-462f-8f9b-f0d44ec29e42.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C12%2C3132%2C1762"
         },
         {
-          "title": "Krieg in der Ukraine: Trump möchte wohl Gespräche mit Selenskij über ein Kriegsende führen",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-nato-putin-selenskij-gespraeche-li.3500126",
-          "summary": "Eine Lösung für den Krieg in der Ukraine sei näher, als viele glaubten, so der US-Präsident. Er will das Thema beim Nato-Gipfel in der Türkei ansprechen.",
+          "title": "Grundsatzrede in München: Wofür eine Bundespräsidentin Ilse Aigner stehen würde",
+          "url": "https://www.sueddeutsche.de/bayern/ilse-aigner-csu-demokratie-grundsatzrede-bundespraesidentin-soeder-bayern-li.3509134",
+          "summary": "Die CSU-Politikerin hält eine Grundsatzrede an einem historischen Ort in München. Darin beschwört sie den Wert von Demokratie, Gleichberechtigung und Toleranz. Zur AfD findet sie klare Worte.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/06/4e4ff2a1-c26e-400e-9575-77e6fc737145.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C144%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/06/e516c4e0-e3e7-4304-9e42-230ab12432f3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C350%2C4000%2C2250"
         },
         {
-          "title": "Fifa-Skandal um Folarin Balogun: Trumps Wille geschieht",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-balogun-trump-infantino-sperre-belgien-li.3510900",
-          "summary": "Der wichtigste Stürmer des US-Teams sieht die rote Karte, aber die Fifa nimmt seine Sperre zurück – nach einem Anruf von Donald Trump persönlich. Jetzt geht es bei der WM „um die Integrität des Fußballs“.",
+          "title": "Nachruf auf Moritz de Hadeln: „Ich bin Kettenraucher, trinke Whisky und liebe meine Arbeit“",
+          "url": "https://www.sueddeutsche.de/kultur/moritz-de-hadeln-tod-nachruf-berlinale-li.3511493",
+          "summary": "Moritz de Hadeln war über zwanzig wilde Jahre Chef der Berlinale, leitete außerdem die Filmfestivals in Locarno und Venedig. Jetzt ist er im Alter von 85 Jahren gestorben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/29/da9436ad-8fd9-4015-89f6-97459f6a0300.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C267%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2022/06/22/0ff33881-584c-4d73-a0fd-8be586f966aa.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1350%2C759"
         }
       ]
     }
