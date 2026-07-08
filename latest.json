@@ -1,10 +1,18 @@
 {
-  "generated": "2026-07-08T18:00:09.613Z",
-  "timestamp": "8.7.2026, 20:00:09",
+  "generated": "2026-07-08T22:00:09.382Z",
+  "timestamp": "9.7.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Ukrainische Angriffe: Selbst Raffinerien in Sibirien sind nicht mehr sicher",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukrainische-drohnen-greifen-russische-raffinerien-an-201009611.html",
+          "summary": "Sechzehn russische Raffinerien hat die Ukraine in diesem Jahr schon mehrfach attackiert. Die Drohnen legen immer größere Entfernungen zurück.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/048645142574/w2558h1336x0y52o/202607/43601.0.2307002677/in-omsk-am-montag-ein-brand.webp"
+        },
         {
           "title": "Im hohen Norden: Versteckt Putin seine Yacht vor Selenskyjs Drohnen?",
           "url": "https://www.faz.net/aktuell/politik/ukraine/versteckt-putin-seine-yacht-graceful-vor-selenskyjs-drohnen-201009528.html",
@@ -14,26 +22,26 @@
           "image": "https://media0.faz.net/image/w1200h627/fda4f4b1bcc7/w3337h1743x244y161o/202203/43600.0.803919861/inklusive-salz-und.webp"
         },
         {
-          "title": "NATO-Gipfel in Ankara: Erst brüllt Trump, dann ist er zahm wie ein Kätzchen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/nato-gipfel-erst-droht-trump-dann-ist-er-ganz-zahm-201008933.html",
-          "summary": "Vor laufenden Kameras zieht der US-Präsident über die Verbündeten her. Hinter verschlossenen Türen sagt er: Wir wollen bei euch bleiben.",
+          "title": "Liveblog Ukrainekrieg: Saluschnyj rechnet nicht mit baldiger russischer Niederlage",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-saluschnyj-rechnet-nicht-mit-baldiger-russischer-niederlage-faz-110683325.html",
+          "summary": "Früherer ukrainischer Armeechef spricht von Gleichgewicht auf dem Schlachtfeld +++ Trump will der Ukraine den Bau von Patriot-Raketen ermöglichen +++ Merz auf NATO-Gipfel: Russland hat keine Chance +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b8ed504653ef/w5500h2873x0y683o/202607/43601.0.2313177132/bleiben-im-gespraech-nato.webp"
-        },
-        {
-          "title": "Trump auf NATO-Gipfel: Trump lobt „Geschlossenheit der NATO“",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-lobt-geschlossenheit-der-nato-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump soll republikanischen Senator angeschrien haben / Jetzt lesen im Liveticker der FAZ",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/708675ee32ab/w6144h3210x0y763o/202607/43601.0.2315359725/abgang-ins-ungewisse-donald.webp"
+          "image": "https://media0.faz.net/image/w1200h627/bf7c004b8788/w2956h1544x0y214o/202402/43601.0.91046746/archivbild-aus-dem-februar.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Iran: Warum Teheran jetzt einen neuen Krieg mit den USA riskiert",
+          "url": "https://www.spiegel.de/ausland/iran-warum-teheran-jetzt-einen-neuen-krieg-mit-den-usa-riskiert-a-5dd3f834-019e-4209-9c81-5c1c21cbb12d#ref=rss",
+          "summary": "Iran riskiert einen neuen Krieg mit den USA und US-Präsident Trump kündigt das Abkommen für die Waffenruhe auf. Warum gerade jetzt?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/83d4c3c3-2078-4a68-90d9-34ea89aa3445_w1200_r1.778_fpx48_fpy29.jpg"
+        },
         {
           "title": "Nato-Gipfel in Ankara: Hat Donald Trump das Bündnis bereits abgehakt?",
           "url": "https://www.spiegel.de/politik/deutschland/nato-gipfel-in-ankara-donald-trump-hat-das-buendnis-offenbar-bereits-abgehakt-a-5316569e-a49f-4b90-8404-4c9de1ccc58b#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e11c372e-6480-41a4-8457-800d5613d878_w1200_r1.778_fpx38.52_fpy45.jpg"
         },
         {
-          "title": "Fußball-WM 2026: Das absurde Schauspiel um Jürgen Klopp",
-          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-das-absurde-schauspiel-um-juergen-klopp-a-a2b34bfd-1867-4253-b3db-716a104b0386#ref=rss",
-          "summary": "Die Verhandlungen um den neuen Bundestrainer nehmen merkwürdige Formen an. Jürgen Klopp macht über MagentaTV jetzt schon Verbandspolitik, der DFB schaut zu. Und die alten Netzwerke greifen wieder.",
+          "title": "Schongau in Bayern: Mutmaßliche Amoktat am Welfen-Gymnasium – zwei Schwerverletzte",
+          "url": "https://www.spiegel.de/panorama/justiz/schongau-in-bayern-mutmassliche-amoktat-am-welfen-gymnasium-zwei-schwerverletzte-a-b13078b4-d505-49ef-a59f-c80763eaab54#ref=rss",
+          "summary": "Am Mittag klingelt der Feueralarm am Welfen-Gymnasium im oberbayerischen Schongau. Es brennt nicht – stattdessen soll ein 16-Jähriger mit einem Messer auf Schülerinnen eingestochen haben. Eindrücke aus der Stadt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b3b2463e-c51f-4fa5-acad-8a5d415bb9e2_w1200_r1.778_fpx41_fpy44.jpg"
-        },
-        {
-          "title": "News des Tages: Nato-Gipfel in Ankara, Gesundheitspolitik, Ärger bei der Fußball-WM",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-nato-gipfel-in-ankara-gesundheitspolitik-aerger-bei-der-fussball-wm-a-dd335a54-9729-47d0-9bae-44f4beef32ff#ref=rss",
-          "summary": "Donald Trump wütet gegen den Nato-Verbündeten Spanien und erklärt die Waffenruhe mit Iran für beendet. Wer eine Psychotherapie machen will, hat es künftig nicht leichter. Und Ägypten legt Beschwerde gegen WM-Schiedsrichter ein. Das ist die Lage am Mittwochabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/83aeda3a-b9dd-48a2-a5ec-ee3915eadf67_w1200_r1.778_fpx33.36_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Liveblog zur Sicherheitspolitik: ++ Trump spricht von \"sehr erfolgreichem NATO-Gipfel\" ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html",
-          "summary": "Zum Abschluss des NATO-Gipfels zieht US-Präsident Trump eine positive Bilanz - und lobt die \"unglaubliche Einigkeit\" in Ankara. Kanzler Merz will das Fünf-Prozent-Ziel schneller erreichen als geplant. Alle Entwicklungen im Liveblog.",
+          "title": "USA greifen erneut Iran an - Teheran kündigt Gegenangriffe an",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-110.html",
+          "summary": "Wie von Präsident Trump angekündigt haben die USA erneut Ziele in Iran angegriffen. Explosionen werden aus der Küstenregion gemeldet. Teheran kündigte umgehend an, massive Gegenangriffe auf US-Basen in der Region zu starten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a7d13700-d62c-436c-a9c1-d18a7b85fb32/AAABn0Km5ac/AAABnSSvrFg/16x9-big/trump-5114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1280"
         },
         {
-          "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
-          "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html",
-          "summary": "Direkt nach dem Urteil gegen sie hat die französische Rechtsnationalistin Marine Le Pen mit dem Wahlkampf begonnen. Ihre Anhänger haben mit ihrer strafrechtlichen Verurteilung offenbar kein Problem. Von Cai Rienäcker.",
+          "title": "Wadephul-Interview: USA und Iran \"sollten zur Besinnung kommen\"",
+          "url": "https://www.tagesschau.de/ausland/asien/wadephul-iran-nato-100.html",
+          "summary": "Angesichts der neuen Angriffe zwischen den USA und Iran hat Außenminister Wadephul beide Länder zu Verhandlungen aufgerufen. Im Interview mit den tagesthemen betonte er zudem die Geschlossenheit der NATO und lobte die Ukraine-Hilfen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2b5a6035-7d8f-4e1f-8af5-089a8128f823/AAABn0Kly9E/AAABnSSvrFg/16x9-big/le-pen-bardella-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dc144256-18bf-492d-b3c4-7a59fdecd547/AAABn0OJsMY/AAABnSSvrFg/16x9-big/sendungsbild-1761436.jpg?width=1280"
         },
         {
-          "title": "Warum die Opposition das Gesundheits-Sparpaket stoppen will",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-gesetz-kritik-100.html",
-          "summary": "Die Oppositionsparteien sehen sich bei der geplanten Krankenkassen-Reform unter Druck gesetzt. Mit Eilanträgen wollen sie die Abstimmung verhindern - und rechnen sich gute Chancen aus. Die Regierung reagiert gelassen.",
+          "title": "Treffen in Ankara: Was bleibt von diesem NATO-Gipfel?",
+          "url": "https://www.tagesschau.de/ausland/asien/nato-gipfel-trump-ankara-100.html",
+          "summary": "Erst Eskalation, dann Arbeitssitzung: Die NATO durchlebt eineinhalb wilde Gipfeltage. Zum Ende wird es aber versöhnlich - sogar von Liebe ist die Rede. Und mittendrin: US-Präsident Trump. Von Benjamin Großkopff.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/db1460e5-1615-40aa-ab93-1a9bff750a04/AAABnv_kHxY/AAABnSSvrFg/16x9-big/bundestag-debatte-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/797334d6-7d9f-44a3-b1d7-2dc0265fe89c/AAABn0Nhmo4/AAABnSSvrFg/16x9-big/nato-gipfel-230.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: „Unglaubliche Liebe“: Trump lobt Nato-Gipfel",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-nato-gipfel-trump-li.3511620",
-          "summary": "Nach Wut und Drohungen nun alles ganz harmonisch? Der US-Präsident zeigt sich begeistert von der Stimmung beim Bündnistreffen in Ankara: „Wir hatten eine großartige Zeit.“",
+          "title": "USA: Sicherheitsbedenken bei neuer „Air Force One“? Trump nimmt älteres Flugzeug",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-air-force-one-sicherheit-trump-li.3511620",
+          "summary": "Bei der Abreise vom Nato-Gipfel in Ankara besteigt der US-Präsident nicht das von ihm so angepriesene neue Flugzeug, das ein Geschenk aus Katar gewesen sein soll. Offenbar fehlen dem neuen Flieger Verteidigungsfähigkeiten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/08/64716e7a-8557-40c9-bd50-c34c7f00c23c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/07/08/c61c40c1-5c1a-4b05-8758-1989bdbf8f22.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Rüstung: Bundeswehr geht im Weltraum in die Offensive",
-          "url": "https://www.sueddeutsche.de/politik/bundeswehr-satelliten-deutschland-aufruestung-li.3512620",
-          "summary": "Bisher war Deutschland im All nur defensiv unterwegs – das dürfte sich nun ändern. Schon 2027 sollen Testsatelliten ausgesetzt werden, die auch andere Raumflugkörper stören können. Die Politik spricht von „Abschreckung im All“.",
+          "title": "Krieg in Nahost: US-Militär greift erneut Ziele in Iran an",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-trump-drohung-neue-angriffe-li.3508345",
+          "summary": "US-Präsident Trump hatte die erneuten Angriffe angekündigt. Er glaube trotzdem daran, dass der Konflikt zeitnah wieder beigelegt werde.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/12/89ad0100-4165-4336-9743-0e6beb31067b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C295%2C2655%2C1493"
+          "image": "https://www.sueddeutsche.de/2026/07/08/2e94e180-db26-4396-9d36-cdcc33b5612a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C194%2C3700%2C2081"
         },
         {
-          "title": "Amoktat an Welfen-Gymnasium in Schongau: Zwei 13-Jährige schwer verletzt – mutmaßlicher Täter hatte Messer und Schusswaffe",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-schongau-amoktat-gymnasium-polizei-einsatz-verletzte-li.3512688",
-          "summary": "Bei dem Großeinsatz konnte der 16 Jahre alte mutmaßliche Täter schnell festgesetzt werden. Das Motiv ist unklar. Ministerpräsident Söder spricht sein Mitgefühl aus.",
+          "title": "US-Einwanderungsbehörde: ICE-Polizist erschießt Mexikaner in Houston",
+          "url": "https://www.sueddeutsche.de/politik/usa-ice-migrant-erschossen-houston-li.3512913",
+          "summary": "Wieder ist die US-Einwanderungsbehörde verantwortlich, deren Beamte bereits im Januar in Minneapolis zwei US-Bürger töteten. Diesmal heißt es, der Mann habe versucht, ICE-Polizisten zu überfahren. Die Familie verlangt eine unabhängige Untersuchung.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/08/e06341eb-184c-4cb0-99cf-7e7b86c6a041.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/08/12411a9e-9039-44c9-babc-3afb71debe28.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
         }
       ]
     }
