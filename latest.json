@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T22:00:09.382Z",
-  "timestamp": "9.7.2026, 00:00:09",
+  "generated": "2026-07-09T02:00:08.132Z",
+  "timestamp": "9.7.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "VW-Sparpläne sorgen in Region für Existenzängste",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html",
+          "summary": "In Wolfsburg trifft sich heute der Aufsichtsrat von VW. Auf der Tagesordnung steht das größte Sparprogramm der Konzerngeschichte. In den betroffenen Regionen wächst die Sorge vor den Folgen. Weidner und T.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2256d58b-3d55-41df-bc1d-dee4d530aaad/AAABn0Gs8kA/AAABnSSvrFg/16x9-big/vw-zwickau-140.jpg?width=1280"
+        },
+        {
+          "title": "Regierungserklärung: Merz stellt Reformprogramm im Bundestag vor",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-vor-regierungserklaerung-100.html",
+          "summary": "Kanzler Merz gibt heute eine Regierungserklärung im Bundestag ab. Es wird erwartet, dass er sowohl auf den NATO-Gipfel als auch auf die von den Koalitionsspitzen beschlossenen Reformen eingeht. Von J. Mayr.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/447e66e0-d2fc-479a-b303-add017ea0389/AAABn0P6SPQ/AAABnSSvrFg/16x9-big/friedrich-merz-bundestag-112.jpg?width=1280"
+        },
+        {
           "title": "USA greifen erneut Iran an - Teheran kündigt Gegenangriffe an",
           "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-110.html",
           "summary": "Wie von Präsident Trump angekündigt haben die USA erneut Ziele in Iran angegriffen. Explosionen werden aus der Küstenregion gemeldet. Teheran kündigte umgehend an, massive Gegenangriffe auf US-Basen in der Region zu starten.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/2ac8994a-5ea1-4474-abc0-16b6fb5d6b79/AAABnKpubcc/AAABnSSvrFg/16x9-big/strasse-von-hormus-104.jpg?width=1280"
-        },
-        {
-          "title": "Wadephul-Interview: USA und Iran \"sollten zur Besinnung kommen\"",
-          "url": "https://www.tagesschau.de/ausland/asien/wadephul-iran-nato-100.html",
-          "summary": "Angesichts der neuen Angriffe zwischen den USA und Iran hat Außenminister Wadephul beide Länder zu Verhandlungen aufgerufen. Im Interview mit den tagesthemen betonte er zudem die Geschlossenheit der NATO und lobte die Ukraine-Hilfen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/dc144256-18bf-492d-b3c4-7a59fdecd547/AAABn0OJsMY/AAABnSSvrFg/16x9-big/sendungsbild-1761436.jpg?width=1280"
-        },
-        {
-          "title": "Treffen in Ankara: Was bleibt von diesem NATO-Gipfel?",
-          "url": "https://www.tagesschau.de/ausland/asien/nato-gipfel-trump-ankara-100.html",
-          "summary": "Erst Eskalation, dann Arbeitssitzung: Die NATO durchlebt eineinhalb wilde Gipfeltage. Zum Ende wird es aber versöhnlich - sogar von Liebe ist die Rede. Und mittendrin: US-Präsident Trump. Von Benjamin Großkopff.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/797334d6-7d9f-44a3-b1d7-2dc0265fe89c/AAABn0Nhmo4/AAABnSSvrFg/16x9-big/nato-gipfel-230.jpg?width=1280"
         }
       ]
     },
