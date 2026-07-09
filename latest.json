@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-09T10:00:09.891Z",
-  "timestamp": "9.7.2026, 12:00:09",
+  "generated": "2026-07-09T14:00:08.681Z",
+  "timestamp": "9.7.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Übernahmekampf: Denken Sie an Rücktritt, Frau Orlopp?",
-          "url": "https://www.faz.net/aktuell/finanzen/commerzbank-chefin-bettina-orlopp-zu-unicredit-von-roten-linien-halte-ich-nichts-accg-201013293.html",
-          "summary": "Die italienische Unicredit kommt der Übernahme immer näher. Ein Interview mit der Commerzbank-Chefin Bettina Orlopp über die Deutungshoheit einer Verteidigungsstrategie, die nun schon zwei Jahre läuft.",
+          "title": "Klingbeils Steuerreform: Schon mit 3000 Euro brutto werden Arbeitnehmer zu Verlierern",
+          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/steuerreform-von-lars-klingbeil-schon-mit-3000-euro-brutto-werden-arbeitnehmer-zu-verlierern-accg-201010321.html",
+          "summary": "Finanzminister Lars Klingbeil versprach, kleine und mittlere Einkommen zu entlasten. Doch Berechnungen für die F. zeigen: Das gelingt nur im nächsten Jahr. 2028 wird das Netto bei vielen gegenüber heute sinken.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/76c74ed66bcb/w4825h2521x279y921o/202607/43601.0.2315272876/kann-auch-nach-der-unicredit.webp"
+          "image": "https://media0.faz.net/image/w1200h627/8ac72e3ca449/w7567h3953x0y541o/202607/43601.0.2288659802/wie-viel-entlastung-darf-s.webp"
         },
         {
-          "title": "Übernahmekampf: Was jetzt aus der Commerzbank wird",
-          "url": "https://www.faz.net/aktuell/finanzen/was-bedeutet-die-commerzbank-uebernahme-fuer-aktionaere-accg-201007680.html",
-          "summary": "Die Unicredit ist im Kampf um die Übernahme der Commerzbank einen entscheidenden Schritt weiter. Wie geht es jetzt weiter? Und was bedeutet das für Aktionäre und Kunden? Die Antworten auf die wichtigsten Fragen.",
+          "title": "Bilanz im zweiten Sommer: Und die Mitte liefert doch",
+          "url": "https://www.faz.net/aktuell/politik/inland/friedrich-merz-und-die-koalition-bilanz-nach-einem-jahr-accg-201010647.html",
+          "summary": "Oft sagen Union und SPD, was sie alles unterscheidet. Aber das Bündnis ist trotz aller Unwägbarkeiten heute stabiler als ein Jahr zuvor. Das war harte Arbeit.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4ad8fd181633/w5774h3016x0y263o/202607/43601.0.2313584189/commerzbank-tower-in-frankfurt.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e78cf58e9e5a/w8192h4280x0y168o/202607/43601.0.2317469358/vizekanzler-klingbeil-und.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Absichtserklärung unterzeichnet: Deutschland kauft eigene Tomahawks",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-was-sagt-merz-in-seiner-regierungserklaerung-faz-110093143.html",
-          "summary": "Genehmigung für Beschaffung von Tomahawk-Raketen und Typhon-Startgeräte +++ Kanzler lobt Reformen und Zusammenarbeit der Koalition +++ Regierungserklärung im Bundestag +++ alle Entwicklungen im Liveblog",
+          "title": "Krankenkassenreform: Opposition in Karlsruhe gescheitert",
+          "url": "https://www.faz.net/aktuell/politik/inland/karlsruhe-lehnt-eilantrag-ab-abstimmung-ueber-krankenkassenreform-doch-vor-sommerpause-accg-201013638.html",
+          "summary": "Die Opposition klagte über zu wenig Zeit für die Prüfung zu vieler Änderungsanträge bei der Krankenkassenreform. Doch das Bundesverfassungsgericht lehnte ihre Eilanträge ab. Merz kann aufatmen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fe01c6e9e3cd/w4800h2508x0y152o/202607/43601.0.2317124310/offenbar-gibt-es-einen-deal.webp"
+          "image": "https://media0.faz.net/image/w1200h627/fd6ac8f26339/w6000h3135x0y365o/202606/43601.0.2232704224/gesundheitsministerin-warken.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Die Grünen: Streit über Männer-Manifest spaltet die Partei",
+          "url": "https://www.spiegel.de/politik/deutschland/die-gruenen-streit-ueber-maenner-manifest-spaltet-die-partei-a-b0b6b3fc-c7af-416d-a35e-4a1d1c72d35d#ref=rss",
+          "summary": "Rund ein Dutzend Grüne haben in einem Manifest für eine neue, positive Definition von Männlichkeit plädiert. Jetzt gibt es in der Partei die Sorge, dass man so Wählerinnen verschrecken könnte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/830a8ebf-51c4-410c-ab64-803dcecb14ec_w1200_r1.778_fpx36.66_fpy45.jpg"
+        },
         {
           "title": "China und Russland: Recherchen zeigen Ausmaß der Militärkooperation",
           "url": "https://www.spiegel.de/ausland/china-und-russland-recherchen-zeigen-ausmass-der-militaerkooperation-a-46fa7894-0b2c-411b-ba21-cc7c6b053c3f#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/3c96f113-be86-433f-b07f-0c5c2b16cf4d_w1200_r1.778_fpx52_fpy53.jpg"
         },
         {
-          "title": "Bonnie Tyler: Britischer Rockstar der Achtzigerjahre ist tot",
-          "url": "https://www.spiegel.de/kultur/musik/bonnie-tyler-ist-tot-a-9012f477-eaae-4cb9-91c4-caa5b021189a#ref=rss",
-          "summary": "Mit Songs wie »Total Eclipse of the Heart« und »Holding Out for a Hero« wurde die britische Sängerin weltberühmt. Nun ist Bonnie Tyler im Alter von 75 Jahren in einem portugiesischen Krankenhaus gestorben.",
+          "title": "Friedrich Merz' Regierungserklärung zu Reformen: Ein Merz macht noch keinen Schröder",
+          "url": "https://www.spiegel.de/politik/deutschland/regierungserklaerung-zu-reformen-ein-merz-macht-noch-keinen-schroeder-a-9a33eaea-42f0-427a-8b55-3d80b22b4eed#ref=rss",
+          "summary": "Der Kanzler müht sich, die geplanten Reformen bei Rente und Gesundheit, im Steuersystem und auf dem Arbeitsmarkt politisch zu überhöhen. Wer sich dabei an die Agenda 2010 erinnert fühlt, der irrt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8588d1b4-b635-4742-b91f-ecc08c6f8505_w1200_r1.778_fpx52.19_fpy49.99.jpg"
-        },
-        {
-          "title": "Volkswagen will ab 2031 Werke schließen",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-will-ab-2031-werke-schliessen-a-7afeab72-0609-44fd-97af-618a62683a94#ref=rss",
-          "summary": "Deutschlands größter Autokonzern will massiv sparen: In fünf Jahren soll die Produktion nach SPIEGEL-Informationen in Zwickau und Emden auslaufen. Zudem sollen Investitionen um rund 50 Milliarden Euro sinken.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2e3c26fe-385f-4c88-8197-de4c3451e21c_w1200_r1.778_fpx47.32_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/39fb3191-d3c8-457f-9d4b-1aec87d10d45_w1200_r1.778_fpx29.9_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Trotz Iran-Kriegs: Exporte wachsen vierten Monat in Folge",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-handel-mai-100.html",
-          "summary": "Nach den Einzelhandelsumsätzen und Industrieaufträgen haben auch die deutschen Exporte im Mai erneut zugelegt - vor allem in die USA. Ökonomen schöpfen wieder Hoffnung für die schwächelnde Wirtschaft.",
+          "title": "Wie Trump ethische Regeln bei seinen Finanzen missachtet",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-einnahmen-krypto-aktien-100.html",
+          "summary": "Donald Trump hat sein Vermögen während seiner Amtszeit so stark vermehrt wie noch kein US-Präsident vor ihm. Wie in so vielen anderen Bereichen reize er die Grenzen aus, sagt Laura von Daniels von der Stiftung Wissenschaft und Politik.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/29940e74-6db5-46ab-a2df-ce4c03c45c8c/AAABn0XRzuU/AAABnSSvrFg/16x9-big/konjunktur-360.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6c45c5ab-d92a-49e2-a9ff-9fd06f5001f6/AAABnzwOAFA/AAABnSSvrFg/16x9-big/trump-5098.jpg?width=1280"
         },
         {
-          "title": "Sängerin Bonnie Tyler im Alter von 75 Jahren gestorben",
-          "url": "https://www.tagesschau.de/kultur/bonnie-tyler-tot-102.html",
-          "summary": "Die britische Sängerin Bonnie Tyler ist tot. Sie starb im Alter von 75 Jahren in einem Krankenhaus in Portugal, wie ihre Familie mitteilte. Zu ihren bekanntesten Hits gehörten \"Total Eclipse of the Heart\" und \"Holding Out for a Hero\".",
+          "title": "Kompromiss der Koalition: BAföG-Erhöhung verschiebt sich um halbes Jahr",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/bafoeg-erhoehung-bundesregierung-100.html",
+          "summary": "Nach langem Hin und Her hat sich Schwarz-Rot geeinigt: Die BAföG-Sätze werden erhöht - allerdings nicht schon in diesem Jahr, sondern erst zum Sommersemester 2027. Das Studierendenwerk spricht von einem \"wichtigen Signal\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/caf7d990-1afe-48a4-adf8-6f88a57c2186/AAABn0YqOYc/AAABnSSvrFg/16x9-big/bonnie-tyler-gestorben-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/db6bfd58-f912-4ad5-8f13-c857e410e463/AAABn0b0AtY/AAABnSSvrFg/16x9-big/hoersaal-studenten-skelett-100.jpg?width=1280"
         },
         {
-          "title": "Hitzewelle in Deutschland - mehr als 5.000 Tote bis Ende Juni",
-          "url": "https://www.tagesschau.de/wissen/klima/robert-koch-institut-hitzetote-deutschland-100.html",
-          "summary": "Bis Ende Juni sind in Deutschland rund 5. 100 Menschen an den Folgen der extremen Hitze gestorben. Das haben Berechnungen des Robert Koch-Instituts ergeben. Die Zahl übertrifft schon jetzt die Werte ganzer Vorjahre.",
+          "title": "Zahl der Firmenpleiten so hoch wie seit 21 Jahren nicht mehr",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-276.html",
+          "summary": "Die Zahl der Firmenpleiten ist im zweiten Quartal in Deutschland weiter gestiegen. Fast alle Branchen sind betroffen. Bei genauerem Hinsehen ist die Situation nicht ganz so dramatisch. Von Claudia Wehrle.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3d0fee79-9f48-44e6-8d55-1f54e5de6ffc/AAABn0Ym5Qw/AAABnSSvrFg/16x9-big/sonne-himmel-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1587b895-0249-4f4a-92aa-7bb278c19503/AAABleytHUo/AAABnSSvrFg/16x9-big/raeumungsverkauf-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Waffenruhe am Ende: USA setzen Iran-Krieg fort",
-          "url": "https://www.telepolis.de/article/Waffenruhe-am-Ende-USA-setzen-Iran-Krieg-fort-11359174.html",
-          "summary": "Die Waffenruhe ist vorbei. Die USA haben in der Nacht neue Luftschläge gestartet, Iran reagierte mit Angriffen auf US-Basen. Wie weit wird Trump diesmal gehen?",
+          "title": "Mittelstand in Gefahr: Warum Chinas Billigmaschinen deutsche Jobs bedrohen",
+          "url": "https://www.telepolis.de/article/Mittelstand-in-Gefahr-Warum-Chinas-Billigmaschinen-deutsche-Jobs-bedrohen-11359576.html",
+          "summary": "Pekings Initiative \"10. 000 kleine Giganten\" setzt den deutschen Maschinenbau unter Druck. Die Handelsbilanz bei Kapitalgütern rutscht ins Minus.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/4/0/2/2/shutterstock_2689000359-754a95d596214fa1.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/4/2/2/6/shutterstock_2624849155-7d027d3418faadda.jpg"
         },
         {
-          "title": "Ukraine: Deutsche Firmen trotzen dem Krieg – und planen Expansion",
-          "url": "https://www.telepolis.de/article/Ukraine-Deutsche-Firmen-trotzen-dem-Krieg-und-planen-Expansion-11359196.html",
-          "summary": "KPMG-Umfrage: 80 Prozent der deutschen Betriebe bewerten ihre Lage als gut. Milliardenpakete von EU und Weltbank treiben den Wiederaufbau an.",
+          "title": "Russlands Nukleardebatte: Signalpolitik mit strategischem Kalkül",
+          "url": "https://www.telepolis.de/article/Russlands-Nukleardebatte-Signalpolitik-mit-strategischem-Kalkuel-11359454.html",
+          "summary": "Atomare Ambitionen, europäische Ängste: Sind die russischen Nuklear-Debatten Vorboten eines Dammbruchs oder leere Drohung? Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/4/0/3/3/UkraineEuropa-0cb01815f325d6c9.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/4/1/6/4/shutterstock_1861533250-0a3d831e791d9f3d.jpg"
         },
         {
-          "title": "\"Etwas ganz Besonderes\": Wie ein Thüringen-Film den Osten neu erzählt",
-          "url": "https://www.telepolis.de/article/Etwas-ganz-Besonderes-Wie-ein-Thueringen-Film-den-Osten-neu-erzaehlt-11358887.html",
-          "summary": "Keine einfache Heldenreise: Regisseurin Eva Trobisch erzählt auf wunderbare Weise vom Universal-Menschlichen – das wahre, komplexe Lebensgefühl in Thüringen.",
+          "title": "ChatGPT & Co.: Wer bestimmt, welche Quellen wir zu sehen bekommen?",
+          "url": "https://www.telepolis.de/article/ChatGPT-Co-Wer-bestimmt-welche-Quellen-wir-zu-sehen-bekommen-11359328.html",
+          "summary": "ChatGPT, Gemini und andere KI-Systeme entscheiden, welche Nachrichtenquellen Nutzer sehen. Nur jeder vierte prüft die Quellen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/3/8/7/6/Master_Film-a88129e2d807eae0.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/4/0/9/9/Master_Shutterstock-e069a51517bb41c1.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundestag: Fünf Erkenntnisse aus Merz’ Regierungserklärung",
-          "url": "https://www.sueddeutsche.de/politik/bundestag-merz-regierungserklaerung-li.3513041",
-          "summary": "Im Bundestag zieht der Kanzler vor der Sommerpause Bilanz. Die Koalition redet er stark, die AfD greift er an und zur Verteidigung hat er Neues zu sagen. Die Kritik folgt auf dem Fuß.",
+          "title": "Sami Khedira zu Real Madrid: Mourinho bekommt seine Wunschlösung",
+          "url": "https://www.sueddeutsche.de/sport/real-madrid-khedira-rueckkehr-mourinho-trainerteam-li.3513380",
+          "summary": "Der frühere deutsche Nationalspieler wird Teil des Trainerteams von José Mourinho bei Real Madrid – er soll als eine Art Teammanager fungieren.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/09/5e1d97cc-cbd8-4c5d-bfb4-93bbe5e4c0ef.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C110%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/09/c3d04242-28da-4929-8063-d5db9c6d0bbe.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C4000%2C2250"
         },
         {
-          "title": "Bonnie Tyler: Mit dem Herzen einer Bergarbeiterin",
-          "url": "https://www.sueddeutsche.de/kultur/bonnie-tyler-tot-saengerin-total-eclipse-of-the-heart-li.3513224",
-          "summary": "100 Millionen Tonträger hat sie in ihrer langen Karriere verkauft, wurde zum Member of the Order of the British Empire ernannt – doch rauschhaft leicht war Bonnie Tylers Erfolg nie. Nachruf auf eine, die nicht aufgehört hat zu schuften.",
+          "title": "Friedrich Merz: Jetzt müssen seine Reformen nur noch klappen",
+          "url": "https://www.sueddeutsche.de/meinung/regierungserklaerung-bundestag-merz-kommentar-li.3513069",
+          "summary": "Der Kanzler betont in seiner Regierungserklärung die innere und äußere Widerstandskraft des Landes. Doch das Bild der liefernden politischen Mitte, das er zeichnet, kann jederzeit Risse bekommen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/09/71c6e91e-10c5-4d1d-9090-ca67321cc4b7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C54%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/09/41072766-0a4b-43e8-a12d-08fb327c753a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=151%2C258%2C3636%2C2045"
         },
         {
-          "title": "Schongau am Tag danach: Krisenintervention in der Schule kurz vor den Sommerferien",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-amoklauf-schongau-welfen-gymnasium-taeter-motiv-maedchen-lebensgefahr-li.3513027",
-          "summary": "Nach dem Amoklauf am Schongauer Welfen-Gymnasium sind noch viele Fragen offen. Der 16-jährige mutmaßliche Täter befand sich offenbar in einer psychischen Ausnahmesituation. Unklar ist, woher er die Waffe hatte.",
+          "title": "Fußball-WM 2026: Künftiger Bayern-Spieler Saibari fällt gegen Frankreich aus",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-frankreich-marokko-saibari-li.3492650",
+          "summary": "Im WM-Viertelfinale gegen Frankreich fehlt der marokkanische Angreifer verletzt. Fifa-Schiedsrichterchef Collina weist Ägyptens Vorwürfe scharf zurück.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/09/c7157c36-9972-440a-9506-d091d8d6bb7e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C411%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/09/ae77c068-6610-43b8-8371-93e57088c932.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3084%2C1735"
         }
       ]
     }
