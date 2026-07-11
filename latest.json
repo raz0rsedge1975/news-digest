@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-09T18:00:12.839Z",
-  "timestamp": "9.7.2026, 20:00:12",
+  "generated": "2026-07-11T17:03:41.548Z",
+  "timestamp": "11.7.2026, 19:03:41",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Berlin kauft Tomahawk: Um Putin von einem Angriff abzuschrecken",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/berlin-kauft-tomahawk-marschflugkoerper-um-putin-abzuschrecken-201014594.html",
-          "summary": "Im Kriegsfall muss man nicht nur angreifende Drohnen, Raketen und Panzerspitzen bekämpfen können. Sondern auch Startplätze, Kommandozentralen und Nachschubwege.",
+          "title": "Kampf gegen KI-Datacenter: Das Comeback der Maschinenstürmer",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/wie-der-kampf-gegen-ki-rechenzentren-zum-us-wahlkampfthema-wird-accg-200994980.html",
+          "summary": "Viele Amerikaner wollen keine KI-Rechenzentren in ihrer Nachbarschaft. Der Protest wächst rasant – und könnte zum zentralen Wahlkampfthema werden. Was treibt die Rebellen an? Und was können sie erreichen?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1831a7d53da9/w2100h1097x0y42o/202510/43601.0.1358811442/ein-amerikanisches.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e425a563606a/w3898h2036x0y347o/202607/43601.0.2314613324/ein-datenzentrum-von-meta-in.webp"
         },
         {
-          "title": "Im hohen Norden: Versteckt Putin seine Yacht vor Selenskyjs Drohnen?",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/versteckt-putin-seine-yacht-graceful-vor-selenskyjs-drohnen-201009528.html",
-          "summary": "Die Luxusyacht „Graceful“, die Putin zugeschrieben wird, liegt nun bei Murmansk. Sicher vor ukrainischen Angriffen ist sie dort aber nicht, sagen Fachleute.",
+          "title": "Riesen-Rechenzentren: Der Kampf gegen KI am Großen Salzsee",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/great-salt-lake-protest-gegen-ki-rechenzentrum-in-utah-200977104.html",
+          "summary": "Der Widerstand gegen ein gigantisches Rechenzentrum in Utah wird zu einem Symbol für eine nationale Protestbewegung. Selbst Trump-Anhänger sind gegen das Projekt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fda4f4b1bcc7/w3337h1743x244y161o/202203/43600.0.803919861/inklusive-salz-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b9555e4a7286/w5712h2984x0y1185o/202606/43601.0.2276751324/ausgetrocknet-bootshafen-von.webp"
         },
         {
-          "title": "US-Angriffe auf Iran: Trump: Sie sitzen in einem gefährlichen Flugzeug",
-          "url": "https://www.faz.net/aktuell/politik/ausland/us-angriffe-auf-iran-teheran-koennte-sich-verzocken-201013602.html",
-          "summary": "Iranische Morddrohungen scheinen den US-Präsidenten beeindruckt zu haben. Die Gefahr eines neuen Krieges spielt er zwar herunter. Doch da sollte sich Iran nicht zu sicher fühlen, sagen Fachleute.",
+          "title": "Duell der Technologieführer: China macht im KI-Rennen Jagd auf die USA",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/zhipu-ai-china-macht-im-ki-rennen-jagd-auf-die-usa-accg-200990232.html",
+          "summary": "Das Beispiel Zhipu AI zeigt: China holt im KI-Rennen auf und treibt die Zweiteilung der Technik voran. Das hat auch für europäische Unternehmen weitreichende Folgen.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5e1d1f0041ec/w8149h4257x0y655o/202607/43601.0.2317184701/sie-sitzen-in-einem.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/ce3e5f9ac60a/w5885h3074x0y649o/202606/43601.0.2260147129/am-unternehmenssitz-von-zhipu.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Berlin: Freundlicher Serienmörder – Palliativarzt soll noch mehr Menschen getötet haben",
-          "url": "https://www.spiegel.de/panorama/berlin-freundlicher-serienmoerder-palliativarzt-soll-noch-mehr-menschen-getoetet-haben-a-b5cebea1-0c64-424d-98d5-7ea30c2808c9#ref=rss",
-          "summary": "Patienten vertrauten Johannes M. , Kollegen schätzten ihn. Ein Berliner Gericht hat den Palliativmediziner nun wegen Mordes an 15 Patienten verurteilt. Doch womöglich gibt es noch viel mehr Opfer.",
+          "title": "Russland-Ukraine-Krieg: Grafiken zeigen die Drohnen-Angriffe auf russische Raffinerien",
+          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-grafiken-zeigen-die-drohnen-angriffe-auf-russische-raffinerien-a-5d22c9e7-895e-42f8-a634-8471f42a1882#ref=rss",
+          "summary": "In Russland werden Benzin und Kerosin knapp: nach Dutzenden ukrainischen Drohnenangriffen auf Raffinerien und Ölhäfen. SPIEGEL-Grafiken zeigen, wie verwundbar die russische Treibstoffversorgung ist.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/07035ca8-350e-421d-9cfa-5c819ca6d798_w1200_r1.778_fpx50.7_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3b341b25-c0d4-42b0-b468-330cfbb51281_w1200_r1.778_fpx46_fpy31.jpg"
         },
         {
-          "title": "WM 2026: Haaland, Kane, Messi, Mbappé - Was hinter der Tor-Explosion steckt",
-          "url": "https://www.spiegel.de/sport/fussball/wm-2026-haaland-kane-messi-mbappe-was-hinter-der-tor-explosion-steckt-a-84832135-fb3c-41fb-a182-aad329bee8ed#ref=rss",
-          "summary": "Ihnen gelingt, was zuvor unmöglich schien: Haaland, Kane, Messi und Mbappé machen den US-Amerikanern Soccer schmackhaft. Was hinter den historischen Torpartys der Stürmerstars steckt.",
+          "title": "Tirol - Nachbarschaftsstreit eskaliert: »Was willst du, du Oarschloch?«",
+          "url": "https://www.spiegel.de/panorama/tirol-nachbarschaftsstreit-eskaliert-was-willst-du-du-oarschloch-a-3650f81f-5f16-4342-a06a-9d6c1abef208#ref=rss",
+          "summary": "In einem malerischen Alpendorf bei Kitzbühel werden zwei reiche deutsche Geschwister von Einheimischen angefeindet. Inzest lautet ein Gerücht. Ein Schlagersänger spielt eine große Rolle. Protokoll einer blutigen Eskalation.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/41ff7d3f-19ce-4c73-84bc-20525ef57274_w1200_r1.778_fpx45_fpy30.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/83f3caa9-2651-4392-96fa-b7daacf0df40_w1200_r1.778_fpx49_fpy40.jpg"
         },
         {
-          "title": "News des Tages: Regierungserklärung von Merz, Tomahawk-Raketen für Deutschland, Bonnie Tyler ist tot",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-regierungserklaerung-von-merz-tomahawk-raketen-fuer-deutschland-bonnie-tyler-ist-tot-a-41b029d2-c10e-4e5e-b527-8574071657bd#ref=rss",
-          "summary": "Bundeskanzler Merz schwärmt im Bundestag vom Reformeifer seiner Regierung. Boris Pistorius shoppt heimlich Raketen in den USA. Und Bonnie Tyler ist tot. Das ist die Lage am Donnerstagabend.",
+          "title": "WM 2026 News heute: England-Fans können aufatmen – Pubs stellen auf flexible Sperrstunde um",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-news-heute-argentiniens-verband-moeglicherweise-gehackt-a-fe4c2a94-bc0d-4f36-a77a-e55bb266255c#ref=rss",
+          "summary": "Eine Sorge weniger: England-Fans können das Spiel gegen Norwegen auf jeden Fall im Pub zu Ende schauen. Und: Die Verhandlungen zwischen dem DFB und Jürgen Klopp schreiten voran. Die WM-News.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/d6fafd85-4a83-4167-92e8-9b67f4789ed8_w1200_r1.778_fpx52_fpy48.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Gericht weist Klage gegen Zurückweisung aus formalen Gründen ab",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/gericht-zurueckweisung-grenze-100.html",
-          "summary": "Ein Mann aus Algerien ist vor dem Verwaltungsgericht Karlsruhe mit einer Klage gegen eine Zurückweisung gescheitert. Bei der Entscheidung ging es nicht um die Frage, ob das Vorgehen gegen EU-Recht verstößt. Von Max Bauer.",
+          "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
+          "url": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html",
+          "summary": "In der Nacht hat Russland die Ukraine erneut mit Raketen angegriffen. Es gab mindestens sechs Tote. Trotz der aktuellen Eskalation sieht Bundesaußenminister Wadephul jetzt einen guten Zeitpunkt für Verhandlungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/31db8e1e-e8b2-4ffb-875f-f233ad5fc6ee/AAABlgbaRQM/AAABnSSvrFg/16x9-big/justitia-107.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a75208c5-195e-409c-9fa5-d27df48af6af/AAABn1CQuJU/AAABnSSvrFg/16x9-big/kiew-466.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX wieder über 25.000 Punkten",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-110.html",
-          "summary": "Angesichts der ungewissen Lage im Nahen Osten wagen sich Anleger zunächst kaum aus der Deckung, der deutsche Leitindex schließt dennoch im Plus. Wieder im Blick der Investoren: Die Öltransporte durch die Straße von Hormus.",
+          "title": "Indien: Im Land der sinkenden Geburtenrate",
+          "url": "https://www.tagesschau.de/ausland/asien/bevoelkerung-indien-weniger-geburten-100.html",
+          "summary": "Viele Kinder zu haben war lange Zeit weit verbreitet in Indien, dem bevölkerungsreichsten Land der Welt. Doch die Geburtenrate geht deutlich zurück. Woran liegt das? Und was bedeutet das für das aufstrebende Land? Von Helene Buchholz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8080c411-a4f0-4a6f-a4e2-515285924a9d/AAABlg9yr_U/AAABnSSvrFg/16x9-big/dax-haendlerin-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/415ebbdc-f657-4422-9d2c-c07121eab171/AAABn1HK4hA/AAABnSSvrFg/16x9-big/kinder-indien-104.jpg?width=1280"
         },
         {
-          "title": "Tödlicher Angriff auf Zugbegleiter: Ein Urteil mit Ansage",
-          "url": "https://www.tagesschau.de/inland/urteil-tod-zugbegleiter-angriff-100.html",
-          "summary": "Im Verfahren um den Tod eines Zugbegleiters hat das Landgericht Zweibrücken den Angeklagten wegen Körperverletzung mit Todesfolge verurteilt. Das Urteil ist wenig überraschend, bietet aber dennoch Diskussionsstoff. Von Christoph Kehlbach.",
+          "title": "Nigeria am Weltbevölkerungstag: \"Der schlafende Riese ist erwacht\"",
+          "url": "https://www.tagesschau.de/ausland/afrika/nigeria-bevoelkerungswachstum-100.html",
+          "summary": "Nigerias Bevölkerung wird in den kommenden 25 Jahren um 120 Millionen Menschen wachsen. Laut der UN könnte in den 2050er-Jahren fast jedes zehnte Kind weltweit in dem westafrikanischen Land geboren werden. Was bedeutet das für Nigeria?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/32e58b8b-1061-499c-99a9-cd87af52a714/AAABn0c-voo/AAABnSSvrFg/16x9-big/angeklagter-handschellen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4c4e98ae-8fb6-4fa2-b0eb-478d7fef9941/AAABlfXdPmM/AAABnSSvrFg/16x9-big/nigeria-443.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Mittelstand in Gefahr: Warum Chinas Billigmaschinen deutsche Jobs bedrohen",
-          "url": "https://www.telepolis.de/article/Mittelstand-in-Gefahr-Warum-Chinas-Billigmaschinen-deutsche-Jobs-bedrohen-11359576.html",
-          "summary": "Pekings Initiative \"10. 000 kleine Giganten\" setzt den deutschen Maschinenbau unter Druck. Die Handelsbilanz bei Kapitalgütern rutscht ins Minus.",
+          "title": "Wie die Niederlande ihren Weg zur Eigenstaatlichkeit fanden",
+          "url": "https://www.telepolis.de/article/Wie-die-Niederlande-ihren-Weg-zur-Eigenstaatlichkeit-fanden-11356393.html",
+          "summary": "Die Niederlande trotzten einem Weltreich. Am Ende stand ein Aufstand, der Europa verändern sollte. Doch was trieb sie dazu?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/4/2/2/6/shutterstock_2624849155-7d027d3418faadda.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/2/6/2/0/Mauritius_-_Detail_uit_Het_uitzeilen_van_een_aantal_Oost-Indi__vaarders_van_Hendrick_Cornelisz_Vroom__1600_-d35a6af7e3b014e3.jpg"
         },
         {
-          "title": "Russlands Nukleardebatte: Signalpolitik mit strategischem Kalkül",
-          "url": "https://www.telepolis.de/article/Russlands-Nukleardebatte-Signalpolitik-mit-strategischem-Kalkuel-11359454.html",
-          "summary": "Atomare Ambitionen, europäische Ängste: Sind die russischen Nuklear-Debatten Vorboten eines Dammbruchs oder leere Drohung? Eine Analyse.",
+          "title": "Rüstung statt Sozialstaat? Wie der Umbau der Industrie Jobs und Bürger trifft",
+          "url": "https://www.telepolis.de/article/Ruestung-statt-Sozialstaat-Wie-der-Umbau-der-Industrie-Jobs-und-Buerger-trifft-11358707.html",
+          "summary": "Während Konzerne wie Rheinmetall expandieren, wächst bei VW der Protest. Zudem soll ein neues Gesetz das Gesundheitssystem auf Krieg trimmen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/4/1/6/4/shutterstock_1861533250-0a3d831e791d9f3d.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/3/7/8/6/rheinmetall-logo-e174118bc1d0a961.jpg"
         },
         {
-          "title": "Studie zu ChatGPT & Gemini: Wer bestimmt, welche Medien wir noch lesen?",
-          "url": "https://www.telepolis.de/article/Studie-zu-ChatGPT-Gemini-Wer-bestimmt-welche-Medien-wir-noch-lesen-11359328.html",
-          "summary": "Durch KI-Suchen verlieren deutsche Webseiten Millionen Klicks. Forscher warnen vor intransparenten Absprachen zwischen OpenAI und Verlagen.",
+          "title": "Sudans tödliches Paradoxon: Hier siegen Drohnen, die in der Ukraine scheitern",
+          "url": "https://www.telepolis.de/article/Sudans-toedliches-Paradoxon-Hier-siegen-Drohnen-die-in-der-Ukraine-scheitern-11361674.html",
+          "summary": "In der Ukraine scheitern große Kampfdrohnen. Im Sudan zerstören sie Hilfskonvois und treiben Lebensmittelpreise um bis zu 300 Prozent hoch.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/4/0/9/9/Master_Shutterstock-e069a51517bb41c1.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/2/8/4/Master_Lange-96b860d4a4469478.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Flughafen in Palm Beach heißt jetzt Präsident Donald J. Trump",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-europa-truppenabzug-groenland-li.3511620",
-          "summary": "Das Airport-Kürzel soll in DJT – die Initialen des Präsidenten – geändert werden. Trump stellt einen noch größeren Truppenabzug aus Europa in Aussicht – will dies aber von einer Vereinbarung zur Zukunft Grönlands abhängig zu machen.",
+          "title": "Schweizer Torhüter: Der Underdog, der Messis Schüsse halten soll",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-kobel-schweiz-argentinien-li.3512937",
+          "summary": "Die Schweizer brauchen im Viertelfinale gegen Weltmeister Argentinien ziemlich sicher einen überragenden Torhüter. Dass Gregor Kobel das ist, davon waren nicht immer alle überzeugt – bisher.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/09/f2eddaf7-f260-4c31-84a3-dad584d73436.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/10/79b35a2a-a42f-49e9-a583-2931d7207f56.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C142%2C1974%2C1110"
         },
         {
-          "title": "Krieg in Nahost: Schiffsverkehr in Straße von Hormus kommt wieder fast zum Erliegen",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-hormus-strasse-li.3508345",
-          "summary": "Nach der erneuten Eskalation zwischen USA und Iran und Attacken auf Tanker meiden die meisten Schiffskapitäne die Meerenge wieder.",
+          "title": "Sachsen-Anhalt: 100-Tage-Programm: Was die AfD nach einem möglichen Wahlsieg vorhat",
+          "url": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-ulrich-siegmund-li.3513407",
+          "summary": "In Magdeburg stellt die AfD vor, was sie im Fall einer Machtübernahme umsetzen würde. Es ist die kondensierte Version ihres völkisch-autoritären Wahlprogramms.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/09/c5026515-9afe-4151-b657-25532548f387.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C109%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/11/0fd22a27-7862-4377-9abf-0206bd868c30.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=343%2C62%2C3306%2C1860"
         },
         {
-          "title": "Commerzbank/Unicredit: Commerzbank-Chefin Orlopp schließt Rücktritt aus",
-          "url": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-anteilserwerb-management-frankfurt-li.3513395",
-          "summary": "Sie will weiter mit Unicredit-Chef Orcel verhandeln. Dennoch können die Mailänder in Frankfurt noch lange nicht durchregieren – und der Betriebsrat droht weiter mit Gegenwehr.",
+          "title": "Jayden Adams: Südafrikanischer WM-Spieler mit 25 Jahren gestorben",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-suedafrika-jayden-adams-tot-gestorben-li.3514373",
+          "summary": "Für die Bafana Bafana stand Jayden Adams in allen drei Vorrundenpartien auf dem Rasen. Nun ist er plötzlich gestorben. Südafrikas Fußball trauert um einen „stolzen Diener des Sports“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/09/13d73609-4134-4e6c-8844-3ed00c6d7846.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C137%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/07/11/e097f1de-922e-449f-b937-58428178de84.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=462%2C0%2C2174%2C1222"
         }
       ]
     }
