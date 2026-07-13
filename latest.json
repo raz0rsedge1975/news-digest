@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-13T10:00:10.328Z",
-  "timestamp": "13.7.2026, 12:00:10",
+  "generated": "2026-07-13T14:00:09.845Z",
+  "timestamp": "13.7.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Die Geschichte hinter MSCI: So haben Sie den MSCI World noch nie geschlagen",
-          "url": "https://www.faz.net/aktuell/finanzen/msci-aktie-so-schlaegt-sie-den-msci-world-index-accg-201009160.html",
-          "summary": "Viele Sparer investieren in den Aktienindex MSCI World. Doch die Firma hinter dem Index hat sich für Aktionäre noch mehr gelohnt.",
+          "title": "Regierungsumbau in Kiew: In Washington ist sie für Selenskyj wichtiger",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/selenskyj-entlaesst-swyrydenko-accg-201024161.html",
+          "summary": "Die bisherige ukrainische Regierungschefin Julija Swyrydenko verliert ihren Job in Kiew. Und könnte einen bekommen, der für Kiew enorm wichtig ist.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b34b77e97515/w4500h2351x0y222o/202501/43601.0.792221488/henry-fernandez-ist-seit.webp"
+          "image": "https://media0.faz.net/image/w1200h627/dc6c18880f93/w2802h1464x474y1230o/202606/43601.0.2220588998/gemeinsamer-auftritt-nach.webp"
         },
         {
-          "title": "Statt MSCI World: Dieser ETF ersetzt ein ganzes Depot",
-          "url": "https://www.faz.net/premium/meine-finanzen/vermoegensaufbau/portfolio-etf-warum-dieses-etf-ein-depot-ersetzen-kann-accg-200943023.html",
-          "summary": "Der MSCI World bringt Anlegern hohe Renditen, ist als alleinige Geldanlage aber riskant. Portfolio-ETFs minimieren das Risiko. Was Sie darüber wissen sollten.",
+          "title": "Liveblog Ukrainekrieg: Russischer Kriegsgegner Boris Nadjeschdin festgenommen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russischer-kriegsgegner-boris-nadjeschdin-festgenommen-faz-110683325.html",
+          "summary": "Nadjeschdin: „Werde weiterleben und weiterkämpfen“ +++ EU verhängt Sanktionen gegen Russland wegen Cyberangriffen +++ Berlin bestellt russischen Botschafter ein +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/18d697f271f7/w6000h3135x0y683o/202606/43601.0.2233830512/portfolio-etf-koennen-ein.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ffe661cbf26e/w5649h2951x0y293o/202606/43601.0.2257197238/boris-nadjeschdin-am-24-juni.webp"
         },
         {
-          "title": "Wie Profis investieren: Warum die Vermögensverwalter der Reichen auf Amerika setzen",
-          "url": "https://www.faz.net/premium/meine-finanzen/aktien/warum-die-reichen-bei-aktien-weiter-auf-die-usa-setzen-accg-200990430.html",
-          "summary": "In den USA scheinen die Aktienkurse nur eine Richtung zu kennen: nach oben. Ist es an der Zeit, Gewinne mitzunehmen? So agieren die Profis.",
+          "title": "KI-Ausrüstung von Auterion: Ein Schwarm von 50.000 Drohnen für die Ukraine",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/50-000-drohnen-fuer-die-ukraine-auterion-und-skyfall-kooperieren-accg-201022182.html",
+          "summary": "Es ist einer der größten Drohnenaufträge für die angegriffene Ukraine. Die KI-Plattform verspricht Erfolge auf breiter Front.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/37f2cc9fdabf/w5738h2998x0y414o/202602/43601.0.1743065393/an-der-boerse-in-new-york.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/23a9594d656f/w1563h816x135y31o/202602/43601.0.1737566274/das-us-militaer-setzt-schon.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Reformpaket der Bundesregierung: Unternehmerin Sabine Herold über Friedrich Merz' Pläne",
+          "url": "https://www.spiegel.de/wirtschaft/reformpaket-der-bundesregierung-interview-mit-unternehmerin-sabine-herold-a-d02a324d-8ab8-4b66-ae92-bc9572ccc870#ref=rss",
+          "summary": "Unternehmerinnen wie Sabine Herold hofften, die Regierung Merz würde der Wirtschaft neuen Schwung verleihen. Nun ist das Reformpaket da – und die Mittelständlerin ist enttäuscht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8edebd9d-8d15-41be-a320-06deda4834c6_w1200_r1.778_fpx66_fpy46.jpg"
+        },
+        {
+          "title": "Krieg gegen die Ukraine: Die »Koalition der Willigen« hofft auf eine Wunderwaffe",
+          "url": "https://www.spiegel.de/ausland/krieg-gegen-die-ukraine-die-koalition-der-willigen-hofft-auf-eine-wunderwaffe-a-fde670b4-3f7d-4d48-8145-81fe9ca9d900#ref=rss",
+          "summary": "Mit Pomp zelebrieren die Unterstützer der Ukraine in Paris ihren Kampf gegen Putin. Ihre Hoffnungen ruhen auf einer gemeinsam entwickelten Raketenabwehr. Doch hinter den Kulissen bröckelt der Beistand.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ff0446f4-5bd2-4282-b2d1-28def684d6dd_w1200_r1.778_fpx41_fpy64.jpg"
+        },
+        {
           "title": "Volkswagen: VW-Chef Oliver Blume droht mit Abbau von 50.000 Stellen",
           "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-vw-chef-oliver-blume-droht-mit-abbau-von-50-000-stellen-a-4742b2a6-dbd2-4e02-9a69-06223e3daebd#ref=rss",
           "summary": "Lange ließ Volkswagen-Chef Oliver Blume die Beschäftigten über seinen Plan für den massiven Stellenabbau im Dunkeln. Nun erklärt er nach SPIEGEL-Informationen erstmals konkret, wie viele Jobs und Autofabriken bedroht sind.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/ebefd937-357b-4f46-a59f-71a06dbda7b2_w1200_r1.778_fpx46.66_fpy50.jpg"
-        },
-        {
-          "title": "Auswärtiges Amt bestellt russischen Botschafter ein",
-          "url": "https://www.spiegel.de/politik/deutschland/auswaertiges-amt-bestellt-russischen-botschafter-ein-a-43179515-f275-4985-9ecb-f13323d2d7d9#ref=rss",
-          "summary": "Die Bundesregierung macht Russland für Cyberangriffe auf Deutschland, die EU-Partner und die Ukraine verantwortlich. Berlin und Paris bestellen nun die russischen Vertreter ein.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/18c94849-73bb-456d-ae02-6a0a81db3f5c_w1200_r1.778_fpx61.6_fpy49.99.jpg"
-        },
-        {
-          "title": "München: Jesidische Mädchen versklavt – irakisches Ehepaar zu Freiheitsstrafen verurteilt",
-          "url": "https://www.spiegel.de/panorama/justiz/muenchen-jesidische-maedchen-versklavt-irakisches-ehepaar-zu-freiheitsstrafen-verurteilt-a-2b2a16ee-8eec-440b-ac28-59595c32ef1e#ref=rss",
-          "summary": "Im Völkermordprozess in München ist ein Urteil gefallen. Das Oberlandesgericht hat gegen Twana H. lebenslange Haft verhängt. Seine ehemalige Frau, Asia R. , erhielt eine Jugendstrafe von neuneinhalb Jahren.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/16e76fc1-d15d-4950-a2b4-202d22ee1f9e_w1200_r1.778_fpx60_fpy38.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Urteil des OLG München: Freiheitsstrafen wegen Versklavung jesidischer Mädchen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/urteil-jesiden-irak-100.html",
-          "summary": "Sie sollen im Irak zwei jesidische Mädchen als Sklavinnen gehalten und missbraucht haben: Nach mehr als einem Jahr Prozess hat das Oberlandesgericht München ein irakisches Ehepaar zu hohen Freiheitsstrafen verurteilt - unter anderem wegen Völkermords.",
+          "title": "Krieg im Nahen Osten: Angriff auf Flughafen Sanaa im Jemen",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-jemen-angriff-sanaa-flughafen-100.html",
+          "summary": "Im Jemen ist es zu einem Angriff auf den Flughafen Sanaa gekommen - wohl wegen eines Flugzeugs aus Iran. Die Huthi-Miliz beschuldigt Saudi-Arabien und kündigt eine Reaktion an. Die Lage in der Region spitzt sich weiter zu.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/18c76c99-c19a-4cd7-a986-bfdbca0b1e24/AAABn1rnj-w/AAABnSSvrFg/16x9-big/urteil-prozess-jesidinnen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d9da4e9f-cb85-4bed-85d2-1775f6b7b8d6/AAABn1uF8MI/AAABnSSvrFg/16x9-big/sanaa-134.jpg?width=1280"
         },
         {
-          "title": "\"Koalition der Willigen\" berät über weitere Hilfen für die Ukraine",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-koalition-der-willigen-eu-aussenminister-100.html",
-          "summary": "Russlands Krieg gegen die Ukraine ist heute Thema in Paris und Brüssel. Bevor die \"Koalition der Willigen\" über weitere militärische Hilfe für die Ukraine berät, verhandeln die EU-Außenminister über nächste Sanktionen gegen Russland.",
+          "title": "tagesschau-App wird smarter, persönlicher und interaktiver",
+          "url": "https://www.tagesschau.de/mehr/in-eigener-sache-app-100.html",
+          "summary": "Die tagesschau-App hat ein umfassendes Update erhalten. Damit haben wir Feedback der Nutzenden umgesetzt. Ziel ist es, Inhalte noch übersichtlicher darzustellen und die Nutzung insgesamt einfacher zu machen. Die wichtigsten Verbesserungen im Überblick.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/76944ba3-549d-46ee-8fe5-208b959b90f4/AAABn1qUOzk/AAABnSSvrFg/16x9-big/wadephul-368.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8a4e8651-340d-4c0c-8046-020380d78ffe/AAABn1qOg6s/AAABnSSvrFg/16x9-big/app-tagesschau-100.jpg?width=1280"
         },
         {
-          "title": "Fluggastrechte: Was sich für Passagiere ab 2027 ändert",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/fluggastrechte-eu-reform-100.html",
-          "summary": "Die EU reformiert die Fluggastrechte. Familien und Menschen mit Behinderung sollen profitieren. An anderer Stelle droht aber eine Verschlechterung für Passagiere. Antworten auf zentrale Fragen.",
+          "title": "Kann die wachsende Rüstungsindustrie Arbeitsplätze retten?",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/smag-ruestung-boersengang-verteidigung-100.html",
+          "summary": "Rüstung ist kein Selbstläufer mehr. Das zeigt das verhaltene Interesse der Investoren am Börsengang des Unternehmens SMAG aus Salzgitter. Private Geldgeber setzen aber weiter auf Verteidigung. Von Bianca von der Au.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8e7a08d6-b19f-450f-b8da-fe3acb3e7137/AAABn1pCd74/AAABnSSvrFg/16x9-big/flugreisen-140.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2d292013-c425-401a-84c7-45927fde14eb/AAABn1pz09Q/AAABnSSvrFg/16x9-big/ipo-smag-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Lindsey Graham: Der letzte Kalte Krieger",
+          "url": "https://www.telepolis.de/article/Lindsey-Graham-Der-letzte-Kalte-Krieger-11362962.html",
+          "summary": "US-Senator Lindsey Graham ist mit 71 Jahren gestorben. Sein Tod hinterlässt eine Lücke, die die Ukraine und Israel hart treffen könnte. Ein Gastbeitrag.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/9/3/8/shutterstock_2582617215-391a197e8f9a3c80.jpg"
+        },
+        {
+          "title": "Luxus: Lesen wird zum Unterscheidungsmerkmal",
+          "url": "https://www.telepolis.de/article/Luxus-Lesen-wird-zum-Unterscheidungsmerkmal-11363031.html",
+          "summary": "Immer weniger Kinder lesen sicher, gleichzeitig wird das Buch für viele junge Erwachsene zum Symbol von Bildung und Identität. Entsteht eine neue Leseklasse?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/9/7/3/master_buecher-39cbf8d5f6685050.jpg"
+        },
+        {
           "title": "Tabaksteuer: Zigaretten sollen bis 2030 fast zwölf Euro kosten",
           "url": "https://www.telepolis.de/article/Tabaksteuer-Zigaretten-sollen-bis-2030-fast-zwoelf-Euro-kosten-11362570.html",
           "summary": "Die schwarz-rote Koalition plant eine stärkere Erhöhung der Tabaksteuer als bisher beschlossen. Begründet wurde dies mit einem neuen Haushaltsloch.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/7/4/1/shutterstock_2385599009-b3f49f2843c318a8.jpg"
-        },
-        {
-          "title": "Klopps DFB-Mission: Kann er den deutschen Rumpelfußball retten?",
-          "url": "https://www.telepolis.de/article/Klopps-DFB-Mission-Kann-er-den-deutschen-Rumpelfussball-retten-11302634.html",
-          "summary": "Deutschland ist kritikunfähig geworden. Fußball als Spiegel der Gesellschaft – was Weltklasse bedeutet und die Angst vor Jürgen Klopp; WM-Blog – Folge 14",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/8/0/0/Master_Klopp-6db28449eaee2c29.jpg"
-        },
-        {
-          "title": "Mali: Tuareg-Separatisten und Dschihadisten weiterhin eine Gefahr",
-          "url": "https://www.telepolis.de/article/Mali-Tuareg-Separatisten-und-Dschihadisten-weiterhin-eine-Gefahr-11361708.html",
-          "summary": "Bamako hat die Kontrolle über die Provinzhauptstadt Kidal erneut verloren. Hinter den Kulissen kämpfen auch Frankreich, die Ukraine und Russland.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/3/0/1/Thomas_Brissiaud_cropped-96d9a728cf05f4c3.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fußball-WM 2026: Bericht: Fifa-Funktionär entschied wohl im Alleingang über Balogun-Begnadigung",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-fifa-balogun-li.3492650",
-          "summary": "Laut einem Bericht der „Times“ setzte ein einzelner Funktionär aus den Vereinigten Arabischen Emiraten die Sperre von US-Spieler Balogun aus. Englands Kapitän Kane stellt sich hinter seinen Trainer Tuchel.",
+          "title": "Gesundheitsreform: Warum sich CDU- und SPD-Abgeordnete gegen die eigene Koalition stellen",
+          "url": "https://www.sueddeutsche.de/politik/koalition-gesundheitsreform-abweichler-li.3514932",
+          "summary": "Acht Abgeordnete aus den eigenen Reihen haben der Gesundheitsreform die Zustimmung verweigert. Sie kritisieren „Belastungen und Unsicherheiten“, ein CDU-Mann warnt vor „Konsequenzen, die ich nicht mittragen kann“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/13/f142c12f-7a72-4bea-bdb2-132d19afb168.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/13/9a558ae8-ca42-4a65-aaa4-0cbf902108dc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
         },
         {
-          "title": "Film: Ein Cowboy im Jurassic Park",
-          "url": "https://www.sueddeutsche.de/kultur/sam-neill-schauspieler-jurassic-park-nachruf-li.3514894",
-          "summary": "Der Schauspieler Sam Neill, der mit Steven Spielbergs Dinosaurier-Film, aber auch durch „Das Piano“ und Serien wie „Peaky Blinders“ berühmt wurde, ist im Alter von 78 Jahren gestorben. Ein Nachruf.",
+          "title": "USA: US-Senator McConnell nennt Grund für Krankenhausaufenthalt",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-mcconnell-sturz-krankenhaus-li.3511620",
+          "summary": "Er sei im Juni gestürzt, habe sich aber keine schweren Verletzungen zugezogen, teilt der Republikaner mit. Die US-Justiz nimmt offenbar Reporter der „New York Times“ ins Visier.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/13/944235d1-873e-48b9-bf63-dc17d0013337.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=241%2C218%2C3182%2C1790"
+          "image": "https://www.sueddeutsche.de/2026/07/13/40c42656-56b8-413e-a4d5-18e94eb08b75.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C240%2C4000%2C2250"
         },
         {
-          "title": "Oberlandesgericht München: Irakisches Ehepaar wegen Völkermordes verurteilt",
-          "url": "https://www.sueddeutsche.de/panorama/muenchen-prozess-urteil-ehepaar-versklavung-jesidinnen-is-li.3514898",
-          "summary": "Die Bundesanwaltschaft warf dem Paar unter anderem Kriegsverbrechen, Völkermord und Verbrechen gegen die Menschlichkeit vor, dazu schweren sexuellen Missbrauch von Kindern.",
+          "title": "Hitze: Brauereien müssen die Verschwendung der eisernen Wasserreserve beenden",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-brauereien-tiefengrundwasser-verschwendung-kommentar-li.3513362",
+          "summary": "Das besonders reine Tiefengrundwasser ist geschütztes Gemeingut – und landet in München oft als Spülwasser im Gully. Statt zu handeln, versuchen Brauerei-Lobby und Behörden, Fragen auszuweichen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/13/2de59e42-9973-448d-a1b6-cd53502d05bc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1376%2C342%2C1784%2C1003"
+          "image": "https://www.sueddeutsche.de/2026/07/13/66c5f506-26a5-4852-baec-bd69783bbe4b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C334%2C4000%2C2250"
         }
       ]
     }
