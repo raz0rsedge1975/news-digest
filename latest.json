@@ -1,47 +1,39 @@
 {
-  "generated": "2026-07-13T18:00:09.618Z",
-  "timestamp": "13.7.2026, 20:00:09",
+  "generated": "2026-07-13T22:00:08.477Z",
+  "timestamp": "14.7.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Machtkampf mit Magyar: Ungarns Parlament beschließt Absetzung von Präsident Sulyok",
-          "url": "https://www.faz.net/aktuell/politik/ausland/machtkampf-mit-magyar-ungarns-parlament-beschliesst-absetzung-von-praesident-sulyok-201026421.html",
-          "summary": "Trotz Protesten beschließt die Tisza-Mehrheit von Péter Magyar die Absetzung des Präsidenten. Durch eine weitere Klausel wird ein Großteil der Opposition von der Wiederwahl ausgeschlossen.",
+          "title": "Uneinigkeit in der Regierung: Der Datenschutz soll einfacher werden – doch die CSU bremst",
+          "url": "https://www.faz.net/aktuell/wirtschaft/trotz-einigung-wie-die-csu-die-reform-des-datenschutzes-ausbremst-201010555.html",
+          "summary": "Die Koalitionsspitzen haben bei der Reform des Datenschutzes den großen Durchbruch verkündet. Doch F.A.Z.-Recherchen zeigen: Davon kann keine Rede sein.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/90e11d351dca/w6246h3263x0y281o/202607/43601.0.2325334437/sulyok-hier-bei-seiner.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2a8c0d221f15/w6000h3135x0y125o/202607/43601.0.2330296865/der-zustaendige-innenminister.webp"
         },
         {
-          "title": "Liveblog Irankrieg: Straße von Hormus: Trump will Abgabe in Höhe von 20 Prozent auf Fracht",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-strasse-von-hormus-trump-will-abgabe-in-hoehe-von-20-prozent-auf-fracht-faz-200583539.html",
-          "summary": "Amerika würde künftig „Wächter“ der Meerenge +++ Iran sieht sich bei US-Verstößen nicht mehr an Rahmenabkommen gebunden +++ Neue amerikanische Angriffswelle gegen Iran +++ alle Entwicklungen im Liveblog",
+          "title": "Reform-Rechner der F.A.S.: So viel kosten Sie die Reformen",
+          "url": "https://www.faz.net/aktuell/finanzen/rechnen-sie-hier-aus-was-sie-die-reformen-der-bundesregierung-kosten-201010969.html",
+          "summary": "Die Regierung will Steuern senken und die Sozialversicherungen sanieren. Mit einem F. -Rechner können Sie Ihre Bilanz ermitteln. Die ist oft negativ.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dca43117f730/w4927h2574x0y355o/202607/43601.0.2331342991/donald-trump-an-bord-der-air.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/abb351e8dfe1/w2730h1426x0y905o/202607/43601.0.2317126240/die-geplanten-steuer-und.webp"
         },
         {
-          "title": "Rassismus-Eklat bei WM: Eine Beleidigung Frankreichs",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/rassismus-eklat-bei-wm-rund-um-frankreichs-fussballnationalmannschaft-201025595.html",
-          "summary": "Warum sieht sich die französische Nationalmannschaft bei dieser Weltmeisterschaft wie keine andere mit rassistischen Ausfällen aus dem Ausland konfrontiert? Die Spur führt ins Land selbst.",
+          "title": "Liveblog Irankrieg: US-Militär greift dritte Nacht infolge Iran an",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-militaer-greift-iran-dritte-nacht-infolge-an-faz-200583539.html",
+          "summary": "Das teilte das zuständige Regionalkommando des US-Militärs mit +++ Trump kündigt Wiedereinführung einer Seeblockade gegen Iran an +++ Iran sieht sich bei US-Verstößen nicht mehr an Rahmenabkommen gebunden +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3e7f09ceb850/w3194h1668x0y64o/202606/43601.0.2260066420/der-trainer-und-sein-star.webp"
+          "image": "https://media0.faz.net/image/w1200h627/51a7b10e28b5/w2560h1337x0y51o/202607/43601.0.2329674886/in-einem-von-centcom-geteilten.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
-        {
-          "title": "Abitur: Gibt es eine Noteninflation und wenn ja, wie schlimm ist das?",
-          "url": "https://www.spiegel.de/panorama/bildung/abitur-gibt-es-eine-noteninflation-und-wenn-ja-wie-schlimm-ist-das-a-160ec868-766c-4edd-aca2-afdd46395097#ref=rss",
-          "summary": "Eine Schülerin beklagt eine hohe Durchfallquote und geht viral, ein Lehrerverbandsfunktionär warnt vor einer »Bestnotenflut«: Wie steht es wirklich ums Abitur? Der SPIEGEL hat die Noten der vergangenen 20 Jahre analysiert.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/928844ca-5e1d-455b-88b1-700e47208eb6_w1200_r1.778_fpx53.88_fpy44.99.jpg"
-        },
         {
           "title": "News des Tages: Einbestellung des russischen Botschafters, Volkswagen, Powerbanks in Flugzeugen",
           "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-einbestellung-des-russischen-botschafters-vw-stellenstreichungen-risiko-brennende-powerbanks-in-flugzeugen-a-225099d8-4da1-4e5c-83c8-a962cc91a76e#ref=rss",
@@ -51,12 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Ukraine-Krieg: Russland vergleicht Öffentlichkeitsarbeit der deutschen Botschaft mit Nazipropaganda",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-vergleicht-oeffentlichkeitsarbeit-der-deutschen-botschaft-mit-nazipropaganda-a-905b3b31-a6c8-421f-a960-5cde990bc3ee#ref=rss",
-          "summary": "Russland hat den scheidenden deutschen Botschafter Alexander Graf Lambsdorff noch einmal ins Außenministerium einbestellt, wegen eines kritischen Instagram-Videos. Die deutsche Vertretung in Moskau will sich aber nicht einschüchtern lassen.",
+          "title": "Russland im Stimmungstief: »Eine verängstigte, depressive und zutiefst unglückliche Wählerschaft«",
+          "url": "https://www.spiegel.de/ausland/russland-im-stimmungstief-eine-veraengstigte-depressive-und-zutiefst-unglueckliche-waehlerschaft-a-163aa883-940f-4fb4-8d32-2759f83e4aa4#ref=rss",
+          "summary": "Die Umfragewerte für Putins Regierungspartei sind vor der Dumawahl im September ungewöhnlich schlecht. Die Politikwissenschaftlerin Ekaterina Schulmann erklärt, warum die Wähler in Russland so unzufrieden sind.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f200d554-870a-4ef3-96e0-728131b4aa40_w1200_r1.778_fpx37.99_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b6df29b8-a0f4-45c4-841e-6f9c55515a78_w1200_r1.778_fpx51_fpy28.jpg"
+        },
+        {
+          "title": "Iran/Straße von Hormus: Donald Trump setzt Seeblockade gegen iranische Häfen wieder ein",
+          "url": "https://www.spiegel.de/ausland/iran-strasse-von-hormus-donald-trump-setzt-seeblockade-gegen-iranische-haefen-wieder-ein-a-c19174ae-33cb-44a3-ac28-3f1f644796b6#ref=rss",
+          "summary": "Nach nächtlichen Angriffen gegen Iran setzt Trump nun die Seeblockade gegen iranische Häfen wieder ein und erklärt die USA zum »Hüter« der Meerenge. Wer sie passieren will, soll zahlen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8e86d57d-7866-426f-8a81-89e34d9a0fbe_w1200_r1.778_fpx39.25_fpy44.88.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Europäer schmieden Bündnis für Raketenabwehr",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html",
-          "summary": "Frankreich, Deutschland und sieben weitere europäische Staaten vereinbaren mit der Ukraine eine Koalition zur Raketenabwehr. Das Bündnis betont dabei seinen defensiven Charakter: Es gehe um die Stärkung der eigenen Sicherheit.",
+          "title": "US-Bundesstaaten wollen Warner-Übernahme durch Paramount stoppen",
+          "url": "https://www.tagesschau.de/ausland/amerika/klage-warner-paramount-uebernahme-100.html",
+          "summary": "Die Übernahme von Warner Bros. durch Paramount ist ein Mega-Geschäft, das nicht nur Hollywood umkrempeln könnte. Die US-Regierung winkte den Deal durch - doch mehrere Bundesstaaten wollen ihn kippen und ziehen vor Gericht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2c262060-5be2-4558-89c9-cb0f3bcb05ca/AAABn1yEOW8/AAABnSSvrFg/16x9-big/ukraine-treffen-verteidiung-paris-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9252e015-909e-4bd1-8475-24a3064d9552/AAABn10NTrU/AAABnSSvrFg/16x9-big/paramount-logo-102.jpg?width=1280"
         },
         {
-          "title": "Pläne der Koalition: Warum das Rauchen teurer werden soll",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/faq-tabaksteuer-100.html",
-          "summary": "Fast zwölf Euro für eine Schachtel Zigaretten - so teuer könnte Rauchen bis zum Jahr 2030 werden. Der Bund erhofft sich dadurch höhere Steuereinnahmen. Was ist geplant - und wie sind die Reaktionen?",
+          "title": "Massiver IT-Ausfall bei der Berliner Justiz",
+          "url": "https://www.tagesschau.de/inland/regional/berlin/it-stoerung-berliner-justiz-100.html",
+          "summary": "Softwareprobleme haben bei Berliner Gerichten für erheblichen Ausfälle gesorgt. Seit dem Morgen können sich Richter nicht auf den Servern einwählen. Fälle bleiben unbearbeitet, Mitarbeiter werden nach Hause geschickt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3808ced1-f0e7-42e4-927e-f6a9d9107173/AAABn1uppVY/AAABnSSvrFg/16x9-big/zigarette-134.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/93eceb0c-0e7f-4acb-a8c2-f1571d54776c/AAABn1zM7eg/AAABnSSvrFg/16x9-big/rbb-467865784-100.jpg?width=1280"
         },
         {
-          "title": "\"Push\": Geburtenboom in der Serienwelt",
-          "url": "https://www.tagesschau.de/kultur/geburtenboom-in-der-serienwelt,geburten-in-serien-100.html",
-          "summary": "Serien wie \"Push\", \"The Pitt\" und \"Paradise\" zeigen Geburten so realistisch wie nie - und treffen damit einen Nerv. Statt Hollywood-Blitzgeburten sind auch die schmerzvollen Seiten des Kinderkriegens zu sehen.",
+          "title": "7.000 Hektar verbrannt und 13 Tote bei Waldbrand in Spanien",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-andalusien-feuer-100.html",
+          "summary": "Nach dem schweren Waldbrand in Andalusien ist die Ausbreitung des Feuers bei Almería gestoppt. Erste Anwohner kehren zurück in ihre Häuser. Regierungschef Sánchez verspricht bei seinem Besuch in der Region Mittel für den Wiederaufbau.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/132fbcc4-96aa-4de3-bf23-16b989db810d/AAABn1uAN-M/AAABnSSvrFg/16x9-big/szene-push-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8abb51c3-ea47-469a-88db-ea5d9e55ea82/AAABn1zXJ6Y/AAABnSSvrFg/16x9-big/almeria-feuer-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Nach WM-Debakel: Kann der designierte DFB-Coach Jürgen Klopp uns retten?",
+          "url": "https://www.telepolis.de/article/Nach-WM-Debakel-Kann-der-designierte-DFB-Coach-Juergen-Klopp-uns-retten-11302634.html",
+          "summary": "Das WM-Aus offenbart tiefe Krisen im deutschen Fußball. Kann der designierte Bundestrainer Jürgen Klopp die dringend nötige DFB-Reform erzwingen?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/8/0/0/Master_Klopp-6db28449eaee2c29.jpg"
+        },
         {
           "title": "EU stärkt Fluggastrechte ab 2027: Was sich für Passagiere ändert",
           "url": "https://www.telepolis.de/article/EU-staerkt-Fluggastrechte-ab-2027-Was-sich-fuer-Passagiere-aendert-11363283.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/7/9/8/shutterstock_2621171275-a27de9235abeca72.jpg"
-        },
-        {
-          "title": "S-400 für die VAE? Warum Russland dem türkischen Rüstungsdeal zustimmen könnte",
-          "url": "https://www.telepolis.de/article/S-400-fuer-die-VAE-Warum-Russland-dem-tuerkischen-Ruestungsdeal-zustimmen-koennte-11362876.html",
-          "summary": "Die Türkei verhandelt über den Verkauf ihrer S-400-Systeme an die VAE oder Katar. Laut Dimitri Peskov steht eine Entscheidung Putins aber noch aus.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/8/9/5/Chebakalex7-cc14453e1ae8b668.jpg"
         }
       ]
     },
@@ -122,12 +122,12 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: US-Bundesstaaten wollen Warner-Übernahme stoppen",
+          "title": "USA: US-Richterin kippt Trumps umstrittenen Vergleich mit Steuerbehörde IRS",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-paramount-uebernahme-warner-cnn-li.3511620",
-          "summary": "Paramount-Eigner Ellison, ein Trump-Unterstützer, hat den Medienkonzern gekauft, zu dem Superman, Harry Potter und auch CNN gehören. Zwölf Bundesstaaten ziehen dagegen vor Gericht.",
+          "summary": "Damit ist der Schutz des US-Präsidenten vor zukünftigen Steuerprüfungen hinfällig. Die Richterin in Miami blockiert auch den 1,8 Milliarden Dollar schweren staatlichen Fonds für angebliche politische Opfer der Justiz.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/13/8af2e33d-6975-4c5c-ac86-568bee3379dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C126%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/13/efda1827-6303-46f1-ad67-e7e655973145.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
         },
         {
           "title": "Krieg in der Ukraine: Neuer Raketenabwehr-Bund mit Deutschland, Ukraine und Frankreich",
@@ -138,12 +138,12 @@
           "image": "https://www.sueddeutsche.de/2026/07/13/768250ed-dc04-4a1a-b4f6-ba0ba024983a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C563%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: Trump: Setzen Seeblockade gegen iranische Häfen wieder ein",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-angriffe-iran-strasse-hormus-seeblockade-li.3513707",
-          "summary": "Schiffe, die Irans Häfen anfahren oder verlassen, soll die US-Marine wieder abfangen, schreibt der US-Präsident auf Truth Social. Aus Teheran gibt es noch keine Reaktion.",
+          "title": "Serie: Wacht auf, Verdammte dieser Herde!",
+          "url": "https://www.sueddeutsche.de/medien/serie-sheep-zdf-kritik-li.3509849",
+          "summary": "In der österreichischen Miniserie „Sheep“ wird einem Schaf klar, dass es nur lebt, um geschlachtet zu werden. Es beschließt, sich zu wehren. Daraus wird eine hübsche Satire auf die Heldenerzählungen Hollywoods.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/13/a9e5756d-4252-4e9b-ac0d-730f14e079b0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/13/92f032a1-288f-4423-bdba-c0b2cfc54fa9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=211%2C0%2C3556%2C2000"
         }
       ]
     }
