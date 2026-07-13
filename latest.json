@@ -1,14 +1,22 @@
 {
-  "generated": "2026-07-13T02:00:08.272Z",
-  "timestamp": "13.7.2026, 04:00:08",
+  "generated": "2026-07-13T06:00:08.111Z",
+  "timestamp": "13.7.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog Irankrieg: Iran meldet einen Toten bei neuen US-Angriffen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-militaer-startet-neue-angriffe-auf-iran-faz-200583539.html",
-          "summary": "US-Militär: Angriffe sollen iranische Attacken auf Handelsschiffe verhindern +++ Ölpreise steigen +++ Diplomatische Bemühungen laut Iran zunicht gemacht +++ Luftalarm in Golfstaaten +++ alle Entwicklungen im Liveblog",
+          "title": "Straße von Hormus: In der iranischen Sackgasse",
+          "url": "https://www.faz.net/aktuell/politik/ausland/patt-zwischen-usa-und-iran-die-eskalation-nuetzt-keinem-201022228.html",
+          "summary": "Solange Teheran die Straße von Hormus „sperren“ kann, so lange wird Amerika dem Land keine atomaren Zugeständnisse abringen können. Unter diesem Patt leiden beide.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ce3a4830deb1/w3968h2073x0y92o/202607/43601.0.2327449140/schiffe-in-der-strasse-von.webp"
+        },
+        {
+          "title": "Liveblog Irankrieg: Neue US-Angriffswelle gegen Iran – erstmals Seedrohne im Einsatz",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-neue-us-angriffswelle-gegen-iran-erstmals-seedrohne-im-einsatz-faz-200583539.html",
+          "summary": "Ölpreis steigt +++ Iranische Staatsmedien: Toter durch US-Angriffe +++ US-Militär: Angriffe sollen iranische Attacken auf Handelsschiffe verhindern +++ Iran meldet Angriffe auf US-Stützpunkte +++  alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ac5de693cc8a/w3840h2006x0y77o/202607/43601.0.2327485529/ein-projektil-wird-von-den-usa.webp"
@@ -16,18 +24,10 @@
         {
           "title": "Wetter in Deutschland: Hitze bis 36 Grad – leichte Abkühlung in Sicht",
           "url": "https://www.faz.net/aktuell/gesellschaft/wann-wird-es-wieder-kuehler-accg-201022069.html",
-          "summary": "Die hohen Temperaturen bleiben: In den kommenden Tagen werden abermals Tropennächte erwartet. Doch auch wechselhaftes Wetter kündigt sich an.",
+          "summary": "Die hohen Temperaturen bleiben: In den kommenden Tagen werden abermals Tropennächte erwartet. Doch auch wechselhaftes Wetter kündigt sich an. Die Deutschen leiden extrem unter der Hitze.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ef4461aa09f2/w6000h3135x0y433o/202607/43601.0.2327774548/im-suedwesten-kuehlt-es-in.webp"
-        },
-        {
-          "title": "Heiße Tipps, kühle Zimmer: Der Weg zur Klimaanlage",
-          "url": "https://www.faz.net/aktuell/technik-motor/technik/tipps-fuer-den-richtigen-weg-zur-klimaanlage-200987241.html",
-          "summary": "Die Hitze löst Sehnsucht nach Kühle aus. Im Internet gibt es attraktive Angebote. Aber auch Scharlatane. Nur eine richtige Lösung ist eine gute Lösung.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/a38c26261301/w5000h2612x0y357o/202606/43601.0.2275965356/kaeltefront-man-muss-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5ebae07e50e5/w6000h3135x0y433o/202607/43601.0.2329618048/hinter-einem-thermometer-geht.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Sexualisierte Gewalt: »Ein Kind muss siebenmal vom Missbrauch erzählen, bis jemand reagiert«",
-          "url": "https://www.spiegel.de/psychologie/sexualisierte-gewalt-ein-kind-muss-siebenmal-vom-missbrauch-erzaehlen-bis-jemand-reagiert-a-2ba94fbb-1acc-4116-84f0-a09a3cd23c88#ref=rss",
-          "summary": "Sexuelle Übergriffe geschehen oft in der Familie und hinterlassen tiefe Spuren. Sibylle Winter von der Kinderschutzambulanz der Berliner Charité sagt, welche Rolle Mütter spielen und wie Außenstehende helfen können.",
+          "title": "Sicher fliegen: Ihre Powerbank ist das »Sicherheitsrisiko Nummer eins«",
+          "url": "https://www.spiegel.de/wissenschaft/technik/sicher-fliegen-ihre-powerbank-ist-das-sicherheitsrisiko-nummer-eins-a-6d975330-5718-4b1c-8bab-e250dad43d15#ref=rss",
+          "summary": "An Bord vieler Urlaubsflieger sind mehr Akkus als Menschen, dabei können insbesondere Powerbanks Feuer fangen und Flugzeuge zerstören. Neue Verbote für Passagiere sollen das Risiko senken.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5b773ee0-b0d6-4ba4-b995-ebecf5502c37_w1200_r1.778_fpx53_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3e68251a-302a-4fb2-bfa3-ccf9eecc8445_w1200_r1.778_fpx11_fpy28.jpg"
         },
         {
-          "title": "Wimbledon: Drei Erkenntnisse aus dem Finale zwischen Alexander Zverev und Jannik Sinner",
-          "url": "https://www.spiegel.de/sport/tennis/wimbledon-finale-2026-live-alexander-zverev-gegen-jannik-sinner-im-liveticker-a-0c6283a6-0d62-4508-8108-98ee26a3085c#ref=rss",
-          "summary": "Trotz eines starken Spiels hat Alexander Zverev sein erstes Wimbledon-Finale verloren. Dennoch darf der Deutsche zuversichtlich in die Zukunft blicken. Drei Erkenntnisse aus dem Endspiel im Liveticker.",
+          "title": "News: Treffen der »Koalition der Willigen« für Ukraine, Eskalation zwischen USA und Iran, Brandanschlag auf Zugstrecke Köln-Düsseldorf",
+          "url": "https://www.spiegel.de/politik/deutschland/news-treffen-der-koalition-der-willigen-fuer-ukraine-eskalation-zwischen-usa-und-iran-brandanschlag-auf-zugstrecke-koeln-duesseldorf-a-92cbb10b-2860-4b36-8ca7-111e363cbb51#ref=rss",
+          "summary": "Die »Koalition der Willigen« für Kyjiw trifft sich zu Gesprächen. Am Golf eskaliert der Konflikt zwischen USA und Iran erneut. Und in Nordrhein-Westfalen gab es einen mutmaßlichen Brandanschlag auf Bahngleise. Das ist die Lage am Montagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/61336c27-9d81-4422-ae30-427b681119f7_w1200_r1.778_fpx45.35_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Lindsey Graham: Büro nennt Aortendissektion im Herzen als Todesursache",
-          "url": "https://www.spiegel.de/ausland/lindsey-graham-buero-nennt-aortendissektion-im-herzen-als-todesursache-a-aa42abc6-3bab-4ef3-ab94-03a1882a2215#ref=rss",
-          "summary": "Bisher war von einer »kurzen und plötzlichen Erkrankung« die Rede, die zum Tod von US-Senator Lindsey Graham geführt habe. Jetzt liegen erste Erkenntnisse aus der medizinischen Untersuchung seines Leichnams vor.",
+          "title": "Iran-Krieg: Neue Angriffe der USA auf Iran und die Gegenschläge lassen Ölpreise ansteigen",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-neue-angriffe-der-usa-auf-iran-und-die-gegenschlaege-lassen-oelpreise-ansteigen-a-4a7e7d10-6d2c-4a3c-901d-3f3446230053#ref=rss",
+          "summary": "Auch in dieser Nacht haben die USA Attacken auf Ziele in Iran geflogen, es ist die vierte Angriffswelle. Die andauernden Feindseligkeiten machen sich an den Energiemärkten empfindlich bemerkbar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cef6aa77-703f-4daf-8c14-242226fb7c1a_w1200_r1.778_fpx32_fpy34.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ba3733d7-8887-4a33-bda2-5658cc73f028_w1200_r1.778_fpx41_fpy54.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bericht: Regierung will Tabaksteuer stärker anheben als geplant",
-          "url": "https://www.tagesschau.de/inland/tabaksteuer-102.html",
-          "summary": "Fast zwölf Euro - soviel soll eine Packung Zigaretten in wenigen Jahren kosten. Laut einem Bericht will die Regierung die Tabaksteuer stärker erhöhen als geplant. Das soll der öffentlichen Gesundheit helfen - und der Steuerkasse.",
+          "title": "Marktbericht: Ölpreise legen kräftig zu",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-dow-iran-100.html",
+          "summary": "US-Luftangriffe auf Iran lassen am Morgen die Ölpreise steigen und die Börsenkurse fallen. Der DAX dürfte mit einem deutlichen Minus in die neue Woche starten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d012abeb-df65-414c-82ef-dbc3887a0edb/AAABlgsLTyE/AAABnSSvrFg/16x9-big/zigarette-rauch-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1cd7783b-220b-4d14-9b74-536f856c926b/AAABnjsd-94/AAABnSSvrFg/16x9-big/dax-220.jpg?width=1280"
         },
         {
-          "title": "Neue US-Angriffe auf Iran",
-          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-112.html",
-          "summary": "In der Nacht hat das US-Militär erneut Ziele in Iran bombardiert. Damit solle die Fähigkeit Teherans eingeschränkt werden, Handelsschiffe in der Straße von Hormus zu attackieren, hieß es.",
+          "title": "Landwirte reagieren auf veränderte klimatische Bedingungen",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/agrar-preise-ernte-trockenheit-100.html",
+          "summary": "Der Klimawandel beeinflusst auch die Landwirtschaft. Starkregen, Dürren, Schädlingsbefall treiben Kosten und Preise in die Höhe - häufig zu Lasten der Endkunden. Von Noel Schmidt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/85e75c9a-a1ed-4683-9c4d-6e2514a81630/AAABn1iE0OI/AAABnSSvrFg/16x9-big/usa-iran-176.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b1ae66bd-3fb3-4475-a1ef-3f3abd7329c5/AAABn0FGmiA/AAABnSSvrFg/16x9-big/trockenheit-238.jpg?width=1280"
         },
         {
-          "title": "37 Tote bei Feuer in Bangkok",
-          "url": "https://www.tagesschau.de/ausland/asien/bangkok-feuer-100.html",
-          "summary": "In einer Bar in der thailändischen Hauptstadt Bangkok hat ein Feuer viele Menschenleben gekostet. 27 Personen starben, mehr als 60 wurden verletzt. Zur Unglücksursache wird derzeit ermittelt.",
+          "title": "Kallas in der Kritik: Wie viel Außenpolitik darf die EU-Chefdiplomatin machen?",
+          "url": "https://www.tagesschau.de/ausland/eu-aussenpolitik-kallas-100.html",
+          "summary": "Zu undiplomatisch, zu ehrgeizig: EU-Chefdiplomatin Kallas steht in der Kritik. Dahinter steckt aber auch die Frage, wer in der EU eigentlich für die Außenpolitik zuständig ist. Jetzt sollen die Kompetenzen neu verteilt werden. Fritz und T.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cf924620-0469-47ae-bb27-84eaf7450376/AAABn1hakyw/AAABnSSvrFg/16x9-big/bangkok-220.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/72990801-5e38-4599-b28f-15596ab6c527/AAABn1oD34Q/AAABnSSvrFg/16x9-big/kallas-182.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Erste vollständig synthetische Zelle mit komplettem Lebenszyklus erschaffen",
+          "url": "https://www.telepolis.de/article/Erste-vollstaendig-synthetische-Zelle-mit-komplettem-Lebenszyklus-erschaffen-11355222.html",
+          "summary": "Forscher haben erstmals eine synthetische Zelle erschaffen, die Wachstum, Teilung und Selektion durchläuft. Doch ob SpudCell wirklich lebt, bleibt offen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/2/0/2/6/Spudcell1-95476995eac054d4.jpg"
+        },
         {
           "title": "Schocklogik der Politik: Warum Ausnahmesituationen Macht verschieben",
           "url": "https://www.telepolis.de/article/Schocklogik-der-Politik-Warum-Ausnahmesituationen-Macht-verschieben-11355266.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/3/7/9/5/shutterstock_1840633885-cc6e46eccdc7e893.jpg"
-        },
-        {
-          "title": "Sinn des Lebens: Warum die Antworten weltweit so unterschiedlich ausfallen",
-          "url": "https://www.telepolis.de/article/Sinn-des-Lebens-Warum-die-Antworten-weltweit-so-unterschiedlich-ausfallen-11361836.html",
-          "summary": "Christentum, Calvinismus, Konfuzianismus, Hinduismus und Buddhismus: Wie Religionen und Kulturen die menschliche Sinnsuche prägen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/3/6/5/Master_Jehle-de806ed55eed2959.png"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Pressestimmen zum Wimbledon-Finale: „Sinner war einfach zu gnadenlos“",
-          "url": "https://www.sueddeutsche.de/sport/wimbledon-finale-zverev-sinner-reaktionen-pressestimmen-li.3514763",
-          "summary": "Die internationale Presse feiert den Wimbledon-Titelverteidiger – ein bisschen Lob für Alexander Zverev ist aber auch dabei.",
+          "title": "Bundespolitik: SPD lehnt Priens Pläne zum Unterhaltsvorschuss ab",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-prien-unterhaltsvorschuss-spd-kritik-li.3495864",
+          "summary": "Familienministerin Prien will den staatlichen Vorschuss für Kinder säumiger Unterhaltspflichtiger nur noch bis zum 15. Lebensjahr zahlen. Der Koalitionspartner warnt, die Kürzung treffe besonders arme Familien.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/12/956d7fae-abb9-4b6e-ae39-9b57b02a75cd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/13/ce8b8dfe-bfad-43d5-abe2-80d060386aaf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Zverev verliert Wimbledon-Finale: Nur ein klein wenig schlechter als der Beste der Welt",
-          "url": "https://www.sueddeutsche.de/sport/tennis-wimbledon-finale-zverev-sinner-li.3514569",
-          "summary": "Tennis-Deutschland muss weiter auf einen Wimbledon-Sieger nach Becker und Stich warten: Alexander Zverev verliert ein umkämpftes und hochklassiges Finale in vier Sätzen gegen den Weltranglistenersten Jannik Sinner.",
+          "title": "USA: Todesursache von Senator Graham bekanntgegeben",
+          "url": "https://www.sueddeutsche.de/politik/lindsey-gaham-tot-todesursache-aortendissektion-li.3514536",
+          "summary": "Einer Mitteilung seines Büros zufolge starb der Trump-Vertraute am Samstagabend an den Folgen einer Gefäßerkrankung. Der US-Präsident würdigte Graham als einen der „großartigsten Menschen und Senatoren, die ich je gekannt habe“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/12/7040fdb9-7a3f-4bee-9282-1c0238bb12c5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/12/cd97681d-453d-4ab1-bf24-fb07c95441e2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C75%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: Trump: Straße von Hormus für Handelsschifffahrt offen",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-trump-strasse-von-hormus-li.3513707",
-          "summary": "Die für den Ölhandel wichtige Meeresenge sei geöffnet, sagt der US-Präsident in einem Interview. Derweil gehen die gegenseitigen Attacken zwischen USA und Iran weiter.",
+          "title": "Krieg in Nahost: Weitere US-Angriffswelle, Ölpreise ziehen an",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-strasse-von-hormus-guterres-un-usa-li.3513707",
+          "summary": "Es war die vierte Angriffswelle seit Mittwoch. UN-Generalsekretär Guterres zeigt sich zutiefst besorgt über die „erhebliche Eskalation“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/12/efe9c46d-6494-4db2-8eb6-15c4c2df4d6f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C9%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/12/91e220a8-58b5-4296-804b-62ad23bbe930.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C175%2C2048%2C1152"
         }
       ]
     }
