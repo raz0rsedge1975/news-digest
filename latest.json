@@ -1,25 +1,25 @@
 {
-  "generated": "2026-07-14T18:00:09.945Z",
-  "timestamp": "14.7.2026, 20:00:09",
+  "generated": "2026-07-14T22:00:08.775Z",
+  "timestamp": "15.7.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Vor Warkens reform im Kabinett: Was tun gegen unbezahlbare Pflege?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nina-warken-und-die-pflegereform-was-bringt-das-pnog-201028381.html",
-          "summary": "Ein Heimplatz kostet im Durchschnitt 3364 Euro im Monat – und mit der Pflegereform wird es für die Bewohner wohl noch teurer. Das liegt am teuren Pflegepersonal und daran, dass sich die Länder verweigern.",
+          "title": "2:0 gegen Frankreich: Spaniens Präzision führt ins WM-Finale",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-spanien-zieht-nach-2-0-ueber-frankreich-ins-finale-ein-201019956.html",
+          "summary": "Frankreichs Offensiv-Zauber endet am Nationalfeiertag. Im Halbfinale dominiert die spanische Genauigkeit im Passspiel und in der Spielstruktur.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/740860769794/w6144h3210x0y322o/202606/43601.0.2275310218/abkuehlung-erwuenscht-in-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/19928c73aca0/w4406h2302x0y88o/202607/43601.0.2335608043/spaniens-spielentscheider.webp"
         },
         {
-          "title": "Ausufernde Eigenanteile in Heimen: Die Pflege ist sanierbar",
-          "url": "https://www.faz.net/aktuell/wirtschaft/pflegereform-was-nina-warken-jetzt-angehen-muss-201028978.html",
-          "summary": "Gießkannenförderung abschaffen, Kapitaldeckung einführen, die Länder in die Pflicht nehmen: Es gibt Stellschrauben, die Koalition muss sich aber auch trauen, daran zu drehen.",
+          "title": "Pressestimmen zum Halbfinale: „Das Feuerwerk ist abgesagt“",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-pressestimmen-zu-frankreichs-niederlage-im-halbfinale-201030723.html",
+          "summary": "„Am Tag des Sturms auf die Bastille“ werden „Les Bleus“ von „La Roja“ bezwungen. Die Pressestimmen zum spanischen Sieg über Frankreich.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b57ad721d8b5/w6144h3210x0y189o/202607/43601.0.2333607601/ein-rollstuhl-steht-auf-dem.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c3845b16d1a1/w4569h2387x0y329o/202607/43601.0.2335793960/die-trauer-des-verlierers.webp"
         },
         {
           "title": "Liveblog Fußball-WM 2026: Werben um Klopp nähert sich dem Finale",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Fußball-WM 2026 live: Drei Erkenntnisse aus Spaniens Sieg über Frankreich",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-live-drei-erkenntnisse-aus-spaniens-sieg-ueber-frankreich-a-20b18dee-efaa-4a48-8c16-fa193d9a1b91#ref=rss",
+          "summary": "Frankreich kam als Topfavorit und geht als Exfavorit. Spaniens Zauberwort heißt Kontrolle. Und Lamine Yamal entschied das Duell der Superstars als Superarbeiter. Der Livekommentar zum Nachlesen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/cbb609ca-9347-4e32-a33a-c1b20b083df6_w1200_r1.778_fpx29.98_fpy46.96.jpg"
+        },
+        {
+          "title": "Gescheitertes Fregatten-Projekt: Damen-Werft wirft Pistorius Rechtsbruch vor",
+          "url": "https://www.spiegel.de/politik/deutschland/gescheitertes-fregatten-projekt-damen-werft-wirft-pistorius-rechtsbruch-vor-a-e204fe3a-f6e9-4287-bbb4-28998a6c0075#ref=rss",
+          "summary": "Der Abbruch des F126-Fregatten-Projekts hat ein juristisches Nachspiel. Die betroffene Werft hält dem Wehrressort Rechtsbruch vor und droht mit einer Schadensersatzklage. Vertreten wird sie von einem prominenten Anwalt.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/4495ba3a-e60d-4ea6-b3f6-df6c3494dad1_w1200_r1.778_fpx33.34_fpy50.jpg"
+        },
+        {
           "title": "Ukraine-Krieg: Russland könnte die Stadt Kostjantyniwka einnehmen - aber zu welchem Preis?",
           "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-koennte-die-stadt-kostjantyniwka-einnehmen-aber-zu-welchem-preis-a-b3878ddd-bd7c-4c77-b50c-beae90430fd5#ref=rss",
           "summary": "Russische Truppen kämpfen sich in der Ostukraine vor, die Stadt Kostjantyniwka steht kurz vor dem Fall. Doch ihr strategischer Wert ist umstritten – und der Kreml müsste für ihre Einnahme empfindliche Opfer bringen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/4ba01c82-a716-4730-9e29-5f151ee775ba_w1200_r1.778_fpx54_fpy35.jpg"
-        },
-        {
-          "title": "News des Tages: Trumps Börsendeals, Mossad-Plan für Regimewechsel in Iran, Karin Priens Unterhaltskürzungen",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-trumps-boersendeals-mossad-plan-fuer-regimewechsel-in-iran-karin-priens-unterhaltskuerzungen-a-6a796550-edf7-42b7-b36c-a8de151faf90#ref=rss",
-          "summary": "Eine Vermögensanalyse gibt Aufschluss über massenhafte Börsenspekulationen des US-Präsidenten. Berichte über Israels irrwitzigen Iranplan. Und: Zoff um den Unterhaltsvorschuss. Das ist die Lage am Dienstagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Mossad-Plan für Regimewechsel in Iran: Wie Israels Operation »Gestiefelter Kater« spektakulär scheiterte",
-          "url": "https://www.spiegel.de/ausland/mossad-plan-fuer-regimewechsel-in-iran-wie-israels-operation-gestiefelter-kater-spektakulaer-scheiterte-a-4ad68733-5c43-4c26-a1cf-10194b92bef0#ref=rss",
-          "summary": "Der israelische Geheimdienst Mossad wollte den Regimewechsel in Iran einfädeln: Ausgerechnet Ex-Präsident Ahmadinejad sollte eine Hauptrolle spielen. Neue Enthüllungen offenbaren, warum die Agenten versagten.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8891568e-f25f-4650-87b4-eab52a8f0c3e_w1200_r1.778_fpx38.63_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Trump will nun doch keine Gebühren für Hormus-Durchfahrt erheben",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-gebuehren-hormus-100.html",
-          "summary": "Erst am Montag sorgte US-Präsident Trump mit seinem Entschluss für Unmut, eine Maut für die Passage der Straße von Hormus zu fordern. Jetzt hält er selbst nichts mehr von dem Konzept - und präsentiert eine neue Idee.",
+          "title": "2:0-Sieg gegen Frankreich: Spanien erreicht WM-Finale",
+          "url": "https://www.tagesschau.de/sport/fussball-wm-halbfinale-spanien-sieg-100.html",
+          "summary": "Spaniens Nationalmannschaft hat das erste Halbfinale der Fußball-WM gewonnen. Im US-amerikanischen Arlington setzte sich das Team mit einem 2:0-Sieg gegen Frankreich durch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7be0b612-8471-4365-8595-9d14522eb706/AAABn2GMz4M/AAABnSSvrFg/16x9-big/trump-5140.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/12203d65-e23b-4d1e-9391-da5408a86c95/AAABn2Jfryk/AAABnSSvrFg/16x9-big/spanien-wm-sieg-halbfinale-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX hält sich über 25.000-Punkte-Marke",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html",
-          "summary": "Die jüngste Eskalation in Nahost bleibt das beherrschende Thema an den Börsen. Zwar ruderte US-Präsident Trump bei seinen Maut-Plänen zurück, trotzdem reagierten die Märkte sensibel.",
+          "title": "Lage am Persischen Golf: \"Kein Krieg, aber auch kein Frieden\"",
+          "url": "https://www.tagesschau.de/ausland/asien/nahost-konflikt-lage-golf-100.html",
+          "summary": "Angriffe auf Tanker, Unsicherheit an der Straße von Hormus: Nach den jüngsten US-Schlägen gegen Iran wächst am Persischen Golf die Sorge vor einer Eskalation - und ihren Folgen für den Welthandel. Von Nina Amin.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/eda3c196-19fe-4cde-a158-813f3316d25b/AAABnyMUShE/AAABnSSvrFg/16x9-big/boerse-frankfurt-218.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4eeaa8b4-84eb-4eda-825b-164e57749fc5/AAABn2ImYDc/AAABnSSvrFg/16x9-big/bahrain-148.jpg?width=1280"
         },
         {
-          "title": "Mehr als 50 Millionen US-Dollar: Rekord für T-Rex bei Auktion in New York",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-rekord-versteigerung-dinosaurier-gus-100.html",
-          "summary": "Es gilt als eines der größten und vollständigsten T-Rex-Skelette weltweit - nun wurden die Fossilien des Dinosauriers \"Gus\" für einen Rekordpreis versteigert. Mehr als 50 Millionen Dollar zahlte ein anonymer Bieter dafür. Von G. Ucar.",
+          "title": "Ministerpräsident Schnieder entschuldigt sich für Staatsversagen im Ahrtal",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/gedenken-flutkatastrophe-ahrtal-100.html",
+          "summary": "Der rheinland-pfälzische Ministerpräsident Schnieder findet beim Gedenken im Ahrtal klare Worte: Er entschuldigt sich für das Staatsversagen bei der Flutkatastrophe 2021. Auch Bundespräsident Steinmeier fordert vom Bund mehr Einsatz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/95bef52b-6371-45ef-a940-5608ca906791/AAABn2FzEAI/AAABnSSvrFg/16x9-big/gus-t-rex-dinosaurier-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/76ab2ea1-778c-405e-adbf-adf5dcaf870c/AAABn2HzmQw/AAABnSSvrFg/16x9-big/schnieder-140.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: Trump rückt von Hormus-Gebühr ab",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-hormus-gebuehr-li.3513707",
-          "summary": "Erst am Montag hatte der US-Präsident eine 20-Prozent-Abgabe für Schiffe angekündigt, die unter US-Schutz die Meerenge durchfahren. Nun will er diese durch Handelsdeals mit den Golfstaaten ersetzen.",
+          "title": "Halbfinale der Fußball-WM: Spanien nimmt Frankreich das Tempo, den Esprit und das Finale",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-halbfinale-spanien-frankreich-sieg-finale-dallas-li.3514795",
+          "summary": "Mbappé? Dembélé? Olise? Im Halbfinale gegen Spanien ist von der Offensivreihe des Teams von Trainer Didier Deschamps kaum etwas zu sehen – die Spanier erreichen durch ein defensives Meisterwerk das Endspiel.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/14/0460f99e-436b-4134-b789-3fc0c440c35c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C118%2C1624%2C913"
+          "image": "https://www.sueddeutsche.de/2026/07/14/287210f3-993a-4226-95d3-b22d5956f955.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C586%2C3636%2C2045"
         },
         {
-          "title": "Fußball-WM: Nichts würde sich für die Fifa schöner fügen als der WM-Pokal für Argentinien",
-          "url": "https://www.sueddeutsche.de/sport/fifa-kommentar-argentinien-schiedsrichter-li.3515969",
-          "summary": "Argentinien, letzte Hoffnung Amerikas bei der Fußball-WM, muss den Titel kriegen – so sieht es zumindest das Drehbuch in den Köpfen vieler Fifa-Granden vor. Und dafür gibt es einige handfeste Gründe.",
+          "title": "Krieg in Nahost: Seeblockade gegen iranische Häfen gestartet",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-seeblockade-li.3513707",
+          "summary": "Die US-Marine sperrt wie angekündigt erneut Häfen und Küstengebiete des Kriegsgegners, teilt das zuständige Kommando mit. Trump rückt von seinem Plan einer Hormus-Gebühr ab.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/14/b5338c9d-d0a5-4f67-9941-672053ff145c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C378%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/14/ad00653b-c1cd-45f5-8550-c889125d430c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Russland-Sanktionen: Gericht: Deutsche Bank hat gute Chancen im Streit mit Linde",
-          "url": "https://www.sueddeutsche.de/wirtschaft/bank-linde-russland-sanktionen-frankfurt-li.3515899",
-          "summary": "Nach dem Scheitern eines Projekts in Russland verlangt unter anderem die Deutsche Bank Schadenersatz vom Gaskonzern Linde. Eine Anhörung zeigt: Das Landgericht Frankfurt neigt dazu, der Bank recht zu geben.",
+          "title": "Siemens: Aus Siemens Energy soll Omterra werden",
+          "url": "https://www.sueddeutsche.de/wirtschaft/siemens-energy-omterra-name-energieunternehmen-li.3515999",
+          "summary": "Die frühere Siemens-Tochter will sich umbenennen. Der neue Name klingt ein bisschen nach Elektriker-Yoga? Es geht um Emanzipation und um Hunderte Millionen Euro im Jahr.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/14/29851ca4-ba08-4054-8592-a67da757b827.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C98%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/07/14/97e19d88-0e76-4f1b-8b46-c99562dcd9c3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
