@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-14T06:00:08.701Z",
-  "timestamp": "14.7.2026, 08:00:08",
+  "generated": "2026-07-14T10:00:09.943Z",
+  "timestamp": "14.7.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Fünf Jahre danach: Eine neue Flut würde das Ahrtal wohl genauso hart treffen",
-          "url": "https://www.faz.net/aktuell/politik/inland/ahrtal-flut-eine-neue-flut-wuerde-die-orte-genauso-hart-treffen-accg-201005507.html",
-          "summary": "135 Menschen kamen im Ahrtal ums Leben. Trotzdem wurde vielerorts an gleicher Stelle neu gebaut. Die Flutkatastrophe zeigt unser Problem, Risiken richtig einzuschätzen.",
+          "title": "Bosch in der Krise: Der schwäbische Ingenieur als hemmender Faktor",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stefan-hartung-warum-bosch-der-wandel-nicht-gelingt-201011603.html",
+          "summary": "Bosch muss seine Denkweise grundlegend verändern. Nur wenn der träge Beamtenkonzern sich an die neuen, agileren Wettbewerber anpasst, wird er wieder zu einem führenden Technologieanbieter.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d9bd14178725/w3000h1567x0y202o/202604/434f2df91c-3a5e-11f1-a336-9258afe83df4/flutschaeden-in-schuld-an-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b49ad4d23b4c/w4000h2090x0y418o/202607/43601.0.2333394607/ein-mitarbeiter-beim-betreten.webp"
         },
         {
-          "title": "Ahrflut in NRW: Viel geschafft – und noch viel zu tun",
-          "url": "https://www.faz.net/aktuell/politik/inland/jahrhundertflut-2021-wiederaufbau-in-nrw-noch-nicht-abgeschlossen-accg-201021705.html",
-          "summary": "Gut die Hälfte der von der Jahrhundertflut 2021 betroffenen Kommunen in Nordrhein-Westfalen ist mit dem Wiederaufbau fertig. Andere werden noch Jahre brauchen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ec632eedb804/w4091h2137x409y656o/202107/43600.0.327215996/stolberg-am-19-juli-2021-die.webp"
-        },
-        {
-          "title": "Fünf Jahre nach katastrophe: Die nächste Flut im Ahrtal ist nur eine Frage der Zeit",
-          "url": "https://www.faz.net/aktuell/finanzen/fuenf-jahre-nach-der-ahrtal-flut-ist-deutschland-auf-die-naechste-katastrophe-vorbereitet-accg-200991222.html",
-          "summary": "Vor fünf Jahren wurde das Ahrtal überflutet. Es war die größte Naturkatastrophe in der Geschichte der Bundesrepublik. Hat man daraus gelernt? Ein Ortsbesuch.",
+          "title": "Technik aus Deutschland: Wir schaffen was",
+          "url": "https://www.faz.net/aktuell/technik-motor/technik/technik-aus-deutschland-wie-ingenieure-hierzulande-erstaunliches-leisten-accg-110813376.html",
+          "summary": "Deutschland ist abgehängt? Ingenieure leisten hierzulande weiterhin Erstaunliches. Mit autonomen Maschinen und Anlagen für synthetische Energieträger könnte gar der nächste Boom bevorstehen.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/1e9e66274abe/w4973h2598x0y99o/202607/43601.0.2319876536/mehr-schutz-als-vor-fuenf.webp"
+          "image": "https://media0.faz.net/image/w1200h627/84ad1559a95b/w3000h1567x0y372o/082025/1.10813373/zukunftsmaschinen-aus.webp"
+        },
+        {
+          "title": "Zukunft der Ausbildung: Der lange Abstieg des deutschen Ingenieurs",
+          "url": "https://www.faz.net/aktuell/wirtschaft/warum-deutschland-den-anschluss-bei-zukunftstechnologien-verliert-110494175.html",
+          "summary": "In wichtigen Zukunftstechnologien hat Deutschland den Anschluss verloren. Das liegt an Fehlern in der Ausbildung und der Angst vor neuer Technik. Früher war das mal ganz anders.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/710c59827812/w2147h1121x5y1426o/202505/1.10494173/der-deutsche-stand-auf-der.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "AfD und Wirtschaft: Warum viele in Sachsen-Anhalt erneut den Absturz fürchten",
+          "url": "https://www.spiegel.de/wirtschaft/afd-und-wirtschaft-warum-viele-in-sachsen-anhalt-erneut-den-absturz-fuerchten-a-5a38c3a6-b6d2-42f3-9994-7fceb5321708#ref=rss",
+          "summary": "Nach der Wende haben viele Menschen in Sachsen-Anhalt den wirtschaftlichen Absturz erlebt. Nun herrscht die Sorge, die Geschichte könnte sich wiederholen. Davon profitiert die AfD.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/41ec7d17-c9f8-4dc4-a376-ab933e917311_w1200_r1.778_fpx50_fpy50.jpg"
+        },
+        {
+          "title": "Minijobs: So ließen sie sich am sinnvollsten reformieren",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/minijobs-so-liessen-sie-sich-am-sinnvollsten-reformieren-a-74ab9fa5-3d15-4e60-ba88-f02ea34969f4#ref=rss",
+          "summary": "Die schwarz-rote Koalition ist gefordert: Experten pochen auf das weitgehende Ende der Minijobs – auf die jedoch Millionen Bürger angewiesen sind. Wie eine sinnvolle Reform aussehen könnte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7b77804f-7836-453e-9e15-c38ff62c08bb_w1200_r1.778_fpx36_fpy43.jpg"
+        },
+        {
           "title": "USA unter Donald Trump: Die Liste der ICE-Opfer – sie töten immer wieder",
           "url": "https://www.spiegel.de/ausland/usa-unter-donald-trump-die-liste-der-ice-opfer-sie-toeten-immer-wieder-a-82548b7d-ab0e-4499-89c0-acfe76a0e188#ref=rss",
           "summary": "Schon wieder haben ICE-Beamte einen Menschen erschossen. Es ist der zweite Todesfall in nur sieben Tagen. Donald Trumps Einwanderungspolitik geht buchstäblich über Leichen – und wird nun zum Thema im Kongresswahlkampf.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/f1700e42-b355-45d8-bae3-f7508ea379c4_w1200_r1.778_fpx33.32_fpy49.98.jpg"
-        },
-        {
-          "title": "News: Französischer Nationalfeiertag, Emmanuel Macron, Ahrtal-Gedenken, Rassismus bei der WM",
-          "url": "https://www.spiegel.de/politik/deutschland/news-franzoesischer-nationalfeiertag-emmanuel-macron-ahrtal-gedenken-rassismus-bei-der-wm-a-8c59be37-c8ad-46e3-a925-c33d7c0d373a#ref=rss",
-          "summary": "Der französische Nationalfeiertag soll die Ukraine stärken. Das Gedenken an die Flut im Ahrtal ist eine Warnung vor der Zukunft. Und: Rassismus vor dem Spiel Frankreich gegen Spanien. Das ist die Lage am Dienstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "US-Armee greift erneut Iran an – Emirate melden Attacken auf Öltanker",
-          "url": "https://www.spiegel.de/ausland/us-armee-greift-erneut-iran-an-emirate-melden-attacken-auf-oeltanker-a-1bcfa99b-9d17-4bd6-9fad-0de401f18f9e#ref=rss",
-          "summary": "Donald Trump hat den Kongress offiziell über die Wiederaufnahme des Irankriegs informiert. Die dritte Nacht in Folge attackieren die USA iranische Ziele, Iran beschießt offenbar zwei Tanker.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7644037a-685e-43d6-80f4-8447f0318686_w1200_r1.778_fpx43.33_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Hält sich der DAX über 25.000 Punkten?",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html",
-          "summary": "Die jüngste Entwicklung im Nahost-Konflikt setzt den Aktienmärkten weltweit zu. Die Ankündigung einer neuen Blockade iranischer Häfen durch US-Präsident Trump trieb zudem die Ölpreise in die Höhe.",
+          "title": "Nach schwerem Hagel im Norden: DWD warnt vor weiteren Unwettern",
+          "url": "https://www.tagesschau.de/inland/unwetter-hagel-norddeutschland-aussichten-100.html",
+          "summary": "Nach Unwettern mit teils schwerem Hagelschlag in Norddeutschland warnt der Wetterdienst für heute vor weiteren Unwettern - in praktisch allen Regionen Deutschlands. Auch in den kommenden Tagen bleibt das Wetter turbulent.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b19e9d58-9935-4067-a655-d494e13c64cc/AAABn1pWFaE/AAABnSSvrFg/16x9-big/boerse-522.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fc0c8320-a3b1-4f45-be19-e74a31d950a8/AAABn1-tA6A/AAABnSSvrFg/16x9-big/gewitterwolken-116.jpg?width=1280"
         },
         {
-          "title": "Fünfter Jahrestag der Ahrtal-Flut: Lernen aus der Katastrophe?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/ahrtal-flut-aufarbeitung-100.html",
-          "summary": "Die Flut im Ahrtal legte schwere Mängel im Katastrophenschutz bloß. Pläne für den Ernstfall fehlten ebenso wie Geräte. Wer dafür Verantwortung trug - und was sich seither geändert hat. Von Thomas Schneider.",
+          "title": "Nahrungsergänzungsmittel LaVita erhält Negativpreis",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/negativpreis-goldener-windbeutel-fruchtsaft-100.html",
+          "summary": "Das Nahrungsergänzungsmittel LaVita bekommt von Foodwatch den \"Goldenen Windbeutel\" für die \"dreisteste Werbelüge\" des Jahres. Ein Liter koste umgerechnet 100 Euro - und enthalte hauptsächlich Fruchtsaft.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6da8f72d-b05a-4e66-a91f-544fbd4ea0d5/AAABlfJJOms/AAABnSSvrFg/16x9-big/bruecke-ahrbrueck-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/477eb2ea-3bc4-4b90-8e43-e794633a4ccf/AAABn1_iOTA/AAABnSSvrFg/16x9-big/goldener-windbeutel-118.jpg?width=1280"
         },
         {
-          "title": "Anträge auf Kriegsdienstverweigerung laut Bericht deutlich gestiegen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/kriegsdienstverweigerung-anstieg-100.html",
-          "summary": "Die Zahl der Anträge auf Kriegsdienstverweigerung ist weiter steil angestiegen - und hat im ersten Halbjahr 2026 bereits den Vorjahreswert übertroffen. Ein Grund dafür dürfte das Inkrafttreten des neuen Wehrdienstgesetzes sein.",
+          "title": "Einwanderungsbehörde: Wieder tödliche ICE-Einsätze in den USA",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-ice-einsatz-tote-100.html",
+          "summary": "In Maine ist bei einem Einsatz unter Beteiligung der US-Einwanderungsbehörde ICE ein Mann erschossen worden. Es ist bereits der zweite tödliche Vorfall innerhalb einer Woche. Von N. Barth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e89697e4-8697-455b-80ca-c8eee11f6e74/AAABnW5fiTQ/AAABnSSvrFg/16x9-big/bundeswehr-1016.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4fe3e326-48f1-4b93-8461-69b3c87478ac/AAABn1_B0tY/AAABnSSvrFg/16x9-big/usa-ice-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Neue Heizregeln ab 2029: Gasnetze dennoch am Ende?",
-          "url": "https://www.telepolis.de/article/Neue-Heizregeln-ab-2029-Gasnetze-dennoch-am-Ende-11362318.html",
-          "summary": "Bio-Treppe soll Gasnetze vor dem Wärmepumpenboom retten. Doch Experten warnen Verbraucher vor Fehlinvestitionen. Wird die Hoffnung auf Biogas zum teuren Irrweg?",
+          "title": "Analyse: Warum Trumps Krieg um Hormus zum Bumerang wird",
+          "url": "https://www.telepolis.de/article/Analyse-Warum-Trumps-Krieg-um-Hormus-zum-Bumerang-wird-11363065.html",
+          "summary": "Ölreserven auf Tiefstand, Wahlen in vier Monaten: Das US-iranische Abkommen ist faktisch tot, während Trump wenig zu gewinnen hat. Ein Gastbeitrag.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/6/1/1/gaszaehler-2F-2-3b30a70a7ef36b27.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/9/9/0/shutterstock_2217248205-faaaea4a6802f600.jpg"
         },
         {
-          "title": "Nach WM-Debakel: Kann der designierte DFB-Coach Jürgen Klopp uns retten?",
-          "url": "https://www.telepolis.de/article/Nach-WM-Debakel-Kann-der-designierte-DFB-Coach-Juergen-Klopp-uns-retten-11302634.html",
-          "summary": "Das WM-Aus offenbart tiefe Krisen im deutschen Fußball. Kann der designierte Bundestrainer Jürgen Klopp die dringend nötige DFB-Reform erzwingen?",
+          "title": "Bundeswehr-Ausbau: Wie neue Kasernen den zivilen Wohnungsbau ausbremsen",
+          "url": "https://www.telepolis.de/article/Bundeswehr-Ausbau-Wie-neue-Kasernen-den-zivilen-Wohnungsbau-ausbremsen-11363765.html",
+          "summary": "Kasernen statt Wohnraum? Das Verteidigungsministerium stoppt kommunale Bauprojekte in Speyer und Kiel. Entschädigungen lehnt Pistorius ab.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/8/6/8/0/0/Master_Klopp-6db28449eaee2c29.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/6/3/3/1/Master_Bundeswehr-546a6f8f11832a7f.jpg"
         },
         {
-          "title": "EU stärkt Fluggastrechte ab 2027: Was sich für Passagiere ändert",
-          "url": "https://www.telepolis.de/article/EU-staerkt-Fluggastrechte-ab-2027-Was-sich-fuer-Passagiere-aendert-11363283.html",
-          "summary": "Nach mehr als 13 Jahren hat die EU ihre Fluggastrechtereform beschlossen. Wer vor allem profitiert – und wo manchen Kunden eine Verschlechterung droht.",
+          "title": "Panama-Kanal: Hongkonger Konzern CK Hutchison verklagt den Staat",
+          "url": "https://www.telepolis.de/article/Panama-Kanal-Hongkonger-Konzern-CK-Hutchison-verklagt-den-Staat-11361712.html",
+          "summary": "Chinesische Firmen wehren sich weltweit mit Schiedsklagen, vor allem gegen Sanktionen. Und gerade hat Peking die Karten neu gemischt.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/6/0/8/8/shutterstock_2679397197-c3861e51fe473f8f.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/5/3/0/3/ambient_pix_cropped-809b4433dd944abb.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Weiterer Toter bei Einsatz von ICE",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-paramount-uebernahme-warner-cnn-li.3511620",
-          "summary": "Ein Mann aus Kolumbien soll in Maine laut Berichten in seinem Auto von einem ICE-Beamten erschossen worden sein. Erst vor wenigen Tagen kam bei einer Abschieberazzia ein Mensch in Texas ums Leben.",
+          "title": "Ertrunkene: Der Badesee ist ein schlechter Ort, um seine Kräfte zu messen",
+          "url": "https://www.sueddeutsche.de/meinung/ertrinken-deutschland-maenner-badeseen-fokus-kommentar-li.3514855",
+          "summary": "In diesem Juni kamen so viele Menschen in Deutschland in Gewässern ums Leben wie seit 23 Jahren nicht mehr. Die allermeisten waren Männer. Das hat auch damit zu tun, was als männlich gilt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/14/7f7ee5d1-d5f6-42e8-a330-42bda8a28469.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/14/d1ef88dd-8a53-42d8-a47e-526ebf0cccc3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C126%2C3000%2C1687"
         },
         {
-          "title": "Halbfinale der Fußball-WM: Spanien ist Favorit? Deschamps sagt: „Das bestätige ich!“",
-          "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-halbfinale-frankreich-spanien-yamal-deschamps-fuente-zaire-emery-rajoj-rassismus-li.3514829",
-          "summary": "Die Trainer Didier Deschamps und Luis de la Fuente erwarten ein Spektakel zwischen Frankreich und Spanien. Lamine Yamal und Warren Zaïre-Emery äußern sich zum Rassismus-Eklat um den ehemaligen Ministerpräsidenten Rajoy.",
+          "title": "Fußball-WM 2026: Fast 90 000 Fans rudern bei Norwegens Empfang – Kronprinz Haakon trommelt",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-norwegen-empfang-li.3492650",
+          "summary": "Die norwegischen Fußballer werden mit viel Begeisterung in der Heimat begrüßt und Erling Haaland hat einen Waschbären dabei. Der Spanier Lamine Yamal reagiert auf einen Rassismus-Eklat.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/14/c8445586-7bc5-4648-8604-e98160f896bb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C97%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/14/568d60b8-3119-4b7e-b723-f942f4ebea74.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C285%2C2736%2C1539"
         },
         {
-          "title": "Krieg in der Ukraine: Russland greift Kiew und andere Städte wieder mit Raketen an",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-angriffe-kiew-drohnen-li.3512468",
-          "summary": "Behörden melden Brände in mehreren Stadtteilen Kiews, eine Lagerhalle soll in Flammen stehen. Opfer wurden aus der Hauptstadt zunächst nicht gemeldet, andernorts soll es mehrere Verletzte gegeben haben.",
+          "title": "Flugreisen: Diese drei Neuerungen sind für Passagiere besonders wichtig",
+          "url": "https://www.sueddeutsche.de/reise/flugreisen-eu-recht-passagiere-neuerungen-li.3515053",
+          "summary": "Die EU hat Änderungen bei den Fluggastrechten vorgenommen. Auch der Buchungsprozess ist davon betroffen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/05/23cbb062-58f8-46fb-92fb-8b40f73d939d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/07/13/77d6c11b-c7a8-4cbc-86f6-6bf959c43ef0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
