@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-13T22:00:08.477Z",
-  "timestamp": "14.7.2026, 00:00:08",
+  "generated": "2026-07-14T02:00:09.276Z",
+  "timestamp": "14.7.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -22,9 +22,9 @@
           "image": "https://media0.faz.net/image/w1200h627/abb351e8dfe1/w2730h1426x0y905o/202607/43601.0.2317126240/die-geplanten-steuer-und.webp"
         },
         {
-          "title": "Liveblog Irankrieg: US-Militär greift dritte Nacht infolge Iran an",
+          "title": "Liveblog Irankrieg: Explosionen in Iran nach Beginn weiterer US-Angriffswelle",
           "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-militaer-greift-iran-dritte-nacht-infolge-an-faz-200583539.html",
-          "summary": "Das teilte das zuständige Regionalkommando des US-Militärs mit +++ Trump kündigt Wiedereinführung einer Seeblockade gegen Iran an +++ Iran sieht sich bei US-Verstößen nicht mehr an Rahmenabkommen gebunden +++ alle Entwicklungen im Liveblog",
+          "summary": "US-Militär greift dritte Nacht in Folge an +++ Trump kündigt Wiedereinführung einer Seeblockade gegen Iran an +++ Iran sieht sich bei US-Verstößen nicht mehr an Rahmenabkommen gebunden +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/51a7b10e28b5/w2560h1337x0y51o/202607/43601.0.2329674886/in-einem-von-centcom-geteilten.webp"
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Straße von Hormus: Dritte Nacht in Folge US-Angriffe auf Iran",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-hormus-100.html",
+          "summary": "Der Konflikt zwischen den USA und Iran um die Straße von Hormus eskaliert weiter. Die Vereinigten Arabischen Emirate melden Angriffe Irans auf Öltanker, bei denen es einen Toten geben soll.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/6d3e2280-2b86-4672-bb99-c55574730bba/AAABn1dxP_8/AAABnSSvrFg/16x9-big/strasse-von-hormus-170.jpg?width=1280"
+        },
+        {
           "title": "US-Bundesstaaten wollen Warner-Übernahme durch Paramount stoppen",
           "url": "https://www.tagesschau.de/ausland/amerika/klage-warner-paramount-uebernahme-100.html",
           "summary": "Die Übernahme von Warner Bros. durch Paramount ist ein Mega-Geschäft, das nicht nur Hollywood umkrempeln könnte. Die US-Regierung winkte den Deal durch - doch mehrere Bundesstaaten wollen ihn kippen und ziehen vor Gericht.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/93eceb0c-0e7f-4acb-a8c2-f1571d54776c/AAABn1zM7eg/AAABnSSvrFg/16x9-big/rbb-467865784-100.jpg?width=1280"
-        },
-        {
-          "title": "7.000 Hektar verbrannt und 13 Tote bei Waldbrand in Spanien",
-          "url": "https://www.tagesschau.de/ausland/europa/spanien-andalusien-feuer-100.html",
-          "summary": "Nach dem schweren Waldbrand in Andalusien ist die Ausbreitung des Feuers bei Almería gestoppt. Erste Anwohner kehren zurück in ihre Häuser. Regierungschef Sánchez verspricht bei seinem Besuch in der Region Mittel für den Wiederaufbau.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/8abb51c3-ea47-469a-88db-ea5d9e55ea82/AAABn1zXJ6Y/AAABnSSvrFg/16x9-big/almeria-feuer-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: USA greifen erneut Iran an",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-angriffe-strasse-von-hormus-li.3513707",
+          "summary": "Es ist die dritte Nacht in Folge: Das US-Militär will nach eigenen Angaben mit den Angriffen unschuldige Zivilisten und die Handelsschifffahrt schützen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/13/71403fec-2b06-46fa-8062-e9a4120c262d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
+          "title": "USA: Lindsey Grahams Schwester ersetzt den verstorbenen Senator",
+          "url": "https://www.sueddeutsche.de/politik/usa-darline-graham-nordone-lindsey-graham-south-carolina-republikaner-senatoren-li.3515182",
+          "summary": "Darline Graham Nordone übernimmt den Sitz ihres verstorbenen Bruders bis zum Ende der Amtszeit. Das ist ganz im Sinne von Donald Trump: Eine rasche Übergangslösung verhindert, dass seine Vorhaben gefährdet sind.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/13/fb7911ae-e16f-4e95-a35b-004a9d7131f0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "USA: US-Richterin kippt Trumps umstrittenen Vergleich mit Steuerbehörde IRS",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-paramount-uebernahme-warner-cnn-li.3511620",
           "summary": "Damit ist der Schutz des US-Präsidenten vor zukünftigen Steuerprüfungen hinfällig. Die Richterin in Miami blockiert auch den 1,8 Milliarden Dollar schweren staatlichen Fonds für angebliche politische Opfer der Justiz.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/13/efda1827-6303-46f1-ad67-e7e655973145.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
-        },
-        {
-          "title": "Krieg in der Ukraine: Neuer Raketenabwehr-Bund mit Deutschland, Ukraine und Frankreich",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-raketenabwehr-koalition-deutschland-frankreich-grossbritannien-li.3512468",
-          "summary": "Auch Großbritannien und sechs weitere europäische Staaten sind dabei. Die gemeinsame Raketenabwehr soll die bestehende der Länder ergänzen, soll abfangen und abschrecken.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/13/768250ed-dc04-4a1a-b4f6-ba0ba024983a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C563%2C4000%2C2250"
-        },
-        {
-          "title": "Serie: Wacht auf, Verdammte dieser Herde!",
-          "url": "https://www.sueddeutsche.de/medien/serie-sheep-zdf-kritik-li.3509849",
-          "summary": "In der österreichischen Miniserie „Sheep“ wird einem Schaf klar, dass es nur lebt, um geschlachtet zu werden. Es beschließt, sich zu wehren. Daraus wird eine hübsche Satire auf die Heldenerzählungen Hollywoods.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/13/92f032a1-288f-4423-bdba-c0b2cfc54fa9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=211%2C0%2C3556%2C2000"
         }
       ]
     }
