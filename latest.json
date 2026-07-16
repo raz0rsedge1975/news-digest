@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-16T06:00:09.819Z",
-  "timestamp": "16.7.2026, 08:00:09",
+  "generated": "2026-07-16T10:00:10.361Z",
+  "timestamp": "16.7.2026, 12:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Argentinien im WM-Finale: Die argentinische Urgewalt",
+          "title": "England verpasst WM-Finale: Tuchels Verantwortung",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/england-verliert-bei-fussball-wm-2026-halbfinale-gegen-argentinien-tuchels-verantwortung-201035424.html",
+          "summary": "Das Warten der Engländer auf die erste WM-Finalteilnahme seit 1966 geht weiter. Daran hat auch Thomas Tuchel einen Anteil. Nennenswerte Fortschritte blieben unter seiner Führung aus.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/90e918fa6ec4/w4959h2591x0y712o/202607/43601.0.2339389336/four-more-years-of-hurt-auch.webp"
+        },
+        {
+          "title": "Liveblog Fußball-WM 2026: „Absolut unbegreiflich“: Scharfe Kritik an Tuchel",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-lineker-rooney-und-owen-kritisieren-thomas-tuchel-scharf-faz-200749933.html",
+          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/5050f8c26c33/w2004h1047x0y98o/202607/43601.0.2340054418/in-der-kritik-thomas-tuchel.webp"
+        },
+        {
+          "title": "Halbfinalsieg gegen England: Die argentinische Urgewalt",
           "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-scalonis-drei-gruende-fuer-argentiniens-sieg-gegen-england-accg-201034915.html",
           "summary": "Lange sieht es im Halbfinale so aus, als würde England erstmals seit 1966 ins WM-Endspiel einziehen. Was dann passiert, hat etwas mit einer besonderen Fähigkeit und dem besonderen Messi zu tun. Aber können sie das noch einmal spielen?",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/f2dca888bc49/w4285h2238x0y165o/202607/43601.0.2340276058/seine-stunde-sein-triumph.webp"
-        },
-        {
-          "title": "Liveblog Fußball-WM 2026: Argentinische Spieler feiern Sieg gegen England mit Falkland-Banner",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-argentinische-spieler-sieg-gegen-england-mit-falkland-banner-faz-200749933.html",
-          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8bcc25c041c2/w5598h2924x0y479o/202607/43601.0.2339982148/argentiniens-lisandro-mart-nez.webp"
-        },
-        {
-          "title": "Pressestimmen zum Halbfinale: „Tuchels Wechsel gehen nach hinten los“",
-          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-pressestimmen-zu-englands-niederlage-gegen-argentinien-201034621.html",
-          "summary": "Nach dem WM-Halbfinale wird Argentinien für seine abermalige Aufholjagd gefeiert. Die Engländer geben Trainer Tuchel die Schuld an der Niederlage. Die Pressestimmen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/658bc248c6b8/w2300h1201x0y156o/202607/43601.0.2339651377/wird-von-der-englischen-presse.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "WM 2026: Deshalb ist Thomas Tuchel nach dem Halbfinal-Aus in der Kritik",
+          "url": "https://www.spiegel.de/sport/fussball/thomas-tuchel-in-england-werfen-sie-dem-nationaltrainer-jetzt-pure-feigheit-vor-was-hat-er-sich-bei-seinen-wechseln-gedacht-a-4f5ecaf5-4949-4911-8087-dafe46032eba#ref=rss",
+          "summary": "Die beiden Teams waren lange ebenbürtig, dann ging England gegen Argentinien in Führung – und brach völlig ein. Nun wird hitzig über Trainer Tuchel debattiert. Und über eine Entscheidung in der Trinkpause.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/809e5886-8bac-48e3-8869-cdd5df72b08c_w1200_r1.778_fpx35.34_fpy45.jpg"
+        },
+        {
+          "title": "Instagram-Funktion von Muse Image einkassiert: Mark Zuckerberg und die KI-Blamage",
+          "url": "https://www.spiegel.de/netzwelt/instagram-funktion-von-muse-image-einkassiert-mark-zuckerberg-und-die-ki-blamage-a-49d26008-4044-4f6d-9ef4-99b65fbb48bc#ref=rss",
+          "summary": "Meta muss eine neue KI-Funktion nach scharfer Kritik wieder zurückziehen. Das offenbart eine Schwachstelle der KI-Branche: Sie verbrennt Milliarden – und schafft es kaum, das Vertrauen der Nutzer zu gewinnen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/1d7e5483-8906-4bb1-9af7-7da004f4f9a3_w1200_r1.778_fpx30_fpy46.96.jpg"
+        },
+        {
           "title": "Deindustrialisierung: Was der schleichende Rückzug von BASF für Ludwigshafen bedeutet",
           "url": "https://www.spiegel.de/wirtschaft/deindustrialisierung-was-der-schleichende-rueckzug-von-basf-fuer-ludwigshafen-bedeutet-a-622e42ae-6104-4edd-b753-b0a5ad7e19ea#ref=rss",
           "summary": "Der größte zusammenhängende Chemiestandort der Welt macht seit Jahren Verluste, BASF investiert neuerdings mehr in China als am Stammsitz. Die Stadt wird zum Inbegriff der deutschen Deindustrialisierung.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c9d951e7-e138-407b-b6ea-fb76259dbe07_w1200_r1.778_fpx51_fpy45.jpg"
-        },
-        {
-          "title": "WM-Liveblog am Donnerstag: Thomas Tuchel bereut »absolut nichts« und will weitermachen – trotz Kritik",
-          "url": "https://www.spiegel.de/sport/fussball/wm-liveblog-am-donnerstag-thomas-tuchel-bereut-absolut-nichts-und-will-weitermachen-trotz-kritik-a-ad497264-97b8-475c-b83f-1762cf71f16c#ref=rss",
-          "summary": "Fans, Medien und Experten geben Thomas Tuchel die Hauptschuld am WM-Aus. Der deutsche Trainer blickt derweil auf die EM 2028. Und: In New York herrscht vorm Finale Rauch-Alarm.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/aa45fd39-6025-4769-b276-8506236cbc36_w1200_r1.778_fpx30.37_fpy55.jpg"
-        },
-        {
-          "title": "News: Argentinien im WM-Finale, Chemie-Standort Ludwigshafen, Präsidentschaftskandidatin Ilse Aigner",
-          "url": "https://www.spiegel.de/politik/deutschland/news-argentinien-im-wm-finale-chemie-standort-ludwigshafen-praesidentschaftskandidatin-ilse-aigner-a-492da042-8e59-4d5c-b80a-7efee1f03a1e#ref=rss",
-          "summary": "Argentinien zieht ins WM-Finale ein. In Ludwigshafen zeigt sich die deutsche Krise. Und Markus Söder will sich einer Konkurrentin entledigen. Das ist die Lage am Donnerstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Vance räumt Fehler bei Veröffentlichung von Epstein-Akten ein",
-          "url": "https://www.tagesschau.de/ausland/amerika/vance-raeumt-fehler-bei-kommunikation-ein-epstein-100.html",
-          "summary": "Die Epstein-Akten und ihre Veröffentlichung sorgten für großen Druck auf die US-Regierung. Vizepräsident Vance kritisiert nun, wie seine Regierung das handhabte - und benennt eine aus seiner Sicht Verantwortliche.",
+          "title": "Deutsch-Französischer Ministerrat: Schadensbegrenzung nach FCAS-Bruchlandung",
+          "url": "https://www.tagesschau.de/inland/ministerrat-macron-merz-facs-100.html",
+          "summary": "Das FCAS-Kampfjetprojekt ist gescheitert - wie geht es jetzt weiter mit den deutsch-französischen Beziehungen? Beim Ministerrat in Brühl sprechen Kanzler Merz und Präsident Macron nicht nur über sicherheitspolitische Fragen. Von Cai Rienäcker.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/040cbf73-f5bf-415c-8617-0de72d3082d2/AAABn2jqFWQ/AAABnSSvrFg/16x9-big/vance-182.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e256cbb2-72a5-4374-9896-a97e5981515c/AAABn2osR7Q/AAABnSSvrFg/16x9-big/macron-merz-110.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Nervosität vor TSMC-Zahlen",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-berichtssaison-100.html",
-          "summary": "Die Berichtssaison ist in vollem Gange, zahlreiche Unternehmen öffnen ihre Bücher. Doch nicht immer sorgt das für Euphorie - gerade in der Chipbranche sind die Erwartungen extrem hoch.",
+          "title": "US-Wirtschaft läuft robust - noch",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/us-banken-bilanzen-konjunktur-100.html",
+          "summary": "In den USA hat die Berichtssaison begonnen. Ein Blick in die Bankbilanzen verrät viel über den Zustand der US-Wirtschaft. Die läuft robust - aber wie lange noch?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e7f7bdbf-5688-4b9f-a01e-fb904fb7aa53/AAABmnbh-9Q/AAABnSSvrFg/16x9-big/boerse-458.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e340fc23-94ec-433e-b53c-94fdb8e91239/AAABn2lxGn0/AAABnSSvrFg/16x9-big/skyline-new-york-109.jpg?width=1280"
         },
         {
-          "title": "Wie Straßen hitzefest werden können",
-          "url": "https://www.tagesschau.de/wissen/klima/hitze-infrastruktur-strassen-100.html",
-          "summary": "Die extremen Temperaturen Ende Juni haben vielen Straßen stark zugesetzt. Dabei gäbe es Asphalt, der solchen Belastungen standhält. Er kommt jedoch kaum zum Einsatz - nicht nur wegen höherer Kosten. Von Jan Kerckhoff.",
+          "title": "Waldbrände in Kanada: Toronto hat derzeit schlechteste Luftqualität weltweit",
+          "url": "https://www.tagesschau.de/ausland/amerika/toronto-luftqualitaet-waldbraende-100.html",
+          "summary": "Wegen heftiger Waldbrände in Kanada hat die Metropole Toronto die weltweit schlechteste Luftqualität verzeichnet. Rauchschwaden zogen bis nach New York. Hinzu kommt die Hitze. Hat das Auswirkungen auf das WM-Finale?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6e122850-addd-47d0-8c0e-7b2a919e9943/AAABn2EJHrQ/AAABnSSvrFg/16x9-big/strassenschaeden-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bb2df19a-022d-47c9-b875-bce21ac4da0d/AAABn2oQFgY/AAABnSSvrFg/16x9-big/toronto-158.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Weltraumspiegel: FCC erlaubt umstrittenen Satellitentest",
-          "url": "https://www.telepolis.de/article/Weltraumspiegel-FCC-erlaubt-umstrittenen-Satellitentest-11365609.html",
-          "summary": "Sonnenlicht als Dienstleistung: Ein US-Startup plant dafür einen Weltraumspiegel ins All zu senden. Was wie aus einem James-Bond-Film klingt, wird nun Realität.",
+          "title": "Nahost: Kontroverse um prominente Palästinenser in israelischen Gefängnissen",
+          "url": "https://www.telepolis.de/article/Nahost-Kontroverse-um-prominente-Palaestinenser-in-israelischen-Gefaengnissen-11364251.html",
+          "summary": "Denkt man in Israel, den USA, der EU und in Berlin wirklich, dass das Straf- und Vollzugsrecht geeignet sind, um die Nahostfrage zu managen? Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/7/2/6/5/spacemirror-951f7f8713088316.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/6/5/7/8/mytaj-434c970693c0cf1f.jpg"
         },
         {
-          "title": "Milliarden-Beben bei SpaceX: Neue Anleihen rutschen tief ins Junk-Risiko ab",
-          "url": "https://www.telepolis.de/article/Milliarden-Beben-bei-SpaceX-Neue-Anleihen-rutschen-tief-ins-Junk-Risiko-ab-11366474.html",
-          "summary": "Einer der größten Börsengänge aller Zeiten wackelt. Analysten von Mahoney Asset Management warnen: Die SpaceX-Krise am Fremdkapitalmarkt hat erst begonnen.",
+          "title": "Iran: Auf dem Weg zum All-In?",
+          "url": "https://www.telepolis.de/article/Iran-Auf-dem-Weg-zum-All-In-11366814.html",
+          "summary": "Trump droht mit Infrastruktur-Angriffen, während die Huthi in den Krieg einsteigen könnten. Hält die Welt gerade den Atem vor dem großen Knall? Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/7/7/0/7/shutterstock_2786248627-9f5f9590b4d0530a.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/7/8/7/9/shutterstock_2747469351-c1107d33303bffc7.jpg"
         },
         {
-          "title": "Longevity: Enzym dreht molekulare Alterung in menschlichem Gewebe zurück",
-          "url": "https://www.telepolis.de/article/Longevity-Enzym-dreht-molekulare-Alterung-in-menschlichem-Gewebe-zurueck-11366236.html",
-          "summary": "Revel Pharmaceuticals kehrt mit CMLase jahrzehntealte Proteinschäden im Labor um – Hautgewebe verjüngt sich messbar.",
+          "title": "Patriot gegen Iskander: Wie gut schützt das US-System die Ukraine?",
+          "url": "https://www.telepolis.de/article/Patriot-gegen-Iskander-Wie-gut-schuetzt-das-US-System-die-Ukraine-11366764.html",
+          "summary": "Unabhängige Analysen zeigen: Gegen Drohnen arbeitet Patriot sehr erfolgreich – bei ballistischen Raketen wird die Bilanz deutlich komplizierter.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/7/5/8/6/shutterstock_1089656636-3d269f13721ebc25.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/7/8/5/4/Master_Patriot-f70e6cc70b72802e.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Selenskij baut Regierung um - Verteidigungsminister muss wohl gehen",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-serhij-korezkij-li.3512468",
-          "summary": "Der ukrainische Präsident will den Chef eines Energiekonzerns als neuen Ministerpräsidenten.  Der bisherige Verteidigungsminister soll im Clinch mit dem Armeechef gelegen haben.",
+          "title": "Englands WM-Aus: Ein Kollaps von fußballhistorischer Dimension",
+          "url": "https://www.sueddeutsche.de/sport/fussball-wm-2026-halbfinale-argentinien-england-tuchel-kane-li.3516796",
+          "summary": "England diskutiert nach dem 1:2 gegen Argentinien über den rätselhaften Einbruch nach dem Führungstor – und über Nationaltrainer Thomas Tuchel. Doch der will bis zur Heim-EM in zwei Jahren weitermachen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/16/bcbd6a2f-db36-4ef6-8bdd-179f085a90d8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/16/71b34245-cb34-49f3-8f2c-9bd919762fcb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C28%2C4000%2C2250"
         },
         {
-          "title": "TV-Kritik zur WM: Gegner zu defensiv: ARD gewinnt Halbfinale",
-          "url": "https://www.sueddeutsche.de/medien/fussball-wm-ard-magenta-tv-schweinsteiger-hummels-li.3516552",
-          "summary": "Das Halbfinale zwischen England und Argentinien ist auch das Endspiel zwischen ARD und Magenta TV. Trotz der Rolle des Underdogs gewinnt der Öffentlich-Rechtliche dabei gegen die müde-gespielte Konkurrenz.",
+          "title": "Fußball-WM 2026: Argentinien feiert Sieg mit Transparent zum Falklandkrieg - London fordert Untersuchung",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-argentinien-england-bellingham-falkland-krieg-li.3492650",
+          "summary": "Nach dem Sieg gegen England zeigen argentinische Spieler ein Banner, auf dem die britischen Falklandinseln als zu Argentinien zugehörig bezeichnet werden. Bellingham sorgt mit einem leichten Schlag für Aufsehen – beides könnte ein Nachspiel haben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/16/9aabadd7-e2d7-4a90-9c2b-20b6b9de7a60.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/15/c68ed7ac-e743-4791-9ce7-3329ff57c5a8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C297%2C4000%2C2250"
         },
         {
-          "title": "Krieg in Nahost: US-Militär greift Tanker mit Ziel iranischer Hafen an",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-trump-drohung-angriffe-kraftwerke-li.3513707",
-          "summary": "Der unbeladene Öltanker habe Warnungen ignoriert, so das zuständige US-Regionalkommando. Man habe das Schiff, das unter der Flagge Curaçaos fährt, anschließend manövrierunfähig gemacht.",
+          "title": "Kabarettist Uwe Steimle: Er hält ein Attentat auf Merz für witzig",
+          "url": "https://www.sueddeutsche.de/medien/uwe-steimle-kabarett-dresden-afd-merkel-merz-attentat-witz-ermittlungen-li.3516647",
+          "summary": "Drastische Bemerkungen gegen den Kanzler und seine Vorvorgängerin mit womöglich strafrechtlichen Folgen – das passt zur Strategie des AfD-nahen Künstlers.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/07/d167423b-d256-4f4a-89da-a2ca0865527e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/07/16/e4430bfb-d339-4926-879e-c90739d9e058.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C174%2C4000%2C2250"
         }
       ]
     }
