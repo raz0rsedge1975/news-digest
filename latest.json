@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T22:00:09.061Z",
-  "timestamp": "17.7.2026, 00:00:09",
+  "generated": "2026-07-17T02:00:09.093Z",
+  "timestamp": "17.7.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Maren Kroymann über Diskriminierung, übergriffige Kollegen und eigene verfehlte Gags",
-          "url": "https://www.spiegel.de/kultur/maren-kroymann-ueber-diskriminierung-uebergriffige-kollegen-und-eigene-verfehlte-gags-a-d265ff6c-0699-4dc5-a249-81d05c338dc8#ref=rss",
-          "summary": "Entertainerinnen wurden im deutschen Unterhaltungsfernsehen jahrzehntelang diskriminiert. Hier spricht die 76-jährige Comedy-Ikone Maren Kroymann über übergriffige Kollegen. Und eigene verfehlte Gags.",
+          "title": "Trump wirft China Manipulation der Präsidentschaftswahl 2020 vor",
+          "url": "https://www.spiegel.de/ausland/trump-wirft-china-manipulation-der-praesidentschaftswahl-2020-vor-a-bbba367d-d5ac-4d53-ad09-73cb499f34b8#ref=rss",
+          "summary": "In seiner Rede an die Nation lobt Donald Trump sich erst selbst und spricht dann über eine angebliche Manipulation der Präsidentschaftswahlen 2020 durch China. Er erhebt schwere Vorwürfe gegen die CIA und den »Deep State«.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e856f983-b7ac-4a85-a47a-ff0bcbec7f70_w1200_r1.778_fpx48_fpy22.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1203a5c9-fad6-4d24-b4c2-7a7cd33d97ef_w1200_r1.778_fpx36.27_fpy49.99.jpg"
         },
         {
           "title": "Leihmutterschaft: Jens Spahns Kehrtwende und die Debatte um die Rechtslage",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Iranische Medien: USA greifen Brücken und Flughafen an",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html",
+          "summary": "Die USA haben in der sechsten Nacht in Folge Ziele in Iran angegriffen. Beim Beschuss von Brücken wurden iranischen Medien zufolge sieben Menschen getötet. Iran antwortete mit Schlägen gegen die Golfstaaten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/85e75c9a-a1ed-4683-9c4d-6e2514a81630/AAABn1iE0OI/AAABnSSvrFg/16x9-big/usa-iran-176.jpg?width=1280"
+        },
+        {
+          "title": "Warken rechnet mit 650 Millionen Euro Einnahmen aus Zuckersteuer",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-warken-100.html",
+          "summary": "Die Bundesregierung rechnet durch die geplante Zuckersteuer mit Einnahmen von 650 Millionen Euro im kommenden Jahr, so Gesundheitsministerin Warken. Zugute kommen soll das den gesetzlichen Krankenkassen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1280"
+        },
+        {
           "title": "AfD-Spitze fordert Ende von NRW-Landesparteitag",
           "url": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-106.html",
           "summary": "Bei der AfD in Nordrhein-Westfalen eskaliert ein Streit über die Kandidatenaufstellung für die Landtagswahl im kommenden Jahr. Die Bundesvorsitzenden Chrupalla und Weidel fordern den Landesvorstand nun auf, die Aufstellung abzubrechen. Von Gabor Halasz.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/20c7055a-20ad-4c8c-82da-d75cf2177b63/AAABn2xcQg4/AAABnSSvrFg/16x9-big/weidel-chrupalla-144.jpg?width=1280"
-        },
-        {
-          "title": "Wieder fremdenfeindliche Proteste in Südafrika - aus dem Ausland gesteuert? -",
-          "url": "https://www.tagesschau.de/ausland/afrika/suedafrika-fremdenfeindliche-proteste-100.html",
-          "summary": "In Südafrika gibt es wieder fremdenfeindliche Proteste. Die Organisatoren kündigen wöchentliche Demonstrationen bis November an. Die Regierung glaubt, dass die Gruppen auch aus dem Ausland finanziert werden. Von Stephan Ueberbach.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/14aac5d5-179c-40ac-969b-91c645628a67/AAABn2wSnSQ/AAABnSSvrFg/16x9-big/demonstranten-alexandra-100.jpg?width=1280"
-        },
-        {
-          "title": "Social Media: Flickenteppich bei der Alterskontrolle in der EU?",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-social-media-alterskontrolle-100.html",
-          "summary": "Social Media ab 13, 15 oder 16 Jahren? Experten sagen: Unter 13 sollten TikTok und Co. nicht alleine genutzt werden. Daraus soll jetzt ein EU-Gesetz werden. Doch nicht alle Länder wollen diese Altersgrenze - droht ein Wildwuchs?",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/58d3819f-1dce-4223-a646-c543b4981ece/AAABn2n80H4/AAABnSSvrFg/16x9-big/smartphone-jugendliche-104.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "AfD Nordrhein-Westfalen: Wie die AfD-Spitze versucht einen Machtkampf zu schlichten",
+          "url": "https://www.sueddeutsche.de/politik/afd-nrw-machtkampf-bundesvorstand-neuaufstellung-landesliste-li.3517306",
+          "summary": "Am vergangenen Wochenende  wollte die AfD in Nordrhein-Westfalen ihre Bewerber für die Landtagswahl bestimmen – doch es kam zur Eskalation. Die Parteispitze drängt nun darauf, neu zu wählen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/02/d20a346d-3605-4157-9ac0-0a275ad2e0ab.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
           "title": "USA: USA schränken Aufenthaltszeit für Studierende und Medien ein",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-studierende-medien-verschaerfung-aufenthaltgenehmigung-greencard-li.3511620",
           "summary": "Für Austauschstudierende setzt die Trump-Regierung die Aufenthaltsgenehmigung auf vier Jahre fest. Für Journalisten gilt eine Begrenzung auf 240 Tage.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/16/0055be8d-a314-49d5-ba04-f02f4a3760f3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C375%2C4000%2C2250"
-        },
-        {
-          "title": "SZ-Podcast „Deutsch-Amerikanische Freundschaft\": „Ein Präsident, knapp hinter Gott“",
-          "url": "https://www.sueddeutsche.de/politik/sz-podcast-deutsch-amerikanische-freundschaft-ein-praesident-knapp-hinter-gott-li.3516605",
-          "summary": "Spätestens seit der Fußball-WM ist Washington überzeugt: Die ganze Welt liebt die USA! Über den Wahrheitsgehalt dieser „Love Affair“ und politische Wendehälse: Die neue Folge des Podcasts zwischen Berlin und New York.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/15/4f5b9fe3-a7bd-4d71-8c76-0bb0432122ac.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2398%2C1349"
         }
       ]
     }
