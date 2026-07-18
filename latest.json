@@ -1,18 +1,10 @@
 {
-  "generated": "2026-07-18T18:00:20.098Z",
-  "timestamp": "18.7.2026, 20:00:20",
+  "generated": "2026-07-18T22:00:17.400Z",
+  "timestamp": "19.7.2026, 00:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
-        {
-          "title": "Rücktritt Spahns: „Lichterloh hat es gebrannt in der Partei“",
-          "url": "https://www.faz.net/aktuell/politik/inland/wie-merz-spahn-den-ruecktritt-nahelegt-accg-201043048.html",
-          "summary": "Immer größer wurde die Kritik an Jens Spahn, dann kam der entscheidende Anruf des Bundeskanzlers. Wie kam es zum Rücktritt des Unionsfraktionschefs?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0ac6b9f19e91/w3000h1567x0y137o/202512/43601.0.1591494240/friedrich-merz-cdu-und-jens.webp"
-        },
         {
           "title": "Rücktritt Spahns: Das Ende einer Selbstherrlichkeit",
           "url": "https://www.faz.net/aktuell/politik/inland/ruecktritt-spahns-das-ende-einer-selbstherrlichkeit-201043050.html",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/a90eb31a766f/w5760h3009x0y530o/202607/43601.0.2347681967/files-german-chancellor-jens.webp"
+        },
+        {
+          "title": "Rücktritt Spahns: „Lichterloh hat es gebrannt in der Partei“",
+          "url": "https://www.faz.net/aktuell/politik/inland/wie-merz-spahn-den-ruecktritt-nahelegt-accg-201043048.html",
+          "summary": "Immer größer wurde die Kritik an Jens Spahn, dann kam der entscheidende Anruf des Bundeskanzlers. Wie kam es zum Rücktritt des Unionsfraktionschefs?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0ac6b9f19e91/w3000h1567x0y137o/202512/43601.0.1591494240/friedrich-merz-cdu-und-jens.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Fußball-WM 2026 im Liveticker: England vs. Frankreich im Duell um Platz drei",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-vs-frankreich-im-duell-um-platz-drei-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss",
+          "summary": "Was ist da los in Miami? England führt gegen Frankreich schon zur Pause 4:0. Ist Thomas Tuchel doch ein Genie? Oder hätte er einfach Mittwoch genau so spielen lassen sollen? Verfolgen Sie das Match im Live-Kommentar.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/eef74b16-297a-4df4-a54e-b817c594db45_w1200_r1.778_fpx45.32_fpy49.97.jpg"
+        },
+        {
           "title": "Jens Spahn: Der CDU-Politiker ist das Opfer seiner Hybris",
           "url": "https://www.spiegel.de/politik/jens-spahn-der-cdu-politiker-ist-das-opfer-seiner-hybris-a-042125fd-7c3a-46d4-9622-e426c6454fdc#ref=rss",
           "summary": "Gut, dass Jens Spahn so schnell vom Fraktionsvorsitz der Union zurückgetreten ist. Das ist auch das Verdienst des Kanzlers. Aber Friedrich Merz hat jetzt ein anderes, womöglich größeres Problem.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/6b5dbfaf-b722-4a34-aa6b-c7d3946a4d74_w1200_r1.778_fpx42.67_fpy50.jpg"
-        },
-        {
-          "title": "Badeunfälle: Wenn Eltern aufs Handy schauen und Retter Leben retten",
-          "url": "https://www.spiegel.de/panorama/badeunfaelle-wenn-eltern-aufs-handy-schauen-und-retter-leben-retten-a-55b32713-2f5b-4d8f-9dd0-1e829b98f990#ref=rss",
-          "summary": "Im Juni sind in Deutschland so viele Menschen beim Baden ertrunken wie seit 23 Jahren nicht mehr. Ein Juli-Sonntag mit Ehrenamtlichen der DLRG, die Vermisste suchen, Pflaster kleben, Leben retten.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6b2e578b-003d-4b6e-8df9-db146e0738b9_w1200_r1.778_fpx47_fpy39.jpg"
         },
         {
           "title": "Nord Stream: Gericht in London entscheidet über Schadenersatz nach Anschlag",
@@ -64,63 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Politikwissenschaftler zu Spahn: \"Spahn hat das Thema unterschätzt\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/interview-oliver-lembcke-100.html",
-          "summary": "Wie bedeutet der Rücktritt von Jens Spahn für die CDU? Politikwissenschaftler Oliver Lembcke im tagesschau24-Interview über die Gründe für die Entscheidung - und welche Nachwirkungen dies für die Partei haben könnte.",
+          "title": "Norwegische Inselgruppe: Lofoten erheben Abgabe gegen \"Overtourism\"",
+          "url": "https://www.tagesschau.de/ausland/europa/tourismusabgabe-norwegen-100.html",
+          "summary": "Überfüllte Parkplätze, Wohnmobile auf Äckern, Müll am Straßenrand: Die Lofoten ächzen seit Jahren unter zu vielen Touristen. Eine Tourismusabgabe soll Abhilfe schaffen - doch nicht alle halten die Gebühr für zielführend. Von Arne Bartram.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f9128aa8-fca1-42ad-92d5-42cd313326ff/AAABn3ZFe98/AAABnSSvrFg/16x9-big/sendungsbild-1766698.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/aa8ca055-0a09-441b-9896-e935be09d82c/AAABn2-mD4M/AAABnSSvrFg/16x9-big/lofoten-108.jpg?width=1280"
         },
         {
-          "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
-          "url": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html",
-          "summary": "Eigentlich hatten sich die USA und Iran Mitte Juni darauf verständigt, ihren Konflikt mit Verhandlungen lösen zu wollen und die Kriegshandlungen einzustellen. Nach der jüngsten Eskalation schwindet die Hoffnung auf Diplomatie.",
+          "title": "Debatte über Leihmutterschaft: Was der Spahn-Rücktritt für die CDU bedeutet",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-108.html",
+          "summary": "Der Druck wegen der Debatte um eine Leihmutterschaft wurde zu stark - Spahn ist zurückgetreten. Davor gab es massive Kritik aus dem eigenen Lager und Sorgen um den Wahlkampf. Was bedeutet das für die CDU, die Landtagswahlen und die Koalition? Eine Analyse von K.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/493c7b42-7c74-4d2d-b859-5d8b9b6e8f09/AAABn3YVDOs/AAABnSSvrFg/16x9-big/iran-1254.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/27c95f17-a502-42fe-be3d-b489d0062d67/AAABn3Zi9sc/AAABnSSvrFg/16x9-big/jens-spahn-242.jpg?width=1280"
         },
         {
-          "title": "Mehrere potenzielle Kandidaten für den Vorsitz der Unionsfraktion",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolger-unionsfraktion-100.html",
-          "summary": "Der Chefposten in der Unionsfraktion muss neu besetzt werden. Kanzler Merz will offenbar keine Zeit verlieren - und die Personalie Medienberichten zufolge noch vor Beginn der Urlaubszeit klären. Es gibt mehrere potenzielle Kandidaten.",
+          "title": "Künstliche Intelligenz: Verdrängen KI-Bands echte Musiker?",
+          "url": "https://www.tagesschau.de/kultur/kuenstliche-intelligenz-musik-bands-100.html",
+          "summary": "KI-generierte Songs fluten die Streamingdienste. Immer häufiger stehen dahinter auch durch Künstliche Intelligenz erzeugte Bands, mit eigener Biografie und Avataren. Das Ende der Kreativität - oder eine Chance? Von Tobias Dirr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c719ccdf-4c2e-4d89-8cc7-51bde98c7346/AAABn3WyiBE/AAABnSSvrFg/16x9-big/cdu-csu-fraktion-102.jpg?width=1280"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Russlands Diesel-Krise: Warum Tanken dadurch in Deutschland immer teurer wird",
-          "url": "https://www.telepolis.de/article/Russlands-Diesel-Krise-Warum-Tanken-dadurch-in-Deutschland-immer-teurer-wird-11369830.html",
-          "summary": "Russland stoppt alle Diesel-Exporte, fast 60 Prozent der Raffineriekapazität stehen still. Auch an deutschen Zapfsäulen klettert dadurch der Preis.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/4/0/2/shutterstock_2070351383-613edbd7f84fefeb.jpg"
-        },
-        {
-          "title": "Von Sting bis Netflix: Wie die Popkultur die Angst vor der Atombombe verlor",
-          "url": "https://www.telepolis.de/article/Von-Sting-bis-Netflix-Wie-die-Popkultur-die-Angst-vor-der-Atombombe-verlor-11365762.html",
-          "summary": "In den 80ern besang Sting die Atomangst, heute dominieren Zombies auf Streaming-Plattformen. Warum zeigt die Popkultur die Nukleargefahr nicht mehr?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/7/3/4/5/engels-01-d6fca4f6b949d905.jpg"
-        },
-        {
-          "title": "WM-Finale: Warum Argentinien gegen Spanien um weit mehr als den Titel spielt",
-          "url": "https://www.telepolis.de/article/WM-Finale-Warum-Argentinien-gegen-Spanien-um-weit-mehr-als-den-Titel-spielt-11369716.html",
-          "summary": "Im WM-Finale trifft Spanien auf Argentinien. Hinter dem Duell steckt eine brisante Mischung aus Kolonialgeschichte, Fan-Mythen und Taktik. WM Blog – Folge 16",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/3/4/5/master_Fussball-508afb6b5a6e7c7d.jpg"
+          "image": "https://images.tagesschau.de/image/602e8bf4-5cc8-46d5-bca3-3027a7e891c8/AAABn3A3pL8/AAABnSSvrFg/16x9-big/kai-noir-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Krieg in Nahost: US-Militär meldet Tod von zwei Soldaten in Jordanien",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-militaer-soldaten-tod-li.3513707",
+          "summary": "Die Soldaten seien bereits am Freitag bei der Verteidigung gegen iranische Raketen- und Drohnenangriffe ums Leben gekommen. Nach der siebten Nacht mit Angriffen wächst die Sorge vor einer Ausweitung des Krieges.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/18/6cd67b1c-f0da-4503-8837-9e990e960126.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
         {
           "title": "Jens Spahn: Dieser Rücktritt musste sein",
           "url": "https://www.sueddeutsche.de/meinung/jens-spahn-ruecktritt-cdu-fraktionsvorsitz-bundestag-kommentar-li.3518042",
@@ -136,14 +115,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/18/238bf3cf-9021-4238-a187-4a30c83459c9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Bundespolitik: Gemischte Reaktionen auf Spahns Rücktritt",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-spahn-ruecktritt-reaktionen-li.3516334",
-          "summary": "Matthias Miersch und Karin Prien zollen dem bisherigen Unions-Fraktionschef Respekt und wünschen ihm „alles Gute“. Vertreter der Opposition und der FDP gehen kritischer mit Spahn um.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/18/cb3f94d2-f680-4c22-a8a2-576d548d8f3e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
