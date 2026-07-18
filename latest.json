@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T22:00:16.361Z",
-  "timestamp": "18.7.2026, 00:00:16",
+  "generated": "2026-07-18T02:00:15.400Z",
+  "timestamp": "18.7.2026, 04:00:15",
   "news": [
     {
       "source": "FAZ",
@@ -14,12 +14,12 @@
           "image": "https://media0.faz.net/image/w1200h627/1c9e8eee5632/w3000h1567x0y316o/202605/43e858e9f8-509d-11f1-91b0-cd36eab60358/im-hintergrund-die-strasse-von.webp"
         },
         {
-          "title": "Liveblog Irankrieg: USA starten neue Angriffe gegen Iran",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-starten-neue-angriffe-gegen-iran-faz-200583539.html",
-          "summary": "US-Militär greift siebte Nacht in Folge iranische Ziele an +++ UN-Generalsekretär Guterres: Angriffe auf zivile Infrastruktur „inakzeptabel“ +++ Soldaten entern Schiff im Golf von Oman +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: Berichte über brennende Tanker in der Straße von Hormus",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-berichte-ueber-brennende-tanker-in-der-strasse-von-hormus-faz-200583539.html",
+          "summary": "Berichte über neue Explosionen in Iran +++ Wieder heulen Sirenen in Bahrain +++ Iran: Revolutionsgarden halten vier Tanker in Straße von Hormus auf +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2d49610e4534/w5376h2808x0y108o/202607/43601.0.2332215842/aufnahme-einer-us-drohne.webp"
+          "image": "https://media0.faz.net/image/w1200h627/068371aa291a/w6000h3135x0y120o/202607/43601.0.2339878211/oeltanker-und-frachtschiffe.webp"
         },
         {
           "title": "Deutschland-Liveblog: Spahn: „Das eine ist die reine Lehre und das andere das echte Leben“",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "USA und Iran melden neue gegenseitige Angriffe in der Golfregion",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-104.html",
+          "summary": "Die USA haben erneut Iran attackiert. Ziel sei es, die militärischen Fähigkeiten des Landes weiter zu schwächen. Irans Revolutionsgarde meldet Angriffe auf Bahrain und Explosionen auf zwei Öltankern.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/5d002b39-97da-4e0a-909b-7952c407bd11/AAABnc3SjeI/AAABnSSvrFg/16x9-big/persischer-golf-100.jpg?width=1280"
+        },
+        {
           "title": "Wie der Machtkampf in NRW die AfD unter Druck setzt",
           "url": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-streit-100.html",
           "summary": "Tumulte und Beschimpfungen: Der Machtkampf im NRW-Landesverband der AfD ist eskaliert. Er bedroht die Zulassung zur Landtagswahl und stellt die Spitze der Bundespartei vor schwierige Entscheidungen. Von Dagmar Pepping.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e0ff4bcb-66b7-4c8b-83ee-ae39bb4f3cba/AAABn3Df89s/AAABnSSvrFg/16x9-big/spahn-752.jpg?width=1280"
-        },
-        {
-          "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
-          "url": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html",
-          "summary": "Der gemeinsame Kampfjet scheiterte, doch Deutschland und Frankreich wollen ihre militärische Zusammenarbeit ausbauen. Das gaben Kanzler Merz und Präsident Macron nach dem Deutsch-Französischen Ministerrat bekannt. Im Fokus: atomare Abschreckung.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c6b92907-674a-4a53-ad3c-3d9346451911/AAABn3BJS9o/AAABnSSvrFg/16x9-big/macron-merz-112.jpg?width=1280"
         }
       ]
     },
@@ -106,7 +106,7 @@
           "summary": "Eine Nature-Studie zeigt an genetisch vorbelasteten Mäusen: Die fettreiche ketogene Diät fördert Tumoren im Dünndarm – und schützt zugleich den Dickdarm.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/2/0/4/shutterstock_2692362299-bb721c19bce448f2.jpg"
+          "image": null
         },
         {
           "title": "ZDF beendet \"Ein Fall für zwei\": Das leise Sterben der TV-Rituale",
@@ -114,7 +114,7 @@
           "summary": "Fast 50 Jahre lang gehörte die Serie zum Freitagabend. Ihr Ende erzählt vom Abschied einer Fernsehkultur. Gegen Netflix & Co. haben Gewohnheiten keine Chance.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/0/2/9/Master_TV-Geraet-657c49e58b4c0e57.jpg"
+          "image": null
         }
       ]
     },
