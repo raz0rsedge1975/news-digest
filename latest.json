@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-18T22:00:17.400Z",
-  "timestamp": "19.7.2026, 00:00:17",
+  "generated": "2026-07-19T02:00:17.227Z",
+  "timestamp": "19.7.2026, 04:00:17",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Fußball-WM 2026 im Liveticker: England vs. Frankreich im Duell um Platz drei",
-          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-england-vs-frankreich-im-duell-um-platz-drei-a-18ff9f83-4fc7-453d-b448-be621e98cfc9#ref=rss",
-          "summary": "Was ist da los in Miami? England führt gegen Frankreich schon zur Pause 4:0. Ist Thomas Tuchel doch ein Genie? Oder hätte er einfach Mittwoch genau so spielen lassen sollen? Verfolgen Sie das Match im Live-Kommentar.",
+          "title": "WM 2026: England gewinnt 6:4 gegen Frankreich im Spiel um Platz",
+          "url": "https://www.spiegel.de/sport/fussball/wm-2026-england-gewinnt-6-4-gegen-frankreich-im-spiel-um-platz-a-fcb58c1c-2b7a-467c-850b-0ccd265e52b2#ref=rss",
+          "summary": "England und Frankreich machen aus einem Egal-Spiel ein Spektakel für die Geschichtsbücher. Kylian Mbappé ist der beste und gleichzeitig faulste WM-Torjäger. Und Thomas Tuchels Wonderwall steht noch.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/eef74b16-297a-4df4-a54e-b817c594db45_w1200_r1.778_fpx45.32_fpy49.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2ec2e184-2950-429f-aadc-c2b8fadd3a88_w1200_r1.778_fpx44.66_fpy44.99.jpg"
         },
         {
           "title": "Jens Spahn: Der CDU-Politiker ist das Opfer seiner Hybris",
@@ -61,31 +61,31 @@
       ]
     },
     {
-      "source": "Tagesschau",
+      "source": "Telepolis",
       "headlines": [
         {
-          "title": "Norwegische Inselgruppe: Lofoten erheben Abgabe gegen \"Overtourism\"",
-          "url": "https://www.tagesschau.de/ausland/europa/tourismusabgabe-norwegen-100.html",
-          "summary": "Überfüllte Parkplätze, Wohnmobile auf Äckern, Müll am Straßenrand: Die Lofoten ächzen seit Jahren unter zu vielen Touristen. Eine Tourismusabgabe soll Abhilfe schaffen - doch nicht alle halten die Gebühr für zielführend. Von Arne Bartram.",
-          "source": "Tagesschau",
+          "title": "MGCS-Panzer: Warum die deutsch-französische Allianz zu scheitern droht",
+          "url": "https://www.telepolis.de/article/MGCS-Panzer-Warum-die-deutsch-franzoesische-Allianz-zu-scheitern-droht-11369930.html",
+          "summary": "Nach dem Kampfjet FCAS wackelt auch der gemeinsame Zukunftspanzer MGCS. Das Projekt schrumpft zur Technologie-Hülle.",
+          "source": "Telepolis",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/aa8ca055-0a09-441b-9896-e935be09d82c/AAABn2-mD4M/AAABnSSvrFg/16x9-big/lofoten-108.jpg?width=1280"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/4/5/2/shutterstock_2506325433-9514c063f974adc9.jpg"
         },
         {
-          "title": "Debatte über Leihmutterschaft: Was der Spahn-Rücktritt für die CDU bedeutet",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-108.html",
-          "summary": "Der Druck wegen der Debatte um eine Leihmutterschaft wurde zu stark - Spahn ist zurückgetreten. Davor gab es massive Kritik aus dem eigenen Lager und Sorgen um den Wahlkampf. Was bedeutet das für die CDU, die Landtagswahlen und die Koalition? Eine Analyse von K.",
-          "source": "Tagesschau",
+          "title": "Russlands Diesel-Krise: Warum Tanken dadurch in Deutschland immer teurer wird",
+          "url": "https://www.telepolis.de/article/Russlands-Diesel-Krise-Warum-Tanken-dadurch-in-Deutschland-immer-teurer-wird-11369830.html",
+          "summary": "Russland stoppt alle Diesel-Exporte, fast 60 Prozent der Raffineriekapazität stehen still. Auch an deutschen Zapfsäulen klettert dadurch der Preis.",
+          "source": "Telepolis",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/27c95f17-a502-42fe-be3d-b489d0062d67/AAABn3Zi9sc/AAABnSSvrFg/16x9-big/jens-spahn-242.jpg?width=1280"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/4/0/2/shutterstock_2070351383-613edbd7f84fefeb.jpg"
         },
         {
-          "title": "Künstliche Intelligenz: Verdrängen KI-Bands echte Musiker?",
-          "url": "https://www.tagesschau.de/kultur/kuenstliche-intelligenz-musik-bands-100.html",
-          "summary": "KI-generierte Songs fluten die Streamingdienste. Immer häufiger stehen dahinter auch durch Künstliche Intelligenz erzeugte Bands, mit eigener Biografie und Avataren. Das Ende der Kreativität - oder eine Chance? Von Tobias Dirr.",
-          "source": "Tagesschau",
+          "title": "Von Sting bis Netflix: Wie die Popkultur die Angst vor der Atombombe verlor",
+          "url": "https://www.telepolis.de/article/Von-Sting-bis-Netflix-Wie-die-Popkultur-die-Angst-vor-der-Atombombe-verlor-11365762.html",
+          "summary": "In den 80ern besang Sting die Atomangst, heute dominieren Zombies auf Streaming-Plattformen. Warum zeigt die Popkultur die Nukleargefahr nicht mehr?",
+          "source": "Telepolis",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/602e8bf4-5cc8-46d5-bca3-3027a7e891c8/AAABn3A3pL8/AAABnSSvrFg/16x9-big/kai-noir-100.jpg?width=1280"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/7/3/4/5/engels-01-d6fca4f6b949d905.jpg"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: US-Militär meldet Tod von zwei Soldaten in Jordanien",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-militaer-soldaten-tod-li.3513707",
-          "summary": "Die Soldaten seien bereits am Freitag bei der Verteidigung gegen iranische Raketen- und Drohnenangriffe ums Leben gekommen. Nach der siebten Nacht mit Angriffen wächst die Sorge vor einer Ausweitung des Krieges.",
+          "title": "Pressestimmen: „Ein Schiffbruch wie die Titanic“",
+          "url": "https://www.sueddeutsche.de/sport/england-frankreich-pressestimmen-spiel-um-platz-drei-li.3518127",
+          "summary": "Frankreichs Presse sieht die schlechteste erste Halbzeit in Didier Deschamps’ Nationaltrainerkarriere, Englands Medien sehen das Niveau eines Wohltätigkeitsspiels.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/18/6cd67b1c-f0da-4503-8837-9e990e960126.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/19/c2c22739-daf2-493e-98b5-551a6c10293d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C36%2C1957%2C1101"
         },
         {
-          "title": "Jens Spahn: Dieser Rücktritt musste sein",
-          "url": "https://www.sueddeutsche.de/meinung/jens-spahn-ruecktritt-cdu-fraktionsvorsitz-bundestag-kommentar-li.3518042",
-          "summary": "Es gibt drei Gründe, warum der Fraktionsvorsitzende von CDU/CSU die Debatte um die Leihmutterschaft seines Sohnes nicht gewinnen konnte. Davon abgesehen hat die Sache eine tragische Komponente.",
+          "title": "Endspiel der Fußball-WM 2026: Eine Gebrauchsanweisung zum WM-Finale",
+          "url": "https://www.sueddeutsche.de/sport/wm-finale-yamal-messi-schiedsrichter-li.3517803",
+          "summary": "Ist Lamine Yamals Einsatz in Gefahr? Wie stoppt man Lionel Messi? Wieso hat das Rahmenprogramm in der Halbzeit Überlänge? Und wie wird das Wetter nach den Waldbränden? Die wichtigsten Antworten vor dem Endspiel der WM 2026.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/18/9082fbd0-428f-428b-aad4-7fd6b576ee6d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C328%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/18/3954158d-5552-4098-b61d-8437f5ec3423.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Koalition: Kalt erwischt",
-          "url": "https://www.sueddeutsche.de/politik/jens-spahn-ruecktritt-spd-mathias-miersch-koalitionsarbeit-li.3518005",
-          "summary": "Jens Spahn sah sich mit SPD-Fraktionschef Matthias Miersch als ein Stabilitätsanker der Koalition. Nun ist Spahn weg und die SPD darum bemüht, den Eindruck einer neuen Koalitionskrise zu vermeiden.",
+          "title": "Fußball-WM: 6:4 in Miami – England gewinnt Bronze in einem wilden Match",
+          "url": "https://www.sueddeutsche.de/sport/england-frankreich-spiel-um-platz-drei-saka-tuchel-li.3518117",
+          "summary": "England führt nach Halbzeit eins mit 4:0 im Spiel um Platz drei – aber dann kommt Frankreich im zweiten Durchgang spektakulär zurück. Die Three Lions feiern ihren größten WM-Erfolg seit 1966.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/18/238bf3cf-9021-4238-a187-4a30c83459c9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/18/302e7e9c-763f-4386-805e-9c01cfeecae4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C127%2C3500%2C1969"
         }
       ]
     }
