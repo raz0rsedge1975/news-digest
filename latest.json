@@ -1,10 +1,18 @@
 {
-  "generated": "2026-07-19T02:00:17.227Z",
-  "timestamp": "19.7.2026, 04:00:17",
+  "generated": "2026-07-19T06:00:16.895Z",
+  "timestamp": "19.7.2026, 08:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Liveblog Irankrieg: USA starten nach Tod von Soldaten Vergeltungsangriff",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-iran-meldet-zerstoerung-amerikanischer-flugzeuge-faz-200583539.html",
+          "summary": "Das US-Militär will Iran für tödliche Attacke „schnell bestrafen“ +++ Emirate fordern „sofortigen Stopp der Eskalation“ +++ USA raten Staatsbürgern zur Vorsicht +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0b6f58d39c1b/w3840h2006x0y77o/202607/43601.0.2340251713/rauch-steigt-nach-einem-us.webp"
+        },
         {
           "title": "Rücktritt Spahns: Das Ende einer Selbstherrlichkeit",
           "url": "https://www.faz.net/aktuell/politik/inland/ruecktritt-spahns-das-ende-einer-selbstherrlichkeit-201043050.html",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/a90eb31a766f/w5760h3009x0y530o/202607/43601.0.2347681967/files-german-chancellor-jens.webp"
-        },
-        {
-          "title": "Rücktritt Spahns: „Lichterloh hat es gebrannt in der Partei“",
-          "url": "https://www.faz.net/aktuell/politik/inland/wie-merz-spahn-den-ruecktritt-nahelegt-accg-201043048.html",
-          "summary": "Immer größer wurde die Kritik an Jens Spahn, dann kam der entscheidende Anruf des Bundeskanzlers. Wie kam es zum Rücktritt des Unionsfraktionschefs?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0ac6b9f19e91/w3000h1567x0y137o/202512/43601.0.1591494240/friedrich-merz-cdu-und-jens.webp"
         }
       ]
     },
@@ -51,12 +51,41 @@
           "image": "https://cdn.prod.www.spiegel.de/images/6b5dbfaf-b722-4a34-aa6b-c7d3946a4d74_w1200_r1.778_fpx42.67_fpy50.jpg"
         },
         {
-          "title": "Nord Stream: Gericht in London entscheidet über Schadenersatz nach Anschlag",
-          "url": "https://www.spiegel.de/wirtschaft/nord-stream-gericht-in-london-entscheidet-ueber-schadenersatz-nach-anschlag-a-d2e699f6-ffce-4fe0-b1d0-74501c8b4c04#ref=rss",
-          "summary": "Vor knapp vier Jahren sprengte ein ukrainisches Kommando Teile der russischen Gaspipeline Nord Stream. Ein Londoner Gericht hat nun ein Urteil darüber gefällt, wer den wirtschaftlichen Schaden trägt.",
+          "title": "Sachsen-Anhalt: Was Sie vor der Landtagswahl über das Bundesland wissen müssen",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-was-sie-vor-der-landtagswahl-ueber-das-bundesland-wissen-muessen-a-5669a6a1-ad08-4515-8b7d-19fdd37c614f#ref=rss",
+          "summary": "Sachsen-Anhalt, nicht mehr als ein Testgelände für die AfD? In dem Bundesland entstehen auch Ideen für morgen, es ist heimliche Linken-Hochburg – und hat eine Hauptstadt, deren Name ständig falsch ausgesprochen wird.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ded51a23-69ee-4082-ae6c-e3db48870fa6_w1200_r1.778_fpx51_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ff02d537-064a-4a77-8a19-be8fef927722_w1200_r1.778_fpx56_fpy63.jpg"
+        }
+      ]
+    },
+    {
+      "source": "Tagesschau",
+      "headlines": [
+        {
+          "title": "WM-Finale: Eine Halbzeitshow wie beim Super Bowl",
+          "url": "https://www.tagesschau.de/ausland/wm-halbzeitshow-106.html",
+          "summary": "Erstmals wird es bei einem Finale der Fußball-WM eine Halbzeitshow nach US-Vorbild geben. Wenn Shakira, Madonna, Justin Bieber und weitere Stars heute auftreten, könnte die vorgeschriebene 15-Minuten-Pause klar überzogen werden. Von Martin Ganslmeier.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d219a502-00b6-4fa2-9d03-ec3357bd50be/AAABn3hpopo/AAABnSSvrFg/16x9-big/fussball-wm-522.jpg?width=1280"
+        },
+        {
+          "title": "Neue Angriffe zwischen USA und Iran",
+          "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
+          "summary": "Die USA haben erneut Luftangriffe auf Iran gemeldet - Iran reagierte mit Attacken auf zwei US-Militärstützpunkte in Kuwait. Zuvor waren bei iranischem Beschuss in Jordanien zwei US-Soldaten getötet worden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/1ed07d0b-b49f-49a3-9aca-8ffd37185d83/AAABnrDnu6s/AAABnSSvrFg/16x9-big/karte-jordanien-irak-iran-teheran-strasse-von-hormus-kuwait-bahrain-100.jpg?width=1280"
+        },
+        {
+          "title": "Erneut massiver russischer Raketenangriff auf Kiew",
+          "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+          "summary": "Russland hat Kiew erneut mit ballistischen Raketen angegriffen, dabei wurden laut Behörden auch ein Wohngebäude und ein Einkaufszentrum getroffen. Demnach kam mindestens ein Mensch ums Leben, es gebe mehrere Verletzte.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/dbe11e6c-c766-45ec-bbc2-1de64dd5bcc2/AAABn3gPXLM/AAABnSSvrFg/16x9-big/kiew-470.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: USA und Iran schwören sich Rache – neue US-Luftangriffe",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-militaer-soldaten-tod-angriffe-li.3513707",
+          "summary": "Den Angriffen ging der Tod zweier Soldaten voraus, die schon am Freitag bei der Verteidigung gegen iranische Raketen- und Drohnenangriffe ums Leben gekommen sein sollen. Die Sorge vor einer Ausweitung des Krieges wächst.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/08/2eb8f531-a9e9-4335-8fcd-d0b0c64e5c70.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
+          "title": "AfD-Wahlkampfauftakt Sachsen-Anhalt: Weidel will gute Laune verbreiten, doch in der Partei brodelt es",
+          "url": "https://www.sueddeutsche.de/politik/afd-wahlkampfauftakt-sachsen-anhalt-alice-weidel-landtagswahl-li.3517143",
+          "summary": "„Wir haben gute Laune, wir machen gute Stimmung,“ ruft die AfD-Chefin beim Wahlkampfauftakt in Sachsen-Anhalt von der Bühne. Dabei tobt in der Partei gerade ein Machtkampf.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/19/690601c0-5715-4f57-ba7b-87b52030a822.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C127%2C3000%2C1687"
+        },
+        {
           "title": "Pressestimmen: „Ein Schiffbruch wie die Titanic“",
           "url": "https://www.sueddeutsche.de/sport/england-frankreich-pressestimmen-spiel-um-platz-drei-li.3518127",
           "summary": "Frankreichs Presse sieht die schlechteste erste Halbzeit in Didier Deschamps’ Nationaltrainerkarriere, Englands Medien sehen das Niveau eines Wohltätigkeitsspiels.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/19/c2c22739-daf2-493e-98b5-551a6c10293d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C36%2C1957%2C1101"
-        },
-        {
-          "title": "Endspiel der Fußball-WM 2026: Eine Gebrauchsanweisung zum WM-Finale",
-          "url": "https://www.sueddeutsche.de/sport/wm-finale-yamal-messi-schiedsrichter-li.3517803",
-          "summary": "Ist Lamine Yamals Einsatz in Gefahr? Wie stoppt man Lionel Messi? Wieso hat das Rahmenprogramm in der Halbzeit Überlänge? Und wie wird das Wetter nach den Waldbränden? Die wichtigsten Antworten vor dem Endspiel der WM 2026.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/18/3954158d-5552-4098-b61d-8437f5ec3423.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
-        },
-        {
-          "title": "Fußball-WM: 6:4 in Miami – England gewinnt Bronze in einem wilden Match",
-          "url": "https://www.sueddeutsche.de/sport/england-frankreich-spiel-um-platz-drei-saka-tuchel-li.3518117",
-          "summary": "England führt nach Halbzeit eins mit 4:0 im Spiel um Platz drei – aber dann kommt Frankreich im zweiten Durchgang spektakulär zurück. Die Three Lions feiern ihren größten WM-Erfolg seit 1966.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/18/302e7e9c-763f-4386-805e-9c01cfeecae4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C127%2C3500%2C1969"
         }
       ]
     }
