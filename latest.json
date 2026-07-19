@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-19T18:00:27.752Z",
-  "timestamp": "19.7.2026, 20:00:27",
+  "generated": "2026-07-19T22:00:35.725Z",
+  "timestamp": "20.7.2026, 00:00:35",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Nach dem Rücktritt: Ausgerechnet Spahn",
-          "url": "https://www.faz.net/aktuell/politik/inland/nach-dem-ruecktritt-ausgerechnet-spahn-201044343.html",
-          "summary": "Der Fall Jens Spahn sagt einiges über die Führung der CDU aus: Sie hat offenbar wenig Gefühl für die Stimmung im Parteivolk.",
+          "title": "Neue Show der FIFA: Die Halbzeitpause beim WM-Finale dauerte 27 Minuten",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-halbzeitpause-im-finale-dauert-wegen-halftime-show-27-minuten-201045299.html",
+          "summary": "Erstmals bei einem WM-Finale gibt es eine Halbzeit-Show auf dem Rasen. Die Spieler aus Spanien und Argentinien müssen länger warten auf die zweite Hälfte. Schon der Anstoß zum Spiel verzögert sich.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/30cadd9846ef/w5472h2859x0y183o/202607/43601.0.2350855129/jens-spahn-im-juni-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/49f4843a7628/w3412h1782x320y247o/202607/43601.0.2351850139/brasiliens-beitrag-im-wm.webp"
         },
         {
-          "title": "Nach Spahns Rücktritt: Wie baut Merz jetzt seine Mannschaft um?",
-          "url": "https://www.faz.net/aktuell/politik/inland/ruecktritt-von-jens-spahn-wie-baut-merz-jetzt-seine-mannschaft-um-accg-201044084.html",
-          "summary": "Vor seinem Rückzug schien Jens Spahn immer mächtiger zu werden. Nun bieten sich dem Kanzler ungeahnte Möglichkeiten für einen Personalumbau.",
+          "title": "Liveblog Fußball-WM 2026: Weg für Klopp als Bundestrainer frei",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/liveblog-zur-fussball-wm-2026-klopp-bestaetigt-red-bull-einigung-und-dfb-gespraeche-faz-200749933.html",
+          "summary": "Liveblog zur FIFA Fußball-Weltmeisterschaft 2026 vom 11.06. bis 19.07.2026 in den USA, Kanada und Mexiko | FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a62bbec5a4ae/w7680h4012x0y460o/202607/43601.0.2347670825/jens-spahn-spricht-im-juni-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/cc49511c5ee2/w3887h2030x0y203o/202607/43601.0.2329010370/juergen-klopp-duerfte-neuer.webp"
         },
         {
-          "title": "Spahn-Rücktritt: Eine (letzte) Chance für Linnemann",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ruecktritt-von-jens-spahn-eine-letzte-chance-fuer-carsten-linnemann-201044528.html",
-          "summary": "Seine Doppelmoral kostet Jens Spahn den Fraktionsvorsitz. Doch ein Glaubwürdigkeitsproblem hat die Union nicht nur mit ihm.",
+          "title": "Was von der WM bleibt: Über alle Grenzen",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-was-darf-man-noch-glauben-201044199.html",
+          "summary": "Die Suche nach neuem Geld hat diese Fußball-Weltmeisterschaft bis zum letzten Tag dominiert. Wenn etwas bleiben wird von dem Turnier, dann diese Frage: Was darf man noch glauben?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6c0785892466/w6000h3135x0y371o/202607/43601.0.2350162700/cdu-generalsekretaer-carsten.webp"
+          "image": "https://media0.faz.net/image/w1200h627/02da2366e64e/w6594h3445x0y352o/202607/43601.0.2346727237/168-95-dollar-fuer-ein-foto.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Fußball-WM 2026 im Liveticker: Spanien gegen Argentinien",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-wm-2026-im-liveticker-spanien-gegen-argentinien-a-048a92c3-10b7-4a8d-908d-7617f3dcfd56#ref=rss",
+          "summary": "105 Minuten, zwei Trinkpausen, die längste Halbzeitshow der Geschichte, aber jetzt liegt der Ball im Tor! Ferran Torres hat Spanien gegen ultradefensive Argentinier in Führung gebracht. Verfolgen Sie das WM-Finale im Livekommentar.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/b6fe509a-1f9a-493d-9518-555595209dad_w1200_r1.778_fpx50.63_fpy49.99.jpg"
+        },
         {
           "title": "Friedrich Merz übernimmt Verantwortung, aber schuld sind schon andere",
           "url": "https://www.spiegel.de/kultur/tv/friedrich-merz-uebernimmt-verantwortung-aber-schuld-sind-schon-andere-a-ed42c236-9041-46fa-b77e-63b4b402a6ba#ref=rss",
@@ -43,15 +51,7 @@
           "image": "https://cdn.prod.www.spiegel.de/images/285be020-659b-4471-b92a-daeb336f344c_w1200_r1.778_fpx70_fpy55.01.jpg"
         },
         {
-          "title": "Lionel Messi und seine WM-Evolution: Wie sich Argentiniens Starspieler immer wieder neu erfand",
-          "url": "https://www.spiegel.de/sport/fussball/lionel-messi-und-seine-wm-evolution-wie-sich-argentiniens-starspieler-immer-wieder-neu-erfand-a-67cb2c85-82de-409f-b8ed-0f2acdb9f2ef#ref=rss",
-          "summary": "Zum sechsten Mal spielt Lionel Messi eine WM, nun kann er zum zweiten Mal Weltmeister werden. Wer sich seine Turniere anschaut, versteht, wie sehr er sich immer wieder neu erfand.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e0b7d63b-5fb1-43d6-ad40-9625a087aeee_w1200_r1.778_fpx51_fpy62.jpg"
-        },
-        {
-          "title": "Ukraine-Krieg: Russland feuert mehr als 40 Raketen auf Kyjiw in einer Nacht",
+          "title": "Ukraine-Krieg: Russland feuert mehr als 40 Raketen in einer Nacht – nur auf Kyjiw",
           "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-feuert-mehr-als-40-raketen-auf-kyjiw-in-einer-nacht-a-7b0b0122-f180-43c9-8eff-f13e5d671bb9#ref=rss",
           "summary": "Am Vortag sprach der ukrainische Präsident noch von erfolgreichen Drohnenschlägen nahe Moskau. Jetzt antwortete Russland mit einem der heftigsten Angriffe auf Kyjiw seit Kriegsbeginn.",
           "source": "Spiegel",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bahn-Boom: Wie der Wettbewerb in Italien den Fernverkehr verändert",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/italo-fernverkehr-italien-100.html",
-          "summary": "Von 2028 an sollen in Deutschland die roten Schnellzüge des Anbieters Italo fahren. In Italien hat der private Konkurrent den Markt belebt. Davon profitieren auch die Bahnreisenden - allerdings nicht überall. Von Verena Schälter.",
+          "title": "Eskalation zwischen USA und Iran: Wie geht es in der Golfregion weiter?",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-angriffe-102.html",
+          "summary": "Die USA greifen wieder täglich iranische Ziele an - und Iran schlägt mit Attacken auf die Golfstaaten zurück. Die Situation ähnelt der im Frühjahr. Wie der Ausweg aus dem Konflikt aussehen könnte, ist ungewiss. Von Moritz Behrendt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8d4a51b2-2936-4033-a198-10d9b4494a89/AAABnu-HCTI/AAABnSSvrFg/16x9-big/italo-zug-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/509341ee-ba76-4bfe-9a07-c01403e36fe2/AAABn3vjzkI/AAABnSSvrFg/16x9-big/iran-bruecke-angriff-100.jpg?width=1280"
         },
         {
-          "title": "Das Sommerinterview mit Grünen-Chefin Brantner im Faktencheck",
-          "url": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-brantner-100.html",
-          "summary": "Die Grünen-Vorsitzende Brantner war im ARD-Sommerinterview zu Gast. Die meisten Aussagen von ihr halten einer Überprüfung stand. Doch zum Beispiel mit Blick auf die Wahl in Sachsen-Anhalt war sie ungenau.",
+          "title": "Mindestens fünf Tote nach Erdbeben im Zentrum Perus",
+          "url": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-100.html",
+          "summary": "Ein Erdbeben hat die Andenregion Perus erschüttert. Örtliche Behörden gehen aktuell von mindestens sechs Todesopfern aus. Die Zahl der Vermissten ist noch unbekannt. Hunderte Menschen wurden obdachlos.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a69b070e-805c-4130-bbf1-a790d2390137/AAABn3q8ZMo/AAABnSSvrFg/16x9-big/sommerinterview-brantner-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/40e147a5-53ef-4952-b09e-597e0a067cbd/AAABn3ti0v8/AAABnSSvrFg/16x9-big/peru-202.jpg?width=1280"
         },
         {
-          "title": "Grünen-Chefin Brantner: \"Merz hat jetzt die Chance, sich zu befreien\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-brantner-100.html",
-          "summary": "\"Überfällig\", aber auch eine \"Chance\": Grünen-Vorsitzende Franziska Brantner hofft im ARD-Sommerinterview nach Spahns Rücktritt auf eine Kabinettsumbildung. Und blickt mit Sorge auf die Landtagswahlen im Herbst.",
+          "title": "USA verlegen offenbar weitere Kampfjets nach Nahost",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-100.html",
+          "summary": "Weiten die USA ihre Angriffe auf Iran aus? Medienberichte deuten darauf hin: Offenbar werden weitere US-Kampfflugzeuge in den Nahen Osten verlegt - auch aus Deutschland.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a554ce49-0bdb-4b99-8613-e80b77ed903e/AAABn3q8Tr0/AAABnSSvrFg/16x9-big/brantner-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1ed07d0b-b49f-49a3-9aca-8ffd37185d83/AAABnrDnu6s/AAABnSSvrFg/16x9-big/karte-jordanien-irak-iran-teheran-strasse-von-hormus-kuwait-bahrain-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Demokraten kritisieren Trump nach Tod von US-Soldaten scharf",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-militaer-soldaten-tod-angriffe-li.3513707",
+          "summary": "Führende Kongressmitglieder stellen die Begründung des Krieges infrage, während Trump an seinem Kurs festhält. Unterdessen meldet das US-Militär den Tod eines weiteren Soldaten im Nordirak.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/19/cfe76d70-b093-471a-9752-422ea31ca659.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Bundespolitik: Fraktionsspitze berät am Montag weiter über Spahn-Nachfolge",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-spahn-nachfolge-beratung-fraktionsspitze-li.3516334",
           "summary": "Bundeskanzler Merz hatte eine schnelle Entscheidung angekündigt. In der Zwischenzeit übernehmen Bilger und Hoffmann Spahns Arbeit.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/19/04c735ff-c6d5-4c30-a883-4de453b72b4c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Fußball-WM: Trump und Infantino bekommen einfach nicht genug",
-          "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-fifa-infantino-wiederwahl-li.3518285",
-          "summary": "Die XXL-WM endet mit zwei klaren Botschaften: Beim nächsten Mal sollen sogar 64 Teams starten – und die USA möchten bald wieder eine WM ausrichten. Es geht ums Geld, aber vor allem um Gianni Infantinos Wiederwahl.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/19/d3811155-f5f7-4531-b15c-af8574fa6fb0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C31%2C4000%2C2250"
         }
       ]
     }
