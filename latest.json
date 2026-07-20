@@ -1,10 +1,26 @@
 {
-  "generated": "2026-07-20T18:00:21.679Z",
-  "timestamp": "20.7.2026, 20:00:21",
+  "generated": "2026-07-20T22:00:18.002Z",
+  "timestamp": "21.7.2026, 00:00:18",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Einspeisevergütung: Hausbesitzer dürfen auf längere Solarförderung hoffen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eeg-und-netzpaket-hausbesitzer-duerfen-laenger-auf-solarfoerderung-hoffen-201046514.html",
+          "summary": "Bundeswirtschaftsministerin Katherina Reiche macht einen großen Schritt auf ihre Kritiker zu. Auch der Ausbau der Erneuerbaren soll nicht so deutlich beschnitten werden, wie bislang geplant.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/4b683902bd47/w4000h2090x0y289o/202605/43601.0.2130429320/die-bundesregierung-will-den.webp"
+        },
+        {
+          "title": "Einspeisevergütung: Unnötige Solarförderung",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eeg-unnoetige-solarfoerderung-201047478.html",
+          "summary": "Kleine Photovoltaikanlagen sollen nun doch noch länger gefördert werden. Doch wenn der Staat teure Subventionen in ohnehin wirtschaftliche Anlagen lenkt, gefährdet das die Akzeptanz der Energiewende.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/6cb229a8754b/w3000h1567x0y214o/202509/43601.0.1280698981/immer-mehr-hausbesitzer.webp"
+        },
         {
           "title": "Frachtschiffe als Ziele: Wie der Seekrieg im Schwarzen Meer eskaliert",
           "url": "https://www.faz.net/aktuell/politik/ukraine/wie-der-seekrieg-im-schwarzen-meer-eskaliert-201047008.html",
@@ -12,28 +28,20 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/e2cff3944e36/w2000h1045x0y248o/202607/43601.0.2350903108/ein-brennender-frachter-im.webp"
-        },
-        {
-          "title": "Liveblog Ukrainekrieg: Delhi: Vier Inder bei russischem Angriff getötet",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-neu-delhi-vier-inder-bei-russischem-angriff-getoetet-faz-110683325.html",
-          "summary": "Mindestens zehn Todesopfer auf Frachtschiff +++ Ukraine greift Moskau mit 400 Drohnen an +++ alle Neuigkeiten im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/303d0084fbbc/w2048h1070x0y155o/202607/43601.0.2355023793/das-foto-das-von-der.webp"
-        },
-        {
-          "title": "Wahlen in Russland: Ein Ende von Putins Regime ist nicht absehbar",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/vor-der-wahl-ist-putins-regime-in-schwierigkeiten-201025701.html",
-          "summary": "Viele Russen sind unzufrieden mit dem Krieg, langen Schlangen vor den  Tankstellen und Internetblockaden. Trotzdem verliert Putin nicht die Kontrolle.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6720534ca770/w7788h4069x0y312o/202607/43601.0.2321611256/an-dieser-moskauer-tankstelle.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Iran-Krieg: Jordanien wird zum Frontstaat zwischen USA und Iran",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-jordanien-wird-zum-frontstaat-zwischen-usa-und-iran-a-0d75159a-b499-498a-b16b-550299220326#ref=rss",
+          "summary": "Iranische Raketen, tote US-Soldaten, zerstörte Hubschrauber: Jordanien ist zum Frontstaat im Krieg geworden. König Abdullah II. will den USA helfen. Doch unter seinen Untertanen überwiegt eine antiamerikanische Haltung.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7336988e-d185-4f67-924c-2056b737cc05_w1200_r1.778_fpx41.44_fpy50.jpg"
+        },
         {
           "title": "Spahn-Nachfolge: Kanzler Merz riskiert bei der Personalfrage neuen Ärger",
           "url": "https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger-a-71f9c910-926c-4639-9bcc-5ed14c71402a#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/49f0ff68-1c79-405a-8328-3e5ececea9dd_w1200_r1.778_fpx31.07_fpy50.jpg"
         },
         {
-          "title": "News des Tages: Vizepräsident JD Vance, Jens Spahn, Straße von Hormus",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-vizepraesident-jd-vance-jens-spahn-strasse-von-hormus-a-e2d0f8df-5b6b-4c7b-b374-2174ebdf1478#ref=rss",
-          "summary": "Donald Trumps Vize JD Vance navigiert durch die Rushhour seines Lebens. Der Fall Spahn weckt Zweifel am Kanzler. Und: Die Golfstaaten versuchen, die Straße von Hormus zu umschiffen. Das ist die Lage am Montagabend.",
+          "title": "Andy Burnham: Das sind die ersten Minister des neuen Premierministers",
+          "url": "https://www.spiegel.de/ausland/andy-burnham-das-sind-die-ersten-minister-des-neuen-premierministers-a-3ff7d200-777c-4e0f-a697-7b33d280a3fb#ref=rss",
+          "summary": "Wenige Stunden nach seiner Ernennung zum neuen Premierminister des Vereinigten Königreichs stellt Andy Burnham das Kabinett neu auf. Der ehemalige Verteidigungsminister John Healey soll für Finanzen zuständig sein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Andrew und Tristan Tate: Was über die Verhaftung bekannt ist – und welche Rolle Donald Trump spielt",
-          "url": "https://www.spiegel.de/ausland/andrew-und-tristan-tate-was-ueber-die-verhaftung-bekannt-ist-und-welche-rolle-donald-trump-spielt-a-68701a01-026d-456f-9b57-afb31fcd1b01#ref=rss",
-          "summary": "Vergewaltigung, Menschenhandel, Körperverletzung: Gegen Andrew und Tristan Tate werden 59 Anklagepunkte erhoben, sie sitzen in US-Gewahrsam, Großbritannien verlangt ihre Auslieferung. Doch sie haben mächtige Unterstützer.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ed5d27ad-1d6c-4f78-b51f-e3e92ac30ad9_w1200_r1.778_fpx29_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3e869a35-238c-4f2b-8732-d15e2aff4ca1_w1200_r1.778_fpx71_fpy39.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Neuer Premier Burnham will Briten wieder Hoffnung geben",
-          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-neuer-premier-burnham-100.html",
-          "summary": "Andy Burnham, der siebte britische Premier in zehn Jahren, muss ein tief gespaltenes Land einen. Seine Pläne sind ehrgeizig: Er will die Lebenshaltungskosten senken, die Wirtschaft ankurbeln und Sozialsysteme entlasten. Von Lisa-Maria Röhling.",
+          "title": "Spanien feiert seine Fußballweltmeister",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html",
+          "summary": "Die spanische Fußballnationalmannschaft ist nach ihrem WM-Sieg euphorisch in der Heimat empfangen worden - von Fans, König Felipe und dem Ministerpräsidenten Sanchez. Von Nicholas Buschschlüter, zzt. ARD Madrid.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/dc1f691b-0c73-4a2c-b003-61f089289809/AAABn4Azqfg/AAABnSSvrFg/16x9-big/andy-burnham-126.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e6a939f3-3b38-4940-9f3d-ad8247471b6a/AAABn4EPB6c/AAABnSSvrFg/16x9-big/spanien-fussball-weltmeister-102.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX-Hängepartie geht weiter",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-396.html",
-          "summary": "Die Eskalation der Lage im Nahen Osten nagt ebenso an den Nerven der Anleger wie die Sorge um eine Korrektur im KI-Sektor. DAX-Anleger hielten sich daher zum Wochenstart bedeckt.",
+          "title": "Schachgroßmeisterin Polgar will nicht Ungarns Präsidentin werden",
+          "url": "https://www.tagesschau.de/ausland/europa/ungarn-praesidentschaft-polgar-absage-100.html",
+          "summary": "In Ungarn gab es einen Dämpfer für den neuen Premier Magyar: Seine Wunschkandidatin für die Präsidentschaft, die Schachgroßmeisterin Judit Polgar, hat abgesagt. Die \"historische Verantwortung\" sei zu groß. Von Oliver Soos.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/21ed3c1b-4ae1-4979-98c1-c50e004284c4/AAABn4Db2eE/AAABnSSvrFg/16x9-big/judit-polgar-102.jpg?width=1280"
         },
         {
-          "title": "Faktenfinder: In NRW wird es keine Prüfungen auf Arabisch geben",
-          "url": "https://www.tagesschau.de/faktenfinder/nrw-landtag-klassenarbeiten-100.html",
-          "summary": "Im NRW-Landtag ist ein Antrag zu Förderung von Mehrsprachigkeit in Schulen beschlossen worden. Die FDP behauptet, damit müssten Prüfungen in Zukunft nicht mehr auf Deutsch geschrieben werden. Doch das ist falsch. Von Karin König.",
+          "title": "Bahn-Konkurrent Italo bestellt 26 Schnellzüge bei Siemens",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/italo-zuege-siemens-bestellung-100.html",
+          "summary": "Erst vor wenigen Tagen ebnete die Bundesnetzagentur den Einstieg des italienischen Zugunternehmens Italo in das deutsche Fernverkehrsnetz. Jetzt konkretisiert Italo seine Pläne - mit einer Bestellung für neue Schnellzüge.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/07607449-02db-4653-9d08-69b468836e5a/AAABn3AuICM/AAABnSSvrFg/16x9-big/pruefung-schule-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/485e77b8-6d14-408d-bdc6-0bb83ed05283/AAABn4DdRKI/AAABnSSvrFg/16x9-big/siemens-bau-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fußball-WM 2026: Spaniens Weltmeister gelandet: Audienz beim König und große Feier mit Fans",
-          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-paredes-schlag-gavi-li.3492650",
-          "summary": "Im offenen Bus soll es am Abend auf eine triumphale Tour durch die Hauptstadt gehen. Zu der Feier auf dem Cibeles-Platz werden bis zu einer Million Anhänger erwartet.",
+          "title": "Fußball-WM 2026: Fifa leitet Verfahren gegen Argentinien nach WM-Finale ein",
+          "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-finale-fifa-ermittlungen-argentinien-paredes-schlag-li.3492650",
+          "summary": "Nach dem Spiel ging unter anderem der Argentinier Paredes auf zwei Spanier los und sah dafür die rote Karte. Die Weltmeister lassen sich unterdessen in Madrid feiern.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/20/7b272b78-fa9d-4824-b94d-a0b2ed9f1f3b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C164%2C3144%2C1768"
+          "image": "https://www.sueddeutsche.de/2026/07/20/8ed6eb2e-0e75-457b-8947-77f9a3f44bbb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C110%2C2118%2C1191"
         },
         {
-          "title": "Fußball: Englische Fußballikone Kevin Keegan ist gestorben",
-          "url": "https://www.sueddeutsche.de/sport/kevin-keegan-tot-hamburger-sv-england-li.3518834",
-          "summary": "Kevin Keegan ist tot. Der frühere Profi des Hamburger SV und spätere Nationaltrainer Englands war an Krebs erkrankt.",
+          "title": "Bonhoeffer-Nachfahre Tobias Korenke: „Es ist ganz offensichtlich, dass die AfD zu allen Diktaturen ein Liebesverhältnis pflegt“",
+          "url": "https://www.sueddeutsche.de/politik/stauffenberg-attentat-gedenken-afd-kranz-entfernung-eklat-bonhoeffer-nachfahre-li.3518745",
+          "summary": "Beim Gedenken an den 20. Juli 1944 löst der Enkel von Rüdiger Schleicher und Großneffe der Bonhoeffer-Brüder einen Eklat aus, als er versucht, einen Kranz der AfD zu entfernen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/20/1bc7be8d-737a-4511-aae3-50b98fc9b6df.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=185%2C414%2C1653%2C930"
+          "image": "https://www.sueddeutsche.de/2026/07/20/cc5af696-6a66-44d6-8f84-5ddf8114bd3c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Öffentlich-Rechtliche: „Glauben Sie mir, in den Redaktionen gibt es fast jede Woche sehr grundsätzliche Diskussionen“",
-          "url": "https://www.sueddeutsche.de/medien/norbert-himmler-zdf-danger-dan-die-anstalt-li.3517753",
-          "summary": "Hat das ZDF bei der Ausladung von Danger Dan aus der „Anstalt“ einen Fehler gemacht? Ja, sagt Intendant Norbert Himmler. Wie der Sender den Eklat nun aufzuarbeiten versucht.",
+          "title": "Zum Tod von Kevin Keegan: Der bescheidene König",
+          "url": "https://www.sueddeutsche.de/sport/kevin-keegan-tot-nachruf-hamburger-sv-li.3518843",
+          "summary": "Kevin Keegan war mehr als ein Idol, nicht nur in England. Der Stürmer, den sie in der Heimat „Mighty Mouse“ nannten, trug Dauerwelle, war Sänger, geduldiger Autogrammschreiber – und Wahl-Hamburger. Nachruf auf einen der ganz Großen des alten Fußballs.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/20/f4d94553-df1f-4dc4-bc1a-1ff382a289a4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C22%2C1920%2C1080"
+          "image": "https://www.sueddeutsche.de/2026/07/20/490e9671-34b9-47ae-a28d-5f608d5c3821.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C228%2C4000%2C2250"
         }
       ]
     }
