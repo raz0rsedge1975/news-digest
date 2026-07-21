@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-21T06:00:16.405Z",
-  "timestamp": "21.7.2026, 08:00:16",
+  "generated": "2026-07-21T10:00:16.356Z",
+  "timestamp": "21.7.2026, 12:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Autokonzerne im Rückzugsgefecht: Für die Deutschen stellt sich in China die Existenzfrage",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-bmw-und-mercedes-fuer-die-deutschen-stellt-sich-in-china-die-existenzfrage-accg-201035548.html",
-          "summary": "Investieren oder aufgeben: Elektroautos made in Germany sind in China nicht gefragt. VW, BMW und Mercedes müssen ihre Strategie auf dem weltgrößten Automarkt revidieren – und denken sogar an das Äußerste.",
+          "title": "Interview mit Psychiaterin: „Die Gruppe der Asylbewerber ist stark belastet und besonders schlecht versorgt“",
+          "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/psychisch-kranke-taeter-wenn-wahn-zu-massiver-gewalt-fuehrt-accg-201003572.html",
+          "summary": "Viele Täter, die mit massiver Gewalt auffallen, leiden unter Psychosen – wie inzwischen die meisten Neuzugänge in der forensischen Psychiatrie. Eine Professorin spricht im Interview über einen besorgniserregenden Trend.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f9de1adbe0ed/w8165h4266x0y1006o/202607/43601.0.2353895100/zu-teuer-zu-europaeisch-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2850752e8869/w1566h818x0y125o/202510/43601.0.1384530380/nach-der-messerattacke-auf.webp"
         },
         {
-          "title": "Ende einer Autoära: Deutsches China-Dilemma",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-bmw-und-mercedes-stecken-im-china-dilemma-201047419.html",
-          "summary": "Der Aufstieg chinesischer Automarken wird für Volkswagen, BMW und Mercedes zur Existenzfrage. Eine Antwort haben sie bisher nicht.",
+          "title": "Entscheiden unter Stress: Wenn Polizisten auf psychisch Kranke schießen",
+          "url": "https://www.faz.net/aktuell/politik/inland/polizei-und-psychisch-kranke-fuer-das-unvorhersehbare-trainiert-accg-200919809.html",
+          "summary": "Streifenpolizisten treffen relativ oft auf psychisch Kranke. Trotzdem fühlen sich die Beamten darauf schlecht vorbereitet.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/38cfda355673/w5945h3106x0y274o/202604/43601.0.2013790085/ohne-vier-ringe-mit.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4a309010739c/w6144h3210x0y276o/202605/43601.0.2119524297/polizisten-waehrend-einer.webp"
         },
         {
-          "title": "F.A.Z. Frühdenker: Worüber die USA, China und Russland beim ASEAN-Treffen beraten",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/worueber-die-usa-china-und-russland-beim-asean-treffen-beraten-faz-fruehdenker-201048970.html",
-          "summary": "Pistorius besucht den Rüstungskonzern KNDS, Dobrindt und das BKA legen das Lagebild zu Kindesmissbrauch vor, und Spanien wird von der nächsten Hitzewelle getroffen. Der F.A.Z. Frühdenker.",
+          "title": "Deutschland-Liveblog: Laschet attackiert Brosius-Gersdorf wegen Aussage zur Leihmutterschaft",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-laschet-attackiert-brosius-gersdorf-wegen-aussage-zur-leihmutterschaft-faz-110093143.html",
+          "summary": "Juristin wirbt für offene Debatte +++ AfD-Machtkampf in Nordrhein-Westfalen +++ Unionsfraktion will am 29. Juli über Spahn-Nachfolge entscheiden +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/7d14dc29c96c/w6651h3475x0y172o/202607/43601.0.2320509370/die-staatsspitzen.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/8ad8144f6cd7/w3960h2069x0y285o/202605/43601.0.2101413241/der-cdu-abgeordnete-laschet.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump und Iran: Welche Optionen den USA noch bleiben",
-          "url": "https://www.spiegel.de/ausland/donald-trump-und-iran-der-krieg-den-der-us-praesident-nicht-los-wird-a-742375b3-d250-4df8-8a9f-47f2d8b07189#ref=rss",
-          "summary": "Donald Trump hat genug vom Krieg gegen Iran, findet aber keinen Ausweg. Nun flammt der Konflikt wieder auf – und droht, seine MAGA-Bewegung zu zerlegen.",
+          "title": "Ukraine-Krieg: Warum so viele Menschen den eigenen Armeechef attackieren",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-warum-so-viele-menschen-den-eigenen-armeechef-attackieren-a-b332f29f-5f08-4777-8bc2-0a41843e4af8#ref=rss",
+          "summary": "Gegner nennen ihn »Schlächter«: Tausende Demonstranten in Kyjiw verlangen die Entlassung von Streitkräftechef Oleksandr Syrskyj. Der Mann hat einiges dafür getan, so unbeliebt zu sein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/141f42e2-bb3b-476d-aee0-b129129655c9_w1200_r1.778_fpx44_fpy48.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/183b4a73-3762-432e-82c2-ff50ef577b77_w1200_r1.778_fpx32_fpy28.jpg"
         },
         {
-          "title": "News: Leihmutterschaft, Jens Spahn, AfD-Machtkampf, Andy Burnham",
-          "url": "https://www.spiegel.de/politik/deutschland/news-leihmutterschaft-jens-spahn-afd-machtkampf-andy-burnham-a-76319d29-366e-4bfa-8d7f-f36bc0800f96#ref=rss",
-          "summary": "Die Befürworter der Leihmutterschaft melden sich zu Wort. Der AfD-Bundesvorstand schickt Prüfer nach NRW. Und: wie in Downing Street jeder Tag zum Triumph wird. Das ist die Lage am Dienstagmorgen.",
+          "title": "Robin Alexander: Wie der Journalist zum Politiklehrer der Nation wurde",
+          "url": "https://www.spiegel.de/wirtschaft/robin-alexander-wie-der-journalist-zum-politiklehrer-der-nation-wurde-a-72f515ad-33c1-4475-bd08-f37333c2bc11#ref=rss",
+          "summary": "Bei der »taz« angefangen, bei Springer Karriere gemacht, jetzt Podcast-Größe: Der Journalist Robin Alexander blickt hinter die Kulissen des Regierungsalltags und genießt über Lagergrenzen hinweg Vertrauen. Wie schafft er das?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/f10f2822-c8a0-4e9f-b758-b34745e25cb9_w1200_r1.778_fpx39_fpy41.jpg"
         },
         {
-          "title": "Spahn-Nachfolge: Kanzler Merz riskiert bei der Personalfrage neuen Ärger",
-          "url": "https://www.spiegel.de/politik/deutschland/spahn-nachfolge-kanzler-merz-riskiert-bei-der-personalfrage-neuen-aerger-a-71f9c910-926c-4639-9bcc-5ed14c71402a#ref=rss",
-          "summary": "Mit der Spahn-Nachfolge kann Kanzler Merz seine Personalaufstellung in der Koalition korrigieren. Doch schon jetzt stößt er Parteikollegen vor den Kopf. In der Union wächst die Unzufriedenheit.",
+          "title": "Schuldenbremse: Koalition scheitert an Reform – ein finanzpolitisches Armutszeugnis",
+          "url": "https://www.spiegel.de/wirtschaft/schuldenbremse-koalition-scheitert-an-reform-ein-finanzpolitisches-armutszeugnis-a-415f3501-c2ba-4405-a474-8ad7543b99d3#ref=rss",
+          "summary": "Union und SPD wollten die Schuldengrenze im Grundgesetz neu regeln. Doch Kanzler Merz glaubt nicht mehr daran. Das wird teuer.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/49f0ff68-1c79-405a-8328-3e5ececea9dd_w1200_r1.778_fpx31.07_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bbbea3d4-37d8-4bbf-ae4a-55396d003142_w1200_r1.778_fpx51_fpy29.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wie viel Hilfe es jetzt für den Heizungstausch gibt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/klima-heizungstausch-kuerzungen-100.html",
-          "summary": "Wer plant, sich eine klimafreundliche Heizung einzubauen, kann ab heute einen neuen Förderantrag stellen. Die KfW-Bank hat das Antragsportal gemäß den Richtlinien angepasst - und die sehen weniger Geld vor. Von Lissy Kaufmann.",
+          "title": "Was das Revival der Diddl-Maus mit Girlpower zu tun hat",
+          "url": "https://www.tagesschau.de/kultur/diddl-maus-comeback-girlpower-statt-guilty-pleasure-100.html",
+          "summary": "Girlband-Ästhetik, Eurodance - und jetzt auch Diddl. Mit den 1990er-Revivals erlebt auch die Kultmaus ein Comeback. Dabei geht es auch um die Neubewertung von Mädchenkultur. Von Hannah Rau.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/75df4017-eb42-4731-a4d2-6291cb0ebc17/AAABle3f96E/AAABnSSvrFg/16x9-big/waermepumpen-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2773f214-242a-4b76-9e5c-ae64148217db/AAABn4AHap8/AAABnSSvrFg/16x9-big/diddl-notizblock-100.jpg?width=1280"
         },
         {
-          "title": "Deutsche Bahn plant bundesweites Alkoholverbot an Bahnhöfen",
-          "url": "https://www.tagesschau.de/inland/deutsche-bahn-alkoholverbot-100.html",
-          "summary": "Die Deutsche Bahn will künftig an allen Bahnhöfen ein Alkoholverbot durchsetzen. Sie verspricht sich mehr Sicherheit für Mitarbeiter und Reisende. In Hamburg etwa hat man damit bereits gute Erfahrungen gemacht.",
+          "title": "Aufenthaltstitel: Schweden schraubt Erwartungen an Migranten höher",
+          "url": "https://www.tagesschau.de/ausland/europa/schweden-migrationspolitik-100.html",
+          "summary": "Zwei Monate vor der Parlamentswahl gilt in Schweden ein schärferes Migrationsrecht. Dabei wird auch der \"Lebenswandel\" zum Kriterium für eine Aufenthaltsberechtigung - doch es bleibt offen, was damit überhaupt gemeint ist. Von C. Stichler.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2ebbd86e-d9c7-491b-a538-8512091fb481/AAABn4MrjFg/AAABnSSvrFg/16x9-big/bahn-sicherheit-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6aefb7fd-7d3e-46c7-b9e9-beef63f38c52/AAABn4O8pSE/AAABnSSvrFg/16x9-big/schweden-parlament-104.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Nahost-Hoffnung könnte Börsen antreiben",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-102.html",
-          "summary": "Die Hoffnung auf eine Waffenruhe im Nahen Osten steigt, nachdem bekannt wurde, dass Vermittler dem Iran einen zehntägigen Waffenstillstand vorgeschlagen haben. Der Ölpreis entfernte sich von seinem Einmonatshoch.",
+          "title": "Großbritanniens Premier Burnham: Lockerheit in der Downing Street",
+          "url": "https://www.tagesschau.de/kommentar/grossbritannien-premier-burnham-neue-lockerheit-100.html",
+          "summary": "Zum Amtsantritt macht der neue Premier Burnham einen lockeren Eindruck. Viele Briten wünschen sich nach dem nüchternen Starmer einen nahbaren Regierungschef. Einfach wird es aber auch für Burnham nicht, meint Franziska Hoppen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5f2abda3-ae12-4ce8-9ff1-d6e17b47d882/AAABlf9rdX8/AAABnSSvrFg/16x9-big/boerse-402.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dc1f691b-0c73-4a2c-b003-61f089289809/AAABn4Azqfg/AAABnSSvrFg/16x9-big/andy-burnham-126.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Erste Atmosphäre auf erdähnlichem Exoplaneten in bewohnbarer Zone nachgewiesen",
-          "url": "https://www.telepolis.de/article/Erste-Atmosphaere-auf-erdaehnlichem-Exoplaneten-in-bewohnbarer-Zone-nachgewiesen-11370882.html",
-          "summary": "Forscher haben erstmals eine Atmosphäre auf einem felsigen Exoplaneten in der bewohnbaren Zone nachgewiesen. Damit sind jedoch längst nicht alle Fragen geklärt.",
+          "title": "Gedruckte Neuronen interagieren mit echten Gehirnzellen",
+          "url": "https://www.telepolis.de/article/Gedruckte-Neuronen-interagieren-mit-echten-Gehirnzellen-11369792.html",
+          "summary": "Künstliche Synapsen fehlen noch, doch Technologie könnte Computern Strom sparen helfen und vielleicht auch in Neuroprothesen verwendet werden.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/9/4/8/Artist___s_impression_of_the_super-Earth_exoplanet_LHS_1140b-787221321d388eb5.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/3/8/3/ijooo-ffcd93c66809710a.jpg"
         },
         {
-          "title": "Unterhaltsvorschuss: Warum deutsche Städte beim Rückgriff scheitern",
-          "url": "https://www.telepolis.de/article/Unterhaltsvorschuss-Warum-deutsche-Staedte-beim-Eintreiben-scheitern-11371064.html",
-          "summary": "Kürzung beim Unterhaltsvorschuss? Daten aus München, Cottbus und Dresden zeigen, dass fehlendes Personal und Bürokratie die Rückzahlung blockieren. Kommentar.",
+          "title": "Enttäuschte Erwartungen: Warum Teile der Rechten Trump den Rücken kehren",
+          "url": "https://www.telepolis.de/article/Enttaeuschte-Erwartungen-Warum-Teile-der-Rechten-Trump-den-Ruecken-kehren-11371726.html",
+          "summary": "Erst verhätschelt, nun entfesselt? Die extreme Rechte in den USA wird selbstbewusster, gefährlicher – und unabhängiger von Trump. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/0/0/4/0/shutterstock_2761907569-a944205b36b1ab95.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/0/3/7/9/shutterstock_1466940755-0bdbcd8233a8cc46.jpg"
         },
         {
-          "title": "Haushalt 2027 im Überblick: Wo das Kabinett Merz jetzt kürzt und wer profitiert",
-          "url": "https://www.telepolis.de/article/Haushalt-2027-Mehr-Schulden-neue-Prioritaeten-11370946.html",
-          "summary": "Das Kabinett Merz plant für 2027 ein Defizit von 118,7 Milliarden Euro. Während die Rüstung boomt, wird bei Bildung und Sozialem gekürzt. Eine Analyse.",
+          "title": "Ukraine eröffnet neue Front im Asowschen Meer",
+          "url": "https://www.telepolis.de/article/Ukraine-eroeffnet-neue-Front-im-Asowschen-Meer-11371563.html",
+          "summary": "Über hundert Angriffe auf Schiffe in wenigen Tagen: Kiew zielt nicht auf spektakuläre Versenkungen, sondern auf Russlands Krim-Logistik.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/1/9/9/8/0/schuldenbremse-2_ho-5f75c645fe26db1e.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/0/2/9/0/master_Asow-02b3d52edc4406b6.png"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespolitik: Prien: CDU wird Haltung zur Leihmutterschaft nicht zeitnah ändern",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-prien-leihmutterschaft-spahn-li.3516334",
-          "summary": "Nach dem Rücktritt Spahns wird weiter über Leihmutterschaft diskutiert. Grünen-Fraktionschefin Haßelmann fordert eine neue Auseinandersetzung mit Themen der Reproduktionsmedizin.",
+          "title": "Bundespolitik: BKA: Mehr als 17 000 Fälle sexueller Gewalt gegen Kinder",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-missbrauchsbericht-sexuelle-gewalt-kinder-dobrindt-li.3516334",
+          "summary": "Die Zahl der Kinder und Jugendlichen, die Opfer von Missbrauch werden, steigt. Vor allem Mädchen sind betroffen. Innenminister Dobrindt stellt dazu einen neuen Bericht des Bundeskriminalamts vor.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/21/97dd5369-0f64-4f2c-84f3-bd10f8557ac4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C261%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/21/ba37b429-212b-4e59-9b0e-3edcbedb0c49.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C211%2C4000%2C2250"
         },
         {
-          "title": "USA: Neue Zölle gegen Kanada – auf Hockeyschläger und Wein",
-          "url": "https://www.sueddeutsche.de/wirtschaft/usa-news-liveblog-trump-zoelle-kanada-li.3511620",
-          "summary": "Wegen eines Gerichtsurteils musste der US-Präsident mit seiner Zollpolitik erst kürzlich zurückrudern. Nun will er erneut gegen  „Kanadas diskriminierende Behandlung amerikanischer Produkte“ vorgehen.",
+          "title": "Bei Festspielen von Gloria von Thurn und Taxis: Peter Maffay mit klarem Appell gegen radikale Positionen",
+          "url": "https://www.sueddeutsche.de/bayern/regensburg-schlossfestspiele-gloria-thurn-und-taxis-peter-maffay-li.3517448",
+          "summary": "Peter Maffay positioniert sich bei den Schlossfestspielen in Regensburg im Beisein von Hausherrin Gloria von Thurn und Taxis: für Frieden, Demokratie und das Grundgesetz.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/01/24/4983b4a7-a9bd-4d7a-8d66-76b13eb70637.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=817%2C49%2C2258%2C1270"
+          "image": "https://www.sueddeutsche.de/2026/07/17/c4135c18-ac09-42d3-b0d0-23b2631248fd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C98%2C1890%2C1063"
         },
         {
-          "title": "Krieg in Nahost: USA: Weitere Angriffswelle gegen Iran beendet",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-militaer-li.3513707",
-          "summary": "Bereits die zehnte Nacht in Folge haben die USA Ziele in Iran angegriffen. Örtliche Medien meldeten Explosionen in mehreren Gebieten.",
+          "title": "Intelligenz: Das Rätsel um den sinkenden IQ",
+          "url": "https://www.sueddeutsche.de/wissen/anti-flynn-effekt-intelligenz-iq-intelligenttest-li.3515912",
+          "summary": "Lange schnitten Menschen bei Intelligenztests von Generation zu Generation besser ab, doch seit einiger Zeit kehrt sich der Effekt um. Woran liegt das?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/16/7fa95ff3-9307-487f-9a18-19833664eb12.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/07/20/10462a96-1249-413a-b68b-93dfc65c62f7.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2078%2C1169"
         }
       ]
     }
