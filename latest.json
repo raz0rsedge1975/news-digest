@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-20T22:00:18.002Z",
-  "timestamp": "21.7.2026, 00:00:18",
+  "generated": "2026-07-21T02:00:23.318Z",
+  "timestamp": "21.7.2026, 04:00:23",
   "news": [
     {
       "source": "FAZ",
@@ -51,9 +51,9 @@
           "image": "https://cdn.prod.www.spiegel.de/images/49f0ff68-1c79-405a-8328-3e5ececea9dd_w1200_r1.778_fpx31.07_fpy50.jpg"
         },
         {
-          "title": "Andy Burnham: Das sind die ersten Minister des neuen Premierministers",
+          "title": "Andy Burnham: Das sind die neuen Ministerinnen und Minister in Großbritannien",
           "url": "https://www.spiegel.de/ausland/andy-burnham-das-sind-die-ersten-minister-des-neuen-premierministers-a-3ff7d200-777c-4e0f-a697-7b33d280a3fb#ref=rss",
-          "summary": "Wenige Stunden nach seiner Ernennung zum neuen Premierminister des Vereinigten Königreichs stellt Andy Burnham das Kabinett neu auf. Der ehemalige Verteidigungsminister John Healey soll für Finanzen zuständig sein.",
+          "summary": "Wenige Stunden nach seiner Ernennung zum neuen Premierminister des Vereinigten Königreichs stellt Andy Burnham das Kabinett neu auf – und telefoniert mit Staats- und Regierungschefs. Erster Gesprächspartner: Donald Trump.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/3e869a35-238c-4f2b-8732-d15e2aff4ca1_w1200_r1.778_fpx71_fpy39.jpg"
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "DR Kongo: Zahl der Ebola-Infizierten steigt weiter",
+          "url": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-122.html",
+          "summary": "Der Ebola-Ausbruch in der DR Kongo ist weiterhin nicht unter Kontrolle. Die instabile Sicherheitslage, der allgemeine Mangel und das Misstrauen in der Bevölkerung erschweren die Eindämmung. Doch es gibt auch Lichtblicke.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a590dd14-8a09-4c37-960f-0dc102d98590/AAABn3-OGWo/AAABnSSvrFg/16x9-big/ebola-kongo-186.jpg?width=1280"
+        },
+        {
+          "title": "Großbritanniens neuer Premier Burnham bildet Kabinett um",
+          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-burnham-minister-100.html",
+          "summary": "Nach seiner Ernennung zum britischen Premier hat der Labour-Politiker Burnham Ministerposten neu besetzt. Mehrere Vertraute seines Vorgängers Starmer müssen das Kabinett verlassen. Ex-Parteichef Miliband wurde überraschend Außenminister.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/8070a0fa-55bb-45c2-8edd-5c2ed171c8c4/AAABn4GwcNg/AAABnSSvrFg/16x9-big/miliband-116.jpg?width=1280"
+        },
+        {
           "title": "Spanien feiert seine Fußballweltmeister",
           "url": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html",
           "summary": "Die spanische Fußballnationalmannschaft ist nach ihrem WM-Sieg euphorisch in der Heimat empfangen worden - von Fans, König Felipe und dem Ministerpräsidenten Sanchez. Von Nicholas Buschschlüter, zzt. ARD Madrid.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e6a939f3-3b38-4940-9f3d-ad8247471b6a/AAABn4EPB6c/AAABnSSvrFg/16x9-big/spanien-fussball-weltmeister-102.jpg?width=1280"
-        },
-        {
-          "title": "Schachgroßmeisterin Polgar will nicht Ungarns Präsidentin werden",
-          "url": "https://www.tagesschau.de/ausland/europa/ungarn-praesidentschaft-polgar-absage-100.html",
-          "summary": "In Ungarn gab es einen Dämpfer für den neuen Premier Magyar: Seine Wunschkandidatin für die Präsidentschaft, die Schachgroßmeisterin Judit Polgar, hat abgesagt. Die \"historische Verantwortung\" sei zu groß. Von Oliver Soos.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/21ed3c1b-4ae1-4979-98c1-c50e004284c4/AAABn4Db2eE/AAABnSSvrFg/16x9-big/judit-polgar-102.jpg?width=1280"
-        },
-        {
-          "title": "Bahn-Konkurrent Italo bestellt 26 Schnellzüge bei Siemens",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/italo-zuege-siemens-bestellung-100.html",
-          "summary": "Erst vor wenigen Tagen ebnete die Bundesnetzagentur den Einstieg des italienischen Zugunternehmens Italo in das deutsche Fernverkehrsnetz. Jetzt konkretisiert Italo seine Pläne - mit einer Bestellung für neue Schnellzüge.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/485e77b8-6d14-408d-bdc6-0bb83ed05283/AAABn4DdRKI/AAABnSSvrFg/16x9-big/siemens-bau-100.jpg?width=1280"
         }
       ]
     },
@@ -126,8 +126,8 @@
           "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-finale-fifa-ermittlungen-argentinien-paredes-schlag-li.3492650",
           "summary": "Nach dem Spiel ging unter anderem der Argentinier Paredes auf zwei Spanier los und sah dafür die rote Karte. Die Weltmeister lassen sich unterdessen in Madrid feiern.",
           "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/20/8ed6eb2e-0e75-457b-8947-77f9a3f44bbb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C110%2C2118%2C1191"
+          "paywall": false,
+          "image": null
         },
         {
           "title": "Bonhoeffer-Nachfahre Tobias Korenke: „Es ist ganz offensichtlich, dass die AfD zu allen Diktaturen ein Liebesverhältnis pflegt“",
