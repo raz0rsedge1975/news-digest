@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-22T18:00:07.981Z",
-  "timestamp": "22.7.2026, 20:00:07",
+  "generated": "2026-07-22T22:00:08.869Z",
+  "timestamp": "23.7.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Neuer Fraktionschef Frei: Jetzt kommt der Mann des Kanzlers",
-          "url": "https://www.faz.net/aktuell/politik/inland/merz-und-soeder-fuer-thorsten-frei-als-unionsfraktionschef-201054312.html",
-          "summary": "Mit Thorsten Frei soll ein Vertrauter von Friedrich Merz an die Spitze der Unionsfraktion rücken. Manche finden: ein zu Vertrauter.",
+          "title": "Der Markt der Leihmütter: Wie Amerika den Körper zur Ware macht",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/wie-die-usa-mit-leihmuettern-umgehen-201053121.html",
+          "summary": "Harvard und Schönheit treiben den Preis: In den USA kann man Eizellen kaufen, Leihmütter buchen und Embryonen vorselektieren. Was dort reproduktive Freiheit heißt, nennen Kritiker Eugenik.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/391d5a22826f/w4000h2090x0y170o/202607/43601.0.2360725776/friedrich-merz-und-thorsten.webp"
+          "image": "https://media0.faz.net/image/w1200h627/6279e6f5a13d/w6000h3135x0y498o/202607/43601.0.2357721333/was-macht-elternschaft-aus.webp"
         },
         {
-          "title": "Frei folgt auf Spahn: Eine Befreiung, aber noch kein Befreiungsschlag",
-          "url": "https://www.faz.net/aktuell/politik/inland/frei-folgt-spahn-befreiung-aber-kein-befreiungsschlag-201054455.html",
-          "summary": "Thorsten Frei ist für die Fraktionsspitze eine gute Wahl. Für Merz hängt aber alles vom neuen Kanzleramtschef ab.",
+          "title": "Leihmutterschaft: Die verdeckten Kosten des Altruismus",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/frauke-rostalski-und-die-kosten-der-leihmutterschaft-201054316.html",
+          "summary": "Frauke Rostalski, Mitglied im Deutschen Ethikrat, empfiehlt die Legalisierung altruistischer Leihmutterschaft zur Bekämpfung der kommerziellen Leihmutterschaft à la USA. Sie macht ihre Rechnung ohne die Leihmütter.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0bd446435539/w7118h3719x0y475o/202602/43601.0.1761361578/kabinettssitzung-thorsten-frei.webp"
+          "image": "https://media0.faz.net/image/w1200h627/1f582d81b704/w5184h2708x0y422o/201702/4397787146-dbed-11ea-972f-237a00511f13/kinderwunschmessen-finden-in.webp"
         },
         {
-          "title": "Künstliche Intelligenz: Open AI verliert die Kontrolle",
-          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/openai-verliert-kontrolle-ki-modelle-hacken-hugging-face-201054456.html",
-          "summary": "„Ein beispielloser Cyber-Zwischenfall“: Die KI-Technologie des ChatGPT-Entwicklers macht sich selbständig und verübt einen Hackingangriff. Das wirft viele Fragen auf.",
+          "title": "F.A.Z. PODCAST FÜR DEUTSCHLAND: Leihmutter Ja oder Nein? Debatte nach Spahn-Rücktritt",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/faz-podcast-leihmutter-ja-oder-nein-debatte-nach-spahn-ruecktritt-201054829.html",
+          "summary": "Die Entscheidung von Jens Spahn, über eine Leihmutter in den USA ein Kind zu bekommen, hat das Thema hier wieder auf den Tisch gebracht. Welche rechtlichen und ethischen Aspekte sind da wichtig?",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/451d66f1caa7/w3500h1828x0y252o/202607/43601.0.2359003853/keine-boesartige-absicht-open.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/695bbd6dea84/w4176h2181x0y302o/202607/43601.0.2357721788/4360102357721788.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Andy Burnham: Kann der neue Briten-Premier die Weltpolitik einfach auslagern?",
+          "url": "https://www.spiegel.de/ausland/andy-burnham-kann-der-neue-briten-premier-die-weltpolitik-einfach-auslagern-a-02a796bc-8c2b-4aa2-8adb-2598f27875b3#ref=rss",
+          "summary": "Gaza, Ukraine, Trump: Mit außenpolitischer Expertise ist Andy Burnham bislang nicht aufgefallen. Nun will der neue britische Premier vieles offenbar einem erfahrenen Minister überlassen – Ed Miliband. Doch das dürfte kaum funktionieren.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f6bda965-a15c-453e-8b33-f01adb88d2f4_w1200_r1.778_fpx52_fpy36.jpg"
+        },
+        {
           "title": "Saudi-Arabien, Donald Trump und der Kronprinz: Wird Riad jetzt Atommacht?",
           "url": "https://www.spiegel.de/ausland/saudi-arabien-donald-trump-und-der-kronprinz-wird-riad-jetzt-atommacht-a-03ec562b-d57b-43db-b398-2d453f24dabc#ref=rss",
           "summary": "Der Irankrieg eskaliert wieder – da billigen die USA ein Nuklearabkommen mit Saudi-Arabien. Das Königreich ist der Erzfeind der Ajatollahs und kann jubeln. Israel war – zumindest offiziell – nicht eingebunden.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/b36f2571-a270-4c7f-8f31-fbaa80b61be6_w1200_r1.778_fpx50_fpy35.jpg"
-        },
-        {
-          "title": "News des Tages: Spahn-Nachfolger wird Thorsten Frei, KI hackt sich eigenständig in Firmen-Systeme, Wirrer Walauftritt von Veterinärin",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-spahn-nachfolger-wird-thorsten-frei-ki-hackt-sich-eigenstaendig-in-firmen-systeme-wirrer-walauftritt-von-veterinaerin-a-bc141f0b-eee8-4a07-9230-f42b674dff0e#ref=rss",
-          "summary": "Eine KI bricht aus und gerät außer Kontrolle. Die Union bekommt nur den zweitbesten Mann als neuen Fraktionschef. Und eine Kleintierärztin irritiert mit einem Auftritt zur Wal-DNA von »Timmy«. Das ist die Lage am Mittwochabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Bundeswehr: Von der Ukraine könnten die Deutschen viel lernen. Wenn sie denn vor Ort wären",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Mychajlo Drapatyj: Ein Hoffnungsträger an der Spitze der ukrainischen Armee",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-neuer-oberbefehlshaber-100.html",
-          "summary": "Der Führungswechsel in der ukrainischen Armee bringt Hoffnung auf Reformen. Der neue Oberbefehlshaber Drapatyj genießt hohes Ansehen - doch auf ihn warten große Herausforderungen. Präsident Selenskyj geht angeschlagen aus der Krise.",
+          "title": "Prozess gegen Nicolás Maduro soll am 1. Juni 2027 beginnen",
+          "url": "https://www.tagesschau.de/ausland/amerika/maduro-prozess-100.html",
+          "summary": "Die USA machen dem abgesetzten venezolanischen Präsidenten Nicolás Maduro ab dem 1. Juni 2027 den Prozess. Dem 63-Jährigen droht eine lebenslange Haftstrafe wegen \"Drogenterrorismus\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f3d14a27-24f4-4766-ba6e-65c4b8188c85/AAABn4mQD5U/AAABnSSvrFg/16x9-big/drapatyj-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/717140c5-47fd-4c60-9ad7-36d3922676b6/AAABn4tmucI/AAABnSSvrFg/16x9-big/flagge-venezuela-104.jpg?width=1280"
         },
         {
-          "title": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-abloesung-syrskyj-selenskyj-100.html",
-          "summary": "Im Streit um die Führung der ukrainischen Armee sieht Sicherheitsexperte Nico Lange einen Kulturkampf zweier Generationen. Das habe Präsident Selenskyj unterschätzt. Die neue Spitze stehe für eine Kriegsführung, die Russland Probleme bereite.",
+          "title": "Experte zu KI-Hackerangriff: \"Hochgefährlich für die globale Cybersicherheit\"",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-hackerangriff-interview-100.html",
+          "summary": "Ein KI-Modell von OpenAI ist eigenständig in Computersysteme einer anderen Firma eingedrungen und hat so das Risiko von KI-Cyberattacken demonstriert. Dennis-Kenji Kipker vom Cyber Intelligence Institute in Frankfurt am Main zeigt sich nicht überrascht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9fd0e244-548b-4180-9f19-4f86a1d62d2d/AAABn4n1bOU/AAABnSSvrFg/16x9-big/chmara-syrskyi-selenskyj-drapatyj-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/884ded2f-18d9-4a95-8d55-7c392f022b4e/AAABn4tOwDo/AAABnSSvrFg/16x9-big/sendungsbild-1768678.jpg?width=1280"
         },
         {
-          "title": "Trump droht Iran bei Angriffen auf Schiffe mit Vergeltung",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-drohung-102.html",
-          "summary": "Präsident Trump verschärft seinen Ton gegenüber Teheran erneut: Sollte Iran weiter Schiffe in der Straße von Hormus beschießen, würden die USA zivile Infrastruktur zerstören. Auch aus Teheran kommen neue Drohungen.",
+          "title": "Waldbrände in Südeuropa: Der komplexe Kampf gegen das Feuer",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html",
+          "summary": "Wochenlange Hitze und Trockenheit sorgen in Spanien und Portugal weiter für Waldbrände. Einige erreichen Ausmaße, die selbst erfahrene Feuerwehrleute an ihre Grenzen bringen. Wissenschaftler sehen dafür mehrere Gründe. Von Anna Mundt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3f98b63-ae47-414d-bfb8-d4cf1d03c701/AAABn4p40zc/AAABnSSvrFg/16x9-big/strasse-von-hormus-schiffe-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/93619ccf-f22e-4880-951d-4b155722f831/AAABn4sngZU/AAABnSSvrFg/16x9-big/feuerwehrleute-spanien-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: US-Regierung unterzeichnet Atom-Deal mit Saudi-Arabien",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-saudi-arabien-nuklear-deal-li.3513707",
+          "summary": "US-Energieminister Wright und sein saudi-arabischer Amtskollege Abdulaziz bin Salman haben sich geeinigt, wie das US-Energieministerium auf X bekannt gibt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/22/cb07efc7-1403-46ec-b2b0-bb79db45ea44.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Zehnter Jahrestag: Gedenken zum OEZ-Anschlag: „Uns reichen staatstragende Worte nicht“",
           "url": "https://www.sueddeutsche.de/muenchen/oez-anschlag-muenchen-22-juli-gedenkveranstaltung-frank-walter-steinmeier-schweigeminute-mvg-livestream-li.3519163",
           "summary": "Die Gedenkfeier zum zehnten Jahrestag des Attentats am Olympia-Einkaufszentrum wird zur Abrechnung mit den Behörden. Angehörige der Ermordeten werfen dem Freistaat Intransparenz und Vertuschung vor.",
@@ -131,19 +139,11 @@
         },
         {
           "title": "Künstliche Intelligenz: Das kalte Grausen",
-          "url": "https://www.sueddeutsche.de/kultur/ki-selbststaendigkeit-bedrohung-openai-li.3518385",
+          "url": "https://www.sueddeutsche.de/kultur/ki-selbststaendigkeit-bedrohung-open-ai-li.3518385",
           "summary": "Eine KI „bricht aus“ – und sofort verbreiten sich Horrorvisionen einer Maschine, die ein Eigenleben entwickelt und sich gegen den Menschen richtet. Wie ernst muss man dieses Schreckensszenario nehmen?",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/22/7346f86a-dc43-4a7b-b8e1-88874209e756.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C74%2C3000%2C1687"
-        },
-        {
-          "title": "Deutsches Gesundheitssystem: 1900 Krankenhäuser – und trotzdem nicht gesünder",
-          "url": "https://www.sueddeutsche.de/wirtschaft/gesundheitssystem-deutschland-charite-krankenhaeuser-kosten-li.3519759",
-          "summary": "Deutschland leistet sich eines der teuersten Gesundheitssysteme, ist bei der Lebenserwartung aber nur Mittelmaß. Bei den Munich Economic Debates erklärt der Chef der Berliner Charité, wieso das so ist – und was sich ändern müsste.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/22/35e30c57-1a16-4f89-aae8-77c0b2112676.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C84%2C1620%2C911"
         }
       ]
     }
