@@ -1,10 +1,18 @@
 {
-  "generated": "2026-07-22T14:00:09.012Z",
-  "timestamp": "22.7.2026, 16:00:09",
+  "generated": "2026-07-22T18:00:07.981Z",
+  "timestamp": "22.7.2026, 20:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Neuer Fraktionschef Frei: Jetzt kommt der Mann des Kanzlers",
+          "url": "https://www.faz.net/aktuell/politik/inland/merz-und-soeder-fuer-thorsten-frei-als-unionsfraktionschef-201054312.html",
+          "summary": "Mit Thorsten Frei soll ein Vertrauter von Friedrich Merz an die Spitze der Unionsfraktion rücken. Manche finden: ein zu Vertrauter.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/391d5a22826f/w4000h2090x0y170o/202607/43601.0.2360725776/friedrich-merz-und-thorsten.webp"
+        },
         {
           "title": "Frei folgt auf Spahn: Eine Befreiung, aber noch kein Befreiungsschlag",
           "url": "https://www.faz.net/aktuell/politik/inland/frei-folgt-spahn-befreiung-aber-kein-befreiungsschlag-201054455.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/0bd446435539/w7118h3719x0y475o/202602/43601.0.1761361578/kabinettssitzung-thorsten-frei.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Merz und Söder schlagen Frei als Fraktionschef vor",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-spahn-nachfolge-thorsten-frei-soll-fraktionschef-der-union-werden-faz-110093143.html",
-          "summary": "Schalte mit Vorstand der Unionsfraktion +++ Unklar, wer Frei im Kanzleramt nachfolgt +++ Kretschmer: Wer noch über Brandmauern redet, hat die Zeichen der Zeit nicht erkannt +++ alle Entwicklungen im Liveblog",
+          "title": "Künstliche Intelligenz: Open AI verliert die Kontrolle",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/openai-verliert-kontrolle-ki-modelle-hacken-hugging-face-201054456.html",
+          "summary": "„Ein beispielloser Cyber-Zwischenfall“: Die KI-Technologie des ChatGPT-Entwicklers macht sich selbständig und verübt einen Hackingangriff. Das wirft viele Fragen auf.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/67c147352b1a/w6144h3210x0y542o/202607/43601.0.2360998126/friedrich-merz-und-thorsten.webp"
-        },
-        {
-          "title": "Der lange Weg zur Elternschaft: Und die Leihmutter sagte: „Enjoy your baby“",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/leihmutterschaft-in-den-usa-der-lange-weg-zum-kind-accg-201050106.html",
-          "summary": "Jens Spahns Weg zum Wunschkind wirft ein Schlaglicht auf das Familienmodell Leihmutterschaft. Zwei schwule Väter aus Nordrhein-Westfalen haben die gleiche Entscheidung getroffen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5fc97280f15d/w4032h2106x0y81o/202607/43601.0.2357021414/seit-fast-zwei-jahren-vaeter.webp"
+          "image": "https://media0.faz.net/image/w1200h627/451d66f1caa7/w3500h1828x0y252o/202607/43601.0.2359003853/keine-boesartige-absicht-open.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Thorsten Frei (CDU): Warum der neue Unionsfraktionschef nur zweite Wahl ist",
-          "url": "https://www.spiegel.de/politik/thorsten-frei-cdu-warum-der-neue-unionsfraktionschef-nur-zweite-wahl-ist-a-c778c0e9-d007-4896-ac0d-228b3700461d#ref=rss",
-          "summary": "Die Nachfolge von Jens Spahn ist geregelt. Kanzleramtschef Thorsten Frei soll Vorsitzender der Unionsfraktion werden. Das folgt einer Logik von gestern.",
+          "title": "Saudi-Arabien, Donald Trump und der Kronprinz: Wird Riad jetzt Atommacht?",
+          "url": "https://www.spiegel.de/ausland/saudi-arabien-donald-trump-und-der-kronprinz-wird-riad-jetzt-atommacht-a-03ec562b-d57b-43db-b398-2d453f24dabc#ref=rss",
+          "summary": "Der Irankrieg eskaliert wieder – da billigen die USA ein Nuklearabkommen mit Saudi-Arabien. Das Königreich ist der Erzfeind der Ajatollahs und kann jubeln. Israel war – zumindest offiziell – nicht eingebunden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/731f7aac-4cdd-463d-abe6-f42b57ff7f1c_w1200_r1.778_fpx45.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b36f2571-a270-4c7f-8f31-fbaa80b61be6_w1200_r1.778_fpx50_fpy35.jpg"
         },
         {
-          "title": "Jens Spahn und die Coronamasken: Gerichtsurteil erspart Bund hohen Millionenschaden",
-          "url": "https://www.spiegel.de/panorama/jens-spahn-und-die-corona-masken-gerichtsurteil-erspart-bund-hohen-millionenschaden-a-9fca8662-dc80-4fbc-95aa-28805d0d3804#ref=rss",
-          "summary": "Das Bonner Landgericht hat die Klage eines Hamburger Händlers abgewiesen. Der Maskenschlamassel ist für den Bund mit dem Urteil aber noch nicht beendet.",
+          "title": "News des Tages: Spahn-Nachfolger wird Thorsten Frei, KI hackt sich eigenständig in Firmen-Systeme, Wirrer Walauftritt von Veterinärin",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-spahn-nachfolger-wird-thorsten-frei-ki-hackt-sich-eigenstaendig-in-firmen-systeme-wirrer-walauftritt-von-veterinaerin-a-bc141f0b-eee8-4a07-9230-f42b674dff0e#ref=rss",
+          "summary": "Eine KI bricht aus und gerät außer Kontrolle. Die Union bekommt nur den zweitbesten Mann als neuen Fraktionschef. Und eine Kleintierärztin irritiert mit einem Auftritt zur Wal-DNA von »Timmy«. Das ist die Lage am Mittwochabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b6cd195c-7319-44c2-b80a-6b01f00d680c_w1200_r1.778_fpx54_fpy48.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Michael Kretschmer: CDU-Ministerpräsident will »mit jedem reden, der reden will«",
-          "url": "https://www.spiegel.de/politik/deutschland/michael-kretschmer-cdu-ministerpraesident-von-sachsen-will-mit-jedem-reden-der-reden-will-a-f85a8cdb-342d-43c5-8f3b-1f267f7b392e#ref=rss",
-          "summary": "Wie stoppt man den Aufstieg der AfD? Ministerpräsident Michael Kretschmer regiert in Sachsen mit einer Minderheitsregierung. Dafür müsse man aber auch allen das Gespräch anbieten, sagt er.",
+          "title": "Bundeswehr: Von der Ukraine könnten die Deutschen viel lernen. Wenn sie denn vor Ort wären",
+          "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-von-der-ukraine-koennten-die-deutschen-viel-lernen-wenn-sie-denn-vor-ort-waeren-a-4c0a3b8e-3458-4a54-83e7-9389ee459540#ref=rss",
+          "summary": "Deutschland unterstützt die ukrainische Armee mit Milliarden. Davon könnte auch die Bundeswehr profitieren. Doch bei einer Reise machen zwei Abgeordnete ernüchternde Beobachtungen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c5949619-ff5b-4519-ae66-de83bfdebe35_w1200_r1.778_fpx52_fpy39.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5419411c-cea2-4864-a631-ae4943aa6324_w1200_r1.778_fpx41_fpy46.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "ARD-Korrespondent: \"Merz hat mit Frei jemanden geholt, der klar auf Kurs ist\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktionsvorsitz-100.html",
-          "summary": "Thorsten Frei soll Unionsfraktionschef im Bundestag werden. Für Kanzler Merz sei er ein enger Vertrauter, auf den er sich auch schon in der Vergangenheit verlassen konnte, so ARD-Korrespondent Kuntschner.",
+          "title": "Mychajlo Drapatyj: Ein Hoffnungsträger an der Spitze der ukrainischen Armee",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-neuer-oberbefehlshaber-100.html",
+          "summary": "Der Führungswechsel in der ukrainischen Armee bringt Hoffnung auf Reformen. Der neue Oberbefehlshaber Drapatyj genießt hohes Ansehen - doch auf ihn warten große Herausforderungen. Präsident Selenskyj geht angeschlagen aus der Krise.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/78a4f056-c5e1-445d-8604-150c8e5749ec/AAABn4nl4qE/AAABnSSvrFg/16x9-big/kuntschner-interview-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f3d14a27-24f4-4766-ba6e-65c4b8188c85/AAABn4mQD5U/AAABnSSvrFg/16x9-big/drapatyj-100.jpg?width=1280"
         },
         {
-          "title": "Tech-Firmen am Finanzmarkt: Was KI kostet und wer das alles bezahlt",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/kuenstliche-intelligenz-kosten-100.html",
-          "summary": "Der KI-Boom wird immer stärker über Schulden finanziert. Tech-Konzerne nehmen am Anleihemarkt Milliarden auf. Ob die Wette auf die Zukunft aufgeht, ist keine ausgemachte Sache. Von Claudia Wehrle.",
+          "title": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-abloesung-syrskyj-selenskyj-100.html",
+          "summary": "Im Streit um die Führung der ukrainischen Armee sieht Sicherheitsexperte Nico Lange einen Kulturkampf zweier Generationen. Das habe Präsident Selenskyj unterschätzt. Die neue Spitze stehe für eine Kriegsführung, die Russland Probleme bereite.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/20abe802-6009-4899-b8b5-39aac5fc1979/AAABn4OtNUg/AAABnSSvrFg/16x9-big/rechenzentrum-182.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9fd0e244-548b-4180-9f19-4f86a1d62d2d/AAABn4n1bOU/AAABnSSvrFg/16x9-big/chmara-syrskyi-selenskyj-drapatyj-100.jpg?width=1280"
         },
         {
-          "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-hackerangriff-folgen-100.html",
-          "summary": "Erstmals ist ein KI-System eigenständig aus einer Testumgebung ausgebrochen und hat ein anderes Unternehmen angegriffen. Welche Risiken stecken dahinter? Wie können sich Firmen und Privatpersonen schützen? Von Michelle Goddemeier.",
+          "title": "Trump droht Iran bei Angriffen auf Schiffe mit Vergeltung",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-drohung-102.html",
+          "summary": "Präsident Trump verschärft seinen Ton gegenüber Teheran erneut: Sollte Iran weiter Schiffe in der Straße von Hormus beschießen, würden die USA zivile Infrastruktur zerstören. Auch aus Teheran kommen neue Drohungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3fbd36d8-dc63-4fc4-ab0b-38c3465a4c6d/AAABn4nSOB4/AAABnSSvrFg/16x9-big/server-rechenzentrum-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a3f98b63-ae47-414d-bfb8-d4cf1d03c701/AAABn4p40zc/AAABnSSvrFg/16x9-big/strasse-von-hormus-schiffe-110.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "AfD-Regierung: Was MDR und NDR nach den Landtagswahlen drohen könnte",
+          "url": "https://www.telepolis.de/article/AfD-Regierung-Was-MDR-und-NDR-nach-den-Landtagswahlen-drohen-koennte-11373623.html",
+          "summary": "Die Debatte ist keine Theorie mehr: Sender, Juristen und Länder bereiten sich auf den Fall einer AfD-Regierung in Ostdeutschland vor.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/1/3/4/8/master_mdr-1113fa774f0c26d1.jpg"
+        },
         {
           "title": "Höchster Wert seit Kriegsbeginn: EU-Gaspreis klettert auf 62,72 Euro pro MWh",
           "url": "https://www.telepolis.de/article/Hoechster-Wert-seit-Kriegsbeginn-EU-Gaspreis-klettert-auf-62-72-Euro-pro-MWh-11373685.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/1/2/3/7/shutterstock_2569665221-73b9ecea964199aa.jpg"
-        },
-        {
-          "title": "Philippinen rüsten Luftwaffe und Marine massiv auf",
-          "url": "https://www.telepolis.de/article/Philippinen-ruesten-Luftwaffe-und-Marine-massiv-auf-11372157.html",
-          "summary": "Manila investiert Milliarden in neue Waffensysteme. Die USA stationieren Raketen und Südkorea liefert Schlachtschiffe. Deutschland hofft auf einen U-Boot-Deal.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/0/5/9/8/2024-04-26_PMC_ATGL-L2-813e79fb14a77f14.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Anschlag vor zehn Jahren: München erinnert an die neun OEZ-Opfer – das Gedenken im Livestream",
+          "title": "Zehnter Jahrestag: Gedenken zum OEZ-Anschlag: „Uns reichen staatstragende Worte nicht“",
           "url": "https://www.sueddeutsche.de/muenchen/oez-anschlag-muenchen-22-juli-gedenkveranstaltung-frank-walter-steinmeier-schweigeminute-mvg-livestream-li.3519163",
-          "summary": "Bei der Veranstaltung am Olympia-Einkaufszentrum sprechen Angehörige der Opfer und der Bundespräsident. Am Nachmittag stehen Busse und Bahnen für eine Minute still.",
+          "summary": "Die Gedenkfeier zum zehnten Jahrestag des Attentats am Olympia-Einkaufszentrum wird zur Abrechnung mit den Behörden. Angehörige der Ermordeten werfen dem Freistaat Intransparenz und Vertuschung vor.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/21/8ad2d23b-2b4d-4638-b08f-ee87f57fd0a6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=60%2C0%2C3879%2C2182"
+          "image": "https://www.sueddeutsche.de/2026/07/22/6e1c8001-fe85-4315-96c0-6a5bc6c2dd50.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C420%2C4000%2C2250"
         },
         {
-          "title": "Immobilien: So teuer sind die Mieten in deutschen Großstädten",
-          "url": "https://www.sueddeutsche.de/panorama/immobilien-deutschland-mieten-wohnen-muenchen-grossstadt-li.3519877",
-          "summary": "Die Angebotsmieten steigen so gut wie überall an, nur in Berlin wird Wohnen ein kleines bisschen günstiger. In München liegt die durchschnittliche Kaltmiete mittlerweile bei fast 24 Euro pro Quadratmeter.",
+          "title": "Künstliche Intelligenz: Das kalte Grausen",
+          "url": "https://www.sueddeutsche.de/kultur/ki-selbststaendigkeit-bedrohung-openai-li.3518385",
+          "summary": "Eine KI „bricht aus“ – und sofort verbreiten sich Horrorvisionen einer Maschine, die ein Eigenleben entwickelt und sich gegen den Menschen richtet. Wie ernst muss man dieses Schreckensszenario nehmen?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/04/05/6a9844e8-4ae3-4a0e-bba9-182149bfb419.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C180%2C3465%2C1949"
+          "image": "https://www.sueddeutsche.de/2026/07/22/7346f86a-dc43-4a7b-b8e1-88874209e756.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C74%2C3000%2C1687"
         },
         {
-          "title": "DNA-Vergleich: „Timmys“ Rückkehr aus dem Totenreich",
-          "url": "https://www.sueddeutsche.de/panorama/buckelwal-timmy-dna-analyse-kirsten-toennies-li.3519812",
-          "summary": "Die Tierärztin und „Timmy“-Retterin Kirsten Tönnies lässt anklingen, der Buckelwal könnte vielleicht doch noch leben. Wissenschaftler sind da anderer Meinung.",
+          "title": "Deutsches Gesundheitssystem: 1900 Krankenhäuser – und trotzdem nicht gesünder",
+          "url": "https://www.sueddeutsche.de/wirtschaft/gesundheitssystem-deutschland-charite-krankenhaeuser-kosten-li.3519759",
+          "summary": "Deutschland leistet sich eines der teuersten Gesundheitssysteme, ist bei der Lebenserwartung aber nur Mittelmaß. Bei den Munich Economic Debates erklärt der Chef der Berliner Charité, wieso das so ist – und was sich ändern müsste.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/09/32a00b40-ec49-4477-848e-4654f093d4a0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/22/35e30c57-1a16-4f89-aae8-77c0b2112676.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C84%2C1620%2C911"
         }
       ]
     }
