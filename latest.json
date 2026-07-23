@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T22:00:08.869Z",
-  "timestamp": "23.7.2026, 00:00:08",
+  "generated": "2026-07-23T02:00:07.865Z",
+  "timestamp": "23.7.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Saudi-Arabien, Donald Trump und der Kronprinz: Wird Riad jetzt Atommacht?",
+          "url": "https://www.spiegel.de/ausland/saudi-arabien-donald-trump-und-der-kronprinz-wird-riad-jetzt-atommacht-a-03ec562b-d57b-43db-b398-2d453f24dabc#ref=rss",
+          "summary": "Der Irankrieg eskaliert wieder – da billigen die USA ein Nuklearabkommen mit Saudi-Arabien. Das Königreich ist der Erzfeind der Ajatollahs und kann jubeln. Israel war zumindest offiziell nicht eingebunden.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/b36f2571-a270-4c7f-8f31-fbaa80b61be6_w1200_r1.778_fpx50_fpy35.jpg"
+        },
+        {
           "title": "Andy Burnham: Kann der neue Briten-Premier die Weltpolitik einfach auslagern?",
           "url": "https://www.spiegel.de/ausland/andy-burnham-kann-der-neue-briten-premier-die-weltpolitik-einfach-auslagern-a-02a796bc-8c2b-4aa2-8adb-2598f27875b3#ref=rss",
           "summary": "Gaza, Ukraine, Trump: Mit außenpolitischer Expertise ist Andy Burnham bislang nicht aufgefallen. Nun will der neue britische Premier vieles offenbar einem erfahrenen Minister überlassen – Ed Miliband. Doch das dürfte kaum funktionieren.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/f6bda965-a15c-453e-8b33-f01adb88d2f4_w1200_r1.778_fpx52_fpy36.jpg"
-        },
-        {
-          "title": "Saudi-Arabien, Donald Trump und der Kronprinz: Wird Riad jetzt Atommacht?",
-          "url": "https://www.spiegel.de/ausland/saudi-arabien-donald-trump-und-der-kronprinz-wird-riad-jetzt-atommacht-a-03ec562b-d57b-43db-b398-2d453f24dabc#ref=rss",
-          "summary": "Der Irankrieg eskaliert wieder – da billigen die USA ein Nuklearabkommen mit Saudi-Arabien. Das Königreich ist der Erzfeind der Ajatollahs und kann jubeln. Israel war – zumindest offiziell – nicht eingebunden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b36f2571-a270-4c7f-8f31-fbaa80b61be6_w1200_r1.778_fpx50_fpy35.jpg"
         },
         {
           "title": "Bundeswehr: Von der Ukraine könnten die Deutschen viel lernen. Wenn sie denn vor Ort wären",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Prozess gegen Nicolás Maduro soll am 1. Juni 2027 beginnen",
-          "url": "https://www.tagesschau.de/ausland/amerika/maduro-prozess-100.html",
-          "summary": "Die USA machen dem abgesetzten venezolanischen Präsidenten Nicolás Maduro ab dem 1. Juni 2027 den Prozess. Dem 63-Jährigen droht eine lebenslange Haftstrafe wegen \"Drogenterrorismus\".",
+          "title": "Neue US-Angriffe gegen den Iran",
+          "url": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html",
+          "summary": "Es ist die zwölfte Angriffsnacht in Folge: Erneut hat das US-Militär Ziele in Iran attackiert. US-Präsident Trump hatte seine Drohungen gegen das Land zuvor noch einmal verschärft.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/717140c5-47fd-4c60-9ad7-36d3922676b6/AAABn4tmucI/AAABnSSvrFg/16x9-big/flagge-venezuela-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b140d380-7a09-42d1-9a5d-08b5552a41ee/AAABn1ZCZRM/AAABnSSvrFg/16x9-big/bahrain-iran-katar-kuwait-oman-vae-100.jpg?width=1280"
         },
         {
-          "title": "Experte zu KI-Hackerangriff: \"Hochgefährlich für die globale Cybersicherheit\"",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-hackerangriff-interview-100.html",
-          "summary": "Ein KI-Modell von OpenAI ist eigenständig in Computersysteme einer anderen Firma eingedrungen und hat so das Risiko von KI-Cyberattacken demonstriert. Dennis-Kenji Kipker vom Cyber Intelligence Institute in Frankfurt am Main zeigt sich nicht überrascht.",
+          "title": "USA und Saudi-Arabien: Atomabkommen in Washington unterzeichnet",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-saudi-arabien-atomabkommen-100.html",
+          "summary": "Inmitten des Iran-Kriegs haben die USA ein Abkommen zum Aufbau eines zivilen Atomprogramms in Saudi-Arabien abgeschlossen. Der US-Kongress muss die Vereinbarung jedoch noch prüfen - und dort gibt es große Bedenken.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/884ded2f-18d9-4a95-8d55-7c392f022b4e/AAABn4tOwDo/AAABnSSvrFg/16x9-big/sendungsbild-1768678.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e446b358-5ac8-4205-ab5f-bdb9c1e29091/AAABn4w8Occ/AAABnSSvrFg/16x9-big/trump-bin-salman-114.jpg?width=1280"
         },
         {
-          "title": "Waldbrände in Südeuropa: Der komplexe Kampf gegen das Feuer",
-          "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html",
-          "summary": "Wochenlange Hitze und Trockenheit sorgen in Spanien und Portugal weiter für Waldbrände. Einige erreichen Ausmaße, die selbst erfahrene Feuerwehrleute an ihre Grenzen bringen. Wissenschaftler sehen dafür mehrere Gründe. Von Anna Mundt.",
+          "title": "Aktuelle Dürre in Europa durch Klimawandel verursacht",
+          "url": "https://www.tagesschau.de/wissen/klima/duerre-europa-klimawandel-100.html",
+          "summary": "Die aktuelle Dürre ist nicht nur in großen Teilen Deutschlands, sondern in ganz Europa sichtbar. Aktuelle Forschung zeigt: Das ist der Klimawandel. Fehlender Regen spielt eher eine untergeordnete Rolle. Von Florian Zinner.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/93619ccf-f22e-4880-951d-4b155722f831/AAABn4sngZU/AAABnSSvrFg/16x9-big/feuerwehrleute-spanien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7119e828-caf4-47b5-9337-6dce48d27acf/AAABn4QFZUM/AAABnSSvrFg/16x9-big/niedrigwasser-elbe-160.jpg?width=1280"
         }
       ]
     },
@@ -122,12 +122,20 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: US-Regierung unterzeichnet Atom-Deal mit Saudi-Arabien",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-saudi-arabien-nuklear-deal-li.3513707",
-          "summary": "US-Energieminister Wright und sein saudi-arabischer Amtskollege Abdulaziz bin Salman haben sich geeinigt, wie das US-Energieministerium auf X bekannt gibt.",
+          "title": "Milliarden-Partnerschaft: USA und Saudi-Arabien unterzeichnen Atomabkommen - Experten reagieren besorgt",
+          "url": "https://www.sueddeutsche.de/politik/usa-saudi-arabien-abkommen-kernenergie-atom-atomwaffen-li.3520177",
+          "summary": "Das Abkommen ermöglicht US-Unternehmen, in saudische Atomkraftwerke zu investieren. Kritiker befürchten, es könnte den Weg für saudische Atomwaffen ebnen - und Iran provozieren.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/22/cb07efc7-1403-46ec-b2b0-bb79db45ea44.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/22/37cd43c2-802c-4555-b963-45007e1f2672.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
+          "title": "Krieg in Nahost: USA greifen weiter Iran an - Huthi beschießen Öltanker",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-saudi-arabien-nuklear-deal-li.3513707",
+          "summary": "Trump glaubt nicht, dass Iran für einen Deal bereit ist - und droht indirekt gen Teheran. Das US-Militär greift weiter iranische Ziele an. Derweil beschießt die Huthi-Miliz im Roten Meer zwei Öltanker.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/13/58bb51bc-7de8-4c8e-b40d-33f336b87c64.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
         },
         {
           "title": "Zehnter Jahrestag: Gedenken zum OEZ-Anschlag: „Uns reichen staatstragende Worte nicht“",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/22/6e1c8001-fe85-4315-96c0-6a5bc6c2dd50.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C420%2C4000%2C2250"
-        },
-        {
-          "title": "Künstliche Intelligenz: Das kalte Grausen",
-          "url": "https://www.sueddeutsche.de/kultur/ki-selbststaendigkeit-bedrohung-open-ai-li.3518385",
-          "summary": "Eine KI „bricht aus“ – und sofort verbreiten sich Horrorvisionen einer Maschine, die ein Eigenleben entwickelt und sich gegen den Menschen richtet. Wie ernst muss man dieses Schreckensszenario nehmen?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/22/7346f86a-dc43-4a7b-b8e1-88874209e756.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C74%2C3000%2C1687"
         }
       ]
     }
