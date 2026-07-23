@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-23T18:00:08.322Z",
-  "timestamp": "23.7.2026, 20:00:08",
+  "generated": "2026-07-23T22:00:09.575Z",
+  "timestamp": "24.7.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Bessent erwägt Sanktionen: USA werfen China KI-Diebstahl vor",
-          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/moonshot-ai-usa-werfen-china-ki-diebstahl-vor-201058257.html",
-          "summary": "Ein neues KI-Modell von Moonshot AI rüttelt an der Vormachtstellung von Open AI und Anthropic. Washington droht jetzt mit neuen Sanktionen. In Deutschland wird Chinas KI derweil immer beliebter.",
+          "title": "Handelspolitik: Trump kündigt neue Zölle an – auch gegen die EU",
+          "url": "https://www.faz.net/aktuell/wirtschaft/donald-trump-kuendigt-neue-zoelle-gegen-eu-an-201060189.html",
+          "summary": "Der US-Präsident verhängt neue Zölle, um auslaufende Zölle zu ersetzen. Fast alle Handelspartner sind betroffen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fc6677603cfa/w5117h2673x1007y1352o/202607/43601.0.2347391522/mondlandung-der-stand-von.webp"
+          "image": "https://media0.faz.net/image/w1200h627/be31baedc8e3/w4480h2340x0y93o/202508/43601.0.1205243863/neue-begruendung-alte-politik.webp"
         },
         {
-          "title": "Pekings Strategie: Der Autowelle folgt der KI-Angriff aus China",
-          "url": "https://www.faz.net/premium/weltwirtschaft/weltwissen/chinas-ki-strategie-aufstieg-wie-in-der-autoindustrie-accg-201054673.html",
-          "summary": "Chinas Künstliche Intelligenz erobert die Welt. Grund dafür ist der größte Talentpool der Erde – und ein fast zehn Jahre alter Masterplan.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/4c6251bebc77/w4616h2411x844y648o/v/2026/07/22/f9C53nxl/ki-bald-auch-in-der-oper.webp"
-        },
-        {
-          "title": "Künstliche Intelligenz: Open AI verliert die Kontrolle",
-          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/openai-warum-das-unternehmen-die-kontrolle-ueber-seine-ki-verlor-201054456.html",
-          "summary": "„Ein beispielloser Cyber-Zwischenfall“: Die KI-Technologie des ChatGPT-Entwicklers macht sich selbständig und verübt einen Hackingangriff. Das wirft viele Fragen auf.",
+          "title": "USA unter Trump: Trump kündigt Besuch von Xi Jinping an",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-kuendigt-besuch-von-xi-jinping-an-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump soll republikanischen Senator angeschrien haben / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/451d66f1caa7/w3500h1828x0y252o/202607/43601.0.2359003853/keine-boesartige-absicht-open.webp"
+          "image": "https://media0.faz.net/image/w1200h627/54c6b5b1a78d/w5000h2612x0y360o/202607/43601.0.2343941818/us-praesident-donald-trump.webp"
+        },
+        {
+          "title": "Warken ins Kanzleramt: Ein Job mit viel Einfluss – und noch mehr Arbeit",
+          "url": "https://www.faz.net/aktuell/politik/inland/bundeskanzleramt-warken-folgt-auf-frei-linnemann-wohl-auf-warken-201057786.html",
+          "summary": "Friedrich Merz tat sich offenbar nicht leicht, einen neuen Kanzleramtsminister zu finden. Nun wird es eine Ministerin – und ein Vertrauter kommt endlich ins Kabinett.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ecf8352128c9/w3000h1567x0y373o/202509/43601.0.1266677492/kabinettsumbildung-cdu.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "CDU: Nina Warken soll Kanzleramtschefin werden, Carsten Linnemann das Gesundheitsministerium übernehmen",
-          "url": "https://www.spiegel.de/politik/deutschland/cdu-nina-warken-soll-kanzleramt-uebernehmen-carsten-linnemann-das-gesundheitsministerium-a-808eb728-e42a-49b8-bb51-50acb1c94da4#ref=rss",
-          "summary": "Der Kanzler baut seine Regierung um: Gesundheitsministerin Nina Warken soll nach SPIEGEL-Informationen die Lücke im Kanzleramt schließen. Ihr würde wiederum ein weiterer Vertrauter von Friedrich Merz folgen.",
+          "title": "Donald Trump kündigt neue Strafzölle gegen 60 Handelspartner an",
+          "url": "https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-neue-strafzoelle-gegen-60-handelspartner-an-a-c193b077-53db-423a-955a-15b12fef34d7#ref=rss",
+          "summary": "Die weltweiten zehnprozentigen Zölle sind gerade ausgelaufen – da legt Trump nach: Die US-Regierung will zusätzliche Zölle auf Importe aus rund 60 Ländern. Als Begründung nennt Washington unzureichende Maßnahmen gegen Zwangsarbeit.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b96fd4b2-aad7-4cc3-b4b4-93ce9c94474b_w1200_r1.778_fpx60_fpy37.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/749fa188-6bb2-4eab-bd75-f76ee995414e_w1200_r1.778_fpx33.33_fpy49.99.jpg"
         },
         {
-          "title": "News des Tages: EU-Rekordstrafe für Google, Andy Burnham senkt Gewerbesteuer für Pubs, digitaler Kassenbon",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-eu-rekordstrafe-fuer-google-andy-burnham-senkt-gewerbesteuer-fuer-pubs-digitaler-kassenbon-a-42cfd76a-b4ac-414d-97c1-94d7cdf52b73#ref=rss",
-          "summary": "Der frische britische Premier senkt die Steuern für Pubs. Die EU verhängt eine Rekordstrafe von 890 Millionen Euro gegen Google. Und in Deutschland soll der Kassenbon digital werden. Das ist die Lage am Donnerstagabend.",
+          "title": "Bundesregierung: Der Kanzler wagt beim Kabinettsumbau eine riskante Operation",
+          "url": "https://www.spiegel.de/politik/deutschland/bundesregierung-der-kanzler-wagt-beim-kabinettsumbau-eine-riskante-operation-a-1b657e52-1027-46af-98ac-7a99f527e7d3#ref=rss",
+          "summary": "Friedrich Merz will Nina Warken zur Kanzleramtschefin machen und sie im Gesundheitsministerium durch Generalsekretär Carsten Linnemann ersetzen. Geht der Plan schief, müssen es die Bürgerinnen und Bürger ausbaden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/bef16e5a-e29b-4b4a-9d19-1575321a0c44_w1200_r1.778_fpx47.65_fpy50.jpg"
         },
         {
-          "title": "Regensburg: Mutmaßlicher Täter nach möglicher Geiselnahme in Bankfiliale festgenommen",
-          "url": "https://www.spiegel.de/panorama/justiz/regensburg-moegliche-geiselnahme-in-bankfiliale-ein-mensch-lebensgefaehrlich-verletzt-a-d732acdd-5560-4e32-bfea-2a4c6046b832#ref=rss",
-          "summary": "Die Polizei ist in Regensburg mit einem Großaufgebot ausgerückt. Ein Mann hat in einer Bankfiliale bei einer mutmaßlichen Geiselnahme einen Menschen tödlich verletzt. Die Bevölkerung soll das Gebiet meiden.",
+          "title": "USA: Demokraten setzen Zeichen gegen Trumps Iran-Kurs, der US-Präsident droht mit Eskalation",
+          "url": "https://www.spiegel.de/ausland/usa-demokraten-setzen-zeichen-gegen-trumps-iran-kurs-der-us-praesident-droht-mit-eskalation-a-a39c5758-66af-4640-9ddf-06b48e554f92#ref=rss",
+          "summary": "Erneut spricht sich das US-Repräsentantenhaus mit einer Resolution gegen den Irankrieg aus. Der symbolische Widerstand beeindruckt Donald Trump jedoch nicht, in einem Interview droht er Teheran mit einer »massiven Attacke«.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bdf5ecd1-8d93-4f5d-a04e-8644ef951d44_w1200_r1.778_fpx37.33_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bb9f361f-3d49-4877-85a7-e555412661a0_w1200_r1.778_fpx46.66_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Rubio-Lawrow-Treffen in Manila: \"Nicht übermäßig optimistisch\"",
-          "url": "https://www.tagesschau.de/ausland/asien/russland-usa-lawrow-rubio-100.html",
-          "summary": "Die Außenminister von USA und Russland haben sich in Manila am Rande des ASEAN-Treffens getroffen. Dabei ging es auch um den Angriffskrieg gegen die Ukraine. Doch wirklich näher kam man sich dabei offenbar nicht. Von Björn Blaschke.",
+          "title": "Linnemann: \"Einfach mal machen\" im Gesundheitsministerium?",
+          "url": "https://www.tagesschau.de/inland/linnemann-portraet-gesundheitsministerium-100.html",
+          "summary": "\"Einfach mal machen\" ist das Credo von Carsten Linnemann. Ob das auch im Gesundheitsministerium klappt, das der CDU-Generalsekretär nun offenbar übernehmen soll? Die Herausforderungen sind jedenfalls groß. Von Sabine Henkel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/51dcb3bf-1bf6-4583-b48a-aaa7b3f8cd9a/AAABn4_RuIU/AAABnSSvrFg/16x9-big/rubio-lawrow-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/df794417-ebd8-4247-ba6a-d979cb2979bf/AAABn5B413E/AAABnSSvrFg/16x9-big/linnemann-170.jpg?width=1280"
         },
         {
-          "title": "Abschiebungen nach Afghanistan bald nicht nur für Straftäter?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-144.html",
-          "summary": "Seit dem Regierungswechsel wurden 173 Männer nach Afghanistan abgeschoben. Bald könnte es auch Afghanen treffen, die nicht straffällig geworden sind. Die Vorbereitungen dafür laufen. Von Claudia Kornmeier und Philipp Eckstein.",
+          "title": "Außenminister Wadephul trifft Amtskollegen Lamolla in Südafrika",
+          "url": "https://www.tagesschau.de/ausland/afrika/wadephul-suedafrika-100.html",
+          "summary": "Zum Abschluss seiner viertägigen Reise kritisiert Außenminister Wadephul den Ausschluss Südafrikas vom G20-Gipfel im Dezember in den USA und verspricht: Deutschland wolle sich für das Land einsetzen. Von Georg Schwarte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4ddddf56-2014-42fc-a240-58472c6640cb/AAABn4-Bnvk/AAABnSSvrFg/16x9-big/abschiebung-afghanistan-160.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/16235274-7791-4530-b235-12b14c6c6820/AAABn5Bsmlg/AAABnSSvrFg/16x9-big/suedafrika-wadephul-100.jpg?width=1280"
         },
         {
-          "title": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
-          "url": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
-          "summary": "Nach einer Messerattacke in einer Bank in Regensburg hat die Polizei den mutmaßlichen Täter festgenommen. Es soll sich um einen 20-jährigen Deutschen handeln. Ein Mann wurde tödlich verletzt. Zunächst war von einer Geiselnahme die Rede.",
+          "title": "Trump: Saudis sollen für Atomdeal auf Israel zugehen",
+          "url": "https://www.tagesschau.de/ausland/asien/trump-atomdeal-saudi-arabien-100.html",
+          "summary": "Präsident Trump hat das gerade erst vereinbarte Atomabkommen der USA mit Saudi-Arabien nachträglich noch an eine Bedingung geknüpft: Eine Annäherung Riads an Israel. Ob die Saudis da mitmachen, ist aber völlig unklar. Von Nina Barth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5052c68f-dbe8-4953-a7b7-484a439d9a03/AAABn4_Oyyc/AAABnSSvrFg/16x9-big/polizei-regensburg-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a2e89167-a6cb-479f-ad81-0719343f90c6/AAABn4_8Vms/AAABnSSvrFg/16x9-big/trump-5186.jpg?width=1280"
         }
       ]
     },
@@ -93,34 +93,42 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Studienplätze unter Druck: Wird die Bildungsexpansion zurückgedreht?",
+          "url": "https://www.telepolis.de/article/Studienplaetze-unter-Druck-Wird-die-Bildungsexpansion-zurueckgedreht-11375942.html",
+          "summary": "Frankfurt, Berlin und NRW kürzen Studienplätze und Stellen, andere Länder investieren weiter. Wächst eine neue Debatte über die Grenzen der Akademisierung?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/2/9/2/3/Master_Uni2-2015311ef801aa77.jpg"
+        },
+        {
+          "title": "Personalwechsel im Kabinett: Warken soll künftig das Kanzleramt führen",
+          "url": "https://www.telepolis.de/article/Personalwechsel-im-Kabinett-Warken-soll-kuenftig-das-Kanzleramt-fuehren-11376723.html",
+          "summary": "Nina Warken soll als erste Frau das Kanzleramt führen. Auslöser der Rochade ist der Rücktritt von Jens Spahn. Doch auch ein weiterer Posten wird neu besetzt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/3/4/1/7/shutterstock_2563642741-1118a69796e30e0c.jpg"
+        },
+        {
           "title": "Iran-Krieg: Warum Teheran am längeren Hebel sitzt",
           "url": "https://www.telepolis.de/article/Iran-Krieg-Warum-Teheran-am-laengeren-Hebel-sitzt-11375588.html",
           "summary": "Brennende Tanker, blockierte Buchten: Der Ölhandel könnte die entscheidende Waffe im Iran-Krieg werden. Washington droht ins Leere zu laufen. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/2/7/4/3/shutterstock_2748605429-7daf7f3974d19c73.jpg"
-        },
-        {
-          "title": "Commerzbank-Übernahme: Berlin stellt Unicredit Bedingungen für Fusion",
-          "url": "https://www.telepolis.de/article/Commerzbank-Uebernahme-Berlin-stellt-Unicredit-Bedingungen-fuer-Fusion-11373407.html",
-          "summary": "Unicredit kontrolliert fast 50 Prozent der Commerzbank-Stimmrechte. Berlin gibt den Widerstand auf und fordert Schutz für den Mittelstand.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/1/2/3/9/generated-image-1-515bc24622b3d086.png"
-        },
-        {
-          "title": "Kann Kuba Rubio aussitzen?",
-          "url": "https://www.telepolis.de/article/Kann-Kuba-Rubio-aussitzen-11374844.html",
-          "summary": "Die USA erklären, sie wollten einen Deal mit Havanna – doch Marco Rubios Politik spricht eine andere Sprache. Ein Gastbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/2/1/8/9/shutterstock_2374142335-bf77c790f7c2bd26.jpg"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "USA: USA kündigen neue Zölle gegen Handelspartner an",
+          "url": "https://www.sueddeutsche.de/wirtschaft/usa-news-liveblog-zoelle-trump-li.3511620",
+          "summary": "Auf Waren von Dutzenden Ländern werden Tarife von 10 bis 12,5 Prozent erhoben. Sie sollen bereits ab Freitag  gelten und globale Zölle ersetzen, die dann auslaufen. Auch Waren aus der EU sind betroffen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/23/05ace814-e06f-4ece-a369-a6942e67daf1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C137%2C2620%2C1474"
+        },
         {
           "title": "Krieg in der Ukraine: Ex-Verteidigungsminister Fedorow will zurück ins Amt",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verteidigungsminister-fedorow-li.3512468",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/23/9287242f-7d4a-44f6-959e-56d1565b9505.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=372%2C808%2C3306%2C1859"
-        },
-        {
-          "title": "Journalismus: Doch kein Terrorist",
-          "url": "https://www.sueddeutsche.de/medien/gerlach-berliner-zeitung-presserat-terror-li.3520625",
-          "summary": "Die „Berliner Zeitung“ bezichtigt den Nahostexperten Daniel Gerlach, „ideologischer Bodenbereiter“ antisemitischer Angriffe zu sein – wegen eines Selfies bei einem Fußballspiel. Der Presserat missbilligt das, den Verleger der Zeitung scheint es nicht zu stören.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/23/338b9e72-a6c3-46a9-ae6d-1835d36b8938.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C102%2C4000%2C2250"
         }
       ]
     }
