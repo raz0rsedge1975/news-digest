@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-24T14:00:09.848Z",
-  "timestamp": "24.7.2026, 16:00:09",
+  "generated": "2026-07-24T18:00:08.225Z",
+  "timestamp": "24.7.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Leihmutterschaft: Sie wollen ein Kind? 200.000 Euro bitte!",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/leihmutterschaft-als-milliardenmarkt-200-000-euro-um-den-kinderwunsch-zu-erfuellen-201056069.html",
-          "summary": "Die Leihmutterschaft ist in Deutschland verboten. Doch weltweit hat sich das Geschäft damit zu einem Milliardenmarkt entwickelt. Wie konnte es dazu kommen?",
+          "title": "Skandal in JVA: Sechs Tote, ein Suizid – und viele offene Fragen",
+          "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/sechs-tote-ein-suizid-das-weiss-man-ueber-den-taeter-von-stade-201057920.html",
+          "summary": "Nach der tödlichen Bluttat von Stade nahm sich der Tatverdächtige Fatih Khan G. in Haft das Leben. Wer war der Mann, der sechs Leben auslöschte? Und haben die Sicherheitsvorkehrungen versagt?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3613ec87224d/w2028h1059x0y1517o/202607/43601.0.2357443391/die-usa-sind-ein-beliebtes.webp"
+          "image": "https://media0.faz.net/image/w1200h627/dbfaaa9ef351/w4000h2090x0y497o/202607/43601.0.2363527193/hinter-stacheldraht-nach-den.webp"
         },
         {
-          "title": "Der lange Weg zur Elternschaft: Und die Leihmutter sagte: „Enjoy your baby“",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/und-die-leihmutter-sagte-enjoy-your-baby-accg-201050106.html",
-          "summary": "Jens Spahns Weg zum Wunschkind wirft ein Schlaglicht auf das Familienmodell Leihmutterschaft. Zwei schwule Väter aus Nordrhein-Westfalen haben die gleiche Entscheidung getroffen.",
+          "title": "Suizid des Stade-Täters: Am Tag vor dem Tod wurden die Haftbedingungen gelockert",
+          "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/stade-taeter-haftbedingungen-vor-suizid-gelockert-201054048.html",
+          "summary": "Wie konnte sich der Mann, der in Stade sechs Menschen erschossen hatte, das Leben nehmen? Das niedersächsische Justizministerium gibt Auskunft – und will alles auf den Prüfstand stellen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5fc97280f15d/w4032h2106x0y81o/202607/43601.0.2357021414/seit-fast-zwei-jahren-vaeter.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a77600302439/w1920h1003x0y38o/202607/43601.0.2358271994/tatort-stade-spezialisten-nach.webp"
         },
         {
-          "title": "Einspruch Exklusiv: Deutsche Doppelmoral beim Babykauf",
-          "url": "https://www.faz.net/premium/einspruch/exklusiv/deutsche-doppelmoral-beim-babykauf-201048743.html",
-          "summary": "Unsere Rechtsordnung verdammt die Leihmutterschaft im Inland – und schaut weg, wenn Paare dafür ins Ausland fahren. Statt den Kopf in den Sand zu stecken, wäre eine ehrliche Debatte nötig.",
+          "title": "Business-Ticker: Trump droht EU: „wird sehr hohen Preis“ für Google-Strafe zahlen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-droht-eu-wird-sehr-hohen-preis-fuer-google-strafe-zahlen-faz-200452404.html",
+          "summary": "Varta stellt Insolvenzantrag +++ Milliardär soll 566 Millionen Euro an Ex-Frau zahlen +++ Weidmann fordert Unicredit zu Gesprächen über Commerzbank auf +++ Neuigkeiten im Unternehmen-Liveblog.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/8304778d6c32/w6000h3135x0y433o/202607/43601.0.2350193956/das-verbot-der.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/2158eaaadafc/w5767h3013x0y205o/202607/43601.0.2361332730/us-praesident-donald-trump.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Bab al-Mandab und Straße von Hormus: Diese sechs Faktoren verschärfen die Ölkrise",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/bab-al-mandab-und-strasse-von-hormus-diese-sechs-faktoren-verschaerfen-die-oelkrise-a-2facc553-465b-4569-a0b8-2ec9032488a2#ref=rss",
+          "summary": "Erst die Straße von Hormus, jetzt auch die Meerenge Bab al-Mandab: Der weltweite Schiffsverkehr wird massiv behindert. Und die Ukraine zerbombt Russlands Raffinerien. Die Lage am Ölmarkt ist katastrophal.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/46740905-6b5d-46ba-9170-ec0b20dd27ee_w1200_r1.778_fpx55.22_fpy54.99.jpg"
+        },
         {
           "title": "Patrick Schnieder: Warum der Verkehrsminister gehen muss",
           "url": "https://www.spiegel.de/wirtschaft/patrick-schnieder-warum-der-verkehrsminister-gehen-muss-a-6d44b20c-5829-4169-a801-4c5494a83a3b#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/6a0fc31a-6109-4ab8-94e4-8d6a6151a693_w1200_r1.778_fpx39_fpy36.jpg"
         },
         {
-          "title": "Brände in Spanien, Frankreich, Italien: Europas Kampf gegen die Flammen",
-          "url": "https://www.spiegel.de/ausland/braende-in-spanien-frankreich-italien-europas-kampf-gegen-die-flammen-a-2ce13c9b-fbba-4b55-90d8-eff9d2a153f8#ref=rss",
-          "summary": "Seit dem Frühjahr hat es kaum geregnet, der Boden ist wie gebacken: Riesige Feuer wüten in Frankreich und Spanien. In Italien gibt es Berichte über eine barbarische Methode der Brandstiftung.",
+          "title": "Leihmutterschaft: Was Leihmütter über Schwangerschaft und Trennung vom Kind berichten",
+          "url": "https://www.spiegel.de/wissenschaft/mensch/leihmutterschaft-was-leihmuetter-ueber-schwangerschaft-und-trennung-vom-kind-berichten-a-ff04da97-9baa-4cc4-b396-98be3b15378f#ref=rss",
+          "summary": "Mit seiner Entscheidung für ein Leihmutterbaby hat Jens Spahn eine hitzige Debatte entfacht. Nur um die Frauen, die die Kinder austragen, geht es dabei kaum. Was die Forschung weiß – und was die Betroffenen selbst sagen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/82c9e891-3b29-4b4c-8fc3-a34927611f19_w1200_r1.778_fpx62_fpy63.jpg"
-        },
-        {
-          "title": "Kommentar: Der DFB liefert sich Jürgen Klopp aus",
-          "url": "https://www.spiegel.de/sport/fussball/kommentar-der-dfb-liefert-sich-juergen-klopp-aus-a-1618b130-a160-4faa-83fe-c6b93de871e3#ref=rss",
-          "summary": "Für den Verband ist er ein Coup. Aber Jürgen Klopp wird auch der mächtigste Bundestrainer der jüngeren Geschichte. Das liegt an der eklatanten Schwäche des DFB. Ändern muss das eine andere Person.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f9d13441-3ed2-4ef5-bda7-9323b7525e4b_w1200_r1.778_fpx60_fpy35.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/161b62de-5561-48f7-a662-4df0d9db8582_w785_r1.778_fpx31_fpy49.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Brände in Spanien vereinen sich zu großer Feuerfront",
-          "url": "https://www.tagesschau.de/ausland/europa/spanien-notstand-waldbraende-100.html",
-          "summary": "Die Lage in den spanischen Waldbrandgebieten wird immer dramatischer. In der Region Madrid haben sich mehrere Feuer zu einem Großbrand vereint. Die Regierung rief den Notstand aus - erstmals überhaupt wegen eines Waldbrands. Von Anna Mundt.",
+          "title": "Russische Zentralbank senkt Leitzins erneut",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-leitzins-102.html",
+          "summary": "Russlands Zentralbank hat den Leitzins weiter gesenkt, auf nun 14 Prozent. Damit will sie die zunehmend unter dem Angriffskrieg gegen die Ukraine leidende Wirtschaft stützen. Gleichzeitig steigt jedoch die Inflationsgefahr. Von Björn Blaschke.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c19d5fee-3705-4f02-9066-11123f17b311/AAABn5Q9QDY/AAABnSSvrFg/16x9-big/waldbrand-spanien-148.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f7e21aaa-4dec-4dcf-8f2b-5316de89af08/AAABn5U7MqI/AAABnSSvrFg/16x9-big/moskau-408.jpg?width=1280"
         },
         {
-          "title": "Sultan von Brunei feiert 80. Geburtstag mit großer Parade",
-          "url": "https://www.tagesschau.de/ausland/asien/brunei-sultan-geburtstag-100.html",
-          "summary": "Geburtstag gibt es für Bruneis Sultan eine große Parade. Zwar ist die politische Freiheit der Bevölkerung in dem südostasiatischen Staat stark eingeschränkt - dennoch ist der Alleinherrscher beliebt. Von Jennifer Johnston.",
+          "title": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
+          "summary": "Russland hat offenbar gezielt eine Veranstaltung von Vertretern der ukrainischen Drohnenbranche in der Nähe von Kiew angegriffen. Mindestens zehn Menschen sollen getötet und fast 100 weitere verletzt worden sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/19e3df72-3bb4-40a8-aa1b-4794035f8edc/AAABn5MYnC4/AAABnSSvrFg/16x9-big/hassanal-bolkiah-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3bac5e75-e3b1-4a49-a087-a5fc8034960d/AAABn5UPGc0/AAABnSSvrFg/16x9-big/kiew-480.jpg?width=1280"
         },
         {
-          "title": "Edinburgh führt Touristensteuer ein",
-          "url": "https://www.tagesschau.de/ausland/europa/schottland-edinburgh-touristensteuer-100.html",
-          "summary": "Die schottische Hauptstadt Edinburgh hat als erste schottische Stadt eine Touristensteuer eingeführt. Von heute an müssen Besucher für Übernachtungen fünf Prozent mehr bezahlen.",
+          "title": "Türkei: Kann sich Özels \"Neue Partei\" durchsetzen?",
+          "url": "https://www.tagesschau.de/ausland/europa/chp-spaltung-oezel-100.html",
+          "summary": "Der türkische Oppositionspolitiker Özel gründet eine neue Partei. Ein Großteil der Abgeordneten seiner früheren Partei CHP will ihm folgen - doch die Neugründung birgt auch Risiken. Von Gabriele Dunkel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0814073c-f885-4d39-9811-eb9fcc6199f2/AAABn5Q358M/AAABnSSvrFg/16x9-big/stadtansicht-edinburgh-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c5b88685-c540-468c-85b5-5562020332c6/AAABn5L-8Dk/AAABnSSvrFg/16x9-big/oezel-114.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Wälle bei Dahschur: Rätsel um Pyramidenstrukturen erhält neue Deutung",
+          "url": "https://www.telepolis.de/article/Waelle-bei-Dahschur-Raetsel-um-Pyramidenstrukturen-erhaelt-neue-Deutung-11377525.html",
+          "summary": "Zwei mehrere hundert Meter lange Strukturen westlich der Roten Pyramide galten lange als Transportwege für den Pyramidenbau. Eine neue Studie deutet sie anders.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/3/8/1/9/shutterstock_2589220933-ebe069ec9f4ae49d.jpg"
+        },
+        {
+          "title": "Zölle durch die Hintertür: Trump schreibt das Handelsrecht um",
+          "url": "https://www.telepolis.de/article/Zoelle-durch-die-Hintertuer-Trump-schreibt-das-Handelsrecht-um-11377662.html",
+          "summary": "Nachdem Trumps globale Importsteuern scheiterten, sind seit Freitag neue Zölle auf Waren aus 60 Ländern in Kraft – diesmal mit Zwangsarbeit als Begründung.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/3/8/8/7/shutterstock_2741490471-d6befe3f7268ee18.jpg"
+        },
+        {
           "title": "EU-Strafe gegen Google: Kampf um die KI-Suchmaschine der Zukunft",
           "url": "https://www.telepolis.de/article/EU-Strafe-gegen-Google-Kampf-um-die-KI-Suchmaschine-der-Zukunft-11377636.html",
           "summary": "Die 890 Millionen Euro sind nur der sichtbare Teil des Konflikts – die eigentliche Auseinandersetzung gilt den Regeln für die KI-Suche von morgen.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/3/8/7/4/master_Google-34c851f7f6f2c654.png"
-        },
-        {
-          "title": "Dunkles Genom: Wie vermeintlicher DNA-Müll die Medizin revolutioniert",
-          "url": "https://www.telepolis.de/article/Dunkles-Genom-Wie-vermeintlicher-DNA-Muell-die-Medizin-revolutioniert-11375708.html",
-          "summary": "98 Prozent unserer DNA galten lange als Müll. Nun zeigt sich: Das dunkle Genom steuert Krankheiten. Erste Therapien sind aber noch Jahrzehnte entfernt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/2/8/0/6/natrot-75b00a6f1a59edca.jpg"
-        },
-        {
-          "title": "Chinas nukleare Triade: Wie Peking das globale Machtgefüge verschiebt",
-          "url": "https://www.telepolis.de/article/Chinas-nukleare-Triade-Wie-Peking-das-globale-Machtgefuege-verschiebt-11377312.html",
-          "summary": "Stiller Test, laute Botschaft: Peking schließt die letzte Lücke seiner nuklearen Triade. Warum dies die Machtsymmetrie empfindlich verschiebt. Eine Analyse.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/3/7/1/2/triad-8427fba8f006bdf1.webp"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Sturz aus dem Zug: „Mein Mandant war das Opfer, nicht der Täter“",
-          "url": "https://www.sueddeutsche.de/panorama/bahn-sturz-db-mitarbeiter-streit-fahrgast-baden-wuerttemberg-li.3520885",
-          "summary": "Nach einem Streit mit einem Fahrgast stürzt ein DB-Mitarbeiter aus dem Zug und überlebt nur knapp. Laut Staatsanwaltschaft ist der Fahrgast auf den Mann losgegangen, doch ein Video weckt Zweifel. War es doch anders?",
+          "title": "USA: Maserninfektionen in den USA auf höchstem Stand seit 35 Jahren",
+          "url": "https://www.sueddeutsche.de/wirtschaft/usa-news-liveblog-masern-masernimpfung-kennedy-li.3511620",
+          "summary": "Das Land zählt jetzt schon so viele Infektionen wie im ganzen Jahr 2025. In 43 Bundesstaaten sowie in Washington, D. , wurde in diesem Jahr mindestens eine Infektion registriert.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/24/f03bb4db-2696-4675-b02c-01cd858d5285.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C308%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/07/24/c75963ac-022a-4e17-8783-8e9841feb9ce.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C603%2C3000%2C1687"
         },
         {
-          "title": "Volkswagen in der Krise: „VW erlebt gerade seinen Nokia-Moment“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/vw-zahlen-2026-desaster-krise-li.3518853",
-          "summary": "Europas größter Autohersteller steckt in einer existenziellen Krise: Er verkauft immer weniger Fahrzeuge, der Gewinn bricht weiter ein. Sogar VW-Chef Blume spricht von einem „nie da gewesenen Risikoszenario“. Und Beobachter werden noch deutlicher.",
+          "title": "Krieg in der Ukraine: Russische Raketen fordern Tote bei Kiew",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kiew-raketen-li.3512468",
+          "summary": "Mindestens zehn Menschen sterben laut offiziellen Angaben beim Luftangriff auf eine Waffenschau, Dutzende werden verletzt. In Slowjansk töten Gleitbomben mindestens fünf Menschen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/23/52a26893-4e14-4f89-880f-e53e00ae391c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C242%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/24/e4e60df0-f7d9-4995-bdb0-bfb8d51192a1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C120%2C1280%2C720"
         },
         {
-          "title": "Bundesregierung: Endlich holt Friedrich Merz Frauen in seinen Boys Club",
-          "url": "https://www.sueddeutsche.de/meinung/friedrich-merz-kabinettsumbau-frauen-bundesregierung-kommentar-li.3520925",
-          "summary": "Mit diversen Personalien baut der Bundeskanzler in der Sommerpause seinen Machtapparat um. Und gesteht damit gleich mehrere Fehler ein. Hätte es dafür nur nicht Jens Spahn gebraucht.",
+          "title": "Podcast: „Auf den Punkt“: Merz’ neue Minister: Bekannte Gesichter, neue Jobs und eine Absage",
+          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-merz-warken-linnemann-bundeskabinett-li.3520902",
+          "summary": "Der Kanzler hat sich für eine umfassende Umbildung seines Kabinetts  entschieden. Aber bringt das wirklich frischen Wind?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/24/4e5bf5f9-277a-4d0c-a7bf-a3b2c4c1b0d5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1254%2C606%2C2732%2C1537"
+          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
         }
       ]
     }
