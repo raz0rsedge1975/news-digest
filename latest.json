@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-23T22:00:09.575Z",
-  "timestamp": "24.7.2026, 00:00:09",
+  "generated": "2026-07-24T02:00:09.410Z",
+  "timestamp": "24.7.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -8,7 +8,7 @@
         {
           "title": "Handelspolitik: Trump kündigt neue Zölle an – auch gegen die EU",
           "url": "https://www.faz.net/aktuell/wirtschaft/donald-trump-kuendigt-neue-zoelle-gegen-eu-an-201060189.html",
-          "summary": "Der US-Präsident verhängt neue Zölle, um auslaufende Zölle zu ersetzen. Fast alle Handelspartner sind betroffen.",
+          "summary": "Der US-Präsident verhängt neue Zölle, um auslaufende Zölle mit sofortiger Wirkung zu ersetzen - und diesmal könnten sie länger Bestand haben. Fast alle bedeutenden Handelspartner sind betroffen.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/be31baedc8e3/w4480h2340x0y93o/202508/43601.0.1205243863/neue-begruendung-alte-politik.webp"
@@ -19,7 +19,7 @@
           "summary": "Liveticker zur US-Politik unter Donald Trump / Trump soll republikanischen Senator angeschrien haben / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/54c6b5b1a78d/w5000h2612x0y360o/202607/43601.0.2343941818/us-praesident-donald-trump.webp"
+          "image": "https://media0.faz.net/image/w1200h627/954473a6a27a/w3778h1974x0y81o/202607/43601.0.2365215734/kanadas-premierminister-mark.webp"
         },
         {
           "title": "Warken ins Kanzleramt: Ein Job mit viel Einfluss – und noch mehr Arbeit",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/bef16e5a-e29b-4b4a-9d19-1575321a0c44_w1200_r1.778_fpx47.65_fpy50.jpg"
         },
         {
-          "title": "USA: Demokraten setzen Zeichen gegen Trumps Iran-Kurs, der US-Präsident droht mit Eskalation",
-          "url": "https://www.spiegel.de/ausland/usa-demokraten-setzen-zeichen-gegen-trumps-iran-kurs-der-us-praesident-droht-mit-eskalation-a-a39c5758-66af-4640-9ddf-06b48e554f92#ref=rss",
-          "summary": "Erneut spricht sich das US-Repräsentantenhaus mit einer Resolution gegen den Irankrieg aus. Der symbolische Widerstand beeindruckt Donald Trump jedoch nicht, in einem Interview droht er Teheran mit einer »massiven Attacke«.",
+          "title": "Donald Trump will Schäden an Schiffen mit iranischem Geld begleichen",
+          "url": "https://www.spiegel.de/ausland/donald-trump-will-schaeden-an-schiffen-mit-iranischem-geld-begleichen-a-1bf42064-8336-4a26-b8f5-a1826d79427b#ref=rss",
+          "summary": "Wenn ein Schiff in der Straße von Hormus beschädigt wird, soll Iran laut Donald Trump dafür bezahlen. Die USA starten eine weitere Angriffswelle – in der 13. Nacht in Folge. Und: Auch Kuwait meldet neue Attacken.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bb9f361f-3d49-4877-85a7-e555412661a0_w1200_r1.778_fpx46.66_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0c81e9e6-b77c-4722-98ea-e118817b88a0_w900_r1.778_fpx54.23_fpy54.83.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Linnemann: \"Einfach mal machen\" im Gesundheitsministerium?",
-          "url": "https://www.tagesschau.de/inland/linnemann-portraet-gesundheitsministerium-100.html",
-          "summary": "\"Einfach mal machen\" ist das Credo von Carsten Linnemann. Ob das auch im Gesundheitsministerium klappt, das der CDU-Generalsekretär nun offenbar übernehmen soll? Die Herausforderungen sind jedenfalls groß. Von Sabine Henkel.",
+          "title": "USA: Lebenslange Haft für Mörder von Politikerin und Ehemann",
+          "url": "https://www.tagesschau.de/ausland/amerika/minnesota-haft-mord-politikerin-100.html",
+          "summary": "Wegen der Morde an einer US-Politikerin und ihrem Ehemann im Bundesstaat Minnesota ist ein 59-Jähriger zu zweimal lebenslanger Haft verurteilt worden. Die politisch motivierte Tat hatte für bundesweite Schlagzeilen gesorgt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/df794417-ebd8-4247-ba6a-d979cb2979bf/AAABn5B413E/AAABnSSvrFg/16x9-big/linnemann-170.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/03a1066c-c4d9-4a97-8124-0052b4fdccec/AAABn5FZ5PA/AAABnSSvrFg/16x9-big/mord-hortman-100.jpg?width=1280"
         },
         {
-          "title": "Außenminister Wadephul trifft Amtskollegen Lamolla in Südafrika",
-          "url": "https://www.tagesschau.de/ausland/afrika/wadephul-suedafrika-100.html",
-          "summary": "Zum Abschluss seiner viertägigen Reise kritisiert Außenminister Wadephul den Ausschluss Südafrikas vom G20-Gipfel im Dezember in den USA und verspricht: Deutschland wolle sich für das Land einsetzen. Von Georg Schwarte.",
+          "title": "Nahost: Deutschland zieht Marineschiffe aus Golf von Aden ab",
+          "url": "https://www.tagesschau.de/ausland/nahost-schiffe-verlegung-100.html",
+          "summary": "Erst im Juni hatte die Bundesregierung zwei Marineschiffe nach Ostafrika verlegt, um für einen möglichen Einsatz in der Straße von Hormus bereitzustehen. Nun sollen sie wieder abziehen - wegen der instabilen Lage in Nahost.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/16235274-7791-4530-b235-12b14c6c6820/AAABn5Bsmlg/AAABnSSvrFg/16x9-big/suedafrika-wadephul-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e788d1f0-a90e-4d87-b5bd-7aab56e326c8/AAABn5EqKQo/AAABnSSvrFg/16x9-big/schiff-marine-fulda-100.jpg?width=1280"
         },
         {
-          "title": "Trump: Saudis sollen für Atomdeal auf Israel zugehen",
-          "url": "https://www.tagesschau.de/ausland/asien/trump-atomdeal-saudi-arabien-100.html",
-          "summary": "Präsident Trump hat das gerade erst vereinbarte Atomabkommen der USA mit Saudi-Arabien nachträglich noch an eine Bedingung geknüpft: Eine Annäherung Riads an Israel. Ob die Saudis da mitmachen, ist aber völlig unklar. Von Nina Barth.",
+          "title": "USA: Trump verhängt neue Zölle auf Importe aus 60 Ländern",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-180.html",
+          "summary": "Wegen angeblich unzureichender Maßnahmen gegen Zwangsarbeit will US-Präsident Trump Zölle auf Importe aus 60 Ländern verhängen. Sie sollen mit dem Auslaufen der bisherigen weltweiten US-Zölle in Kraft treten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a2e89167-a6cb-479f-ad81-0719343f90c6/AAABn4_8Vms/AAABnSSvrFg/16x9-big/trump-5186.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/39ddaa55-9beb-4d28-b1be-719467b48372/AAABn5D8cvo/AAABnSSvrFg/16x9-big/handel-zoelle-100.jpg?width=1280"
         }
       ]
     },
