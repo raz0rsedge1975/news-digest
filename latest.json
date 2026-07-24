@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T02:00:09.410Z",
-  "timestamp": "24.7.2026, 04:00:09",
+  "generated": "2026-07-24T06:00:09.596Z",
+  "timestamp": "24.7.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -14,12 +14,12 @@
           "image": "https://media0.faz.net/image/w1200h627/be31baedc8e3/w4480h2340x0y93o/202508/43601.0.1205243863/neue-begruendung-alte-politik.webp"
         },
         {
-          "title": "USA unter Trump: Trump kündigt Besuch von Xi Jinping an",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-kuendigt-besuch-von-xi-jinping-an-faz-19444916.html",
+          "title": "USA unter Trump: Zollstreit: Kanada kündigt mögliche Gegenmaßnahmen an",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-zollstreit-kanada-kuendigt-moegliche-gegenmassnahmen-an-faz-19444916.html",
           "summary": "Liveticker zur US-Politik unter Donald Trump / Trump soll republikanischen Senator angeschrien haben / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/954473a6a27a/w3778h1974x0y81o/202607/43601.0.2365215734/kanadas-premierminister-mark.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e4818b11bb36/w5059h2643x0y101o/202607/43601.0.2365641882/kaja-kallas-aussenbeauftragte.webp"
         },
         {
           "title": "Warken ins Kanzleramt: Ein Job mit viel Einfluss – und noch mehr Arbeit",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Russland-Ukraine-Krieg: Muss Putin vor diesen Raketen zittern?",
+          "url": "https://www.spiegel.de/wissenschaft/technik/russland-ukraine-krieg-muss-putin-vor-diesen-raketen-zittern-a-50265834-1c45-4a87-b276-cf334a6937ae#ref=rss",
+          "summary": "Die ukrainische Firma Fire Point entwickelt Flugkörper, die Russland wohl schwerer abwehren kann als Drohnen. Eine Rakete soll die russische Hauptstadt erreichen können – mit fast 8000 Kilometern pro Stunde.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/4ee5f10d-66b7-4b50-b175-2b3a2877591e_w1200_r1.778_fpx54.64_fpy49.99.jpg"
+        },
+        {
+          "title": "News: Carsten Linnemann, Kabinettsumbildung in Berlin, Leihmütter, Tod eines Epstein-Komplizen",
+          "url": "https://www.spiegel.de/politik/deutschland/news-carsten-linnemann-kabinettsumbildung-in-berlin-leihmuetter-tod-eines-epstein-komplizen-a-d7f9e73b-cb45-402b-9fcc-81d16e53f663#ref=rss",
+          "summary": "Bundeskanzler Friedrich Merz bildet sein Kabinett um. Leihmütter sprechen über ihre Erfahrungen – gute und schlechte. Und: Tod eines Epstein-Komplizen. Das ist die Lage am Freitagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
           "title": "Donald Trump kündigt neue Strafzölle gegen 60 Handelspartner an",
           "url": "https://www.spiegel.de/wirtschaft/donald-trump-kuendigt-neue-strafzoelle-gegen-60-handelspartner-an-a-c193b077-53db-423a-955a-15b12fef34d7#ref=rss",
           "summary": "Die weltweiten zehnprozentigen Zölle sind gerade ausgelaufen – da legt Trump nach: Die US-Regierung will zusätzliche Zölle auf Importe aus rund 60 Ländern. Als Begründung nennt Washington unzureichende Maßnahmen gegen Zwangsarbeit.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/749fa188-6bb2-4eab-bd75-f76ee995414e_w1200_r1.778_fpx33.33_fpy49.99.jpg"
-        },
-        {
-          "title": "Bundesregierung: Der Kanzler wagt beim Kabinettsumbau eine riskante Operation",
-          "url": "https://www.spiegel.de/politik/deutschland/bundesregierung-der-kanzler-wagt-beim-kabinettsumbau-eine-riskante-operation-a-1b657e52-1027-46af-98ac-7a99f527e7d3#ref=rss",
-          "summary": "Friedrich Merz will Nina Warken zur Kanzleramtschefin machen und sie im Gesundheitsministerium durch Generalsekretär Carsten Linnemann ersetzen. Geht der Plan schief, müssen es die Bürgerinnen und Bürger ausbaden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bef16e5a-e29b-4b4a-9d19-1575321a0c44_w1200_r1.778_fpx47.65_fpy50.jpg"
-        },
-        {
-          "title": "Donald Trump will Schäden an Schiffen mit iranischem Geld begleichen",
-          "url": "https://www.spiegel.de/ausland/donald-trump-will-schaeden-an-schiffen-mit-iranischem-geld-begleichen-a-1bf42064-8336-4a26-b8f5-a1826d79427b#ref=rss",
-          "summary": "Wenn ein Schiff in der Straße von Hormus beschädigt wird, soll Iran laut Donald Trump dafür bezahlen. Die USA starten eine weitere Angriffswelle – in der 13. Nacht in Folge. Und: Auch Kuwait meldet neue Attacken.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0c81e9e6-b77c-4722-98ea-e118817b88a0_w900_r1.778_fpx54.23_fpy54.83.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "USA: Lebenslange Haft für Mörder von Politikerin und Ehemann",
-          "url": "https://www.tagesschau.de/ausland/amerika/minnesota-haft-mord-politikerin-100.html",
-          "summary": "Wegen der Morde an einer US-Politikerin und ihrem Ehemann im Bundesstaat Minnesota ist ein 59-Jähriger zu zweimal lebenslanger Haft verurteilt worden. Die politisch motivierte Tat hatte für bundesweite Schlagzeilen gesorgt.",
+          "title": "Personalumbau der Union: Merz will Wechsel im Kabinett bekanntmachen",
+          "url": "https://www.tagesschau.de/inland/merz-kabinett-neuaufstellung-100.html",
+          "summary": "Kanzleramtschef Frei soll Nachfolger von Unionsfraktionschef Spahn werden. Das hat Kanzler Merz bereits öffentlich gemacht. Am Vormittag wird er verkünden, wie das Stühlerücken in seinem Kabinett weitergeht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/03a1066c-c4d9-4a97-8124-0052b4fdccec/AAABn5FZ5PA/AAABnSSvrFg/16x9-big/mord-hortman-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c23a1719-78bf-4799-922c-1f5a1a35c027/AAABn5HUBZI/AAABnSSvrFg/16x9-big/merz-1458.jpg?width=1280"
         },
         {
-          "title": "Nahost: Deutschland zieht Marineschiffe aus Golf von Aden ab",
-          "url": "https://www.tagesschau.de/ausland/nahost-schiffe-verlegung-100.html",
-          "summary": "Erst im Juni hatte die Bundesregierung zwei Marineschiffe nach Ostafrika verlegt, um für einen möglichen Einsatz in der Straße von Hormus bereitzustehen. Nun sollen sie wieder abziehen - wegen der instabilen Lage in Nahost.",
+          "title": "So lief die Debatte um die Guterres-Nachfolge",
+          "url": "https://www.tagesschau.de/ausland/gueterres-debatte-100.html",
+          "summary": "Wer folgt auf UN-Generalsekretär Guterres? Sechs Bewerberinnen und Bewerber stellten sich in einer öffentlichen Debatte vor. Was sie einte: der Wunsch nach starken Vereinten Nationen. Von Martin Ganslmeier.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e788d1f0-a90e-4d87-b5bd-7aab56e326c8/AAABn5EqKQo/AAABnSSvrFg/16x9-big/schiff-marine-fulda-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5a825f12-24a9-4781-b84d-f4aede6c75cd/AAABn5J3b70/AAABnSSvrFg/16x9-big/un-debatte-100.jpg?width=1280"
         },
         {
-          "title": "USA: Trump verhängt neue Zölle auf Importe aus 60 Ländern",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-180.html",
-          "summary": "Wegen angeblich unzureichender Maßnahmen gegen Zwangsarbeit will US-Präsident Trump Zölle auf Importe aus 60 Ländern verhängen. Sie sollen mit dem Auslaufen der bisherigen weltweiten US-Zölle in Kraft treten.",
+          "title": "Marktbericht: Hohe Ölpreise schicken Börsen auf Talfahrt",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-iran-100.html",
+          "summary": "Die neue Eskalation im Iran-Krieg hat den Preis für das Nordseeöl Brent erstmals seit Mai über die Marke von 100 Dollar pro Barrel getrieben. Das belastet am Morgen weltweit die Aktienmärkte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/39ddaa55-9beb-4d28-b1be-719467b48372/AAABn5D8cvo/AAABnSSvrFg/16x9-big/handel-zoelle-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b3ff1aad-d74a-49f8-97f0-1806ed6945f2/AAABn1pUnjY/AAABnSSvrFg/16x9-big/boerse-526.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Baku-Treffen: Rückkehr des Gesprächskanals zwischen Berlin und Moskau?",
+          "url": "https://www.telepolis.de/article/Baku-Treffen-Rueckkehr-des-Gespraechskanals-zwischen-Berlin-und-Moskau-11375744.html",
+          "summary": "Diskrete Treffen zwischen deutschen und russischen Vertretern werfen Fragen nach informellen Kanälen auf. Wirtschaft und Energie könnten eine Rolle spielen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/2/8/2/4/shutterstock_1944060136-5396383da06abdb4.jpg"
+        },
         {
           "title": "Studienplätze unter Druck: Wird die Bildungsexpansion zurückgedreht?",
           "url": "https://www.telepolis.de/article/Studienplaetze-unter-Druck-Wird-die-Bildungsexpansion-zurueckgedreht-11375942.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/3/4/1/7/shutterstock_2563642741-1118a69796e30e0c.jpg"
-        },
-        {
-          "title": "Iran-Krieg: Warum Teheran am längeren Hebel sitzt",
-          "url": "https://www.telepolis.de/article/Iran-Krieg-Warum-Teheran-am-laengeren-Hebel-sitzt-11375588.html",
-          "summary": "Brennende Tanker, blockierte Buchten: Der Ölhandel könnte die entscheidende Waffe im Iran-Krieg werden. Washington droht ins Leere zu laufen. Eine Analyse.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/2/7/4/3/shutterstock_2748605429-7daf7f3974d19c73.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: USA kündigen neue Zölle gegen Handelspartner an",
+          "title": "Autokonzerne in der Krise: Ein Desaster mit Ansage: VW legt Zahlen vor",
+          "url": "https://www.sueddeutsche.de/wirtschaft/vw-zahlen-2026-aktuelles-news-li.3518853",
+          "summary": "Europas größter Autobauer steckt in einer existenziellen Krise. Das zeigen auch die neuesten Bilanzzahlen. Der Gewinn des Konzerns ist im zweiten Quartal erneut eingebrochen. Über die Gründe und was es mit dem „Nokia-Moment“ auf sich hat.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/23/52a26893-4e14-4f89-880f-e53e00ae391c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C242%2C4000%2C2250"
+        },
+        {
+          "title": "USA: Kanada verschärft den Ton im Zollstreit mit den USA",
           "url": "https://www.sueddeutsche.de/wirtschaft/usa-news-liveblog-zoelle-trump-li.3511620",
-          "summary": "Auf Waren von Dutzenden Ländern werden Tarife von 10 bis 12,5 Prozent erhoben. Sie sollen bereits ab Freitag  gelten und globale Zölle ersetzen, die dann auslaufen. Auch Waren aus der EU sind betroffen.",
+          "summary": "Nach Trumps Ankündigung neuer Zölle von 50 Prozent hält der kanadische Premierminister Carney Gegenmaßnahmen für möglich. Zugleich will Kanada die Handelsgespräche mit den USA intensivieren.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/23/05ace814-e06f-4ece-a369-a6942e67daf1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C137%2C2620%2C1474"
+          "image": "https://www.sueddeutsche.de/2026/07/24/afdf040c-e8cf-4a5b-86fe-798badfd98c3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C197%2C3778%2C2125"
         },
         {
-          "title": "Krieg in der Ukraine: Ex-Verteidigungsminister Fedorow will zurück ins Amt",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verteidigungsminister-fedorow-li.3512468",
-          "summary": "Demonstranten in der Ukraine fordern seit Tagen seine Wiedereinsetzung. Nun wagt Fedorow den Machtkampf mit Präsident Selenskij. Die EU verhängt neue Russland-Sanktionen.",
+          "title": "Handelspolitik: Trump verhängt neue Zölle gegen Dutzende Länder und die EU",
+          "url": "https://www.sueddeutsche.de/wirtschaft/trump-zoelle-eu-handelspartner-li.3520780",
+          "summary": "Der US-Handelsbeauftragte Greer begründet die Einfuhrabgaben von zehn bis 12,5 Prozent mit zu laschem Vorgehen gegen Zwangsarbeit.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/23/af81146a-2cb0-4730-9c59-820e811dcf8f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
-        },
-        {
-          "title": "Bundespolitik: Warken soll Kanzleramtschefin werden, Linnemann Gesundheitsminister",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-warken-kanzleramt-linnemann-gesundheitsminister-li.3516334",
-          "summary": "Die Bundesgesundheitsministerin soll Nachfolgerin von Thorsten Frei werden, der Jens Spahn als Unionsfraktionschef nachfolgt. Ihr Amt soll laut Medienberichten CDU-Generalsekretär Carsten Linnemann übernehmen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/23/9287242f-7d4a-44f6-959e-56d1565b9505.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=372%2C808%2C3306%2C1859"
+          "image": "https://www.sueddeutsche.de/2025/05/29/39612b3a-e008-477b-8b50-0d2ee25b754f.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
