@@ -1,25 +1,17 @@
 {
-  "generated": "2026-07-25T18:00:10.172Z",
-  "timestamp": "25.7.2026, 20:00:10",
+  "generated": "2026-07-25T22:00:08.679Z",
+  "timestamp": "26.7.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Die Rolle der Unicredit: Der Niedergang der deutschen Großbanken",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/commerzbank-und-unicredit-der-niedergang-der-deutschen-grossbanken-accg-201058913.html",
-          "summary": "Nach einer Übernahme der Commerzbank befänden sich vier der ehemals fünf deutschen Großbanken unter dem Dach der Mailänder Unicredit. Übrig bliebe die Deutsche Bank, die aber nur noch in der zweiten Liga spielt. Politikirrtümer und Managementfehler erklären die Misere.",
+          "title": "Laut Polizeiangaben: Fahrzeug in Menschenmenge bei Berliner CSD gefahren – ein Toter, mehrere Verletzte",
+          "url": "https://www.faz.net/aktuell/gesellschaft/csd-in-berlin-fahrzeug-faehrt-in-menschenmenge-ein-toter-mehrere-verletzte-201065198.html",
+          "summary": "Der CSD in Berlin ist vorzeitig beendet worden. Laut Polizei ist ein Fahrzeug in die Menschenmenge gefahren. Dabei seien mindestens ein Mensch getötet und mehrere Personen verletzt worden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ad6c8a1689ba/w6144h3210x0y123o/202607/43601.0.2345782260/verleibt-sich-die-italienische.webp"
-        },
-        {
-          "title": "Übernahmekampf: Denken Sie an Rücktritt, Frau Orlopp?",
-          "url": "https://www.faz.net/aktuell/finanzen/commerzbank-chefin-bettina-orlopp-zu-unicredit-von-roten-linien-halte-ich-nichts-accg-201013293.html",
-          "summary": "Die italienische Unicredit kommt der Übernahme immer näher. Ein Interview mit der Commerzbank-Chefin Bettina Orlopp über die Deutungshoheit einer Verteidigungsstrategie, die nun schon zwei Jahre läuft.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/76c74ed66bcb/w4825h2521x279y921o/202607/43601.0.2315272876/kann-auch-nach-der-unicredit.webp"
+          "image": "https://media0.faz.net/image/w1200h627/75b715f4fa4d/w4893h2556x0y353o/202607/43601.0.2371227824/einsatzkraefte-der-polizei.webp"
         },
         {
           "title": "Waldbrände in Frankreich: Erstmals löscht ein Airbus",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/c76851a56605/w5080h2654x556y959o/202607/43601.0.2363112603/uebung-macht-den-feuerwehrmann.webp"
+        },
+        {
+          "title": "Evakuierung: Schon 167.000 Menschen vor Waldbränden bei Bordeaux in Sicherheit gebracht",
+          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/schon-167-000-menschen-vor-waldbraenden-bei-bordeaux-in-sicherheit-gebracht-accg-201064886.html",
+          "summary": "Die Waldbrände in Frankreich haben eine Evakuierungswelle ausgelöst. Auch Urlauber sind betroffen. Frankreich mobilisiert Soldaten.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cfd10add70b3/w5152h2691x0y374o/202607/43601.0.2370298723/das-bordeaux-lac-exhibition.webp"
         }
       ]
     },
@@ -35,7 +35,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Frankreich: Waldbrände laut Innenminister Laurent Nuñez 30 Kilometer vor Bordeaux",
+          "title": "CSD in Berlin: Auto fährt in Menschenmenge – ein Toter und mehrere Verletzte",
+          "url": "https://www.spiegel.de/panorama/csd-in-berlin-abgebrochen-berichte-ueber-mehrere-verletzte-a-0b05b0b9-df30-4ab1-a509-fe54653ae2b1#ref=rss",
+          "summary": "Der Christopher Street Day in Berlin ist abgebrochen worden. Das Areal wird geräumt, es gibt rund 15 Verletzte, davon einige lebensgefährlich. Die Polizei fahndet »mit Hochdruck nach tatverdächtigen Personen«. Die Entwicklungen im News-Update.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/60e9a99f-5eba-43da-b55c-8ecf96cbe3ee_w1200_r1.778_fpx51_fpy42.jpg"
+        },
+        {
+          "title": "Frankreich: Waldbrände nur noch 30 Kilometer vor Bordeaux – Evakuierung im Gespräch",
           "url": "https://www.spiegel.de/ausland/frankreich-waldbraende-laut-innenminister-laurent-nunez-30-kilometer-vor-bordeaux-a-bf0990eb-6127-4a83-89d6-5ee19994e510#ref=rss",
           "summary": "Schon 200.000 Menschen mussten sich in Frankreich vor den Waldbränden in Sicherheit bringen. Der Innenminister schließt weitere, drastische Maßnahmen nicht aus.",
           "source": "Spiegel",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/48cd4e45-5099-4d40-a938-3f59fad4bb2a_w1200_r1.778_fpx48_fpy50.jpg"
         },
         {
-          "title": "Russland: wie Wladimir Putin es seinen Freunden ermöglichte, den Staat zu plündern",
-          "url": "https://www.spiegel.de/ausland/russland-wie-wladimir-putin-es-seinen-freunden-ermoeglichte-den-staat-zu-pluendern-a-a79b98b1-a37b-40a3-ab01-bcb161bedb02#ref=rss",
-          "summary": "Jetzt zeichnet sich der Sturz des Unternehmers ab. Hat der Kremlchef begonnen, sein eigenes System zu zerstören?",
+          "title": "Sexualität: Warum Jugendliche heute weniger Lust auf Sex haben",
+          "url": "https://www.spiegel.de/panorama/sexualitaet-warum-jugendliche-heute-weniger-lust-auf-sex-haben-a-5f072df4-dc3a-40ab-b3e6-9db321e58b1b#ref=rss",
+          "summary": "Kaum noch Tabus, eine liberalisierte Gesellschaft. Man könnte meinen, es gab noch nie bessere Zeiten für frühen Sex als heute. Trotzdem haben deutsche Jugendliche ihn so spät wie nie. Hat ihnen das Internet die Lust genommen?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/818a8629-c3e4-4c59-bd75-a02157fa72a8_w1200_r1.778_fpx38.83_fpy45.jpg"
-        },
-        {
-          "title": "Donald Trump bei Korrespondentendinner: »Yeah, ich habe dreimal gewonnen. Jetzt werde ich es wieder tun«",
-          "url": "https://www.spiegel.de/ausland/donald-trump-bei-korrespondentendinner-yeah-ich-habe-dreimal-gewonnen-jetzt-werde-ich-es-wieder-tun-a-46d128a1-8d4b-43e3-b6f6-57fe17ad43e2#ref=rss",
-          "summary": "Er verkündet eine »vierte Amtszeit« und spricht von Journalisten mit »Trump-Störungs-Syndrom«: Das Dinner mit Pressevertretern hat der US-Präsident für zahlreiche Attacken genutzt. Die absurdesten Sprüche im Video.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/97223837-7d3f-4abb-a52b-cb2293ea09c3_w1200_r1.778_fpx54.64_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b8144d65-10cd-44b0-8644-c3d4b13d2069_w1200_r1.778_fpx50_fpy50.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
-          "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
-          "summary": "Mehr als 200. 000 Menschen wurden vor den Bränden im Südwesten Frankreichs in Sicherheit gebracht. Trotz günstigerer Wetterbedingungen ist das Feuer weiter außer Kontrolle. Die Einsatzkräfte werden mit zusätzlichen Soldaten verstärkt.",
+          "title": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - ein Toter und Verletzte",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
+          "summary": "Der Berliner Christopher Street Day ist abgebrochen worden. Laut Polizei ist ein Fahrzeug in eine Menschenmenge gefahren. Demnach starb ein Mensch, mehrere Menschen wurden verletzt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0c608702-88c4-4888-bf5c-84e4419545f4/AAABn5paY2g/AAABnSSvrFg/16x9-big/frankreich-feuer-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f32ec744-6cc1-42fc-80c8-7fc997546fc1/AAABn5soIlQ/AAABnSSvrFg/16x9-big/csd-316.jpg?width=1280"
         },
         {
-          "title": "Elster, App, Steuerberater: Frist für die Steuererklärung endet",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/steuererklaerung-abgabefrist-100.html",
-          "summary": "Noch bis zum 31. Juli bleibt vielen Steuerpflichtigen Zeit für die Steuererklärung für 2025. Ob Elster, Apps oder Steuerberater: Oft winkt eine Erstattung von mehr als 1. Von Philipp Wundersee.",
+          "title": "ARD-Korrespondent: \"Dimensionen, die Frankreich bisher nicht kannte\"",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-102.html",
+          "summary": "Die Waldbrände in Frankreich erreichen ein historisches Ausmaß. Die Einsatzkräfte versuchten das Schlimmste zu verhindern, berichtet ARD-Korrespondent Rienäcker von vor Ort. Doch den eigentlichen Brand könnten sie derzeit nicht löschen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0b1c2d79-3665-4a9a-942c-134e768cfbac/AAABlfL4LKM/AAABnSSvrFg/16x9-big/grundsteuer-161.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0da04594-8d6b-4dc0-b068-b9d616c02929/AAABn5qxKHE/AAABnSSvrFg/16x9-big/sendungsbild-1770280.jpg?width=1280"
         },
         {
-          "title": "Linnemann weist Zweifel an Eignung als Gesundheitsminister zurück",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-gesundheitsminister-100.html",
-          "summary": "Als künftiger Gesundheitsminister will Linnemann an den Reformprozess seiner Vorgängerin anknüpfen - und verteidigt seine Eignung für das Amt. Von den Sozialverbänden kommen bereits Forderungen nach Änderungen bei den Reformen.",
+          "title": "150. Jubiläum der Bayreuther Festspiele mit Polit-Prominenz gestartet",
+          "url": "https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html",
+          "summary": "Mal wurden die Bayreuther Festspiele eröffnet. Zu dem Jubiläum kamen auch viele prominente Gäste, darunter Kanzler Merz und Bayerns Ministerpräsident Söder. Zum Auftakt gab es - anders als üblich - Beethoven statt Wagner.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/31885490-ba86-4a8d-bab1-bb5da507e807/AAABn5nugXI/AAABnSSvrFg/16x9-big/linnemann-178.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/555fe3de-6aab-4c26-97ce-b1f55b2c02e8/AAABn5qHFHU/AAABnSSvrFg/16x9-big/br-l-r-oliver-baer-charlotte-merz-friedrich-merz-dorothee-baer-markus-soeder-alexander-dobrindt-nina-warken-sebastian-warken-bei-der-eroeffnung-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Christopher Street Day: CSD abgebrochen – Fahrzeug soll Menschen angefahren haben",
+          "url": "https://www.sueddeutsche.de/politik/berlin-csd-abgebrochen-li.3521534",
+          "summary": "Es gebe eine Polizeilage mit mehreren verletzten Personen, teilte ein Sprecher der Berliner Polizei mit. Nach ersten Angaben soll ein Fahrzeug mehrere Menschen angefahren haben. Mindestens ein Mensch ist nach Polizeiangaben gestorben.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/25/c825ef6d-80bd-451a-a0fe-12ca656bcd4a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
+        },
+        {
           "title": "150. Richard-Wagner-Festspiele in Bayreuth: Ein Hügel voller Leitmotive",
           "url": "https://www.sueddeutsche.de/bayern/bayreuth-festspiele-richard-wagner-beethoven-jubilaeum-friedman-merz-merkel-li.3520121",
           "summary": "150 Jahre Bayreuther Festspiele, 150 Elstern aus Pappe und jede Menge Limousinen: Auf dem Grünen Hügel treffen Kunst, Politik und Vermögen aufeinander. Ein erster Besuch.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/25/bd3ef025-9a82-49c3-805a-df36c940c4f2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
-        },
-        {
-          "title": "Islamfeindlichkeit in Penzberg: Unbekannte besprühen Hinweisschild auf Freitagsgebet",
-          "url": "https://www.sueddeutsche.de/muenchen/wolfratshausen/penzberg-moschee-freitagsgebet-schild-beschmiert-li.3521469",
-          "summary": "Das Schild war gerade erst diese Woche aufgestellt worden – zusammen mit Hinweisen auf die christlichen Gottesdienste. Der Penzberger Imam Benjamin Idriz spricht von einem „Angriff auf unser Miteinander“. Auch der Bürgermeister äußert sich.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/25/a40220f0-04db-4471-931f-a6aa8ac14324.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=96%2C629%2C1396%2C785"
         }
       ]
     }
