@@ -1,25 +1,17 @@
 {
-  "generated": "2026-07-25T02:00:09.023Z",
-  "timestamp": "25.7.2026, 04:00:09",
+  "generated": "2026-07-25T06:00:08.519Z",
+  "timestamp": "25.7.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "KI-Fachmann Krüger: „Wir müssen annehmen, dass die KI den Weg ins Internet und den Angriff eigenständig entwickelt hat“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dfki-chef-krueger-ueber-open-ai-wir-muessen-annehmen-dass-die-ki-den-weg-ins-internet-und-den-angriff-eigenstaendig-entwickelt-hat-201060723.html",
-          "summary": "Künstliche Intelligenz von Open AI hat sich selbst ins Web befreit und ein Unternehmen gehackt. Was bedeutet das? Ein Gespräch mit Antonio Krüger, dem Chef des Deutschen Forschungszentrums für Künstliche Intelligenz.",
+          "title": "Rede bei Pressedinner: Trump scherzt, aber niemand lacht",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/wie-niemand-ueber-trumps-scherze-beim-pressedinner-lachte-accg-201064038.html",
+          "summary": "Beim nachgeholten Pressedinner in Washington äußert US-Präsident Donald Trump die üblichen Beleidigungen – und kündigt an, nächstes Jahr wiederzukommen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b0ec0dffe9f4/w6144h3210x0y236o/202607/43601.0.2337259459/die-open-ai-ki-hat.webp"
-        },
-        {
-          "title": "Künstliche Intelligenz: Open AI verliert die Kontrolle",
-          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/openai-warum-das-unternehmen-die-kontrolle-ueber-seine-ki-verlor-201054456.html",
-          "summary": "„Ein beispielloser Cyber-Zwischenfall“: Die KI-Technologie des ChatGPT-Entwicklers macht sich selbständig und verübt einen Hackingangriff. Das wirft viele Fragen auf.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/451d66f1caa7/w3500h1828x0y252o/202607/43601.0.2359003853/keine-boesartige-absicht-open.webp"
+          "image": "https://media0.faz.net/image/w1200h627/85e0adde96d4/w2081h1087x0y111o/202607/43601.0.2369136235/donald-trump-wirft-nach-seiner.webp"
         },
         {
           "title": "Haager Strafgerichtshof: Karim Khan verliert sein Amt als Chefankläger",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ebc4bb94b71c/w5609h2930x0y471o/202606/43601.0.2208778560/karim-khan-waehrend-eines.webp"
+        },
+        {
+          "title": "Liveblog Irankrieg: Saudi-Koalition greift Huthi-Ziele im Jemen an",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-saudi-koalition-greift-huthi-ziele-im-jemen-an-faz-200583539.html",
+          "summary": "Reaktion auf Angriff auf Schiff im Roten Meer +++ Bericht: Bahrain und Kuwait flogen Vergeltungsangriffe gegen Iran +++ EU verhängt Sanktionen gegen iranische Richter +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/22f1559387d9/w6144h3210x0y443o/202607/43601.0.2368770033/schiffe-sind-im-hafen-der.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Internationaler Strafgerichtshof ICC: Chefankläger Karim Khan muss gehen",
-          "url": "https://www.spiegel.de/ausland/internationaler-strafgerichtshof-icc-chefanklaeger-karim-khan-muss-gehen-a-09feef95-3d86-43f9-a653-5eaf2a0de546#ref=rss",
-          "summary": "Er soll eine Mitarbeiterin intim berührt und ihr seine Zunge ins Ohr gesteckt haben: Karim Khan, Chefankläger am Internationalen Strafgerichtshof, sieht sich mit schweren Vorwürfen konfrontiert. Nun verliert er sein Amt.",
+          "title": "Karim Khan: Absetzung des IStGH-Chefanklägers nach Vorwürfen sexuellen Fehlverhaltens",
+          "url": "https://www.spiegel.de/ausland/karim-khan-absetzung-des-istgh-chefanklaegers-nach-vorwuerfen-sexuellen-fehlverhaltens-a-eec5451c-d365-4ea8-8fea-8c92dbe97887#ref=rss",
+          "summary": "Die Vorwürfe sexuellen Fehlverhaltens kosten den Chefankläger des Internationalen Strafgerichtshofs Karim Khan den Job. Völkerrechtler Kai Ambos erklärt, ob die Institution noch eine Zukunft hat.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a4e17f3c-020f-4733-aea0-75a6e1e44c02_w1200_r1.778_fpx64.65_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/995889e2-36a8-475f-ae8d-d0d8ed822fe9_w1200_r1.778_fpx58.6_fpy44.99.jpg"
         },
         {
           "title": "Bayreuther Festspiele und die Wagners: Die Königsfamilie des Nationalsozialismus",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/ba1fba3c-359c-4490-b1d1-4fe166e225a0_w1200_r1.778_fpx65.14_fpy49.98.jpg"
         },
         {
-          "title": "Bundesregierung sucht Verkehrsminister / Verkehrsministerin (m/w/d)",
-          "url": "https://www.spiegel.de/wirtschaft/patrick-schnieder-warum-der-verkehrsminister-gehen-muss-a-6d44b20c-5829-4169-a801-4c5494a83a3b#ref=rss",
-          "summary": "Ihr Tätigkeitsprofil: Als Nachrücker übernehmen Sie eine vielseitige Aufgabe in einem großartigen Team und gestalten die Transformation der Infrastruktur einer westeuropäischen Mittelmacht. Anforderungsprofil: keine Vorkenntnisse nötig. Aussagekräftige Bewerbungen richten Sie an das Bundeskanzleramt. Bitte dieses Mal nur ernst gemeinte Zuschriften.",
+          "title": "News: Friedrich Merz, Verkehrsminister, Donald Trumps Zolldrohung, AfD-Verbotsverfahren",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-verkehrsminister-donald-trumps-zolldrohung-afd-verbotsverfahren-a-6f4fbdc9-b9c9-4c6d-b95c-a72483366c13#ref=rss",
+          "summary": "Der Kanzler sucht einen Minister. Donald Trump droht mit neuen Zöllen. Ein SPD-Minister wirbt für ein AfD-Verbotsverfahren. Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6a0fc31a-6109-4ab8-94e4-8d6a6151a693_w1200_r1.778_fpx39_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "CSD 2026: Queere Räume in Berlin unter Druck",
+          "url": "https://www.tagesschau.de/kultur/queere-orte-in-berlin-kampf-ums-ueberleben-100.html",
+          "summary": "Während am Pride-Wochenende Hunderttausende buntes Leben in der Hauptstadt feiern, kämpfen Inititativen, die das ganze Jahr über queere Kultur- und Communityarbeit machen, ums Überleben. Von H. Möller und L. Babst.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/77637a3c-8101-41ed-9d3a-e2bac7e30b7c/AAABn5RL0qo/AAABnSSvrFg/16x9-big/csd-berlin-130.jpg?width=1280"
+        },
+        {
+          "title": "Ukraine nimmt Russlands Online-Handel ins Visier",
+          "url": "https://www.tagesschau.de/ausland/europa/russland-angriffe-wildberries-petersburg-100.html",
+          "summary": "In Russland hat der Online-Händler Wildberries eine ähnliche Bedeutung wie hierzulande Amazon. Nun greift die Ukraine den Händler gezielt und wiederholt an. Das trifft auch viele kleine Unternehmer. Von Silke Diettrich.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/ca94d73a-317f-4368-9d7a-f89c168344fe/AAABn5RERQk/AAABnSSvrFg/16x9-big/rauch-lagerhaus-wildberries-100.jpg?width=1280"
+        },
+        {
           "title": "Mandat von UN-Menschenrechtskommissar Türk um vier Jahre verlängert",
           "url": "https://www.tagesschau.de/ausland/volker-tuerk-un-menschenrechtskommissar-100.html",
           "summary": "UN-Menschenrechtskommissar Volker Türk bleibt weitere vier Jahre im Amt. Gegen den Widerstand Russlands, Israels und der USA hat die UN-Generalversammlung mehrheitlich für eine Mandatsverlängerung gestimmt.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/74353b77-3647-48c9-9006-fafecc747ecf/AAABn5bhUSA/AAABnSSvrFg/16x9-big/volker-tuerk-120.jpg?width=1280"
-        },
-        {
-          "title": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
-          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html",
-          "summary": "Ein Militärbündnis unter Führung von Saudi-Arabien hat im jemenitischen Hodaida Ziele der Huthi-Miliz angegriffen. Die Angriffe seien eine Vergeltung für die Attacke auf ein Schiff unter saudischer Flagge gewesen, teilte das Bündnis mit.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/2818daac-fad6-42b2-aab0-932f1f1ba431/AAABldrtnpA/AAABnSSvrFg/16x9-big/karte-jemen-100.jpg?width=1280"
-        },
-        {
-          "title": "Gordie-Howe-Brücke zwischen Kanada und den USA eröffnet",
-          "url": "https://www.tagesschau.de/ausland/amerika/gordie-howe-bruecke-100.html",
-          "summary": "Eigentlich sollten die Nachbarn Kanada und USA durch die neue Gordie-Howe-Brücke näher zusammenrücken. Doch ihre Eröffnung fällt mitten in einen Zollstreit, der beide Länder weiter entfremdet. Von Benjamin Best.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cc03f401-0950-4856-9979-eea9ab8b14b8/AAABn5Zma1M/AAABnSSvrFg/16x9-big/gordie-howe-bruecke-102.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Saudi-Koalition greift Ziele in Jemen an",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-schiffe-schaeden-li.3513707",
+          "summary": "Die Luftangriffe sollen vor allem die Provinz Hudaida getroffen haben. Die Saudi-Koalition wirft der Huthi-Miliz den Angriff auf ein Schiff und „maritimen Terrorismus“ vor.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/24/e233dc45-994e-43ff-90d6-2e0eec654520.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Sturz aus dem Zug: „Mein Mandant war das Opfer, nicht der Täter“",
           "url": "https://www.sueddeutsche.de/panorama/karlsruhe-deutsche-bahn-sturz-mitarbeiter-streit-fahrgast-li.3520885",
           "summary": "Nach einem Streit mit einem Fahrgast stürzt ein DB-Mitarbeiter aus dem Zug und überlebt nur knapp. Laut Staatsanwaltschaft ist der Fahrgast auf den Mann losgegangen, doch ein Video weckt Zweifel. War es doch anders?",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/24/0e892633-b4b2-4fe1-9576-de5d2e78d0fe.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
-        },
-        {
-          "title": "USA: Maserninfektionen in den USA auf höchstem Stand seit 35 Jahren",
-          "url": "https://www.sueddeutsche.de/wirtschaft/usa-news-liveblog-masern-masernimpfung-kennedy-li.3511620",
-          "summary": "Das Land zählt jetzt schon so viele Infektionen wie im ganzen Jahr 2025. In 43 Bundesstaaten sowie in Washington, D. , wurde in diesem Jahr mindestens eine Infektion registriert.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/24/c75963ac-022a-4e17-8783-8e9841feb9ce.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C603%2C3000%2C1687"
         }
       ]
     }
