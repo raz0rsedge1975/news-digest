@@ -1,17 +1,25 @@
 {
-  "generated": "2026-07-26T14:00:08.599Z",
-  "timestamp": "26.7.2026, 16:00:08",
+  "generated": "2026-07-26T18:00:08.806Z",
+  "timestamp": "26.7.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Angriff auf CSD in Berlin: Dobrindt bestätigt: Berliner Attentäter ging wohl mit Machete auf Passanten los",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-zu-polizeilage-bei-csd-dobrindt-bestaetigt-berliner-attentaeter-ging-wohl-mit-machete-auf-passanten-los-faz-201065238.html",
-          "summary": "Bundesinnenminister: Alles deutet auf „islamistischen Terroranschlag“ hin +++ Polizei durchsucht Wohnung des Tatverdächtigen +++ alle Entwicklungen im Liveblog",
+          "title": "Angriff auf CSD in Berlin: Tatverdächtiger bei Polizeieinsatz in Berlin-Spandau erschossen",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-zu-anschlag-auf-csd-tatverdaechtiger-bei-polizeieinsatz-in-berlin-spandau-erschossen-faz-201065238.html",
+          "summary": "Mutmaßlicher CSD-Täter Abdul Ballout soll Polizisten angegriffen haben +++ Merz: Werden über Konsequenzen mit Entschlossenheit entscheiden +++ Mehrere Personen in Polizeigewahrsam  +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/66a2c4c49294/w5500h2873x0y630o/202607/43601.0.2372989616/alexander-dobrindt-bei-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/26c49ccc2802/w3198h1670x0y231o/202607/43601.0.2373979245/einsatzfahrzeuge-von-polizei.webp"
+        },
+        {
+          "title": "Tödliche Attacken: Islamistische Anschläge in Deutschland: eine Chronik",
+          "url": "https://www.faz.net/aktuell/politik/inland/islamistische-terroranschlaege-in-deutschland-seit-2016-accg-201066136.html",
+          "summary": "Im Jahr 2011 gab es in Deutschland den ersten islamistisch motivierten Anschlag mit Todesopfern. Seit 2016 zählt das Bundesamt für Verfassungsschutz 16 derartige Anschläge.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3a240719b7a1/w3000h1567x0y224o/202511/43601.0.1452611070/berlin-breitscheidplatz-20-12.webp"
         },
         {
           "title": "Anschlag auf den CSD: Geburt einer Tragödie",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/f3f45bc1b8f5/w4801h2508x0y96o/202607/43601.0.2370752815/mitglieder-einer-hoeheren.webp"
-        },
-        {
-          "title": "Brände wüten weiter: Flammen kommen bis 15 Kilometer an Großraum Bordeaux heran",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mehr-als-200-000-menschen-vor-waldbraenden-bei-bordeaux-in-sicherheit-gebracht-accg-201064886.html",
-          "summary": "Die Waldbrände in Frankreich haben eine der größten Evakuierungsaktionen in der Geschichte des Landes ausgelöst. Auch Urlauber sind betroffen. Frankreich mobilisiert Soldaten.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a30cb5e89b4e/w5740h2999x0y414o/202607/43601.0.2372685226/ein-pariser-feuerwehrmann.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "CSD in Berlin: Alexander Dobrindt spricht von Terroranschlag, 29 Menschen verletzt",
+          "title": "CSD: Mutmaßlicher Attentäter ist tot, Polizeieinsatz in Berlin-Spandau – Newsblog",
           "url": "https://www.spiegel.de/panorama/csd-in-berlin-polizei-fahndet-nach-tatverdaechtigem-abdul-b-a-0b05b0b9-df30-4ab1-a509-fe54653ae2b1#ref=rss",
-          "summary": "Der mutmaßliche Attentäter von Berlin ist laut Innenminister Dobrindt womöglich auch mit einer Machete auf Menschen losgegangen. An deutschen Grenzen gibt es Polizeikontrollen. Die Entwicklungen im News-Update.",
+          "summary": "Die Polizei hat nach dem Anschlag beim CSD den verdächtigen Abdul B. in Berlin-Spandau aufgespürt. Beim Zugriff fielen Schüsse. Die Entwicklungen im News-Update.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c3674ad6-1109-4023-b360-be9c73394a27_w1200_r1.778_fpx63.34_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ffe19956-61a6-48fe-b839-17237a7b55ca_w1200_r1.778_fpx48_fpy29.jpg"
         },
         {
-          "title": "Brandkatastrophe in Frankreich: Warum jetzt in Bordeaux Löschflugzeuge fehlen",
-          "url": "https://www.spiegel.de/ausland/brandkatastrophe-in-frankreich-warum-jetzt-in-bordeaux-loeschflugzeuge-fehlen-a-cdc8d3cd-32be-4ff5-b639-4c0c1b213979#ref=rss",
-          "summary": "1400 Feuerwehrleute kämpfen gegen die Flammen vor Bordeaux – doch der Großbrand ist weiter außer Kontrolle. Zusätzliche Löschflugzeuge fehlten, sagen Experten. Das wird nun auch für die französische Regierung zum Problem.",
+          "title": "Verkehrsminister Patrick Schnieder bittet Kanzler Merz um Entlassung",
+          "url": "https://www.spiegel.de/politik/verkehrsminister-patrick-schnieder-bittet-kanzler-merz-um-entlassung-a-5cb5d307-160a-44fb-81b0-a84049b9e9f2#ref=rss",
+          "summary": "Bundeskanzler Merz wollte Verkehrsminister Patrick Schnieder auswechseln – doch der avisierte Nachfolger sagte kurzfristig ab. Jetzt zieht der beschädigte Politiker Konsequenzen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e2a7e334-8536-4760-920d-7b1a7409ca49_w1200_r1.778_fpx42_fpy35.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b4a91c8f-a483-47f6-a559-467537a0f507_w1200_r1.778_fpx51.34_fpy44.99.jpg"
         },
         {
-          "title": "Berlin: Waldsiedlung Zehlendorf wird Unesco-Welterbe",
-          "url": "https://www.spiegel.de/kultur/berlin-waldsiedlung-zehlendorf-wird-unesco-welterbe-a-72a580a1-69bf-471a-b8a3-0e3720b9d5c6#ref=rss",
-          "summary": "Fassaden in knalligen Farben – und mittendrin Kiefernwald: Die Waldsiedlung in Berlin-Zehlendorf gehört künftig offiziell zum Erbe der Menschheit. Die Einheimischen haben dem Viertel einen Spitznamen verliehen.",
+          "title": "Waldbrände in Spanien: Was Ziegen und der Frühjahrsregen damit zu tun haben",
+          "url": "https://www.spiegel.de/wissenschaft/mensch/waldbraende-in-spanien-was-ziegen-und-der-fruehjahrsregen-damit-zu-tun-haben-a-8ce497ab-ce27-4ea1-a688-b3b6183c995f#ref=rss",
+          "summary": "Dürre und Hitze haben den Boden und die Vegetation in den vergangenen Wochen geradezu gebacken. Eine weitere Ursache der katastrophalen Brände findet weniger Beachtung: In Teilen Spaniens ist eine Landschaft entstanden, in der Feuer kaum noch zu stoppen sind.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/452d81e5-28e8-413a-b459-fa04485e294b_w1200_r1.778_fpx33.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/354d3183-111a-4a42-a7d4-cb0dab18a71e_w1200_r1.778_fpx33.33_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Welt-AIDS-Konferenz: Brasiliens Kampf um neue HIV-Medikamente",
-          "url": "https://www.tagesschau.de/ausland/amerika/suedamerika-brasilien-welt-aids-konferenz-100.html",
-          "summary": "Brasilien gilt als Vorreiter im Kampf gegen HIV: Die Behandlung ist kostenlos. Doch der Zugang zu modernen Medikamenten bleibt schwierig. Die Welt-AIDS-Konferenz rückt das Problem in den Fokus.",
+          "title": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
+          "url": "https://www.tagesschau.de/ausland/europa/ann-widdecombe-mord-fragen-100.html",
+          "summary": "Der Mord an Ex-Ministerin Ann Widdecombe hat Großbritannien erschüttert. Noch ist das Motiv des Täters unklar, doch ihre rechtspopulistische Partei Reform UK macht Medien und das politische Klima verantwortlich. Von Mareike Aden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0d333b27-b3d3-4740-9d16-366c46d2efb0/AAABn55YWbE/AAABnSSvrFg/16x9-big/rio-de-janeiro-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7dd00789-476d-4920-b61e-8cb393d3904a/AAABn5LvrwA/AAABnSSvrFg/16x9-big/widdecombe-118.jpg?width=1280"
         },
         {
-          "title": "Angriff auf CSD: Dobrindt spricht von islamistischem Terroranschlag",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-csd-berlin-anschlag-100.html",
-          "summary": "Nach dem Angriff beim Berliner CSD spricht Innenminister Dobrindt von einem islamistischen Terroranschlag. Der Verdächtige soll mit dem Auto einen Menschen getötet und 29 verletzt haben. Er soll auch eine Machete bei sich gehabt haben.",
+          "title": "Verkehrsminister Schnieder will Kanzler Merz um Entlassung bitten",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-entlassung-102.html",
+          "summary": "Am Umgang von Kanzler Merz mit Verkehrsminister Schnieder hatte es innerhalb der CDU massive Kritik gegeben. Nun zieht Schnieder selbst Konsequenzen und bittet um seine Entlassung - um den \"unwürdigen Zustand\" zu beenden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8446e337-13f1-41b9-a27d-2f0782c3169d/AAABn55fITY/AAABnSSvrFg/16x9-big/alexander-dobrindt-162.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a4ea027f-f036-4349-9009-a02cf025d4c2/AAABn59jNAQ/AAABnSSvrFg/16x9-big/patrick-schnieder-120.jpg?width=1280"
         },
         {
-          "title": "Liveblog zu Angriff auf CSD: ++ Fahndung laut Dobrindt mit \"\"sehr hohem\" Einsatz ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
-          "summary": "Bundesinnenminister Dobrindt geht bei dem Anschlag auf den CSD in Berlin von islamistischen Terror aus, die Fahndung laufe mit \"sehr hohem Einsatz\" der Polizei. Der Tatverdächtige Abdul B. ist weiter auf der Flucht.",
+          "title": "CSD-Anschlag in Berlin: Bundeskanzler Merz beschwört Zusammenhalt",
+          "url": "https://www.tagesschau.de/inland/anschlag-csd-berlin-reaktionen-100.html",
+          "summary": "Nach dem Anschlag auf den Berliner CSD trauert die Hauptstadt und das Land. Kanzler Merz appelliert an den Zusammenhalt. Viele Bundespolitiker drücken ihr Entsetzen und Mitgefühl für die Opfer aus. Einige richten bereits den Blick auf mögliche Konsequenzen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/aa9e4600-f391-4ec3-83b7-f3a133261675/AAABn55uFLY/AAABnSSvrFg/16x9-big/polizei-tiergarten-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/19c31986-66e3-4d46-ae30-c62101ebc1d2/AAABn57eqhE/AAABnSSvrFg/16x9-big/friedrich-merz-456.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Blockade im EU-Parlament: Sojadiesel-Förderung wird vorerst fortgesetzt",
+          "url": "https://www.telepolis.de/article/Blockade-im-EU-Parlament-Sojadiesel-Foerderung-wird-vorerst-fortgesetzt-11375508.html",
+          "summary": "Das EU-Parlament stoppt den Sojadiesel-Ausstieg. Während die Union den Beschluss stützt, warnt die DUH vor Handelskriegen mit Indonesien.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/2/7/0/1/kanister1-soy-a05c671467f0356a.jpg"
+        },
         {
           "title": "\"Chéri, ich komme!\": Auf der Suche nach dem Orgasmus",
           "url": "https://www.telepolis.de/article/Cheri-ich-komme-Auf-der-Suche-nach-dem-Orgasmus-11378244.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/1/2/1/8/4/1/Friedensdividende-F-2-01-3fde3d8a0f4e62ee.gif"
-        },
-        {
-          "title": "Resistente Tumore: Wie Krebsstammzellen im Tiefschlaf überleben",
-          "url": "https://www.telepolis.de/article/Resistente-Tumore-Wie-Krebsstammzellen-im-Tiefschlaf-ueberleben-11377708.html",
-          "summary": "Krebs ist mehr als ein Haufen unkontrolliert wachsender Zellen. Forscher der DKFZ und TU Dresden zeigen experimentell, warum Tumore so schwer therapierbar sind.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/3/9/1/0/CI_Photos-70ee2c65bd3b2a7b.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Terrorismus: Was wir über die Tat und den Verdächtigen wissen",
-          "url": "https://www.sueddeutsche.de/panorama/csd-berlin-li.3521622",
-          "summary": "Hunderttausende feiern den Christopher Street Day in Berlin, als ein Auto in die Menge fährt. Die Polizei fahndet nach dem 21-jährigen Abdul B. Wer ist er?",
+          "title": "Bundespolitik: Steffen Bilger soll neuer Verkehrsminister werden",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-schnieder-verkehrsminister-merz-entlassung-li.3516334",
+          "summary": "Der Parlamentarische Geschäftsführer der Unionsfraktion im Bundestag gilt als erfahrener Verkehrspolitiker. Er soll Patrick Schnieder nachfolgen, der Kanzler Merz am Sonntag um seine Entlassung gebeten hatte. Schon seit Freitag hieß es, der Bundeskanzler wolle ihn entlassen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/26/d43fe83d-fa36-4ebe-aad8-86e11f7a076e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=72%2C41%2C1444%2C812"
+          "image": "https://www.sueddeutsche.de/2026/07/26/0c94740b-aa9c-4795-aa7a-3b962051e5f1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=694%2C118%2C3306%2C1860"
         },
         {
-          "title": "Berlin: Ermittler gehen von Terroranschlag auf CSD aus",
+          "title": "Islamistischer Anschlag auf CSD: Radikal – und den Behörden bestens bekannt",
+          "url": "https://www.sueddeutsche.de/politik/berlin-anschlag-tatverdaechtiger-abdul-b-csd-li.3521642",
+          "summary": "Der nun bei einem Polizeieinsatz erschossene Abdul B. war als islamistischer Gefährder aktenkundig und bereits wegen der Vorbereitung einer terroristischen Straftat verurteilt. Den Sicherheitskräften stellen sich unangenehme Fragen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/26/561940ed-fc16-42fa-a8cd-73881b4dd004.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C170%2C4000%2C2250"
+        },
+        {
+          "title": "Berlin: Mutmaßlicher CSD-Attentäter ist tot",
           "url": "https://www.sueddeutsche.de/panorama/csd-berlin-auto-li.3521540",
-          "summary": "Darauf deute alles hin, sagt Bundesinnenminister Dobrindt. Nach Informationen von SZ, NDR und WDR wollte sich der Verdächtige dem IS anschließen. Die Polizei sucht den 21-jährigen Abdul B. , der erst im Mai aus der U-Haft freikam.",
+          "summary": "Der Tatverdächtige wird bei einem Polizeieinsatz getötet, das bestätigte die Berliner Senatsinnenverwaltung. Zuvor hatten mehrere Medien darüber berichtet.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/26/a96d2f73-3120-4e1a-9080-c98a05898bae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C179%2C3636%2C2045"
-        },
-        {
-          "title": "CSD in Berlin: Die Behörden sind schuld? Alle „Gefährder“ abschieben? Einfache Antworten verbieten sich",
-          "url": "https://www.sueddeutsche.de/meinung/csd-berlin-anschlag-gefaehrder-kommentar-li.3521626",
-          "summary": "Es gibt eine Frage, die alle in Deutschland stellen dürfen: Wie konnte ein radikalisierter „Gefährder“ einen solchen Anschlag verüben?  Nur vor schnellen Urteilen sollten sie sich hüten.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/26/05a09c0b-e6b9-4fdb-8799-15e2ac9b1111.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C365%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/26/26c5f3ec-2baa-45e7-a140-d78e069cb040.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C415%2C3981%2C2239"
         }
       ]
     }
