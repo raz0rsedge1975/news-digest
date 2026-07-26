@@ -1,17 +1,25 @@
 {
-  "generated": "2026-07-25T22:00:08.679Z",
-  "timestamp": "26.7.2026, 00:00:08",
+  "generated": "2026-07-26T02:00:09.886Z",
+  "timestamp": "26.7.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Laut Polizeiangaben: Fahrzeug in Menschenmenge bei Berliner CSD gefahren – ein Toter, mehrere Verletzte",
-          "url": "https://www.faz.net/aktuell/gesellschaft/csd-in-berlin-fahrzeug-faehrt-in-menschenmenge-ein-toter-mehrere-verletzte-201065198.html",
-          "summary": "Der CSD in Berlin ist vorzeitig beendet worden. Laut Polizei ist ein Fahrzeug in die Menschenmenge gefahren. Dabei seien mindestens ein Mensch getötet und mehrere Personen verletzt worden.",
+          "title": "Polizeilage bei CSD in Berlin: Verdächtiger soll islamistischer Szene angehören",
+          "url": "https://www.faz.net/aktuell/gesellschaft/liveticker-zu-polizeilage-bei-csd-verdaechtiger-soll-islamistischer-szene-angehoeren-faz-201065238.html",
+          "summary": "Polizei: Mutmaßlich islamistischer Tatverdächtiger identifiziert +++ Polizei prüft Einsatz von Stichwaffe +++ Mindestens ein Toter, mehrere Verletzte +++ CSD in Berlin abgebrochen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/75b715f4fa4d/w4893h2556x0y353o/202607/43601.0.2371227824/einsatzkraefte-der-polizei.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e9de2429ba00/w8192h4280x0y592o/202607/43601.0.2371298049/einsatzkraefte-der-polizei.webp"
+        },
+        {
+          "title": "bei CSD in Berlin: Fahrzeug fährt in Menschenmenge – ein Toter, mehrere Verletzte",
+          "url": "https://www.faz.net/aktuell/gesellschaft/csd-in-berlin-fahrzeug-faehrt-in-menschenmenge-ein-toter-mehrere-verletzte-201065198.html",
+          "summary": "Am Rande des Christopher Street Day in Berlin fährt ein Fahrzeug in eine Menschenmenge. Mindestens eine Person stirbt und 16 weitere werden verletzt. Die Polizei fahndet nach einem Tatverdächtigen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/83edf598a8c7/w5916h3091x0y487o/202607/43601.0.2371503294/einsatzkraefte-der-polizei.webp"
         },
         {
           "title": "Waldbrände in Frankreich: Erstmals löscht ein Airbus",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/c76851a56605/w5080h2654x556y959o/202607/43601.0.2363112603/uebung-macht-den-feuerwehrmann.webp"
-        },
-        {
-          "title": "Evakuierung: Schon 167.000 Menschen vor Waldbränden bei Bordeaux in Sicherheit gebracht",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/schon-167-000-menschen-vor-waldbraenden-bei-bordeaux-in-sicherheit-gebracht-accg-201064886.html",
-          "summary": "Die Waldbrände in Frankreich haben eine Evakuierungswelle ausgelöst. Auch Urlauber sind betroffen. Frankreich mobilisiert Soldaten.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cfd10add70b3/w5152h2691x0y374o/202607/43601.0.2370298723/das-bordeaux-lac-exhibition.webp"
         }
       ]
     },
@@ -35,9 +35,9 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "CSD in Berlin: Auto fährt in Menschenmenge – ein Toter und mehrere Verletzte",
+          "title": "CSD in Berlin: Mutmaßliche Attacke – Tatverdächtiger soll aus islamistischem Milieu stammen",
           "url": "https://www.spiegel.de/panorama/csd-in-berlin-abgebrochen-berichte-ueber-mehrere-verletzte-a-0b05b0b9-df30-4ab1-a509-fe54653ae2b1#ref=rss",
-          "summary": "Der Christopher Street Day in Berlin ist abgebrochen worden. Das Areal wird geräumt, es gibt rund 15 Verletzte, davon einige lebensgefährlich. Die Polizei fahndet »mit Hochdruck nach tatverdächtigen Personen«. Die Entwicklungen im News-Update.",
+          "summary": "Ein Auto fährt beim Christopher Street Day im Berliner Tiergarten in die Menschenmenge: Ein Mensch stirbt, es gibt 16 Verletzte. Die Polizei meldet einen Tatverdächtigen aus islamistischem Milieu. Die Entwicklungen im News-Update.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/60e9a99f-5eba-43da-b55c-8ecf96cbe3ee_w1200_r1.778_fpx51_fpy42.jpg"
@@ -64,12 +64,20 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - ein Toter und Verletzte",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
-          "summary": "Der Berliner Christopher Street Day ist abgebrochen worden. Laut Polizei ist ein Fahrzeug in eine Menschenmenge gefahren. Demnach starb ein Mensch, mehrere Menschen wurden verletzt.",
+          "title": "CSD-Liveblog: ++ Ein Toter und Verletzte bei CSD in Berlin ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
+          "summary": "Ein Transporter fährt am Rande des Berliner Christopher Street Day in eine Menschenmenge. Ein Mensch stirbt, mindestens 14 weitere werden verletzt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f32ec744-6cc1-42fc-80c8-7fc997546fc1/AAABn5soIlQ/AAABnSSvrFg/16x9-big/csd-316.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6cca30de-392c-4e54-a787-42f1a9a95744/AAABn5uAsGA/AAABnSSvrFg/16x9-big/csd-320.jpg?width=1280"
+        },
+        {
+          "title": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - ein Toter und Verletzte",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
+          "summary": "Der Berliner Christopher Street Day ist abgebrochen worden, nachdem ein Fahrzeug in eine Menschenmenge gefahren war. Laut Polizei starb ein Mensch, mehrere weitere wurden verletzt. Der Fahrer gehört laut Polizei der islamistischen Szene an",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b6c609ec-ccab-402c-9059-48d3bb8ef736/AAABn5uyYG4/AAABnSSvrFg/16x9-big/csd-322.jpg?width=1280"
         },
         {
           "title": "ARD-Korrespondent: \"Dimensionen, die Frankreich bisher nicht kannte\"",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/0da04594-8d6b-4dc0-b068-b9d616c02929/AAABn5qxKHE/AAABnSSvrFg/16x9-big/sendungsbild-1770280.jpg?width=1280"
-        },
-        {
-          "title": "150. Jubiläum der Bayreuther Festspiele mit Polit-Prominenz gestartet",
-          "url": "https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html",
-          "summary": "Mal wurden die Bayreuther Festspiele eröffnet. Zu dem Jubiläum kamen auch viele prominente Gäste, darunter Kanzler Merz und Bayerns Ministerpräsident Söder. Zum Auftakt gab es - anders als üblich - Beethoven statt Wagner.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/555fe3de-6aab-4c26-97ce-b1f55b2c02e8/AAABn5qHFHU/AAABnSSvrFg/16x9-big/br-l-r-oliver-baer-charlotte-merz-friedrich-merz-dorothee-baer-markus-soeder-alexander-dobrindt-nina-warken-sebastian-warken-bei-der-eroeffnung-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Berlin: Fahrzeug fährt im Tiergarten in Menschenmenge – mutmaßlicher Verdächtiger ist polizeibekannt",
+          "url": "https://www.sueddeutsche.de/panorama/csd-berlin-auto-li.3521540",
+          "summary": "Mindestens ein Mensch stirbt, die Polizei spricht zudem von 16 Verletzten. Bisher gibt es noch keine Festnahmen. Einen mutmaßlichen Verdächtigen rechnet die Polizei der islamistischen Szene zu.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/25/c94940d7-6919-43dd-b3bf-5ca6f22e4691.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C119%2C1450%2C816"
+        },
+        {
           "title": "Christopher Street Day: CSD abgebrochen – Fahrzeug soll Menschen angefahren haben",
           "url": "https://www.sueddeutsche.de/politik/berlin-csd-abgebrochen-li.3521534",
           "summary": "Es gebe eine Polizeilage mit mehreren verletzten Personen, teilte ein Sprecher der Berliner Polizei mit. Nach ersten Angaben soll ein Fahrzeug mehrere Menschen angefahren haben. Mindestens ein Mensch ist nach Polizeiangaben gestorben.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/25/8f1bd841-9d72-49e7-a276-87d21e112d34.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Waldbrände: Der schlimmste Sommer, den Frankreich je erlebt hat",
-          "url": "https://www.sueddeutsche.de/politik/waldbraende-frankreich-ausser-kontrolle-macron-hitzesommer-li.3521360",
-          "summary": "Präsident Macron schickt die Armee für den Kampf gegen die Waldbrände im Südwesten des Landes. Warum dieser Sommer für das Land eine Zäsur ist.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/25/bd3ef025-9a82-49c3-805a-df36c940c4f2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
         }
       ]
     }
