@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-27T18:00:10.689Z",
-  "timestamp": "27.7.2026, 20:00:10",
+  "generated": "2026-07-27T22:00:08.979Z",
+  "timestamp": "28.7.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Islamismus: Helfen Programme zur Deradikalisierung?",
-          "url": "https://www.faz.net/aktuell/politik/inland/nach-csd-anschlag-helfen-programme-zur-deradikalisierung-201068107.html",
-          "summary": "Der mutmaßliche Attentäter von Berlin sollte an einer Maßnahme zur Deradikalisierung teilnehmen. Doch dafür war es bereits zu spät.",
+          "title": "Kampf gegen Waldbrände: Wie gelingt Brandprävention? Bisons und Wildpferde sollen helfen",
+          "url": "https://www.faz.net/aktuell/gesellschaft/tiere/brandpraevention-in-spanien-wildtiere-als-feuerwehr-201069293.html",
+          "summary": "In Kastilien sollen europäische Bisons und Wildpferde die wuchernde Vegetation am Waldboden fressen, um den Flammen ihre Nahrung zu nehmen. Anderswo experimentiert man mit „Feuerwehrschafen“.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b2324aecdcec/w3695h1930x0y517o/202607/43601.0.2376290266/blumen-und-kerzen-am-montag-am.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ae346b7c0e2c/w2697h1409x143y54o/202607/43601.0.2375938308/pferde-sollen-in-spanien-das.webp"
         },
         {
-          "title": "Angriff auf CSD in Berlin: Dobrindt kündigt drei Konsequenzen an",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-zu-csd-anschlag-in-berlin-dobrindt-will-mehr-fussfesseln-fuer-gefaehrder-201065238.html",
-          "summary": "Auch Bundeskanzler schließt Gesetzesänderungen nicht aus +++ Vater des mutmaßlichen CSD-Attentäters: Meinem Sohn wurde das Gehirn gewaschen +++ alle Entwicklungen im Liveblog",
+          "title": "Hitze in Europa: Jetzt wird auch Portugal von Waldbränden heimgesucht",
+          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/waldbraende-in-portugal-ausgebrochen-201070437.html",
+          "summary": "In den vergangenen Wochen ist Portugal von Waldbränden weitgehend verschont geblieben. Nun breiten sich bei Temperaturen von 39 Grad Flammen aus.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e3a9c61be4bb/w6144h3210x0y443o/202607/43601.0.2376282173/dobrindt-nach-dem-anschlag-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/92177ae70611/w7056h3686x0y141o/202607/43601.0.2301986551/um-die-flammen-zu-bekaempfen.webp"
         },
         {
-          "title": "Christopher Street Day: Deutschland hat ein ernstes Problem mit dem Islamismus",
-          "url": "https://www.faz.net/aktuell/politik/inland/anschlag-auf-csd-in-berlin-deutschlands-islamismus-problem-201067903.html",
-          "summary": "Der Anschlag in Berlin zeigt, dass die Gefahr durch die Terrorideologie des IS nicht gebannt ist. Der Staat darf nicht zurückweichen.",
+          "title": "Waldbrände im Süden: Europa ist in der Ära des Feuers angekommen",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/waldbraende-in-frankreich-und-spanien-europa-ist-in-der-aera-des-feuers-angekommen-201067970.html",
+          "summary": "Von Bordeaux bis Madrid fressen sich die Flammen an die Großstädte heran. Die Dürre liefert den Auslöser – doch verödete Äcker und fehlendes Feuermanagement machen die Flammen erst unbeherrschbar.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b09806b37a66/w5282h2759x0y106o/202607/43601.0.2374392058/das-brandenburger-tor-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d626af9de89b/w6523h3408x0y914o/202607/43601.0.2372483894/ein-feuerwehrmann-kaempft-im.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Pyrocumulonimbus: Das sind die gefährlichen Feuerwolken in Frankreich",
+          "url": "https://www.spiegel.de/wissenschaft/natur/pyrocumulonimbus-das-sind-die-gefaehrlichen-feuerwolken-in-frankreich-a-8c697e90-9e76-498d-a3da-a53c2658414e#ref=rss",
+          "summary": "Die Waldbrände bei Bordeaux erzeugen ihre eigenen Unwetter: Riesige Pyrocumulonimbus-Wolken fachen das Feuer an und lassen Blitze entstehen. Für Löschkräfte wird der Einsatz noch härter.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7a5fe1ca-d2ea-40b1-988c-e969c81c3954_w1200_r1.778_fpx46.13_fpy50.jpg"
+        },
         {
           "title": "Und dann sagt der Landeschef: »Sie führen kein Unternehmen, das ist eine Partei«",
           "url": "https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss",
@@ -45,18 +53,10 @@
         {
           "title": "Attacke auf den CSD in Berlin: Eine Stunde vor dem Anschlag filmte das LKA Abdul B.",
           "url": "https://www.spiegel.de/panorama/justiz/attacke-auf-den-csd-in-berlin-eine-stunde-vor-dem-anschlag-filmte-das-lka-abdul-b-a-1104e153-6783-49cc-9517-878e91f74df2#ref=rss",
-          "summary": "Die Berliner Polizei hat den CSD-Attentäter Abdul B. vor dem Anschlag nach SPIEGEL-Informationen wochenlang überwacht. Beamte observierten ihn und hörten sein Handy ab. Terrorpläne erkannten sie nicht.",
+          "summary": "Die Berliner Polizei hat den CSD-Attentäter Abdul B. vor dem Anschlag nach SPIEGEL-Informationen wochenlang überwacht. Beamte filmten heimlich sein Wohnhaus und hörten sein Handy ab. Terrorpläne erkannten sie nicht.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/0eea0090-a6f6-4c42-ad75-10d4da1a65a2_w1200_r1.778_fpx41.32_fpy50.jpg"
-        },
-        {
-          "title": "News des Tages: Feuer in Frankreich und Spanien, Patrick Schnieders Rauswurf, Attentäter Abdul B.",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-feuer-in-frankreich-und-spanienpatrick-schnieders-rauswurf-attentaeters-abdul-b-a-3dd50de4-c099-416d-9878-4b4dfd699e4b#ref=rss",
-          "summary": "In Frankreich und Spanien brennen die Wälder, Friedrich Merz baut sein Kabinett um und nach dem Attentat auf den CSD in Berlin wird die Schuldfrage diskutiert. Das ist die Lage am Montagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Großbritannien: Burnham empfängt Selenskyj - erster ausländischer Besucher",
+          "url": "https://www.tagesschau.de/ausland/gb-ukraine-usa-selenskyj-100.html",
+          "summary": "Andy Burnham setzt als neuer britischer Premier ein Zeichen und empfängt den ukrainischen Präsidenten Selenskyj. Beide betonen die engen Kontakte. Im Anschluss reist Selenskyj zu einem schwierigeren Partner.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/edc737ed-8fc2-452c-9772-515e9c723a49/AAABn6SX9YI/AAABnSSvrFg/16x9-big/burnham-selenskyj-100.jpg?width=1280"
+        },
+        {
+          "title": "Dobrindt nach Anschlag auf CSD: \"Präventivhaft für Gefährder zwingend notwendig\"",
+          "url": "https://www.tagesschau.de/inland/dobrindt-anschlag-csd-100.html",
+          "summary": "Obwohl der mutmaßliche CSD-Attentäter von den Behörden als \"Hochrisikoperson\" eingestuft wurde, war er auf freiem Fuß. Innenminister Dobrindt plädiert daher dafür, die Bewegungsfreiheit von Gefährdern einzuschränken - bis hin zur Präventivhaft.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/392e2b1b-da89-488b-84da-7e98a8fbcfa9/AAABn6RhWbo/AAABnSSvrFg/16x9-big/dobrindt-472.jpg?width=1280"
+        },
+        {
           "title": "Kabinettsumbau sorgt für Ärger mit CDU-Fraktion in Rheinland-Pfalz",
           "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-schnieder-rheinland-pfalz-100.html",
           "summary": "\"Fehlendes Vertrauen\", \"Stimmung am Boden\": Die Kritik am Umgang mit Verkehrsminister Schnieder beim Kabinettsumbau hält an. Die Mainzer CDU-Landtagsfraktion sagte nun ein geplantes Treffen mit Kanzler Merz ab. Von J. Baumert.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/d16d0341-035d-4d07-9a31-469980250270/AAABn6R6Jfs/AAABnSSvrFg/16x9-big/schnieder-merz-102.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Günstiger Nachrichtenmix treibt DAX an",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-100.html",
-          "summary": "Ein Mix aus guten Nachrichten hat den DAX auch zu Wochenbeginn beflügelt. Neben der Angriffspause am Persischen Golf sorgte vor allem ein spektakulärer Börsengang in China für Aufsehen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1d9254b0-75a1-48b6-a8e7-77746406dfc0/AAABns_HxYg/AAABnSSvrFg/16x9-big/boerse-518.jpg?width=1280"
-        },
-        {
-          "title": "Anschlag auf CSD: BKA stufte Abdul B. als \"Hochrisikoperson\" ein",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/anschlag-berlin-tatverdaechtiger-100.html",
-          "summary": "Nach Recherchen von NDR, WDR und SZ bewertete ein BKA-Analysetool den mutmaßlichen Attentäter vom Berliner CSD schon Wochen vor dem Anschlag als \"Hochrisikoperson\". Noch kurz vor dem Anschlag wurde er von den Sicherheitsbehörden gefilmt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/85f5b43c-b1dd-4689-9f43-6fe1637768d5/AAABn6IlWOA/AAABnSSvrFg/16x9-big/anschlag-berlin-auto-100.jpg?width=1280"
         }
       ]
     },
