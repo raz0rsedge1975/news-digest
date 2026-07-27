@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T22:00:09.021Z",
-  "timestamp": "27.7.2026, 00:00:09",
+  "generated": "2026-07-27T02:00:09.609Z",
+  "timestamp": "27.7.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Zehntausende protestieren gegen Massentourismus auf Mallorca",
+          "url": "https://www.tagesschau.de/ausland/europa/mallorca-proteste-106.html",
+          "summary": "\"Mallorca am Limit\" - Tausende Menschen haben unter diesem Motto gegen zu viele Touristen auf der spanischen Insel demonstriert. Sie fordern etwa die Besucherzahl zu begrenzen. Besonders eng wird es auf dem Wohnungsmarkt. Von Anna Mundt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/794a2b4b-1495-4027-be17-7a312ea49044/AAABn6E9vmI/AAABnSSvrFg/16x9-big/mallorca-338.jpg?width=1280"
+        },
+        {
+          "title": "Söder verteidigt Merz' Kabinettsumbau nach Kritik an Hängepartie",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-kabinettsumbau-100.html",
+          "summary": "Die Hängepartie um Verkehrsminister Schnieder und seine Nachfolge sorgte auch in der CDU für Unmut. CSU-Chef Söder verteidigt das Vorgehen von Kanzler Merz. In dem Fall liege die \"Verantwortung sicher nicht beim Bundeskanzler\".",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/3ee9dadf-b24c-4d04-b30e-11ee7fc516e7/AAABn6EFDnY/AAABnSSvrFg/16x9-big/soeder-906.jpg?width=1280"
+        },
+        {
           "title": "Steffen Bilger soll neuer Verkehrsminister werden",
           "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-nachfolge-verkehrsminister-100.html",
           "summary": "Bundeskanzler Merz hat einen Nachfolger für Verkehrsminister Schnieder gefunden: den CDU-Politiker Bilger. Schnieder selbst hatte kurz zuvor um seine Entlassung gebeten - um den \"unwürdigen Zustand\" zu beenden.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/5d2af0a4-139c-491a-b17f-666bc764ae8f/AAABn5-b8Ss/AAABnSSvrFg/16x9-big/bilger-102.jpg?width=1280"
-        },
-        {
-          "title": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
-          "url": "https://www.tagesschau.de/ausland/europa/ann-widdecombe-mord-fragen-100.html",
-          "summary": "Der Mord an Ex-Ministerin Ann Widdecombe hat Großbritannien erschüttert. Noch ist das Motiv des Täters unklar, doch ihre rechtspopulistische Partei Reform UK macht Medien und das politische Klima verantwortlich. Von Mareike Aden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/7dd00789-476d-4920-b61e-8cb393d3904a/AAABn5LvrwA/AAABnSSvrFg/16x9-big/widdecombe-118.jpg?width=1280"
-        },
-        {
-          "title": "Verkehrsminister Schnieder will Kanzler Merz um Entlassung bitten",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-entlassung-102.html",
-          "summary": "Am Umgang von Kanzler Merz mit Verkehrsminister Schnieder hatte es innerhalb der CDU massive Kritik gegeben. Nun zieht Schnieder selbst Konsequenzen und bittet um seine Entlassung - um den \"unwürdigen Zustand\" zu beenden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/a4ea027f-f036-4349-9009-a02cf025d4c2/AAABn59jNAQ/AAABnSSvrFg/16x9-big/patrick-schnieder-120.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "TV-Kritik: Söder segelt durch sein Sommerinterview",
+          "url": "https://www.sueddeutsche.de/medien/soeder-sommerinterview-cdu-csu-zdf-li.3520480",
+          "summary": "Vor Seglerkulisse am Starnberger See beantwortet Markus Söder die Fragen von Wulf Schmiese. Eine ausführliche Antwort zum aktuellen Erfolg der AfD bleibt Bayerns Ministerpräsident erspart. Woran es dagegen nicht fehlt: Fußball-Vergleiche.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/26/d9aa052f-8db3-45da-ac45-fbe298884241.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1920%2C1080"
+        },
+        {
           "title": "CDU: Wut und Unverständnis über Umgang mit Patrick Schnieder",
           "url": "https://www.sueddeutsche.de/politik/cdu-patrick-schnieder-entlassung-kritik-an-friedrich-merz-bundesregierung-li.3521638",
           "summary": "Seit klar ist, dass Friedrich Merz den Verkehrsminister rauswerfen will, wird der Kanzler in der CDU heftig kritisiert.  Schnieder hat nun selbst um seine Entlassung gebeten – und soll durch Steffen Bilger ersetzt werden.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/26/6455943b-2a3c-4be6-88ab-df03327fa279.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=876%2C739%2C2242%2C1261"
-        },
-        {
-          "title": "Berlin: Mutmaßlicher CSD-Attentäter ist tot",
-          "url": "https://www.sueddeutsche.de/panorama/csd-berlin-auto-li.3521540",
-          "summary": "Der Tatverdächtige greift Polizisten beim Zugriff in einer Kleingartenanlage mit einer Stichwaffe an und wird erschossen, meldet die Berliner Polizei.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/26/d68bf435-ca37-43b4-b64f-31c370179888.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C365%2C3500%2C1969"
         }
       ]
     }
