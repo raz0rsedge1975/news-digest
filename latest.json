@@ -1,17 +1,17 @@
 {
-  "generated": "2026-07-27T02:00:09.609Z",
-  "timestamp": "27.7.2026, 04:00:09",
+  "generated": "2026-07-27T06:00:09.014Z",
+  "timestamp": "27.7.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Angriff auf CSD in Berlin: Tatverdächtiger ist tot – Bundesanwaltschaft übernimmt Ermittlungen",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-zu-anschlag-auf-csd-tatverdaechtiger-bei-polizeieinsatz-in-berlin-spandau-erschossen-faz-201065238.html",
-          "summary": "Der mutmaßliche Täter Abdul Ballout wurde bei einem Polizeieinsatz in einer Kleingartensiedlung erschossen +++ Bundesanwaltschaft übernimmt Ermittlungen +++ Merz: Werden über Konsequenzen mit Entschlossenheit entscheiden +++  alle Entwicklungen im Liveblog",
+          "title": "Angriff auf CSD in Berlin: CDU-Politiker fordern härteren Kurs gegen Gefährder",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-zu-anschlag-auf-csd-cdu-politiker-fordern-haerteren-kurs-gegen-gefaehrder-faz-201065238.html",
+          "summary": "JU-Chef: Erwachsenenstrafrecht für alle Gefährder +++ CSD-Verdächtiger wurde bei Polizeieinsatz in Berlin erschossen +++ Bundesanwaltschaft übernimmt Ermittlungen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e2abc994a0f3/w6144h3210x0y443o/202607/43601.0.2374098105/blick-ueber-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3b257860e644/w4000h2090x0y376o/202607/43601.0.2374980918/blumen-kerzen-botschaften-die.webp"
         },
         {
           "title": "CSD-Anschlag in Berlin: Er entschied sich für Terror statt Deradikalisierung",
@@ -22,18 +22,26 @@
           "image": "https://media0.faz.net/image/w1200h627/e376d2698ba0/w5500h2873x0y683o/202607/43601.0.2373987905/eine-gedenkveranstaltung-am.webp"
         },
         {
-          "title": "Megafeuer in Frankreich: Wenn aus dem Urlaub ein Albtraum wird",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/frankreich-die-waldbraende-ruecken-bordeaux-immer-naeher-accg-201066025.html",
-          "summary": "Die Feuer sind kurz vor Bordeaux. Im Südwesten Frankreichs sind mehr als 220. 000 Menschen vor den Waldbränden auf der Flucht. Es ist der umfangreichste Exodus seit dem Zweiten Weltkrieg.",
+          "title": "Tödliche Attacken: Islamistische Anschläge in Deutschland: eine Chronik",
+          "url": "https://www.faz.net/aktuell/politik/inland/islamistische-terroranschlaege-in-deutschland-seit-2016-accg-201066136.html",
+          "summary": "Im Jahr 2011 gab es in Deutschland den ersten islamistisch motivierten Anschlag mit Todesopfern. Seit 2016 zählt das Bundesamt für Verfassungsschutz 16 derartige Anschläge.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/639472092119/w3376h1763x0y420o/202607/43601.0.2367748219/hinter-dem-meer-ist-das.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3a240719b7a1/w3000h1567x0y224o/202511/43601.0.1452611070/berlin-breitscheidplatz-20-12.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Anschlag auf den CSD in Berlin: Trauer, Wut und politische Forderungen",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/anschlag-auf-den-csd-in-berlin-trauer-wut-und-politische-forderungen-a-8552976e-3a01-4a4f-93cf-32e19f2b85d9#ref=rss",
+          "summary": "Der Anschlag auf den Berliner CSD beschäftigt Bevölkerung, Strafverfolger und Politik. Der Verdächtige ist tot, die Ermittlungen laufen weiter. Aus der Union kommen Forderungen nach einem härteren Vorgehen gegen Gefährder.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6ad4628e-7554-4754-9b8b-2cc1e10719c9_w1200_r1.778_fpx54.92_fpy49.85.jpg"
+        },
         {
           "title": "CSD-Anschlag - Vater von Abdul B.: »Ich habe ihm nicht erlaubt, einen langen Bart zu tragen«",
           "url": "https://www.spiegel.de/panorama/justiz/csd-anschlag-vater-von-abdul-b-ich-habe-ihm-nicht-erlaubt-einen-langen-bart-zu-tragen-a-6270a8cd-1e34-4c8c-8e60-170b4a9f429a#ref=rss",
@@ -43,26 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/f431d99d-6888-46f9-ba63-2cf1c783c7e1_w1200_r1.778_fpx41_fpy34.jpg"
         },
         {
-          "title": "Patrick Schnieder prangert »unwürdigen Zustand« an – Merz versucht Schadensbegrenzung",
-          "url": "https://www.spiegel.de/politik/patrick-schnieder-prangert-unwuerdigen-zustand-an-merz-versucht-schadensbegrenzung-a-37995657-0bc9-4ccf-8f84-fc11b7b55a1a#ref=rss",
-          "summary": "Am Umgang des Kanzlers mit Noch-Verkehrsminister Schnieder gab es massive Kritik – auch aus der CDU selbst. Wie will Merz die erhitzten Gemüter beruhigen?",
+          "title": "News: CSD-Anschlag in Berlin, Waldbrände, Friedrich Merz und sein Problem mit Patrick Schnieder",
+          "url": "https://www.spiegel.de/politik/deutschland/news-csd-anschlag-in-berlin-waldbraende-friedrich-merz-und-sein-problem-mit-patrick-schnieder-a-26ed8edd-badb-4e89-9b10-3869e608dfce#ref=rss",
+          "summary": "Der mutmaßliche CSD-Attentäter ist tot. In der CDU herrscht Unmut über den Umgang mit Noch-Verkehrsminister Schnieder. Und in Europa wüten verheerende Brände. Das ist die Lage am Montagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/aae5beb2-2e0e-4f83-aea1-0530817c444d_w1200_r1.778_fpx32.64_fpy44.98.jpg"
-        },
-        {
-          "title": "Iran droht Ukraine nach Angriff auf Frachtschiff im Kaspischen Meer",
-          "url": "https://www.spiegel.de/ausland/iran-droht-ukraine-nach-angriff-auf-frachtschiff-im-kaspischen-meer-a-2b1b83f1-0711-42d9-bdd8-c2283a0e1d34#ref=rss",
-          "summary": "Iran sieht in einem mutmaßlich ukrainischen Angriff auf eines seiner Frachtschiffe im Kaspischen Meer einen Verstoß gegen das Völkerrecht – und wirft Präsident Selenskyj vor, »auf Geheiß Israels« gehandelt zu haben.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b8533d3c-d3a4-4218-a3a1-5cb174ac384a_w1200_r1.778_fpx38_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html",
+          "summary": "Die Waldbrände nähern sich immer mehr der französischen Stadt Bordeaux. Eine Evakuierung ist laut Bürgermeister nicht geplant. Bewohner und Urlauber sind verunsichert. Von Cai Rienäcker.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2ca9cf81-c382-460f-b097-51b0ad211e53/AAABn6H7MD0/AAABnSSvrFg/16x9-big/frankreich-bordeaux-102.jpg?width=1280"
+        },
         {
           "title": "Zehntausende protestieren gegen Massentourismus auf Mallorca",
           "url": "https://www.tagesschau.de/ausland/europa/mallorca-proteste-106.html",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/3ee9dadf-b24c-4d04-b30e-11ee7fc516e7/AAABn6EFDnY/AAABnSSvrFg/16x9-big/soeder-906.jpg?width=1280"
-        },
-        {
-          "title": "Steffen Bilger soll neuer Verkehrsminister werden",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-nachfolge-verkehrsminister-100.html",
-          "summary": "Bundeskanzler Merz hat einen Nachfolger für Verkehrsminister Schnieder gefunden: den CDU-Politiker Bilger. Schnieder selbst hatte kurz zuvor um seine Entlassung gebeten - um den \"unwürdigen Zustand\" zu beenden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/5d2af0a4-139c-491a-b17f-666bc764ae8f/AAABn5-b8Ss/AAABnSSvrFg/16x9-big/bilger-102.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Russlands Antwort auf die Falcon 9 lässt weiter auf sich warten",
+          "url": "https://www.telepolis.de/article/Russlands-Antwort-auf-die-Falcon-9-laesst-weiter-auf-sich-warten-11371028.html",
+          "summary": "Kommt Russlands Antwort auf die Falcon 9 noch? Sechs Jahre nach Ankündigung des \"Amur-LNG\" hat sich der geplante Erstflug verschoben. Ein Überblick.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/0/0/2/2/shutterstock_2608748855-a0bf7be12a897abc.jpg"
+        },
         {
           "title": "Blockade im EU-Parlament: Sojadiesel-Förderung wird vorerst fortgesetzt",
           "url": "https://www.telepolis.de/article/Blockade-im-EU-Parlament-Sojadiesel-Foerderung-wird-vorerst-fortgesetzt-11375508.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/1/8/1/master_Film_Ruediger-acfa91e4d63af1e3.jpg"
-        },
-        {
-          "title": "Wie die Friedensdividende einer neuen Sicherheitslogik gewichen ist",
-          "url": "https://www.telepolis.de/article/Wie-die-Friedensdividende-einer-neuen-Sicherheitslogik-gewichen-ist-11374477.html",
-          "summary": "Lange galt militärische Zurückhaltung in Europa als Selbstverständlichkeit. Inzwischen dominieren Aufrüstung und Abschreckung den gesellschaftlichen Austausch.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/1/2/1/8/4/1/Friedensdividende-F-2-01-3fde3d8a0f4e62ee.gif"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Ölpreis fällt nach Angriffspause der USA",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-oelpreis-li.3513707",
+          "summary": "Der Ölpreis liegt fünf Prozent im Minus, nachdem er in den vergangenen zwei Wochen deutlich gestiegen war. Die Angriffe der Huthi-Miliz auf saudische Ölanlagen lassen den Schiffsverkehr in der Meerenge Bab al-Mandab einbrechen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/24/c7607dc2-8d39-45ba-bac5-f74921d1bbde.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "Krieg in der Ukraine: Russland meldet Tote und Verletzte nach ukrainischen Angriffen",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-tote-li.3512468",
+          "summary": "In der Nacht melden russische Behörden einen ukrainischen Angriff auf Rostow am Don und einen auf Belgorod. Den Angaben zufolge werden zwei Menschen getötet und weitere verletzt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2025/04/08/1cd6c6f1-75a8-4037-8bf5-41b7b9125022.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2048%2C1152"
+        },
+        {
           "title": "TV-Kritik: Söder segelt durch sein Sommerinterview",
           "url": "https://www.sueddeutsche.de/medien/soeder-sommerinterview-cdu-csu-zdf-li.3520480",
           "summary": "Vor Seglerkulisse am Starnberger See beantwortet Markus Söder die Fragen von Wulf Schmiese. Eine ausführliche Antwort zum aktuellen Erfolg der AfD bleibt Bayerns Ministerpräsident erspart. Woran es dagegen nicht fehlt: Fußball-Vergleiche.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/26/d9aa052f-8db3-45da-ac45-fbe298884241.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1920%2C1080"
-        },
-        {
-          "title": "CDU: Wut und Unverständnis über Umgang mit Patrick Schnieder",
-          "url": "https://www.sueddeutsche.de/politik/cdu-patrick-schnieder-entlassung-kritik-an-friedrich-merz-bundesregierung-li.3521638",
-          "summary": "Seit klar ist, dass Friedrich Merz den Verkehrsminister rauswerfen will, wird der Kanzler in der CDU heftig kritisiert.  Schnieder hat nun selbst um seine Entlassung gebeten – und soll durch Steffen Bilger ersetzt werden.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/26/b62c13b7-7680-4eef-8dc6-097e1c4abefe.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "TV-Kritik zur Tour de France: Es gibt so viel zu erzählen",
-          "url": "https://www.sueddeutsche.de/medien/tour-de-france-tv-kritik-pogacar-lipowitz-ard-eurosport-doping-li.3520418",
-          "summary": "Wie kann man eine Tour de France kommentieren, in der Tadej Pogacar alles dominiert und Doping unweigerlich zum Thema wird? ARD und Eurosport zeigen: indem man nicht nur auf die Gewinner schaut.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/26/6455943b-2a3c-4be6-88ab-df03327fa279.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=876%2C739%2C2242%2C1261"
         }
       ]
     }
