@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-28T06:00:08.128Z",
-  "timestamp": "28.7.2026, 08:00:08",
+  "generated": "2026-07-28T10:00:08.770Z",
+  "timestamp": "28.7.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Unruhe unter Juden: Wie das Thema Israel die amerikanischen Demokraten spaltet",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-israel-die-amerikanischen-demokraten-entzweit-accg-201038212.html",
+          "summary": "Die Frage, wie man es mit Israel hält, entzweit die Vereinigten Staaten. Vor allem bei den Demokraten, lange Zeit politische Heimat der amerikanischen Juden, beharken sich die Lager.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/81ef184cf024/w7163h3742x493y1093o/202607/43601.0.2361587607/ultraorthodoxe-juden-feiern.webp"
+        },
+        {
+          "title": "Treffen in Washington: Netanjahu will sich Trump widersetzen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/besuch-in-washington-netanjahu-will-sich-trump-widersetzen-accg-201068293.html",
+          "summary": "Trump könnte von Netanjahu den Abzug israelischer Truppen fordern, was dieser im Wahlkampf wiederum verhindern will. Die einstige Harmonie ist gestört.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/05200c0c79a8/w2891h1510x0y93o/202607/43601.0.2367805534/us-praesident-donald-trump-und.webp"
+        },
+        {
           "title": "Nach Anschlag in Berlin: Müssen wir jetzt anders bauen – oder wäre das ein Sieg des Terrors?",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/nach-anschlag-in-berlin-wie-schuetzt-man-staedte-vor-dem-terror-accg-201069001.html",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/nach-anschlag-auf-csd-in-berlin-wie-schuetzt-man-staedte-vor-dem-terror-accg-201069001.html",
           "summary": "Der islamistische Anschlag in Berlin wirft auch für die Stadtplanung Fragen auf: Wie können Metropolen sicherer werden, ohne ihre Identität zu verlieren? Ein Beispiel aus London gibt Hoffnung.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/dcb20d93aab3/w8040h4200x0y370o/202607/43601.0.2373667978/wieder-war-die-tatwaffe-ein.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: BKA zählt laut Bericht derzeit 410 islamistische Gefährder",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-bka-zaehlt-laut-bericht-derzeit-410-islamistische-gefaehrder-faz-110093143.html",
-          "summary": "Nach dem Anschlag: Debatte über die Folgen +++ Sachsen-Anhalt: Parteien stecken Koalitionsoptionen vor Wahl ab +++ Holetschek bedauert die Entlassung von Tino Sorge +++ Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/bbc16a262954/w5616h2934x0y405o/202607/43601.0.2377774123/die-anzahl-der-gefaehrder-und.webp"
-        },
-        {
-          "title": "Christopher Street Day: Deutschland hat ein ernstes Problem mit dem Islamismus",
-          "url": "https://www.faz.net/aktuell/politik/inland/anschlag-auf-csd-in-berlin-deutschlands-islamismus-problem-201067903.html",
-          "summary": "Der Anschlag in Berlin zeigt, dass die Gefahr durch die Terrorideologie des IS nicht gebannt ist. Der Staat darf nicht zurückweichen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b09806b37a66/w5282h2759x0y106o/202607/43601.0.2374392058/das-brandenburger-tor-in.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Leistungsdebatte von Friedrich Merz: Warum sich Leistung im Job für viele nicht lohnt",
-          "url": "https://www.spiegel.de/karriere/leistungsdebatte-von-friedrich-merz-warum-sich-leistung-im-job-fuer-viele-nicht-lohnt-a-5f05efec-1d41-48fd-b750-1d0ddb6c9935#ref=rss",
-          "summary": "Müssen wir alle mehr schaffen, die Extrameile gehen? Eine exklusive Umfrage zeigt, was die Deutschen zur Arbeit motiviert – und wie viel ihnen Freizeit wert ist.",
+          "title": "Gesundheitsreform: »Die Politik zwingt mich dazu, Schwangere unversorgt wegzuschicken«",
+          "url": "https://www.spiegel.de/gesundheit/gesundheitsreform-die-politik-zwingt-mich-dazu-schwangere-unversorgt-wegzuschicken-a-82c043a5-34fc-4f70-8908-f13e3290df33#ref=rss",
+          "summary": "Mit der Gesundheitsreform soll gespart werden, aber was bedeutet das für Ärztinnen und Patienten? Ein Kinderarzt, eine Gynäkologin, ein Hausarzt und ein Psychotherapeut sagen, was sie befürchten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e9a6c558-cee6-4a9e-b55a-3e3f312d02b6_w1200_r1.778_fpx50_fpy33.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/014f18de-bc74-4cf4-9de5-efdf8e379454_w1200_r1.778_fpx52_fpy57.jpg"
         },
         {
-          "title": "News: Friedrich-Merz-Frust in der CDU, Benjamin Netanyahu trifft Donald Trump, Lehren aus CSD-Attentat",
-          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-frust-in-der-cdu-benjamin-netanyahu-trifft-donald-trump-lehren-aus-csd-attentat-a-cb1c1448-ed65-4424-a6d4-9af4b8c20289#ref=rss",
-          "summary": "Der Kanzler verscherzt es sich mit seiner Partei. Israels Premier Netanyahu trifft Präsident Trump. Und: Mehr als jeder dritte Deutsche glaubt nicht, dass Leistung sich lohnt. Das ist die Lage am Dienstagmorgen.",
+          "title": "Frankreich und Spanien: Waldbrände zeigen, wie unvorbereitet Europa ist",
+          "url": "https://www.spiegel.de/wissenschaft/extremwetter-in-europa-waldbraende-zeigen-wie-unvorbereitet-europa-ist-a-dbf9b665-e63b-4242-8228-dcaeb2f73e0f#ref=rss",
+          "summary": "Hitze und ausgedörrte Böden treiben in Teilen Europas verheerende Brände an. Tausende verlieren ihr Zuhause. Die Antworten auf die Feuerhölle sind eindeutig, aber unbequem.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/6c218f11-25b8-40d0-b482-d12dd8820b87_w1200_r1.778_fpx33.34_fpy50.jpg"
         },
         {
-          "title": "Und dann sagt der Landeschef: »Sie führen kein Unternehmen, das ist eine Partei«",
-          "url": "https://www.spiegel.de/politik/deutschland/und-dann-sagt-der-landeschef-sie-fuehren-kein-unternehmen-das-ist-eine-partei-a-1eb3fa94-4d25-488f-99d3-9ef1241ed956#ref=rss",
-          "summary": "In der CDU wird die Kritik am Kanzler und an dessen Personalumbau immer lauter. In einer Vorstandssitzung kommt es zum offenen Schlagabtausch. Wie gefährlich ist die Lage für Friedrich Merz?",
+          "title": "Michael Kretschmer: Sachsens Regierungschef kritisiert Ablösung von Schenderlein",
+          "url": "https://www.spiegel.de/politik/deutschland/michael-kretschmer-sachsens-regierungschef-kritisiert-abloesung-von-schenderlein-a-f834f353-e57c-4ce1-926e-5ae19d3b5b6d#ref=rss",
+          "summary": "Der Regierungsumbau des Bundeskanzlers ist vollbracht, der CDU-interne Streit ist jedoch offenbar noch nicht beendet. Sachsens Ministerpräsident Michael Kretschmer hat einen Postenwechsel »überhaupt nicht verstanden«.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e78c0553-2d61-46f9-ae16-e5e6e4606c04_w1200_r1.778_fpx51.33_fpy52.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/92f0bb0d-cde8-4290-9da0-a3dd1c7201b5_w1200_r1.778_fpx49_fpy39.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Selenskyj bei Trump: Eine kaum für möglich gehaltene Annäherung",
-          "url": "https://www.tagesschau.de/ausland/europa/selenskyj-bei-trump-100.html",
-          "summary": "Einen Rauswurf muss der ukrainische Präsident Selenskyj nicht mehr befürchten, wenn er heute von US-Präsident Trump im Weißen Haus empfangen wird. Im Gegenteil. Momentan stimmt es im Verhältnis. Selbst MAGA-Influencer denken um.",
+          "title": "Debatte nach Anschlag auf CSD: Fußfessel oder Präventivhaft für Gefährder?",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-debatte-csu-spd-strafrecht-bka-100.html",
+          "summary": "Nach dem Anschlag auf den CSD dringen Innenminister und Unionspolitiker auf schärfere Regeln für Gefährder. Die SPD will \"alle Instrumentarien\" prüfen. Das BKA zählt bundesweit Hunderte islamistische Gefährder.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e49f4e48-dab6-4338-9628-e5c3379dd4c4/AAABn6Pjfao/AAABnSSvrFg/16x9-big/selenskyj-trump-150.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2d0953f3-e0cd-4b2d-841d-60642e3f3796/AAABn6gCQ7I/AAABnSSvrFg/16x9-big/tiergarten-autowrack-100.jpg?width=1280"
         },
         {
-          "title": "KI im Wahlkampf in Israel: \"Wählermanipulation in nie dagewesener Art.\"",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-wahlkampf-ki-100.html",
-          "summary": "Israel befindet sich im Wahlkampf, und erstmals prägt auch KI die Kampagnen. Forscher befürchten nicht nur einen Einfluss auf das Wahlverhalten, sondern auf die Akzeptanz des Wahlergebnisses. Von Bettina Meier.",
+          "title": "Marktbericht: Kurssturz in Südkorea lässt Anleger kalt",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-100.html",
+          "summary": "Die Hoffnung auf eine diplomatische Lösung des Konflikts im Nahen Osten macht die Anleger mutig. Während in Asien die Furcht vor einem Platzen der KI-Blase belastet, kommen in Deutschland die Zahlen von Mercedes gut an.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/52fb1dce-873e-45e4-96c5-b32c3e0d29a2/AAABn6QTr-Y/AAABnSSvrFg/16x9-big/knesset-128.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0bfd3299-12ef-4e9f-be30-a37cd90ca6c0/AAABlh9AMTs/AAABnSSvrFg/16x9-big/boerse-412.jpg?width=1280"
         },
         {
-          "title": "Bilger übernimmt Verkehrsressort: Neuer Minister, alte Probleme",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/neuer-verkehrsminister-bilger-100.html",
-          "summary": "Der CDU-Politiker Bilger wird neuer Verkehrsminister. Er kennt das Haus - das könnte seine Stärke und Schwäche zugleich sein. Einen Neuanfang haben sich viele in Opposition und Verkehrsbranche anders vorgestellt. Von Sarah Beham und Jan Zimmermann.",
+          "title": "Online-Buchungsrekord für Ferienwohnungen",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/ferienhaeuser-buchungen-online-100.html",
+          "summary": "Immer mehr Ferienunterkünften werden hierzulande über große Online-Plattformen gebucht. Mit mehr als 68 Millionen Übernachtungen erreichten die Online-Buchungen sogar einen Rekord.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/613d6f90-2b31-4644-b6fa-c31e8a5e9728/AAABn6Tmxtk/AAABnSSvrFg/16x9-big/bilger-116.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f86fe59c-fc1b-4548-bc02-25ce10a82840/AAABn6e9GSQ/AAABnSSvrFg/16x9-big/ferienhaus-schweden-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Venezuelas IStGH-Austritt: Souveräne Entscheidung oder Befehl aus Washington?",
-          "url": "https://www.telepolis.de/article/Venezuelas-IStGH-Austritt-Souveraene-Entscheidung-oder-Befehl-aus-Washington-11378934.html",
-          "summary": "Caracas begründet den Austritt aus dem Internationalen Strafgerichtshof mit Souveränität. Doch die Entscheidung folgt dem Takt, den Marco Rubio vorgibt.",
+          "title": "Rechnen mit kreisenden Teilchen: Physiker bauen einen Computer aus Flüssigkeit",
+          "url": "https://www.telepolis.de/article/Rechnen-mit-kreisenden-Teilchen-Physiker-bauen-einen-Computer-aus-Fluessigkeit-11379131.html",
+          "summary": "Forscher aus Konstanz verarbeiten Daten mit hunderten Mikroteilchen in Flüssigkeit. Das System sagt chaotische Signale voraus, hat aber praktische Grenzen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/5/2/6/Venezuela_llama_a_la_uni__n_nacional_para_defender_la_Soberan__a_ante_agresi__n_armada_imperial-6382d7007d6e94d0.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/6/2/6/computer_ohne_schaltkreise-36286de94bedce35.jpg"
         },
         {
-          "title": "Das Internet ist viel kleiner, als wir glauben",
-          "url": "https://www.telepolis.de/article/Das-Internet-ist-viel-kleiner-als-wir-glauben-11379153.html",
-          "summary": "Martin Andree vermisst die digitale Welt neu: Nicht Reichweiten, sondern die Nutzungszeit ist entscheidend. Das verändert den Blick auf das Internet.",
+          "title": "Das Rüstungsgeschäft wird zum neuen Hoffnungsträger der Autoindustrie",
+          "url": "https://www.telepolis.de/article/Das-Ruestungsgeschaeft-wird-zum-neuen-Hoffnungstraeger-der-Autoindustrie-11379772.html",
+          "summary": "VW, Daimler Truck und Zulieferer setzen zunehmend auf militärische Aufträge. Die Krise der Branche verändert die strategische Ausrichtung vieler Unternehmen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/6/3/7/Master_INternet-4c05f443e777e4e9.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/9/5/3/Master_VW-c62136beef6bc9e5.jpg"
         },
         {
-          "title": "Kanadas U-Boot-Bestellungen: Eine neue Nordatlantik-Kooperation formiert sich",
-          "url": "https://www.telepolis.de/article/Kanadas-U-Boot-Bestellungen-Eine-neue-Nordatlantik-Kooperation-formiert-sich-11379027.html",
-          "summary": "Kanadas Marineauftrag hat Gewicht: Die neue, kleine Nordatlantik-Allianz taucht ab, um gegen die Großen zu bestehen. Ein Affront gegen Washington? Eine Analyse.",
+          "title": "Waldbrände in Europa: Warum die Feuer außer Kontrolle geraten",
+          "url": "https://www.telepolis.de/article/Waldbraende-in-Europa-Warum-die-Feuer-ausser-Kontrolle-geraten-11378648.html",
+          "summary": "Frankreich, Spanien, Italien und Portugal kämpfen gegen Hitze und Megabrände. Experten warnen: Das neue Feuerregime könnte bald auch Mitteleuropa erreichen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/5/7/4/tkmssubmarine-836180a20a5a184a.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/3/8/3/waldbrand2-28d9538c581f11f2.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "CSD-Anschlag in Berlin: SPD fordert Diskriminierungsverbot für Queere im Grundgesetz",
-          "url": "https://www.sueddeutsche.de/panorama/csd-berlin-spd-queere-grundgesetz-li.3521540",
-          "summary": "Artikel 3 soll um das Merkmal sexuelle Identität ergänzt werden, fordern Klingbeil und Bas. Das BKA beobachtet derzeit 410 Menschen als islamistische Gefährder.",
+          "title": "Andrew Tate: „Es war schwer auszuhalten“",
+          "url": "https://www.sueddeutsche.de/kultur/andrew-tate-heidi-blake-new-yorker-interview-li.3520888",
+          "summary": "Über Monate recherchiert die Journalistin Heidi Blake die Verbrechen der Tate-Brüder, trifft sie in Bukarest. Kurz nachdem ihr Text erschienen ist, werden die Influencer verhaftet. Ein Gespräch über den Blick in den Abgrund.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/27/b65b498c-d3f8-4030-8a8f-dfb70df6a598.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=229%2C756%2C3054%2C1717"
+          "image": "https://www.sueddeutsche.de/2026/07/28/6f31a94c-f48a-4482-a00d-7f2a0e676a46.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C41%2C2360%2C1327"
         },
         {
-          "title": "Krieg in Nahost: USA kündigen weitere Gespräche zwischen Israel und Libanon an",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-oelpreis-li.3513707",
-          "summary": "Schon seit April finden direkte Gespräche zwischen der libanesischen und der israelischen Regierung statt. Kommende Woche wollen sich Vertreter in Rom treffen, heißt es aus Washington.",
+          "title": "Autotest: Ist das noch eine C-Klasse?",
+          "url": "https://www.sueddeutsche.de/auto/mercedes-c-klasse-autotest-bmw-i3-mittelklasse-li.3499664",
+          "summary": "Nach den vollelektrischen CLA und GLC bringt Mercedes jetzt auch die neue C-Klasse mit 800-Volt-Technik und großer Reichweite auf den Markt. Doch die Limousine gibt ihren angestammten Platz in der Mittelklasse auf.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/27/72a99bd6-39b4-42df-a76b-882dfb56baa9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/07/27/9a59483a-0795-45f7-96f3-2d92ba72974a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C622%2C3636%2C2045"
         },
         {
-          "title": "USA: Trump wendet sich in Streit um Briefwahl an Supreme Court",
-          "url": "https://www.sueddeutsche.de/wirtschaft/usa-news-liveblog-trump-waehlen-wahlen-supreme-court-oberstes-gericht-briefwahl-li.3511620",
-          "summary": "Noch vor den Kongresswahlen im November will US-Präsident Donald Trump die Hürden für die Stimmabgabe erhöhen. Nun stellt das Justizministerium einen Eilantrag beim Obersten Gericht.",
+          "title": "US-Demokraten fordern Aufklärung: Der Vorwurf: Korruption zugunsten Donald Trumps",
+          "url": "https://www.sueddeutsche.de/sport/infantino-trump-fifa-korruption-li.3522749",
+          "summary": "Fifa-Präsident Gianni Infantino soll vor dem Justizausschuss des Repräsentantenhauses aussagen sowie die gesamte Kommunikation mit der Trump-Regierung offenlegen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/30/bfaec44a-b39a-4bf6-ad1e-addfb1dd8b14.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C171%2C2000%2C1125"
+          "image": "https://www.sueddeutsche.de/2026/07/28/794aa368-5dc3-40cf-866a-c182705a3327.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=442%2C17%2C3306%2C1860"
         }
       ]
     }
