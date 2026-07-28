@@ -1,17 +1,17 @@
 {
-  "generated": "2026-07-27T22:00:08.979Z",
-  "timestamp": "28.7.2026, 00:00:08",
+  "generated": "2026-07-28T02:00:08.977Z",
+  "timestamp": "28.7.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Kampf gegen Waldbrände: Wie gelingt Brandprävention? Bisons und Wildpferde sollen helfen",
-          "url": "https://www.faz.net/aktuell/gesellschaft/tiere/brandpraevention-in-spanien-wildtiere-als-feuerwehr-201069293.html",
-          "summary": "In Kastilien sollen europäische Bisons und Wildpferde die wuchernde Vegetation am Waldboden fressen, um den Flammen ihre Nahrung zu nehmen. Anderswo experimentiert man mit „Feuerwehrschafen“.",
+          "title": "Hitzewelle naht – Feuer bei Bordeaux bleibt Herausforderung",
+          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/waldbraende-bei-bordeaux-emmanuel-macron-besucht-einsatzleitung-accg-201070760.html",
+          "summary": "Die Brände bei Bordeaux bedrohen nicht nur Wälder, sondern auch das Sommergeschäft der Tourismusregion. Ein erstes Brandgebiet bringt die Feuerwehr jetzt unter Kontrolle.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ae346b7c0e2c/w2697h1409x143y54o/202607/43601.0.2375938308/pferde-sollen-in-spanien-das.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b9b575bc8cf2/w6144h3210x0y443o/202607/43601.0.2377875093/frankreich-eine-gruppe-haelt.webp"
         },
         {
           "title": "Hitze in Europa: Jetzt wird auch Portugal von Waldbränden heimgesucht",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
+          "url": "https://www.tagesschau.de/wirtschaft/ki-sicherheitsallianz-techunternehmen-100.html",
+          "summary": "Der wichtigste Hersteller von KI-Chips, Nvidia, und Industriepartner wie Microsoft, IBM haben eine KI-Sicherheitsallianz gegründet. Die Ankündigung erfolgte wenige Tage nach einer aufsehenerregenden Testpanne bei OpenAI.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4a2ac06c-261f-405a-b52b-f11167f26487/AAABn6X3YZk/AAABnSSvrFg/16x9-big/computer-132.jpg?width=1280"
+        },
+        {
           "title": "Großbritannien: Burnham empfängt Selenskyj - erster ausländischer Besucher",
           "url": "https://www.tagesschau.de/ausland/gb-ukraine-usa-selenskyj-100.html",
           "summary": "Andy Burnham setzt als neuer britischer Premier ein Zeichen und empfängt den ukrainischen Präsidenten Selenskyj. Beide betonen die engen Kontakte. Im Anschluss reist Selenskyj zu einem schwierigeren Partner.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/392e2b1b-da89-488b-84da-7e98a8fbcfa9/AAABn6RhWbo/AAABnSSvrFg/16x9-big/dobrindt-472.jpg?width=1280"
-        },
-        {
-          "title": "Kabinettsumbau sorgt für Ärger mit CDU-Fraktion in Rheinland-Pfalz",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-schnieder-rheinland-pfalz-100.html",
-          "summary": "\"Fehlendes Vertrauen\", \"Stimmung am Boden\": Die Kritik am Umgang mit Verkehrsminister Schnieder beim Kabinettsumbau hält an. Die Mainzer CDU-Landtagsfraktion sagte nun ein geplantes Treffen mit Kanzler Merz ab. Von J. Baumert.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/d16d0341-035d-4d07-9a31-469980250270/AAABn6R6Jfs/AAABnSSvrFg/16x9-big/schnieder-merz-102.jpg?width=1280"
         }
       ]
     },
