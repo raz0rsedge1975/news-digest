@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T22:00:09.165Z",
-  "timestamp": "29.7.2026, 00:00:09",
+  "generated": "2026-07-29T02:00:07.877Z",
+  "timestamp": "29.7.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -43,26 +43,34 @@
           "image": "https://cdn.prod.www.spiegel.de/images/6067c7be-40eb-4915-a9b3-a11ce596896c_w1200_r1.778_fpx50_fpy48.jpg"
         },
         {
+          "title": "Irankrieg: USA melden Raketen-Angriffe aus Iran – und attackieren mit Saudi-Arabien Ziele im Irak",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-usa-melden-raketen-angriffe-auf-us-ziele-im-nahen-osten-a-cc6eb93f-8136-434d-83ad-583cefad3272#ref=rss",
+          "summary": "Zwischen Washington und Teheran herrschte zuletzt eine Kampfpause. Jetzt verkündet die US-Armee iranische Raketenangriffe auf Kräfte im Nahen Osten. Außerdem attackieren die USA mit Saudi-Arabien irantreue »Terroristen« im Irak.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f332f87d-beae-42b3-bcec-50f348ee2f96_w1200_r1.778_fpx28_fpy55.jpg"
+        },
+        {
           "title": "Donald Trump: Wolodymyr Selenskyj und Benjamin Netanyahu besuchen nacheinander den US-Prsidenten",
           "url": "https://www.spiegel.de/ausland/donald-trump-wolodymyr-selenskyj-und-benjamin-netanyahu-besuchen-nacheinander-den-us-prsidenten-a-09c72ec8-42f2-4ff1-bd3e-65af69be1f2b#ref=rss",
           "summary": "Seit Monaten gab es keine Begegnung zwischen Israels Ministerpräsidenten und Donald Trump. Nun war Benjamin Netanyahu im Weißen Haus – und nannte das Treffen »exzellent«. Zuvor zeigte sich schon Wolodymyr Selenskyj erfreut.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/06f5c32d-258a-4870-b383-7e1733e5cf7a_w1200_r1.778_fpx50_fpy24.jpg"
-        },
-        {
-          "title": "Friedrich Merz: Sie haben beim Personalumbau den Überblick verloren? Hier entlang",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-sie-haben-beim-personalumbau-den-ueberblick-verloren-hier-entlang-a-d45071e8-8f9d-4c51-94bb-5472ac48afc8#ref=rss",
-          "summary": "Fraktionschef, Minister, Staatssekretäre: Mittlerweile ist der Personalumbau von Friedrich Merz unübersichtlich geworden und einige Entscheidungen machen richtig Ärger. Wir zeigen Ihnen, wer gegen wen getauscht wurde – und warum.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/22e33bd7-c493-443d-aad3-3e3d8d2f6727_w1200_r1.778_fpx46.73_fpy49.99.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "US-Militär wehrt offenbar Raketen aus Iran ab",
+          "url": "https://www.tagesschau.de/ausland/asien/nahost-iran-100.html",
+          "summary": "Tagelang gab es keine gegenseitigen Angriffe. Nun meldet das US-Militär, mehrere ballistische Raketen aus Iran, die in Richtung des US-Stützpunktes in Jordanien geflogen sein sollen, wurden abgefangen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b20308af-b65c-46f3-a190-8a79f94804e7/AAABn19-WVE/AAABnSSvrFg/16x9-big/karte-iran-bahrain-jordanien-100.jpg?width=1280"
+        },
         {
           "title": "Gespräche in Washington: Trump empfängt Selenskyj und Netanjahu",
           "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-netanjahu-102.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/1e4832ee-3125-448f-9c3b-97b51ae73be3/AAABn6nrzD0/AAABnSSvrFg/16x9-big/dobrindt-486.jpg?width=1280"
-        },
-        {
-          "title": "Messerangriff in Regensburg: Verdächtiger in Psychiatrie verlegt",
-          "url": "https://www.tagesschau.de/inland/regional/bayern/messerangriff-regensburg-102.html",
-          "summary": "Nach dem tödlichen Messerangriff in einer Bank in Regensburg sahen Ermittler zunächst keine Hinweise auf eine psychische Erkrankung des mutmaßlichen Täters. Ein Gutachter beurteilt die Situation jedoch anders.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/5e92423c-7d39-4f22-af72-a3384c813400/AAABn6nWX_0/AAABnSSvrFg/16x9-big/br-nach-dem-toedlichen-angriff-auf-einen-bankmitarbeiter-in-regensburg-ist-der-mutmassliche-taeter-in-ein-psychiatrisches-krankenhaus-verlegt-worden-100.jpg?width=1280"
         }
       ]
     },
