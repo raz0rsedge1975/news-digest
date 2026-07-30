@@ -1,39 +1,47 @@
 {
-  "generated": "2026-07-30T18:00:09.070Z",
-  "timestamp": "30.7.2026, 20:00:09",
+  "generated": "2026-07-30T22:00:11.253Z",
+  "timestamp": "31.7.2026, 00:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Marschflugkörper in Polen: 100 Kilometer in sechs Minuten",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/russische-rakete-schlaegt-in-polen-ein-201080459.html",
-          "summary": "Bei einem russischen Angriff auf die Ukraine fliegt ein Marschflugkörper offenbar bis nach Polen. Dort legt er hundert Kilometer zurück und schlägt auf einem Acker ein.",
+          "title": "Wahlrecht: Hände weg von der Fünfprozenthürde",
+          "url": "https://www.faz.net/aktuell/politik/inland/die-fuenf-prozent-huerde-muss-bleiben-201080509.html",
+          "summary": "Die Sperrklausel für die Bundestagswahl hat sich seit sieben Jahrzehnten bewährt. Sie bringt eine gewisse Stabilität und Schutz vor Zersplitterung.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f5123bfcfa39/w3491h1824x87y70o/202607/43601.0.2386499137/polizisten-soldaten-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5cc318b744d0/w7248h3787x0y524o/202606/43601.0.2256647994/sommer-vor-dem-parlament-und.webp"
         },
         {
-          "title": "Einschlag in Polen: Die Gefahr einer Eskalation ist real",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/russische-rakete-in-polen-gefahr-der-eskalation-201080896.html",
-          "summary": "Auch wenn der Raketeneinschlag im Osten Polens kein gezielter Angriff gewesen sein sollte, ist der Vorfall äußerst ernst.",
+          "title": "Dreiprozenthürde: „Das Thema ist nicht aus der Luft gegriffen“",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/willingmann-zur-drei-prozent-huerde-das-thema-ist-nicht-aus-der-luft-gegriffen-201080706.html",
+          "summary": "Armin Willingmann, SPD-Spitzenkandidat in Sachsen-Anhalt, hält eine Dreiprozenthürde für „überlegenswert“ – aber nicht vor der Landtagswahl.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7c2fc2655216/w5500h2873x0y438o/202607/43601.0.2386688514/polnische-militaerfahrzeuge-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e2b99b32cfbd/w5568h2909x0y527o/202607/43601.0.2386472641/fuehlt-sich-in-der-debatte.webp"
         },
         {
-          "title": "„Am Puls“-Doku im Zweiten: Deutsche Bahn will, dass ZDF-Doku mit Hayali offline geht",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/deutsche-bahn-will-dass-zdf-doku-mit-dunja-hayali-offline-geht-201077620.html",
-          "summary": "Die Deutsche Bahn lässt bei der ZDF-Doku „Am Puls“ mit Dunja Hayali nicht locker. Sie meint, der ganze Film müsse offline genommen werden. Das lehnt der Sender ab. Die Bahn aber meint, sie könnte juristisch Oberwasser kriegen.",
+          "title": "Nordafrika-Exklave Ceuta: Spanien setzt Soldaten gegen Massenansturm von Migranten ein",
+          "url": "https://www.faz.net/aktuell/politik/ausland/migrantenansturm-in-ceuta-spanien-setzt-soldaten-ein-201082162.html",
+          "summary": "Am Donnerstag strömten bis zu 3000 Migranten aus Marokko in die spanische Nordafrika-Exklave Ceuta. Die Sicherheitskräfte waren dem Ansturm nicht gewachsen. Zehn Personen sollen ertrunken sein.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5cc2aa3c2088/w3491h1824x175y176o/202607/43601.0.2353890927/die-zdf-doku-mit-dunja-hayali.webp"
+          "image": "https://media0.faz.net/image/w1200h627/9fa752c9f50d/w2953h1542x0y212o/202607/43601.0.2388057625/gefaehrlicher-weg-nach-ceuta.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Migrationskrise: Zwei Theorien zum Grenzchaos von Ceuta",
+          "url": "https://www.spiegel.de/ausland/migrationskrise-zwei-theorien-zum-grenzchaos-von-ceuta-a-4942307d-98c2-48fd-aa15-0f5ee0f759b4#ref=rss",
+          "summary": "Tausende Marokkaner erreichen die Stadt Ceuta, eine Exklave an der nordafrikanischen Küste. Der Andrang ist enorm – und besorgt die Anwohner. Zum Chaos an der Grenze kursieren zwei Theorien.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f9e00a55-2bb0-47da-be11-6ed61dd5726e_w1200_r1.778_fpx47_fpy61.jpg"
+        },
         {
           "title": "Friedrich Merz in Sachsen-Anhalt: Warum die Landtagswahl zur Bewährungsprobe wird",
           "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-sachsen-anhalt-warum-die-landtagswahl-zur-bewaehrungsprobe-wird-a-f46317bf-b545-46c8-8c11-0fe7faf2edd1#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/75ef2a1a-5a25-457d-9651-0775a56a513a_w1200_r1.778_fpx45.99_fpy44.99.jpg"
         },
         {
-          "title": "News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-anschlag-auf-den-csd-hitze-wetter-iran-a-41a22117-8a50-4dc7-a82d-352dc7362353#ref=rss",
-          "summary": "Nach dem Anschlag auf den CSD wird eine weitere Parade der Toleranz abgesagt. Der Irankrieg droht zum Flächenbrand zu werden. Und: Schon wieder diese Hitze – diesmal aus Sicht eines Bademeisters. Das ist die Lage am Donnerstagabend.",
+          "title": "Uefa-Boykott der Fifa-WM? Endlich spielen die Europäer ihre Stärke aus - Kommentar",
+          "url": "https://www.spiegel.de/sport/fussball/uefa-boykott-der-fifa-wm-endlich-spielen-die-europaeer-ihre-staerke-aus-kommentar-a-acfc6dff-a110-4362-8875-2511f270e4ef#ref=rss",
+          "summary": "Der WM-Investorenplan von Fifa-Boss Infantino ist praktisch tot, dank des beherzten Eingreifens der Uefa. Die Argumente der Europäer sind nachvollziehbar, sie können sich aber schnell gegen sie selbst wenden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Anschlag in Berlin: Sein Terror-Cousin war das große Vorbild des CSD-Attentäters",
-          "url": "https://www.spiegel.de/panorama/justiz/anschlag-in-berlin-sein-terror-cousin-war-das-grosse-vorbild-des-csd-attentaeters-a-ad46f052-48df-446e-aa0a-e9a8d929f28b#ref=rss",
-          "summary": "Der Onkel von Abdul Ballout war einst einer der berüchtigtsten Hassprediger Englands. Dessen Söhne kämpften und starben für den »Islamischen Staat« – und wurden so zum Vorbild für den CSD-Attentäter.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/82de43b7-fbd1-4d40-9258-c0058d1636a8_w788_r1.778_fpx38_fpy50.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/2555763c-6872-46af-9b0e-bd5f2232b58b_w1200_r1.778_fpx51_fpy39.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Hamburger Datenschutzbeauftragter: Verbot von Meta Glasses möglich",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/smart-glasses-verbot-100.html",
-          "summary": "Der Hamburger Datenschutzbeauftragte Fuchs warnt vor Meta Smart Glasses: Die Brillen, die kaum von normalen Brillen zu unterscheiden sind, ermöglichen heimliches Filmen. Ein Verbot sei nicht ausgeschlossen. Von Antonetta Stephany.",
+          "title": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
+          "url": "https://www.tagesschau.de/ausland/ceuta-migration-102.html",
+          "summary": "Binnen weniger Tage sind wohl Tausende Migranten in die spanische Nordafrika-Exklave Ceuta gelangt - am Donnerstag brach offenbar die Grenzsicherung teils zusammen. Hintergrund könnte ein Gerichtsurteil sein. Nun schickt Madrid Soldaten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/83265f35-d98f-40b6-a91b-5c4867192e3b/AAABn7Lipbw/AAABnSSvrFg/16x9-big/smart-glasses-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0129b7d1-f193-4128-9f56-55d818130861/AAABn7SbmVA/AAABnSSvrFg/16x9-big/ceuta-160.jpg?width=1280"
         },
         {
-          "title": "Rakete in Polens Luftraum alarmiert NATO",
-          "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
-          "summary": "Nach dem Einschlag einer Rakete in Polen hat die NATO dem Land Unterstützung zugesichert. Generalsekretär Rutte sprach von einem weiteren rücksichtslosen Akt Russlands. Das Bündnis hatte als Reaktion Kampfjets aufsteigen lassen.",
+          "title": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
+          "url": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html",
+          "summary": "Ganz so heiß wie im Juni war es nicht, doch in drei Bundesländern wurde ein neuer Juli-Rekord aufgestellt - mit bis zu 40,5 Grad. Auf die Hitze folgten vielerorts Gewitter. Am Möhnesee in NRW wurden zwei Jugendliche verletzt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d70e9753-7028-4b58-8618-4f42f31f4d34/AAABn7PRiHo/AAABnSSvrFg/16x9-big/polen-538.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/76953956-0996-4303-9a83-73440983a080/AAABn7Qux_M/AAABnSSvrFg/16x9-big/blitze-140.jpg?width=1280"
         },
         {
-          "title": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
-          "url": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html",
-          "summary": "Wegen Hitze und ausbleibenden Regens sind die Pegel vieler Flüsse in Europa extrem niedrig. Das wird nicht nur für die Schifffahrt zum Problem, sondern auch für Atomkraftwerke. Denn die benötigen viel Kühlwasser - und das fehlt.",
+          "title": "Deutsche Bahn mit Gewinn, doch die Baustellen bleiben",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-schiene-verkehrsminister-100.html",
+          "summary": "Die Bahn meldet schwarze Zahlen, die Bahnchefin und den neuen Verkehrsminister freut's. Die bekannten Probleme sind deswegen aber nicht verschwunden. Verkehrsminister Bilger will sie \"nach und nach\" lösen. Von Andreas König.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a07650e2-8163-4500-88ce-e35b67615a0f/AAABn7Oeey8/AAABnSSvrFg/16x9-big/kernkraftwerk-paks-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/03e44b40-5298-4f29-8268-5e7941fcf452/AAABnEL1a8U/AAABnSSvrFg/16x9-big/bagger-gleis-ice-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Fußball: Nach Uefa: Nächster Verband stellt sich gegen Fifa-Plan",
+          "url": "https://www.sueddeutsche.de/sport/fifa-investorenplan-uefa-nordamerika-li.3524338",
+          "summary": "Die Europäer waren die Ersten, jetzt ziehen die Nord- und Mittelamerikaner nach und erteilen den Investorenplänen eine Absage. Die Drohung eines Boykotts bleibt bei ihnen jedoch aus.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/30/e9d7a2e0-2cc3-4836-ac2d-a9247f0d0a5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
+        },
+        {
           "title": "Investorendeal: WM-Boykott – Europa vollzieht den ultimativen Bruch mit der Fifa",
           "url": "https://www.sueddeutsche.de/sport/uefa-boykott-fussball-wm-fifa-li.3524261",
           "summary": "Europas Fußballunion Uefa geht in den offenen Konflikt mit Gianni Infantinos Fifa. Solange sein Investorendeal im Raum steht, wird kein europäisches Nationalteam an einem Turnier des Weltverbandes teilnehmen.",
@@ -130,20 +138,12 @@
           "image": "https://www.sueddeutsche.de/2026/07/30/0a464025-bf3a-4fdf-8c2a-6ca8a9870b03.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=508%2C124%2C3306%2C1860"
         },
         {
-          "title": "Südeuropa: Sturmböen erschweren den Einsatz gegen Waldbrände auf Kreta",
-          "url": "https://www.sueddeutsche.de/panorama/waldbraende-spanien-frankreich-griechenland-tuerkei-li.3523753",
-          "summary": "Auf der griechischen Ferieninsel brachte die Küstenwache 50 Menschen in Sicherheit. In Spanien und Frankreich können viele Menschen zurück in ihre Häuser. Doch neue Feuer werden gemeldet.",
+          "title": "Hitzewelle: Neue Hitzerekorde: 40-Grad-Marke an mehreren Orten geknackt",
+          "url": "https://www.sueddeutsche.de/panorama/wetter-hitze-deutschland-hitzerekorde-40-grad-li.3522772",
+          "summary": "Den höchsten vorläufigen Wert meldet der Deutsche Wetterdienst mit 40,5 Grad aus Bernburg an der Saale. An der Donau müssen wegen Wassermangels Atomkraftwerke abgeschaltet werden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/30/9b4f357c-d3be-452c-879b-24d7713800c0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
-        },
-        {
-          "title": "CDU-Ministerpräsidenten: Eine Ansage an den eigenen Kanzler",
-          "url": "https://www.sueddeutsche.de/politik/cdu-merz-ostdeutschland-kritik-sachsen-anhalt-li.3524132",
-          "summary": "Die Ost-Ministerpräsidenten der CDU wenden sich gegen einen zentralen Punkt der Rentenreform und fordern mehr Rücksicht beim Umbau der Sozialsysteme. Sie bekommen postwendend Widerspruch – von einer Ostdeutschen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/30/b9f7e977-884c-480e-8afb-60031e9f2ed4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/30/65d1a7cb-127a-4016-b76a-cf8cf7e8ca4c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
