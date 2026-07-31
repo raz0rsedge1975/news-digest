@@ -1,17 +1,25 @@
 {
-  "generated": "2026-07-31T18:00:09.434Z",
-  "timestamp": "31.7.2026, 20:00:09",
+  "generated": "2026-07-31T22:00:09.218Z",
+  "timestamp": "1.8.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Angriff auf Wildberries: Russlands Onlineversand geht in Rauch auf",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wildberries-drohnenangriffe-erschuettern-russlands-e-commerce-201072538.html",
-          "summary": "Der russische Onlineshop Wildberries und seine riesigen Warenlager wurden Ziel ukrainischer Angriffe. Aus einem Hoffnungsträger wird eine Belastung für den Staat und Banken. Kleinunternehmer stehen am Abgrund.",
+          "title": "Wer hilft dem Kanzler?: Warum die NRW-CDU für Merz keine Hausmacht ist",
+          "url": "https://www.faz.net/aktuell/politik/inland/friedrich-merz-warum-die-nrw-cdu-nicht-seine-hausmacht-ist-201083217.html",
+          "summary": "Ausgerechnet der Meister des Frotzelns, Markus Söder, verteidigt den Bundeskanzler mit Verve. Jemand anderes hält sich auffällig zurück.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4a43cebfad9d/w7088h3703x0y1088o/202607/43601.0.2352331268/elektrostal-am-18-juli-in-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/8caaf9f33ac7/w4000h2090x200y266o/202607/43601.0.2389903304/nrw-ministerpraesident-hendrik.webp"
+        },
+        {
+          "title": "CDU im Osten: Das Wort Brandmauer können sie nicht mehr hören",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/ost-cdu-das-wort-brandmauer-koennen-sie-nicht-mehr-hoeren-201084368.html",
+          "summary": "Sachsens Ministerpräsident Kretschmer hat mit einer Äußerung über die AfD für Aufsehen gesorgt. Wie er denken die meisten in den östlichen Landesverbänden seiner Partei.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9b0342784af1/w6144h3210x0y940o/202607/43601.0.2386022473/die-cdu-ministerpraesidenten.webp"
         },
         {
           "title": "Migranten in CEUTA: Europas Anziehungskraft ist immer noch zu hoch",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/f83db0e2d4f7/w2749h1436x200y437o/202607/43601.0.2389315929/migranten-am-freitag-bei-der.webp"
-        },
-        {
-          "title": "Zurück in Marokko: Fast 50.000 Migranten sollen Ceuta schon wieder verlassen haben",
-          "url": "https://www.faz.net/aktuell/politik/ausland/ceuta-37-500-migranten-nach-marokko-zurueckgekehrt-201085587.html",
-          "summary": "Zehntausende Menschen sind in die spanische Exklave Ceuta geschwommen. Fast alle sollen schon wieder nach Marokko zurückgekehrt sein.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9153938b37be/w1515h791x0y188o/202607/43601.0.2390894271/tausende-migranten-kehren-am.webp"
         }
       ]
     },
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/2c60749a-c931-4235-bb36-1c9e430336ff_w1200_r1.778_fpx54_fpy49.jpg"
         },
         {
-          "title": "News des Tages: Migranten in Ceuta, Fifa-Präsident Gianni Infantino, Gentechnik in China",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-migranten-in-ceuta-fifa-praesident-gianni-infantino-gentechnik-in-china-a-5f6e023f-8ac1-4a59-8a92-6eca6797ba9e#ref=rss",
-          "summary": "Das Migrationschaos in Ceuta wird zur Krise der spanischen Regierung. Auch aus Asien kommt Widerstand gegen Infantinos WM-Pläne. Und: Ein sechsjähriges Mädchen stirbt in China infolge experimenteller Genforschung. Das ist die Lage am Freitagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Dunja Hayali und ihre Bahn-Kritik: Was stimmt mit dieser ZDF-Doku nicht?",
+          "title": "Dunja Hayali und ihre Deutsche-Bahn-Kritik: Was stimmt mit dieser ZDF-Doku nicht?",
           "url": "https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht-a-3cf2aba4-3a58-4fa3-a1fa-855362c5f98e#ref=rss",
           "summary": "Das ZDF hat eine nicht gerade schmeichelhafte Dokumentation über die Deutsche Bahn gedreht, mit Dunja Hayali als Anklägerin. Nun ist darüber ein juristischer Streit entbrannt. Stationen einer Eskalation.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/a2281ffb-7734-4f68-ab4c-922e962008da_w1200_r1.778_fpx66.93_fpy46.98.jpg"
+        },
+        {
+          "title": "AfD in NRW: Bundesvorstand leitet Ordnungsverfahren gegen Landespolitiker ein",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-in-nrw-bundesvorstand-leitet-ordnungsverfahren-gegen-landespolitiker-ein-a-5e90d3a8-6259-4de2-bb2c-b67af3dea962#ref=rss",
+          "summary": "Der Streit zwischen der AfD-Spitze und Mitgliedern des NRW-Landesverbands geht weiter. Die »persönliche Ehre« von Alice Weidel sei verletzt worden, weil sie mit Angela Merkel verglichen wurde, findet der Bundesvorstand der Partei.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7bcd9292-255b-4b4e-90a6-97494e011200_w1200_r1.778_fpx55.41_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Viele Migranten verlassen die spanische Exklave Ceuta wieder",
+          "url": "https://www.tagesschau.de/ausland/europa/migration-ceuta-102.html",
+          "summary": "Zehntausende Menschen haben den Behörden zufolge die Grenze zwischen Marokko und der spanischen Exklave Ceuta überquert. Dabei kamen mindestens 57 Menschen ums Leben. Inzwischen haben viele Migranten die Stadt wieder verlassen. Von Anna Mundt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d763b33a-8a3b-42d0-a776-3bd4e8783bd7/AAABn7l2TTU/AAABnSSvrFg/16x9-big/migranten-ceuta-128.jpg?width=1280"
+        },
+        {
+          "title": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
+          "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
+          "summary": "Als Reaktion auf den Ansturm von Migranten in der spanischen Exklave Ceuta hat Italien das Schengen-Abkommen mit Spanien ausgesetzt. Auch Frankreich will seine Grenzkontrollen verschärfen. Die EU bot Spanien unterdessen Hilfe an.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b4d23856-3ae6-4d4a-8358-05660bd29ca9/AAABn7lffbs/AAABnSSvrFg/16x9-big/ceuta-192.jpg?width=1280"
+        },
+        {
           "title": "Langzeitstudie zu Frühchen - wie gut holen sie im Leben auf?",
           "url": "https://www.tagesschau.de/wissen/gesundheit/fruehgeborene-studie-langzeit-entwicklung-100.html",
           "summary": "Britische Forschende haben Langzeitdaten früh geborener Menschen analysiert. Viele der Frühchen führten, so die Ergebnisse, ein gutes Leben. Einige hätten aber Probleme in Beruf, Partnerschaft und Freundschaften. Von Sedir Dabbass.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/c0edffae-209b-48bf-9af3-7e30cfdcd484/AAABn7hEZ8A/AAABnSSvrFg/16x9-big/fruehchen-138.jpg?width=1280"
-        },
-        {
-          "title": "Trump-Plan für Gaza: Skepsis in Israel und bei Palästinensern",
-          "url": "https://www.tagesschau.de/ausland/gaza-abkommen-hamas-100.html",
-          "summary": "\"Historisch\" nennt US-Präsident Trump das Abkommen zur Entwaffnung der Hamas - aber was genau darin steht und wie es umgesetzt werden soll, ist unklar. In Israel ist man daher skeptisch - und in Gaza haben die Menschen gar kein Vertrauen mehr. Von Jan-Christoph Kitzler.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/e08862e1-6b23-4762-b3e3-db8d7648cb40/AAABmiaIQiY/AAABnSSvrFg/16x9-big/hamas-gaza-112.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: KI-Hoffnung stützt den DAX",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html",
-          "summary": "Starke Vorgaben aus den USA haben dem deutschen Aktienmarkt am Freitag Rückenwind gegeben. Vor allem Technologiewerte legten zu. Vor dem Wochenende überwog bei vielen Anlegern jedoch die Vorsicht.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/11478f9f-f5e4-4ebf-b73b-b442495b2c01/AAABnWu-JDE/AAABnSSvrFg/16x9-big/boerse-502.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Hitzewelle: Rumänien ruft wegen Strommangels den Notstand aus",
-          "url": "https://www.sueddeutsche.de/panorama/wetter-hitze-rumaenien-notstand-strommangel-li.3522772",
-          "summary": "Wegen des niedrigen Wasserstands der Donau muss ein Reaktor des Atomkraftwerks Cernavoda abgeschaltet werden. Das Land verhandelt nun über Energieimporte.",
+          "title": "Migration in Spanien: Ceuta wird zum Stresstest für die europäische Migrationspolitik",
+          "url": "https://www.sueddeutsche.de/politik/migration-ceuta-eu-einreisen-li.3524844",
+          "summary": "Zehntausende Menschen, verschärfte Kontrollen, scharfe Töne aus den Hauptstädten: Die Ereignisse in der spanischen Exklave stellen die EU-Migrationspolitik auf die Probe und treffen Deutschland im Landtagswahlkampf.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/31/8ef8adbb-b2c1-412d-b918-8a9a64613135.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/07/31/db243a0b-32cf-41c6-8ae0-b7ed9dcdce9a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Unterwössen im Chiemgau: Nach 48 Stunden Dauereinsatz: Waldbrand am Lackenberg gelöscht",
-          "url": "https://www.sueddeutsche.de/bayern/waldbrand-bayern-lackenbergwand-unterwoessen-grosseinsatz-feuerwehr-katastrophenfall-li.3523853",
-          "summary": "Im Chiemgau kämpft die Feuerwehr seit Mittwochabend in unwegsamem Gelände gegen einen Bergwaldbrand – letztlich erfolgreich. Doch auch in anderen Teilen Bayerns steigt die Gefahr für Feuer.",
+          "title": "Spanische Exklave in Nordafrika: Laut Madrid: Nahezu alle Migranten haben Ceuta verlassen",
+          "url": "https://www.sueddeutsche.de/politik/migration-spanien-marokko-ceuta-abzug-li.3524173",
+          "summary": "Mindestens 50 000 Menschen drängten nach Ceuta – jetzt sind der spanischen Regierung zufolge fast alle zurück in Marokko. Ministerpräsident Sánchez ermahnt die europäischen Partner zur Einhaltung der EU-Verträge.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/30/9812b079-8978-4264-903f-5eac351d4a6a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=694%2C119%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/07/30/73a1584a-6757-4444-bf94-2b429ac93adb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C93%2C4000%2C2250"
         },
         {
-          "title": "Podcast: „Auf den Punkt“: Wie die queere Community mit dem Anschlag auf den CSD umgeht",
-          "url": "https://www.sueddeutsche.de/politik/csd-anschlag-berlin-reaktionen-community-vielfalt-schuetzen-li.3524702",
-          "summary": "Gewalt gegen queere Menschen nimmt zu. Nicht erst seit dem Anschlag auf den CSD in Berlin. Der politische Sprecher des CSD München sagt, was sich ändern müsste.",
+          "title": "Migration in Spanien: Weder zu essen noch zu trinken, und alle Läden zu – wie Ceuta dichtmacht",
+          "url": "https://www.sueddeutsche.de/politik/spanien-marokko-ceuta-migranten-li.3524520",
+          "summary": "Nach dem Andrang von Flüchtlingen aus Marokko schließt die spanische Exklave ihre Geschäfte - um Tausende Migranten zur Rückkehr zu bewegen. Das Kalkül geht auf. Ein Besuch in Ceuta.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
+          "image": "https://www.sueddeutsche.de/2026/07/31/5e84ccbc-9a0c-42cf-b566-7acca606d3df.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3024%2C1701"
         }
       ]
     }
