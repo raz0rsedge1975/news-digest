@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-30T22:00:11.253Z",
-  "timestamp": "31.7.2026, 00:00:11",
+  "generated": "2026-07-31T02:00:08.463Z",
+  "timestamp": "31.7.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/e2b99b32cfbd/w5568h2909x0y527o/202607/43601.0.2386472641/fuehlt-sich-in-der-debatte.webp"
         },
         {
-          "title": "Nordafrika-Exklave Ceuta: Spanien setzt Soldaten gegen Massenansturm von Migranten ein",
-          "url": "https://www.faz.net/aktuell/politik/ausland/migrantenansturm-in-ceuta-spanien-setzt-soldaten-ein-201082162.html",
-          "summary": "Am Donnerstag strömten bis zu 3000 Migranten aus Marokko in die spanische Nordafrika-Exklave Ceuta. Die Sicherheitskräfte waren dem Ansturm nicht gewachsen. Zehn Personen sollen ertrunken sein.",
+          "title": "Trumps „Friedensrat“: Angeblich Einigung zur Entwaffnung der Hamas",
+          "url": "https://www.faz.net/aktuell/politik/ausland/gaza-trump-spricht-von-einigung-auf-hamas-entwaffnung-201082450.html",
+          "summary": "Die Hamas im Gazastreifen soll bereit sein, ihre Waffen unter Aufsicht von Übergangsverwaltung und internationalen Vermittlern zu stellen. Israel reicht das noch nicht. Donald Trump meldet trotzdem einen „monumentalen Schritt“.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9fa752c9f50d/w2953h1542x0y212o/202607/43601.0.2388057625/gefaehrlicher-weg-nach-ceuta.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5780629abcc1/w6144h3210x0y443o/202607/43601.0.2386806250/palaestinenser-bergen.webp"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
+          "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
+          "summary": "Kommt Bewegung in die Gaza-Verhandlungen? US-Präsident Trump spricht von einer Einigung zur schrittweisen Entwaffnung der Hamas. Israel ziehe dafür sein Militär ab. Die Hamas hat laut US-Kreisen zugestimmt, aus Tel Aviv gibt es noch keine Reaktion.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/df74676c-3574-4197-bdb0-52bf73175dde/AAABn7WjEuQ/AAABnSSvrFg/16x9-big/trump-5200.jpg?width=1280"
+        },
+        {
+          "title": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html",
+          "summary": "Das neue Recht auf Reparatur tritt heute in Kraft. Hersteller müssen Elektrogeräte reparaturfreundlicher machen und Ersatzteile bereitstellen. Doch die neuen Regeln gelten nicht für alle Geräte. Von Frank Bäumer.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/71d79b5d-693b-4b87-8151-332173fae23d/AAABnkQCEpw/AAABnSSvrFg/16x9-big/smartphone-reparatur-110.jpg?width=1280"
+        },
+        {
           "title": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
           "url": "https://www.tagesschau.de/ausland/ceuta-migration-102.html",
           "summary": "Binnen weniger Tage sind wohl Tausende Migranten in die spanische Nordafrika-Exklave Ceuta gelangt - am Donnerstag brach offenbar die Grenzsicherung teils zusammen. Hintergrund könnte ein Gerichtsurteil sein. Nun schickt Madrid Soldaten.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/0129b7d1-f193-4128-9f56-55d818130861/AAABn7SbmVA/AAABnSSvrFg/16x9-big/ceuta-160.jpg?width=1280"
-        },
-        {
-          "title": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
-          "url": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html",
-          "summary": "Ganz so heiß wie im Juni war es nicht, doch in drei Bundesländern wurde ein neuer Juli-Rekord aufgestellt - mit bis zu 40,5 Grad. Auf die Hitze folgten vielerorts Gewitter. Am Möhnesee in NRW wurden zwei Jugendliche verletzt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/76953956-0996-4303-9a83-73440983a080/AAABn7Qux_M/AAABnSSvrFg/16x9-big/blitze-140.jpg?width=1280"
-        },
-        {
-          "title": "Deutsche Bahn mit Gewinn, doch die Baustellen bleiben",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-schiene-verkehrsminister-100.html",
-          "summary": "Die Bahn meldet schwarze Zahlen, die Bahnchefin und den neuen Verkehrsminister freut's. Die bekannten Probleme sind deswegen aber nicht verschwunden. Verkehrsminister Bilger will sie \"nach und nach\" lösen. Von Andreas König.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/03e44b40-5298-4f29-8268-5e7941fcf452/AAABnEL1a8U/AAABnSSvrFg/16x9-big/bagger-gleis-ice-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: USA und Friedensrat: Hamas haben Entwaffnung zugestimmt",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-saudi-arabien-rotes-meer-li.3523210",
+          "summary": "Erst signalisiert die Hamas Bereitschaft, ihre Waffen unter Aufsicht der palästinensischen Übergangsverwaltung zu stellen. Dann meldet sich US-Präsident Trump bei Truth Social zu Wort.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/23/a149e708-5b89-4f6c-a66f-6fe9a7e919cf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C109%2C2048%2C1152"
+        },
+        {
           "title": "Fußball: Nach Uefa: Nächster Verband stellt sich gegen Fifa-Plan",
           "url": "https://www.sueddeutsche.de/sport/fifa-investorenplan-uefa-nordamerika-li.3524338",
           "summary": "Die Europäer waren die Ersten, jetzt ziehen die Nord- und Mittelamerikaner nach und erteilen den Investorenplänen eine Absage. Die Drohung eines Boykotts bleibt bei ihnen jedoch aus.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/30/0a464025-bf3a-4fdf-8c2a-6ca8a9870b03.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=508%2C124%2C3306%2C1860"
-        },
-        {
-          "title": "Hitzewelle: Neue Hitzerekorde: 40-Grad-Marke an mehreren Orten geknackt",
-          "url": "https://www.sueddeutsche.de/panorama/wetter-hitze-deutschland-hitzerekorde-40-grad-li.3522772",
-          "summary": "Den höchsten vorläufigen Wert meldet der Deutsche Wetterdienst mit 40,5 Grad aus Bernburg an der Saale. An der Donau müssen wegen Wassermangels Atomkraftwerke abgeschaltet werden.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/30/65d1a7cb-127a-4016-b76a-cf8cf7e8ca4c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
