@@ -1,33 +1,33 @@
 {
-  "generated": "2026-07-31T02:00:08.463Z",
-  "timestamp": "31.7.2026, 04:00:08",
+  "generated": "2026-07-31T06:00:08.543Z",
+  "timestamp": "31.7.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Wahlrecht: Hände weg von der Fünfprozenthürde",
-          "url": "https://www.faz.net/aktuell/politik/inland/die-fuenf-prozent-huerde-muss-bleiben-201080509.html",
-          "summary": "Die Sperrklausel für die Bundestagswahl hat sich seit sieben Jahrzehnten bewährt. Sie bringt eine gewisse Stabilität und Schutz vor Zersplitterung.",
+          "title": "Nach dem CSD-Anschlag: Zu viele junge Muslime sind anfällig für islamistische Ideen",
+          "url": "https://www.faz.net/aktuell/politik/inland/muslime-in-deutschland-der-einfluss-der-islamverbaende-201074025.html",
+          "summary": "Die Politik darf keinen Bogen mehr um das Problem machen. Auch auf die Islamverbände kommt es an. Ihr Einfluss ist nicht zu unterschätzen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5cc318b744d0/w7248h3787x0y524o/202606/43601.0.2256647994/sommer-vor-dem-parlament-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0529e4f84d56/w5170h2701x0y642o/202604/43601.0.1959762708/mittagsgebet-in-der-ditib.webp"
         },
         {
-          "title": "Dreiprozenthürde: „Das Thema ist nicht aus der Luft gegriffen“",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/willingmann-zur-drei-prozent-huerde-das-thema-ist-nicht-aus-der-luft-gegriffen-201080706.html",
-          "summary": "Armin Willingmann, SPD-Spitzenkandidat in Sachsen-Anhalt, hält eine Dreiprozenthürde für „überlegenswert“ – aber nicht vor der Landtagswahl.",
+          "title": "CSD-Attentat: „Der IS ist immer noch brandgefährlich“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/nach-csd-attentat-der-is-ist-immer-noch-brandgefaehrlich-accg-201076757.html",
+          "summary": "Der Attentäter von Berlin soll sich zum IS bekannt haben. Der Islamwissenschaftler Michael Kiefer von der Universität Osnabrück erklärt, welche Strahlkraft die Terrororganisation noch immer hat.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e2b99b32cfbd/w5568h2909x0y527o/202607/43601.0.2386472641/fuehlt-sich-in-der-debatte.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0ad7bf40dfca/w7512h3925x0y848o/202607/43601.0.2372376388/das-fahrzeug-mit-dem-abdul.webp"
         },
         {
-          "title": "Trumps „Friedensrat“: Angeblich Einigung zur Entwaffnung der Hamas",
-          "url": "https://www.faz.net/aktuell/politik/ausland/gaza-trump-spricht-von-einigung-auf-hamas-entwaffnung-201082450.html",
-          "summary": "Die Hamas im Gazastreifen soll bereit sein, ihre Waffen unter Aufsicht von Übergangsverwaltung und internationalen Vermittlern zu stellen. Israel reicht das noch nicht. Donald Trump meldet trotzdem einen „monumentalen Schritt“.",
+          "title": "Claude Opus: Auch KI von Anthropic griff echte Firmen an",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/anthropic-ki-angriffe-auf-echte-firmen-wie-bei-openai-accg-201082737.html",
+          "summary": "Dass ein KI-Modell von OpenAI auf eigene Faust als Hacker agierte, hat die Tech-Branche alarmiert. Nun stellt sich heraus: Es war kein Einzelfall. Und die KI von Anthropic verbreitete außerdem Schadsoftware.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5780629abcc1/w6144h3210x0y443o/202607/43601.0.2386806250/palaestinenser-bergen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ff31471cc705/w3000h1567x0y121o/202607/43601.0.2346158618/in-testlaeufen-drang.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Waldbrände bei Bordeaux: Wie Saumos und Le Porge das Inferno erlebten",
+          "url": "https://www.spiegel.de/ausland/waldbraende-bei-bordeaux-wie-saumos-und-le-porge-das-inferno-erlebten-a-996bc799-b76a-4059-b1df-2a6e625c2fa6#ref=rss",
+          "summary": "Das Feuer begann in Saumos. Dann raste es durch Kiefernwälder in den Nachbarort Le Porge, den es großflächig zerstörte. Drei Anwohner erzählen, wie sie das Inferno erlebten.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8ddfae2a-b682-44e6-9f28-797db44bbf05_w1200_r1.778_fpx40_fpy62.jpg"
+        },
+        {
+          "title": "News: Verbraucher, Recht auf Repatarur, Deutscher Bundestag, Frauen-Ausgabe der Tour de France",
+          "url": "https://www.spiegel.de/politik/deutschland/news-verbraucher-recht-auf-repatarur-deutscher-bundestag-frauen-ausgabe-der-tour-de-france-a-4733042c-4d19-408e-9e2d-8a7a0aa8c0e9#ref=rss",
+          "summary": "Verbraucher bekommen neue Rechte. Das Phantom des Deutschen Bundestags erklärt sich. Und die Frauen-Ausgabe der Tour de France startet. Das ist die Lage am Freitagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
           "title": "Migrationskrise: Zwei Theorien zum Grenzchaos von Ceuta",
           "url": "https://www.spiegel.de/ausland/migrationskrise-zwei-theorien-zum-grenzchaos-von-ceuta-a-4942307d-98c2-48fd-aa15-0f5ee0f759b4#ref=rss",
           "summary": "Tausende Marokkaner erreichen die Stadt Ceuta, eine Exklave an der nordafrikanischen Küste. Der Andrang ist enorm – und besorgt die Anwohner. Zum Chaos an der Grenze kursieren zwei Theorien.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/f9e00a55-2bb0-47da-be11-6ed61dd5726e_w1200_r1.778_fpx47_fpy61.jpg"
-        },
-        {
-          "title": "Friedrich Merz in Sachsen-Anhalt: Warum die Landtagswahl zur Bewährungsprobe wird",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-sachsen-anhalt-warum-die-landtagswahl-zur-bewaehrungsprobe-wird-a-f46317bf-b545-46c8-8c11-0fe7faf2edd1#ref=rss",
-          "summary": "In der CDU sprechen sie über das Ende seiner Kanzlerschaft: Für Friedrich Merz hängt jetzt vielleicht alles vom Ausgang der Septemberwahlen ab. Drei Szenarien.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/75ef2a1a-5a25-457d-9651-0775a56a513a_w1200_r1.778_fpx45.99_fpy44.99.jpg"
-        },
-        {
-          "title": "Uefa-Boykott der Fifa-WM? Endlich spielen die Europäer ihre Stärke aus - Kommentar",
-          "url": "https://www.spiegel.de/sport/fussball/uefa-boykott-der-fifa-wm-endlich-spielen-die-europaeer-ihre-staerke-aus-kommentar-a-acfc6dff-a110-4362-8875-2511f270e4ef#ref=rss",
-          "summary": "Der WM-Investorenplan von Fifa-Boss Infantino ist praktisch tot, dank des beherzten Eingreifens der Uefa. Die Argumente der Europäer sind nachvollziehbar, sie können sich aber schnell gegen sie selbst wenden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2555763c-6872-46af-9b0e-bd5f2232b58b_w1200_r1.778_fpx51_fpy39.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
-          "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
-          "summary": "Kommt Bewegung in die Gaza-Verhandlungen? US-Präsident Trump spricht von einer Einigung zur schrittweisen Entwaffnung der Hamas. Israel ziehe dafür sein Militär ab. Die Hamas hat laut US-Kreisen zugestimmt, aus Tel Aviv gibt es noch keine Reaktion.",
+          "title": "Marktbericht: DAX könnte wieder Kurs Richtung Rekord nehmen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html",
+          "summary": "Starke Zahlen von Amazon treiben die Börsen in Asien an, auch die Wall Street liefert gute Vorgaben. Vor allem Tech-Titel sind gesucht. Der DAX dürfte mit einem soliden Plus in den Handel starten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/df74676c-3574-4197-bdb0-52bf73175dde/AAABn7WjEuQ/AAABnSSvrFg/16x9-big/trump-5200.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1c4abe59-ac70-4248-b165-bac0c05109b6/AAABldnekP8/AAABnSSvrFg/16x9-big/boerse-318.jpg?width=1280"
         },
         {
-          "title": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html",
-          "summary": "Das neue Recht auf Reparatur tritt heute in Kraft. Hersteller müssen Elektrogeräte reparaturfreundlicher machen und Ersatzteile bereitstellen. Doch die neuen Regeln gelten nicht für alle Geräte. Von Frank Bäumer.",
+          "title": "Der verzweifelte Kampf der Feuerwehr und Freiwilliger in der Gironde",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-106.html",
+          "summary": "Zwischen Asche und Glut kämpfen Feuerwehrleute und Freiwillige gegen die Waldbrände in Frankreich - oft vergeblich. Besonders betroffen: die Gironde. Vor Ort wächst die Wut. Helfer werfen der Regierung Versäumnisse vor. Von Jean-Marie Magro.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/71d79b5d-693b-4b87-8151-332173fae23d/AAABnkQCEpw/AAABnSSvrFg/16x9-big/smartphone-reparatur-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1435a7f6-c613-4abb-8835-5d1f282a8a49/AAABn7YOKtc/AAABnSSvrFg/16x9-big/gironde-waldbraende-100.jpg?width=1280"
         },
         {
-          "title": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
-          "url": "https://www.tagesschau.de/ausland/ceuta-migration-102.html",
-          "summary": "Binnen weniger Tage sind wohl Tausende Migranten in die spanische Nordafrika-Exklave Ceuta gelangt - am Donnerstag brach offenbar die Grenzsicherung teils zusammen. Hintergrund könnte ein Gerichtsurteil sein. Nun schickt Madrid Soldaten.",
+          "title": "Studie belegt den Einfluss des Klimawandels auf Feuerwetter",
+          "url": "https://www.tagesschau.de/wissen/klima/klimawandel-waldbraende-100.html",
+          "summary": "Hunderttausende Hektar sind seit Jahresbeginn in Europa verbrannt - und die Flammen wüten weiter. Eine neue Studie kommt zu dem Schluss: Der Klimawandel erhöht das Risiko für Waldbrände deutlich. Von S. Hübner.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0129b7d1-f193-4128-9f56-55d818130861/AAABn7SbmVA/AAABnSSvrFg/16x9-big/ceuta-160.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ff3f1f2d-dd51-4e29-8dab-cee14e20837b/AAABn7VM8sE/AAABnSSvrFg/16x9-big/waldbrand-spanien-176.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Zwischen Brüssel und Moskau: Armenien ringt um seine wirtschaftliche Zukunft",
+          "url": "https://www.telepolis.de/article/Zwischen-Bruessel-und-Moskau-Armenien-ringt-um-seine-wirtschaftliche-Zukunft-11386235.html",
+          "summary": "Armenien gerät zwischen Russland und die EU: Während Moskau Importbeschränkungen erhebt, setzt Premier Paschinjan auf Annäherung an Europa. Eine Analyse.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/9/8/0/0/shutterstock_2731036317-624357deaaa84f8a.jpg"
+        },
         {
           "title": "Beginnt die EU, Medien als strategische Infrastruktur zu begreifen?",
           "url": "https://www.telepolis.de/article/Beginnt-die-EU-Medien-als-strategische-Infrastruktur-zu-begreifen-11386397.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/9/6/0/1/shutterstock_2477200453-7f3c21f0eccbf0d3.jpg"
-        },
-        {
-          "title": "Designer-Enzyme: Wie die Universität Bayreuth Proteine revolutioniert",
-          "url": "https://www.telepolis.de/article/Designer-Enzyme-Wie-die-Universitaet-Bayreuth-Proteine-revolutioniert-11378060.html",
-          "summary": "Mittels Computer-Design hat die Universität Bayreuth hochaktive Enzyme erschaffen. Noch ist die Technologie im Labor- und Teststadium.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/0/8/6/Sergei_Drozd-8dbe0aa6a59e78a3.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: USA und Friedensrat: Hamas haben Entwaffnung zugestimmt",
+          "title": "Bundespolitik: Recht auf Reparatur tritt in Kraft",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-recht-reparatur-gesetz-li.3516334",
+          "summary": "Reparaturen sind bisher häufig teuer oder gar nicht möglich - weil Ersatzteile nicht zu bekommen oder Komponenten so verbaut sind, dass sie nicht getauscht werden können. Das soll sich nun ändern.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2024/04/23/e5426d56-9ff5-40a0-80b4-a87fcb19e13e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C97%2C1254%2C705"
+        },
+        {
+          "title": "TV-Kritik „Sarah Tacke“: Zum Zoffen sind sie nicht gekommen",
+          "url": "https://www.sueddeutsche.de/medien/sarah-tacke-csd-zdf-tv-kritik-terror-reul-mansour-tekkal-li.3523935",
+          "summary": "Kann man das Prinzip Talkshow neu erfinden? Nicht wirklich, aber bei Sarah Tackes Premiere im ZDF sprechen Düzen Tekkal, Ahmad Mansour und Herbert Reul erstaunlich konstruktiv über den CSD-Anschlag und die Bedrohung durch den Islamismus.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/30/7450eb39-52f8-466b-9433-e2b693084ffd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
+        },
+        {
+          "title": "Krieg in Nahost: Trump verkündet Einigung zur Entwaffnung der Hamas",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-saudi-arabien-rotes-meer-li.3523210",
-          "summary": "Erst signalisiert die Hamas Bereitschaft, ihre Waffen unter Aufsicht der palästinensischen Übergangsverwaltung zu stellen. Dann meldet sich US-Präsident Trump bei Truth Social zu Wort.",
+          "summary": "Die Hamas soll ihre Waffen abgeben, Israel seine Truppen aus dem Gazastreifen abziehen. Doch die Islamisten stellen Bedingungen. Hat Trump wirklich einen Durchbruch erzielt?",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/23/a149e708-5b89-4f6c-a66f-6fe9a7e919cf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C109%2C2048%2C1152"
-        },
-        {
-          "title": "Fußball: Nach Uefa: Nächster Verband stellt sich gegen Fifa-Plan",
-          "url": "https://www.sueddeutsche.de/sport/fifa-investorenplan-uefa-nordamerika-li.3524338",
-          "summary": "Die Europäer waren die Ersten, jetzt ziehen die Nord- und Mittelamerikaner nach und erteilen den Investorenplänen eine Absage. Die Drohung eines Boykotts bleibt bei ihnen jedoch aus.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/30/e9d7a2e0-2cc3-4836-ac2d-a9247f0d0a5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
-        },
-        {
-          "title": "Investorendeal: WM-Boykott – Europa vollzieht den ultimativen Bruch mit der Fifa",
-          "url": "https://www.sueddeutsche.de/sport/uefa-boykott-fussball-wm-fifa-li.3524261",
-          "summary": "Europas Fußballunion Uefa geht in den offenen Konflikt mit Gianni Infantinos Fifa. Solange sein Investorendeal im Raum steht, wird kein europäisches Nationalteam an einem Turnier des Weltverbandes teilnehmen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/30/0a464025-bf3a-4fdf-8c2a-6ca8a9870b03.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=508%2C124%2C3306%2C1860"
         }
       ]
     }
