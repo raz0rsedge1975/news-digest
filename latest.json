@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T02:00:08.561Z",
-  "timestamp": "1.8.2026, 04:00:08",
+  "generated": "2026-08-01T06:00:09.484Z",
+  "timestamp": "1.8.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Gianni Infantino stoppt Investorenpläne der Fifa für Fußball-Weltmeisterschaften",
+          "title": "Fifa: Gianni Infantino stoppt Investorenpläne für Fußball-Weltmeisterschaften",
           "url": "https://www.spiegel.de/sport/gianni-infantino-stoppt-investorenplaene-der-fifa-fuer-fussball-weltmeisterschaften-a-4323f34b-563f-4e11-8c6b-677c87188a5b#ref=rss",
           "summary": "Der Fußball-Weltverband Fifa hat seine Pläne zum Verkauf von WM-Anteilen nach heftigen Protesten von Fußballverbänden weltweit zurückgezogen. Das Projekt habe zu Spaltung geführt, erklärte Präsident Gianni Infantino, man verfolge es nicht weiter.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/5a592e87-9e64-41e2-97f0-5f1d20f4d371_w1200_r1.778_fpx31.57_fpy50.jpg"
+        },
+        {
+          "title": "News: Andy Burnham, Keir Starmer, Gianni Infantino, Pedro Sánchez, Ceuta",
+          "url": "https://www.spiegel.de/ausland/news-andy-burnham-keir-starmer-gianni-infantino-pedro-sanchez-ceuta-a-525931e3-2f40-41eb-8fd4-7d7871e794b8#ref=rss",
+          "summary": "000 Migranten kamen nach Ceuta – fast alle sind schon wieder weg. Der britische Premier Andy Burnham hat, was seinem Vorgänger fehlte. Der CSD zieht durch Hamburg, eine Woche nach dem Anschlag von Berlin. Das ist die Lage am Samstagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Ceuta: Darum wollen so viele Menschen aus Marokko nach Spanien",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/2c60749a-c931-4235-bb36-1c9e430336ff_w1200_r1.778_fpx54_fpy49.jpg"
-        },
-        {
-          "title": "Dunja Hayali und ihre Deutsche-Bahn-Kritik: Was stimmt mit dieser ZDF-Doku nicht?",
-          "url": "https://www.spiegel.de/kultur/tv/dunja-hayali-und-ihre-bahn-kritik-was-stimmt-mit-dieser-zdf-doku-nicht-a-3cf2aba4-3a58-4fa3-a1fa-855362c5f98e#ref=rss",
-          "summary": "Das ZDF hat eine nicht gerade schmeichelhafte Dokumentation über die Deutsche Bahn gedreht, mit Dunja Hayali als Anklägerin. Nun ist darüber ein juristischer Streit entbrannt. Stationen einer Eskalation.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a2281ffb-7734-4f68-ab4c-922e962008da_w1200_r1.778_fpx66.93_fpy46.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kommentar: Marokko setzt die Not seiner Bevölkerung als Druckmittel ein",
-          "url": "https://www.tagesschau.de/kommentar/kommentar-ceuta-100.html",
-          "summary": "Angesichts der Ereignisse in Ceuta die Reisefreiheit in Europa in Frage zu stellen, ist reiner Populismus, meint Hans-Günter Kellner. Wichtiger wäre, dass sich die EU weniger erpressbar macht. Denn Marokko setzt Migration als Druckmittel ein.",
+          "title": "Hitze stellt Landwirte beim Salatanbau vor neue Herausforderungen",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/salatanbau-hitze-100.html",
+          "summary": "Mit zunehmender Trockenheit im Sommer müssen Landwirte seit Jahren zurechtkommen. Extreme Hitzewellen aber bringen vor allem im Salatanbau neue Herausforderungen. Schuster und C.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4b3dd5a8-f049-4174-b8e7-3d9d5a6dbdfd/AAABn7r1kaA/AAABnSSvrFg/16x9-big/ceuta-196.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d36d66ae-acaf-4a31-a403-13820ef9a3b1/AAABnv41Yjk/AAABnSSvrFg/16x9-big/hitze-532.jpg?width=1280"
         },
         {
-          "title": "FIFA-Chef Infantino gibt umstrittene Investorenpläne für Fußball-WM auf",
-          "url": "https://www.tagesschau.de/sport/fifa-investorenplaene-102.html",
-          "summary": "Mit seinen Plänen, WM-Anteile an Investoren zu verkaufen, hatte FIFA-Chef Infantino Empörung ausgelöst. In der Nacht teilte der Fußball-Weltverband mit, das Vorhaben werde nicht weiterverfolgt. Auch innerhalb der FIFA hatte es Kritik gegeben.",
+          "title": "Kampf gegen Dengue in Brasilien: 190 Millionen Fabrikmücken pro Woche",
+          "url": "https://www.tagesschau.de/ausland/amerika/mueckenfabrik-brasilien-100.html",
+          "summary": "Brasilien sagt der Gelbfiebermücke den Kampf an. Denn sie überträgt Dengue, eines der größten Gesundheitsprobleme des Landes. Helfen soll die Zucht von Mücken, die ein ganz bestimmtes Bakterium in sich tragen. Von Oliver Neuroth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6ff29fbc-7710-4c02-abe1-23a03b8abf7b/AAABn7qxkwI/AAABnSSvrFg/16x9-big/infantino-304.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fd0c251e-d539-410f-abc1-171452e4340f/AAABn7fe8RM/AAABnSSvrFg/16x9-big/mueckenfabrik-102.jpg?width=1280"
         },
         {
-          "title": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
-          "summary": "In mehreren Regionen Deutschlands hat es am Abend schwere Unwetter gegeben. In einem Kurort in der Sächsischen Schweiz wurde ein Mann von einem Baum erschlagen. Starke Gewitter gab es auch in Hamburg und Stuttgart.",
+          "title": "Ab August greift Rechtsanspruch auf Ganztagsbetreuung",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/ganztagsbetreuung-grundschule-start-100.html",
+          "summary": "Acht Stunden Bildung und Betreuung am Tag: Ab August greift stufenweise der Rechtsanspruch auf eine Ganztagsbetreuung für Grundschulkinder. Was Eltern jetzt wissen müssen. Von Chris Berdrow.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9d202cc1-8e1a-48ee-9c1b-8663a14150fa/AAABn7qCHNs/AAABnSSvrFg/16x9-big/sachsen-unwetter-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/12fe19ef-030f-47a4-a2a7-edf7841a680b/AAABn7d2IVQ/AAABnSSvrFg/16x9-big/ganztagsbetreuung-grundschueler-100.jpg?width=1280"
         }
       ]
     },
@@ -122,9 +122,9 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Kontroverse WM-Pläne: Nach massivem Widerstand: Fifa gibt Investorenpläne auf",
+          "title": "Fifa: Infantino stoppt Investorenpläne für Weltmeisterschaften",
           "url": "https://www.sueddeutsche.de/sport/fussball-wm-fifa-uefa-investorenplaene-gianni-infantino-li.3524886",
-          "summary": "Verbandspräsident Gianni Infantino erklärte in einer Stellungnahme, dass man die Idee nicht weiter verfolge. Zuvor hatte unter anderem die Uefa mit einem WM-Boykott gedroht.",
+          "summary": "Der massive Widerstand aus Europa und anderen Kontinenten zeigt Wirkung: Man werde die Idee nicht weiter verfolgen, erklärt der Fifa-Boss.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/01/1c021652-d58e-4b13-8590-fef4515113c4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C106%2C2048%2C1152"
