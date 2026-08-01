@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T18:00:10.295Z",
-  "timestamp": "1.8.2026, 20:00:10",
+  "generated": "2026-08-01T22:00:09.290Z",
+  "timestamp": "2.8.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Ceuta: Migranten in Spaniens Exklave berichten von Gewalt an der Grenze",
+          "url": "https://www.spiegel.de/ausland/ceuta-migranten-in-spaniens-exklave-berichten-von-gewalt-an-der-grenze-a-46abcf93-7580-4d53-a721-c4f373e4ae58#ref=rss",
+          "summary": "Vor dem Lidl steht das Militär, eine Barriere im Meer riegelt Europa künftig ab: Ceuta hat sich binnen Tagen in eine Festung verwandelt. Drinnen harren Tausende Migranten aus, viele minderjährig. Sie berichten von Gewalt – und Hoffnung.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/bc1b3ea4-4ddd-4d00-a227-82b813fda0cb_w1200_r1.778_fpx47_fpy53.jpg"
+        },
+        {
           "title": "Andy Burnham testet Chips im Pub. Und die Briten feiern ihn dafür. Wie lange geht das gut?",
           "url": "https://www.spiegel.de/ausland/andy-burnham-testet-chips-im-pub-und-die-briten-feiern-ihn-dafuer-wie-lange-geht-das-gut-a-9ecdc6af-03fe-4aed-b3f8-fa7c19e80a7e#ref=rss",
           "summary": "Andy Burnham macht in seinen ersten Tagen alles anders als Keir Starmer: Er deckelt Buspreise, bekämpft Obdachlosigkeit, eröffnet einen Regierungssitz in Nordengland – und hat keine Angst vor Populismus. Wie lange trägt das?",
@@ -43,26 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/fe36f547-1cb7-4b53-85c6-39cf23e58f7f_w1200_r1.778_fpx54_fpy41.jpg"
         },
         {
-          "title": "Immobilien: Wie ein Gewinnspiel zur Schrottimmobilie und zum Ruin führte",
-          "url": "https://www.spiegel.de/wirtschaft/immobilien-wie-ein-gewinnspiel-zur-schrottimmobilie-und-zum-ruin-fuehrte-a-b256086f-e2f1-41e4-832d-d7ad029735ac#ref=rss",
-          "summary": "Als Absicherung fürs Alter hat Björn Bergl eine kleine Wohnung gekauft. Er investierte eine überschaubare Summe, nun droht ihm die Privatinsolvenz. Sein Fall zeigt, wie leicht man in die Fänge von Abzockern geraten kann.",
+          "title": "Moskau: Tote und Verletzte nach Explosion in Luxus-Restaurant",
+          "url": "https://www.spiegel.de/ausland/moskau-tote-und-verletzte-nach-explosion-in-luxus-restaurant-a-370f2243-f5e6-4c20-a60a-aa4d47d09f58#ref=rss",
+          "summary": "In einem Luxus-Restaurant in der russischen Hauptstadt hat sich eine tödliche Explosion ereignet. Drei Menschen starben, zahlreiche weitere wurden verletzt. Offenbar detonierte ein Sprengsatz.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/66b4e3a2-cf2d-4cec-bc9d-b8cbf79c6b96_w1200_r1.778_fpx52_fpy95.jpg"
-        },
-        {
-          "title": "Ceuta: 22 EU-Staats- und -Regierungschefs unterzeichnen offenen Brief",
-          "url": "https://www.spiegel.de/ausland/ceuta-22-eu-staats-und-regierungschefs-unterzeichnen-offenen-brief-a-921dc04a-a672-4e22-9a76-e8e11f5bd90e#ref=rss",
-          "summary": "Haben politische Entscheidungen in Spanien eine Mitschuld an der Krise in Ceuta? Ein Brief mehrerer europäischer Staats- und Regierungschefs legt nahe, dass die Unterzeichner das so sehen. Unter ihnen ist auch Kanzler Merz.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9e78a561-7709-4629-85e8-7c0d57771f27_w1200_r1.778_fpx74_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/caf23459-2b8d-4f5c-832f-c8c3533cd5e9_w1200_r1.778_fpx58_fpy70.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
+          "url": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
+          "summary": "In einem Restaurant in Moskau ist es zu einer Explosion gekommen. Die Ermittler gehen laut Staatsagentur Tass von einem Anschlag mit einem Sprengsatz aus. Drei Menschen wurden getötet, mindestens 21 verletzt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d734036a-5387-4c18-a9ab-dff7003c43ee/AAABn77-u9E/AAABnSSvrFg/16x9-big/moskau-explosion-restaurant-100.jpg?width=1280"
+        },
         {
           "title": "Deutliche EU-Kritik an Spanien - EU-Innenminister beraten über Ceuta-Krise",
           "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-104.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/4c22ea87-0d45-4f56-a538-dc8528c92d94/AAABn73kFKc/AAABnSSvrFg/16x9-big/ceuta-menschen-strand-100.jpg?width=1280"
-        },
-        {
-          "title": "Flüge nach Afghanistan: Deutschland, die Taliban und Abschiebungen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-146.html",
-          "summary": "Erstmals wurde ein Mann nach Afghanistan abgeschoben, bei dem es sich nicht um einen verurteilten Straftäter handelte. Viele weitere Flüge dürften folgen. Die Kritik bleibt, dass dazu Absprachen mit den Taliban notwendig sind.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/25463b72-b080-4f92-8534-8f567434188f/AAABn73KWc8/AAABnSSvrFg/16x9-big/dobrindt-490.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "CSD Hamburg: Und sie feiern weiter, der Angst zum Trotz",
+          "url": "https://www.sueddeutsche.de/politik/csd-hamburg-berlin-angriff-reaktionen-merz-li.3522552",
+          "summary": "Jetzt erst recht – dieser Satz ist oft zu hören auf dem CSD in Hamburg. So sieht das auch Stefan Mielchen, der sich seit Jahrzehnten für queere Menschen einsetzt. Nur: Wo ist eigentlich Friedrich Merz?",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/01/6ed78aad-2e9e-4620-acbc-da9a519d9de8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
+        },
+        {
+          "title": "TSV 1860 München: Die Löwen meistern ihre erste Prüfung",
+          "url": "https://www.sueddeutsche.de/sport/regionalliga-neuanfang-loewen-ismanik-li.3525104",
+          "summary": "Der TSV 1860 München besteht trotz des Notbetriebs seine Aufgabe von Schweinfurt. Das 2:2 im ersten Regionalliga-Spiel nach dem Aus des Investors Hasan Ismaik weckt auf Anhieb Hoffnungen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/01/dfe640f0-9c5b-40dd-bbba-b2067befbc5d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=618%2C67%2C1596%2C898"
+        },
+        {
           "title": "Fußball: Game over! Infantinos Zeit ist vorbei. Nun muss die große Fifa-Reform kommen",
           "url": "https://www.sueddeutsche.de/sport/infantino-fifa-uefa-kommentar-investorendeal-li.3525067",
           "summary": "Nach dem Kollaps des Investorendeals und der erneuten Attacke aus Europa ist Gianni Infantino als Fifa-Präsident nicht mehr zu halten. Der Zeitpunkt ist gekommen, über eine grundsätzliche Änderung des Weltfußballverbandes zu reden.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/01/34c732cd-cd0e-4abc-be83-90366a6aa657.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C196%2C2104%2C1183"
-        },
-        {
-          "title": "USA: Doch kein Vandalismus: Bauunternehmen verursachte Schaden am Reflecting Pool",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-reflecting-pool-trump-li.3523200",
-          "summary": "US-Präsident Trump hatte einen ehemaligen US-Olympiateilnehmer wegen Sachbeschädigung beschuldigt. Ein Gericht hat diesen Vorwurf nun widerlegt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/01/72479913-5a88-43b1-8450-11da41a37904.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Tipps für den richtigen Umgang: „Am besten ist es, man schiebt die Wespe vorsichtig zur Seite“",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-wespen-plage-verscheuchen-biergarten-li.3522892",
-          "summary": "Sie kreisen im Biergarten um den Krug, nerven beim Eisessen. Expertin Julia Schmack erklärt, warum es in diesem Sommer besonders viele Wespen gibt, wie sie sich am besten verscheuchen lassen und warum ihr schlechtes Image ungerechtfertigt ist.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/19/c8cdb9fc-c996-4534-8672-d31b9c31a713.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=258%2C396%2C2484%2C1397"
         }
       ]
     }
