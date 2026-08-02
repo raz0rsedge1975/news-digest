@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-02T06:00:11.248Z",
-  "timestamp": "2.8.2026, 08:00:11",
+  "generated": "2026-08-02T10:00:09.256Z",
+  "timestamp": "2.8.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "EU-Referendum in Island: Geht es den Isländern zu gut für die EU?",
-          "url": "https://www.faz.net/aktuell/politik/ausland/island-die-angst-der-fischer-vor-der-eu-accg-201024233.html",
-          "summary": "Die Isländer stimmen bald darüber ab, ob ihr Land einen neuen Anlauf für einen EU-Beitritt nimmt. Fischen dann bald Spanier in isländischen Gewässern?",
+          "title": "Wein-Krise: Der Absturz von Bordeaux",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bordeaux-die-krise-der-franzoesischen-weinwirtschaft-accg-201076694.html",
+          "summary": "Die Region in Südfrankreich kämpft nicht nur gegen die Flammen, sondern schon seit Jahren gegen den Niedergang der Weinwirtschaft. Rotwein ist aus der Mode, wer Reben rodet, bekommt Geld dafür. Gibt es einen Ausweg?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/64ec9cffc1ca/w4032h2106x0y293o/202607/43601.0.2345243900/gutes-geschaeft-in-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/9fb5c417824c/w4240h2215x0y532o/202607/43601.0.2383787097/reben-roden-statt-rotwein.webp"
         },
         {
-          "title": "Infrastruktur: Die unmögliche Aufgabe des Verkehrsministers",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/steffen-bilger-schafft-er-die-infrastruktur-wende-accg-201084196.html",
-          "summary": "Der neue Ressortchef Steffen Bilger hat wenig Chancen, die Straßen und Schienen des Landes flottzumachen. Helfen kann nur eine unpopuläre Idee.",
+          "title": "Dürre in der Geschichte: „Da war die Hölle los“",
+          "url": "https://www.faz.net/aktuell/wissen/erde-klima/duerre-2026-klimahistoriker-pfister-erklaert-wie-schlimm-die-trockenheit-gerade-ist-accg-201071310.html",
+          "summary": "Dürren bauen sich schleichend auf, oft unbemerkt. Der Klimahistoriker Stefan Pfister erklärt, wie die Lage in Mitteleuropa derzeit ist – und wovor er sich am meisten fürchtet.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d5f9413d1599/w8192h4280x0y592o/202607/43601.0.2383036240/hat-eine-schwere-aufgabe-vor.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d5f8afe25592/w6048h3160x0y432o/202607/43601.0.2344237326/staubtrocken-ernte-von.webp"
         },
         {
-          "title": "Unruhe in der Union: Hätten sie doch geschwiegen wie der Kanzler",
-          "url": "https://www.faz.net/aktuell/politik/inland/in-der-cdu-stellen-manche-ihre-befindlichkeiten-ueber-den-erfolg-fuer-das-land-201075446.html",
-          "summary": "In der CDU suhlen sich nach den Personalentscheidungen von Merz viele in Selbstmitleid. Sie sollten ihre Befindlichkeiten nicht über den Erfolg für das Land stellen.",
+          "title": "Migranten in Ceuta: Behörden bereiten sich auf bis zu 200 Ertrunkene vor",
+          "url": "https://www.faz.net/aktuell/politik/ausland/ceuta-behoerden-bereiten-sich-auf-bis-zu-200-ertrunkene-vor-accg-201087802.html",
+          "summary": "Vor Ceuta sucht die Küstenwache nach Opfern des Ansturms auf die spanische Exklave. Migranten berichten von fragwürdigem Verhalten marokkanischer Sicherheitskräfte.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/291e4c3a94c7/w5585h2918x279y610o/202607/43601.0.2383154403/bundeskanzler-friedrich-merz.webp"
+          "image": "https://media0.faz.net/image/w1200h627/398b1f03f4ff/w3510h1833x0y367o/202608/43601.0.2394276137/migranten-am-strand-vor-der.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Gentherapie in China: Warum starb das Mädchen Mei?",
+          "url": "https://www.spiegel.de/ausland/gentherapie-in-china-warum-starb-das-maedchen-mei-a-4fc4f01a-7810-4267-9f58-a7e1442a458d#ref=rss",
+          "summary": "Übersteigerter Fortschrittsglaube, ehrgeizige Mediziner und eine laxe Wissenschaftsaufsicht haben eine Familie in Shanghai ins Unglück gestürzt. Es ist nicht das erste Mal, dass Chinas Genforschung am Pranger steht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/e106d84d-22e0-4bdc-b52c-1391917684f6_w1200_r1.778_fpx65.25_fpy45.jpg"
+        },
+        {
+          "title": "News: Wie Neid uns alle reich macht. Und: Friedrich Merz und das laute Murren in der Union",
+          "url": "https://www.spiegel.de/politik/deutschland/news-wie-neid-uns-alle-reich-macht-und-friedrich-merz-und-das-laute-murren-in-der-union-a-72730b93-bbb3-4461-8e1e-7fcdd7774227#ref=rss",
+          "summary": "Was haben Geld und Gefühle miteinander zu tun? Weit mehr, als viele glauben. Außerdem: Die Union entfremdet sich vom Kanzler. Das ist die Lage am Sonntag.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
           "title": "Iran-Krieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab",
           "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-spricht-vom-umriss-einer-einigung-mit-iran-und-sagt-angriffe-ab-a-bdf2f8fc-2080-4b21-a0c9-b1666dc4259b#ref=rss",
           "summary": "Eben drohte der US-Präsident Iran noch mit harten Attacken, nun sieht er wieder einmal angebliche diplomatische Fortschritte. Offenbar hatte sich Saudi-Arabien vor diesem abrupten Schritt um Deeskalation bemüht.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/f1c467be-3b87-40c0-8bcc-822b9eb08658_w1200_r1.778_fpx58_fpy52.jpg"
-        },
-        {
-          "title": "Ceuta: Migranten in Spaniens Exklave berichten von Gewalt an der Grenze",
-          "url": "https://www.spiegel.de/ausland/ceuta-migranten-in-spaniens-exklave-berichten-von-gewalt-an-der-grenze-a-46abcf93-7580-4d53-a721-c4f373e4ae58#ref=rss",
-          "summary": "Vor dem Lidl steht das Militär, eine Barriere im Meer riegelt Europa künftig ab: Ceuta hat sich binnen Tagen in eine Festung verwandelt. Drinnen harren Tausende Migranten aus, viele minderjährig. Sie berichten von Gewalt – und Hoffnung.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bc1b3ea4-4ddd-4d00-a227-82b813fda0cb_w1200_r1.778_fpx47_fpy53.jpg"
-        },
-        {
-          "title": "Andy Burnham testet Chips im Pub. Und die Briten feiern ihn dafür. Wie lange geht das gut?",
-          "url": "https://www.spiegel.de/ausland/andy-burnham-testet-chips-im-pub-und-die-briten-feiern-ihn-dafuer-wie-lange-geht-das-gut-a-9ecdc6af-03fe-4aed-b3f8-fa7c19e80a7e#ref=rss",
-          "summary": "Andy Burnham macht in seinen ersten Tagen alles anders als Keir Starmer: Er deckelt Buspreise, bekämpft Obdachlosigkeit, eröffnet einen Regierungssitz in Nordengland – und hat keine Angst vor Populismus. Wie lange trägt das?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/fe36f547-1cb7-4b53-85c6-39cf23e58f7f_w1200_r1.778_fpx54_fpy41.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Trump sagt Angriffe auf Iran vorerst ab",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
-          "summary": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Bemühungen um eine diplomatische Einigung.",
+          "title": "Wo Parken, Abwasser und Müll am meisten kosten",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kosten-kommunen-unterschiede-100.html",
+          "summary": "Bei vielen Städten und Gemeinden sind die Kassen leer. Viele erhöhen nun die Gebühren: fürs Parken, Abwasser oder Müllabholung. Können sich Bürger gegen zu hohe Gebühren wehren? Schuster und J.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/50eb3eb7-3af5-4f1e-818a-9a157397d68c/AAABnsoVabc/AAABnSSvrFg/16x9-big/donald-trump-824.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e94d9270-b3a7-4d1f-922d-5bf775ad7e4a/AAABn5Qvfsg/AAABnSSvrFg/16x9-big/anwohnerparken-108.jpg?width=1280"
         },
         {
-          "title": "EU-Richtlinie in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
-          "url": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html",
-          "summary": "Ein Vorfall bei OpenAI hat es kürzlich gezeigt: Künstliche Intelligenz kann sich selbstständig machen. Von heute an gelten in Europa neue Regeln für Unternehmen. Dabei geht es auch um KI-generierte Bilder, Videos und Audios.",
+          "title": "Ukraine und Polen: Wie alte Massaker die Nachbarn spalten",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html",
+          "summary": "Zwischen Polen und Ukraine ist ein alter Streit über Massaker während des Zweiten Weltkriegs aufgeflammt. Vor Ort zeigt sich, warum das Thema weiter so heikel ist - und wie die Gräben überwunden werden können. Von Stephan Laack.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/89d58984-3c83-48fc-a0e9-3c89041b820c/AAABn7z6jLY/AAABnSSvrFg/16x9-big/frau-am-computer-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a08bf662-8e3a-41e5-94d0-df49e0999aa7/AAABn7e99u8/AAABnSSvrFg/16x9-big/gedenkgottesdienst-olyka-100.jpg?width=1280"
         },
         {
-          "title": "13 Tote bei Absturz von Kleinflugzeug in Peru",
-          "url": "https://www.tagesschau.de/ausland/asien/peru-absturz-flugzeug-100.html",
-          "summary": "In Peru sind beim Absturz eines Kleinflugzeugs 13 Menschen ums Leben gekommen. Laut einem Medienbericht sind darunter zwei Deutsche. Sie wollten die berühmten Nasca-Linien besichtigen, die zum Weltkulturerbe zählen.",
+          "title": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
+          "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
+          "summary": "Die Brände westlich von Athen haben sich ausgeweitet. Rund 500 Feuerwehrleute sowie freiwillige Helfer sind im Einsatz, aber starke Winde machen die Löscharbeiten fast unmöglich.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0c7df306-3f43-40b5-9fd8-9d544d07bc84/AAABn7_nW3Q/AAABnSSvrFg/16x9-big/peru-nasca-linien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7146f4eb-04bb-4f4a-a479-9f75dd692bd5/AAABn8FREYw/AAABnSSvrFg/16x9-big/griechenland-feuer-128.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Nirmal Purja: Der Mann, der die Welt der Achttausender neu definierte",
+          "url": "https://www.telepolis.de/article/Nirmal-Purja-Der-Tod-des-Mannes-der-das-Bergsteigen-neu-definierte-11394594.html",
+          "summary": "Eine Lawine am Broad Peak tötet Nirmal Purja und neun weitere Bergsteiger. Der Alpinist prägte das moderne Höhenbergsteigen wie kaum ein anderer.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/3/9/3/1/Master_Karakorum-5360983b9c408ab9.jpg"
+        },
+        {
+          "title": "Das Ende der günstigen chinesischen Uhren auf AliExpress?",
+          "url": "https://www.telepolis.de/article/Das-Ende-der-guenstigen-chinesischen-Uhren-auf-AliExpress-11380184.html",
+          "summary": "Eine Knappheit bei mechanischen Uhrwerken treibt die Preise nach oben. Seikos NH-Kaliber sind kaum noch lieferbar, Marken wie San Martin ziehen kräftig an.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/5/1/6/2/shutterstock_1174103785-ddff41364fe06ed7.jpg"
+        },
+        {
           "title": "Transparenz oder Staatsgeheimnis: Wer darf wissen, was der Staat tut?",
           "url": "https://www.telepolis.de/article/Transparenz-oder-Staatsgeheimnis-Wer-darf-wissen-was-der-Staat-tut-11394514.html",
           "summary": "Mit der Reform des Informationsfreiheitsgesetzes geht es nicht nur um Behördenakten. Es geht um die Frage, wem staatliche Informationen eigentlich gehören.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/3/8/9/1/Master_Infofreiheit-5d0c63448515ee6d.jpg"
-        },
-        {
-          "title": "Stallbrände in Deutschland: Warum tausende Tiere im System qualvoll sterben",
-          "url": "https://www.telepolis.de/article/Stallbraende-in-Deutschland-Warum-tausende-Tiere-im-System-qualvoll-sterben-11378556.html",
-          "summary": "Brandschutz fehlt oft: Komplexe Technik und wirtschaftlicher Druck führen in deutschen Mastbetrieben regelmäßig zu tödlichen Katastrophen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/1/2/4/3/3/7/feuer_tiere_f1-3464d551965e405d.gif"
-        },
-        {
-          "title": "Erster Drohnen-Luftangriff der Geschichte: Die Ballon-Bomben von Venedig 1849",
-          "url": "https://www.telepolis.de/article/Erster-Drohnen-Luftangriff-der-Geschichte-Die-Ballon-Bomben-von-Venedig-1849-11394418.html",
-          "summary": "Lange vor Flugzeugen ließ Österreich Bomben an Ballons über Venedig treiben. Der fast vergessene Angriff markierte den Beginn einer neuen Kriegsführung.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/3/8/4/3/Master_Venedig-56e36e7555e14346.png"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Mecklenburg-Vorpommern: Auf der Wade eine Handgranate, um den Hals Thors Hammer",
+          "url": "https://www.sueddeutsche.de/politik/afd-jugend-demo-schwerin-polizei-gegendemonstranten-einsatz-li.3522217",
+          "summary": "Mit Jutebeuteln und viel völkischem Pathos feiert der AfD-Nachwuchs in Schwerin den „Tag der deutschen Jugend“. Am Rande der Veranstaltung kommt es zu Gewalt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/01/46eb566a-8fc2-41d1-a14e-c5167a5ae5b1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=533%2C641%2C2732%2C1537"
+        },
+        {
+          "title": "AI Act: Die neuen KI-Regeln kommen zum richtigen Zeitpunkt",
+          "url": "https://www.sueddeutsche.de/wirtschaft/eu-ki-regeln-sicherheit-transparenz-li.3524207",
+          "summary": "Neue Regeln aus Brüssel sollen KI-Ausbrüche wie den bei Open AI verhindern und die Deepfake-Flut transparent machen. Ausnahmsweise ist die EU bei einem Thema vorne dran.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/05/07/65a32321-ab00-4e3b-bcfa-2cd3906187f4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Krieg in Nahost: Trump: Angriffe auf Iran abgesagt – „Umrisse einer Einigung“",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-trump-einigung-strasse-von-hormus-li.3523210",
           "summary": "Das US-Militär sei dennoch „locked and loaded“ und jederzeit zu neuen Angriffen bereit. Laut Trump soll auch die Straße von Hormus bald wieder vollständig geöffnet sein.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/07/24/e203c08f-6439-4904-b30e-a3dd635cb651.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "CSD Hamburg: Und sie feiern weiter, der Angst zum Trotz",
-          "url": "https://www.sueddeutsche.de/politik/csd-hamburg-berlin-angriff-reaktionen-merz-li.3522552",
-          "summary": "Jetzt erst recht – dieser Satz ist oft zu hören auf dem CSD in Hamburg. So sieht das auch Stefan Mielchen, der sich seit Jahrzehnten für queere Menschen einsetzt. Nur: Wo ist eigentlich Friedrich Merz?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/01/6ed78aad-2e9e-4620-acbc-da9a519d9de8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
-        },
-        {
-          "title": "TSV 1860 München: Die Löwen meistern ihre erste Prüfung",
-          "url": "https://www.sueddeutsche.de/sport/regionalliga-neuanfang-loewen-ismanik-li.3525104",
-          "summary": "Der TSV 1860 München besteht trotz des Notbetriebs seine Aufgabe von Schweinfurt. Das 2:2 im ersten Regionalliga-Spiel nach dem Aus des Investors Hasan Ismaik weckt auf Anhieb Hoffnungen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/01/dfe640f0-9c5b-40dd-bbba-b2067befbc5d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=618%2C67%2C1596%2C898"
         }
       ]
     }
