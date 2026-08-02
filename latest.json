@@ -1,25 +1,17 @@
 {
-  "generated": "2026-08-02T02:00:09.289Z",
-  "timestamp": "2.8.2026, 04:00:09",
+  "generated": "2026-08-02T06:00:11.248Z",
+  "timestamp": "2.8.2026, 08:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Antifeministischer Backlash: Mundhalten als Rezept für die Traum-Ehe",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/new-york-times-raet-der-frau-wieder-zur-unterwerfung-accg-201073941.html",
-          "summary": "Ein „New York Times“-Artikel feiert die bedingungslose Unterwerfung der Frau, während sich andere im Netz als „Heterofatalistinnen“ bezeichnen. Haben wir den Glauben an eine gleichberechtigte Liebe aufgegeben?",
+          "title": "EU-Referendum in Island: Geht es den Isländern zu gut für die EU?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/island-die-angst-der-fischer-vor-der-eu-accg-201024233.html",
+          "summary": "Die Isländer stimmen bald darüber ab, ob ihr Land einen neuen Anlauf für einen EU-Beitritt nimmt. Fischen dann bald Spanier in isländischen Gewässern?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f8196d6d02c2/w3600h1881x0y260o/202607/43601.0.2386688559/bestsellerautorin-laura-doyle.webp"
-        },
-        {
-          "title": "Tradwives und Landfrauen: „Ich kann auch in Latzhose Marmelade einkochen“",
-          "url": "https://www.faz.net/aktuell/politik/inland/warum-echte-landfrauen-den-trend-der-tradwives-weltfremd-finden-accg-201005509.html",
-          "summary": "Backen, Kochen, Kühe melken: Tradwives inszenieren ein ursprüngliches Leben zwischen Kindern und Kühen. Echte Landfrauen finden das ziemlich weltfremd.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/76f4191e299a/w3782h1976x1720y147o/202607/43601.0.2317055695/kirschmarmelade-auf-den-ersten.webp"
+          "image": "https://media0.faz.net/image/w1200h627/64ec9cffc1ca/w4032h2106x0y293o/202607/43601.0.2345243900/gutes-geschaeft-in-der.webp"
         },
         {
           "title": "Infrastruktur: Die unmögliche Aufgabe des Verkehrsministers",
@@ -28,12 +20,28 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/d5f9413d1599/w8192h4280x0y592o/202607/43601.0.2383036240/hat-eine-schwere-aufgabe-vor.webp"
+        },
+        {
+          "title": "Unruhe in der Union: Hätten sie doch geschwiegen wie der Kanzler",
+          "url": "https://www.faz.net/aktuell/politik/inland/in-der-cdu-stellen-manche-ihre-befindlichkeiten-ueber-den-erfolg-fuer-das-land-201075446.html",
+          "summary": "In der CDU suhlen sich nach den Personalentscheidungen von Merz viele in Selbstmitleid. Sie sollten ihre Befindlichkeiten nicht über den Erfolg für das Land stellen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/291e4c3a94c7/w5585h2918x279y610o/202607/43601.0.2383154403/bundeskanzler-friedrich-merz.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Iran-Krieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-donald-trump-spricht-vom-umriss-einer-einigung-mit-iran-und-sagt-angriffe-ab-a-bdf2f8fc-2080-4b21-a0c9-b1666dc4259b#ref=rss",
+          "summary": "Eben drohte der US-Präsident Iran noch mit harten Attacken, nun sieht er wieder einmal angebliche diplomatische Fortschritte. Offenbar hatte sich Saudi-Arabien vor diesem abrupten Schritt um Deeskalation bemüht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f1c467be-3b87-40c0-8bcc-822b9eb08658_w1200_r1.778_fpx58_fpy52.jpg"
+        },
         {
           "title": "Ceuta: Migranten in Spaniens Exklave berichten von Gewalt an der Grenze",
           "url": "https://www.spiegel.de/ausland/ceuta-migranten-in-spaniens-exklave-berichten-von-gewalt-an-der-grenze-a-46abcf93-7580-4d53-a721-c4f373e4ae58#ref=rss",
@@ -49,20 +57,20 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/fe36f547-1cb7-4b53-85c6-39cf23e58f7f_w1200_r1.778_fpx54_fpy41.jpg"
-        },
-        {
-          "title": "Moskau: Tote und Verletzte nach Explosion in Luxus-Restaurant",
-          "url": "https://www.spiegel.de/ausland/moskau-tote-und-verletzte-nach-explosion-in-luxus-restaurant-a-370f2243-f5e6-4c20-a60a-aa4d47d09f58#ref=rss",
-          "summary": "In einem Luxus-Restaurant in der russischen Hauptstadt hat sich eine tödliche Explosion ereignet. Drei Menschen starben, zahlreiche weitere wurden verletzt. Offenbar detonierte ein Sprengsatz.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/caf23459-2b8d-4f5c-832f-c8c3533cd5e9_w1200_r1.778_fpx58_fpy70.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Trump sagt Angriffe auf Iran vorerst ab",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
+          "summary": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Bemühungen um eine diplomatische Einigung.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/50eb3eb7-3af5-4f1e-818a-9a157397d68c/AAABnsoVabc/AAABnSSvrFg/16x9-big/donald-trump-824.jpg?width=1280"
+        },
         {
           "title": "EU-Richtlinie in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
           "url": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/0c7df306-3f43-40b5-9fd8-9d544d07bc84/AAABn7_nW3Q/AAABnSSvrFg/16x9-big/peru-nasca-linien-100.jpg?width=1280"
-        },
-        {
-          "title": "Selenskyj bittet erneut um Lieferung von Patriot-Raketen",
-          "url": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html",
-          "summary": "In den vergangenen Tagen hat Russland die Ukraine verstärkt mit ballistischen Raketen angegriffen. Kiew fehlen wirksame Mittel dagegen. Präsident Selenskyj bittet deshalb erneut um die Lieferung von Patriot-Abwehrraketen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ee6e3e63-f556-4534-8736-3a05618bbe0b/AAABnph3tNQ/AAABnSSvrFg/16x9-big/selenskyj-1116.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Trump: Angriffe auf Iran abgesagt – „Umrisse einer Einigung“",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-trump-einigung-strasse-von-hormus-li.3523210",
+          "summary": "Das US-Militär sei dennoch „locked and loaded“ und jederzeit zu neuen Angriffen bereit. Laut Trump soll auch die Straße von Hormus bald wieder vollständig geöffnet sein.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/24/e203c08f-6439-4904-b30e-a3dd635cb651.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "CSD Hamburg: Und sie feiern weiter, der Angst zum Trotz",
           "url": "https://www.sueddeutsche.de/politik/csd-hamburg-berlin-angriff-reaktionen-merz-li.3522552",
           "summary": "Jetzt erst recht – dieser Satz ist oft zu hören auf dem CSD in Hamburg. So sieht das auch Stefan Mielchen, der sich seit Jahrzehnten für queere Menschen einsetzt. Nur: Wo ist eigentlich Friedrich Merz?",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/01/dfe640f0-9c5b-40dd-bbba-b2067befbc5d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=618%2C67%2C1596%2C898"
-        },
-        {
-          "title": "Fußball: Game over! Infantinos Zeit ist vorbei. Nun muss die große Fifa-Reform kommen",
-          "url": "https://www.sueddeutsche.de/sport/infantino-fifa-uefa-kommentar-investorendeal-li.3525067",
-          "summary": "Nach dem Kollaps des Investorendeals und der erneuten Attacke aus Europa ist Gianni Infantino als Fifa-Präsident nicht mehr zu halten. Der Zeitpunkt ist gekommen, über eine grundsätzliche Änderung des Weltfußballverbandes zu reden.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/01/34c732cd-cd0e-4abc-be83-90366a6aa657.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C196%2C2104%2C1183"
         }
       ]
     }
