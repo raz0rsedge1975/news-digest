@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T22:00:09.290Z",
-  "timestamp": "2.8.2026, 00:00:09",
+  "generated": "2026-08-02T02:00:09.289Z",
+  "timestamp": "2.8.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
-          "url": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
-          "summary": "In einem Restaurant in Moskau ist es zu einer Explosion gekommen. Die Ermittler gehen laut Staatsagentur Tass von einem Anschlag mit einem Sprengsatz aus. Drei Menschen wurden getötet, mindestens 21 verletzt.",
+          "title": "EU-Richtlinie in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
+          "url": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html",
+          "summary": "Ein Vorfall bei OpenAI hat es kürzlich gezeigt: Künstliche Intelligenz kann sich selbstständig machen. Von heute an gelten in Europa neue Regeln für Unternehmen. Dabei geht es auch um KI-generierte Bilder, Videos und Audios.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d734036a-5387-4c18-a9ab-dff7003c43ee/AAABn77-u9E/AAABnSSvrFg/16x9-big/moskau-explosion-restaurant-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/89d58984-3c83-48fc-a0e9-3c89041b820c/AAABn7z6jLY/AAABnSSvrFg/16x9-big/frau-am-computer-104.jpg?width=1280"
         },
         {
-          "title": "Deutliche EU-Kritik an Spanien - EU-Innenminister beraten über Ceuta-Krise",
-          "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-104.html",
-          "summary": "Der Ansturm auf Ceuta hat auf europäischer Ebene ein Nachspiel: Am Dienstag soll eine Dringlichkeitssitzung der EU-Innenminister stattfinden. Zuvor hatten 22 Mitgliedsstaaten ein koordiniertes Vorgehen gefordert - und Spanien kritisiert.",
+          "title": "13 Tote bei Absturz von Kleinflugzeug in Peru",
+          "url": "https://www.tagesschau.de/ausland/asien/peru-absturz-flugzeug-100.html",
+          "summary": "In Peru sind beim Absturz eines Kleinflugzeugs 13 Menschen ums Leben gekommen. Laut einem Medienbericht sind darunter zwei Deutsche. Sie wollten die berühmten Nasca-Linien besichtigen, die zum Weltkulturerbe zählen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d804add6-96b0-4953-b906-12ac24a7bc10/AAABn701uOM/AAABnSSvrFg/16x9-big/ceuta-210.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0c7df306-3f43-40b5-9fd8-9d544d07bc84/AAABn7_nW3Q/AAABnSSvrFg/16x9-big/peru-nasca-linien-100.jpg?width=1280"
         },
         {
-          "title": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
-          "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
-          "summary": "In Ceuta sind die Menschen verärgert - sowohl Bewohner als auch Migranten. Unklar ist, warum Marokko den Ansturm überhaupt zugelassen hat. Spanien verteidigt unterdessen seine Migrationspolitik gegen Kritik aus der EU. Von Hans-Günter Kellner.",
+          "title": "Selenskyj bittet erneut um Lieferung von Patriot-Raketen",
+          "url": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html",
+          "summary": "In den vergangenen Tagen hat Russland die Ukraine verstärkt mit ballistischen Raketen angegriffen. Kiew fehlen wirksame Mittel dagegen. Präsident Selenskyj bittet deshalb erneut um die Lieferung von Patriot-Abwehrraketen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4c22ea87-0d45-4f56-a538-dc8528c92d94/AAABn73kFKc/AAABnSSvrFg/16x9-big/ceuta-menschen-strand-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ee6e3e63-f556-4534-8736-3a05618bbe0b/AAABnph3tNQ/AAABnSSvrFg/16x9-big/selenskyj-1116.jpg?width=1280"
         }
       ]
     },
