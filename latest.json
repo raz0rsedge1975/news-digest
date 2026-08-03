@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-03T02:00:11.990Z",
-  "timestamp": "3.8.2026, 04:00:11",
+  "generated": "2026-08-03T06:00:10.498Z",
+  "timestamp": "3.8.2026, 08:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "TV-Kritik Bas und Söder: Wer braucht bitte Sommerinterviews?",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-bas-und-soeder-wer-braucht-bitte-sommerinterviews-accg-201089007.html",
-          "summary": "Im ZDF soll Bärbel Bas zu demselben politischen Klein-Klein Stellung beziehen wie Markus Söder in der ARD. Wenn den Sendern bei Sommerinterviews sonst nichts einfällt – warum bringen sie nicht gleich Talkshows?",
+          "title": "Verbraucherschützer beklagen: Supersparpreise oft nicht verfügbar",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-bahn-tickets-71-prozent-teurer-am-sonntag-accg-201086301.html",
+          "summary": "Verbraucherschützer kritisieren die Preisgestaltung der Bahn. Zu üblichen Reisezeiten sei das günstigste Angebot oft nicht verfügbar. Die Bahn kontert: Nie gab es so viele Billigtickets.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/71f2cf229983/w6000h3135x0y551o/202608/43601.0.2395915627/baerbel-bas-beim-zdf.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b4c1310bda8d/w5078h2653x308y101o/202606/43601.0.2266258597/reisende-sind-in-den-fruehen.webp"
         },
         {
-          "title": "Hormus-Krise: Warum geht uns das Öl nicht aus?",
-          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/oelversorgung-trotz-iran-krieg-warum-blieb-die-krise-aus-201072274.html",
-          "summary": "Im Frühjahr warnten Experten vor leeren Tanks und Flugausfällen infolge des Irankriegs. Bisher sind die schlimmsten Befürchtungen nicht eingetreten. Die Gefahr bleibt.",
+          "title": "„Am Puls“-Doku im Zweiten: Deutsche Bahn will, dass ZDF-Doku mit Hayali offline geht",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/zdf-doku-mit-dunja-hayali-die-deutsche-bahn-will-den-film-offline-sehen-201077620.html",
+          "summary": "Die Deutsche Bahn lässt bei der ZDF-Doku „Am Puls“ mit Dunja Hayali nicht locker. Sie meint, der ganze Film müsse offline genommen werden. Das lehnt der Sender ab. Die Bahn aber meint, sie könnte juristisch Oberwasser kriegen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b30798f5753b/w3000h1567x0y234o/202607/43601.0.2369284997/oelfoerderung-im-us.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5cc2aa3c2088/w3491h1824x175y176o/202607/43601.0.2353890927/die-zdf-doku-mit-dunja-hayali.webp"
         },
         {
-          "title": "Citadel Securities: König Ken, der reichste Hedgefondsmanager der Welt",
-          "url": "https://www.faz.net/aktuell/finanzen/ken-griffin-der-reichste-hedgefondsmanager-der-usa-201073575.html",
-          "summary": "Ken Griffin ist der reichste Hedgefondsmanager der Welt. Ob Börse, Erdgasfelder oder Politik: Er mischt überall mit. Und könnte sich sogar vorstellen, amerikanischer Präsident zu werden.",
+          "title": "Spanische Exklave: Marokko macht Falschinformationen für Ansturm auf Ceuta verantwortlich",
+          "url": "https://www.faz.net/aktuell/politik/ausland/ceuta-falschinformationen-loesten-ansturm-von-migranten-aus-accg-201089071.html",
+          "summary": "Die marokkanischen Behörden beziffern die Zahl der Beteiligten an dem Ansturm auf 40.000. Spanien spricht von mehr als 60.000.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/92daadb1514e/w4000h2090x0y143o/202607/43601.0.2383492538/der-hedgefondsmanager-kenneth.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a2bd5e58c031/w5437h2840x0y392o/202608/43601.0.2396975515/ein-migrant-liegt-verletzt-am.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "AfD in Sachsen-Anhalt: Dieser Mann regiert seit knapp drei Jahren eine Kleinstadt",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-dieser-mann-regiert-seit-knapp-drei-jahren-eine-kleinstadt-a-e5f4d601-9e39-4320-8d21-1b9f87b325bf#ref=rss",
-          "summary": "Hannes Loth ist Bürgermeister von Raguhn-Jeßnitz in Sachsen-Anhalt, er war der erste AfD-Politiker im Amt. Wie hat sich die Stadt unter ihm verändert? Eine Langzeitbeobachtung.",
+          "title": "Donald Trump: Der Iran-Krieg erreicht die USA - Cyberattacken gegen Wasserversorgung",
+          "url": "https://www.spiegel.de/ausland/donald-trump-der-iran-krieg-erreicht-die-usa-cyberattacken-gegen-wasserversorgung-a-07eb59e0-4cb0-48a2-ae3d-88b6fd531dbc#ref=rss",
+          "summary": "Wassersysteme in mehreren US-Bundesstaaten sind Ziel eines Hackerangriffs geworden. Ermittler haben Iran im Verdacht. Der Präsident verdrängt die Vorfälle so gut er kann, doch der Krieg holt ihn ein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/32c83609-9f74-4cc9-a35d-b461d04aff2b_w1200_r1.778_fpx51_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a04df62d-01cb-4336-8263-f15ca25486ca_w1200_r1.778_fpx43_fpy43.jpg"
+        },
+        {
+          "title": "News: Ceuta, Rentenreform, Steffen Bilger, CDU-Aufregung um Dieter Hallervorden",
+          "url": "https://www.spiegel.de/politik/deutschland/news-ceuta-rentenreform-steffen-bilger-cdu-aufregung-um-dieter-hallervorden-a-29aa6b87-d5df-41c6-8014-95217cb6b3db#ref=rss",
+          "summary": "Die Kurzzeit-Migrationskrise in Ceuta hat ein europäisches Nachspiel. Die Rentenreform der Koalition beginnt zu wackeln. Und der neue Verkehrsminister Steffen Bilger legt los. Das ist die Lage am Montagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Ceuta: Blitzmigrationskrise legt Spaltung in der EU offen",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/ddfe3736-8f67-4335-8619-f2ea6c13a539_w1200_r1.778_fpx65.35_fpy49.99.jpg"
-        },
-        {
-          "title": "Krieg in Gaza: Israelische Angriffe töten mindestens 15 Palästinenser",
-          "url": "https://www.spiegel.de/ausland/krieg-in-gaza-israelische-angriffe-toeten-mindestens-15-palaestinenser-a-a9e5a14d-e547-415e-a4b4-437610ac954e#ref=rss",
-          "summary": "US-Präsident Trump hat erst vor wenigen Tagen Fortschritte beim Waffenstillstandsabkommen zwischen Israel und der Hamas verkündet. Israels Militär greift dennoch weiter Ziele in Gaza an, am Sonntag gab es dabei viele Opfer.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/592c06e3-9b20-4626-be48-f2423f6cbd69_w1200_r1.778_fpx64_fpy52.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Trump kündigt neue Iran-Gespräche an",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-verhandlungen-102.html",
-          "summary": "Kurz nach der Absage angeblich geplanter Angriffe auf Iran hat US-Präsident Trump neue Verhandlungen mit Teheran angekündigt. Diese sollen noch heute beginnen. Details zu den Teilnehmern nannte er allerdings nicht.",
+          "title": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
+          "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
+          "summary": "In Griechenland kämpfen die Feuerwehren weiter gegen etliche Waldbrände. Einer nähert sich gefährlich nah der Stadt Megara, westlich von Athen. Der Bürgermeister spricht von einer chaotischen Lage.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4c3d6d98-0e9d-4a04-a114-d95b31b36af4/AAABn8UF4xg/AAABnSSvrFg/16x9-big/trump-flugzeug-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1b264ef6-e645-41e8-812b-bdeac6e1cf52/AAABn8X7RsI/AAABnSSvrFg/16x9-big/waldbrand-megara-100.jpg?width=1280"
         },
         {
-          "title": "Marokko macht Falschinformationen für Ceuta-Migration verantwortlich",
-          "url": "https://www.tagesschau.de/ausland/afrika/ceuta-marokko-migranten-100.html",
-          "summary": "Marokkos Regierung hat sich erstmals zu den Ereignissen in Ceuta geäußert. Sie macht Falschinformationen für die plötzliche Migration Zehntausender Menschen verantwortlich. Die Zahl der Todesopfer weicht von der spanischen Darstellung ab.",
+          "title": "Marktbericht: DAX dürfte neues Allzeithoch erreichen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-142.html",
+          "summary": "Am Freitag war der DAX knapp am Allzeithoch gescheitert, schon zum Wochenbeginn könnte es zu einem neuen Rekord kommen. Die Hoffnung auf eine Deeskalation im Iran-Krieg hebt die Stimmung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6d78bc7d-09e0-4902-b106-a31726946cfa/AAABn8TbG6Q/AAABnSSvrFg/16x9-big/ceuta-migranten-122.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3e85c8a9-d650-4845-a066-eb997645dd16/AAABlmcFX5w/AAABnSSvrFg/16x9-big/boerse-418.jpg?width=1280"
         },
         {
-          "title": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
-          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-lula-kandidatur-100.html",
-          "summary": "Er will es noch mal wissen: Der 80-jährige Lula da Silva tritt erneut bei der Präsidentschaftswahl in Brasilien an. Er sei topfit, betonte er bei seiner Nominierung. Sein wichtigster Konkurrent steht bereits fest.",
+          "title": "Wachsender Protest gegen Rechenzentren in den USA",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-rechenzentren-proteste-100.html",
+          "summary": "In den USA wächst der Widerstand gegen Rechenzentren - weil sie Lärm machen, viel Kühlwasser verbrauchen und oft die Luft verpesten. Häufig stehen die Anlagen in Wohngebieten, was die Anwohner nervt - über Parteigrenzen hinweg. Von C. Kühntopp.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a150d988-a981-4b79-98fc-373b3830102c/AAABn8Sa3GQ/AAABnSSvrFg/16x9-big/brasilien-lula-124.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f182e920-33ed-4fd0-abc7-175607cb32a9/AAABn7IcdEM/AAABnSSvrFg/16x9-big/protest-schild-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Bisherige Theorie überholt? Die Venus ist offenbar doch geologisch aktiv",
+          "url": "https://www.telepolis.de/article/Bisherige-Theorie-ueberholt-Die-Venus-ist-offenbar-doch-geologisch-aktiv-11379221.html",
+          "summary": "Ein Team der ETH Zürich hat drei Grabensysteme des Nachbarplaneten simuliert. Das Ergebnis legt nahe, dass sich die Venus bis heute dehnt und aufreißt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/4/6/7/1/shutterstock_1622384608-a49b2643941eefd5.jpg"
+        },
         {
           "title": "Industriepolitik mit System: Lernt der Westen von China?",
           "url": "https://www.telepolis.de/article/Industriepolitik-mit-System-Lernt-der-Westen-von-China-11394716.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/2/9/3/5/4/handschellen_3d_kette-2f-Aktuelle_Ansicht-ee530e8ff9d51975.jpg"
-        },
-        {
-          "title": "Bonner Studie an Galaxienhaufen: Wankt das kosmologische Prinzip?",
-          "url": "https://www.telepolis.de/article/Bonner-Studie-an-Galaxienhaufen-Wankt-das-kosmologische-Prinzip-11394478.html",
-          "summary": "Analyse von Röntgendaten zeigt Anomalien bei Galaxienhaufen. Forscher prüfen nun, ob das Universum ungleichmäßig strukturiert sein könnte.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/3/8/7/3/virgo-superhaufen-9beebdf3e37a146a.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Trump kündigt für heute neue Gespräche mit Iran an – Ölpreis sinkt",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-trump-gespraeche-strasse-von-hormus-li.3523210",
+          "summary": "An diesem Montag soll es laut dem US-Präsidenten eine Annäherung geben. Aus Teheran gibt es dafür keine Bestätigung. Die Aussicht auf eine Entspannung in dem Konflikt lässt den Ölpreis um knapp fünf Prozent sinken.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/03/cf569b1a-ea5b-4f98-942e-5382c2a91c97.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=93%2C42%2C1862%2C1047"
+        },
+        {
+          "title": "USA: Die Posse um den Pool",
+          "url": "https://www.sueddeutsche.de/politik/washington-reflecting-pool-trump-vandalismusvorwurf-david-hearn-li.3525252",
+          "summary": "Der US-Präsident und seine Leute machten einen früheren Olympiasportler für das verkorkste Spiegelbecken in Washington verantwortlich. Inzwischen hat auch die Justiz erkannt, dass Trumps Handwerker gepfuscht haben.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/28/28ac4d84-6b3e-4bf5-b073-92a5066cc216.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
           "title": "USA: Japan und USA stützen fallenden Yen",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-japan-yen-waehrung-katayama-li.3523200",
-          "summary": "Die japanische Währung fiel zuletzt gegenüber dem Dollar auf den schwächsten Wert seit Jahrzehnten. Nun intervenieren Tokio und Washington am Devisenmarkt.",
+          "summary": "Die japanische Währung fiel zuletzt gegenüber dem Dollar auf den schwächsten Wert seit vier Jahrzehnten. Nun intervenieren Tokio und Washington am Devisenmarkt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/02/22/0f061a90-a9bf-466e-b385-edf670add038.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
-        },
-        {
-          "title": "Krieg in Nahost: Trump kündigt für heute neue Gespräche mit Iran an",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-trump-gespraeche-strasse-von-hormus-li.3523210",
-          "summary": "Der US-Präsident will von einer beispiellosen Welle vernichtender Angriffe auf Iran abgesehen haben. Heute soll es eine Annäherung geben, sagt er. Wie genau diese aussehen soll, ist unklar.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/03/cf569b1a-ea5b-4f98-942e-5382c2a91c97.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
-        },
-        {
-          "title": "Sommerinterview mit Bärbel Bas: Die Koalition streitet um die Rente, auch in der Sommerpause",
-          "url": "https://www.sueddeutsche.de/medien/sommerinterview-zdf-baerbel-bas-ard-markus-soeder-rentenreform-li.3524226",
-          "summary": "SPD-Chefin Bärbel Bas freut sich im ZDF-Sommerinterview über den Vorstoß dreier CDU-Ministerpräsidenten, an der Rente mit 63 festzuhalten. In der ARD hält CSU-Chef Markus Söder davon nichts.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/02/eafbe331-5da8-4c6b-baaa-a9ca7ff30595.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/03/c2efd7ba-0315-412f-b128-265dda8ac4e1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C256%2C3546%2C1995"
         }
       ]
     }
