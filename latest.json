@@ -1,12 +1,20 @@
 {
-  "generated": "2026-08-04T18:00:09.393Z",
-  "timestamp": "4.8.2026, 20:00:09",
+  "generated": "2026-08-04T22:00:09.043Z",
+  "timestamp": "5.8.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Flüchtlingskrise: Wie eine Social-Media-Lüge 60.000 Menschen aufs Meer trieb",
+          "title": "Produktionsstart in Bayern: Kampfdrohnen für die deutsche Brigade in Litauen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/stark-defence-kampfdrohnen-fuer-die-bundeswehr-in-litauen-201084627.html",
+          "summary": "Das junge Unternehmen Stark Defence hat einen Großauftrag der Bundeswehr bekommen. Nun zieht es vor den Toren Münchens eine Produktion hoch. Ein Ortsbesuch in einer geheimen Fabrik.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b4384e1f4cce/w3005h1570x804y605o/202607/43601.0.2389963792/produktion-fuer-ein.webp"
+        },
+        {
+          "title": "Flüchtlingskrise: Wie eine Tiktok-Lüge 60.000 Menschen aufs Meer trieb",
           "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/massenansturm-ceuta-fake-news-lockten-60-000-menschen-201094671.html",
           "summary": "Innerhalb von 24 Stunden gelangten Zehntausende von Marokko in die spanische Exklave Ceuta. Wie konnte das geschehen? Während über politische Hintergründe gerätselt wird, ist eines klar: Social Media war der Motor.",
           "source": "FAZ",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/41b013e95b9a/w5284h2760x0y381o/202608/43601.0.2400081816/von-desinformation-gelockt.webp"
         },
         {
-          "title": "Ansturm auf Ceuta: Die EU will den Test bestanden haben",
-          "url": "https://www.faz.net/aktuell/politik/ausland/eu-stellt-sich-nach-der-migrationskrise-hinter-spanien-201093748.html",
-          "summary": "Nach heftiger Kritik an Spaniens Migrationspolitik stellen sich die EU-Innenminister hinter Madrid. Dort verteidigt man das Vorgehen in Ceuta.",
+          "title": "Europäische Asylpolitik: Die Kritik an Spanien ist berechtigt",
+          "url": "https://www.faz.net/aktuell/politik/ausland/spanien-und-die-eu-kritik-wegen-massenlegalisierung-201094380.html",
+          "summary": "Die Regierung in Madrid kann nichts für den Auslöser des Massenansturms auf Ceuta. Aber Massenlegalisierungen sind das falsche Signal.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e0cd3a4ac0b0/w5424h2834x0y236o/202608/43601.0.2401274161/verteidigt-das-spanische.webp"
-        },
-        {
-          "title": "Migration: So deuten die AfD und ihr Vorfeld die Krise in Ceuta",
-          "url": "https://www.faz.net/aktuell/politik/wie-die-afd-die-krise-in-ceuta-deutet-201093377.html",
-          "summary": "Zu Migration hat die AfD eigentlich eine klare Haltung. Doch die Ereignisse in Ceuta sind für sie nicht ganz leicht zu kommentieren.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a91c73fde59f/w8256h4313x0y595o/202608/43601.0.2392812927/rueckfuehrung-migranten.webp"
+          "image": "https://media0.faz.net/image/w1200h627/36d69d317c8e/w1620h846x0y201o/202608/43601.0.2400889232/in-ceuta-verbliebene-migranten.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen?",
+          "url": "https://www.spiegel.de/ausland/iran-verhandlungen-diktiert-teheran-donald-trump-jetzt-die-bedingungen-a-98bd3b51-c050-4f2d-89aa-b5d3ca3355d0#ref=rss",
+          "summary": "Oman und Iran verhandeln über einen Deal für die Straße von Hormus. Eine Einigung könnte die US-Regierung vor neue Probleme stellen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/bfa5c541-1785-42e8-88f4-5f5ccbddcd07_w1200_r1.778_fpx66_fpy53.jpg"
+        },
+        {
+          "title": "Red Farmer: Landwirte unterstützen die Feuerwehr bei Waldbränden",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/red-farmer-landwirte-unterstuetzen-die-feuerwehr-bei-waldbraenden-a-f2137e54-6857-40d5-a522-21c86dbbfeac#ref=rss",
+          "summary": "Mathias Lichti arbeitet in Neustadt an der Weinstraße auf dem Hof seiner Eltern als Landwirt. Bei Bränden ist der 27-Jährige nicht nur als Feuerwehrmann im Einsatz – sondern auch mit dem Güllefass.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/3f435e78-aed8-4b3c-a1c7-4b863291d35f_w1200_r1.778_fpx46_fpy50.jpg"
+        },
+        {
           "title": "Rente mit 63: Warum die Frühverrentung für den Osten besonders wichtig ist",
           "url": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-warum-die-fruehverrentung-fuer-den-osten-besonders-wichtig-ist-a-d423e8b4-d47c-462a-ac5b-2b4c2e47b8fb#ref=rss",
           "summary": "Die Regierungschefs der Ost-Länder rebellieren gegen das Ende der »Rente nach 63«. Tatsächlich schafft ein größerer Anteil der Ostdeutschen die dafür nötigen Beitragsjahre. Doch die Unterschiede zum Westen werden kleiner.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/ec7f8ab3-019b-4692-b4f1-9efb734adf0d_w1200_r1.778_fpx62.67_fpy50.jpg"
-        },
-        {
-          "title": "News des Tages: Rhein-Niedrigwasser, Ceuta und KI-Chatbots",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-rhein-niedrigwasser-ceuta-und-ki-chatbots-a-1c9d140c-2fcf-4c65-9d73-ca00d56e5b4a#ref=rss",
-          "summary": "Der Rheinpegel könnte die Spritpreise beeinflussen. Die EU ist nach dem Migrationsstreit von Ceuta um Einigkeit bemüht. Und: Die Bundesregierung will nicht sagen, wie viele Reden sie mit KI geschrieben hat. Das ist die Lage am Dienstagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Rhein/Niedrigwasser: Dürre treibt Transportkosten und Spritpreise nach oben",
-          "url": "https://www.spiegel.de/wirtschaft/rhein-niedrigwasser-duerre-treibt-transportkosten-und-spritpreise-nach-oben-a-d1b58788-ae0f-4021-9b88-5c6ce378148f#ref=rss",
-          "summary": "Die extremen Niedrigpegel am Rhein gefährden die Lieferketten der Industrie. Ökonom Thilo Schaefer sagt, was das für Autofahrer und das Wirtschaftswachstum bedeuten könnte.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/21c6648b-317c-491e-98da-59dedc8bcb3e_w1200_r1.778_fpx40_fpy34.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Innenausschuss zum Berliner CSD: Zentrale Fragen bleiben ungeklärt",
+          "title": "Wie ein chinesischer Essenslieferant einen wichtigen Literaturpreis gewann",
+          "url": "https://www.tagesschau.de/ausland/asien/china-lieferdiensfahrer-bekommt-literaturpreis-100.html",
+          "summary": "Während er mit seinem Elektroroller Essenslieferungen an die Haustüren brachte, verfasste Wang Jibing Gedichte. Dafür hat er nun eine der höchsten literarischen Auszeichnungen Chinas erhalten. Lamby-Schmitt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/00b2370c-5c44-4851-9631-d37cb5247495/AAABn828EwQ/AAABnSSvrFg/16x9-big/jibing-100.jpg?width=1280"
+        },
+        {
+          "title": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html",
+          "summary": "Ein Video zeigt, wie eine Drohne einen Gemüsehändler in der Ukraine verfolgt - und schließlich neben ihm explodiert. Der Angriff sei kein Einzelfall, sagt der ukrainische Präsident Selenskyj. Er fordert erneut mehr Druck auf Moskau.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/ae09e094-5cde-4587-99f8-63985edb17d4/AAABn83dg2g/AAABnSSvrFg/16x9-big/cherson-haendler-drone-100.jpg?width=1280"
+        },
+        {
+          "title": "Innenausschuss zum CSD-Anschlag: Zentrale Fragen bleiben ungeklärt",
           "url": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-berlin-100.html",
           "summary": "Wieso war der Islamist auf freiem Fuß, obwohl er als extrem gefährlich galt? Hatten die Sicherheitsbehörden das Berliner Gericht ausreichend informiert? Im Innenausschuss zum CSD-Anschlag gab es darauf keine Antworten.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/c888ccc4-8fd1-4410-8f16-ae52a6718267/AAABn823xog/AAABnSSvrFg/16x9-big/csd-mahnwache-100.jpg?width=1280"
-        },
-        {
-          "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-innenminister-ceuta-100.html",
-          "summary": "Nachdem die meisten EU-Staaten Spanien wegen der Krise in Ceuta kritisiert hatten, betonten die europäischen Innenminister jetzt ihre Solidarität mit Madrid. Doch die Diskussion über Europas Grenzschutz geht weiter. Von Jean-Marie Magro.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4fcc7899-543e-459f-88c2-89c5dbd726af/AAABn821gt8/AAABnSSvrFg/16x9-big/magnus-brunner-104.jpg?width=1280"
-        },
-        {
-          "title": "Hitze, Dürre, Waldbrände: Rufe nach Reaktion der Bundesregierung",
-          "url": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html",
-          "summary": "Die Waldbrände in Südeuropa dominieren die Schlagzeilen. Doch auch in Deutschland sind die Folgen des Klimawandels durch Niedrigwasser und Waldbrände spürbar. Die Kritik an der Klimapolitik der Bundesregierung wird wieder lauter.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cab20225-34f9-4fc5-9358-9ea6c8bda9ca/AAABn8zh3bw/AAABnSSvrFg/16x9-big/waldbrand-lingen-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Weltfußballverband: Medien: Infantino beruft Fifa-Krisensitzung in Marokko ein",
+          "url": "https://www.sueddeutsche.de/sport/fifa-krisensitzung-rabat-infantino-druck-li.3526614",
+          "summary": "Trotz der Absage seiner Investorenpläne nimmt der Druck auf den Fifa-Präsidenten zu. Berichten zufolge lädt er am Mittwoch hochrangige Mitarbeiter zu einem Krisentreffen in Rabat ein.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/04/b647418d-f500-4361-b448-5bf599eff6ad.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C110%2C3200%2C1800"
+        },
+        {
           "title": "Phlegräischen Felder: Erdbeben bei Neapel: „Es ist ein aktiver Vulkan“",
           "url": "https://www.sueddeutsche.de/wissen/erdbeben-vulkanaktivitaet-neapel-pozzuoli-li.3525832",
           "summary": "Die Phlegräischen Felder westlich von Neapel erleben das schwerste Beben seit mehreren Jahrzehnten. Sind das die Vorläufer eines Vulkanausbruchs?",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2025/01/24/cb81a736-ebde-4f34-a176-482c651ce99e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=757%2C418%2C956%2C538"
-        },
-        {
-          "title": "Katastrophenschutz: Was, wenn der Wald brennt?",
-          "url": "https://www.sueddeutsche.de/muenchen/ebersberg/landkreis-ebersberg-ebersberger-forst-feuerwehren-waldbrand-trockenheit-hitze-uebung-li.3521053",
-          "summary": "Feuerstürme wie in Spanien und Griechenland sind auch hierzulande möglich. Deshalb trainieren Feuerwehren am Ebersberger Forst für den Ernstfall. Zentral sind neue Sicherheitsregeln. Zu diesen gehört auch die Option Rückzug.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/31/479f3212-8c5e-4bc9-a87a-460408353c81.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=775%2C434%2C2732%2C1537"
         }
       ]
     }
