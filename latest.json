@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T22:00:09.043Z",
-  "timestamp": "5.8.2026, 00:00:09",
+  "generated": "2026-08-05T02:00:08.059Z",
+  "timestamp": "5.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Prozess erst im März: Warner-Übernahme durch Paramount verzögert",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-prozess-uebernahme-100.html",
+          "summary": "Diese Entscheidung könnte für Paramount teuer werden: Die Wettbewerbsklage von zwölf US-Bundesstaaten gegen den Kauf des Medienkonzerns Warner Brothers soll erst im März verhandelt werden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/9038543a-b14b-44ae-bc9c-e967d56d8629/AAABn4M6S3E/AAABnSSvrFg/16x9-big/schriftzug-paramount-102.jpg?width=1280"
+        },
+        {
+          "title": "Welternährungsprogramm: Hungerkrise in Afghanistan spitzt sich zu",
+          "url": "https://www.tagesschau.de/ausland/hunger-afghanistan-kinder-100.html",
+          "summary": "Viele Länder kürzen ihre Gelder für Entwicklungshilfe - mit verheerenden Folgen: Das Welternährungsprogramm warnt vor einer Ernährungskrise in Afghanistan, die \"außer Kontrolle gerät\" - besonders bei Kindern.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/e5840376-c7ee-4c73-a56d-ac01efafe594/AAABn877v2A/AAABnSSvrFg/16x9-big/afghanistan-klinik-kind-100.jpg?width=1280"
+        },
+        {
           "title": "Wie ein chinesischer Essenslieferant einen wichtigen Literaturpreis gewann",
           "url": "https://www.tagesschau.de/ausland/asien/china-lieferdiensfahrer-bekommt-literaturpreis-100.html",
           "summary": "Während er mit seinem Elektroroller Essenslieferungen an die Haustüren brachte, verfasste Wang Jibing Gedichte. Dafür hat er nun eine der höchsten literarischen Auszeichnungen Chinas erhalten. Lamby-Schmitt.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/00b2370c-5c44-4851-9631-d37cb5247495/AAABn828EwQ/AAABnSSvrFg/16x9-big/jibing-100.jpg?width=1280"
-        },
-        {
-          "title": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html",
-          "summary": "Ein Video zeigt, wie eine Drohne einen Gemüsehändler in der Ukraine verfolgt - und schließlich neben ihm explodiert. Der Angriff sei kein Einzelfall, sagt der ukrainische Präsident Selenskyj. Er fordert erneut mehr Druck auf Moskau.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ae09e094-5cde-4587-99f8-63985edb17d4/AAABn83dg2g/AAABnSSvrFg/16x9-big/cherson-haendler-drone-100.jpg?width=1280"
-        },
-        {
-          "title": "Innenausschuss zum CSD-Anschlag: Zentrale Fragen bleiben ungeklärt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-berlin-100.html",
-          "summary": "Wieso war der Islamist auf freiem Fuß, obwohl er als extrem gefährlich galt? Hatten die Sicherheitsbehörden das Berliner Gericht ausreichend informiert? Im Innenausschuss zum CSD-Anschlag gab es darauf keine Antworten.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c888ccc4-8fd1-4410-8f16-ae52a6718267/AAABn823xog/AAABnSSvrFg/16x9-big/csd-mahnwache-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Hegseth weist Bericht über schwindendes Abwehrarsenal zurück",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-hegseth-cnn-raketenbestaende-pentagon-li.3523200",
+          "summary": "Der Verteidigungsminister wettert gegen einen CNN-Bericht, in dem es heißt, fast 80 Prozent der Raketen für ein wichtiges Abwehrsystem seien aufgebraucht. Auch die Munitionsbestände seien „gefährlich niedrig“.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/22/4afba3be-9ad6-45a8-857a-70e433831430.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "Raumfahrt: Space-X verdoppelt seinen Umsatz und halbiert seinen Verlust",
+          "url": "https://www.sueddeutsche.de/wirtschaft/spacex-quartalszahlen-elon-musk-li.3524037",
+          "summary": "Zum ersten Mal seit dem Börsengang legt Elon Musks Weltraumfirma Quartalszahlen vor. Die sind besser als erwartet – aber an der Börse fällt die erste Reaktion dennoch verhalten aus.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/04/dc8dbc69-cb42-4bd3-8490-847d03e8c673.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C295%2C4000%2C2250"
+        },
+        {
           "title": "Weltfußballverband: Medien: Infantino beruft Fifa-Krisensitzung in Marokko ein",
           "url": "https://www.sueddeutsche.de/sport/fifa-krisensitzung-rabat-infantino-druck-li.3526614",
           "summary": "Trotz der Absage seiner Investorenpläne nimmt der Druck auf den Fifa-Präsidenten zu. Berichten zufolge lädt er am Mittwoch hochrangige Mitarbeiter zu einem Krisentreffen in Rabat ein.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/04/b647418d-f500-4361-b448-5bf599eff6ad.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C110%2C3200%2C1800"
-        },
-        {
-          "title": "Phlegräischen Felder: Erdbeben bei Neapel: „Es ist ein aktiver Vulkan“",
-          "url": "https://www.sueddeutsche.de/wissen/erdbeben-vulkanaktivitaet-neapel-pozzuoli-li.3525832",
-          "summary": "Die Phlegräischen Felder westlich von Neapel erleben das schwerste Beben seit mehreren Jahrzehnten. Sind das die Vorläufer eines Vulkanausbruchs?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/04/5b165cd7-6f43-46a5-9df0-cff2098471f0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C360%2C3500%2C1969"
-        },
-        {
-          "title": "Energie: Sogar Trump kritisiert Milliardengewinne der Ölkonzerne",
-          "url": "https://www.sueddeutsche.de/wirtschaft/us-praesident-trump-oelkonzerne-gewinne-li.3526382",
-          "summary": "Exxon Mobil, Chevron, Shell und Co. melden Rekordergebnisse. Während Klimaschützer von einem Skandal sprechen, will der US-Präsident nur eins: billiges Benzin.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/01/24/cb81a736-ebde-4f34-a176-482c651ce99e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=757%2C418%2C956%2C538"
         }
       ]
     }
