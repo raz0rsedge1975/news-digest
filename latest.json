@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-05T06:00:08.478Z",
-  "timestamp": "5.8.2026, 08:00:08",
+  "generated": "2026-08-05T10:00:09.225Z",
+  "timestamp": "5.8.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Überwachung von Kritikern: Wenn ICE am Arbeitsplatz vorbeischaut",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/usa-unter-donald-trump-wie-ice-kritiker-in-den-sozialen-netzwerken-verfolgt-accg-201093981.html",
-          "summary": "Die Einwanderungspolizei ICE durchforstet die sozialen Netzwerke nach Beiträgen über ihre Beamten. Kritiker sagen, es gehe um Einschüchterung.",
+          "title": "Aufwind für die Rechte: Europa beginnt in Ceuta und Melilla",
+          "url": "https://www.faz.net/aktuell/politik/ausland/migration-europa-beginnt-in-ceuta-und-melilla-201095711.html",
+          "summary": "Mit Migranten und Flüchtlingen werden auch in Nordafrika hybride Konflikte geführt. So beeinflussen sie die Politik in europäischen Staaten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/434418d88ce0/w5027h2626x0y321o/202607/43601.0.2377816436/ice-beamte-im-juli-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/83f680101d10/w1620h846x0y201o/202608/43601.0.2402787254/immer-noch-befinden-sich-nach.webp"
         },
         {
-          "title": "Sophie Cunningham: Die „MAGA-Barbie“ und ihre Zerrbilder",
-          "url": "https://www.faz.net/aktuell/sport/mehr-sport/basketballerin-sophie-cunningham-maga-barbie-gegen-transathleten-accg-201093196.html",
-          "summary": "Sophie Cunningham polarisiert und weiß das zu nutzen: Trotz durchschnittlicher Leistungen folgen der Basketballspielerin Millionen Menschen auf Instagram. Nun stellt sie sich gegen Transathleten.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/8d0f3e96cd5b/w2630h1374x1079y354o/202608/43601.0.2396562216/gehoert-nicht-zur-ersten-garde.webp"
-        },
-        {
-          "title": "Liveblog Irankrieg: USA und Iran stehen offenbar vor Deal zur Öffnung der Straße von Hormus",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-usa-und-iran-streben-einigung-zu-hormus-an-faz-200583539.html",
-          "summary": "USA streben für Mittwoch Einigung mit Iran an +++ Irans Präsident: Verteidigen unsere Grenzen +++ Raketenvorräte der USA fast aufgebraucht +++ alle Entwicklungen im Liveblog",
+          "title": "Flüchtlingskrise: Wie eine Tiktok-Lüge 60.000 Menschen aufs Meer trieb",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/massenansturm-ceuta-fake-news-lockten-60-000-menschen-201094671.html",
+          "summary": "Innerhalb von 24 Stunden gelangten Zehntausende von Marokko in die spanische Exklave Ceuta. Wie konnte das geschehen? Während über politische Hintergründe gerätselt wird, ist eines klar: Social Media war der Motor.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8b3b05aec369/w5020h2622x0y360o/202608/43601.0.2398106663/handelsschiffe-liegen-in-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/41b013e95b9a/w5284h2760x0y381o/202608/43601.0.2400081816/von-desinformation-gelockt.webp"
+        },
+        {
+          "title": "„Unbekanntes Flugobjekt“: Drohne stört Flugverkehr in Leipzig",
+          "url": "https://www.faz.net/aktuell/politik/inland/flughafen-leipzig-drohne-mit-zuender-nahe-einem-ukrainischen-flugzeug-gefunden-accg-201096959.html",
+          "summary": "Am Flughafen Leipzig/Halle wurde in der Nacht eine Drohne entdeckt. Sie befand sich offenbar in der Nähe eines ukrainischen Flugzeugs und soll einen Zünder gehabt haben.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/8cd9dfee014e/w5472h2859x0y679o/202608/43601.0.2404026056/der-flughafen-leipzig-halle-am.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Leipzig/Halle: Drohne mit möglichem Sprengstoff nahe ukrainischem Frachtflugzeug",
+          "url": "https://www.spiegel.de/panorama/leipzig-halle-drohne-mit-moeglichem-sprengstoff-nahe-ukrainischem-frachtflugzeug-a-76c79e66-2629-4168-9e90-30223f62db19#ref=rss",
+          "summary": "Am Flughafen Leipzig/Halle ist eine Drohne mit einem verdächtigen Gegenstand gefunden worden, Sicherheitskreise sprechen von Sprengstoff und einem Zünder. In der Nähe standen ukrainische Frachtflugzeuge.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f82a6472-7218-423c-b335-57541ae8b889_w1200_r1.778_fpx46_fpy57.jpg"
+        },
+        {
+          "title": "Donald Trump: Warum die US-Stahl-Zölle Deutschland besonders hart treffen",
+          "url": "https://www.spiegel.de/wirtschaft/donald-trump-warum-die-us-stahl-zoelle-deutschland-besonders-hart-treffen-a-ec147afe-55ac-4238-8e02-7e16342a1d01#ref=rss",
+          "summary": "Der US-Präsident hat seine Zölle auf Stahl und Alu auf Hunderte Produkte ausgeweitet. Das trifft Deutschland überproportional, zeigt eine neue Auswertung. China umgeht das offenbar mit einem Trick.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/a10bb29a-1813-47a5-beef-e21930b9fe86_w1200_r1.778_fpx41_fpy53.jpg"
+        },
+        {
           "title": "Donald Trump und der Reflecting Pool in Washington: Darum geht der US-Präsident auf Jeanine Pirro los",
           "url": "https://www.spiegel.de/ausland/donald-trump-und-der-reflecting-pool-in-washington-darum-geht-der-us-praesident-auf-jeanine-pirro-los-a-bd23c9c1-c7e3-455b-b085-c2afb7d7a307#ref=rss",
           "summary": "Im Streit über den Reflecting Pool in Washington schickte Donald Trump Staatsanwältin Jeanine Pirro gegen vermeintliche »Vandalen« ins Feld. Dann geriet sie selbst ins Visier des Präsidenten. Nun kam es zum Krisentreffen im Oval Office.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/87c27ef6-6ae0-4088-9228-f9b14e542825_w1200_r1.778_fpx48_fpy54.jpg"
-        },
-        {
-          "title": "News: Urteil gegen junge Neonazis, Geschlechterdebatte über die Staatsspitze, Schrotteinschlag auf dem Mond",
-          "url": "https://www.spiegel.de/politik/deutschland/news-urteil-gegen-junge-neonazis-geschlechterdebatte-um-die-staatsspitze-schrotteinschlag-auf-dem-mond-a-5eb71986-1f01-47df-8e96-c4af027e4d49#ref=rss",
-          "summary": "In Hamburg endet der Prozess gegen mutmaßliche Rechtsterroristen. Die SPD warnt vor einem Männerrückfall in der Präsidentendebatte. Und: Raketenschrott kracht auf den Mond. Das ist die Lage am Mittwochmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Red Farmer: Landwirte unterstützen die Feuerwehr bei Waldbränden",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/red-farmer-landwirte-unterstuetzen-die-feuerwehr-bei-waldbraenden-a-f2137e54-6857-40d5-a522-21c86dbbfeac#ref=rss",
-          "summary": "Mathias Lichti arbeitet in Neustadt an der Weinstraße auf dem Hof seiner Eltern als Landwirt. Bei Bränden ist der 27-Jährige nicht nur als Feuerwehrmann im Einsatz – sondern auch mit dem Güllefass.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3f435e78-aed8-4b3c-a1c7-4b863291d35f_w1200_r1.778_fpx46_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: DAX bleibt auf Rekordkurs",
+          "title": "Flughafen Leipzig: Ermittler entdecken \"unbekannte Masse\" und mutmaßlichen Zünder an Drohne",
+          "url": "https://www.tagesschau.de/investigativ/drohne-leipzig-100.html",
+          "summary": "Am Flughafen Leipzig-Halle wurde in der Nacht ein verdächtiger Gegenstand gefunden, der Flugverkehr daraufhin eingestellt. Nach Recherchen von NDR, WDR und Süddeutscher Zeitung soll es sich um eine präparierte Drohne handeln.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c6c50659-34a5-4ab6-b7c8-a677b0c155a8/AAABn9EaU7c/AAABnSSvrFg/16x9-big/polizei-leipzig-flughafen-100.jpg?width=1280"
+        },
+        {
+          "title": "Marktbericht: DAX setzt Klettertour fort",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html",
-          "summary": "Im Sog der Wall Street bleibt der DAX auf Klettertour - neue Rekorde zeichnen sich ab. In New York waren vor allem Tech-Aktien wieder gefragt. Im DAX geht derweil die Berichtssaison der Unternehmen weiter.",
+          "summary": "Eine Fülle neuer Unternehmensergebnisse, aber auch die Hoffnung auf eine diplomatische Nahost-Lösung, bestimmen den Handelstag. Der DAX markiert im Sog der Wall Street ein neues Rekordhoch.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/db63e795-4678-4426-ad9f-0d579909a22d/AAABlgTb-qE/AAABnSSvrFg/16x9-big/dax-205.jpg?width=1280"
         },
         {
-          "title": "Arbeitgeber kritisieren Widerstand gegen Ende der \"Rente mit 63\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bda-abschlagsfreie-fruehrente-100.html",
-          "summary": "Das Aus der abschlagsfreien Frührente ist ein zentraler Punkt der schwarz-roten Rentenreform. Doch seit Tagen machen Teile der Koalition dagegen mobil. Der Arbeitgeberverband zeigt sich darüber \"fassungslos\".",
+          "title": "Schwache Konjunktur: Mittelstand steckt in der Kreditklemme",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mittelstand-kredite-100.html",
+          "summary": "Für mittelständische Betriebe wird es immer schwieriger, Darlehen von ihren Banken zu erhalten. Wegen der schlechten Wirtschaftslage werden die Geldinstitute vorsichtiger. Das erschwert den Firmen Investitionen zusätzlich. Von Axel John.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8057b8b1-01ba-49a0-a4a2-83dcb5bc2be2/AAABn9Bhc1Y/AAABnSSvrFg/16x9-big/kampeter-112.jpg?width=1280"
-        },
-        {
-          "title": "Hunderte Menschen nach Vulkanausbruch in Guatemala evakuiert",
-          "url": "https://www.tagesschau.de/ausland/amerika/guatemala-vulkan-ausbruch-100.html",
-          "summary": "In einigen Regionen von Guatemala gilt inzwischen die höchste Warnstufe - denn der Feuervulkan ist wieder ausgebrochen. 400 Menschen wurden evakuiert. Behörden sperrten den Zugang zu einem Nachbarvulkan - weil sich Schaulustige in Gefahr begaben.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/103bc93a-69f1-494d-97fb-6bfc9454bd73/AAABn8_SzNI/AAABnSSvrFg/16x9-big/vulkan-ausbruch-guatemala-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4aace78a-0b50-422e-8cdd-ab88e9fbb59b/AAABn9CtReY/AAABnSSvrFg/16x9-big/lang-136.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Der Zusammenbruch nationaler Souveränität im Nahen Osten",
-          "url": "https://www.telepolis.de/article/Der-Zusammenbruch-nationaler-Souveraenitaet-im-Nahen-Osten-11398323.html",
-          "summary": "Der Nahe Osten im Flächenbrand: Wie die Region zum Schauplatz eines Krieges \"aller gegen alle\" geworden ist und was uns die Geschichte lehrt. Ein Gastbeitrag.",
+          "title": "Social Media als Treiber der Ceuta-Dynamik",
+          "url": "https://www.telepolis.de/article/Social-Media-als-Treiber-der-Ceuta-Dynamik-11399305.html",
+          "summary": "Zehntausende riskierten ihr Leben für eine Lüge. Falschmeldungen über eine offene Grenze verbreiteten sich rasant– doch wer steckt dahinter? Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/6/6/7/4/shutterstock_2748605429-7daf7f3974d19c73.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/7/2/0/9/shutterstock_2695271435-a19a91212340fa7d.jpg"
         },
         {
-          "title": "Frankreich streitet über Feuer gegen Feuer",
-          "url": "https://www.telepolis.de/article/Frankreich-streitet-ueber-Feuer-gegen-Feuer-11398573.html",
-          "summary": "Nach dem Megabrand in der Gironde wird über Gegenfeuer, lokales Erfahrungswissen und den Wald der Zukunft diskutiert.",
+          "title": "Der Bahn-Horror und Dunja Hayali",
+          "url": "https://www.telepolis.de/article/Der-Bahn-Horror-und-Dunja-Hayali-11399128.html",
+          "summary": "Was die Sommerlochdebatte über den ZDF-Dokumentarfilm über die öffentlich-rechtlichen Sender verrät – und vor allem über die Deutsche Bahn. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/6/7/9/9/master_Feuer_2-0cf1e5ab74320b3c.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/7/1/3/5/master_2_DB-9d2ecd4e194b7cfc.jpg"
         },
         {
-          "title": "Schmutzige Geopolitik: Warum Washington chinesische Saugroboter verbietet",
-          "url": "https://www.telepolis.de/article/Schmutzige-Geopolitik-Warum-Washington-chinesische-Saugroboter-verbietet-11397640.html",
-          "summary": "Chinesische Saugroboter sind in den USA verboten – formell aus Sicherheitsgründen. Kritiker sehen darin vor allem Industriepolitik. Was bedeutet das für Europa?",
+          "title": "Gewerkschaftsbasis fordert härteren Kurs gegen Reformpläne",
+          "url": "https://www.telepolis.de/article/Gewerkschaftsbasis-fordert-haerteren-Kurs-gegen-Reformplaene-11395014.html",
+          "summary": "Gewerkschaftsmitglieder rebellieren gegen ihre Führung. Sie fordern härtere Proteste gegen die schwarz-roten Reformpläne. Reicht das für einen heißen Herbst?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/6/1/1/0/shutterstock_2618594437-eec9217532d370fe.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/4/1/4/1/proteste_ho-9b0b4c4e1005ade1.png"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Hitzewelle: Wasserknappheit zwingt Berghütten zu drastischen Einschränkungen",
-          "url": "https://www.sueddeutsche.de/panorama/wetter-deutschland-hitze-trockenheit-wasserknappheit-berghuetten-li.3522772",
-          "summary": "Nach zwei schneearmen Wintern und einer langen Trockenperiode sind die Waschräume auf vielen Hütten nicht mehr zugänglich, die wasserintensiven Spültoiletten müssen durch Trockentoiletten ersetzt werden.",
+          "title": "Sabotageverdacht: Mögliche Sprengstoff-Drohne legt Flughafen Leipzig zwischenzeitlich lahm",
+          "url": "https://www.sueddeutsche.de/politik/flughafen-leipzig-drohne-sprengstoff-vorfall-ukraine-li.3526733",
+          "summary": "Am Flughafen Leipzig wird neben einem ukrainischen Transportflieger eine Drohne mit einem Zünder gefunden. Die Polizei schließt einen gezielten Sabotageakt nicht aus.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/05/7493b2ea-341a-4f92-a6eb-134679e782a2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=350%2C138%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/08/05/ac38a9ba-a779-4718-826d-9cdba0cad821.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C807%2C3306%2C1860"
         },
         {
-          "title": "Bundespolitik: Arbeitgeberverband kritisiert Widerstand gegen Ende der Rente mit 63",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-rente-mit-63-arbeitgeber-kritik-kampeter-li.3516334",
-          "summary": "An der Rente mit 63 festzuhalten, ignoriere den Fachkräftemangel, den demografischen Wandel und die wirtschaftliche Lage, sagt der Hauptgeschäftsführer der Bundesvereinigung der Deutschen Arbeitgeberverbände.",
+          "title": "Polizei ermittelt: Das Rätsel um die Höhlenknochen",
+          "url": "https://www.sueddeutsche.de/bayern/oberstdorf-obermaiselstein-hoehle-knochenfund-polizei-li.3520949",
+          "summary": "Höhlenforscher finden bei Obermaiselstein im Allgäu menschliche Überreste. Eine forensische Untersuchung bringt neue Erkenntnisse – aber die Ermittler stehen noch immer vor einem Rätsel.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/05/394a447d-9ae2-46b1-8e43-20b29eeb535a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C357%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/08/05/55efaaf5-537c-4c67-ab42-156f9dc1dbf8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "USA: Polizei in LA nimmt vor Trump-Auftritt bewaffneten Mann fest",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-verdaechtiger-festnahme-la-polizei-li.3523200",
-          "summary": "Ein 38-Jähriger habe die Sicherheitsvorkehrungen  genau beobachtet, erklärte die Polizei. Anschließend fanden die Beamten mehrere Waffen und ein Notizbuch mit „besorgniserregenden Äußerungen“ im Haus des Mannes.",
+          "title": "Radsport: Als Amateur Pogacar zu schlagen? „Ein absolut wildes Gefühl“",
+          "url": "https://www.sueddeutsche.de/sport/showevent-pogacar-besiegt-challenge-niessen-arzt-li.3526042",
+          "summary": "Der Berliner Amateur und Arzt Frederik Niessen bezwingt bei einem Showevent Tour-de-France-Champion Tadej Pogacar. Ein Gespräch über seinen Trainingsplan – und seine nächsten Ziele.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/05/bb70f1b3-4411-46cc-97e9-8057633082c9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=62%2C409%2C1539%2C866"
+          "image": "https://www.sueddeutsche.de/2026/08/04/b2aab174-eb39-4622-a7c4-b92bd2648417.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=144%2C118%2C879%2C494"
         }
       ]
     }
