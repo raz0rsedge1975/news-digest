@@ -1,10 +1,18 @@
 {
-  "generated": "2026-08-06T18:00:08.119Z",
-  "timestamp": "6.8.2026, 20:00:08",
+  "generated": "2026-08-06T22:00:08.590Z",
+  "timestamp": "7.8.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Rentenreform: Österreichs Frühverrentung als Vorbild für Deutschland",
+          "url": "https://www.faz.net/aktuell/wirtschaft/rentenreform-oesterreichs-fruehverrentung-als-vorbild-fuer-deutschland-201099276.html",
+          "summary": "In der SPD gibt es zum Thema Rente mit 63 Sympathien für Österreichs Schwerarbeitspension. Dort spielt sie bislang allerdings kaum eine Rolle.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/4cff0dcd443b/w3000h1567x0y379o/202308/43600.0.1997213850/an-einem-badesee-in.webp"
+        },
         {
           "title": "Drohne in Leipzig: „Das kann jeder, der mal einen Lötkolben in der Hand gehalten hat“",
           "url": "https://www.faz.net/aktuell/politik/inland/drohnenabwehr-was-in-leipzig-schiefgelaufen-ist-201101824.html",
@@ -12,14 +20,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/a821714a15a7/w6144h3210x0y763o/202608/43601.0.2405198141/kriminaltechniker-der-polizei.webp"
-        },
-        {
-          "title": "Drohnenangriff in Leipzig: Russland zu beschuldigen hilft nicht weiter",
-          "url": "https://www.faz.net/aktuell/politik/inland/drohnen-in-leipzig-russland-zu-beschuldigen-hilft-nicht-201101638.html",
-          "summary": "Der Staat muss gesicherte Erkenntnisse haben, bevor er Moskau für den Anschlagsversuch in Leipzig verantwortlich macht. Wichtiger ist jetzt die Drohnenabwehr.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4bf9f9dc9f12/w6144h3210x0y123o/202608/43601.0.2407804197/ein-ukrainisches.webp"
         },
         {
           "title": "Deutschland-Liveblog: Bundesanwaltschaft ermittelt zu Drohnenvorfall in Leipzig",
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Ceuta: Jugendliche Geflüchtete kämpfen in Spaniens Exklave ums Überleben",
+          "url": "https://www.spiegel.de/panorama/ceuta-jugendliche-gefluechtete-kaempfen-in-spaniens-exklave-ums-ueberleben-a-b3354ad6-1560-4567-a1a3-dd09b192133e#ref=rss",
+          "summary": "Tausende Kinder und Jugendliche harren in Ceuta aus. Allein, ohne Eltern. Die Mädchen haben ständig Angst vor sexuellen Übergriffen. Und sie wissen nicht, wie es weitergeht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/05b45ac4-c8eb-45bc-a12d-c5daa20196da_w1200_r1.778_fpx63.34_fpy45.jpg"
+        },
+        {
           "title": "Flughafen Leipzig/Halle: Generalbundesanwalt übernimmt Ermittlungen nach Sprengstofffund",
           "url": "https://www.spiegel.de/panorama/flughafen-leipzig-halle-generalbundesanwalt-uebernimmt-ermittlungen-nach-sprengstofffund-a-1cf3d338-7bc8-4066-ae7a-384ad5e90118#ref=rss",
           "summary": "Sie war mit dem Plastiksprengstoff Semtex bestückt: Nach SPIEGEL-Informationen wurde ein Teil der in Leipzig gefundenen Drohne inzwischen auf der Tragfläche eines Flugzeugs entdeckt. Dort befinden sich die Treibstofftanks.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/6ae700a5-1a28-4a13-a788-9f307c36446d_w1200_r1.778_fpx56_fpy47.jpg"
-        },
-        {
-          "title": "News des Tages: Drohne am Leipziger Flughafen, Wahl-O-Mat für Sachsen-Anhalt, Sommerhit 2026",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-drohne-am-leipziger-flughafen-wahl-o-mat-fuer-sachsen-anhalt-sommerhit-2026-a-2842ec9b-5c4d-476f-9a3d-8006c3e438e0#ref=rss",
-          "summary": "Deutsche Politiker fordern mehr Klarheit nach dem Drohnenfund von Leipzig. Der Wahl-O-Mat steht bereit. Und: Der Sommerhit des Jahres kommt von Shakira und Burna Boy. Das ist die Lage am Donnerstagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Rente mit 63: Michael Kretschmer, Sven Schulze und Mario Voigt lehnen sich auf – und widersprechen sich",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Flughafen Leipzig/Halle: Bundesanwaltschaft ermittelt zu Sprengstoff-Drohne",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesanwaltschaft-leipzig-100.html",
+          "summary": "Die Bundesanwaltschaft hat im Fall der Drohne am Flughafen Leipzig/Halle die Ermittlungen an sich gezogen. Es handele sich um einen \"schwerwiegenden Angriff auf die Transport- und Logistikinfrastruktur in Deutschland\", hieß es.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/01e14bf7-b158-4fac-9831-4029b5655fb2/AAABnkUewKg/AAABnSSvrFg/16x9-big/generalbundesanwalt-130.jpg?width=1280"
+        },
+        {
           "title": "US-Arzneimittelbehörde lässt neuen mRNA-Impfstoff gegen Grippe zu",
           "url": "https://www.tagesschau.de/ausland/amerika/usa-mrna-grippe-impfstoff-100.html",
           "summary": "Pünktlich zur Grippesaison soll es in den USA einen neuen mRNA-Impfstoff von Moderna geben. Es ist die weltweit erste Zulassung eines Grippevakzins mit reiner mRNA-Technologie. Im US-Gesundheitsministerium herrscht jedoch Skepsis.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/28c6a22a-729a-4876-86b5-680620289625/AAABn9f_Qy8/AAABnSSvrFg/16x9-big/infantino-316.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Zahlenflut lässt Anleger weitestgehend kalt",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-144.html",
-          "summary": "Der DAX konnte heute trotz einer Fülle neuer Bilanzzahlen nicht an den jüngsten Rekordlauf anknüpfen - bleibt aber auf hohem Niveau. Nur für Einzeltitel gab es größere Bewegungen, der gesamte Index trat jedoch auf der Stelle.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/b862f6fb-2e65-42e0-97a3-4a1c9ab57d4f/AAABm8CJNHQ/AAABnSSvrFg/16x9-big/boerse-476.jpg?width=1280"
         }
       ]
     },
