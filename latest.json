@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-06T02:00:08.677Z",
-  "timestamp": "6.8.2026, 04:00:08",
+  "generated": "2026-08-06T06:00:08.947Z",
+  "timestamp": "6.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Künstliche Intelligenz: Wenn die KI zum Mail-Betrüger mutiert",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-ki-mythos-hackt-selbstaendig-phishing-und-schadsoftware-201097834.html",
-          "summary": "Britische Forscher haben in Tests festgestellt, dass das KI-Modell Mythos falsche Identitäten annimmt und Phishing-Mails verschickt hat. Es ist nicht der erste ernste Vorfall dieser Art.",
+          "title": "Paternalistische Politik: Mündige Bürger sind keine Kinder",
+          "url": "https://www.faz.net/aktuell/politik/inland/nudging-politik-muendige-buerger-sind-keine-kinder-201009016.html",
+          "summary": "Manche Politiker trauen uns nicht zu, dass wir uns gut ernähren oder unsere Erziehungszeiten gerecht aufteilen. Bitte, lieber Staat: Zwing uns nicht zu unserem Glück!",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9fc8a823e4f4/w3993h2086x0y288o/202608/43601.0.2404748803/eigentlich-ganz-putzig.webp"
+          "image": "https://media0.faz.net/image/w1200h627/bf03c30a8e79/w4091h2137x139y149o/202607/43601.0.2367389707/plant-eine-steuer-auf.webp"
         },
         {
-          "title": "Künstliche Intelligenz: Das amerikanische KI-Dilemma",
-          "url": "https://www.faz.net/aktuell/wirtschaft/openai-und-anthropic-das-amerikanische-ki-dilemma-201095870.html",
-          "summary": "Cyberpannen und der Aufstieg chinesischer Rivalen bringen Open AI und Anthropic in Bedrängnis – und stellen die US-Regierung vor schwierige Entscheidungen.",
+          "title": "Drohnenfund in Leipzig: Was wir über die Drohnenvorfälle wissen – und was nicht",
+          "url": "https://www.faz.net/aktuell/politik/inland/dobrindt-aeussert-sich-zu-drohnen-vorfaellen-in-leipzig-201099064.html",
+          "summary": "Nach dem Fund einer Drohne mit Sprengsatz auf dem Flughafen Leipzig/Halle tritt Bundesinnenminister Dobrindt am Abend vor die Presse. Er spricht von einem „hybriden Anschlagsszenario“.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/366cacd8df34/w3200h1672x0y129o/202606/43601.0.2199026784/rivalen-sam-altman-links-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ca39499bafac/w6144h3210x0y443o/202608/43601.0.2405819482/alarmiert-bundesinnenminister.webp"
         },
         {
-          "title": "F.A.Z. PODCAST FÜR DEUTSCHLAND: Werden wir bald ewig leben?",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/lindauer-nobelpreistraegertagung-werden-wir-bald-ewig-leben-201095220.html",
-          "summary": "F.A.Z. Sommerserie \"Die großen Fragen der Menschheit\": KI, Ewiges Leben, Krebs besiegen, Klimawandel, Krieg und Frieden",
+          "title": "Angriff auf Digitalwährung: Fast 1200 geknackte Bitcoin-Tresore in 41 Minuten",
+          "url": "https://www.faz.net/aktuell/finanzen/coldcard-diebstahl-1196-tresore-in-41-minuten-geknackt-accg-201090385.html",
+          "summary": "Wer Bitcoin wirklich ernst nimmt, kauft einen digitalen Tresor, der nie ans Internet angeschlossen wird. Einen, der als unknackbar gilt. Vor wenigen Tagen erfuhren Tausende Bitcoin-Halter, dass dieser Rat nicht stimmt.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/42b160cde0ea/w5395h2818x0y389o/202606/43601.0.2278772784/f-a-z-redakteur-simon-strauss.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/54f7420042b0/w2583h1349x0y116o/202608/43601.0.2404047705/tresorknacker-so-viel-aufwand.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Flughafen Leipzig/Halle: Die Drohne war eine fliegende Bombe",
-          "url": "https://www.spiegel.de/panorama/justiz/flughafen-leipzig-halle-die-drohne-war-eine-fliegende-bombe-a-d30140a0-1a99-448e-aff7-0b54f83929eb#ref=rss",
-          "summary": "Hochexplosiver Sprengstoff, dazu ein Zünder: Der Flughafen Leipzig entging womöglich nur durch Glück einem Anschlag. Innenminister Alexander Dobrindt spricht von einer »neuen Gefahrenqualität«. Steckt Russland dahinter?",
+          "title": "Friedrich Merz: Wie sich die CDU-Basis von ihrem Kanzler abwendet",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wie-sich-die-cdu-basis-von-ihrem-kanzler-abwendet-a-6f4d4852-82df-4290-bdf5-b576b1d73431#ref=rss",
+          "summary": "Bevor er ins Kanzleramt einzog, versprach Friedrich Merz »CDU pur«. Klare Kante, keine Kompromisse. Der Regierungsalltag sieht anders aus – sehr zum Unmut der Parteibasis.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8970514d-4166-4b67-9bb6-26b767b799c4_w1200_r1.778_fpx70.2_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f7db3f1a-4d21-4fdf-a06c-9108148fffc8_w1200_r1.778_fpx47.99_fpy50.jpg"
         },
         {
-          "title": "Migrationskrise in Ceuta: Sie schwammen über Leichen – und wollen es wieder versuchen",
-          "url": "https://www.spiegel.de/ausland/migrationskrise-in-ceuta-sie-schwammen-ueber-leichen-und-wollen-es-wieder-versuchen-a-24bdf72d-6fee-4dd3-b8b0-532f82745794#ref=rss",
-          "summary": "Zehntausende schwammen nach Ceuta, viele ertranken. Mehr als zwei Dutzend Migranten berichten dem SPIEGEL, marokkanische Sicherheitskräfte hätten sie über die Grenze gedrängt. Eine Rekonstruktion der Ereignisse.",
+          "title": "News: Klima-Krise, Ukraine-Russland-Krieg, Ceuta, Mohamed Salah",
+          "url": "https://www.spiegel.de/politik/deutschland/news-klima-krise-ukraine-russland-krieg-ceuta-mohamed-salah-a-4b802631-b31d-45bf-b95f-8ae173ebc633#ref=rss",
+          "summary": "Die Klimakatastrophe ist keine ferne Dystopie mehr. Der Ukrainekrieg wird zunehmend zu einem Luftkrieg. Ceuta weiß nicht, wohin mit den gestrandeten Minderjährigen. Das ist die Lage am Donnerstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/39dc6e71-20e0-4821-ab67-a4e11dcd4446_w1200_r1.778_fpx53.33_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Allgemeine Wehrpflicht: So könnte ein neuer Zivildienst aussehen",
-          "url": "https://www.spiegel.de/politik/allgemeine-wehrpflicht-so-koennte-ein-neuer-zivildienst-aussehen-a-a075c048-9218-47e2-a835-4a02fce16903#ref=rss",
-          "summary": "Für den Fall einer Rückkehr zur Wehrpflicht bereitet die Bundesregierung eine Reaktivierung des Zivildienstes vor. Was bedeutet das für junge Menschen? Die wichtigsten Fragen und Antworten.",
+          "title": "Iranische Fußballerinnen in Australien eingebürgert",
+          "url": "https://www.spiegel.de/sport/fussball/iranische-fussballerinnen-in-australien-eingebuergert-a-0e1e6f2d-3f64-4b50-94fd-2cb0584c385f#ref=rss",
+          "summary": "Sie haben beim Asien-Cup in Australien die Hymne Irans nicht mitgesungen und wurden danach angefeindet. Nun haben zwei iranische Fußballerinnen eine neue Heimat gefunden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/deb4df82-cb51-427f-b9a0-8289ddd474ed_w1200_r1.778_fpx69.99_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a4ec5934-5c9e-4b5f-bdb6-ba12a4732743_w1200_r1.778_fpx37_fpy32.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Island verweist Walfang-Gegner des Landes",
-          "url": "https://www.tagesschau.de/ausland/europa/island-walfang-gegner-100.html",
-          "summary": "Nach zwei Jahren Pause wird in Island wieder Jagd auf Finnwale gemacht. Gegner versuchten, die Walfänger daran zu hindern. Die Küstenwache stürmte das Schiff der Aktivisten. Nach tagelanger Festsetzung werden sie nun ausgewiesen. Von Jana Sinram.",
+          "title": "Rufe nach einer Bundespräsidentin werden lauter",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-nachfolge-debatte-100.html",
+          "summary": "Im Herbst wollen Union und SPD klären, wen sie für die Nachfolge von Bundespräsident Steinmeier vorschlagen. Die SPD will, dass es erstmals eine Frau wird. Die CDU äußert sich weniger eindeutig. Auch der Name eines Mannes kursiert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1ca9a6ea-5815-4a79-bf1b-facf0c3ed635/AAABn9RosFg/AAABnSSvrFg/16x9-big/island-walfang-schiff-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7d1ba033-1e07-4b7a-993a-3f94e43fbe79/AAABn9WRcWE/AAABnSSvrFg/16x9-big/frank-walter-steinmeier-244.jpg?width=1280"
         },
         {
-          "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
-          "url": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html",
-          "summary": "Studien für Medikamente und Impfstoffe gegen die Bundibugyo-Variante des Ebola-Virus haben begonnen. Gleichzeitig warnt die WHO vor der immer noch rasanten Ausbreitung der Krankheit in der Demokratischen Republik Kongo.",
+          "title": "Marktbericht: DAX-Bilanzflut dürfte den Handelstag bestimmen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-144.html",
+          "summary": "Der DAX bleibt in der Nähe des neuen Rekordstands und dürfte zum Handelsstart zulegen. Allein acht Unternehmen aus dem deutschen Leitindex werden heute ihre Bilanzen vorstellen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7600c771-2a4a-47f9-9166-a33226510b98/AAABn9N-fC8/AAABnSSvrFg/16x9-big/ebola-kongo-196.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/42152e4c-2b1d-4f6e-a48d-9c1adf615e01/AAABnYVt-C0/AAABnSSvrFg/16x9-big/boerse-504.jpg?width=1280"
         },
         {
-          "title": "Drohne am Flughafen Leipzig/Halle: Dobrindt sieht \"hybrides Anschlagsszenario\"",
-          "url": "https://www.tagesschau.de/inland/drohnenvorfall-leipzig-dobrindt-100.html",
-          "summary": "Nach dem Fund einer Drohne mit Sprengstoff am Flughafen Leipzig/Halle zeigen sich die Behörden alarmiert. Bundesinnenminister Dobrindt sprach von einer \"neuen Gefahrenqualität\".",
+          "title": "Warum Landflucht die Waldbrandgefahr erhöhen kann",
+          "url": "https://www.tagesschau.de/wissen/klima/spanien-waldbraende-forschung-100.html",
+          "summary": "Immer wieder brennen Wälder in Spanien - und in diesem Jahr so früh wie selten. Wie lassen sich die Feuer verhindern - und welche Rolle spielt die Abwanderung aus ländlichen Gebieten? Ein EU-Forschungsprojekt sucht Antworten. Von Kai Rüsberg.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5476a5bc-db5d-45ab-ba3f-8640f193e2af/AAABn9NoFOA/AAABnSSvrFg/16x9-big/dobrindt-502.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/27e4e6ab-c316-422e-8cc4-a228446fd13d/AAABn4sngJo/AAABnSSvrFg/16x9-big/feuer-spanien-114.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Vermittler mit Einfluss: Aserbaidschan zwischen Türkei und Israel",
+          "url": "https://www.telepolis.de/article/Vermittler-mit-Einfluss-Aserbaidschan-zwischen-Tuerkei-und-Israel-11398377.html",
+          "summary": "Aserbaidschan navigiert geschickt zwischen Türkei und Israel. Baku gilt als einziger Akteur, dem beide Seiten vertrauen. Aber wie lange noch?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/6/7/0/1/shutterstock_1946588638-32eaf75d178405cf.jpg"
+        },
         {
           "title": "Warum die Linke nicht mehr Liberalismus wagen sollte",
           "url": "https://www.telepolis.de/article/Warum-die-Linke-nicht-mehr-Liberalismus-wagen-sollte-11399530.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/7/4/6/4/Master_Wasser_Frankreich-7103eab616f39de2.jpg"
-        },
-        {
-          "title": "Neue Zahlen: Den USA geht die Munition aus",
-          "url": "https://www.telepolis.de/article/Neue-Zahlen-Den-USA-geht-die-Munition-aus-11399474.html",
-          "summary": "Iran- und Ukraine-Krieg leeren die US-Arsenale. Washington dementiert – doch die Zahlen sprechen eine andere Sprache. Ein Gastbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/7/2/9/8/shutterstock_2492852237-03a99f4f44caaa91.jpg"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "USA: Trump-Regierung plant Millionenhilfe gegen Ebola",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-ebola-afrika-li.3523200",
+          "summary": "Aus der WHO haben die USA sich zurückgezogen, viele Hilfsprogramme wurden gekürzt. Zur Bekämpfung der Epidemie in Afrika kündigt die Regierung nun aber an, weitere 242 Millionen Dollar bereitzustellen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/06/e50f6118-ef5b-4cb7-8f44-c7b94aa5aa2d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C217%2C3500%2C1969"
+        },
         {
           "title": "Flughafen Leipzig/Halle: Dobrindt: „Wettrüsten im Bereich der hybriden Bedrohung“",
           "url": "https://www.sueddeutsche.de/politik/leipzig-flughafen-drohne-sprengstoff-dobrindt-hybrider-anschlag-li.3527093",
@@ -135,15 +143,7 @@
           "summary": "Am Flughafen Leipzig wird neben einem ukrainischen Transportflieger eine Drohne mit Sprengstoff gefunden. Der Innenminister spricht von „professioneller Technik“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/05/c09763b6-172a-44af-a828-52b6eff5e40f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C622%2C3636%2C2045"
-        },
-        {
-          "title": "Krieg in Nahost: Iran: Einigung mit Oman über neue Route durch Straße von Hormus",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-iran-oman-strasse-von-hormus-route-li.3523210",
-          "summary": "Durch das geplante Abkommen will Teheran die Kontrolle über die Schiffe bekommen, die durch die Meerenge in den Golf fahren. Die USA streichen eine Iran nahestehende Fluggesellschaft von der Sanktionsliste.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/05/a3ee26d0-14db-4456-b87b-c72301b293e7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=995%2C564%2C3005%2C1690"
+          "image": "https://www.sueddeutsche.de/2026/08/05/05c80351-0169-4abb-ab53-26fbd4d3f6ee.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C318%2C4000%2C2250"
         }
       ]
     }
