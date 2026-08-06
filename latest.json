@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-05T22:00:10.849Z",
-  "timestamp": "6.8.2026, 00:00:10",
+  "generated": "2026-08-06T02:00:08.677Z",
+  "timestamp": "6.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Island verweist Walfang-Gegner des Landes",
+          "url": "https://www.tagesschau.de/ausland/europa/island-walfang-gegner-100.html",
+          "summary": "Nach zwei Jahren Pause wird in Island wieder Jagd auf Finnwale gemacht. Gegner versuchten, die Walfänger daran zu hindern. Die Küstenwache stürmte das Schiff der Aktivisten. Nach tagelanger Festsetzung werden sie nun ausgewiesen. Von Jana Sinram.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/1ca9a6ea-5815-4a79-bf1b-facf0c3ed635/AAABn9RosFg/AAABnSSvrFg/16x9-big/island-walfang-schiff-100.jpg?width=1280"
+        },
+        {
           "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
           "url": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html",
           "summary": "Studien für Medikamente und Impfstoffe gegen die Bundibugyo-Variante des Ebola-Virus haben begonnen. Gleichzeitig warnt die WHO vor der immer noch rasanten Ausbreitung der Krankheit in der Demokratischen Republik Kongo.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/5476a5bc-db5d-45ab-ba3f-8640f193e2af/AAABn9NoFOA/AAABnSSvrFg/16x9-big/dobrindt-502.jpg?width=1280"
-        },
-        {
-          "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
-          "url": "https://www.tagesschau.de/ausland/asien/nepal-fehlen-us-aid-folgen-100.html",
-          "summary": "Seit US-Präsident Trump das Hilfsprogramm USAID eingestellt hat, zeigen sich weltweit die Folgen. In Nepal fallen dadurch viele HIV-Präventionsprogramme weg. Die Konsequenzen sind in mehrerlei Hinsicht schockierend. Von Lena Bodewein.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/48c249da-f765-41a5-a48d-947176d02a4d/AAABn9JLrUY/AAABnSSvrFg/16x9-big/nepal-arme-gekreuzt-100.jpg?width=1280"
         }
       ]
     },
