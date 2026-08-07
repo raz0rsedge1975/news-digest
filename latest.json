@@ -1,17 +1,25 @@
 {
-  "generated": "2026-08-07T02:00:09.336Z",
-  "timestamp": "7.8.2026, 04:00:09",
+  "generated": "2026-08-07T06:00:08.706Z",
+  "timestamp": "7.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Rentenreform: Österreichs Frühverrentung als Vorbild für Deutschland",
-          "url": "https://www.faz.net/aktuell/wirtschaft/rentenreform-oesterreichs-fruehverrentung-als-vorbild-fuer-deutschland-201099276.html",
-          "summary": "In der SPD gibt es zum Thema Rente mit 63 Sympathien für Österreichs Schwerarbeitspension. Dort spielt sie bislang allerdings kaum eine Rolle.",
+          "title": "Dieter Hallervorden: „Ich brauche in Sachen Sensibilität keine Sprachpolizei“",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/sachsen-anhalt-dieter-hallervorden-ueber-seine-rolle-im-wahlkampf-accg-201095522.html",
+          "summary": "Komödiant Dieter Hallervorden steht CDU-Spitzenkandidat Sven Schulze im Wahlkampf in Sachsen-Anhalt zur Seite. Im Interview erklärt er, warum er das macht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4cff0dcd443b/w3000h1567x0y379o/202308/43600.0.1997213850/an-einem-badesee-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3e2ebe82e5cd/w6144h3210x0y807o/202608/43601.0.2406028289/kein-freund-des-bundeskanzlers.webp"
+        },
+        {
+          "title": "Sachsen-Anhalt: Hallervorden und Schulze denken gar nicht ans Einknicken",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/dieter-hallervorden-und-sven-schulze-trotzen-cdu-kritik-accg-201092379.html",
+          "summary": "Nach einem gemeinsamen Wahlkampfauftritt mit Kritik an Israel und an der Aufrüstung legt Hallervorden nach. CDU-Spitzenkandidat Schulze sagt, ihm gehe es um Meinungsfreiheit.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/5edf00773e7d/w6144h3210x0y652o/202608/43601.0.2399312700/dieter-hallervorden-und-sven.webp"
         },
         {
           "title": "Drohne in Leipzig: „Das kann jeder, der mal einen Lötkolben in der Hand gehalten hat“",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/a821714a15a7/w6144h3210x0y763o/202608/43601.0.2405198141/kriminaltechniker-der-polizei.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Bundesanwaltschaft ermittelt zu Drohnenvorfall in Leipzig",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-bundesanwaltschaft-ermittelt-zu-drohnenvorfall-in-leipzig-faz-110093143.html",
-          "summary": "„Angriff auf die Transport- und Logistikinfrastruktur in Deutschland“ +++ Verkehrsminister Bilger stellt Lkw-Sonntagsfahrverbot infrage +++ Grüne fordern Sitzung des Nationalen Sicherheitsrates +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7b6368c962af/w3606h1884x0y223o/202608/43601.0.2408264889/einsatzkraefte-der-polizei.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ceuta: Jugendliche Geflüchtete kämpfen in Spaniens Exklave ums Überleben",
-          "url": "https://www.spiegel.de/panorama/ceuta-jugendliche-gefluechtete-kaempfen-in-spaniens-exklave-ums-ueberleben-a-b3354ad6-1560-4567-a1a3-dd09b192133e#ref=rss",
-          "summary": "Tausende Kinder und Jugendliche harren in Ceuta aus. Allein, ohne Eltern. Die Mädchen haben ständig Angst vor sexuellen Übergriffen. Und sie wissen nicht, wie es weitergeht.",
+          "title": "Autofahrer in Deutschland lassen den Wagen kaum stehen - trotz hoher Spritpreise",
+          "url": "https://www.spiegel.de/mobilitaet/autofahrer-in-deutschland-lassen-den-wagen-kaum-stehen-trotz-hoher-spritpreise-a-64f1d30e-341e-47c9-920f-876259b70586#ref=rss",
+          "summary": "Seit Monaten hält die Krise an den Tankstellen an. Je normaler Preise um die zwei Euro werden, desto mehr stellt sich die Frage: Benutzen die Deutschen seltener das Auto? Der SPIEGEL hat Daten dazu ausgewertet.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/05b45ac4-c8eb-45bc-a12d-c5daa20196da_w1200_r1.778_fpx63.34_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f3c969da-7b4d-49af-b743-907d96f499d5_w1200_r1.778_fpx46_fpy69.jpg"
         },
         {
-          "title": "Flughafen Leipzig/Halle: Generalbundesanwalt übernimmt Ermittlungen nach Sprengstofffund",
-          "url": "https://www.spiegel.de/panorama/flughafen-leipzig-halle-generalbundesanwalt-uebernimmt-ermittlungen-nach-sprengstofffund-a-1cf3d338-7bc8-4066-ae7a-384ad5e90118#ref=rss",
-          "summary": "Sie war mit dem Plastiksprengstoff Semtex bestückt: Nach SPIEGEL-Informationen wurde ein Teil der in Leipzig gefundenen Drohne inzwischen auf der Tragfläche eines Flugzeugs entdeckt. Dort befinden sich die Treibstofftanks.",
+          "title": "USA: Donald Trump wettert gegen »Geburtstourismus« – und verschärft die Regeln",
+          "url": "https://www.spiegel.de/ausland/donald-trump-usa-verschaerften-regeln-gegen-angeblichen-geburtstourismus-a-db4d461c-c143-4aef-a1f3-1524d777aecc#ref=rss",
+          "summary": "Vor dem Supreme Court war er zuletzt krachend gescheitert. Jetzt startet Donald Trump den nächsten Vorstoß, um die Staatsbürgerschaft bei Geburt einzuschränken. Im Fokus: Schwangere mit Reiseziel USA.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6ae700a5-1a28-4a13-a788-9f307c36446d_w1200_r1.778_fpx56_fpy47.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b009de4f-e6f0-4700-9552-b37070747316_w1200_r1.778_fpx46.64_fpy49.99.jpg"
         },
         {
-          "title": "Rente mit 63: Michael Kretschmer, Sven Schulze und Mario Voigt lehnen sich auf – und widersprechen sich",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-michael-kretschmer-sven-schulze-und-mario-voigt-lehnen-sich-auf-und-widersprechen-sich-a-28bd977a-2a05-4fc7-9340-6e2c40d08402#ref=rss",
-          "summary": "Die abschlagsfreie Rente nach 45 Beitragsjahren soll verschwinden. Vor allem ostdeutsche Länder protestieren. Dabei vertraten die CDU-Ministerpräsidenten noch vor Kurzem das Gegenteil dessen, was sie jetzt sagen.",
+          "title": "News: Sprengstoffdrohne auf Flughafen Leipzig, Niedrigwasser und die Folgen, Kassem Taher Saleh und Depression, Klaus Wowereit im Berliner Wahlkampf",
+          "url": "https://www.spiegel.de/politik/deutschland/news-sprengstoffdrohne-auf-flughafen-leipzig-niedrigwasser-und-die-folgen-kassem-taher-saleh-und-depression-klaus-wowereit-im-berliner-wahlkampf-a-2074f20d-5b8a-45ae-a115-28b224ff799c#ref=rss",
+          "summary": "Deutschlands Abwehr gegen Drohnen schwächelt. Lkw sollen auch sonntags fahren dürfen. Ein Grünenpolitiker spricht offen über Druck und Depression. Das ist die Lage am Freitagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/786e325a-a0e9-4ed5-83b8-40cb0311ef8d_w1200_r1.778_fpx50_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Oman: Gestrandeter Öltanker könnte Umweltkatastrophe verursachen",
-          "url": "https://www.tagesschau.de/ausland/asien/oman-oeltanker-102.html",
-          "summary": "000 Tonnen Rohöl hat der Öltanker \"Caroline Bezengi\" laut Schätzungen geladen. Nun liegt er vor einer omanischen Insel auf Grund. Der riesige Ölteppich, der um das Schiff herum wächst, bereitet Umweltschützern große Sorgen.",
+          "title": "Marktbericht: Anleger vor US-Jobdaten zurückhaltend",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-102.html",
+          "summary": "Vor wichtigen Daten vom US-Arbeitsmarkt möchten die Anleger die Risiken gering halten. Die Vorgaben aus den USA und Japan sind schwach, auch der DAX dürfte zunächst nur wenig weiterkommen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c37e5816-34bd-4482-b1d8-0ece7fbfa058/AAABn9itiQo/AAABnSSvrFg/16x9-big/oman-oeltanker-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/89614d04-fccf-4229-aac5-bf0e60c2d362/AAABnSQoOG8/AAABnSSvrFg/16x9-big/boerse-498.jpg?width=1280"
         },
         {
-          "title": "Flughafen Leipzig/Halle: Bundesanwaltschaft ermittelt zu Sprengstoff-Drohne",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesanwaltschaft-leipzig-100.html",
-          "summary": "Die Bundesanwaltschaft hat im Fall der Drohne am Flughafen Leipzig/Halle die Ermittlungen an sich gezogen. Es handele sich um einen \"schwerwiegenden Angriff auf die Transport- und Logistikinfrastruktur in Deutschland\", hieß es.",
+          "title": "Abrissarbeiten an Bonner Nordbrücke beginnen",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/beginn-abriss-nordbruecke-bonn-100.html",
+          "summary": "In Bonn hat der Teilabriss der stark beschädigten Nordbrücke begonnen. Los gehts mit Abbrucharbeiten an der Vorlandbrücke, die auf der linken Rheinseite auf die Hauptbrücke führt. Die wichtige Ost-West-Verbindung ist seit Juni gesperrt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/01e14bf7-b158-4fac-9831-4029b5655fb2/AAABnkUewKg/AAABnSSvrFg/16x9-big/generalbundesanwalt-130.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1c76c40b-084c-4869-a017-f92bae52f165/AAABn9qUEKY/AAABnSSvrFg/16x9-big/wdr-arbeiter-bereiten-den-abriss-des-ersten-teils-der-vorlandbruecke-vor-100.jpg?width=1280"
         },
         {
-          "title": "US-Arzneimittelbehörde lässt neuen mRNA-Impfstoff gegen Grippe zu",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-mrna-grippe-impfstoff-100.html",
-          "summary": "Pünktlich zur Grippesaison soll es in den USA einen neuen mRNA-Impfstoff von Moderna geben. Es ist die weltweit erste Zulassung eines Grippevakzins mit reiner mRNA-Technologie. Im US-Gesundheitsministerium herrscht jedoch Skepsis.",
+          "title": "Kolumbiens neuer Präsident: Zurück zur harten Linie gegen Banden",
+          "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-amtsantritt-delaespriella-100.html",
+          "summary": "Kolumbiens neuer Präsident de la Espriella will rigoros gegen Drogenhandel und den Kokaanbau vorgehen. Heute tritt er sein Amt an. Bei vielen Kolumbianern weckt das düstere Erinnerungen. Von Marie-Kristin Boese.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/57797e56-fbb0-48b3-9229-67ee4017790d/AAABn9fXtF0/AAABnSSvrFg/16x9-big/fda-122.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c8f34353-df2d-411f-af56-b8e8368c4243/AAABn9ad4xo/AAABnSSvrFg/16x9-big/koka-plantage-102.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Nach Starlink-Blackout: Russlands Rüstungsindustrie entdeckt das Start-up",
+          "url": "https://www.telepolis.de/article/Nach-Starlink-Blackout-Russlands-Ruestungsindustrie-entdeckt-das-Start-up-11400701.html",
+          "summary": "Russlands Militär stand nach dem Starlink-Ausfall vor einem massiven Problem. Private Start-ups sprangen für den Staat ein. Wie weit trägt die Improvisation?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/7/9/2/5/nga.png-2f4f4678d37be983.jpg"
+        },
         {
           "title": "Warum moderne Architektur ihre Bewohner oft im Stich lässt",
           "url": "https://www.telepolis.de/article/Warum-moderne-Architektur-ihre-Bewohner-oft-im-Stich-laesst-11399880.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/7/3/1/2/fluss-80869a2335fcd074.jpg"
-        },
-        {
-          "title": "Causa Ulrich Siegmund – der akademische Dünkel gefährdet die Demokratie",
-          "url": "https://www.telepolis.de/article/Causa-Ulrich-Siegmund-der-akademische-Duenkel-gefaehrdet-die-Demokratie-11400987.html",
-          "summary": "Die Häme über Siegmunds Fernstudium offenbart eine elitäre Doppelmoral. Dabei zeigt ein Blick ins Grundgesetz: Regieren braucht kein Elite-Diplom. Kommentar.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/8/0/6/8/KHA08078-original-1-100315c12a06a20f.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Hitzewelle: Wohnungslosenhilfe warnt vor Gefahren für Obdachlose",
-          "url": "https://www.sueddeutsche.de/panorama/wetter-deutschland-hitze-obdachlose-gesundheit-gefahr-li.3522772",
-          "summary": "Bei hohen Temperaturen brauchen Menschen genug Wasser, Schatten und kühle Räume. Wer keine Wohnung hat, ist der Hitze ausgeliefert - das kann lebensgefährlich sein. Experten fordern deshalb besseren Schutz für Betroffene.",
+          "title": "Krieg in Nahost: Berichte: Saudi-Arabien befürchtet koordinierte Angriffe der Huthi-Miliz",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-saudi-arabien-huthi-jemen-iran-irak-angriffe-geheimdienste-li.3523210",
+          "summary": "An diesem Freitag will der türkische Präsident Erdoğan in Saudi-Arabien Gespräche führen. Währenddessen bereitet sich das Königreich laut Berichten auf koordinierte Attacken irakischer Milizen und der Huthi vor.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/03/d17edbee-d397-4fae-a388-a501373d3688.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C76%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2025/07/07/05e03325-b0fb-4774-b25b-5cd755c0720a.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C130%2C2048%2C1152"
         },
         {
-          "title": "USA: Trump unterzeichnet Dekrete gegen Geburtstourismus",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-geburtstourismus-verfassung-li.3523200",
-          "summary": "Ende Juni machte das Oberste Gericht dem US-Präsidenten einen Strich durch die Rechnung und kippte dessen Dekret zum Geburtsrecht. Jetzt startet Trump einen neuen Versuch.",
+          "title": "Hitzewelle: Städte- und Gemeindebund fordert „nationalen Kraftakt für Wasserversorgung“",
+          "url": "https://www.sueddeutsche.de/panorama/wetter-deutschland-hitze-wassermangel-kommunen-hilfe-li.3522772",
+          "summary": "Die wirtschaftlichen Folgen der Hitze- und Dürreperioden sind laut Verbandspräsident Spiegler „längst Realität“. Das gefährde Wachstum, Arbeitsplätze und Wohlstand. Die Kommunen alleine könnten das Problem nicht lösen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/07/9463f511-4e80-4031-8a41-eb633d643eef.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
+        },
+        {
+          "title": "USA: Trump will erneut US-Geburtsrecht einschränken",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-geburtsrecht-li.3523200",
+          "summary": "Ende Juni machte das Oberste Gericht dem Präsidenten einen Strich durch die Rechnung und kippte dessen Dekret zum Geburtsrecht. Jetzt startet Trump einen neuen Versuch.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/03/566f3388-ac06-4caf-8505-5414f0b34e12.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Anschlagsversuch in Leipzig: Eine neue Dimension der Bedrohung",
-          "url": "https://www.sueddeutsche.de/politik/drohne-leipzig-russland-anschlagsversuch-li.3527285",
-          "summary": "Die Sprengstoffdrohne am Leipziger Flughafen zielte womöglich auf einen Munitionstransport. Der Anschlagsversuch löst eine neue Debatte über die Drohnenabwehr aus. Die wichtigsten Fragen und Antworten.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/06/47c3b40e-69d9-4047-9d1c-a53b844668e3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         }
       ]
     }
