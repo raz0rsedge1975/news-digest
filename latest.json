@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T22:00:08.978Z",
-  "timestamp": "8.8.2026, 00:00:08",
+  "generated": "2026-08-08T02:00:08.245Z",
+  "timestamp": "8.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html",
+          "summary": "OpenAI hat Zweifel an einem seiner neuen Modelle - und bremst nun die interne Entwicklung. Grund sind Sicherheitsbedenken durch \"kritische\" Fähigkeiten von \"Astra\". Cyberangriffe auf hochsichere Ziele könnten möglich sein.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/289efe79-8558-4339-ac02-09c9299759d5/AAABn98MYGU/AAABnSSvrFg/16x9-big/openai-122.jpg?width=1280"
+        },
+        {
+          "title": "Pride-Parade in Prag unter verschärften Sicherheitsvorkehrungen",
+          "url": "https://www.tagesschau.de/ausland/europa/prag-pride-sicherheitsvorkehrungen-100.html",
+          "summary": "Zehntausende queere Menschen wollen heute bei der Prager Pride für ihre Rechte demonstrieren. Doch der Anschlag beim Berliner CSD bewegt die Community im Land. Sicherheitsvorkehrungen wurden verschärft. Von Paul Vorreiter.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/314053ea-5b66-418e-8d0d-851550d7ffed/AAABn97RdG4/AAABnSSvrFg/16x9-big/prague-pride-100.jpg?width=1280"
+        },
+        {
           "title": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
           "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
           "summary": "Als Reaktion auf den Ansturm auf die spanische Exklave Ceuta hatte Italien das Schengen-Abkommen mit Madrid ausgesetzt. Spanien forderte ein Ende - und kündigt nun seinerseits Grenzkontrollen an.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/cc0cfd9e-a410-4ebd-96cf-a00f450e22fe/AAABn93Yqbo/AAABnSSvrFg/16x9-big/ceuta-268.jpg?width=1280"
-        },
-        {
-          "title": "US-Senat beschließt verschärfte Russland-Sanktionen",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-134.html",
-          "summary": "Der US-Senat macht den Weg frei für neue Sanktionen gegen Russland. Das Gesetz ermöglicht unter anderem Strafmaßnahmen gegen die größten Abnehmer von russischem Öl und Gas. Nun muss noch das Repräsentantenhaus darüber abstimmen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cb6a0d6d-138c-483c-8213-5af119835190/AAABn9270F8/AAABnSSvrFg/16x9-big/kapitol-208.jpg?width=1280"
-        },
-        {
-          "title": "Hitzewelle im Gazastreifen: \"Die Zelte sind wie stickige Backöfen\"",
-          "url": "https://www.tagesschau.de/ausland/asien/gaza-hitzewelle-notunterkunft-gesundheitskrise-100.html",
-          "summary": "Hunderttausende Menschen leben noch immer in Notunterkünften in Gaza-Stadt. Krankheiten, Ungeziefer und verunreinigtes Wasser belasten ihre Gesundheit - bei Temperaturen von rund 40 Grad. Von Jörg Poppendieck.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cdd69de5-d174-44e3-b50b-3733193cf3bf/AAABn90esm8/AAABnSSvrFg/16x9-big/zeltlager-gaza-100.jpg?width=1280"
         }
       ]
     },
