@@ -1,10 +1,26 @@
 {
-  "generated": "2026-08-08T02:00:08.245Z",
-  "timestamp": "8.8.2026, 04:00:08",
+  "generated": "2026-08-08T06:00:09.133Z",
+  "timestamp": "8.8.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Krieg in der Ukraine: Wie sich Russlands eingefrorene Milliarden doch noch nutzen ließen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-russlands-eingefrorenes-vermoegen-genutzt-werde-koennte-accg-201093744.html",
+          "summary": "Bald könnte Kiew das Geld ausgehen. Politiker aus Amerika, Deutschland und Frankreich wollen deshalb an Putins Konten – unter ihnen auch Annegret Kramp-Karrenbauer.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/81d38adecdb9/w4680h2445x0y2290o/202608/43601.0.2407536518/banknoten-in-der-kuehltruhe.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Drei Tote bei Luftangriffen auf Vorort von Kiew",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-us-senat-stimmt-sanktionsgesetz-gegen-russland-zu-faz-110683325.html",
+          "summary": "Heftige Explosionen auch in Kiew +++ US-Senat stimmt Sanktionsgesetz gegen Russland zu +++ Fußballstadion in Odessa bei Drohnenangriff beschädigt +++  alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/16ab21a97176/w6144h3210x0y441o/202608/43601.0.2406621102/feuerwehrleute-loeschen-einen.webp"
+        },
         {
           "title": "Krieg in der Ukraine: Der Druck auf die letzten Festungen im Donbass wächst",
           "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-kramatorsk-und-slowjansk-unter-beschuss-201104929.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ef84d203f1cf/w6144h3210x0y365o/202607/43601.0.2368652539/drohnenangriff-ende-juni-in.webp"
-        },
-        {
-          "title": "Tatjana Kim: Ihre Warenlager gehen in Flammen auf",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/wildberries-tatjana-kims-unternehmen-geht-in-flammen-auf-201105243.html",
-          "summary": "Aus dem Nichts hat Tatjana Kim den größten Onlinemarktplatz Russlands aufgebaut. Nun treffen ukrainische Drohnen ihr Unternehmen ins Herz.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/306bbade28a8/w3198h1670x0y248o/202608/43601.0.2410289864/tatjana-kim-die-gruenderin-von.webp"
-        },
-        {
-          "title": "KI in der Justiz: Der peinliche Copy-Paste-Fehler hessischer Richter mit ChatGPT",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/der-peinliche-copy-paste-fehler-hessischer-richter-mit-chatgpt-201105297.html",
-          "summary": "Der hessische Verwaltungsgerichtshof verlässt sich bei offiziellen Beschlüssen auf Künstliche Intelligenz. Die Nutzung fliegt auf, weil die Juristen verräterische Tracking-Links der Software direkt im Text übernommen haben.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ce1507a1301c/w3500h1828x0y252o/202607/43601.0.2382648616/ki-nutzung-in-einer.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Berlin-Wahl 2026: Wird die Hauptstadt bald unregierbar?",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-wahl-2026-wird-die-hauptstadt-bald-unregierbar-a-5ea258c9-23e9-4d35-a548-45c2a28d32c1#ref=rss",
-          "summary": "Linken-Spitzenkandidatin Elif Eralp will nächste Regierende Bürgermeisterin werden. Sie verspricht Enteignung von Immobilienfirmen – für die SPD ein No-go. Platzt Berlins realistischste Regierungsoption noch vor der Wahl?",
+          "title": "Social Media: Kinderärzteverband sieht »gravierendes Elternversagen«",
+          "url": "https://www.spiegel.de/politik/deutschland/social-media-kinderaerzteverband-sieht-gravierendes-elternversagen-a-81527835-bf50-40f0-9a22-74ef67d70fe2#ref=rss",
+          "summary": "Wie kommt es, dass viele Kinder Stunden in sozialen Medien verbringen? Für Kinderärzte-Sprecher Jakob Maske liegt das an der mangelnden Durchsetzungsfähigkeit vieler Eltern. Die Politik fordert er zum Handeln auf.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0dc8a8eb-c2bf-41e7-b9a3-c5d63b1431ce_w1200_r1.778_fpx49_fpy39.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/04abafe7-5a80-4297-95f1-4dbf3cd0399e_w1200_r1.778_fpx32.69_fpy44.99.jpg"
         },
         {
-          "title": "Ceuta-Krise: Spanien führt Grenzkontrollen für Italien ein",
-          "url": "https://www.spiegel.de/ausland/ceuta-krise-spanien-fuehrt-grenzkontrollen-fuer-italien-ein-a-02c12f82-cfc9-4dd6-b40e-32da4c497602#ref=rss",
-          "summary": "Nach der Migrationskrise in Ceuta nahm Italien gegen Spanien gerichtete Grenzkontrollen auf. Madrid hat das erst scharf kritisiert und kündigt nun ebenfalls Kontrollen für Flüge und Schiffe aus Italien an.",
+          "title": "News: Folgen des Drohnen-Vorfalls, Kanzler Friedrich Merz und die Hitze, Männerproblem der Linken",
+          "url": "https://www.spiegel.de/politik/deutschland/news-folgen-des-drohnen-vorfalls-kanzler-friedrich-merz-und-die-hitze-maennerproblem-der-linken-a-2e3dad81-e0dd-4c8a-a27c-8ec3f896192c#ref=rss",
+          "summary": "Der Kanzler hält sich nach dem Drohnenvorfall von Leipzig im Hintergrund. Die Hitze kehrt zurück. Und: Die Linke hat im Osten ein Männerproblem. Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/db75e498-d047-4201-b710-e2f8312fa273_w1200_r1.778_fpx28_fpy68.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Flughafen Leipzig/Halle: Was der Drohnen-Fund für den Bündnisfall bedeutet",
-          "url": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-halle-was-der-drohnen-fund-fuer-den-buendnisfall-bedeutet-a-921cfe92-81c7-431a-b20f-dc918d0957db#ref=rss",
-          "summary": "Die Sprengstoffdrohne am Leipziger Flughafen versetzt Behörden und Politik in Alarmbereitschaft. Kann Deutschland den Bündnisfall ausrufen? Und was macht der Nationale Sicherheitsrat? Der Überblick.",
+          "title": "Pflege - Mangel an Kräften aus Osteuropa: »Wer zu Hause pflegt, wird dafür bestraft«",
+          "url": "https://www.spiegel.de/wirtschaft/pflege-mangel-an-kraeften-aus-osteuropa-wer-zu-hause-pflegt-wird-dafuer-bestraft-a-7a507f61-e857-4765-9660-1af2bb544935#ref=rss",
+          "summary": "Alesja Ehlers vermittelt seit 16 Jahren osteuropäische Pflegehelferinnen in deutsche Haushalte. Es werde schwieriger, Frauen zu finden, die den Rund-um-die-Uhr-Job machen wollen, sagt sie – und blickt sorgenvoll in die Zukunft.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b0d41adc-2e4f-4da0-a0d4-0b040ae248c7_w1200_r1.778_fpx48.62_fpy50.92.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8579df62-d3d7-457c-a141-4f181ddfba31_w1200_r1.778_fpx58_fpy68.jpg"
         }
       ]
     },
@@ -64,9 +64,17 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Restaurants geben reduzierte Mehrwertsteuer kaum weiter",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html",
+          "summary": "Im Januar wurde der Mehrwertsteuersatz auf Speisen in der Gastronomie reduziert. Eine neue Befragung zeigt, dass die große Mehrheit der Betriebe ihre Preise seitdem nicht gesenkt hat. Von David Zajonz.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/0b566a47-7bd2-44e7-835f-1678806f90aa/AAABn9wuZgE/AAABnSSvrFg/16x9-big/rechnung-restaurant-104.jpg?width=1280"
+        },
+        {
           "title": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html",
-          "summary": "OpenAI hat Zweifel an einem seiner neuen Modelle - und bremst nun die interne Entwicklung. Grund sind Sicherheitsbedenken durch \"kritische\" Fähigkeiten von \"Astra\". Cyberangriffe auf hochsichere Ziele könnten möglich sein.",
+          "summary": "OpenAI hat Zweifel an einem seiner neuen Modelle - und pausiert teilweise die interne Entwicklung. Grund sind Sicherheitsbedenken durch \"kritische\" Fähigkeiten von \"Astra\". Cyberangriffe auf hochsichere Ziele könnten möglich sein.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/289efe79-8558-4339-ac02-09c9299759d5/AAABn98MYGU/AAABnSSvrFg/16x9-big/openai-122.jpg?width=1280"
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/314053ea-5b66-418e-8d0d-851550d7ffed/AAABn97RdG4/AAABnSSvrFg/16x9-big/prague-pride-100.jpg?width=1280"
-        },
-        {
-          "title": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
-          "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
-          "summary": "Als Reaktion auf den Ansturm auf die spanische Exklave Ceuta hatte Italien das Schengen-Abkommen mit Madrid ausgesetzt. Spanien forderte ein Ende - und kündigt nun seinerseits Grenzkontrollen an.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cc0cfd9e-a410-4ebd-96cf-a00f450e22fe/AAABn93Yqbo/AAABnSSvrFg/16x9-big/ceuta-268.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Russland: Drohnen-Vorfall in Leipzig ist „zusammengezimmerte Provokation“",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-leipzig-drohne-russland-statement-li.3524928",
-          "summary": "Die russische Botschaft in Berlin weist eine Verwicklung in die Vorgänge von sich und spricht von einer angeblichen Inszenierung, die „ausschließlich den Interessen der Ukraine und des militaristischen Flügels der europäischen politischen Klasse“ diene.",
+          "title": "Krieg in Nahost: Vereinte Nationen warnen vor weiterer Eskalation in Jemen",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-hormus-li.3523210",
+          "summary": "In Jemen eskaliert erneut der Konflikt zwischen Saudi-Arabien und den Huthi-Rebellen. Die UN warnen vor einem neuen Großkonflikt - mit verheerenden Folgen für die jemenitische Bevölkerung.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/07/b3904212-3c9b-4848-ba62-84799ca14f8b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2025/12/31/144db7da-cc8b-4262-90ea-5b3a85642aec.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C72%2C2048%2C1152"
         },
         {
-          "title": "USA: Gericht stoppt Trumps Ballsaal-Bau",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-weisses-haus-ballsaal-li.3523200",
-          "summary": "Über das Projekt müsse der Kongress entscheiden, so die Richter - ein Rückschlag für den Präsidenten. Der hat nun zwei Wochen, den Obersten Gerichtshof anzurufen.",
+          "title": "USA: Richter stoppen den Bau von Trumps Ballsaal",
+          "url": "https://www.sueddeutsche.de/politik/trump-ballsaal-weisses-haus-gericht-li.3528267",
+          "summary": "Ein Berufungsgericht gibt Denkmalschützern recht und verlangt, dass der Kongress über das höchst umstrittene Projekt entscheidet. Der US-Präsident will sich auch in diesem Fall an den Obersten Gerichtshof wenden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/02/5d683393-3469-4a36-a840-c63fde76ab1a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/08/07/a2c78474-3625-4f59-8849-2a4f4096b348.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C274%2C4000%2C2250"
         },
         {
-          "title": "Verteidigung: Neuer Drohnen-Vorfall über Bundeswehrgelände",
-          "url": "https://www.sueddeutsche.de/politik/bundeswehr-drohne-mechernich-li.3528110",
-          "summary": "Über einem der wichtigsten deutschen Militärstützpunkte in Mechernich kreisten offenbar stundenlang unbekannte Riesendrohnen. Wer steckt hinter der Ausspäh-Aktion?",
+          "title": "USA: US-Senat stimmt für Gesetz zu Russland-Sanktionen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-sanktionen-kongress-russland-senat-li.3523200",
+          "summary": "Die Maßnahmen treffen direkt russische Politiker und Firmen; außerdem zielen sie auf russische Öl- und Gas-Exporte. Die Abgeordneten des Repräsentantenhauses müssen dem Gesetz noch zustimmen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/07/f939a93f-1dd1-4fc1-8ec0-bf478b70adf4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C59%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/05/20/41339f94-89e1-4819-ae11-aa644d1a4615.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C79%2C4000%2C2250"
         }
       ]
     }
