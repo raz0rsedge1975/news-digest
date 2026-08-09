@@ -1,10 +1,26 @@
 {
-  "generated": "2026-08-09T02:00:08.735Z",
-  "timestamp": "9.8.2026, 04:00:08",
+  "generated": "2026-08-09T06:00:08.703Z",
+  "timestamp": "9.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Ringen in der EVP: Wie die CDU das europäische Asylrecht schleifen will",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-cdu-das-europaeische-asylrecht-schleifen-will-accg-201084936.html",
+          "summary": "Erstmals ist es der Partei gelungen, radikale Forderungen in einem EVP-Beschluss zu verankern. Doch die treffen auf hohe Hürden – rechtliche und politische.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/47ae721633f5/w3074h1606x0y323o/202003/43600.0.16978415/syrische-fluechtlinge-im-maerz.webp"
+        },
+        {
+          "title": "Übermacht der Tech-Konzerne: Ist die Demokratie verloren oder Europa doch noch zu retten?",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/uebermacht-der-tech-konzerne-wie-europa-doch-noch-zu-retten-ist-accg-201103156.html",
+          "summary": "Ist es angesichts der amerikanischen und chinesischen Dominanz und der autoritären Tendenzen in Wirtschaft und bei der KI zu spät für Europa? Nein, sagt Matteo Lepore, der Bürgermeister von Bologna. Er hat einen Plan, der Europa verändern – und vielleicht sogar retten könnte.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/eeefbe406aa2/w4670h2440x0y530o/202608/43601.0.2408496961/ein-rechenzentrum-im.webp"
+        },
         {
           "title": "Aussteiger und Sinnsucher: So leben Chinas digitale Nomaden",
           "url": "https://www.faz.net/aktuell/politik/ausland/digitale-nomaden-aussteiger-und-sinnsucher-in-china-accg-201090704.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/f5435d6700a2/w3024h1580x0y1583o/202608/43601.0.2407282405/li-xinya-chef-und-gruender-der.webp"
-        },
-        {
-          "title": "Drohender Handelskrieg: Waren wir zu nett zu China?",
-          "url": "https://www.faz.net/aktuell/politik/ausland/chinas-wirtschaftsangriff-ist-deutschland-zu-lieb-zu-china-accg-201093681.html",
-          "summary": "China greift Europas Wirtschaft sehr gezielt und sehr aggressiv an. In Deutschland will man nun umdenken.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/3b4883e682b1/w5712h2984x0y650o/202605/43601.0.2157405063/wirtschaftsministerin.webp"
-        },
-        {
-          "title": "Vermeintliche hintermänner: ARD-Korrespondent Restle postet Verschwörungstheorie",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ard-mann-restle-verbreitet-verschwoerungstheorie-zu-ansturm-auf-ceuta-accg-201107803.html",
-          "summary": "Georg Restle ist seit kurzem Afrika-Korrespondent der ARD. Nun postet er Mutmaßungen zum Migranten-Ansturm auf Ceuta. Belege hat er nicht. Kritiker verweisen auf den dubiosen Kern von Restles vermeintlicher Erklärung.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1bddef857d61/w3428h1791x0y246o/202506/435e4278ec-3fe6-11f0-8366-9ce1424c0355/denkt-er-hat-den-bogen-raus.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Portofino in Italien: Warum zieht der Ort die halbe Welt an?",
-          "url": "https://www.spiegel.de/panorama/portofino-in-italien-warum-zieht-der-ort-die-halbe-welt-an-a-5cc307c1-9183-4f13-845c-63d379017cb1#ref=rss",
-          "summary": "Das ligurische Küstendorf Portofino ist Sehnsuchtsort für Hollywoodprominenz, Influencerinnen und Kreuzfahrtagenturen. Im Sommer kommen täglich Tausende. Wo Schönheit alles ist und alles andere nichts.",
+          "title": "News: KI, Kapitalismus und die Techkonzerne",
+          "url": "https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne-a-48c6f24c-c5c3-41df-9fad-5b63a83ae172#ref=rss",
+          "summary": "Die Techkonzerne treiben den Kapitalismus auf eine neue Stufe. Politiker und Bürger sollten sich gemeinsam dagegen auflehnen. Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c50c00c8-89c8-4b36-9844-ce9ff3cc654a_w1200_r1.778_fpx41_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Flughafen Leipzig/Halle: Sicherheitsexperte kritisiert Zurückhaltung und fordert Gegenmaßnahmen",
@@ -48,15 +48,15 @@
           "summary": "Gegenüber Russland auf Deeskalation zu setzen, sei falsch, kritisiert der ehemalige Nato-Diplomat und BND-Vize Arndt Freytag von Loringhoven. Stattdessen brauche es wirksame Gegenmaßnahmen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f7436b64-6c75-4509-8de2-51de8b0fefff_w1200_r1.778_fpx70.2_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c31b2dbc-a662-4083-a428-2bcabdcc0a28_w1200_r1.778_fpx45_fpy37.jpg"
         },
         {
-          "title": "Thorsten Frei: CDU-Spitze will in Sachsen-Anhalt auf Kooperationsverbot mit AfD beharren",
-          "url": "https://www.spiegel.de/politik/thorsten-frei-cdu-spitze-will-in-sachsen-anhalt-auf-kooperationsverbot-mit-afd-beharren-a-09f32bad-ec81-4790-b3f9-36a879d52fde#ref=rss",
-          "summary": "Bei der Landtagswahl in Sachsen-Anhalt könnte die AfD eine deutliche Mehrheit einfahren. Für Unionsfraktionschef Thorsten Frei ist eine Koalition mit seiner Partei ausgeschlossen.",
+          "title": "SPD - Peter Tschentscher: Schwarz-rote Steuerpolitik führt in die Sackgasse",
+          "url": "https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse-a-eb2cc2ab-8e6b-4e31-aa17-2425a773ccbc#ref=rss",
+          "summary": "In einer Welt, »in der Trump, Putin und Chinesen aufeinander losgehen«, kann man nicht mehr auf stabile Zeiten hoffen, sagt Peter Tschentscher. Der SPD-Politiker aus Hamburg hadert mit Finanzpolitik der Merz-Regierung.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0f09f3ec-4419-42bd-9fb2-ea2e6d60b434_w1200_r1.778_fpx48_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e6d7187a-8bde-481f-84cd-7ce891b2120b_w1200_r1.778_fpx48_fpy44.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Niedrigwasser: Was die Lockerung des Lkw-Fahrverbots bedeutet",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/faq-lockerung-lkw-fahrverbot-100.html",
-          "summary": "Das Niedrigwasser schränkt den Güterverkehr in Deutschland derzeit massiv ein. Lkw sollen Abhilfe schaffen - deshalb lockern einige Bundesländer nun das Sonntagsfahrverbot. Welche Regeln gelten ab heute? Und warum gibt es Kritik?",
+          "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
+          "summary": "Der neue Verkehrsminister Bilger erhöht den Druck auf die Bahnspitze. Erfüllt der Konzern Ziele wie die Pünktlichkeitsquoten nicht, soll sich das einem Medienbericht zufolge auf die Gehälter von Bahnmanagern auswirken.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8210d0dc-059e-461e-a82d-8f2371a7b62a/AAABn-QBb6I/AAABnSSvrFg/16x9-big/lkw-rastplatz-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fcfde618-db30-4e38-b178-0ff6ce79d572/AAABn-TJwno/AAABnSSvrFg/16x9-big/bilger-130.jpg?width=1280"
         },
         {
-          "title": "Paris führt Helmpflicht für E-Roller-Fahrer ein",
-          "url": "https://www.tagesschau.de/ausland/europa/helmpflicht-scooter-paris-100.html",
-          "summary": "Vor allem in Großstädten flitzen Menschen gerne mit E-Rollern durch die Straßen. Doch die Zahl schwerer Unfälle mit den Fahrzeugen steigt. Die Pariser Verwaltung schreibt ab sofort das Tragen von Schutzausrüstung vor.",
+          "title": "Wie sich Krankenhäuser auf Demenz-Patienten einstellen",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/demenz-krankenhaus-100.html",
+          "summary": "Menschen mit Demenz brauchen zur Orientierung Gewohnheiten und eine stabile Umgebung. Erste Krankenhäuser versuchen, diese Patienten gezielt mit Ruhe und Regelmäßigkeit besser zu umsorgen. Von Marcel Trocoli Castro und Andre Kartschall.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9c261d90-eeb3-4612-b847-9bf3a4b8a729/AAABn-LjXhA/AAABnSSvrFg/16x9-big/arc-de-triomphe-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3bd01e08-93df-40a2-80e0-1e603bf8037d/AAABn9umUZw/AAABnSSvrFg/16x9-big/demenzsensibles-krankenhaus-100.jpg?width=1280"
         },
         {
-          "title": "Mutmaßlich ukrainische Drohne explodiert in Bulgarien",
-          "url": "https://www.tagesschau.de/ausland/europa/drohne-bulgarien-100.html",
-          "summary": "In Bulgarien ist eine Drohne explodiert. Dabei handele es sich um einen häufig von der Ukraine verwendeten Typen, so Bulgariens Regierung. Von Absicht gehe man nicht aus - Kiew erklärte sich zur Aufklärung bereit.",
+          "title": "Dobrindt will nach Drohnen-Vorfall Forschung ausbauen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-zentrum-drohnenabwehr-100.html",
+          "summary": "Der Fund am Flughafen Leipzig/Halle hat eine Debatte über die Drohnenabwehr ausgelöst. Innenminister Dobrindt will diese laut einem Bericht mit einem neuen Forschungszentrum stärken. Deutschland sieht er täglich als Ziel hybrider Kriegsführung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/76b6df0e-c4e2-4108-b04b-6a5bdd3f37df/AAABn-LtGc4/AAABnSSvrFg/16x9-big/bulgarien-262.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/de678d76-9020-447d-8315-855f6ee6fd99/AAABn-R03eM/AAABnSSvrFg/16x9-big/dobrindt-510.jpg?width=1280"
         }
       ]
     },
@@ -124,10 +124,10 @@
         {
           "title": "Bundespolitik: Verkehrsminister will Bonus-Zahlungen an Bahn-Ziele koppeln",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-union-afd-sachsen-anhalt-kooperation-verbot-li.3516334",
-          "summary": "Die Pünktlichkeitskrise bei der Bahn hält an - und Verkehrsminister Bilger will dem mit Konsequenzen bei Vorstandsgehältern begegnen. Vollständige Pünktlichkeit hält er allerdings für unrealistisch.",
+          "summary": "Die Pünktlichkeitskrise bei der Bahn hält an. Verkehrsminister Bilger will dem mit Konsequenzen bei Vorstandsgehältern begegnen. Vollständige Pünktlichkeit hält er allerdings für unrealistisch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/08/dbcad8bd-7973-44b8-84e4-4e55d05df462.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C91%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/08/08/dbcad8bd-7973-44b8-84e4-4e55d05df462.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=215%2C332%2C1399%2C787"
         },
         {
           "title": "Krieg in der Ukraine: Mutmaßlich ukrainische Drohne explodiert nahe Gas-Pipeline in Bulgarien",
