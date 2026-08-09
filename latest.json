@@ -1,39 +1,47 @@
 {
-  "generated": "2026-08-09T06:00:08.703Z",
-  "timestamp": "9.8.2026, 08:00:08",
+  "generated": "2026-08-09T10:00:09.452Z",
+  "timestamp": "9.8.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Ringen in der EVP: Wie die CDU das europäische Asylrecht schleifen will",
-          "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-cdu-das-europaeische-asylrecht-schleifen-will-accg-201084936.html",
-          "summary": "Erstmals ist es der Partei gelungen, radikale Forderungen in einem EVP-Beschluss zu verankern. Doch die treffen auf hohe Hürden – rechtliche und politische.",
+          "title": "Besuch bei Amischen: Mit der Kutsche in die Zukunft",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-amischen-in-ohio-leben-accg-201069619.html",
+          "summary": "Eine amische Familie führt in Ohio ein hochmodernes Unternehmen. Ein einfaches Leben und technologischer Fortschritt sind für sie kein Gegensatz – zumindest in diesem Fall.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/47ae721633f5/w3074h1606x0y323o/202003/43600.0.16978415/syrische-fluechtlinge-im-maerz.webp"
+          "image": "https://media0.faz.net/image/w1200h627/17a90892626d/w5473h2859x0y313o/202607/43601.0.2382935102/amische-in-holmes-county-im.webp"
         },
         {
-          "title": "Übermacht der Tech-Konzerne: Ist die Demokratie verloren oder Europa doch noch zu retten?",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/uebermacht-der-tech-konzerne-wie-europa-doch-noch-zu-retten-ist-accg-201103156.html",
-          "summary": "Ist es angesichts der amerikanischen und chinesischen Dominanz und der autoritären Tendenzen in Wirtschaft und bei der KI zu spät für Europa? Nein, sagt Matteo Lepore, der Bürgermeister von Bologna. Er hat einen Plan, der Europa verändern – und vielleicht sogar retten könnte.",
+          "title": "Nicht nur „Kakerlaken“: Warum Asiens Jugend so viel optimistischer und selbstbewusster ist",
+          "url": "https://www.faz.net/aktuell/politik/ausland/kakerlaken-proteste-suedasiens-jugend-im-aufbruch-201099770.html",
+          "summary": "Im fernen Süden Asiens rebelliert die Jugend. Die Gen Z hat sich entschlossen zu kämpfen. Das ist auch für uns relevant.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/eeefbe406aa2/w4670h2440x0y530o/202608/43601.0.2408496961/ein-rechenzentrum-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b6313b26e79a/w4944h2583x0y397o/202607/43601.0.2365992436/kakerlaken-mit-ihrem-protest.webp"
         },
         {
-          "title": "Aussteiger und Sinnsucher: So leben Chinas digitale Nomaden",
-          "url": "https://www.faz.net/aktuell/politik/ausland/digitale-nomaden-aussteiger-und-sinnsucher-in-china-accg-201090704.html",
-          "summary": "In China entstehen immer mehr Kommunen für junge Aussteiger, Arbeitslose oder Sinnsucher. Viele wollen dem Leben der Massenstädte entfliehen. Oder müssen es.",
+          "title": "Wirtschaftsgeschichte: Der Wohlstand der Deutschen ist trügerisch",
+          "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/der-wohlstand-der-deutschen-ist-truegerisch-accg-201089595.html",
+          "summary": "Sie begann mit dem Fall der Mauer und dem Traum vom Ende der Geschichte. Es folgten Triumphe der Industrie, Anfälle von „German Angst“ und ein geopolitischer Blindflug. Der Wirtschaftshistoriker Hartmut Berghoff zieht eine erste Bilanz.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f5435d6700a2/w3024h1580x0y1583o/202608/43601.0.2407282405/li-xinya-chef-und-gruender-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/29217b7498e8/w6144h3210x0y594o/202607/43601.0.2382101750/das-ludwigshafener-werk-der.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "»Prosa« von Tony Tulathimutte: Verstörende Antwort auf das digitale Begehren",
+          "url": "https://www.spiegel.de/kultur/literatur/prosa-von-tony-tulathimutte-verstoerende-antwort-auf-das-digitale-begehren-a-3767aa4b-1c31-4884-88aa-31c286caf45f#ref=rss",
+          "summary": "Man will beim Lesen in ein Glas beißen, damit die Splitter den Mund aufschürfen und man sich anschließend am eigenen Blut verschluckt: Tony Tulathimutte hat das wohl verstörendste Buch geschrieben, das man zurzeit lesen kann.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ec7eeca2-e460-49a7-88e6-613f953ba69b_w1200_r1.778_fpx48_fpy51.jpg"
+        },
         {
           "title": "News: KI, Kapitalismus und die Techkonzerne",
           "url": "https://www.spiegel.de/politik/deutschland/news-ki-kapitalismus-und-die-techkonzerne-a-48c6f24c-c5c3-41df-9fad-5b63a83ae172#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Flughafen Leipzig/Halle: Sicherheitsexperte kritisiert Zurückhaltung und fordert Gegenmaßnahmen",
+          "title": "Bedrohung durch Russland: Ex-BND-Vize fordert wirksame Gegenmaßnahmen",
           "url": "https://www.spiegel.de/politik/deutschland/flughafen-leipzig-halle-sicherheitsexperte-kritisiert-zurueckhaltung-und-fordert-gegenmassnahmen-a-c3b95ea5-698e-47c4-8d0c-f5c4ab2c3e82#ref=rss",
           "summary": "Gegenüber Russland auf Deeskalation zu setzen, sei falsch, kritisiert der ehemalige Nato-Diplomat und BND-Vize Arndt Freytag von Loringhoven. Stattdessen brauche es wirksame Gegenmaßnahmen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c31b2dbc-a662-4083-a428-2bcabdcc0a28_w1200_r1.778_fpx45_fpy37.jpg"
-        },
-        {
-          "title": "SPD - Peter Tschentscher: Schwarz-rote Steuerpolitik führt in die Sackgasse",
-          "url": "https://www.spiegel.de/politik/spd-peter-tschentscher-schwarz-rote-steuerpolitik-fuehrt-in-die-sackgasse-a-eb2cc2ab-8e6b-4e31-aa17-2425a773ccbc#ref=rss",
-          "summary": "In einer Welt, »in der Trump, Putin und Chinesen aufeinander losgehen«, kann man nicht mehr auf stabile Zeiten hoffen, sagt Peter Tschentscher. Der SPD-Politiker aus Hamburg hadert mit Finanzpolitik der Merz-Regierung.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e6d7187a-8bde-481f-84cd-7ce891b2120b_w1200_r1.778_fpx48_fpy44.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
-          "summary": "Der neue Verkehrsminister Bilger erhöht den Druck auf die Bahnspitze. Erfüllt der Konzern Ziele wie die Pünktlichkeitsquoten nicht, soll sich das einem Medienbericht zufolge auf die Gehälter von Bahnmanagern auswirken.",
+          "title": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html",
+          "summary": "Russische Angriffe in der Nacht, etwa auf die Hafenstadt Odessa, offenbaren erneut die Schwäche der ukrainischen Flugabwehr. Nach gegenseitigen Attacken werden auf beiden Seiten Tote gemeldet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fcfde618-db30-4e38-b178-0ff6ce79d572/AAABn-TJwno/AAABnSSvrFg/16x9-big/bilger-130.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/cc64190c-ce4a-4922-9405-617b5627cd25/AAABn-XRjYQ/AAABnSSvrFg/16x9-big/odessa-luftangriff-102.jpg?width=1280"
         },
         {
-          "title": "Wie sich Krankenhäuser auf Demenz-Patienten einstellen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/demenz-krankenhaus-100.html",
-          "summary": "Menschen mit Demenz brauchen zur Orientierung Gewohnheiten und eine stabile Umgebung. Erste Krankenhäuser versuchen, diese Patienten gezielt mit Ruhe und Regelmäßigkeit besser zu umsorgen. Von Marcel Trocoli Castro und Andre Kartschall.",
+          "title": "Brasilien: Abholzung im Amazonas auf Zehnjahrestief",
+          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-zehnjahrestief-100.html",
+          "summary": "Im brasilianischen Amazonasgebiet ist die Abholzung deutlich zurückgegangen. Präsident Lula bezeichnet die Entwicklung als \"fantastisch\". Bis 2030 will er die Entwaldung vollständig stoppen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3bd01e08-93df-40a2-80e0-1e603bf8037d/AAABn9umUZw/AAABnSSvrFg/16x9-big/demenzsensibles-krankenhaus-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bfd950c4-af71-414b-ac84-9120b1ea3c14/AAABn-Vd3CQ/AAABnSSvrFg/16x9-big/amazonas-162.jpg?width=1280"
         },
         {
-          "title": "Dobrindt will nach Drohnen-Vorfall Forschung ausbauen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-zentrum-drohnenabwehr-100.html",
-          "summary": "Der Fund am Flughafen Leipzig/Halle hat eine Debatte über die Drohnenabwehr ausgelöst. Innenminister Dobrindt will diese laut einem Bericht mit einem neuen Forschungszentrum stärken. Deutschland sieht er täglich als Ziel hybrider Kriegsführung.",
+          "title": "Straße von Hormus: Iran pocht auf Zugeständnisse der USA",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-forderungen-strasse-von-hormus-100.html",
+          "summary": "Iran und Oman haben sich bei den Verhandlungen über die Straße von Hormus offenbar angenähert. Doch zugleich stellt Teheran gegenüber Washington Maximalforderungen, die für die USA inakzeptabel sein dürften.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/de678d76-9020-447d-8315-855f6ee6fd99/AAABn-R03eM/AAABnSSvrFg/16x9-big/dobrindt-510.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/237fad6d-12d1-47f9-8ada-d2c66ca2f99b/AAABn-U-FGo/AAABnSSvrFg/16x9-big/araghtschi-150.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Anklage in Griechenland: Lösten fehlerhafte Stromnetz-Installationen Brände aus?",
+          "url": "https://www.telepolis.de/article/Anklage-in-Griechenland-Loesten-fehlerhafte-Stromnetz-Installationen-Braende-aus-11400554.html",
+          "summary": "Nicht die Windräder oder Solaranlagen, sondern fehlerhafte Kabel einer Zuleitung lösten Brände aus. Griechische Ermittler nahmen nun die Verantwortlichen fest.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/7/8/4/8/streichho__lzer2-waldbrand-56912a06cbb030ad.jpg"
+        },
+        {
+          "title": "Deutschland, die neue Drogenfabrik Europas",
+          "url": "https://www.telepolis.de/article/Deutschland-die-neue-Drogenfabrik-Europas-11398415.html",
+          "summary": "Warum Kartelle ihre Lieferketten immer stärker an Rhein und Ruhr verlagern und wie Deutschland zu ihrem Dienstleister wird. Eine Analyse.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/6/7/2/0/shutterstock_2344896683-efef79a1fc98dc09.jpg"
+        },
+        {
           "title": "\"Sollen sie doch Burritos essen\": Wie US-Hardliner den Realitätsbezug verlieren",
           "url": "https://www.telepolis.de/article/Sollen-sie-doch-Burritos-essen-Wie-US-Hardliner-den-Realitaetsbezug-verlieren-11403966.html",
           "summary": "Während die Inflation steigt, fordern US-Hardliner härtere Opfer von der Bevölkerung. Die Wähler könnten das bei den Zwischenwahlen quittieren. Ein Gastbeitrag.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/9/9/8/8/shutterstock_2755273993-7b59bfbdf3d355d2.jpg"
-        },
-        {
-          "title": "BYD bringt humanoiden Roboter Xiao Di in Autohäuser",
-          "url": "https://www.telepolis.de/article/BYD-bringt-humanoiden-Roboter-Xiao-Di-in-Autohaeuser-11398549.html",
-          "summary": "Der chinesische Elektroautoriese BYD bringt diesen Monat seinen ersten humanoiden Roboter auf den Markt. Die USA reagieren mit einem Importverbot.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/6/7/8/7/shutterstock_2657853351-d0109f90f20e88b6.jpg"
-        },
-        {
-          "title": "Der Fluch des Ingenieurs Tulla: Wie die Rheinkorrektur bis heute nachwirkt",
-          "url": "https://www.telepolis.de/article/Der-Fluch-des-Ingenieurs-Tulla-Wie-die-Rheinkorrektur-bis-heute-nachwirkt-11400851.html",
-          "summary": "Flussbegradigungen galten als Fortschritt: mehr Ackerland, weniger Hochwasser. Doch der Rhein zeigt, welchen Preis die Natur dafür zahlt. Es gibt Alternativen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/8/0/0/0/lineal-fluss-8fc734c2fbe05d92.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Iran: USA müssen auf unsere Forderungen eingehen",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-oman-hormus-usa-li.3523210",
+          "summary": "Im Konflikt um die Straße von Hormus sollten sich die USA aus Verhandlungen zwischen Iran und Oman heraushalten, fordert ein Sprecher der iranischen Revolutionsgarde.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/08/72c506a2-ddee-4628-8a78-69f13db4184e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C375%2C4000%2C2250"
+        },
+        {
+          "title": "Leute: Die Nicht-Hochzeit des Jahres",
+          "url": "https://www.sueddeutsche.de/panorama/cristiano-ronaldo-georgina-angebliche-hochzeit-madeira-geruecht-anderes-brautpaar-li.3528612",
+          "summary": "Zur angeblichen Trauung von Cristiano Ronaldo und Georgina Rodríguez auf Madeira kommen Hunderte Fans und Reporter – doch dann heiratet ein ganz anderes Paar. Diane Keatons Geist erscheint in Form eines Weißkopfseeadlers. Und Toni Garrn hat ihren Frust mit Eis bekämpft.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/09/9f957dcf-312a-4881-8269-b483b0308a7f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C193%2C4000%2C2250"
+        },
+        {
           "title": "Bundespolitik: Verkehrsminister will Bonus-Zahlungen an Bahn-Ziele koppeln",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-union-afd-sachsen-anhalt-kooperation-verbot-li.3516334",
           "summary": "Die Pünktlichkeitskrise bei der Bahn hält an. Verkehrsminister Bilger will dem mit Konsequenzen bei Vorstandsgehältern begegnen. Vollständige Pünktlichkeit hält er allerdings für unrealistisch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/08/dbcad8bd-7973-44b8-84e4-4e55d05df462.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=215%2C332%2C1399%2C787"
-        },
-        {
-          "title": "Krieg in der Ukraine: Mutmaßlich ukrainische Drohne explodiert nahe Gas-Pipeline in Bulgarien",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-bulgarien-explosion-rumaenien-li.3524928",
-          "summary": "„Erheblich“ mit Sprengstoff beladen: Das bulgarische Verteidigungsministerium vermutet eine ukrainische Köderdrohne, geht aber nicht von einem absichtlichen Eindringen aus. Verletzt wird niemand.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/08/96e722fa-357f-4337-92c6-decec4c36773.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C239%2C4000%2C2250"
-        },
-        {
-          "title": "Sebastian Fitzek: Eine schockierend liebe Show",
-          "url": "https://www.sueddeutsche.de/kultur/sebastian-fitzek-20-jahre-autor-waldbuehne-show-berlin-li.3525007",
-          "summary": "Der Thriller-Autor Sebastian Fitzek macht zu seinem Autorenjubiläum zweimal die Berliner Waldbühne voll. Beim Zuschauen bekommt man eine Ahnung, wie er so unwahrscheinlich erfolgreich werden konnte.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/08/ddd59dd1-f12a-49bb-95f5-550b3de0c3d5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C416%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/08/dbcad8bd-7973-44b8-84e4-4e55d05df462.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C2048%2C1152"
         }
       ]
     }
