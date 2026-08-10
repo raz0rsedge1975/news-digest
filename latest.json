@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-10T10:00:08.981Z",
-  "timestamp": "10.8.2026, 12:00:08",
+  "generated": "2026-08-10T14:00:09.133Z",
+  "timestamp": "10.8.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Europäische Souveränität: Ohne Google und ChatGPT – geht das überhaupt?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/ohne-openai-google-und-andere-us-software-geht-das-accg-201051737.html",
+          "summary": "Amerikanische Hardware und Software sind überall. Dabei gibt es längst europäische Alternativen. Wie gelingt die Technik-Flucht? Ein Erfahrungsbericht.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/6cd015ea0585/w5007h2616x0y622o/202608/43601.0.2419041621/geht-doch-sich-von.webp"
+        },
+        {
           "title": "Technologie: Neun Beispiele für den deutschen KI-Boom",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutscher-ki-boom-wie-firmen-vom-hype-profitieren-accg-201069833.html",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-boom-in-deutschland-so-profitieren-die-firmen-vom-hype-accg-201069833.html",
           "summary": "Beim Thema Künstliche Intelligenz geben Amerika und Asien den Ton an. Aber deutsche Unternehmen machen den Boom erst möglich.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/14453d1f132e/w1669h872x0y809o/202301/43600.0.1393633729/das-unternehmen-rittal-baut.webp"
         },
         {
-          "title": "Umbau beim Versicherer: Das große KI-Experiment der Allianz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-grosse-ki-experiment-der-allianz-accg-201094131.html",
-          "summary": "Der Versicherer wird zum Testfall dafür, was Künstliche Intelligenz mit unseren Jobs macht. Sie soll Arbeit erleichtern und neue Geschäfte ermöglichen. Zugleich wächst die Sorge um die Arbeitsplätze.",
+          "title": "Niedrigwasser in Flüssen: Eine Unterbrechung könnte „überproportionale Folgen“ haben",
+          "url": "https://www.faz.net/aktuell/wirtschaft/niedrigwasser-im-rhein-was-kann-die-politik-tun-kurzfristig-nichts-accg-201111294.html",
+          "summary": "Ökonomen befürchten größere wirtschaftliche Schäden durch das Niedrigwasser in den Flüssen. Sollte die Bundeswehr Lkw-Fahrer abstellen? Auch darauf haben sie eine Antwort.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/3d1e8bf25c9c/w2260h1180x0y45o/202511/43601.0.1493149507/ein-mann-mit-aktentasche-geht.webp"
-        },
-        {
-          "title": "Plan des Digitalministers: So soll Künstliche Intelligenz nun Deutschland digitalisieren",
-          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wildbergers-plan-wie-die-ki-deutschland-digitalisiert-accg-201108838.html",
-          "summary": "Bei der Digitalisierung liefert Deutschland im internationalen Vergleich ein beschämendes Bild ab. Minister Karsten Wildberger setzt nun im großen Stil auf KI. Dabei ziehen sogar die Kommunen mit.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/ceb9c85ad67c/w6144h3210x0y447o/202607/43601.0.2305338480/karsten-wildberger-vor-einer.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3c2d4dc62907/w5926h3096x0y130o/202608/43601.0.2415730234/ein-lkw-passiert-die.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Europa-Park: Wie Michael Mack sich als Filmproduzent und Technikfan profiliert",
+          "url": "https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss",
+          "summary": "Mit 47 ist Michael Mack in Deutschlands größtem Freizeitpark noch immer Juniorchef, obwohl es im Europa-Park längst Zeit für die nächste Generation wäre. Der Technikfan steht unter Druck und verfolgt gleich drei Missionen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8ccce660-9bb1-4aa0-9e8b-6bb03a03108c_w1200_r1.778_fpx38_fpy36.jpg"
+        },
+        {
+          "title": "SPD: Parteibasis drängt auf Sonderparteitag für neue Führung",
+          "url": "https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung-a-db564856-3fda-4038-b513-440f3110b10a#ref=rss",
+          "summary": "Seit Tagen brodelt es an der SPD-Basis, nun fordern die ersten Genossen Konsequenzen: Die AG Migration und Vielfalt schlägt einen Sonderparteitag vor, um die Spitze neu aufzustellen. Die aktuelle Führung sei gescheitert.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/3733cff5-668f-4196-ab6f-43ecc53ff04e_w1200_r1.778_fpx33.06_fpy55.jpg"
+        },
+        {
           "title": "Fluss-Kreuzfahrt auf Rhein oder Donau: Was geht noch bei Niedrigwasser?",
           "url": "https://www.spiegel.de/wirtschaft/fluss-kreuzfahrt-auf-rhein-oder-donau-was-geht-noch-bei-niedrigwasser-a-4502077c-e626-4dd5-801b-13939d66e33a#ref=rss",
           "summary": "Auf Donau und Rhein stecken Kreuzfahrtschiffe fest, Reedereien sagen Fahrten ab oder ändern die Route: Tausche Budapest gegen Marl. Was macht es mit der Branche, dass solche Sommer zum Normalfall werden könnten?",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/e057fa72-baeb-4a48-b0fa-07a905b87938_w1200_r1.778_fpx52_fpy50.jpg"
-        },
-        {
-          "title": "Russland im Schattenkrieg mit Deutschland: Hybride Angriffe und AfD-Reaktionen",
-          "url": "https://www.spiegel.de/politik/russland-im-schattenkrieg-mit-deutschland-hybride-angriffe-und-afd-reaktionen-a-cc190e93-edbc-403a-885b-62c1ed6a594b#ref=rss",
-          "summary": "Wir müssen unsere Infrastruktur gegen Angriffe aus Russland schützen. Aber die Auseinandersetzung mit Moskaus hybrider Kriegsführung muss vor allem nach innen wirken.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f73ddf18-0b98-4352-95f6-66009088b962_w1200_r1.778_fpx68.67_fpy55.jpg"
-        },
-        {
-          "title": "Ukraine-Krieg: Russland meldete mehrere Tote bei ukrainischem Drohnenangriff",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-meldete-mehrere-tote-bei-ukrainischem-drohnenangriff-a-afb23f6b-2878-4009-b901-90b3f54cdcb1#ref=rss",
-          "summary": "Es ist einer der wohl schwersten Gegenangriffe der Ukraine seit Kriegsbeginn: Bei einer Drohnenattacke auf die zentralrussische Region Tatarstan gibt es russischen Angaben zufolge zwölf Tote und Dutzende Verletzte.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7cd93905-2e45-4384-b61a-a0bd4f50c738_w1200_r1.778_fpx29.99_fpy54.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Anteil junger Menschen in Deutschland bleibt historisch niedrig",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/anteil-junger-menschen-100.html",
-          "summary": "Deutschland verliert seine Jugend: Der Anteil junger Menschen bleibt auf einem historisch niedrigen Niveau. Das zeigen Daten des Statistischen Bundesamtes. Besonders in Ostdeutschland fehlen junge Leute.",
+          "title": "Gold ist wieder gefragt: Zehn Prozent über Jahrestiefstpreis",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-zinsen-goldpreis-100.html",
+          "summary": "Am Rohstoffmarkt fällt der Goldpreis mit einer deutlichen Erholung auf. Das hat vor allem mit den Zinserwartungen zu tun. Daneben zeichnen sich aber auch andere Kurstreiber ab. Von Detlev Landmesser.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2fcbd9d7-fce2-4108-a576-0ebc345d9366/AAABn-rj5HI/AAABnSSvrFg/16x9-big/jugendliche-210.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/064c0c4f-d3cb-4dee-a115-6cd5ecaa8f9e/AAABn-r5ysc/AAABnSSvrFg/16x9-big/gold-178.jpg?width=1280"
         },
         {
-          "title": "Auch Bilger will Drohnenabwehr an deutschen Flughäfen verbessern",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-bilger-100.html",
-          "summary": "Seit dem Drohnenvorfall in Leipzig wird über bessere Sicherheitsmaßnahmen an deutschen Flughäfen diskutiert. Der Bundesverkehrsminister will nun bei der Abwehr nachbessern - andere plädieren für Bundeswehreinsätze auch im Innern.",
+          "title": "Klingbeils Steuerpläne stoßen auf Kritik - auch aus der Union",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-klingbeil-kritik-100.html",
+          "summary": "Mit der geplanten Steuerreform will Finanzminister Klingbeil Menschen mit kleinen und mittleren Einkommen entlasten. Doch sein erster Entwurf, der bereits in Berlin kursiert, sorgt für scharfe Kritik - auch vom Koalitionspartner.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4c988c97-2f20-4d9e-99b4-9912abfc05ab/AAABn-rE3u4/AAABnSSvrFg/16x9-big/jaegerdrohne-flughafen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/94666787-f810-46d8-92fe-09136122eb0f/AAABn-ssTVA/AAABnSSvrFg/16x9-big/klingbeil-378.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX rückt vorsichtig vor",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html",
-          "summary": "Nach der vergangenen Rekordrally könnte in dieser Woche wieder der Alltag an der Frankfurter Börse einkehren. Der DAX bleibt aber in der Nähe des Rekordhochs. Geld- und Geopolitik werden die Kurse bestimmen.",
+          "title": "Europas aktivster Vulkan Ätna spuckt wieder Asche und Lava",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-ausbruch-vulkan-aetna-100.html",
+          "summary": "Erneut ist der Ätna ausgebrochen, Europas aktivster Vulkan. Der Flugverkehr auf der beliebten italienischen Ferieninsel Sizilien wurde zeitweise eingeschränkt. Noch immer gilt die Warnstufe Rot.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/372e5590-5cc9-45c9-bc73-827d84fc5669/AAABm5K-XzA/AAABnSSvrFg/16x9-big/boerse-474.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b8dd80ff-49c0-49a1-9088-72fc7f277733/AAABn-toTvk/AAABnSSvrFg/16x9-big/aschewolke-aetna-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "KI-Singularität: Ist der OpenAI-Hack nur ein Marketing-Trick?",
-          "url": "https://www.telepolis.de/article/KI-Singularitaet-Ist-der-OpenAI-Hack-nur-ein-Marketing-Trick-11403448.html",
-          "summary": "Nach einem autonomen ChatGPT-Ausbruch bei einem Test warnt OpenAI vor Kontrollverlust. Fachleute betonen dagegen die Bedeutung menschlicher Arbeit.",
+          "title": "Chinas Steuerjagd: Warum Peking jetzt Konten reicher Bürger einfrieren lässt",
+          "url": "https://www.telepolis.de/article/Chinas-Steuerjagd-Warum-Peking-jetzt-Konten-reicher-Buerger-einfrieren-laesst-11404198.html",
+          "summary": "Wegen leerer Kassen fordert China Steuern auf Offshore-Vermögen zurück. Betroffen sind reiche Bürger mit Trusts oder ausländischen Policen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/3/9/7/3/7/Stock-Asso__cropped_-d1e07494f7778b87.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/0/1/0/4/Lee_Yiu_Tung__cropped_-d993a0960f3eaf67.jpg"
         },
         {
-          "title": "Ozeane in der Krise: UN-Bericht dokumentiert rasanten Pegelanstieg",
-          "url": "https://www.telepolis.de/article/Ozeane-in-der-Krise-UN-Bericht-dokumentiert-rasanten-Pegelanstieg-11404771.html",
-          "summary": "Laut einem neuen UN-Bericht hat sich das Tempo des Meeresspiegelanstiegs binnen eines Jahrzehnts verdoppelt. Forscher warnen vor den Folgen.",
+          "title": "Rente: Die Demografie ist nicht Deutschlands größtes Problem",
+          "url": "https://www.telepolis.de/article/Rente-Die-Demografie-ist-nicht-Deutschlands-groesstes-Problem-11406468.html",
+          "summary": "Die Rentenkommission macht die Alterung für die Krise verantwortlich. Doch entscheidend ist eine andere Entwicklung: die schwache Produktivität. Gastbeitrag.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/1/9/5/9/Master_Horn-19de11bb7b49167c.jpg"
         },
         {
-          "title": "Patriot-Krise: Wie die Ukraine mit der FP-7.x eigene Raketen baut",
-          "url": "https://www.telepolis.de/article/Patriot-Krise-Wie-die-Ukraine-mit-der-FP-7-x-eigene-Raketen-baut-11404506.html",
-          "summary": "Kiew gehen die Patriot-Abfangraketen aus. Das Projekt Freyja soll ab 2027 Abhilfe schaffen – doch die FP-7. x muss ihre Leistung erst noch beweisen.",
+          "title": "Mindestlohnbetrug – der geduldete Milliarden-Raub",
+          "url": "https://www.telepolis.de/article/Mindestlohnbetrug-der-geduldete-Milliarden-Raub-11406274.html",
+          "summary": "Während Politik über Sozialkürzungen debattiert, zeigt DGB-Auswertung: Zwei Millionen Beschäftigten wird Mindestlohn vorenthalten. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/0/2/6/0/Master_Lars_Lange-61c53500da39d25a.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/1/7/9/0/Polizei-4367db7fcd4b999e.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Hitzewelle: Rhein könnte für Schifffahrt bald zweigeteilt sein",
-          "url": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-trockenheit-rhein-li.3522772",
-          "summary": "Das Wasser im Rhein erreicht ständig neue Tiefstände. Der Verband der Binnenschiffer warnt, dass der wichtige Transportfluss in wenigen Tagen nicht mehr durchgängig befahrbar sein könnte.",
+          "title": "Bundespolitik: DNA an Drohne am Leipziger Flughafen gefunden",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-drohnen-bundeswehr-guenther-dna-spur-li.3516334",
+          "summary": "Medienberichten zufolge wurden DNA-Spuren an der Drohne gefunden, die vergangene Woche auf dem Flughafen Leipzig/Halle gesichert wurde. Laut „Bild“ stimmen diese mit bereits bekannten DNA-Spuren überein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/10/10680272-3fe8-436c-aa61-c6eee526b950.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/10/2f022c8f-87d5-4f0b-b93d-c06ca14b98dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
         },
         {
-          "title": "Bundespolitik: Günther: Bundeswehr im Inneren bei Drohnenabwehr einsetzen",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-drohnen-bundeswehr-guenther-li.3516334",
-          "summary": "Nach dem Vorfall am Flughafen Leipzig/Halle hat die Drohnen-Diskussion Fahrt aufgenommen. Nun äußert sich auch Schleswig-Holsteins Ministerpräsident.",
+          "title": "Forschungspolitik: Was Trump mit der Wettervorhersage in Deutschland zu tun hat",
+          "url": "https://www.sueddeutsche.de/politik/welchen-einfluss-trump-auf-die-deutsche-klimaforschung-hat-li.3523868",
+          "summary": "Klimaforscher warnen davor, dass wichtige Daten in den USA auf Anweisung aus dem Weißen Haus nicht mehr erhoben werden. Wie sie hierzulande versuchen, nun drohende Datenlücken auszugleichen – ein Gespräch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/10/ee23aaa8-bb0f-4f8c-a683-e5ac195dd27f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/10/187f9124-0760-4303-a060-7ab4aa09cf5f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "USA: Bevor die Bomben fallen, sind die Wetten schon platziert",
-          "url": "https://www.sueddeutsche.de/kultur/trump-truth-social-100000-dollar-iran-li.3527351",
-          "summary": "Mit der Einführung eines Premiumzugangs zu seinen Social-Posts betreibt Donald Trump die Institutionalisierung von Insiderhandel. Für einen, der die Welt als Maschine betrachtet, aus der permanent Geld herausfällt, ist das nur konsequent.",
+          "title": "Konjunktur: Europas Wirtschaft leidet unter der Hitze",
+          "url": "https://www.sueddeutsche.de/wirtschaft/europa-wirtschaft-hitze-duerre-wachstum-li.3528985",
+          "summary": "Hitze und Dürre könnten das ohnehin geringe Wachstum in der EU wieder zunichtemachen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/02/10/160f632b-ccd9-4c07-bc6c-a9df9e881424.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C412%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/08/10/99b0fa7c-8a8e-4403-858a-3c531a44ae77.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C151%2C3000%2C1687"
         }
       ]
     }
