@@ -1,17 +1,17 @@
 {
-  "generated": "2026-08-10T14:00:09.133Z",
-  "timestamp": "10.8.2026, 16:00:09",
+  "generated": "2026-08-10T18:00:12.595Z",
+  "timestamp": "10.8.2026, 20:00:12",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Europäische Souveränität: Ohne Google und ChatGPT – geht das überhaupt?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/ohne-openai-google-und-andere-us-software-geht-das-accg-201051737.html",
-          "summary": "Amerikanische Hardware und Software sind überall. Dabei gibt es längst europäische Alternativen. Wie gelingt die Technik-Flucht? Ein Erfahrungsbericht.",
+          "title": "Künstliche Intelligenz: Mark Zuckerbergs KI-Manifest –  gegen Open AI und Anthropic",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mark-zuckerberg-ki-manifest-gegen-openai-und-anthropic-201111777.html",
+          "summary": "Der Chef des Internetkonzerns Meta grenzt sich von den in die Kritik geratenen Wettbewerbern ab. Er beklagt Schwarzmalerei, kündigt offene KI-Modelle an – und will keine Regulierung.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6cd015ea0585/w5007h2616x0y622o/202608/43601.0.2419041621/geht-doch-sich-von.webp"
+          "image": "https://media0.faz.net/image/w1200h627/df476424bb61/w4484h2342x0y323o/202607/43601.0.2381436290/weg-in-eine-positive-ki.webp"
         },
         {
           "title": "Technologie: Neun Beispiele für den deutschen KI-Boom",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/14453d1f132e/w1669h872x0y809o/202301/43600.0.1393633729/das-unternehmen-rittal-baut.webp"
         },
         {
-          "title": "Niedrigwasser in Flüssen: Eine Unterbrechung könnte „überproportionale Folgen“ haben",
-          "url": "https://www.faz.net/aktuell/wirtschaft/niedrigwasser-im-rhein-was-kann-die-politik-tun-kurzfristig-nichts-accg-201111294.html",
-          "summary": "Ökonomen befürchten größere wirtschaftliche Schäden durch das Niedrigwasser in den Flüssen. Sollte die Bundeswehr Lkw-Fahrer abstellen? Auch darauf haben sie eine Antwort.",
+          "title": "Europäische Souveränität: Ohne Google und ChatGPT – geht das überhaupt?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/ohne-openai-google-und-andere-us-software-geht-das-accg-201051737.html",
+          "summary": "Amerikanische Hardware und Software sind überall. Dabei gibt es längst europäische Alternativen. Wie gelingt die Technik-Flucht? Ein Erfahrungsbericht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3c2d4dc62907/w5926h3096x0y130o/202608/43601.0.2415730234/ein-lkw-passiert-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/6cd015ea0585/w5007h2616x0y622o/202608/43601.0.2419041621/geht-doch-sich-von.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Europa-Park: Wie Michael Mack sich als Filmproduzent und Technikfan profiliert",
-          "url": "https://www.spiegel.de/wirtschaft/europa-park-wie-michael-mack-sich-als-filmproduzent-und-technikfan-profiliert-a-c1897905-4363-4f9d-916d-e6077e7969c9#ref=rss",
-          "summary": "Mit 47 ist Michael Mack in Deutschlands größtem Freizeitpark noch immer Juniorchef, obwohl es im Europa-Park längst Zeit für die nächste Generation wäre. Der Technikfan steht unter Druck und verfolgt gleich drei Missionen.",
+          "title": "Rhein: Wie das Niedrigwasser Unternehmen lähmt und die Preise treibt",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/rhein-wie-das-niedrigwasser-unternehmen-laehmt-und-die-preise-treibt-a-f9d1dcdc-f94c-47a2-9950-9415f777205d#ref=rss",
+          "summary": "Der Wasserpegel bei Kaub liegt bei 16 Zentimetern, erste Lade- und Entladestellen am Rhein sind nicht mehr erreichbar. Das trifft die Wirtschaft und Verbraucher.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8ccce660-9bb1-4aa0-9e8b-6bb03a03108c_w1200_r1.778_fpx38_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ccb7c643-fe73-4440-be7b-657669cf200b_w1200_r1.778_fpx54.67_fpy50.jpg"
         },
         {
-          "title": "SPD: Parteibasis drängt auf Sonderparteitag für neue Führung",
-          "url": "https://www.spiegel.de/politik/deutschland/spd-parteibasis-draengt-auf-sonderparteitag-fuer-neue-fuehrung-a-db564856-3fda-4038-b513-440f3110b10a#ref=rss",
-          "summary": "Seit Tagen brodelt es an der SPD-Basis, nun fordern die ersten Genossen Konsequenzen: Die AG Migration und Vielfalt schlägt einen Sonderparteitag vor, um die Spitze neu aufzustellen. Die aktuelle Führung sei gescheitert.",
+          "title": "News des Tages: Heimatminister Alois Rainer, Afghanistan nach Abzug westlicher Truppen, Urlaubsrisiko Kinder",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-heimatminister-alois-rainer-afghanistan-nach-abzug-westlicher-truppen-urlaubsrisiko-kinder-a-7f937656-8404-40de-a7dc-c1ff768bfdcd#ref=rss",
+          "summary": "Bundesminister Alois Rainer erklärt, was Heimat sein soll. Fünf Jahre nach dem Truppenabzug fragen wir, wie es den Menschen in Afghanistan geht. Und warum Kinderkritzeleien im Reisepass den Urlaub kosten können. Das ist die Lage am Montagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3733cff5-668f-4196-ab6f-43ecc53ff04e_w1200_r1.778_fpx33.06_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Fluss-Kreuzfahrt auf Rhein oder Donau: Was geht noch bei Niedrigwasser?",
-          "url": "https://www.spiegel.de/wirtschaft/fluss-kreuzfahrt-auf-rhein-oder-donau-was-geht-noch-bei-niedrigwasser-a-4502077c-e626-4dd5-801b-13939d66e33a#ref=rss",
-          "summary": "Auf Donau und Rhein stecken Kreuzfahrtschiffe fest, Reedereien sagen Fahrten ab oder ändern die Route: Tausche Budapest gegen Marl. Was macht es mit der Branche, dass solche Sommer zum Normalfall werden könnten?",
+          "title": "Thüringen – Notfall-Übung in Eisenbahntunnel: Wenn ein ICE brennt, kommuniziert die Leitstelle per Fax",
+          "url": "https://www.spiegel.de/panorama/thueringen-notfall-uebung-in-eisenbahntunnel-wenn-ein-ice-brennt-kommuniziert-die-leitstelle-per-fax-a-c978f98c-2545-4809-80d6-997cf8440f4a#ref=rss",
+          "summary": "Stark verzögerte Meldeketten und Türen, die sich nicht öffnen ließen: Eine Rettungsübung mit einem ICE in einem Tunnel in Thüringen ist gründlich schiefgelaufen. Die Verantwortlichen geben sich zerknirscht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e057fa72-baeb-4a48-b0fa-07a905b87938_w1200_r1.778_fpx52_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/65d18daa-c91e-42f4-a5e8-22782683edf9_w1200_r1.778_fpx33.33_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Gold ist wieder gefragt: Zehn Prozent über Jahrestiefstpreis",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-zinsen-goldpreis-100.html",
-          "summary": "Am Rohstoffmarkt fällt der Goldpreis mit einer deutlichen Erholung auf. Das hat vor allem mit den Zinserwartungen zu tun. Daneben zeichnen sich aber auch andere Kurstreiber ab. Von Detlev Landmesser.",
+          "title": "Flughafen Leipzig/Halle - Die Methode \"Drohne\"",
+          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-russland-104.html",
+          "summary": "Laut Sicherheitskreisen soll der mutmaßliche Anschlagsversuch am Flughafen Leipzig Parallelen zu der spektakulären Anschlagsserie auf Luftfrachtpakete aufweisen. Recherchen von WDR, NDR und SZ zeigen, wie schon damals Drohnen eine wichtige Rolle spielten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/064c0c4f-d3cb-4dee-a115-6cd5ecaa8f9e/AAABn-r5ysc/AAABnSSvrFg/16x9-big/gold-178.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/acf56992-9af2-4dcb-b940-e932c9ace2d5/AAABn-Be07M/AAABnSSvrFg/16x9-big/drohne-flughafen-114.jpg?width=1280"
         },
         {
-          "title": "Klingbeils Steuerpläne stoßen auf Kritik - auch aus der Union",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-klingbeil-kritik-100.html",
-          "summary": "Mit der geplanten Steuerreform will Finanzminister Klingbeil Menschen mit kleinen und mittleren Einkommen entlasten. Doch sein erster Entwurf, der bereits in Berlin kursiert, sorgt für scharfe Kritik - auch vom Koalitionspartner.",
+          "title": "Iran erwägt Gebühren für \"Dienstleistungen\" in Straße von Hormus",
+          "url": "https://www.tagesschau.de/ausland/iran-gebuehren-hormus-100.html",
+          "summary": "Noch immer ist unklar, wie es mit der Straße von Hormus weitergeht. Iran erklärte nun, mit Oman an neuen Regeln für die Meerenge zu arbeiten. Demnach erwägt Teheran, dort Gebühren zu erheben - als Entgelt für Dienstleistungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/94666787-f810-46d8-92fe-09136122eb0f/AAABn-ssTVA/AAABnSSvrFg/16x9-big/klingbeil-378.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/14984f02-512a-4187-baa8-d695fe29342d/AAABn-xMy0Q/AAABnSSvrFg/16x9-big/hormus-256.jpg?width=1280"
         },
         {
-          "title": "Europas aktivster Vulkan Ätna spuckt wieder Asche und Lava",
-          "url": "https://www.tagesschau.de/ausland/europa/italien-ausbruch-vulkan-aetna-100.html",
-          "summary": "Erneut ist der Ätna ausgebrochen, Europas aktivster Vulkan. Der Flugverkehr auf der beliebten italienischen Ferieninsel Sizilien wurde zeitweise eingeschränkt. Noch immer gilt die Warnstufe Rot.",
+          "title": "Partielle Sonnenfinsternis: So schützen Sie Ihre Augen",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/sonnenfinsternis-schutzbrille-100.html",
+          "summary": "Am Mittwoch schiebt sich der Mond über Deutschland zwischen Sonne und Erde und erzeugt eine partielle Sonnenfinsternis. Viele wollen das Himmelsereignis verfolgen, aber es gibt dabei ein paar Dinge zu beachten. Von Juliane Orth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b8dd80ff-49c0-49a1-9088-72fc7f277733/AAABn-toTvk/AAABnSSvrFg/16x9-big/aschewolke-aetna-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/98e1609d-6519-41d5-a3bd-bc546e600318/AAABn-vQf40/AAABnSSvrFg/16x9-big/sonnenfinsternis-brille-104.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "In eigener Sache: Telepolis als \"Bevorzugte Quelle\" bei Google festlegen",
+          "url": "https://www.telepolis.de/article/Telepolis-als-Bevorzugte-Quelle-bei-Google-festlegen-11285510.html",
+          "summary": "So siehst du künftig mehr Telepolis-Artikel bei Google – mit einem einfachen Trick in den Sucheinstellungen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/7/8/1/1/0/shutterstock_2475784501-d75c7bc5c776d285.jpg"
+        },
         {
           "title": "Chinas Steuerjagd: Warum Peking jetzt Konten reicher Bürger einfrieren lässt",
           "url": "https://www.telepolis.de/article/Chinas-Steuerjagd-Warum-Peking-jetzt-Konten-reicher-Buerger-einfrieren-laesst-11404198.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/1/9/5/9/Master_Horn-19de11bb7b49167c.jpg"
-        },
-        {
-          "title": "Mindestlohnbetrug – der geduldete Milliarden-Raub",
-          "url": "https://www.telepolis.de/article/Mindestlohnbetrug-der-geduldete-Milliarden-Raub-11406274.html",
-          "summary": "Während Politik über Sozialkürzungen debattiert, zeigt DGB-Auswertung: Zwei Millionen Beschäftigten wird Mindestlohn vorenthalten. Ein Kommentar.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/1/7/9/0/Polizei-4367db7fcd4b999e.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespolitik: DNA an Drohne am Leipziger Flughafen gefunden",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-drohnen-bundeswehr-guenther-dna-spur-li.3516334",
-          "summary": "Medienberichten zufolge wurden DNA-Spuren an der Drohne gefunden, die vergangene Woche auf dem Flughafen Leipzig/Halle gesichert wurde. Laut „Bild“ stimmen diese mit bereits bekannten DNA-Spuren überein.",
+          "title": "Hitzewelle: Wo in Deutschland der Wald brennt",
+          "url": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-waldbraende-trockenheit-li.3522772",
+          "summary": "In Südniedersachsen, in der Oberpfalz und im hessischen Main-Kinzig-Kreis ist die Feuerwehr wegen Waldbränden im Einsatz.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/10/2f022c8f-87d5-4f0b-b93d-c06ca14b98dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/08/10/b5d56549-08e5-4cfe-94a5-30ca51f18d50.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1%2C0%2C3998%2C2249"
         },
         {
-          "title": "Forschungspolitik: Was Trump mit der Wettervorhersage in Deutschland zu tun hat",
-          "url": "https://www.sueddeutsche.de/politik/welchen-einfluss-trump-auf-die-deutsche-klimaforschung-hat-li.3523868",
-          "summary": "Klimaforscher warnen davor, dass wichtige Daten in den USA auf Anweisung aus dem Weißen Haus nicht mehr erhoben werden. Wie sie hierzulande versuchen, nun drohende Datenlücken auszugleichen – ein Gespräch.",
+          "title": "Podcast „Und nun zum Sport“: Neue Allianz im Weltfußball: Wird Fifa-Boss Infantino jetzt gestürzt?",
+          "url": "https://www.sueddeutsche.de/sport/podcast-uefa-protest-fifa-infantino-wm-boykott-fussball-li.3527414",
+          "summary": "Die Dachverbände Europa, Asien sowie Nord- und Mittelamerika fordern in einem Brief einen Neuanfang an der Spitze der Fifa. Wie verändert das die Dynamik im Konflikt um Gianni Infantino?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/10/187f9124-0760-4303-a060-7ab4aa09cf5f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2025/05/05/ae0ad484-429c-4cc3-99a4-c90b08982825.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3648%2C2052"
         },
         {
-          "title": "Konjunktur: Europas Wirtschaft leidet unter der Hitze",
-          "url": "https://www.sueddeutsche.de/wirtschaft/europa-wirtschaft-hitze-duerre-wachstum-li.3528985",
-          "summary": "Hitze und Dürre könnten das ohnehin geringe Wachstum in der EU wieder zunichtemachen.",
+          "title": "Podcast: „Auf den Punkt“: Muss die Bundeswehr die Infrastruktur vor Drohnen schützen?",
+          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-drohne-leipzig-sicherheit-miltaer-li.3529295",
+          "summary": "Nach dem Vorfall mit einer Drohne am Leipziger Flughafen läuft eine Debatte über die Sicherheit der kritischen Infrastruktur. Denn die aktuellen Maßnahmen reichen nicht aus.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/10/99b0fa7c-8a8e-4403-858a-3c531a44ae77.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C151%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
         }
       ]
     }
