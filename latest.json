@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-10T02:00:08.775Z",
-  "timestamp": "10.8.2026, 04:00:08",
+  "generated": "2026-08-10T06:00:09.387Z",
+  "timestamp": "10.8.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Börsenhausse: Das andere Deutschland",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschland-hat-mehr-als-leidende-traditionsunternehmen-201109362.html",
-          "summary": "Die deutsche Wirtschaft läuft schon lange nicht. Trotzdem treiben ausländische Anleger die Börsenkurse in Deutschland und Europa. Das passt durchaus zusammen.",
+          "title": "Wahlkampf im Osten: Sven Schulze geht bis an seine Grenzen – und an die der CDU",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/sven-schulze-im-wahlkampf-cdu-kaempft-gegen-die-uhr-accg-201104870.html",
+          "summary": "Porträt: Sven Schulze und die Grundwerte der CDU",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/c950949c9790/w4602h2404x966y163o/202608/43601.0.2407570815/sven-schulze-verschenkt-bei.webp"
+        },
+        {
+          "title": "Widersprüchliche Studien: Nutzt jeder Anschlag der AfD?",
+          "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/afd-und-terroranschlaege-profitiert-die-partei-bei-wahlen-accg-201096820.html",
+          "summary": "Laut einer Studie der Uni Frankfurt profitiert die AfD bei Wahlen sogar von rechtsextremen Terrorakten. Doch es gibt auch Untersuchungen, die zu anderen Schlüssen kommen.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/114b5229bc69/w6144h3210x0y410o/202602/43601.0.1794991539/ermordet-von-einem-rassisten.webp"
+        },
+        {
+          "title": "Dieter Hallervorden: „Ich brauche in Sachen Sensibilität keine Sprachpolizei“",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/sachsen-anhalt-dieter-hallervorden-ueber-seine-rolle-im-wahlkampf-accg-201095522.html",
+          "summary": "Komödiant Dieter Hallervorden steht CDU-Spitzenkandidat Sven Schulze im Wahlkampf in Sachsen-Anhalt zur Seite. Hier erklärt er, warum er das macht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/668913e711d8/w6144h3210x0y443o/202606/43601.0.2197241843/ein-model-der-drohne-ca-1.webp"
-        },
-        {
-          "title": "Richtige Depotaufstellung: Wie Anleihen Ihr Depot wirklich vor Verlusten schützen",
-          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/wie-anleihen-ihr-depot-wirklich-vor-verlusten-schuetzen-accg-201069074.html",
-          "summary": "Anleihen gelten als sicherer Hafen. Doch in Krisen fallen die Kurse von Aktien und Anleihen oft gleichzeitig. Wie Anleihen das Depot dennoch stabilisieren und wo die Risiken liegen.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/7cb339628fda/w5065h2646x0y367o/202607/43601.0.2376339459/eine-frage-der-balance-nicht.webp"
-        },
-        {
-          "title": "Altersvorsorge: Deutsche trauen der Aktie mehr als der Rente",
-          "url": "https://www.faz.net/aktuell/finanzen/altersvorsorge-vertrauen-der-deutschen-in-die-rente-sinkt-110179997.html",
-          "summary": "In der Altersvorsorge vertrauen immer mehr Menschen auf die Börse. Vor allem Frauen ändern dabei ihre Präferenzen.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/c78e642dc904/w2976h1554x13y202o/202412/1.10180085/im-alter-braucht-man-auch-geld.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3e2ebe82e5cd/w6144h3210x0y807o/202608/43601.0.2406028289/kein-freund-des-bundeskanzlers.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Die Linke in Sachsen-Anhalt: Warum Heidi Reichinnek ein Männer-Problem hat",
-          "url": "https://www.spiegel.de/politik/deutschland/die-linke-in-sachsen-anhalt-warum-heidi-reichinnek-ein-maenner-problem-hat-a-4d099e71-a958-4829-8956-acd1cc6a66f5#ref=rss",
-          "summary": "Linken-Frontfrau Heidi Reichinnek spricht vor allem junge Frauen in Städten an. Diese Strategie könnte ihrer Partei bei den Wahlen in Sachsen-Anhalt zum Verhängnis werden.",
+          "title": "Klimakrise: In Westeuropa war es im Juni und Juli so heiß wie noch nie, meldet Copernicus",
+          "url": "https://www.spiegel.de/wissenschaft/klimakrise-in-westeuropa-war-es-im-juni-und-juli-so-heiss-wie-noch-nie-meldet-copernicus-a-944b8ea5-2258-41ac-816c-40d8cb83b6e0#ref=rss",
+          "summary": "Hitzewellen, Trockenheit, Waldbrände: Die ersten beiden Sommermonate waren in Westeuropa von Extremen geprägt. Laut dem EU-Klimadienst Copernicus heizten sich auch die Weltmeere auf Rekordniveau auf.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/fe2df629-7a48-4373-b0c8-132b4f3d48df_w1200_r1.778_fpx39_fpy49.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5a9d0008-4063-4a3d-84e9-8fd154b8644e_w1200_r1.778_fpx48_fpy48.jpg"
         },
         {
-          "title": "Ukraine-Krieg: Wie sich Tschernobyl gegen Russlands nächsten Invasionsversuch wappnet",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-wie-sich-tschernobyl-gegen-russlands-naechsten-invasionsversuch-wappnet-a-7dc03c1e-9936-4e9b-9503-6b5cf2e61c23#ref=rss",
-          "summary": "Zu Beginn der Invasion besetzten Putins Truppen die Atomruine nördlich von Kyjiw. Heute herrscht die ukrainische Armee über das geisterhafte Gebiet. Und bereitet sich darauf vor, dass der Feind zurückkommt.",
+          "title": "News: Donald Trump, Sachsen-Anhalt, AfD, Nato, Russland, Drohnen, Leipzig",
+          "url": "https://www.spiegel.de/politik/deutschland/news-donald-trump-sachsen-anhalt-afd-nato-russland-drohnen-leipzig-a-b2afd57e-3b34-436c-9c18-7af555fc8bd5#ref=rss",
+          "summary": "Wichtige Projekte des US-Präsidenten bleiben stecken. Russlands Dementis zum Drohnenvorfall in Leipzig. Linke offen für Pakt gegen AfD. Das ist die Lage am Montagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5ef77d27-da4c-4251-a347-9b668df37c2d_w1200_r1.778_fpx55_fpy67.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Israel lehnt 15-Punkte-Friedensplan von Donald Trump für Gaza ab",
-          "url": "https://www.spiegel.de/ausland/israel-lehnt-15-punkte-friedensplan-von-donald-trump-fuer-gaza-ab-a-2af4a195-8d12-4a85-ae08-e483109b915b#ref=rss",
-          "summary": "Der vom US-Präsidenten initiierte Gaza-Friedensrat schlägt eine Entwaffnung der Hamas und einen Abzug des israelischen Militärs aus Gaza vor. Doch Benjamin Netanyahu erteilt dem Plan eine Absage.",
+          "title": "Iran-Krieg und Israel-Hamas-Konflikt: Für Donald Trump hagelte es am Wochenende schlechte Nachrichten",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-und-israel-hamas-konflikt-fuer-donald-trump-hagelte-es-am-wochenende-schlechte-nachrichten-a-551b1fab-5a3f-4ee3-8306-f085f8f1c4d4#ref=rss",
+          "summary": "Der US-Präsident versucht, die jüngsten Rückschläge bei den Verhandlungen mit Teheran kleinzureden. Und aus Israel kommt eine Ansage, die Donald Trump gar nicht gefallen dürfte. Der Überblick.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/93cbc7f8-3fa4-46e3-9cc3-8fcbf634ba97_w1200_r1.778_fpx37.31_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8728b64e-79a9-4601-a8c8-e18f2b828e69_w1200_r1.778_fpx54_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Niedrigwasser: Binnenschiffer warnen vor Zweiteilung des Rheins",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/rhein-niedrigwasser-zweiteilung-binnenschiffer-100.html",
-          "summary": "Im Rhein werden derzeit historische Tiefstände gemessen. Das wirkt sich bereits stark auf die Schifffahrt aus. Ein Branchenverband warnt sogar, der Fluss könnte bald nicht mehr durchgängig befahrbar und damit zweigeteilt sein.",
+          "title": "Marktbericht: DAX bleibt in der Nähe des Allzeithochs",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html",
+          "summary": "Wird die Rekordrally im DAX in dieser Woche weitergehen? Die US-Berichtssaison neigt sich dem Ende zu, die Anleger werden sich deshalb wieder der Geldpolitik und der Geopolitik zuwenden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d3c7ed22-9e00-4217-9f35-d3cd0e60c82e/AAABn-k_FTI/AAABnSSvrFg/16x9-big/niedrigwasser-rhein-kaub-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/68dbb183-1517-4291-a260-61dfdc68e500/AAABnLJS29A/AAABnSSvrFg/16x9-big/boerse-490.jpg?width=1280"
         },
         {
-          "title": "Erneut Waldbrände in Spanien und Frankreich ausgebrochen",
-          "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-frankreich-120.html",
-          "summary": "Nach Dürren und Hitzewellen hatten Spanien und Frankreich zuletzt mit riesigen Waldbränden zu kämpfen. Nun sind dort neue Feuer ausgebrochen, wieder mussten Hunderte Menschen vor den Flammen fliehen.",
+          "title": "Waldbrände in Kanada weiter außer Kontrolle",
+          "url": "https://www.tagesschau.de/ausland/amerika/waldbraende-kanada-136.html",
+          "summary": "Der Waldbrand im Südwesten Kanadas ist weiter außer Kontrolle. 000 Menschen mussten bereits fliehen. Für viele ist ungewiss, ob ihre Häuser danach noch stehen. Doch die Hilfsbereitschaft ist groß. Von Giselle Ucar.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4ad00cb6-a9c1-40cb-b395-4bb69a61fd7d/AAABn-kUYu0/AAABnSSvrFg/16x9-big/huelva-waldbrand-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c516514d-c932-4356-8e3b-b9762d147445/AAABn-oE-OQ/AAABnSSvrFg/16x9-big/waldbrand-summerland-100.jpg?width=1280"
         },
         {
-          "title": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
-          "url": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html",
-          "summary": "Durch den Iran-Krieg sind die Raketenbestände der USA Berichten zufolge massiv geschrumpft. Die Trump-Regierung bestreitet das - doch nun ruft das Pentagon die Rüstungsindustrie auf, schneller Waffen zu produzieren.",
+          "title": "KI braucht Rechenzentren - aber welche braucht Deutschland?",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-rechenzentren-welche-deutschland-100.html",
+          "summary": "Deutschland will fit für das KI-Zeitalter werden. Doch der Ausbau stößt an Grenzen: Strom, Netze und Flächen sind knapp. Experten sagen, entscheidend sei nicht, mehr Rechenzentren zu bauen - sondern die richtigen. Von Michelle Goddemeier.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/36daa893-0f36-4c49-87f2-f92f3bbab062/AAABn-jCdb0/AAABnSSvrFg/16x9-big/us-militaer-atacms-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1dc4b82c-9c90-411f-8282-688a1c1e0b30/AAABn6d3adI/AAABnSSvrFg/16x9-big/rechenzentrum-186.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Huthi-Rebellen greifen erneut Hafenstadt in Jemen an",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-huthi-li.3523210",
+          "summary": "Die von Iran unterstützte Rebellengruppe attackiert ein Wohnviertel in der Stadt Mokka nahe der für den Schiffsverkehr wichtigen Meerenge Bab al-Mandab.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/10/97890c71-def5-4aed-895e-7a94229a4816.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C205%2C4000%2C2250"
+        },
+        {
+          "title": "Hitzewelle: Juni und Juli waren in Westeuropa so warm wie noch nie",
+          "url": "https://www.sueddeutsche.de/panorama/wetter-europa-deutschland-hitze-trockenheit-rekordtemperaturen-hitzewelle-li.3522772",
+          "summary": "Die Durchschnittstemperatur hat den bisherigen Rekord gebrochen, wie der EU-Klimawandeldienst Copernicus erklärt. Seit Mai habe es vier Hitzewellen gegeben – eine außergewöhnlich hohe Zahl für Westeuropa.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/10/42522385-2365-4b7d-b064-ca937228895c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "ZDF: Hammer, Sichel, Nebenkostenabrechnung",
           "url": "https://www.sueddeutsche.de/medien/ard-sommerinterview-die-linke-luigi-pantisano-li.3527005",
           "summary": "Luigi Pantisano, Vorsitzender der Linkspartei, will sich im ZDF-Sommerinterview nicht ablenken lassen. Ukraine, CDU, Israel – sollen wir nicht lieber über Mieten sprechen?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/09/fc6ccb2b-23cd-48d3-96ce-0d90093da6d0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Krieg in der Ukraine: Selenskij: Massiver Stromausfall in Odessa",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-odessa-strom-li.3524928",
-          "summary": "Mit Drohnen und ballistischen Raketen trifft Russland die ukrainische Küstenregion schwer. Präsident Selenskij kündigt Vergeltung an.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/09/3be4c298-bfb7-4d78-9126-5d3d40f7678e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C212%2C2000%2C1125"
-        },
-        {
-          "title": "Krieg in Nahost: Revolutionsgardist wird Vorsitzender des Nationalen Sicherheitsrates in Iran",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-li.3523210",
-          "summary": "Mohsen Resai gilt als einer der erfahrensten Männer im iranischen Machtapparat. Jetzt wird er zum obersten Sicherheitsberater. Dies könnte den Einfluss der Revolutionsgarden weiter stärken.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/09/041249f2-5124-4fef-9a88-5e8dcecc9fa5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/09/fc6ccb2b-23cd-48d3-96ce-0d90093da6d0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=707%2C481%2C2484%2C1397"
         }
       ]
     }
