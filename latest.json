@@ -1,10 +1,26 @@
 {
-  "generated": "2026-08-11T14:00:09.244Z",
-  "timestamp": "11.8.2026, 16:00:09",
+  "generated": "2026-08-11T18:00:09.795Z",
+  "timestamp": "11.8.2026, 20:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Trockenheit im Süden: „Wasser wird nicht mehr unbegrenzt verfügbar sein“",
+          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/niedrige-pegelstaende-wasser-wird-nicht-mehr-unbegrenzt-verfuegbar-sein-201114696.html",
+          "summary": "Zu wenig Trinkwasser, das Grünfutter wird knapp, und die Wasserstände am Rhein sind historisch niedrig: Die außergewöhnliche Hitzeperiode hat dramatische Folgen für den Südwesten.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/8fa9f5d33413/w6144h3210x0y443o/202608/43601.0.2420935707/ausser-betrieb-auf-der-insel.webp"
+        },
+        {
+          "title": "Hitze-Liveblog: Bahn meldet Hitzeschäden zwischen Stuttgart und Nürnberg",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/liveticker-zur-hitzewelle-waldbrand-menschen-im-main-kinzig-kreis-sollen-nicht-mehr-duschen-faz-200949959.html",
+          "summary": "Mehrere Haltestellen im Fernverkehr entfallen +++ Menschen im Main-Kinzig-Kreis dürfen wieder duschen +++ Deutscher muss 450 Euro für Sprung in römischen Brunnen zahlen +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/5265b80ec1c8/w4601h2404x0y278o/202608/43601.0.2410046094/die-schaeden-an-den-schienen.webp"
+        },
         {
           "title": "Lügen im Netz: Betrüger missbrauchen das F.A.Z.-Logo für KI-Hetze",
           "url": "https://www.faz.net/aktuell/feuilleton/debatten/f-a-z-logo-fuer-ki-hetze-missbraucht-kampagne-timetodividegermany-201114236.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/0d02f391ae67/w5664h2959x0y571o/202607/43601.0.2321573476/bjoern-hoeckes-melodie-im.webp"
-        },
-        {
-          "title": "500 ausreisepflichtige: Hat Köln Abschiebungen aktiv verhindert?",
-          "url": "https://www.faz.net/aktuell/politik/inland/hat-koeln-abschiebungen-von-500-migranten-aktiv-verhindert-accg-201114021.html",
-          "summary": "Die CDU spricht von einem „handfesten Skandal“: Die Stadt Köln soll die Abschiebung von Migranten aus Westbalkanstaaten hintertrieben haben. Was steckt dahinter?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d0d77187c719/w3099h1619x0y306o/202607/4399454bce-86a1-11f1-af57-8d9777793f97/ein-bus-mit-passagieren-haelt.webp"
-        },
-        {
-          "title": "Gefährlicher Kurs: Was ist dran an Trumps Impf-Behauptungen?",
-          "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/us-impfkurs-warum-trump-die-mmr-dreifachimpfung-streichen-will-accg-201114393.html",
-          "summary": "Donald Trump will Kinder in den USA künftig nur noch gegen elf statt 17 Krankheiten impfen lassen. Er begründet das mit Falschaussagen und verweist auf Europa.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a5a3ee4d2779/w4000h2090x0y237o/202608/43601.0.2421763630/impfungen-fuer-kinder-werden.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Drohnen-Attacke auf dem Flughafen in Leipzig: So könnte Friedrich Merz Russland abstrafen",
-          "url": "https://www.spiegel.de/politik/deutschland/drohnen-attacke-auf-dem-flughafen-in-leipzig-so-koennte-friedrich-merz-russland-abstrafen-a-79f02c29-aa83-4ca7-b6c5-e73e25da19d0#ref=rss",
-          "summary": "Die Spuren der vereitelten Drohnenattacke auf dem Leipziger Flughafen weisen nach Moskau. Was tut der Kanzler, wenn sich der Verdacht erhärtet? Aus diesen vier Optionen könnte er wählen.",
+          "title": "Donald Trump: Wie der Nahe Osten die Ohnmacht des US-Präsidenten bloßstellt",
+          "url": "https://www.spiegel.de/ausland/donald-trump-wie-der-nahe-osten-die-ohnmacht-des-us-praesidenten-blossstellt-a-7a78beb0-60a3-4b38-adf6-88e6c4b8cab1#ref=rss",
+          "summary": "Der US-Präsident wollte den Krieg im Gazastreifen beenden und als mutiger Commander-in-Chief Iran ein für alle Mal schlagen. Beide Vorhaben gingen gründlich schief. Dafür bekommt Donald Trump jetzt die Quittung.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/17dfd491-4daa-49be-a154-da2ebc20cf2f_w1200_r1.778_fpx54_fpy51.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6df24feb-743c-4409-9b4d-649fcd7cfb4b_w1200_r1.778_fpx32.67_fpy45.jpg"
         },
         {
           "title": "Weibliche Nazi-Anhänger im »Dritten Reich«: Hitlers Fangirls",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/73afd6c5-253e-48fe-b31b-353da732ca49_w1200_r1.778_fpx72_fpy51.jpg"
         },
         {
-          "title": "Julia Klöckner: Kritik an KI-Bild zum Schulstart in Rheinland-Pfalz",
-          "url": "https://www.spiegel.de/politik/deutschland/julia-kloeckner-kritik-an-ki-bild-zum-schulstart-in-rheinland-pfalz-a-8e99c87f-574a-4ef0-9c69-8e357209d63a#ref=rss",
-          "summary": "Die Bundestagspräsidentin erntet Kritik, weil sie zum Schuljahresbeginn in Rheinland-Pfalz ein KI-generiertes Bild mit vier Kindern postete. Was daran noch verwundert: die fehlende Vielfalt.",
+          "title": "News des Tages: Stalin, Russland, Hitze in Deutschland, Syrien, Baschar al-Assad, Atef Najib",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-stalin-russland-hitze-in-deutschland-syrien-baschar-al-assad-atef-najib-a-fa0a3366-9663-4e4f-9692-087ae6a26f48#ref=rss",
+          "summary": "In Russland wird Massenmörder Josef Stalin wieder zum starken Staatsführer verklärt. Deutschland scheitert an der Klimakrise. Und in Syrien stellt sich nach historischen Urteilen die Frage der Aufarbeitung. Das ist die Lage am Dienstagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/00dce947-e737-4eac-a967-632d574de312_w1170_r1.778_fpx49.58_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nach Vorfall am Flughafen Leipzig - Verdächtige DNA-Spuren und eine Antenne",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/dna-spuren-leipzig-100.html",
-          "summary": "Nach dem mutmaßlichen Anschlagsversuch mit einer Drohne am Flughafen Leipzig/Halle entdeckten Ermittler nach Recherchen von WDR, NDR und SZ sogar mehrere DNA-Spuren - und eine verdächtige Antenne.",
+          "title": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
+          "url": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
+          "summary": "Vor fast zwei Jahren floh Syriens langjähriger Machthaber. Jetzt wurde Assad für seine Verbrechen in Abwesenheit zum Tode verurteilt. Für viele Syrer ein bedeutender Schritt - doch sie hoffen auf mehr. Von Nina Amin.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/52029c92-8d0f-4b4a-ac51-736f57ee06ff/AAABn_Da9mU/AAABnSSvrFg/16x9-big/antonov-leipzig-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/96effaeb-319c-4af4-a941-c3d8ca6f8006/AAABn_H5cyE/AAABnSSvrFg/16x9-big/syrien-1602.jpg?width=1280"
         },
         {
-          "title": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
-          "url": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html",
-          "summary": "Das Gesetz zur Entwaffnung der PKK und teilweisen Amnestie Inhaftierter ist ein historischer Schritt. Doch zentrale kurdische Forderungen erfüllt es nicht. Und Präsident Erdoğan geht es dabei wohl um andere Ziele. Batscheider.",
+          "title": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
+          "url": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
+          "summary": "Der Flughafen Leipzig/Halle ist offenbar nur knapp einem Drohnen-Anschlag entgangen. Der Generalbundesanwalt ermittelt, auch das Völkerrecht könnte greifen. Eine rechtliche Einordnung von Christoph Kehlbach, ARD-Rechtsredaktion",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/317c3aa6-cf96-49b7-a20a-6f10b7c0e0e9/AAABn_DgWK8/AAABnSSvrFg/16x9-big/kurden-demo-tuerkei-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1b90d7af-d5a9-4a74-92ce-82fe9020c474/AAABn_Gdzig/AAABnSSvrFg/16x9-big/antonov-leipzig-halle-100.jpg?width=1280"
         },
         {
-          "title": "Zukunftsmarkt humanoide Roboter: Ansturm auf Aktien von Unitree",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-unitree-roboter-100.html",
-          "summary": "Die Hersteller humanoider Roboter formieren sich für das nächste Technologierennen. In China stoßen die Aktien des bekannten Entwicklers Unitree auf eine gewaltige Nachfrage.",
+          "title": "Marktbericht: DAX erreicht neue Höhen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
+          "summary": "Kommt es vielleicht doch bald zu einer Verständigung im Iran-Krieg? Neue Hoffnungen darauf haben den deutschen Aktienmarkt am Nachmittag beflügelt. Der DAX steigt auf ein neues Rekordhoch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ae527e68-e035-4e1b-a92a-db6c1e2ad774/AAABn_BPlWk/AAABnSSvrFg/16x9-big/unitree-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/eda3c196-19fe-4cde-a158-813f3316d25b/AAABnyMUShE/AAABnSSvrFg/16x9-big/boerse-frankfurt-218.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Hitze in Deutschland: Die größte Lüge des Sommers ist, dass wir alle gleich schwitzen",
-          "url": "https://www.sueddeutsche.de/leben/hitze-deutschland-staedte-belastung-mieter-armut-wohnung-li.3511479",
-          "summary": "Klimaschutz ist längst eine soziale Frage. Auch in Deutschland leiden ärmere Menschen in schlecht isolierten Wohnungen stärker unter den hohen Temperaturen. Die Politik sollte daraus endlich die richtigen Schlüsse ziehen.",
+          "title": "USA: Russland lässt inhaftierten ehemaligen US-Soldaten frei",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-gilman-putin-us-soldat-li.3523200",
+          "summary": "Putin habe der Freilassung aus humanitären Gründen zugestimmt, schreibt US-Präsident Trump auf Truth Social. Robert Gilman wurde 2022 bei einer Zugreise durch Russland verhaftet.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/10/bebe63e7-d75c-4a9c-9bda-1637503bb8c9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C108%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/11/2f01d35d-ab2b-4132-a989-51b63aafef18.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C217%2C3500%2C1969"
         },
         {
-          "title": "Sichtung durch Mitarbeitende: Drohne am Flughafen Hannover-Langenhagen entdeckt",
-          "url": "https://www.sueddeutsche.de/panorama/drohnensichtung-flughafen-hannover-bundespolizei-li.3529925",
-          "summary": "Der Flugverkehr wurde laut Deutscher Flugsicherung in der Nacht auf Dienstag zeitweise eingestellt. Einem Medienbericht zufolge sollen Schutzvorrichtungen der Bundespolizei nicht auf die Drohne reagiert haben.",
+          "title": "Kolumne „Schön doof“: Echt jetzt?",
+          "url": "https://www.sueddeutsche.de/leben/donald-trump-frisur-haare-vater-fred-trump-li.3503881",
+          "summary": "Wundersame Haarvermehrung: Warum das Internet gerade mit Spekulationen über Donald Trumps Frisur überschwemmt wird.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/11/09d801dc-0fbb-4ae0-a59b-744c41d4b6f7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=77%2C241%2C2484%2C1397"
+          "image": "https://www.sueddeutsche.de/2026/08/11/53a6a1f5-d860-48f6-91e9-4d925fdcf8a5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C329%2C3500%2C1969"
         },
         {
-          "title": "Sabotage: Die fremde Macht hinter dem Leipziger Drohnenangriff",
-          "url": "https://www.sueddeutsche.de/politik/drohnenattacke-leipzig-ermittler-spuren-verantwortliche-li.3529855",
-          "summary": "Ein Signalverstärker, SIM-Karten, DNA-Spuren: Nach dem mutmaßlichen Anschlagsversuch am Flughafen Leipzig entdecken Ermittler immer neue Hinweise. Und sie sind sich inzwischen fast sicher: Die Spur führt nach Moskau.",
+          "title": "Astronomisches Ereignis: Bekommt man jetzt noch Brillen für die Sonnenfinsternis?",
+          "url": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-brillen-ausverkauft-alternativen-li.3529662",
+          "summary": "Ein Doppelpack Brillen, CE-zertifiziert, das Online-Angebot klingt super. Einziger Haken: Schnellste Lieferung ist nächsten Dienstag. Was brillenlose Kurzentschlossene noch probieren können.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/11/ccba85b3-d873-4e1a-a214-bdfd271ef8f5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C173%2C3320%2C1867"
+          "image": "https://www.sueddeutsche.de/2026/08/11/f84fbd8b-a04d-4c0b-ada5-00c68cb21ae2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         }
       ]
     }
