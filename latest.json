@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T22:00:08.717Z",
-  "timestamp": "12.8.2026, 00:00:08",
+  "generated": "2026-08-12T02:00:09.198Z",
+  "timestamp": "12.8.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/0d02f391ae67/w5664h2959x0y571o/202607/43601.0.2321573476/bjoern-hoeckes-melodie-im.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Politiker fordern Schließung des Russischen Hauses",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-politiker-fordern-schliessung-des-russischen-hauses-in-berlin-faz-110093143.html",
-          "summary": "Vertreter von CDU, Grünen und FDP vermuten Spionage +++ TU Chemnitz weist Voigts Einspruch gegen Entzug des Doktortitels ab +++ Ramelow für Zusammenarbeit von Linkspartei und CDU in Sachsen-Anhalt +++ alle Entwicklungen im Liveblog",
+          "title": "Russische Einflussoperation: Gefälschte Videos sollen Ostdeutsche aufhetzen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/prorussisches-bot-netz-greift-in-landtagswahlkampf-ein-200994855.html",
+          "summary": "Das prorussische Bot-Netz „Matrjoschka“ will mit Falschnachrichten-Clips die Landtagswahlen beeinflussen. Vor allem Sachsen-Anhalt ist das Ziel.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/40a19a981876/w5069h2648x0y365o/202608/43601.0.2419729789/der-eingang-des-russischen.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/7801e302fca0/w5183h2708x0y989o/202606/43601.0.2178452205/handschlag-der-afd-politiker.webp"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Anthropic führt Wasserzeichen bei KI-Texten ein",
+          "url": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html",
+          "summary": "Anthropic will Texte seines Chatbots Claude mit einem unsichtbaren Wasserzeichen versehen. Grund sind neue EU-Vorgaben: KI-Inhalte müssen künftig mit maschinenlesbaren Markierungen versehen werden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c6660ace-982a-4db4-bc17-f30fd4df36cb/AAABn_NTRDA/AAABnSSvrFg/16x9-big/claude-100.jpg?width=1280"
+        },
+        {
+          "title": "US-Militär beschießt Tanker im Golf von Oman",
+          "url": "https://www.tagesschau.de/ausland/asien/nahost-hormus-us-beschuss-tanker-100.html",
+          "summary": "Die USA blockieren Schiffe, die iranische Häfen ansteuern oder von diesen ablegen. Nun hat das US-Militär einen Tanker bei dem Versuch beschossen, die amerikanische Blockade zu durchbrechen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a3a0d945-a80b-4fa8-8c7c-99e05a59d67b/AAABnm137xE/AAABnSSvrFg/16x9-big/karte-strasse-von-hormus-persischer-golf-104.jpg?width=1280"
+        },
+        {
           "title": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
           "url": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
           "summary": "Im Libanon gibt es keine Todesstrafe mehr. Dafür hat eine Mehrheit der Abgeordneten im Parlament gestimmt - bis auf den Hisbollah-Block. Statt der Todesstrafe droht Verurteilten künftig lebenslange Haft mit schwerer Zwangsarbeit.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/627e783f-0422-4961-a29d-c602b972178d/AAABn_I0HeQ/AAABnSSvrFg/16x9-big/libanon-parlament-100.jpg?width=1280"
-        },
-        {
-          "title": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
-          "summary": "Im Februar 2025 hatte die US-Regierung unter Trump Sanktionen gegen Vertreter des Internationalen Strafgerichtshofs erlassen. Dafür wird der US-Präsident nun von mehreren Menschenrechtsorganisationen verklagt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c4057318-54e6-4512-98a9-12703eb80f58/AAABn_HrdNM/AAABnSSvrFg/16x9-big/trump-5226.jpg?width=1280"
-        },
-        {
-          "title": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
-          "url": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
-          "summary": "Vor fast zwei Jahren floh Syriens langjähriger Machthaber. Jetzt wurde Assad für seine Verbrechen in Abwesenheit zum Tode verurteilt. Für viele Syrer ein bedeutender Schritt - doch sie hoffen auf mehr. Von Nina Amin.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/96effaeb-319c-4af4-a941-c3d8ca6f8006/AAABn_H5cyE/AAABnSSvrFg/16x9-big/syrien-1602.jpg?width=1280"
         }
       ]
     },
