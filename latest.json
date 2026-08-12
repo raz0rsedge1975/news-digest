@@ -1,25 +1,17 @@
 {
-  "generated": "2026-08-12T02:00:09.198Z",
-  "timestamp": "12.8.2026, 04:00:09",
+  "generated": "2026-08-12T06:00:09.126Z",
+  "timestamp": "12.8.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "KÜnstliche Intelligenz: Der 500-Milliarden-Pakt zwischen Nvidia und den Größen der Wall Street",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-und-goldman-sachs-500-mrd-dollar-fuer-ki-infrastruktur-201115243.html",
-          "summary": "Finanzhäuser wie Goldman Sachs wollen riesige Summen einsammeln, um Kunden des Chipkonzerns beim Ausbau der KI-Infrastruktur zu helfen. Das wirft einige Fragen auf.",
+          "title": "Fakevideos und Sabotage: Was Russland mit seinen hybriden Angriffen bezweckt",
+          "url": "https://www.faz.net/aktuell/politik/inland/russlands-hybride-angriffe-auf-deutschland-was-steckt-dahinter-accg-201112697.html",
+          "summary": "Russland wird hinter der Sprengstoffdrohne am Leipziger Flughafen vermutet. Es wäre nicht der erste hybride Angriff auf Deutschland. Ein Überblick.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f32f7dfbd6e9/w4463h2331x0y755o/202607/43601.0.2375263997/die-nachfrage-ist-real-nvidia.webp"
-        },
-        {
-          "title": "Lügen im Netz: Betrüger missbrauchen das F.A.Z.-Logo für KI-Hetze",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/f-a-z-logo-fuer-ki-hetze-missbraucht-kampagne-timetodividegermany-201114236.html",
-          "summary": "Wasserzeichen für Krawallbrüder: Unter dem Titel „TimeToDivideGermany“ werden gerade KI-Videos verbreitet, die zur Teilung Deutschlands aufrufen. Sie sind unter anderem mit dem Logo der F.A.Z. versehen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0d02f391ae67/w5664h2959x0y571o/202607/43601.0.2321573476/bjoern-hoeckes-melodie-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b2785e131424/w3000h1567x0y103o/202501/43601.0.776766668/vermutlich-teil-der-russischen.webp"
         },
         {
           "title": "Russische Einflussoperation: Gefälschte Videos sollen Ostdeutsche aufhetzen",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/7801e302fca0/w5183h2708x0y989o/202606/43601.0.2178452205/handschlag-der-afd-politiker.webp"
+        },
+        {
+          "title": "Lügen im Netz: Betrüger missbrauchen das F.A.Z.-Logo für KI-Hetze",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/f-a-z-logo-fuer-ki-hetze-missbraucht-kampagne-timetodividegermany-201114236.html",
+          "summary": "Wasserzeichen für Krawallbrüder: Unter dem Titel „TimeToDivideGermany“ werden gerade KI-Videos verbreitet, die zur Teilung Deutschlands aufrufen. Sie sind unter anderem mit dem Logo der F.A.Z. versehen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0d02f391ae67/w5664h2959x0y571o/202607/43601.0.2321573476/bjoern-hoeckes-melodie-im.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "China: Taifun »Dolphin«, Starkregen und die Folgen des Klimawandels",
-          "url": "https://www.spiegel.de/ausland/china-taifun-dolphin-starkregen-und-die-folgen-des-klimawandels-a-19c44e1b-7eaf-4d91-9745-caa80c5f701a#ref=rss",
-          "summary": "Taifun »Dolphin« wütete an Chinas Ostküste, nun zieht Starkregen nach Norden. In Pekinger U-Bahnen liegen Sandsäcke bereit. Wie der Klimawandel China trifft und wie das Land damit umgeht.",
+          "title": "Niedrigwasser am Rhein: Was bringt die Aussetzung von Lkw-Fahrverboten?",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/niedrigwasser-am-rhein-was-bringt-die-aussetzung-von-lkw-fahrverboten-a-6dc70b33-6098-4e6f-8dd4-7659b2e10bce#ref=rss",
+          "summary": "Der niedrige Rheinpegel bremst den Schiffsverkehr aus, Lockerungen der Lkw-Sonntagsfahrverbote sollen dagegen helfen. Doch laut IW-Ökonom Puls wirft das nur neue Probleme auf.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/099007b4-ae1c-40a6-bae3-883af9810c76_w1200_r1.778_fpx45_fpy37.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d9191872-3d47-457e-a44c-e0fec50afe58_w1200_r1.778_fpx33.34_fpy50.jpg"
         },
         {
           "title": "Weibliche Nazi-Anhänger im »Dritten Reich«: Hitlers Fangirls",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/73afd6c5-253e-48fe-b31b-353da732ca49_w1200_r1.778_fpx72_fpy51.jpg"
         },
         {
-          "title": "Berlin: Politiker fordern wegen Spionageverdachts Schließung von Russischem Haus",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-politiker-fordern-wegen-spionageverdacht-schliessung-von-russischem-haus-a-8eba6917-e63e-4222-8fc9-5ca0f6107847#ref=rss",
-          "summary": "Kultureinrichtung oder Spionagezentrale? Das Auswärtige Amt ist noch zurückhaltend, doch parteiübergreifend fordern Politiker ein härteres Vorgehen gegen das Russische Haus in Berlin. Deutschland strahle mit der Duldung »Schwäche pur« aus.",
+          "title": "News: Friedrich Merz, Lars Klingbeil, BND, Mohsen Rezaee, Donald Trump, Sonnenfinsternis",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-lars-klingbeil-bnd-mohsen-rezaee-donald-trump-sonnenfinsternis-a-2c7dbd33-01c6-43fc-af2f-a915d4ae4217#ref=rss",
+          "summary": "Nach dem Drohnenvorfall von Leipzig beschließt das Kabinett eine Reform der Geheimdienste. In Iran haben noch mehr Hardliner das Sagen. Und: Deutschland erlebt eine partielle Sonnenfinsternis. Das ist die Lage am Mittwochmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bc48cdb9-35c9-4455-a5ba-d58ca24b6ab9_w1200_r1.778_fpx43.98_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Anthropic führt Wasserzeichen bei KI-Texten ein",
-          "url": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html",
-          "summary": "Anthropic will Texte seines Chatbots Claude mit einem unsichtbaren Wasserzeichen versehen. Grund sind neue EU-Vorgaben: KI-Inhalte müssen künftig mit maschinenlesbaren Markierungen versehen werden.",
+          "title": "Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
+          "url": "https://www.tagesschau.de/ausland/trump-briefwahl-104.html",
+          "summary": "Im November wird über die Neubesetzung vieler Sitze im US-Parlament abgestimmt. Präsident Trump wollte deutlich striktere Regeln bei der Briefwahl. Diese wurden nun von einer Richterin blockiert - mit landesweiter Geltung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c6660ace-982a-4db4-bc17-f30fd4df36cb/AAABn_NTRDA/AAABnSSvrFg/16x9-big/claude-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f554b08d-b42a-48e0-af88-775d5865551f/AAABm4gyzE8/AAABnSSvrFg/16x9-big/us-kapitol-152.jpg?width=1280"
         },
         {
-          "title": "US-Militär beschießt Tanker im Golf von Oman",
-          "url": "https://www.tagesschau.de/ausland/asien/nahost-hormus-us-beschuss-tanker-100.html",
-          "summary": "Die USA blockieren Schiffe, die iranische Häfen ansteuern oder von diesen ablegen. Nun hat das US-Militär einen Tanker bei dem Versuch beschossen, die amerikanische Blockade zu durchbrechen.",
+          "title": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html",
+          "summary": "Teure WG-Zimmer, Einkaufen im Supermarkt - die Preise machen Studentinnen und Studenten zu schaffen. Nach langem Ringen um eine Reform macht die Regierung heute den ersten Schritt für ein höheres BAföG.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3a0d945-a80b-4fa8-8c7c-99e05a59d67b/AAABnm137xE/AAABnSSvrFg/16x9-big/karte-strasse-von-hormus-persischer-golf-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7f4ca263-ea36-4558-9cdd-fd3bdcd52e97/AAABlenmEjI/AAABnSSvrFg/16x9-big/universitaet-studium-101.jpg?width=1280"
         },
         {
-          "title": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
-          "url": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
-          "summary": "Im Libanon gibt es keine Todesstrafe mehr. Dafür hat eine Mehrheit der Abgeordneten im Parlament gestimmt - bis auf den Hisbollah-Block. Statt der Todesstrafe droht Verurteilten künftig lebenslange Haft mit schwerer Zwangsarbeit.",
+          "title": "Neue Regeln der EU: Diese Verpackungen gibt es bald nicht mehr",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/neue-regeln-eu-verpackungsverordnung-100.html",
+          "summary": "Ab heute gelten in der EU schärfere Regeln bei Verpackungen. Das Ziel: die Menge an Müll deutlich reduzieren. Nach dem Aus für Plastik-Trinkhalme heißt es für Verbraucher bald Abschied nehmen von bestimmten Verpackungen. Von Sara López.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/627e783f-0422-4961-a29d-c602b972178d/AAABn_I0HeQ/AAABnSSvrFg/16x9-big/libanon-parlament-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/62e924ba-fdd0-4c1c-a9e2-7bfb990c14fe/AAABn-uQdFY/AAABnSSvrFg/16x9-big/zitronen-netz-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "US-Ölreserve fällt unter 300-Millionen-Barrel-Marke",
+          "url": "https://www.telepolis.de/article/US-Oelreserve-faellt-unter-300-Millionen-Barrel-Marke-11410089.html",
+          "summary": "Die strategische Erdölreserve der USA ist auf dem niedrigsten Stand seit 1983. Experten warnen vor strukturellen Risiken der Lagerstätten. Ein Überblick.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/4/8/8/6/shutterstock_2558547381-b41a9901e992cff1.jpg"
+        },
         {
           "title": "Royal Navy: Kameras auf Seedrohnen funkten heimlich nach China",
           "url": "https://www.telepolis.de/article/Royal-Navy-Kameras-auf-Seedrohnen-funkten-heimlich-nach-China-11410373.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/4/8/1/9/longmarch7a-c2c22ca2ac58d92e.jpg"
-        },
-        {
-          "title": "Machtkampf im Kongo: US-Rohstoff-Deals heizen die Gewalt im Osten weiter an",
-          "url": "https://www.telepolis.de/article/Machtkampf-im-Kongo-US-Rohstoff-Deals-heizen-die-Gewalt-im-Osten-weiter-an-11404204.html",
-          "summary": "Die USA sichern sich Kobalt und Kupfer im Kongo. Doch die Friedensdiplomatie scheitert: Die M23-Miliz terrorisiert die Region Ostkongo weiter.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/0/1/0/7/Voir_le_CONGO-7bdaebaa61203e5e.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Russland lässt inhaftierten ehemaligen US-Soldaten frei",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-gilman-putin-us-soldat-li.3523200",
-          "summary": "Putin habe der Freilassung aus humanitären Gründen zugestimmt, schreibt US-Präsident Trump auf Truth Social. Robert Gilman wurde 2022 bei einer Zugreise durch Russland verhaftet.",
+          "title": "Sonnenfinsternis: Wie sich Spanien auf das befürchtete Sofi-Chaos vorbereitet",
+          "url": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-spanien-chaos-verkehr-beobachtung-li.3528129",
+          "summary": "Hunderttausende Spanier und ausländische Besucher werden sich am Mittwoch auf den Weg machen, um die Sonnenfinsternis von einem geeigneten Ort aus zu bewundern. Seit mehr als einem Jahr bereiten sich die Behörden auf den Ansturm vor.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/11/2f01d35d-ab2b-4132-a989-51b63aafef18.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C217%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/08/11/1e4aac00-4a64-4f22-8f76-0fbb9079d33a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Kolumne „Schön doof“: Echt jetzt?",
-          "url": "https://www.sueddeutsche.de/leben/donald-trump-frisur-haare-vater-fred-trump-li.3503881",
-          "summary": "Wundersame Haarvermehrung: Warum das Internet gerade mit Spekulationen über Donald Trumps Frisur überschwemmt wird.",
+          "title": "Krieg in der Ukraine: Selenskij warnt vor erneuter russischer Mobilmachung",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-mobilmachung-selenskij-li.3524928",
+          "summary": "Die massenhafte Rekrutierung von Soldaten werde für den Herbst vorbereitet, behauptet der ukrainische Präsident und beruft sich auf Geheimdienstinformationen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/11/53a6a1f5-d860-48f6-91e9-4d925fdcf8a5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C329%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/08/12/6e998b9d-d882-40ff-aa6d-2718e411beca.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C34%2C4000%2C2250"
         },
         {
-          "title": "Astronomisches Ereignis: Bekommt man jetzt noch Brillen für die Sonnenfinsternis?",
-          "url": "https://www.sueddeutsche.de/panorama/sonnenfinsternis-brillen-ausverkauft-alternativen-li.3529662",
-          "summary": "Ein Doppelpack Brillen, CE-zertifiziert, das Online-Angebot klingt super. Einziger Haken: Schnellste Lieferung ist nächsten Dienstag. Was brillenlose Kurzentschlossene noch probieren können.",
+          "title": "USA: Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-gericht-boston-li.3523200",
+          "summary": "Der US-Präsident will die Post zu einer Art Wahlkontrolleur machen. Eine Richterin in Boston stellt sich dagegen. Trumps Anordnung stifte Verwirrung und könne zu Chaos führen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/11/f84fbd8b-a04d-4c0b-ada5-00c68cb21ae2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/12/bc44acfb-3720-47a4-b47d-8ec0e6c7a583.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C365%2C3500%2C1969"
         }
       ]
     }
