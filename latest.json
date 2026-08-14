@@ -1,39 +1,47 @@
 {
-  "generated": "2026-08-14T18:00:09.332Z",
-  "timestamp": "14.8.2026, 20:00:09",
+  "generated": "2026-08-14T22:00:09.109Z",
+  "timestamp": "15.8.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Evakuierungen in NRW: Die Brandbilder gehen alle an",
-          "url": "https://www.faz.net/aktuell/politik/inland/die-brand-bilder-aus-nordrhein-westfalen-gehen-alle-an-201126737.html",
-          "summary": "Die Hitze betrifft alle, und sie ist auch Sache aller. Vom Einzelnen bis zum Staat. Der konkrete Schutz wird bisher stiefmütterlich behandelt.",
+          "title": "Fataler Hackerangriff: Ein Debakel für Liechtenstein",
+          "url": "https://www.faz.net/aktuell/wirtschaft/hackerangriff-ein-debakel-fuer-liechtenstein-201123193.html",
+          "summary": "Der vertrauensschädigende Datendiebstahl bringt den gesamten Finanzplatz in Misskredit. Die hanebüchenen Sicherheitslücken werfen kein gutes Licht auf die Regierung in Vaduz.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e41af0cabbc2/w2076h1084x0y251o/202608/43601.0.2433276784/mit-allen-mittel-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/832e4655bc43/w3000h1567x0y60o/202504/43601.0.944909399/liechtenstein-auf-der-wiese.webp"
         },
         {
-          "title": "Brand im Hürtgenwald: „Größter Waldbrand in der Geschichte Nordrhein-Westfalens“",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/waldbrand-huertgenwald-weltkriegsmunition-explodiert-und-erschwert-die-loescharbeiten-accg-201124965.html",
-          "summary": "Mit Hubschraubern, Panzern und Wasserwerfern kämpfen sie gegen das Feuer, derweil rücken die Flammen immer näher an den Ortsteil Gey. 1800 Menschen müssen ihr Zuhause verlassen. Munition aus dem Zweiten Weltkrieg erschwert die Löscharbeiten.",
+          "title": "Europameisterschaft: Owen Ansah sprintet in Birmingham zu Gold über 200 Meter",
+          "url": "https://www.faz.net/aktuell/sport/mehr-sport/owen-ansah-em-gold-ueber-200-meter-in-birmingham-201128458.html",
+          "summary": "Owen Ansah gewinnt bei der Leichtathletik-EM in Birmingham Gold über 200 Meter. Der Hamburger schreibt damit deutsche Sprintgeschichte.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9aa6f401b159/w3775h1972x0y272o/202608/43601.0.2433569311/schon-von-weitem-sind-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a724d157eb7b/w2300h1201x0y187o/202608/43601.0.2434877743/owen-ansah-gewinnt-bei-der.webp"
         },
         {
-          "title": "Hitze-Liveblog: Rheinpegel bei Kaub erstmals einstellig",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/liveticker-zur-hitzewelle-rheinpegel-bei-kaub-erstmals-einstellig-faz-200949959.html",
-          "summary": "Niedriger Rheinpegel sorgt für Spritknappheit in Ostfrankreich +++ Bodensee-Wasser auf niedrigstem Stand in diesem Jahr +++ Temperaturen bis zu 38 Grad in Deutschland erwartet +++ alle Entwicklungen im Liveblog",
+          "title": "Leichtathletik-EM: Shanice Craft gewinnt erstmals EM-Silber im Diskuswurf",
+          "url": "https://www.faz.net/aktuell/sport/mehr-sport/shanice-craft-gewinnt-em-silber-im-diskuswurf-in-birmingham-201128478.html",
+          "summary": "Nach acht Jahren steht Shanice Craft wieder auf dem EM-Podium. Die Deutsche muss sich nur Jorinde van Klinken geschlagen geben.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2a582e6514b2/w5493h2870x3y110o/202608/43601.0.2433149875/burg-pfalzgrafenstein-im-rhein.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2214b56bea05/w5109h2669x0y634o/202608/43601.0.2434925665/shanice-craft-gewinnt-in.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Donald Trump: So verlief die Flucht im Catering-Container",
+          "url": "https://www.spiegel.de/ausland/donald-trump-so-verlief-die-flucht-im-catering-container-a-cf01f83f-604e-422d-a941-d573d6228884#ref=rss",
+          "summary": "Mit einem Täuschungsmanöver wurde US-Präsident Trump vor einem angeblich drohenden iranischen Anschlag in Sicherheit gebracht. Der Rest seiner Delegation blieb als argloser »Köder« zurück. Die Rekonstruktion.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/06624374-e348-43af-8f12-1deb7e1d5739_w1200_r1.778_fpx42.6_fpy49.97.jpg"
+        },
         {
           "title": "Hürtgenwald in der Eifel: Bewohner warten auf Evakuierung wegen Waldbrand",
           "url": "https://www.spiegel.de/panorama/huertgenwald-in-der-eifel-bewohner-warten-auf-evakuierung-wegen-waldbrand-a-72de5537-107f-4566-bae9-62c72ac73c23#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e98d125e-cbd8-4c6f-967d-864fe7802747_w1200_r1.778_fpx42_fpy53.jpg"
         },
         {
-          "title": "News des Tages: Alexandria Ocasio-Cortez, Bundespräsidentenwahl, Parkplatzprobleme",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-alexandria-ocasio-cortez-bundespraesidentenwahl-parkplatzprobleme-a-4cb84470-2efd-485d-ab4e-d8b416b21f6e#ref=rss",
-          "summary": "Eine berühmte US-Demokratin hegt Präsidentschaftsambitionen. Berlin spekuliert über die Nachfolge von Frank-Walter Steinmeier, und Deutschlands Städte fragen sich: wohin mit all den Autos? Das ist die Lage am Freitagabend.",
+          "title": "Sachsen-Anhalt: Wie Campact mit drei Millionen Euro gegen die AfD mobilisiert",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-campact-mit-drei-millionen-euro-gegen-die-afd-mobilisiert-a-19554589-1655-4bc8-b5c7-abe7ee807d59#ref=rss",
+          "summary": "Die Plattform Campact will mit Millionenspenden eine Alleinregierung der AfD verhindern, indem sie SPD und Grünen den Einzug in den Landtag sichert. Ein ähnlicher Aufruf war schon einmal erfolgreich.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Nigel Farage: Nach Wahlsieg gegen Count Binface droht Neuwahl",
-          "url": "https://www.spiegel.de/ausland/nigel-farage-nach-wahlsieg-gegen-count-binface-droht-neuwahl-a-ee333229-43a2-4494-919b-1b6ab4cf1256#ref=rss",
-          "summary": "Der britische Rechtspopulist Nigel Farage hat die von ihm selbst erzwungene Nachwahl gegen den Satirekandidaten Count Binface gewonnen. Doch wegen eines nicht deklarierten Millionengeschenks könnte die Abstimmung schon bald wiederholt werden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bc1e6d50-3919-4c29-ba30-92b3e8fb6627_w1200_r1.778_fpx49_fpy38.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/855ec396-3d82-4372-9ae8-47a390644a7e_w1200_r1.778_fpx53_fpy62.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
+          "url": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html",
+          "summary": "Der Deutsche Owen Ansah hat sich bei der Leichtathletik-EM im britischen Birmingham Gold über die 200-Meter-Distanz gesichert. Er lief die Strecke in 19,95 Sekunden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/89045d82-5cd5-46ad-8f91-73911add30ee/AAABlpITK5s/AAABnSSvrFg/16x9-big/tagesschau-logo-100.jpg?width=1280"
+        },
+        {
+          "title": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html",
+          "summary": "wird vorgeworfen, den Chef eines US-Krankenversicherers auf offener Straße erschossen zu haben. Nun hat er die tödlichen Schüsse gestanden. Er ist seit seiner Verhaftung auch zu einer Symbolfigur geworden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/6bc688a0-7b74-432c-bce1-1216a91f5846/AAABoAEgI64/AAABnSSvrFg/16x9-big/bundesgericht-new-york-100.jpg?width=1280"
+        },
+        {
           "title": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
           "url": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
           "summary": "Seit Wochen gibt es kaum Regen, dazu extreme Temperaturen und jetzt einen Waldbrand in der Eifel. Feuerökologe Alexander Held sieht darin einen \"doppelten Weckruf\". Wie gut ist Deutschland auf solche Gefahren vorbereitet?",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/63a73014-bd90-4ec3-b1c4-cbd6eb3beab1/AAABoAE4vfY/AAABnSSvrFg/16x9-big/waldbrand-huertgenwald-100.jpg?width=1280"
-        },
-        {
-          "title": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
-          "summary": "Im nordrhein-westfälischen Hürtgenwald brennt es auf mehr als 200 Hektar. Es dürfte der größte Waldbrand in der Geschichte des Bundeslandes sein. Hunderte Menschen wurden dort evakuiert - andere Teile der Eifel könnten folgen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/9be07998-64cf-4f01-bbbd-97b6aac7ee51/AAABoAEtV30/AAABnSSvrFg/16x9-big/huertgenwald-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
-          "summary": "Der DAX verabschiedet sich ohne neuen Rekord ins Wochenende, trotzdem sind Anleger zufrieden. Dafür verantwortlich sind starke Firmenbilanzen und nachlassende Sorgen vor steigenden US-Zinsen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c80e681d-4ba5-4e9f-93a2-e2ff9118cfb7/AAABld9XjcU/AAABnSSvrFg/16x9-big/boerse-297.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
-          "url": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
-          "summary": "In der Eifel wütet der schlimmste Waldbrand in der Geschichte Nordrhein-Westfalens. Weltkriegsmunition erschwert die Löscharbeiten. Auch Panzer stehen zur Hilfe bereit.",
+          "title": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
+          "url": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
+          "summary": "Erst ein Fehler mit dem Reifen, dann eine spektakuläre Aufholjagd mit Keulen, Ball und Band: Die deutsche Olympiasiegerin Darja Varfolomeev gewinnt erneut den Mehrkampf-Titel bei der Weltmeisterschaft.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/14/338c07cc-c7e6-4ec6-b24e-86e143666fc3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/14/10b60c0b-1917-43d4-a056-c8dc257361ce.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C239%2C3971%2C2234"
         },
         {
-          "title": "Kolumbien: Die geretteten Babys von Cali",
-          "url": "https://www.sueddeutsche.de/panorama/babys-gerettet-kolumbien-erdbeben-rettungsaktion-li.3531581",
-          "summary": "Als die Erde in Cali bebte, nahm die Krankenschwester Aurora Luna Babys in den Arm und brachte sie in Sicherheit. Jetzt arbeitet sie weiter. In einem Krankenhaus, das beim nächsten Beben einzustürzen droht.",
+          "title": "USA: Truppen nur für Trump-Loyalisten? USA schicken offenbar Nato-Verbündeten Fragebogen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-nato-fragebogen-li.3530667",
+          "summary": "Dass der US-Präsident Gefolgschaft verlangt, ist bekannt. Doch nun verschickt das Pentagon, das an Truppenabzugsplänen arbeitet, einem Medienbericht zufolge einen Fragebogen an Verbündete.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/14/7c9b73b8-597e-4626-9835-d623ca9d3427.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C372%2C3968%2C2232"
+          "image": "https://www.sueddeutsche.de/2026/08/14/19026862-a0c0-4d66-8635-940a008b36d8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C122%2C1647%2C926"
         },
         {
-          "title": "Kinder- und Jugendschutz: Französischer Verfassungsrat kippt Altersgrenze für soziale Medien",
-          "url": "https://www.sueddeutsche.de/politik/social-media-verbot-frankreich-macron-verfassungsgericht-li.3531612",
-          "summary": "Jugendliche unter 15 Jahren dürfen in Frankreich vorerst weiter Tiktok, Instagram und andere Plattformen nutzen. Emmanuel Macron erfährt damit eine bittere Niederlage – will das Gesetz aber sofort anpassen.",
+          "title": "Premier League: Amazon-Gründer Bezos steigt beim FC Liverpool ein",
+          "url": "https://www.sueddeutsche.de/sport/amazon-gruender-jeff-bezos-fc-liverpool-investor-li.3531695",
+          "summary": "Einer der reichsten Männer der Welt investiert in den Premier-League-Spitzenclub FC Liverpool. Als Teil eines Konsortiums pumpt Bezos frisches Geld in den Verein. Nicht jedem gefällt das.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/14/e3be6e3b-97ed-403a-a2b1-fbad6a1f5eec.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C57%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/08/14/1b69db01-4b3a-4393-a3f0-60c6b8e4ae6f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=347%2C404%2C3306%2C1860"
         }
       ]
     }
