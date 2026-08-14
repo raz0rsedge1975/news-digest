@@ -1,10 +1,26 @@
 {
-  "generated": "2026-08-14T02:00:08.824Z",
-  "timestamp": "14.8.2026, 04:00:08",
+  "generated": "2026-08-14T06:00:08.987Z",
+  "timestamp": "14.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Berichte über Suizidversuche: Was ist auf der USS Abraham Lincoln los?",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/was-ist-auf-der-im-nahen-osten-stationierten-uss-abraham-lincoln-los-accg-201123992.html",
+          "summary": "Auf dem im Nahen Osten stationierten Flugzeugträger kommt es nach sechs Monaten auf offener See laut Angehörigen vermehrt zu psychologischen Notfällen. Die Marine widerspricht.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/06fb5dbc7a4b/w5845h3054x0y237o/202608/43601.0.2430263464/auf-dem-deck-des.webp"
+        },
+        {
+          "title": "USA unter Trump: Trump ordnet Rückkehr zu Dampfkatapulten auf Flugzeugträgern an",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-ordnet-rueckkehr-zu-dampfkatapulten-auf-flugzeugtraegern-an-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump soll republikanischen Senator angeschrien haben / Jetzt lesen im Liveticker der FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/7a57397e49c7/w4394h2295x0y228o/202607/43601.0.2316490093/kampfjets-auf-einem-us.webp"
+        },
         {
           "title": "Leichtathletik-EM: Gold und Silber für Deutschland im Zehnkampf – Bronze im Diskuswurf",
           "url": "https://www.faz.net/aktuell/sport/mehr-sport/leichathletik-em-in-birmingham-leo-neugebauer-und-niklas-kaul-gewinnen-gold-und-silber-im-zehnkampf-201124631.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/9d5162f9e261/w4373h2284x0y338o/202608/43601.0.2431222447/leo-neugebauer-mitte-und.webp"
-        },
-        {
-          "title": "Kritik an Gesa Krause: „Das ist einem ja bewusst: Gesa will einfach keinen Meter machen“",
-          "url": "https://www.faz.net/aktuell/sport/mehr-sport/leichtathletik-em-gesa-krause-holt-gold-ueber-3000-meter-hindernis-201124572.html",
-          "summary": "Bei der Leichtathletik-EM gewinnt Gesa Krause über 3000 Meter Hindernis den ersten Titel für Deutschland – und das dritte EM-Gold ihrer Karriere. Ihre Teamkollegin übt im Anschluss aber harsche Kritik an der Siegerin.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e10107392cb1/w5499h2873x0y456o/202608/43601.0.2431174747/der-moment-der-entscheidung.webp"
-        },
-        {
-          "title": "Liveblog Irankrieg: Emirate melden iranische Angriffe auf zwei Schiffe in Straße von Hormus",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-geplante-gebuehr-fuer-strasse-von-hormus-iran-verweist-auf-umweltschaeden-faz-200583539.html",
-          "summary": "Der Ölkonzern Adnoc spricht von einem „feindlichen Angriff“ +++ Iran begründet Gebühr für Schiffe mit Umweltschäden +++ Trump: „Straße von Hormus gehört uns“ +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3a58d9820989/w6000h3135x0y433o/202608/43601.0.2431516929/schiffe-im-gold-von-oman.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Alexandria Ocasio-Cortez: Linke Ikone mit wachsenden Präsidentschaftsambitionen",
-          "url": "https://www.spiegel.de/ausland/alexandria-ocasio-cortez-linke-ikone-mit-wachsenden-praesidentschaftsambitionen-a-d4ad4df4-1848-427c-8fe1-41098985a475#ref=rss",
-          "summary": "Sie ist der Star bei den Demokratischen Sozialisten: Die Abgeordnete Alexandria Ocasio-Cortez bereitet sich auf höhere Ämter vor. Und verärgert dabei ihre linken Weggefährten.",
+          "title": "Parkplatz-Geschäft: Wie Supermärkte ihre Stellflächen vermarkten",
+          "url": "https://www.spiegel.de/wirtschaft/parkplatz-geschaeft-wie-supermaerkte-ihre-stellflaechen-vermarkten-a-2ff3d57d-f25c-4c37-bd03-0517138fc2ea#ref=rss",
+          "summary": "Parkplätze sind totes Kapital? Immer mehr Supermärkte vermieten ihre Stellplätze in Städten, Discounter schaffen die Schranken vor ihren Filialen ab. Wie das Parken zum Geschäft wird.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f92cd8c1-4498-4907-b89a-8f03cf037494_w1200_r1.778_fpx51_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0957cc16-4b70-4ca6-ad8a-50ffdbbd5bab_w1200_r1.778_fpx37.5_fpy50.jpg"
         },
         {
-          "title": "Leichtathletik-EM: Leo Neugebauer holt EM-Gold im Zehnkampf – Niklas Kaul Zweiter",
-          "url": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-leo-neugebauer-holt-em-gold-im-zehnkampf-niklas-kaul-zweiter-a-4da16f85-11b5-4a28-900c-4bbeeb8afb44#ref=rss",
-          "summary": "Der Weltmeister triumphiert auch bei der EM: Leo Neugebauer hat sich im Zehnkampf gegen seinen Teamkollegen Niklas Kaul durchgesetzt. Am Ende reichten 38 Punkte Vorsprung.",
+          "title": "News: Frust in der SPD, Bandengewalt in Berlin, Futtermangel in der Landwirtschaft",
+          "url": "https://www.spiegel.de/politik/deutschland/news-frust-in-der-spd-bandengewalt-in-berlin-futtermangel-in-der-landwirtschaft-a-efd47bd0-cfc0-4701-8e06-a587db25b4f6#ref=rss",
+          "summary": "Die SPD-Chefs ziehen den Zorn der Basis auf sich. Eine Serie von Schutzgelderpressungen erschüttert Berlin. Landwirten geht das Tierfutter aus. Das ist die Lage am Freitagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7f3aa0a6-3885-4dfd-9935-44fe374f1675_w1200_r1.778_fpx43_fpy51.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Ulrich Siegmund und die AfD in Sachsen-Anhalt: Der gefährlichste Mann Deutschlands",
-          "url": "https://www.spiegel.de/politik/ulrich-siegmund-und-die-afd-in-sachsen-anhalt-der-gefaehrlichste-mann-deutschlands-a-266e764d-1785-4f3a-85da-24d939148dc3#ref=rss",
-          "summary": "AfD-Spitzenpolitiker Ulrich Siegmund will sich in Sachsen-Anhalt an die Macht lächeln. Hinter ihm: ein rechtsextremes Netzwerk und Personal, das selbst der eigenen Parteispitze Angst macht. Die SPIEGEL-Titelstory.",
+          "title": "Hürtgenwald: Waldbrand in der Eifel – NRW-Ortsteil evakuiert",
+          "url": "https://www.spiegel.de/panorama/huertgenwald-waldbrand-in-der-eifel-nrw-ortsteil-evakuiert-a-d90cff71-1e6b-4575-811d-e0ab921b171d#ref=rss",
+          "summary": "Die Feuerwehr kämpft gegen einen Waldbrand im nordrhein-westfälischen Kreis Düren. Weil die Flammen einem Teil der Gemeinde Hürtgenwald gefährlich nahekommen, müssen sich nun Hunderte Menschen in Sicherheit bringen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8d8a8e6d-6e4e-400b-985c-dc52c609e477_w1200_r1.778_fpx44_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e98d125e-cbd8-4c6f-967d-864fe7802747_w1200_r1.778_fpx30_fpy45.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bauernverband befürchtet teils totalen Ernteausfall",
-          "url": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
-          "summary": "Die Trockenheit trifft Weizen, Kartoffeln und Zuckerrüben: Bauernpräsident Rukwied spricht von einer \"brutal angespannten\" wirtschaftlichen Lage. Er stellt Forderungen an die Politik. Denn in einigen Gebieten ist ein totaler Ernteausfall möglich.",
+          "title": "Waldbrand in der Eifel - Evakuierung in Gemeinde Hürtgenwald",
+          "url": "https://www.tagesschau.de/inland/regional/nrw-waldbrand-eifel-100.html",
+          "summary": "In der Eifel breitet sich seit Donnerstag ein Waldbrand aus und rückt immer näher an den Hürtgenwalder Ortsteil Gey heran. In der Nacht wurde die Evakuierung angeordnet, etwa 1. 800 Menschen sind bislang davon betroffen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5c81aa9c-641c-47b9-b88b-42ce4f59994a/AAABn_2c0xY/AAABnSSvrFg/16x9-big/landwirtschaft-ernte-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c75d3aac-5c87-4ca6-982e-aa75cab75ba8/AAABn_7SjRY/AAABnSSvrFg/16x9-big/evakuierung-huertgenwald-100.jpg?width=1280"
         },
         {
-          "title": "Gericht weist Klage der US-Regierung gegen Harvard ab",
-          "url": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
-          "summary": "Trumps US-Regierung kassierte bereits im vergangenen Jahr in einem rechtlichen Streit mit der Eliteuniversität Hardvard eine Niederlage. Nun scheitert sie erneut vor Gericht. Im Zentrum stand ein Antisemitismus-Vorwurf.",
+          "title": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-aetna-asche-folgen-flugverkehr-100.html",
+          "summary": "Nach dem Ätna-Ausbruch weichen viele Reisende inzwischen auf den Flughafen Palermo aus, um Sizilien zu verlassen. Doch auch das ist mit Komplikationen verbunden. Und der Ätna scheint nicht an Aktivität zu verlieren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f8cb440d-d793-4198-94d2-ab82b6c487c7/AAABnCJGDG0/AAABnSSvrFg/16x9-big/harvard-144.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/adc68b73-9044-4af6-b7ba-edcb03285a1b/AAABn_wBN-g/AAABnSSvrFg/16x9-big/aetna-170.jpg?width=1280"
         },
         {
-          "title": "Alabali Radovan: Afghanen helfen ohne Taliban-Kooperation",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
-          "summary": "Afghanistan ist wegen der Abschiebungen dorthin oft Thema in der Bundespolitik. Doch Deutschland leistet auch Entwicklungshilfe für das Land - und das ohne mit den Taliban zusammenzuarbeiten, sagt die Entwicklungsministerin. Von Gabor Halasz.",
+          "title": "Warum Christopher Nolans \"Die Odyssee\" für Debatten sorgt",
+          "url": "https://www.tagesschau.de/kultur/die-odyssee-popkultur-kontroversen-100.html",
+          "summary": "Wirtschaftlich ist \"Die Odyssee\" ein voller Erfolg. Doch mit seinem Film hat Christopher Nolan auch Diskussionen über internationale Politik ausgelöst - und wird selbst für einen kontroversen Drehort kritisiert. Von F. Meyen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/018f35f4-e1cb-41c4-9925-f34fd3f9a6ed/AAABmy_PsX4/AAABnSSvrFg/16x9-big/radovan-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a123d740-b8ab-4a0b-aa28-2370a5050417/AAABn_V-PIY/AAABnSSvrFg/16x9-big/odyssee-122.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Odessa: Warum der Schwarzmeerzugang entscheidend für die Zukunft der Ukraine ist",
+          "url": "https://www.telepolis.de/article/Odessa-Warum-der-Schwarzmeerzugang-entscheidend-fuer-die-Zukunft-der-Ukraine-ist-11412796.html",
+          "summary": "Russland blockiert Odessas Häfen. Ohne Seehandel bricht die Agrarwirtschaft ein – mit langfristigen Folgen für Wiederaufbau und Bevölkerung. Ein Gastbeitag.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/6/2/4/1/shutterstock_2690363649-2e0e50ac5e76b50e.jpg"
+        },
         {
           "title": "Rüstung statt Hilfe: Bundesregierung kürzt für Panzer bei Welternährungsprogramm",
           "url": "https://www.telepolis.de/article/Ruestung-statt-Hilfe-Bundesregierung-kuerzt-fuer-Panzer-bei-Welternaehrungsprogramm-11412187.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/6/1/7/3/shutterstock_2642231045-9cb59a0a773a826c.jpg"
-        },
-        {
-          "title": "Frankreichs Dürre erreicht die Wasserhähne",
-          "url": "https://www.telepolis.de/article/Frankreichs-Duerre-erreicht-die-Wasserhaehne-11412892.html",
-          "summary": "000 Menschen waren bereits von Unterbrechungen der Wasserversorgung betroffen, für 550. 000 ist die Lage angespannt. Die neue Hitzewelle erhöht den Druck.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/6/2/8/9/Master_Frankreich-ab62ff64c48e9825.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Hitzewelle: Bis zu 38 Grad: Deutschland schwitzt weiter",
-          "url": "https://www.sueddeutsche.de/panorama/bis-zu-38-grad-deutschland-schwitzt-weiter-li.3522772",
-          "summary": "Im Westen und Südwesten des Landes werden heute bis zu 38 Grad erwartet. Erst am Sonntag ist etwas Abkühlung in Sicht.",
+          "title": "USA: USA verhängen hohe Zölle auf Drohnen und Drohnen-Bauteile",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-zoelle-drohnen-li.3530667",
+          "summary": "Die Regierung begründet die Maßnahme mit der nationalen Sicherheit. Die USA seien zu abhängig von Drohnen und Bauteilen aus dem Ausland.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2025/12/22/ea70bf62-fca8-4408-99ee-d53f9db76502.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "Krieg in der Ukraine: Lettland ruft Luftalarm aus, Nato-Kampfjets schießen Drohne ab",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-baltikum-luftalarm-nato-jets-li.3524928",
+          "summary": "Das EU- und Nato-Mitglied Lettland sieht in der Nacht seine Grenzregion durch „russische elektromagnetische Kriegsführung“ bedroht. Kampfflugzeuge der Nato-Luftraumüberwachung schießen ein unbemanntes Flugobjekt ab.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2025/03/07/1fdd972b-12fe-434c-9d16-b25602795b70.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
+        },
+        {
+          "title": "Hitzewelle: Waldbrand in NRW: 1800 Menschen in Sicherheit gebracht",
+          "url": "https://www.sueddeutsche.de/panorama/1-800-menschen-werden-aus-nrw-gemeinde-huertgenwald-evakuiert-li.3522772",
+          "summary": "Nur wenige hundert Meter von Wohnhäusern entfernt wütet bei Hürtgenwald ein Waldbrand. Insgesamt stehen laut der Gemeinde rund 25 Hektar in Flammen.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/12/92ffa249-faab-4b1e-8b97-751d6f2f0349.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C93%2C2048%2C1152"
-        },
-        {
-          "title": "USA: Gericht weist Klage der Trump-Regierung gegen Harvard ab",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-harvard-antisemitismus-klage-gericht-li.3530667",
-          "summary": "Das Weiße Haus befindet sich im Konflikt mit mehreren Spitzenuniversitäten. Trump wirft Harvard unzureichende Maßnahmen gegen Antisemitismus vor.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/13/d018eaf1-2c9d-47c3-b6ba-2523482ecd3c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
-        },
-        {
-          "title": "Krieg in der Ukraine: Selenskij bittet USA um fünf Prozent ihrer „Patriot“-Raketen",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-patriot-raketen-li.3524928",
-          "summary": "Mit Blick auf den Winter fordert Selenskij erneut die Lieferung der Raketen, die wichtig bei der Abwehr russischer Angriffe sind. Laut UN war der Juli für ukrainische Zivilisten der tödlichste Monat seit Jahren.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/13/7075a406-08c8-4c68-a536-eedb6955d3e8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
