@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T22:00:09.574Z",
-  "timestamp": "14.8.2026, 00:00:09",
+  "generated": "2026-08-14T02:00:08.824Z",
+  "timestamp": "14.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/e10107392cb1/w5499h2873x0y456o/202608/43601.0.2431174747/der-moment-der-entscheidung.webp"
         },
         {
-          "title": "USA unter Trump: Gremium des Kennedy-Centers will Trumps Namen an Fassade zurückbringen",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trumps-name-soll-doch-an-das-kennedy-center-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump soll republikanischen Senator angeschrien haben / Jetzt lesen im Liveticker der FAZ",
+          "title": "Liveblog Irankrieg: Emirate melden iranische Angriffe auf zwei Schiffe in Straße von Hormus",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-geplante-gebuehr-fuer-strasse-von-hormus-iran-verweist-auf-umweltschaeden-faz-200583539.html",
+          "summary": "Der Ölkonzern Adnoc spricht von einem „feindlichen Angriff“ +++ Iran begründet Gebühr für Schiffe mit Umweltschäden +++ Trump: „Straße von Hormus gehört uns“ +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6ff58adeb2b4/w3685h1925x0y506o/202608/43601.0.2431440916/arbeiter-errichten-vor-dem.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3a58d9820989/w6000h3135x0y433o/202608/43601.0.2431516929/schiffe-im-gold-von-oman.webp"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Klage über Missstände - Flugzeugträger \"USS Abraham Lincoln\" wird wohl abgelöst",
-          "url": "https://www.tagesschau.de/ausland/amerika/us-flugzeugtraeger-uss-abraham-lincoln-100.html",
-          "summary": "Die Lebensmittel knapp, seit Monaten kein Landgang: US-Senatoren sorgen sich um die Marinestreitkräfte auf dem Flugzeugträger \"USS Abraham Lincoln\". Dieser soll offenbar nun abgelöst werden. Von Anne Schneider.",
+          "title": "Bauernverband befürchtet teils totalen Ernteausfall",
+          "url": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
+          "summary": "Die Trockenheit trifft Weizen, Kartoffeln und Zuckerrüben: Bauernpräsident Rukwied spricht von einer \"brutal angespannten\" wirtschaftlichen Lage. Er stellt Forderungen an die Politik. Denn in einigen Gebieten ist ein totaler Ernteausfall möglich.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5b209cf0-021e-4ae6-b2e5-34144667c3e7/AAABn_yGGS8/AAABnSSvrFg/16x9-big/uss-abraham-lincoln-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5c81aa9c-641c-47b9-b88b-42ce4f59994a/AAABn_2c0xY/AAABnSSvrFg/16x9-big/landwirtschaft-ernte-106.jpg?width=1280"
         },
         {
-          "title": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
-          "url": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
-          "summary": "Der Ex-Mediendirektor des Organisationskomitees der WM 2022 in Katar ist ein wichtiger Zeuge, wenn es um den Vorwurf der Zwangsarbeit und des Menschenhandels geht. Doch Abdullah Ibhais darf nicht zu einem Prozess in die USA reisen. Von B. Best.",
+          "title": "Gericht weist Klage der US-Regierung gegen Harvard ab",
+          "url": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
+          "summary": "Trumps US-Regierung kassierte bereits im vergangenen Jahr in einem rechtlichen Streit mit der Eliteuniversität Hardvard eine Niederlage. Nun scheitert sie erneut vor Gericht. Im Zentrum stand ein Antisemitismus-Vorwurf.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/dfe3529c-3ab4-4fae-b486-ca794f75f73c/AAABn_rU5qw/AAABnSSvrFg/16x9-big/stadionbau-katar-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f8cb440d-d793-4198-94d2-ab82b6c487c7/AAABnCJGDG0/AAABnSSvrFg/16x9-big/harvard-144.jpg?width=1280"
         },
         {
-          "title": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
-          "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
-          "summary": "Im Südosten Englands ist am späten Nachmittag ein Zug entgleist, mehrere Waggons sind dabei umgekippt. Mehrere Menschen wurden verletzt - nach bisherigen Erkenntnissen gibt es keine Toten.",
+          "title": "Alabali Radovan: Afghanen helfen ohne Taliban-Kooperation",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
+          "summary": "Afghanistan ist wegen der Abschiebungen dorthin oft Thema in der Bundespolitik. Doch Deutschland leistet auch Entwicklungshilfe für das Land - und das ohne mit den Taliban zusammenzuarbeiten, sagt die Entwicklungsministerin. Von Gabor Halasz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6e78558c-64bf-43b9-a837-6dcfb0c79b3f/AAABn_xni2M/AAABnSSvrFg/16x9-big/england-zugunglueck-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/018f35f4-e1cb-41c4-9925-f34fd3f9a6ed/AAABmy_PsX4/AAABnSSvrFg/16x9-big/radovan-112.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Hitzewelle: Bis zu 38 Grad: Deutschland schwitzt weiter",
+          "url": "https://www.sueddeutsche.de/panorama/bis-zu-38-grad-deutschland-schwitzt-weiter-li.3522772",
+          "summary": "Im Westen und Südwesten des Landes werden heute bis zu 38 Grad erwartet. Erst am Sonntag ist etwas Abkühlung in Sicht.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/12/92ffa249-faab-4b1e-8b97-751d6f2f0349.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C93%2C2048%2C1152"
+        },
+        {
           "title": "USA: Gericht weist Klage der Trump-Regierung gegen Harvard ab",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-harvard-antisemitismus-klage-gericht-li.3530667",
           "summary": "Das Weiße Haus befindet sich im Konflikt mit mehreren Spitzenuniversitäten. Trump wirft Harvard unzureichende Maßnahmen gegen Antisemitismus vor.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/13/7075a406-08c8-4c68-a536-eedb6955d3e8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Podcast: „Auf den Punkt“: Rechtspopulist Farage vs. Mülleimer: Worum es bei Großbritanniens kuriosester Nachwahl geht",
-          "url": "https://www.sueddeutsche.de/politik/farage-count-binface-grossbritannien-wahl-reform-uk-brexit-li.3531001",
-          "summary": "Nigel Farage will britischer Premier werden. Aber jetzt könnte er sich in einer lokalen Wahl gegen einen Satirepolitiker blamieren. Was ist da los?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
         }
       ]
     }
