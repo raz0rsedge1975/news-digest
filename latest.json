@@ -1,17 +1,17 @@
 {
-  "generated": "2026-08-15T02:00:08.877Z",
-  "timestamp": "15.8.2026, 04:00:08",
+  "generated": "2026-08-15T06:00:09.283Z",
+  "timestamp": "15.8.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Fataler Hackerangriff: Ein Debakel für Liechtenstein",
-          "url": "https://www.faz.net/aktuell/wirtschaft/hackerangriff-ein-debakel-fuer-liechtenstein-201123193.html",
-          "summary": "Der vertrauensschädigende Datendiebstahl bringt den gesamten Finanzplatz in Misskredit. Die hanebüchenen Sicherheitslücken werfen kein gutes Licht auf die Regierung in Vaduz.",
+          "title": "Liveblog Irankrieg: Frist verstreicht – Irankrieg vor ungewisser Zukunft",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-frist-verstreicht-iran-krieg-vor-ungewisser-zukunft-faz-200583539.html",
+          "summary": "VAE: Angriff auf Schiff von staatlichem Ölkonzern in der Straße von Hormus  +++ Vier Tote bei Raketenangriff der Huthi-Rebellen auf den Hafen von Mucha +++ Trump: Übernahme der Meerenge nach einem Sieg über Iran +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/832e4655bc43/w3000h1567x0y60o/202504/43601.0.944909399/liechtenstein-auf-der-wiese.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f55df5c5277f/w6000h3135x0y433o/202608/43601.0.2428225493/schaeden-im-fischereihafen-der.webp"
         },
         {
           "title": "Europameisterschaft: Owen Ansah sprintet in Birmingham zu Gold über 200 Meter",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump: So verlief die Flucht im Catering-Container",
-          "url": "https://www.spiegel.de/ausland/donald-trump-so-verlief-die-flucht-im-catering-container-a-cf01f83f-604e-422d-a941-d573d6228884#ref=rss",
-          "summary": "Mit einem Täuschungsmanöver wurde US-Präsident Trump vor einem angeblich drohenden iranischen Anschlag in Sicherheit gebracht. Der Rest seiner Delegation blieb als argloser »Köder« zurück. Die Rekonstruktion.",
+          "title": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft",
+          "url": "https://www.spiegel.de/ausland/frist-fuer-iran-usa-abkommen-verstreicht-naher-osten-vor-ungewisser-zukunft-a-34fe3005-49a5-479c-a176-d6af268c6d75#ref=rss",
+          "summary": "Während US-Präsident Trump mit einer Übernahme der Straße von Hormus kokettiert, gehen die Angriffe auf zivile Schiffe weiter. Dabei sollte in diesen Tagen ein finales Abkommen stehen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/06624374-e348-43af-8f12-1deb7e1d5739_w1200_r1.778_fpx42.6_fpy49.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b168ff84-7237-481b-b753-489c6cd76c9a_w1200_r1.778_fpx30_fpy54.99.jpg"
         },
         {
-          "title": "Hürtgenwald in der Eifel: Bewohner warten auf Evakuierung wegen Waldbrand",
-          "url": "https://www.spiegel.de/panorama/huertgenwald-in-der-eifel-bewohner-warten-auf-evakuierung-wegen-waldbrand-a-72de5537-107f-4566-bae9-62c72ac73c23#ref=rss",
-          "summary": "»Dein Haus ist in den Nachrichten«, schreibt der Enkel am Morgen, da herrscht bei der Oma bereits panische Angst. Ein Großfeuer im Hürtgenwald rückt an die Dörfer heran, Menschen warten auf die Evakuierung – und darauf, dass der Wind dreht.",
+          "title": "Tübingen: Wohnungsbau vs. Naturschutz – warum habe ich die Bäume vor meinem Büro nicht gerettet?",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/tuebingen-wohnungsbau-vs-naturschutz-warum-habe-ich-die-baeume-vor-meinem-buero-nicht-gerettet-a-c82361c8-7cd8-4df9-bc7a-e26459aeeb29#ref=rss",
+          "summary": "Tübingen ist vorbildlich beim Klimaschutz. Trotzdem wurden für ein neues Wohnquartier 108 Bäume gefällt. Ich habe alles beobachtet – und habe nun ein schlechtes Gewissen. Aus gutem Grund.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e98d125e-cbd8-4c6f-967d-864fe7802747_w1200_r1.778_fpx42_fpy53.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b7f6cb7d-9c12-4152-82b9-f539bf74b302_w1200_r1.778_fpx61.5_fpy50.jpg"
         },
         {
-          "title": "Sachsen-Anhalt: Wie Campact mit drei Millionen Euro gegen die AfD mobilisiert",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/sachsen-anhalt-wie-campact-mit-drei-millionen-euro-gegen-die-afd-mobilisiert-a-19554589-1655-4bc8-b5c7-abe7ee807d59#ref=rss",
-          "summary": "Die Plattform Campact will mit Millionenspenden eine Alleinregierung der AfD verhindern, indem sie SPD und Grünen den Einzug in den Landtag sichert. Ein ähnlicher Aufruf war schon einmal erfolgreich.",
+          "title": "News: Waldbrände in Deutschland, Machtübernahme der Taliban, Russlands Krieg gegen ukrainische Zivilisten",
+          "url": "https://www.spiegel.de/politik/deutschland/news-waldbraende-in-deutschland-machtuebernahme-der-taliban-russlands-krieg-gegen-ukrainische-zivilisten-a-3610fdc1-a278-4f90-853a-912804f2c8ac#ref=rss",
+          "summary": "Hunderte Feuerwehrkräfte kämpfen gegen den Waldbrand in der Eifel. Die Taliban sind seit fünf Jahren an der Macht. Und Russland zielt auf ukrainische Tankstellen. Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/855ec396-3d82-4372-9ae8-47a390644a7e_w1200_r1.778_fpx53_fpy62.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
-          "summary": "Im Iran-Krieg ist ein Frieden immer noch nicht absehbar. Nun hat US-Präsident Trump angedroht: Bald schon wolle er die Straße von Hormus zu US-Territorium erklären. Iran reagierte umgehend.",
+          "title": "Kampf gegen die Flammen im Hürtgenwald",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
+          "summary": "Seit Tagen brennt es im Hürtgenwald in der Eifel. Auch in der Nacht gingen die Löscharbeiten weiter. Die Feuerwehr musste ihre Einsatzzentrale verlegen - der Wind hatte sich gedreht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/24d26dc2-4854-449b-b870-1800ea3b0dd2/AAABoAL56YQ/AAABnSSvrFg/16x9-big/trump-5228.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a13dc22f-4fe9-40e7-9f51-94d49e4d4e57/AAABoAOB0EA/AAABnSSvrFg/16x9-big/feuer-600.jpg?width=1280"
         },
         {
-          "title": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
-          "url": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
-          "summary": "Auf den Straßen ist auffallend viel Polizei. Militärangehörige wurden aus dem Urlaub geholt. Stacheldrahtzäune wurden verstärkt. In Ceuta wird ein neuer Massenandrang von Migranten befürchtet. Der Grund: falsche Gerüchte.",
+          "title": "Schweres Erdbeben erschüttert Ostindonesien",
+          "url": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+          "summary": "Gebäude wankten und stürzten teilweise ein, dabei gab es auch Tote: Ein schweres Erdbeben hat die indonesische Flores-Insel getroffen. Das Beben hatte eine Stärke von 7,7.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c878f481-be46-4e80-9657-97ba197ea5a4/AAABoAL42Yw/AAABnSSvrFg/16x9-big/ceuta-276.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/29d10fad-1955-426d-af9b-00bea4739efc/AAABoANjfx4/AAABnSSvrFg/16x9-big/indonesien-474.jpg?width=1280"
         },
         {
-          "title": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
-          "url": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
-          "summary": "Er wurde als jüngster schwarzer Professor in Cambridge gefeiert. Nun ist Jason Arday laut Medienberichten gestorben. Erst vor wenigen Tagen hatte er nach Plagiatsvorwürfen seinen Rücktritt erklärt.",
+          "title": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
+          "summary": "Probleme auf dem Arbeitsmarkt, eine hartnäckig hohe Inflation und noch höhere Renditen für langlaufende US-Staatsanleihen. All das belastet die Wirtschaft und die Notenbanker - auch in Europa. Von Melanie Böff.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d852e551-ef1e-4c01-bba9-c0f03e89d788/AAABoAKgu4Y/AAABnSSvrFg/16x9-big/arday-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2c092848-5557-4628-8e5c-11edbbde3304/AAABn_7jbv8/AAABnSSvrFg/16x9-big/kevin-warsh-116.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Hitze und Trockenheit: Der Wald brennt, Munition explodiert",
+          "url": "https://www.sueddeutsche.de/panorama/huertgenwald-waldbrand-eifel-munition-gey-li.3531585",
+          "summary": "Das Feuer in der Eifel hat sich über Nacht nicht ausgebreitet, der schlimmste Waldbrand in der Geschichte Nordrhein-Westfalens wütet jedoch weiter. Weltkriegsmunition erschwert die Löscharbeiten. Bergepanzer schlagen Schneisen in den Wald.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/15/b4a54752-416a-43d9-b155-d58a89d9f3de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C341%2C4000%2C2250"
+        },
+        {
           "title": "WM in der Rhythmischen Sportgymnastik: Varfolomeev zeigt Nervenstärke unter dem Frankfurter Kuppeldach",
           "url": "https://www.sueddeutsche.de/sport/varfolomeev-sportgymnastik-wm-frankfurt-festhalle-dtb-li.3531554",
           "summary": "Erst ein Fehler mit dem Reifen, dann eine spektakuläre Aufholjagd mit Keulen, Ball und Band: Die deutsche Olympiasiegerin Darja Varfolomeev gewinnt erneut den Mehrkampf-Titel bei der Weltmeisterschaft.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/14/19026862-a0c0-4d66-8635-940a008b36d8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C122%2C1647%2C926"
-        },
-        {
-          "title": "Premier League: Amazon-Gründer Bezos steigt beim FC Liverpool ein",
-          "url": "https://www.sueddeutsche.de/sport/amazon-gruender-jeff-bezos-fc-liverpool-investor-li.3531695",
-          "summary": "Einer der reichsten Männer der Welt investiert in den Premier-League-Spitzenclub FC Liverpool. Als Teil eines Konsortiums pumpt Bezos frisches Geld in den Verein. Nicht jedem gefällt das.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/14/1b69db01-4b3a-4393-a3f0-60c6b8e4ae6f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=347%2C404%2C3306%2C1860"
         }
       ]
     }
