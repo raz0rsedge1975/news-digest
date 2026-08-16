@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-16T06:00:09.055Z",
-  "timestamp": "16.8.2026, 08:00:09",
+  "generated": "2026-08-16T10:00:08.952Z",
+  "timestamp": "16.8.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Wettbewerber aus Asien: Jetzt machen Chinas Autoriesen ernst in Europa",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/chinesische-autos-erobern-europa-vw-ruft-nach-staatshilfe-accg-201114885.html",
+          "summary": "Der Start war holprig. Aber nun steigen die Verkaufszahlen chinesischer Marken in europäischen Ländern verblüffend schnell – auch in Deutschland. Volkswagen ruft schon nach Hilfe vom Staat.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/325b594120c6/w8047h4204x0y727o/202603/43601.0.1897764043/werbeveranstaltung-von-byd-im.webp"
+        },
+        {
           "title": "Eltern von Marius Dick: Erst wurde ihr Sohn getötet, dann kamen Hasskommentare",
           "url": "https://www.faz.net/aktuell/politik/inland/marius-dick-zu-besuch-bei-den-eltern-des-getoeteten-studenten-in-trier-accg-201116044.html",
           "summary": "Seit mehr als 20 Jahren engagieren sich Elke und Thomas Dick kommunal in der CDU. Nachdem ihr Sohn im Juli von einem Afghanen getötet wurde, wurden sie dafür angefeindet. Ein Besuch in Landstuhl.",
           "source": "FAZ",
-          "paywall": false,
+          "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/4855d86fd5e7/w5362h2801x0y386o/202608/43601.0.2419123604/in-trauer-elke-und-thomas-dick.webp"
         },
         {
-          "title": "Migrationspolitik: Syrer verlieren immer öfter ihren Schutzstatus",
-          "url": "https://www.faz.net/aktuell/politik/inland/schutzstatus-warum-immer-mehr-syrer-ihn-verlieren-accg-201130036.html",
-          "summary": "Tausenden von Syrern wurde dieses Jahr bereits ihr Schutzstatus als Flüchtlinge aberkannt. Hintergrund ist die veränderte Lage in ihrer Heimat. Die zuständige Behörde weitet ihre Überprüfungen seit Juni aus.",
+          "title": "Marathon in Birmingham: Petros sichert sich nach furiosem Sololauf EM-Gold",
+          "url": "https://www.faz.net/aktuell/sport/mehr-sport/amanal-petros-gewinnt-em-gold-im-marathon-mit-rekordzeit-accg-201130664.html",
+          "summary": "Zum Auftakt des letzten EM-Tags stockt Amanal Petros das Medaillenkonto des deutschen Teams auf. Im Marathon setzt er eine Bestmarke – und gewinnt Gold.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/594d40fff9a1/w3000h1567x0y235o/202601/43601.0.1626392808/das-bamf-entscheidet-ueber-den.webp"
-        },
-        {
-          "title": "In Birmingham: Deutscher Speerwurf-Doppelsieg bei Leichtathletik-EM",
-          "url": "https://www.faz.net/aktuell/sport/mehr-sport/leichtathletik-em-gold-fuer-julian-weber-beim-speerwerfen-silber-fuer-nick-thumm-201129907.html",
-          "summary": "Gold für Julian Weber, Silber für Nick Thumm: Die deutschen Speerwerfer sind bei der Leichtathletik-EM in Birmingham nicht zu schlagen. Auch die deutsche 4x100-Meter-Staffel holt eine Medaille.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f6454ede8f5e/w3556h1858x0y266o/202608/43601.0.2437849461/julian-weber-jubelt-ueber.webp"
+          "image": "https://media0.faz.net/image/w1200h627/1714a70acb80/w1909h997x191y131o/202608/43601.0.2439448414/amanal-petros-der-deutsche.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Klimaanpassungen ins Grundgesetz: Neuer SPD-Aktionsplan fordert die Union heraus",
-          "url": "https://www.spiegel.de/politik/deutschland/klimaanpassungen-ins-grundgesetz-neuer-spd-aktionsplan-fordert-die-union-heraus-a-19054a20-c13b-4dd9-82ce-67f64f6c7dd6#ref=rss",
-          "summary": "Als Reaktion auf Hitze und Niedrigwasser stellen die SPD-Bundesminister einen Aktionsplan auf. Darin beharren sie darauf, das Grundgesetz für Klimaanpassungen zu ändern. Auch wenn die Union das gerade abgelehnt hat.",
+          "title": "Leichtathletik-EM: Amanal Petros gewinnt Marathon-Gold in Birmingham",
+          "url": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-amanal-petros-gewinnt-marathon-gold-in-birmingham-a-20e36b1c-f6c2-4430-8542-a90fc6faa322#ref=rss",
+          "summary": "Bei der WM im vergangenen Jahr gewann er Silber – in Birmingham holte er nun Gold: Marathonläufer Amanal Petros lief der Konkurrenz davon und knackt den Europameisterschaftsrekord.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8e8c9bf9-681a-4aff-b580-218b4a26493b_w1200_r1.778_fpx70.5_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ac66b96d-366a-45cb-8dbf-3d24007408e5_w1200_r1.778_fpx41.93_fpy50.jpg"
         },
         {
-          "title": "US-Nationalparks: Donald Trumps Kulturkampf gegen Amerikas Naturparadiese",
-          "url": "https://www.spiegel.de/wissenschaft/us-nationalparks-donald-trumps-kulturkampf-gegen-amerikas-naturparadiese-a-9a680e35-ff32-497c-b88d-c206dca9582e#ref=rss",
-          "summary": "Yosemite, Yellowstone, Grand Canyon: Die amerikanischen Nationalparks sind Sehnsuchtsorte für Millionen Menschen aus der ganzen Welt. Nun geraten sie ins Visier von US-Präsident Donald Trump.",
+          "title": "Gerti Tetzner: Der unterdrückte DDR-Roman erscheint erstmals",
+          "url": "https://www.spiegel.de/kultur/literatur/gerti-tetzner-der-unterdrueckte-ddr-roman-erscheint-erstmals-a-59f2eee3-9ebe-45fa-b4c4-8a6779256837#ref=rss",
+          "summary": "Vor mehr als 40 Jahren klopfte die Stasi an die Tür einer Schriftstellerin. Ihr Buch erschien nie. Sie hörte auf zu schreiben. Jetzt kann man den Roman endlich lesen. Ein Gespräch mit Gerti Tetzner übers Aufhören, Anfangen und über das, was dazwischen passiert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9e74db35-4d86-4cc0-8ae7-45467ac32d9f_w1200_r1.778_fpx44_fpy52.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2f9c809f-3881-495c-aa39-fde1db1281eb_w1200_r1.778_fpx59_fpy44.jpg"
         },
         {
           "title": "Albanien: Scheitert das Bauprojekt der Trump-Familie an Massenprotesten und Korruptionsvorwürfen?",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Warum sind Luxusdüfte so teuer?",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/parfum-luxus-100.html",
-          "summary": "Luxusparfüms boomen. Immer mehr kleine Marken bringen exklusive Düfte für mehrere hundert Euro pro Flakon auf den Markt. Sind solche Preise gerechtfertigt? Werkman, L. Tepel und L.",
+          "title": "Amanal Petros sichert sich EM-Gold im Marathon",
+          "url": "https://www.tagesschau.de/sport/leichtathletik-em-marathon-goldmedaille-100.html",
+          "summary": "Im Marathon bei der Leichtathletik-EM hat der WM-Zweite Amanal Petros die Goldmedaille gewonnen. Der 31-Jährige beendete das Rennen in Birmingham in nur 2:09:11 Stunden. Zweiter wurde der Italiener Pietro Riva.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/223217d7-fb17-47a0-87de-8c34ecdb6a9b/AAABle49zlg/AAABnSSvrFg/16x9-big/flacons-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/060e370b-1163-466e-a81a-91a6f2a9f892/AAABoAn1SVU/AAABnSSvrFg/16x9-big/amanal-petros-120.jpg?width=1280"
         },
         {
-          "title": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
-          "url": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html",
-          "summary": "Auch wenn es zum Winter noch eine Weile hin ist, beschäftigt er viele Ukrainer schon jetzt. Die russischen Luftangriffe lassen das Herannahen einer noch härteren Zeit ahnen. Ein junges Ehepaar stellt sich auf extreme Umstände ein.",
+          "title": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
+          "url": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
+          "summary": "In Ungarn hat sich in der Nacht ein schweres Busunglück ereignet, zwölf Menschen starben. Ersten Erkenntnissen zufolge soll der Fahrer eingeschlafen sein. Im Bus saß eine Pilgergruppe aus Polen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/aa068344-99a0-4c69-9ded-0f41bd26dd0a/AAABoABxQ9I/AAABnSSvrFg/16x9-big/kiew-truemmer-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3586d322-f46c-45db-8a9a-a075c10ac459/AAABoAnAK9E/AAABnSSvrFg/16x9-big/ungarn-busunfall-100.jpg?width=1280"
         },
         {
-          "title": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
-          "url": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
-          "summary": "In Kolumbien ist die Zahl der Opfer des Erdbebens vor fast einer Woche weiter gestiegen. Mittlerweile hat sich die Arbeit der Retter auf die Bergung Toter verlagert. Präsident de la Espriella bat derweil Donald Trump um Aussetzung von Zöllen.",
+          "title": "NATO-Kampfjet schießt Drohne über Rumänien ab",
+          "url": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
+          "summary": "Ein Kampfjet der NATO hat eine Drohne über Rumänien abgeschossen - es war die vierte, die in diesem Jahr über dem Land abgefangen wurde. Zuletzt hatte es wiederholt Vorfälle in osteuropäischen NATO-Ländern gegeben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/46670fdb-0ece-4890-ad1c-60a6e6d21260/AAABoAh9ofY/AAABnSSvrFg/16x9-big/truemmer-kolumbien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a3cf0bab-0b3a-41df-b09e-adc7f8d842cf/AAABoAmW_7c/AAABnSSvrFg/16x9-big/nato-kampfjet-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Erdgas aus Nigeria? Welche Risiken die neue Mega-Pipeline birgt",
-          "url": "https://www.telepolis.de/article/Erdgas-aus-Nigeria-Welche-Risiken-die-neue-Mega-Pipeline-birgt-11414189.html",
-          "summary": "Gas aus Nigeria auch für Europa: Trotz ECOWAS-Zustimmung ist die Finanzierung der Pipeline unklar. Das Gas fließt frühestens 2031.",
+          "title": "Nvidias \"Schuldenfassade\": Financial Engineering und das Risiko für Anleger",
+          "url": "https://www.telepolis.de/article/Nvidias-Schuldenfassade-Financial-Engineering-und-das-Risiko-fuer-Anleger-11415283.html",
+          "summary": "Nvidias 500-Milliarden-Deal mit Goldman Sachs, KKR und anderen Finanziers war bei Verkündung nicht unterzeichnet. Im Abschwung treffen Verluste zuerst Anleger.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/6/9/4/5/Williamson_ijeh__cropped_-9ed2d03c2b8abc3a.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/5/3/7/shutterstock_2470895321-c3689e21cdce2542.jpg"
         },
         {
-          "title": "West-Nil-Virus in Deutschland: Warum heimische Mücken jetzt Überträger werden",
-          "url": "https://www.telepolis.de/article/West-Nil-Virus-in-Deutschland-Warum-heimische-Muecken-jetzt-Uebertraeger-werden-11412900.html",
-          "summary": "Das West-Nil-Virus überwintert inzwischen in Deutschland. Milde Temperaturen begünstigen die Vermehrung in heimischen Culex-Mücken.",
+          "title": "Sympathie mit dem Teufel?",
+          "url": "https://www.telepolis.de/article/Sympathie-mit-dem-Teufel-11413928.html",
+          "summary": "Wenn Maschinen, Bits und Bytes vermenschlicht werden. Unser schwieriger Umgang mit der KI.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/1/4/6/2/9/3/mu__cke-jehle-3b_Zeichenfla__che_1-48af1eb4cf27547f.gif"
+          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/1/4/6/8/1/0/morph-KI-3-01-e928bcf5899f4880.gif"
         },
         {
-          "title": "Russlands Arena-M gegen FPV-Drohnen: Kann der Kampfpanzer noch überleben?",
-          "url": "https://www.telepolis.de/article/Russlands-Arena-M-gegen-FPV-Drohnen-Kann-der-Kampfpanzer-noch-ueberleben-11415063.html",
-          "summary": "Russland rüstet seine Panzer mit Hard-Kill-Systemen auf. Doch billige Drohnen stellen nicht nur ihren Schutz infrage – sondern das Konzept Kampfpanzer selbst.",
+          "title": "\"Die Odyssee\": Was Nolans Film über die USA von heute verrät",
+          "url": "https://www.telepolis.de/article/Die-Odyssee-Was-Nolans-Film-ueber-die-USA-von-heute-verraet-11410287.html",
+          "summary": "Nolans Epos spiegelt das schlechte Gewissen der USA. Schuld, Intrigen und brüchige Hegemonie prägen Odysseus' Irrfahrt. Eine Filmrezension mit Spoilern.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/4/2/4/98f9ecc20ee9223d.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/4/9/8/5/Zwei_Personen_an_einem_Strand-2c30284867b0f31d.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928",
-          "summary": "Eine spanische „F-18“ hat im rumänischen Luftraum eine mutmaßlich russische Drohne abgefangen. Kiew und Moskau sind Ziele massiver Luftangriffe.",
+          "title": "Leichtathletik-EM: Amanal Petros gewinnt Gold im Marathon",
+          "url": "https://www.sueddeutsche.de/sport/leichtathletik-em-marathon-petros-gold-li.3532154",
+          "summary": "Der 31-jährige zieht Kilometer vor dem Ziel davon und krönt sich auf dem anspruchsvollen Kurs von Birmingham zum Europameister. In der Teamwertung sichert sich die deutsche Mannschaft Silber.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2022/06/08/e9b2846c-0e76-4cf7-b0e6-211c7f06ed3e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1457%2C820"
+          "image": "https://www.sueddeutsche.de/2026/08/16/29460bad-2516-4879-b019-21ef2b3359d8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C118%2C2061%2C1159"
         },
         {
-          "title": "Supercup: Die Bayern gewinnen auch den ersten Titel der neuen Saison",
-          "url": "https://www.sueddeutsche.de/sport/supercup-fc-bayern-vfl-wolfsburg-frauenfussball-stine-johannes-eigentor-li.3531307",
-          "summary": "Der VfL Wolfsburg startet schwungvoll in das Duell gegen Meister FC Bayern. Doch dann gerät die Torhüterin mit einem kuriosen Eigentor in den Fokus. Am Ende steht ein 3:0 für die Favoritinnen.",
+          "title": "Boeing 787 der Vietnam Airlines: Probleme beim Start, Schäden nach der Landung: Kritische Situation am Münchner Flughafen",
+          "url": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-vietnam-airlines-start-li.3531950",
+          "summary": "Reifenteile auf dem Rollfeld, Schäden am Fahrwerk: Nach dem missglückten Start einer Boeing 787 am Samstag brechen die Piloten den geplanten Flug nach Hanoi ab. Bei der Landung gibt es dann die nächsten Probleme.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/15/9ec87ae9-e89c-4184-a22c-f9c71d0af629.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=347%2C94%2C3243%2C1824"
+          "image": "https://www.sueddeutsche.de/2026/08/16/e72de5e6-3272-4635-9f8a-4f31c1f4461d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C119%2C2279%2C1282"
         },
         {
-          "title": "FC Bayern: Musiala erleidet wohl Hitzschlag",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-fc-bayern-muenchen-musiala-rb-leipzig-hitze-testspiel-laimer-li.3531975",
-          "summary": "Der 23-Jährige bleibt beim 3:1 im Testspiel gegen RB Leipzig minutenlang auf dem Rasen liegen, ehe er, sichtlich benommen, das Feld verlässt. Auch Konrad Laimer und Min-jae Kim werden verletzt ausgewechselt.",
+          "title": "Hitzewelle: Endlich Abkühlung, aber Unwetter drohen",
+          "url": "https://www.sueddeutsche.de/panorama/hitze-abkuehlung-gewitter-li.3522772",
+          "summary": "Schon am Sonntag sind vor allem im Süden Unwetter angekündigt, in den kommenden Tagen bleibt es vielerorts in Deutschland gewittrig. Immerhin ist die extreme Hitze erst einmal vorbei.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/15/5eafe34c-acca-4deb-b4ce-0e8a542a6b35.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/16/d0c44cf1-d0d5-40d9-b75d-820a68928401.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
