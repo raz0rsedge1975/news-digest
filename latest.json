@@ -1,25 +1,25 @@
 {
-  "generated": "2026-08-16T02:00:08.751Z",
-  "timestamp": "16.8.2026, 04:00:08",
+  "generated": "2026-08-16T06:00:09.055Z",
+  "timestamp": "16.8.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Fehmarnbelttunnel: Blamage am Belt",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fehmarnbelttunnel-blamage-durch-proteste-und-kostenstieg-201091267.html",
-          "summary": "Ärger um geplanten Fehmarnbelt-Tunnel zwischen Deutschland und Dänemark",
+          "title": "Eltern von Marius Dick: Erst wurde ihr Sohn getötet, dann kamen Hasskommentare",
+          "url": "https://www.faz.net/aktuell/politik/inland/marius-dick-zu-besuch-bei-den-eltern-des-getoeteten-studenten-in-trier-accg-201116044.html",
+          "summary": "Seit mehr als 20 Jahren engagieren sich Elke und Thomas Dick kommunal in der CDU. Nachdem ihr Sohn im Juli von einem Afghanen getötet wurde, wurden sie dafür angefeindet. Ein Besuch in Landstuhl.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ca835c20519a/w6000h3135x0y340o/202608/43601.0.2404690563/blick-auf-die-baustelle.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4855d86fd5e7/w5362h2801x0y386o/202608/43601.0.2419123604/in-trauer-elke-und-thomas-dick.webp"
         },
         {
-          "title": "Steffen Bilger: Der Blitzstarter",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/steffen-bilger-wie-der-neue-verkehrsminister-ueberzeugt-accg-201124662.html",
-          "summary": "Steffen Bilger galt als konservativ, pragmatisch – und ein bisschen unauffällig. Seit er Verkehrsminister ist, hat sich das gründlich geändert. Auch dank einiger Krisen.",
+          "title": "Migrationspolitik: Syrer verlieren immer öfter ihren Schutzstatus",
+          "url": "https://www.faz.net/aktuell/politik/inland/schutzstatus-warum-immer-mehr-syrer-ihn-verlieren-accg-201130036.html",
+          "summary": "Tausenden von Syrern wurde dieses Jahr bereits ihr Schutzstatus als Flüchtlinge aberkannt. Hintergrund ist die veränderte Lage in ihrer Heimat. Die zuständige Behörde weitet ihre Überprüfungen seit Juni aus.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4529d5930dc4/w7203h3763x0y402o/202608/43601.0.2433130255/steffen-bilger-47-ist-seit.webp"
+          "image": "https://media0.faz.net/image/w1200h627/594d40fff9a1/w3000h1567x0y235o/202601/43601.0.1626392808/das-bamf-entscheidet-ueber-den.webp"
         },
         {
           "title": "In Birmingham: Deutscher Speerwurf-Doppelsieg bei Leichtathletik-EM",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Klimaanpassungen ins Grundgesetz: Neuer SPD-Aktionsplan fordert die Union heraus",
+          "url": "https://www.spiegel.de/politik/deutschland/klimaanpassungen-ins-grundgesetz-neuer-spd-aktionsplan-fordert-die-union-heraus-a-19054a20-c13b-4dd9-82ce-67f64f6c7dd6#ref=rss",
+          "summary": "Als Reaktion auf Hitze und Niedrigwasser stellen die SPD-Bundesminister einen Aktionsplan auf. Darin beharren sie darauf, das Grundgesetz für Klimaanpassungen zu ändern. Auch wenn die Union das gerade abgelehnt hat.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8e8c9bf9-681a-4aff-b580-218b4a26493b_w1200_r1.778_fpx70.5_fpy49.99.jpg"
+        },
+        {
+          "title": "US-Nationalparks: Donald Trumps Kulturkampf gegen Amerikas Naturparadiese",
+          "url": "https://www.spiegel.de/wissenschaft/us-nationalparks-donald-trumps-kulturkampf-gegen-amerikas-naturparadiese-a-9a680e35-ff32-497c-b88d-c206dca9582e#ref=rss",
+          "summary": "Yosemite, Yellowstone, Grand Canyon: Die amerikanischen Nationalparks sind Sehnsuchtsorte für Millionen Menschen aus der ganzen Welt. Nun geraten sie ins Visier von US-Präsident Donald Trump.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/9e74db35-4d86-4cc0-8ae7-45467ac32d9f_w1200_r1.778_fpx44_fpy52.jpg"
+        },
+        {
           "title": "Albanien: Scheitert das Bauprojekt der Trump-Familie an Massenprotesten und Korruptionsvorwürfen?",
           "url": "https://www.spiegel.de/ausland/albanien-umstrittenes-projekt-der-trump-familie-ivankas-traum-und-seine-schattenseiten-a-4fbf49a0-a122-4a48-9678-985195d887ae#ref=rss",
           "summary": "Jared Kushner will an der albanischen Küste ein Milliardenresort bauen. Doch im Umfeld des Projekts ermittelt die Staatsanwaltschaft wegen Geldwäsche und Kokainhandels, während der Protest im Land überkocht.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/602d7dca-aced-4208-b3a1-c5c518abfb88_w1200_r1.778_fpx57.97_fpy54.97.jpg"
-        },
-        {
-          "title": "Ukraine: Drohnenangriffe aus Russland – der Highway der verbrannten Tankstellen",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-russlands-drohnenangriffe-auf-tankstellen-entlang-fernstrasse-a-72976f14-371c-4a29-9592-928657368dda#ref=rss",
-          "summary": "Tanken kann in der Ukraine lebensgefährlich sein: Entlang einer wichtigen Fernstraße stürzen sich russische Drohnen auf Tankstellen, mehr als 200 sind schon in Flammen aufgegangen. Die Ukrainer reagieren mit Trotz.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c3e69832-2866-413d-9ebb-671949954783_w1200_r1.778_fpx54_fpy54.jpg"
-        },
-        {
-          "title": "Manuela Schwesig: Senderchef deutet in Chatnachricht Einmischung bei TV-Duell an",
-          "url": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-senderchef-deutet-in-chatnachricht-einmischung-schwesigs-bei-tv-duell-an-a-32925663-4575-496f-b391-cf92558ae597#ref=rss",
-          "summary": "Hat Mecklenburg-Vorpommerns Ministerpräsidentin zwei Herausforderer aus einer TV-Debatte zur Landtagswahl gedrängt? Die Chatnachricht eines Verantwortlichen, die dem SPIEGEL vorliegt, nährt diesen Verdacht.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/649511d8-2510-4087-99f8-f1826ed2f7df_w1200_r1.778_fpx69.98_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
-          "url": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
-          "summary": "Speerwerfer Julian Weber hat bei der Leichtathletik-EM in Birmingham die Goldmedaille gewonnen. Der 31-Jährige setzte sich mit 90,40 Metern vor seinem Teamkollegen Nick Thumm durch.",
+          "title": "Warum sind Luxusdüfte so teuer?",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/parfum-luxus-100.html",
+          "summary": "Luxusparfüms boomen. Immer mehr kleine Marken bringen exklusive Düfte für mehrere hundert Euro pro Flakon auf den Markt. Sind solche Preise gerechtfertigt? Werkman, L. Tepel und L.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/154fc878-ace3-4721-8252-ce8dce7a5eb8/AAABoAcrZV8/AAABnSSvrFg/16x9-big/julian-weber-190.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/223217d7-fb17-47a0-87de-8c34ecdb6a9b/AAABle49zlg/AAABnSSvrFg/16x9-big/flacons-101.jpg?width=1280"
         },
         {
-          "title": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
-          "url": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
-          "summary": "Bis auf 250 Meter waren die Flammen an ihre Häuser herangerückt - nun dürfen die Bewohner eines evakuierten Ortsteils in Hürtgenwald zurück. Zuvor waren Fortschritte bei der Bekämpfung des Brandes vermeldet worden.",
+          "title": "Ukraine: \"Dann ziehen wir eben in die Datscha\"",
+          "url": "https://www.tagesschau.de/ausland/europa/kiew-luftangriffe-alltag-100.html",
+          "summary": "Auch wenn es zum Winter noch eine Weile hin ist, beschäftigt er viele Ukrainer schon jetzt. Die russischen Luftangriffe lassen das Herannahen einer noch härteren Zeit ahnen. Ein junges Ehepaar stellt sich auf extreme Umstände ein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b9e24f86-573f-4e3e-b6bf-6e69d8f5bd04/AAABoAbehgM/AAABnSSvrFg/16x9-big/huertgenwald-116.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/aa068344-99a0-4c69-9ded-0f41bd26dd0a/AAABoABxQ9I/AAABnSSvrFg/16x9-big/kiew-truemmer-106.jpg?width=1280"
         },
         {
-          "title": "Brand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
-          "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
-          "summary": "Während sich die Lage im Hürtgenwald leicht entspannt, blicken die Menschen in der Region besorgt nach Belgien: Dort brennt es im Hohen Venn - die Stadt Monschau in NRW ruft die Menschen auf, sich auf eine mögliche Evakuierung vorzubereiten.",
+          "title": "Hoffnung auf Überlebende nach Erdbeben in Kolumbien schwindet",
+          "url": "https://www.tagesschau.de/ausland/amerika/opfer-erdbeben-kolumbien-100.html",
+          "summary": "In Kolumbien ist die Zahl der Opfer des Erdbebens vor fast einer Woche weiter gestiegen. Mittlerweile hat sich die Arbeit der Retter auf die Bergung Toter verlagert. Präsident de la Espriella bat derweil Donald Trump um Aussetzung von Zöllen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c795c9d4-0345-45e3-8aa0-d818871c4ed4/AAABoAbeTVg/AAABnSSvrFg/16x9-big/hohes-venn-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/46670fdb-0ece-4890-ad1c-60a6e6d21260/AAABoAh9ofY/AAABnSSvrFg/16x9-big/truemmer-kolumbien-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in der Ukraine: Nato-Kampfjet schießt Drohne über Rumänien ab",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lettland-drohne-luftalarm-li.3524928",
+          "summary": "Eine spanische „F-18“ hat im rumänischen Luftraum eine mutmaßlich russische Drohne abgefangen. Kiew und Moskau sind Ziele massiver Luftangriffe.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2022/06/08/e9b2846c-0e76-4cf7-b0e6-211c7f06ed3e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1457%2C820"
+        },
+        {
           "title": "Supercup: Die Bayern gewinnen auch den ersten Titel der neuen Saison",
           "url": "https://www.sueddeutsche.de/sport/supercup-fc-bayern-vfl-wolfsburg-frauenfussball-stine-johannes-eigentor-li.3531307",
           "summary": "Der VfL Wolfsburg startet schwungvoll in das Duell gegen Meister FC Bayern. Doch dann gerät die Torhüterin mit einem kuriosen Eigentor in den Fokus. Am Ende steht ein 3:0 für die Favoritinnen.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/15/5eafe34c-acca-4deb-b4ce-0e8a542a6b35.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Leichtathletik-EM: Der Staffelstab streift nur Lückenkempers kleinen Finger",
-          "url": "https://www.sueddeutsche.de/sport/leichtathletik-em-staffel-4x100-meter-gina-lueckenkemper-sophia-junk-birmingham-li.3531917",
-          "summary": "Die Sprintstaffel der Frauen ist seit Jahren einer der deutschen Erfolgsgaranten – in Birmingham scheidet sie im Vorlauf aus. Für Gina Lückenkemper endet die Leichtathletik-EM auch aus persönlicher Sicht enttäuschend.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/15/eb86e4b1-1601-4c40-a6d1-274db5c7a692.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
