@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-16T18:00:13.279Z",
-  "timestamp": "16.8.2026, 20:00:13",
+  "generated": "2026-08-16T22:00:13.808Z",
+  "timestamp": "17.8.2026, 00:00:13",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Suizide verhindern: Könnten Zäune Leben retten?",
-          "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/suizide-auf-der-schiene-koennten-zaeune-leben-retten-201001785.html",
-          "summary": "Viele Hundert Menschen nehmen sich jedes Jahr das Leben, indem sie sich vor Züge werfen. Die Deutsche Bahn könnte durch mehr Prävention manche retten, sagt eine Forscherin. Der Konzern sieht das anders.",
+          "title": "Arbeitsmarkt: In Indien ist die Ungleichheit groß – KI macht sie noch größer",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wie-ki-die-ungleichheit-der-genz-in-indien-verschaerft-201102556.html",
+          "summary": "Den Sieg über die Regierung verdankt Indiens Generation Z der digitalen Revolution. Diese droht gleichzeitig, die Jungen vom Aufstieg abzuhängen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/52e579996485/w6000h3135x0y745o/202608/43601.0.2425964156/fahrgaeste-warten-auf-einem-u.webp"
+          "image": "https://media0.faz.net/image/w1200h627/06654cc45ee4/w7091h3705x0y785o/202608/43601.0.2406227842/indiens-jugend-geht-auf-die.webp"
         },
         {
-          "title": "Leichtathletik-EM: Woher kommt die neue deutsche Gier auf Gold?",
-          "url": "https://www.faz.net/aktuell/sport/mehr-sport/die-deutschen-sind-bei-der-leichathletik-em-gierig-wie-lange-nicht-accg-201126913.html",
-          "summary": "Die deutschen Leichtathleten zeigen bei der Europameisterschaft ein neues Selbstverständnis. Nach dem Motto: „Wenn jemand gute Leistungen bringt, denken sich alle anderen: Das kann ich auch.“",
+          "title": "Gefahren für Jobanfänger: Auf dem Arbeitsmarkt wird es richtig ungemütlich",
+          "url": "https://www.faz.net/aktuell/wirtschaft/jugendarbeitslosigkeit-steigt-wegen-ki-auf-dem-arbeitsmarkt-wird-es-ungemuetlich-201118731.html",
+          "summary": "Die Aussichten, nach Schule oder Uni einen sicheren Job zu finden, verschlechtern sich. Das liegt auch an Künstlicher Intelligenz. Ein deutscher Forscher warnt vor einem noch viel größeren Problem.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/90392fcacc26/w4394h2295x0y175o/202608/43601.0.2434796339/emil-agyekum-l-gewinnt-silber.webp"
+          "image": "https://media0.faz.net/image/w1200h627/21236e40632c/w5951h3109x0y306o/202608/43601.0.2400212690/raus-aus-dem-hoersaal-rein-in.webp"
         },
         {
-          "title": "Wo die EM irritiert hat: Die Leichtathletik hat ein falsches Bild von sich",
-          "url": "https://www.faz.net/aktuell/sport/mehr-sport/leichtathletik-em-in-birmingham-eine-chance-vertan-201129813.html",
-          "summary": "In einer Stadt, die Sport liebt, bleibt die Leichtathletik-EM außerhalb des Stadions kaum sichtbar. Im Stadion zeigen leere Ränge, wie sehr bei dieser EM eine Chance vertan wurde.",
+          "title": "Dialog mit Googles Chatbot: Ich bin nicht Gemini, ich bin ChatGPT!",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/dialog-mit-googles-chatbot-ich-bin-nicht-gemini-ich-bin-chatgpt-accg-201112734.html",
+          "summary": "Das Ich ist nur eine Maske aus Worten: Wie Googles Chatbot in eine tiefe Identitätskrise fiel und dabei die Vorstellung vom KI-Bewusstsein als Märchen entlarvte.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c1839cf08576/w6144h3210x0y443o/202608/43601.0.2423271351/frei-geblieben-leere-plaetze.webp"
+          "image": "https://media0.faz.net/image/w1200h627/afab2abaea31/w4896h2558x0y374o/202603/43601.0.1904035069/warum-sagt-gemini-eigentlich.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "K-Beauty: Was hinter dem Erfolg von K-Beauty steckt",
-          "url": "https://www.spiegel.de/wirtschaft/k-beauty-was-hinter-dem-erfolg-von-k-beauty-steckt-a-5ce76c4f-70ca-4677-8d1c-25a693f9932a#ref=rss",
-          "summary": "Der neue Hype um Seren, Cremes und Gesichtsmasken aus Südkorea erreicht auch deutsche Drogeriemärkte. Sind die Produkte ihren Preis wert?",
+          "title": "Russland: Diese Codes verwenden Soldaten, wenn sie vom Tod sprechen",
+          "url": "https://www.spiegel.de/ausland/russland-diese-codes-verwenden-soldaten-wenn-sie-vom-tod-sprechen-a-4f75d5b1-9842-46ae-8a6f-c8d6fb1f1330#ref=rss",
+          "summary": "»Fleisch«, »Ankunft«, »Null«: Im Krieg gegen die Ukraine schreiben Soldaten Worten eine neue Bedeutung zu. Inzwischen nutzen auch Zivilisten den Militärjargon, um eine Realität zu beschreiben, die der Kreml negiert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2b7d16b7-583b-4e0d-9f28-0a3db2d43559_w1200_r1.778_fpx46_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5cd4b728-ebb1-4cd1-ab53-f892960762b7_w1200_r1.778_fpx31.09_fpy49.85.jpg"
+        },
+        {
+          "title": "Jason Arday: Zehntausende fordern Untersuchung nach Tod des Cambridge-Professors",
+          "url": "https://www.spiegel.de/ausland/jason-arday-zehntausende-fordern-untersuchung-nach-tod-des-cambridge-professors-a-91ed68d9-090d-485b-9757-50fefc37f1ea#ref=rss",
+          "summary": "Nach dem Tod des 41-jährigen Soziologen Jason Arday wächst in Großbritannien der Druck auf die Regierung: Mehr als 31.000 Menschen fordern Aufklärung nach einer mutmaßlich rassistischen Kampagne gegen ihn.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/02cbe746-a08e-43b4-8474-a19fd7f068b7_w1200_r1.778_fpx39_fpy41.jpg"
         },
         {
           "title": "Union wirft SPD-Minister Carsten Schneider »Alleingang« bei Hitzeschutz vor",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/b71fbcf8-f5c4-4b79-941a-952d51205be0_w1200_r1.778_fpx47_fpy54.jpg"
-        },
-        {
-          "title": "Frauen in Afghanistan: Tagebuch aus Herat",
-          "url": "https://www.spiegel.de/ausland/frauen-in-afghanistan-tagebuch-aus-herat-a-af3a203b-92fb-4e2b-9fc4-4cc55e98c7e3#ref=rss",
-          "summary": "Seit die Taliban die Macht in Afghanistan wieder an sich rissen, führt eine heute 27-jährige Juristin aus Herat Tagebuch. Es ist Zeugnis eines zermürbenden Widerstands gegen das Verschwinden von Frauen, eine Geschichte von Mut und Würde.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5fa3904d-0048-4934-a8e2-1f46cf066e52_w1200_r1.778_fpx43.97_fpy49.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
-          "url": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
-          "summary": "Nach dem schweren Erdbeben im Osten Indonesiens ist die Zahl der Opfer auf mehr als 50 gestiegen. Such- und Rettungsmaßnahmen laufen, Tausende Soldaten und Polizisten helfen im Katastrophengebiet. Nachbeben erschweren die Arbeit.",
+          "title": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
+          "url": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
+          "summary": "Frederik Ruppert hat die EM-Goldmedaille im 3. Meter-Hindernis-Lauf gewonnen. Karl Bebendorf wurde bei der Europameisterschaft in Birmingham Dritter hinter dem der Luxemburger Ruben Querinjean.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/28ce6b9a-bf6e-44b9-bda0-76dd21b7e7a7/AAABoAuNnu8/AAABnSSvrFg/16x9-big/erdbeben-indonesien-156.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e6a6c28b-b02f-4e21-9fed-cee531cc86b2/AAABoAxNFWg/AAABnSSvrFg/16x9-big/em-leichtathletik-hindernis-ruppert-gold-100.jpg?width=1280"
         },
         {
-          "title": "Dieser Sommer ist selbst für Italien extrem",
-          "url": "https://www.tagesschau.de/ausland/europa/italien-hitze-staedte-landwirtschaft-100.html",
-          "summary": "Der Fluss Po trocknet nahezu aus, Menschen ächzen wegen der Hitze: Auch wenn sich Italien mit heißen Sommern auskennt, ist dieses Jahr eine besondere Herausforderung - unter anderem auch für die Winzer.",
+          "title": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
+          "url": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
+          "summary": "In Griechenland kämpft die Feuerwehr gegen Waldbrände. Auf der Insel Salamis bei Athen brachen Feuer in der Nähe von Stränden aus. Mindestens zwei Menschen starben. Urlauber und Einwohner wurden mit Booten in Sicherheit gebracht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c4430c69-ed41-4cbd-a7b0-981a0b307105/AAABoAr3JdY/AAABnSSvrFg/16x9-big/bruecke-trockenes-flussbett-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0a541f1d-58da-4ab8-8a94-c7a6ba9694de/AAABoAvfBZA/AAABnSSvrFg/16x9-big/griechenland-tote-feuer-100.jpg?width=1280"
         },
         {
-          "title": "Nach der Hitze gibt es in Teilen Deutschlands Abkühlung und Regen",
-          "url": "https://www.tagesschau.de/wetter/wetterthema/wetterumschwung-gewitter-hitze-100.html",
-          "summary": "In Teilen Deutschlands ist es mit der Hitze vorbei - und auch Regen wird erwartet. Am Montag kann es im Süden kräftige Schauer geben, genauso wie im Norden und Osten. Im Westen und der Mitte soll es trocken bleiben.",
+          "title": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
+          "url": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+          "summary": "Der Waldbrand im Naturschutzgebiet Hohes Venn an der deutsch-belgischen Grenze breitet sich aus. Internationale Hilfe ist eingetroffen. Die Feuerwehr kämpft mit schwierigen Bedingungen. Auf deutscher Seite wurde der Ort Monschau teilweise evakuiert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/11e718a6-413a-428f-bb28-c4287be84eb7/AAABoArOe80/AAABnSSvrFg/16x9-big/regenschirme-ampel-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7e09d2eb-d9b1-4832-a9eb-7cd91763c2c4/AAABoAvuPWA/AAABnSSvrFg/16x9-big/feuer-belgien-100.jpg?width=1280"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Ukraine-Krieg: Drohnen-Rekordangriff auf Moskau, Nato-Jet schießt über Rumänien",
-          "url": "https://www.telepolis.de/article/Ukraine-Krieg-Drohnen-Rekordangriff-auf-Moskau-Nato-Jet-schiesst-ueber-Rumaenien-11415407.html",
-          "summary": "Kiew attackiert die Region Moskau mit Hunderten Drohnen und trifft erneut Wildberries-Lager. Rumänien muss zum vierten Mal eine Drohne abfangen.",
+          "title": "600 Drohnen auf Moskau: Kiews Rekordangriff legt Wildberries-Lager lahm",
+          "url": "https://www.telepolis.de/article/600-Drohnen-auf-Moskau-Kiews-Rekordangriff-legt-Wildberries-Lager-lahm-11415407.html",
+          "summary": "Kiews Drohnen treffen erneut Wildberries-Lager bei Moskau – Schäden bis zu 5 Milliarden Dollar. Ein Nato-Jet schießt über Rumänien eine Drohne ab.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/6/0/0/shutterstock_2249726127-e052cbe96d5d50b4.jpg"
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Bundespolitik: Banaszak fordert CDU zu Gesprächsbereitschaft mit Linken auf",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
+          "summary": "„Dass zwischen der CDU und der Linken große Differenzen bestehen, ist ja klar“, sagt der Grünen-Chef. Doch Demokraten müssten gesprächsfähig sein, fordert Banaszak mit Blick auf mögliche Regierungen im Osten ohne die AfD.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/16/ce97c81f-a000-4109-b568-3035ef19aabb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
           "title": "Glosse: Das Streiflicht",
           "url": "https://www.sueddeutsche.de/meinung/streiflicht-spitzbergen-ordnungsstrafen-nordpol-li.3532111",
           "summary": "Ein Mann weckt einen Eisbären und lernt dabei, wie angenehm es sein kann, gegen das Gesetz zu verstoßen.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/15/c48254d0-92c1-413c-97c3-6dccda395a5f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C172%2C4000%2C2250"
-        },
-        {
-          "title": "Waldbrände: Wie ein Landrat beim Kampf gegen das Feuer hilft",
-          "url": "https://www.sueddeutsche.de/politik/ralf-nolten-huertgenwald-gey-waldbrand-li.3532077",
-          "summary": "Ralf Nolten leitet den Landkreis, in dem Nordrhein-Westfalens schlimmster Waldbrand wütete. Der CDU-Politiker hat in den vergangenen Tagen wenig geschlafen und viel telefoniert.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/16/2c64be66-edaf-48fe-a999-f43edf6ac9b0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
