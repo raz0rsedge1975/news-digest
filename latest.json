@@ -1,10 +1,18 @@
 {
-  "generated": "2026-08-16T10:00:08.952Z",
-  "timestamp": "16.8.2026, 12:00:08",
+  "generated": "2026-08-16T14:00:10.646Z",
+  "timestamp": "16.8.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "China reduziert Ölimport: Der heimliche Retter des Ölmarktes",
+          "url": "https://www.faz.net/aktuell/wirtschaft/china-als-heimlicher-retter-des-globalen-oelmarkts-accg-201084156.html",
+          "summary": "Chinas Öleinfuhren sinken so stark, dass Analysten staunend den Kopf schütteln. Mancher fragt sich, ob die Volksrepublik damit die Macht der OPEC infrage stellt.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/96f36bab539e/w5500h2873x0y142o/202607/43601.0.2337173562/die-raetsel-der-weltwirtschaft.webp"
+        },
         {
           "title": "Wettbewerber aus Asien: Jetzt machen Chinas Autoriesen ernst in Europa",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/chinesische-autos-erobern-europa-vw-ruft-nach-staatshilfe-accg-201114885.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/325b594120c6/w8047h4204x0y727o/202603/43601.0.1897764043/werbeveranstaltung-von-byd-im.webp"
         },
         {
-          "title": "Eltern von Marius Dick: Erst wurde ihr Sohn getötet, dann kamen Hasskommentare",
-          "url": "https://www.faz.net/aktuell/politik/inland/marius-dick-zu-besuch-bei-den-eltern-des-getoeteten-studenten-in-trier-accg-201116044.html",
-          "summary": "Seit mehr als 20 Jahren engagieren sich Elke und Thomas Dick kommunal in der CDU. Nachdem ihr Sohn im Juli von einem Afghanen getötet wurde, wurden sie dafür angefeindet. Ein Besuch in Landstuhl.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/4855d86fd5e7/w5362h2801x0y386o/202608/43601.0.2419123604/in-trauer-elke-und-thomas-dick.webp"
-        },
-        {
-          "title": "Marathon in Birmingham: Petros sichert sich nach furiosem Sololauf EM-Gold",
-          "url": "https://www.faz.net/aktuell/sport/mehr-sport/amanal-petros-gewinnt-em-gold-im-marathon-mit-rekordzeit-accg-201130664.html",
-          "summary": "Zum Auftakt des letzten EM-Tags stockt Amanal Petros das Medaillenkonto des deutschen Teams auf. Im Marathon setzt er eine Bestmarke – und gewinnt Gold.",
+          "title": "Der Fall Jason Arday: Die Ursachen einer Tragödie",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/tod-von-jason-arday-mediale-hetzjagd-oder-mitschuld-der-universitaet-cambridge-accg-201131071.html",
+          "summary": "Nach dem Tod des ehemaligen Cambridge-Professors Jason Arday spaltet die Frage, wie es dazu kommen konnte, die britische Gesellschaft. Wurde der Wissenschaftler Opfer einer medialen Hetzjagd? Oder trifft seine Universität eine Mitschuld?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1714a70acb80/w1909h997x191y131o/202608/43601.0.2439448414/amanal-petros-der-deutsche.webp"
+          "image": "https://media0.faz.net/image/w1200h627/9368bb50d17e/w1301h679x91y316o/202608/43601.0.2435066373/jason-arday.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Leichtathletik-EM: Amanal Petros gewinnt Marathon-Gold in Birmingham",
-          "url": "https://www.spiegel.de/sport/leichtathletik/leichtathletik-em-amanal-petros-gewinnt-marathon-gold-in-birmingham-a-20e36b1c-f6c2-4430-8542-a90fc6faa322#ref=rss",
-          "summary": "Bei der WM im vergangenen Jahr gewann er Silber – in Birmingham holte er nun Gold: Marathonläufer Amanal Petros lief der Konkurrenz davon und knackt den Europameisterschaftsrekord.",
+          "title": "Rente mit 63: Warum die Rentenpläne für Bärbel Bas und Lars Klingbeil gefährlich sind",
+          "url": "https://www.spiegel.de/politik/deutschland/rente-mit-63-warum-die-rentenplaene-fuer-baerbel-bas-und-lars-klingbeil-gefaehrlich-sind-a-009d1497-f2ca-4630-91b2-02705cc38f19#ref=rss",
+          "summary": "Die schwarz-rote Koalition will die Rente mit 63 abschaffen. Für viele Genossen ist das die eine Zumutung zu viel, die Parteispitze gerät ins Wanken. Die Gewinnerin des Streits könnte Manuela Schwesig heißen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ac66b96d-366a-45cb-8dbf-3d24007408e5_w1200_r1.778_fpx41.93_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/aced6331-fae2-400d-b6c1-d567ab5708f2_w1200_r1.778_fpx69_fpy42.jpg"
         },
         {
-          "title": "Gerti Tetzner: Der unterdrückte DDR-Roman erscheint erstmals",
-          "url": "https://www.spiegel.de/kultur/literatur/gerti-tetzner-der-unterdrueckte-ddr-roman-erscheint-erstmals-a-59f2eee3-9ebe-45fa-b4c4-8a6779256837#ref=rss",
-          "summary": "Vor mehr als 40 Jahren klopfte die Stasi an die Tür einer Schriftstellerin. Ihr Buch erschien nie. Sie hörte auf zu schreiben. Jetzt kann man den Roman endlich lesen. Ein Gespräch mit Gerti Tetzner übers Aufhören, Anfangen und über das, was dazwischen passiert.",
+          "title": "Höxter: Nach Tod ihres Sohnes – Familie muss nach Organspende Deutschland verlassen",
+          "url": "https://www.spiegel.de/panorama/hoexter-nach-tod-ihres-sohnes-familie-muss-nach-organspende-deutschland-verlassen-a-f7bc9e7a-6082-4df2-92ba-329d16712461#ref=rss",
+          "summary": "Vier Freunde aus einem Flüchtingsheim gehen ins Freibad und spielen ein Spiel. Tegshe, 11 Jahre alt, ertrinkt. Seine Eltern spenden seine Organe. Dann kommt ein Anwaltsschreiben.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2f9c809f-3881-495c-aa39-fde1db1281eb_w1200_r1.778_fpx59_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ad2e72f8-82e5-4c70-967b-27b6a2512473_w1200_r1.778_fpx47_fpy51.jpg"
         },
         {
-          "title": "Albanien: Scheitert das Bauprojekt der Trump-Familie an Massenprotesten und Korruptionsvorwürfen?",
-          "url": "https://www.spiegel.de/ausland/albanien-umstrittenes-projekt-der-trump-familie-ivankas-traum-und-seine-schattenseiten-a-4fbf49a0-a122-4a48-9678-985195d887ae#ref=rss",
-          "summary": "Jared Kushner will an der albanischen Küste ein Milliardenresort bauen. Doch im Umfeld des Projekts ermittelt die Staatsanwaltschaft wegen Geldwäsche und Kokainhandels, während der Protest im Land überkocht.",
+          "title": "News: Warum Ulrich Siegmund auf dem SPIEGEL-Titel ist",
+          "url": "https://www.spiegel.de/politik/deutschland/news-warum-ulrich-siegmund-auf-dem-spiegel-titel-ist-a-2e74d73a-af37-4986-b8a6-7d79ee19f3b4#ref=rss",
+          "summary": "News: Warum Ulrich Siegmund auf dem SPIEGEL-Titel ist",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/602d7dca-aced-4208-b3a1-c5c518abfb88_w1200_r1.778_fpx57.97_fpy54.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Amanal Petros sichert sich EM-Gold im Marathon",
-          "url": "https://www.tagesschau.de/sport/leichtathletik-em-marathon-goldmedaille-100.html",
-          "summary": "Im Marathon bei der Leichtathletik-EM hat der WM-Zweite Amanal Petros die Goldmedaille gewonnen. Der 31-Jährige beendete das Rennen in Birmingham in nur 2:09:11 Stunden. Zweiter wurde der Italiener Pietro Riva.",
+          "title": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
+          "summary": "Noch ist der Bundestag in der Sommerpause. Doch wenn der parlamentarische Betrieb im September wieder los geht, warten auf die Bundesregierung schwierige Themen. Bei Rente und Pflege stehen harte Debatten an. Und der Haushalt lässt kaum Spielraum.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/060e370b-1163-466e-a81a-91a6f2a9f892/AAABoAn1SVU/AAABnSSvrFg/16x9-big/amanal-petros-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/500ec98f-7711-4959-84a3-1cab2ecaee75/AAABn-uepIk/AAABnSSvrFg/16x9-big/reichstag-216.jpg?width=1280"
         },
         {
-          "title": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
-          "url": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html",
-          "summary": "In Ungarn hat sich in der Nacht ein schweres Busunglück ereignet, zwölf Menschen starben. Ersten Erkenntnissen zufolge soll der Fahrer eingeschlafen sein. Im Bus saß eine Pilgergruppe aus Polen.",
+          "title": "Kritik an Staat und Betreibern nach Fährunglück mit 80 Toten in Simbabwe",
+          "url": "https://www.tagesschau.de/ausland/afrika/simbabwe-faehrunglueck-kariba-100.html",
+          "summary": "Die Zahl der Toten nach dem Fährunglück in Simbabwe Anfang der Woche ist auf 80 gestiegen. Vor dem Unglück sollen Fahrgäste den Kapitän angefleht haben, wegen hoher Wellen und starken Windes umzudrehen. Von Stephan Ueberbach.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3586d322-f46c-45db-8a9a-a075c10ac459/AAABoAnAK9E/AAABnSSvrFg/16x9-big/ungarn-busunfall-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/396f4aaf-55fa-46d6-8430-c4e0075d21df/AAABoAqCWNo/AAABnSSvrFg/16x9-big/bootsunglueck-102.jpg?width=1280"
         },
         {
-          "title": "NATO-Kampfjet schießt Drohne über Rumänien ab",
-          "url": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html",
-          "summary": "Ein Kampfjet der NATO hat eine Drohne über Rumänien abgeschossen - es war die vierte, die in diesem Jahr über dem Land abgefangen wurde. Zuletzt hatte es wiederholt Vorfälle in osteuropäischen NATO-Ländern gegeben.",
+          "title": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
+          "summary": "Valentin Melnyk verlor im Krieg ein Bein. In Berlin lernt der 24-Jährige nun, Prothesen herzustellen. Danach will er zurück in die Ukraine - und anderen Kriegsversehrten helfen, wieder ins Leben zurückzufinden. Von Andreas König.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3cf0bab-0b3a-41df-b09e-adc7f8d842cf/AAABoAmW_7c/AAABnSSvrFg/16x9-big/nato-kampfjet-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f1d045bf-853d-49a6-a099-cf8b6005d838/AAABoAqNdGI/AAABnSSvrFg/16x9-big/sendungsbild-1778754.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Nvidias \"Schuldenfassade\": Financial Engineering und das Risiko für Anleger",
-          "url": "https://www.telepolis.de/article/Nvidias-Schuldenfassade-Financial-Engineering-und-das-Risiko-fuer-Anleger-11415283.html",
-          "summary": "Nvidias 500-Milliarden-Deal mit Goldman Sachs, KKR und anderen Finanziers war bei Verkündung nicht unterzeichnet. Im Abschwung treffen Verluste zuerst Anleger.",
+          "title": "Flexibel arbeiten? Warum New Work viele in den Dauerstress treibt",
+          "url": "https://www.telepolis.de/article/Flexibel-arbeiten-Warum-New-Work-viele-in-den-Dauerstress-treibt-11409760.html",
+          "summary": "Keine Grenzen, kein Feierabend: Wie das Versprechen von flexibler Arbeit unbemerkt in ständige Erreichbarkeit und psychischen Druck umschlägt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/4/7/1/8/bu__roklammer-2-b-09c51d841b733854.jpg"
+        },
+        {
+          "title": "Philosophen gesucht: Was hat die Wirtschaft plötzlich mit dem Denken vor?",
+          "url": "https://www.telepolis.de/article/Philosophen-gesucht-Was-hat-die-Wirtschaft-ploetzlich-mit-dem-Denken-vor-11415259.html",
+          "summary": "Von Anthropic bis Palantir: Geisteswissenschaftler sitzen an den Schaltstellen der Tech-Welt. Eine Renaissance der Philosophie – oder nur letzte Zuckungen?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/5/2/5/Master_Philo2-3e523b47468d6c50.jpg"
+        },
+        {
+          "title": "Nvidias 500-Milliarden-Deal: KI-Anleihen bald auch für Privatanleger?",
+          "url": "https://www.telepolis.de/article/Nvidias-500-Milliarden-Deal-KI-Anleihen-bald-auch-fuer-Privatanleger-11415283.html",
+          "summary": "Wall-Street-Chefs deuten an, dass die gigantischen Chip-Finanzierungen auch für kleinere Anleger geöffnet werden könnten. Doch Risiken bleiben.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/5/3/7/shutterstock_2470895321-c3689e21cdce2542.jpg"
-        },
-        {
-          "title": "Sympathie mit dem Teufel?",
-          "url": "https://www.telepolis.de/article/Sympathie-mit-dem-Teufel-11413928.html",
-          "summary": "Wenn Maschinen, Bits und Bytes vermenschlicht werden. Unser schwieriger Umgang mit der KI.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/cdn/n/n/_www-heise-de_/imgs/18/5/1/4/6/8/1/0/morph-KI-3-01-e928bcf5899f4880.gif"
-        },
-        {
-          "title": "\"Die Odyssee\": Was Nolans Film über die USA von heute verrät",
-          "url": "https://www.telepolis.de/article/Die-Odyssee-Was-Nolans-Film-ueber-die-USA-von-heute-verraet-11410287.html",
-          "summary": "Nolans Epos spiegelt das schlechte Gewissen der USA. Schuld, Intrigen und brüchige Hegemonie prägen Odysseus' Irrfahrt. Eine Filmrezension mit Spoilern.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/4/9/8/5/Zwei_Personen_an_einem_Strand-2c30284867b0f31d.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Leichtathletik-EM: Amanal Petros gewinnt Gold im Marathon",
-          "url": "https://www.sueddeutsche.de/sport/leichtathletik-em-marathon-petros-gold-li.3532154",
-          "summary": "Der 31-jährige zieht Kilometer vor dem Ziel davon und krönt sich auf dem anspruchsvollen Kurs von Birmingham zum Europameister. In der Teamwertung sichert sich die deutsche Mannschaft Silber.",
+          "title": "Sahra Wagenknecht: Die Antifaschistin von einst wird zum Helferlein der Rechtsextremen",
+          "url": "https://www.sueddeutsche.de/meinung/kommentar-wagenknecht-hoecke-afd-bsw-li.3532073",
+          "summary": "Die Gründerin des BSW will die Brandmauer zur AfD beseitigen und beschimpft  alle Parteifreunde wie in Thüringen, die nicht mitziehen wollen. Was ist an einer solchen Narrheit noch links?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/16/29460bad-2516-4879-b019-21ef2b3359d8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C118%2C2061%2C1159"
+          "image": "https://www.sueddeutsche.de/2026/08/16/3f32f7d9-5b15-4681-afe7-ad919e30ba92.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         },
         {
-          "title": "Boeing 787 der Vietnam Airlines: Probleme beim Start, Schäden nach der Landung: Kritische Situation am Münchner Flughafen",
-          "url": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-vietnam-airlines-start-li.3531950",
-          "summary": "Reifenteile auf dem Rollfeld, Schäden am Fahrwerk: Nach dem missglückten Start einer Boeing 787 am Samstag brechen die Piloten den geplanten Flug nach Hanoi ab. Bei der Landung gibt es dann die nächsten Probleme.",
+          "title": "Leute: Tausende Fans singen für Bonnie Tyler",
+          "url": "https://www.sueddeutsche.de/panorama/bonnie-tyler-promis-alexander-zverev-desiree-nick-navid-kermani-li.3531542",
+          "summary": "Der Sarg der in Portugal verstorbenen Sängerin kehrt in ihre Heimatstadt zurück, Alexander Zverev feiert seinen Dackel, und Désirée Nick zieht sich noch mal aus.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/16/e72de5e6-3272-4635-9f8a-4f31c1f4461d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C119%2C2279%2C1282"
+          "image": "https://www.sueddeutsche.de/2026/08/16/fcf271e7-ae4b-43c8-8d5d-723579d1451f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C276%2C4000%2C2250"
         },
         {
-          "title": "Hitzewelle: Endlich Abkühlung, aber Unwetter drohen",
-          "url": "https://www.sueddeutsche.de/panorama/hitze-abkuehlung-gewitter-li.3522772",
-          "summary": "Schon am Sonntag sind vor allem im Süden Unwetter angekündigt, in den kommenden Tagen bleibt es vielerorts in Deutschland gewittrig. Immerhin ist die extreme Hitze erst einmal vorbei.",
+          "title": "FC Liverpool: Warum der Amazon-Gründer beim FC Liverpool einsteigt",
+          "url": "https://www.sueddeutsche.de/sport/premier-league-liverpool-bezog-amazon-einstieg-li.3531985",
+          "summary": "Beim englischen Traditionsklub sitzt künftig eine Riege an Multimilliardären am Steuer. Vorerst halten sie rund 30 Prozent der Anteile – doch Jeff Bezos und seine Mitstreiter könnten die Mehrheit am FC Liverpool anstreben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/16/d0c44cf1-d0d5-40d9-b75d-820a68928401.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/16/9fcb987f-bfb0-4231-8846-b160822fa897.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C60%2C3500%2C1969"
         }
       ]
     }
