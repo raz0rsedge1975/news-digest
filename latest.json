@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T22:00:13.808Z",
-  "timestamp": "17.8.2026, 00:00:13",
+  "generated": "2026-08-17T02:00:09.421Z",
+  "timestamp": "17.8.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/5cd4b728-ebb1-4cd1-ab53-f892960762b7_w1200_r1.778_fpx31.09_fpy49.85.jpg"
         },
         {
-          "title": "Jason Arday: Zehntausende fordern Untersuchung nach Tod des Cambridge-Professors",
-          "url": "https://www.spiegel.de/ausland/jason-arday-zehntausende-fordern-untersuchung-nach-tod-des-cambridge-professors-a-91ed68d9-090d-485b-9757-50fefc37f1ea#ref=rss",
-          "summary": "Nach dem Tod des 41-jährigen Soziologen Jason Arday wächst in Großbritannien der Druck auf die Regierung: Mehr als 31.000 Menschen fordern Aufklärung nach einer mutmaßlich rassistischen Kampagne gegen ihn.",
+          "title": "Donald Trump fährt Militärübungen mit Südkorea zurück - und lobt Beziehung zu Kim Jong Un aus Nordkorea",
+          "url": "https://www.spiegel.de/ausland/donald-trump-faehrt-militaeruebungen-mit-suedkorea-zurueck-und-lobt-beziehung-zu-kim-jong-un-aus-nordkorea-a-e2212050-66a9-485f-96ba-9d9f47f391e3#ref=rss",
+          "summary": "Streitkräfte aus den USA und Südkorea trainieren regelmäßig gemeinsam. Präsident Trump nennt das nun ein »völlig unangemessenes und feindseliges Signal« an Nordkorea – und gibt seinem Verteidigungsminister neue Anweisungen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/02cbe746-a08e-43b4-8474-a19fd7f068b7_w1200_r1.778_fpx39_fpy41.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ca6817ef-fd3a-40c9-b3a4-6e979a696fb5_w1200_r1.778_fpx61_fpy49.jpg"
         },
         {
-          "title": "Union wirft SPD-Minister Carsten Schneider »Alleingang« bei Hitzeschutz vor",
-          "url": "https://www.spiegel.de/politik/deutschland/union-wirft-spd-minister-carsten-schneider-alleingang-bei-hitzeschutz-vor-a-7928574e-118a-4f60-bced-28a87a3e40bc#ref=rss",
-          "summary": "Umweltminister Carsten Schneider will das Grundgesetz ändern, damit der Bund Klimaanlagen in Schulen, Krankenhäusern und Altenheimen finanzieren darf. Die Union stemmt sich dagegen. Das sind die Gründe.",
+          "title": "Gaza-Friedensplan: US-Gesandter Jared Kushner berät mit Hamas-Spitze",
+          "url": "https://www.spiegel.de/ausland/gaza-friedensplan-us-gesandter-jared-kushner-beraet-mit-hamas-spitze-a-d9f0ebe1-bf15-4724-abc3-f75c2b5134d5#ref=rss",
+          "summary": "Trumps Schwiegersohn Jared Kushner wirbt in Ägypten für dessen Gaza-Friedensplan. Dazu führt er Gespräche mit Präsident el-Sisi und führenden Hamas-Vertretern. Die Hamas bekennt sich zu dem Plan – Israel lehnt ihn ab.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b71fbcf8-f5c4-4b79-941a-952d51205be0_w1200_r1.778_fpx47_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/025cca25-49da-46b3-9f95-b4649710e443_w1200_r1.778_fpx32_fpy48.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Südkorea und USA beginnen gemeinsame Militärübung",
+          "url": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
+          "summary": "US-Präsident Trump hat angekündigt, die nun begonnene Militärübung seines Landes mit Südkorea \"wesentlich\" zu verringern. Er verwies zur Begründung auf seine sehr gute Beziehung zu Nordkoreas Diktator Kim Jong Un.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/07ef11ab-be28-4de8-8822-810d81af280c/AAABoA1PEl8/AAABnSSvrFg/16x9-big/donald-trump-896.jpg?width=1280"
+        },
+        {
+          "title": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
+          "url": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html",
+          "summary": "Der tschechische Premier Babiš hat für heute einen \"Dürre-Gipfel\" einberufen. Er reagiert damit auf wachsenden Druck insbesondere von Bauern. Die Opposition wirft ihm vor, lediglich Symbolpolitik zu betreiben. Von Paul Vorreiter.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d37c8f8f-6908-40b1-998e-8b0ed927b7a7/AAABoA01g4c/AAABnSSvrFg/16x9-big/prag-272.jpg?width=1280"
+        },
+        {
           "title": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
           "url": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
           "summary": "Frederik Ruppert hat die EM-Goldmedaille im 3. Meter-Hindernis-Lauf gewonnen. Karl Bebendorf wurde bei der Europameisterschaft in Birmingham Dritter hinter dem der Luxemburger Ruben Querinjean.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e6a6c28b-b02f-4e21-9fed-cee531cc86b2/AAABoAxNFWg/AAABnSSvrFg/16x9-big/em-leichtathletik-hindernis-ruppert-gold-100.jpg?width=1280"
-        },
-        {
-          "title": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
-          "url": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
-          "summary": "In Griechenland kämpft die Feuerwehr gegen Waldbrände. Auf der Insel Salamis bei Athen brachen Feuer in der Nähe von Stränden aus. Mindestens zwei Menschen starben. Urlauber und Einwohner wurden mit Booten in Sicherheit gebracht.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/0a541f1d-58da-4ab8-8a94-c7a6ba9694de/AAABoAvfBZA/AAABnSSvrFg/16x9-big/griechenland-tote-feuer-100.jpg?width=1280"
-        },
-        {
-          "title": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
-          "url": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
-          "summary": "Der Waldbrand im Naturschutzgebiet Hohes Venn an der deutsch-belgischen Grenze breitet sich aus. Internationale Hilfe ist eingetroffen. Die Feuerwehr kämpft mit schwierigen Bedingungen. Auf deutscher Seite wurde der Ort Monschau teilweise evakuiert.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/7e09d2eb-d9b1-4832-a9eb-7cd91763c2c4/AAABoAvuPWA/AAABnSSvrFg/16x9-big/feuer-belgien-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Sommerinterview mit Felix Banaszak: Grüne Chancen oder Ende der Euphorie?",
+          "url": "https://www.sueddeutsche.de/medien/gruene-banaszak-sommerinterview-wahl-sachsen-anhalt-mecklenburg-vorpommern-fuenf-prozent-huerde-li.3531356",
+          "summary": "Die Grünen haben sich vom Ampel-Aus erholt – aber die Wahlen im Osten könnten ihren Aufwärtstrend wieder zunichtemachen. Trotzdem hofft Parteichef Banaszak auf den Sprung über die Fünf-Prozent-Hürde.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/16/4e53c58f-75f1-4aea-b6eb-21eb47642f3e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Bundespolitik: Banaszak fordert CDU zu Gesprächsbereitschaft mit Linken auf",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
           "summary": "„Dass zwischen der CDU und der Linken große Differenzen bestehen, ist ja klar“, sagt der Grünen-Chef. Doch Demokraten müssten gesprächsfähig sein, fordert Banaszak mit Blick auf mögliche Regierungen im Osten ohne die AfD.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/16/1c15cd25-97d4-4816-8034-ef969378ba0b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Sachsen-Anhalt: AfD-Politiker attackiert 14-Jährigen",
-          "url": "https://www.sueddeutsche.de/politik/afd-politiker-gewalt-jugendliche-li.3531808",
-          "summary": "In Stendal erwischt ein AfD-Politiker Jugendliche bei der Zerstörung eines Wahlbanners seiner Partei und verletzt offenbar einen der Jungen. Das LKA Sachsen-Anhalt ermittelt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/15/c48254d0-92c1-413c-97c3-6dccda395a5f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C172%2C4000%2C2250"
         }
       ]
     }
