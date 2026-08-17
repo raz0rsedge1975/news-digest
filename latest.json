@@ -1,39 +1,47 @@
 {
-  "generated": "2026-08-17T10:00:08.662Z",
-  "timestamp": "17.8.2026, 12:00:08",
+  "generated": "2026-08-17T14:00:09.186Z",
+  "timestamp": "17.8.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Gletscher und Niedrigwasser: „In diesem Sommer werden wir viele weitere Gletscher verlieren“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/wegen-hitzewelle-wir-verlieren-viele-weitere-gletscher-accg-201132303.html",
-          "summary": "Die Gletscher in den Alpen schmelzen so schnell wie nie, trotzdem fehlt im Rhein das Wasser. In den kommenden Jahren wird sich die Lage verschärfen, sagt der Gletscherforscher Matthias Huss.",
+          "title": "Ingolstadt in der Krise: Eine Stadt verliert ihren Freifahrtschein",
+          "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/ingolstadts-immobilienmarkt-wie-die-audi-krise-die-stadt-trifft-201112744.html",
+          "summary": "Jahrzehntelang boomte Ingolstadt – dank Audi. Nun steckt die Autostadt in der Krise. Und auffällig viele Häuser und Villen warten auf Interessenten.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d0fc794541a1/w6144h3210x0y701o/202607/43601.0.2356887391/tauendes-eis-der-glaziologe.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/66f33c6a3d69/w6016h3143x0y436o/202608/43601.0.2425881601/alles-wird-teurer-ingolstadt.webp"
         },
         {
-          "title": "Lebenswichtige Infrastruktur: Wie Dämme gegen Flut und Dürre helfen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/talsperren-schutz-vor-hochwasser-und-duerre-in-deutschland-accg-201115504.html",
-          "summary": "Talsperren und Stauseen schützen vor Hochwasser und Trockenheit. Reicht das? Wegen des Extremwetters werden sie immer wichtiger für die Wirtschaft und Natur.",
+          "title": "Björn Höcke: Jetzt verteidigt er bewaffnete Neonazis",
+          "url": "https://www.faz.net/aktuell/politik/inland/bjoern-hoecke-verteidigt-saechsische-separatisten-der-afd-accg-201111187.html",
+          "summary": "Björn Höcke will die „Sächsischen Separatisten“ aus dem Gefängnis holen und zu vollwertigen AfD-Mitgliedern machen – obwohl sie einen nationalsozialistischen Staat errichten wollten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7b5811a0540a/w2727h1424x134y166o/202311/43600.0.2153084616/kritische-infrastruktur.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a5ab92819bac/w2544h1329x0y56o/202608/43601.0.2424943173/junge-familienvaeter-seit-zwei.webp"
         },
         {
-          "title": "TV-Interview mit Banaszak: Keine Zeit für die Komfortzone",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/beim-sommerinterview-muss-felix-banaszak-sich-kritischen-fragen-stellen-accg-201132271.html",
-          "summary": "Im ZDF-Sommerinterview zeigt sich, wie man an die wunden Punkte einer Partei herankommt und einen Spitzenpolitiker herausfordert. Der Grünen-Ko-Vorsitzende Felix Banaszak hatte sichtlich zu tun, kritische Fragen zu beantworten.",
+          "title": "Alkoholfahrt und Prügelei: Grüne und Linke fordern Konsequenzen für AfD-Abgeordneten",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-politiker-mit-alkohol-am-steuer-erwischt-accg-201133169.html",
+          "summary": "Der AfD-Politiker Arno Bausemer wird heftig kritisiert: Er soll einen Jugendlichen angegriffen haben und nun mit Alkohol am Steuer erwischt worden sein.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8af0f76edfb9/w6144h3210x0y444o/202608/43601.0.2440050848/felix-banaszak-vorsitzender.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a026ff363053/w6144h3210x0y229o/202608/43601.0.2436142776/arno-bausemer-am-22-april-2023.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Alkohol: Drei Frauen berichten über ihre Sucht – und wie sie davon loskamen",
+          "url": "https://www.spiegel.de/wissenschaft/alkohol-drei-frauen-berichten-ueber-ihre-sucht-und-wie-sie-davon-loskamen-a-15469123-bb9e-410e-80e3-380042d47d49#ref=rss",
+          "summary": "Sie sind oft gut ausgebildet, stehen mitten im Leben: Der Anteil alkoholabhängiger Frauen in der Bevölkerung hat sich seit 2018 fast verdoppelt. Warum haben sie angefangen zu trinken? Und was hat ihnen geholfen?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/de07fa69-5398-4dc4-bffe-ee42e38dc400_w1200_r1.778_fpx47.34_fpy55.01.jpg"
+        },
         {
           "title": "AfD: Wie sie sich als neue Arbeiterpartei inszeniert",
           "url": "https://www.spiegel.de/wirtschaft/afd-wie-sie-sich-als-neue-arbeiterpartei-inszeniert-a-6c0dc99e-040e-4d24-8cd0-74bf16890436#ref=rss",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/8740df8a-ad5f-442c-85ae-74f0943cca3b_w1200_r1.778_fpx33.33_fpy50.jpg"
-        },
-        {
-          "title": "Migration und das Drama von Ceuta: Wenn Mitgefühl als Sicherheitsrisiko gilt",
-          "url": "https://www.spiegel.de/ausland/migration-und-das-drama-von-ceuta-wenn-mitgefuehl-als-sicherheitsrisiko-gilt-a-31b50940-60ad-4ff9-8b6d-cbb6af02a0c1#ref=rss",
-          "summary": "Nicht ein Mensch hat den europäischen Kontinent erreicht. In der Debatte über Ceuta scheint die Frage nach den Fluchtgründen keine Rolle mehr spielen zu dürfen. Ein fataler Reflex.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5e69d47b-5896-4cd5-a0e3-83c0df1a6a75_w1200_r1.778_fpx49_fpy53.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Hilfe für minderjährige Mädchen in der Ungewissheit von Ceuta",
-          "url": "https://www.tagesschau.de/ausland/europa/ceuta-spanien-106.html",
-          "summary": "In die spanischen Exklave Ceuta sind auch viele Mädchen gekommen, die Asyl suchen, um ihre Eltern in der Heimat zu unterstützen. Ihre Zukunft ist ungewiss. Doch es gibt Menschen, die den Minderjährigen helfen.",
+          "title": "Amthor gegen Grundgesetzänderung für Klimaanpassung",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/amthor-klimaanpassung-100.html",
+          "summary": "Staatsminister Amthor von der CDU hat sich gegen \"abstrakte Diskussionen über eine Verfassungsänderung\" ausgesprochen. Zuvor hatten verschiedene SPD-Ministerien dafür plädiert, Klima- und Hitzeschutz im Grundgesetz festzuschreiben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/99c9149d-db69-40f2-9a78-fadcbce618f9/AAABoA7kJaY/AAABnSSvrFg/16x9-big/migranten-ceuta-132.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0b466fe5-6304-4ab6-90ba-21b8205f282f/AAABoA-EmWY/AAABnSSvrFg/16x9-big/amthor-150.jpg?width=1280"
         },
         {
-          "title": "Was hinter dem Erfolg der rechten One Nation Party in Australien steckt",
-          "url": "https://www.tagesschau.de/ausland/asien/one-nation-party-100.html",
-          "summary": "Vor 30 Jahren sorgte Pauline Hanson mit der Aussage, Australien werde von Asiaten \"überschwemmt\", für Empörung. Heute klingt sie noch ganz ähnlich - und liegt mit ihrer rechten Partei in Umfragen vorn. Was hat sich verändert?",
+          "title": "Bundeswehr erreicht Personalziel für das Jahr 2026",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-personalziel-100.html",
+          "summary": "Die Bundeswehr soll wachsen - und bisher scheint das auf freiwilliger Basis zu gelingen: Das Personalziel für 2026 ist erreicht. Auf geringe Resonanz stößt weiterhin die direkte Ansprache junger Frauen durch die Bundeswehr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7ab920ac-e5fa-460a-b5ec-74fac010cdc8/AAABoA5Iw9g/AAABnSSvrFg/16x9-big/hanson-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/135a9288-6035-4cdb-a3e7-d0a8b84aa300/AAABoA-qOVs/AAABnSSvrFg/16x9-big/soldaten-bundeswehr-114.jpg?width=1280"
         },
         {
-          "title": "Waldbrände halten Feuerwehren im Hohen Venn und im Schwarzwald in Atem",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-102.html",
-          "summary": "Noch immer ist die Lage beim Feuer im Hohen Venn im deutsch-belgischen Grenzgebiet angespannt. In Monschau in der Eifel mussten 30 Menschen ihre Häuser wegen des starken Rauchs verlassen. Ein Waldbrand im Schwarzwald hat sich ausgeweitet.",
+          "title": "Krieg gegen die Ukraine: Russland greift erneut Region Odessa an",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-odessa-102.html",
+          "summary": "Die russische Armee hat in der Nacht die Hafen-Infrastruktur in der südukrainischen Region Odessa ins Visier genommen. Nach ukrainischen Angaben gab es Verletzte auf einem zivilen Schiff. Odessa ist wichtig für den Export von Getreide.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5a1b1cda-4e3a-41af-96c6-22f1170d6fa7/AAABoA7tnQg/AAABnSSvrFg/16x9-big/schramberg-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/028c39bf-419e-4afc-b7d4-7873c873a8f7/AAABoA-6L-U/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2210.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Kommt der KI-Blockzwang? Der digitale Kalte Krieg zwischen den USA und China",
-          "url": "https://www.telepolis.de/article/Kommt-der-KI-Blockzwang-Der-digitale-Kalte-Krieg-zwischen-den-USA-und-China-11415776.html",
-          "summary": "Zwei Mächte, zwei Systeme – und kein Platz mehr für Neutrale. Der Kampf um die KI-Vorherrschaft spaltet die Welt. Wer zieht dabei den Kürzeren?",
+          "title": "Macht mehr Bildschirmzeit Kinder sogar klüger?",
+          "url": "https://www.telepolis.de/article/Macht-mehr-Bildschirmzeit-Kinder-sogar-klueger-11416338.html",
+          "summary": "Mehr Bildschirmzeit korrelierte in einer finnischen Langzeitstudie mit besserem Denken. Doch ein kausaler Beweis fehlt – entscheidend ist, was Kinder tun.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/7/9/5/shutterstock_2607915147-6d607eda0c635fe2.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/8/0/8/4/shutterstock_2647884909-703917e463a342ec.jpg"
         },
         {
-          "title": "Aufrüstung statt Industrie: Wiederholt Deutschland den Fehler der USA?",
-          "url": "https://www.telepolis.de/article/Aufruestung-statt-Industrie-Wiederholt-Deutschland-den-Fehler-der-USA-11415630.html",
-          "summary": "Während Washington nach 9/11 seine Prioritäten verschob, entwickelte sich China zur industriellen Großmacht. Deutschlands Aufrüstung wirft unbequeme Fragen auf.",
+          "title": "Frankreich stoppt Social-Media-Verbot: Wo der Jugendschutz an Grenzen stößt",
+          "url": "https://www.telepolis.de/article/Frankreich-stoppt-Social-Media-Verbot-Wo-der-Jugendschutz-an-Grenzen-stoesst-11416158.html",
+          "summary": "Der Verfassungsrat erkennt die Gefahren sozialer Netzwerke an – verwirft dennoch das Verbot für Unter-15-Jährige. Das Urteil reicht weit über Frankreich hinaus.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/7/1/2/Master_China_D-1f749dc6fd2c4400.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/9/9/2/Master_Frankreich-fe23ea487a75d924.jpg"
         },
         {
-          "title": "Russlands Automarkt boomt – während Benzin für moderne Autos fehlt",
-          "url": "https://www.telepolis.de/article/Russlands-Automarkt-boomt-waehrend-Benzin-fuer-moderne-Autos-fehlt-11414293.html",
-          "summary": "Trotz Schlangen an Tankstellen stiegen Russlands Autoimporte im Juli um 57 Prozent. Chinesische Marken dominieren, Toyota und Mazda holen auf.",
+          "title": "Angriff auf Progress-Werk: Ukraine zielt auf Russlands Raketenproduktion",
+          "url": "https://www.telepolis.de/article/Angriff-auf-Progress-Werk-Ukraine-zielt-auf-Russlands-Raketenproduktion-11415854.html",
+          "summary": "Die Ukraine hat Russlands wichtigstes Raumfahrtwerk getroffen. Ob der Angriff Russlands Raumfahrt dauerhaft lähmt, ist noch offen. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/6/9/9/7/Rubel-01-e45015989f1fe39c.jpg"
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/7/8/3/5/shutterstock_1657571866-ae9511dfa161be99.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nachruf: Kleine Rückschläge, große Traumata",
-          "url": "https://www.sueddeutsche.de/kultur/hayden-panettiere-tot-nachruf-li.3532577",
-          "summary": "Bereits als Baby schleifte ihre Mutter sie zu Castings, später kämpfte sie mit Depressionen und Alkohol. Die Schauspielerin Hayden Panettiere ist im Alter von 36 Jahren gestorben.",
+          "title": "Fazit der Leichtathletik-EM: Mehr Masse, mehr Klasse",
+          "url": "https://www.sueddeutsche.de/sport/leichtathletik-em-birmingham-deutschland-bilanz-medaillen-li.3532613",
+          "summary": "Deutschland gewinnt bei der Leichtathletik-EM so viele Medaillen wie seit fast 30 Jahren nicht mehr. Mit den Erfolgen steigen das Selbstbewusstsein und die Ambitionen der Athleten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/17/720bbc53-aaab-4dc1-8fb0-2a859003f89f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C31%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/17/4cf9d7c0-f478-4d8b-9bbb-3078d415aa1a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Bundespolitik: Lässt das BSW heute die Koalition in Thüringen platzen?",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-linke-li.3529564",
-          "summary": "Das Thüringer BSW kommt heute zu seiner ersten Fraktionssitzung nach der Sommerpause zusammen. Dabei wird es insbesondere um die weitere Unterstützung für den Ministerpräsidenten Mario Voigt gehen.",
+          "title": "Salzburger Festspiele: Konferenz der Tiere",
+          "url": "https://www.sueddeutsche.de/kultur/elfriede-jelinek-nicolas-stemann-salzburger-festspiele-unter-tieren-li.3528773",
+          "summary": "Theaterhappening mit Nobelpreisträgerin, aber ohne Furor: Nicolas Stemann inszeniert Elfriede Jelineks „Unter Tieren“ bei den Salzburger Festspielen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/17/4ec7fc71-d4cf-4c98-85a7-3b13107cd81b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/17/33f8f0bf-772f-4c9d-92a8-77f6bd4bde1f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C897%2C2205%2C1240"
         },
         {
-          "title": "Malaika Mihambo: Erst „Arschbombe“, dann Tränen",
-          "url": "https://www.sueddeutsche.de/sport/leichtathletik-weitsprung-mihambo-li.3532570",
-          "summary": "Malaika Mihambo findet sich bei der EM in ungewohnter Rolle wieder: auf Platz fünf, ohne Medaille. Doch die Weitspringerin äußert sich kämpferisch.",
+          "title": "Zwischenfall am Münchner Flughafen: Knapp vorbei an der Katastrophe?",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-flughafen-boeing-dreamliner-start-li.3532620",
+          "summary": "Wurden die Bremsen fälschlicherweise aktiviert? Der beinahe missglückte Start einer Maschine der Vietnam Airlines am Münchner Flughafen löst Spekulationen aus. Noch wird der Vorfall untersucht – und über die Folgen des Kerosin-Ablassens diskutiert.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/17/49094809-42af-400e-a7a9-5aece014d657.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C161%2C2563%2C1442"
+          "image": "https://www.sueddeutsche.de/2026/08/16/e72de5e6-3272-4635-9f8a-4f31c1f4461d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C119%2C2279%2C1282"
         }
       ]
     }
