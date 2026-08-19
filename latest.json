@@ -1,39 +1,47 @@
 {
-  "generated": "2026-08-19T18:00:09.278Z",
-  "timestamp": "19.8.2026, 20:00:09",
+  "generated": "2026-08-19T22:00:08.504Z",
+  "timestamp": "20.8.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Gute Quartalszahlen: Der neue Gesundheitsminister startet mit einem Kassenüberschuss",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/was-der-gkv-kassenueberschuss-fuer-carsten-linnemann-bedeutet-201140593.html",
-          "summary": "Die gesetzliche Krankenversicherung erwirtschaftet im ersten Halbjahr ein Plus von 2,3 Milliarden Euro. Aber das ist ein Strohfeuer: Die AOK erwartet für 2027 trotz der Spargesetze steigende Beiträge.",
+          "title": "Sanktionen gegen IStGH: US-Regierung will Strafgerichtshof „systematisch zerschlagen“",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trumps-regierung-treibt-die-zerschlagung-des-istgh-voran-201140392.html",
+          "summary": "Der Internationale Strafgerichtshof ist nach Meinung von Donald Trumps Regierung „korrupt und zutiefst politisiert“. Außenminister Rubio kündigt neue Sanktionen an.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f78dc78b41ae/w5500h2873x0y418o/202608/43601.0.2424928201/verkehrsminister-steffen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3731ddfbe63e/w5500h2873x0y683o/202608/43601.0.2447380756/der-internationale.webp"
         },
         {
-          "title": "Amtsübernahme von Nina Warken: Linnemann muss mehr Markt wagen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/neuer-gesundheitsminister-linnemann-muss-mehr-markt-wagen-201132587.html",
-          "summary": "Kein Fachmann, aber Vollblutpolitiker und Ökonom: Der neue Gesundheitsminister sollte das System auf Effizienz trimmen.",
+          "title": "Neue US-Sanktionen: Kampf gegen das Recht",
+          "url": "https://www.faz.net/aktuell/politik/ausland/kampf-gegen-das-recht-201140711.html",
+          "summary": "Es gibt keinen Grund für Hochmut, aber Angriffe auf den Internationalen Strafgerichtshof sind Angriffe auf das gemeinsame Erbe von Nürnberg.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1741e7cf5d37/w3665h1914x307y123o/202608/43601.0.2424863384/im-schlepptau-auf-nina-warken.webp"
+          "image": "https://media0.faz.net/image/w1200h627/64c54631ba92/w8256h4313x0y595o/202608/43601.0.2446992171/residenz-des-rechts-wie-lange.webp"
         },
         {
-          "title": "Unruhe in der SPD: Endspiel für Klingbeil und Bas?",
-          "url": "https://www.faz.net/aktuell/politik/inland/spd-kommt-der-aufstand-gegen-lars-klingbeil-und-baerbel-bas-201136949.html",
-          "summary": "Vor den Herbstwahlen wächst unter Sozialdemokraten der Frust. Müssen die Vorsitzenden gehen? Das hängt auch an der Entscheidung einer Frau im Nordosten.",
+          "title": "Vietnam Airlines und Lufthansa: Zwei Zwischenfälle auf Piste 26L",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/flughafen-muenchen-zwei-zwischenfaelle-auf-piste-26l-201140430.html",
+          "summary": "Erst hebt eine Boeing 787 viel zu spät ab, dann setzt ein A380 zu früh auf. Die Bahn am Flughafen München ist aber besonders lang. Die Ursachensuche läuft, ungewöhnliche Bremsspuren spielen dabei eine Rolle.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/031dbf8c2d89/w7966h4162x0y275o/202608/43601.0.2401700620/noch-im-amt-die-spd.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d02568772d7d/w5843h3052x0y373o/202608/43601.0.2443871823/flug-vn34-von-muenchen-nach.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Russland: Plündern die Russen wirklich ihre Bankkonten?",
+          "url": "https://www.spiegel.de/wirtschaft/russland-pluendern-die-russen-wirklich-ihre-bankkonten-a-9b0b009d-2ee5-47d8-8f7b-c27e3f34cb29#ref=rss",
+          "summary": "Internationale Medien melden Erschütterungen im russischen Bankensystem: Viele Russen würden Geld von ihren Konten abziehen, aus Angst vor Übergriffen des Staates. Was dahintersteckt und mit welchen Problemen Putin kämpft.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/0cd162bb-0e41-4787-b942-b54a38d7bc19_w1200_r1.778_fpx66.67_fpy50.jpg"
+        },
         {
           "title": "Eklat um Itamar Ben-Gvir: Deutschlands neue Schärfe gegen Israel",
           "url": "https://www.spiegel.de/politik/deutschland/eklat-um-itamar-ben-gvir-deutschlands-neue-schaerfe-gegen-israel-a-185abe3a-8e6c-41c6-bc1a-2ba716a71abd#ref=rss",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/2d4161e0-bef9-4c1d-9c81-e8f7d0d33015_w1200_r1.778_fpx33.34_fpy50.jpg"
-        },
-        {
-          "title": "News des Tages: Wie fit ist Jamal Musiala? Und wie hat sich Wolodymyr Selenskyj einen neuen Feind geschaffen?",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-jamal-musiala-a-11296890-36fe-43bf-ae13-508c804f610e#ref=rss",
-          "summary": "Das Land bangt um seinen wohl beliebtesten Fußballer. Selenskyj macht sich einen ehemaligen Verbündeten zum Feind. Und die Bahn, tja, was meinen Sie? Das ist die Lage am Mittwochabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
+          "url": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
+          "summary": "Bei einem israelischen Luftangriff auf eine Polizeiwache in Gaza sind nach palästinensischen Angaben neun Menschen getötet worden. Israels Armee erklärte, der Angriff habe einem Hamas-Kommandeur gegolten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/3fde5ab0-9a04-4d10-941a-6fca16fdaac5/AAABoBsk-qc/AAABnSSvrFg/16x9-big/gaza-polizeistation-100.jpg?width=1280"
+        },
+        {
+          "title": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
+          "url": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
+          "summary": "Auch Tage nach dem Hackerangriff auf das Berliner Landesnetz ist noch immer nicht absehbar, wann die betroffenen Behörden wieder voll funktionsfähig sind. Nach ersten Erkenntnissen flossen zumindest keine sensiblen Daten ab.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/8b460f07-6fbd-4e8e-9321-5ba21c854dc9/AAABlguAfW8/AAABnSSvrFg/16x9-big/berlin-wahl-145.jpg?width=1280"
+        },
+        {
           "title": "Fast jeder vierte Erwachsene schläft zu wenig",
           "url": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
           "summary": "Weniger als sieben Stunden Schlaf pro Nacht? Experten zufolge ist das zu kurz - und ungesund. In Deutschland trifft das aber auf viele Menschen zu. Vor allem eine Gruppe ist besonders betroffen, wie eine Untersuchung zeigt.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/3cea98c0-bba7-48a7-856e-cca34aeaaeb2/AAABoBpRr3c/AAABnSSvrFg/16x9-big/schlaf-menschen-100.jpg?width=1280"
-        },
-        {
-          "title": "Kaufzurückhaltung: DAX tritt auf der Stelle",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-steigende-renditen-belasten-aktienmarkt-100.html",
-          "summary": "Wenig Bewegung im deutschen Leitindex: Zunehmende Sorgen wegen der ungeklärten Lage in Nahost haben den Aktien-Anlegern heute die Kauflaune verdorben. Dazu kamen die steigenden Renditen bei Anleihen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1280"
-        },
-        {
-          "title": "Arbeiterwohlfahrt will Bündelung von Sozialleistungen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
-          "summary": "In der Diskussion um eine Reform des Sozialstaats hat die Arbeiterwohlfahrt eigene Vorschläge präsentiert. Unter anderem soll mit einem \"Erwerbsbooster\" die Armut verringert werden. Von Dagmar Pepping.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1a2f9228-76a7-427d-83fd-87a0ce02ab1a/AAABoBquwx8/AAABnSSvrFg/16x9-big/fussgaengerzone-menschen-106.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Cyberattacke in Berlin: „Der Angriff auf unser Landesnetz war ernst“",
-          "url": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-li.3533570",
-          "summary": "Der Regierende Bürgermeister warnt vor Hackern, nach einer erneuten Attacke sind zwei wichtige Behörden de facto arbeitsunfähig. Auch bei der IT-Sicherheit im Land Berlin geht einiges schief.",
+          "title": "Sachsen-Anhalt: CDU-Mann spendet 10 000 Euro an die AfD",
+          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-afd-spende-li.3534018",
+          "summary": "Ein Kommunalpolitiker der Union ruft kurz vor der Landtagswahl in Sachsen-Anhalt zur Stimmabgabe für die AfD auf. Der CDU-Generalsekretär sagt: „Niemand ist gezwungen, Mitglied unserer Partei zu bleiben.“",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/19/e1f79176-edc0-4b87-8da1-bcdeef0dee7c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=347%2C312%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/08/19/2f003bcb-4014-4fec-bfcd-03235b9b0b42.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C416%2C4000%2C2250"
         },
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: Gefälschte Webseite der SZ für Desinformation missbraucht",
-          "url": "https://www.sueddeutsche.de/medien/desinformation-fake-news-sachsen-anhalt-russland-wahlen-sz-li.3526779",
-          "summary": "Der Verfassungsschutz vermutet, dass eine russische Gruppe die Internetseiten seriöser deutscher Medien akribisch nachbaut. Auch die „Süddeutsche Zeitung“ ist davon betroffen.",
+          "title": "USA: Trump will sich dieses Jahr noch mit Kim treffen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kim-treffen-li.3530667",
+          "summary": "Der US-Präsident hat gerade ein Manöver mit den südkoreanischen Streitkräften gedrosselt, nun sagt er erneut, er komme gut mit dem nordkoreanischen Diktator aus – und nennt eine konkrete Zahl an Atomraketen, die dieser besitzen soll.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/02/03/19d34332-d1f4-40b6-8c4d-4fe6fdd0c78c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C81%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/08/19/0f6a9075-1828-464a-9f3d-0456c4aca021.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
         },
         {
-          "title": "Debatte über Kanzler-Urlaub: Wer nicht weg ist, kann auch nicht wiederkommen",
-          "url": "https://www.sueddeutsche.de/politik/kanzler-merz-urlaub-krise-li.3533785",
-          "summary": "Seit drei Wochen ist Friedrich Merz nicht mehr öffentlich aufgetreten. In dieser Zeit ist eine Menge passiert. Ein Sprecher verteidigt die Abwesenheit des Kanzlers – mit beinahe philosophischen Erklärungen.",
+          "title": "FC Bayern: Kane über Musiala: „Unterstützen ihn zu 100 Prozent“",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-jamal-musiala-zusammenbrueche-li.3534011",
+          "summary": "Nach den Zusammenbrüchen seines Teamkollegen findet der Stürmer unterstützende Worte. Im Moment gehe es darum, bei Musiala zu sein, mit ihm zu reden – und ihn so mit der Situation umgehen zu lassen, wie er gern möchte.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/19/b6981e39-d1d3-45a0-9c7f-375c9deff207.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=87%2C429%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/08/19/dfc4087b-014b-48c6-90f5-aef80c06419c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C133%2C2558%2C1439"
         }
       ]
     }
