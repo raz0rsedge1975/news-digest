@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-18T22:00:09.239Z",
-  "timestamp": "19.8.2026, 00:00:09",
+  "generated": "2026-08-19T02:00:08.483Z",
+  "timestamp": "19.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
+          "summary": "Die US-Regierung erhöht weiter den Druck auf den Internationalen Strafgerichtshof: Sie kündigte Sanktionen gegen dessen Präsidentin und einen leitenden Anwalt an. Der IStGH sieht die Rechtsstaatlichkeit gefährdet.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/876a407b-e3fa-4c56-a9ef-4ee14f747791/AAABoBej7PA/AAABnSSvrFg/16x9-big/akane-100.jpg?width=1280"
+        },
+        {
+          "title": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
+          "url": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
+          "summary": "Der US-Schlagzeuger Frank Beard ist im Alter von 77 Jahren in Texas gestorben. Mit seiner Band ZZ Top verkaufte er weltweit mehr als 50 Millionen Tonträger und war Mitglied in der Rock and Roll Hall of Fame.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/1fb8882e-e43c-4737-86fa-eb31a3688e11/AAABoBdCJ6U/AAABnSSvrFg/16x9-big/frank-beard-100.jpg?width=1280"
+        },
+        {
           "title": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
           "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
           "summary": "Bundesinnenminister Dobrindt will die Kontrollen an den deutschen Außengrenzen erneut verlängern. Sollte die EU-Kommission nicht widersprechen, gilt die Regelung bis Mitte März kommenden Jahres.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e79eb27c-fbdd-414e-91a1-a7ce2436d541/AAABoBY1-XI/AAABnSSvrFg/16x9-big/grenzkontrolle-248.jpg?width=1280"
-        },
-        {
-          "title": "Wagenknecht und das BSW: Mit Schlagzeilen in den Überlebenskampf",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-wagenknecht-sachsen-anhalt-100.html",
-          "summary": "Vor der heißen Phase des Wahlkampfs in Sachsen-Anhalt versucht vor allem Gründerin Sahra Wagenknecht, mit der AfD ins Gespräch zu kommen. Was geht da vor sich? Von Frank Aischmann.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/7279ba22-1343-47e8-9d6b-17e033b6a8c3/AAABoBYH7XQ/AAABnSSvrFg/16x9-big/bsw-sahra-wagenknecht-114.jpg?width=1280"
-        },
-        {
-          "title": "Marokkos Jugend sieht zu Hause keine Perspektive",
-          "url": "https://www.tagesschau.de/ausland/afrika/marokko-jugend-100.html",
-          "summary": "Marokko erlebt einen Wirtschaftsboom, aber der kommt bei vielen nicht an. Vor allem junge Menschen wollen auswandern - was der Andrang auf Ceuta beispielhaft gezeigt hat. Für den Frust gibt es nicht nur wirtschaftliche Gründe.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/140f2a45-62b9-4bf1-9a3f-425f2029208d/AAABoBUNQbk/AAABnSSvrFg/16x9-big/migranten-marokko-102.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in der Ukraine: Herausforderung für Selenskij: Ex-Verteidigungsminister fordert Wahlen",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-fedorow-selenskij-neuwahlen-li.3524928",
+          "summary": "Fedorow ist der erste hochrangige Politiker des Landes, der sich für Neuwahlen ausspricht. Die Demokratie dürfe während des Krieges nicht als Geisel Russlands gehalten werden, sagt er in einem Video.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/23/af81146a-2cb0-4730-9c59-820e811dcf8f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Musiala beim FC Bayern: Der FC Bayern wusste schon länger Bescheid",
           "url": "https://www.sueddeutsche.de/sport/musiala-fc-bayern-zusammengebrochen-heidenheim-li.3533461",
           "summary": "Jamal Musiala macht eine „neurologische Dysfunktion“ öffentlich, nachdem er zum zweiten Mal binnen vier Tagen in einem Testspiel zu Boden sinkt. Offensichtlich herrschte in der Mannschaft schon ein tiefes Wissen über die Erkrankung des Spielers.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/18/0cfe61c7-d0ab-42af-a2a1-4d11bff4d4da.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Fairphone 6 Plus: Das Handy, das nicht gleich auf dem Müll landen soll",
-          "url": "https://www.sueddeutsche.de/wirtschaft/fairphone-plus-smartphone-recht-reparatur-li.3530899",
-          "summary": "Nachhaltigkeit allein verkauft keine Smartphones. Deshalb legt Fairphone beim Chip nach – und will zeigen, dass Langlebigkeit und Leistung kein Widerspruch sind.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/18/8a1e9d2a-bedb-40ed-9f50-02c180abab2c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C1%2C3640%2C2047"
         }
       ]
     }
