@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-19T22:00:08.504Z",
-  "timestamp": "20.8.2026, 00:00:08",
+  "generated": "2026-08-20T02:00:08.345Z",
+  "timestamp": "20.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -22,18 +22,26 @@
           "image": "https://media0.faz.net/image/w1200h627/64c54631ba92/w8256h4313x0y595o/202608/43601.0.2446992171/residenz-des-rechts-wie-lange.webp"
         },
         {
-          "title": "Vietnam Airlines und Lufthansa: Zwei Zwischenfälle auf Piste 26L",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/flughafen-muenchen-zwei-zwischenfaelle-auf-piste-26l-201140430.html",
-          "summary": "Erst hebt eine Boeing 787 viel zu spät ab, dann setzt ein A380 zu früh auf. Die Bahn am Flughafen München ist aber besonders lang. Die Ursachensuche läuft, ungewöhnliche Bremsspuren spielen dabei eine Rolle.",
+          "title": "Britische Medien: Harry und Meghan ziehen angeblich zurück in die Heimat",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/harry-und-meghan-wohl-vor-rueckkehr-nach-grossbritannien-accg-201142264.html",
+          "summary": "Das sechsjährige US-Exil des britischen Prinzen Harry und seiner Frau Meghan könnte bald Geschichte sein. Die Familie kehre noch diesen Monat zurück nach Großbritannien, heißt es in Berichten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d02568772d7d/w5843h3052x0y373o/202608/43601.0.2443871823/flug-vn34-von-muenchen-nach.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e26b17f05ac2/w6144h3210x0y123o/202608/43601.0.2450400137/noch-leben-prinz-harry-und.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Iran: Donald Trump droht Teheran mit »Wirtschaftskrieg«",
+          "url": "https://www.spiegel.de/ausland/iran-donald-trump-droht-teheran-mit-wirtschaftskrieg-a-076c7ccf-0433-4168-9da1-8ad29d0b7d07#ref=rss",
+          "summary": "Die Verhandlungen zwischen Washington und Teheran kommen nicht voran. Jetzt versucht US-Präsident Trump es mit massivem wirtschaftlichem Druck. Er warnt auch die Verbündeten des Regimes vor Konsequenzen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/a329f9ea-c9f7-4676-89a7-725fcf29a074_w1200_r1.778_fpx49_fpy49.jpg"
+        },
         {
           "title": "Russland: Plündern die Russen wirklich ihre Bankkonten?",
           "url": "https://www.spiegel.de/wirtschaft/russland-pluendern-die-russen-wirklich-ihre-bankkonten-a-9b0b009d-2ee5-47d8-8f7b-c27e3f34cb29#ref=rss",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/f631aeee-9b0f-4084-814a-854c649e0a78_w1200_r1.778_fpx66_fpy45.jpg"
-        },
-        {
-          "title": "Gaza-Friedensplan: »Mit Israels Regierung wird es keinen Durchbruch geben«",
-          "url": "https://www.spiegel.de/ausland/gaza-friedensplan-mit-israels-regierung-wird-es-keinen-durchbruch-geben-a-c619cf91-a3f1-4ed1-8bdd-1ec79752cd9f#ref=rss",
-          "summary": "Trumps Schwiegersohn reist für Gespräche über den Gazaplan durch die Region. In Ägypten trifft er Vertreter der Hamas, in Jerusalem Israels Führung. Nahostexperte Peter Lintl erklärt, wo es hakt und was die Wahl damit zu tun hat.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2d4161e0-bef9-4c1d-9c81-e8f7d0d33015_w1200_r1.778_fpx33.34_fpy50.jpg"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Trump droht Iran mit „Wirtschaftskrieg“",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-li.3530668",
+          "summary": "Auch Länder, die Iran „unterstützen“, sollen bestraft werden – wie genau lässt der US-Präsident offen. Iranische Medien zeigen sich von den Drohgebärden unbeeindruckt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/11/ed6ae325-54a9-452b-88ef-e6feb34a53b8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2048%2C1152"
+        },
+        {
           "title": "Sachsen-Anhalt: CDU-Mann spendet 10 000 Euro an die AfD",
           "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-afd-spende-li.3534018",
           "summary": "Ein Kommunalpolitiker der Union ruft kurz vor der Landtagswahl in Sachsen-Anhalt zur Stimmabgabe für die AfD auf. Der CDU-Generalsekretär sagt: „Niemand ist gezwungen, Mitglied unserer Partei zu bleiben.“",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/19/0f6a9075-1828-464a-9f3d-0456c4aca021.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
-        },
-        {
-          "title": "FC Bayern: Kane über Musiala: „Unterstützen ihn zu 100 Prozent“",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-jamal-musiala-zusammenbrueche-li.3534011",
-          "summary": "Nach den Zusammenbrüchen seines Teamkollegen findet der Stürmer unterstützende Worte. Im Moment gehe es darum, bei Musiala zu sein, mit ihm zu reden – und ihn so mit der Situation umgehen zu lassen, wie er gern möchte.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/19/dfc4087b-014b-48c6-90f5-aef80c06419c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C133%2C2558%2C1439"
         }
       ]
     }
