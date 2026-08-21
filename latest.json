@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-20T22:00:08.460Z",
-  "timestamp": "21.8.2026, 00:00:08",
+  "generated": "2026-08-21T02:00:08.391Z",
+  "timestamp": "21.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Erdbeben erschüttert Andenregion in Peru",
+          "url": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
+          "summary": "Erst vor zehn Tagen hatte ein starkes Erdbeben den Westen Kolumbiens erschüttert. Nun hat es Peru getroffen. Die Auswirkungen sind auch in der Hauptstadt Lima zu spüren. Berichte über Tote gibt es bisher nicht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2765b16c-91ac-4d8e-beb0-b1cbd58d5c1c/AAABoCG4PvI/AAABnSSvrFg/16x9-big/berge-peru-100.jpg?width=1280"
+        },
+        {
           "title": "Umgang mit Migranten in Ceuta: Politische und humanitäre Bankrotterklärung",
           "url": "https://www.tagesschau.de/kommentar/ceuta-migranten-kommentar-100.html",
           "summary": "Die meisten Migranten, die von Marokko aus in die spanische Exklave Ceuta gelangten, sind zurückgekehrt. Die Verbliebenen werden jetzt in Unterkünfte verlegt, Minderjährige aufs spanische Festland gebracht. Das sei zu wenig und komme zu spät, meint Franka Welz.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/5a233cd3-97aa-4285-ae98-51124f765966/AAABoCCEM_8/AAABnSSvrFg/16x9-big/wdr-der-brand-im-huertgenwald-hat-spuren-hinterlassen-100.jpg?width=1280"
-        },
-        {
-          "title": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
-          "url": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html",
-          "summary": "Im besetzten Westjordanland sollen weitere israelische Siedlungen entstehen - sie würden das Gebiet faktisch weiter aufspalten. Deutschland und sechs weitere Länder fordern Israel nun gemeinsam auf, die rechtswidrigen Pläne aufzugeben.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/7951d20a-692d-4a58-b949-697d48c6610e/AAABoCB5azs/AAABnSSvrFg/16x9-big/westjordanland-198.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Trump will Zahl der US-Raketenstarts drastisch erhöhen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-raumfahrt-raketenstart-li.3530667",
+          "summary": "US-Präsident Donald Trump will die US-Raumfahrt massiv ausbauen. Das Weiße Haus will bis 2030 jährlich mindestens 1000 Raketenstarts und Rückflüge ermöglichen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/04/02/219686ca-37bc-4d4b-a056-a948980b8933.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Rede zu den „Tagen des Exils“: Als würden sie zum Mars fliegen",
           "url": "https://www.sueddeutsche.de/kultur/irina-scherbakowa-russland-tage-des-exils-li.3532894",
           "summary": "Die wichtige Rolle, die Dissidenten für ihre Heimat spielen, endet nicht an der Landesgrenze: Das war unter Stalin so, das ist heute wieder so, da Putin unabhängige Köpfe umbringt oder ins Exil treibt.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2025/08/13/00643380-b661-4e86-88d6-67369f0092ce.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Bundespolitik: Knobloch: „Bei AfD-Regierungsübernahme in Sachsen-Anhalt werden Juden auswandern“",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-knobloch-afd-sachsen-anhalt-juden-li.3529564",
-          "summary": "Die frühere Präsidentin des Zentralrats der Juden in Deutschland sagt im Deutschlandfunk, sie würde die Auswanderung zwar nicht befürworten, könne die Menschen aber auch nicht entmutigen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/20/bee2b485-5e23-4ffa-9edb-3bd274bbc519.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C246%2C4000%2C2250"
         }
       ]
     }
