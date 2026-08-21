@@ -1,10 +1,26 @@
 {
-  "generated": "2026-08-21T18:00:09.581Z",
-  "timestamp": "21.8.2026, 20:00:09",
+  "generated": "2026-08-21T22:00:08.747Z",
+  "timestamp": "22.8.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Xenia Fjordorowa: Sie war Putins Stimme in Frankreich, nun will sie ans Russische Haus in Berlin",
+          "url": "https://www.faz.net/aktuell/politik/ausland/xenia-fjordorowa-kremlnahe-publizistin-will-ans-russische-haus-in-berlin-201144576.html",
+          "summary": "Die frühere Frankreich-Chefin des russischen Staatssenders RT ist des Landes verwiesen worden. Trotz eines deutschen Einreiseverbots hat sie sich um die Leitung des Russischen Hauses in Berlin beworben.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/4965228c2a21/w1825h953x0y607o/202608/43601.0.2455147429/xenia-fjordorowa-bei-der.webp"
+        },
+        {
+          "title": "Russisches Haus: Ein Sicherheitsrisiko mitten in Berlin",
+          "url": "https://www.faz.net/aktuell/politik/inland/russisches-haus-wand-an-wand-mit-moskau-201147502.html",
+          "summary": "Neben dem Russischen Haus zieht eine Außenstelle des Bundesdigitalministeriums ein. Das könnte Spionen in die Hände spielen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/95ae5925553f/w5069h2648x0y228o/202608/43601.0.2419729789/kulturzentrum-oder.webp"
+        },
         {
           "title": "Deutschland 2033: So könnte es sein, wenn die AfD mit der Union regiert",
           "url": "https://www.faz.net/aktuell/politik/inland/deutschland-2033-afd-und-union-in-einer-koalition-so-koennte-es-aussehen-201133141.html",
@@ -12,28 +28,20 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/7656d66f1ca3/w3000h1567x0y106o/202501/43601.0.813364938/afd-parteichefin-alice-weidel.webp"
-        },
-        {
-          "title": "Liveblog Ukrainekrieg: Ukrainische Soldaten in Deutschland desertiert",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukrainische-soldaten-in-deutschland-desertiert-faz-110683325.html",
-          "summary": "Bundeswehr bestätigt Flucht während militärischer Ausbildung +++ Mindestens 14 Tote nach russischem Drohnenangriff +++ Waffendepot bei Berlin entdeckt +++ Neuigkeiten im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/876b1ba57cb2/w6000h3135x0y433o/202608/43601.0.2455340782/ukrainische-und-deutsche.webp"
-        },
-        {
-          "title": "Niedrigwasser und Trockenheit: „Wir müssen Wasser ernten“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/trockenheit-und-niedrigwasser-wir-muessen-wasser-ernten-201132865.html",
-          "summary": "Über Wasser wird gesprochen, wenn es Täler überflutet – oder fehlt. Der Gewässerökologe Christian Damm fordert, umzudenken. Und sieht neue Pflichten für Land- und Forstwirte, aber auch für eine ganze Gesellschaft.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4d0d42239fb0/w4000h2090x0y80o/202608/43601.0.2440587480/drohnenaufnahme-mit-blick-auf.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Zohran Mamdani: Warum der Bürgermeister von New York City plötzlich Chinesisch spricht",
+          "url": "https://www.spiegel.de/ausland/zohran-mamdani-warum-der-buergermeister-von-new-york-city-ploetzlich-chinesisch-spricht-a-86883641-5def-4b63-a486-c5cd615f6adb#ref=rss",
+          "summary": "*…kann kein Chinesisch. Trotzdem macht New Yorks Bürgermeister mit einer Reihe Videos von sich reden, in denen er Mandarin, Spanisch und Bengalisch spricht. Und das ziemlich gut. Wieso funktioniert das?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/3f53b0b1-8ffe-44f0-96c3-0537ae462129_w1200_r1.778_fpx50_fpy38.jpg"
+        },
         {
           "title": "Tatjana Kim: Die Ukraine bombardiert Wildberries-Lager - das ist die Gründerin",
           "url": "https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/801653e6-c294-4e42-9dba-c55b760d25ac_w1200_r1.778_fpx37.81_fpy49.98.jpg"
         },
         {
-          "title": "News des Tages: Annalena Baerbock, Waffenversteck bei Berlin, Jamal Musiala",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-annalena-baerbock-waffenversteck-bei-berlin-jamal-musiala-a-bb42c7fc-a264-4480-a38e-266bf2b0e20f#ref=rss",
-          "summary": "Annalena Baerbock wird von den USA und Russland scharf kritisiert. Die Behörden sind besorgt wegen versteckter Waffen in einem Wald bei Berlin. Und der FC Bayern äußert sich zu Musialas Absencen. Das ist die Lage am Freitagabend.",
+          "title": "Katherina Reiche: Rätselhafter Schmusekurs mit China",
+          "url": "https://www.spiegel.de/politik/deutschland/katherina-reiches-raetselhafter-schmusekurs-mit-peking-a-439c931c-e7da-4f5b-8477-73feb2e3e1d3#ref=rss",
+          "summary": "Die Bundesregierung will nach langem Zögern härter gegen Chinas aggressive Handelspolitik vorgehen. Doch ausgerechnet Wirtschaftsministerin Reiche bremst – ein Kritiker wirft ihr »Schattendiplomatie« vor.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Uno: Annalena Baerbock und der seltsame Schulterschluss von Russland und den USA",
-          "url": "https://www.spiegel.de/politik/deutschland/uno-annalena-baerbock-und-der-seltsame-schulterschluss-von-russland-und-den-usa-a-52789d40-c48c-4a92-aee9-5725743c089d#ref=rss",
-          "summary": "Mit Großmächten legte sich Annalena Baerbock schon als Außenministerin an. Warum haben sich die USA und Russland nun so auf die Präsidentin der Uno-Generalversammlung eingeschossen?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f187fd6f-6eed-4963-b11b-72500d290f22_w1200_r1.778_fpx58_fpy48.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4b22d1ad-9400-4152-97ba-aa492cf6bbdc_w1200_r1.778_fpx49_fpy47.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
+          "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
+          "summary": "Wer folgt auf Guterres? In einer zweiten Abstimmung setzte sich die Guyanerin Birkett an die Spitze der Liste für das Amt des UN-Generalsekretärs. Die Präsidentin der Generalversammlung Baerbock wirbt für mehr Transparenz - und wird dafür angefeindet.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f6893869-2cef-4cb5-b7c8-92205155627b/AAABoCWzvfw/AAABnSSvrFg/16x9-big/birkett-100.jpg?width=1280"
+        },
+        {
+          "title": "Korruptionsskandal in der Ukraine weitet sich aus",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
+          "summary": "Der jüngste Korruptionsskandal in der Ukraine weitet sich aus: Nun soll eine beteiligte staatseigene Bank privatisiert werden. Auch im Umfeld des Präsidenten wird ermittelt. Die Opposition wirft ihm Geldwäsche vor. Von Florian Kellermann.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a8d5f1c1-f5ff-4a5b-8c62-e1c1340025f0/AAABoCVSy7s/AAABnSSvrFg/16x9-big/selenskyj-1160.jpg?width=1280"
+        },
+        {
           "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
           "url": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
           "summary": "Russland hat ein belebtes Einkaufszentrum in der Heimatstadt des ukrainischen Präsidenten angegriffen. Es gibt viele Tote und Verletzte. Selenskyj spricht von einem \"hinterhältigen Angriff\" in zwei Wellen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/143d7556-eb15-457d-a943-467f1be9b439/AAABoCUrDWQ/AAABnSSvrFg/16x9-big/einkaufszentrum-krywyj-rih-100.jpg?width=1280"
-        },
-        {
-          "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html",
-          "summary": "Die ukrainische Regierung hat die beliebte russische Animationsserie \"Mascha und der Bär\" verboten. Sie darf im Land nicht mehr gezeigt werden. Hintergrund sind die Werbeeinnahmen durch die Serie, die Russland zugutekommen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/9cb2167d-f9ba-4012-bf4f-b40903dd9bf2/AAABoCTbkbI/AAABnSSvrFg/16x9-big/baer-zeichentrick-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX geht mit Gewinn aus der Woche",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html",
-          "summary": "Nach vier Verlusttagen in Folge ist der DAX heute mit einem Plus aus dem Handel gegangen. Auf Wochensicht schneidet der Leitindex schlechter ab. Die Risiken bleiben.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/407df019-d8de-416b-bd11-b2226637af3f/AAABlY9oIKQ/AAABnSSvrFg/16x9-big/boerse-frankfurt-210.jpg?width=1280"
         }
       ]
     },
