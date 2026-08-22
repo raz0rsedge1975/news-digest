@@ -1,25 +1,17 @@
 {
-  "generated": "2026-08-22T02:00:07.973Z",
-  "timestamp": "22.8.2026, 04:00:07",
+  "generated": "2026-08-22T06:00:08.172Z",
+  "timestamp": "22.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Xenia Fjordorowa: Sie war Putins Stimme in Frankreich, nun will sie ans Russische Haus in Berlin",
-          "url": "https://www.faz.net/aktuell/politik/ausland/xenia-fjordorowa-kremlnahe-publizistin-will-ans-russische-haus-in-berlin-201144576.html",
-          "summary": "Die frühere Frankreich-Chefin des russischen Staatssenders RT ist des Landes verwiesen worden. Trotz eines deutschen Einreiseverbots hat sie sich um die Leitung des Russischen Hauses in Berlin beworben.",
+          "title": "Liveblog Ukrainekrieg: Wadephul zum Unabhängigkeitstag in der Ukraine",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-zum-unabhaengigkeitstag-in-der-ukraine-faz-110683325.html",
+          "summary": "Der Außenminister ist am Samstagmorgen in Kiew angekommen +++ Ukrainische Soldaten in Deutschland desertiert +++ Mindestens 16 Tote nach russischem Drohnenangriff +++ Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4965228c2a21/w1825h953x0y607o/202608/43601.0.2455147429/xenia-fjordorowa-bei-der.webp"
-        },
-        {
-          "title": "Russisches Haus: Ein Sicherheitsrisiko mitten in Berlin",
-          "url": "https://www.faz.net/aktuell/politik/inland/russisches-haus-wand-an-wand-mit-moskau-201147502.html",
-          "summary": "Neben dem Russischen Haus zieht eine Außenstelle des Bundesdigitalministeriums ein. Das könnte Spionen in die Hände spielen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/95ae5925553f/w5069h2648x0y228o/202608/43601.0.2419729789/kulturzentrum-oder.webp"
+          "image": "https://media0.faz.net/image/w1200h627/106efa87ce12/w5304h2771x0y569o/202608/43601.0.2457694759/bundesaussenminister-johann.webp"
         },
         {
           "title": "Deutschland 2033: So könnte es sein, wenn die AfD mit der Union regiert",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/7656d66f1ca3/w3000h1567x0y106o/202501/43601.0.813364938/afd-parteichefin-alice-weidel.webp"
+        },
+        {
+          "title": "So gesund ist Singen: „97 Prozent der Menschen können singen“",
+          "url": "https://www.faz.net/aktuell/besser-leben/gesundheit/97-prozent-der-menschen-koennen-singen-warum-wir-es-dringend-mehr-tun-sollten-accg-201038111.html",
+          "summary": "Es verbindet, macht glücklich – und heilt. Trotzdem ist Singen in unserer Gesellschaft schambehaftet. Was das mit Adorno zu tun hat und warum wir dringend mehr singen sollten, erklärt der Neurowissenschaftler Eckart Altenmüller.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/b1a157fed3b2/w7250h3788x0y899o/202607/43601.0.2383500879/wenn-ich-singe-trage-ich.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Zohran Mamdani: Warum der Bürgermeister von New York City plötzlich Chinesisch spricht",
-          "url": "https://www.spiegel.de/ausland/zohran-mamdani-warum-der-buergermeister-von-new-york-city-ploetzlich-chinesisch-spricht-a-86883641-5def-4b63-a486-c5cd615f6adb#ref=rss",
-          "summary": "*…kann kein Chinesisch. Trotzdem macht New Yorks Bürgermeister mit einer Reihe Videos von sich reden, in denen er Mandarin, Spanisch und Bengalisch spricht. Und das ziemlich gut. Wieso funktioniert das?",
+          "title": "Mannheim-Kaiserslautern: Pokal-Derby eskaliert – 85 Verletzte nach Ausschreitungen",
+          "url": "https://www.spiegel.de/sport/mannheim-kaiserslautern-pokal-derby-eskaliert-85-verletzte-nach-ausschreitungen-a-767ed013-bd22-47d3-aa1a-a393a1f4efd6#ref=rss",
+          "summary": "1400 Polizisten waren im Einsatz – trotzdem kam es beim Pokalspiel Mannheim gegen Kaiserslautern zu schweren Ausschreitungen. Die Polizei berichtet von Dutzenden Verletzten, auch in den eigenen Reihen. Gegen einige Fans wird nun ermittelt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3f53b0b1-8ffe-44f0-96c3-0537ae462129_w1200_r1.778_fpx50_fpy38.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/559c46ed-0db4-47d8-9c11-fe96e1368906_w1200_r1.778_fpx50.65_fpy49.99.jpg"
         },
         {
-          "title": "Tatjana Kim: Die Ukraine bombardiert Wildberries-Lager - das ist die Gründerin",
-          "url": "https://www.spiegel.de/ausland/tatjana-kim-die-ukraine-bombardiert-wildberries-lager-das-ist-die-gruenderin-a-4fc5c797-43bf-433f-89d6-8945a96ae33e#ref=rss",
-          "summary": "Der Erfolg von Wildberries hat Tatjana Kim zur reichsten Frau Russlands gemacht. Ein Showdown mit ihrem Ex-Mann zeigt, wie die Selfmade-Milliardärin ihr Imperium verteidigt.",
+          "title": "News: Friedrich Merz im Hürtgenwald, Alexander Dobrindt, Jens Plötner, Wehrressort, Caroline Wahl plaudert über Geld",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-im-huertgenwald-alexander-dobrindt-jens-ploetner-wehrressort-caroline-wahl-plaudert-ueber-geld-a-98d11cb9-fccd-462a-b8fa-55e2a19f4c4a#ref=rss",
+          "summary": "Friedrich Merz meldet sich zum Dienst. Innenminister Dobrindt meidet das R-Wort. Das Verteidigungsministerium wehrt sich gegen Kritik. Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/801653e6-c294-4e42-9dba-c55b760d25ac_w1200_r1.778_fpx37.81_fpy49.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Katherina Reiche: Rätselhafter Schmusekurs mit China",
-          "url": "https://www.spiegel.de/politik/deutschland/katherina-reiches-raetselhafter-schmusekurs-mit-peking-a-439c931c-e7da-4f5b-8477-73feb2e3e1d3#ref=rss",
-          "summary": "Die Bundesregierung will nach langem Zögern härter gegen Chinas aggressive Handelspolitik vorgehen. Doch ausgerechnet Wirtschaftsministerin Reiche bremst – ein Kritiker wirft ihr »Schattendiplomatie« vor.",
+          "title": "Russische Angriffe auf Ukraine: Johann Wadephul äußert sich erschüttert über Angriffe auf Zivilisten",
+          "url": "https://www.spiegel.de/ausland/russische-angriffe-auf-ukraine-johann-wadephul-aeussert-sich-erschuettert-ueber-angriffe-auf-zivilisten-a-5bfe80f5-daad-490f-b8b0-38f6fa3119a3#ref=rss",
+          "summary": "Nur Stunden nach den Attacken auf ein Einkaufszentrum in der Ukraine ist Außenminister Wadephul in Kyjiw eingetroffen. Er verurteilte den »wahllosen Mord an Zivilisten«. Staatschef Selenskyj fordert erneut Hilfe bei der Flugabwehr.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4b22d1ad-9400-4152-97ba-aa492cf6bbdc_w1200_r1.778_fpx49_fpy47.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d826e633-9cdf-4a35-84da-6188d4d6644b_w1200_r1.778_fpx49_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
+          "url": "https://www.tagesschau.de/kultur/kaisergrab-otto-der-grosse-magdeburger-dom-100.html",
+          "summary": "Weil das Grab von Kaiser Otto dem Großen restauriert werden musste, wurden auch seine Gebeine erforscht. Historiker und Chirurgen sind nun um einiges klüger - und der Kaiser bekommt bald eine neue Ruhestätte. Von S. Meyer.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f6b3fe29-5215-4316-8004-f99c9ef0054e/AAABoCSDMQk/AAABnSSvrFg/16x9-big/lettner-dom-100.jpg?width=1280"
+        },
+        {
+          "title": "Siedlungsbau im Westjordanland: Stresstest für Israels Verhältnis zu Europa",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-siedlungspolitik-eu-100.html",
+          "summary": "Israel treibt den Bau neuer Siedlungen voran, sie könnten einen zusammenhängenden Palästinenserstaat unmöglich machen. Westliche Staaten verurteilen die Pläne, die EU diskutiert Sanktionen - und das Verhältnis zu Israel leidet weiter. Von Julia Ley.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b9cd0d21-9226-4486-9117-8ed21c38a940/AAABoCdb320/AAABnSSvrFg/16x9-big/israel-flagge-westjordanland-100.jpg?width=1280"
+        },
+        {
           "title": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html",
           "summary": "Die US-Regierung warf TikTok vor, illegal Daten von Kindern gesammelt zu haben. Nach dem Besitzerwechsel im US-Geschäft und einer Zahlung von mehreren hundert Millionen Dollar enden die Ermittlungen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/84daea42-879d-4c0f-aa54-f2564c1211af/AAABlGPTFOU/AAABnSSvrFg/16x9-big/tiktok-200.jpg?width=1280"
-        },
-        {
-          "title": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
-          "url": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
-          "summary": "Vor der Küste Mauretaniens hat die Küstenwache mehr als 300 Menschen von einem manövrierunfähigen Holzboot gerettet. Sie waren wohl auf dem Weg zu den Kanarischen Inseln - eine Route, die immer gefährlicher wird.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/63e4ead8-e6b7-4f5d-8ce5-50ca6f4dd158/AAABmPYELKQ/AAABnSSvrFg/16x9-big/karte-mauretanien-nouakchott-100.jpg?width=1280"
-        },
-        {
-          "title": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
-          "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
-          "summary": "Wer folgt auf Guterres? In einer zweiten Abstimmung setzte sich die Guyanerin Birkett an die Spitze der Liste für das Amt des UN-Generalsekretärs. Die Präsidentin der Generalversammlung Baerbock wirbt für mehr Transparenz - und wird dafür angefeindet.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f6893869-2cef-4cb5-b7c8-92205155627b/AAABoCWzvfw/AAABnSSvrFg/16x9-big/birkett-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Nach 400-Millionen-Zahlung: US-Justiz stoppt Tiktok-Ermittlungen",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-tiktok-ermittlungen-li.3530667",
-          "summary": "Die US-Regierung warf Tiktok vor, illegal Daten von Kindern gesammelt zu haben. Nach einer Zahlung von mehreren hundert Millionen Dollar enden die Ermittlungen.",
+          "title": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
+          "url": "https://www.sueddeutsche.de/politik/frankreich-sommer-hitzerekorde-klimawandel-li.3534863",
+          "summary": "Frankreich war von Hitze, Dürre und Bränden besonders betroffen, selbst die Lepenisten können die globale Erwärmung nicht länger leugnen. Was ist ihr Plan, falls sie kommenden Frühjahr an die Macht kommen?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/04/78267955-716f-4c0e-bed3-a274e786f58d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C98%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/08/21/94dfc502-7894-42d5-adc6-ad9d3c2040ae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
         },
         {
-          "title": "Krieg in der Ukraine: Tote und Verletzte nach russischem Angriff auf Einkaufszentrum",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krywyj-rih-angriff-tote-li.3524928",
-          "summary": "Russland greift das Einkaufszentrum in der ukrainischen Großstadt Krywyj Rih in zwei Wellen mit Drohnen an. Selenskij spricht von einem „absolut zynischen und hinterhältigen Angriff“.",
+          "title": "Krieg in Nahost: Iran nennt Trumps „Wirtschaftskrieg“ völkerrechtswidrig",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-voelkerrecht-li.3530668",
+          "summary": "Die US-Regierung erhöht den Druck auf Verbündete, an einem „Wirtschaftskrieg“ gegen Iran mitzuwirken. Teheran spricht von einem Bruch internationaler Rechtsprinzipien.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/21/236c772c-1513-43be-9d5e-e6015bc9756c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C48%2C1188%2C668"
+          "image": "https://www.sueddeutsche.de/2026/06/24/27eeb073-0832-45b0-9cb3-1558d95a62e4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
         },
         {
-          "title": "Desinformation: Sieht aus wie die SZ, ist aber nicht die SZ: Wie man Fälschungen erkennt",
-          "url": "https://www.sueddeutsche.de/politik/desinformation-landtagswahl-sachsen-anhalt-sven-schulze-russland-fake-news-doppelgaenger-matrjoschka-li.3535102",
-          "summary": "Die „Süddeutsche Zeitung“ hat Ungeheuerlichkeiten über einen ostdeutschen Politiker enthüllt? Stimmt nicht! Fake-News-Kampagnen haben vor den Landtagswahlen im Herbst Konjunktur: Was man darüber wissen muss und wie man sie erkennt.",
+          "title": "Hitzewelle: Merz will Helfern im Waldbrandgebiet danken",
+          "url": "https://www.sueddeutsche.de/panorama/merz-eifel-waldbrand-helfer-auftritt-li.3522772",
+          "summary": "Es ist der erste öffentliche Termin von Bundeskanzler Friedrich Merz nach seinem Sommerurlaub. Der Waldbrand in der Eifel war wohl der größte in der Geschichte Nordrhein-Westfalens.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/21/8088b665-4ab7-482e-9d40-4ef1ffd20970.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3083%2C1734"
+          "image": "https://www.sueddeutsche.de/2026/07/28/fc54e03a-1610-4e49-8ab1-09f7c44ae68d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C455%2C4000%2C2250"
         }
       ]
     }
