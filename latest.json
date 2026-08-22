@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-22T14:00:09.988Z",
-  "timestamp": "22.8.2026, 16:00:09",
+  "generated": "2026-08-22T18:00:08.196Z",
+  "timestamp": "22.8.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "F.A.Z.-Serie Schneller Schlau: Unruhiger Anker des globalen Finanzsystems",
-          "url": "https://www.faz.net/aktuell/finanzen/us-anleihen-die-zweifel-am-sicheren-hafen-wachsen-201146847.html",
-          "summary": "Im US-Schuldenmarkt kann man schneller und mehr Geld anlegen als in jedem anderen Anleihenmarkt. Das war lange für alle Beteiligten von Vorteil. Nun aber mehren sich die Zweifel.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/9bdb93eb8d7e/w6249h3265x1566y125o/202608/4668c95a-1704-42e3-bb6e-16a64b51cf0d/efwaimcddnpq.webp"
-        },
-        {
-          "title": "Rekord-Renditen: „Staatsanleihen-ETF sind am günstigsten“",
-          "url": "https://www.faz.net/premium/meine-finanzen/zinsen/anleihen-und-etf-wie-anleger-jetzt-von-renditen-profitieren-accg-201140798.html",
-          "summary": "Viele Anleihen haben sich deutlich verbilligt, ihre Renditen sind gestiegen. Viele Anleger fragen sich, ob sie nun investieren sollen. Wie das geht – vom ETF bis zur Einzelanleihe.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/05c9a9637569/w4530h2366x0y140o/202607/43601.0.2342194533/ist-die-anleihe-erstmal-im.webp"
-        },
-        {
-          "title": "Neue Anlageklasse: Warum das Silicon Valley jetzt in Sport investiert",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jeff-bezos-und-co-warum-das-silicon-valley-jetzt-in-sport-investiert-accg-201144104.html",
-          "summary": "Jeff Bezos steigt bei Liverpool ein, und auch andere Techmilliardäre entdecken ihr Interesse am Sport. Dabei geht es um mehr als Prestige.",
+          "title": "Merz im Hürtgenwald: Buhrufe für Merz im Waldbrandgebiet",
+          "url": "https://www.faz.net/aktuell/politik/friedrich-merz-im-huertgenwald-das-ist-klimawandel-accg-201149966.html",
+          "summary": "Der erste öffentliche Termin nach seinem Urlaub führt den Kanzler in ein Katastrophengebiet. Ein Landrat räumt das Gerücht ab, Merz habe sich nicht gekümmert.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/60ae9ff42c36/w5455h2850x356y852o/202608/43601.0.2452541560/amazon-gruender-jeff-bezos-ist.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e577c4808b1c/w5288h2762x0y155o/202608/43601.0.2458857861/nach-dem-brand-kanzler.webp"
+        },
+        {
+          "title": "Zustand der Koalition: Ein Kanzler im Drei-Fronten-Krieg",
+          "url": "https://www.faz.net/aktuell/politik/inland/koalition-gelingt-merz-im-zweiten-halbjahr-die-trendwende-accg-201136837.html",
+          "summary": "Eigentlich wollte der Kanzler mit neuer Kraft in die zweite Jahreshälfte starten. Aber nach dem Personal-Chaos ist die Frage: Kann das klappen?",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/3be2e4c81e93/w6518h3405x0y470o/202607/43601.0.2383942294/der-kanzler-vor-seinem-langen.webp"
+        },
+        {
+          "title": "Chaosspiel in Mannheim: Hilferuf nach einem Pokalabend mit dunklem Schatten",
+          "url": "https://www.faz.net/aktuell/sport/fussball/sv-waldhof-mannheim-gegen-1-fc-kaiserslautern-hilferuf-nach-randale-accg-201149391.html",
+          "summary": "Schnell geht es beim Fußballspiel Mannheim gegen Kaiserslautern nicht mehr um Fußball. Das überrascht nicht. Die bittere Botschaft: Der Fußball allein schafft es nicht, das Absehbare zu verhindern.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/139f1fe557fb/w5558h2904x0y1637o/202608/43601.0.2456784097/nachdem-fans-auf-den-platz.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Zugdiplomatie zwischen China und Nordkorea: In der Grünen Haut nach Nordkorea",
+          "url": "https://www.spiegel.de/ausland/zugdiplomatie-zwischen-china-und-nordkorea-in-der-gruenen-haut-nach-nordkorea-a-d216b535-3186-4a9d-9872-a6c4b34ce233#ref=rss",
+          "summary": "Fast sechs Jahre gab es keine regelmäßige Bahnverbindung von Peking ins abgeschottete Nachbarland. Jetzt fährt der Schlafwagen wieder. 14 Stunden in der »Grünen Haut«.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/9936d45f-cb86-41df-9702-5865d1c92e2c_w1200_r1.778_fpx51_fpy57.jpg"
+        },
+        {
+          "title": "Friedrich Merz in Hürtgenwald mit Pfiffen empfangen: »Schauen Sie sich das ​genau an, was hier passiert ist«",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-huertgenwald-mit-pfiffen-empfangen-schauen-sie-sich-das-genau-an-was-hier-passiert-ist-a-e91f1e28-f3e8-49a1-846c-fbed7a27cd73#ref=rss",
+          "summary": "Der Kanzler wurde mit Buhrufen und Pfiffen empfangen: Friedrich Merz hat das Waldbrandgebiet in der Eifel besucht – und wendete sich an Leugner des Klimawandels.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/911b11a1-2c36-46c6-9855-32286175e087_w1200_r1.778_fpx30_fpy54.99.jpg"
+        },
+        {
           "title": "Ukraine: Während Außenminister Johann Wadephul in Kyjiw Wolodymyr Selenskyj trifft, wird Luftalarm ausgelöst",
           "url": "https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss",
           "summary": "Der deutsche Außenminister redet zwar noch von möglichen Verhandlungen mit Russland. In Kyjiw wird aber eines nochmals drastisch klar: Um den Winter zu überstehen, braucht die Ukraine sehr viel mehr Hilfe bei der Luftverteidigung.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ac824e80-5094-4e1a-a880-db751fb7ae4f_w1200_r1.778_fpx29.99_fpy54.97.jpg"
-        },
-        {
-          "title": "Jette Nietzard über Meinungsfreiheit: »Als wäre die ganze Welt gegen mich«",
-          "url": "https://www.spiegel.de/kultur/jette-nietzard-als-waere-die-ganze-welt-gegen-mich-a-33c46ff3-0163-4c2e-9ff2-4420c7b2912a#ref=rss",
-          "summary": "In ihrer Rolle als Bundessprecherin der Grünen Jugend testete sie die Grenzen des Sagbaren. Wie denkt Jette Nietzard heute darüber?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6c451584-b664-4788-907e-9414bfb16c45_w1200_r1.778_fpx57_fpy36.jpg"
-        },
-        {
-          "title": "Sven Schulze will eine AfD-Regierung in Sachsen-Anhalt verhindern. Hat der CDU-Mann eine Chance?",
-          "url": "https://www.spiegel.de/politik/deutschland/sven-schulze-will-eine-afd-regierung-in-sachsen-anhalt-verhindern-hat-der-cdu-mann-eine-chance-a-ad9c248f-8ddd-4f58-ba81-75eec8871551#ref=rss",
-          "summary": "Viel Pragmatismus und ein bisschen Realitätsverweigerung, so führt Ministerpräsident Sven Schulze in diesen Tagen Wahlkampf. Doch je schlechter seine Umfragewerte werden, desto kopfloser wirkt er.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/15703286-df86-4bbe-a2be-dcd4347087ab_w1200_r1.778_fpx50_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ac824e80-5094-4e1a-a880-db751fb7ae4f_w1200_r1.778_fpx52_fpy51.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
-          "summary": "Seit der Rückkehr ins Weiße Haus versucht die Trump-Administration, Rechte von Transmenschen zu mindern. Zuletzt wurde die Zahlung für Behandlungen von Transjugendlichen gestoppt. Wie lebt die Community damit? Von Marc Feuser.",
+          "title": "Wie Künstliche Intelligenz die Justiz ausbremst",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
+          "summary": "Vor allem die Sozialgerichte erleben das Phänomen: Immer mehr Kläger nutzen offenbar Künstliche Intelligenz, um Eingaben zu formulieren. Für die Justiz bedeutet das viel Arbeit mit teils unsinnigen Schriftsätzen. Von Thomas Denzel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/04929f5b-a697-4719-b543-c0ac3f250594/AAABoBq7JTM/AAABnSSvrFg/16x9-big/transilience-festival-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/04bd198c-0deb-4e17-8566-3019732b6f1d/AAABoCRGXUM/AAABnSSvrFg/16x9-big/sendungsbild-1783748.jpg?width=1280"
         },
         {
-          "title": "Kanzler Merz besucht Waldbrandgebiet in NRW",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
-          "summary": "Sommerpause, Urlaub, terminfreie Zeit: Für die Abwesenheit von Kanzler Merz gibt es viele Begriffe. Doch nun ist er wieder da - im Waldbrandgebiet in NRW. Dort ist das Feuer gelöscht, für die Brandherde des Kanzlers gilt das nicht.",
+          "title": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
+          "summary": "Bei seinem Besuch in der Hauptstadt Kiew hat Bundesaußenminister Wadephul der Ukraine weitere 50 Millionen Euro an humanitärer Hilfe zugesagt. Die anhaltenden russischen Angriffe auf das Land nannte er einen \"wahllosen Mord an Zivilisten\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/485484f6-648e-496a-a5a2-c452b0a42da9/AAABoBmiSPo/AAABnSSvrFg/16x9-big/friedrich-merz-470.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3c55ebcd-33a3-4fed-ab3e-3deef425fc8f/AAABoCpKsrw/AAABnSSvrFg/16x9-big/wadephul-sybiha-100.jpg?width=1280"
         },
         {
-          "title": "Klingbeil macht Vorstoß für Übergewinnsteuer bei Ölkonzernen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html",
-          "summary": "Während die Spritpreise im Zuge des Iran-Kriegs stark gestiegen sind, machen Ölkonzerne höhere Gewinne. Finanzminister Klingbeil will diese deshalb zur Kasse bitten und fordert - zusammen mit anderen EU-Staaten - eine Übergewinnsteuer.",
+          "title": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
+          "summary": "Die deutschen Discounter liefern sich einen Preiskampf. Aldi setzt auf den besten Preis für alle - ganz ohne Bonus-App. Lidl kontert digital. Wer hat die bessere Strategie? Von Anke Heinhaus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3c29e663-afb0-4548-bf8a-894114d69af4/AAABnXHZykc/AAABnSSvrFg/16x9-big/tankstelle-236.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/18097fe4-6d3c-4e9d-95f1-47d06cb17a2b/AAABlgtQI4c/AAABnSSvrFg/16x9-big/aldi-lidl-103.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Lebensmittel fehlen in Kiew: Was über die Logistikprobleme bekannt ist",
+          "url": "https://www.telepolis.de/article/Lebensmittel-fehlen-in-Kiew-Was-ueber-die-Logistikprobleme-bekannt-ist-11422783.html",
+          "summary": "Russische Raketen zerstören Lagerhäuser rund um Kiew. In Supermärkten fehlen Grundnahrungsmittel. Die Regierung spricht von einem logistischen Engpass.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/6/3/2/shutterstock_2606079499-19b06cf8175150f2.jpg"
+        },
         {
           "title": "Blaualgen an der Ostsee: Das Problem beginnt auf den Feldern",
           "url": "https://www.telepolis.de/article/Blaualgen-an-der-Ostsee-Das-Problem-beginnt-auf-den-Feldern-11421402.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/6/0/4/Master_Gerbera-bf08c1480dca539b.jpg"
-        },
-        {
-          "title": "Affront für Washington: China und Iran schmieden Allianz bei Seltenen Erden",
-          "url": "https://www.telepolis.de/article/Affront-fuer-Washington-China-und-Iran-schmieden-Allianz-bei-Seltenen-Erden-11417190.html",
-          "summary": "China und Iran starten ein Programm zu Seltenen Erden: Peking liefert Know-how für Erkundung und Verarbeitung, Teheran bringt Rohstoffpotenzial ein.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/8/5/1/8/seltene_erden_ir-cn-b6f949134ad723a0.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in der Ukraine: Putin räumt Schäden für Wirtschaft ein und droht Kiew",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-schaeden-wortschaft-gegenschlaege-li.3524928",
+          "summary": "Die ukrainischen Angriffe fügten Russland wirtschaftlichen Schaden zu und führten zu Verlusten, sagt der russische Präsident und kündigt harte Gegenschläge an.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/22/cfd2858d-0648-4b2a-9d35-fbfef93ad937.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
+          "title": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
+          "summary": "Der Bundeskanzler hat seinen ersten Termin nach seinem dreiwöchigen Sommerurlaub absolviert. Seine Rede wurde von Buhrufen und Pfiffen begleitet.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/22/0db3378c-c983-4c22-b61b-2b066a28de1f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C262%2C4000%2C2250"
+        },
+        {
           "title": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
           "url": "https://www.sueddeutsche.de/sport/klara-buehl-fc-bayern-bundesliga-fussball-saisonstart-li.3535275",
           "summary": "Kaum hat die neue Bundesliga-Saison begonnen, ragt Klara Bühl wieder heraus – beim FC Bayern und überhaupt. Sie zu halten, dürfte zu einer großen Herausforderung für den Doublesieger werden.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/22/f2332c0b-a7c2-4643-80ba-a5444c1cbb31.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1126%2C345%2C2484%2C1397"
-        },
-        {
-          "title": "Reit-WM: In Aachen beben die Tribünen",
-          "url": "https://www.sueddeutsche.de/sport/springreiten-aachen-team-gold-wm-li.3535295",
-          "summary": "Überraschend souverän gewinnen die deutschen Springreiter die Gold-Medaille bei ihrer Heim-WM. Für Marcus Ehning ist es ein besonderer Triumph.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/22/26158d04-4cb8-4d3e-bb88-6019b7d9aaaf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C239%2C4000%2C2250"
-        },
-        {
-          "title": "Krieg in der Ukraine: Während Wadephul-Besuch in Kiew: Russland beschießt Vorort",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wadephul-kiew-russland-angriffe-li.3524928",
-          "summary": "Beim Angriff auf Boryspil setzt das russische Militär nach Angaben der ukrainischen Luftwaffe mindestens drei ballistische Raketen ein. Der Luftalarm gilt zwischendurch auch für Kiew.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/22/dc5b0a42-de9d-4aca-8c3e-90b5f5891a72.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C286%2C3500%2C1969"
         }
       ]
     }
