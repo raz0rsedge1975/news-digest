@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-22T10:00:10.589Z",
-  "timestamp": "22.8.2026, 12:00:10",
+  "generated": "2026-08-22T14:00:09.988Z",
+  "timestamp": "22.8.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Chaosspiel in Mannheim: Hilferuf nach einem Pokalabend mit dunklem Schatten",
-          "url": "https://www.faz.net/aktuell/sport/fussball/sv-waldhof-mannheim-gegen-1-fc-kaiserslautern-hilferuf-nach-randale-accg-201149391.html",
-          "summary": "Schnell geht es beim Fußballspiel Mannheim gegen Kaiserslautern nicht mehr um Fußball. Das überrascht nicht. Die bittere Botschaft: Der Fußball allein schafft es nicht, das Absehbare zu verhindern.",
+          "title": "F.A.Z.-Serie Schneller Schlau: Unruhiger Anker des globalen Finanzsystems",
+          "url": "https://www.faz.net/aktuell/finanzen/us-anleihen-die-zweifel-am-sicheren-hafen-wachsen-201146847.html",
+          "summary": "Im US-Schuldenmarkt kann man schneller und mehr Geld anlegen als in jedem anderen Anleihenmarkt. Das war lange für alle Beteiligten von Vorteil. Nun aber mehren sich die Zweifel.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/139f1fe557fb/w5558h2904x0y1637o/202608/43601.0.2456784097/nachdem-fans-auf-den-platz.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/9bdb93eb8d7e/w6249h3265x1566y125o/202608/4668c95a-1704-42e3-bb6e-16a64b51cf0d/efwaimcddnpq.webp"
         },
         {
-          "title": "85 Verletzte in Mannheim: Innenminister: Wer so handelt, ist „kein Fan, sondern ein Krimineller“",
-          "url": "https://www.faz.net/aktuell/sport/fussball/pokal-krawallnacht-in-mannheim-dfb-prueft-konsequenzen-accg-201149671.html",
-          "summary": "DFB und Politik verurteilen die Ausschreitungen beim Südwest-Derby zwischen Mannheim und Kaiserslautern im DFB-Pokal. Der Fußballverband und die Polizei ermitteln.",
+          "title": "Rekord-Renditen: „Staatsanleihen-ETF sind am günstigsten“",
+          "url": "https://www.faz.net/premium/meine-finanzen/zinsen/anleihen-und-etf-wie-anleger-jetzt-von-renditen-profitieren-accg-201140798.html",
+          "summary": "Viele Anleihen haben sich deutlich verbilligt, ihre Renditen sind gestiegen. Viele Anleger fragen sich, ob sie nun investieren sollen. Wie das geht – vom ETF bis zur Einzelanleihe.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/79653c8b5e76/w5585h2918x80y1043o/202608/43601.0.2457170348/polizisten-stehen-vor-dem.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/05c9a9637569/w4530h2366x0y140o/202607/43601.0.2342194533/ist-die-anleihe-erstmal-im.webp"
         },
         {
-          "title": "Irankrieg: Wie die Golfstaaten die Straße von Hormus umgehen wollen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-golfstaaten-die-strasse-von-hormus-umgehen-wollen-accg-201147551.html",
-          "summary": "Die arabischen Golfmonarchien arbeiten an neuen Exportrouten, um sich gegen Iran zu wappnen. Aber das ist teuer und mit politischen Kosten verbunden.",
+          "title": "Neue Anlageklasse: Warum das Silicon Valley jetzt in Sport investiert",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jeff-bezos-und-co-warum-das-silicon-valley-jetzt-in-sport-investiert-accg-201144104.html",
+          "summary": "Jeff Bezos steigt bei Liverpool ein, und auch andere Techmilliardäre entdecken ihr Interesse am Sport. Dabei geht es um mehr als Prestige.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/79aeafc6fe95/w1872h978x0y232o/202603/43601.0.1845310749/braende-am-hafen-von.webp"
+          "image": "https://media0.faz.net/image/w1200h627/60ae9ff42c36/w5455h2850x356y852o/202608/43601.0.2452541560/amazon-gruender-jeff-bezos-ist.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Meinungsfreiheit: Wie ein Grundrecht unter Druck gerät",
-          "url": "https://www.spiegel.de/kultur/meinungsfreiheit-wie-ein-grundrecht-unter-druck-geraet-a-10304130-7f8f-4ec4-af5f-22b9e0c57833#ref=rss",
-          "summary": "Viele Menschen fühlen sich in ihrer Meinungsfreiheit beschränkt. Warum das oft ein Missverständnis ist. Und welche staatlichen Sprechverbote es tatsächlich gibt. Die SPIEGEL-Titelstory.",
+          "title": "Ukraine: Während Außenminister Johann Wadephul in Kyjiw Wolodymyr Selenskyj trifft, wird Luftalarm ausgelöst",
+          "url": "https://www.spiegel.de/politik/deutschland/ukraine-waehrend-aussenminister-johann-wadephul-in-kyjiw-wolodymyr-selenskyj-trifft-wird-luftalarm-ausgeloest-a-3527ad05-7349-4e09-9870-6b99e048bb99#ref=rss",
+          "summary": "Der deutsche Außenminister redet zwar noch von möglichen Verhandlungen mit Russland. In Kyjiw wird aber eines nochmals drastisch klar: Um den Winter zu überstehen, braucht die Ukraine sehr viel mehr Hilfe bei der Luftverteidigung.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/de85ecdd-e438-468f-9acf-e0e2e13ec386_w1200_r1.778_fpx50_fpy50.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/ac824e80-5094-4e1a-a880-db751fb7ae4f_w1200_r1.778_fpx29.99_fpy54.97.jpg"
+        },
+        {
+          "title": "Jette Nietzard über Meinungsfreiheit: »Als wäre die ganze Welt gegen mich«",
+          "url": "https://www.spiegel.de/kultur/jette-nietzard-als-waere-die-ganze-welt-gegen-mich-a-33c46ff3-0163-4c2e-9ff2-4420c7b2912a#ref=rss",
+          "summary": "In ihrer Rolle als Bundessprecherin der Grünen Jugend testete sie die Grenzen des Sagbaren. Wie denkt Jette Nietzard heute darüber?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6c451584-b664-4788-907e-9414bfb16c45_w1200_r1.778_fpx57_fpy36.jpg"
         },
         {
           "title": "Sven Schulze will eine AfD-Regierung in Sachsen-Anhalt verhindern. Hat der CDU-Mann eine Chance?",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/15703286-df86-4bbe-a2be-dcd4347087ab_w1200_r1.778_fpx50_fpy44.jpg"
-        },
-        {
-          "title": "Ausländerbehörde Köln und die »Coesfelder Liste«: Streit um angeblich verhinderte Abschiebungen",
-          "url": "https://www.spiegel.de/panorama/auslaenderbehoerde-koeln-und-die-coesfelder-liste-streit-um-angeblich-verhinderte-abschiebungen-a-9e531f57-c016-4914-9f3b-b0a3db8177a7#ref=rss",
-          "summary": "In Köln schwelt ein Streit über eine Ausländerbehörde, die rund 500 Rückführungen in den Westbalkan verhindert haben soll. Tatsächlich offenbart der Fall die Schwächen eines überkomplexen Systems.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5df34c2c-79bc-4984-98fb-bb0e304ec719_w1200_r1.778_fpx44_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Jabloko-Chef Rybakow: \"In Russland denken viele wie wir\"",
-          "url": "https://www.tagesschau.de/ausland/europa/russland-jabloko-rybakow-wahlausschluss-100.html",
-          "summary": "Die russische Oppositionspartei Jabloko lehnt den Ukraine-Krieg ab und darf nach einem Gerichtsurteil nicht an der Parlamentswahl im September teilnehmen. Parteichef Rybakow spricht im Interview über die Gründe dafür - und über den Rückhalt im Land.",
+          "title": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
+          "summary": "Seit der Rückkehr ins Weiße Haus versucht die Trump-Administration, Rechte von Transmenschen zu mindern. Zuletzt wurde die Zahlung für Behandlungen von Transjugendlichen gestoppt. Wie lebt die Community damit? Von Marc Feuser.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3abc511-836d-491c-8d94-03b9d592c5f0/AAABoCOItoQ/AAABnSSvrFg/16x9-big/rybakow-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/04929f5b-a697-4719-b543-c0ac3f250594/AAABoBq7JTM/AAABnSSvrFg/16x9-big/transilience-festival-100.jpg?width=1280"
         },
         {
-          "title": "Justizministerin Hubig will mehr Schutz für queere Menschen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-queere-menschen-grundgesetz-100.html",
-          "summary": "Der Anschlag auf den CSD in Berlin Ende Juli hat die queere Community schwer getroffen. Justizministerin Hubig will nun einen besseren Schutz durchsetzen - mit einer Grundgesetzänderung. Spielt die Union mit?",
+          "title": "Kanzler Merz besucht Waldbrandgebiet in NRW",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
+          "summary": "Sommerpause, Urlaub, terminfreie Zeit: Für die Abwesenheit von Kanzler Merz gibt es viele Begriffe. Doch nun ist er wieder da - im Waldbrandgebiet in NRW. Dort ist das Feuer gelöscht, für die Brandherde des Kanzlers gilt das nicht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3e05860d-763d-4cbd-af27-3dee6050a8ad/AAABl9XWyFM/AAABnSSvrFg/16x9-big/regenbogenflagge-122.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/485484f6-648e-496a-a5a2-c452b0a42da9/AAABoBmiSPo/AAABnSSvrFg/16x9-big/friedrich-merz-470.jpg?width=1280"
         },
         {
-          "title": "Zahl der Todesopfer nach Angriff auf ukrainisches Einkaufszentrum gestiegen",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-ozon-krywyj-rih-100.html",
-          "summary": "Nach dem russischen Drohnenangriff auf ein Einkaufszentrum in Krywyj Rih ist die Zahl der Toten auf 16 gestiegen. Die Ukraine attackierte erneut eine russische Ölraffinerie und einen Logistikbetrieb - dieses Mal nicht Wildberries.",
+          "title": "Klingbeil macht Vorstoß für Übergewinnsteuer bei Ölkonzernen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html",
+          "summary": "Während die Spritpreise im Zuge des Iran-Kriegs stark gestiegen sind, machen Ölkonzerne höhere Gewinne. Finanzminister Klingbeil will diese deshalb zur Kasse bitten und fordert - zusammen mit anderen EU-Staaten - eine Übergewinnsteuer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/22bc22ee-f4e4-4581-9c8b-2d090a6ac597/AAABoChcfAw/AAABnSSvrFg/16x9-big/ukraine-krywyj-rih-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3c29e663-afb0-4548-bf8a-894114d69af4/AAABnXHZykc/AAABnSSvrFg/16x9-big/tankstelle-236.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Blaualgen an der Ostsee: Das Problem beginnt auf den Feldern",
+          "url": "https://www.telepolis.de/article/Blaualgen-an-der-Ostsee-Das-Problem-beginnt-auf-den-Feldern-11421402.html",
+          "summary": "Blaualgen breiten sich an der Ostsee aus. Der Grund liegt oft nicht im Wasser, sondern auf den Feldern: Dünger und Gülle gelangen in die See.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/0/9/3/3/shutterstock_2746368505-73e032a3b956981f.jpg"
+        },
+        {
+          "title": "Russlands Gerbera-Drohne: Billigwaffe wird zum ernsthaften Problem",
+          "url": "https://www.telepolis.de/article/Russlands-Gerbera-Drohne-Billigwaffe-wird-zum-ernsthaften-Problem-11422727.html",
+          "summary": "Erst Täuschziel, dann Aufklärer und Relais, inzwischen Angriffsdrohne: Die Gerbera zeigt, wie schnell sich der Drohnenkrieg verändert.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/6/0/4/Master_Gerbera-bf08c1480dca539b.jpg"
+        },
+        {
           "title": "Affront für Washington: China und Iran schmieden Allianz bei Seltenen Erden",
           "url": "https://www.telepolis.de/article/Affront-fuer-Washington-China-und-Iran-schmieden-Allianz-bei-Seltenen-Erden-11417190.html",
           "summary": "China und Iran starten ein Programm zu Seltenen Erden: Peking liefert Know-how für Erkundung und Verarbeitung, Teheran bringt Rohstoffpotenzial ein.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/8/5/1/8/seltene_erden_ir-cn-b6f949134ad723a0.jpg"
-        },
-        {
-          "title": "Die Französische Revolution: Von der Guillotine zum Kaiserthron",
-          "url": "https://www.telepolis.de/article/Die-Franzoesische-Revolution-Von-der-Guillotine-zum-Kaiserthron-11416180.html",
-          "summary": "Die Revolution frisst ihre Kinder: Robespierre endet unter der Guillotine. Dann putscht sich Bonaparte an die Macht. Was bleibt vom Traum von 1789? (Teil 2/2).",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/4/8/0/0/3/Max_Adamo_Sturz_Robespierres-2bb4fb3c5a6c312c.jpg"
-        },
-        {
-          "title": "Bitcoin steigt – doch die langfristigen Aussichten bleiben unverändert",
-          "url": "https://www.telepolis.de/article/Bitcoin-steigt-doch-die-langfristigen-Aussichten-bleiben-unveraendert-11422594.html",
-          "summary": "Bitcoin steigt auf 77. 000 Dollar. US-Anleihekäufe, Short Squeeze und ETF-Zuflüsse treiben die Rally – an den langfristigen Aussichten ändert sich kaum.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/5/3/6/shutterstock_2633539361-b6ebb5b3974045f7.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Stargeiger David Garrett in München: Alle nass und trotzdem glücklich",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-konzert-koenigsplatz-david-garrett-li.3533235",
-          "summary": "Beim Freiluftkonzert auf dem Münchner Königsplatz bereitet der Showgeiger an einem verregneten Abend Freude – und dem frierenden Publikum wird richtig warm ums Herz.",
+          "title": "Klara Bühl beim FC Bayern: Die wertvollste Spielerin der Bundesliga",
+          "url": "https://www.sueddeutsche.de/sport/klara-buehl-fc-bayern-bundesliga-fussball-saisonstart-li.3535275",
+          "summary": "Kaum hat die neue Bundesliga-Saison begonnen, ragt Klara Bühl wieder heraus – beim FC Bayern und überhaupt. Sie zu halten, dürfte zu einer großen Herausforderung für den Doublesieger werden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/22/ee835ad1-0c1e-4c2f-a375-c0fc213bb623.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/22/f2332c0b-a7c2-4643-80ba-a5444c1cbb31.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1126%2C345%2C2484%2C1397"
         },
         {
-          "title": "Krieg in der Ukraine: Tote und Verletzte nach russischem Angriff auf Einkaufszentrum",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krywyj-rih-angriff-tote-li.3524928",
-          "summary": "Russland greift das Einkaufszentrum in der ukrainischen Großstadt Krywyj Rih in zwei Wellen mit Drohnen an. Selenskij spricht von einem „absolut zynischen und hinterhältigen Angriff“.",
+          "title": "Reit-WM: In Aachen beben die Tribünen",
+          "url": "https://www.sueddeutsche.de/sport/springreiten-aachen-team-gold-wm-li.3535295",
+          "summary": "Überraschend souverän gewinnen die deutschen Springreiter die Gold-Medaille bei ihrer Heim-WM. Für Marcus Ehning ist es ein besonderer Triumph.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/21/236c772c-1513-43be-9d5e-e6015bc9756c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C48%2C1188%2C668"
+          "image": "https://www.sueddeutsche.de/2026/08/22/26158d04-4cb8-4d3e-bb88-6019b7d9aaaf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C239%2C4000%2C2250"
         },
         {
-          "title": "Frankreich: Wie die Rechtsextremistin Le Pen zum Klimawandel steht",
-          "url": "https://www.sueddeutsche.de/politik/frankreich-sommer-hitzerekorde-klimawandel-li.3534863",
-          "summary": "Frankreich war von Hitze, Dürre und Bränden besonders betroffen, selbst die Lepenisten können die globale Erwärmung nicht länger leugnen. Was ist ihr Plan, falls sie kommenden Frühjahr an die Macht kommen?",
+          "title": "Krieg in der Ukraine: Während Wadephul-Besuch in Kiew: Russland beschießt Vorort",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wadephul-kiew-russland-angriffe-li.3524928",
+          "summary": "Beim Angriff auf Boryspil setzt das russische Militär nach Angaben der ukrainischen Luftwaffe mindestens drei ballistische Raketen ein. Der Luftalarm gilt zwischendurch auch für Kiew.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/21/94dfc502-7894-42d5-adc6-ad9d3c2040ae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/08/22/dc5b0a42-de9d-4aca-8c3e-90b5f5891a72.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C286%2C3500%2C1969"
         }
       ]
     }
