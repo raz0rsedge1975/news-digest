@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-21T22:00:08.747Z",
-  "timestamp": "22.8.2026, 00:00:08",
+  "generated": "2026-08-22T02:00:07.973Z",
+  "timestamp": "22.8.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html",
+          "summary": "Die US-Regierung warf TikTok vor, illegal Daten von Kindern gesammelt zu haben. Nach dem Besitzerwechsel im US-Geschäft und einer Zahlung von mehreren hundert Millionen Dollar enden die Ermittlungen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/84daea42-879d-4c0f-aa54-f2564c1211af/AAABlGPTFOU/AAABnSSvrFg/16x9-big/tiktok-200.jpg?width=1280"
+        },
+        {
+          "title": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
+          "url": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html",
+          "summary": "Vor der Küste Mauretaniens hat die Küstenwache mehr als 300 Menschen von einem manövrierunfähigen Holzboot gerettet. Sie waren wohl auf dem Weg zu den Kanarischen Inseln - eine Route, die immer gefährlicher wird.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/63e4ead8-e6b7-4f5d-8ce5-50ca6f4dd158/AAABmPYELKQ/AAABnSSvrFg/16x9-big/karte-mauretanien-nouakchott-100.jpg?width=1280"
+        },
+        {
           "title": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
           "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html",
           "summary": "Wer folgt auf Guterres? In einer zweiten Abstimmung setzte sich die Guyanerin Birkett an die Spitze der Liste für das Amt des UN-Generalsekretärs. Die Präsidentin der Generalversammlung Baerbock wirbt für mehr Transparenz - und wird dafür angefeindet.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/f6893869-2cef-4cb5-b7c8-92205155627b/AAABoCWzvfw/AAABnSSvrFg/16x9-big/birkett-100.jpg?width=1280"
-        },
-        {
-          "title": "Korruptionsskandal in der Ukraine weitet sich aus",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html",
-          "summary": "Der jüngste Korruptionsskandal in der Ukraine weitet sich aus: Nun soll eine beteiligte staatseigene Bank privatisiert werden. Auch im Umfeld des Präsidenten wird ermittelt. Die Opposition wirft ihm Geldwäsche vor. Von Florian Kellermann.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/a8d5f1c1-f5ff-4a5b-8c62-e1c1340025f0/AAABoCVSy7s/AAABnSSvrFg/16x9-big/selenskyj-1160.jpg?width=1280"
-        },
-        {
-          "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
-          "url": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html",
-          "summary": "Russland hat ein belebtes Einkaufszentrum in der Heimatstadt des ukrainischen Präsidenten angegriffen. Es gibt viele Tote und Verletzte. Selenskyj spricht von einem \"hinterhältigen Angriff\" in zwei Wellen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/143d7556-eb15-457d-a943-467f1be9b439/AAABoCUrDWQ/AAABnSSvrFg/16x9-big/einkaufszentrum-krywyj-rih-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Nach 400-Millionen-Zahlung: US-Justiz stoppt Tiktok-Ermittlungen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-tiktok-ermittlungen-li.3530667",
+          "summary": "Die US-Regierung warf Tiktok vor, illegal Daten von Kindern gesammelt zu haben. Nach einer Zahlung von mehreren hundert Millionen Dollar enden die Ermittlungen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/04/78267955-716f-4c0e-bed3-a274e786f58d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C98%2C2048%2C1152"
+        },
+        {
           "title": "Krieg in der Ukraine: Tote und Verletzte nach russischem Angriff auf Einkaufszentrum",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krywyj-rih-angriff-tote-li.3524928",
           "summary": "Russland greift das Einkaufszentrum in der ukrainischen Großstadt Krywyj Rih in zwei Wellen mit Drohnen an. Selenskij spricht von einem „absolut zynischen und hinterhältigen Angriff“.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/21/8088b665-4ab7-482e-9d40-4ef1ffd20970.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3083%2C1734"
-        },
-        {
-          "title": "AfD: Deutschland ist krank. Die Medizin? Kultur!",
-          "url": "https://www.sueddeutsche.de/kultur/sachsen-anhalt-wahlprogramm-kulturpolitik-melanie-amann-unframed-li.3529977",
-          "summary": "Die AfD in Sachsen-Anhalt will dem Land Stolz einflößen – mit weniger Bauhaus und mehr Pflege von Kriegerdenkmälern. Ausgedacht hat sich die Identitätsfolklore Hans-Thomas Tillschneider, ein in Rumänien geborener Islamwissenschaftler.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/21/d11e4713-c259-4a43-9451-82ac3eaea7d2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
