@@ -1,10 +1,26 @@
 {
-  "generated": "2026-08-23T02:00:08.642Z",
-  "timestamp": "23.8.2026, 04:00:08",
+  "generated": "2026-08-23T06:00:08.155Z",
+  "timestamp": "23.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Deutschland-Liveblog: Merz verspricht „schnelle und umfassende Entlastung“",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-voigt-als-cdu-landesvorsitzender-in-thueringen-wiedergewaehlt-faz-110093143.html",
+          "summary": "Kabinettsklausur soll Wachstum und Beschäftigung anschieben +++ Voigt als CDU-Vorsitzender in Thüringen wiedergewählt +++ Schulze hält Wechsel von CDU-Politikern zur AfD für „Quatsch“ +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/50c20d8f1bfe/w4752h2482x0y183o/202608/43601.0.2458662069/bundeskanzler-friedrich-merz.webp"
+        },
+        {
+          "title": "CDU Thüringen: Voigt spricht von Plagiatsvorwurf als „angezinktes Ding“",
+          "url": "https://www.faz.net/aktuell/politik/inland/mario-voigt-die-thueringer-cdu-demonstriert-geschlossenheit-201150492.html",
+          "summary": "Noch immer steht Mario Voigt wegen Plagiatsvorwürfen unter Druck, für Freitag hat die AfD ein konstruktives Misstrauensvotum beantragt. Die Thüringer CDU betont auf ihrem Parteitag Geschlossenheit.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b46c71b0384e/w4000h2090x0y153o/202608/43601.0.2458162183/wiedergewaehlt-der-thueringer.webp"
+        },
         {
           "title": "So arbeitet Deutschland: Wenn es im Untergrund brenzlig wird",
           "url": "https://www.faz.net/aktuell/karriere-hochschule/muenchner-u-bahnwache-fuer-sicherheit-sorgen-wenn-es-brenzlig-wird-200983524.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/b679be1a994a/w8256h4313x0y432o/202606/43601.0.2256000531/fuer-gewoehnlich-tragen-die.webp"
-        },
-        {
-          "title": "ARbeit in der Glasindustrie: Zwischen Eisen und Feuer",
-          "url": "https://www.faz.net/aktuell/karriere-hochschule/serie-so-arbeitet-deutschland-die-industrie-201013859.html",
-          "summary": "Rente mit 67 oder 70? Alexander Ruß arbeitet in der Industrie, in Hitze und Lärm – und sagt: Schön wär's. Aber er ist skeptisch.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/25c8236013ac/w4461h2330x800y501o/202607/43601.0.2318324474/parfuemflakons-die-global.webp"
-        },
-        {
-          "title": "An der Supermarktkasse: Gurke, Kekse, Fleisch – von vorn",
-          "url": "https://www.faz.net/aktuell/karriere-hochschule/sabine-adolphs-kassiererin-im-edeka-markt-wuerselen-201080109.html",
-          "summary": "Sabine Adolphs arbeitet seit fast 20 Jahren als Kassiererin in einem Lebensmittelmarkt. Näher dran am Leben und an den Menschen geht es kaum.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1165075aebb0/w5500h2873x0y362o/202607/43601.0.2387012441/haben-wir-gleich-kassiererin.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Kanada: Premier Mark Carney macht den USA Vorwürfe – und spricht von einem »Angriff« auf sein land",
-          "url": "https://www.spiegel.de/ausland/kanada-premier-mark-carney-macht-den-usa-vorwuerfe-und-spricht-von-einem-angriff-auf-sein-land-a-958b3086-5bf3-4159-a705-c6e4a0a996e1#ref=rss",
-          "summary": "Der Handelskrieg zwischen den einstigen Verbündeten eskaliert: Nach den gescheiterten Verhandlungen erlassen die USA und Kanada hohe Zölle. Premier Mark Carney will »Dollar für Dollar« reagieren.",
+          "title": "Russland: Die Angst vor einer neuen großen Mobilmachung der Armee wächst",
+          "url": "https://www.spiegel.de/ausland/russland-die-angst-vor-einer-neuen-grossen-mobilmachung-der-armee-waechst-a-c432197d-e8b3-446a-bff5-8697c37b128a#ref=rss",
+          "summary": "Für die russische Armee wird es schwieriger, neue Kämpfer zu finden. Manche Männer werden sogar mit Polizeigewalt gezwungen. Die Sorge wächst, dass Putins Militär in großem Maßstab Soldaten rekrutieren wird.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/93a7662e-f65b-4f4b-a591-2dad845e04d5_w1200_r1.778_fpx33.17_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a61ed458-c78c-4240-940e-0de58d8cb061_w1200_r1.778_fpx66.64_fpy49.99.jpg"
         },
         {
-          "title": "Russlands Krieg gegen Ukraine: Wladimir Putin droht Kyjiw nach Angriffen auf Wirtschaftsziele",
-          "url": "https://www.spiegel.de/ausland/russlands-krieg-gegen-ukraine-wladimir-putin-droht-kyjiw-nach-angriffen-auf-wirtschaftsziele-a-4c53fddc-04b4-4b7c-8258-030818d4fedf#ref=rss",
-          "summary": "Die Ukraine hat mit Schlägen gegen Ölraffinerien und Logistikzentren die russische Wirtschaft empfindlich getroffen. Nun hat Wladimir Putin im Staatsfernsehen Schäden eingeräumt und eine scharfe Antwort angekündigt.",
+          "title": "Friedrich Merz: Kanzler nennt Wachstum und Beschäftigung als wichtigste Themen",
+          "url": "https://www.spiegel.de/politik/friedrich-merz-kanzler-nennt-wachstum-und-beschaeftigung-als-wichtigste-themen-a-edb97f16-fc83-4fb0-a60c-fcc0f92a6bea#ref=rss",
+          "summary": "Die Sommerpause endet und Kanzler Friedrich Merz legt eine Anpacker-Mentalität an den Tag: Bei den Gesetzgebungsverfahren wolle er Tempo sehen, sagte er der »Bild am Sonntag«. Und: Die Regierung wisse, was gut sei für das Land.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6a036514-cfef-4286-b0ec-fdb96c63b2a3_w1200_r1.778_fpx57.98_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/abf4cc24-d3de-41f8-9bd8-ab4e902daf75_w1200_r1.778_fpx35.31_fpy44.97.jpg"
         },
         {
-          "title": "Waffen für die Bundeswehr - Jens Plötner: »Das läuft leider nicht so wie bei Ikea«",
-          "url": "https://www.spiegel.de/politik/deutschland/waffen-fuer-die-bundeswehr-jens-ploetner-das-laeuft-leider-nicht-so-wie-bei-ikea-a-670f224f-8a19-4941-9968-ee6ebc3e984e#ref=rss",
-          "summary": "Rüstungsstaatssekretär Jens Plötner wehrt sich gegen Vorwürfe, die Milliarden für die Bundeswehr seien schlecht investiert. Hier sagt er, warum er glaubt, dass Panzer und bemannte Flugzeuge wichtig bleiben.",
+          "title": "Deutsche Bahn: Bahngewerkschaft fordert mehr Schutz für Zugpersonal und droht mit Streik",
+          "url": "https://www.spiegel.de/wirtschaft/deutsche-bahn-bahngewerkschaft-fordert-mehr-schutz-fuer-zugpersonal-und-droht-mit-streik-a-9b48d898-a429-4e72-b66f-ea5cc40549b4#ref=rss",
+          "summary": "Pöbeleien und Übergriffe sind bitterer Arbeitsalltag: Zugbegleiter in Deutschland fühlen sich von Gesetzgeber nicht ausreichend geschützt. Nun wird die Gewerkschaft EVG deutlich.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2b70fa1e-6fb9-413d-bc2a-ff05caa537c7_w1200_r1.778_fpx46_fpy48.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/621e8a3e-e4b0-432d-a837-334854ae94dd_w1200_r1.778_fpx42.01_fpy52.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bahngewerkschaft macht Druck bei Gesetz zu Sicherheit",
-          "url": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
-          "summary": "Seit dem tödlichen Angriff auf einen Zugbegleiter in einem Regionalexpress Anfang Februar werden Maßnahmen für mehr Sicherheit diskutiert. Die Eisenbahngewerkschaft EVG fordert nun Ergebnisse - und droht mit einer Blockade der Dienstpläne.",
+          "title": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
+          "url": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html",
+          "summary": "Einst vor allem bei Wilderern berühmt, hat sich ein kleiner Strand im mexikanischen Bundesstaat Oaxaca mittlerweile zum Paradies für Ökotourismus gewandelt. Die Stars sind Meeresschildkröten. Von Christina Fee Moebus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/12fb60f7-67fe-4525-b8ef-0757fc205eaf/AAABoCwZfX8/AAABnSSvrFg/16x9-big/evg-140.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b5011a0c-0b07-4376-a4a2-96ab557e849d/AAABm8bKDDM/AAABnSSvrFg/16x9-big/meeresschildkroete-120.jpg?width=1280"
         },
         {
-          "title": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
-          "summary": "Nach der Urlaubszeit kommen Bundeskanzler Merz und die Minister in der kommenden Woche zur Klausur in Brandenburg zusammen. Merz will die beschlossenen Reformen voranbringen - trotz des Gegenwindes, der in drei Wochen Urlaub aufkam.",
+          "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
+          "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+          "summary": "Nach geplatzten Verhandlungen drohen Kanada und die USA in einen Zollkonflikt mit offenem Ende zu geraten. Ein Experte warnt vor hohen Kosten, US-Konzerne wollen neue Gespräche, und aus Kanada kommt Kritik an Trump.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9845d842-ba15-404d-8bac-871a5e4d4839/AAABoCuwEeU/AAABnSSvrFg/16x9-big/merz-1500.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/94e482d7-1875-481d-80a0-82a13bb0234b/AAABoCxq5Ew/AAABnSSvrFg/16x9-big/kanada-286.jpg?width=1280"
         },
         {
-          "title": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
-          "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
-          "summary": "Nach dem Schwertangriff an einer schwedischen Schule am vergangenen Freitag bleibt die Provinzstadt Fagersta fassungslos zurück. Ein Mädchen wurde getötet, zwei Schüler schwer verletzt. Wie umgehen mit dieser Tat? Von Christian Stichler.",
+          "title": "Kasachstan wählt neues Parlament",
+          "url": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
+          "summary": "2019 beerbte der kasachische Präsident Tokajew den Langzeitherrscher Nasarbajew. Doch Hoffnungen auf demokratische Veränderungen bleiben unerfüllt. Heute wird ein neues Parlament gewählt - nach umfassenden Verfassungsänderungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/26cdee02-6410-4082-befa-8f17e9170b1f/AAABoCt6kYA/AAABnSSvrFg/16x9-big/schweden-trauer-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c4f26e0d-7c4b-433b-b521-fb0133b1a8e7/AAABoCw4jrk/AAABnSSvrFg/16x9-big/astana-122.jpg?width=1280"
         }
       ]
     },
@@ -122,14 +122,6 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespolitik: Merz: „Historische Beschlüsse“ so schnell wie möglich umsetzen",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-reformen-umsetzung-li.3529564",
-          "summary": "Bundeskanzler Friedrich Merz will das schwarz-rote Kabinett bei seiner Klausur in der kommenden Woche auf eine zügige Umsetzung von Reformvorhaben einschwören.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/03/06/d10da682-353e-4602-a7e5-2beba91610ea.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
-        },
-        {
           "title": "Supercup: Der erste Titel geht nach München",
           "url": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
           "summary": "Eine Woche vor dem Bundesligastart gewinnt der FC Bayern den Supercup. Beim 2:1 bei Borussia Dortmund dürfen sich die Münchner über Einladungen zum Toreschießen freuen.",
@@ -144,6 +136,14 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/22/cfd2858d-0648-4b2a-9d35-fbfef93ad937.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
+          "title": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel – Buhrufe bei Statement",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
+          "summary": "Der Bundeskanzler hat seinen ersten Termin nach seinem dreiwöchigen Sommerurlaub absolviert. Seine Rede wurde von Buhrufen und Pfiffen begleitet.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/22/0db3378c-c983-4c22-b61b-2b066a28de1f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C131%2C4000%2C2250"
         }
       ]
     }
