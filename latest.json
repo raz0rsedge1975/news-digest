@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T22:00:08.629Z",
-  "timestamp": "23.8.2026, 00:00:08",
+  "generated": "2026-08-23T02:00:08.642Z",
+  "timestamp": "23.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
-          "url": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
-          "summary": "Bei der Weltmeisterschaft humanoider Roboter in China hat ein chinesisches Modell den 100-Meter-Weltrekord von Usain Bolt unterboten. Es war nicht das erste Mal, dass Roboter schneller als Menschen laufen.",
+          "title": "Bahngewerkschaft macht Druck bei Gesetz zu Sicherheit",
+          "url": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
+          "summary": "Seit dem tödlichen Angriff auf einen Zugbegleiter in einem Regionalexpress Anfang Februar werden Maßnahmen für mehr Sicherheit diskutiert. Die Eisenbahngewerkschaft EVG fordert nun Ergebnisse - und droht mit einer Blockade der Dienstpläne.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0d60d5c3-1218-440c-98b6-997d94c1cd05/AAABoCryuF0/AAABnSSvrFg/16x9-big/roboter-laeuft-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/12fb60f7-67fe-4525-b8ef-0757fc205eaf/AAABoCwZfX8/AAABnSSvrFg/16x9-big/evg-140.jpg?width=1280"
         },
         {
-          "title": "Wie Künstliche Intelligenz die Justiz ausbremst",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
-          "summary": "Vor allem die Sozialgerichte erleben das Phänomen: Immer mehr Kläger nutzen offenbar Künstliche Intelligenz, um Eingaben zu formulieren. Für die Justiz bedeutet das viel Arbeit mit teils unsinnigen Schriftsätzen. Von T. Denzel.",
+          "title": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
+          "summary": "Nach der Urlaubszeit kommen Bundeskanzler Merz und die Minister in der kommenden Woche zur Klausur in Brandenburg zusammen. Merz will die beschlossenen Reformen voranbringen - trotz des Gegenwindes, der in drei Wochen Urlaub aufkam.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/04bd198c-0deb-4e17-8566-3019732b6f1d/AAABoCRGXUM/AAABnSSvrFg/16x9-big/sendungsbild-1783748.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9845d842-ba15-404d-8bac-871a5e4d4839/AAABoCuwEeU/AAABnSSvrFg/16x9-big/merz-1500.jpg?width=1280"
         },
         {
-          "title": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
-          "summary": "Bei seinem Besuch in der Hauptstadt Kiew hat Bundesaußenminister Wadephul der Ukraine weitere 50 Millionen Euro an humanitärer Hilfe zugesagt. Die anhaltenden russischen Angriffe auf das Land nannte er einen \"wahllosen Mord an Zivilisten\".",
+          "title": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
+          "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
+          "summary": "Nach dem Schwertangriff an einer schwedischen Schule am vergangenen Freitag bleibt die Provinzstadt Fagersta fassungslos zurück. Ein Mädchen wurde getötet, zwei Schüler schwer verletzt. Wie umgehen mit dieser Tat? Von Christian Stichler.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3c55ebcd-33a3-4fed-ab3e-3deef425fc8f/AAABoCpKsrw/AAABnSSvrFg/16x9-big/wadephul-sybiha-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/26cdee02-6410-4082-befa-8f17e9170b1f/AAABoCt6kYA/AAABnSSvrFg/16x9-big/schweden-trauer-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Bundespolitik: Merz: „Historische Beschlüsse“ so schnell wie möglich umsetzen",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-reformen-umsetzung-li.3529564",
+          "summary": "Bundeskanzler Friedrich Merz will das schwarz-rote Kabinett bei seiner Klausur in der kommenden Woche auf eine zügige Umsetzung von Reformvorhaben einschwören.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/03/06/d10da682-353e-4602-a7e5-2beba91610ea.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
           "title": "Supercup: Der erste Titel geht nach München",
           "url": "https://www.sueddeutsche.de/sport/supercup-bayern-dbvb-titel-tore-brown-olise-li.3535038",
           "summary": "Eine Woche vor dem Bundesligastart gewinnt der FC Bayern den Supercup. Beim 2:1 bei Borussia Dortmund dürfen sich die Münchner über Einladungen zum Toreschießen freuen.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/22/cfd2858d-0648-4b2a-9d35-fbfef93ad937.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
-        },
-        {
-          "title": "Bundespolitik: Merz besucht Waldbrandgebiet in der Eifel",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-auftritt-urlaub-eifel-li.3529564",
-          "summary": "Der Bundeskanzler hat seinen ersten Termin nach seinem dreiwöchigen Sommerurlaub absolviert. Seine Rede wurde von Buhrufen und Pfiffen begleitet.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/22/0db3378c-c983-4c22-b61b-2b066a28de1f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C262%2C4000%2C2250"
         }
       ]
     }
