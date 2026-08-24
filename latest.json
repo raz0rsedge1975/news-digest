@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T22:00:08.013Z",
-  "timestamp": "24.8.2026, 00:00:08",
+  "generated": "2026-08-24T02:00:08.123Z",
+  "timestamp": "24.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Mehrere Leichen nach Bootsunglück vor Tunesien geborgen",
-          "url": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootsunglueck-100.html",
-          "summary": "Die Zahl der Todesopfer ist nach dem Bootsunglück vor der Küste des nordafrikanischen Landes weiter gestiegen. Von den 15 Insassen wird nur noch ein Mensch vermisst. Die Migranten wollten offenbar nach Italien.",
+          "title": "Evakuierungen wegen Brände im US-Bundesstaat Nevada",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-waldbrand-nevada-100.html",
+          "summary": "Die als \"Hawk Fire\" bezeichneten Brände im US-Bundesstaat Nevada haben die ersten Wohnviertel der Großstadt Reno erreicht. Die Behörden rufen Zehntausende Menschen dazu auf, ihre Häuser zu verlassen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/166c0b5b-7517-44fa-a35e-ef90272e23c1/AAABoDA1SCk/AAABnSSvrFg/16x9-big/tunesien-398.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/770506b8-67f8-4554-bd9d-590ad6d0de69/AAABoDF9Jyw/AAABnSSvrFg/16x9-big/waldbrand-nevada-usa-100.jpg?width=1280"
         },
         {
-          "title": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
-          "summary": "Von Montag an wird ChatGPT in Europa Werbung enthalten. Obwohl OpenAI-Chef Altman lange dagegen war, setzt der Konzern nun genau darauf, um die KI zu finanzieren. Welche Folgen das hat, erklärt Lilli-Marie Hiltscher.",
+          "title": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
+          "url": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
+          "summary": "Sein Besuch sollte ein Symbol der deutschen Verbundenheit mit der Ukraine sein. Doch der Krieg und dessen Folgen vor Ort erinnern Bundesaußenminister Wadephul daran, was das Land am Dringendsten braucht: Abwehrraketen. Von Claudia Buckenmaier.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/65d6d538-e998-4951-88d7-ffd1bf85e787/AAABn9E-S2Q/AAABnSSvrFg/16x9-big/rechenzentrum-192.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0cdd3175-d231-4dd0-86f4-49ce4ad954fb/AAABoDFttOg/AAABnSSvrFg/16x9-big/wadephul-besuch-ukraine-102.jpg?width=1280"
         },
         {
-          "title": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
-          "summary": "Die Berliner Verwaltung ist wieder komplett online. Nach einem Hackerangriff waren zwei Senatsverwaltungen tagelang vom IT-Netz abgetrennt, diverse Dienstleistungen waren eingeschränkt. Die Hintergründe werden weiterhin ermittelt.",
+          "title": "30 Tote nach Abrutsch einer Mülldeponie im westafrikanischen Guinea",
+          "url": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
+          "summary": "Mindestens 30 Menschen sind beim Abrutsch einer Mülldeponie im westafrikanischen Guinea ums Leben gekommen, weitere wurden verletzt. Schwerer Regen hatte die Deponie in der Hauptstadt Conakry aufgeweicht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/658af156-96ae-41ca-8c5a-6e0155bca178/AAABoC90QXo/AAABnSSvrFg/16x9-big/rbb-hackerangriff-berlin-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9f8eed7a-52a3-4f87-9c41-403fe32fe46f/AAABoDDMCvY/AAABnSSvrFg/16x9-big/mueldeponie-guinea-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "TV-Kritik: War es das jetzt mit der „Brandmauer“?",
+          "url": "https://www.sueddeutsche.de/medien/caren-miosga-armin-laschet-cdu-afd-brandmauer-li.3535093",
+          "summary": "Armin Laschet verteidigt bei Caren Miosga, dass die CDU nicht mit der AfD koaliert. Ein Politologe sieht in der „Brandmauer“ selbst eine Gefahr – und schlägt eine neue Art zu regieren vor.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/23/3f624d58-7a6d-4a67-b744-f8db22ff1fa2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
           "title": "Sommerinterviews in ARD und ZDF: AfD-Spitzenpolitiker zwischen Aufstacheln und Verharmlosen",
           "url": "https://www.sueddeutsche.de/medien/afd-spitzenpolitiker-sommerinterview-chrupalla-weidel-ard-zdf-li.3533089",
           "summary": "Zwei Wochen vor der Landtagswahl in Sachsen-Anhalt treten Weidel und Chrupalla in Sommerinterviews parallel bei den Öffentlich-Rechtlichen auf - mit sehr unterschiedlichen Temperamenten.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/23/13f4d2ee-6e3e-42dd-907a-e7c55d605509.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C338%2C4000%2C2250"
-        },
-        {
-          "title": "Russlands Schattenkrieg: „Es wird Zeit, dass Putin merkt, dass seine Aggressionen spürbare Konsequenzen haben“",
-          "url": "https://www.sueddeutsche.de/politik/sicherheitspolitik-dobrindt-waffenlager-russland-bedrohung-hybrider-krieg-drohnen-li.3535520",
-          "summary": "Moskau setzt Deutschland immer stärker mit hybriden Operationen unter Druck. Nun werden Forderungen laut, die Regierung müsse den Kreml mit einer Antwort in die Schranken weisen. Ins Visier rückt dabei Putins Schattenflotte.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/23/366c5e3f-4e91-40a6-9747-a19ba5a695b2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=123%2C504%2C3636%2C2045"
         }
       ]
     }
