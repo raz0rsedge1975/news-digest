@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T02:00:08.123Z",
-  "timestamp": "24.8.2026, 04:00:08",
+  "generated": "2026-08-24T06:00:08.631Z",
+  "timestamp": "24.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Demenz: Jordan und Cian Adams rennen Ultraläufe, um die Forschung zu beschleunigen",
-          "url": "https://www.spiegel.de/sport/demenz-jordan-und-cian-adams-rennen-ultralaeufe-um-die-forschung-zu-beschleunigen-a-dcc56462-5e5f-42df-8e47-60522243d510#ref=rss",
-          "summary": "Jordan Adams und sein Bruder Cian werden wahrscheinlich früh an Demenz erkranken und daran sterben. Sie tun alles dafür, um die Forschung zu beschleunigen.",
+          "title": "Donald Trump, Mark Carney und die Zölle: Auge um Auge, Dollar für Dollar",
+          "url": "https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss",
+          "summary": "Der Zollstreit mit der Trump-Regierung eskaliert: Kanadas Premier Mark Carney zieht seine Unterhändler ab und spricht von Handelskrieg. Seine Landsleute stehen hinter ihm – doch sein Kurs ist riskant.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1bb8a04e-d7f9-400c-ac42-09892524f037_w1200_r1.778_fpx50_fpy30.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c904f4fe-8a52-4f0a-8055-72324448c739_w1200_r1.778_fpx30.82_fpy45.jpg"
+        },
+        {
+          "title": "News: Ulrich Siegmund, AfD, Kritik an Pflegereform, Hilfe für Ukraine, Italien, Bootsflüchtlinge",
+          "url": "https://www.spiegel.de/politik/deutschland/news-ulrich-siegmund-afd-kritik-an-pflegereform-hilfe-fuer-ukraine-italien-bootsfluechtlinge-a-63e9710c-f925-4bbe-9a35-dca906dc5ffc#ref=rss",
+          "summary": "Die AfD gibt sich siegessicher. Die Koalition nestelt an ihrem Reformpaket. Der Kanzler wirbt um mehr Hilfe für die Ukraine. Das ist die Lage am Montagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Alice Weidel und Tino Chrupalla – Sommerinterviews der AfD-Chefs bei ZDF und ARD: Schleichendes Gift, offene Hetze",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/5e0ea3a9-5ef3-47fd-b47c-86e929767d2d_w1200_r1.778_fpx66.67_fpy50.jpg"
-        },
-        {
-          "title": "Wahl in Sachsen-Anhalt: Wie verlässlich sind die Wahlumfragen wirklich?",
-          "url": "https://www.spiegel.de/politik/deutschland/wahl-in-sachsen-anhalt-wie-verlaesslich-sind-die-wahlumfragen-wirklich-a-a2e38560-71ec-47eb-89aa-44df7d7ef7b0#ref=rss",
-          "summary": "Selten haben Demoskopen sich so verschätzt wie bei der Landtagswahl 2021 in Sachsen-Anhalt. Wie zuverlässig die Umfragen sind und was das für die Wahlen im September bedeutet – die SPIEGEL-Datenanalyse.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c2834447-8a54-421f-9b8c-f55237a7a816_w1200_r1.778_fpx54_fpy31.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Evakuierungen wegen Brände im US-Bundesstaat Nevada",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-waldbrand-nevada-100.html",
-          "summary": "Die als \"Hawk Fire\" bezeichneten Brände im US-Bundesstaat Nevada haben die ersten Wohnviertel der Großstadt Reno erreicht. Die Behörden rufen Zehntausende Menschen dazu auf, ihre Häuser zu verlassen.",
+          "title": "Marktbericht: DAX vor schwunglosem Wochenstart",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
+          "summary": "In dieser Woche warten die Anleger gespannt auf die Bilanz des US-Chipherstellers Nvidia. Auch ein Treffen von US-Notenbankern steht im Fokus. Der DAX dürfte deshalb schwunglos in den Montag starten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/770506b8-67f8-4554-bd9d-590ad6d0de69/AAABoDF9Jyw/AAABnSSvrFg/16x9-big/waldbrand-nevada-usa-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1280"
         },
         {
-          "title": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
-          "url": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
-          "summary": "Sein Besuch sollte ein Symbol der deutschen Verbundenheit mit der Ukraine sein. Doch der Krieg und dessen Folgen vor Ort erinnern Bundesaußenminister Wadephul daran, was das Land am Dringendsten braucht: Abwehrraketen. Von Claudia Buckenmaier.",
+          "title": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
+          "summary": "Deutschland hat ein Problem: Die Wirtschaft wächst nicht mehr so stark, wie sie müsste, um den Wohlstand zu halten. Wird zu viel verwaltet und berichtet, statt Investitionen und neue Ideen ins Land zu holen?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0cdd3175-d231-4dd0-86f4-49ce4ad954fb/AAABoDFttOg/AAABnSSvrFg/16x9-big/wadephul-besuch-ukraine-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/307f25bb-f03d-4c63-aac4-ce2ff40fa132/AAABoB9Xtkg/AAABnSSvrFg/16x9-big/buerokratie-162.jpg?width=1280"
         },
         {
-          "title": "30 Tote nach Abrutsch einer Mülldeponie im westafrikanischen Guinea",
-          "url": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
-          "summary": "Mindestens 30 Menschen sind beim Abrutsch einer Mülldeponie im westafrikanischen Guinea ums Leben gekommen, weitere wurden verletzt. Schwerer Regen hatte die Deponie in der Hauptstadt Conakry aufgeweicht.",
+          "title": "Wahl in Sachsen-Anhalt: Lackmustest für die Linke",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/linke-landtagswahl-sachsen-anhalt-100.html",
+          "summary": "Die Linke präsentiert heute ihr Programm für ein \"zukunftsfestes Sachsen-Anhalt\". Die Partei kämpft um ein starkes Ergebnis bei der Wahl - mit prominenter Unterstützung. Aus Berlin kam aber nicht nur Rückenwind. Von Alexander Budweg.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9f8eed7a-52a3-4f87-9c41-403fe32fe46f/AAABoDDMCvY/AAABnSSvrFg/16x9-big/mueldeponie-guinea-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ec49fb77-eb31-4634-bbc4-3a6865860825/AAABoCSmaGs/AAABnSSvrFg/16x9-big/angern-reichinnek-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Abschiebung trotz Warnstufe rot",
+          "url": "https://www.sueddeutsche.de/politik/ice-abschiebung-haiti-li.3535100",
+          "summary": "Die Verfolgung von Immigranten durch die Einwanderungsbehörde ICE geht ungebremst weiter. Auch Haitianer sollen zunehmend ausgeflogen werden, obwohl ihre Heimat dem State Department als gefährlich gilt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/24/8a02b710-a566-4aa8-b71e-68a027bea1fd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=228%2C32%2C1503%2C845"
+        },
+        {
+          "title": "Krieg in Nahost: Iran warnt USA vor Wirtschaftskrieg und droht Golfstaaten",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-golfstaaten-li.3530668",
+          "summary": "Washington will Teheran wirtschaftlich in die Knie zwingen. Iran gibt sich selbstbewusst und warnt seine Nachbarn davor, sich den USA anzuschließen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/16/ab0dda9e-a7e2-48c5-a12b-863cf3b798e4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C152%2C2048%2C1152"
+        },
+        {
           "title": "TV-Kritik: War es das jetzt mit der „Brandmauer“?",
           "url": "https://www.sueddeutsche.de/medien/caren-miosga-armin-laschet-cdu-afd-brandmauer-li.3535093",
           "summary": "Armin Laschet verteidigt bei Caren Miosga, dass die CDU nicht mit der AfD koaliert. Ein Politologe sieht in der „Brandmauer“ selbst eine Gefahr – und schlägt eine neue Art zu regieren vor.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/23/3f624d58-7a6d-4a67-b744-f8db22ff1fa2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
-        },
-        {
-          "title": "Sommerinterviews in ARD und ZDF: AfD-Spitzenpolitiker zwischen Aufstacheln und Verharmlosen",
-          "url": "https://www.sueddeutsche.de/medien/afd-spitzenpolitiker-sommerinterview-chrupalla-weidel-ard-zdf-li.3533089",
-          "summary": "Zwei Wochen vor der Landtagswahl in Sachsen-Anhalt treten Weidel und Chrupalla in Sommerinterviews parallel bei den Öffentlich-Rechtlichen auf - mit sehr unterschiedlichen Temperamenten.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/23/b18c3a78-ea91-4f5a-9b9d-aa57a09ad7a1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C100%2C1920%2C1080"
-        },
-        {
-          "title": "Krieg in der Ukraine: Selenskij gegen Wahlen im Krieg - warnt vor russischer Mobilmachung",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-wahlen-selenskij-li.3524928",
-          "summary": "Der ukrainische Präsident fürchtet bei Wahlen im Krieg die Spaltung des Landes. Zudem warnt er, dass Putin bis zu 300 000 neue Soldaten mobilisieren werde. Eine Verwicklung in die Nord-Stream-Sabotage weist er zurück.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/23/13f4d2ee-6e3e-42dd-907a-e7c55d605509.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C338%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/23/3f624d58-7a6d-4a67-b744-f8db22ff1fa2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=255%2C205%2C3636%2C2045"
         }
       ]
     }
