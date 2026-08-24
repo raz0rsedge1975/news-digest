@@ -1,10 +1,26 @@
 {
-  "generated": "2026-08-24T06:00:08.631Z",
-  "timestamp": "24.8.2026, 08:00:08",
+  "generated": "2026-08-24T10:00:10.279Z",
+  "timestamp": "24.8.2026, 12:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Zum Tod von Klaus-Michael Kühne: Er war einer der größten deutschen Unternehmer",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/klaus-michael-kuehne-einer-der-groessten-deutschen-unternehmer-ist-tot-accg-201153586.html",
+          "summary": "Der Milliardär starb am Sonntagabend in seinem Haus im schweizerischen Schindellegi. Klaus-Michael Kühne hinterlässt ein gewaltiges Vermögen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/f126c678e149/w6000h3135x0y594o/202001/43d346b9e4-d8e6-11ea-b79e-0dfc3810918b/klaus-michael-kuehne.webp"
+        },
+        {
+          "title": "Wahl-O-Mat: Welche Partei steht Ihnen bei der Wahl in Mecklenburg-Vorpommern am nächsten?",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-welche-partei-vertritt-ihre-interessen-wirklich-accg-201148631.html",
+          "summary": "Mecklenburg-Vorpommern wählt am 20. September einen neuen Landtag. Mit dem Wahl-O-Mat können Sie herausfinden, welche Partei Ihren Positionen am ehesten entspricht.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e1b78c9b0446/w1672h873x0y34o/202608/ebb131e7-8060-4d15-8930-c4b95dfae3cf/soll-bei-der-wahl-helfen-der.webp"
+        },
         {
           "title": "Chrupalla und Weidel: Geschwurbel und Gehetze zur besten Sendezeit",
           "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/afd-sommerinterviews-in-ard-und-zdf-weidels-flachzangen-und-chrupallas-ganz-normaler-sommer-201152569.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/5a1c84cd9e40/w1920h1003x0y238o/202608/43601.0.2462288574/wulf-schmiese-und-alice-weidel.webp"
-        },
-        {
-          "title": "Magnus Brechtken: „Viele Westdeutsche haben mittlerweile die Nase voll“",
-          "url": "https://www.faz.net/aktuell/politik/inland/magnus-brechtken-ostdeutschland-und-die-afd-im-fokus-accg-201133155.html",
-          "summary": "Was hilft gegen Spannungen zwischen Ost und West? Der stellvertretende Direktor des Instituts für Zeitgeschichte, Magnus Brechtken, schlägt vor, wütende Ostdeutsche an ein paar historische Fakten zu erinnern.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9deffc73a18b/w3617h1889x0y322o/201101/431.0.52428767/west-und-ostdeutsche-vor-dem.webp"
-        },
-        {
-          "title": "Deutschland 2033: So könnte es sein, wenn die AfD mit der Union regiert",
-          "url": "https://www.faz.net/aktuell/politik/inland/deutschland-2033-afd-und-union-in-einer-koalition-so-koennte-es-aussehen-201133141.html",
-          "summary": "Das Szenario lautet: Die AfD gewinnt 2033 die Wahl. In der Hoffnung, sie zu entzaubern, stimmt die Union einer Koalition zu. Was würde passieren?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7656d66f1ca3/w3000h1567x0y106o/202501/43601.0.813364938/afd-parteichefin-alice-weidel.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump, Mark Carney und die Zölle: Auge um Auge, Dollar für Dollar",
+          "title": "Klaus-Michael Kühne ist tot",
+          "url": "https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-a-68c2b264-cc8b-48ba-a6ec-40c3feae33ad#ref=rss",
+          "summary": "Der Logistikunternehmer, Lufthansa-Miteigentümer und HSV-Mäzen Klaus-Michael Kühne ist gestorben. Er wurde 89 Jahre alt.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7a0ca143-ca24-499e-ae9e-7318b9dff982_w1200_r1.778_fpx51_fpy47.jpg"
+        },
+        {
+          "title": "Jeffrey Epstein: Sie waren seine Opfer – und suchten neue Frauen für ihn",
+          "url": "https://www.spiegel.de/ausland/sie-waren-epsteins-opfer-und-suchten-neue-frauen-fuer-ihn-a-93f2fb6a-54d1-481c-a850-33f6f18582c2#ref=rss",
+          "summary": "Der Sexualstraftäter Jeffrey Epstein hatte Assistentinnen und Partnerinnen, die ihm immer wieder neue Opfer zuführten. Warum taten sie anderen Frauen so etwas an?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/178aa23e-3d32-484d-9db3-2a3cedd60f7b_w1200_r1.778_fpx46_fpy45.jpg"
+        },
+        {
+          "title": "Donald Trump und Mark Carney: Wie der Zoll-Streit zwischen USA und Kanada eskaliert",
           "url": "https://www.spiegel.de/ausland/donald-trump-mark-carney-und-die-zoelle-auge-um-auge-dollar-fuer-dollar-a-ffa6f0ce-ee37-41df-9744-98a53ce1fe5f#ref=rss",
           "summary": "Der Zollstreit mit der Trump-Regierung eskaliert: Kanadas Premier Mark Carney zieht seine Unterhändler ab und spricht von Handelskrieg. Seine Landsleute stehen hinter ihm – doch sein Kurs ist riskant.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c904f4fe-8a52-4f0a-8055-72324448c739_w1200_r1.778_fpx30.82_fpy45.jpg"
-        },
-        {
-          "title": "News: Ulrich Siegmund, AfD, Kritik an Pflegereform, Hilfe für Ukraine, Italien, Bootsflüchtlinge",
-          "url": "https://www.spiegel.de/politik/deutschland/news-ulrich-siegmund-afd-kritik-an-pflegereform-hilfe-fuer-ukraine-italien-bootsfluechtlinge-a-63e9710c-f925-4bbe-9a35-dca906dc5ffc#ref=rss",
-          "summary": "Die AfD gibt sich siegessicher. Die Koalition nestelt an ihrem Reformpaket. Der Kanzler wirbt um mehr Hilfe für die Ukraine. Das ist die Lage am Montagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Alice Weidel und Tino Chrupalla – Sommerinterviews der AfD-Chefs bei ZDF und ARD: Schleichendes Gift, offene Hetze",
-          "url": "https://www.spiegel.de/kultur/tv/alice-weidel-und-tino-chrupalla-sommerinterviews-der-afd-chefs-bei-zdf-und-ard-schleichendes-gift-offene-hetze-a-6d1c5967-a96d-4225-9e6d-4afdeac88e95#ref=rss",
-          "summary": "Tino Chrupalla und Alice Weidel geben am selben Tag Sommerinterviews bei ARD und ZDF. Die AfD-Spitze verbreitet dabei Fremdenhass und schmäht den politischen Gegner. Weshalb wir Zuschauer das aushalten können.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5e0ea3a9-5ef3-47fd-b47c-86e929767d2d_w1200_r1.778_fpx66.67_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: DAX vor schwunglosem Wochenstart",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
-          "summary": "In dieser Woche warten die Anleger gespannt auf die Bilanz des US-Chipherstellers Nvidia. Auch ein Treffen von US-Notenbankern steht im Fokus. Der DAX dürfte deshalb schwunglos in den Montag starten.",
+          "title": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-eu-100.html",
+          "summary": "Zum heutigen Unabhängigkeitstag der Ukraine hat die EU neue Finanzhilfen in Milliardenhöhe genehmigt - auch vor dem Hintergrund intensivierter russischer Angriffe. Viele Verbündete der Ukraine treffen sich heute in Kiew.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/26b1e560-b3ea-4672-80d2-4e7d38b42a5e/AAABoDMErlM/AAABnSSvrFg/16x9-big/andrii-sybiha-antonio-costa-100.jpg?width=1280"
         },
         {
-          "title": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
-          "summary": "Deutschland hat ein Problem: Die Wirtschaft wächst nicht mehr so stark, wie sie müsste, um den Wohlstand zu halten. Wird zu viel verwaltet und berichtet, statt Investitionen und neue Ideen ins Land zu holen?",
+          "title": "Kasachstan: Klare Mehrheit für Regierungspartei bei Parlamentswahl",
+          "url": "https://www.tagesschau.de/ausland/asien/kasachstan-wahl-110.html",
+          "summary": "In Kasachstan kann Präsident Tokajew seine Macht weiter ausbauen: Bei der Parlamentswahl gewinnt seine Regierungspartei deutlich. Gleichzeitig ermöglicht ihm eine Verfassungsreform eine erneute Kandidatur 2029.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/307f25bb-f03d-4c63-aac4-ce2ff40fa132/AAABoB9Xtkg/AAABnSSvrFg/16x9-big/buerokratie-162.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/da964b02-cc83-4f15-aab4-535844716a39/AAABoDKct_Y/AAABnSSvrFg/16x9-big/kassym-schomart-tokajew-100.jpg?width=1280"
         },
         {
-          "title": "Wahl in Sachsen-Anhalt: Lackmustest für die Linke",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/linke-landtagswahl-sachsen-anhalt-100.html",
-          "summary": "Die Linke präsentiert heute ihr Programm für ein \"zukunftsfestes Sachsen-Anhalt\". Die Partei kämpft um ein starkes Ergebnis bei der Wahl - mit prominenter Unterstützung. Aus Berlin kam aber nicht nur Rückenwind. Von Alexander Budweg.",
+          "title": "Greenpeace geht von Milliardeneinbußen in Wirtschaft durch Hitze aus",
+          "url": "https://www.tagesschau.de/wirtschaft/hitze-wirtschaft-schaeden-100.html",
+          "summary": "Niedrige Flusspegel, schlechte Ernten, Waldbrände - die Hitze bringt einer Schätzung von Greenpeace zufolge wirtschaftliche Einbußen in zweistelliger Milliardenhöhe mit sich. Zu den Folgekosten der Hitze gibt es bereits mehrere Studien.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ec49fb77-eb31-4634-bbc4-3a6865860825/AAABoCSmaGs/AAABnSSvrFg/16x9-big/angern-reichinnek-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ea6fd7f8-6370-4451-b8a4-51a763a73def/AAABoDLK_5o/AAABnSSvrFg/16x9-big/mais-140.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Mehr Macht für den BND: Deutschland schleift eine historische Grenze",
+          "url": "https://www.telepolis.de/article/Mehr-Macht-fuer-den-BND-Deutschland-schleift-eine-historische-Grenze-11423213.html",
+          "summary": "Die Geheimdienste sollen künftig aktiv eingreifen dürfen. Damit gerät ein Prinzip ins Wanken, das seit 1949 galt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/8/4/7/Master_Fess-d80b44f31175c4fa.jpg"
+        },
+        {
+          "title": "Kann die Linke die AfD verhindern, ohne sich selbst aufzugeben?",
+          "url": "https://www.telepolis.de/article/Kann-die-Linke-die-AfD-verhindern-ohne-sich-selbst-aufzugeben-11423147.html",
+          "summary": "Ramelow wirbt für ein Bündnis mit der CDU, um die AfD zu stoppen. Doch kann Die Linke das System stützen, das sie eigentlich bekämpft? Eine Analyse.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/8/1/4/bodo-ramelow-linke-cdu-afd-dilemma-821bc4fad2b1422b.jpg"
+        },
+        {
           "title": "Ein Grönlandhai zeigt, was die menschliche Netzhaut vor Alterung schützen könnte",
           "url": "https://www.telepolis.de/article/Ein-Groenlandhai-zeigt-was-die-menschliche-Netzhaut-vor-Alterung-schuetzen-koennte-11422943.html",
           "summary": "Der Grönlandhai sieht jahrhundertelang. Seine DNA-Reparatur liefert der Longevity-Forschung einen Hinweis auf den Schutz der menschlichen Netzhaut.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/7/1/2/shutterstock_1203640330-98050544d1a2e61f.jpg"
-        },
-        {
-          "title": "Zentralasien sieht sich nach Alternativen für russischen Kraftstoff um",
-          "url": "https://www.telepolis.de/article/Zentralasien-sieht-sich-nach-Alternativen-fuer-russischen-Kraftstoff-um-11421939.html",
-          "summary": "Weil Russland infolge ukrainischer Drohnenangriffe weniger Kraftstoff liefert, suchen zentralasiatische Staaten fieberhaft nach alternativen Bezugsquellen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/2/0/4/shutterstock_2070351383-613edbd7f84fefeb.jpg"
-        },
-        {
-          "title": "Halle an der Saale: Eine Stadt, die fast nichts vergessen hat",
-          "url": "https://www.telepolis.de/article/Halle-an-der-Saale-Eine-Stadt-die-fast-nichts-vergessen-hat-11422915.html",
-          "summary": "Von der Himmelsscheibe über Luther bis zur DDR-Moderne: In Halle liegen Jahrtausende dicht beieinander. Nur die eigene Ostmoderne hat es schwer.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/1/5/1/6/9/8/master_Bartels_Halle-c99a6cb84d131714.jpg"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Abschiebung trotz Warnstufe rot",
-          "url": "https://www.sueddeutsche.de/politik/ice-abschiebung-haiti-li.3535100",
-          "summary": "Die Verfolgung von Immigranten durch die Einwanderungsbehörde ICE geht ungebremst weiter. Auch Haitianer sollen zunehmend ausgeflogen werden, obwohl ihre Heimat dem State Department als gefährlich gilt.",
+          "title": "Japan: Der Sommerhit in diesem Jahr? Eine Kaltwasser-Nudelsuppe",
+          "url": "https://www.sueddeutsche.de/panorama/japan-nissin-cold-water-instant-noodles-kaltwasser-nudelsuppe-li.3534858",
+          "summary": "Der japanische Lebensmittelkonzern Nissin hat fünf Jahre lang an einer neue Suppe gearbeitet, die auf den Klimawandel reagiert. In Japan ist sie nun innerhalb einer Woche ausverkauft worden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/24/8a02b710-a566-4aa8-b71e-68a027bea1fd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=228%2C32%2C1503%2C845"
+          "image": "https://www.sueddeutsche.de/2026/08/24/e1e2ef1d-5ae9-47ba-bb61-57e3b04e10bd.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=25%2C0%2C850%2C478"
         },
         {
-          "title": "Krieg in Nahost: Iran warnt USA vor Wirtschaftskrieg und droht Golfstaaten",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-trump-drohung-wirtschaftskrieg-golfstaaten-li.3530668",
-          "summary": "Washington will Teheran wirtschaftlich in die Knie zwingen. Iran gibt sich selbstbewusst und warnt seine Nachbarn davor, sich den USA anzuschließen.",
+          "title": "Handelsstreit: Zwei ehemalige Freunde auf Kollisionskurs",
+          "url": "https://www.sueddeutsche.de/wirtschaft/donald-trump-zoelle-kanada-usa-automobilindustrie-li.3535787",
+          "summary": "Kanada ist von der US-Wirtschaft abhängig – und umgekehrt. Trotzdem eskaliert der Handelsstreit der beiden Partner wieder. Auch weil Donald Trump neue Zölle verhängt hat – auf so kuriose Dinge wie Hundeleinen und Eishockeyschläger.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/07/16/ab0dda9e-a7e2-48c5-a12b-863cf3b798e4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C152%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/08/24/31f00cf3-8eba-4a1c-ade7-25c9c319f8c8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
         },
         {
-          "title": "TV-Kritik: War es das jetzt mit der „Brandmauer“?",
-          "url": "https://www.sueddeutsche.de/medien/caren-miosga-armin-laschet-cdu-afd-brandmauer-li.3535093",
-          "summary": "Armin Laschet verteidigt bei Caren Miosga, dass die CDU nicht mit der AfD koaliert. Ein Politologe sieht in der „Brandmauer“ selbst eine Gefahr – und schlägt eine neue Art zu regieren vor.",
+          "title": "Unternehmer: Logistikmilliardär Klaus-Michael Kühne ist tot",
+          "url": "https://www.sueddeutsche.de/wirtschaft/klaus-michael-kuehne-tot-li.3535952",
+          "summary": "Der gebürtige Hamburger starb im Alter von 89 Jahren. Kühne galt als  einer der reichsten Deutschen. Er war Mehrheitseigner und Ehrenvorsitzender des globalen Logistikunternehmens Kühne + Nagel.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/23/3f624d58-7a6d-4a67-b744-f8db22ff1fa2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=255%2C205%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/08/24/1e1ef0a7-fb33-4aa9-bf56-9f67e6b763e2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C188%2C3000%2C1687"
         }
       ]
     }
