@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-24T14:00:09.240Z",
-  "timestamp": "24.8.2026, 16:00:09",
+  "generated": "2026-08-24T18:00:10.080Z",
+  "timestamp": "24.8.2026, 20:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "AfD im Sommerinterview: Wo Weidel und Chrupalla falsch liegen – und wo nicht",
-          "url": "https://www.faz.net/aktuell/wirtschaft/alice-weidel-und-tino-chrupalla-afd-mythen-im-sommerinterview-201153901.html",
-          "summary": "Die AfD-Ko-Vorsitzenden bezeichnen den Euro vor Millionenpublikum als Weichwährung und reden den menschengemachten Klimawandel klein. Ein Ökonom und ein Klimaforscher widersprechen.",
+          "title": "Nach Tod des Unternehmers: Was mit den Milliarden von Klaus-Michael Kühne geschieht",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/klaus-michael-kuehne-was-mit-seinen-milliarden-passiert-201154305.html",
+          "summary": "Der verstorbene Logistikunternehmer hat seinen Nachlass von langer Hand geregelt. Kühnes Stiftung wird wohl eine der größten Europas – mit „fast schon erschreckend hohen“ Vermögenswerten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/32e6fa3eebd1/w1920h1003x0y153o/202608/43601.0.2462283739/in-wien-alice-weidel-waehrend.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c2202d159b94/w4640h2424x0y93o/202608/43601.0.2465118675/klaus-michael-kuehne.webp"
         },
         {
-          "title": "Chrupalla und Weidel: Geschwurbel und Gehetze zur besten Sendezeit",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/afd-sommerinterviews-in-ard-und-zdf-weidels-flachzangen-und-chrupallas-ganz-normaler-sommer-201152569.html",
-          "summary": "Schlimmer kann es nicht werden, tröstet man sich nach dem Sommerinterview mit Tino Chrupalla in der ARD. Dann kommt Alice Weidel.",
+          "title": "Zum Tod von Klaus-Michael Kühne: Vom HSV konnte er nie lassen",
+          "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/milliardaer-klaus-michael-kuehne-konnte-vom-hsv-nie-lassen-201154507.html",
+          "summary": "Der Milliardär war Freund und Förderer des Hamburger SV. Klaus-Michael Kühne half sogar, als sich Vereinsmitglieder gegen zu viel Einfluss verwahrten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5a1c84cd9e40/w1920h1003x0y238o/202608/43601.0.2462288574/wulf-schmiese-und-alice-weidel.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2233d5e9375a/w3000h1567x0y302o/201709/431.0.23312423/klaus-michael-kuehne-1937-2026.webp"
         },
         {
-          "title": "Wahl-O-Mat: Welche Partei steht Ihnen bei der Wahl in Mecklenburg-Vorpommern am nächsten?",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-welche-partei-vertritt-ihre-interessen-wirklich-accg-201148631.html",
-          "summary": "Mecklenburg-Vorpommern wählt am 20. September einen neuen Landtag. Mit dem Wahl-O-Mat können Sie herausfinden, welche Partei Ihren Positionen am ehesten entspricht.",
+          "title": "Klaus-Michael Kühne Gestorben: Er war einer der größten deutschen Unternehmer",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/klaus-michael-kuehne-einer-der-groessten-deutschen-unternehmer-ist-tot-accg-201153586.html",
+          "summary": "Der Milliardär starb am Sonntagabend in seinem Haus im schweizerischen Schindellegi. Klaus-Michael Kühne hinterlässt ein gewaltiges Vermögen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e1b78c9b0446/w1672h873x0y34o/202608/ebb131e7-8060-4d15-8930-c4b95dfae3cf/soll-bei-der-wahl-helfen-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f126c678e149/w6000h3135x0y594o/202001/43d346b9e4-d8e6-11ea-b79e-0dfc3810918b/klaus-michael-kuehne.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Angriff auf Journalisten: Der feine Herr Ulrich Siegmund und seine üble Truppe",
+          "url": "https://www.spiegel.de/politik/angriff-auf-journalisten-der-feine-herr-ulrich-siegmund-und-seine-ueble-truppe-a-7387ef77-b88e-4967-a47c-2072db4fc77c#ref=rss",
+          "summary": "SPIEGEL-Reporter werden angepöbelt, es gibt Pläne für eine »Bürgerwacht«: Vor der Wahl in Sachsen-Anhalt zeigt sich erneut, dass Ignorieren, Verharmlosen und Relativieren im Umgang mit Parteien wie der AfD in die Irre führen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/df0bdcac-458b-4bb2-9461-7094f3f50f05_w1200_r1.778_fpx30_fpy54.98.jpg"
+        },
+        {
+          "title": "Donald Trump kündigt weitere Zölle von 50 Prozent gegen Kanada an",
+          "url": "https://www.spiegel.de/ausland/donald-trump-kuendigt-weitere-zoelle-von-50-prozent-gegen-kanada-an-a-b550c783-bcf6-4135-a122-a8c4e66ee1cf#ref=rss",
+          "summary": "US-Präsident Trump lässt den Handelskonflikt mit Kanada eskalieren: Ab Januar sollen Importabgaben für Autos, Lastwagen, Autoteile und Stahl steigen. Mit wütenden Beschuldigungen reagiert er auf eine Ansage von Premier Carney.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/a1165a13-5688-4a72-a69d-bb6bd9639d0c_w1200_r1.778_fpx21_fpy44.jpg"
+        },
+        {
           "title": "Immobilien: Warum es gut wäre, wenn die Mieten stärker steigen dürften",
           "url": "https://www.spiegel.de/wirtschaft/wohnungsmarkt-warum-es-gut-waere-wenn-die-mieten-staerker-steigen-duerften-a-e9b08667-e8ad-4e7d-8c4b-342b7a1b4728#ref=rss",
           "summary": "Enteignen oder Baugesellschaft gründen: Um hohe Mieten zu bekämpfen, rufen Politiker und Aktivisten nach mehr Staat. Helfen könnte ein radikal neuer Ansatz.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/13ff95a4-ea10-4df9-b97f-c8167e0f77cc_w1200_r1.778_fpx31_fpy47.jpg"
-        },
-        {
-          "title": "Klaus-Michael Kühne ist tot: Der knausrige Wohltäter",
-          "url": "https://www.spiegel.de/wirtschaft/klaus-michael-kuehne-ist-tot-der-knausrige-wohltaeter-a-87f5c3c8-d6cb-4a81-a020-308c15f8cb71#ref=rss",
-          "summary": "Er formte aus der Spedition Kühne+Nagel einen Weltkonzern und wurde damit zu einem der reichsten Deutschen. Der Milliardär Klaus-Michael Kühne konnte unerbittlich sein, auch zu sich selbst.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/98130c95-4d79-48f1-9286-cb5ba817e044_w1200_r1.778_fpx48_fpy48.jpg"
-        },
-        {
-          "title": "Donald Trump: Schuldenrekord vor den Midterms",
-          "url": "https://www.spiegel.de/wirtschaft/donald-trump-schuldenrekord-vor-den-midterms-a-ec3de103-8f34-4a84-a2a4-ed52abb7bea2#ref=rss",
-          "summary": "Kurz vor den Midtermwahlen bekommt Trump mit dem neuen Schuldenrekord die Rechnung für seine Politik. Mit dem Kauf von Staatsanleihen will er den Schaden begrenzen. Doch das dürfte kaum funktionieren.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3232c536-f0ac-4574-9f6e-5d0f678e06b7_w1200_r1.778_fpx48.68_fpy44.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Bitcoin meldet sich fulminant zurück",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-bitcoin-100.html",
-          "summary": "Was ist los beim Bitcoin? In wenigen Tagen ist die Kryptowährung um mehr als 25 Prozent nach oben geschossen. Experten machen vor allem drei Kurstreiber aus. Von Detlev Landmesser.",
+          "title": "Wie Kürzungen im Bundeshaushalt die Musikbranche treffen",
+          "url": "https://www.tagesschau.de/kultur/haushaltsentwurf-musikbranche-100.html",
+          "summary": "Seit Wochen wird über die Sparvorhaben der Bundesregierung diskutiert. Laut Haushaltsentwurf für 2027 soll auch bei der Kultur gespart werden. Wo und welche Folgen das haben könnte? Schleithoff.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0f1536cb-9c9d-47ba-9f5f-bc73d6121a79/AAABoDMXWdo/AAABnSSvrFg/16x9-big/bitcoin-234.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/49a8a2e3-7a2a-41a6-93fb-51e95b5ff223/AAABoDPtAAM/AAABnSSvrFg/16x9-big/mischpult-tontechniker-100.jpg?width=1280"
         },
         {
-          "title": "Selenskyj setzt zum Nationalfeiertag auf die \"Kraft der Gemeinschaft\"",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-kiew-100.html",
-          "summary": "Die Ukraine feiert ihren 35. Unabhängigkeitstag - aus Sicherheitsgründen ohne Großveranstaltungen. Dennoch reisen die Vertreter mehrerer Partnerländer der Ukraine nach Kiew, so auch der britische Premier Burnham. Kellermann.",
+          "title": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
+          "summary": "Am Wochenende war der Zollstreit zwischen den USA und Kanada neu ausgebrochen. Jetzt legt US-Präsident Trump nach und kündigt deutlich höhere Abgaben auf Autos und Autoteile aus dem Nachbarland an.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9ae3c487-0611-4aff-a8b4-bb6e3ee17651/AAABoDOK1w0/AAABnSSvrFg/16x9-big/selenskyj-1166.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9c5b75b9-e6ac-41ba-bd7c-dc17bdb9b283/AAABoDRizDM/AAABnSSvrFg/16x9-big/lkw-peace-bridge-100.jpg?width=1280"
         },
         {
-          "title": "USA sagen Militärübung mit Südkorea wegen Iran-Krieg ab",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-militaermanoever-suedkorea-abgesagt-100.html",
-          "summary": "Die USA haben eine große Militärübung mit Südkorea abgesagt. Wegen des Krieges gegen den Iran fehle es an Truppenkapazitäten. Zuvor hatte Präsident Trump bereits ein anderes Manöver verkürzt.",
+          "title": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html",
+          "summary": "Mitten im russischen Angriffskrieg feiert die Ukraine ihre Unabhängigkeit. Präsident Selenskyj pocht auf die Stärke seines Landes - und erhält weitere Rüstungshilfe der EU und aus Großbritannien. Kellermann.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4cb94261-787c-4ad3-a1d4-89d433dbd6a0/AAABoDNhyQs/AAABnSSvrFg/16x9-big/militaeruebung-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e15adbf0-cc5a-4cd6-9aac-f7b18f6c47d0/AAABoDRu7l4/AAABnSSvrFg/16x9-big/selenskyj-1170.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Tesla: Chinas Elektroautos haben ein Türgriffproblem",
-          "url": "https://www.sueddeutsche.de/wirtschaft/china-elektroautos-tesla-rueckruf-tuergriffproblemen-li.3536024",
-          "summary": "Mehr als vier Millionen Elektroautos müssen in China nachgebessert werden, fast drei Millionen davon stammen von Tesla. Der Anlass wirkt banal. Doch hinter dem Rückruf steckt ein grundlegender Kurswechsel Pekings.",
+          "title": "Tierschutz: Auf dem Rücken der Pferde",
+          "url": "https://www.sueddeutsche.de/kultur/tierschutz-auf-dem-ruecken-der-pferde-li.3536228",
+          "summary": "Bei den jüngsten Stadionkrawallen waren auch Polizeipferde in der Schusslinie der Randalierer. Ginge es nach der Tierrechts-Organisation Peta, dürfte es solche Einsätze längst nicht mehr geben. Aber sind sie wirklich das größte Problem der Tiere?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/24/19761d88-e1d8-4409-986f-233269602615.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C371%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/24/f13d6e71-fdba-4d08-8004-8892b462ad75.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Museen: „Wir sind Teil der Freizeitbranche“",
-          "url": "https://www.sueddeutsche.de/kultur/kunstpalast-felix-kraemer-dog-day-museen-kritik-li.3532668",
-          "summary": "Kunst von Grundschülern, ein Tag für Hunde: Der Kunstpalast in Düsseldorf und sein Direktor Felix Krämer zeigen, wie Museen sich dem Publikum heute öffnen können. Ist das nötig – oder schlicht banal?",
+          "title": "Krieg in der Ukraine: Putin ermächtigt Staat zur Übernahme schlecht geschützter Infrastruktur",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-infrastruktur-olraffinierie-logistikzentrum-kontrolle-li.3524928",
+          "summary": "Per Dekret erlaubt der russische Präsident den Behörden, die Kontrolle über Ölraffinerien oder Logistikzentren zu übernehmen. Diese greift die Ukraine zunehmend an.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/24/ed30d511-15c5-41c1-8419-f7a780f8c5ea.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C1911%2C2363%2C1329"
+          "image": "https://www.sueddeutsche.de/2026/08/24/85d539bc-6f30-4e5e-8415-801cd90a5086.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Klimawandel: Tino Chrupallas kleine, heile Welt",
-          "url": "https://www.sueddeutsche.de/meinung/chrupalla-afd-klimawandel-sommerinterview-kommentar-li.3536007",
-          "summary": "Für den AfD-Chef war es „ein ganz normaler Sommer“. Er bedient damit eine Sehnsucht nach unbeschwerten Zeiten. Wählern mit offenen Augen indes könnte aufgehen, dass da was nicht stimmt.",
+          "title": "Polizei: Warum konnte der 14-Jährige in Schwabing nicht getasert werden?",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-polizei-schuss-14-jaehriger-taser-li.3533865",
+          "summary": "Nach dem Schuss eines Beamten auf einen Jugendlichen gibt die Polizei Einblicke in das Training mit Tasern. Die Geräte können nützlich sein – doch in manchen Situationen bleibt den Polizisten nur der Griff zur Schusswaffe.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/24/6a0abb77-d139-478d-bda9-414cd0e3b8ea.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C136%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/08/24/812d2f6d-dcab-4a2d-97fa-e53d5b655f83.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
         }
       ]
     }
