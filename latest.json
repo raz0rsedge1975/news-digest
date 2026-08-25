@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T22:00:09.839Z",
-  "timestamp": "25.8.2026, 00:00:09",
+  "generated": "2026-08-25T02:00:08.707Z",
+  "timestamp": "25.8.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kabinettsklausur der Bundesregierung: Neustart in Neuhardenberg?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-100.html",
-          "summary": "Die Erwartungen sind hoch vor der Kabinettsklausur im Schloss Neuhardenberg. Die schwarz-rote Koalition will Handlungsfähigkeit beweisen. Doch miese Umfragewerte und Gegenwind aus den eigenen Reihen belasten die Stimmung. Von Dagmar Pepping.",
+          "title": "US-Krieg gegen Iran: Oman zwischen den Fronten",
+          "url": "https://www.tagesschau.de/ausland/asien/oman-hormus-iran-100.html",
+          "summary": "Das Sultanat verhandelt mit Iran über ein Abkommen zur Straße von Hormus. Für Teheran ist die Zusammenarbeit strategisch wichtig, für Oman ist sie ein Balanceakt: Denn der engste Verbündete, die USA, drohen mit Eskalation. Von Paul Jens.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0a407c33-7831-4d07-8a68-7081a3c2dfd6/AAABoDUf2Rc/AAABnSSvrFg/16x9-big/neuhardenberg-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a2b34bcf-1c30-43a6-a07a-dd585a60486d/AAABoDQXyS4/AAABnSSvrFg/16x9-big/albusaidi-qalibaf-araqchi-100.jpg?width=1280"
         },
         {
-          "title": "US-Finanzminister droht mit Sanktionen gegen Irans Handelspartner",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-iran-114.html",
-          "summary": "Die USA wollen Iran wirtschaftlich isolieren und haben Sanktionen gegen Teherans Wirtschaftspartner angekündigt. Wer Handel mit dem Land treibe, werde die \"Wucht der amerikanischen Macht\" zu spüren bekommen, so Finanzminister Bessent.",
+          "title": "Erneut Tanker in Straße von Hormus angegriffen",
+          "url": "https://www.tagesschau.de/ausland/tanker-strasse-hormus-100.html",
+          "summary": "Nach britischen Informationen ist in der Straße von Hormus wieder ein Öltanker getroffen worden - von einem \"unbekannten Geschoss\". Wer für den Angriff vor der Küste des Omans verantwortlich ist, ist noch unklar.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8666943f-0ded-4a9f-a72a-e9cd100617ed/AAABoDTc9_g/AAABnSSvrFg/16x9-big/bessent-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a3a0d945-a80b-4fa8-8c7c-99e05a59d67b/AAABnm137xE/AAABnSSvrFg/16x9-big/karte-strasse-von-hormus-persischer-golf-104.jpg?width=1280"
         },
         {
-          "title": "Wie Kürzungen im Bundeshaushalt die Musikbranche treffen",
-          "url": "https://www.tagesschau.de/kultur/haushaltsentwurf-musikbranche-100.html",
-          "summary": "Seit Wochen wird über die Sparvorhaben der Bundesregierung diskutiert. Laut Haushaltsentwurf für 2027 soll auch bei der Kultur gespart werden. Wo und welche Folgen das haben könnte? Schleithoff.",
+          "title": "Supreme Court macht Weg für Trumps umstrittene Briefwahl-Regeln frei",
+          "url": "https://www.tagesschau.de/ausland/amerika/supreme-court-trump-briefwahl-104.html",
+          "summary": "Kurz vor der Parlamentswahl will der republikanische US-Präsident die Regeln ändern. Jetzt hat der Supreme Court Trumps Briefwahl-Pläne erlaubt - vorerst. Kritiker vermuten, dass sie gezielt demokratische Wähler benachteiligen sollen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/49a8a2e3-7a2a-41a6-93fb-51e95b5ff223/AAABoDPtAAM/AAABnSSvrFg/16x9-big/mischpult-tontechniker-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2f51b7b4-af90-4b6a-8189-ae9f5e9d0183/AAABnx8ky30/AAABnSSvrFg/16x9-big/supreme-court-180.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Wahlen in den USA: Trump erringt Sieg zur Briefwahl - Angst vor Chaos steigt",
+          "url": "https://www.sueddeutsche.de/politik/usa-zwischenwahlen-trump-kongress-li.3536322",
+          "summary": "Der US-Präsident darf seine Pläne zur Einschränkung der Briefwahl weiterverfolgen. Das hat der Oberste Gerichtshof entschieden. Ob die Pläne rechtmäßig sind, steht noch nicht fest.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/24/6729a79f-1501-4228-a23c-dc429be98446.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
           "title": "Krieg in Nahost: USA wollen mit neuen Sanktionen Irans Einnahmequellen trockenlegen",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-bessent-wirtschaftskrieg-sanktionen-iran-li.3530668",
           "summary": "Die US-Regierung will Teheran von der Weltwirtschaft isolieren. Ziel sei es, „jede wirtschaftliche Lebensader zu durchtrennen, die dieses tyrannische Regime am Leben erhält“, sagt US-Finanzminister Bessent.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/24/f13d6e71-fdba-4d08-8004-8892b462ad75.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
-        },
-        {
-          "title": "Literatur: Wenig zu spüren",
-          "url": "https://www.sueddeutsche.de/kultur/oezge-inan-die-dichterin-roman-literatur-rezension-li.3527905",
-          "summary": "Eine Lyrikerin, die ihre Biografie erfunden hat, und eine Journalistin, die ihr auf der Spur ist: Die Plot-Idee von Özge İnans Roman „Die Dichterin“ ist fabelhaft. Doch die Figuren bleiben schematisch, die Sprache erstickt in Floskeln.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/24/40479dc4-58ed-411c-aed2-41e4a75879cc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
