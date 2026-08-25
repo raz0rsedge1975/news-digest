@@ -1,25 +1,17 @@
 {
-  "generated": "2026-08-25T10:00:10.059Z",
-  "timestamp": "25.8.2026, 12:00:10",
+  "generated": "2026-08-25T14:00:10.384Z",
+  "timestamp": "25.8.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Karin Prien im Interview: „Ich wünsche mir mehr Mut der Kabinettskollegen“",
-          "url": "https://www.faz.net/aktuell/politik/inland/karin-prien-wuenscht-sich-mehr-mut-der-kabinettskollegen-accg-201151084.html",
-          "summary": "Die Familienministerin hat ihre Antwort auf den Fachkräftemangel gefunden: massive Investitionen in frühe Bildung. Dafür will sie Geld umverteilen.",
+          "title": "Brandmauer-Debatte: Die CDU kämpft gegen die AfD – und zugleich mit sich selbst",
+          "url": "https://www.faz.net/aktuell/politik/inland/brandmauer-debatte-die-cdu-kaempft-gegen-die-afd-und-mit-sich-selbst-accg-201156625.html",
+          "summary": "Hat die CDU die AfD unfair behandelt? Eine Aussage Armin Laschets macht hellhörig. Doch seine Fraktion hält an der Brandmauer fest.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/80186901888d/w6000h3135x0y120o/202608/43601.0.2465116823/bundesfamilienministerin-karin.webp"
-        },
-        {
-          "title": "Landrat über die AfD: „Die Migrationspolitik ist der Indikator für den Grad des Wahnsinns“",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-keiner-waehlt-die-afd-aus-zufall-sagt-landrat-stefan-kerth-accg-201151076.html",
-          "summary": "Stefan Kerth trat wegen der Migrationspolitik aus der SPD aus. Jetzt fordert der Landrat des Kreises Vorpommern-Rügen eine Öffnung zur AfD – und nennt Dänemark als Vorbild.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/206cfcd623d1/w8256h4313x0y578o/202505/43601.0.1009971809/hat-die-spd-vor-drei-jahren.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3902429f7d00/w6153h3214x0y444o/202607/43601.0.2317774681/kanzler-merz-geht-an-der-afd.webp"
         },
         {
           "title": "Mecklenburg-Vorpommern: Es droht ein gelähmtes Land",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/2002f97b26bb/w4959h2591x673y1168o/202608/43601.0.2455489285/ein-paddler-ist-mit-seinem.webp"
+        },
+        {
+          "title": "„Deutschland spricht“: „Wo ist es denn besser als hier?“",
+          "url": "https://www.faz.net/aktuell/deutschland-spricht/bjoern-werner-wo-ist-es-besser-als-in-deutschland-accg-201138326.html",
+          "summary": "Der frühere Metzger Björn Werner fragt sich, ob seine Generation ihre Kinder zu sehr behütet hat. Den jungen Menschen würde er raten, in Deutschland zu bleiben und anzupacken.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/2c7ee061d5e4/w4685h2447x0y862o/202608/43601.0.2455852407/bjoern-werner-lebt-in-baunatal.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "USA und Kanada: Kann Premier Mark Carney den Handelskrieg mit den USA gewinnen?",
-          "url": "https://www.spiegel.de/wirtschaft/usa-und-kanada-kann-premier-mark-carney-den-handelskrieg-mit-den-usa-gewinnen-a-9a3375f4-f75b-46cd-9644-e1ac6ab7fff9#ref=rss",
-          "summary": "Neue 50-Prozent-Zölle hat US-Präsident Donald Trump gegen Kanada angekündigt. Doch Mark Carney gibt sich kämpferisch. Rückhalt bekommt der Premier des Nachbarlandes aus der Bevölkerung.",
+          "title": "Berlin: Waffenkurier soll Agent eines Sabotagekommandos gewesen sein",
+          "url": "https://www.spiegel.de/panorama/justiz/waffendepot-bei-berlin-mutmasslicher-kurier-soll-zu-sabotage-kommando-gehoert-haben-a-bdc87696-f462-4d72-87df-487162c1bdf9#ref=rss",
+          "summary": "Ein 24-jähriger Ukrainer reist mit dem Bus aus Polen an, sammelt in Berlin Waffen ein und wird zu einem Versteck am Stadtrand gelotst. Nach SPIEGEL-Recherchen soll er im Auftrag Russlands gehandelt haben.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f58da0fd-4a1f-4323-9fba-18640daa84e9_w1200_r1.778_fpx58_fpy40.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/550e967f-1b24-42cc-9ade-0a1b3f3bfd82_w1200_r1.778_fpx50_fpy45.jpg"
         },
         {
-          "title": "Volkswagen: Olaf Lies geht auf Konfrontationskurs mit Oliver Blume",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-olaf-lies-geht-auf-konfrontationskurs-mit-oliver-blume-a-ecf63f42-c117-4449-b870-35e1c704cbcb#ref=rss",
-          "summary": "»Wirklich fatal«: Kurz bevor Oliver Blume der Belegschaft sein radikales Sparprogramm vorstellen will, teilt die niedersächsische Landesregierung gegen den Umbauplan des VW-Bosses aus.",
+          "title": "Afghanistan: EU sucht diplomatische Kontakte zu Taliban für Abschiebungen",
+          "url": "https://www.spiegel.de/politik/deutschland/afghanistan-eu-sucht-diplomatische-kontakte-zu-taliban-fuer-abschiebungen-a-e352a4bc-dee4-4c90-8e4a-6c8a90a7e737#ref=rss",
+          "summary": "Deutschland und die EU gehen auf die Taliban zu, um Abschiebungen nach Afghanistan leichter zu machen. Opfer des Regimes sind entsetzt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/deb1b4c2-d189-4927-be6d-208cd486109a_w1200_r1.778_fpx40.64_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/89177111-6961-4c15-b043-84b51073f9a2_w1200_r1.778_fpx55_fpy0.jpg"
         },
         {
-          "title": "Türkei: Europas Menschenrechtsgericht verlangt Freilassung von Osman Kavala",
-          "url": "https://www.spiegel.de/ausland/tuerkei-europas-menschenrechtsgericht-verlangt-freilassung-von-osman-kavala-a-dfa5d321-f214-4daf-a3d8-46f32dd230f1#ref=rss",
-          "summary": "Der türkische Kulturförderer Osman Kavala sitzt seit 2017 in der Türkei im Gefängnis. Unrechtmäßig, sagt der Europäische Gerichtshof – und erhöht nun erneut den Druck auf Ankara.",
+          "title": "Grambow/Mecklenburg-Vorpommern: So will ein Bürgermeister sein Dorf von Windkraft überzeugen",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/mecklenburg-vorpommern-so-will-ein-buergermeister-sein-dorf-von-windkraft-ueberzeugen-a-f1b65d50-6824-47f0-9cab-d91735fa789c#ref=rss",
+          "summary": "Grambow fehlt Geld, die AfD ist stark: Ausgerechnet hier will Bürgermeister Sven Baltrusch nun Windräder bauen lassen, um die Haushaltslage zu verbessern. Doch er hat einen hartnäckigen Widersacher.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4127bf6c-5242-43ed-919e-7951ce35439a_w1200_r1.778_fpx50_fpy53.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5a1b05d9-c219-4107-9ea3-b0919aa260d7_w1200_r1.778_fpx50_fpy39.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Anleger erfreut über starke Konjunkturdaten",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
-          "summary": "Das deutsche Wirtschaftswachstum fällt etwas stärker aus als erwartet, ein erfreuliches Signal für die Anleger. Der DAX legt im frühen Handel zu. Aber vor wichtigen Terminen bleibt die Stimmung angespannt.",
+          "title": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-sanktionen-iran-handelspartner-100.html",
+          "summary": "Um Iran finanziell weiter zu schwächen, drohen die USA nun den Handelspartnern des Landes und verlangen von ihnen, jegliche Geschäfte mit Iran einzustellen. China - der größte Handelspartner Irans - droht bereits mit Gegenmaßnahmen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a6a38c7b-bc14-4a02-9539-8b05813d18a4/AAABlh9A_m0/AAABnSSvrFg/16x9-big/boerse-416.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/62d5a7d4-2513-41d8-9ab6-ef8a340f5968/AAABlgB_bBk/AAABnSSvrFg/16x9-big/usa-china-111.jpg?width=1280"
         },
         {
-          "title": "Konzernumbau beim Autohersteller: Was VW in China anders macht",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-136.html",
-          "summary": "Volkswagen steht vor einem Konzernumbau. In China lässt sich bereits beobachten, wie sich das Unternehmen verändern könnte. Dort produziert VW vergleichsweise günstige E-Autos. Aber taugt das Modell auch für Deutschland? Von Jörg Endriss.",
+          "title": "Indien: Preise für Zucker verdoppelt - Knappheit droht",
+          "url": "https://www.tagesschau.de/ausland/asien/indien-zucker-steuer-100.html",
+          "summary": "Steigende Preise und düstere Ernteprognosen: Ausgerechnet Indien, der weltweit zweitgrößte Zuckerproduzent, befürchtet eine Knappheit. So wird selbst der tägliche gesüßte Tee für viele zum Luxus. Von Lena Bodewein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ace33fb3-6a80-4f86-8f15-c309bd7ed574/AAABoDgDMEM/AAABnSSvrFg/16x9-big/vw-anhui-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/99ea06cc-dd27-42a3-b516-7456a43e85cb/AAABoDi4FEA/AAABnSSvrFg/16x9-big/zuckerrohr-indien-100.jpg?width=1280"
         },
         {
-          "title": "Deutsche Wirtschaft im Frühjahr etwas stärker gewachsen als erwartet",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
-          "summary": "Trotz des Iran-Kriegs hat die deutsche Wirtschaft im zweiten Quartal ein leichtes Wachstum geschafft - vor allem wegen des Exportgeschäfts. Die Stimmung in den Chefetagen der Unternehmen hellt sich weiter auf.",
+          "title": "Sorge um Top-Rating: Deutsches Staatsdefizit fast verdoppelt",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-staatsdefizit-rentenmarkt-100.html",
+          "summary": "Im ersten Halbjahr hat sich das Staatsdefizit nahezu verdoppelt. Während das Fiskalpaket offenbar bei den Unternehmen Wirkung zeigt, bringt es den Staat in eine schwierige Lage. Von Detlev Landmesser.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/58dd7457-de22-4637-b2cb-89926603fbee/AAABoDemYhM/AAABnSSvrFg/16x9-big/konjunktur-412.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a08d94c3-082b-4000-856c-58157bcc9063/AAABnyl_RKA/AAABnSSvrFg/16x9-big/bundesadler-114.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Merz grüßt mit \"Slawa Ukrajini!\" – und sein Amt will keine Fragen dazu",
-          "url": "https://www.telepolis.de/article/Merz-gruesst-mit-Slawa-Ukrajini-und-sein-Amt-will-keine-Fragen-dazu-11424765.html",
-          "summary": "Merz' Glückwunsch an die Ukraine ist Anlass für ein Plädoyer: Politische Symbole verlangen historischen Kontext, Sorgfalt und Verantwortung.",
+          "title": "UK gibt geheime Raketentechnik an Ukraine weiter",
+          "url": "https://www.telepolis.de/article/UK-gibt-geheime-Raketentechnik-an-Ukraine-weiter-11425279.html",
+          "summary": "London erlaubt MBDA, klassifizierte Daten zu Storm-Shadow-Komponenten offenzulegen. Kiew soll eigene Montagelinien aufbauen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/2/6/1/5/shutterstock_2627608393-e2438ec40e3a6920.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/2/8/7/4/shutterstock_2503267773-3c7a7ddaf3672de6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Mehr Macht für den BND: Was seine Geschichte zur Warnung macht",
-          "url": "https://www.telepolis.de/article/Mehr-Macht-fuer-den-BND-Was-seine-Geschichte-zur-Warnung-macht-11424599.html",
-          "summary": "Adenauers Regierung ließ Parteien und Gesellschaft ausforschen. Heute soll der Geheimdienst wieder weitreichende neue Befugnisse erhalten.",
+          "title": "Piraterie verändert die strategische Ordnung im Indischen Ozean",
+          "url": "https://www.telepolis.de/article/Piraterie-veraendert-die-strategische-Ordnung-im-Indischen-Ozean-11425100.html",
+          "summary": "Piraterie, Militärpräsenz und der Wettbewerb zwischen China und Indien machen den Indischen Ozean zum Zentrum einer neuartigen geopolitischen Ordnung.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/2/5/2/6/Master_Fess_2-6501e295bafe4e8f.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/2/7/8/4/shutterstock_2556186835-f309b7983794df4c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Ernteausfälle: Zahlen am Ende die Verbraucher?",
-          "url": "https://www.telepolis.de/article/Ernteausfaelle-Zahlen-am-Ende-die-Verbraucher-11423531.html",
-          "summary": "Hitze und Trockenheit drücken die Ernte. Der Bauernverband fordert Millionenhilfen – foodwatch warnt: Am Ende könnten Verbraucher doppelt zahlen.",
+          "title": "MDR-Ausstieg: AfD nennt Zeitplan, Intendant kündigt Klage an",
+          "url": "https://www.telepolis.de/article/MDR-Ausstieg-AfD-nennt-Zeitplan-Intendant-kuendigt-Klage-an-11425092.html",
+          "summary": "AfD in Sachsen-Anhalt konkretisiert Pläne für Rundfunkstaatsverträge. MDR hält dagegen. Offen bleibt, wie klein ein öffentlich-rechtliches Angebot sein darf.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/2/0/0/9/agrarsubvention-01-1ad1e2a862855aeb.gif"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/2/7/8/0/MDR_Master-7501bf21d8d2ecf6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespolitik: Merz zu Drohnenvorfall in Leipzig: „Sie werden dafür bezahlen“",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-drohnenangriff-leipzig-flughafen-li.3529564",
-          "summary": "Die Bundesregierung werde „in Kürze“ eine Aussage treffen, wer hinter den Drohnenangriffen in Leipzig stecke, so der Bundeskanzler.",
+          "title": "Krieg in Nahost: China hält an Iran-Kooperation fest und warnt USA vor Sanktionen",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-china-usa-news-bessent-wirtschaftskrieg-sanktionen-teheran-li.3530668",
+          "summary": "China „wird alle notwendigen Maßnahmen ergreifen, um seine eigenen Interessen entschlossen zu schützen“, so ein Sprecher des Außenministeriums. Die US-Regierung will Teheran von der Weltwirtschaft isolieren.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/25/e545fae2-ad68-4459-9182-36a6d694a235.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C807%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/08/25/2d96394e-c1a2-4976-9aa6-58fad7553494.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Wahlkampf in Sachsen-Anhalt: Söder gelingt es tatsächlich, nicht belehrend zu wirken",
-          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahlkampf-soeder-schulze-wirtschaft-afd-li.3534177",
-          "summary": "Bayerns Ministerpräsident unterstützt in Sachsen-Anhalt seinen Amtskollegen Sven Schulze im Wahlkampf gegen die AfD. Die plane „das schlimmste wirtschaftliche Schredder-Programm“.",
+          "title": "Volkswagen: „Unser Vertrauen in diesen Konzernvorstand ist beschädigt“",
+          "url": "https://www.sueddeutsche.de/wirtschaft/vw-wolfsburg-betriebsversammlung-sparplaene-jobabbau-blume-lies-cavallo-li.3536219",
+          "summary": "VW-Chef Blume erläutert bei einer Betriebsversammlung in Wolfsburg seine Sparpläne. Vieles bleibt vage. Das liegt auch daran, dass es Widerstand gibt – und das nicht nur aus dem Betriebsrat.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/24/556a55fa-027a-44df-9f8a-d22c32d310b5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C311%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/07/09/36e67a3f-c89b-48c4-ad0c-f2402bf21662.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C126%2C2048%2C1152"
         },
         {
-          "title": "Literatur: Ist das wirklich der Größte?",
-          "url": "https://www.sueddeutsche.de/kultur/philipp-oehmke-papenburg-schoenwald-spiegel-li.3524781",
-          "summary": "Mal wieder hat ein Autor den „großen Gegenwartsroman“ hingelegt – angeblich. Diesmal Philipp Oehmke mit dem Roman „Papenburg“. Man ahnt es schon: Bei dieser Flughöhe kann man nur scheitern.",
+          "title": "Deutsche Bank: Ehemaliger Mitarbeiter gesteht Veruntreuung von Kundengeldern",
+          "url": "https://www.sueddeutsche.de/wirtschaft/bank-frankfurt-veruntreuung-privatkundengeschaeft-gericht-li.3536417",
+          "summary": "Ein früherer Teamleiter der Deutschen Bank soll Kunden um sechsstellige Summen gebracht haben. Der Prozess zeigt, wie leicht er Kontrollen umgehen konnte. Ein Einzelfall?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/11/cc787003-c309-41e5-8280-42732e3d344e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=348%2C420%2C3005%2C1690"
+          "image": "https://www.sueddeutsche.de/2026/04/17/4d5133ce-43d2-4658-8c43-8a95a105a315.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C74%2C4000%2C2250"
         }
       ]
     }
