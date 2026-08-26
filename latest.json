@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-26T18:00:08.868Z",
-  "timestamp": "26.8.2026, 20:00:08",
+  "generated": "2026-08-26T22:00:08.382Z",
+  "timestamp": "27.8.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Erben in Deutschland: Plötzlicher Anstieg bei der Erbschaftsteuer",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ploetzlicher-anstieg-bei-der-erbschaftsteuer-201160379.html",
-          "summary": "Noch nie haben die Finanzämter so viel Erbschaft- und Schenkungsteuer festgesetzt. Das befeuert die Debatte darüber, wann welche Freibeträge greifen sollen.",
+          "title": "KI-Boom: Nvidia verdoppelt den Umsatz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-verdoppelt-umsatz-201162085.html",
+          "summary": "Der amerikanische Chipkonzern legt abermals Rekordergebnisse vor. Damit wird er die Börse bewegen – und seinen Ruf als Hausbank der KI untermauern.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ac1727a6c0d2/w8256h4313x0y381o/202607/43601.0.2383305861/in-deutschland-wurde-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4fb53aed7bf0/w6400h3344x0y357o/202607/43601.0.2341454711/kann-sich-ueber-sehr-gute.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Kleine Parteien gewinnen in Sachsen-Anhalt in neuer Umfrage hinzu",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-kleine-parteien-in-sachsen-anhalt-in-neuer-umfrage-im-aufwind-faz-110093143.html",
-          "summary": "AfD bei 42 Prozent +++ Merz: Raus aus diesem Klima der Verdrießlichkeit +++ Ermittlungen gegen Bundestagsabgeordneten wegen Urkundenfälschung +++ alle Entwicklungen im Liveblog",
+          "title": "KI-Nutzung leicht gemacht: Der Masterprompt für perfekte Texte",
+          "url": "https://www.faz.net/premium/digitalwirtschaft/ki-akademie/ki-richtig-nutzen-dieser-masterprompt-liefert-perfekte-texte-accg-201132873.html",
+          "summary": "Wer einen Text von einer KI überarbeiten lässt, bekommt selten das, was er braucht. Fünf getrennte Aufträge in der richtigen Reihenfolge machen jeden Text besser – vom Vorstandsmemo bis zur Bachelorarbeit.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f0d71aa26ad6/w5568h2909x0y257o/202607/43601.0.2377162460/sie-stehen-zur-wahl-sven.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/2593e502dd90/w7680h4012x512y154o/202608/43601.0.2443036348/fuenf-klar-getrennte.webp"
         },
         {
-          "title": "Nepal und Tibet: Nach Sturzflut: Hunderte Touristen vermisst",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/nepal-nach-ueberschwemmungen-hunderte-touristen-vermisst-accg-201160993.html",
-          "summary": "Nach schweren Überschwemmungen im Himalaja werden Hunderte Menschen vermisst, darunter wohl auch Deutsche. In Nepal kamen mindestens 95 Menschen ums Leben. Auch im benachbarten Tibet soll es viele Opfer geben.",
+          "title": "Sachsen-Anhalt: Wenn die KI wählen dürfte",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/sachsen-anhalt-wenn-die-ki-waehlen-duerfte-201140487.html",
+          "summary": "Wir haben 19 Sprachmodellen die Thesen des Wahl-O-Mats zur Wahl in Sachsen-Anhalt vorgelegt. Wie positionieren sie sich?",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/909171af09ce/w2884h1506x260y58o/202608/a75fdae0-9e68-4724-9dbf-5a2a0116ebec/f0ldtqsjuwy8.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Iran-Krise: Stimmen aus einem Land im Überlebensmodus",
-          "url": "https://www.spiegel.de/ausland/iran-krise-stimmen-aus-einem-land-im-ueberlebensmodus-a-44a6a57c-322a-403e-9e17-444762581de7#ref=rss",
-          "summary": "Eine Schülerin, die sich kaum einen Kugelschreiber leisten kann, ein Programmierer, für den drei Mahlzeiten am Tag Luxus sind, ein Anwalt ohne Mandanten: Iranerinnen und Iraner erzählen dem SPIEGEL von Alltag im Krieg.",
+          "title": "Nepal: Was die tödliche Sturzflut ausgelöst haben könnte",
+          "url": "https://www.spiegel.de/wissenschaft/mensch/nepal-was-die-toedliche-sturzflut-ausgeloest-haben-koennte-a-71c1cdec-d0a1-4f08-94ca-7b0ef4a1391a#ref=rss",
+          "summary": "Binnen Minuten reißen die Wassermassen alles in der Grenzregion zwischen China und Nepal mit sich. Der Kollaps eines Gletschers könnte die Ursache sein. Aber ein Forscher sagt: »Zu dieser Story gehört noch etwas anderes.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b0fd14fe-d33c-4621-817e-90a0f054e72d_w1200_r1.778_fpx49.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5ca97dc1-655b-4066-af78-8589751d02d6_w1200_r1.778_fpx33.75_fpy55.01.jpg"
         },
         {
-          "title": "Volkswagen: In Zwickau wächst die Angst vor der Werksschließung",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-zwickau-waechst-die-angst-vor-der-werksschliessung-a-6ec10595-15be-48ea-ba8e-4934544e0c6c#ref=rss",
-          "summary": "Das VW-Werk in Zwickau sollte eigentlich die elektrische Zukunft des Autokonzerns einläuten. Nun droht die Schließung. Beim Besuch des Vorstandschefs Blume zeigt sich, wie tief die Angst der Beschäftigten sitzt.",
+          "title": "Katastrophe in Nepal: Aufnahmen zeigen Wucht der tödlichen Sturzflut im Himalaya",
+          "url": "https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd#ref=rss",
+          "summary": "Ganze Dörfer wurden weggespült, Straßen, Brücken sowie Kraftwerke beschädigt. Viele Menschen sind tot. Hunderte Touristen werden noch vermisst, auch aus Deutschland.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d990149f-cc5d-4ca2-9cfb-4b128c975160_w1200_r1.778_fpx67.6_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2fa73acf-1152-4fc7-a6dc-f7f3e2956e16_w1080_r1.778_fpx45_fpy25.32.jpg"
         },
         {
-          "title": "News des Tages: Kabinettsklausur, Ungarns Haltung zu Russland, Streik gegen die AfD",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-kabinettsklausur-ungarns-haltung-zu-russland-streik-gegen-die-afd-a-94c7789f-85d0-46a6-a9bf-49e1ca6bcc13#ref=rss",
-          "summary": "Nach der Kabinettsklausur wirbt Bundeskanzler Merz für ein Ende der »Verdrießlichkeit«. Ungarn stuft Russland als Bedrohung ein. Und in Sachsen-Anhalt streiken Migranten gegen die AfD. Das ist die Lage am Mittwochabend.",
+          "title": "Christina Block: Angeklagte bezeichnet sich als »völlig überraschte Mutter« vor Gericht",
+          "url": "https://www.spiegel.de/panorama/christina-block-angeklagte-bezeichnet-sich-als-voellig-ueberraschte-mutter-vor-gericht-a-41b245d8-3212-4b15-80cd-6ebff427b205#ref=rss",
+          "summary": "Christina Block nutzt ihre letzte Chance, vor Gericht ihre Sicht der Dinge zu erklären. Sie widerspricht den Ermittlungen und Zeugenaussagen. Sie sei nur eine »völlig überraschte Mutter«. Ihre wichtigsten Aussagen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/03837ca2-8061-4bb0-97d6-6047831b415c_w1200_r1.778_fpx53.84_fpy49.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
+          "url": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
+          "summary": "Nach zwei Tagen Kabinettsklausur gibt sich Vizekanzler Klingbeil kämpferisch. In den tagesthemen appellierte der SPD-Chef auch an die Geschlossenheit der Koalition: Es gehe jetzt darum, das Land wieder stärker zu machen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/07ede1fc-e16f-42c5-880f-42932a7c3ec5/AAABoD8pQHc/AAABnSSvrFg/16x9-big/klingbeil-interview-100.jpg?width=1280"
+        },
+        {
+          "title": "Wirtschaftsvertreter fordern Tempo und konkretes Handeln nach Kabinettsklausur",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-106.html",
+          "summary": "Ob Joggen vor 7 Uhr oder große Reformpläne - die Kabinettsklausur in Schloss Neuhardenberg sollte Tatkraft ausstrahlen. Denn vor allem die Wirtschaft wird ungeduldig. Die Regierung muss schnell ins Handeln kommen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a095b96c-2e3e-4afc-b8a1-9d1eede738ea/AAABoD5eHNo/AAABnSSvrFg/16x9-big/linnemann-wadephul-100.jpg?width=1280"
+        },
+        {
           "title": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
           "url": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
           "summary": "Der britische Schauspieler und Musical-Star Tim Curry ist im Alter von 80 Jahren gestorben. Das bestätigte seine Managerin. Curry war vor allem für seine Darstellung in der \"Rocky Horror Picture Show\" bekannt.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e7118146-6aaa-452d-b2f6-01383f23089c/AAABoD7Pj0Y/AAABnSSvrFg/16x9-big/curry-158.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX bleibt auf hohem Niveau",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
-          "summary": "Vor neuen Bilanzzahlen des KI-Chipriesen Nvidia haben sich die Anleger heute vorsichtig bewegt. Der DAX legt trotzdem leicht zu und kratzt am Allzeithoch. Geholfen hat der weitere Rückgang der Ölpreise.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/11478f9f-f5e4-4ebf-b73b-b442495b2c01/AAABnWu-JDE/AAABnSSvrFg/16x9-big/boerse-502.jpg?width=1280"
-        },
-        {
-          "title": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
-          "summary": "Kurz vor der Wahl in Sachsen-Anhalt führt die AfD die Umfragen klar an. Parteienforscher Höhne sieht darin keinen ostdeutschen Sonderfall, benennt aber eine historische Spur und ein Szenario für den Fall der Regierungsübernahme. Frohmüller.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4fcbc06c-f34f-4570-8f14-770d07e2fd23/AAABoD7TrS4/AAABnSSvrFg/16x9-big/afd-1226.jpg?width=1280"
         }
       ]
     },
@@ -124,26 +124,26 @@
         {
           "title": "Nepal: Viele Tote nach Sturzflut – Hunderte Einheimische und Touristen vermisst",
           "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
-          "summary": "Mindestens 95 Menschen kamen ums Leben, viele weitere Opfer werden befürchtet. Das Unglück geschah in einer beliebten Touristenregion. Auch im benachbarten Tibet werden nach einer Schlammlawine Opfer gemeldet.",
+          "summary": "Mehr als 150 Menschen kamen ums Leben, viele weitere Opfer werden befürchtet. Das Unglück geschah in einer beliebten Touristenregion. War ein Gletscherseeausbruch Ursache der Katastrophe?",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/26/74c11b79-831e-4653-94db-b784a788164c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C622%2C3636%2C2045"
         },
         {
-          "title": "Tropenkrankheit: Behörde: Zwei Tote durch Malaria am Frankfurter Flughafen",
-          "url": "https://www.sueddeutsche.de/panorama/frankfurt-tote-malaria-flughafen-li.3537714",
-          "summary": "Mehrere Beschäftigte haben sich mit der Tropenkrankheit infiziert. Zwei von ihnen sind gestorben. Unklar ist noch, wie die Krankheit übertragen wurde – möglicherweise durch lebende Mücken aus einem Malariagebiet.",
+          "title": "Bundespolitik: Schulze zu Siegmund im TV-Duell: „Ich habe geliefert und nicht gelabert“",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-spd-gruene-schulze-siegmund-tv-duell-mdr-umfrage-li.3529564",
+          "summary": "Ministerpräsident Schulze von der CDU gibt sich kämpferisch. AfD-Spitzenkandidat Siegmund sieht seine Partei „Geschichte schreiben“. In einer neuen Umfrage legt die AfD weiter zu, die CDU verliert leicht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/10/22/44a3d4b6-99f4-4cfc-b1b1-a329be877711.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C421%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/26/995a4a49-226a-4d10-97ca-758282734318.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Podcast: „Auf den Punkt“: Rennradeln und Rentenpaket: So lief die Klausur der Bundesregierung",
-          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-kabinettsklausur-friedrich-merz-rentenpaket-li.3537336",
-          "summary": "Die Kabinettsklausur stand unter dem Motto „Gute Laune”. Aber war die Stimmung tatsächlich so gut?",
+          "title": "Literatur: Großmeister des Erzählens",
+          "url": "https://www.sueddeutsche.de/kultur/peter-nadas-schriftsteller-tot-ungarn-literatur-li.3537567",
+          "summary": "Kaum jemand hat Europas Erinnerungen, Brüche und Abgründe so genau vermessen wie er: Der ungarische Schriftsteller und Fotograf Péter Nádas ist im Alter von 83 Jahren gestorben. Ein Nachruf.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
+          "image": "https://www.sueddeutsche.de/2026/08/26/07b13084-5264-44f3-aa5c-03d3ab7e1fe7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C25%2C4000%2C2250"
         }
       ]
     }
