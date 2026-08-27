@@ -1,39 +1,47 @@
 {
-  "generated": "2026-08-27T18:00:08.679Z",
-  "timestamp": "27.8.2026, 20:00:08",
+  "generated": "2026-08-27T22:00:08.183Z",
+  "timestamp": "28.8.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Wahlen in Ostdeutschland: „Die AfD ist in einem regelrechten Siegesrausch“",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/wahlen-in-sachsen-anhalt-2026-soziologe-matthias-quent-ueber-den-weg-der-afd-an-die-macht-201156791.html",
-          "summary": "Die AfD könnte auch einen blauen Besen nominieren: Ein Gespräch mit dem Soziologen Matthias Quent über die Ohnmachtsgefühle der Wähler, ihre Zerstörungslust – und einen möglichen Weg von Magdeburg ins Kanzleramt.",
+          "title": "Demographischer Wandel: Das hässliche Gesicht des Sozialstaats",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-babys-und-mehr-arbeit-sollen-deutschland-retten-das-haessliche-gesicht-des-sozialstaats-201146269.html",
+          "summary": "Mehr Babys und mehr Arbeit sollen in der alternden Gesellschaft den Sozialstaat retten. Das ist so einfallslos wie illiberal.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fb2253f7b534/w6775h3539x256y135o/202608/43601.0.2465347451/auf-dem-weg-zu-einer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/1ad72a9d8a80/w3000h1567x0y264o/202601/43601.0.1636845155/eine-familie-rutscht-in-einem.webp"
         },
         {
-          "title": "AfD im Nordosten: „Rügen bleibt patriotisches Volksgebiet“",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-die-afd-spitzenkandidaten-treten-gemaessigt-auf-ihr-landesverband-ist-es-nicht-accg-201156788.html",
-          "summary": "Die beiden Spitzenkandidaten der AfD in Mecklenburg-Vorpommern treten freundlich auf, geben sich zurückhaltend und gemäßigt. Ihr Landesverband aber ist es nicht.",
+          "title": "Kanzler im RTL-Interview: „Das geht zu weit“: Merz liefert sich Schlagabtausch mit Kinderärztin",
+          "url": "https://www.faz.net/aktuell/politik/inland/friedrich-merz-streitet-bei-rtl-mit-kinderaerztin-das-ist-eine-persoenliche-herabsetzung-201166226.html",
+          "summary": "Die Bundesregierung und der Kanzler stecken im Stimmungstief. Friedrich Merz sieht aber erste positive Effekte — und wird dennoch aus dem Publikum hart angegangen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/956b2d2208ed/w5904h3084x0y291o/202608/43601.0.2460933262/freundlich-jeden.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5f2235ad2afd/w5440h2842x0y448o/202608/43601.0.2475964409/bundeskanzler-friedrich-merz.webp"
         },
         {
-          "title": "Schulze gegen Siegmund: Attacke, Attacke, Attacke – das ist jetzt die CDU-Strategie",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-schulze-attackiert-siegmund-im-tv-duell-accg-201162715.html",
-          "summary": "Im MDR-Duell geht Ministerpräsident Sven Schulze die AfD offensiv an. Deren Spitzenkandidat Ulrich Siegmund bleibt lieber grundsätzlich – und denkt längst über Sachsen-Anhalt hinaus.",
+          "title": "Debatte um Rentenreform: „Die Rente mit 63 subventioniert eine privilegierte Gruppe“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-warum-oekonom-joerg-rocholl-ihre-abschaffung-fordert-accg-201136793.html",
+          "summary": "Der Kampf um die Rente mit 63 wird zur Gerechtigkeitsfrage. Der Ökonom Jörg Rocholl hält die Abschaffung für dringend geboten.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/63d810a69a1e/w6144h3210x0y443o/202608/43601.0.2473009212/siegmund-links-und-schulze-am.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/855ab262ffcb/w6770h3537x472y1169o/202608/43601.0.2446433716/zeit-fuer-ein-tennis-match.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Sturzflut im Himalaya: Satellitenaufnahmen dokumentieren Schäden im Flutgebiet",
+          "url": "https://www.spiegel.de/wissenschaft/sturzflut-im-himalaya-satellitenaufnahmen-dokumentieren-schaeden-im-flutgebiet-a-558ad3f4-3d7d-4746-87ca-c3460e1d1e14#ref=rss",
+          "summary": "Wassermassen, die durch enge Bergtäler schießen: In der Grenzregion zwischen China und Nepal hat die Sturzflut zahlreiche Ortschaften entlang der Flussläufe schwer getroffen. Der grafische Überblick.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/1ac5e1c6-6a4e-4fef-90b0-19696c34725f_w1200_r1.778_fpx50_fpy50.jpg"
+        },
         {
           "title": "Kanada: Könnte das Land EU-Mitglied werden?",
           "url": "https://www.spiegel.de/politik/deutschland/kanada-koennte-das-land-eu-mitglied-werden-a-9a50679f-9062-444e-875c-5e6de60f9245#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/21bdd767-a786-4ee1-901d-6f9d9f7e8a6a_w1200_r1.778_fpx62.14_fpy50.jpg"
         },
         {
-          "title": "News des Tages: Flutkatastrophe in Nepal, BYD und Elektro-Autos, Donald Trump und die US-Bonds",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-flutkatastrophe-in-nepal-byd-und-elektro-autos-donald-trump-und-die-us-bonds-a-1b73b29e-3775-4669-a53d-c4a9a274e1ff#ref=rss",
-          "summary": "Nepals Behörden rätseln über die Ursache der Flutkatastrophe, während Rettungskräfte verzweifelt nach Überlebenden suchen. Und: Chinas Elektro-Offensive trifft auf deutsche Autokrise. Das ist die Lage am Donnerstagabend.",
+          "title": "US-Armee hat offenbar »mehr als kritischen« Mangel an Raketenabwehrsystemen",
+          "url": "https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen-a-8fbc2715-d715-4835-8101-940d1be8da58#ref=rss",
+          "summary": "Dem US-Militär in Europa gehen offenbar die Raketenabwehrsysteme aus. Das meldet die Nachrichtenagentur AP und beruft sich auf Insider. Die Folgen für die Nato-Staaten könnten verheerend sein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Nepal: SPIEGEL-Reporter berichtet aus dem Katastrophengebiet",
-          "url": "https://www.spiegel.de/ausland/nepal-spiegel-reporter-berichtet-aus-dem-katastrophengebiet-a-539408e8-4e27-42e5-bd92-0b1982d6c65b#ref=rss",
-          "summary": "Mehr als 350 Tote und 1300 Vermisste: Nach der verheerenden Sturzflut im Himalaja suchen Rettungsteams nach Überlebenden. SPIEGEL-Korrespondent Serafin Reiber ist in das Katastrophengebiet gereist. Seine Eindrücke im Video.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5885a360-466c-48e7-ac7a-aa0c3d02556a_w1080_r1.778_fpx46.95_fpy27.56.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/c7014735-9045-4d5f-af55-12d315e4f39d_w1200_r1.778_fpx37_fpy33.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Die AfD und ihre Streamer",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-streamer-landtagswahl-100.html",
-          "summary": "Livestreamer begleiten den Wahlkampf der AfD und provozieren mit ihrem Auftreten. Das sorgt für Aufmerksamkeit, aber auch für Konflikte - auch innerhalb der Partei. Von Gabor Halasz.",
+          "title": "Bündnis will Opfer rechtsextremer Angriffe unterstützen",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/buendnis-fuer-demokratie-100.html",
+          "summary": "Gewerkschaften, Kirchen, Sportverbände: Sie wollen Menschen, die von Rechtsextremisten angegriffen oder bedroht werden, praktisch unterstützen. Hilfe soll es etwa nach Anschlägen oder bei Drohungen gegen Ehrenamtliche geben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ec739930-c8f1-4ab9-844e-244513215b0d/AAABoD6WXL8/AAABnSSvrFg/16x9-big/aktivist-mann-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/03a6406f-98f4-47e7-aae1-37ea8078e0de/AAABleLhI6E/AAABnSSvrFg/16x9-big/schild-demo-102.jpg?width=1280"
         },
         {
-          "title": "Landtagswahl in Sachsen-Anhalt: Sven Schulzes Bewährungsprobe",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-landtagswahl-schulze-100.html",
-          "summary": "Kurz vor der Wahl in Sachsen-Anhalt führt die AfD die Umfragen klar an. CDU-Spitzenkandidat und Ministerpräsident Schulze versucht, dagegenzuhalten - vor allem mit seinem Image: bodenständig und nahbar. Von Lars Frohmüller.",
+          "title": "Nepal: \"Sehr großer Bergsturz\" - und obendrauf ein Gletscher",
+          "url": "https://www.tagesschau.de/ausland/asien/gletschersturz-nepal-100.html",
+          "summary": "Nach der Sturzflut in Nepal geht die Suche nach der Ursache weiter. Die Gletscherforscherin Jacquemart beschreibt, wie das Unglück abgelaufen sein könnte, und verdeutlicht, wie sehr die Menschen der Flut ausgeliefert waren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a0f86128-82a4-4854-94e4-fa9ab4142994/AAABoEQp1wQ/AAABnSSvrFg/16x9-big/sven-schulze-308.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1b59a858-341e-4a21-8b4b-1170f657431f/AAABoERcaf0/AAABnSSvrFg/16x9-big/nepal-schlammlawine-102.jpg?width=1280"
         },
         {
-          "title": "Offenbar russischer Offizier bei Explosion in St. Petersburg getötet",
-          "url": "https://www.tagesschau.de/ausland/europa/russland-autobombe-explosion-ukraine-friedensverhandlungen-100.html",
-          "summary": "Petersburg ist bei der Explosion eines Autos offenbar ein russischer Offizier getötet worden. Unterdessen setzten Russland und die Ukraine ihre Angriffe fort. Kiew stellt neue Friedensgespräche in Aussicht.",
+          "title": "Ende der \"Rente mit 63\": Merz für Übergangszeiten",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalitionsklausur-100.html",
+          "summary": "Die Regierung will die abschlagsfreie Rente nach 45 Beitragsjahren abschaffen - aber Kanzler Merz kann sich Übergangszeiten vorstellen. Die Fraktionschefs von Union und SPD erklären, Änderungen am Reformkonzept seien nicht ausgeschlossen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c5e29ace-0947-4281-990c-b1e23e557d45/AAABoEMYyYE/AAABnSSvrFg/16x9-big/autobombe-st-petersburg-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c26ab109-ede5-4f1e-88a9-a65eac313455/AAABoEQ_hPA/AAABnSSvrFg/16x9-big/merz-1510.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "TV-Kritik: Friedrich Merz wird beschimpft, er schimpft zurück – und am Ende war alles vergebens",
+          "url": "https://www.sueddeutsche.de/medien/merz-rtl-atalay-tv-kritik-li.3537934",
+          "summary": "Der Kanzler setzt sich an den Tisch mit Menschen, die ihm die Meinung geigen. Unter fast idealen Laborbedingungen lässt sich so testen, wann der Mann die Nerven verliert.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/27/d5f714d6-5ab8-4243-947d-9d72b5666bf3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C212%2C4000%2C2250"
+        },
+        {
+          "title": "Klimawandel: Nach dem Super-El-Niño der Mega-El-Niño?",
+          "url": "https://www.sueddeutsche.de/wissen/el-nino-pazifik-klimawandel-li.3535935",
+          "summary": "Der aktuelle El Niño sprengt alle Rekorde. Keineswegs: Das Klimaphänomen wird offenbar mit der Erderwärmung stärker. Die Konsequenzen wären beunruhigend.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/27/a2e59140-ed29-4ea2-a16a-cf2c3dc5c231.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C48%2C1200%2C675"
+        },
+        {
           "title": "Bundespolitik: Merz liefert sich TV-Schlagabtausch mit Kinderärztin: „Das geht zu weit“",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-rtl-kinderaerztin-kritik-amtseid-li.3529564",
           "summary": "Eine Ärztin aus Niedersachsen wirft dem Kanzler in einer RTL-Runde vor, den Amtseid zu brechen und menschenverachtende Gesetze zu erlassen. Merz sieht darin eine „persönliche Herabsetzung“.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/27/d5f714d6-5ab8-4243-947d-9d72b5666bf3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C240%2C4000%2C2250"
-        },
-        {
-          "title": "EU-Finanzen: Die Koalition der Unwilligen",
-          "url": "https://www.sueddeutsche.de/politik/eu-haushalt-merz-eu-staaten-ausgabenerhoehung-li.3537664",
-          "summary": "Die EU-Kommission möchte, dass der Haushalt auf den Rekordwert von zwei Billionen Euro anwächst. Der Bundeskanzler hält das für „unbezahlbar“ – und will mit verbündeten Nettozahlern ein Umsteuern erzwingen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/27/d5b2b783-9869-4c3c-ba94-af37269ba235.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=962%2C703%2C2053%2C1155"
-        },
-        {
-          "title": "„Schlächter vom Balkan“: Bosnisch-serbischer Kriegsverbrecher Ratko Mladić ist tot",
-          "url": "https://www.sueddeutsche.de/politik/ratko-mladic-tot-kriegsverbrecher-schlaechter-vom-balkan-li.3538152",
-          "summary": "Als Kommandeur ordnete er 1995 das Massaker an bis zu 8000 muslimisch-bosniakischen Männern und Jungen bei Srebrenica an. Er ging als „Schlächter vom Balkan“ in die Geschichtsschreibung ein.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/27/e9501aec-8d87-4a99-a47b-ec934a7bf894.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C55%2C4000%2C2250"
         }
       ]
     }
