@@ -1,13 +1,21 @@
 {
-  "generated": "2026-08-27T06:00:08.928Z",
-  "timestamp": "27.8.2026, 08:00:08",
+  "generated": "2026-08-27T10:00:08.033Z",
+  "timestamp": "27.8.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "AfD im Nordosten: Radikal hinter der bürgerlichen Fassade",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/afd-in-mv-gleich-zwei-gefaehrlichste-maenner-deutschlands-accg-201156788.html",
+          "summary": "Die beiden Spitzenkandidaten der AfD in Mecklenburg-Vorpommern treten freundlich auf, geben sich zurückhaltend und gemäßigt. Ihr Landesverband aber ist es nicht.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9e91c8207c55/w5904h3084x0y118o/202608/43601.0.2460933262/freundlich-jeden.webp"
+        },
+        {
           "title": "Schulze gegen Siegmund: Attacke, Attacke, Attacke – das ist jetzt die CDU-Strategie",
-          "url": "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-schulze-attackiert-siegmund-im-tv-duell-accg-201162715.html",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-schulze-attackiert-siegmund-im-tv-duell-accg-201162715.html",
           "summary": "Im MDR-Duell geht Ministerpräsident Sven Schulze die AfD offensiv an. Deren Spitzenkandidat Ulrich Siegmund bleibt lieber grundsätzlich – und denkt längst über Sachsen-Anhalt hinaus.",
           "source": "FAZ",
           "paywall": false,
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/909171af09ce/w2884h1506x260y58o/202608/a75fdae0-9e68-4724-9dbf-5a2a0116ebec/f0ldtqsjuwy8.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Umfrage: Mehrheit lehnt AfD-Forderungen in Sachsen-Anhalt ab",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-mehrheit-lehnt-afd-forderungen-in-sachsen-anhalt-ab-faz-110093143.html",
-          "summary": "Wenig Zustimmung vor allem bei Migration und Bildung +++ Kleine Parteien gewinnen in Sachsen-Anhalt in neuer Umfrage hinzu +++ Merz: Raus aus diesem Klima der Verdrießlichkeit +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/899f0f469d67/w5000h2612x0y361o/202608/43601.0.2451393680/wahlplakat-der-afd-fuer-die.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Neuer SPIEGEL-Politik-Podcast »MAD KINGS«: Und plötzlich hätte Putin Zugriff auf die deutsche Innenpolitik",
-          "url": "https://www.spiegel.de/politik/deutschland/neuer-spiegel-politik-podcast-mad-kings-und-ploetzlich-haette-putin-zugriff-auf-die-deutsche-innenpolitik-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss",
-          "summary": "Die AfD von Kandidat Ulrich Siegmund gilt als besonders russlandfreundlich. Sollte er Ministerpräsident werden, könnte Putin Zugang zu hochsensiblen Staatsinformationen bekommen. Erste Hinweise gibt es schon jetzt.",
+          "title": "BYD, Nio, Xpeng: Angriff chinesischer E-Autos trifft deutsche Hersteller im schwächsten Moment",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment-a-cafe9abb-4fd0-473a-91aa-6bb5da37f60a#ref=rss",
+          "summary": "Chinesische Konzerne fluten den Markt mit E-Autos, die gut und günstig sind. BYD eröffnet bald seine erste europäische Fabrik. Haben die deutschen Hersteller überhaupt noch eine Chance?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f87c4b6e-c7b2-4ff7-a380-66eca17b7918_w1200_r1.778_fpx51_fpy43.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/81604c7a-1dee-4217-86fd-328435c0bcdd_w1200_r1.778_fpx37_fpy49.jpg"
         },
         {
-          "title": "Sachsen-Anhalt: So haben sich Ulrich Siegmund und Sven Schulze im TV-Duell geschlagen",
+          "title": "Migration: Wie Giorgia Meloni zum Risiko für Europas Zusammenhalt wird",
+          "url": "https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird-a-d21eea97-94e7-4482-802a-f83d9d3380b1#ref=rss",
+          "summary": "Der Chef der Konservativen im EU-Parlament Manfred Weber wollte Giorgia Meloni einhegen. Doch auf die Italienerin ist kein Verlass.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/55ba60bc-3fa2-4a4d-bed9-b31c5d0b1ad2_w1200_r1.778_fpx33.34_fpy49.97.jpg"
+        },
+        {
+          "title": "Sachsen-Anhalt: Wie sich Ulrich Siegmund und Sven Schulze im TV-Duell geschlagen haben",
           "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-haben-sich-ulrich-siegmund-und-sven-schulze-im-tv-duell-geschlagen-a-39f12155-0d1a-4b60-bc4d-c4ae118e1477#ref=rss",
           "summary": "Bei Wahlkampfauftritten in Sachsen-Anhalt wirkt CDU-Ministerpräsident Sven Schulze oft blass, AfD-Gegner Ulrich Siegmund hingegen charmant. Beim TV-Duell tauschen beide überraschend die Rollen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/0a1f9a09-8a52-43f0-b21a-c5761d2db5e8_w1200_r1.778_fpx51_fpy33.jpg"
-        },
-        {
-          "title": "News: Mini-EU-Gipfel im Kanzleramt, schwarz-roter Schwur in Münster, neuer SPIEGEL-Politikpodcast",
-          "url": "https://www.spiegel.de/politik/deutschland/news-mini-eu-gipfel-im-kanzleramt-schwarz-roter-schwur-in-muenster-neuer-spiegel-politikpodcast-a-9f6d3e7a-8e73-4d6b-b172-89bb99dc123b#ref=rss",
-          "summary": "Der Kanzler empfängt die sparsamen fünf. Die schwarz-roten Fraktionsspitzen beschwören den Geist von Münster. Und: »Mad Kings« – der SPIEGEL hat einen neuen Politikpodcast. Das ist die Lage am Donnerstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kann Vergleich mit Meta als Vorlage für andere sozialen Medien dienen?",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-meta-vergleich-jugendschutz-100.html",
-          "summary": "Im Streit um mehr Jugendschutz hat der Meta-Konzern in den USA einem Vergleich zugestimmt. Doch die Umsetzung der Maßnahmen birgt Hürden. Und Meta fordert: Plattformen wie YouTube und TikTok müssen nachziehen. Von Reinhard Spiegelhauer.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/a8507c3b-ff32-4043-b4f6-11216c097b6f/AAABoEHFXI4/AAABnSSvrFg/16x9-big/media-facebook-instagram-whatsapp-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Nvidias Quartalsbilanz hebt die Stimmung",
+          "title": "Marktbericht: Anleger bleiben in Warteposition",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-102.html",
-          "summary": "Seit Wochenstart fieberten die Anleger der Bilanz des US-Chipkonzerns Nvidia entgegen - sie fiel besser aus als gedacht. Für leichte Missstimmmung sorgen aber US-Inflationsdaten. Trotzdem dürfte der DAX zulegen.",
+          "summary": "Die Bilanz des Chipkonzerns Nvidia fiel zwar stark aus, trotzdem bleibt der DAX schwunglos. Die Anleger warten bereits auf den nächsten Termin, der Hinweise auf die US-Geldpolitik geben könnte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9846c754-037c-44b5-a472-59ab3bebd565/AAABlLYN4vU/AAABnSSvrFg/16x9-big/boerse-386.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/12a1b5ae-bb98-41bb-99a8-8613dbc1fdfa/AAABn8algs0/AAABnSSvrFg/16x9-big/boerse-532.jpg?width=1280"
         },
         {
-          "title": "Nach dem Brexit: Briten sollen Schweden verlassen",
-          "url": "https://www.tagesschau.de/ausland/europa/briten-in-schweden-ausweisung-100.html",
-          "summary": "Schweden galt lange als offen für Zuwanderung. Doch seit einigen Jahren gilt eine andere Linie: Schweden will Migration deutlich stärker einschränken. Das trifft auch Briten, die eine Frist nach dem Brexit verpasst haben. Von Arne Bartram.",
+          "title": "Yayoi Kusama ist tot: Die Künstlerin der Punkte stirbt mit 97 Jahren",
+          "url": "https://www.tagesschau.de/ausland/asien/japan-kuenstlerin-kusama-tod-100.html",
+          "summary": "Punkte, Spiegel, leuchtende Farben: Yayoi Kusama schuf eine unverwechselbare Welt. Die Kunst half ihr, mit psychischen Krisen umzugehen. Spät wurde sie zum Weltstar. Nun ist sie mit 97 Jahren gestorben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/99908f21-0d7e-46e3-9e14-f193cc6226d5/AAABnvOmeWA/AAABnSSvrFg/16x9-big/schweden-daylife-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7ec31476-b4fa-4df4-94ba-2b8d9e3a7c24/AAABoEJFV_E/AAABnSSvrFg/16x9-big/kusama-120.jpg?width=1280"
+        },
+        {
+          "title": "Rechtsgutachten bewertet Möglichkeit zu bundesweitem Mietendeckel",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/mietendeckel-gutachten-100.html",
+          "summary": "Rot-Rot-Grün ist in Berlin vor einigen Jahren mit einem Mietendeckel gescheitert. Jetzt legt die Linke ein Rechtsgutachten für einen Neuanlauf vor. Für die Partei sind Mieten das zentrale Wahlkampfthema. Schwarz, M.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2ddd12da-10d9-49eb-a6dd-1a5243cbd028/AAABoEKPSKg/AAABnSSvrFg/16x9-big/miethaeuser-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Philosophen im Konzern: Der nächste Fachidiot hilft auch nicht",
+          "url": "https://www.telepolis.de/article/Philosophen-im-Konzern-Der-naechste-Fachidiot-hilft-auch-nicht-11427369.html",
+          "summary": "Die Wirtschaft entdeckt das Denken. Doch Philosophie allein heilt keinen Tunnelblick. Gefragt wäre etwas viel Schwierigeres: Bildung, die Fachgrenzen sprengt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/3/9/1/3/Master_Wissen-fb697de4df84a6e1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Longevity-Forschung: Warum die biologische Uhr bei jedem anders tickt",
+          "url": "https://www.telepolis.de/article/Longevity-Forschung-Warum-die-biologische-Uhr-bei-jedem-anders-tickt-11423193.html",
+          "summary": "Epigenetische Uhren bestimmen biologisches Alter. Bisher war unklar, warum sie so zuverlässig sind. Jenaer Forschern gelang nun ein Durchbruch.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/1/8/3/7/longecity-01-461a4e2c118ac4d7.gif"
+        },
+        {
           "title": "CIA-Chef in Moskau: Bereitet Russland einen Stresstest für die Nato vor?",
           "url": "https://www.telepolis.de/article/CIA-Chef-in-Moskau-Bereitet-Russland-einen-Stresstest-fuer-die-Nato-vor-11426727.html",
           "summary": "US-Geheimdienste sollen über Informationen zu russischen Plänen gegen das Bündnis verfügen. CIA-Direktor Ratcliffe flog mit einer C-17 nach Moskau.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/3/5/9/2/shutterstock_2620770983-48fd40b6f823d1ec.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Frankreich nach dem Hitzesommer: Wird Klimapolitik zum Aufstiegsversprechen?",
-          "url": "https://www.telepolis.de/article/Frankreich-nach-dem-Hitzesommer-Wird-Klimapolitik-zum-Aufstiegsversprechen-11426511.html",
-          "summary": "Raphaël Glucksmann definiert Ökologie neu – nicht als Verzicht, sondern als industrielle Revolution. Nach langer Hitze bekommt der Versuch politische Brisanz.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/3/4/8/4/Master_France-6ed2d6e5e5a62f84.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Zollstreit mit den USA: Kanada zielt auf Trumps Wählerregionen",
-          "url": "https://www.telepolis.de/article/Zollstreit-mit-den-USA-Kanada-zielt-auf-Trumps-Waehlerregionen-11426425.html",
-          "summary": "Kanada belegt 700 US-Produkte mit Gegenzöllen. Die Auswahl soll vor den US-Zwischenwahlen gezielt Druck auf Trumps Wählerregionen ausüben.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/3/4/4/0/Kanada_Fahne-119f169cb4a65599.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nepal und Tibet: Viele Tote, Hunderte Vermisste nach Sturzflut – weitere Helfer reisen an",
-          "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
-          "summary": "Mindestens 162 Menschen kamen ums Leben, viele weitere Opfer werden befürchtet. Das Unglück geschah in einer beliebten Touristenregion. War ein Gletscherseeausbruch Ursache der Katastrophe?",
+          "title": "Sturzflut in Nepal: Die Sturzflut kam ohne Warnung",
+          "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-vermisste-ursache-li.3537626",
+          "summary": "Nach der Katastrophe im Himalaja sucht man in Nepal immer noch nach mehr als tausend Vermissten. Und es stellt sich die Frage, wie sich die kleine Nation auf eine Zukunft mit größerer Sturzflut-Gefahr vorbereiten kann.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/26/74c11b79-831e-4653-94db-b784a788164c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C622%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/08/27/8acadeae-9985-4198-b096-ee454ab04df6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "TV-Debatte zur Wahl in Sachsen-Anhalt: „Die Menschen, mit denen Sie sich umgeben, sind sehr gefährliche Menschen“",
-          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-tv-duell-debatte-schulze-siegmund-li.3537268",
-          "summary": "Sven Schulze, der Ministerpräsident von Sachsen-Anhalt, geht angriffslustig in das Duell mit seinem AfD-Herausforderer Ulrich Siegmund. Dieser gerät vor allem bei einem Thema in die Defensive.",
+          "title": "Gesellschaft: Ein Care-Paket zur Rettung der Demokratie",
+          "url": "https://www.sueddeutsche.de/meinung/afd-care-pakete-demokratie-verbotsantrag-kolumne-von-heribert-prantl-li.3537331",
+          "summary": "Vor achtzig Jahren litt Deutschland an Hunger. 2026 leidet es an der AfD. Warum der Bundespräsident einen Verbotsantrag anmahnen und sich hinter dieses Hilfspaket für die Demokratie stellen muss.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/26/e920e477-058b-435b-bb76-46db3fc3e246.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C81%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/08/26/c38948ac-eec4-498b-b280-8d12b73bab91.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Bundespolitik: Schulze zu Siegmund im TV-Duell: „Ich habe geliefert und nicht gelabert“",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-cdu-spd-gruene-schulze-siegmund-tv-duell-mdr-umfrage-li.3529564",
-          "summary": "Ministerpräsident Schulze von der CDU gibt sich kämpferisch. AfD-Spitzenkandidat Siegmund sieht seine Partei „Geschichte schreiben“. In einer neuen Umfrage legt die AfD weiter zu, die CDU verliert leicht.",
+          "title": "Nepal und Tibet: Viele Tote, mehr als Tausend Vermisste nach Sturzflut – weitere Helfer reisen an",
+          "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-aktuell-karte-ueberflutung-tote-vermisste-li.3537492",
+          "summary": "Mindestens 270 Menschen kamen ums Leben, viele weitere Opfer werden befürchtet. Das Unglück geschah in einer beliebten Touristenregion. War ein Gletscherseeausbruch Ursache der Katastrophe?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/26/995a4a49-226a-4d10-97ca-758282734318.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/27/3a79c7ce-a20e-4013-8bf4-f9c64b916bb8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C316%2C4000%2C2250"
         }
       ]
     }
