@@ -1,17 +1,25 @@
 {
-  "generated": "2026-08-27T10:00:08.033Z",
-  "timestamp": "27.8.2026, 12:00:08",
+  "generated": "2026-08-27T14:00:08.569Z",
+  "timestamp": "27.8.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "AfD im Nordosten: Radikal hinter der bürgerlichen Fassade",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/afd-in-mv-gleich-zwei-gefaehrlichste-maenner-deutschlands-accg-201156788.html",
+          "title": "Lake America Statt Ontario?: Trumps liebste Drohung: Ein neuer Name",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/lake-america-warum-trump-so-gerne-damit-droht-orte-umzubenennen-accg-201162609.html",
+          "summary": "Im Zollstreit mit Kanada droht der US-Präsident damit, den Lake Ontario umzubenennen. Was klingt wie ein Witz, zeigt: Trump weiß um die Macht von Namen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cb52605a9c61/w3000h1567x0y291o/202608/43601.0.2469669469/menschen-blicken-vom-hafen-von.webp"
+        },
+        {
+          "title": "AfD im Nordosten: „Rügen bleibt patriotisches Volksgebiet“",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-die-afd-spitzenkandidaten-treten-gemaessigt-auf-ihr-landesverband-ist-es-nicht-accg-201156788.html",
           "summary": "Die beiden Spitzenkandidaten der AfD in Mecklenburg-Vorpommern treten freundlich auf, geben sich zurückhaltend und gemäßigt. Ihr Landesverband aber ist es nicht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9e91c8207c55/w5904h3084x0y118o/202608/43601.0.2460933262/freundlich-jeden.webp"
+          "image": "https://media0.faz.net/image/w1200h627/956b2d2208ed/w5904h3084x0y291o/202608/43601.0.2460933262/freundlich-jeden.webp"
         },
         {
           "title": "Schulze gegen Siegmund: Attacke, Attacke, Attacke – das ist jetzt die CDU-Strategie",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/63d810a69a1e/w6144h3210x0y443o/202608/43601.0.2473009212/siegmund-und-schulze-am.webp"
-        },
-        {
-          "title": "Sachsen-Anhalt: Wenn die KI wählen dürfte",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/sachsen-anhalt-wenn-die-ki-waehlen-duerfte-201140487.html",
-          "summary": "Wir haben 19 Sprachmodellen die Thesen des Wahl-O-Mats zur Wahl in Sachsen-Anhalt vorgelegt. Wie positionieren sie sich?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/909171af09ce/w2884h1506x260y58o/202608/a75fdae0-9e68-4724-9dbf-5a2a0116ebec/f0ldtqsjuwy8.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Aufrüstung: Deutschland im Rüstungsrausch – wird das Geld sinnvoll genutzt?",
+          "url": "https://www.spiegel.de/politik/deutschland/aufruestung-deutschland-im-ruestungsrausch-wird-das-geld-sinnvoll-genutzt-a-e71ac0d9-d0e8-4776-ae6c-08fba3c5452f#ref=rss",
+          "summary": "Mit Abermilliarden will Deutschland die Bundeswehr zur stärksten Armee Europas machen. Doch selbst in der Koalition bezweifeln einige, dass Verteidigungsminister Boris Pistorius das Geld sinnvoll ausgibt.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/1eab6258-a9e2-423f-8197-fadc5b5b1a7b_w1200_r1.778_fpx61_fpy53.jpg"
+        },
+        {
+          "title": "Ratko Mladić ist tot: Bosnisch-serbischer Ex-General, verurteilt wegen Kriegsverbrechen, ist gestorben",
+          "url": "https://www.spiegel.de/ausland/ratko-mladic-ist-tot-bosnisch-serbischer-ex-general-verurteilt-wegen-kriegsbrechen-ist-gestorben-a-ec60573c-9c25-4228-958c-540796ed04a6#ref=rss",
+          "summary": "Wegen der Belagerung von Sarajevo und des Vöklermords von Srebrenica 1995 wurde Ratko Mladić zu lebenslanger Haft verurteilt. Jetzt ist der bosnisch-serbische Ex-General gestorben.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f930d2c7-0001-0004-0000-000000221493_w1200_r1.778_fpx53.75_fpy52.92.jpg"
+        },
+        {
           "title": "BYD, Nio, Xpeng: Angriff chinesischer E-Autos trifft deutsche Hersteller im schwächsten Moment",
           "url": "https://www.spiegel.de/wirtschaft/unternehmen/byd-nio-xpeng-angriff-chinesischer-e-autos-trifft-deutsche-hersteller-im-schwaechsten-moment-a-cafe9abb-4fd0-473a-91aa-6bb5da37f60a#ref=rss",
           "summary": "Chinesische Konzerne fluten den Markt mit E-Autos, die gut und günstig sind. BYD eröffnet bald seine erste europäische Fabrik. Haben die deutschen Hersteller überhaupt noch eine Chance?",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/81604c7a-1dee-4217-86fd-328435c0bcdd_w1200_r1.778_fpx37_fpy49.jpg"
-        },
-        {
-          "title": "Migration: Wie Giorgia Meloni zum Risiko für Europas Zusammenhalt wird",
-          "url": "https://www.spiegel.de/politik/deutschland/migration-wie-giorgia-meloni-zum-risiko-fuer-europas-zusammenhalt-wird-a-d21eea97-94e7-4482-802a-f83d9d3380b1#ref=rss",
-          "summary": "Der Chef der Konservativen im EU-Parlament Manfred Weber wollte Giorgia Meloni einhegen. Doch auf die Italienerin ist kein Verlass.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/55ba60bc-3fa2-4a4d-bed9-b31c5d0b1ad2_w1200_r1.778_fpx33.34_fpy49.97.jpg"
-        },
-        {
-          "title": "Sachsen-Anhalt: Wie sich Ulrich Siegmund und Sven Schulze im TV-Duell geschlagen haben",
-          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-haben-sich-ulrich-siegmund-und-sven-schulze-im-tv-duell-geschlagen-a-39f12155-0d1a-4b60-bc4d-c4ae118e1477#ref=rss",
-          "summary": "Bei Wahlkampfauftritten in Sachsen-Anhalt wirkt CDU-Ministerpräsident Sven Schulze oft blass, AfD-Gegner Ulrich Siegmund hingegen charmant. Beim TV-Duell tauschen beide überraschend die Rollen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0a1f9a09-8a52-43f0-b21a-c5761d2db5e8_w1200_r1.778_fpx51_fpy33.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Anleger bleiben in Warteposition",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-102.html",
-          "summary": "Die Bilanz des Chipkonzerns Nvidia fiel zwar stark aus, trotzdem bleibt der DAX schwunglos. Die Anleger warten bereits auf den nächsten Termin, der Hinweise auf die US-Geldpolitik geben könnte.",
+          "title": "Geberländer fordern massive Kürzungen beim EU-Budget",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-budget-erklaerung-100.html",
+          "summary": "Nach Beratungen über das EU-Budget fordert Deutschland gemeinsam mit fünf anderen EU-Ländern Kürzungen in Milliardenhöhe. Die bisherigen Pläne der EU-Kommission seien \"schlicht unbezahlbar\", erklärte Kanzler Merz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/12a1b5ae-bb98-41bb-99a8-8613dbc1fdfa/AAABn8algs0/AAABnSSvrFg/16x9-big/boerse-532.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/81e0f3d1-6eac-4bb1-b244-71fc9381e528/AAABoEM60EA/AAABnSSvrFg/16x9-big/stocker-frederiksen-merz-orpo-100.jpg?width=1280"
         },
         {
-          "title": "Yayoi Kusama ist tot: Die Künstlerin der Punkte stirbt mit 97 Jahren",
-          "url": "https://www.tagesschau.de/ausland/asien/japan-kuenstlerin-kusama-tod-100.html",
-          "summary": "Punkte, Spiegel, leuchtende Farben: Yayoi Kusama schuf eine unverwechselbare Welt. Die Kunst half ihr, mit psychischen Krisen umzugehen. Spät wurde sie zum Weltstar. Nun ist sie mit 97 Jahren gestorben.",
+          "title": "Bosnisch-serbischer Kriegsverbrecher Ratko Mladic ist tot",
+          "url": "https://www.tagesschau.de/ausland/europa/mladic-tod-100.html",
+          "summary": "Der frühere bosnisch-serbische Armeechef Ratko Mladic ist gestorben. Der wegen Kriegsverbrechen verurteilte Mladic starb Medienberichten zufolge in einem Gefängnis der UN in Den Haag.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7ec31476-b4fa-4df4-94ba-2b8d9e3a7c24/AAABoEJFV_E/AAABnSSvrFg/16x9-big/kusama-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b62a9426-b598-4dbe-b3a8-0d77379e75a2/AAABoENNHrE/AAABnSSvrFg/16x9-big/mladic-138.jpg?width=1280"
         },
         {
-          "title": "Rechtsgutachten bewertet Möglichkeit zu bundesweitem Mietendeckel",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/mietendeckel-gutachten-100.html",
-          "summary": "Rot-Rot-Grün ist in Berlin vor einigen Jahren mit einem Mietendeckel gescheitert. Jetzt legt die Linke ein Rechtsgutachten für einen Neuanlauf vor. Für die Partei sind Mieten das zentrale Wahlkampfthema. Schwarz, M.",
+          "title": "Ein Jahr Nationaler Sicherheitsrat: Ein Projekt, das zu versanden droht",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/nationaler-sicherheitsrat-110.html",
+          "summary": "Vor einem Jahr hat die Bundesregierung den Nationalen Sicherheitsrat eingeführt. Er sollte dabei helfen, schneller und effektiver auf Krisen reagieren zu können. Doch die erste Bilanz fällt ernüchternd aus. Von Christina Nagel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2ddd12da-10d9-49eb-a6dd-1a5243cbd028/AAABoEKPSKg/AAABnSSvrFg/16x9-big/miethaeuser-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/13720e5b-c07e-41e1-b111-36ae0a0daad5/AAABnZuI9LY/AAABnSSvrFg/16x9-big/bundeskanzleramt-196.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Philosophen im Konzern: Der nächste Fachidiot hilft auch nicht",
-          "url": "https://www.telepolis.de/article/Philosophen-im-Konzern-Der-naechste-Fachidiot-hilft-auch-nicht-11427369.html",
-          "summary": "Die Wirtschaft entdeckt das Denken. Doch Philosophie allein heilt keinen Tunnelblick. Gefragt wäre etwas viel Schwierigeres: Bildung, die Fachgrenzen sprengt.",
+          "title": "Kreml droht mit Angriffen auf britische Militärziele außerhalb der Ukraine",
+          "url": "https://www.telepolis.de/article/Kreml-droht-mit-Angriffen-auf-britische-Militaerziele-ausserhalb-der-Ukraine-11431986.html",
+          "summary": "Russland warnt London vor \"katastrophalen Folgen\" wegen Storm-Shadow-Einsätzen. Parallel trifft ein massiver Raketenangriff ukrainische Infrastruktur.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/3/9/1/3/Master_Wissen-fb697de4df84a6e1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/4/3/3/2/shutterstock_2762028501-449184b58ec8dccc.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Longevity-Forschung: Warum die biologische Uhr bei jedem anders tickt",
-          "url": "https://www.telepolis.de/article/Longevity-Forschung-Warum-die-biologische-Uhr-bei-jedem-anders-tickt-11423193.html",
-          "summary": "Epigenetische Uhren bestimmen biologisches Alter. Bisher war unklar, warum sie so zuverlässig sind. Jenaer Forschern gelang nun ein Durchbruch.",
+          "title": "Neuhardenberg: Merz beschwört Aufschwung, während Jobs schwinden",
+          "url": "https://www.telepolis.de/article/Neuhardenberg-Merz-beschwoert-Aufschwung-waehrend-Jobs-schwinden-11431796.html",
+          "summary": "Joggen im Morgengrauen, Drohnen-Show, Zuversicht: Merz inszeniert Neuhardenberg als Neustart. Draußen warten Stellenabbau und AfD-Aufstieg.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/1/8/3/7/longecity-01-461a4e2c118ac4d7.gif"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/4/2/3/7/2026-08-25-neuhardenberg1-data-3205237e2bfa9c6d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "CIA-Chef in Moskau: Bereitet Russland einen Stresstest für die Nato vor?",
-          "url": "https://www.telepolis.de/article/CIA-Chef-in-Moskau-Bereitet-Russland-einen-Stresstest-fuer-die-Nato-vor-11426727.html",
-          "summary": "US-Geheimdienste sollen über Informationen zu russischen Plänen gegen das Bündnis verfügen. CIA-Direktor Ratcliffe flog mit einer C-17 nach Moskau.",
+          "title": "Meta zahlt Milliarden: Wird das Internet für Jugendliche jetzt neu gebaut?",
+          "url": "https://www.telepolis.de/article/Meta-zahlt-Milliarden-Wird-das-Internet-fuer-Jugendliche-jetzt-neu-gebaut-11431770.html",
+          "summary": "Meta akzeptiert Milliardenzahlungen und harte Regeln für jugendliche Nutzer. Doch der Jugendschutz hat ein Ablaufdatum. Europa geht einen anderen Weg.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/3/5/9/2/shutterstock_2620770983-48fd40b6f823d1ec.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/4/2/2/4/Master_social_media-f4b31c22cf2a4017.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Sturzflut in Nepal: Die Sturzflut kam ohne Warnung",
-          "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-vermisste-ursache-li.3537626",
-          "summary": "Nach der Katastrophe im Himalaja sucht man in Nepal immer noch nach mehr als tausend Vermissten. Und es stellt sich die Frage, wie sich die kleine Nation auf eine Zukunft mit größerer Sturzflut-Gefahr vorbereiten kann.",
+          "title": "„Schlächter vom Balkan“: Medien: Bosnisch-serbischer Kriegsverbrecher Ratko Mladić ist tot",
+          "url": "https://www.sueddeutsche.de/politik/ratko-mladic-tot-kriegsverbrecher-schlaechter-vom-balkan-li.3538152",
+          "summary": "Als Kommandeur ordnete er 1995 das Massaker an bis zu 8000 muslimisch-bosniakischen Männern und Jungen bei Srebrenica an. Er ging als „Schlächter vom Balkan“ in die Geschichtsschreibung ein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/27/8acadeae-9985-4198-b096-ee454ab04df6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/27/e9501aec-8d87-4a99-a47b-ec934a7bf894.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C55%2C4000%2C2250"
         },
         {
-          "title": "Gesellschaft: Ein Care-Paket zur Rettung der Demokratie",
-          "url": "https://www.sueddeutsche.de/meinung/afd-care-pakete-demokratie-verbotsantrag-kolumne-von-heribert-prantl-li.3537331",
-          "summary": "Vor achtzig Jahren litt Deutschland an Hunger. 2026 leidet es an der AfD. Warum der Bundespräsident einen Verbotsantrag anmahnen und sich hinter dieses Hilfspaket für die Demokratie stellen muss.",
+          "title": "Hilfe nach der Sturzflut in Nepal: „Es ist sicher die größte Katastrophe, die das Land seit Langem erlebt hat“",
+          "url": "https://www.sueddeutsche.de/muenchen/nepal-katastrophe-hilfe-muenchen-verein-li.3537946",
+          "summary": "Die Münchnerin Roswitha Schroeter engagiert sich seit 20 Jahren mit ihrem Verein „Carisimo“ für Nepal und hat dort auch ein Kinderdorf aufgebaut. Was sie nach der Sturzflut aus der Region hört – und was die Menschen dort nun dringend brauchen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/26/c38948ac-eec4-498b-b280-8d12b73bab91.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/27/fd13e2c7-4415-4101-9144-867ff4452a73.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=182%2C138%2C3636%2C2045"
         },
         {
-          "title": "Nepal und Tibet: Viele Tote, mehr als Tausend Vermisste nach Sturzflut – weitere Helfer reisen an",
-          "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-aktuell-karte-ueberflutung-tote-vermisste-li.3537492",
-          "summary": "Mindestens 270 Menschen kamen ums Leben, viele weitere Opfer werden befürchtet. Das Unglück geschah in einer beliebten Touristenregion. War ein Gletscherseeausbruch Ursache der Katastrophe?",
+          "title": "„Sputnik V“: Söders russische Impfstoff-Pleite",
+          "url": "https://www.sueddeutsche.de/bayern/illertissen-sputnik-v-corona-impfstoff-soeder-pleite-li.3537868",
+          "summary": "Der bayerische Ministerpräsident wollte 2021 unbedingt den russischen Corona-Impfstoff „Sputnik V“ haben, hergestellt am Standort Illertissen. Nun ist das Unternehmen dort pleite.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/27/3a79c7ce-a20e-4013-8bf4-f9c64b916bb8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C316%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2022/06/08/301315c8-f73f-4707-a0d7-10e111c8049b.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C26%2C1350%2C759"
         }
       ]
     }
