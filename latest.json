@@ -1,25 +1,17 @@
 {
-  "generated": "2026-08-27T02:00:07.499Z",
-  "timestamp": "27.8.2026, 04:00:07",
+  "generated": "2026-08-27T06:00:08.928Z",
+  "timestamp": "27.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "KI-Boom: Nvidia verdoppelt den Umsatz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-verdoppelt-umsatz-201162085.html",
-          "summary": "Der amerikanische Chipkonzern legt abermals Rekordergebnisse vor. Damit wird er die Börse bewegen – und seinen Ruf als Hausbank der KI untermauern.",
+          "title": "Schulze gegen Siegmund: Attacke, Attacke, Attacke – das ist jetzt die CDU-Strategie",
+          "url": "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-schulze-attackiert-siegmund-im-tv-duell-accg-201162715.html",
+          "summary": "Im MDR-Duell geht Ministerpräsident Sven Schulze die AfD offensiv an. Deren Spitzenkandidat Ulrich Siegmund bleibt lieber grundsätzlich – und denkt längst über Sachsen-Anhalt hinaus.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4fb53aed7bf0/w6400h3344x0y357o/202607/43601.0.2341454711/kann-sich-ueber-sehr-gute.webp"
-        },
-        {
-          "title": "KI-Nutzung leicht gemacht: Der Masterprompt für perfekte Texte",
-          "url": "https://www.faz.net/premium/digitalwirtschaft/ki-akademie/ki-richtig-nutzen-dieser-masterprompt-liefert-perfekte-texte-accg-201132873.html",
-          "summary": "Wer einen Text von einer KI überarbeiten lässt, bekommt selten das, was er braucht. Fünf getrennte Aufträge in der richtigen Reihenfolge machen jeden Text besser – vom Vorstandsmemo bis zur Bachelorarbeit.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/2593e502dd90/w7680h4012x512y154o/202608/43601.0.2443036348/fuenf-klar-getrennte.webp"
+          "image": "https://media0.faz.net/image/w1200h627/63d810a69a1e/w6144h3210x0y443o/202608/43601.0.2473009212/siegmund-und-schulze-am.webp"
         },
         {
           "title": "Sachsen-Anhalt: Wenn die KI wählen dürfte",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/909171af09ce/w2884h1506x260y58o/202608/a75fdae0-9e68-4724-9dbf-5a2a0116ebec/f0ldtqsjuwy8.webp"
+        },
+        {
+          "title": "Deutschland-Liveblog: Umfrage: Mehrheit lehnt AfD-Forderungen in Sachsen-Anhalt ab",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-mehrheit-lehnt-afd-forderungen-in-sachsen-anhalt-ab-faz-110093143.html",
+          "summary": "Wenig Zustimmung vor allem bei Migration und Bildung +++ Kleine Parteien gewinnen in Sachsen-Anhalt in neuer Umfrage hinzu +++ Merz: Raus aus diesem Klima der Verdrießlichkeit +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/899f0f469d67/w5000h2612x0y361o/202608/43601.0.2451393680/wahlplakat-der-afd-fuer-die.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Neuer SPIEGEL-Politik-Podcast »MAD KINGS«: Und plötzlich hätte Putin Zugriff auf die deutsche Innenpolitik",
+          "url": "https://www.spiegel.de/politik/deutschland/neuer-spiegel-politik-podcast-mad-kings-und-ploetzlich-haette-putin-zugriff-auf-die-deutsche-innenpolitik-a-e4bf7b2c-9ea6-4aab-8a21-a4395595e244#ref=rss",
+          "summary": "Die AfD von Kandidat Ulrich Siegmund gilt als besonders russlandfreundlich. Sollte er Ministerpräsident werden, könnte Putin Zugang zu hochsensiblen Staatsinformationen bekommen. Erste Hinweise gibt es schon jetzt.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f87c4b6e-c7b2-4ff7-a380-66eca17b7918_w1200_r1.778_fpx51_fpy43.jpg"
+        },
+        {
           "title": "Sachsen-Anhalt: So haben sich Ulrich Siegmund und Sven Schulze im TV-Duell geschlagen",
           "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-haben-sich-ulrich-siegmund-und-sven-schulze-im-tv-duell-geschlagen-a-39f12155-0d1a-4b60-bc4d-c4ae118e1477#ref=rss",
-          "summary": "Auf den Marktplätzen in Sachsen-Anhalt wirkt CDU-Ministerpräsident Sven Schulze oft blass, AfD-Gegner Ulrich Siegmund hingegen charmant. Beim TV-Duell tauschen beide überraschend die Rollen.",
+          "summary": "Bei Wahlkampfauftritten in Sachsen-Anhalt wirkt CDU-Ministerpräsident Sven Schulze oft blass, AfD-Gegner Ulrich Siegmund hingegen charmant. Beim TV-Duell tauschen beide überraschend die Rollen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/0a1f9a09-8a52-43f0-b21a-c5761d2db5e8_w1200_r1.778_fpx51_fpy33.jpg"
         },
         {
-          "title": "Nepal: Was die tödliche Sturzflut ausgelöst haben könnte",
-          "url": "https://www.spiegel.de/wissenschaft/mensch/nepal-was-die-toedliche-sturzflut-ausgeloest-haben-koennte-a-71c1cdec-d0a1-4f08-94ca-7b0ef4a1391a#ref=rss",
-          "summary": "Binnen Minuten reißen die Wassermassen alles in der Grenzregion zwischen China und Nepal mit sich. Der Kollaps eines Gletschers könnte die Ursache sein. Aber ein Forscher sagt: »Zu dieser Story gehört noch etwas anderes.",
+          "title": "News: Mini-EU-Gipfel im Kanzleramt, schwarz-roter Schwur in Münster, neuer SPIEGEL-Politikpodcast",
+          "url": "https://www.spiegel.de/politik/deutschland/news-mini-eu-gipfel-im-kanzleramt-schwarz-roter-schwur-in-muenster-neuer-spiegel-politikpodcast-a-9f6d3e7a-8e73-4d6b-b172-89bb99dc123b#ref=rss",
+          "summary": "Der Kanzler empfängt die sparsamen fünf. Die schwarz-roten Fraktionsspitzen beschwören den Geist von Münster. Und: »Mad Kings« – der SPIEGEL hat einen neuen Politikpodcast. Das ist die Lage am Donnerstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5ca97dc1-655b-4066-af78-8589751d02d6_w1200_r1.778_fpx33.75_fpy55.01.jpg"
-        },
-        {
-          "title": "Katastrophe in Nepal: Aufnahmen zeigen Wucht der tödlichen Sturzflut im Himalaya",
-          "url": "https://www.spiegel.de/ausland/katastrophe-in-nepal-aufnahmen-zeigen-wucht-der-toedlichen-sturzflut-im-himalaya-a-415d0bde-7d43-4c36-acc9-d4b7b60110bd#ref=rss",
-          "summary": "Ganze Dörfer wurden weggespült, Straßen, Brücken sowie Kraftwerke beschädigt. Viele Menschen sind tot. Hunderte Touristen werden noch vermisst, auch aus Deutschland.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2fa73acf-1152-4fc7-a6dc-f7f3e2956e16_w1080_r1.778_fpx45_fpy25.32.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wie Waldbrände künftig mit weniger Wasser bekämpft werden können",
-          "url": "https://www.tagesschau.de/wissen/waldbrand-ohne-wasser-loeschen-100.html",
-          "summary": "Bei Dürre und Hitze kann Löschwasser knapp werden. Fachleute fordern für die Waldbrandbekämpfung deshalb neue wassersparende Methoden, bessere Ausrüstung und schnellere Unterstützung aus der Luft. Von Frank Bäumer.",
+          "title": "Kann Vergleich mit Meta als Vorlage für andere sozialen Medien dienen?",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-meta-vergleich-jugendschutz-100.html",
+          "summary": "Im Streit um mehr Jugendschutz hat der Meta-Konzern in den USA einem Vergleich zugestimmt. Doch die Umsetzung der Maßnahmen birgt Hürden. Und Meta fordert: Plattformen wie YouTube und TikTok müssen nachziehen. Von Reinhard Spiegelhauer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/173a4e2e-03a3-4d56-aaaa-48ac2490e2f3/AAABoD62iJ0/AAABnSSvrFg/16x9-big/waldbrand-734.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a8507c3b-ff32-4043-b4f6-11216c097b6f/AAABoEHFXI4/AAABnSSvrFg/16x9-big/media-facebook-instagram-whatsapp-100.jpg?width=1280"
         },
         {
-          "title": "Was über die Flutwelle in Nepal bekannt ist",
-          "url": "https://www.tagesschau.de/ausland/asien/nepal-flut-102.html",
-          "summary": "Eine riesige Flutwelle hat in Nepal und China mehr als 150 Menschen getötet. Wie kam es zu der Katastrophe? Wie viele Menschen werden noch vermisst? Warum waren so viele Touristen in der Region?",
+          "title": "Marktbericht: Nvidias Quartalsbilanz hebt die Stimmung",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-102.html",
+          "summary": "Seit Wochenstart fieberten die Anleger der Bilanz des US-Chipkonzerns Nvidia entgegen - sie fiel besser aus als gedacht. Für leichte Missstimmmung sorgen aber US-Inflationsdaten. Trotzdem dürfte der DAX zulegen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/de86057e-f877-45ec-b96a-b939f4d1506c/AAABoEC6Kao/AAABnSSvrFg/16x9-big/nepal-flut-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9846c754-037c-44b5-a472-59ab3bebd565/AAABlLYN4vU/AAABnSSvrFg/16x9-big/boerse-386.jpg?width=1280"
         },
         {
-          "title": "Wie sich Uruguay auf einen \"Super-El-Niño\" vorbereitet",
-          "url": "https://www.tagesschau.de/ausland/amerika/uruguay-el-nino-ueberschwemmungen-100.html",
-          "summary": "Das Wetterphänomen El Niño könnte in diesem Jahr besonders extreme Folgen haben. In Uruguay bereiten sich die Menschen auf starke Regenfälle vor. Dafür verändern sie die Hauptstadt und forschen an wasserdurchlässigem Straßenbelag. Von Xenia Böttcher.",
+          "title": "Nach dem Brexit: Briten sollen Schweden verlassen",
+          "url": "https://www.tagesschau.de/ausland/europa/briten-in-schweden-ausweisung-100.html",
+          "summary": "Schweden galt lange als offen für Zuwanderung. Doch seit einigen Jahren gilt eine andere Linie: Schweden will Migration deutlich stärker einschränken. Das trifft auch Briten, die eine Frist nach dem Brexit verpasst haben. Von Arne Bartram.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1cf95f60-5532-4d0b-93c3-5b971ce80ead/AAABoEBPQog/AAABnSSvrFg/16x9-big/montevideo-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/99908f21-0d7e-46e3-9e14-f193cc6226d5/AAABnvOmeWA/AAABnSSvrFg/16x9-big/schweden-daylife-101.jpg?width=1280"
         }
       ]
     },
@@ -122,20 +122,20 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "TV-Debatte: „Die Menschen, mit denen Sie sich umgeben, sind sehr gefährliche Menschen“",
+          "title": "Nepal und Tibet: Viele Tote, Hunderte Vermisste nach Sturzflut – weitere Helfer reisen an",
+          "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
+          "summary": "Mindestens 162 Menschen kamen ums Leben, viele weitere Opfer werden befürchtet. Das Unglück geschah in einer beliebten Touristenregion. War ein Gletscherseeausbruch Ursache der Katastrophe?",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/26/74c11b79-831e-4653-94db-b784a788164c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C622%2C3636%2C2045"
+        },
+        {
+          "title": "TV-Debatte zur Wahl in Sachsen-Anhalt: „Die Menschen, mit denen Sie sich umgeben, sind sehr gefährliche Menschen“",
           "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-tv-duell-debatte-schulze-siegmund-li.3537268",
           "summary": "Sven Schulze, der Ministerpräsident von Sachsen-Anhalt, geht angriffslustig in das Duell mit seinem AfD-Herausforderer Ulrich Siegmund. Dieser gerät vor allem bei einem Thema in die Defensive.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/26/e920e477-058b-435b-bb76-46db3fc3e246.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
-        },
-        {
-          "title": "Nepal: Viele Tote nach Sturzflut – Hunderte Einheimische und Touristen vermisst",
-          "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
-          "summary": "Mehr als 150 Menschen kamen ums Leben, viele weitere Opfer werden befürchtet. Das Unglück geschah in einer beliebten Touristenregion. War ein Gletscherseeausbruch Ursache der Katastrophe?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/26/74c11b79-831e-4653-94db-b784a788164c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C622%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/08/26/e920e477-058b-435b-bb76-46db3fc3e246.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C81%2C2048%2C1152"
         },
         {
           "title": "Bundespolitik: Schulze zu Siegmund im TV-Duell: „Ich habe geliefert und nicht gelabert“",
