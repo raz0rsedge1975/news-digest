@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T22:00:08.382Z",
-  "timestamp": "27.8.2026, 00:00:08",
+  "generated": "2026-08-27T02:00:07.499Z",
+  "timestamp": "27.8.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Sachsen-Anhalt: So haben sich Ulrich Siegmund und Sven Schulze im TV-Duell geschlagen",
+          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-so-haben-sich-ulrich-siegmund-und-sven-schulze-im-tv-duell-geschlagen-a-39f12155-0d1a-4b60-bc4d-c4ae118e1477#ref=rss",
+          "summary": "Auf den Marktplätzen in Sachsen-Anhalt wirkt CDU-Ministerpräsident Sven Schulze oft blass, AfD-Gegner Ulrich Siegmund hingegen charmant. Beim TV-Duell tauschen beide überraschend die Rollen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/0a1f9a09-8a52-43f0-b21a-c5761d2db5e8_w1200_r1.778_fpx51_fpy33.jpg"
+        },
+        {
           "title": "Nepal: Was die tödliche Sturzflut ausgelöst haben könnte",
           "url": "https://www.spiegel.de/wissenschaft/mensch/nepal-was-die-toedliche-sturzflut-ausgeloest-haben-koennte-a-71c1cdec-d0a1-4f08-94ca-7b0ef4a1391a#ref=rss",
           "summary": "Binnen Minuten reißen die Wassermassen alles in der Grenzregion zwischen China und Nepal mit sich. Der Kollaps eines Gletschers könnte die Ursache sein. Aber ein Forscher sagt: »Zu dieser Story gehört noch etwas anderes.",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/2fa73acf-1152-4fc7-a6dc-f7f3e2956e16_w1080_r1.778_fpx45_fpy25.32.jpg"
-        },
-        {
-          "title": "Christina Block: Angeklagte bezeichnet sich als »völlig überraschte Mutter« vor Gericht",
-          "url": "https://www.spiegel.de/panorama/christina-block-angeklagte-bezeichnet-sich-als-voellig-ueberraschte-mutter-vor-gericht-a-41b245d8-3212-4b15-80cd-6ebff427b205#ref=rss",
-          "summary": "Christina Block nutzt ihre letzte Chance, vor Gericht ihre Sicht der Dinge zu erklären. Sie widerspricht den Ermittlungen und Zeugenaussagen. Sie sei nur eine »völlig überraschte Mutter«. Ihre wichtigsten Aussagen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/03837ca2-8061-4bb0-97d6-6047831b415c_w1200_r1.778_fpx53.84_fpy49.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
-          "url": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
-          "summary": "Nach zwei Tagen Kabinettsklausur gibt sich Vizekanzler Klingbeil kämpferisch. In den tagesthemen appellierte der SPD-Chef auch an die Geschlossenheit der Koalition: Es gehe jetzt darum, das Land wieder stärker zu machen.",
+          "title": "Wie Waldbrände künftig mit weniger Wasser bekämpft werden können",
+          "url": "https://www.tagesschau.de/wissen/waldbrand-ohne-wasser-loeschen-100.html",
+          "summary": "Bei Dürre und Hitze kann Löschwasser knapp werden. Fachleute fordern für die Waldbrandbekämpfung deshalb neue wassersparende Methoden, bessere Ausrüstung und schnellere Unterstützung aus der Luft. Von Frank Bäumer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/07ede1fc-e16f-42c5-880f-42932a7c3ec5/AAABoD8pQHc/AAABnSSvrFg/16x9-big/klingbeil-interview-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/173a4e2e-03a3-4d56-aaaa-48ac2490e2f3/AAABoD62iJ0/AAABnSSvrFg/16x9-big/waldbrand-734.jpg?width=1280"
         },
         {
-          "title": "Wirtschaftsvertreter fordern Tempo und konkretes Handeln nach Kabinettsklausur",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-106.html",
-          "summary": "Ob Joggen vor 7 Uhr oder große Reformpläne - die Kabinettsklausur in Schloss Neuhardenberg sollte Tatkraft ausstrahlen. Denn vor allem die Wirtschaft wird ungeduldig. Die Regierung muss schnell ins Handeln kommen.",
+          "title": "Was über die Flutwelle in Nepal bekannt ist",
+          "url": "https://www.tagesschau.de/ausland/asien/nepal-flut-102.html",
+          "summary": "Eine riesige Flutwelle hat in Nepal und China mehr als 150 Menschen getötet. Wie kam es zu der Katastrophe? Wie viele Menschen werden noch vermisst? Warum waren so viele Touristen in der Region?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a095b96c-2e3e-4afc-b8a1-9d1eede738ea/AAABoD5eHNo/AAABnSSvrFg/16x9-big/linnemann-wadephul-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/de86057e-f877-45ec-b96a-b939f4d1506c/AAABoEC6Kao/AAABnSSvrFg/16x9-big/nepal-flut-106.jpg?width=1280"
         },
         {
-          "title": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
-          "url": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
-          "summary": "Der britische Schauspieler und Musical-Star Tim Curry ist im Alter von 80 Jahren gestorben. Das bestätigte seine Managerin. Curry war vor allem für seine Darstellung in der \"Rocky Horror Picture Show\" bekannt.",
+          "title": "Wie sich Uruguay auf einen \"Super-El-Niño\" vorbereitet",
+          "url": "https://www.tagesschau.de/ausland/amerika/uruguay-el-nino-ueberschwemmungen-100.html",
+          "summary": "Das Wetterphänomen El Niño könnte in diesem Jahr besonders extreme Folgen haben. In Uruguay bereiten sich die Menschen auf starke Regenfälle vor. Dafür verändern sie die Hauptstadt und forschen an wasserdurchlässigem Straßenbelag. Von Xenia Böttcher.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e7118146-6aaa-452d-b2f6-01383f23089c/AAABoD7Pj0Y/AAABnSSvrFg/16x9-big/curry-158.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1cf95f60-5532-4d0b-93c3-5b971ce80ead/AAABoEBPQog/AAABnSSvrFg/16x9-big/montevideo-108.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "TV-Debatte: „Die Menschen, mit denen Sie sich umgeben, sind sehr gefährliche Menschen“",
+          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-tv-duell-debatte-schulze-siegmund-li.3537268",
+          "summary": "Sven Schulze, der Ministerpräsident von Sachsen-Anhalt, geht angriffslustig in das Duell mit seinem AfD-Herausforderer Ulrich Siegmund. Dieser gerät vor allem bei einem Thema in die Defensive.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/26/e920e477-058b-435b-bb76-46db3fc3e246.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
           "title": "Nepal: Viele Tote nach Sturzflut – Hunderte Einheimische und Touristen vermisst",
           "url": "https://www.sueddeutsche.de/panorama/nepal-sturzflut-ueberflutung-tote-vermisste-li.3537492",
           "summary": "Mehr als 150 Menschen kamen ums Leben, viele weitere Opfer werden befürchtet. Das Unglück geschah in einer beliebten Touristenregion. War ein Gletscherseeausbruch Ursache der Katastrophe?",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/26/995a4a49-226a-4d10-97ca-758282734318.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Literatur: Großmeister des Erzählens",
-          "url": "https://www.sueddeutsche.de/kultur/peter-nadas-schriftsteller-tot-ungarn-literatur-li.3537567",
-          "summary": "Kaum jemand hat Europas Erinnerungen, Brüche und Abgründe so genau vermessen wie er: Der ungarische Schriftsteller und Fotograf Péter Nádas ist im Alter von 83 Jahren gestorben. Ein Nachruf.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/26/07b13084-5264-44f3-aa5c-03d3ab7e1fe7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C25%2C4000%2C2250"
         }
       ]
     }
