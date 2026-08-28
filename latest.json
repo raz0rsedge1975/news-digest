@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-27T22:00:08.183Z",
-  "timestamp": "28.8.2026, 00:00:08",
+  "generated": "2026-08-28T02:00:11.114Z",
+  "timestamp": "28.8.2026, 04:00:11",
   "news": [
     {
       "source": "FAZ",
@@ -51,18 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/21bdd767-a786-4ee1-901d-6f9d9f7e8a6a_w1200_r1.778_fpx62.14_fpy50.jpg"
         },
         {
-          "title": "US-Armee hat offenbar »mehr als kritischen« Mangel an Raketenabwehrsystemen",
-          "url": "https://www.spiegel.de/politik/us-armee-hat-offenbar-mehr-als-kritischen-mangel-an-raketenabwehrsystemen-a-8fbc2715-d715-4835-8101-940d1be8da58#ref=rss",
-          "summary": "Dem US-Militär in Europa gehen offenbar die Raketenabwehrsysteme aus. Das meldet die Nachrichtenagentur AP und beruft sich auf Insider. Die Folgen für die Nato-Staaten könnten verheerend sein.",
+          "title": "USA fordern Klartext von Nato-Partnern – und loben Deutschland",
+          "url": "https://www.spiegel.de/ausland/usa-fordern-klartext-von-nato-partnern-und-loben-deutschland-a-8fe186f0-d4b8-4288-9ac9-e665accdf62b#ref=rss",
+          "summary": "Wie stehen die europäischen Bündnispartner zum US-Projekt Nato 3. Ein brisanter Fragebogen des Pentagon sorgt für Debatten in Brüssel. Lob von der US-Seite gab es vorab für Deutschland.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c7014735-9045-4d5f-af55-12d315e4f39d_w1200_r1.778_fpx37_fpy33.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/12397e47-ff84-4872-83e5-30f94a7447d8_w1200_r1.778_fpx66.15_fpy45.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Streit zwischen USA und Kanada - Trump nennt Ontariosee um",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-kanada-streit-ontario-100.html",
+          "summary": "Der Ontariosee verbindet die USA und Kanada - doch im Augenblick entzweit ein Streit die beiden Nachbarn. US-Präsident Trump sorgt nun mit einer Namensänderung für weiteren Ärger in Kanada.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c90c35f8-e52c-44b4-8023-a96bb4d82b9d/AAABoEVVQnQ/AAABnSSvrFg/16x9-big/ontariosee-100.jpg?width=1280"
+        },
         {
           "title": "Bündnis will Opfer rechtsextremer Angriffe unterstützen",
           "url": "https://www.tagesschau.de/inland/gesellschaft/buendnis-fuer-demokratie-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/1b59a858-341e-4a21-8b4b-1170f657431f/AAABoERcaf0/AAABnSSvrFg/16x9-big/nepal-schlammlawine-102.jpg?width=1280"
-        },
-        {
-          "title": "Ende der \"Rente mit 63\": Merz für Übergangszeiten",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalitionsklausur-100.html",
-          "summary": "Die Regierung will die abschlagsfreie Rente nach 45 Beitragsjahren abschaffen - aber Kanzler Merz kann sich Übergangszeiten vorstellen. Die Fraktionschefs von Union und SPD erklären, Änderungen am Reformkonzept seien nicht ausgeschlossen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c26ab109-ede5-4f1e-88a9-a65eac313455/AAABoEQ_hPA/AAABnSSvrFg/16x9-big/merz-1510.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Trump verfügt Umbenennung von Lake Ontario in „Lake America“",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kanada-zoelle-lake-ontario-li.3530667",
+          "summary": "Den Golf von Mexiko im Süden taufte der US-Präsident schon per Dekret in „Golf von Amerika“ um. Nun will er im Norden einen weiteren Namenswechsel durchdrücken. Sein kanadischer Amtskollege hält dagegen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/26/b7c50402-462d-4fab-a47d-3b0bbc88ee2b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
+        },
+        {
           "title": "TV-Kritik: Friedrich Merz wird beschimpft, er schimpft zurück – und am Ende war alles vergebens",
           "url": "https://www.sueddeutsche.de/medien/merz-rtl-atalay-tv-kritik-li.3537934",
           "summary": "Der Kanzler setzt sich an den Tisch mit Menschen, die ihm die Meinung geigen. Unter fast idealen Laborbedingungen lässt sich so testen, wann der Mann die Nerven verliert.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/27/a2e59140-ed29-4ea2-a16a-cf2c3dc5c231.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C48%2C1200%2C675"
-        },
-        {
-          "title": "Bundespolitik: Merz liefert sich TV-Schlagabtausch mit Kinderärztin: „Das geht zu weit“",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-rtl-kinderaerztin-kritik-amtseid-li.3529564",
-          "summary": "Eine Ärztin aus Niedersachsen wirft dem Kanzler in einer RTL-Runde vor, den Amtseid zu brechen und menschenverachtende Gesetze zu erlassen. Merz sieht darin eine „persönliche Herabsetzung“.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/27/d5f714d6-5ab8-4243-947d-9d72b5666bf3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C240%2C4000%2C2250"
         }
       ]
     }
