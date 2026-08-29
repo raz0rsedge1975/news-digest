@@ -1,10 +1,18 @@
 {
-  "generated": "2026-08-29T14:00:08.640Z",
-  "timestamp": "29.8.2026, 16:00:08",
+  "generated": "2026-08-29T18:00:08.978Z",
+  "timestamp": "29.8.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "„Generation Deutschland“: Die AfD-Jugend feiert ihren Star",
+          "url": "https://www.faz.net/aktuell/politik/inland/bundeskongress-die-afd-jugend-feiert-ihren-star-siegmund-accg-201170841.html",
+          "summary": "Die „Generation Deutschland“ feiert den Spitzenkandidaten in Sachsen-Anhalt Ulrich Siegmund schon als Ministerpräsidenten. Ganz einig mit der Mutterpartei ist sich die Jugendorganisation aber nicht.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0a07b1ff4c47/w5348h2794x0y601o/202608/43601.0.2482372440/ulrich-siegmund.webp"
+        },
         {
           "title": "Wahl in Sachsen-Anhalt: Ist die AfD eine Alternative für die Wirtschaft?",
           "url": "https://www.faz.net/aktuell/wirtschaft/wahl-in-sachsen-anhalt-ist-die-afd-eine-alternative-fuer-die-wirtschaft-accg-201152410.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/8221376969e4/w7574h3957x0y547o/202605/43d689004e-495b-11f1-8eb2-f130c12c3b9d/ungewisse-zukunft-mitarbeiter.webp"
         },
         {
-          "title": "Vor den Landtagswahlen: Bei Union und SPD gilt jetzt: Augen auf und durch!",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/rente-haushalt-wahl-in-sachsen-anhalt-jederzeit-kann-in-der-koalition-ein-sprengsatz-hochgehen-accg-201160670.html",
-          "summary": "Die nächsten Wochen könnten über die Zukunft der Koalition entscheiden. Rente, Haushalt, die Wahl in Sachsen-Anhalt – jederzeit kann ein Sprengsatz hochgehen.",
+          "title": "Deutschland-Liveblog: Siegmund: Entweder „Blutwurstkoalition“ oder ein AfD-Ministerpräsident",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-siegmund-vor-parteijugend-entweder-blutwurstkoalition-oder-ein-afd-ministerpraesident-faz-110093143.html",
+          "summary": "AfD-Spitzenkandidat in Sachsen-Anhalt tritt auf Bundeskongress der Parteijugend auf +++ Tim Demuth in Bundesvorstand der „Generation Deutschland“ gewählt +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7ae3d93f36df/w4526h2364x453y1219o/202608/43601.0.2471914944/dunkler-herbst-oder-herbst.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Sachsen-Anhalts AfD-Chef Reichardt eröffnet Bundeskongress mit vulgärer Rede",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-sachsen-anhalts-afd-chef-reichardt-eroeffnet-bundeskongress-mit-vulgaerer-rede-faz-110093143.html",
-          "summary": "Reichardt beschimpft „Vater Staat“ als „faulen Assi“ +++ Tim Demuth in Bundesvorstand der „Generation Deutschland“ gewählt +++ +++ Bas stellt Krankschreibung ab erstem Tag infrage +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d92038c24564/w5949h3108x0y220o/202608/43601.0.2481685877/bundeskongress-der-generation.webp"
+          "image": "https://media0.faz.net/image/w1200h627/468e5bb122e6/w5307h2772x0y517o/202608/43601.0.2482377182/ulrich-siegmund.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "»Nancy Grace Roman«: Neues Nasa-Teleskop wäre fast ein Spionagesatellit geworden",
-          "url": "https://www.spiegel.de/wissenschaft/weltall/nancy-grace-roman-neues-nasa-teleskop-waere-fast-ein-spionagesatellit-geworden-a-c79d88fc-bb51-44e5-9b68-40e08161aa11#ref=rss",
-          "summary": "Ein Geheimdienst lieferte den Spiegel, deutsche Forscher die Präzisionstechnik, und das Weiße Haus sorgte für Drama: Bald startet das »Nancy Grace Roman«-Teleskop, um die Suche nach Leben im All voranzubringen.",
+          "title": "Überlebende von Seilbahnunglück in Lissabon berichten zum ersten Mal: »Ich spürte: Er ist nicht tot«",
+          "url": "https://www.spiegel.de/panorama/ueberlebende-von-seilbahnunglueck-in-lissabon-berichten-zum-ersten-mal-ich-spuerte-er-ist-nicht-tot-a-4a253f49-74cb-4de1-a1a6-d6b75318bb5a#ref=rss",
+          "summary": "16 Menschen starben vor einem Jahr in Lissabons Standseilbahn. Ein Berliner Ehepaar und der dreijährige Sohn überlebten in den Trümmern. Hier erzählen sie, wie sie am Leben blieben – und warum sie klagen wollen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bbbab768-624d-487a-b700-d6935ac74cf0_w1200_r1.778_fpx55.24_fpy44.88.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/43218206-9c28-4687-a1d3-19f6eb528531_w1200_r1.778_fpx55_fpy46.jpg"
         },
         {
-          "title": "»Hollow Knight«: Platz 13 im SPIEGEL Games-Kanon",
-          "url": "https://www.spiegel.de/kultur/hollow-knight-platz-13-im-spiegel-games-kanon-a-84786134-7b4c-4025-a3e8-4170561fd430#ref=rss",
-          "summary": "Ein kleiner Krieger verirrt sich in eine Welt aus schmalen, verwinkelten Tunneln, purer Finsternis und übermächtigen Gegnern. Doch wer sich einmal nach Heilandsnest wagt, will nie wieder weg.",
+          "title": "Audi Q6 e-tron und XPeng P7+: Deutsches und chinesisches Elektroauto im Technik-Test",
+          "url": "https://www.spiegel.de/mobilitaet/auto/audi-q6-e-tron-und-xpeng-p7-deutsches-und-chinesisches-elektroauto-im-technik-test-a-b488b831-49dd-4538-8a8f-a94e7638e59e#ref=rss",
+          "summary": "Chinesische Elektroautos sind günstiger als deutsche. Aber sind sie tatsächlich auch technisch überlegen? Ein Vergleichstest zwischen einem Audi und einem XPeng in fünf Disziplinen gibt Aufschluss.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/628dbaf3-a0c8-46c4-838b-99a0c32ba69e_w1200_r1.778_fpx50_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0254204f-46f8-4aba-9181-8e7f264d0398_w1200_r1.778_fpx50_fpy60.jpg"
         },
         {
-          "title": "More Nutrition, Naturally You: Foodwatch mahnt Marken von Christian Wolf, Pamela Reif sowie ESN wegen Ashwagandha-Produkten ab",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/more-nutrition-naturally-you-foodwatch-mahnt-marken-von-christian-wolf-pamela-reif-sowie-esn-wegen-ashwagandha-produkten-ab-a-886d680d-0f7f-4b2a-b43f-036b18e40471#ref=rss",
-          "summary": "Die Organisation Foodwatch geht gegen Werbung von drei bekannten Influencer-Marken vor. Die Ashwagandha-Produkte von More Nutrition, Naturally You und ESN hätten gegen EU-Regeln verstoßen. Ein Hersteller wehrt sich.",
+          "title": "Nepal und Tibet: SPIEGEL-Korrespondent berichtet aus der Unglücksregion",
+          "url": "https://www.spiegel.de/ausland/nepal-und-tibet-spiegel-korrespondent-berichtet-aus-der-ungluecksregion-a-e505766a-641e-4b0b-9654-2b9f0ba37d5b#ref=rss",
+          "summary": "Nach der Katastrophe in Nepal und Tibet werden weiterhin fast 3000 Menschen vermisst, mindestens 682 sind tot. Im Video berichtet SPIEGEL-Korrespondent Serafin Reiber aus einem Dorf, das seit der Katastrophe von der Außenwelt abgeschnitten war.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1c78940c-4874-4051-9d4c-a83ab2f74ba6_w1200_r1.778_fpx47.35_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ea564d0d-91c6-481d-b73d-90b3c2f523a3_w1080_r1.778_fpx50_fpy33.75.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ex-Kohlekraftwerk Frimmersdorf: RWE sprengt riesigen Schornstein",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rwe-sprengung-schornstein-frimmersdorf-100.html",
-          "summary": "Der Rückbau des ehemaligen Braunkohlekraftwerks Frimmersdorf in Nordrhein-Westfalen kommt voran. RWE hat einen 200 Meter hohen Schornstein auf dem Gelände kontrolliert gesprengt. Zurück bleiben 14. 000 Tonnen Schutt.",
+          "title": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
+          "summary": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die Straße von Hormus stark eingeschränkt. Wie viele Tanker und Frachter sie täglich passieren, ist unklar. Noch immer können Hunderte Schiffe den Persischen Golf nicht verlassen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/eb936828-ba04-456b-8385-5adb9b0d941c/AAABoE200_4/AAABnSSvrFg/16x9-big/rwe-sprengung-schornstein-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/84516f7d-75b1-4898-a8a4-3fa5f23e39b9/AAABoE44xx0/AAABnSSvrFg/16x9-big/strasse-von-hormus-180.jpg?width=1280"
         },
         {
-          "title": "Schiefer als der in Pisa - der Turm von Michalovice",
-          "url": "https://www.tagesschau.de/ausland/schiefe-turm-wehrturm-michalovice-tschechien-100.html",
-          "summary": "Der Schiefe Turm von Pisa ist nicht der schiefste Glockenturm der Welt. Der Wehrturm der Burgruine von Michalovice nahe Prag ist noch stärker geneigt. Die Gemeinde überlegt, ob es ihr einen Guinness-Rekord-Eintrag wert ist. Von Marianne Allweiss.",
+          "title": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
+          "summary": "Auch auf den britischen Inseln geht der Bierkonsum zurück, viele kleine Brauereien müssen schließen. Eine Traditionsmarke aber erlebt einen erstaunlichen Boom: Guinness aus Irland. Von Lisa-Maria Röhling.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5e9d497a-42c6-4354-bd99-8dbece813713/AAABoE1RIAg/AAABnSSvrFg/16x9-big/michalovice-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f6d36d29-464a-43ad-91f8-33154d02c1e0/AAABoD4TRj8/AAABnSSvrFg/16x9-big/guinness-106.jpg?width=1280"
         },
         {
-          "title": "Krieg gegen die Ukraine:  Viele Tote bei Luftangriff im Raum Kiew",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
-          "summary": "Im russischen Krieg gegen die Ukraine halten die Luftangriffe auf beiden Seiten unvermindert an: Russland attackierte erneut den Großraum Kiew. Mindestens 37 Menschen starben. Auch die Ukraine flog Angriffe.",
+          "title": "Iran räumt wirtschaftliche Kriegsfolgen ein - dennoch kein Einlenken",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-kriegsfolgen-wirtschaft-100.html",
+          "summary": "Irans Führung räumt schwere wirtschaftliche Schäden durch den Krieg mit den USA ein, dennoch will das Land nicht einlenken. In der Hauptstadt Teheran bilden sich lange Schlangen vor Tankstellen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4ea42de7-25a9-4d7e-bddb-1df6194c010d/AAABoEzI5Qk/AAABnSSvrFg/16x9-big/ukraine-2824.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/87aaf7b5-c060-4c4a-9fd7-85b83a1c3e66/AAABoE3WmxI/AAABnSSvrFg/16x9-big/iran-tankstelle-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Ukraine-Hilfe ohne Ziel: Solidarität ist kein Blankoscheck",
+          "url": "https://www.telepolis.de/article/Ukraine-Hilfe-ohne-Ziel-Solidaritaet-ist-kein-Blankoscheck-11434405.html",
+          "summary": "Russland ist der Aggressor. Doch Waffen ohne klares Ziel und politische Milde gegenüber Kiew zeigen: Der Westen verwechselt Moral mit Strategie. Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/5/4/6/Master_Ukraine-2872fbcc562d93c2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Der letzte Anker im Dorf: Warum Brandenburgs Feuerwehren unverzichtbar sind",
           "url": "https://www.telepolis.de/article/Der-letzte-Anker-im-Dorf-Warum-Brandenburgs-Feuerwehren-unverzichtbar-sind-11432502.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/4/9/6/Master_Top_c919-3388b5c708c5c50b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Tödlicher Wahlkampf mit der Westbank",
-          "url": "https://www.telepolis.de/article/Toedlicher-Wahlkampf-mit-der-Westbank-11426368.html",
-          "summary": "Boden, Brand, Ben-Gvir: Wie Siedlergewalt zum Programm und Problem wird. Israel zwischen Verdrängung und Verschiebung. Analyse.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/3/4/1/2/palestine2-4a8e80c16909bd89.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Bundesliga: Elversberg schafft eine gewaltige Überraschung",
+          "url": "https://www.sueddeutsche.de/sport/elversberg-bundesliga-leverkusen-li.3539109",
+          "summary": "Underdog-Fußball? Nervosität? Nicht beim kleinen Aufsteiger aus dem Saarland. Beim 3:2 gegen verdutzte Leverkusener zeigt Elversberg genau den Mut, der dem Klub den Aufstieg beschert hatte.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/29/1ff5d015-52d0-4543-94be-20216f00fc83.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C229%2C4000%2C2250"
+        },
+        {
+          "title": "Erster Spieltag der Bundesliga: Ebnoutalib trifft dreifach, aber die letzte Aktion gehört Union",
+          "url": "https://www.sueddeutsche.de/sport/bundesliga-erster-spieltag-ueberblick-elversberg-li.3539078",
+          "summary": "Frankfurts Stürmer zeigt einen starken Auftritt, ehe die Berliner doch noch zurückkommen. Leipzigs Fußball unter dem neuen Trainer Demichelis sieht schon ganz gut aus – auch Köln erlebt Spektakel. Alles Wichtige zum Spieltag.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/29/4c111306-53b1-4d4d-9eaa-e93b6a4f5fd9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C71%2C3500%2C1969"
+        },
+        {
           "title": "FC Bayern beim 5:1 gegen Stuttgart: Mutig kopiert ist schon verloren",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-stuttgart-bundesliga-li.3538721",
           "summary": "Wie macht er das bloß? Trainer Vincent Kompany gelingt es immer wieder, seine hoch überlegene Mannschaft zu motivieren. Der VfB Stuttgart versucht, die Bayern zum Saisonstart mit gleichen Waffen zu schlagen – vergeblich.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/29/63ba5158-46cc-4dcd-9034-399a8147d00d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C168%2C3937%2C2215"
-        },
-        {
-          "title": "Krieg in der Ukraine: Ukraine: Zahlreiche Tote bei russischem Drohnenangriff",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-wildberries-angriffe-li.3524928",
-          "summary": "Bei einem russischen Angriff auf ein Munitionslager sollen mehrere Dutzend Menschen getötet worden sein. Die Ukraine kündigt Angriffe auf alle Wildberries-Lager in Russland an.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/29/b11dadd2-a1f3-4cf9-b442-d73cf37dedd1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
-        },
-        {
-          "title": "„Kraftwerk“-Konzert in Dessau: Eine Liebesbekundung ans Bauhaus",
-          "url": "https://www.sueddeutsche.de/kultur/kraftwerk-dessau-konzert-bauhaus-li.3539024",
-          "summary": "In Zeiten, in denen die große Designschule sich unter Beschuss der AfD befindet, treten „Kraftwerk“ am Bauhaus in Dessau auf. Die Gruppe begeistert die Menschen – und weicht am Ende minimal vom Protokoll ab.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/29/78ecfa39-80fb-4dd0-b8df-e4523be3d79d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C352%2C4000%2C2250"
         }
       ]
     }
