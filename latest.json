@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T22:00:08.129Z",
-  "timestamp": "29.8.2026, 00:00:08",
+  "generated": "2026-08-29T02:00:07.725Z",
+  "timestamp": "29.8.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Wahl in Frankreich: Warum die Radikalen Marine Le Pen und Jean-Luc Mélenchon im Vorteil sind",
-          "url": "https://www.spiegel.de/ausland/wahl-in-frankreich-warum-die-radikalen-marine-le-pen-und-jean-luc-melenchon-im-vorteil-sind-a-fe87d468-3c35-4a0c-afda-911d03352d28#ref=rss",
-          "summary": "Wer wird nächster Präsident in Frankreich? Während sich die Wahlfavoriten Marine Le Pen und Jean-Luc Mélenchon in der ersten Kandidatendebatte die Bälle zuspielen, behindern sich die moderaten Bewerber gegenseitig.",
+          "title": "Venezuela: USA sichern sich Kontrolle über riesige Ölvorkommen",
+          "url": "https://www.spiegel.de/ausland/venezuela-usa-sichern-sich-kontrolle-ueber-riesige-oelvorkommen-a-5cd03513-1970-4722-bc92-d05abab74df6#ref=rss",
+          "summary": "Anfang des Jahres nahmen US-Spezialkräfte Venezuelas Staatschef Maduro fest. Nun soll es eine Vereinbarung über Ölvorkommen geben. Die USA bringen damit wohl etliche Milliarden Barrel nachgewiesener Ölreserven unter ihre Kontrolle.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0371733c-41a8-4126-8265-33d1911bb04b_w1200_r1.778_fpx42.69_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0a6d1223-75f6-47a9-b88b-685f92349d46_w1200_r1.778_fpx63.34_fpy45.jpg"
         },
         {
           "title": "Bundesliga-Saisonauftakt: Bayern München stellt sofort klar, wer der Titelfavorit ist",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "USA: Trump verkündet Öl-Abkommen mit Venezuela",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-trump-100.html",
+          "summary": "Präsident Trump hat ein Öl-Abkommen mit Venezuela verkündet. US-Konzerne zeigten sich jedoch zuvor bereits zurückhaltend wegen der schlechten Infrastruktur dort und früherer Enteignungen ausländischer Investoren.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/6e64e611-2358-4915-a144-870693a46ec3/AAABoEsDtHQ/AAABnSSvrFg/16x9-big/trump-air-force-one-108.jpg?width=1280"
+        },
+        {
+          "title": "Sturzflut: Wie China Informationen aus Tibet kontrolliert",
+          "url": "https://www.tagesschau.de/ausland/asien/china-tibet-nepal-flut-100.html",
+          "summary": "Nach der Sturzflut sind zahlreiche Journalisten nach Nepal gereist. Aus dem von China kontrollierten Tibet jedoch dringen über chinesische Staatsmedien nur spärliche Informationen. Lamby-Schmitt, ARD Shanghai.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/294df093-9360-4593-ae40-8009c323ad8d/AAABoEqtYCI/AAABnSSvrFg/16x9-big/peking-tibet-china-100.jpg?width=1280"
+        },
+        {
           "title": "Taliban auf Mission in Deutschland - Abschiebungen vorbereiten",
           "url": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-taliban-100.html",
           "summary": "Die Taliban haben nach NDR-Informationen in dieser Woche eine Delegation nach Deutschland geschickt. Die Diplomaten sollen drei Wochen im Land bleiben und Abschiebungen nach Afghanistan vorbereiten. Von Peter Hornung.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e9f31943-be82-4b4a-8ee4-59d7d57ab120/AAABm8YO6Ss/AAABnSSvrFg/16x9-big/botschaft-afghanistan-berlin-100.jpg?width=1280"
-        },
-        {
-          "title": "Kevin Warsh: Ein Fed-Chef, der Ungewissheit zulässt",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-warsh-rede-100.html",
-          "summary": "Die Rede von Fed-Chef Warsh beim jährlichen Notenbanker-Treffen war mit Spannung erwartet worden. Konkrete Hinweise für die nächste Zinsentscheidung blieb er schuldig. Dahinter steckt mehr als bloße Zurückhaltung. Von Anne Schneider.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/5f096b80-9daf-47ef-aff0-3cb94146001a/AAABoEnMiMw/AAABnSSvrFg/16x9-big/warsh-114.jpg?width=1280"
-        },
-        {
-          "title": "Chinas militärische Aufrüstung: Anlage in der Wüste wirft Fragen auf",
-          "url": "https://www.tagesschau.de/ausland/asien/china-militaer-aufruestung-100.html",
-          "summary": "China rüstet in Friedenszeiten mit enormem Tempo auf. Die größte Armee weltweit hat mittlerweile drei Flugzeugträger fertiggestellt. Und auf Satellitenbildern wurde nun eine gigantische neue Militäranlage in der Wüste entdeckt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/036ebdce-f719-4d2d-b787-0e25877f2beb/AAABoD19Sk0/AAABnSSvrFg/16x9-big/militaeranlagem-xinjiang-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Trump: USA sichern sich riesige Ölvorkommen in Venezuela",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-venezuela-oelreserven-benzinpreis-li.3530667",
+          "summary": "Venezuela hat die größten Ölreserven der Welt, 65 Milliarden Barrel sollen mit dem Deal unter US-Kontrolle gebracht werden. Seit dem Iran-Krieg steht Trump wegen der hohen Benzinpreise innenpolitisch unter Druck.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/28/69385d5e-1ef5-4ba9-a4a4-8f9cbfeddc5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
           "title": "Bundesliga-Start: Die Bayern werfen die Ligaunterdrückungsmaschine an",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-vfb-stuttgart-kompany-olise-news-li.3538723",
           "summary": "Gleich zum Auftakt eine Machtdemonstration: Die Bayern lassen den VfB Stuttgart kurz Hoffnung schöpfen – dann fallen sie beim 5:1 aber über den Gegner her.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/28/a621fc87-0b9d-467f-b8df-d5bc445cd359.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C148%2C2965%2C1668"
-        },
-        {
-          "title": "Bundespolitik: Pistorius und Özdemir fordern Verbot „völkischer“ AfD-Landesverbände",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-pistorius-oezdemir-afd-verbot-li.3529564",
-          "summary": "Ein solches Verbot sei rechtlich möglich, durch Belege gedeckt und von der Verfassung geboten, schreiben der Bundesverteidigungsminister und der Ministerpräsident Baden-Württembergs in einem gemeinsamen „FAS“-Gastbeitrag.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/11/12/0cad0ab7-abba-4609-b37a-c15743d776a2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=500%2C511%2C2732%2C1537"
         }
       ]
     }
