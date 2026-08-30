@@ -1,39 +1,47 @@
 {
-  "generated": "2026-08-30T14:00:09.557Z",
-  "timestamp": "30.8.2026, 16:00:09",
+  "generated": "2026-08-30T18:00:07.791Z",
+  "timestamp": "30.8.2026, 20:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Wahl in Sachsen-Anhalt: Schulze gegen die blaue Welle",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-wie-sven-schulze-gegen-die-blaue-welle-kaempft-accg-201102227.html",
-          "summary": "Wahlkampf in Sachsen-Anhalt: Wie Sven Schulze gegen die blaue Welle kämpft",
+          "title": "Vorfall in Leipzig: Hybride Bedrohungen erfordern Antworten – nicht nur hybride",
+          "url": "https://www.faz.net/aktuell/politik/inland/drohnen-vorfall-in-leipzig-wie-deutschland-auf-hybride-bedrohungen-reagieren-muss-201169814.html",
+          "summary": "Russland greift an vielen Orten in Europa mit hybrider Kriegsführung an. Höchste Zeit, dass Deutschland handelt.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cf528137ed3f/w2094h1094x0y151o/202608/43601.0.2473168637/auf-dem-flughafen-leipzig.webp"
+        },
+        {
+          "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+          "summary": "Wir erleben einen epochalen Umbruch. Der Übergang in die KI-Ära wird zu den unruhigsten Phasen der Menschheitsgeschichte gehören. Bislang bereiten wir uns nicht ausreichend darauf vor. Was uns droht – und was zu tun ist.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
+          "image": "https://media0.faz.net/image/w1200h627/aa7fb71c3fc7/w4911h2565x0y364o/202602/43601.0.1796871408/microsoft-mitgruender-bill.webp"
         },
         {
-          "title": "Alice Weidel zu Einbürgerungen: Wie Weidel Angaben der Bundesagentur für Arbeit verfälscht",
-          "url": "https://www.faz.net/aktuell/politik/inland/alice-weidel-und-die-eingebuergerten-arbeitslosen-accg-201165062.html",
-          "summary": "Die AfD-Vorsitzende behauptet, Deutschland bürgere im großen Stil arbeitslose Migranten ein. Sie beruft sich dabei auf die Bundesagentur für Arbeit.",
+          "title": "Chipproduktion: Der überraschende KI-Gewinner Singapur",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/singapur-als-ki-gewinner-chips-und-milliarden-investments-201168080.html",
+          "summary": "Jeder zehnte Chip auf der Welt kommt aus Singapur. Ausgerechnet das Finanzzentrum, das vor Künstlicher Intelligenz zittert, profitiert von deren Boom.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ebb230d830f6/w1920h1003x0y238o/202608/43601.0.2462283739/die-afd-vorsitzende-alice.webp"
-        },
-        {
-          "title": "Vor den Wahlen im Osten: Ist der Schiffbruch der Demokratie zu verhindern?",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-die-demokratie-und-das-afd-dilemma-accg-201090857.html",
-          "summary": "Es droht eine Situation, in der Deutschland nicht mit der AfD regiert werden kann, aber auch nicht mehr ohne sie. Ein Dilemma. Die Demokratie wird es ertragen müssen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d9378779590f/w6500h3396x0y748o/202608/43601.0.2478025720/waehlen-ohne-traenen-plakate.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5414a5e74d25/w727h379x15y15o/202608/43601.0.2478420686/hightechproduktion-micron.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Generation Deutschland: Vorstand der AfD-Jugend scheitert an inhaltlicher Debatte",
+          "url": "https://www.spiegel.de/politik/generation-deutschland-vorstand-der-afd-jugend-scheitert-an-inhaltlicher-debatte-a-8822018b-128f-4dee-bb8f-4e2e5b3f8b56#ref=rss",
+          "summary": "Unter neuem Namen sollte sich die AfD-Jugend professionalisieren. Doch beim ersten Parteitag scheitert der Vorstand in der einzigen inhaltlichen Debatte – und Gastredner Ulrich Siegmund zeigt sich weniger siegesgewiss.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/1e2d2d0c-ce14-44ec-abe0-6a6cca4655be_w1200_r1.778_fpx62_fpy55.01.jpg"
+        },
         {
           "title": "Wahlen in Ostdeutschland: Was Camper auf Rügen über die Stimmung denken",
           "url": "https://www.spiegel.de/panorama/gesellschaft/wahlen-in-ostdeutschland-was-camper-auf-ruegen-ueber-die-stimmung-denken-a-250900c8-dd89-4a2b-99a0-f9898da9ccc1#ref=rss",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/4e74477b-80ce-4562-916e-9ca9040a5d2f_w1200_r1.778_fpx44_fpy45.jpg"
-        },
-        {
-          "title": "Island: Isländer stimmen gegen EU-Beitrittsverhandlungen",
-          "url": "https://www.spiegel.de/ausland/island-islaender-stimmen-gegen-eu-beitrittsgespraeche-a-b81e30b2-02b5-4060-82a6-6ccac768c6c1#ref=rss",
-          "summary": "Es war ein enges Rennen, doch am Ende waren die Gegner in der Mehrheit: Island wird die EU-Beitrittsverhandlungen nicht wieder aufnehmen. Für Ministerpräsidentin Frostadóttir ist dies eine Niederlage.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/036506bd-d020-4a16-88c4-d68fab3c2104_w1200_r1.778_fpx58.2_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nach Sturzflut in Nepal: Die lange Suche nach Gewissheit",
-          "url": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-100.html",
-          "summary": "Noch immer werden Hunderte in Nepal und China vermisst. Sie könnten kilometerweit ins Tal gerissen worden sein, die Identifikation der Toten ist daher schwierig. Für die Angehörigen ist die Ungewissheit eine Qual. Bodewein und M.",
+          "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
+          "summary": "Die Isländer haben sich in einem Referendum gegen eine Wiederaufnahme von EU-Beitrittsgesprächen entschieden. Doch die knappe Abstimmung zeigt: Die Frage nach Islands Platz in Europa ist noch längst nicht geklärt. Von Arne Bartram.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2ef2ae57-aeaf-47d5-9f7b-d68f0ab1ef3e/AAABoFLHNHI/AAABnSSvrFg/16x9-big/nepal-718.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/402fa0c1-9890-45cd-a815-a67b49fb00a2/AAABoFPESE8/AAABnSSvrFg/16x9-big/island-eu-unterstuetzer-100.jpg?width=1280"
         },
         {
-          "title": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html",
-          "summary": "Mit einer waghalsigen Aktion ist am Morgen ein Mann aus der JVA Duisburg-Hamborn entkommen. Der Häftling sägte das Gitter am Fenster seiner Zelle durch und floh über das Dach der Anstalt. Die Fahndung läuft.",
+          "title": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
+          "url": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html",
+          "summary": "Der Bundeskanzler und CDU-Vorsitzende Merz war im ARD-Sommerinterview zu Gast. Beim Thema Schuldenquote waren seine Aussagen mindestens irreführend. Die Aussagen von Merz im Faktencheck.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ffcecadf-1bc5-43cd-9c75-8f129ab7fdf2/AAABoFLQG78/AAABnSSvrFg/16x9-big/wdr-gebaeude-des-amtsgerichts-duisburg-hamborn-mit-angeschlossener-jva-duisburg-hamborn-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5ccb8d7a-244d-44db-b491-4879bb697d35/AAABoFOyWLI/AAABnSSvrFg/16x9-big/merz-sommerinterview-122.jpg?width=1280"
         },
         {
-          "title": "Deutschland hat unter G20-Staaten die höchsten Strompreise",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschland-strompreise-vergleich-100.html",
-          "summary": "Seit Langem beklagen Wirtschaftsverbände den im internationalen Vergleich hohen Strompreis in Deutschland. Eine Analyse des Portals Verivox hat nun ergeben: Unter den G20-Ländern ist Strom hierzulande am teuersten.",
+          "title": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
+          "summary": "Der Kanzler und seine Regierung stecken im Umfragetief. Dennoch zeigt sich Merz im ARD-Sommerinterview optimistisch. Die Wirtschaft erhole sich bereits - und wichtig sei vor allem, dass Deutschland langfristig gut aufgestellt sei.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cc640a07-e16b-4715-9692-7e834e29b0f3/AAABoFKYaH8/AAABnSSvrFg/16x9-big/strompreis-144.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/aebb6362-0e3d-48bd-a953-eb6e652bd513/AAABoFN0mMs/AAABnSSvrFg/16x9-big/merz-sommerinterview-116.jpg?width=1280"
         }
       ]
     },
@@ -93,12 +93,20 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Wie lässt sich der Graue Star behandeln?",
+          "url": "https://www.telepolis.de/article/Wie-laesst-sich-der-Graue-Star-behandeln-11431293.html",
+          "summary": "Gegen den Grauen Star, der für eine Eintrübung der natürlichen Augenlinsen sorgt, gibt es weder eine Impfung noch eine Behandlung mit Medikamenten.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/3/9/8/0/grauer-star_Zeichenfla__che_1-ff25f72bc38063a9.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Island sagt Nein zu EU-Gesprächen – und verteidigt seinen Sonderweg",
           "url": "https://www.telepolis.de/article/Island-sagt-Nein-zu-EU-Gespraechen-und-verteidigt-seinen-Sonderweg-11434605.html",
           "summary": "Trotz geopolitischer Spannungen wollen die Isländer keine neuen Verhandlungen mit Brüssel. Entscheidend waren Fischerei und Souveränität.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/6/4/6/Master_Island-7385fb9dfa7677b4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/6/4/6/Master_2-d7d32dcdd16da370.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "Russlands Drohnenfabrik Alabuga gibt Rätsel auf",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/6/1/0/master_Alabuga-e0b79838861ae115.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Ernteausfälle und ausbleibende Hilfen erzeugen Unmut bei Obst- und Gemüsebauern",
-          "url": "https://www.telepolis.de/article/Ernteausfaelle-und-ausbleibende-Hilfen-erzeugen-Unmut-bei-Obst-und-Gemuesebauern-11425013.html",
-          "summary": "Wetterextreme führen zu erheblichen Ernteeinbußen bei Obst. Obstbauern machen in einem Brandbrief ihren Sorgen Luft.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/2/7/4/0/apfel-cut_Zeichenfla__che_1-7bdf8ecc4bf9152a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,15 +122,7 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Tottenham in der Premier League: Null Punkte + null Tore = Letzter",
-          "url": "https://www.sueddeutsche.de/sport/premier-league-tottenham-letzter-tonali-spott-li.3539214",
-          "summary": "In der Premier League hat Tottenham Hotspur bereits mehr als 350 Millionen Euro in neue Spieler investiert – und steht trotzdem miserabel da.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/30/5874c314-abcb-4fbd-ad75-65660600df83.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C143%2C3500%2C1969"
-        },
-        {
-          "title": "Nordzypern: Fähre mit 267 Menschen kentert – mehrere Tote",
+          "title": "Zypern: Fähre mit 267 Menschen kentert – mehrere Tote",
           "url": "https://www.sueddeutsche.de/panorama/unglueck-nordzypern-mittelmeer-faehre-li.3539479",
           "summary": "Bei einem Fährunfall vor der Insel Zypern sind mindestens sieben Menschen ums Leben gekommen. Das Schiff war kurz nach dem Auslaufen in Seenot geraten.",
           "source": "SZ",
@@ -138,12 +130,20 @@
           "image": "https://www.sueddeutsche.de/2026/08/30/ea5cbb90-3535-422c-b44f-8bbe5f68cab6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C109%2C1406%2C791"
         },
         {
-          "title": "Saison-Aus von Tadej Pogacar: Fatale Sekunden auf der Landstraße CV 675",
-          "url": "https://www.sueddeutsche.de/sport/tadej-pogacar-sturzhergang-vuelta-saison-aus-li.3539223",
-          "summary": "Nach seinem schweren Sturz bei der Vuelta ist die Radsportsaison für Tadej Pogacar beendet. Dem fünfmaligen Tour-de-France-Gewinner wird ein kleiner Gegenstand auf einer Straße bei Valencia zum Verhängnis.",
+          "title": "Bundesliga: Suzukis Dreierpack lässt Freiburg jubeln",
+          "url": "https://www.sueddeutsche.de/sport/bundesliga-sc-freiburg-suzuki-werder-bremen-schalke-augsburg-li.3539539",
+          "summary": "Die Breisgauer bezwingen Werder Bremen zum Bundesligastart 4:1. Rückkehrer Niclas Füllkrug bleibt blass, ein Japaner überragt alle. Schalke 04 legt in Augsburg einen Fehlstart hin.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/30/b8e3166d-5f42-45f0-9f55-945bd1070b66.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C147%2C3963%2C2229"
+          "image": "https://www.sueddeutsche.de/2026/08/30/13472987-c5fa-4bf1-8576-f6726df39789.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "Bundesliga: Dortmunds griechische Tragödie",
+          "url": "https://www.sueddeutsche.de/sport/bvb-hsv-konstantelias-kreuzbandriss-li.3539212",
+          "summary": "Der Kreuzbandriss des schwer verletzten Giannis Konstantelias trübt die Freude beim BVB. Womöglich muss sich der Klub noch einmal auf den Transfermarkt begeben.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/30/e5e3d188-fbb0-459b-9469-d52a9587179d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=129%2C587%2C3578%2C2013"
         }
       ]
     }
