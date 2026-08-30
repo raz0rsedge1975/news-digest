@@ -1,25 +1,17 @@
 {
-  "generated": "2026-08-30T02:00:11.000Z",
-  "timestamp": "30.8.2026, 04:00:11",
+  "generated": "2026-08-30T06:00:08.445Z",
+  "timestamp": "30.8.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Ost-West-Debatte: „Wir haben Dinge, die andere nicht haben“",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-was-sagen-politiker-zur-ost-west-debatte-201153878.html",
-          "summary": "Vor den anstehenden Landtagswahlen ist eine hitzige Ost-West-Debatte entbrannt. Ist das nötig? Wir haben ostdeutsche Politiker gefragt.",
+          "title": "Landtagswahl: Sie bewegen Sachsen-Anhalt",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wahl-sachsen-anhalt-2026-was-die-menschen-im-bundesland-bewegt-accg-201097525.html",
+          "summary": "Eine Politikerin, ein Winzer, eine Kulturmanagerin: Vor fünf Jahren haben sie der F. erzählt, was sie für ihr Bundesland erhoffen. Jetzt wird wieder gewählt. Die Sorgen sind gewachsen, obwohl im Land vieles gut läuft.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cf84fcd902ce/w6000h3135x0y433o/202608/43601.0.2461989776/das-neue-symbol-der.webp"
-        },
-        {
-          "title": "Magnus Brechtken: „Viele Westdeutsche haben mittlerweile die Nase voll“",
-          "url": "https://www.faz.net/aktuell/politik/inland/viele-westdeutsche-haben-mittlerweile-die-nase-voll-magnus-brechtken-zur-wahl-sachsen-anhalt-2026-accg-201133155.html",
-          "summary": "Was hilft gegen Spannungen zwischen Ost und West? Der stellvertretende Direktor des Instituts für Zeitgeschichte, Magnus Brechtken, schlägt vor, wütende Ostdeutsche an ein paar historische Fakten zu erinnern.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9deffc73a18b/w3617h1889x0y322o/201101/431.0.52428767/west-und-ostdeutsche-vor-dem.webp"
+          "image": "https://media0.faz.net/image/w1200h627/aaf1b6047170/w5721h2989x0y710o/202607/43601.0.2345256476/blick-auf-den-landtag-in.webp"
         },
         {
           "title": "Deutschland-Liveblog: Merkel: Wir müssen für die Demokratie kämpfen",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/07070cb47769/w8192h4280x0y1020o/202608/43601.0.2483294086/angela-merkel-in-berlin.webp"
+        },
+        {
+          "title": "Auszählung läuft noch: In Island zeichnet sich eine Mehrheit gegen EU-Beitrittsgespräche ab",
+          "url": "https://www.faz.net/aktuell/politik/ausland/island-referendum-mehrheit-gegen-eu-beitrittsgespraeche-accg-201171704.html",
+          "summary": "Noch sind in Island nicht alle Stimmen ausgezählt, doch zeichnet sich ab, dass die Argumente der Gegner eines EU-Beitritts stärker verfangen haben als die der Befürworter.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3e36b533efab/w6144h3210x0y338o/202608/43601.0.2484197444/da-schien-sich-noch-eine.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Kampf gegen Waldbrände: Was Europa von Portugal lernen kann",
-          "url": "https://www.spiegel.de/ausland/kampf-gegen-waldbraende-was-europa-von-portugal-lernen-kann-a-ba181735-32ba-4107-800b-392f5f122abb#ref=rss",
-          "summary": "Südeuropa brennt. Doch Portugal hat aus vergangenen Katastrophen gelernt. Innovative Ideen treffen dort auf Methoden, die jahrhundertealt sind.",
+          "title": "Kolumbien: Ex-Farc-Guerilleros werben im Dschungel um Touristen",
+          "url": "https://www.spiegel.de/reise/fernweh/kolumbien-ex-farc-guerilleros-werben-im-dschungel-um-touristen-a-0e2e3266-0c05-4fc9-bef9-eefc82488424#ref=rss",
+          "summary": "Im kolumbianischen Hinterland treffen Amazonas und Anden aufeinander – und bewaffnete Rebellengruppen. Genau hier laden ehemalige Kämpfer zum Raften und Wandern ein, das soll auch den Frieden fördern. Kann das gut gehen?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/edb4c81e-3afe-41a2-989e-1c566b8e7591_w1200_r1.778_fpx45_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2df73cf5-11f3-4a73-9f7f-6357d57257b3_w1200_r1.778_fpx53_fpy29.jpg"
         },
         {
           "title": "Venezuela: Wie Donald Trump sich des venezolanischen Öls bemächtigt",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Haakon hält erste emotionale Ansprache als König von Norwegen",
-          "url": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
-          "summary": "In seiner ersten Rede als norwegischer König hat Haakon VIII. seinen verstorbenen Vater geehrt. sei ein großzügiger König gewesen, der allen mit Respekt begegnet sei. Auf ihn selbst warte nun eine große Aufgabe, so Haakon.",
+          "title": "In Island zeichnet sich eine knappe Mehrheit bei EU-Referendum ab",
+          "url": "https://www.tagesschau.de/ausland/europa/island-referendum-auszaehlung-100.html",
+          "summary": "Noch sind nicht alle Stimmen in Island ausgezählt. Erste Teilergebnisse zeigen jedoch: Beim Referendum über die Aufnahme von EU-Beitrittsverhandlungen wird es sehr knapp. Mit 51,2 Prozent liegen die Befürworter derzeit vorn.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b742c2e6-7e20-4d70-b46b-25b1cfceb558/AAABoE6yGLE/AAABnSSvrFg/16x9-big/koenig-haakon-132.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/63840e3b-9bbf-40d7-a222-6c265ca4dd50/AAABoFERnF4/AAABnSSvrFg/16x9-big/island-referendum-100.jpg?width=1280"
         },
         {
-          "title": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
-          "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
-          "summary": "Nach einem schweren russischen Angriff mit 37 Toten spricht der ukrainische Präsident Selenskyj von Fahrlässigkeit. Offenbar gab es Verstöße gegen Vorschriften zur Munitionslagerung. Ermittlungen wurden eingeleitet.",
+          "title": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
+          "url": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
+          "summary": "Nach der Flut im Himalaya werden in China laut den Behörden drei Deutsche vermisst. Nepals Katastrophenschutz mahnt zur Vorsicht: Gefährlich könnte der Fluss Bhotekoshi werden. Die Zahl der Opfer stieg unterdessen auf 750.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ce38b38d-708b-4639-8e30-41461b9911e0/AAABoE7Tz3E/AAABnSSvrFg/16x9-big/ukraine-angriff-munitionslager-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dc10ea6c-cf0b-4647-bf70-3abe01b4023f/AAABoFCjxy8/AAABnSSvrFg/16x9-big/nepal-trishuli-100.jpg?width=1280"
         },
         {
-          "title": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
-          "summary": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die Straße von Hormus stark eingeschränkt. Wie viele Tanker und Frachter sie täglich passieren, ist unklar. Noch immer können Hunderte Schiffe den Persischen Golf nicht verlassen.",
+          "title": "Westjordanland: Netanjahu verurteilt Siedlergewalt ungewöhnlich scharf",
+          "url": "https://www.tagesschau.de/ausland/asien/netanjahu-westjordanland-siedlergewalt-100.html",
+          "summary": "In einem seit Wochen von israelischen Siedlern belagerten Dorf im Westjordanland ist es erneut zu Gewalt gekommen. Die Täter schadeten \"Israels Ansehen in der Welt\", kritisierte nun Premier Netanjahu.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/84516f7d-75b1-4898-a8a4-3fa5f23e39b9/AAABoE44xx0/AAABnSSvrFg/16x9-big/strasse-von-hormus-180.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/05debaec-5f81-4cfb-8f71-502f4e1cd462/AAABoFBxyg0/AAABnSSvrFg/16x9-big/netanjahu-362.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Trumps Erdöl-Deal mit Venezuela wirft Fragen auf",
+          "url": "https://www.sueddeutsche.de/politik/venezuela-usa-erdoel-deal-trump-rodriguez-li.3539062",
+          "summary": "Der US-Präsident stellt seine Vereinbarung mit Venezuela als großen Erfolg dar:  Nun würden die Benzinpreise in den USA sinken. Kritiker sprechen von Imperialismus – und warnen vor einem Fiasko.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/30/9a71777b-06b5-419e-be97-fa06ce2b6510.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
           "title": "BVB in der Bundesliga: Ein Sieg, begleitet von Sorgen",
           "url": "https://www.sueddeutsche.de/sport/bvb-hsv-bundesliga-li.3539120",
           "summary": "Konstantelias und Karetsas, diese beiden neuen Griechen verhelfen der Borussia zu einem 2:0 gegen den HSV - doch einer verletzt sich offenbar schwerer.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/29/1ff5d015-52d0-4543-94be-20216f00fc83.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C229%2C4000%2C2250"
-        },
-        {
-          "title": "Erster Spieltag der Bundesliga: Ebnoutalib trifft dreifach, aber die letzte Aktion gehört Union",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-erster-spieltag-ueberblick-elversberg-li.3539078",
-          "summary": "Frankfurts Stürmer zeigt einen starken Auftritt, ehe die Berliner doch noch zurückkommen. Leipzigs Fußball unter dem neuen Trainer Demichelis sieht schon ganz gut aus – auch Köln erlebt Spektakel. Alles Wichtige zum Spieltag.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/29/4c111306-53b1-4d4d-9eaa-e93b6a4f5fd9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C71%2C3500%2C1969"
         }
       ]
     }
