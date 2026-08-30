@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-30T06:00:08.445Z",
-  "timestamp": "30.8.2026, 08:00:08",
+  "generated": "2026-08-30T10:00:08.825Z",
+  "timestamp": "30.8.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Landtagswahl: Sie bewegen Sachsen-Anhalt",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wahl-sachsen-anhalt-2026-was-die-menschen-im-bundesland-bewegt-accg-201097525.html",
-          "summary": "Eine Politikerin, ein Winzer, eine Kulturmanagerin: Vor fünf Jahren haben sie der F. erzählt, was sie für ihr Bundesland erhoffen. Jetzt wird wieder gewählt. Die Sorgen sind gewachsen, obwohl im Land vieles gut läuft.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/aaf1b6047170/w5721h2989x0y710o/202607/43601.0.2345256476/blick-auf-den-landtag-in.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Merkel: Wir müssen für die Demokratie kämpfen",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-merkel-wir-muessen-fuer-die-demokratie-kaempfen-faz-110093143.html",
-          "summary": "Altkanzlerin äußert sich zur Wahl in Sachsen-Anhalt +++ Siegmund: Entweder „Blutwurstkoalition“ oder ein AfD-Ministerpräsident +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/07070cb47769/w8192h4280x0y1020o/202608/43601.0.2483294086/angela-merkel-in-berlin.webp"
-        },
-        {
-          "title": "Auszählung läuft noch: In Island zeichnet sich eine Mehrheit gegen EU-Beitrittsgespräche ab",
+          "title": "Referendum: Mehrheit in Island lehnt EU-Beitrittsgespräche ab",
           "url": "https://www.faz.net/aktuell/politik/ausland/island-referendum-mehrheit-gegen-eu-beitrittsgespraeche-accg-201171704.html",
-          "summary": "Noch sind in Island nicht alle Stimmen ausgezählt, doch zeichnet sich ab, dass die Argumente der Gegner eines EU-Beitritts stärker verfangen haben als die der Befürworter.",
+          "summary": "In Island sind alle Stimmen für das Referendum ausgezählt. Das Ergebnis zeigt: Die Argumente der Gegner eines EU-Beitritts haben stärker verfangen als die der Befürworter.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3e36b533efab/w6144h3210x0y338o/202608/43601.0.2484197444/da-schien-sich-noch-eine.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d21b1e12908d/w4545h2374x396y252o/202608/43601.0.2483868879/wahlkaempfer-die-sich-gegen-eu.webp"
+        },
+        {
+          "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+          "summary": "Wir erleben einen epochalen Umbruch. Der Übergang in die KI-Ära wird zu den unruhigsten Phasen der Menschheitsgeschichte gehören. Bislang bereiten wir uns nicht ausreichend darauf vor. Was uns droht – und was zu tun ist.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/aa7fb71c3fc7/w4911h2565x0y364o/202602/43601.0.1796871408/microsoft-mitgruender-bill.webp"
+        },
+        {
+          "title": "Deutschland-Liveblog: SPD-Politiker unterstützen Vorstoß für AfD-Verbot von Pistorius und Özdemir",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-spd-politiker-unterstuetzen-vorstoss-fuer-afd-verbot-von-pistorius-und-oezdemir-faz-110093143.html",
+          "summary": "Gastbeitrag in der F.A.S. fordert Verbot völkischer Landesverbände +++ Merkel vor Wahl in Sachsen-Anhalt: Wir müssen für die Demokratie kämpfen +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cb7f2474985c/w6132h3203x0y398o/202607/43601.0.2375285246/sebastian-fiedler-spd-mitglied.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Kolumbien: Ex-Farc-Guerilleros werben im Dschungel um Touristen",
-          "url": "https://www.spiegel.de/reise/fernweh/kolumbien-ex-farc-guerilleros-werben-im-dschungel-um-touristen-a-0e2e3266-0c05-4fc9-bef9-eefc82488424#ref=rss",
-          "summary": "Im kolumbianischen Hinterland treffen Amazonas und Anden aufeinander – und bewaffnete Rebellengruppen. Genau hier laden ehemalige Kämpfer zum Raften und Wandern ein, das soll auch den Frieden fördern. Kann das gut gehen?",
+          "title": "Island: Isländer stimmen gegen EU-Beitrittsverhandlungen",
+          "url": "https://www.spiegel.de/ausland/island-islaender-stimmen-gegen-eu-beitrittsgespraeche-a-b81e30b2-02b5-4060-82a6-6ccac768c6c1#ref=rss",
+          "summary": "Es war ein enges Rennen, doch am Ende waren die Gegner in der Mehrheit: Island wird die EU-Beitrittsverhandlungen nicht wieder aufnehmen. Für Ministerpräsidentin Frostadóttir ist dies eine Niederlage.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2df73cf5-11f3-4a73-9f7f-6357d57257b3_w1200_r1.778_fpx53_fpy29.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/036506bd-d020-4a16-88c4-d68fab3c2104_w1200_r1.778_fpx58.2_fpy50.jpg"
         },
         {
-          "title": "Venezuela: Wie Donald Trump sich des venezolanischen Öls bemächtigt",
-          "url": "https://www.spiegel.de/ausland/venezuela-wie-donald-trump-sich-des-venezolanischen-oels-bemaechtigt-a-ffa3426a-70dc-440d-83dc-b1c4b2f9d932#ref=rss",
-          "summary": "US-Präsident Donald Trump sichert sich einen Großteil von Venezuelas Öl. Die Vereinbarung festigt die Macht des Regimes in Caracas, die Demokratisierung muss warten.",
+          "title": "News: Friedrich Merz redet übers Wetter, sinkende Wasserpegel, ignorierte Klimapolitik",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-redet-uebers-wetter-sinkende-wasserpegel-ignorierte-klimapolitik-a-905ff8f0-2840-493e-b4ed-de886f27261c#ref=rss",
+          "summary": "Blauer Himmel ist nicht nur ein Grund zur Freude, wie dieser Sommer gezeigt hat. Ist das schon beim Bundeskanzler angekommen? Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/09747182-888f-4768-b995-cc0c2910b048_w1200_r1.778_fpx55.51_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Angela Merkel fordert von Deutschland, »richtig für diese Demokratie zu kämpfen«",
-          "url": "https://www.spiegel.de/politik/deutschland/angela-merkel-fordert-von-deutschland-richtig-fuer-diese-demokratie-zu-kaempfen-a-d0f05fb5-982d-4786-97d3-6cccd952faaf#ref=rss",
-          "summary": "Die AfD könnte demnächst ein Bundesland regieren. Ex-Kanzlerin Angela Merkel sieht den Aufstieg die Rechten als gesamtdeutsches Phänomen – und als Auftrag, sich für demokratische Werte geradezumachen.",
+          "title": "Photovoltaik: Wie die Solarenergie weltweit zur wichtigsten Stromquelle wird",
+          "url": "https://www.spiegel.de/wissenschaft/technik/photovoltaik-wie-die-solarenergie-weltweit-zur-wichtigsten-stromquelle-wird-a-39814a29-2095-49b5-80c5-860bcff5ace5#ref=rss",
+          "summary": "Die lange belächelte Photovoltaik erlebt einen beispiellosen Aufschwung. Sie dürfte die Welt in ein neues Energiezeitalter führen, ganze Solarstädte werden denkbar. Deutsche Forscher arbeiten gleich an mehreren entscheidenden Technologien.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/eda83ca5-904a-4822-b6d7-3b7b7aaffeb3_w1200_r1.778_fpx49.32_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6a808b3d-122d-4252-8ee2-9d1d76f0f504_w1200_r1.778_fpx51_fpy42.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "In Island zeichnet sich eine knappe Mehrheit bei EU-Referendum ab",
-          "url": "https://www.tagesschau.de/ausland/europa/island-referendum-auszaehlung-100.html",
-          "summary": "Noch sind nicht alle Stimmen in Island ausgezählt. Erste Teilergebnisse zeigen jedoch: Beim Referendum über die Aufnahme von EU-Beitrittsverhandlungen wird es sehr knapp. Mit 51,2 Prozent liegen die Befürworter derzeit vorn.",
+          "title": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
+          "url": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
+          "summary": "Die Menschen in Island haben sich gegen die Wiederaufnahme von Beitrittsverhandlungen mit der Europäischen Union entschieden. Das Ergebnis des Referendums fiel mit 52,8 zu 47,2 der Stimmen allerdings knapp aus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/63840e3b-9bbf-40d7-a222-6c265ca4dd50/AAABoFERnF4/AAABnSSvrFg/16x9-big/island-referendum-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7163840d-c293-4920-a87d-5ec9112a0e14/AAABoFIL5oM/AAABnSSvrFg/16x9-big/island-246.jpg?width=1280"
         },
         {
-          "title": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
-          "url": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
-          "summary": "Nach der Flut im Himalaya werden in China laut den Behörden drei Deutsche vermisst. Nepals Katastrophenschutz mahnt zur Vorsicht: Gefährlich könnte der Fluss Bhotekoshi werden. Die Zahl der Opfer stieg unterdessen auf 750.",
+          "title": "Superreiche in New York: \"Wir wollen mehr Steuern zahlen\"",
+          "url": "https://www.tagesschau.de/ausland/amerika/new-york-reichensteuer-millionaere-100.html",
+          "summary": "Eine Gruppe schwerreicher New Yorker fordert, höher besteuert zu werden. In ihrem neuen Bürgermeister Mamdani haben sie dabei einen politischen Mitstreiter - dessen Mantra im Wahlkampf war \"tax the rich\". Von Marion Schmickler.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/dc10ea6c-cf0b-4647-bf70-3abe01b4023f/AAABoFCjxy8/AAABnSSvrFg/16x9-big/nepal-trishuli-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/881c279e-b4ad-438c-8d35-aa994a9331da/AAABoEg8WVg/AAABnSSvrFg/16x9-big/strassenszene-new-york-100.jpg?width=1280"
         },
         {
-          "title": "Westjordanland: Netanjahu verurteilt Siedlergewalt ungewöhnlich scharf",
-          "url": "https://www.tagesschau.de/ausland/asien/netanjahu-westjordanland-siedlergewalt-100.html",
-          "summary": "In einem seit Wochen von israelischen Siedlern belagerten Dorf im Westjordanland ist es erneut zu Gewalt gekommen. Die Täter schadeten \"Israels Ansehen in der Welt\", kritisierte nun Premier Netanjahu.",
+          "title": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
+          "url": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
+          "summary": "Bei einem Rave im schweizerischen Aarau, westlich von Zürich, sind in der Nacht Schüsse gefallen. Die Polizei spricht von einer Toten und fünf Verletzten. Die Hintergründe der Tat sind noch unklar.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/05debaec-5f81-4cfb-8f71-502f4e1cd462/AAABoFBxyg0/AAABnSSvrFg/16x9-big/netanjahu-362.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c0866936-be1e-4681-b064-322e42b0c306/AAABoFFFEhg/AAABnSSvrFg/16x9-big/aarau-schuesse-polizei-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Ernteausfälle und ausbleibende Hilfen erzeugen Unmut bei Obst- und Gemüsebauern",
+          "url": "https://www.telepolis.de/article/Ernteausfaelle-und-ausbleibende-Hilfen-erzeugen-Unmut-bei-Obst-und-Gemuesebauern-11425013.html",
+          "summary": "Wetterextreme führen zu erheblichen Ernteeinbußen bei Obst. Obstbauern machen in einem Brandbrief ihren Sorgen Luft.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/2/7/4/0/apfel-cut_Zeichenfla__che_1-7bdf8ecc4bf9152a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Israel gegen die Türkei: Der nächste Machtkampf im Nahen Osten",
+          "url": "https://www.telepolis.de/article/Israel-gegen-die-Tuerkei-Der-naechste-Machtkampf-im-Nahen-Osten-11431489.html",
+          "summary": "Während der Iran-Krieg Aufmerksamkeit bindet, verschärft sich der Konflikt zwischen zwei wichtigen US-Verbündeten. Zum entscheidenden Schauplatz wird Syrien.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/4/0/7/9/Tu__rkei-Israel_Zeichenfla__che_1-533b7c45c9cfa10c.gif"
+        },
+        {
           "title": "Ukraine-Hilfe ohne Ziel: Solidarität ist kein Blankoscheck",
           "url": "https://www.telepolis.de/article/Ukraine-Hilfe-ohne-Ziel-Solidaritaet-ist-kein-Blankoscheck-11434405.html",
           "summary": "Russland ist der Aggressor. Doch Waffen ohne klares Ziel und politische Milde gegenüber Kiew zeigen: Der Westen verwechselt Moral mit Strategie. Kommentar.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/5/4/6/Master_Ukraine-2872fbcc562d93c2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Der letzte Anker im Dorf: Warum Brandenburgs Feuerwehren unverzichtbar sind",
-          "url": "https://www.telepolis.de/article/Der-letzte-Anker-im-Dorf-Warum-Brandenburgs-Feuerwehren-unverzichtbar-sind-11432502.html",
-          "summary": "Brandenburgs Dörfer verlieren Läden, Ärzte, junge Leute. Doch in Stolzenhain zeigt sich: Die Freiwillige Feuerwehr hält zusammen, was sonst auseinanderfällt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/4/5/9/5/DSC_1407-f467991bf5aa2939.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Chinas C919: Der Passagierjet, den Peking nicht in Serie bekommt",
-          "url": "https://www.telepolis.de/article/Chinas-C919-Der-Passagierjet-den-Peking-nicht-in-Serie-bekommt-11434305.html",
-          "summary": "China beherrscht die industrielle Massenproduktion. Doch beim Flugzeugbau zählen Erfahrung, Lieferketten und ein Gedächtnis, das sich nicht kaufen lässt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/4/9/6/Master_Top_c919-3388b5c708c5c50b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Trumps Erdöl-Deal mit Venezuela wirft Fragen auf",
-          "url": "https://www.sueddeutsche.de/politik/venezuela-usa-erdoel-deal-trump-rodriguez-li.3539062",
-          "summary": "Der US-Präsident stellt seine Vereinbarung mit Venezuela als großen Erfolg dar:  Nun würden die Benzinpreise in den USA sinken. Kritiker sprechen von Imperialismus – und warnen vor einem Fiasko.",
+          "title": "Leute: Johnny Depp trifft Johnny Däpp",
+          "url": "https://www.sueddeutsche.de/panorama/johnny-depp-johnny-daepp-lorenz-bueffel-hollywood-ballermann-promis-li.3539255",
+          "summary": "Ein Hollywoodstar begegnet einen Ballermann-Sänger. Eine Anwältin stillt ihr Baby im Gericht. Und ein norwegischer Monarch bedankt sich emotional bei seinem Papa.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/30/9a71777b-06b5-419e-be97-fa06ce2b6510.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/30/582f2a06-cc42-4d6e-b927-611d71a302d0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C44%2C910%2C512"
         },
         {
-          "title": "BVB in der Bundesliga: Ein Sieg, begleitet von Sorgen",
-          "url": "https://www.sueddeutsche.de/sport/bvb-hsv-bundesliga-li.3539120",
-          "summary": "Konstantelias und Karetsas, diese beiden neuen Griechen verhelfen der Borussia zu einem 2:0 gegen den HSV - doch einer verletzt sich offenbar schwerer.",
+          "title": "Referendum: Isländer stimmen gegen EU-Beitrittsverhandlungen",
+          "url": "https://www.sueddeutsche.de/politik/island-abstimmung-eu-betritt-li.3539225",
+          "summary": "Gespaltene Insel: Fast 53 Prozent der Bevölkerung Islands sind nicht daran interessiert, neue Verhandlungen mit Brüssel aufzunehmen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/29/48be7f52-f00c-4238-9f33-215c85508bf1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C193%2C3356%2C1888"
+          "image": "https://www.sueddeutsche.de/2026/08/30/b6b6b33f-773c-4678-8288-7125b98e1356.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C287%2C4000%2C2250"
         },
         {
-          "title": "Bundesliga: Elversberg schafft eine gewaltige Überraschung",
-          "url": "https://www.sueddeutsche.de/sport/elversberg-bundesliga-leverkusen-li.3539109",
-          "summary": "Underdog-Fußball? Nervosität? Nicht beim kleinen Aufsteiger aus dem Saarland. Beim 3:2 gegen verdutzte Leverkusener zeigt Elversberg genau den Mut, der dem Klub den Aufstieg beschert hatte.",
+          "title": "SV Elversberg: Leverkusen erlebt eine  saarländische Gruselgeschichte",
+          "url": "https://www.sueddeutsche.de/sport/bundesliga-elversberg-aufsteiger-erster-sieg-leverkusen-li.3539221",
+          "summary": "Ein Underdog, der gar keinen Underdog-Fußball spielt: Bayer Leverkusen wird das erste Opfer der Elversberger Unbekümmertheit. Doch Trainer Wagner warnt: „Der Weg ist noch sehr, sehr weit.“",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/29/1ff5d015-52d0-4543-94be-20216f00fc83.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C229%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/30/507c5a6d-4e84-44c4-bd1e-417b8b481ebe.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C34%2C3000%2C1687"
         }
       ]
     }
