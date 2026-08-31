@@ -1,10 +1,18 @@
 {
-  "generated": "2026-08-31T02:00:07.977Z",
-  "timestamp": "31.8.2026, 04:00:07",
+  "generated": "2026-08-31T06:00:07.848Z",
+  "timestamp": "31.8.2026, 08:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "SPD-Kommunalpolitiker: Für ihn stimmen sogar AfD-Wähler",
+          "url": "https://www.faz.net/aktuell/politik/inland/felix-schwenke-wie-die-spd-in-offenbach-die-afd-schlaegt-accg-201090847.html",
+          "summary": "Wo die SPD pragmatisch regiert, kann sie erfolgreich sein. Im ewig kriselnden Offenbach gelingt Felix Schwenke der Aufschwung seiner Stadt – und der Partei.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/81d3ca987134/w8256h4313x0y1026o/202608/43601.0.2451521669/das-offenbacher-rathaus.webp"
+        },
         {
           "title": "Sommerinterview der ARD: Gebt Merz mehr Zeit!",
           "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-zum-sommerinterview-mit-friedrich-merz-gebt-dem-kanzler-mehr-zeit-201173352.html",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/6dfc5be17456/w6144h3210x0y500o/202608/43601.0.2486813935/kanzleramtschefin-nina-warken.webp"
-        },
-        {
-          "title": "Wahl in Sachsen-Anhalt: Schulze gegen die blaue Welle",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-wie-sven-schulze-gegen-die-blaue-welle-kaempft-accg-201102227.html",
-          "summary": "Wahlkampf in Sachsen-Anhalt: Wie Sven Schulze gegen die blaue Welle kämpft",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
         }
       ]
     },
@@ -37,10 +37,18 @@
         {
           "title": "Schüsse in Aarau: Wer tötete auf einer Schweizer Technoparty?",
           "url": "https://www.spiegel.de/ausland/schuesse-in-aarau-wer-toetete-auf-einer-schweizer-technoparty-a-e67b1ab2-697e-4f13-9285-a25729635962#ref=rss",
-          "summary": "Mitten in der Schweiz wurde eine junge Frau erschossen, fünf Menschen sind teils schwer verletzt. Doch fast 24 Stunden später fehlt jede Spur von den Tätern, nicht einmal ihre Zahl ist bekannt. Die Polizei hält sich aufallend bedeckt.",
+          "summary": "Mitten in der Schweiz wurde eine junge Frau erschossen, fünf Menschen sind teils schwer verletzt. Doch fast 24 Stunden später fehlt jede Spur von den Tätern, nicht einmal ihre Zahl ist bekannt. Die Polizei hält sich auffallend bedeckt.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/1fd9da3a-808e-4727-8318-7a30cfa6db52_w1200_r1.778_fpx45.35_fpy50.jpg"
+        },
+        {
+          "title": "News: Schüsse auf Rave in der Schweiz, Angriffe auf die Ukraine, Flutkatastrophe in Nepal und Tibet",
+          "url": "https://www.spiegel.de/politik/deutschland/news-schuesse-auf-rave-in-der-schweiz-angriffe-auf-die-ukraine-flutkatastrophe-in-nepal-und-tibet-a-1d35ba2b-7d09-48c3-b545-4790a58548f3#ref=rss",
+          "summary": "In der Schweiz fallen Schüsse auf einem Rave, in Nepal schwindet die Hoffnung, die Ukraine hat erneut ein Wochenende voller Angriffe hinter sich. Das ist die Lage am Montagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Nepal und Tibet: Warum aus Tibet so wenig über die Sturzflut bekannt ist",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/bdfa8034-4ef6-4cd1-ae93-f2fffbdca5b8_w1200_r1.778_fpx30_fpy55.jpg"
-        },
-        {
-          "title": "Nepal: nach Flutkatastrophe im Himalaja noch immer viele Orte abgeschnitten",
-          "url": "https://www.spiegel.de/ausland/nepal-nach-flutkatastrophe-im-himalaja-noch-immer-viele-orte-abgeschnitten-a-b9d71b6f-696b-4e26-985b-4951166e1eb4#ref=rss",
-          "summary": "Ganze Dörfer wurden ausgelöscht, einige Orte sind kaum zu erreichen. Als einer der ersten internationalen Journalisten gelangte SPIEGEL-Reporter Serafin Reiber ins schwer zugängliche Katastrophengebiet und trifft auf Menschen, die fast alles verloren haben.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7671cbbf-57b9-4794-a87f-070fbda9dbc4_w1200_r1.778_fpx41_fpy59.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nach Sturzflut im Grand Canyon: Suche nach 15 Menschen",
+          "title": "Nach Sturzflut im Himalaya: Kinder allein nach Flut",
+          "url": "https://www.tagesschau.de/ausland/asien/nepal-erdrutsch-gerettete-kinder-100.html",
+          "summary": "Die verheerende Flut in Nepal und Tibet hat mehr als 900 Menschen getötet. Die Überlebenden stehen meist vor dem Nichts - darunter auch viele Kinder. Ihre Rettung verlief dramatisch. Wie geht es für sie weiter? Von Lena Bodewein.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/31534bc7-19be-4821-8927-8b7120bb25b7/AAABoFZeNiM/AAABnSSvrFg/16x9-big/nepal-kinder-100.jpg?width=1280"
+        },
+        {
+          "title": "Marktbericht: Steigende Ölpreise belasten Aktienmarkt",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+          "summary": "Nach einem erneuten militärischen Schlagabtausch im Nahen Osten ziehen die Ölpreise deutlich an. Hinzu kommen neue Zinssorgen in den USA. Der DAX dürfte zum Wochenstart mit negativen Vorzeichen starten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1280"
+        },
+        {
+          "title": "Nach Sturzflut im Grand Canyon: Ein Toter und mehrere Vermisste",
           "url": "https://www.tagesschau.de/ausland/amerika/sturzflut-100.html",
-          "summary": "Nach einer Sturzflut im Grand Canyon Nationalpark im Westen der USA wird nach 15 Menschen gesucht. Es ist unklar, ob die Menschen vermisst werden oder ob sie sich woanders aufhalten. Die plötzliche Flut hatte sich am Samstag ereignet.",
+          "summary": "Eine Sturzflut im Grand Canyon Nationalpark im Westen der USA hat einen Menschen getötet, nach 15 Menschen wird noch gesucht. Es ist unklar, ob die Menschen vermisst werden oder ob sie sich woanders aufhalten.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/3f56ad84-13d9-4187-afc0-47fab95fc621/AAABoFVb7OI/AAABnSSvrFg/16x9-big/sturzflut-grand-canyon-100.jpg?width=1280"
-        },
-        {
-          "title": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
-          "url": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
-          "summary": "Nach den tödlichen Schüssen bei einem Rave in Aarau ermitteln die Schweizer Behörden auch in Richtung eines Terroraktes. Möglich seien ebenfalls ein Amoklauf oder ein anderes kriminelles Motiv. Unter den Verletzten ist eine deutsche Frau.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c28c4bfa-0fd8-44fa-a899-11c8f9d7ca2d/AAABoFUiz4M/AAABnSSvrFg/16x9-big/pressekonferenz-aarau-100.jpg?width=1280"
-        },
-        {
-          "title": "USA greifen offenbar iranische Raketenwerfer an",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
-          "summary": "Nachdem sich die USA zuletzt zurückhaltend in Bezug auf Iran gezeigt hatten, haben sie nun offenbar erneut angegriffen. Ziel waren iranische Raketenwerfer auf der Insel Larak. Iran griff unmittelbar danach zwei US-Stützpunkte in Jordanien an.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1ed07d0b-b49f-49a3-9aca-8ffd37185d83/AAABnrDnu6s/AAABnSSvrFg/16x9-big/karte-jordanien-irak-iran-teheran-strasse-von-hormus-kuwait-bahrain-100.jpg?width=1280"
         }
       ]
     },
@@ -122,17 +122,17 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Flutkatastrophe in Nepal: Schulleiter rettete wohl Hunderte Schüler in letzter Sekunde",
-          "url": "https://www.sueddeutsche.de/panorama/nepal-flut-schulleiter-rettung-li.3539571",
-          "summary": "Etwa 900 Schüler flohen zu Fuß und mit dem Bus, kurz bevor die Flut das Schulgebäude traf. Schulbusse mit Hunderten weiteren Kindern dirigierte ein geistesgegenwärtiger Schulleiter rechtzeitig um.",
+          "title": "Flutkatastrophe in Nepal: Schulleiter rettete wohl Hunderte Schüler – Kritik an Massenbestattungen",
+          "url": "https://www.sueddeutsche.de/panorama/nepal-flut-schulleiter-rettung-massenbestattungen-li.3539571",
+          "summary": "Etwa 900 Schüler konnten dank einer Vorabwarnung fliehen, kurz bevor die Flut das Schulgebäude traf. In Nepal werden die ersten Opfer der Katastrophe in Massengräbern beigesetzt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/30/b1874741-6a27-4d1c-b0dd-64812120cf3c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/30/b1874741-6a27-4d1c-b0dd-64812120cf3c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C295%2C3636%2C2045"
         },
         {
-          "title": "Krieg in Nahost: Medien: US-Militär greift iranische Raketenwerfer an",
+          "title": "Krieg in Nahost: USA greifen erstmals seit Wochen Iran an – Teheran reagiert",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-news-strasse-von-hormus-raketenwerfer-li.3530668",
-          "summary": "Das US-Militär hat Medienberichten zufolge erstmals seit Ende Juli wieder Angriffe in Iran geflogen. Ziel waren demnach zwei Raketenwerfer.",
+          "summary": "Ziel seien zwei Raketenwerfer auf der Insel Larak gewesen, berichten mehrere Medien unter Berufung auf einen US-Beamten. Iran reagiert offenbar mit Attacken auf US-Stützpunkte.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/11/1edd74f6-6adc-4824-a21c-19d51e99f8de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C106%2C2048%2C1152"
