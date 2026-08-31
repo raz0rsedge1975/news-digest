@@ -1,33 +1,33 @@
 {
-  "generated": "2026-08-31T14:00:10.416Z",
-  "timestamp": "31.8.2026, 16:00:10",
+  "generated": "2026-08-31T18:00:10.765Z",
+  "timestamp": "31.8.2026, 20:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "AfD-Spitzenkandidat: Ulrich Siegmund, eine der cleversten Ideen der AfD",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-ulrich-siegmund-die-cleverste-idee-der-afd-201169497.html",
-          "summary": "Andere Parteien machen bloßen Wahlkampf, die AfD erzählt eine Heilsgeschichte rund um ihren Spitzenkandidaten. Und Scharen von Menschen suchen seine Nähe.",
+          "title": "Neue Briefwahlregeln: Was Trumps Briefwahl-Manöver für die Midterms bedeutet",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-und-die-briefwahl-manoever-im-schlussspurt-201173612.html",
+          "summary": "Zwei Monate vor den Kongresswahlen versucht Donald Trump, auf dem Verordnungswege das Wahlrecht zu ändern. Doch die Justiz erweist sich als Hürde.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1c1f466a8c38/w3006h1570x46y489o/202608/43601.0.2465214114/das-land-retten-ulrich.webp"
+          "image": "https://media0.faz.net/image/w1200h627/153b99ed7d0e/w8416h4397x0y801o/202608/43601.0.2479784884/demonstranten-versammelten.webp"
         },
         {
-          "title": "Wahl in Sachsen-Anhalt: Schulze gegen die blaue Welle",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-wie-sven-schulze-gegen-die-blaue-welle-kaempft-accg-201102227.html",
-          "summary": "Wahlkampf in Sachsen-Anhalt: Wie Sven Schulze gegen die blaue Welle kämpft",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
-        },
-        {
-          "title": "„Deutschland spricht“: „Warum soll ich mich mit siebzig noch ins Zeug legen? Das liegt an euch“",
-          "url": "https://www.faz.net/aktuell/deutschland-spricht/deutschland-spricht-sollten-parteien-offen-fuer-alle-koalitionen-sein-accg-201173469.html",
-          "summary": "Eine Archivarin aus dem Frankfurter Ostend erkennt in der Sprache der AfD die Akten von damals. Eine CDU-Frau aus dem Westend will grundsätzlich für alle Koalitionen offenbleiben. Bei „Deutschland spricht“ treffen sie aufeinander.",
+          "title": "Umbau der Penn Station: Gibt Trump New York seinen alten Glanz zurück?",
+          "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/architektur/umbau-penn-station-gibt-trump-new-york-seinen-alten-glanz-zurueck-201168125.html",
+          "summary": "Es war der größte Frevel in der Architekturgeschichte von New York: der Abriss von Penn Station. Nun soll ein wenig Glanz in den Bahnhof zurückkehren",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fcd48ec6985f/w6599h3447x133y398o/202608/43601.0.2487411593/wenn-ich-dich-unterbreche.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e0908dc0eb40/w6000h3135x0y374o/202608/43601.0.2478543887/penn-station-in-new-york-nach.webp"
+        },
+        {
+          "title": "Pentagon gegen Journalisten: Pete Hegseth und die schwarze Liste",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/us-pentagon-soll-schwarze-liste-mit-journalisten-fuehren-201171982.html",
+          "summary": "Führt das US-Verteidigungsministerium eine schwarze Liste mit Journalisten? Aber nein, heißt es aus dem Pentagon. Es spricht viel dafür, dass das gelogen ist. Darauf deutet ein Beispiel hin.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/2e7c0e86eec5/w4199h2193x0y275o/202608/43601.0.2473132729/er-will-nur-heldengeschichten.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Philipp Amthor von der CDU: Der Staatsnerd",
-          "url": "https://www.spiegel.de/politik/deutschland/philipp-amthor-von-der-cdu-der-staatsnerd-a-3f70daf2-4fdc-4fdf-ad83-1a2077d630d7#ref=rss",
-          "summary": "Der neue Staatsminister Philipp Amthor findet, dass die Schlauesten, Fleißigsten und Robusteten Politiker werden sollten. Auch deswegen ging er selbst in die Politik. Wie weit kann er noch kommen?",
+          "title": "Anschlag in Leipzig: Friedrich Merz will Verantwortliche benennen – und muss eine mögliche Gegenreaktion einkalkulieren",
+          "url": "https://www.spiegel.de/politik/deutschland/anschlag-in-leipzig-friedrich-merz-will-verantwortliche-benennen-und-muss-eine-moegliche-gegenreaktion-einkalkulieren-a-280d41ea-17fb-4a12-af2a-23906b93f920#ref=rss",
+          "summary": "Der Kanzler will in den »nächsten Tagen« sagen, wer hinter dem gescheiterten Drohnenanschlag auf dem Leipziger Flughafen steckt. Was auf Russland hindeutet und wie Deutschlands Antwort ausfallen könnte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/06160643-19df-4935-bd2d-652b0dd5d646_w1200_r1.778_fpx47_fpy42.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/78fe1f4b-0457-4f5a-b865-64727636db0e_w1200_r1.778_fpx66.01_fpy44.98.jpg"
+        },
+        {
+          "title": "News des Tages: Iran, Wahlkampf mit Merz, Nosferatu-Spinne",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-iran-wahlkampf-mit-merz-nosferatu-spinne-a-5bd3e79d-d789-441a-89a6-13fdd52e23f3#ref=rss",
+          "summary": "Satellitenbilder zeigen, dass Iran eine mutmaßliche Nuklearanlage wohl bereits repariert. Friedrich Merz steigt in den Wahlkampf in Sachsen-Anhalt ein. Und die Nosferatu-Spinne ist da – nur diesmal ohne Bild. Das ist die Lage am Montagabend.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Iran-Krieg: Satellitenbilder zeigen Wiederaufbau von Atomanlagen und militärischen Einrichtungen",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c0a98d6f-c4b6-44fa-852c-775100ac2454_w1200_r1.778_fpx50_fpy50.jpg"
-        },
-        {
-          "title": "AfD in Sachsen-Anhalt: »Ich werde diesen Typen nicht die Hand schütteln«",
-          "url": "https://www.spiegel.de/kultur/afd-in-sachsen-anhalt-ich-werde-diesen-typen-nicht-die-hand-schuetteln-a-7f400135-676d-4a6d-ad2e-c58d09826480#ref=rss",
-          "summary": "Wie bereiten sich Sachsen-Anhalts Kulturinstitutionen auf einen möglichen rechtsextremen Ministerpräsidenten vor? Stimmen aus einem verunsicherten, ratlosen, kämpferischen Land.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6e315db0-e6b1-483d-9105-95152808205a_w1200_r1.778_fpx51_fpy39.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
-          "url": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html",
-          "summary": "Der Streit zwischen Spanien und Italien nach dem Ansturm auf die Exklave Ceuta dauert an. Beide Staaten verlängerten gegenseitige Grenzkontrollen. Die spanische Regierung erhebt zudem Vorwürfe in Richtung Israel und Russland.",
+          "title": "Warntag, Steuer, Garantie: Was sich im September ändert",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html",
+          "summary": "Nicht erschrecken: Im September gibt es bundesweit Alarm - beim Warntag werden Sirenen und Warn-Apps getestet. Ein neues Label zeigt künftig die Garantiezeit. Und es gibt Vereinfachungen bei Steuerberatungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7ea56b2a-5aa9-427e-8b5f-b6639cb05854/AAABoFeEO34/AAABnSSvrFg/16x9-big/ceuta-migranten-136.jpg?width=1280"
+          "image": "https://images.mdr.de/image/23e79a20-96d3-45d3-9e89-43ee0c5be553/AAABoBUzkR4/AAABnSSvrFg/16x9-big/sirene-168.webp?width=1920"
         },
         {
-          "title": "Marktbericht: Ölpreise klettern wieder",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html",
-          "summary": "Neue Angriffe im Persischen Golf treiben die Ölpreise wieder nach oben. Neue Entwicklungen in Venezuela könnten aber Entlastung bringen - insbesondere ein Austritt aus der OPEC. Von Detlev Landmesser.",
+          "title": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html",
+          "summary": "Vor 50 Jahren ging der erste Indexfonds für Privatanleger an den Start. Er gilt als Vorläufer der heutigen ETFs und hat den Vermögensaufbau an der Börse einem breiteren Publikum geöffnet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/723280c7-fea3-4931-a7ca-5adecb55e3ed/AAABn2ABTew/AAABnSSvrFg/16x9-big/oel-234.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1b9ec540-5837-49bb-9d62-d36c70517527/AAABoFgKQEg/AAABnSSvrFg/16x9-big/new-york-408.jpg?width=1280"
         },
         {
-          "title": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html",
-          "summary": "Das Leben in Deutschland hat sich im August weiter verteuert. Die Verbraucherpreise lagen zuletzt um 2,9 Prozent über dem Niveau des Vorjahresmonats. Der Grund sind gestiegene Ölpreise und auch das Rhein-Niedrigwasser.",
+          "title": "Wadephul in Tunesien und Algerien: Mehr Stabilität - für weniger Migration",
+          "url": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-100.html",
+          "summary": "Außenminister Wadephul will bei Besuchen in Tunesien und Algerien für mehr Zusammenarbeit in Wirtschaft und Sicherheit werben. Er sieht dort entscheidende Hebel, um die Migration aus Nordafrika zu verringern.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/62c991dc-20f0-4df6-9f33-00d3cf68a08e/AAABoFfErXI/AAABnSSvrFg/16x9-big/tanken-224.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/794639eb-76b3-4435-b9a6-d06d78f38319/AAABoFiOmwY/AAABnSSvrFg/16x9-big/wadephul-nafti-tunesien-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fachkräftemangel: Azubis können sich ein eigenständiges Leben kaum noch leisten",
-          "url": "https://www.sueddeutsche.de/wirtschaft/fachkraefte-deutschland-azubis-wohnungsmarkt-regierung-li.3537599",
-          "summary": "Kanzler Merz wirbt bei jungen Menschen öffentlichkeitswirksam für eine Ausbildung. Doch wer sich dafür entscheidet, kommt mit dem geringen Azubi-Gehalt selten über die Runden. Es ist höchste Zeit, dass die Regierung handelt.",
+          "title": "Bundespolitik: Pfiffe für Merz bei seiner Wahlkampfpremiere im Osten",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-merz-kuehlungsborn-auftritt-pfiffe-li.3529564",
+          "summary": "Bei einem Wahlkampfauftakt in Kühlungsborn wird es ungemütlich für den Kanzler. Dennoch versucht Merz, mit den Menschen ins Gespräch zu kommen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2024/08/16/500531ec-6ac1-4c1a-a3a2-5f8a9060f913.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/08/31/cdd5b37d-13a2-4f51-aae0-2b6df2bed413.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=892%2C223%2C1976%2C1111"
         },
         {
-          "title": "Berlin: Israelhass bei Wahlkampf-Endspurt der Linken",
-          "url": "https://www.sueddeutsche.de/politik/berlin-linke-israel-kontroverse-antisemitismus-palaestina-li.3539671",
-          "summary": "In Neukölln tanzen Anhänger der Linken öffentlich zu einem Song, der israelischen Soldaten den Tod wünscht. Die Parteispitze kündigt „Konsequenzen“ an – und die Berliner Grünen wollen wissen, welche.",
+          "title": "Medizin: Hitzewelle: Zu heiß für den Medikamentenversand?",
+          "url": "https://www.sueddeutsche.de/gesundheit/versand-apotheken-hitzewelle-zaepfchen-paracetamol-gefahren-li.3539425",
+          "summary": "Versandapotheken verschicken Pakete auch mit Medikamenten, die eigentlich kontinuierlich gekühlt werden müssten. Ein Test während der Hitzewelle zeigt: Das könnte riskant sein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/31/814185f6-5510-48f3-94fd-4b337b6328b1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=694%2C651%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/08/31/b4f44e56-bb75-4c77-b0b6-974f8b490fdb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Tennis bei den US Open: „Ich habe jeden Moment auf dem Platz gehasst“",
-          "url": "https://www.sueddeutsche.de/sport/tennis-us-open-djokovic-aus-reaktionen-news-li.3539896",
-          "summary": "Krämpfe, Übelkeit, Schmerzen: Geplagt von körperlichen Nöten scheidet Novak Djokovic früh bei den US Open aus. Hinterher spricht der Serbe von einem „ernsthaften Problem“.",
+          "title": "Prozess in Braunschweig: „Ich hing nicht sonderlich an meinem Leben“",
+          "url": "https://www.sueddeutsche.de/panorama/josephine-miriam-prozess-braunschweig-vergewaltigung-luegen-falschaussagen-li.3528090",
+          "summary": "Sie habe ihre Freundin vergewaltigt, hatte sie gesagt. Auch deren Eltern hätten das getan. Dafür waren alle drei zu jahrelanger Haft verurteilt worden. Jetzt, Jahre später, gesteht Miriam A. : Es war alles frei erfunden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/31/8c75827e-e0e7-46fb-81ce-e21177ed569b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C418%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/31/df254e6c-3419-46cf-a7c6-dd4795a17e7e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C188%2C4000%2C2250"
         }
       ]
     }
