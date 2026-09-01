@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-31T22:00:11.206Z",
-  "timestamp": "1.9.2026, 00:00:11",
+  "generated": "2026-09-01T02:00:11.970Z",
+  "timestamp": "1.9.2026, 04:00:11",
   "news": [
     {
       "source": "FAZ",
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/876ef75c-f63d-4076-bb2c-aba8bfbba10e_w1200_r1.778_fpx45_fpy45.png"
         },
         {
-          "title": "News des Tages: Iran, Wahlkampf mit Merz, Nosferatu-Spinne",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-iran-wahlkampf-mit-merz-nosferatu-spinne-a-5bd3e79d-d789-441a-89a6-13fdd52e23f3#ref=rss",
-          "summary": "Satellitenbilder zeigen, dass Iran eine mutmaßliche Nuklearanlage wohl bereits repariert. Friedrich Merz steigt in den Wahlkampf in Sachsen-Anhalt ein. Und die Nosferatu-Spinne ist da – nur diesmal ohne Bild. Das ist die Lage am Montagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
           "title": "Hendrik Holt: Das ist über die Flucht des Windkraftbetrügers und Hochstaplers bekannt",
           "url": "https://www.spiegel.de/panorama/justiz/hendrik-holt-das-ist-ueber-die-flucht-des-windkraftbetruegers-und-hochstaplers-bekannt-a-bbc57568-5f29-462a-86b2-776febfcfc32#ref=rss",
           "summary": "Er prellte Konzerne um Millionen und ließ sich im offenen Vollzug von einem TV-Team begleiten: Der verurteilte Kriminelle Hendrik Holt ist auf der Flucht. Frau und Kind ließ er offenbar zurück. Der Überblick.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/93a7dabb-fe23-48b5-ba72-d658f47dd397_w1200_r1.778_fpx65_fpy48.jpg"
+        },
+        {
+          "title": "Wie eine Lüge für einen Justizskandal sorgte",
+          "url": "https://www.spiegel.de/panorama/justiz/wie-eine-luege-fuer-einen-justizskandal-sorgte-a-38517cb4-4815-4ff7-9644-43d3018a4acb#ref=rss",
+          "summary": "Eine Frau gestand, ihre Partnerin vergewaltigt zu haben, zusammen mit deren Eltern. Alle kamen ins Gefängnis. Jetzt gestand sie: Es war alles nur erfunden.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8f81a6e8-9acc-4db0-bd7b-936892c634c4_w1200_r1.778_fpx29.99_fpy44.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html",
-          "summary": "In Sachsen-Anhalt grenzt sich CDU-Spitzenkandidat Schulze im Wahlkampf von Kanzler Merz und der Bundespolitik ab. Nun gab es doch einen gemeinsamen Auftritt. Den nutzte Merz erneut für eine klare Warnung vor der AfD.",
+          "title": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
+          "url": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html",
+          "summary": "Etwa ein Fünftel des Ölvorkommens Venezuelas soll künftig den USA gehören. Die Vorteile des Deals liegen für Washington auf der Hand. Doch hilft das Abkommen auch der maroden venezolanischen Wirtschaft? Von Jenny Barke.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e372798e-b4f2-4c73-8277-2a9a7b675ae0/AAABoFmCQ44/AAABnSSvrFg/16x9-big/merz-schulze-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8f701762-dd43-4757-b419-5e1fcdb6c57e/AAABoFncuWo/AAABnSSvrFg/16x9-big/oel-venezuela-102.jpg?width=1280"
         },
         {
-          "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
-          "url": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html",
-          "summary": "Beim G20-Finanzministertreffen ist der russische Minister persönlich vor Ort - erstmals seit dem Angriff auf die Ukraine. Finanzminister Klingbeil kritisierte deshalb den Gastgeber USA und richtete klare Worte an Russland.",
+          "title": "Störung bei Microsoft: Maildienst Outlook lahmgelegt",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/microsoft-stoerung-100.html",
+          "summary": "Microsoft-Nutzer weltweit haben aktuell erhebliche Probleme, auf ihre E-Mails des Dienstes Outlook zuzugreifen. Sowohl der Login als auch der Empfang und Versand von Mails sind betroffen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/245d9b4f-c732-4c42-8fbe-d2893b706d88/AAABoFkbCvk/AAABnSSvrFg/16x9-big/g20-finanzminister-siluanow-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoFoKzHo/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1280"
         },
         {
-          "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html",
-          "summary": "Wer steckt hinter den Sprengstoff-Drohnen am Flughafen Leipzig? Vieles deutet auf Russland als Drahtzieher hin. Doch noch steht eine offizielle Schuldzuweisung der Bundesregierung aus. Welche Konsequenzen sind denkbar? Von Markus Sambale.",
+          "title": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html",
+          "summary": "Mit seinem Öl-Deal mit Venezuela will US-Präsident Trump die Engpässe im Nahen Osten ausgleichen und für schnell sinkende Benzinpreise in seinem Land sorgen. Doch damit verspricht er zu viel, sagen Experten. Von S. Jackisch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/739c4796-68f6-42d6-ac10-28645650c4a8/AAABn9e53_c/AAABnSSvrFg/16x9-big/flughafen-leipzg-halle-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b48b5b95-40fd-40f3-a7b1-f8f71889b392/AAABoFnXebw/AAABnSSvrFg/16x9-big/trump-5254.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "TV-Kritik: Katastrophen-Kaleidoskop des verlorenen Vertrauens",
+          "url": "https://www.sueddeutsche.de/medien/tv-kritik-hart-aber-fair-ard-afd-ostdeutschland-li.3540101",
+          "summary": "Eine ARD-Sendung will „Wege aus der Krise“ weisen. Geliefert werden jedoch Gründe für eine befürchtete Wahlkatastrophe. Bei „Hart aber fair“ spricht dann ein Punkrocker ein Machtwort.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/27/5451fbf7-225f-4994-92ac-d3caf883ad05.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C213%2C2048%2C1152"
+        },
+        {
           "title": "Mode: Doch kein neuer Horizont",
           "url": "https://www.sueddeutsche.de/kultur/john-galliano-absage-met-museum-new-york-li.3540113",
           "summary": "Das Metropolitan Museum of Art und Anna Wintour wollten die nächste Met Gala John Galliano widmen. Nach Protesten, wegen dessen früheren rassistischen Ausfällen, sagt der Designer nun ab.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/31/cdd5b37d-13a2-4f51-aae0-2b6df2bed413.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=892%2C223%2C1976%2C1111"
-        },
-        {
-          "title": "Medizin: Hitzewelle: Zu heiß für den Medikamentenversand?",
-          "url": "https://www.sueddeutsche.de/gesundheit/versand-apotheken-hitzewelle-zaepfchen-paracetamol-gefahren-li.3539425",
-          "summary": "Versandapotheken verschicken Pakete auch mit Medikamenten, die eigentlich kontinuierlich gekühlt werden müssten. Ein Test während der Hitzewelle zeigt: Das könnte riskant sein.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/31/b4f44e56-bb75-4c77-b0b6-974f8b490fdb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
