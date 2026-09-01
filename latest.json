@@ -1,39 +1,47 @@
 {
-  "generated": "2026-09-01T06:00:09.378Z",
-  "timestamp": "1.9.2026, 08:00:09",
+  "generated": "2026-09-01T10:00:09.262Z",
+  "timestamp": "1.9.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "John Ternus: Heute übernimmt Tim Cooks Nachfolger – das kommt auf ihn zu",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/john-ternus-loest-tim-cook-als-apple-chef-ab-accg-201175005.html",
-          "summary": "Der amerikanische Apple-Konzern schlägt ein neues Kapitel auf. Es geht um das nächste iPhone, Künstliche Intelligenz und mehr.",
+          "title": "Lebenshaltungskosten: So teuer ist Deutschland gar nicht",
+          "url": "https://www.faz.net/aktuell/finanzen/deutschland-im-staedtevergleich-was-die-deutsche-bank-herausfand-accg-201141962.html",
+          "summary": "Günstige und teure Weltstädte sortieren sich neu. Deutschland liegt im Mittelfeld. Nur in einer Kategorie nicht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f8f9fc56aeab/w3000h1567x0y208o/202608/43601.0.2488902498/gilt-im-vergleich-zu-seinem.webp"
+          "image": "https://media0.faz.net/image/w1200h627/7f549bd1326d/w5608h2930x0y479o/202608/43601.0.2451761341/die-tech-region-rund-um-san.webp"
         },
         {
-          "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
-          "summary": "Wir erleben einen epochalen Umbruch. Der Übergang in die KI-Ära wird zu den unruhigsten Phasen der Menschheitsgeschichte gehören. Bislang bereiten wir uns nicht ausreichend darauf vor. Was uns droht – und was zu tun ist.",
+          "title": "Regionale Preise: Wo das Leben besonders teuer ist – und wo besonders günstig",
+          "url": "https://www.faz.net/aktuell/wirtschaft/regionale-lebenshaltungskosten-teure-staedte-arme-staedte-200894837.html",
+          "summary": "Die regionalen Preisunterschiede in Deutschland halten sich beständig. Wer in die Großstadt zieht, verdient mehr – gibt aber auch mehr aus. Die drei günstigsten Standorte liegen in Ostdeutschland.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/aa7fb71c3fc7/w4911h2565x0y364o/202602/43601.0.1796871408/microsoft-mitgruender-bill.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b9edaea46203/w2010h1050x0y115o/200709/431.0.65183177/schoen-aber-teuer-die-hohen.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Merz: „Sachsen-Anhalt darf kein Experimentierfeld für Wutbürger werden“",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-friedrich-merz-mit-erstem-auftritt-vor-wahl-in-sachsen-anhalt-2026-faz-110093143.html",
-          "summary": "Bundeskanzler bei erstem Auftritt im Wahlkampf in Sachsen-Anhalt +++  Proteste bei Gesprächstermin des Kanzlers mit Bürgern an der Ostsee +++ alle Entwicklungen im Liveblog",
+          "title": "Einspruch Exklusiv: Kampf ums Wohnen",
+          "url": "https://www.faz.net/premium/einspruch/exklusiv/wohnungsmarkt-berlin-wie-weit-darf-der-staat-eingreifen-201176699.html",
+          "summary": "Wohnraum ist das zentrale Wahlkampfthema in Berlin. Mieterschutz, Vergesellschaftung und Sozialwohnungsquote versprechen schnelle Lösungen. Wie weit darf der Staat in den Wohnungsmarkt eingreifen?",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cf4e7cf460aa/w5891h3078x35y1124o/202608/43601.0.2490165556/bundeskanzler-friedrich-merz.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/14b10646bbab/w5613h2932x0y404o/202608/43601.0.2488463846/die-wohnungs-und-mietpolitik.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Bundesregierung macht Russland für Angriff auf Leipziger Flughafen verantwortlich",
+          "url": "https://www.spiegel.de/politik/deutschland/bundesregierung-macht-russland-fuer-angriff-auf-leipziger-flughafen-verantwortlich-a-7a03ef7f-d01d-4634-bdf7-1a710d824950#ref=rss",
+          "summary": "Ein russischer Geheimdienst soll maßgeblich an der Drohnenattacke von Leipzig beteiligt gewesen sein. Die Erkenntnisse und Konsequenzen wollen Innenminister Dobrindt und Außenminister Wadephul am Nachmittag vorstellen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/4cd3d9f4-b140-43dd-9b45-a622527c1d22_w1200_r1.778_fpx50.92_fpy45.jpg"
+        },
         {
           "title": "Russland: Wladimir Putins Kriegsbudget wächst stärker als geplant",
           "url": "https://www.spiegel.de/wirtschaft/russland-wladimir-putins-kriegsbudget-waechst-staerker-als-geplant-a-310d9f19-a227-4315-be17-0b956a7f5241#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/5faf6c9a-213a-42e4-a1b4-0c4e2b1336f7_w1200_r1.778_fpx32.68_fpy44.99.jpg"
         },
         {
-          "title": "News: Friedrich Merz, Johann Wadephul, Donald Trump, Pete Hegseth, Iran, Algerien, Sachsen-Anhalt",
-          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-johann-wadephul-donald-trump-pete-hegseth-iran-algerien-sachsen-anhalt-a-aa8af21c-c13b-45f8-b7f4-168388b108f2#ref=rss",
-          "summary": "Der Bundeskanzler will die Verantwortlichen des versuchten Anschlags in Leipzig/Halle benennen. Die USA sprechen im Irankrieg von »Rasenmähen«. Wadephul sucht Gas in Algerien. Das ist die Lage am Dienstagmorgen.",
+          "title": "G20-Treffen in Asheville: USA schließen Medien aus – Lars Klingbeil kritisiert Russland",
+          "url": "https://www.spiegel.de/ausland/g20-treffen-in-asheville-usa-schliessen-medien-aus-lars-klingbeil-kritisiert-russland-a-96e268e4-101b-4133-aed2-c9e6ee1eb7b2#ref=rss",
+          "summary": "Beim Gipfel der Finanzminister der G20 in Asheville in den USA gerät Lars Klingbeil in eine heikle diplomatische Lage. Eindrücke von SPIEGEL-Reporter Gerald Traufetter.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Friedrich Merz in Sachsen-Anhalt: Der Kanzler macht Wahlkampf, aber die CDU behält das lieber für sich",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-sachsen-anhalt-der-kanzler-macht-wahlkampf-aber-die-cdu-behaelt-das-lieber-fuer-sich-a-fb47256a-70c6-4270-976e-22c52f9eba5d#ref=rss",
-          "summary": "Friedrich Merz besucht die CDU in Sachsen-Anhalt. In Quedlinburg nimmt sich der Kanzler Zeit für Gespräche mit Landtagskandidaten und für ein wenig Kultur. Kontakt zu Bürgern meidet er. Will er nicht? Oder darf er nicht?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cfa108d9-0968-440c-b67a-0b0874ea92d3_w1200_r1.778_fpx34_fpy59.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bf6af6ea-6c30-44d6-b6bc-8245fea71a64_w1080_r1.778_fpx42_fpy26.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Geldpolitik und Ölpreis belasten die Anlegerlaune",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html",
-          "summary": "Der anziehende Ölpreis und die Aussicht auf steigende Leitzinsen in den USA und der Eurozone belasten die Stimmung am Markt. Vor frischen Inflationsdaten bleiben die Anleger zurückhaltend.",
+          "title": "Mieterbund: 1,4 Millionen Wohnungen fehlen",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/mehr-als-eine-million-wohnungen-fehlen-100.html",
+          "summary": "Steigende Mieten belasten viele Menschen in Deutschland. Nach einer Umfrage des Mieterbundes hat fast ein Drittel der Mieter Angst, sich den Betrag zukünftig nicht mehr leisten zu können. Gleichzeitig fehlt das Geld an anderer Stelle.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5c52df02-e6ba-4229-a355-64a0f5be2ce1/AAABnLJUK0w/AAABnSSvrFg/16x9-big/boerse-492.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b397fd1d-c2cb-4cfb-a4b3-5491bf1e110c/AAABoFwdZ5s/AAABnSSvrFg/16x9-big/mietenreport-100.jpg?width=1280"
         },
         {
-          "title": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
-          "url": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html",
-          "summary": "Mit manipulierten Auktionen für Online-Werbung soll sich Amazon zweistellige Milliardenbeträge erschlichen haben. Das wirft die US-Wettbewerbsbehörder FTC dem Konzern vor - und klagt zusammen mit 22 Bundesstaaten.",
+          "title": "Wie schwer sich Künstliche Intelligenz noch mit Dialekten tut",
+          "url": "https://www.tagesschau.de/wissen/forschung/kuenstliche-intelligenz-dialekt-bayrisch-100.html",
+          "summary": "An so manchen Dingen scheitert Künstliche Intelligenz bislang. Wenn Dialektsprecher mit Spracherkennungs-KI interagieren, kommt es oft zu kuriosen Missverständnissen. Ein Forschungsprojekt in Bayern will das ändern. Von Hermann Scholz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/504056f0-61a5-42a1-9361-6aad9d4e5655/AAABmjlrMm4/AAABnSSvrFg/16x9-big/amazon-366.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c470dcc0-8d4c-4353-9b36-16003cf8d15e/AAABoD2rd-o/AAABnSSvrFg/16x9-big/tracht-100.jpg?width=1280"
         },
         {
-          "title": "Mord an Rapper Tupac Shakur: Angeklagter schuldig gesprochen",
-          "url": "https://www.tagesschau.de/ausland/amerika/tupac-prozess-mord-urteil-100.html",
-          "summary": "Er soll der Drahtzieher hinter dem Tod von Tupac Shakur gewesen sein: Der frühere Gang-Anführer Duane Davis ist im Prozess um den Mord des US-Rappers schuldig gesprochen worden. Jedoch soll er nicht selbst auf Shakur geschossen haben.",
+          "title": "Ruheständler im Osten haben weniger Eigentum und kleineres Einkommen",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/ruhestaendler-ost-west-100.html",
+          "summary": "Die Vermögensungleichheit zwischen Ost und West hält an. In den östlichen Bundesländern haben Ruheständler geringere Einkommen und leben seltener in der eigenen Immobilie als im Westen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e4b1c885-7466-4169-b427-c835a2893f0e/AAABoFqoG0Y/AAABnSSvrFg/16x9-big/duane-davis-tupac-prozess-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/14ea490c-391c-4bde-854b-be315288e348/AAABn8_ggR8/AAABnSSvrFg/16x9-big/rente-528.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Leere Regale in der Ukraine: Händler liefern Lebensmittel jetzt direkt",
-          "url": "https://www.telepolis.de/article/Leere-Regale-in-der-Ukraine-Haendler-liefern-Lebensmittel-jetzt-direkt-11435605.html",
-          "summary": "Angriffe trafen 90 Prozent der Lebensmittel-Logistikzentren. Händler stellen auf Direktlieferungen um, ATB begrenzt den Verkauf auf sechs Stück pro Kunde.",
+          "title": "Jet-Drohnen über Kiew: Russlands neue Geran-Modelle senken Abfangquote",
+          "url": "https://www.telepolis.de/article/Jet-Drohnen-ueber-Kiew-Russlands-neue-Geran-Modelle-senken-Abfangquote-11436445.html",
+          "summary": "Strahlgetriebene Geran-4-Drohnen erreichen dreifache Shahed-Geschwindigkeit. Die Abfangquote fiel auf 65 Prozent.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/6/1/5/5/shutterstock_2130528410-852e30458a60c1d9.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/6/5/8/2/shutterstock_2221035469-9a267467239621ba.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Heimatverlust: Die Wut trifft die Falschen",
-          "url": "https://www.telepolis.de/article/Heimatverlust-Die-Wut-trifft-die-Falschen-11435173.html",
-          "summary": "Die Rechte macht Heimat zum Kampfbegriff. Sie profitiert von der wachsenden Sehnsucht nach Vertrautheit, weil Orte, Bindungen und Gewissheiten verschwinden.",
+          "title": "Rechenzentren, KI und Energiehunger: Drahtseilakt für Klima-Deutschland",
+          "url": "https://www.telepolis.de/article/Rechenzentren-KI-und-Energiehunger-Drahtseilakt-fuer-Klima-Deutschland-11436125.html",
+          "summary": "Milliardenprojekte sollen Deutschlands digitale Souveränität stärken. Doch ihr gewaltiger Strom- und Wasserbedarf ruft erste Proteste hervor.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/9/3/4/Master_Da_Heimat-bc876bf16f6807b8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/6/4/1/9/Master_Fess_1-d3ffc72f20f8c9bf.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Tagesschau-Framing: Aus unwahrscheinlichem Szenario wird akute Bedrohung",
-          "url": "https://www.telepolis.de/article/Tagesschau-Framing-Aus-unwahrscheinlichem-Szenario-wird-akute-Bedrohung-11435147.html",
-          "summary": "Aus \"könnte\" wird \"wird\": Wie die Tagesschau eine hypothetische Analyse zur akuten Bedrohung umdeutet. Die Quellen sagen etwas anderes.",
+          "title": "China stärkt seine \"Little Giants\" und verschärft den Wettbewerb",
+          "url": "https://www.telepolis.de/article/China-staerkt-seine-Little-Giants-und-verschaerft-den-Wettbewerb-11432998.html",
+          "summary": "Chinas 15. Fünfjahresplan fördert Hightech-KMU – und erhöht den Wettbewerbsdruck auf deutsche Mittelständler. (Teil 2 und Schluss)",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/9/2/1/shutterstock_2280378935-fcc660d07f20d775.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/4/8/4/4/mittelstand_2-9097b3ad68155c88.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Vor Beginn des neuen Schuljahrs: Angriffe mit Raketen auf Kiew",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-angriffe-kiew-schule-li.3524928",
-          "summary": "Auch vor dem ersten Schultag dürften viele Kinder in der Ukraine nicht durchgeschlafen haben. Vielerorts herrscht Luftalarm. In der Hauptstadt und der umliegenden Region gab es neun Todesopfer und Dutzende Verletzte.",
+          "title": "Blitzer: „Da habe ich nicht auf den Tacho geschaut“",
+          "url": "https://www.sueddeutsche.de/panorama/albstadt-oberbuergermeister-geblitzt-blitzer-bussgeld-roland-tralmer-li.3538799",
+          "summary": "Wie viele Kommunen nimmt auch Albstadt in Baden-Württemberg gutes Geld mit Bußgeldern ein. Der örtliche Oberbürgermeister hat seinen Beitrag geleistet: Innerhalb weniger Monate wurde er zweimal geblitzt – im eigenen Ort.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/01/c6c74aa1-21bd-4ba0-b7a6-a62d3da5739b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=694%2C275%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/09/01/04c83987-336b-4eca-9b61-2ac4304d2709.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=233%2C167%2C1420%2C799"
         },
         {
-          "title": "TV-Kritik: Katastrophen-Kaleidoskop des verlorenen Vertrauens",
-          "url": "https://www.sueddeutsche.de/medien/tv-kritik-hart-aber-fair-ard-afd-ostdeutschland-li.3540101",
-          "summary": "Eine ARD-Sendung will „Wege aus der Krise“ weisen. Geliefert werden jedoch Gründe für eine befürchtete Wahlkatastrophe. Bei „Hart aber fair“ spricht dann ein Punkrocker ein Machtwort.",
+          "title": "Tennisprofi Tsitsipas bei den US Open: Er lacht und siegt wieder – und stichelt weiter",
+          "url": "https://www.sueddeutsche.de/sport/tsitsipas-us-open-tennis-li.3540250",
+          "summary": "Stefanos Tsitsipas schien der Tennishimmel offenzustehen, dann verschwand der Grieche aus der Weltspitze – nicht aber aus den Schlagzeilen. Bei den US Open gelingt ihm jetzt ein beachtlicher Erstrundenerfolg.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/01/97103843-22fa-4c3e-ad5b-c1b0d57591f5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C287%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/01/67cfcf63-564d-46ea-b474-4b634675d1d7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=74%2C204%2C3636%2C2045"
         },
         {
-          "title": "Mode: Doch kein neuer Horizont",
-          "url": "https://www.sueddeutsche.de/kultur/john-galliano-absage-met-museum-new-york-li.3540113",
-          "summary": "Das Metropolitan Museum of Art und Anna Wintour wollten die nächste Met Gala John Galliano widmen. Nach Protesten, wegen dessen früheren rassistischen Ausfällen, sagt der Designer nun ab.",
+          "title": "Tennisprofi Novak Djokovic: Karriereenden fangen selten höflich an",
+          "url": "https://www.sueddeutsche.de/sport/tennis-us-open-djokovic-karriereende-kommentar-li.3540400",
+          "summary": "Sein Ziel lautet Olympia 2028: Doch die Frage ist, ob sich Novak Djokovic einen Gefallen damit tut, wenn er so lange als Tennisprofi weiterspielen will.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/31/72f74922-9835-4300-bfaa-804382469b2f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/09/01/09d29a1e-170b-4d6c-be32-81f1c3ff7935.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
