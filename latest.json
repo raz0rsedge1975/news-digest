@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-01T10:00:09.262Z",
-  "timestamp": "1.9.2026, 12:00:09",
+  "generated": "2026-09-01T14:00:10.537Z",
+  "timestamp": "1.9.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Lebenshaltungskosten: So teuer ist Deutschland gar nicht",
-          "url": "https://www.faz.net/aktuell/finanzen/deutschland-im-staedtevergleich-was-die-deutsche-bank-herausfand-accg-201141962.html",
-          "summary": "Günstige und teure Weltstädte sortieren sich neu. Deutschland liegt im Mittelfeld. Nur in einer Kategorie nicht.",
+          "title": "Sturzflut im Himalaja: Der Direktor, der 900 Schülern das Leben rettete",
+          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/nepalesischer-direktor-rettete-900-kinder-vor-der-flut-accg-201178142.html",
+          "summary": "Ein nepalesischer Schulleiter traf binnen Minuten eine Entscheidung – und rettete damit 900 Schülern das Leben. Aber er sei kein Held, sagt er der F.A.Z.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7f549bd1326d/w5608h2930x0y479o/202608/43601.0.2451761341/die-tech-region-rund-um-san.webp"
+          "image": "https://media0.faz.net/image/w1200h627/278265c7b436/w6144h3210x0y763o/202608/43601.0.2488796634/reagierte-sofort-schuldirektor.webp"
         },
         {
-          "title": "Regionale Preise: Wo das Leben besonders teuer ist – und wo besonders günstig",
-          "url": "https://www.faz.net/aktuell/wirtschaft/regionale-lebenshaltungskosten-teure-staedte-arme-staedte-200894837.html",
-          "summary": "Die regionalen Preisunterschiede in Deutschland halten sich beständig. Wer in die Großstadt zieht, verdient mehr – gibt aber auch mehr aus. Die drei günstigsten Standorte liegen in Ostdeutschland.",
+          "title": "Geopolitik im Himalaja: „Nepal hat so gut wie keinen Anteil an dieser Krise“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/nepal-nach-der-sturzflut-die-suche-nach-verantwortlichen-accg-201174010.html",
+          "summary": "Das Katastrophengebiet ist die wichtigste Grenzregion für Chinas Seidenstraßen-Politik mit Nepal. Jetzt werden nach der Sturzflut Verantwortliche gesucht.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/b9edaea46203/w2010h1050x0y115o/200709/431.0.65183177/schoen-aber-teuer-die-hohen.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/07119ff90c65/w8256h4313x0y351o/202608/43601.0.2477649329/der-bhotekoshi-fluss-in-dem.webp"
         },
         {
-          "title": "Einspruch Exklusiv: Kampf ums Wohnen",
-          "url": "https://www.faz.net/premium/einspruch/exklusiv/wohnungsmarkt-berlin-wie-weit-darf-der-staat-eingreifen-201176699.html",
-          "summary": "Wohnraum ist das zentrale Wahlkampfthema in Berlin. Mieterschutz, Vergesellschaftung und Sozialwohnungsquote versprechen schnelle Lösungen. Wie weit darf der Staat in den Wohnungsmarkt eingreifen?",
+          "title": "katastrophe von Nepal: „Wir hoffen auf ein Umdenken“",
+          "url": "https://www.faz.net/aktuell/wissen/erde-klima/nach-der-nepal-katastrophe-wir-hoffen-auf-ein-umdenken-accg-201176037.html",
+          "summary": "Für die Katastrophenregion in Nepal hat ein deutscher Erdbebenforscher ein spezielles Frühwarnsystem entwickelt. Was fehlte, war die Finanzierung: Sie wurde wegen des Ukrainekriegs kurzfristig gestoppt.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/14b10646bbab/w5613h2932x0y404o/202608/43601.0.2488463846/die-wohnungs-und-mietpolitik.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/66442308d08a/w1919h1002x0y138o/202608/43601.0.2489303054/die-opfer-der.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Bundesregierung macht Russland für Angriff auf Leipziger Flughafen verantwortlich",
+          "title": "Turnow-Preilack: Polizei findet Sprengvorrichtungen an Umspannwerk in Brandenburg",
+          "url": "https://www.spiegel.de/panorama/turnow-preilack-polizei-findet-sprengvorrichtungen-an-umspannwerk-in-brandenburg-a-7b5af2fb-df9a-451a-88a9-1fa2a948e154#ref=rss",
+          "summary": "An einem Umspannwerk in Brandenburg sind Sprengvorrichtungen gefunden worden, laut Polizei gab es auch eine Detonation, Gefahr bestehe aber nicht. Der Betreiber der Anlage spricht von einem »Anschlag«.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6f4ad825-4ab3-48b2-ac0b-a888d2bc4b44_w1200_r1.778_fpx42.74_fpy49.99.jpg"
+        },
+        {
+          "title": "Leipzig/Halle: Bundesregierung macht Russland für Angriff auf Flughafen verantwortlich",
           "url": "https://www.spiegel.de/politik/deutschland/bundesregierung-macht-russland-fuer-angriff-auf-leipziger-flughafen-verantwortlich-a-7a03ef7f-d01d-4634-bdf7-1a710d824950#ref=rss",
           "summary": "Ein russischer Geheimdienst soll maßgeblich an der Drohnenattacke von Leipzig beteiligt gewesen sein. Die Erkenntnisse und Konsequenzen wollen Innenminister Dobrindt und Außenminister Wadephul am Nachmittag vorstellen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4cd3d9f4-b140-43dd-9b45-a622527c1d22_w1200_r1.778_fpx50.92_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4cd3d9f4-b140-43dd-9b45-a622527c1d22_w1200_r1.778_fpx49_fpy43.jpg"
         },
         {
-          "title": "Russland: Wladimir Putins Kriegsbudget wächst stärker als geplant",
-          "url": "https://www.spiegel.de/wirtschaft/russland-wladimir-putins-kriegsbudget-waechst-staerker-als-geplant-a-310d9f19-a227-4315-be17-0b956a7f5241#ref=rss",
-          "summary": "Der russische Verteidigungsminister hatte geschworen, 2026 mit weniger Geld auszukommen. In Wahrheit steigen die Rüstungsausgaben ungebremst weiter – und könnten bis Jahresende neun Prozent der Wirtschaftsleistung erreichen.",
+          "title": "AfD in Sachsen-Anhalt: An der Uni Magdeburg bereiten sie den Widerstand gegen die AfD vor",
+          "url": "https://www.spiegel.de/wissenschaft/afd-in-sachsen-anhalt-an-der-uni-magdeburg-bereiten-sie-den-widerstand-gegen-die-afd-vor-a-139a2ff1-5796-4d3b-bb96-bfc926047b7c#ref=rss",
+          "summary": "Eine AfD-geführte Landesregierung könnte in Sachsen-Anhalt in die Forschung, Lehre und Hochschulautonomie eingreifen. Wie Lehrende und Studierende das verhindern wollen – und welche Hilfe sie bekommen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5faf6c9a-213a-42e4-a1b4-0c4e2b1336f7_w1200_r1.778_fpx32.68_fpy44.99.jpg"
-        },
-        {
-          "title": "G20-Treffen in Asheville: USA schließen Medien aus – Lars Klingbeil kritisiert Russland",
-          "url": "https://www.spiegel.de/ausland/g20-treffen-in-asheville-usa-schliessen-medien-aus-lars-klingbeil-kritisiert-russland-a-96e268e4-101b-4133-aed2-c9e6ee1eb7b2#ref=rss",
-          "summary": "Beim Gipfel der Finanzminister der G20 in Asheville in den USA gerät Lars Klingbeil in eine heikle diplomatische Lage. Eindrücke von SPIEGEL-Reporter Gerald Traufetter.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bf6af6ea-6c30-44d6-b6bc-8245fea71a64_w1080_r1.778_fpx42_fpy26.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1ec0a0cf-72c6-43ce-8fc7-897939854880_w1200_r1.778_fpx51_fpy32.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Mieterbund: 1,4 Millionen Wohnungen fehlen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/mehr-als-eine-million-wohnungen-fehlen-100.html",
-          "summary": "Steigende Mieten belasten viele Menschen in Deutschland. Nach einer Umfrage des Mieterbundes hat fast ein Drittel der Mieter Angst, sich den Betrag zukünftig nicht mehr leisten zu können. Gleichzeitig fehlt das Geld an anderer Stelle.",
+          "title": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html",
+          "summary": "Bahnunternehmen und der Verband BSN klagen beim Verwaltungsgericht Köln gegen die Neugestaltung der Schienenmaut im Regionalverkehr. Sie könnte Mehrkosten im Millionenbereich verursachen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b397fd1d-c2cb-4cfb-a4b3-5491bf1e110c/AAABoFwdZ5s/AAABnSSvrFg/16x9-big/mietenreport-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9380f83b-843c-4d43-ab6e-0b691d517136/AAABmlK4hLs/AAABnSSvrFg/16x9-big/bahn-996.jpg?width=1280"
         },
         {
-          "title": "Wie schwer sich Künstliche Intelligenz noch mit Dialekten tut",
-          "url": "https://www.tagesschau.de/wissen/forschung/kuenstliche-intelligenz-dialekt-bayrisch-100.html",
-          "summary": "An so manchen Dingen scheitert Künstliche Intelligenz bislang. Wenn Dialektsprecher mit Spracherkennungs-KI interagieren, kommt es oft zu kuriosen Missverständnissen. Ein Forschungsprojekt in Bayern will das ändern. Von Hermann Scholz.",
+          "title": "Israels Ex-Vize-Polizeiminister wechselt zu arabischer Partei",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-paukenschlag-wechsel-arabische-partei-100.html",
+          "summary": "Erstmals schließt sich in Israel ein jüdischer Politiker der islamischen Raam-Partei an. Yoav Segalovitz und Raam-Vorsitzender Abbas wollen beweisen, dass jüdisch-arabische Partnerschaft keine Illusion ist. Von Julio Segador.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c470dcc0-8d4c-4353-9b36-16003cf8d15e/AAABoD2rd-o/AAABnSSvrFg/16x9-big/tracht-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1ff0af85-b97b-4ea8-b270-b43c57390d08/AAABoFzA4c4/AAABnSSvrFg/16x9-big/segalovitz-100.jpg?width=1280"
         },
         {
-          "title": "Ruheständler im Osten haben weniger Eigentum und kleineres Einkommen",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/ruhestaendler-ost-west-100.html",
-          "summary": "Die Vermögensungleichheit zwischen Ost und West hält an. In den östlichen Bundesländern haben Ruheständler geringere Einkommen und leben seltener in der eigenen Immobilie als im Westen.",
+          "title": "Marktbericht: Warum fällt der DAX?",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html",
+          "summary": "Mit deutlichen Verlusten startet der DAX in den September. Gerade hatte er noch auf Rekordkurs gelegen. Dafür sind heute gleich mehrere negative Faktoren zusammengekommen. Von Detlev Landmesser.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/14ea490c-391c-4bde-854b-be315288e348/AAABn8_ggR8/AAABnSSvrFg/16x9-big/rente-528.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fd84c6eb-d196-4cc4-9594-a882c2aaa616/AAABnS7y0iI/AAABnSSvrFg/16x9-big/dax-kurstafel-marktbericht-114.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Jet-Drohnen über Kiew: Russlands neue Geran-Modelle senken Abfangquote",
-          "url": "https://www.telepolis.de/article/Jet-Drohnen-ueber-Kiew-Russlands-neue-Geran-Modelle-senken-Abfangquote-11436445.html",
-          "summary": "Strahlgetriebene Geran-4-Drohnen erreichen dreifache Shahed-Geschwindigkeit. Die Abfangquote fiel auf 65 Prozent.",
+          "title": "Zur Heuristik der Furcht: Das ökologische Vernichtungsszenario",
+          "url": "https://www.telepolis.de/article/Zur-Heuristik-der-Furcht-Das-oekologische-Vernichtungsszenario-11434989.html",
+          "summary": "Kann die Furcht vor der ökologischen Katastrophe zum Umsteuern bewegen? Ein Gastbeitrag über Hans Jonas, Klimakollaps und planetare Verantwortung.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/6/5/8/2/shutterstock_2221035469-9a267467239621ba.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/5/8/4/2/moedl-1e0d80c55e53cc8d.gif"
         },
         {
-          "title": "Rechenzentren, KI und Energiehunger: Drahtseilakt für Klima-Deutschland",
-          "url": "https://www.telepolis.de/article/Rechenzentren-KI-und-Energiehunger-Drahtseilakt-fuer-Klima-Deutschland-11436125.html",
-          "summary": "Milliardenprojekte sollen Deutschlands digitale Souveränität stärken. Doch ihr gewaltiger Strom- und Wasserbedarf ruft erste Proteste hervor.",
+          "title": "KI-Blase? Finanzaufsicht sieht Parallelen zur Dotcom-Ära",
+          "url": "https://www.telepolis.de/article/KI-Blase-Finanzaufsicht-sieht-Parallelen-zur-Dotcom-Aera-11436977.html",
+          "summary": "Der Chef des Finanzstabilitätsrats, Andrew Bailey, warnt vor überzogenen Tech-Bewertungen und vergleicht die Lage mit der Dotcom-Blase.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/6/4/1/9/Master_Fess_1-d3ffc72f20f8c9bf.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/6/8/5/2/shutterstock_2155610545-9d452f3bf09f3c9a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "China stärkt seine \"Little Giants\" und verschärft den Wettbewerb",
-          "url": "https://www.telepolis.de/article/China-staerkt-seine-Little-Giants-und-verschaerft-den-Wettbewerb-11432998.html",
-          "summary": "Chinas 15. Fünfjahresplan fördert Hightech-KMU – und erhöht den Wettbewerbsdruck auf deutsche Mittelständler. (Teil 2 und Schluss)",
+          "title": "Interozeption: Wie 22 bis 33 Sinne unsere Gefühle steuern",
+          "url": "https://www.telepolis.de/article/Interozeption-Wie-22-bis-33-Sinne-unsere-Gefuehle-steuern-11436503.html",
+          "summary": "Herzschlag, Atmung, Hunger: Wer Körpersignale schlecht wahrnimmt, hat ein höheres Risiko für Depressionen und Panikstörungen. Interozeption lässt sich messen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/4/8/4/4/mittelstand_2-9097b3ad68155c88.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/6/6/1/1/Pawel_Michalowski_cropped-b69f9bf2b82660a8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Blitzer: „Da habe ich nicht auf den Tacho geschaut“",
-          "url": "https://www.sueddeutsche.de/panorama/albstadt-oberbuergermeister-geblitzt-blitzer-bussgeld-roland-tralmer-li.3538799",
-          "summary": "Wie viele Kommunen nimmt auch Albstadt in Baden-Württemberg gutes Geld mit Bußgeldern ein. Der örtliche Oberbürgermeister hat seinen Beitrag geleistet: Innerhalb weniger Monate wurde er zweimal geblitzt – im eigenen Ort.",
+          "title": "Lionel Messi: Letzte Zeilen aus dem Olymp",
+          "url": "https://www.sueddeutsche.de/sport/argentinien-lionel-messi-ruecktritt-folgen-li.3540370",
+          "summary": "„Ich habe immer alles für dieses Trikot gegeben“: Mit 39 Jahren tritt Lionel Messi aus Argentiniens Nationalteam zurück. Hier wurde er zur Legende – doch sein Weg begann einst als Odyssee.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/01/04c83987-336b-4eca-9b61-2ac4304d2709.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=233%2C167%2C1420%2C799"
+          "image": "https://www.sueddeutsche.de/2026/09/01/2f22086e-8cec-4062-9303-f05cb8dcdfbd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C316%2C4000%2C2250"
         },
         {
-          "title": "Tennisprofi Tsitsipas bei den US Open: Er lacht und siegt wieder – und stichelt weiter",
-          "url": "https://www.sueddeutsche.de/sport/tsitsipas-us-open-tennis-li.3540250",
-          "summary": "Stefanos Tsitsipas schien der Tennishimmel offenzustehen, dann verschwand der Grieche aus der Weltspitze – nicht aber aus den Schlagzeilen. Bei den US Open gelingt ihm jetzt ein beachtlicher Erstrundenerfolg.",
+          "title": "Bundesregierung: Der Sinkflug der SPD stellt alles infrage",
+          "url": "https://www.sueddeutsche.de/politik/spd-umfragewerte-frust-parteichefs-klingbeil-bas-folgen-li.3540372",
+          "summary": "Frust über die Reformen, Frust über die Umfragewerte und die Chefs: Die Basis lässt Protestnoten los, der Glaube an eine Wende mit Klingbeil und Bas schwindet. Was der SPD nach den Wahlen im September blühen könnte.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/01/67cfcf63-564d-46ea-b474-4b634675d1d7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=74%2C204%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/09/01/7eb2392f-6a20-421a-9764-7c33107dcc18.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C129%2C4000%2C2250"
         },
         {
-          "title": "Tennisprofi Novak Djokovic: Karriereenden fangen selten höflich an",
-          "url": "https://www.sueddeutsche.de/sport/tennis-us-open-djokovic-karriereende-kommentar-li.3540400",
-          "summary": "Sein Ziel lautet Olympia 2028: Doch die Frage ist, ob sich Novak Djokovic einen Gefallen damit tut, wenn er so lange als Tennisprofi weiterspielen will.",
+          "title": "Film: Das muss man falsch verstehen wollen",
+          "url": "https://www.sueddeutsche.de/kultur/boykott-sacha-baron-cohen-ali-g-li.3540446",
+          "summary": "In Großbritannien gibt es Forderungen, Sacha Baron Cohens neuen Film „Ali G. – Who Iz I? “ nicht zu zeigen, weil er sich über Schwarze lustig mache. Warum der Boykottaufruf schiefliegt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/01/09d29a1e-170b-4d6c-be32-81f1c3ff7935.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/01/db51b0d4-15d0-4074-8764-08693f21a4c8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C88%2C1280%2C720"
         }
       ]
     }
