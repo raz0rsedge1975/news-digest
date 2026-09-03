@@ -1,10 +1,26 @@
 {
-  "generated": "2026-09-03T14:00:10.791Z",
-  "timestamp": "3.9.2026, 16:00:10",
+  "generated": "2026-09-03T18:00:10.254Z",
+  "timestamp": "3.9.2026, 20:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Nach London: Aus Angst holen die Niederländer ihr Gold aus Amerika zurück",
+          "url": "https://www.faz.net/aktuell/finanzen/weniger-in-amerika-mehr-in-europa-die-niederlande-verteilen-ihr-goldreserven-neu-ueber-die-welt-201184473.html",
+          "summary": "Die fünftgrößte EU-Volkswirtschaft zieht Gold aus den USA nach London ab: wegen „zunehmender weltpolitischer Unruhe“. In den Niederlanden liegt etwa ein Drittel der Goldreserve. Ein Ortsbesuch.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/fcc7931b241d/w5029h2627x0y625o/202609/63246ab5-5290-48a3-968c-8fdc42a4eef5/es-glaenzt-gold-der.webp"
+        },
+        {
+          "title": "Niederländische Zentralbank: Sorge um das Gold in Amerika",
+          "url": "https://www.faz.net/aktuell/finanzen/niederlaendische-reserven-gold-in-amerika-201187968.html",
+          "summary": "Wie sicher ist das Gold, das ausländische Notenbanken in New York lagern? Kritische Stimmen mehren sich. Die niederländische Notenbank hat nun ihren Bestand dort gesenkt. Die Begründung? Diplomatisch.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0904f47949e8/w3000h1567x0y60o/202609/43601.0.2497114193/goldbarren-in-den-usa.webp"
+        },
         {
           "title": "Wahl in Sachsen-Anhalt: Wo die AfD besonders leichtes Spiel hat",
           "url": "https://www.faz.net/aktuell/wirtschaft/wahl-sachsen-anhalt-2026-was-ein-afd-sieg-bedeuten-koennte-201184104.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/3f35a767e0bb/w1865h974x168y37o/202609/2f15d4dc-5176-43ee-95ac-c1d859067bf8/p50qpauksoiu.webp"
-        },
-        {
-          "title": "Afd will von FPÖ lernen: Weidels „leuchtendes Vorbild“",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/vorbild-oesterreich-was-die-afd-von-der-fpoe-lernen-will-201182009.html",
-          "summary": "Die AfD will professioneller werden. Dafür braucht sie die FPÖ: Die soll ihr zeigen, wie Regieren geht.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1415beaed14c/w5000h2612x0y536o/202609/43601.0.2496752005/der-fpoe-politiker-stefan.webp"
-        },
-        {
-          "title": "Landtagswahl Sachsen-Anhalt 2026: Wie wahrscheinlich ist eine absolute Mehrheit für die AfD?",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/afd-und-cdu-in-sachsen-anhalt-welche-koalition-ist-moeglich-201180312.html",
-          "summary": "Die AfD liegt in Sachsen-Anhalt deutlich vor der CDU, mehrere Parteien kämpfen um den Einzug in den Landtag. Auf Basis von Umfragen haben wir berechnet, welche Mehrheiten nach der Wahl wahrscheinlich sind.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/57c1b023cd96/w1865h974x168y37o/202609/fe4e5728-3c21-44e2-85c4-92c974cbde0d/gwoas8q6auhg.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "AfD in Sachsen-Anhalt: Sollte man die Rechtsextremen um jeden Preis von der Macht fernhalten?",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-sollte-man-die-rechtsextremen-um-jeden-preis-von-der-macht-fernhalten-a-59e6403b-44e2-4721-b02b-09ec4994fc22#ref=rss",
-          "summary": "»Eine Frankenstein-Koalition löst kein Problem« – »Eine AfD-Regierung wäre schlimmer«: Kurz vor der Wahl in Sachsen-Anhalt stehen die Rechtsextremen bei über 40 Prozent. Trägt da noch die Strategie der Ausgrenzung?",
+          "title": "Gianni Infantino in der Kritk: Wer wird in einem Jahr Fifa-Präsident sein?",
+          "url": "https://www.spiegel.de/sport/fussball/gianni-infantino-in-der-kritk-wer-wird-in-einem-jahr-fifa-praesident-sein-a-9580d802-ecce-42b5-9133-215732708831#ref=rss",
+          "summary": "Fifa‑Präsident Gianni Infantino steht nach der Aufregung um seinen Investorenplan massiv in der Kritik. Aber reicht das, um ihn abzulösen? Sportrechtler Martin Nolte erläutert den Machtkampf im Weltfußball.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/61744cc9-ab06-42ea-a14c-400d6a383ba0_w1200_r1.778_fpx47_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a7fcda4f-6ef0-4714-97cd-d6c99e909841_w1200_r1.778_fpx58_fpy54.jpg"
         },
         {
-          "title": "VW-Krise: Bei Volkswagen droht jetzt die »maximale Eskalation«",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-krise-bei-volkswagen-droht-jetzt-die-maximale-eskalation-a-a5a1972b-cdb1-4212-822d-ad9980e7f3a5#ref=rss",
-          "summary": "Bei VW stehen die Zeichen auf Konfrontation: Scheitert sein Sparplan im Aufsichtsrat, will der Vorstand Milliardenkürzungen mithilfe der Anteilseigner durchboxen – gegen Großaktionär Niedersachsen.",
+          "title": "Ulrich Siegmund: Der Posterboy der AfD – SPIEGEL TV",
+          "url": "https://www.spiegel.de/politik/ulrich-siegmund-der-posterboy-der-afd-spiegel-tv-a-16984d5d-2b72-4766-ad50-7bd5159a94c0#ref=rss",
+          "summary": "Ulrich Siegmund gibt den nahbaren Kumpel, seine AfD führt die Umfragen in Sachsen-Anhalt an. Hinter den Kulissen indes wirken rechtsextreme Ideologen und Verschwörungstheoretiker.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4d815e63-9490-41ec-9f52-d44326141c74_w1200_r1.778_fpx53_fpy51.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f378dd3f-8ec5-4d42-8a68-5d97b069388f_w1200_r1.778_fpx28.13_fpy50.jpg"
         },
         {
-          "title": "Friedrich Merz in der Kritik: »Der Kanzler hat genauso unter der Gürtellinie argumentiert wie die Kollegin«",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/friedrich-merz-in-der-kritik-der-kanzler-hat-genauso-unter-der-guertellinie-argumentiert-wie-die-kollegin-a-070b9c7b-f9ab-4405-8cf5-cbb5d1490dca#ref=rss",
-          "summary": "Die Aussage des Kanzlers in einer TV-Runde empört viele: Mediziner seien »Nutznießer« des Gesundheitssystems, sagte Friedrich Merz – und legte sich mit einer Kinderärztin an. Hier gibt Fachkollege Michael Dördelmann Kontra.",
+          "title": "News des Tages: Streit bei VW, chinesische Passbetrüger, Ipsos-Studie.",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-streit-bei-vw-chinesische-passbetrueger-ipsos-studie-a-4860be44-522b-4ef0-8430-60deaae819a6#ref=rss",
+          "summary": "Bei VW könnte der Streit zwischen Geschäftsführung und Aufsichtsrat komplett eskalieren. Chinesische Betrüger erschleichen sich auf beschämende Art deutsche Pässe. Und viele Deutsche sehen den Westen als Zahlmeister für den Osten. Das ist die Lage am Donnerstagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/34142e6d-9677-4b20-b372-a00b30ca8d70_w1200_r1.778_fpx56_fpy37.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Junge Menschen trinken seltener Alkohol - Rauschtrinken weiter beliebt",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/alkoholkonsum-jugendliche-studie-100.html",
-          "summary": "Junge Menschen in Deutschland trinken laut einer Studie seltener Alkohol. Der Vollrausch reizt allerdings nach wie vor einen konstanten Anteil der Jugendlichen - und zwar vor allem unter jungen Männern.",
+          "title": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
+          "summary": "Nach Informationen des ARD-Hauptstadtstudios gibt es starke Hinweise darauf, dass auch der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt worden sein könnte. Von M. Götschenberg.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b7f85d7d-97ab-471a-b160-37ad8b01e6c6/AAABoGcT8xs/AAABnSSvrFg/16x9-big/alkohol-266.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/689dee90-c226-45c6-a4b5-6f6d2bb55965/AAABoGgY6EA/AAABnSSvrFg/16x9-big/muechen-polizei-100.jpg?width=1280"
         },
         {
-          "title": "Kanu-Olympiasieger Rauhe wird neuer Sportstaatsminister",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rauhe-sport-staatsminister-100.html",
-          "summary": "Vom Spitzensport in die Spitzenpolitik: Olympiasieger Ronald Rauhe wird Sportstaatsminister im Kanzleramt. Mit Politik hatte er bisher nicht viel zu tun. Aber der Kanzler wollte jemanden mit Sport-Erfahrung.",
+          "title": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
+          "url": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
+          "summary": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal in Zürich vergeben. Von David Beck.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/518f651e-4228-4387-b52e-ec1ac9907b74/AAABoGcmNCU/AAABnSSvrFg/16x9-big/rauhe-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1120d966-b060-46b1-9708-753637224a64/AAABoGbIoQk/AAABnSSvrFg/16x9-big/unterhosen-110.jpg?width=1280"
         },
         {
-          "title": "Wetterphänomen El Niño wird überall zu spüren sein",
-          "url": "https://www.tagesschau.de/wissen/klima/el-nino-wmo-100.html",
-          "summary": "Dürren, Überschwemmungen, Taifune: Die Weltwetterorganisation rechnet in diesem Jahr mit einem Rekord-El-Niño - und zahlreichen Opfern im Pazifikraum. Auch Europa wird betroffen sein - aber auf andere Weise. Von Frank Bäumer.",
+          "title": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
+          "url": "https://www.tagesschau.de/inland/bgh-sampling-kraftwerk-urteil-100.html",
+          "summary": "Seit 27 Jahren wird ein Rechtsstreit zwischen der Elektroband Kraftwerk und dem Musikproduzenten Moses Pelham geführt. Nun hat der Bundesgerichtshof ein entscheidendes Urteil gefällt - mit Auswirkungen über den Fall hinaus. Von Max Bauer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fc2f3d7f-d02e-4ef1-96b1-fbea071a2702/AAABoGbRpGk/AAABnSSvrFg/16x9-big/el-nino-122.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8ffb6236-2a78-4088-8125-1996a5cbbc58/AAABoGhbG0Y/AAABnSSvrFg/16x9-big/kraftwerk-auftritt-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Europas Gasspeicher vor dem Winter nur zu 65 Prozent gefüllt",
+          "url": "https://www.telepolis.de/article/Europas-Gasspeicher-vor-dem-Winter-nur-zu-65-Prozent-gefuellt-11440584.html",
+          "summary": "EU-Speicher auf 15-Jahres-Tief, LNG-Preise auf 3,5-Jahres-Hoch: Der Iran-Krieg und zögerliche Einkäufe gefährden die Energieversorgung.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/8/6/6/5/shutterstock_1660250275-7f684530eaef6827.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Cosco: USA werfen Chinas Staatsreederei Spionage mit Frachtern vor",
+          "url": "https://www.telepolis.de/article/Cosco-USA-werfen-Chinas-Staatsreederei-Spionage-mit-Frachtern-vor-11440440.html",
+          "summary": "Getarnte Antennen auf Containerschiffen sollen seit Jahrzehnten militärische Kommunikation abfangen. Peking weist die Vorwürfe zurück.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/8/5/9/0/shutterstock_2837063339-8f30c8c3f084b7a8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Erneuerbare: Wind und Solar erzeugen 19 Prozent des US-Stroms",
           "url": "https://www.telepolis.de/article/Erneuerbare-Wind-und-Solar-erzeugen-19-Prozent-des-US-Stroms-11439561.html",
           "summary": "Erneuerbare sind die günstigste Form neuer Stromerzeugung in den USA. Die Daten aus den Bundesstaaten widerlegen die These vom teuren Ökostrom.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/8/1/5/6/harhar38-3ac7b823c97296c3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Wegovy-Wirkstoff verlängert Mäuseleben um 12 Prozent",
-          "url": "https://www.telepolis.de/article/Wegovy-Wirkstoff-verlaengert-Maeuseleben-um-12-Prozent-11440133.html",
-          "summary": "Semaglutid ahmt laut einer Nature-Studie die Effekte von Fasten nach – und übertrifft eine Diät bei Gedächtnis und Blutzucker.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/8/4/4/3/shutterstock_2572053491-0687397c1db57c38.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Kulturkampf um die Staatskasse: Was die AfD mit der Kultur vorhat",
-          "url": "https://www.telepolis.de/article/Kulturkampf-um-die-Staatskasse-Was-die-AfD-mit-der-Kultur-vorhat-11439989.html",
-          "summary": "Die AfD Sachsen-Anhalt will Fördergeld an ein Bekenntnis zur deutschen Nationalkultur knüpfen. Ein Verwaltungsrechtler sieht darin einen Verfassungsverstoß.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/8/3/7/0/master_patriotische_kultur-da02a27626de017e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Russlands Antwort auf Sanktionen: Spaltungsversuche aus Moskau",
-          "url": "https://www.sueddeutsche.de/politik/russland-drohne-leipzig-putin-vergeltung-deutschland-li.3541601",
-          "summary": "Der Kreml reagiert auf die Schuldzuweisung der Bundesregierung mit Gegenvorwürfen, schließt die Goethe-Institute in Russland – und lanciert eine Botschaft an die Ostdeutschen.",
+          "title": "Filmfestspiele Venedig: Wie eine Atombombe der Traurigkeit",
+          "url": "https://www.sueddeutsche.de/kultur/festival-martin-mcdonagh-wild-horse-nine-interview-rezension-kritik-li.3539746",
+          "summary": "„Wild Horse Nine“ ist der vielleicht beste Film des durchweg famosen Martin McDonagh. Ein Treffen mit dem Meister der dunklen Komik in Venedig, wo der Film Premiere feiert.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/03/5375c08d-0990-49b9-a393-8f8a65c8963b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=258%2C391%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/09/03/c48fd2e0-bd82-485b-84a5-d40e562bdcc7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3000%2C1687"
         },
         {
-          "title": "Immobilienmarkt in Frankreich: Die Côte d’Azur ist out, die Bretagne ist in",
-          "url": "https://www.sueddeutsche.de/wirtschaft/frankreich-cote-d-azur-bretagne-immobilien-urlaub-li.3540664",
-          "summary": "Der Hitzesommer in Frankreich verändert den Immobilienmarkt: Immer mehr Menschen zieht es in den kühleren Norden und an den Atlantik, weg vom Mittelmeer.",
+          "title": "Reproduktive Gesundheit: Wenn ein weiteres Kind nicht mehr ins Leben passt",
+          "url": "https://www.sueddeutsche.de/gesundheit/schwangerschaftsabbruch-frauen-40-li.3514964",
+          "summary": "Über 40-jährige Frauen entscheiden sich überdurchschnittlich häufig dafür, eine Schwangerschaft abzubrechen. Woran liegt das?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/03/31d23ed9-633d-4942-9a70-cd5e898c2356.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=694%2C530%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/09/01/8245a46a-f960-49de-9d93-b22221856298.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zur Bundespolitik: Spahn geht für Union in den Haushaltsausschuss",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-spahn-haushalt-li.3529564",
-          "summary": "Der ehemalige Fraktionschef der Union soll offenbar Berichterstatter für den Etat des Außenministeriums werden. Olympiasieger Ronald Rauhe wird neuer Staatsminister für Sport im Bundeskanzleramt.",
+          "title": "Künstliche Intelligenz: Hat die KI wirklich immer Vorfahrt?",
+          "url": "https://www.sueddeutsche.de/medien/urheberrecht-kuenstliche-intelligenz-bundesgerichtshof-li.3541238",
+          "summary": "Der Bundesgerichtshof prüft, wie weit der Schutz von Urheberrechten beim Anlegen in Bilddatenbanken reicht – und ob Maschinen kein Nein verstehen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/03/468cfbbb-e0c4-440b-bdb4-9ec0292fae21.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=230%2C617%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/09/03/f45d2a65-6010-4ebb-a9c5-b153a4f5d76b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=634%2C357%2C2732%2C1537"
         }
       ]
     }
