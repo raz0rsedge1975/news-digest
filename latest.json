@@ -1,25 +1,25 @@
 {
-  "generated": "2026-09-03T18:00:10.254Z",
-  "timestamp": "3.9.2026, 20:00:10",
+  "generated": "2026-09-03T22:00:08.174Z",
+  "timestamp": "4.9.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Nach London: Aus Angst holen die Niederländer ihr Gold aus Amerika zurück",
-          "url": "https://www.faz.net/aktuell/finanzen/weniger-in-amerika-mehr-in-europa-die-niederlande-verteilen-ihr-goldreserven-neu-ueber-die-welt-201184473.html",
-          "summary": "Die fünftgrößte EU-Volkswirtschaft zieht Gold aus den USA nach London ab: wegen „zunehmender weltpolitischer Unruhe“. In den Niederlanden liegt etwa ein Drittel der Goldreserve. Ein Ortsbesuch.",
+          "title": "Sparpaket: VW-Aufsichtsrat einigt sich einstimmig auf Sanierungsplan",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-aufsichtsrat-einigt-sich-einstimmig-auf-sanierungsplan-201189729.html",
+          "summary": "Der VW-Aufsichtsrat hat sich überraschend auf ein Sparpaket geeinigt. Es sieht den Abbau weiterer 50. 000 Stellen vor. Die IG Metall und der Konzernbetriebsrat sagen, damit sei eine Eskalation verhindert worden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fcc7931b241d/w5029h2627x0y625o/202609/63246ab5-5290-48a3-968c-8fdc42a4eef5/es-glaenzt-gold-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4bb2657d9874/w6000h3135x0y231o/202609/43601.0.2501635606/das-vw-stammwerk-in-wolfsburg.webp"
         },
         {
-          "title": "Niederländische Zentralbank: Sorge um das Gold in Amerika",
-          "url": "https://www.faz.net/aktuell/finanzen/niederlaendische-reserven-gold-in-amerika-201187968.html",
-          "summary": "Wie sicher ist das Gold, das ausländische Notenbanken in New York lagern? Kritische Stimmen mehren sich. Die niederländische Notenbank hat nun ihren Bestand dort gesenkt. Die Begründung? Diplomatisch.",
+          "title": "Podcast-Serie der F.A.Z.: Eine Legende kämpft ums Überleben",
+          "url": "https://www.faz.net/podcasts/vw-story/vw-podcast-die-legende-volkswagen-kaempft-im-schicksalsjahr-2026-ums-ueberleben-faz-200799082.html",
+          "summary": "„Die VW-Story“: Baut Volkswagen bald Rüstung statt Autos? Der Konzern steckt tief in der Krise. 2026 wird zum Schicksalsjahr. Schafft das Unternehmen die Wende? Jetzt im FAZ-Podcast anhören!",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0904f47949e8/w3000h1567x0y60o/202609/43601.0.2497114193/goldbarren-in-den-usa.webp"
+          "image": "https://media0.faz.net/image/w1200h627/71799ff9cfdb/w1364h712x127y374o/202605/43601.0.2046375129/4360102046375129.webp"
         },
         {
           "title": "Wahl in Sachsen-Anhalt: Wo die AfD besonders leichtes Spiel hat",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Gianni Infantino in der Kritk: Wer wird in einem Jahr Fifa-Präsident sein?",
-          "url": "https://www.spiegel.de/sport/fussball/gianni-infantino-in-der-kritk-wer-wird-in-einem-jahr-fifa-praesident-sein-a-9580d802-ecce-42b5-9133-215732708831#ref=rss",
-          "summary": "Fifa‑Präsident Gianni Infantino steht nach der Aufregung um seinen Investorenplan massiv in der Kritik. Aber reicht das, um ihn abzulösen? Sportrechtler Martin Nolte erläutert den Machtkampf im Weltfußball.",
+          "title": "CDU in Sachsen-Anhalt: Drei Tage vor der Wahl eskaliert der Streit",
+          "url": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-drei-tage-vor-der-wahl-eskaliert-der-streit-a-d1bd01f0-17f6-4075-bbae-a11e017a62bb#ref=rss",
+          "summary": "Die CDU in Sachsen-Anhalt taumelt der Wahl entgegen. Der Kanzler wird im Wahlkampf versteckt. Die Umfragen sind schlecht. Jetzt kommt noch ein offener Zwist über den Umgang mit der Linken dazu.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a7fcda4f-6ef0-4714-97cd-d6c99e909841_w1200_r1.778_fpx58_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1f2d5ad9-be28-4aac-b131-3c9173156797_w1200_r1.778_fpx61.99_fpy54.99.jpg"
         },
         {
-          "title": "Ulrich Siegmund: Der Posterboy der AfD – SPIEGEL TV",
-          "url": "https://www.spiegel.de/politik/ulrich-siegmund-der-posterboy-der-afd-spiegel-tv-a-16984d5d-2b72-4766-ad50-7bd5159a94c0#ref=rss",
-          "summary": "Ulrich Siegmund gibt den nahbaren Kumpel, seine AfD führt die Umfragen in Sachsen-Anhalt an. Hinter den Kulissen indes wirken rechtsextreme Ideologen und Verschwörungstheoretiker.",
+          "title": "Volkswagen in der Krise: Aufsichtsrat stimmt Sanierungsplan zu",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-in-der-krise-aufsichtsrat-stimmt-sanierungsplan-zu-a-15d54295-2f6a-421c-b2f2-5c4aafbd8945#ref=rss",
+          "summary": "Weitere 50.000 Jobs sollen wegfallen, vier Werke stehen auf der Kippe: Der Aufsichtsrat hat den VW-​Sanierungsplan gebilligt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f378dd3f-8ec5-4d42-8a68-5d97b069388f_w1200_r1.778_fpx28.13_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/fc9d68bb-0359-4f29-b38f-b20d90704371_w1200_r1.778_fpx73.46_fpy50.jpg"
         },
         {
-          "title": "News des Tages: Streit bei VW, chinesische Passbetrüger, Ipsos-Studie.",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-streit-bei-vw-chinesische-passbetrueger-ipsos-studie-a-4860be44-522b-4ef0-8430-60deaae819a6#ref=rss",
-          "summary": "Bei VW könnte der Streit zwischen Geschäftsführung und Aufsichtsrat komplett eskalieren. Chinesische Betrüger erschleichen sich auf beschämende Art deutsche Pässe. Und viele Deutsche sehen den Westen als Zahlmeister für den Osten. Das ist die Lage am Donnerstagabend.",
+          "title": "Spahn wird Mitglied des Haushaltsausschusses",
+          "url": "https://www.spiegel.de/politik/spahn-wird-mitglied-des-haushaltsausschusses-a-9a8bd0c1-e9eb-4cb1-9749-bfb5205ee075#ref=rss",
+          "summary": "Die politische Karriere von Jens Spahn geht weiter. Erst Mitte Juli war er nach scharfer Kritik als Fraktionschef der Union zurückgetreten. Nun zieht er in einen der einflussreichsten Ausschüsse des Bundestages ein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/3d9552df-8c4a-42d4-b12f-bb1d62b6c932_w1200_r1.778_fpx43_fpy41.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
+          "summary": "Einen Tag früher als geplant hat der VW-Aufsichtsrat einem Sparplan zugestimmt: 50.000 Jobs sollen wegfallen, und vier Werke stehen vor dem Aus, wenn keine alternative Verwendung für sie gefunden wird.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d0c97011-d283-4d4f-95ea-790def61dc1e/AAABoGioXSA/AAABnSSvrFg/16x9-big/vw-1440.jpg?width=1280"
+        },
+        {
+          "title": "Warum in der Wahl auch ein Risiko für die AfD steckt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
+          "summary": "Die AfD liegt vor der Landtagswahl in Sachsen-Anhalt in Umfragen vorn und hofft auf ein bundesweites Signal. Doch es gibt auch Risiken - und Zweifel an der Regierungsfähigkeit der Partei. Von Benjamin Großkopff.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a0e4d486-84d1-4117-8027-559c83337e3c/AAABoGh3CXE/AAABnSSvrFg/16x9-big/weidel-siegmund-100.jpg?width=1280"
+        },
+        {
           "title": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
           "url": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
           "summary": "Nach Informationen des ARD-Hauptstadtstudios gibt es starke Hinweise darauf, dass auch der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt worden sein könnte. Von M. Götschenberg.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/689dee90-c226-45c6-a4b5-6f6d2bb55965/AAABoGgY6EA/AAABnSSvrFg/16x9-big/muechen-polizei-100.jpg?width=1280"
-        },
-        {
-          "title": "Ig-Nobelpreise: Unterhosen verbuddeln für die Wissenschaft",
-          "url": "https://www.tagesschau.de/wissen/forschung/ig-nobelpreise-zuerich-100.html",
-          "summary": "Erst lachen, dann nachdenken: Um einen Ig-Nobelpreis zu bekommen, muss ein Forschungsthema lustig wirken - aber trotzdem etwas Ernsthaftes dahinterstecken. Dieses Jahr wird der Preis zum ersten Mal in Zürich vergeben. Von David Beck.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1120d966-b060-46b1-9708-753637224a64/AAABoGbIoQk/AAABnSSvrFg/16x9-big/unterhosen-110.jpg?width=1280"
-        },
-        {
-          "title": "BGH entscheidet Sampling-Rechtsstreit zugunsten von Moses Pelham",
-          "url": "https://www.tagesschau.de/inland/bgh-sampling-kraftwerk-urteil-100.html",
-          "summary": "Seit 27 Jahren wird ein Rechtsstreit zwischen der Elektroband Kraftwerk und dem Musikproduzenten Moses Pelham geführt. Nun hat der Bundesgerichtshof ein entscheidendes Urteil gefällt - mit Auswirkungen über den Fall hinaus. Von Max Bauer.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/8ffb6236-2a78-4088-8125-1996a5cbbc58/AAABoGhbG0Y/AAABnSSvrFg/16x9-big/kraftwerk-auftritt-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA-Newsblog: Trump ruft im Streit um Briefwahl erneut Supreme Court an",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-supreme-court-li.3530667",
+          "summary": "Eine Bundesrichterin hatte die Pläne des Präsidenten gestoppt, die Regeln zur Briefwahl zu verschärfen. Diese Entscheidung will er kurz vor den Zwischenwahlen nun aussetzen lassen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2022/06/08/da42c9f3-aef6-4fda-ad8c-456a9d0cb085.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1350%2C759"
+        },
+        {
+          "title": "Automobilindustrie: 50 000 Jobs zusätzlich weg: Aufsichtsrat stimmt VW-Sparplan zu",
+          "url": "https://www.sueddeutsche.de/wirtschaft/vw-aufsichtsrat-sanierung-li.3542021",
+          "summary": "Die Einigung am Donnerstagabend kam unerwartet. Sie beinhaltet nicht nur einen weiteren, enormen Jobabbau. Auch für vier deutsche Werke ist die Zukunft weiter ungewiss.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/03/cc1d4814-44c0-4e96-bd02-a9600b472340.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
+        },
+        {
           "title": "Filmfestspiele Venedig: Wie eine Atombombe der Traurigkeit",
           "url": "https://www.sueddeutsche.de/kultur/festival-martin-mcdonagh-wild-horse-nine-interview-rezension-kritik-li.3539746",
           "summary": "„Wild Horse Nine“ ist der vielleicht beste Film des durchweg famosen Martin McDonagh. Ein Treffen mit dem Meister der dunklen Komik in Venedig, wo der Film Premiere feiert.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/03/c48fd2e0-bd82-485b-84a5-d40e562bdcc7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3000%2C1687"
-        },
-        {
-          "title": "Reproduktive Gesundheit: Wenn ein weiteres Kind nicht mehr ins Leben passt",
-          "url": "https://www.sueddeutsche.de/gesundheit/schwangerschaftsabbruch-frauen-40-li.3514964",
-          "summary": "Über 40-jährige Frauen entscheiden sich überdurchschnittlich häufig dafür, eine Schwangerschaft abzubrechen. Woran liegt das?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/01/8245a46a-f960-49de-9d93-b22221856298.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C4000%2C2250"
-        },
-        {
-          "title": "Künstliche Intelligenz: Hat die KI wirklich immer Vorfahrt?",
-          "url": "https://www.sueddeutsche.de/medien/urheberrecht-kuenstliche-intelligenz-bundesgerichtshof-li.3541238",
-          "summary": "Der Bundesgerichtshof prüft, wie weit der Schutz von Urheberrechten beim Anlegen in Bilddatenbanken reicht – und ob Maschinen kein Nein verstehen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/03/f45d2a65-6010-4ebb-a9c5-b153a4f5d76b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=634%2C357%2C2732%2C1537"
         }
       ]
     }
