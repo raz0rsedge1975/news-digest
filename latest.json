@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-02T22:00:11.191Z",
-  "timestamp": "3.9.2026, 00:00:11",
+  "generated": "2026-09-03T02:00:08.116Z",
+  "timestamp": "3.9.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
+          "url": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
+          "summary": "Mehr als einen Monat nach dem Ansturm auf Ceuta sind Zehntausende Menschen in ganz Spanien auf die Straße gegangen. Ihr Protest richtete sich gegen die Migrationspolitik der Zentralregierung. In einigen Städten gab es auch Gegendemos.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/177b97de-8d0d-4509-9eb8-9d990c1a487a/AAABoGSRWJ0/AAABnSSvrFg/16x9-big/ceuta-demonstration-madrid-100.jpg?width=1280"
+        },
+        {
+          "title": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
+          "url": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
+          "summary": "Wer ließ die maltesische Journalistin Daphne Caruana Galizia ermorden? Diese Frage bleibt auch nach fast neun Jahren unbeantwortet. Geschworene sprachen einen Unternehmer vom Vorwurf frei, Drahtzieher des Anschlags gewesen zu sein.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/6713e147-4edd-4900-9dea-0e00b0a54789/AAABoGQznFM/AAABnSSvrFg/16x9-big/daphne-caruana-galizia-104.jpg?width=1280"
+        },
+        {
           "title": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
           "url": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
           "summary": "WHO-Chef Tedros hat die internationale Gemeinschaft zu mehr Anstrengung bei der Bekämpfung der Ebola-Epidemie aufgefordert. Das Maßnahmenpaket der kongolesischen Regierung müsse schneller finanziert werden.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/4964b20f-5198-47c2-bbc5-d552c5572778/AAABoGN7A9w/AAABnSSvrFg/16x9-big/tedros-who-102.jpg?width=1280"
-        },
-        {
-          "title": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
-          "summary": "Die durch Hitze und Trockenheit geschmälerte Ernte ist laut Bundesagrarminister Rainer eine \"herbe Enttäuschung\" für viele Landwirte. Der CSU-Politiker kündigte Hilfen für die betroffenen Betriebe an.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1ceda97f-1e92-4744-8eba-83b29337c223/AAABoGNdaKs/AAABnSSvrFg/16x9-big/alois-rainer-120.jpg?width=1280"
-        },
-        {
-          "title": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
-          "url": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
-          "summary": "In Südafrika sind zwei Passagierflugzeuge vor einem Rugby-Spiel nur wenige Meter über die Köpfe der Zuschauer geflogen. Was als Showeinlage geplant war, ging vielen Zuschauern offenbar zu weit. Nun ermittelt die Luftfahrtbehörde.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/8b0a3052-ef1b-438d-a0a0-c883fba0a791/AAABoGMxXFs/AAABnSSvrFg/16x9-big/kapstadt-flugzeug-stadion-100.jpg?width=1280"
         }
       ]
     },
