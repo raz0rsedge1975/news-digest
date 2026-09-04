@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-04T02:00:19.119Z",
-  "timestamp": "4.9.2026, 04:00:19",
+  "generated": "2026-09-04T06:00:15.342Z",
+  "timestamp": "4.9.2026, 08:00:15",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Sparpaket: VW-Aufsichtsrat einigt sich einstimmig auf Sanierungsplan",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-aufsichtsrat-einigt-sich-einstimmig-auf-sanierungsplan-201189729.html",
-          "summary": "Der VW-Aufsichtsrat hat sich überraschend auf ein Sparpaket geeinigt. Es sieht den Abbau weiterer 50. 000 Stellen vor. Die IG Metall und der Konzernbetriebsrat sagen, damit sei eine Eskalation verhindert worden.",
+          "title": "Früherer Feuerwehrchef: „Muss erst ein Flugzeug explodieren, damit wir aufwachen?“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/albrecht-broemme-wann-wacht-deutschland-im-zivilschutz-auf-accg-201188265.html",
+          "summary": "Der Zivilschutzfachmann Albrecht Broemme findet, dass Deutschland aus früheren Anschlägen kaum gelernt hat. Unternehmen sollten Drohnen abwehren dürfen, Privatleute sollen Notreserven anlegen – darunter auch gute Rotweine.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/408373ed32e2/w4000h2090x0y459o/202607/43601.0.2304767841/mahner-und-fachmann-albrecht.webp"
+        },
+        {
+          "title": "Mögliche Abschussvorrichtung: Umspannwerk in Dormagen: Polizei spricht von Sabotage",
+          "url": "https://www.faz.net/aktuell/politik/inland/polizei-spricht-von-sabotage-an-umspannwerk-in-dormagen-accg-201190271.html",
+          "summary": "In Dormagen entdeckt ein Spaziergänger einen verdächtigen Gegenstand an einem Umspannwerk. Die Ermittler gehen von versuchter Sabotage aus. Nach Polizeiangaben liegt zudem ein Bekennerschreiben vor.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/1a5733ad4fe8/w4500h2351x0y559o/202609/43601.0.2503544797/kriminaltechniker-arbeiten-am.webp"
+        },
+        {
+          "title": "Überraschung in Wolfsburg: VW-Aufsichtsrat einigt sich einstimmig auf Sanierungsplan",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ueberraschung-vw-aufsichtsrat-einigt-sich-einstimmig-auf-sanierungsplan-201189729.html",
+          "summary": "Der Volkswagen-Aufsichtsrat hat sich überraschend auf ein Sparpaket geeinigt. Es sieht den Abbau weiterer 50. 000 Stellen vor. Die IG Metall und der Konzernbetriebsrat sagen, damit sei eine Eskalation verhindert worden.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/4bb2657d9874/w6000h3135x0y231o/202609/43601.0.2501635606/das-vw-stammwerk-in-wolfsburg.webp"
-        },
-        {
-          "title": "Podcast-Serie der F.A.Z.: Eine Legende kämpft ums Überleben",
-          "url": "https://www.faz.net/podcasts/vw-story/vw-podcast-die-legende-volkswagen-kaempft-im-schicksalsjahr-2026-ums-ueberleben-faz-200799082.html",
-          "summary": "„Die VW-Story“: Baut Volkswagen bald Rüstung statt Autos? Der Konzern steckt tief in der Krise. 2026 wird zum Schicksalsjahr. Schafft das Unternehmen die Wende? Jetzt im FAZ-Podcast anhören!",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/71799ff9cfdb/w1364h712x127y374o/202605/43601.0.2046375129/4360102046375129.webp"
-        },
-        {
-          "title": "Wahl in Sachsen-Anhalt: Wo die AfD besonders leichtes Spiel hat",
-          "url": "https://www.faz.net/aktuell/wirtschaft/wahl-sachsen-anhalt-2026-was-ein-afd-sieg-bedeuten-koennte-201184104.html",
-          "summary": "Die AfD könnte in Sachsen-Anhalt die absolute Mehrheit erreichen. Wer findet sie gut? Wo bekommt sie die meisten Stimmen? Was würde ihre Politik kosten?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3f35a767e0bb/w1865h974x168y37o/202609/2f15d4dc-5176-43ee-95ac-c1d859067bf8/p50qpauksoiu.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "CDU in Sachsen-Anhalt: Drei Tage vor der Wahl eskaliert der Streit",
-          "url": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-drei-tage-vor-der-wahl-eskaliert-der-streit-a-d1bd01f0-17f6-4075-bbae-a11e017a62bb#ref=rss",
-          "summary": "Die CDU in Sachsen-Anhalt taumelt der Wahl entgegen. Der Kanzler wird im Wahlkampf versteckt. Die Umfragen sind schlecht. Jetzt kommt noch ein offener Zwist über den Umgang mit der Linken dazu.",
+          "title": "Sachsen-Anhalt: Wie die AfD auch ohne Mehrheit an die Macht käme",
+          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wie-die-afd-auch-ohne-mehrheit-an-die-macht-kaeme-a-a163e03a-f3d0-4ea0-ba46-2312c56522a3#ref=rss",
+          "summary": "Die Rechtsextremen werden die Wahl in Sachsen-Anhalt wohl klar gewinnen – aber wenige Stimmen könnten entscheiden, wer am Ende regiert. Fünf Szenarien für den Wahlausgang.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1f2d5ad9-be28-4aac-b131-3c9173156797_w1200_r1.778_fpx61.99_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ac8214fe-1f42-451b-966e-52cdb7063a8f_w1200_r1.778_fpx45_fpy49.jpg"
+        },
+        {
+          "title": "News: Wahl in Sachsen-Anhalt, AfD, Ceuta, Annalena Baerbock",
+          "url": "https://www.spiegel.de/politik/deutschland/news-wahl-in-sachsen-anhalt-afd-ceuta-annalena-baerbock-a-89e2ceaf-e9e5-4b9a-8fbb-aa7158d2fe94#ref=rss",
+          "summary": "Die AfD unterscheidet sich von anderen rechten Parteien in Europa. In Ceuta nehmen Übegriffe gegen Migrantinnen und Migranten zu. Und: Annalena Baerbocks Amtszeit bei der Uno endet. Das ist die Lage am Freitagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "Volkswagen in der Krise: Aufsichtsrat stimmt Sanierungsplan zu",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/fc9d68bb-0359-4f29-b38f-b20d90704371_w1200_r1.778_fpx73.46_fpy50.jpg"
-        },
-        {
-          "title": "Spahn wird Mitglied des Haushaltsausschusses",
-          "url": "https://www.spiegel.de/politik/spahn-wird-mitglied-des-haushaltsausschusses-a-9a8bd0c1-e9eb-4cb1-9749-bfb5205ee075#ref=rss",
-          "summary": "Die politische Karriere von Jens Spahn geht weiter. Erst Mitte Juli war er nach scharfer Kritik als Fraktionschef der Union zurückgetreten. Nun zieht er in einen der einflussreichsten Ausschüsse des Bundestages ein.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3d9552df-8c4a-42d4-b12f-bb1d62b6c932_w1200_r1.778_fpx43_fpy41.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "VW-Aufsichtsrat beschließt Sparmaßnahmen - 50.000 Stellen weg",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplaene-100.html",
-          "summary": "Einen Tag früher als geplant hat der VW-Aufsichtsrat einem Sparplan zugestimmt: 50.000 Jobs sollen wegfallen, und vier Werke stehen vor dem Aus, wenn keine alternative Verwendung für sie gefunden wird.",
+          "title": "Nepal: Zwei Arbeiter neun Tage nach Sturzflut aus Tunnel gerettet",
+          "url": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-rettung-100.html",
+          "summary": "In Nepal konnten rund anderthalb Wochen nach der katastrophalen Sturzflut zwei Arbeiter lebend aus einem Tunnel gerettet werden. Noch immer sollen Hunderte Arbeiter in dem Tunnelsystem verschüttet sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d0c97011-d283-4d4f-95ea-790def61dc1e/AAABoGioXSA/AAABnSSvrFg/16x9-big/vw-1440.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/95769577-6074-4e5e-907d-e9d85972d597/AAABoGr2Hew/AAABnSSvrFg/16x9-big/nepal-rettung-arbeiter-tunnel-100.jpg?width=1280"
         },
         {
-          "title": "Warum in der Wahl auch ein Risiko für die AfD steckt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-afd-100.html",
-          "summary": "Die AfD liegt vor der Landtagswahl in Sachsen-Anhalt in Umfragen vorn und hofft auf ein bundesweites Signal. Doch es gibt auch Risiken - und Zweifel an der Regierungsfähigkeit der Partei. Von Benjamin Großkopff.",
+          "title": "Zahl der Geflüchteten in Deutschland 2026 leicht gesunken",
+          "url": "https://www.tagesschau.de/inland/zahl-gefluechtete-deutschland-102.html",
+          "summary": "Die Zahl der in Deutschland lebenden Geflüchteten ist leicht auf etwa 3,5 Millionen Menschen gesunken. Laut Bundesregierung liegt das an Abschiebungen, Ausreisen und Einbürgerungen, sowie weniger neuen Flüchtlingen aus der Ukraine.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a0e4d486-84d1-4117-8027-559c83337e3c/AAABoGh3CXE/AAABnSSvrFg/16x9-big/weidel-siegmund-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/52ab6873-18fd-4802-9ed4-950d7ca14fec/AAABoGruCmI/AAABnSSvrFg/16x9-big/bundesamt-fuer-migration-und-fluechtlinge-102.jpg?width=1280"
         },
         {
-          "title": "Brandanschlag in München - Starke Hinweise auf hybriden Hintergrund",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/brandanschlag-muenchen-verdacht-geheimdienst-russland-100.html",
-          "summary": "Nach Informationen des ARD-Hauptstadtstudios gibt es starke Hinweise darauf, dass auch der Brandanschlag nahe eines Rüstungsunternehmens in München im Auftrag eines russischen Geheimdienstes verübt worden sein könnte. Von M. Götschenberg.",
+          "title": "Marktbericht: DAX fester vor US-Arbeitsmarktdaten",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
+          "summary": "Kann sich der DAX über 26. 000 Punkten halten? Die Hoffnung auf eine Zinspause in den USA hat die Wall Street gestern angetrieben. Aber heute steht mit den US-Arbeitsmarktdaten der nächste wichtige Termin an.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/689dee90-c226-45c6-a4b5-6f6d2bb55965/AAABoGgY6EA/AAABnSSvrFg/16x9-big/muechen-polizei-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/68dbb183-1517-4291-a260-61dfdc68e500/AAABnLJS29A/AAABnSSvrFg/16x9-big/boerse-490.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA-Newsblog: Trump ruft im Streit um Briefwahl erneut Supreme Court an",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-briefwahl-supreme-court-li.3530667",
-          "summary": "Eine Bundesrichterin hatte die Pläne des Präsidenten gestoppt, die Regeln zur Briefwahl zu verschärfen. Diese Entscheidung will er kurz vor den Zwischenwahlen nun aussetzen lassen.",
+          "title": "Anschlag auf Münchner Rüstungsfirmen: Sie warfen Brandsätze aus einem Auto heraus",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-brandanschlag-ruestungsfirmen-rohde-schwarz-helsing-li.3541542",
+          "summary": "Nach dem mutmaßlichen Anschlag in der Nacht auf Donnerstag nimmt die Polizei zwei verdächtige Bulgaren fest, sie sollen einem Ermittlungsrichter vorgeführt werden  – ein politisches Motiv wird geprüft.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2022/06/08/da42c9f3-aef6-4fda-ad8c-456a9d0cb085.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1350%2C759"
+          "image": "https://www.sueddeutsche.de/2026/09/03/e4960ec6-8861-4f5e-98bb-72e6ebbd702c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=221%2C1485%2C2052%2C1154"
         },
         {
-          "title": "Automobilindustrie: 50 000 Jobs zusätzlich weg: Aufsichtsrat stimmt VW-Sparplan zu",
-          "url": "https://www.sueddeutsche.de/wirtschaft/vw-aufsichtsrat-sanierung-li.3542021",
-          "summary": "Die Einigung am Donnerstagabend kam unerwartet. Sie beinhaltet nicht nur einen weiteren, enormen Jobabbau. Auch für vier deutsche Werke ist die Zukunft weiter ungewiss.",
+          "title": "Volkswagen: Das Schwerste steht VW erst noch bevor",
+          "url": "https://www.sueddeutsche.de/meinung/vw-sparpaket-zukunft-deutschland-li.3542043",
+          "summary": "Gut, dass die Gewerkschaft und das Land Niedersachsen eingelenkt haben. Trotzdem ist der Kompromiss nur ein Anfang. Ob er ausreicht, um VW wieder in die Spur zu bekommen, liegt jetzt an Vorstandschef Blume.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/03/cc1d4814-44c0-4e96-bd02-a9600b472340.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/09/03/0c5629e6-c03e-41b8-b238-0a7c41f0bd70.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C102%2C2048%2C1152"
         },
         {
-          "title": "Filmfestspiele Venedig: Wie eine Atombombe der Traurigkeit",
-          "url": "https://www.sueddeutsche.de/kultur/festival-martin-mcdonagh-wild-horse-nine-interview-rezension-kritik-li.3539746",
-          "summary": "„Wild Horse Nine“ ist der vielleicht beste Film des durchweg famosen Martin McDonagh. Ein Treffen mit dem Meister der dunklen Komik in Venedig, wo der Film Premiere feiert.",
+          "title": "SPD-Klausur: Kerkelings eindringlicher Appell",
+          "url": "https://www.sueddeutsche.de/politik/hape-kerkeling-spd-klausur-sachsen-anhalt-afd-landtagswahl-verbotsverfahren-li.3542010",
+          "summary": "Die SPD-Fraktion trifft sich zu einer Strategieklausur – und hat einen besonderen Gast. Hape Kerkeling hält hier angesichts des möglichen AfD-Triumphs in Sachsen-Anhalt eine Rede, die nachhallen wird.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/03/c48fd2e0-bd82-485b-84a5-d40e562bdcc7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/09/03/0d963ee5-f2f2-4254-b6d1-07782f25d027.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
