@@ -1,39 +1,47 @@
 {
-  "generated": "2026-09-05T18:00:18.235Z",
-  "timestamp": "5.9.2026, 20:00:18",
+  "generated": "2026-09-05T22:00:16.506Z",
+  "timestamp": "6.9.2026, 00:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Zukunft der Wirtschaft: Gute Nachrichten, die keiner sieht",
-          "url": "https://www.faz.net/aktuell/wirtschaft/deutschlands-strukturwandel-gelingt-besser-als-gedacht-201194316.html",
-          "summary": "Das Land starrt auf Jobverluste in den Branchen von gestern. Aber der Strukturwandel gelingt – und zwar besser, als viele gedacht haben.",
+          "title": "„Forbes“-Liste: Die Vermessung der Superreichen",
+          "url": "https://www.faz.net/aktuell/finanzen/forbes-liste-was-sagt-uns-die-liste-der-superreichen-und-was-nicht-201177999.html",
+          "summary": "Bald veröffentlicht „Forbes“ seine jährliche Liste der 400 reichsten Amerikaner. Elon Musk wird wieder vorne dabei sein. Aber: Was sagen uns solche Rankings – und was nicht?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2933439f9a22/w5086h2657x1890y1446o/202609/43601.0.2511849869/eine-26-meter-hohe-kolonne-zur.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2833ab404990/w3292h1720x0y576o/202609/43601.0.2493292745/kalshi-mitgruenderin-luana.webp"
         },
         {
-          "title": "In Familienhand: Diese deutschen Unternehmen sind wahre Überlebenskünstler",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/seit-jahrhunderten-diese-deutschen-unternehmen-sind-wahre-ueberlebenskuenstler-accg-201182567.html",
-          "summary": "Nur wenige Unternehmen überleben Jahrhunderte mit Krisen und Kriegen. Eine neue Liste zeigt, wer am längsten durchgehalten hat.",
+          "title": "Bernard Arnault: Der Luxuskönig ärgert sich",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lvmh-chef-bernard-arnault-der-luxuskoenig-aergert-sich-accg-201144369.html",
+          "summary": "Bernard Arnault ist der Patriarch des LVMH-Konzerns und der reichste Europäer. Bisher war er nicht dafür bekannt, dem Rummel um ihn Beachtung zu schenken. Jetzt hat er sich zu Wort gemeldet.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7e4d4e02a381/w6144h3210x0y123o/202609/43601.0.2494762667/deutschland-aeltestes.webp"
+          "image": "https://media0.faz.net/image/w1200h627/aa194e8c4bb4/w4713h2462x0y2041o/202608/43601.0.2452347606/bernard-arnault-77-ist.webp"
         },
         {
-          "title": "Volkswagen: Das Wunder von Wolfsburg – und was es für Deutschland bedeutet",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-wunder-von-wolfsburg-was-die-einigung-zu-vw-fuer-deutschland-bedeutet-accg-201194462.html",
-          "summary": "Bei VW schien ein epochaler Konflikt um die Konzernsanierung unausweichlich. Jetzt gibt es überraschend eine Einigung. Der Autobauer wird zum Exempel: Kann sich das müde Industrieland Deutschland doch zum Wandel aufraffen?",
+          "title": "Deutschland-Liveblog: Siegmund: AfD übernimmt auch „mit einer Stimme Mehrheit“ Regierungsverantwortung",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-wahl-sachsen-anhalt-2026-siegmund-will-auch-mit-einer-stimme-mehrheit-regieren-faz-110093143.html",
+          "summary": "AfD-Chefin Weidel: „Siegmund wird morgen Geschichte schreiben“ +++ Demokratiefestival in Magdeburg mit etwa 15.000 Teilnehmern +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b047930a1f79/w6000h3135x0y188o/202608/43601.0.2467132200/blick-auf-die-konzernzentrale.webp"
+          "image": "https://media0.faz.net/image/w1200h627/25dfeb59151c/w4952h2587x0y237o/202609/43601.0.2516808700/ulrich-siegmund-spricht-auf.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Kanada und USA: Finanzminister François-Philippe Champagne über den Handelskrieg und Europa",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/kanada-und-usa-finanzminister-francois-philippe-champagne-ueber-den-handelskrieg-und-europa-a-33546033-20d8-4e1a-beae-25f917a8af38#ref=rss",
+          "summary": "Kanada hat die Handelsgespräche mit den USA abgebrochen und gibt sich selbstbewusst. Finanzminister Champagne erklärt, warum sich sein Land jetzt mit Deutschland und der EU gegen Donald Trump zusammentun sollte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/edb8ea86-520e-4dc8-9d42-cc074b3d2dfb_w1200_r1.778_fpx35_fpy45.jpg"
+        },
         {
           "title": "AfD in Sachsen-Anhalt: Wie Teile der Zivilgesellschaft gegen die Partei mobil machen",
           "url": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-wie-teile-der-zivilgesellschaft-gegen-die-partei-mobil-machen-a-ead596fd-3ea8-47fc-8037-a99248d113e6#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/f9f7e49b-9b26-44ae-9d8b-9ef9170979d3_w1200_r1.778_fpx49_fpy55.jpg"
         },
         {
-          "title": "Berlin: Hacker veröffentlichen 1,4 Millionen sensible Daten im Darknet",
-          "url": "https://www.spiegel.de/panorama/hackerangriff-in-berlin-gehaltslisten-kontoinformationen-kanzleramts-plaene-das-ist-zum-leak-bekannt-a-bb6ae0de-e978-4d58-9e05-80383f156b68#ref=rss",
-          "summary": "Eine Hackergruppe forderte rund zwei Millionen Euro Lösegeld von Berlin. Das Land zahlte nicht, nun stehen 1,4 Millionen teils äußerst sensible Daten im Darknet. Was passiert jetzt?",
+          "title": "Friedrich Merz: »Fest entschlossen, uns zu verteidigen« – Bundeskanzler sendet Botschaft an Putin",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-fest-entschlossen-uns-zu-verteidigen-bundeskanzler-sendet-botschaft-an-putin-a-19da0f9d-a99a-4e43-bec3-5f55b2d971cc#ref=rss",
+          "summary": "Bei einer Wahlkampfveranstaltung spricht der Bundeskanzler über ein neues Narrativ für Deutschland. Russland forderte er auf, die »hybride Kriegsführung« zu stoppen. Mit deutlichen Worten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/573caeff-ecdf-45db-a379-65873878e032_w1200_r1.778_fpx53_fpy46.jpg"
-        },
-        {
-          "title": "Frauke Brosius-Gersdorf: Warum ihre gescheiterte Wahl Demokratie stärkt",
-          "url": "https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-warum-ihre-gescheiterte-wahl-demokratie-staerkt-a-5e820473-6f3f-48c9-8e47-f58efd104d33#ref=rss",
-          "summary": "Die Juraprofessorin erklärt ihre gescheiterte Kandidatur für das Verfassungsgericht zu einer tiefen Systemkrise. In Wahrheit ist der Vorgang der Beleg für eine funktionierende Demokratie.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c8c9a565-1c07-4754-9a79-15a4f8ca5495_w1200_r1.778_fpx54.38_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/67cc77f9-02b1-4d77-a9e8-d1e8a376d74e_w1200_r1.778_fpx49_fpy98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
+          "url": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
+          "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Details des Friedensplans bleiben unbekannt - als nächstes wird er in Kiew vorgestellt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/32a0ad20-ce64-46b0-ac00-166040620a87/AAABoHNETuA/AAABnSSvrFg/16x9-big/putin-witkoff-kushner-100.jpg?width=1280"
+        },
+        {
+          "title": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
+          "summary": "Die US-Staatsschulden liegen inzwischen bei mehr als 40 Billionen Dollar. Immer mehr Geld aus dem Haushalt fließt so in Zinszahlungen - und weniger bleibt übrig für Investitionen in die Zukunft des Landes. Von Anne Schneider.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/5b04e2f6-a9fc-479a-a4a1-48b5212f3b86/AAABoGvs1HM/AAABnSSvrFg/16x9-big/siegel-us-finanzministerium-100.jpg?width=1280"
+        },
+        {
           "title": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
           "url": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
           "summary": "Ein 48-Jähriger hat sich in zwei Schreiben zu den versuchten Sabotageakten gegen das Stromnetz bekannt. Darin nennt er seinen Namen, er wurde aber noch nicht gefasst. Nun setzt die Polizei auf eine öffentliche Fahndung.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/55c57f9e-dd10-448d-8c15-031656334e89/AAABoHKkLRY/AAABnSSvrFg/16x9-big/polizei-fahndung-sabotage-102.jpg?width=1280"
-        },
-        {
-          "title": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
-          "url": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
-          "summary": "Eine kriminelle Gruppe greift die Berliner Verwaltung an und veröffentlicht große Mengen von Daten im Darknet. Um welche Informationen geht es? Welche Gefahren birgt deren Veröffentlichung? Antworten auf die wichtigsten Fragen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/eac6f015-259e-4954-a039-36eb5cacdf18/AAABoHInlt8/AAABnSSvrFg/16x9-big/hacker-199.jpg?width=1280"
-        },
-        {
-          "title": "USA greifen iranische Öltanker an",
-          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
-          "summary": "Vor der Küste Irans hat das US-Militär drei iranische Öltanker außer Gefecht gesetzt. Es spricht von einer Reaktion auf Attacken der Revolutionsgarde: Diese soll zuvor Raketen auf Marineschiffe abgefeuert haben.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/599eca36-e862-464d-8f8c-363f7dc2ba95/AAABoHIPmpE/AAABnSSvrFg/16x9-big/angriff-oeltanker-100.jpg?width=1280"
         }
       ]
     },
@@ -114,7 +114,7 @@
           "summary": "1949 kehrt Thomas Mann aus dem Exil zurück. Pawlikowskis Film zeigt, wie er auf zwei Deutschlands trifft – und auf eine Heimat, die aufgehört hat zu existieren.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/9/6/3/4/Master_Vaterland-84aeee41ab599a18.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Berliner Datenleck: „Dieser Datenabfluss gefährdet unsere nationale Sicherheit“",
-          "url": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-fragen-und-antworten-li.3542710",
-          "summary": "Eine Hackergruppe hat bei einem Angriff auf das Berliner Landesnetz eine große Menge geheimer Daten erbeutet und veröffentlicht. Das Ausmaß alarmiert die Bundesregierung. Fragen und Antworten.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2023/09/04/50b4acd0-ed31-4424-a903-8338dd09784e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C51%2C1419%2C798"
-        },
-        {
-          "title": "Newsblog zum Nahost-Krieg: USA beschießen iranische Öltanker",
+          "title": "Newsblog zum Nahost-Krieg: USA und Iran beschießen gegenseitig Schiffe",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-oel-angriffe-tanker-li.3530668",
-          "summary": "Anlass seien vorausgegangene Raketenangriffe der iranischen Revolutionsgarden auf zwei Schiffe der Marine gewesen, heißt es vom US-Militär.",
+          "summary": "Es seien mehrere Schiffe in der Straße von Hormus attackiert worden, heißt es von der Marine der iranischen Revolutionsgarde. Zuvor hatten die USA Vergeltungsangriffe auf iranische Tanker gemeldet.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/05/2f7f2e7d-1f03-43d3-937a-69c93f22f505.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=623%2C351%2C1314%2C739"
         },
         {
-          "title": "Bundesliga: Dortmund gelingt Comeback-Sieg – Füllkrug lässt Werder jubeln",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-fussball-borussia-dortmund-bvb-hoffenheim-elversberg-moenchengladbach-werder-bremen-li.3542791",
-          "summary": "Der BVB hat einen weiteren Verletzten zu beklagen, dreht in Hoffenheim aber noch ein 0:2 . Werder Bremen überrascht gegen Leipzig. Und Elversberg gewinnt schon wieder. Alles Wichtige zum Spieltag.",
+          "title": "Newsblog zum Ukraine-Krieg: Kreml bezeichnet Reise von Trump-Gesandten als „wichtigen Friedensbesuch“",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-moskau-reaktion-li.3524928",
+          "summary": "Witkoff und Kushner nahmen für die USA die Vermittlung für ein Ende des Kriegs in der Ukraine wieder auf. Nach dem Besuch in Russland soll erstmals auch ein Gespräch in Kiew folgen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/05/518d90e8-484c-4b99-aae6-9d1e4d621692.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C150%2C2604%2C1465"
+          "image": "https://www.sueddeutsche.de/2026/09/05/2ef4a19e-d5bd-4058-bcf3-7fe04249e5e7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C155%2C3500%2C1969"
+        },
+        {
+          "title": "Raumfahrt: Münchner Rakete erreicht den Erdorbit",
+          "url": "https://www.sueddeutsche.de/wirtschaft/isar-raumfahrt-esa-li.3458924",
+          "summary": "Die Kleinrakete „Spectrum“ sollte schon beim zweiten Testflug Satelliten in der Erdumlaufbahn aussetzen. Es ist die erste deutsche Trägerrakete überhaupt, die den Orbit erreicht hat.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/05/bb481be7-5467-4a79-842d-a33255c52592.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3840%2C2160"
         }
       ]
     }
