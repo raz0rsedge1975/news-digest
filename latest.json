@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T22:00:18.984Z",
-  "timestamp": "5.9.2026, 00:00:18",
+  "generated": "2026-09-05T02:00:15.704Z",
+  "timestamp": "5.9.2026, 04:00:15",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "UN stimmen für neue Weltkarte - Afrika wächst",
+          "url": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
+          "summary": "Afrika soll größer werden - zumindest auf der Weltkarte. Die UN haben für eine neue Karte gestimmt, die das tatsächliche Größenverhältnis besser abbilden soll. Nur die USA waren dagegen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b330a7ae-5169-4d82-8c9a-c8fd6f6684f9/AAABoG7ouao/AAABnSSvrFg/16x9-big/un-176.jpg?width=1280"
+        },
+        {
+          "title": "Neue Vorwürfe gegen Farages Rechtspopulisten",
+          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-farage-104.html",
+          "summary": "Die britischen Rechtspopulisten von Reform UK um Nigel Farage haben ihren Parteitag fortgesetzt - und müssen sich mit neuen Vorwürfen auseinandersetzen. Wieder geht es um Geld. Von Franziska Hoppen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/5335ed0c-741d-4ff7-9a6d-822d072f389f/AAABoG50jO0/AAABnSSvrFg/16x9-big/farage-198.jpg?width=1280"
+        },
+        {
           "title": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
           "url": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
           "summary": "Nach der Sabotage an Umspannwerken in Nordrhein-Westfalen und Brandenburg fahndet die Polizei nach einem Verdächtigen. Der Mann hatte Bekennerschreiben verfasst. Ob er aber auch der Täter ist, ist noch offen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/995b574e-1f6a-4dfa-8767-5f0f828e9b22/AAABoG2wXgo/AAABnSSvrFg/16x9-big/reul-dobrindt-102.jpg?width=1280"
-        },
-        {
-          "title": "Wie kann die kritische Infrastruktur besser geschützt werden?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/schutz-kritische-infrastruktur-100.html",
-          "summary": "Die jüngsten Ereignisse haben gezeigt, wie anfällig kritische Infrastruktur in Deutschland ist. Stromnetze, Flughäfen und Wasserwerke müssen besser geschützt werden. Wie ist das möglich? Von Theo Steinbach.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cc640a07-e16b-4715-9692-7e834e29b0f3/AAABoFKYaH8/AAABnSSvrFg/16x9-big/strompreis-144.jpg?width=1280"
-        },
-        {
-          "title": "Wie geht es im Thüringer Landtag nun weiter?",
-          "url": "https://www.tagesschau.de/inland/thueringen-wie-geht-es-weiter-100.html",
-          "summary": "Der Dauerstreit des Thüringer BSW mit Parteigründerin Wagenknecht ist eskaliert, die Mehrheit der Landtagsabgeordneten verlässt die Partei. Welche Optionen hat die Fraktion nun? Und was bedeutet das für die Regierungskoalition?",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/603f66fa-6a6e-4b22-be2c-e7d60c7ca78e/AAABoGz160s/AAABnSSvrFg/16x9-big/landtag-thueringen-194.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Eine Tragödie und kein Urteil",
+          "url": "https://www.sueddeutsche.de/panorama/lindsay-clancy-kindsmord-kinder-psychose-prozess-geschworene-usa-li.3542584",
+          "summary": "Das Verfahren gegen Lindsay Clancy, die ihre drei Kinder getötet hat, wird nach sieben Wochen abgebrochen. Ein Geschworener kann sich nicht entscheiden, ob sie wegen ihrer mutmaßlichen Psychose unschuldig ist.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/04/c99837f8-698c-4a00-bdde-c7fd83bd90cf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C154%2C3000%2C1687"
+        },
+        {
+          "title": "Newsblog zur Bundespolitik: Söder bekräftigt: Frau sollte jetzt Staatsoberhaupt werden",
+          "url": "https://www.sueddeutsche.de/politik/bundespraesident-csu-soeder-merz-ilse-aigner-li.3529564",
+          "summary": "CSU-Chef Markus Söder favorisiert weiter eine Frau für das Amt des Bundespräsidenten und erhöht damit den Druck auf die CDU und Bundeskanzler Friedrich Merz.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/07/31/04e10aea-562f-449d-b6ab-ab9bac7135f2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C194%2C2048%2C1152"
+        },
+        {
           "title": "Newsblog zum Ukraine-Krieg: Selenskij: US-Vermittler kommen am Sonntag nach Kiew",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-kiew-li.3524928",
           "summary": "Steve Witkoff und Jared Kushner haben seit 2025 mehrmals Moskau besucht, waren aber für ihre Vermittlungsbemühungen noch nie in Kiew.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/04/4680f665-00fb-4f27-9fba-f55a50407ed8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C188%2C3523%2C1982"
-        },
-        {
-          "title": "BSW: Wolfs Bruch mit Wagenknecht ist nachvollziehbar",
-          "url": "https://www.sueddeutsche.de/meinung/bsw-wagenknecht-wolf-thueringen-parteiaustritt-kommentar-li.3542445",
-          "summary": "Mit ihrem Parteiaustritt schubst die Thüringer Abgeordnete das Bündnis Sahra Wagenknecht einen weiteren Schritt in Richtung politischer Bedeutungslosigkeit. Trotzdem ist die Trennung für beide richtig.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/04/4f260fd5-9eb7-4960-81f2-0b1205def59e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Theater: Der Reiz des Anrüchigen",
-          "url": "https://www.sueddeutsche.de/kultur/marina-abramovic-balkan-erotic-epic-ruhrtriennale-performance-li.3538829",
-          "summary": "„Es ist keine Pornografie, es ist Menschlichkeit“, sagt Marina Abramović über ihre Performance „Balkan Erotic Epic“, die bei der Ruhrtriennale Premiere feierte. Wirklich? Eine Erkundung zwischen Nacktheit, Riten und Sexualität.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/04/5f33800b-f436-4f88-a7c5-cf49b7d298b7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C735%2C2667%2C1500"
         }
       ]
     }
