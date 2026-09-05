@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-05T14:00:18.765Z",
-  "timestamp": "5.9.2026, 16:00:18",
+  "generated": "2026-09-05T18:00:18.235Z",
+  "timestamp": "5.9.2026, 20:00:18",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Russland abschrecken: Paragraphen als Waffe",
-          "url": "https://www.faz.net/aktuell/politik/berlin-sucht-antworten-auf-russlands-hybride-eskalation-accg-201175986.html",
-          "summary": "Deutschland will Russland von weiteren Angriffen abhalten. Um die Schattentanker in der Ostsee zu stoppen, könnte ein Mittel zum Einsatz kommen, das weltweit berüchtigt ist: die deutsche Bürokratie.",
+          "title": "Zukunft der Wirtschaft: Gute Nachrichten, die keiner sieht",
+          "url": "https://www.faz.net/aktuell/wirtschaft/deutschlands-strukturwandel-gelingt-besser-als-gedacht-201194316.html",
+          "summary": "Das Land starrt auf Jobverluste in den Branchen von gestern. Aber der Strukturwandel gelingt – und zwar besser, als viele gedacht haben.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/73f729711674/w6144h3210x0y443o/202609/43601.0.2493560134/aussenminister-johann-wadephul.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2933439f9a22/w5086h2657x1890y1446o/202609/43601.0.2511849869/eine-26-meter-hohe-kolonne-zur.webp"
         },
         {
-          "title": "Früherer Feuerwehrchef: „Muss erst ein Flugzeug explodieren, damit wir aufwachen?“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/albrecht-broemme-wann-wacht-deutschland-im-zivilschutz-auf-accg-201188265.html",
-          "summary": "Der Zivilschutzfachmann Albrecht Broemme findet, dass Deutschland aus früheren Anschlägen kaum gelernt hat. Unternehmen sollten Drohnen abwehren dürfen, Privatleute sollen Notreserven anlegen – darunter auch gute Rotweine.",
+          "title": "In Familienhand: Diese deutschen Unternehmen sind wahre Überlebenskünstler",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/seit-jahrhunderten-diese-deutschen-unternehmen-sind-wahre-ueberlebenskuenstler-accg-201182567.html",
+          "summary": "Nur wenige Unternehmen überleben Jahrhunderte mit Krisen und Kriegen. Eine neue Liste zeigt, wer am längsten durchgehalten hat.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5bfd7c9a772b/w4000h2090x0y806o/202607/43601.0.2304767841/mahner-und-fachmann-albrecht.webp"
+          "image": "https://media0.faz.net/image/w1200h627/7e4d4e02a381/w6144h3210x0y123o/202609/43601.0.2494762667/deutschland-aeltestes.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Siegmund will auch mit absoluter Mehrheit nicht unbedingt regieren",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-wahl-sachsen-anhalt-2026-siegmund-will-auch-mit-absoluter-mehrheit-nicht-unbedingt-regieren-faz-110093143.html",
-          "summary": "AfD-Spitzenkandidat: Stabile Regierung mit knapper Mehrheit nicht unbedingt möglich +++ Mutmaßlicher Stromnetz-Saboteur flüchtig +++ 33 Disziplinarverfahren wegen verschwundener Dienstwaffen bei Bundespolizei und BKA +++ alle Entwicklungen im Liveblog",
+          "title": "Volkswagen: Das Wunder von Wolfsburg – und was es für Deutschland bedeutet",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-wunder-von-wolfsburg-was-die-einigung-zu-vw-fuer-deutschland-bedeutet-accg-201194462.html",
+          "summary": "Bei VW schien ein epochaler Konflikt um die Konzernsanierung unausweichlich. Jetzt gibt es überraschend eine Einigung. Der Autobauer wird zum Exempel: Kann sich das müde Industrieland Deutschland doch zum Wandel aufraffen?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1749afd4bf54/w5900h3082x0y425o/202609/43601.0.2512246318/ulrich-siegmund-am-freitag.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b047930a1f79/w6000h3135x0y188o/202608/43601.0.2467132200/blick-auf-die-konzernzentrale.webp"
         }
       ]
     },
@@ -35,7 +35,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Hackerangriff in Berlin: Gehaltslisten, Kontoinformationen, Kanzleramts-Pläne – das ist zum Leak bekannt",
+          "title": "AfD in Sachsen-Anhalt: Wie Teile der Zivilgesellschaft gegen die Partei mobil machen",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-wie-teile-der-zivilgesellschaft-gegen-die-partei-mobil-machen-a-ead596fd-3ea8-47fc-8037-a99248d113e6#ref=rss",
+          "summary": "Vor der Landtagswahl in Sachsen-Anhalt reden alle über die AfD. Doch es gibt auch Menschen, die sich ihr entgegenstellen. Wer sind sie, und was tun sie?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f9f7e49b-9b26-44ae-9d8b-9ef9170979d3_w1200_r1.778_fpx49_fpy55.jpg"
+        },
+        {
+          "title": "Berlin: Hacker veröffentlichen 1,4 Millionen sensible Daten im Darknet",
           "url": "https://www.spiegel.de/panorama/hackerangriff-in-berlin-gehaltslisten-kontoinformationen-kanzleramts-plaene-das-ist-zum-leak-bekannt-a-bb6ae0de-e978-4d58-9e05-80383f156b68#ref=rss",
           "summary": "Eine Hackergruppe forderte rund zwei Millionen Euro Lösegeld von Berlin. Das Land zahlte nicht, nun stehen 1,4 Millionen teils äußerst sensible Daten im Darknet. Was passiert jetzt?",
           "source": "Spiegel",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/573caeff-ecdf-45db-a379-65873878e032_w1200_r1.778_fpx53_fpy46.jpg"
         },
         {
-          "title": "Trans Mann in AfD-Hochburg Sachsen-Anhalt: Die geheime Verwandlung des Julian Kern",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/trans-mann-in-afd-hochburg-sachsen-anhalt-die-geheime-verwandlung-des-julian-kern-a-516cb222-f80e-47e2-916b-7713191def8d#ref=rss",
-          "summary": "Deshalb hat er sich für ein Geheimprojekt entschieden.",
+          "title": "Frauke Brosius-Gersdorf: Warum ihre gescheiterte Wahl Demokratie stärkt",
+          "url": "https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-warum-ihre-gescheiterte-wahl-demokratie-staerkt-a-5e820473-6f3f-48c9-8e47-f58efd104d33#ref=rss",
+          "summary": "Die Juraprofessorin erklärt ihre gescheiterte Kandidatur für das Verfassungsgericht zu einer tiefen Systemkrise. In Wahrheit ist der Vorgang der Beleg für eine funktionierende Demokratie.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/72bb9e02-7dc4-4801-9a1e-54c722faced9_w1200_r1.778_fpx49_fpy50.jpg"
-        },
-        {
-          "title": "Ukrainekrieg: US-Unterhändler in Moskau gelandet – Treffen mit Putin geplant",
-          "url": "https://www.spiegel.de/ausland/ukrainekrieg-us-unterhaendler-in-moskau-gelandet-treffen-mit-putin-geplant-a-f08bdbc5-e042-4d65-81ed-18267f45a0eb#ref=rss",
-          "summary": "Erst Moskau, dann Kyjiw: Die USA nehmen ihre Friedensbemühungen im Ukrainekrieg wieder auf. Im Rahmen der Besuche sollen laut Putin die russischen Angriffe auf Kyjiw wohl drei Tage lang ruhen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ca06c28c-c1fa-434c-9586-a45552a9002d_w960_r1.778_fpx45_fpy43.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c8c9a565-1c07-4754-9a79-15a4f8ca5495_w1200_r1.778_fpx54.38_fpy49.99.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "50 Jahre Muppet Show: Die Kunst des gepflegten Unsinns",
-          "url": "https://www.tagesschau.de/kultur/muppet-show-geburtstag-100.html",
-          "summary": "Kleine Puppen mit großen Klappen - vor 50 Jahren startete die Muppet Show. Mit Miss Piggys und Kermits frechen Witzen, Musik und prominenten Gästen wurde aus Puppentheater eine weltweite Erfolgsgeschichte. Von Franziska Hoppen.",
+          "title": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
+          "summary": "Ein 48-Jähriger hat sich in zwei Schreiben zu den versuchten Sabotageakten gegen das Stromnetz bekannt. Darin nennt er seinen Namen, er wurde aber noch nicht gefasst. Nun setzt die Polizei auf eine öffentliche Fahndung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fc9b49c6-9b03-4936-9345-a47f06c36030/AAABoHGsNd8/AAABnSSvrFg/16x9-big/figuren-muppet-show-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/55c57f9e-dd10-448d-8c15-031656334e89/AAABoHKkLRY/AAABnSSvrFg/16x9-big/polizei-fahndung-sabotage-102.jpg?width=1280"
         },
         {
-          "title": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
-          "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html",
-          "summary": "Kolumbiens neuer Präsident de la Espriella versprach, hart gegen bewaffnete Gruppen vorzugehen. In den ersten Wochen seiner Amtszeit lässt er seinen Worten mit enormem Tempo Taten folgen. Von Jenny Barke.",
+          "title": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
+          "url": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html",
+          "summary": "Eine kriminelle Gruppe greift die Berliner Verwaltung an und veröffentlicht große Mengen von Daten im Darknet. Um welche Informationen geht es? Welche Gefahren birgt deren Veröffentlichung? Antworten auf die wichtigsten Fragen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c4e2f7f2-4885-49d8-a716-8c8ef57be62d/AAABoHGd3nI/AAABnSSvrFg/16x9-big/de-la-espriella-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/eac6f015-259e-4954-a039-36eb5cacdf18/AAABoHInlt8/AAABnSSvrFg/16x9-big/hacker-199.jpg?width=1280"
         },
         {
-          "title": "Schüsse auf Kölner Bar abgefeuert - Polizei leitet Fahndung ein",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-polizeieinsatz-schuesse-auf-tuerkische-bar-in-koeln-100.html",
-          "summary": "In Köln wurden in der Nacht Schüsse auf eine Bar abgefeuert. Es ist nicht die erste Attacke auf einen Gastronomiebetrieb. Die Polizei ermittelt, ob es sich bei den Taten um Erpressungsversuche handeln könnte.",
+          "title": "USA greifen iranische Öltanker an",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html",
+          "summary": "Vor der Küste Irans hat das US-Militär drei iranische Öltanker außer Gefecht gesetzt. Es spricht von einer Reaktion auf Attacken der Revolutionsgarde: Diese soll zuvor Raketen auf Marineschiffe abgefeuert haben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fc371463-ae8f-4874-a659-8f6e7cf0da12/AAABoHFPtpU/AAABnSSvrFg/16x9-big/wdr-polizeieinsatz-nach-schuessen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/599eca36-e862-464d-8f8c-363f7dc2ba95/AAABoHIPmpE/AAABnSSvrFg/16x9-big/angriff-oeltanker-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "US-Abzug aus dem Irak zu Bedingungen, die Bagdad nicht erfüllen kann",
+          "url": "https://www.telepolis.de/article/US-Abzug-aus-dem-Irak-zu-Bedingungen-die-Bagdad-nicht-erfuellen-kann-11442550.html",
+          "summary": "Washington knüpft den Irak-Abzug an die Entwaffnung pro-iranischer Milizen. Doch die sind in staatliche Strukturen eingebunden – und wehren sich.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/9/6/5/6/William_E._Thompson_cropped-a280bdffd9e77323.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Weltmacht-Wasser: Die Ressource unserer Zeit?",
           "url": "https://www.telepolis.de/article/Weltmacht-Wasser-Die-Ressource-unserer-Zeit-11438099.html",
@@ -106,15 +114,7 @@
           "summary": "1949 kehrt Thomas Mann aus dem Exil zurück. Pawlikowskis Film zeigt, wie er auf zwei Deutschlands trifft – und auf eine Heimat, die aufgehört hat zu existieren.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/9/6/3/4/Master_Vaterland-84aeee41ab599a18.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "MQ-9A Reaper: Schwere Drohnenverluste zwingen Pentagon zum Umdenken",
-          "url": "https://www.telepolis.de/article/MQ-9A-Reaper-Schwere-Drohnenverluste-zwingen-Pentagon-zum-Umdenken-11442524.html",
-          "summary": "Nach dem Verlust von rund 25 Prozent ihrer Reaper-Drohnen sucht die US-Luftwaffe unter Zeitdruck nach einem billigeren Nachfolger für den Iran-Krieg.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/9/6/4/3/shutterstock_167361152-ab53b0c0b3460c30.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Wahl in Sachsen-Anhalt: Tausende Menschen demonstrieren in Magdeburg",
-          "url": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-demos-magdeburg-li.3540501",
-          "summary": "Auf dem Domplatz findet ein Demokratie-Fest statt, in direkter Nachbarschaft begeht die  AfD ihren Wahlkampfabschluss. Auch in anderen Städten Sachsen-Anhalts finden Kundgebungen statt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/05/6a8d5cd4-69eb-4be0-9268-eac3e53925cc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
-        },
-        {
-          "title": "Cyberkriminalität: Was bisher über das Datenleck der Berliner Verwaltung bekannt ist",
+          "title": "Berliner Datenleck: „Dieser Datenabfluss gefährdet unsere nationale Sicherheit“",
           "url": "https://www.sueddeutsche.de/politik/hackerangriff-berlin-verwaltung-fragen-und-antworten-li.3542710",
-          "summary": "Eine Hackergruppe hat bei einem Angriff auf das Berliner Landesnetz eine große Menge sensibler Daten erbeutet und veröffentlicht. Welche Daten betroffen sind, wer mutmaßlich hinter dem Angriff steckt und was Betroffene nun tun können.",
+          "summary": "Eine Hackergruppe hat bei einem Angriff auf das Berliner Landesnetz eine große Menge geheimer Daten erbeutet und veröffentlicht. Das Ausmaß alarmiert die Bundesregierung. Fragen und Antworten.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2023/09/04/50b4acd0-ed31-4424-a903-8338dd09784e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C51%2C1419%2C798"
         },
         {
-          "title": "Krise mit Russland: Die „Eisernen Veteranen“ und die Rückkehr der Geschichte",
-          "url": "https://www.sueddeutsche.de/politik/radfahren-eiserner-vorhang-russland-li.3541564",
-          "summary": "Jetzt, wo ein neuer kalter Krieg  in Europa droht, setzen Rennradfahrer, die noch im Krieg geboren wurden, ein Zeichen. Sie radeln den Eisernen Vorhang ab. Und haben zwei Botschaften.",
+          "title": "Newsblog zum Nahost-Krieg: USA beschießen iranische Öltanker",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-oel-angriffe-tanker-li.3530668",
+          "summary": "Anlass seien vorausgegangene Raketenangriffe der iranischen Revolutionsgarden auf zwei Schiffe der Marine gewesen, heißt es vom US-Militär.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/04/4d107780-0d25-4d0f-a649-52027b65c4a2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/05/2f7f2e7d-1f03-43d3-937a-69c93f22f505.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=623%2C351%2C1314%2C739"
+        },
+        {
+          "title": "Bundesliga: Dortmund gelingt Comeback-Sieg – Füllkrug lässt Werder jubeln",
+          "url": "https://www.sueddeutsche.de/sport/bundesliga-fussball-borussia-dortmund-bvb-hoffenheim-elversberg-moenchengladbach-werder-bremen-li.3542791",
+          "summary": "Der BVB hat einen weiteren Verletzten zu beklagen, dreht in Hoffenheim aber noch ein 0:2 . Werder Bremen überrascht gegen Leipzig. Und Elversberg gewinnt schon wieder. Alles Wichtige zum Spieltag.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/05/518d90e8-484c-4b99-aae6-9d1e4d621692.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C150%2C2604%2C1465"
         }
       ]
     }
