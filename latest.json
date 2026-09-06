@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-06T06:00:17.050Z",
-  "timestamp": "6.9.2026, 08:00:17",
+  "generated": "2026-09-06T10:00:16.764Z",
+  "timestamp": "6.9.2026, 12:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Wahl in Sachsen-Anhalt: Der Kampf um Sachsen-Anhalts große Geschichte",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/sachsen-anhalt-wahl-2026-der-kampf-um-bismarck-und-luther-accg-201180223.html",
+          "summary": "Kaiser Otto, Luther, Bismarck: In Sachsen-Anhalt trifft man auf große Figuren der deutschen Geschichte. Manche wollen sie nicht mehr historisch-kritisch betrachten, sondern setzen auf die Kraft des Mythos.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/43d811a49756/w6500h3396x0y215o/202608/43601.0.2477963663/blick-auf-den-dom-die.webp"
+        },
+        {
+          "title": "Liveblog zur Wahl in Sachsen-Anhalt: Spitzenkandidaten haben ihre Stimmen abgegeben",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/liveticker-wahl-sachsen-anhalt-2026-spitzenkandidaten-haben-ihre-stimmen-abgegeben-faz-110093143.html",
+          "summary": "SPD-, CDU- und AfD-Spitzenkandidaten haben gewählt +++ Bis 18 Uhr sind die Wahllokale geöffnet +++ AfD will auch mit knapper Mehrheit regieren +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/05825faee157/w6144h3210x0y443o/202609/43601.0.2518700658/afd-spitzenkandidat-ulrich.webp"
+        },
         {
           "title": "Fristen, Quoren, Kabinett: Wie geht es nach der Wahl in Sachsen-Anhalt weiter?",
           "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-was-passiert-nach-dem-wahltag-accg-201187586.html",
           "summary": "Juristische Finessen nach der Wahl in Sachsen-Anhalt",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cb6a01e1b83e/w6500h3396x0y344o/202608/43601.0.2477964302/blick-auf-den-dom-sachsen.webp"
-        },
-        {
-          "title": "Wahl in Sachsen-Anhalt: Wirtschaftsweise warnt vor wirtschaftlichen Folgen von AfD-Regierung",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wirtschaftsweise-schnitzer-warnt-vor-folgen-von-afd-regierung-in-sachsen-anhalt-accg-201198427.html",
-          "summary": "Vor der Landtagswahl in Sachsen-Anhalt warnt Ökonomin Schnitzer: Ohne Zuzug fehlten bald Fachkräfte. Eine AfD-Regierung würde das Problem verschärfen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ddf3f32a6205/w5667h2961x0y288o/202605/43601.0.2037448874/wirtschaftsweise-monika.webp"
-        },
-        {
-          "title": "Liveblog zur Wahl in Sachsen-Anhalt: Siegmund: AfD übernimmt auch „mit einer Stimme Mehrheit“ Regierungsverantwortung",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/liveticker-wahl-sachsen-anhalt-2026-siegmund-will-auch-mit-einer-stimme-mehrheit-regieren-faz-110093143.html",
-          "summary": "AfD-Chefin Weidel: „Siegmund wird morgen Geschichte schreiben“ +++ Demokratiefestival in Magdeburg mit etwa 15.000 Teilnehmern +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/25dfeb59151c/w4952h2587x0y237o/202609/43601.0.2516808700/ulrich-siegmund-spricht-auf.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d84be265cc37/w6500h3396x0y474o/202608/43601.0.2477964302/blick-auf-den-dom-sachsen.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Deutschland: Wie lässt sich die Spaltung zwischen Ost und West überwinden?",
-          "url": "https://www.spiegel.de/geschichte/ost-west-debatte-spiegel-mediation-mit-dirk-oschmann-und-armin-nassehi-a-1b77d97a-2d7e-46bc-87ac-c6f1290384d6#ref=rss",
-          "summary": "Deutschland wird immer ostdeutscher, sagt der Soziologe Armin Nassehi. Der Osten wird vom Westen herabgesetzt, erwidert der Germanist Dirk Oschmann. Der SPIEGEL hat beide zusammengebracht. Hier suchen sie nach Lösungen.",
+          "title": "Steidl Verlag: Mitarbeiter kriegen kein Gehalt, Aufträge brechen weg. Und mittendrin dieser Buch-Besessene",
+          "url": "https://www.spiegel.de/kultur/literatur/steidl-verlag-warum-gerhard-steidl-um-sein-lebenswerk-kaempft-a-81f847b5-6db1-4c1c-8243-7d071e1a3258#ref=rss",
+          "summary": "Verleger Gerhard Steidl gilt als detailverliebter Hohepriester des Buchdrucks. Doch mit Lagerfeld und Grass starben auch wichtige Aufträge. Und die Verlagsmitarbeiter erheben ernste Vorwürfe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/73e8b5f9-1c66-4c77-a889-73c94c54626b_w1200_r1.778_fpx51_fpy47.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ba15bb34-5bb1-492c-ba25-fc965540ab54_w1200_r1.778_fpx46_fpy20.jpg"
         },
         {
-          "title": "Friedrich Merz: »Fest entschlossen, uns zu verteidigen« – Bundeskanzler sendet Botschaft an Putin",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-fest-entschlossen-uns-zu-verteidigen-bundeskanzler-sendet-botschaft-an-putin-a-19da0f9d-a99a-4e43-bec3-5f55b2d971cc#ref=rss",
-          "summary": "Bei einer Wahlkampfveranstaltung spricht der Bundeskanzler über ein neues Narrativ für Deutschland. Russland forderte er auf, die »hybride Kriegsführung« zu stoppen. Mit deutlichen Worten.",
+          "title": "Sachsen-Anhalt live – News zur Landtagswahl: Spitzenkandidaten haben gewählt",
+          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-live-news-zur-landtagswahl-die-wahllokale-in-sachsen-anhalt-sind-geoeffnet-a-dbe3c61f-e069-4de0-a3ef-de6d61ccb87a#ref=rss",
+          "summary": "Die Wahllokale in Sachsen-Anhalt sind geöffnet. Ministerpräsident Schulze und AfD-Spitzenkandidat Siegmund haben ihre Stimmen abgegeben. Und: Rettungseinsatz vor Wahllokal in Tangermünde. Die Entwicklungen im Newsblog.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a0418dbb-eabb-41e2-9b45-32d11dc7ee8a_w1200_r1.778_fpx30_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/24cb2cb1-4776-454c-98b6-c659abf2cd20_w1200_r1.778_fpx45.33_fpy50.jpg"
         },
         {
           "title": "Angriff auf Stromversorgung: Das ist der mutmaßliche Strom-Saboteur",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Zu viele Touristen - wie Dubrovnik gegensteuert",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/overtourism-dubrovnik-100.html",
-          "summary": "Dubrovnik zählt zu Europas beliebtesten Reisezielen. Durch die Serie \"Game of Thrones\" wurde die kroatische Hafenstadt weltberühmt - nun geht sie gegen \"Overtourism\" vor. Bachmann und N.",
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: CDU-Spitzenkandidat Schulze hat gewählt ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
+          "summary": "Der Spitzenkandidat der CDU, Ministerpräsident Schulze, hat in Magdeburg seine Stimme abgegeben. Zuvor hatten bereits der AfD-Spitzenkandidat Siegmund und der SPD-Spitzenkandidat Willingman gewählt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/42ff1205-c93e-417f-a462-55a534f96c71/AAABlgUOVBU/AAABnSSvrFg/16x9-big/dubrovnik-altstadt-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/85d9ce9f-8137-40af-8de6-048d2a5f1152/AAABoHYRx-A/AAABnSSvrFg/16x9-big/schulze-244.jpg?width=1280"
         },
         {
-          "title": "Wehrpflichtige in der Ukraine: Gefährliche Flucht über die Donau",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-grenzschuetzer-wehrpflichtige-100.html",
-          "summary": "Im Süden der Ukraine bildet die Donau die Grenze zu Rumänien. Immer wieder versuchen ukrainische Wehrpflichtige hier, ihr Land unerlaubt zu verlassen - per Boot oder sogar schwimmend mit Flossen. Von Susanne Petersohn.",
+          "title": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html",
+          "summary": "Nach ihrem Treffen mit Kremlchef Putin in Moskau sind die US-Sondergesandten Kushner und Witkoff zu Präsident Selenskyj nach Kiew weitergereist. Während der Gespräche gilt in beiden Städten eine Waffenruhe - andernorts gehen die Angriffe weiter.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/44f31c44-a694-423c-9fc2-db076d476700/AAABoGxhYXk/AAABnSSvrFg/16x9-big/grenzschuetzer-boot-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ed4a6f29-32a5-40e3-b80e-ab5f1f0d8b80/AAABoHYF1VA/AAABnSSvrFg/16x9-big/kushner-144.jpg?width=1280"
         },
         {
-          "title": "Was zur Wahl in Sachsen-Anhalt wichtig ist",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-fragen-antworten-100.html",
-          "summary": "Wer wird in Sachsen-Anhalt künftig regieren? Das Land wird seit mehr als 20 Jahren von der CDU geführt. Doch nun liegt die AfD in Umfragen mit großem Vorsprung vorne. Sie möchte die alleinige Macht. Doch auch andere Optionen sind möglich.",
+          "title": "Polizisten bei Demo mit Metallkugeln beschossen",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinmetall-entwaffnen-anti-ruestungsdemo-koeln-100.html",
+          "summary": "In Köln ist eine Anti-Rüstungs-Demo am Samstag mehrfach gestoppt worden, nachdem es zu Zusammenstößen zwischen der Polizei und Demonstranten kam. Vermummte sollen Polizisten mit Metallkugeln beschossen haben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/eb326f3c-d25b-4cd6-83b9-b831a15ffc40/AAABoFxFnbE/AAABnSSvrFg/16x9-big/wahlplakate-238.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8a5c63c9-83d7-4c6a-a3a7-2552376a5fb8/AAABoHXVDqI/AAABnSSvrFg/16x9-big/wdr-demonstration-des-protestcamps-rheinmetall-entwaffnen-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Ein neuer Anlauf gegen die Tofu-Wurst",
+          "url": "https://www.telepolis.de/article/Ein-neuer-Anlauf-gegen-die-Tofu-Wurst-11441379.html",
+          "summary": "Als gäbe es derzeit keine wichtigeren Herausforderungen, macht sich die EVP erneut für ein Verbot von Begriffen wie Tofu-Wurst und Veggie-Schnitzel stark.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/9/0/6/6/meat-01-dc8d906fb55c99ea.gif"
+        },
         {
           "title": "US-Abzug aus dem Irak zu Bedingungen, die Bagdad nicht erfüllen kann",
           "url": "https://www.telepolis.de/article/US-Abzug-aus-dem-Irak-zu-Bedingungen-die-Bagdad-nicht-erfuellen-kann-11442550.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/7/4/2/1/handschellen_3d_drop-Aktuelle_Ansicht-1214ee88fff32bf6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "\"Vaterland\": Thomas Mann reist durch die Ruinen deutscher Gewissheiten",
-          "url": "https://www.telepolis.de/article/Vaterland-Thomas-Mann-reist-durch-die-Ruinen-deutscher-Gewissheiten-11442506.html",
-          "summary": "1949 kehrt Thomas Mann aus dem Exil zurück. Pawlikowskis Film zeigt, wie er auf zwei Deutschlands trifft – und auf eine Heimat, die aufgehört hat zu existieren.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/5/9/6/3/4/Master_Vaterland-84aeee41ab599a18.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Amerikanisches Wochenende in Moskau und Kiew",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-russland-usa-trump-putin-selenskij-kushner-witkoff-li.3542847",
-          "summary": "Donald Trump schickt seine Gesandten Steve Witkoff und Jared Kushner zu Wladimir Putin und Wolodimir Selenskij. Ein Ende des Krieges ist trotz netter Worte und einer kurzen Feuerpause nicht in Sicht.",
+          "title": "Wahl in Sachsen-Anhalt: Hauchzarter Optimismus bei der Landes-CDU",
+          "url": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-demos-magdeburg-li.3540501",
+          "summary": "Internationale Medien blicken auf „Sassonia-Anhalt alle urne“. Ministerpräsident Schulze und AfD-Spitzenkandidat Siegmund haben bereits gewählt. Die Chefin der Wirtschaftsweisen warnt vor einer AfD-Regierung.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/06/c08b00d8-dabe-4583-9dfe-27fcb3693556.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C59%2C2672%2C1503"
+          "image": "https://www.sueddeutsche.de/2026/09/06/8098b0c6-c3db-4ba4-b757-174ffb4678d2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C384%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zum Nahost-Krieg: USA und Iran beschießen gegenseitig Schiffe",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-oel-angriffe-tanker-li.3530668",
-          "summary": "Es seien mehrere Schiffe in der Straße von Hormus attackiert worden, heißt es von der Marine der iranischen Revolutionsgarde. Zuvor hatten die USA Vergeltungsangriffe auf iranische Tanker gemeldet.",
+          "title": "SV Elversberg: Sogar in Socken torgefährlich",
+          "url": "https://www.sueddeutsche.de/sport/elversberg-moenchengladbach-wagner-karte-li.3542984",
+          "summary": "Vorsprung, Rückstand, egal, immer nach vorne:  Mit couragiertem Offensivfußball beeindruckt die SV Elversberg die Bundesliga-Konkurrenz. Und wundert sich nicht mal darüber.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/05/2f7f2e7d-1f03-43d3-937a-69c93f22f505.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=623%2C351%2C1314%2C739"
+          "image": "https://www.sueddeutsche.de/2026/09/06/f6d80623-9f73-4f32-a99f-0d379a995393.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C285%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zum Ukraine-Krieg: Russland und Ukraine setzen Luftangriffe fort",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kushner-witkoff-moskau-reaktion-li.3524928",
-          "summary": "Die vom russischen Präsidenten angeordnete Waffenruhe gilt nur für Kiew, solange die US-Vertreter Steve Witkoff und Jared Kushner dort Gespräche führen. Andere Ziele werden weiterhin attackiert.",
+          "title": "Bremens 3:1 gegen Leipzig: Und plötzlich geht das Flutlicht an",
+          "url": "https://www.sueddeutsche.de/sport/bremen-leipzig-bundesliga-fuellkrug-li.3542896",
+          "summary": "Kein Geld, keine Punkte, keine aufregenden Spieler: Bei Werder herrschte zuletzt Untergangsstimmung, doch beim 3:1 gegen RB entwickelt der ganze Klub plötzlich ungeahnte Kräfte.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/06/5a9911e4-3554-448a-95f1-7b69cceef58e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C207%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/09/06/e6a13223-c75c-4097-a09c-26f87425e7f7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C72%2C2202%2C1239"
         }
       ]
     }
