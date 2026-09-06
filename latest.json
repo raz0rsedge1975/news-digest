@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-05T22:00:16.506Z",
-  "timestamp": "6.9.2026, 00:00:16",
+  "generated": "2026-09-06T02:00:18.227Z",
+  "timestamp": "6.9.2026, 04:00:18",
   "news": [
     {
       "source": "FAZ",
@@ -56,7 +56,7 @@
           "summary": "Bei einer Wahlkampfveranstaltung spricht der Bundeskanzler über ein neues Narrativ für Deutschland. Russland forderte er auf, die »hybride Kriegsführung« zu stoppen. Mit deutlichen Worten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/67cc77f9-02b1-4d77-a9e8-d1e8a376d74e_w1200_r1.778_fpx49_fpy98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a0418dbb-eabb-41e2-9b45-32d11dc7ee8a_w1200_r1.778_fpx30_fpy44.98.jpg"
         }
       ]
     },
@@ -64,9 +64,17 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
+          "url": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
+          "summary": "Meilenstein in der deutschen Raumfahrtgeschichte: Die Trägerrakete Spectrum hat bei einem Testflug vom norwegischen Weltraumbahnhof Andøya aus den Orbit erreicht. Das Raketen-Unternehmen spricht von einer europäischen Premiere.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/55050c82-ad00-46af-915c-00bf48ca1084/AAABoHQQWHY/AAABnSSvrFg/16x9-big/spectrum-100.jpg?width=1280"
+        },
+        {
           "title": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
           "url": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
-          "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Details des Friedensplans bleiben unbekannt - als nächstes wird er in Kiew vorgestellt.",
+          "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Ein Kreml-Berater spricht von \"äußerst nützlichen\" Gesprächen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/32a0ad20-ce64-46b0-ac00-166040620a87/AAABoHNETuA/AAABnSSvrFg/16x9-big/putin-witkoff-kushner-100.jpg?width=1280"
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/5b04e2f6-a9fc-479a-a4a1-48b5212f3b86/AAABoGvs1HM/AAABnSSvrFg/16x9-big/siegel-us-finanzministerium-100.jpg?width=1280"
-        },
-        {
-          "title": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
-          "summary": "Ein 48-Jähriger hat sich in zwei Schreiben zu den versuchten Sabotageakten gegen das Stromnetz bekannt. Darin nennt er seinen Namen, er wurde aber noch nicht gefasst. Nun setzt die Polizei auf eine öffentliche Fahndung.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/55c57f9e-dd10-448d-8c15-031656334e89/AAABoHKkLRY/AAABnSSvrFg/16x9-big/polizei-fahndung-sabotage-102.jpg?width=1280"
         }
       ]
     },
@@ -139,8 +139,8 @@
         },
         {
           "title": "Raumfahrt: Münchner Rakete erreicht den Erdorbit",
-          "url": "https://www.sueddeutsche.de/wirtschaft/isar-raumfahrt-esa-li.3458924",
-          "summary": "Die Kleinrakete „Spectrum“ sollte schon beim zweiten Testflug Satelliten in der Erdumlaufbahn aussetzen. Es ist die erste deutsche Trägerrakete überhaupt, die den Orbit erreicht hat.",
+          "url": "https://www.sueddeutsche.de/wirtschaft/isar-aerospace-raumfahrt-esa-li.3458924",
+          "summary": "Die Kleinrakete „Spectrum“ setzt schon beim zweiten Testflug Satelliten in der Erdumlaufbahn aus. Es ist die erste deutsche Trägerrakete überhaupt, die den Orbit erreicht hat.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/05/bb481be7-5467-4a79-842d-a33255c52592.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3840%2C2160"
