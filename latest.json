@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-06T22:00:18.449Z",
-  "timestamp": "7.9.2026, 00:00:18",
+  "generated": "2026-09-07T02:00:22.534Z",
+  "timestamp": "7.9.2026, 04:00:22",
   "news": [
     {
       "source": "FAZ",
@@ -14,9 +14,9 @@
           "image": "https://media0.faz.net/image/w1200h627/138a14dfb5ee/w4657h2433x0y93o/202609/43601.0.2503005983/sahra-wagenknecht-am-3.webp"
         },
         {
-          "title": "Liveblog zur Wahl in Sachsen-Anhalt: Siegmund spricht schon über mögliche Neuwahlen",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/liveticker-wahl-sachsen-anhalt-2026-ulrich-siegmund-bringt-moegliche-neuwahlen-ins-spiel-faz-110093143.html",
-          "summary": "AfD-Spitzenkandidat: „Dann haben wir halt 50 oder 55 Prozent“ +++ Sepp Müller sieht Regierungsauftrag bei AfD +++ BSW laut Hochrechnungen im Landtag +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog zur Wahl in Sachsen-Anhalt: Vorläufiges amtliches Endergebnis: AfD 43,8%",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/liveticker-wahl-sachsen-anhalt-2026-vorlaeufiges-amtliches-endergebnis-afd-bei-43-8-faz-110093143.html",
+          "summary": "AfD-Spitzenkandidat spricht schon über mögliche Neuwahlen: „Dann haben wir halt 50 oder 55 Prozent“ +++ Kein Direktmandat für die CDU +++ Sepp Müller sieht Regierungsauftrag bei AfD +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/618f8618acfa/w4957h2590x164y647o/202609/43601.0.2520255563/ein-afd-anhaenger-mit-einem.webp"
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Landtagswahl Sachsen-Anhalt: Was das Ergebnis für Friedrich Merz und die CDU bedeutet",
-          "url": "https://www.spiegel.de/politik/deutschland/landtagswahl-sachsen-anhalt-was-das-ergebnis-fuer-friedrich-merz-und-die-cdu-bedeutet-a-af0e2b38-2335-46bd-acb2-6998b3793811#ref=rss",
-          "summary": "Die Christdemokraten sind geschockt vom Absturz in Sachsen-Anhalt, die Blicke richten sich auf den Kanzler und Parteichef. Droht Friedrich Merz ein Aufstand?",
+          "title": "BSW: Wie Sahra Wagenknecht in Sachsen-Anhalt plötzlich wieder zum Machtfaktor wird",
+          "url": "https://www.spiegel.de/politik/deutschland/bsw-wie-sahra-wagenknecht-in-sachsen-anhalt-ploetzlich-wieder-zum-machtfaktor-wird-a-ad6379ac-fbf1-41c6-9567-55847b179bd7#ref=rss",
+          "summary": "Bei der Bundestagswahl knapp gescheitert, in Sachsen-Anhalt knapp im Landtag: Das BSW könnte im Kampf ums Ministerpräsidentenamt die entscheidende Rolle spielen. Die Wagenknecht-Partei hat einen Plan. Doch wie realistisch ist er?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5aaf790a-7853-4f54-8a0d-025ae17c2157_w1200_r1.778_fpx31_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b0bb2724-7594-4725-8e49-1e14a1aacf12_w1200_r1.778_fpx34_fpy47.jpg"
         },
         {
           "title": "Ukraine-Krieg: US-Gesandte fordern Russland und Kyjiw zu »Kompromissen« auf",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/1105688c-dc32-4540-83d5-72511c607af8_w1200_r1.778_fpx68_fpy49.jpg"
         },
         {
-          "title": "Sergej Lawrow: Russischer Außenminister spricht von »Beginn eines echten Krieges«",
-          "url": "https://www.spiegel.de/ausland/sergej-lawrow-russischer-aussenminister-spricht-von-beginn-eines-echten-krieges-a-8670e21d-0a78-4c7c-9603-60b36d92c155#ref=rss",
-          "summary": "Sergej Lawrow ist für martialische Rhetorik bekannt. Nachdem die Bundesregierung die Drohnenattacke in Leipzig Russland angelastet hat, wirft er Kanzler Merz vor, seinem Land den Krieg erklären zu wollen.",
+          "title": "Iran plant offenbar Sperrzone außerhalb der Straße von Hormus am Persischen Golf",
+          "url": "https://www.spiegel.de/ausland/iran-plant-offenbar-sperrzone-ausserhalb-der-strasse-von-hormus-am-persischen-golf-a-840cb580-3b49-4ce4-a5bf-6609368dd192#ref=rss",
+          "summary": "Die Lage in der Straße von Hormus ist angespannt genug. Doch ein Vorstoß aus Teheran könnte eine weitere Eskalation nach sich ziehen. Demnach soll ein neues Sperrgebiet am Persischen Golf etabliert werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/73838586-b483-4dec-bcdc-f4292c0fbcf8_w1200_r1.778_fpx56_fpy37.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7fbfa6f8-e39f-4db3-ba68-69e5b8c7cc11_w1200_r1.778_fpx42.62_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
-          "url": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html",
-          "summary": "Die AfD hat die Wahl in Sachsen-Anhalt gewonnen. Das ist keine Überraschung. Doch weder Wahlsieger noch die anderen Parteien haben einen Plan, was sie mit dem Ergebnis machen, meint Gabor Halasz.",
+          "title": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
+          "summary": "Bei der Landtagswahl in Sachsen-Anhalt ist die AfD stärkste Kraft geworden - mit einem Rekordergebnis. Das erklärte Ziel, allein regieren zu können, verfehlt sie aber. Nun könnte es auf das BSW ankommen, das den Einzug knapp schafft.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/58b79f20-dc7b-49f1-abd6-5fb6980bed83/AAABoHi1gbQ/AAABnSSvrFg/16x9-big/ulrich-siegmund-158.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/94f08c64-2573-4b34-a4d3-298f25048f15/AAABoHlt7Ng/AAABnSSvrFg/16x9-big/afd-sachsen-anhalt-148.jpg?width=1280"
         },
         {
-          "title": "Sorge bei jüdischen Organisationen und Kirchen nach AfD-Erfolg",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-gesellschaft-landtagswahl-sachsen-anhalt-100.html",
-          "summary": "Nach dem AfD-Sieg in Sachsen-Anhalt äußern sich Kirchen und jüdische Organisationen besorgt. Holocaust-Überlebende wie Charlotte Knobloch reagieren fassungslos. In mehreren Städten gab es Demonstrationen.",
+          "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Elon Musk gratuliert AfD zum Wahlsieg ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
+          "summary": "Die CDU hat bei der Landtagswahl in Sachsen-Anhalt kein einziges Direktmandat gewonnen. Damit ist auch Sachsen-Anhalts CDU-Vorsitzender Sven Schulze im eigenen Wahlkreis gescheitert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4ba85a6f-e2d7-4123-bd59-4f75cccd7c21/AAABoHiERD0/AAABnSSvrFg/16x9-big/charlotte-knobloch-160.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/462e591f-81a1-4333-932d-c5a6e648f14f/AAABoHlVpXw/AAABnSSvrFg/16x9-big/cdu-schulze-106.jpg?width=1280"
         },
         {
-          "title": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
-          "summary": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die Kernfrage: für oder gegen die AfD? Schwesinger.",
+          "title": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
+          "url": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html",
+          "summary": "In Miami ist ein Amazon-Frachtflugzeug über die Landebahn hinausgeschossen und mit mehreren Fahrzeugen zusammengeprallt. Laut den Behörden kamen mindestens fünf Menschen ums Leben. Der Flugverkehr ist erheblich eingeschränkt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/13b77d24-f327-4916-8086-aa18c2da016a/AAABoHhxZLk/AAABnSSvrFg/16x9-big/afd-stopp-schild-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/169c403e-34cc-44a7-a7b3-9b8822a04e4c/AAABoHjgYjM/AAABnSSvrFg/16x9-big/flugzeug-miami-100.jpg?width=1280"
         }
       ]
     },
@@ -122,20 +122,20 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Wahl in Sachsen-Anhalt: Vorläufige Ergebnisse: AfD verpasst absolute Mehrheit – BSW zieht in den Landtag ein",
+          "url": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-hochrechnung-ergebnis-afd-cdu-li.3540501",
+          "summary": "Die in Sachsen-Anhalt als gesichert rechtsextrem eingestufte Partei fährt ein Rekordergebnis ein, verpasst aber laut vorläufigem Ergebnis die absolute Mehrheit. Dem BSW gelingt der Einzug in den Landtag.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/31/b69bcc8e-b076-4c99-a0cd-99270e65ce15.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
           "title": "Saisonstart unter Coach Polanski: Zweifel schon nach zwei Spieltagen",
           "url": "https://www.sueddeutsche.de/sport/borussia-moenchengladbach-kommentar-kleindienst-polanski-li.3543017",
           "summary": "Nach den beiden Niederlagen gegen Leipzig und Elversberg kommt die Frage auf, ob die Verlängerung mit Trainer Polanski eine gute Idee war. Und die Zersetzungsprozesse werden ausgerechnet vom Kapitän befeuert.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/06/ca6792ce-9eaa-4c79-a349-afd277c30c73.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C56%2C1798%2C1011"
-        },
-        {
-          "title": "Wahl in Sachsen-Anhalt: AfD verdoppelt ihr Ergebnis, Chancen des BSW steigen",
-          "url": "https://www.sueddeutsche.de/politik/wahl-sachsen-anhalt-2026-liveblog-news-hochrechnung-ergebnis-afd-cdu-li.3540501",
-          "summary": "Die in Sachsen-Anhalt als gesichert rechtsextrem eingestufte Partei fährt ein Rekordergebnis ein, hat laut Hochrechnungen aber keine absolute Mehrheit. Das BSW könnte den Einzug in den Landtag schaffen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/06/db552c2e-4219-497f-9d4d-ee7c15a332a4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C168%2C3900%2C2194"
         },
         {
           "title": "Fußball-Bundesliga: Augsburg ist Tabellenführer",
