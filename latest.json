@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-07T22:00:19.181Z",
-  "timestamp": "8.9.2026, 00:00:19",
+  "generated": "2026-09-08T02:00:18.282Z",
+  "timestamp": "8.9.2026, 04:00:18",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "AfD-Sieg in Sachsen-Anhalt: So plant Ulrich Siegmund die Regierungsübernahme",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-plant-ulrich-siegmund-die-regierungsuebernahme-a-0872e7de-b1fe-49f5-b9c8-ae2a626b9048#ref=rss",
-          "summary": "Drei Stimmen fehlen der rechtsextremen AfD zur Macht. Spitzenkandidat Ulrich Siegmund sucht nun nach Unterstützern in anderen Parteien. Er stellt aber, »natürlich«, eine Bedingung.",
+          "title": "CDU Sachsen-Anhalt: Kann Merz über den Machtkampf von Magdeburg stürzen?",
+          "url": "https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-kann-merz-ueber-den-machtkampf-von-magdeburg-stuerzen-a-388bf39e-cc36-437d-8f82-71e5efe7c5cc#ref=rss",
+          "summary": "In der CDU Sachsen-Anhalt ist nach der Wahlniederlage ein heftiger Machtkampf ausgebrochen. Der Bundestagsabgeordnete Sepp Müller will trotz der Kritik des Kanzlers an die Landesspitze.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/342b9f6e-f7ff-4fa4-a47e-018078d320e7_w1200_r1.778_fpx45_fpy32.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/32af25ee-cc97-4378-a49a-3208280f6ee5_w1200_r1.778_fpx32.02_fpy50.jpg"
+        },
+        {
+          "title": "Sachsen-Anhalt: Wie AfD-Wähler in Halberstadt auf den Wahlsieg blicken",
+          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wie-afd-waehler-in-halberstadt-auf-den-wahlsieg-blicken-a-2fed3bc8-c6b8-4098-9a91-f1426863b234#ref=rss",
+          "summary": "In Halberstadt hat fast jeder Zweite die AfD gewählt. Wie blicken die Menschen auf den Erdrutschsieg der Rechtsextremen in Sachsen-Anhalt – und was halten sie von der Brandmauer?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/38b7ad69-77b0-4a23-aa7a-0b25011fefb4_w1080_r1.778_fpx55_fpy44.jpg"
         },
         {
           "title": "Cyberattacke in Berlin: Das ist das Ausmaß des Datenleaks in der Hauptstadt",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c17f1ce8-2247-4243-84c0-f5bdc3d95dfa_w1200_r1.778_fpx67.32_fpy45.jpg"
-        },
-        {
-          "title": "Volkswagen-Werk Osnabrück: Israels »Iron Dome« soll Standort sichern",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-werk-osnabrueck-israels-iron-dome-soll-standort-sichern-a-16be952b-8b10-4851-a36e-4fada2c24a71#ref=rss",
-          "summary": "Ein VW-Standort ist gerettet: Der israelische Rüstungskonzern Rafael will in Osnabrück künftig Komponenten für Flugabwehrsysteme fertigen. Was dort geplant ist und warum am Ende sogar Großaktionär Katar dem Deal zustimmte.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/04663913-7a8a-4269-bb12-65c5c604e1be_w1200_r1.778_fpx33.37_fpy52.93.jpg"
         }
       ]
     },
