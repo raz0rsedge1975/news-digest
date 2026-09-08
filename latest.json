@@ -1,17 +1,25 @@
 {
-  "generated": "2026-09-08T02:00:18.282Z",
-  "timestamp": "8.9.2026, 04:00:18",
+  "generated": "2026-09-08T06:00:21.821Z",
+  "timestamp": "8.9.2026, 08:00:21",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Nach der Landtagswahl in Sachsen-Anhalt: Die Wirtschaft warnt vor Stillstand",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/landtagswahl-in-sachsen-anhalt-afd-moechte-mit-elon-musk-kooperieren-201202179.html",
-          "summary": "Das politische Beben in Sachsen-Anhalt droht die Reformen im Bund unter sich zu begraben. Die AfD plant derweil Kooperationen mit Tesla-Vorstandschef Elon Musk und eine Sonderwirtschaftszone für Ostdeutschland.",
+          "title": "Sachsen-Anhalt: Auch für die AfD ist diese Wahl eine Zäsur",
+          "url": "https://www.faz.net/aktuell/politik/inland/afd-in-sachsen-anhalt-ist-ulrich-siegmund-bereit-zu-regieren-201202384.html",
+          "summary": "Will die AfD in Sachsen-Anhalt regieren, muss sie Kompromisse schließen. Das war bislang ein von ihr so verachtetes Markenzeichen der „Altparteien“.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/23aea275000f/w5000h2612x0y569o/202608/43601.0.2410670920/vertrauen-durch-ergebnisse.webp"
+          "image": "https://media0.faz.net/image/w1200h627/1b5776482c10/w8192h4280x0y357o/202609/43601.0.2522798992/die-afd-politiker-ulrich.webp"
+        },
+        {
+          "title": "TV-Kritik „Hart aber fair“: Will die AfD überhaupt regieren?",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/hart-aber-fair-in-der-tv-kritik-will-die-afd-ueberhaupt-regieren-accg-201204678.html",
+          "summary": "Die Polit-Talkshow nach einem historischen Wahlabend geriet zum Rätselraten, was der Wahlsieger in Sachsen-Anhalt mit seinem Triumph anfängt. Der AfD-Gast in der Runde trug nicht wirklich zur Aufklärung bei.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/528c05990756/w6000h3135x0y433o/202603/43601.0.1861605884/markus-frohnmaier.webp"
         },
         {
           "title": "Liveblog zur Wahl in Sachsen-Anhalt: Sepp Müller will CDU-Vorsitzender in Sachsen-Anhalt werden",
@@ -19,21 +27,21 @@
           "summary": "CDU: Wahl des neuen Vorstands im Herbst +++ Merz: Wir sind alle zutiefst schockiert +++ Kanzler zu Wahlausgang: Halten an Reformen fest – „Aufgeben ist für mich keine Option“ +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c3156fd60b38/w6144h3210x0y362o/202609/43601.0.2520506369/sepp-mueller-stellvertretender.webp"
-        },
-        {
-          "title": "Nach der Sachsen-Anhalt-Wahl: Beben und Befindlichkeiten",
-          "url": "https://www.faz.net/aktuell/politik/inland/wie-merz-nach-der-wahl-in-sachsen-anhalt-um-den-zusammenhalt-in-der-koalition-kaempft-201202002.html",
-          "summary": "Merz schafft es vorerst, seine Position abzusichern. Das muss er auch, um die Koalition zusammenzuhalten und auf Reformkurs bleiben zu können.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d3f6e22bb8ee/w5264h2750x0y264o/202609/43601.0.2522821172/cdu-bundesvorstandssitzung-am.webp"
+          "image": "https://media0.faz.net/image/w1200h627/26e225ade12b/w5768h3013x0y715o/202609/43601.0.2503011724/bsw-gruenderin-sahra.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Haushalt: Warum der Staat trotz Sondervermögen hart sparen muss",
+          "url": "https://www.spiegel.de/wirtschaft/service/haushalt-warum-der-staat-trotz-sondervermoegen-hart-sparen-muss-a-31832deb-6508-4c18-97ba-1161106778bc#ref=rss",
+          "summary": "SPD-Finanzminister Lars Klingbeil bringt seinen Haushalt für das kommende Jahr in den Bundestag. Die Rekordinvestitionen aus dem Sondervermögen täuschen darüber hinweg, dass der Staat in den kommenden Jahren hart sparen muss.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/a3ac7872-eff9-4d6f-ad7b-50797dd54090_w1200_r1.778_fpx57_fpy39.jpg"
+        },
         {
           "title": "CDU Sachsen-Anhalt: Kann Merz über den Machtkampf von Magdeburg stürzen?",
           "url": "https://www.spiegel.de/politik/deutschland/cdu-sachsen-anhalt-kann-merz-ueber-den-machtkampf-von-magdeburg-stuerzen-a-388bf39e-cc36-437d-8f82-71e5efe7c5cc#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/32af25ee-cc97-4378-a49a-3208280f6ee5_w1200_r1.778_fpx32.02_fpy50.jpg"
         },
         {
-          "title": "Sachsen-Anhalt: Wie AfD-Wähler in Halberstadt auf den Wahlsieg blicken",
-          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wie-afd-waehler-in-halberstadt-auf-den-wahlsieg-blicken-a-2fed3bc8-c6b8-4098-9a91-f1426863b234#ref=rss",
-          "summary": "In Halberstadt hat fast jeder Zweite die AfD gewählt. Wie blicken die Menschen auf den Erdrutschsieg der Rechtsextremen in Sachsen-Anhalt – und was halten sie von der Brandmauer?",
+          "title": "Sachsen-Anhalt-Wahl: So lief es bei »Hart aber fair« und »Markus Lanz«",
+          "url": "https://www.spiegel.de/kultur/tv/sachsen-anhalt-wahl-so-lief-es-bei-hart-aber-fair-und-markus-lanz-a-7d043609-de71-4c0d-bd63-bd4e3cafdaa5#ref=rss",
+          "summary": "Würde die AfD in Sachsen-Anhalt Kompromisse eingehen, um zu regieren? Und würde das BSW kooperieren? »Hart aber fair« und »Markus Lanz« wollten es klären – und trieben letztlich nur den Puls hoch.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/38b7ad69-77b0-4a23-aa7a-0b25011fefb4_w1080_r1.778_fpx55_fpy44.jpg"
-        },
-        {
-          "title": "Cyberattacke in Berlin: Das ist das Ausmaß des Datenleaks in der Hauptstadt",
-          "url": "https://www.spiegel.de/panorama/cyberattacke-in-berlin-das-ist-das-ausmass-des-datenleaks-in-der-hauptstadt-a-4e953a20-cd77-4a7a-b284-5498d927aa78#ref=rss",
-          "summary": "Rund 1,2 Millionen zum Teil äußerst sensible Daten der Berliner Verwaltung stehen im Darknet. Der SPIEGEL gibt einen Überblick über die Datenflut – sie dürfte das Land noch Wochen beschäftigen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c17f1ce8-2247-4243-84c0-f5bdc3d95dfa_w1200_r1.778_fpx67.32_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0aeecbe2-6e90-48f0-93ca-f91a00487d63_w1200_r1.778_fpx74_fpy40.jpg"
         }
       ]
     },
@@ -64,57 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
-          "url": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
-          "summary": "Eine Mehrheit der Deutschen blickt mit Sorge auf den Ausgang der Wahl in Sachsen-Anhalt. Im DeutschlandTrend extra ist zugleich jeder Zweite der Meinung, die anderen Parteien sollten die AfD stärker einbinden. Schönenborn.",
+          "title": "Liveblog zu Sachsen-Anhalt: ++ Verfassungsschützer nach AfD-Erfolg besorgt ++",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
+          "summary": "Wie geht es nach der Landtagswahl in Sachsen-Anhalt weiter? Diese Frage beschäftigt Politiker, Verbände und Bürger. Ein Verfassungsschützer rät, der AfD nicht alle sensiblen Informationen zu geben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cc3708c1-f48c-43a9-ad65-499b2ce07d74/AAABmamZfiU/AAABnSSvrFg/16x9-big/deutschlandtrend-3337.jpg?width=1280"
+          "image": null
         },
         {
-          "title": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html",
-          "summary": "In der EU stehen in nächster Zeit wichtige Entscheidungen an, etwa beim neuen Haushalt. Diskutiert wird daher, ob der Erfolg der AfD auch Folgen für die EU-Politik der Bundesregierung haben könnte. Feld und T. Spickhofen.",
+          "title": "Marktbericht: Hohe Ölpreise haben Aktienmarkt im Griff",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
+          "summary": "Die Vorgaben für den heutigen Handelstag sind durchwachsen: Die Ölpreise liegen auf ihrem höchsten Niveau seit Juni. Und die am Donnerstag erwartete Leitzinserhöhung der EZB sorgt für Zurückhaltung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cd8d73e2-b008-41ff-adbc-e23b5a9880e3/AAABoHzXXtU/AAABnSSvrFg/16x9-big/merz-1536.jpg?width=1280"
+          "image": null
         },
         {
-          "title": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-groenland-100.html",
-          "summary": "Die EU will weitere 200 Millionen Euro in Grönland investieren, unter anderem in den Abbau kritischer Rohstoffe. Kommissionschefin von der Leyen setzt damit auch ein Zeichen gegen Drohungen aus Washington. Von K. Schmid.",
+          "title": "Wie viel Geld der Bund 2027 ausgeben will - und wofür",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-ausgaben-schulden-100.html",
+          "summary": "Der Bundestag berät erstmals den Haushaltsentwurf für 2027. Geplant sind höhere Ausgaben und Schulden, besonders für Verteidigung. Um welche Summen geht es? Und woran gibt es Kritik?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5143ec37-1561-4490-a5be-8e290eda9bd8/AAABoHx6N8c/AAABnSSvrFg/16x9-big/von-der-leyen-726.jpg?width=1280"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Weltbevölkerung im Wandel: Warum der Anteil Älterer bis 2060 steigt",
-          "url": "https://www.telepolis.de/article/Weltbevoelkerung-im-Wandel-Warum-der-Anteil-Aelterer-bis-2060-steigt-11444297.html",
-          "summary": "Der Anteil der über 65-Jährigen wächst weltweit stark. Bis 2060 steigt er auf 19,6 Prozent – mit Folgen für Renten, Gesundheit und Staatshaushalte.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/0/5/4/4/shutterstock_2758867573-cb4019307a0bcc40.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Sieg ohne Ausreden: Die AfD vor der eigenen Regierungsfalle",
-          "url": "https://www.telepolis.de/article/Sieg-ohne-Ausreden-Die-AfD-vor-der-eigenen-Regierungsfalle-11443888.html",
-          "summary": "Die AfD triumphiert in Sachsen-Anhalt mit 43,8 Prozent. Doch wer regiert, muss liefern – und genau das könnte die Partei entzaubern. Ein Kommentar.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/0/3/3/4/KHA08078-blauer-Hintergrund-scaled-9d0efde42573d3d8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Was ein AfD-Innenminister mit Verfassungsschutz und Polizei tun könnte",
-          "url": "https://www.telepolis.de/article/Was-ein-AfD-Innenminister-mit-Verfassungsschutz-und-Polizei-tun-koennte-11443688.html",
-          "summary": "44 Prozent für die AfD in Sachsen-Anhalt. Was bedeutet das für Verfassungsschutz und Polizei? Experten warnen vor einem möglichen Missbrauch.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/0/2/3/3/pmvfoto_cropped-aad634fe59a97832.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://images.tagesschau.de/image/503e1aa2-ebf4-442b-a1b3-c7d6fb7cb8ae/AAABmoIGQ6o/AAABnSSvrFg/16x9-big/klingbeil-300.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +93,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Ukraine-Krieg: AKW Saporischschja hat wieder Strom",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-akw-saporischschja-strom-li.3524928",
-          "summary": "Das große, von Russland besetzte Kernkraftwerk war lange ohne externen Strom – das war gefährlich. Nun gab es in einer Feuerpause Reparaturarbeiten.",
+          "title": "Newsblog zum Ukraine-Krieg: Nach Gesprächen mit US-Gesandten: Kiew meldet neue russische Angriffe",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-raketen-drohnen-russland-li.3524928",
+          "summary": "Ballistische Raketen trafen Wohngebäude, eine Schule und mehrere Autos.  Am Wochenende waren Unterhändler von US-Präsident Trump für Verhandlungen nach Moskau und Kiew gereist, kamen aber ohne Ergebnisse zurück.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/07/b5b7b77c-2c78-43f2-ba8e-d2d967b4cf5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C130%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/08/124735eb-0fed-4147-ba53-4d6a924a8edb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Wahl in Sachsen-Anhalt: Müller will neuer CDU-Chef in Sachsen-Anhalt werden",
-          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-cdu-mueller-landesvorstand-afd-li.3540501",
-          "summary": "Nach dem schlechten Abschneiden bei der Landtagswahl in Sachsen-Anhalt zieht die CDU erste Konsequenzen. Im Herbst soll es einen Parteitag geben. Der Vize der Unionsbundestagsfraktion will kandidieren.",
+          "title": "USA-Newsblog: Kanada will ab Dienstag Gegenzölle auf US-Importe erheben",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kanada-zollstreit-li.3530667",
+          "summary": "Die Zölle sollen bei bis zu 50 Prozent liegen und treffen unter anderem Produkte aus Stahl- und Aluminium, Haushaltsgeräte und landwirtschaftliche Ausrüstung. Der Zollstreit der Nachbarn geht damit in eine neue Runde.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/07/44a5e375-26b1-46e1-8631-c6a0db66145b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C175%2C3349%2C1884"
+          "image": "https://www.sueddeutsche.de/2026/08/26/987a0310-c8a0-4fbd-bc76-3631117997b1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C83%2C2048%2C1152"
         },
         {
-          "title": "Newsblog zur Bundespolitik: Moskau schließt Goethe-Institute und deutsches Konsulat in Sankt Petersburg",
-          "url": "https://www.sueddeutsche.de/politik/bundespolitik-goethe-institute-russland-schliessung-sanktionen-li.3529564",
-          "summary": "Damit reagiert Russland wie angekündigt auf deutsche Sanktionen wegen des versuchten Sprengstoffanschlags in Leipzig, für das die Bundesregierung den Kreml verantwortlich macht.",
+          "title": "TV-Kritik: „Ein perfektes Match“",
+          "url": "https://www.sueddeutsche.de/medien/wagenknecht-bsw-afd-wahlen-sachsen-anhalt-markus-lanz-zdf-chrupalla-li.3544008",
+          "summary": "Eine Koalitionsprobe für Sachsen-Anhalt? Bei „Markus Lanz“ führen Tino Chrupalla und Sahra Wagenknecht vor, wie nah sich AfD und BSW schon gekommen sind.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/07/593e2e48-77c7-41ae-8c4b-2e885d6f4742.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/07/538f05f5-fa69-4736-ba52-64fcb5cacce5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C269%2C4000%2C2250"
         }
       ]
     }
