@@ -1,10 +1,18 @@
 {
-  "generated": "2026-09-09T18:00:11.723Z",
-  "timestamp": "9.9.2026, 20:00:11",
+  "generated": "2026-09-09T22:00:08.881Z",
+  "timestamp": "10.9.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Streit um 40-Stunden-Woche: Mercedes droht mit Schließung eines deutschen Werks",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-droht-mit-werksschliessung-in-deutschland-201209705.html",
+          "summary": "Um die Kosten in den deutschen Werken zu senken, will der Autohersteller die Wochenarbeitszeit auf 40 Stunden verlängern. Die Gewerkschaft weist das Ansinnen als unverhandelbar zurück. Nun erhöht Mercedes den Druck.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0616fda29a71/w6144h3210x0y422o/202608/43601.0.2475743991/produktion-der-mercedes-s.webp"
+        },
         {
           "title": "Debatte im Bundestag: Auch ein anderer Kanzler hätte kein anderes Volk",
           "url": "https://www.faz.net/aktuell/politik/inland/kommentar-zur-generaldebatte-brauchen-wir-einen-neuen-kanzler-201210545.html",
@@ -14,17 +22,9 @@
           "image": "https://media0.faz.net/image/w1200h627/102af7e8da95/w4600h2403x0y211o/202609/43601.0.2530031445/ihre-zeit-ist-abgelaufen-die.webp"
         },
         {
-          "title": "Haushaltsdebatte: Und wieder gibt Merz ein mutiges Versprechen ab",
-          "url": "https://www.faz.net/aktuell/politik/inland/weidel-gegen-merz-nach-der-wahl-in-sachsen-anhalt-der-showdown-hat-begonnen-accg-201208955.html",
-          "summary": "Die Generalaussprache zum Haushalt verläuft nach der Wahl in Sachsen-Anhalt anders als in den Jahren zuvor. Es geht darum, wie sich die CDU gegen den Sturm der AfD verteidigen kann.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3e274fe3f2b1/w4600h2403x0y332o/202609/43601.0.2530104593/bundeskanzler-friedrich-merz.webp"
-        },
-        {
           "title": "Deutschland-Liveblog: BSW Sachsen-Anhalt nimmt Gesprächsangebot der AfD an",
           "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-nach-der-wahl-in-sachsen-anhalt-nimmt-bsw-gespraechsangebot-der-afd-an-faz-110093143.html",
-          "summary": "CDU schlägt Einladung aus +++ Bundesregierung kritisiert Trump-Äußerungen zu AfD-Wahlsieg +++ Reichinnek in Generaldebatte: Die Regierung hat keinen Plan +++ alle Entwicklungen im Liveblog",
+          "summary": "CDU schlägt Einladung aus +++ Bundesregierung kritisiert Trump-Äußerungen zu AfD-Wahlsieg +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/8edaed8d3d01/w5793h3026x0y257o/202609/43601.0.2522440655/die-bsw-spitzenkandidatin.webp"
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "SPD Berlin: Vorwürfe gegen Steffen Krach: Erst die miesen Umfragen, jetzt auch noch die Staatsanwaltschaft",
+          "url": "https://www.spiegel.de/politik/spd-berlin-vorwuerfe-gegen-steffen-krach-erst-die-miesen-umfragen-jetzt-auch-noch-die-staatsanwaltschaft-a-cdb0f134-3cd7-4040-9065-336d3227d24f#ref=rss",
+          "summary": "SPD-Spitzenkandidat Steffen Krach müht sich erfolglos im Berliner Wahlkampf ab. Nun wird gegen ihn wegen des Verdachts der Bestechlichkeit ermittelt. Krach weist die Vorwürfe zurück: »Absolut haltlos«.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/30788277-2207-40ce-a2d4-033aaa9d3c50_w1200_r1.778_fpx63.97_fpy49.99.jpg"
+        },
+        {
           "title": "Heteborn in Sachsen-Anhalt: Sven Schulze ist hier aufgewachsen. Trotzdem wählen die Nachbarn AfD",
           "url": "https://www.spiegel.de/politik/deutschland/heteborn-in-sachsen-anhalt-sven-schulze-ist-hier-aufgewachsen-trotzdem-waehlen-die-nachbarn-afd-a-df7c3432-4d7f-4b05-b7d7-1ad0b764315b#ref=rss",
           "summary": "Heteborn im Vorharz ist der Heimatort von CDU-Wahlverlierer Sven Schulze. Selbst hier hat mehr als die Hälfte AfD gewählt. Warum?",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/7c3812cb-a89c-48c7-a19d-8b480d8ba444_w1200_r1.778_fpx50_fpy55.jpg"
         },
         {
-          "title": "News des Tages: Generaldebatte im Bundestag, Zollstreit USA gegen Kanada, Benjamin Netanyahu gegen »Haaretz«",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-generaldebatte-im-bundestag-zollstreit-usa-gegen-kanada-benjamin-netanyahu-gegen-haaretz-a-6d01e853-cf6a-4264-b185-455b953b8cdd#ref=rss",
-          "summary": "Die Generaldebatte im Bundestag gerät zur Abrechnung zwischen Regierung und Opposition. Kanada lächelt Wüterich Trump beiseite, und Netanyahu will »Haaretz« wegen einer belastenden Recherche verklagen. Das ist die Lage am Mittwochabend.",
+          "title": "Manuela Schwesig gegen Leif-Erik Holm: Wahl in Mecklenburg-Vorpommern - So lief das TV-Duel",
+          "url": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-gegen-leif-erik-holm-wahl-in-mecklenburg-vorpommern-so-lief-das-tv-duel-a-d8078438-6d12-4728-9264-f1ec86c6e104#ref=rss",
+          "summary": "Ministerpräsidentin Manuela Schwesig und AfD-Spitzenkandidat Leif-Erik Holm sind sich zum ersten Mal im Wahlkampf auf großer Bühne begegnet. Es wurde hitzig – und beide hatten eine Strategie.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Annalena Baerbock: Was New York mit der Ex-Außenministerin gemacht hat",
-          "url": "https://www.spiegel.de/ausland/annalena-baerbock-was-new-york-mit-der-ex-aussenministerin-gemacht-hat-a-70df2f3d-74ee-4738-abd6-e451fd9bfdc7#ref=rss",
-          "summary": "Als Außenministerin war sie Zielscheibe von Hass und Häme, nun hört sie als Uno-Diplomatin auf. Was New York mit Annalena Baerbock gemacht hat – und was sie mit New York.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c5aa4df5-1cbc-4af4-88fa-2ad64f7e094c_w1200_r1.778_fpx46_fpy51.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2de8b6f1-95dc-4f3d-a23e-efd5c718d223_w1200_r1.778_fpx36.57_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Harald V. beigesetzt - Trauerfeier für einen geliebten König",
-          "url": "https://www.tagesschau.de/ausland/europa/norwegen-harald-trauerfeier-100.html",
-          "summary": "35 Jahre war er König von Norwegen. Nun ist Harald V. in Oslo beigesetzt worden. Mehr als 100. 000 Menschen gaben ihm das letzte Geleit - und machten noch einmal deutlich, wie beliebt der König war.",
+          "title": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/apple-iphone-faltbar-100.html",
+          "summary": "Bei seinem großen Werbe-Event hat Apple das erste faltbare iPhone präsentiert. Obwohl Falthandys als Nischensegment gelten und die Konkurrenz sie schon länger anbietet, setzt Apple große Erwartungen in das teure Gerät. Von G. Biesinger.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8db40baf-e6d2-4816-8b56-511ca91dc3fb/AAABoIdIkfk/AAABnSSvrFg/16x9-big/sarg-koenig-harald-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b0f86952-4e20-4ecd-a954-beac05f812b1/AAABoIeZ3Nk/AAABnSSvrFg/16x9-big/iphone-duo-100.jpg?width=1280"
         },
         {
-          "title": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bgh-urteil-autoversicherungen-100.html",
-          "summary": "Rechnet eine Autowerkstatt für eine Reparatur mehr ab als nötig, muss die Kaskoversicherung nicht dafür zahlen. Das Risiko trägt der Versicherte, entschied der Bundesgerichtshof. Von Antonetta Stephany.",
+          "title": "Bundeskanzler Merz: AfD-Verbot löst das Problem nicht",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-afd-verbot-102.html",
+          "summary": "Der Umgang mit der AfD beschäftigt die Politik nach der Wahl in Sachsen-Anhalt verstärkt - auch die Frage nach einem Verbotsverfahren. Der Kanzler bleibt skeptisch und sieht einen anderen Weg.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3618a7d6-6b85-4b62-a8d5-1be5ea5770f0/AAABm-aeRDM/AAABnSSvrFg/16x9-big/bgh-200.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/463f127b-482e-4a1b-91d8-517f590e4f8c/AAABoIetoNM/AAABnSSvrFg/16x9-big/afd-verbot-124.jpg?width=1280"
         },
         {
-          "title": "Sachsen-Anhalts CDU sucht ihren Kurs - und ihren Chef",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-landtagswahl-niederlage-100.html",
-          "summary": "Nach der Wahlniederlage ist die CDU in Sachsen-Anhalt gespalten, gemäßigte Stimmen kommen kaum zu Wort. Ein neuer Landesvorstand könnte die Lager einen. Doch nicht alle, die dafür im Gespräch sind, bringen das Potenzial mit. Von Lars Frohmüller.",
+          "title": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/verteidigung-ausgaben-bundestag-100.html",
+          "summary": "So viel Geld wie noch nie steht 2027 für die Bundeswehr bereit. Doch mit dem Rekord-Etat kommen die Fragen: Wird das Geld richtig eingesetzt? Und was bleibt für andere Aufgaben des Staates? Von Christina Nagel und Philipp Jahn.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f6ffbe4d-2b2f-4efa-9f38-7e5f8762d079/AAABoIcT0RI/AAABnSSvrFg/16x9-big/schulze-274.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/64d7f638-b37c-4043-b5d2-2b929709e620/AAABoIdv1Ys/AAABnSSvrFg/16x9-big/panzer-228.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Abgeordnetenhauswahl: Ermittlungen gegen Berliner SPD-Spitzenkandidaten Krach",
-          "url": "https://www.sueddeutsche.de/politik/berlin-spd-krach-ermittlungen-hannover-li.3544994",
-          "summary": "Objekte in Hannover und Berlin seien durchsucht worden, bestätigt die Staatsanwaltschaft Hannover. Es geht um den Vorwurf der Bestechlichkeit. Krach weist das scharf zurück und die SPD äußert einen Verdacht.",
+          "title": "TV-Duell in Mecklenburg-Vorpommern: Wenn Manuela Schwesig ihren Zettel auspackt",
+          "url": "https://www.sueddeutsche.de/politik/manuela-schwesig-leif-erik-holm-tv-duell-mecklenburg-vorpommern-li.3544805",
+          "summary": "SPD und AfD liegen laut Umfragen in Mecklenburg-Vorpommern nur noch drei Prozentpunkte auseinander. Im ersten TV-Duell geht Manuela Schwesig den AfD-Kandidaten aggressiv an, der gibt sich moderat.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/09/ec1e3ddf-4d8a-4305-a547-b4ced2735c0a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/09/f9344e3f-0c42-4ce1-8826-926f4bfd4ce9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C4000%2C2250"
         },
         {
-          "title": "Gipfeltreffen in Paris: Ruckeliger Start für Europas Weltraummission",
-          "url": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-frankreich-deutschland-space-x-musk-li.3544690",
-          "summary": "Beim ersten Weltraumgipfel beanspruchen die Europäer ihren Platz im All. Auf Druck des Weißen Hauses canceln aber US-Firmen ihre Teilnahme, auch Kanzler Merz sagt ab. Ist das Verhältnis zwischen Berlin und Paris so zerrüttet?",
+          "title": "Newsblog zum Ukraine-Krieg: Selenskijs Flugzeug offenbar fast von Drohne getroffen",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-flugzeug-drohne-oslo-li.3524928",
+          "summary": "Dem norwegischen Ministerpräsidenten Støre zufolge passierte der Vorfall als der ukrainische Präsident von Moldau aus auf dem Weg nach Oslo war. Dort nahm er an den Trauerfeierlichkeiten für König Harald teil.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/09/75767d54-a9fa-4450-a227-d9da9c4d7e53.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1067%2C694%2C1866%2C1050"
+          "image": "https://www.sueddeutsche.de/2026/09/09/f51e08d9-4aa0-421c-a6ea-1bed858344a0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Jens-Spahn-Comeback im Plenarsaal: „Ich weiß nicht, was das da ist, bei Ihnen im Kopf“",
-          "url": "https://www.sueddeutsche.de/politik/jens-spahn-rueckkehr-bundestag-comeback-afd-li.3544713",
-          "summary": "Jens Spahn spricht zum ersten Mal seit seinem Rücktritt als Fraktionsvorsitzender im Bundestag. Aufhorchen lässt das spontane Ende seiner Rede – eine Attacke auf die AfD.",
+          "title": "iPhone Duo: Wie Apples Klapphandy die Fehler der Konkurrenz vermeiden will",
+          "url": "https://www.sueddeutsche.de/wirtschaft/apple-iphone-duo-handy-design-technik-li.3539975",
+          "summary": "Wandlungsfähigstes iPhone oder teuerster Wecker für den Nachttisch? Am iPhone Duo werden sich wohl die Geister scheiden. Der neue Chef John Ternus jedenfalls ist mächtig stolz darauf.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/09/7d5e4296-cb0b-41a9-abd7-389379e7b153.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/09/0d96dfc4-23ae-475f-a940-a1ae3a4a9f40.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
