@@ -1,10 +1,18 @@
 {
-  "generated": "2026-09-09T14:00:23.018Z",
-  "timestamp": "9.9.2026, 16:00:23",
+  "generated": "2026-09-09T18:00:11.723Z",
+  "timestamp": "9.9.2026, 20:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Debatte im Bundestag: Auch ein anderer Kanzler hätte kein anderes Volk",
+          "url": "https://www.faz.net/aktuell/politik/inland/kommentar-zur-generaldebatte-brauchen-wir-einen-neuen-kanzler-201210545.html",
+          "summary": "Von der neuen Erzählung, die Merz angekündigt hatte, war bei der Generaldebatte im Bundestag noch nicht viel zu hören. Braucht es dafür einen Wechsel im Kanzleramt?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/102af7e8da95/w4600h2403x0y211o/202609/43601.0.2530031445/ihre-zeit-ist-abgelaufen-die.webp"
+        },
         {
           "title": "Haushaltsdebatte: Und wieder gibt Merz ein mutiges Versprechen ab",
           "url": "https://www.faz.net/aktuell/politik/inland/weidel-gegen-merz-nach-der-wahl-in-sachsen-anhalt-der-showdown-hat-begonnen-accg-201208955.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/3e274fe3f2b1/w4600h2403x0y332o/202609/43601.0.2530104593/bundeskanzler-friedrich-merz.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Bundesregierung kritisiert Trump-Äußerungen zu AfD-Wahlsieg",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesregierung-kritisiert-trump-aeusserungen-zu-afd-wahlsieg-faz-110093143.html",
-          "summary": "Merz verschiebt Telefonat mit US-Präsident +++ Reichinnek in Generaldebatte zum Haushalt: Die Regierung hat keinen Plan +++ Hoffmann nennt AfD „Moskauer Puppenkiste“ +++ alle Entwicklungen im Liveblog",
+          "title": "Deutschland-Liveblog: BSW Sachsen-Anhalt nimmt Gesprächsangebot der AfD an",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-nach-der-wahl-in-sachsen-anhalt-nimmt-bsw-gespraechsangebot-der-afd-an-faz-110093143.html",
+          "summary": "CDU schlägt Einladung aus +++ Bundesregierung kritisiert Trump-Äußerungen zu AfD-Wahlsieg +++ Reichinnek in Generaldebatte: Die Regierung hat keinen Plan +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/756f69e48c9f/w4000h2090x0y80o/202607/43601.0.2303311292/merz-und-trump-bei-einem.webp"
-        },
-        {
-          "title": "Künstliche Intelligenz: Die Ängste von Bill Gates",
-          "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/bill-gates-und-seine-angst-vor-kuenstlicher-intelligenz-accg-201194426.html",
-          "summary": "Der Microsoft-Gründer fürchtet sich vor dem Tempo der Künstlichen Intelligenz. Die Debatte erreicht Fachleute aus ganz verschiedenen Disziplinen. Es gibt sogar einen Konsens.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/aa7549c186bf/w3728h1947x0y75o/202607/43601.0.2337479751/bill-gates-sorgt-sich.webp"
+          "image": "https://media0.faz.net/image/w1200h627/8edaed8d3d01/w5793h3026x0y257o/202609/43601.0.2522440655/die-bsw-spitzenkandidatin.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Hausdurchsuchung bei SPD-Spitzenkandidat Steffen Krach in Berlin und Hannover",
-          "url": "https://www.spiegel.de/politik/deutschland/hausdurchsuchung-bei-spd-spitzenkandidat-steffen-krach-in-berlin-und-hannover-a-3f7ff414-1044-4541-8547-a552822fd8d1#ref=rss",
-          "summary": "Gegen den Berliner SPD-Spitzenkandidaten Steffen Krach wird wegen des Verdachts der Bestechlichkeit ermittelt. Es gab Durchsuchungen an drei Orten. Die SPD bestreitet die Vorwürfe.",
+          "title": "Heteborn in Sachsen-Anhalt: Sven Schulze ist hier aufgewachsen. Trotzdem wählen die Nachbarn AfD",
+          "url": "https://www.spiegel.de/politik/deutschland/heteborn-in-sachsen-anhalt-sven-schulze-ist-hier-aufgewachsen-trotzdem-waehlen-die-nachbarn-afd-a-df7c3432-4d7f-4b05-b7d7-1ad0b764315b#ref=rss",
+          "summary": "Heteborn im Vorharz ist der Heimatort von CDU-Wahlverlierer Sven Schulze. Selbst hier hat mehr als die Hälfte AfD gewählt. Warum?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8a27848d-0c3c-4bbc-9e78-095419f85b20_w1200_r1.778_fpx44_fpy39.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7c3812cb-a89c-48c7-a19d-8b480d8ba444_w1200_r1.778_fpx50_fpy55.jpg"
         },
         {
-          "title": "Polen: Wie wird der AfD-Wahlsieg gesehen? »Man bekommt hier Gänsehaut«",
-          "url": "https://www.spiegel.de/ausland/polen-wie-wird-der-afd-wahlsieg-gesehen-man-bekommt-hier-gaensehaut-a-6aa4efaa-a7a0-43f4-86d1-fdf567c0f5a1#ref=rss",
-          "summary": "Auch in Polen reagieren viele Menschen sorgenvoll auf den AfD-Triumph in Sachsen-Anhalt. Die bekannte Podcasterin Anna Kwiatkowska sagt, was sie besonders beunruhigt.",
+          "title": "News des Tages: Generaldebatte im Bundestag, Zollstreit USA gegen Kanada, Benjamin Netanyahu gegen »Haaretz«",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-generaldebatte-im-bundestag-zollstreit-usa-gegen-kanada-benjamin-netanyahu-gegen-haaretz-a-6d01e853-cf6a-4264-b185-455b953b8cdd#ref=rss",
+          "summary": "Die Generaldebatte im Bundestag gerät zur Abrechnung zwischen Regierung und Opposition. Kanada lächelt Wüterich Trump beiseite, und Netanyahu will »Haaretz« wegen einer belastenden Recherche verklagen. Das ist die Lage am Mittwochabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8140c3f4-fffc-49cd-90f1-4d5d2b1d6b70_w1200_r1.778_fpx52.61_fpy54.96.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Ratko Mladić: Serbien verherrlicht einen Kriegsverbrecher – und Europa schaut hilflos zu",
-          "url": "https://www.spiegel.de/ausland/ratko-mladic-serbien-verherrlicht-einen-kriegsverbrecher-und-europa-schaut-hilflos-zu-a-b5f2372c-12d5-40c5-b680-87647f8d83b3#ref=rss",
-          "summary": "In Belgrad verabschiedeten sich Tausende vom »Schlächter vom Balkan«, darunter auch amtierende Minister der serbischen Regierung. Hat sich ein EU-Beitritt des Landes damit erledigt?",
+          "title": "Annalena Baerbock: Was New York mit der Ex-Außenministerin gemacht hat",
+          "url": "https://www.spiegel.de/ausland/annalena-baerbock-was-new-york-mit-der-ex-aussenministerin-gemacht-hat-a-70df2f3d-74ee-4738-abd6-e451fd9bfdc7#ref=rss",
+          "summary": "Als Außenministerin war sie Zielscheibe von Hass und Häme, nun hört sie als Uno-Diplomatin auf. Was New York mit Annalena Baerbock gemacht hat – und was sie mit New York.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/535bdd79-69ec-4187-a3f0-834fab3eddb8_w1200_r1.778_fpx51.31_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c5aa4df5-1cbc-4af4-88fa-2ad64f7e094c_w1200_r1.778_fpx46_fpy51.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nach dem Bruch des BSW: Wie stabil ist Thüringens Regierung noch?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/thueringen-bsw-fraktion-100.html",
-          "summary": "Das Thüringer BSW zerfällt, die Brombeerkoalition schrumpft zur Minderheitsregierung. 13 Abgeordnete gründen neue Parteien, der Landtag wird bunter - und Ministerpräsident Voigt braucht neue Mehrheiten. Von Carmen Fiedler.",
+          "title": "Harald V. beigesetzt - Trauerfeier für einen geliebten König",
+          "url": "https://www.tagesschau.de/ausland/europa/norwegen-harald-trauerfeier-100.html",
+          "summary": "35 Jahre war er König von Norwegen. Nun ist Harald V. in Oslo beigesetzt worden. Mehr als 100. 000 Menschen gaben ihm das letzte Geleit - und machten noch einmal deutlich, wie beliebt der König war.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ea84b927-6860-49f9-ae68-81226699b2b8/AAABoIYdYl0/AAABnSSvrFg/16x9-big/wolf-voigt-maier-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8db40baf-e6d2-4816-8b56-511ca91dc3fb/AAABoIdIkfk/AAABnSSvrFg/16x9-big/sarg-koenig-harald-100.jpg?width=1280"
         },
         {
-          "title": "Schweigeminute und Prozession: Norwegen nimmt Abschied von König Harald",
-          "url": "https://www.tagesschau.de/ausland/europa/beerdigung-koenig-harald-100.html",
-          "summary": "Bundespräsident Steinmeier, der ukrainische Präsident Selenskyj und zahlreiche Royals - Norwegen hat Abschied genommen von dem im Volk beliebten König Harald. Auch aus dem Ausland kamen viele Gäste.",
+          "title": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bgh-urteil-autoversicherungen-100.html",
+          "summary": "Rechnet eine Autowerkstatt für eine Reparatur mehr ab als nötig, muss die Kaskoversicherung nicht dafür zahlen. Das Risiko trägt der Versicherte, entschied der Bundesgerichtshof. Von Antonetta Stephany.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f6508b89-177d-464b-8dae-697e4bd409ad/AAABoIYeo58/AAABnSSvrFg/16x9-big/trauerzug-harald-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3618a7d6-6b85-4b62-a8d5-1be5ea5770f0/AAABm-aeRDM/AAABnSSvrFg/16x9-big/bgh-200.jpg?width=1280"
         },
         {
-          "title": "Merz verschiebt Telefonat mit Trump - Zusammenhang mit Trumps AfD-Post unklar",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-telefonat-trump-100.html",
-          "summary": "Anlässlich des Jahrestags der Anschläge vom 11. September 2001 in den USA wollte Kanzler Merz eigentlich mit US-Präsident Trump telefonieren. Doch Merz hat das Gespräch verschoben. Ist Trumps Gratulation an die AfD der Grund?",
+          "title": "Sachsen-Anhalts CDU sucht ihren Kurs - und ihren Chef",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-landtagswahl-niederlage-100.html",
+          "summary": "Nach der Wahlniederlage ist die CDU in Sachsen-Anhalt gespalten, gemäßigte Stimmen kommen kaum zu Wort. Ein neuer Landesvorstand könnte die Lager einen. Doch nicht alle, die dafür im Gespräch sind, bringen das Potenzial mit. Von Lars Frohmüller.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/77cdf6f5-8c50-4ba3-a985-b9e87d4ffc37/AAABoIUXmt0/AAABnSSvrFg/16x9-big/merz-1556.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f6ffbe4d-2b2f-4efa-9f38-7e5f8762d079/AAABoIcT0RI/AAABnSSvrFg/16x9-big/schulze-274.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Diplomatische Dämmerung: Tauwetter zwischen Kim und Trump?",
+          "url": "https://www.telepolis.de/article/Diplomatische-Daemmerung-Tauwetter-zwischen-Kim-und-Trump-11447297.html",
+          "summary": "Reden statt Raketen? Mit welchen strategischen Hintergedanken und Implikationen ein aktuelles US-Tauwetter gen Nordkorea diskutiert werden sollte. Eine Analyse.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/2/0/6/7/shutterstock_2599911555-f30537428142abea.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Pisa-Schock: Deutschland verlernt seine Zukunft",
           "url": "https://www.telepolis.de/article/Pisa-Schock-Deutschland-verlernt-seine-Zukunft-11446976.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/1/8/3/6/Germanru-3119c01f53824cae.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Abschiebung nach Ruanda: Dobrindt will Abkommen noch 2026",
-          "url": "https://www.telepolis.de/article/Abschiebung-nach-Ruanda-Dobrindt-will-Abkommen-noch-2026-11446898.html",
-          "summary": "Fünf EU-Staaten einigen sich in Kopenhagen auf Leitprinzipien für Rückführungszentren außerhalb der EU. Eine Delegation verhandelt bereits in Kigali.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/1/8/6/6/shutterstock_2635455421-85b3af440ccf8214.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Reformen: Friedrich Merz sollte jetzt etwas Populismus wagen",
-          "url": "https://www.sueddeutsche.de/meinung/afd-merz-reform-populismus-kommentar-li.3544205",
-          "summary": "Die Rentenreform kassieren aus Angst vor der AfD, das wäre ein Fehler. Um die Bürger zu gewinnen, kann die Regierung stattdessen von Zohran Mamdani lernen.",
+          "title": "Abgeordnetenhauswahl: Ermittlungen gegen Berliner SPD-Spitzenkandidaten Krach",
+          "url": "https://www.sueddeutsche.de/politik/berlin-spd-krach-ermittlungen-hannover-li.3544994",
+          "summary": "Objekte in Hannover und Berlin seien durchsucht worden, bestätigt die Staatsanwaltschaft Hannover. Es geht um den Vorwurf der Bestechlichkeit. Krach weist das scharf zurück und die SPD äußert einen Verdacht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/09/30f5de56-97fe-4d5c-8c00-c07349433741.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C365%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/09/09/ec1e3ddf-4d8a-4305-a547-b4ced2735c0a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Kolumne „Schön Doof“: Wenn der Bauer nicht schwimmen kann, liegt’s an der Badebuxe",
-          "url": "https://www.sueddeutsche.de/leben/alexander-zverev-us-open-tennis-baelle-wetter-li.3543663",
-          "summary": "Das Material ist schuld! Das Wetter! Warum sich Sportler wie Alexander Zverev so gerne über äußere Umstände beschweren.",
+          "title": "Gipfeltreffen in Paris: Ruckeliger Start für Europas Weltraummission",
+          "url": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-frankreich-deutschland-space-x-musk-li.3544690",
+          "summary": "Beim ersten Weltraumgipfel beanspruchen die Europäer ihren Platz im All. Auf Druck des Weißen Hauses canceln aber US-Firmen ihre Teilnahme, auch Kanzler Merz sagt ab. Ist das Verhältnis zwischen Berlin und Paris so zerrüttet?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/09/e19b88cc-677d-429f-834f-15980e17e45b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C119%2C2294%2C1290"
+          "image": "https://www.sueddeutsche.de/2026/09/09/75767d54-a9fa-4450-a227-d9da9c4d7e53.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1067%2C694%2C1866%2C1050"
         },
         {
-          "title": "Bezahlbarer Wohnraum: Wie europäische Städte sich gegen Airbnb wehren",
-          "url": "https://www.sueddeutsche.de/politik/airbnb-mietpreise-protest-barcelona-florenz-berlin-li.3544275",
-          "summary": "Ferienunterkünfte und befristete möblierte Apartments befördern den Mietpreiswucher, das zeigen mehrere Studien. Städte wie Barcelona, Florenz und Berlin wollen sich damit nicht mehr abfinden.",
+          "title": "Jens-Spahn-Comeback im Plenarsaal: „Ich weiß nicht, was das da ist, bei Ihnen im Kopf“",
+          "url": "https://www.sueddeutsche.de/politik/jens-spahn-rueckkehr-bundestag-comeback-afd-li.3544713",
+          "summary": "Jens Spahn spricht zum ersten Mal seit seinem Rücktritt als Fraktionsvorsitzender im Bundestag. Aufhorchen lässt das spontane Ende seiner Rede – eine Attacke auf die AfD.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/09/41be99d8-2eeb-47eb-ae3e-049b6603d034.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C222%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/09/7d5e4296-cb0b-41a9-abd7-389379e7b153.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
