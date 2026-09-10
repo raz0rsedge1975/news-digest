@@ -1,10 +1,18 @@
 {
-  "generated": "2026-09-10T14:00:19.406Z",
-  "timestamp": "10.9.2026, 16:00:19",
+  "generated": "2026-09-10T18:00:08.870Z",
+  "timestamp": "10.9.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Kampf gegen gangs: „Im Gefängnis bessern sich die Jugendlichen nicht“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/kurz-vor-wahl-nun-schickt-schweden-vierzehnjaehrige-ins-gefaengnis-201206014.html",
+          "summary": "In Schweden begehen immer mehr Minderjährige Verbrechen für Gangs. Seit heute müssen deshalb auch Vierzehnjährige ins Gefängnis. Das Gesetz trat vier Tage vor der Wahl in Kraft.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a20f4902f6c6/w7282h3804x0y902o/202603/43601.0.1888912131/der-gefaengnisdirektor-gabriel.webp"
+        },
         {
           "title": "UMgang mit der AfD: Ein Wahlsieg ist kein Verbotsgrund",
           "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/die-afd-jetzt-verbieten-ein-wahlsieg-ist-kein-verbotsgrund-201208996.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/c815065f99ac/w5424h2834x0y665o/202606/43601.0.2233570242/in-duesseldorf-kundgebung-fuer.webp"
         },
         {
-          "title": "Umgang mit der AfD: Die Rufe nach einem Verbotsverfahren werden lauter",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/oezdemir-fordert-zeitplan-fuer-afd-verbotsverfahren-201213525.html",
-          "summary": "Nach der Wahl in Sachsen-Anhalt zeigen sich einige Unionspolitiker offen gegenüber einem AfD-Verbotsverfahren. Doch der Kanzler bleibt skeptisch.",
+          "title": "Deutschland-Liveblog: Neue Umfragen: AfD baut Vorsprung im Nordosten aus – Linke knapp vor CDU in Berlin",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-linke-und-cdu-liefern-sich-kopf-an-kopf-rennen-in-berlin-faz-110093143.html",
+          "summary": "Erste Erhebungen von Infratest dimap seit AfD-Sieg in Magdeburg +++ Bundesanwaltschaft übernimmt Ermittlungen zu Stromsabotage +++ Spahn bittet um Entschuldigung +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4e2dcde8bbb4/w4832h2524x0y97o/202606/43601.0.2262012719/oezdemir-und-wuest-auf-einer.webp"
-        },
-        {
-          "title": "Wahlforschung: Sind alle AfD-Wähler rechtsextrem?",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/sind-alle-afd-waehler-rechtsextrem-201214504.html",
-          "summary": "Gegen kommunikative Arroganz: Der Soziologe Hartmut Rosa warnt davor, es sich mit der antifaschistischen Widerrede zu einfach zu machen. Nassforsche Behauptungen sind nun einmal keine politischen Argumente.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e8a06982b0ae/w5229h2732x901y1671o/202609/43601.0.2531976702/argumente-gegen-die-afd.webp"
+          "image": "https://media0.faz.net/image/w1200h627/846d3d8ba78c/w6000h3135x0y537o/202609/43601.0.2531748818/leif-erik-holm-mit-manuela.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "9/11: Wie wurde eine junge Frau erwachsen, deren Vater im World Trade Center starb?",
-          "url": "https://www.spiegel.de/panorama/9-11-wie-wurde-eine-junge-frau-erwachsen-deren-vater-im-world-trade-center-starb-a-d966aa6a-2eb0-4ba0-a65d-5c697c5b4b1d#ref=rss",
-          "summary": "Jamie Gartenberg Pila verlor in den Türmen des World Trade Center ihren Vater, bevor sie geboren wurde. Mit Anfang zwanzig kämpfte sie in der israelischen Armee gegen Hamas-Terroristen.",
+          "title": "USA unter Donald Trump: Wie sich Techmilliardäre vor der Rache der Demokraten fürchten",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss",
+          "summary": "Bezos, Musk, Zuckerberg – die Chefs der Techriesen umwerben US-Präsident Trump mit Geld und Geschenken. Aber was, wenn die Demokraten die Midterms gewinnen? »Ihr werdet komplett gef… sein«, droht ein Topberater.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/59f2efae-2464-4178-9fc9-40f149d1d401_w1200_r1.778_fpx63_fpy49.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/04120aca-4636-431e-813d-669dd9e5721e_w1200_r1.778_fpx51_fpy62.jpg"
         },
         {
-          "title": "AfD-Sieg in Sachsen-Anhalt: So will die Partei die Macht in ganz Deutschland erobern",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-sieg-in-sachsen-anhalt-so-greift-die-partei-nach-der-macht-in-ganz-deutschland-a-6e7432d1-8bb7-471e-a8c1-cb192cbd2609#ref=rss",
-          "summary": "Erste Namen und Inhalte stehen fest: Die AfD bereitet die Regierungsübernahme in Magdeburg vor, auch ein Ex-CDU-Mann spielt eine Rolle. Doch das soll nur der Anfang sein. Manche träumen schon von der »Kanzlerin Alice Weidel«. Die SPIEGEL-Titelstory.",
+          "title": "AfD: Es ist der falsche Zeitpunkt, ein Verbotsverfahren zu fordern",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-es-ist-der-falsche-zeitpunkt-ein-verbotsverfahren-zu-fordern-a-ec0ee266-d769-40d7-8e58-36aab1d71153#ref=rss",
+          "summary": "CDU-Ministerpräsident Wüst hat in der Sache recht, wenn er sich für ein AfD-Verbotsverfahren ausspricht. Wegen des Zeitpunkts wirkt sein Vorstoß aber wie ein parteipolitischer Racheakt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6900c50c-da02-49d7-9795-a79eb772f63b_w1200_r1.778_fpx54_fpy34.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cf160b7b-97b0-4e51-8065-4f110251daf5_w1200_r1.778_fpx51.32_fpy45.jpg"
         },
         {
-          "title": "Zukunftsstudie 2040: In welchen Zukunftsbranchen Europa Weltmarktführer werden kann",
-          "url": "https://www.spiegel.de/wirtschaft/zukunftsstudie-2040-in-welchen-zukunftsbranchen-europa-weltmarktfuehrer-werden-kann-a-4c4763a4-405d-4ab1-9633-e9e1cfffb0bf#ref=rss",
-          "summary": "Gegen die USA und China scheint Europa oft chancenlos. Nun zeigt eine neue Studie: Es gibt Zukunftstechnologien, in denen der Kontinent zum Weltmarktführer aufsteigen könnte.",
+          "title": "News des Tages: CDU ringt um Steuerreform, Jens Spahn bittet um Entschuldigung, Donald Trump verspricht Geldgeschenke",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss",
+          "summary": "Jens Spahn bittet seine Parteigenossen um Vergebung und hat eine neue Aufgabe. In der CDU formiert sich Widerstand gegen die Steuerreform. Und US-Präsident Trump verspricht Geldgeschenke. Das ist die Lage am Donnerstagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/da21068d-56ab-42ef-89d0-a22411e2aafd_w1200_r1.778_fpx50_fpy64.03.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ausstellung in Düsseldorf: De Saint Phalle und die Kraft weiblicher Lebensfreude",
-          "url": "https://www.tagesschau.de/kultur/niki-de-saint-phalle-ausstellung-100.html",
-          "summary": "Rund, bunt, riesengroß - die Frauenfiguren von Niki de Saint Phalle sind weltbekannt. Wie die Künstlerin von der Düsternis zur Farbe fand und warum ihr Werk aktueller denn je ist, zeigt eine Ausstellung in Düsseldorf. Von M. Berger.",
+          "title": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
+          "summary": "Weniger als zwei Monate vor den Midterms muss US-Präsident Trump einen Rückschlag hinnehmen: Der Supreme Court lehnte den Neuzuschnitt der Wahlkreise in Missouri ab. Die Änderung könnte zu Chaos führen. Von S. Jackisch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/15d36ec8-ef68-41e1-a904-300be105e845/AAABoIqotkE/AAABnSSvrFg/16x9-big/niki-ausstellung-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b030cb89-3b88-4c44-b06b-68680d05c83f/AAABoIwkvc0/AAABnSSvrFg/16x9-big/oberster-gerichtshof-washington-104.jpg?width=1280"
         },
         {
-          "title": "Haushaltsberatungen: Dobrindt verteidigt höhere Ausgaben",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-dobrindt-100.html",
-          "summary": "Mehr Geld für Polizei und Cyberschutz: Bei den Haushaltsberatungen im Bundestag hat Innenminister Dobrindt seinen Kurs verteidigt. Grüne und Linke kritisierten Kürzungen bei politischer Bildung und Integration.",
+          "title": "Marktbericht: Der DAX dreht ins Minus",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
+          "summary": "Der DAX hat weiter an Boden verloren. Denn die Zinserhöhung der EZB war zwar erwartet worden, könnte aber nicht die letzte gewesen sein. Besonders die hohen Ölpreise lasten weiter auf dem Markt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6a1091ac-0162-47d4-8ef2-60f0b86cb5b6/AAABoItzaYg/AAABnSSvrFg/16x9-big/dobrindt-552.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fd84c6eb-d196-4cc4-9594-a882c2aaa616/AAABnS7y0iI/AAABnSSvrFg/16x9-big/dax-kurstafel-marktbericht-114.jpg?width=1280"
         },
         {
-          "title": "Finanzministerium will Krypto-Gewinne künftig besteuern",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/besteuerung-krypto-100.html",
-          "summary": "Gewinne aus Kryptogeschäften werden bislang anders besteuert als reguläre Finanzprodukte. Dies möchte das Finanzministerium ändern. Ein Referentenentwurf, der dem ARD-Hauptstadtstudio, plant eine Änderung ab 2027. Von Lissy Kaufmann.",
+          "title": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
+          "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
+          "summary": "Es könnte eng werden bei der Wahl in Berlin: Die Linke liegt der ARD-Umfrage zufolge knapp vor der CDU. Das BSW würde es nicht ins Abgeordnetenhaus schaffen. Von Florian Riesewieck.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/dd91ce5f-7ab8-456e-951a-2eae9e2f776d/AAABoItx2SQ/AAABnSSvrFg/16x9-big/krypto-gewinne-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7810bdac-265b-4de9-bbc4-4146dd63c898/AAABoGI9AvQ/AAABnSSvrFg/16x9-big/rotes-rathaus-berlin-104.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "BSW-Populismus in Magdeburg: Ein Antrag füllt keinen Gasspeicher",
+          "url": "https://www.telepolis.de/article/BSW-Populismus-in-Magdeburg-Ein-Antrag-fuellt-keinen-Gasspeicher-11449269.html",
+          "summary": "Sahra Wagenknecht will per Landtagsantrag Nord Stream öffnen. Die Pipeline ist zerstört, EU-verboten – Magdeburg hat null Zuständigkeit. Ein Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/0/6/6/shutterstock_2469809941-e9dce4e248b4d90f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Sprind: Wie Deutschlands Innovationsagentur \"Weltveränderer\" findet",
           "url": "https://www.telepolis.de/article/Sprind-Wie-Deutschlands-Innovationsagentur-Weltveraenderer-findet-11448772.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/2/9/2/5/master_Arbeit_und_lesen-a4dece215ee9d354.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Covenant baut ab 2027 Marschflugkörper bei Leipzig",
-          "url": "https://www.telepolis.de/article/Covenant-baut-ab-2027-Marschflugkoerper-bei-Leipzig-11448704.html",
-          "summary": "Das US-israelische Start-up Covenant fertigt ab 2027 den Flugkörper „Anthem“ bei Leipzig. Gefechtskopfintegration erfolgt an anderem Standort.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/2/7/7/7/Anthem_On_Display-734a73ec47c8a8c0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Ukraine-Krieg: Selenskij: Attacken auf acht Infrastrukturobjekte",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-flugzeug-drohne-russland-infrastruktur-li.3524928",
-          "summary": "In den sozialen Medien schreibt der ukrainische Präsident von Attacken auf acht Infrastrukturobjekte, die dem Krieg dienen sollen. Darunter seien eine Ölraffinerie und ein Handelshafen.",
+          "title": "Landtagswahl in Sachsen-Anhalt: Siegmunds schwierige Suche nach einem Partner für die AfD",
+          "url": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-koalitionspartner-wahl-bsw-li.3545265",
+          "summary": "Die Landtagswahl hat die AfD zwar klar gewonnen. Doch wie erreicht sie eine Mehrheit? Neuwahlen schließt Ulrich Siegmund nicht aus.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/10/1eeceefa-b840-402a-90ae-0b22cbd17a41.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C334%2C1262%2C710"
+          "image": "https://www.sueddeutsche.de/2026/09/10/5094ab87-3879-4028-bc05-3ff2bf12d0c2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
         },
         {
-          "title": "USA-Newsblog: Ärger mit Aufsichtsbehörde: Kimmel zeigt Interview nicht im Fernsehen",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-jimmy-kimmel-fcc-james-talarico-li.3530667",
-          "summary": "Der Moderator verlegt die Ausstrahlung des Gesprächs mit dem demokratischen Senatskandidaten James Talarico ins Internet. Jimmy Kimmel fühlt sich von der US-Medienaufsichtsbehörde FCC bedroht.",
+          "title": "Filmfestspiele in Venedig: „Wir töten diese Kinder absichtlich“",
+          "url": "https://www.sueddeutsche.de/kultur/premiere-gaza-palaestina-israel-lavender-li.3545454",
+          "summary": "Im Yuval Abrahams Dokumentarfilm „Naza“ sprechen 24 israelische Soldaten und Geheimdienstleute über den Krieg in Gaza. Sie beschreiben Kriegsverbrechen aus der Ferne, als Bürojob, der manchen sogar Spaß macht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/10/ebafde01-0fa7-4b5f-a44c-63ed5df6a5a1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/09/10/aab13acf-bb34-4d49-aadf-e4fc61b4db3a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=73%2C41%2C1455%2C818"
         },
         {
-          "title": "Nachruf: Es konnte gar nicht schwer genug sein",
-          "url": "https://www.sueddeutsche.de/kultur/literatur-nachruf-ddr-karl-corino-hessischer-rundfunk-robert-musil-li.3545388",
-          "summary": "Der Literaturkritiker Karl Corino förderte DDR-Schriftsteller und wurde von der Stasi überwacht. Seine größte Liebe aber gehörte dem österreichischen Autor Robert Musil.",
+          "title": "Newsblog zur Bundespolitik: Bundestag hebt Immunität von AfD-Politiker Brandner auf",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-stephan-brandner-afd-immunitaet-li.3529564",
+          "summary": "Damit erlaubt das Parlament ein strafrechtliches Vorgehen gegen den AfD-Bundestagsabgeordneten Stephan Brandner.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/10/8d14bf37-c0a7-43ec-9b14-6fd535e5a2a2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C67%2C2842%2C1599"
+          "image": "https://www.sueddeutsche.de/2022/06/13/9a32687b-263f-4112-9632-3fbd80920be4.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1327%2C745"
         }
       ]
     }
