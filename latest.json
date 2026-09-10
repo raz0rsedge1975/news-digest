@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-10T18:00:08.870Z",
-  "timestamp": "10.9.2026, 20:00:08",
+  "generated": "2026-09-10T22:00:07.682Z",
+  "timestamp": "11.9.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Kampf gegen gangs: „Im Gefängnis bessern sich die Jugendlichen nicht“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/kurz-vor-wahl-nun-schickt-schweden-vierzehnjaehrige-ins-gefaengnis-201206014.html",
-          "summary": "In Schweden begehen immer mehr Minderjährige Verbrechen für Gangs. Seit heute müssen deshalb auch Vierzehnjährige ins Gefängnis. Das Gesetz trat vier Tage vor der Wahl in Kraft.",
+          "title": "Rechtspopulismus: Was von konservativ-liberalen Parteien bleibt",
+          "url": "https://www.faz.net/aktuell/wirtschaft/cdu-und-der-rechtspopulismus-was-bleibt-vom-markenkern-201205248.html",
+          "summary": "Freie Märkte, niedrige Steuern und Regierungsverantwortung – das waren die Schlagworte für liberalkonservative Parteien weltweit. Doch der rechte Populismus machte sie zu Juniorpartnern oder raubte ihren marktwirtschaftlichen Kern. Was die CDU daraus lernen kann.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a20f4902f6c6/w7282h3804x0y902o/202603/43601.0.1888912131/der-gefaengnisdirektor-gabriel.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d3ac8e82124a/w5312h2775x0y106o/202609/43601.0.2528821917/alleinunterhalter-donald-trump.webp"
         },
         {
           "title": "UMgang mit der AfD: Ein Wahlsieg ist kein Verbotsgrund",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "USA unter Donald Trump: Wie sich Techmilliardäre vor der Rache der Demokraten fürchten",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss",
-          "summary": "Bezos, Musk, Zuckerberg – die Chefs der Techriesen umwerben US-Präsident Trump mit Geld und Geschenken. Aber was, wenn die Demokraten die Midterms gewinnen? »Ihr werdet komplett gef… sein«, droht ein Topberater.",
+          "title": "Ukraine-Krieg: Warum die Ukrainer im Donbass plötzlich Boden gutmachen",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-warum-die-ukrainer-im-donbass-ploetzlich-boden-gutmachen-a-3f583752-38e0-4268-ba0f-8029ce9c4934#ref=rss",
+          "summary": "Die ukrainische Armee hat einen russischen Angriff auf die strategisch wichtige Stadt Lyman zurückgeschlagen – mit einer neuen Taktik. Doch nun marschieren die Kremltruppen an anderer Stelle auf.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/04120aca-4636-431e-813d-669dd9e5721e_w1200_r1.778_fpx51_fpy62.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0543ff99-fbde-4380-92d7-49f141627e21_w1200_r1.778_fpx57.33_fpy50.jpg"
         },
         {
           "title": "AfD: Es ist der falsche Zeitpunkt, ein Verbotsverfahren zu fordern",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/cf160b7b-97b0-4e51-8065-4f110251daf5_w1200_r1.778_fpx51.32_fpy45.jpg"
         },
         {
-          "title": "News des Tages: CDU ringt um Steuerreform, Jens Spahn bittet um Entschuldigung, Donald Trump verspricht Geldgeschenke",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-ringt-um-steuerreform-jens-spahn-bittet-um-entschuldigung-donald-trump-verspricht-geldgeschenke-a-dca34c7d-cede-455d-bc56-f4c4fd3ac2ef#ref=rss",
-          "summary": "Jens Spahn bittet seine Parteigenossen um Vergebung und hat eine neue Aufgabe. In der CDU formiert sich Widerstand gegen die Steuerreform. Und US-Präsident Trump verspricht Geldgeschenke. Das ist die Lage am Donnerstagabend.",
+          "title": "USA unter Donald Trump: Wie sich Techmilliardäre vor der Rache der Demokraten fürchten",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-unter-donald-trump-wie-sich-techmilliardaere-vor-der-rache-der-demokraten-fuerchten-a-7efd9211-1d12-42ff-a259-5be520c2c483#ref=rss",
+          "summary": "Bezos, Musk, Zuckerberg – die Chefs der Techriesen umwerben US-Präsident Trump mit Geld und Geschenken. Aber was, wenn die Demokraten die Midterms gewinnen? »Ihr werdet komplett gef… sein«, droht ein Topberater.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/04120aca-4636-431e-813d-669dd9e5721e_w1200_r1.778_fpx51_fpy62.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
-          "summary": "Weniger als zwei Monate vor den Midterms muss US-Präsident Trump einen Rückschlag hinnehmen: Der Supreme Court lehnte den Neuzuschnitt der Wahlkreise in Missouri ab. Die Änderung könnte zu Chaos führen. Von S. Jackisch.",
+          "title": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
+          "url": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
+          "summary": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b030cb89-3b88-4c44-b06b-68680d05c83f/AAABoIwkvc0/AAABnSSvrFg/16x9-big/oberster-gerichtshof-washington-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d58b5b2f-4ba0-4a53-89c0-0b048ba45627/AAABoIzGNjs/AAABnSSvrFg/16x9-big/jemen-huthi-134.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Der DAX dreht ins Minus",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-          "summary": "Der DAX hat weiter an Boden verloren. Denn die Zinserhöhung der EZB war zwar erwartet worden, könnte aber nicht die letzte gewesen sein. Besonders die hohen Ölpreise lasten weiter auf dem Markt.",
+          "title": "Emirate investieren 40 Milliarden Euro in Deutschland",
+          "url": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
+          "summary": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fd84c6eb-d196-4cc4-9594-a882c2aaa616/AAABnS7y0iI/AAABnSSvrFg/16x9-big/dax-kurstafel-marktbericht-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5c86805c-af88-4248-82bc-e99a3fed9812/AAABoIx05yE/AAABnSSvrFg/16x9-big/merz-scheich-mohammed-bin-sajed-al-nahjan-100.jpg?width=1280"
         },
         {
-          "title": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
-          "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
-          "summary": "Es könnte eng werden bei der Wahl in Berlin: Die Linke liegt der ARD-Umfrage zufolge knapp vor der CDU. Das BSW würde es nicht ins Abgeordnetenhaus schaffen. Von Florian Riesewieck.",
+          "title": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-bildungspolitik-100.html",
+          "summary": "Mehr Bismarck, weniger Hitler; Inklusion abschaffen und Unterricht zu Hause: Im Bereich der Bildungspolitik hat die AfD in Sachsen-Anhalt viele Pläne. Doch nicht alles, was politisch gefordert wird, ist rechtlich auch möglich. Von A. Tadey.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7810bdac-265b-4de9-bbc4-4146dd63c898/AAABoGI9AvQ/AAABnSSvrFg/16x9-big/rotes-rathaus-berlin-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6f24512b-1922-4aaa-b76b-47547f6b3192/AAABnPcNBTw/AAABnSSvrFg/16x9-big/schule-410.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Newsblog zur Bundespolitik: Vorwurf geplanter „ethnischer Säuberungen“: AfD-Fraktion zeigt Kanzler Merz an",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-merz-ethnische-saeuberungen-kanzler-li.3529564",
+          "summary": "Nach ihrem Wahlsieg in Sachsen-Anhalt warf Merz der AfD vor, Pläne „für ethnische Säuberung nach Herkunft und Hautfarbe“ zu verfolgen. Die Bundestagsfraktion spricht nun von „verleumderischer Beleidigung“.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/10/a221fc41-5f51-475d-9653-a3f537b70561.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C139%2C2560%2C1440"
+        },
+        {
+          "title": "Newsblog zum Ukraine-Krieg: Tote und Verletzte bei russischen Angriffen auf Dnipro und Kiew",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-selenskij-drohne-russland-infrastruktur-dnipro-kiew-tankstelle-li.3524928",
+          "summary": "Nach Behördenangaben hat Russland die Anlage eines US-Agrarkonzerns in Dnipro und eine Tankstelle in Kiew angegriffen. Russland hat seine Luftangriffe auf die Ukraine in den vergangenen Wochen verstärkt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/10/e9dc2c24-e5a7-4d85-8620-d84e745a4212.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C364%2C3500%2C1969"
+        },
+        {
           "title": "Landtagswahl in Sachsen-Anhalt: Siegmunds schwierige Suche nach einem Partner für die AfD",
           "url": "https://www.sueddeutsche.de/politik/afd-sachsen-anhalt-koalitionspartner-wahl-bsw-li.3545265",
           "summary": "Die Landtagswahl hat die AfD zwar klar gewonnen. Doch wie erreicht sie eine Mehrheit? Neuwahlen schließt Ulrich Siegmund nicht aus.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/10/5094ab87-3879-4028-bc05-3ff2bf12d0c2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
-        },
-        {
-          "title": "Filmfestspiele in Venedig: „Wir töten diese Kinder absichtlich“",
-          "url": "https://www.sueddeutsche.de/kultur/premiere-gaza-palaestina-israel-lavender-li.3545454",
-          "summary": "Im Yuval Abrahams Dokumentarfilm „Naza“ sprechen 24 israelische Soldaten und Geheimdienstleute über den Krieg in Gaza. Sie beschreiben Kriegsverbrechen aus der Ferne, als Bürojob, der manchen sogar Spaß macht.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/10/aab13acf-bb34-4d49-aadf-e4fc61b4db3a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=73%2C41%2C1455%2C818"
-        },
-        {
-          "title": "Newsblog zur Bundespolitik: Bundestag hebt Immunität von AfD-Politiker Brandner auf",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-stephan-brandner-afd-immunitaet-li.3529564",
-          "summary": "Damit erlaubt das Parlament ein strafrechtliches Vorgehen gegen den AfD-Bundestagsabgeordneten Stephan Brandner.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2022/06/13/9a32687b-263f-4112-9632-3fbd80920be4.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1327%2C745"
         }
       ]
     }
