@@ -1,10 +1,18 @@
 {
-  "generated": "2026-09-11T18:00:09.903Z",
-  "timestamp": "11.9.2026, 20:00:09",
+  "generated": "2026-09-11T22:00:09.667Z",
+  "timestamp": "12.9.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Tod des Milliardärs: Kühnes letzter Wille",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/klaus-michael-kuehne-wie-es-nach-seinem-tod-mit-dem-firmenimperium-weitergeht-201216651.html",
+          "summary": "Der verstorbene Unternehmer hat die Macht über sein Milliardenerbe bewusst verteilt. Drei Vertraute halten einander in Schach. Sie sollen für eine Balance zwischen den Interessen der Kühne-Stiftung und des Firmenimperiums sorgen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/93d816db281d/w5851h3057x0y709o/202001/43601.0.2465882593/in-seinem-hotel-the-fontenay.webp"
+        },
         {
           "title": "Deutschland-Liveblog: Stellvertretende CDU-Generalsekretärin Stumpp tritt zurück",
           "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-stellvertretende-cdu-generalsekretaerin-stumpp-tritt-zurueck-faz-110093143.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/9ec871574700/w3417h1785x0y246o/202602/43601.0.1804585178/die-bisherige-stellvertretende.webp"
         },
         {
-          "title": "Merz und die CDU: Die Stumpp-Farce ist Ausdruck einer respektlosen Partei",
-          "url": "https://www.faz.net/aktuell/politik/inland/merz-und-die-cdu-die-stumpp-farce-ist-ausdruck-einer-respektlosen-partei-201217880.html",
-          "summary": "Der Autoritätsverlust des Kanzlers wird auch aus der eigenen Partei befördert. Das ist eine politische Dummheit, die man der CDU nicht zugetraut hätte.",
+          "title": "Personalie Stumpp: Schon wieder macht Merz aus einem kleinen Problem ein großes",
+          "url": "https://www.faz.net/aktuell/politik/inland/christina-stumpp-im-fokus-wie-merz-versucht-die-cdu-umzubauen-201216933.html",
+          "summary": "Als ob das Fiasko in Sachsen-Anhalt für die CDU nicht arg genug wäre: Sogar das Auswechseln der stellvertretenden Generalsekretärin wird zur holprigen Angelegenheit.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d3c58eacaf4c/w4755h2484x0y308o/202602/43601.0.1804593305/bundeskanzler-friedrich-merz.webp"
-        },
-        {
-          "title": "Siegmund-Äußerung: Abschiebungen mit Panzern und Drohnen?",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/siegmund-zu-remigration-abschiebungen-mit-panzern-und-drohnen-201217532.html",
-          "summary": "Hat Friedrich Merz nicht doch etwas übertrieben, als er der AfD vorwarf, ethnische Säuberungen zu planen? Nach Ulrich Siegmunds Äußerung zur Rüstungsindustrie in Sachsen-Anhalt kann man das nicht mehr sagen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6e394e1e9f56/w6000h3135x0y519o/202609/43601.0.2535768201/ulrich-siegmund-beschwor-nach.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5022775b6be9/w2861h1494x171y1096o/202609/43601.0.2522790515/es-kann-offenbar-nur-eine.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Nadelöhr Bab al-Mandab: Droht im Nahen Osten die nächste Seeblockade?",
+          "url": "https://www.spiegel.de/ausland/nadeloehr-bab-al-mandab-droht-im-nahen-osten-die-naechste-seeblockade-a-48abe99c-0a7a-41b6-a262-57bacb6c2374#ref=rss",
+          "summary": "Der Bürgerkrieg im Jemen eskaliert, die Huthi-Miliz rückt auf strategisch entscheidende Orte vor. Das könnte dramatische Auswirkungen auf den Welthandel haben.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f8bc82b9-e016-41a3-8dc3-0cfcb43fe2cc_w1200_r1.778_fpx44.47_fpy50.jpg"
+        },
+        {
+          "title": "9/11 im historischen Liveticker: Ermittler finden Mohammed Attas »Attentäter-Fibel« im Gepäck",
+          "url": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
+          "summary": "Die Behörden in den USA suchen nach Spuren, um die Hintergründe des heimtückischen Anschlags aufzudecken. In Deutschland verabschieden sich Fernsehsender in die Nacht. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7eec41b6-e7ea-4013-9ba0-8c5bdd685a27_w1200_r1.778_fpx43.97_fpy45.jpg"
+        },
+        {
           "title": "USA: Wie Donald Trump eine Blamage der Republikaner bei den Midterms abwenden will",
           "url": "https://www.spiegel.de/ausland/usa-wie-donald-trump-eine-blamage-der-republikaner-bei-den-midterms-abwenden-will-a-617b2fbc-1f9d-4c35-96c9-a6895ab2bc02#ref=rss",
           "summary": "Den Republikanern droht bei den Kongresswahlen im November eine Schlappe. Bei dem Sonderparteitag in Dallas wird deutlich, auf welche Strategie die GOP setzt – und dass manche darin ein Risiko sehen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c0f90763-edb6-4129-afa2-8c8827383039_w1200_r1.778_fpx30_fpy52.98.jpg"
-        },
-        {
-          "title": "9/11 im historischen Liveticker: Feuerwehrleute retten überlebende Kameraden und Zivilisten aus Trümmern",
-          "url": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-          "summary": "Einsatzkräfte bergen Menschen aus den Trümmern des World Trade Center. Hunderte Tote werden befürchtet. US-Präsident Bush richtet sich an die Bevölkerung. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9d1b8bea-359c-4a29-8b8e-e7eeb9dd86b3_w1200_r1.778_fpx42.06_fpy49.98.jpg"
-        },
-        {
-          "title": "9/11 vor 25 Jahren: Gedenkakt in New York City ohne Donald Trump",
-          "url": "https://www.spiegel.de/ausland/9-11-vor-25-jahren-gedenkakt-in-new-york-ohne-donald-trump-a-4ed427bb-b42a-4971-96ab-813b2b774c87#ref=rss",
-          "summary": "Zum Gedenkakt für den 11. September kommen diesmal alle vier lebenden Ex-Präsidenten nach Ground Zero. Nur Donald Trump will nicht – angeblich, weil er keine Rede halten darf. Die Hinterbliebenen kämpfen unterdessen gegen das Vergessen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a612798c-dc2c-4273-8096-7e69299eeb21_w1200_r1.778_fpx48.65_fpy54.99.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
+          "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden nach vorläufigen Angaben verletzt, darunter eine Frau schwer. An Bord des Verkehrsmittels waren rund 180 Passagiere.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/04b775e7-3eb6-4544-92d6-1ec730ee1787/AAABoJJhmhc/AAABnSSvrFg/16x9-big/frankreich-polizei-126.jpg?width=1280"
+        },
+        {
+          "title": "Seenotretter in England als Ziel rechter Anfeindung",
+          "url": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
+          "summary": "Gegen die Ankunft von Flüchtlingen über den Ärmelkanal haben in England Hunderte protestiert. Nun wurde bekannt, dass sie Seenotretter angefeindet haben. Experten sehen eine neue Form rechter Mobilisierung. Von Franziska Hoppen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4179c15e-37b5-4ebc-ac55-e521018c1fc2/AAABoJGuc-M/AAABnSSvrFg/16x9-big/portsmouth-100.jpg?width=1280"
+        },
+        {
           "title": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
           "url": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
           "summary": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die erste, die zahlen muss.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/b6b9e86a-03fb-4ec4-a8b0-2e3804e4397d/AAABoJFxCuE/AAABnSSvrFg/16x9-big/koektuerk-102.jpg?width=1280"
-        },
-        {
-          "title": "Rüstungsgüter für \"Abschiebeoffensive\": Empörung über Siegmund-Aussage",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-siegmund-reaktionen-100.html",
-          "summary": "Nach seinem Wahlsieg in Sachsen-Anhalt hat AfD-Spitzenkandidat Siegmund davon gesprochen, Rüstungsgüter im Zusammenhang mit Abschiebungen zu nutzen. Seine Aussagen lösten bundesweit entsetzte Reaktionen aus.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c349c9e8-1106-4163-9a99-881e40c5b3e9/AAABoJFoFE8/AAABnSSvrFg/16x9-big/siegmund-150.jpg?width=1280"
-        },
-        {
-          "title": "Nach dem 11. September 2001 verschiebt sich der Fokus der NATO",
-          "url": "https://www.tagesschau.de/ausland/amerika/11-september-nato-100.html",
-          "summary": "Nach der Terrorattacke auf die USA erklärte die NATO zum bisher einzigen Mal den Bündnisfall. In der Folge setzte sie neue Prioritäten und weitete ihren Aktionsradius aus. Heute sieht die Entwicklung wieder ganz anders aus. Von Thomas Spickhofen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/aa6d7f22-0883-4b37-a72d-c2158088f635/AAABoJFgwUE/AAABnSSvrFg/16x9-big/us-soldaten-afghanistan-104.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Straße von Hormus: USA und Iran streiten um gekaperte Unterwasserdrohne",
+          "url": "https://www.telepolis.de/article/Strasse-von-Hormus-USA-und-Iran-streiten-um-gekaperte-Unterwasserdrohne-11451134.html",
+          "summary": "Irans Revolutionsgarden melden die Erbeutung eines autonomen US-Unterwasserfahrzeugs. Das Pentagon spricht von einer defekten, älteren Drohne.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/1/1/4ed92e43d440533df466e95897802ef7c288899d-2000x1501-36e3dfaba549fe54.avif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "US-Thinktank: Präventivschläge gegen Rechenzentren in China im Gespräch",
           "url": "https://www.telepolis.de/article/US-Thinktank-Praeventivschlaege-gegen-Rechenzentren-in-China-im-Gespraech-11450867.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/6/6/8/AlvaroRT_cropped-45624e7b19e5ec2b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Radio im Auto vor dem Aus: Apps verdrängen den freien Empfang",
-          "url": "https://www.telepolis.de/article/Radio-im-Auto-vor-dem-Aus-Apps-verdraengen-den-freien-Empfang-11450507.html",
-          "summary": "Erste Autobauer streichen den terrestrischen Empfang. Belgien fordert nun eine EU-Pflicht – aus Gründen, die weit über Nostalgie hinausgehen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/6/9/6/Master_Autoradio-af9b47d3db10fb49.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Newsblog zum Nahost-Krieg: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-li.3530668",
+          "summary": "Die Anlage hilft dabei Öl zu transportieren, was die blockierte Straße von Hormus nicht passieren kann. Nun wurde sie offenbar von Drohnen getroffen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/11/ae5b296c-faf1-4828-b8cf-ec10ddc2c6e1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=70%2C0%2C3360%2C1890"
+        },
         {
           "title": "Gedenken an 9/11: Amerika tut sich schwer, gemeinsam zu trauern",
           "url": "https://www.sueddeutsche.de/politik/new-york-september-gedenken-spannungen-li.3544431",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/06/09/e913fd76-a15d-44c7-9e0d-1ac4f4cf4d1a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=486%2C575%2C3005%2C1690"
-        },
-        {
-          "title": "USA-Newsblog: Trump verteidigt Iran-Krieg bei 9/11-Gedenkfeier",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-11-september-ground-zero-gedenken-li.3530667",
-          "summary": "Die USA gedenken der Terroropfer vom 11. September und erstmals am Ground Zero auch jener, die an den Spätfolgen der Anschläge starben.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/11/644ad6b9-447c-4507-a4be-42424507cfd1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         }
       ]
     }
