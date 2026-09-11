@@ -1,25 +1,17 @@
 {
-  "generated": "2026-09-11T14:00:09.762Z",
-  "timestamp": "11.9.2026, 16:00:09",
+  "generated": "2026-09-11T18:00:09.903Z",
+  "timestamp": "11.9.2026, 20:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Schifffahrt bedroht: Nur noch Trump könnte die Huthi das Fürchten lehren",
-          "url": "https://www.faz.net/aktuell/politik/ausland/huthi-rebellen-es-droht-dem-welthandel-eine-lange-blockade-201218581.html",
-          "summary": "Iran und die Huthi-Rebellen bedrohen jetzt zwei wichtige Meerengen am Golf. Es droht eine lange Blockade.",
+          "title": "Deutschland-Liveblog: Stellvertretende CDU-Generalsekretärin Stumpp tritt zurück",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-stellvertretende-cdu-generalsekretaerin-stumpp-tritt-zurueck-faz-110093143.html",
+          "summary": "Abgeordneter Hose soll kommissarischer Nachfolger werden +++ CDA-Chef Radtke: Merz hat CDU zu konservativ aufgestellt +++ Prien will Einschränkungen bei Social Media schnell beschließen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9e0c19c14ff8/w6144h3210x0y443o/202609/43601.0.2540147484/huthi-anhaenger-auf-einer.webp"
-        },
-        {
-          "title": "Huthi im Roten Meer: „Angriff auf die Lebensader des Welthandels“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/huthi-rueckt-im-jemen-vor-angriff-auf-die-lebensader-des-welthandels-201217883.html",
-          "summary": "Die mit Iran verbündeten Huthi-Rebellen erhalten Zugriff auf eine der wichtigsten Meerengen der Welt. Der Druck auf den Welthandel steigt – und Deutschland dürfte besonders hart getroffen werden.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c5042f34b296/w3984h2081x0y405o/202603/43601.0.1930792506/huthi-kaempfer-waehrend-einer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/9ec871574700/w3417h1785x0y246o/202602/43601.0.1804585178/die-bisherige-stellvertretende.webp"
         },
         {
           "title": "Merz und die CDU: Die Stumpp-Farce ist Ausdruck einer respektlosen Partei",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/d3c58eacaf4c/w4755h2484x0y308o/202602/43601.0.1804593305/bundeskanzler-friedrich-merz.webp"
+        },
+        {
+          "title": "Siegmund-Äußerung: Abschiebungen mit Panzern und Drohnen?",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/siegmund-zu-remigration-abschiebungen-mit-panzern-und-drohnen-201217532.html",
+          "summary": "Hat Friedrich Merz nicht doch etwas übertrieben, als er der AfD vorwarf, ethnische Säuberungen zu planen? Nach Ulrich Siegmunds Äußerung zur Rüstungsindustrie in Sachsen-Anhalt kann man das nicht mehr sagen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/6e394e1e9f56/w6000h3135x0y519o/202609/43601.0.2535768201/ulrich-siegmund-beschwor-nach.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Christina Stumpp: Stellvertreterin widersetzt sich Personalplänen von Merz",
-          "url": "https://www.spiegel.de/politik/deutschland/christina-stumpp-stellvertreterin-widersetzt-sich-personalplaenen-von-merz-a-65601073-3308-40a2-9695-b55f176b2ed8#ref=rss",
-          "summary": "Friedrich Merz möchte die CDU-Zentrale neu aufstellen, doch Christina Stumpp will ihren Posten nicht räumen. Ein Job in der Fraktion soll ihr den Abgang schmackhaft machen. Dort raunt man über den Autoritätsverlust des Kanzlers.",
+          "title": "USA: Wie Donald Trump eine Blamage der Republikaner bei den Midterms abwenden will",
+          "url": "https://www.spiegel.de/ausland/usa-wie-donald-trump-eine-blamage-der-republikaner-bei-den-midterms-abwenden-will-a-617b2fbc-1f9d-4c35-96c9-a6895ab2bc02#ref=rss",
+          "summary": "Den Republikanern droht bei den Kongresswahlen im November eine Schlappe. Bei dem Sonderparteitag in Dallas wird deutlich, auf welche Strategie die GOP setzt – und dass manche darin ein Risiko sehen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/45d99002-4fce-46b3-b469-9bd63d017e3a_w1200_r1.778_fpx49_fpy43.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c0f90763-edb6-4129-afa2-8c8827383039_w1200_r1.778_fpx30_fpy52.98.jpg"
         },
         {
-          "title": "9/11 im historischen Liveticker: Entführer steuern  Passagierflugzeug ins US-Verteidigungsministerium",
+          "title": "9/11 im historischen Liveticker: Feuerwehrleute retten überlebende Kameraden und Zivilisten aus Trümmern",
           "url": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-in-diesem-moment-vor-25-jahren-begann-der-albtraum-in-den-usa-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-          "summary": "Eine dritte Maschine ist abgestürzt – sie kracht ins Pentagon. Washington befürchtet Dutzende Tote. US-Präsident Bush ist klar: Die USA werden angegriffen. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
+          "summary": "Einsatzkräfte bergen Menschen aus den Trümmern des World Trade Center. Hunderte Tote werden befürchtet. US-Präsident Bush richtet sich an die Bevölkerung. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8118b53d-b4ef-4030-8dc4-6f99ad379e93_w1200_r1.778_fpx56_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9d1b8bea-359c-4a29-8b8e-e7eeb9dd86b3_w1200_r1.778_fpx42.06_fpy49.98.jpg"
         },
         {
-          "title": "Ulrich Siegmund (AfD) über Rüstung und Remigration: Wie sein Manöver die Politik aufschreckt",
-          "url": "https://www.spiegel.de/politik/deutschland/ulrich-siegmund-ueber-ruestung-und-remigration-wie-sein-manoever-die-politik-aufschreckt-a-d9bec5a5-0bfa-4ffa-901a-8d43016e45da#ref=rss",
-          "summary": "Rechtsextremist Ulrich Siegmund spricht von Abschiebungen mit martialischer Härte. Der Wahlsieger von Sachsen-Anhalt stellt damit auch den angeblichen Kurs als Friedenspartei infrage – und sendet ein Zeichen ans BSW.",
+          "title": "9/11 vor 25 Jahren: Gedenkakt in New York City ohne Donald Trump",
+          "url": "https://www.spiegel.de/ausland/9-11-vor-25-jahren-gedenkakt-in-new-york-ohne-donald-trump-a-4ed427bb-b42a-4971-96ab-813b2b774c87#ref=rss",
+          "summary": "Zum Gedenkakt für den 11. September kommen diesmal alle vier lebenden Ex-Präsidenten nach Ground Zero. Nur Donald Trump will nicht – angeblich, weil er keine Rede halten darf. Die Hinterbliebenen kämpfen unterdessen gegen das Vergessen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4b324faf-9661-4019-98df-4b8365e5ce8b_w1200_r1.778_fpx45_fpy39.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a612798c-dc2c-4273-8096-7e69299eeb21_w1200_r1.778_fpx48.65_fpy54.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
-          "summary": "Ungerecht, sozial kalt, auf Sand gebaut: Arbeitsministerin Bas wird für den Haushaltsentwurf ihres Ministeriums von der Opposition scharf angegangen. Dabei ist der Etat so hoch nie. Von Dagmar Pepping.",
+          "title": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
+          "summary": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die erste, die zahlen muss.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1df13aff-733b-4844-81e6-10747786094a/AAABoJCV0QM/AAABnSSvrFg/16x9-big/bas-222.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b6b9e86a-03fb-4ec4-a8b0-2e3804e4397d/AAABoJFxCuE/AAABnSSvrFg/16x9-big/koektuerk-102.jpg?width=1280"
         },
         {
-          "title": "Was New Yorks Muslime nach 9/11 durchmachen mussten",
-          "url": "https://www.tagesschau.de/ausland/amerika/muslime-new-york-9-11-100.html",
-          "summary": "Nach dem 11. September wurden viele Muslime in New York angefeindet, verhaftet oder ausspioniert. Heute ist ein Muslim erstmals Bürgermeister der Stadt. Er wurde jetzt Ziel einer islamophoben Kampagne. Von Giselle Ucar.",
+          "title": "Rüstungsgüter für \"Abschiebeoffensive\": Empörung über Siegmund-Aussage",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-siegmund-reaktionen-100.html",
+          "summary": "Nach seinem Wahlsieg in Sachsen-Anhalt hat AfD-Spitzenkandidat Siegmund davon gesprochen, Rüstungsgüter im Zusammenhang mit Abschiebungen zu nutzen. Seine Aussagen lösten bundesweit entsetzte Reaktionen aus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/456e9795-1ac6-4999-b5b4-2613ee0818f3/AAABoJC0Y-U/AAABnSSvrFg/16x9-big/menschen-new-york-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c349c9e8-1106-4163-9a99-881e40c5b3e9/AAABoJFoFE8/AAABnSSvrFg/16x9-big/siegmund-150.jpg?width=1280"
         },
         {
-          "title": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html",
-          "summary": "Das US-Unternehmen Anthropic hat nach eigenen Angaben mehrere Fälle missbräuchlicher Nutzung seines KI-Modells unterbunden. Dabei sei es auch um mutmaßliche Cyberspionage aus Russland und biologische Waffen gegangen.",
+          "title": "Nach dem 11. September 2001 verschiebt sich der Fokus der NATO",
+          "url": "https://www.tagesschau.de/ausland/amerika/11-september-nato-100.html",
+          "summary": "Nach der Terrorattacke auf die USA erklärte die NATO zum bisher einzigen Mal den Bündnisfall. In der Folge setzte sie neue Prioritäten und weitete ihren Aktionsradius aus. Heute sieht die Entwicklung wieder ganz anders aus. Von Thomas Spickhofen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1226a176-fa8e-45b6-a8f8-4875dbc9f526/AAABoJBF8Yg/AAABnSSvrFg/16x9-big/ki-apps-116.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/aa6d7f22-0883-4b37-a72d-c2158088f635/AAABoJFgwUE/AAABnSSvrFg/16x9-big/us-soldaten-afghanistan-104.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Landtagswahlen: Enge Rennen in zwei Bundesländern",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-berlin-umfragen-spd-afd-linke-cdu-li.3545294",
-          "summary": "In Berlin kann die Linke beim Thema Wohnen punkten, in Mecklenburg-Vorpommern schrumpft der Vorsprung der AfD. Ein genauer Blick in die Umfragen vor den nächsten Landtagswahlen.",
+          "title": "Gedenken an 9/11: Amerika tut sich schwer, gemeinsam zu trauern",
+          "url": "https://www.sueddeutsche.de/politik/new-york-september-gedenken-spannungen-li.3544431",
+          "summary": "Die politische Spaltung und der von einigen angefachte Hass auf Muslime überlagern die Gedenkfeier der Anschläge des 11. Präsident Trump bleibt New York fern. Dagegen zeigt der Bürgermeister eine Geste der Versöhnung.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/11/b9654de6-ca13-49a7-8e20-ebbd68d9ddc9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/11/3352e2ea-686d-4b6d-be13-d71189fdeadb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C155%2C4000%2C2250"
         },
         {
-          "title": "Medizin: Sollte man sich jetzt gegen Covid und Grippe impfen lassen?",
-          "url": "https://www.sueddeutsche.de/gesundheit/corona-grippe-impfung-muenchen-empfehlungen-li.3544251",
-          "summary": "Der Herbst beginnt, die Viren kommen. Braucht es jetzt den Piks in den Oberarm? Die Ständige Impfkommission hat ihre Empfehlungen dazu geändert.",
+          "title": "Newsblog zur Bundespolitik: CDU-Arbeitnehmerflügel: Merz führt die falschen Debatten",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-merz-arbeitnehmer-kritik-li.3529564",
+          "summary": "„Wenn der Bundeskanzler regelmäßig das halbe Land mit bestimmten Aussagen gegen sich aufbringt, ist das kontraproduktiv“, kritisiert Dennis Radtke, der Vorsitzende des CDU-Arbeitnehmerflügels, den Kanzler.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/11/7b2d296e-f5d1-4c7c-a279-d9e31a078581.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C165%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/06/09/e913fd76-a15d-44c7-9e0d-1ac4f4cf4d1a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=486%2C575%2C3005%2C1690"
         },
         {
-          "title": "Tourismus: Hoteliers in Sachsen-Anhalt fürchten Stornierungen",
-          "url": "https://www.sueddeutsche.de/wirtschaft/tourismus-sachsen-anhalt-afd-wahlerfolg-stornierungen-li.3545711",
-          "summary": "Erste Gäste sagen Reisen mit Verweis auf das Wahlergebnis ab. Das sorgt für Verunsicherung in der Branche – ebenso wie die „patriotischen Tourismuskonzepte“ der Partei.",
+          "title": "USA-Newsblog: Trump verteidigt Iran-Krieg bei 9/11-Gedenkfeier",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-11-september-ground-zero-gedenken-li.3530667",
+          "summary": "Die USA gedenken der Terroropfer vom 11. September und erstmals am Ground Zero auch jener, die an den Spätfolgen der Anschläge starben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2022/06/15/3cfa3a7f-143f-45bb-8c9c-c744bb44bdd8.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1350%2C759"
+          "image": "https://www.sueddeutsche.de/2026/09/11/644ad6b9-447c-4507-a4be-42424507cfd1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
         }
       ]
     }
