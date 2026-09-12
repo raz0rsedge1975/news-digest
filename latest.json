@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-12T06:00:08.028Z",
-  "timestamp": "12.9.2026, 08:00:08",
+  "generated": "2026-09-12T10:00:08.819Z",
+  "timestamp": "12.9.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "CDU und CSU: Eine Stimmung im Land, auf die Merz keine Antwort findet",
+          "title": "bsw Sachsen-Anhalt: Die Grenzen der Methode Wagenknecht",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/bsw-in-sachsen-anhalt-was-will-sahra-wagenknecht-accg-201202334.html",
+          "summary": "Das BSW könnte in Magdeburg zum Königsmacher werden. Für Sahra Wagenknecht ist das ein großer Erfolg – und ein immenses Risiko.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/095cee060989/w5024h2625x0y266o/202501/43601.0.787782976/mit-gebruell-gegen-die.webp"
+        },
+        {
+          "title": "Union und AfD: Schwarz-blau – ist das Deutschlands Zukunft?",
+          "url": "https://www.faz.net/podcasts/loehr-pennekamp/afd-und-cdu-steuert-deutschland-auf-schwarz-blau-zu-201214316.html",
+          "summary": "AfD und CDU bekämpfen sich bis aufs Blut. Doch nach der Wahl in Sachsen-Anhalt ist die Debatte um ein Abrücken von der Brandmauer neu entfacht. Welche wirtschaftspolitischen Schnittmengen gäbe es?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/623d492880a2/w5360h2800x0y388o/202609/43601.0.2530441230/bekaempfen-sich-rhetorisch.webp"
+        },
+        {
+          "title": "CDU und CSU: Brutal, wie über Merz geredet wird",
           "url": "https://www.faz.net/aktuell/politik/inland/cdu-im-dilemma-friedrich-merz-und-der-aufstieg-der-afd-accg-201202316.html",
           "summary": "Die politischen Kräfteverhältnisse in Deutschland ändern sich in atemberaubendem Tempo. Der Kanzler und seine Partei stecken fest.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/fa08d0101a62/w3840h2006x0y277o/202609/43601.0.2522830776/bundeskanzler-friedrich-merz.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Stellvertretende CDU-Generalsekretärin Stumpp tritt zurück",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-stellvertretende-cdu-generalsekretaerin-stumpp-tritt-zurueck-faz-110093143.html",
-          "summary": "Abgeordneter Hose soll kommissarischer Nachfolger werden +++ Mecklenburg-Vorpommern: CDU-Politiker befürchten Scheitern an Fünf-Prozent-Hürde +++ CDA-Chef Radtke: Merz hat CDU zu konservativ aufgestellt +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9ec871574700/w3417h1785x0y246o/202602/43601.0.1804585178/die-bisherige-stellvertretende.webp"
-        },
-        {
-          "title": "Personalie Stumpp: Schon wieder macht Merz aus einem kleinen Problem ein großes",
-          "url": "https://www.faz.net/aktuell/politik/inland/christina-stumpp-im-fokus-wie-merz-versucht-die-cdu-umzubauen-201216933.html",
-          "summary": "Als ob das Fiasko in Sachsen-Anhalt für die CDU nicht arg genug wäre: Sogar das Auswechseln der stellvertretenden Generalsekretärin wird zur holprigen Angelegenheit.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5022775b6be9/w2861h1494x171y1096o/202609/43601.0.2522790515/es-kann-offenbar-nur-eine.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Sachsen-Anhalt: Dubiose Vereine stützen offenbar Wagenknecht-Partei BSW",
-          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-dubiose-vereine-stuetzen-offenbar-wagenknecht-partei-bsw-a-9684f5f9-a346-46ba-ad09-5a7bbe30d0f5#ref=rss",
-          "summary": "Ohne den Erfolg des BSW hätten die anderen Parteien im Landtag eine knappe Mehrheit gegen die AfD bekommen. Nach SPIEGEL-Recherchen erhielt Sahra Wagenknechts Partei im Wahlkampf Unterstützung von dubiosen Vereinen. Wer steckt dahinter?",
+          "title": "Künstliche Intelligenz: Wenn die KI Chefin ist – und der Laden Verlust macht",
+          "url": "https://www.spiegel.de/karriere/kuenstliche-intelligenz-wenn-die-ki-chefin-ist-und-der-laden-verlust-macht-a-2c21606a-00d9-4ec1-8037-ffccbf27405c#ref=rss",
+          "summary": "Ein Start-up in San Francisco hat eine KI mit einem Budget von 100. 000 Dollar und einer Ladenfläche ausgestattet. Die Bilanz nach vier Monaten: Zehntausende Dollar Verlust, Arbeitsrechtsverstöße – und zufriedene Mitarbeiter.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/88389610-c245-4ac3-9951-b30ca92d396f_w1200_r1.778_fpx37.24_fpy49.86.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/88513fb0-9ecb-4818-bb8b-c9a755ee3dac_w1200_r1.778_fpx55_fpy44.jpg"
         },
         {
-          "title": "News: Sprache der AfD, Wahl in Schweden, Neubewertung des Philosophen Diderot",
-          "url": "https://www.spiegel.de/politik/deutschland/news-sprache-der-afd-wahl-in-schweden-neubewertung-des-philosophen-diderot-a-c8ae56d0-edd3-447b-8ef6-343f565d71cf#ref=rss",
-          "summary": "Die AfD könnte die Grenzen des Sagbaren bald aus einer Regierung heraus verschieben. In Schweden greifen Rechtsextremisten nach der Macht. Und in Frankreich wankt ein Held der Aufklärung. Das ist die Lage am Samstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "9/11 im historischen Liveticker: 2000 Helfer suchen nach Überlebenden, Rudy Giuliani hofft",
+          "title": "9/11 im historischen Liveticker: Wladimir Putin ordnet in Russland Schweigeminute für Opfer von 9/11 an",
           "url": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-          "summary": "New Yorks Bürgermeister Giuliani sagt, es gebe noch Hoffnung, weitere Menschen lebend zu retten. Präsident Bush berät mit Nationalem Sicherheitsrat. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
+          "summary": "Der russische Präsident solidarisiert sich mit den USA, kurz bevor er eine Reise nach Deutschland antritt. Das Pentagon steht noch immer in Flammen. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4278ae37-7449-43c7-9fa5-debc06ca0ac9_w1200_r1.778_fpx64.31_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/16d273dd-79f8-4113-8998-2390e8106cea_w1200_r1.778_fpx53.3_fpy44.96.jpg"
+        },
+        {
+          "title": "Zahnmedizin-Hochschule DTMD: Viel Geld für einen Abschluss, der nichts wert ist?",
+          "url": "https://www.spiegel.de/start/zahnmedizin-hochschule-dtmd-viel-geld-fuer-einen-abschluss-der-nichts-wert-ist-a-74aae922-7bda-4725-863c-922f0e8c185f#ref=rss",
+          "summary": "Sie versprach Zahnärztinnen und Zahnärzten einen akademischen Abschluss. Doch die »DTMD University« war nicht das, wofür sie sich ausgab.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8e87fb91-a8b0-4753-b74f-489ba217c0ba_w1200_r1.778_fpx49_fpy47.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
-          "url": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
-          "summary": "Putin, Xi, Modi: Beim BRICS-Gipfel in Neu-Delhi treffen selbstbewusste Staatenlenker aufeinander. Bei vielen Themen liegen sie weit auseinander. Was kann das Treffen bei den globalen Krisen - von Ukraine bis Iran - bewirken? Von Lena Bodewein.",
+          "title": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html",
+          "summary": "Nach dem versuchten Drohnenanschlag auf den Flughafen Leipzig/Halle kommen immer mehr Details ans Licht. Einem Bericht zufolge führen die Ermittlungen direkt zum russischen Geheimdienst: Ein GRU-Mitarbeiter soll der Logistiker sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/777971b8-cbaa-4426-bbf6-ad045a333cbb/AAABoJAFSRk/AAABnSSvrFg/16x9-big/sicherheitskraefte-banner-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/52029c92-8d0f-4b4a-ac51-736f57ee06ff/AAABn_Da9mU/AAABnSSvrFg/16x9-big/antonov-leipzig-102.jpg?width=1280"
         },
         {
-          "title": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
-          "summary": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz 1. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
+          "title": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
+          "url": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html",
+          "summary": "US-Präsident Trump spricht von guten Beziehungen zu Nordkoreas Machthaber Kim. Doch unmittelbar nach Ende eines Manövers der USA mit Südkorea reagiert der Norden mit Raketen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9af532fb-dd0d-4417-a592-424f4b1eaa15/AAABoJC8ro0/AAABnSSvrFg/16x9-big/hafen-piraeus-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4202c5b1-6ffa-4d9b-9d9a-28ac7d64669f/AAABoJSExRo/AAABnSSvrFg/16x9-big/raketen-112.jpg?width=1280"
         },
         {
-          "title": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
-          "summary": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1. 000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands Abwehrsysteme? Buchholz und P.",
+          "title": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
+          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html",
+          "summary": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lassen könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1abac7db-9d7d-4590-bf61-32d5c9814a21/AAABmq12S8s/AAABnSSvrFg/16x9-big/drohnen-flugverkehr-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/efefc8e3-c54e-4b47-b063-d1bb3c751b8d/AAABoJRxUQI/AAABnSSvrFg/16x9-big/oelpipeline-saudi-arabien-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Straße von Hormus: USA und Iran streiten um gekaperte Unterwasserdrohne",
-          "url": "https://www.telepolis.de/article/Strasse-von-Hormus-USA-und-Iran-streiten-um-gekaperte-Unterwasserdrohne-11451134.html",
-          "summary": "Irans Revolutionsgarden melden die Erbeutung eines autonomen US-Unterwasserfahrzeugs. Das Pentagon spricht von einer defekten, älteren Drohne.",
+          "title": "Munitionslager in Bulgarien brennt: Warum der Verdacht auf Russland fällt",
+          "url": "https://www.telepolis.de/article/Munitionslager-in-Bulgarien-brennt-Warum-der-Verdacht-auf-Russland-faellt-11451271.html",
+          "summary": "Nach dem zweiten Brand bei der Rüstungsfirma EMCO binnen fünf Wochen prüfen Ermittler alle Hypothesen. Die GRU-Vorgeschichte wiegt schwer – Beweise fehlen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/1/1/4ed92e43d440533df466e95897802ef7c288899d-2000x1501-36e3dfaba549fe54.avif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/9/1/shutterstock_2731997907-28da417b066153ec.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "US-Thinktank: Präventivschläge gegen Rechenzentren in China im Gespräch",
-          "url": "https://www.telepolis.de/article/US-Thinktank-Praeventivschlaege-gegen-Rechenzentren-in-China-im-Gespraech-11450867.html",
-          "summary": "Ein CNAS-Bericht empfiehlt den USA, Militärschläge gegen chinesische Rechenzentren als Option zu prüfen. Rüstungsexperten warnen vor einem Atomkrieg.",
+          "title": "Pinochets Killer in Florida: Warum die USA ihn seit 50 Jahren schützen",
+          "url": "https://www.telepolis.de/article/Pinochets-Killer-in-Florida-Warum-die-USA-ihn-seit-50-Jahren-schuetzen-11450331.html",
+          "summary": "Der Ex-DINA-Agent war am Letelier-Attentat 1976 beteiligt. ICE nahm ihn fest, doch nach Monaten kam er frei – angeblich aus Gesundheitsgründen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/8/7/7/shutterstock_2463386913-f3ab5f7a3106a884.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/6/0/8/ice-chile_Zeichenfla__che_1-91350e77bcfb7f17.gif"
         },
         {
-          "title": "Mehr Proteine im Alter? Warum Sport der entscheidende Faktor ist",
-          "url": "https://www.telepolis.de/article/Mehr-Proteine-im-Alter-Warum-Sport-der-entscheidende-Faktor-ist-11450451.html",
-          "summary": "Brauchen Ältere wirklich mehr Proteine? Eine Metaanalyse niederländischer Forscher belegt: Nur mit Sport zeigt sich ein Effekt auf die Muskelkraft",
+          "title": "Russlands Armee ist nicht am Ende, aber ihr Modell wird teurer",
+          "url": "https://www.telepolis.de/article/Russlands-Armee-ist-nicht-am-Ende-aber-ihr-Modell-wird-teurer-11450569.html",
+          "summary": "Totgesagte leben länger: Die russische Armee ist häufiges Spekulationsobjekt. Eine Analyse, warum der Krieg militärisch weitergeführt werden kann.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/6/6/8/AlvaroRT_cropped-45624e7b19e5ec2b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/7/2/7/shutterstock_2605118481-6f3ac48948d771df.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Nahost-Krieg: Irak reagiert nach Angriff auf saudische Ölpipeline",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-li.3530668",
-          "summary": "Über die Ost-West-Pipeline fließt Öl, das die blockierte Straße von Hormus nicht passieren kann. Nun wurde die Leitung angegriffen; Saudi-Arabien schaltete sie vorsorglich ab. Die Attacke kam von irakischem Staatsgebiet.",
+          "title": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-zeltvergabe-gericht-li.3508722",
+          "summary": "Nach vorläufiger Einschätzung des Bayerischen Obersten Landesgerichts ist der Antrag von Alexander Egger auf eine europaweite Ausschreibung unzulässig. Man sehe zunächst auch keinen Anlass, den Fall dem Europäischen Gerichtshof vorzulegen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/11/ae5b296c-faf1-4828-b8cf-ec10ddc2c6e1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=70%2C0%2C3360%2C1890"
+          "image": "https://www.sueddeutsche.de/2026/09/11/5a3fd901-4318-466e-9b70-3c725063380a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Gedenken an 9/11: Amerika tut sich schwer, gemeinsam zu trauern",
-          "url": "https://www.sueddeutsche.de/politik/new-york-september-gedenken-spannungen-li.3544431",
-          "summary": "Die politische Spaltung und der von einigen angefachte Hass auf Muslime überlagern die Gedenkfeier der Anschläge des 11. Präsident Trump bleibt New York fern. Dagegen zeigt der Bürgermeister eine Geste der Versöhnung.",
+          "title": "US Open im Tennis: Es gibt Ärger um Zverevs neue Aufschlag-Marotte",
+          "url": "https://www.sueddeutsche.de/sport/us-open-new-york-ballauftippen-aufschlag-li.3546277",
+          "summary": "Alexander Zverev hat sich etwas Seltsames angewöhnt: Vor dem Aufschlag tippt der Deutsche den Ball schier endlos auf. Halbfinal-Gegner Chatschanow kritisiert dies deutlich.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/11/3352e2ea-686d-4b6d-be13-d71189fdeadb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C155%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/12/3ba28eed-49d0-4d65-97a2-a1766a7c5616.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C191%2C3156%2C1775"
         },
         {
-          "title": "Newsblog zur Bundespolitik: CDU-Arbeitnehmerflügel: Merz führt die falschen Debatten",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-afd-merz-arbeitnehmer-kritik-li.3529564",
-          "summary": "„Wenn der Bundeskanzler regelmäßig das halbe Land mit bestimmten Aussagen gegen sich aufbringt, ist das kontraproduktiv“, kritisiert Dennis Radtke, der Vorsitzende des CDU-Arbeitnehmerflügels, den Kanzler.",
+          "title": "Interview mit ESA-Chef Aschbacher: „Europa wacht jetzt auf“",
+          "url": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-esa-space-x-isar-aerospace-li.3545838",
+          "summary": "Der Chef der Europäischen Weltraumagentur, Josef Aschbacher, fordert für den Weltraum klare Regeln wie im Flugverkehr und skizziert, wie durch Satellitenüberwachung Vorfälle wie in Leipzig verhindert werden könnten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/06/09/e913fd76-a15d-44c7-9e0d-1ac4f4cf4d1a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=486%2C575%2C3005%2C1690"
+          "image": "https://www.sueddeutsche.de/2023/12/28/e5929e9f-40f9-41c2-9352-0e3c3beceadb.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1350%2C759"
         }
       ]
     }
