@@ -1,22 +1,22 @@
 {
-  "generated": "2026-09-12T02:00:09.243Z",
-  "timestamp": "12.9.2026, 04:00:09",
+  "generated": "2026-09-12T06:00:08.028Z",
+  "timestamp": "12.9.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Tod des Milliardärs: Kühnes letzter Wille",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/klaus-michael-kuehne-wie-es-nach-seinem-tod-mit-dem-firmenimperium-weitergeht-201216651.html",
-          "summary": "Der verstorbene Unternehmer hat die Macht über sein Milliardenerbe bewusst verteilt. Drei Vertraute halten einander in Schach. Sie sollen für eine Balance zwischen den Interessen der Kühne-Stiftung und des Firmenimperiums sorgen.",
+          "title": "CDU und CSU: Eine Stimmung im Land, auf die Merz keine Antwort findet",
+          "url": "https://www.faz.net/aktuell/politik/inland/cdu-im-dilemma-friedrich-merz-und-der-aufstieg-der-afd-accg-201202316.html",
+          "summary": "Die politischen Kräfteverhältnisse in Deutschland ändern sich in atemberaubendem Tempo. Der Kanzler und seine Partei stecken fest.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/93d816db281d/w5851h3057x0y709o/202001/43601.0.2465882593/in-seinem-hotel-the-fontenay.webp"
+          "image": "https://media0.faz.net/image/w1200h627/fa08d0101a62/w3840h2006x0y277o/202609/43601.0.2522830776/bundeskanzler-friedrich-merz.webp"
         },
         {
           "title": "Deutschland-Liveblog: Stellvertretende CDU-Generalsekretärin Stumpp tritt zurück",
           "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-stellvertretende-cdu-generalsekretaerin-stumpp-tritt-zurueck-faz-110093143.html",
-          "summary": "Abgeordneter Hose soll kommissarischer Nachfolger werden +++ CDA-Chef Radtke: Merz hat CDU zu konservativ aufgestellt +++ Prien will Einschränkungen bei Social Media schnell beschließen +++ alle Entwicklungen im Liveblog",
+          "summary": "Abgeordneter Hose soll kommissarischer Nachfolger werden +++ Mecklenburg-Vorpommern: CDU-Politiker befürchten Scheitern an Fünf-Prozent-Hürde +++ CDA-Chef Radtke: Merz hat CDU zu konservativ aufgestellt +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/9ec871574700/w3417h1785x0y246o/202602/43601.0.1804585178/die-bisherige-stellvertretende.webp"
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Nadelöhr Bab al-Mandab: Droht im Nahen Osten die nächste Seeblockade?",
-          "url": "https://www.spiegel.de/ausland/nadeloehr-bab-al-mandab-droht-im-nahen-osten-die-naechste-seeblockade-a-48abe99c-0a7a-41b6-a262-57bacb6c2374#ref=rss",
-          "summary": "Der Bürgerkrieg im Jemen eskaliert, die Huthi-Miliz rückt auf strategisch entscheidende Orte vor. Das könnte dramatische Auswirkungen auf den Welthandel haben.",
+          "title": "Sachsen-Anhalt: Dubiose Vereine stützen offenbar Wagenknecht-Partei BSW",
+          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-dubiose-vereine-stuetzen-offenbar-wagenknecht-partei-bsw-a-9684f5f9-a346-46ba-ad09-5a7bbe30d0f5#ref=rss",
+          "summary": "Ohne den Erfolg des BSW hätten die anderen Parteien im Landtag eine knappe Mehrheit gegen die AfD bekommen. Nach SPIEGEL-Recherchen erhielt Sahra Wagenknechts Partei im Wahlkampf Unterstützung von dubiosen Vereinen. Wer steckt dahinter?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f8bc82b9-e016-41a3-8dc3-0cfcb43fe2cc_w1200_r1.778_fpx44.47_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/88389610-c245-4ac3-9951-b30ca92d396f_w1200_r1.778_fpx37.24_fpy49.86.jpg"
         },
         {
-          "title": "9/11 im historischen Liveticker: George W. Bush kündigt Vergeltung an – die USA hätten ihre Feinde immer bezwungen, »und wir werden das auch diesmal«",
+          "title": "News: Sprache der AfD, Wahl in Schweden, Neubewertung des Philosophen Diderot",
+          "url": "https://www.spiegel.de/politik/deutschland/news-sprache-der-afd-wahl-in-schweden-neubewertung-des-philosophen-diderot-a-c8ae56d0-edd3-447b-8ef6-343f565d71cf#ref=rss",
+          "summary": "Die AfD könnte die Grenzen des Sagbaren bald aus einer Regierung heraus verschieben. In Schweden greifen Rechtsextremisten nach der Macht. Und in Frankreich wankt ein Held der Aufklärung. Das ist die Lage am Samstagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
+          "title": "9/11 im historischen Liveticker: 2000 Helfer suchen nach Überlebenden, Rudy Giuliani hofft",
           "url": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-          "summary": "Der US-Präsident will die Verantwortlichen für die Terrorattacke zur Rechenschaft ziehen. Einsatzkräfte kämpfen weiter um die Leben der Verschütteten. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
+          "summary": "New Yorks Bürgermeister Giuliani sagt, es gebe noch Hoffnung, weitere Menschen lebend zu retten. Präsident Bush berät mit Nationalem Sicherheitsrat. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/46c92da7-2bde-4cc2-b0cd-564c322e8ddd_w1200_r1.778_fpx29.97_fpy54.98.jpg"
-        },
-        {
-          "title": "USA: Wie Donald Trump eine Blamage der Republikaner bei den Midterms abwenden will",
-          "url": "https://www.spiegel.de/ausland/usa-wie-donald-trump-eine-blamage-der-republikaner-bei-den-midterms-abwenden-will-a-617b2fbc-1f9d-4c35-96c9-a6895ab2bc02#ref=rss",
-          "summary": "Den Republikanern droht bei den Kongresswahlen im November eine Schlappe. Bei dem Sonderparteitag in Dallas wird deutlich, auf welche Strategie die GOP setzt – und dass manche darin ein Risiko sehen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c0f90763-edb6-4129-afa2-8c8827383039_w1200_r1.778_fpx30_fpy52.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4278ae37-7449-43c7-9fa5-debc06ca0ac9_w1200_r1.778_fpx64.31_fpy44.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
-          "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden nach vorläufigen Angaben verletzt, darunter eine Frau schwer. An Bord des Verkehrsmittels waren rund 180 Passagiere.",
+          "title": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
+          "url": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
+          "summary": "Putin, Xi, Modi: Beim BRICS-Gipfel in Neu-Delhi treffen selbstbewusste Staatenlenker aufeinander. Bei vielen Themen liegen sie weit auseinander. Was kann das Treffen bei den globalen Krisen - von Ukraine bis Iran - bewirken? Von Lena Bodewein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/04b775e7-3eb6-4544-92d6-1ec730ee1787/AAABoJJhmhc/AAABnSSvrFg/16x9-big/frankreich-polizei-126.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/777971b8-cbaa-4426-bbf6-ad045a333cbb/AAABoJAFSRk/AAABnSSvrFg/16x9-big/sicherheitskraefte-banner-104.jpg?width=1280"
         },
         {
-          "title": "Seenotretter in England als Ziel rechter Anfeindung",
-          "url": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
-          "summary": "Gegen die Ankunft von Flüchtlingen über den Ärmelkanal haben in England Hunderte protestiert. Nun wurde bekannt, dass sie Seenotretter angefeindet haben. Experten sehen eine neue Form rechter Mobilisierung. Von Franziska Hoppen.",
+          "title": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
+          "summary": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz 1. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4179c15e-37b5-4ebc-ac55-e521018c1fc2/AAABoJGuc-M/AAABnSSvrFg/16x9-big/portsmouth-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9af532fb-dd0d-4417-a592-424f4b1eaa15/AAABoJC8ro0/AAABnSSvrFg/16x9-big/hafen-piraeus-102.jpg?width=1280"
         },
         {
-          "title": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
-          "summary": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die erste, die zahlen muss.",
+          "title": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
+          "summary": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1. 000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands Abwehrsysteme? Buchholz und P.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b6b9e86a-03fb-4ec4-a8b0-2e3804e4397d/AAABoJFxCuE/AAABnSSvrFg/16x9-big/koektuerk-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1abac7db-9d7d-4590-bf61-32d5c9814a21/AAABmq12S8s/AAABnSSvrFg/16x9-big/drohnen-flugverkehr-100.jpg?width=1280"
         }
       ]
     },
@@ -122,9 +122,9 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Nahost-Krieg: Saudi-Arabien schaltet nach Angriffen wichtige Pipeline ab",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-li.3530668",
-          "summary": "Die Anlage hilft dabei Öl zu transportieren, was die blockierte Straße von Hormus nicht passieren kann. Nun wurde sie offenbar von Drohnen getroffen.",
+          "title": "Newsblog zum Nahost-Krieg: Irak reagiert nach Angriff auf saudische Ölpipeline",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-li.3530668",
+          "summary": "Über die Ost-West-Pipeline fließt Öl, das die blockierte Straße von Hormus nicht passieren kann. Nun wurde die Leitung angegriffen; Saudi-Arabien schaltete sie vorsorglich ab. Die Attacke kam von irakischem Staatsgebiet.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/11/ae5b296c-faf1-4828-b8cf-ec10ddc2c6e1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=70%2C0%2C3360%2C1890"
