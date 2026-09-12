@@ -1,10 +1,26 @@
 {
-  "generated": "2026-09-12T14:00:08.765Z",
-  "timestamp": "12.9.2026, 16:00:08",
+  "generated": "2026-09-12T18:00:08.835Z",
+  "timestamp": "12.9.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Fünf Jahre Taliban: Was aus Kundus geworden ist",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-sich-kundus-unter-den-taliban-veraendert-hat-201172521.html",
+          "summary": "Unsere Autorin lebte zwei Jahre in Kundus, wo die Deutschen ein besseres Afghanistan aufbauen wollten. Jetzt hat sie die Stadt erstmals unter Talibanherrschaft besucht. Einiges hat sie überrascht.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/63e022a882ac/w4032h2106x0y532o/202609/43601.0.2501332758/unternehmenssprecher-nasir.webp"
+        },
+        {
+          "title": "F.A.Z. MACHTPROBE: 25 Jahre 9/11: Was der Krieg gegen Terror gekostet hat",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-machtprobe/25-jahre-9-11-was-der-krieg-gegen-den-terror-gekostet-hat-201214941.html",
+          "summary": "Vor einem Vierteljahrhundert beging eine Gruppe von Terroristen den schwersten Anschlag der US-Geschichte. Die Folgen sind bis heute spürbar.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/08c141ab45cb/w8584h4485x0y618o/202609/43601.0.2533542244/lichtinstallation-zum-gedenken.webp"
+        },
         {
           "title": "Gerupfte Reformen: Was bleibt von den schwarz-roten Plänen noch übrig?",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundesregierung-nach-sachsen-anhalt-wahl-was-bleibt-von-reformen-noch-uebrig-accg-201216129.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ad65050b8aed/w4600h2403x0y551o/202609/43601.0.2529994924/bloss-nicht-hingucken.webp"
-        },
-        {
-          "title": "CDU und CSU: Brutal, wie über Merz geredet wird",
-          "url": "https://www.faz.net/aktuell/politik/inland/cdu-im-dilemma-friedrich-merz-und-der-aufstieg-der-afd-accg-201202316.html",
-          "summary": "Die politischen Kräfteverhältnisse in Deutschland ändern sich in atemberaubendem Tempo. Der Kanzler und seine Partei stecken fest.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fa08d0101a62/w3840h2006x0y277o/202609/43601.0.2522830776/bundeskanzler-friedrich-merz.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Klingbeil nach CDU-Angriff auf Bas: „Was soll das?“",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-klingbeil-nach-angriffen-auf-bas-was-soll-das-faz-110093143.html",
-          "summary": "SPD-Chef fordert Union zu besserem Miteinander auf +++ Unionsfraktionchef hält Bundeszwang gegen AfD-Landesregierung für möglich +++ Mecklenburg-Vorpommern: CDU-Politiker befürchten Scheitern an Fünfprozenthürde +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6e33de07a016/w2904h1517x0y111o/202609/43601.0.2541602204/der-ko-vorsitzende-der-spd.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Wahl in Schweden: Die Schwedendemokraten greifen nach der Macht",
-          "url": "https://www.spiegel.de/ausland/wahl-in-schweden-die-schwedendemokraten-greifen-nach-der-macht-a-6d0182d3-e78e-4482-a81d-0f019dac113c#ref=rss",
-          "summary": "Seit vier Jahren lassen sich Schwedens Konservative von den Schwedendemokraten dulden. Heute dominieren die Rechtspopulisten das Land, ohne Verantwortung übernehmen zu müssen. Nach der Wahl am Sonntag dürften sie noch mehr zu sagen haben.",
+          "title": "Trier, Kempten, Worms, Heuneburg: Wo liegt die älteste Stadt Deutschlands?",
+          "url": "https://www.spiegel.de/wissenschaft/trier-kempten-worms-heuneburg-wo-liegt-die-aelteste-stadt-deutschlands-a-0fea2647-cc1d-4f94-ad2f-217f505c7bcf#ref=rss",
+          "summary": "Trier an der Mosel behauptet, Deutschlands älteste Stadt zu sein. Nun gibt es neue Forschungsergebnisse: Gleich mehrere Orte beanspruchen den begehrten Titel für sich. Die Kandidaten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e8fe7a9b-8b8b-4950-b039-4300b9f812a6_w1200_r1.778_fpx70.19_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f73037c4-125c-429c-ae41-4edd7375f2e7_w1200_r1.778_fpx50_fpy50.jpg"
         },
         {
-          "title": "9/11 im historischen Liveticker: Taliban-Regierung bietet den USA Gespräche über Auslieferung Osama bin Ladens an",
+          "title": "9/11 im historischen Liveticker: Genelle Guzman-McMillan, letzte Überlebende, von 9/11 ist gerettet",
           "url": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-          "summary": "Rund 24 Stunden nach dem Terror in den USA verdichten sich Hinweise, das Al-Qaida-Führer Osama bin Laden der Drahtzieher ist. Rettungskräfte fanden bislang neun Überlebende. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
+          "summary": "Stundenlang versuchen Rettungskräfte, zu Genelle Guzman-McMillan vorzudringen. Jetzt ist die Bergung geglückt. Der Terror des 11. September 2001 im Minutenprotokoll.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a2b7eb94-bf39-4230-a9f5-284d934ad83e_w1200_r1.778_fpx45.6_fpy49.86.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/88099dfd-352e-45d1-a4f6-2c5e398e0638_w1200_r1.778_fpx45_fpy23.jpg"
         },
         {
-          "title": "Berlin Abgeordnetenhauswahl 2026: Diese Koalitionen sind möglich",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-abgeordnetenhauswahl-2026-diese-koalitionen-sind-moeglich-a-5bbb1f41-9af9-47da-bd70-89a193047878#ref=rss",
-          "summary": "In Berlin zeichnet sich bei der Abgeordnetenhauswahl ein Kopf-an-Kopf-Rennen ab. Laut neuesten Umfragen sind vor allem zwei Koalitionen denkbar. Testen Sie mit unserem Rechner, wann welche Regierungsoption möglich wird.",
+          "title": "G20-Gipfel in den USA: Wolodymyr Selenskyj zu Treffen mit Wladimir Putin bereit, Kreml ziert sich",
+          "url": "https://www.spiegel.de/ausland/g20-gipfel-in-den-usa-wolodymir-selenskyj-zu-treffen-mit-wladimir-putin-bereit-kreml-ziert-sich-a-df95a667-e846-44ce-8865-6958c5e4264d#ref=rss",
+          "summary": "Der ukrainische Präsident Selenskyj würde mit Putin am Rande des G20-Gipfels gern verhandeln. Der nächste findet in den USA statt, Gastgeber Trump fände die Teilnahme Russlands auch »sehr hilfreich«. Moskau aber zögert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d45f96e8-196a-4512-becd-32df1539677b_w1200_r1.778_fpx50_fpy44.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/39431656-9d80-4b55-8026-1a9c24171102_w1200_r1.778_fpx50.69_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
-          "summary": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin gelegen - ihr Industrie-Erbe nutzt. Von J. Piwon.",
+          "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
+          "url": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
+          "summary": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfressort. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema. Von Mareike Aden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d7b04f2a-66a5-4f38-a81f-e5b7fcb485aa/AAABoGvwT84/AAABnSSvrFg/16x9-big/veritas-werk-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dfad6621-0420-409f-89a2-ef5809c01562/AAABoJbDAFU/AAABnSSvrFg/16x9-big/trump-golfplatz-100.jpg?width=1280"
         },
         {
-          "title": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
-          "summary": "Im kommenden Winter brauchen Millionen Haushalte wieder Gas für ihre Heizung - und die Sorge ist groß, dass dieses Jahr nicht genug Gas eingespeichert wurde. Die Bundesnetzagentur gibt nun Entwarnung: Die Speicher seien voll genug. Doch die Preise könnten steigen.",
+          "title": "Droht der nächste Ölpreis-Schock?",
+          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
+          "summary": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt Saudi-Arabien hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0173b96b-ffef-419e-afcf-6e7714cce86c/AAABoJXHNdk/AAABnSSvrFg/16x9-big/gasspeicher-278.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7c2e9701-e819-4725-a2ab-852b76369d8d/AAABoJaZ5y4/AAABnSSvrFg/16x9-big/pipeline-saudi-arabien-102.jpg?width=1280"
         },
         {
-          "title": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
-          "url": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
-          "summary": "Auf dem Treffen der BRICS-Länder in Neu-Delhi hat Chinas Präsident Xi mehr Einsatz der Schwellenländer für Frieden im Nahen Osten gefordert. Man müsse \"auf der richtigen Seite der Geschichte\" stehen, sagte er.",
+          "title": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
+          "url": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
+          "summary": "Sabotage, Drohungen, Drohnen-Vorfälle: Wegen der wachsenden Gefahr durch hybride Angriffe rücken die europäischen Partner zusammen und versuchen, Härte zu zeigen. Kritiker vermissen jedoch ein gesamteuropäisches Konzept. Von Olga Chladkova.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e0bb5923-ee64-4740-9e39-8774c3453fc9/AAABoJW7M4c/AAABnSSvrFg/16x9-big/brics-xi-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f18a1b17-f214-4f9a-8406-16ff34b6e3a2/AAABk0Tgz7w/AAABnSSvrFg/16x9-big/awacs-flugzeug-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "2 Billionen Dollar Bewertung: Nvidia will bei Anthropic-IPO groß einsteigen",
+          "url": "https://www.telepolis.de/article/2-Billionen-Dollar-Bewertung-Nvidia-will-bei-Anthropic-IPO-gross-einsteigen-11451411.html",
+          "summary": "Chiphersteller investiert Milliarden in seinen eigenen Kunden – und könnte damit den größten KI-Börsengang aller Zeiten befeuern. Die Verflechtungen sind enorm.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/1/6/6/shutterstock_2705357347-238b9871a406059e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Die Indus-Zivilisation: Hochkultur und Wohlstand ohne Paläste?",
+          "url": "https://www.telepolis.de/article/Die-Indus-Zivilisation-Hochkultur-und-Wohlstand-ohne-Palaeste-11451279.html",
+          "summary": "Vor 4.000 Jahren entstand in Südasien eine rätselhafte Hochkultur. Ihre Städte hatten Kanalisation und Stadtplanung – aber keine Prachtbauten.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/9/5/Amin_Rajput-7725a3f8678d9750.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Maschinenbauer verlagern Forschung ins Ausland",
           "url": "https://www.telepolis.de/article/Maschinenbauer-verlagern-Forschung-ins-Ausland-11448572.html",
           "summary": "Vier von zehn Unternehmen entwickeln neue Produkte außerhalb Deutschlands. Nachdem die Produktion ins Ausland verlagert wurde, folgt jetzt die Entwicklung.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/2/7/1/1/abwanderung-01-d5c88432162379d2.gif"
-        },
-        {
-          "title": "Leuna, Buna, Bitterfeld: Wo die Zukunft von gestern noch arbeitet",
-          "url": "https://www.telepolis.de/article/Leuna-Buna-Bitterfeld-Wo-die-Zukunft-von-gestern-noch-arbeitet-11451245.html",
-          "summary": "Im Chemiedreieck verdichten sich deutsche Industriegeschichte, gescheiterte Großprojekte und neue Hoffnungen. Eine Reise durch Sachsen-Anhalt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/7/8/Master_Bartels-0c13814fc7a732da.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Munitionslager in Bulgarien brennt: Warum der Verdacht auf Russland fällt",
-          "url": "https://www.telepolis.de/article/Munitionslager-in-Bulgarien-brennt-Warum-der-Verdacht-auf-Russland-faellt-11451271.html",
-          "summary": "Nach dem zweiten Brand bei der Rüstungsfirma EMCO binnen fünf Wochen prüfen Ermittler alle Hypothesen. Die GRU-Vorgeschichte wiegt schwer – Beweise fehlen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/9/1/shutterstock_2731997907-28da417b066153ec.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA-Newsblog: Trump will ein vereintes Irland",
-          "url": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
-          "summary": "Trump sagte, er sei überzeugt, dass ein vereintes Irland irgendwann Realität werden würde und sprach sich dafür aus, die Wiedervereinigung möglichst zeitnah voranzubringen.",
+          "title": "Basketball-WM: Frankreich zeigt Deutschland die Grenzen auf",
+          "url": "https://www.sueddeutsche.de/sport/basketball-wm-frauen-wm-deutschland-halbfinale-li.3546385",
+          "summary": "Nach dem furiosen Sieg gegen Belgien ist Frankreich beim 64:86 im WM-Halbfinale zu stark für Deutschlands Basketballerinnen. Der größte Erfolg einer deutschen Mannschaft bei einer Weltmeisterschaft ist trotzdem noch möglich.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/12/5f69aa78-f435-41f0-bee8-65580344537c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/12/641af532-1cc2-4bf1-bb97-652579850ca4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C256%2C3313%2C1864"
         },
         {
-          "title": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-zeltvergabe-gericht-li.3508722",
-          "summary": "Nach vorläufiger Einschätzung des Bayerischen Obersten Landesgerichts ist der Antrag von Alexander Egger auf eine europaweite Ausschreibung unzulässig. Man sehe zunächst auch keinen Anlass, den Fall dem Europäischen Gerichtshof vorzulegen.",
+          "title": "Bundesliga: Kleindienst fliegt an Gladbachs Katastrophentag",
+          "url": "https://www.sueddeutsche.de/sport/spieltag-bundesliga-gladbach-ergebnis-kleindienst-li.3546413",
+          "summary": "Die Borussia geht 0:5 beim neuen Tabellenführer in Freiburg unter. Felix Nmecha gelingt gegen Paderborn ein Traumtor, Hoffenheim besiegt den VfB Stuttgart. Das Wichtigste zum Spieltag.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/11/5a3fd901-4318-466e-9b70-3c725063380a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/12/902bc91e-acf1-4204-ba5d-a2489150ac53.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C63%2C1827%2C1028"
         },
         {
-          "title": "US Open im Tennis: Es gibt Ärger um Zverevs neue Aufschlag-Marotte",
-          "url": "https://www.sueddeutsche.de/sport/us-open-new-york-ballauftippen-aufschlag-li.3546277",
-          "summary": "Alexander Zverev hat sich etwas Seltsames angewöhnt: Vor dem Aufschlag tippt der Deutsche den Ball schier endlos auf. Halbfinal-Gegner Chatschanow kritisiert dies deutlich.",
+          "title": "Demo für AfD-Verbotsverfahren: „Wie lange wollen wir noch zuschauen?“",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-demo-pruef-demo-anti-afd-krause-ludwigstrasse-li.3545446",
+          "summary": "Das Wahlergebnis in Sachsen-Anhalt hat viele Menschen erschüttert, doch ihren Mut und ihren Optimismus wollen sie sich offenbar nicht nehmen lassen. Tausende demonstrieren in München für ein AfD-Verbotsfahren. Es sei höchste Zeit, sagt OB Dominik Krause unter dem Applaus der Menge.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/12/3ba28eed-49d0-4d65-97a2-a1766a7c5616.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C191%2C3156%2C1775"
+          "image": "https://www.sueddeutsche.de/2026/09/12/4524c64a-8022-48e3-852c-dba06884e22f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
         }
       ]
     }
