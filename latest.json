@@ -1,39 +1,47 @@
 {
-  "generated": "2026-09-12T18:00:08.835Z",
-  "timestamp": "12.9.2026, 20:00:08",
+  "generated": "2026-09-12T22:00:07.550Z",
+  "timestamp": "13.9.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Fünf Jahre Taliban: Was aus Kundus geworden ist",
-          "url": "https://www.faz.net/aktuell/politik/ausland/wie-sich-kundus-unter-den-taliban-veraendert-hat-201172521.html",
-          "summary": "Unsere Autorin lebte zwei Jahre in Kundus, wo die Deutschen ein besseres Afghanistan aufbauen wollten. Jetzt hat sie die Stadt erstmals unter Talibanherrschaft besucht. Einiges hat sie überrascht.",
+          "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Bremse und will externe Prüfer in der Firma",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-chef-amodei-fordert-ki-bremse-musk-und-altmann-stimmen-zu-201221272.html",
+          "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren – und mit gutem Beispiel vorangehen. Seine Wettbewerber Sam Altman und Elon Musk stimmen ihm zu.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/63e022a882ac/w4032h2106x0y532o/202609/43601.0.2501332758/unternehmenssprecher-nasir.webp"
+          "image": "https://media0.faz.net/image/w1200h627/52081a410eee/w5056h2641x0y121o/202609/43601.0.2544396640/warnt-dass-ki-agenten-in-sechs.webp"
         },
         {
-          "title": "F.A.Z. MACHTPROBE: 25 Jahre 9/11: Was der Krieg gegen Terror gekostet hat",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-machtprobe/25-jahre-9-11-was-der-krieg-gegen-den-terror-gekostet-hat-201214941.html",
-          "summary": "Vor einem Vierteljahrhundert beging eine Gruppe von Terroristen den schwersten Anschlag der US-Geschichte. Die Folgen sind bis heute spürbar.",
+          "title": "Business-Ticker: OpenAI-Chef Altman: Börsengang nicht mehr in diesem Jahr",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-chef-altman-boersengang-nicht-mehr-in-diesem-jahr-faz-200452404.html",
+          "summary": "„Man wäre schlecht beraten, genau jetzt an die Börse zu gehen“, so Altman +++ Debatte über verlangsamte Entwicklung von KI +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Neuigkeiten im Unternehmen-Liveblog.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9219c2738e4b/w5000h2612x0y274o/202609/43601.0.2545725146/sam-altman-mitgruender-und.webp"
+        },
+        {
+          "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+          "summary": "Wir erleben einen epochalen Umbruch. Der Übergang in die KI-Ära wird zu den unruhigsten Phasen der Menschheitsgeschichte gehören. Bislang bereiten wir uns nicht ausreichend darauf vor. Was uns droht – und was zu tun ist.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/08c141ab45cb/w8584h4485x0y618o/202609/43601.0.2533542244/lichtinstallation-zum-gedenken.webp"
-        },
-        {
-          "title": "Gerupfte Reformen: Was bleibt von den schwarz-roten Plänen noch übrig?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundesregierung-nach-sachsen-anhalt-wahl-was-bleibt-von-reformen-noch-uebrig-accg-201216129.html",
-          "summary": "Der Wahl-Schock in Sachsen-Anhalt verunsichert die Bundesregierung. An zwei Projekten wachsen die Zweifel.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ad65050b8aed/w4600h2403x0y551o/202609/43601.0.2529994924/bloss-nicht-hingucken.webp"
+          "image": "https://media0.faz.net/image/w1200h627/aa7fb71c3fc7/w4911h2565x0y364o/202602/43601.0.1796871408/microsoft-mitgruender-bill.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
+          "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers OpenAI wird in diesem Jahr nicht stattfinden. Firmenchef Sam Altman begründet dies mit der aktuellen Debatte über die Sicherheit von künstlicher Intelligenz.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/5af5045c-5b18-442a-a324-d3fd3d6d4d25_w1200_r1.778_fpx24_fpy86.jpg"
+        },
         {
           "title": "Trier, Kempten, Worms, Heuneburg: Wo liegt die älteste Stadt Deutschlands?",
           "url": "https://www.spiegel.de/wissenschaft/trier-kempten-worms-heuneburg-wo-liegt-die-aelteste-stadt-deutschlands-a-0fea2647-cc1d-4f94-ad2f-217f505c7bcf#ref=rss",
@@ -43,26 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/f73037c4-125c-429c-ae41-4edd7375f2e7_w1200_r1.778_fpx50_fpy50.jpg"
         },
         {
-          "title": "9/11 im historischen Liveticker: Genelle Guzman-McMillan, letzte Überlebende, von 9/11 ist gerettet",
-          "url": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-          "summary": "Stundenlang versuchen Rettungskräfte, zu Genelle Guzman-McMillan vorzudringen. Jetzt ist die Bergung geglückt. Der Terror des 11. September 2001 im Minutenprotokoll.",
+          "title": "Markus Söder springt Friedrich Merz bei: CSU-Chef schließt Kanzlersturz aus",
+          "url": "https://www.spiegel.de/politik/deutschland/markus-soeder-springt-friedrich-merz-bei-csu-chef-schliesst-kanzlersturz-aus-a-d2bab5fb-cb69-41b2-a1d8-f3a1868fdd29#ref=rss",
+          "summary": "Rebelliert die Union gegen Friedrich Merz? Von der CSU drohe dem Kanzler keine Gefahr, sagt Bayerns Ministerpräsident Markus Söder. Für die CDU hingegen könne er nicht sprechen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/88099dfd-352e-45d1-a4f6-2c5e398e0638_w1200_r1.778_fpx45_fpy23.jpg"
-        },
-        {
-          "title": "G20-Gipfel in den USA: Wolodymyr Selenskyj zu Treffen mit Wladimir Putin bereit, Kreml ziert sich",
-          "url": "https://www.spiegel.de/ausland/g20-gipfel-in-den-usa-wolodymir-selenskyj-zu-treffen-mit-wladimir-putin-bereit-kreml-ziert-sich-a-df95a667-e846-44ce-8865-6958c5e4264d#ref=rss",
-          "summary": "Der ukrainische Präsident Selenskyj würde mit Putin am Rande des G20-Gipfels gern verhandeln. Der nächste findet in den USA statt, Gastgeber Trump fände die Teilnahme Russlands auch »sehr hilfreich«. Moskau aber zögert.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/39431656-9d80-4b55-8026-1a9c24171102_w1200_r1.778_fpx50.69_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c38d045b-ca20-49ee-ae67-6f7c19e42c62_w1200_r1.778_fpx49_fpy33.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
+          "url": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
+          "summary": "Eine Auszeichnung bei den Filmfestspielen in Venedig zählt für Filmschaffende zu den wichtigsten Ehrungen. In diesem Jahr ging der Goldene Löwe für den besten Film an \"Women Unknow\" von May el-Toukhy. Einen Preis gab es auch für eine Gaza-Doku.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/31436684-e028-4a99-b757-fb7ee2e8e2fa/AAABoJcWdLc/AAABnSSvrFg/16x9-big/may-el-toukhy-regie-100.jpg?width=1280"
+        },
         {
           "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
           "url": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
@@ -74,18 +82,10 @@
         {
           "title": "Droht der nächste Ölpreis-Schock?",
           "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
-          "summary": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt Saudi-Arabien hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
+          "summary": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt, Saudi-Arabien, hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/7c2e9701-e819-4725-a2ab-852b76369d8d/AAABoJaZ5y4/AAABnSSvrFg/16x9-big/pipeline-saudi-arabien-102.jpg?width=1280"
-        },
-        {
-          "title": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
-          "url": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
-          "summary": "Sabotage, Drohungen, Drohnen-Vorfälle: Wegen der wachsenden Gefahr durch hybride Angriffe rücken die europäischen Partner zusammen und versuchen, Härte zu zeigen. Kritiker vermissen jedoch ein gesamteuropäisches Konzept. Von Olga Chladkova.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f18a1b17-f214-4f9a-8406-16ff34b6e3a2/AAABk0Tgz7w/AAABnSSvrFg/16x9-big/awacs-flugzeug-100.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Demokratie: Zehntausende Menschen demonstrieren gegen Rechtsextremismus",
+          "url": "https://www.sueddeutsche.de/politik/demonstrationen-rechtsruck-berlin-hamburg-li.3546403",
+          "summary": "In zahlreichen Städten Deutschlands finden Kundgebungen für die Demokratie statt. Dabei wird auch gefordert, ein AfD- Verbotsverfahrens zu prüfen. Ein Überblick.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/12/111483b0-3132-4b3f-ac89-d2d7833ff37f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Basketball-WM: Frankreich zeigt Deutschland die Grenzen auf",
           "url": "https://www.sueddeutsche.de/sport/basketball-wm-frauen-wm-deutschland-halbfinale-li.3546385",
           "summary": "Nach dem furiosen Sieg gegen Belgien ist Frankreich beim 64:86 im WM-Halbfinale zu stark für Deutschlands Basketballerinnen. Der größte Erfolg einer deutschen Mannschaft bei einer Weltmeisterschaft ist trotzdem noch möglich.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/12/902bc91e-acf1-4204-ba5d-a2489150ac53.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C63%2C1827%2C1028"
-        },
-        {
-          "title": "Demo für AfD-Verbotsverfahren: „Wie lange wollen wir noch zuschauen?“",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-demo-pruef-demo-anti-afd-krause-ludwigstrasse-li.3545446",
-          "summary": "Das Wahlergebnis in Sachsen-Anhalt hat viele Menschen erschüttert, doch ihren Mut und ihren Optimismus wollen sie sich offenbar nicht nehmen lassen. Tausende demonstrieren in München für ein AfD-Verbotsfahren. Es sei höchste Zeit, sagt OB Dominik Krause unter dem Applaus der Menge.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/12/4524c64a-8022-48e3-852c-dba06884e22f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
         }
       ]
     }
