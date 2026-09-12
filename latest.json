@@ -1,25 +1,17 @@
 {
-  "generated": "2026-09-12T10:00:08.819Z",
-  "timestamp": "12.9.2026, 12:00:08",
+  "generated": "2026-09-12T14:00:08.765Z",
+  "timestamp": "12.9.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "bsw Sachsen-Anhalt: Die Grenzen der Methode Wagenknecht",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/bsw-in-sachsen-anhalt-was-will-sahra-wagenknecht-accg-201202334.html",
-          "summary": "Das BSW könnte in Magdeburg zum Königsmacher werden. Für Sahra Wagenknecht ist das ein großer Erfolg – und ein immenses Risiko.",
+          "title": "Gerupfte Reformen: Was bleibt von den schwarz-roten Plänen noch übrig?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundesregierung-nach-sachsen-anhalt-wahl-was-bleibt-von-reformen-noch-uebrig-accg-201216129.html",
+          "summary": "Der Wahl-Schock in Sachsen-Anhalt verunsichert die Bundesregierung. An zwei Projekten wachsen die Zweifel.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/095cee060989/w5024h2625x0y266o/202501/43601.0.787782976/mit-gebruell-gegen-die.webp"
-        },
-        {
-          "title": "Union und AfD: Schwarz-blau – ist das Deutschlands Zukunft?",
-          "url": "https://www.faz.net/podcasts/loehr-pennekamp/afd-und-cdu-steuert-deutschland-auf-schwarz-blau-zu-201214316.html",
-          "summary": "AfD und CDU bekämpfen sich bis aufs Blut. Doch nach der Wahl in Sachsen-Anhalt ist die Debatte um ein Abrücken von der Brandmauer neu entfacht. Welche wirtschaftspolitischen Schnittmengen gäbe es?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/623d492880a2/w5360h2800x0y388o/202609/43601.0.2530441230/bekaempfen-sich-rhetorisch.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ad65050b8aed/w4600h2403x0y551o/202609/43601.0.2529994924/bloss-nicht-hingucken.webp"
         },
         {
           "title": "CDU und CSU: Brutal, wie über Merz geredet wird",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/fa08d0101a62/w3840h2006x0y277o/202609/43601.0.2522830776/bundeskanzler-friedrich-merz.webp"
+        },
+        {
+          "title": "Deutschland-Liveblog: Klingbeil nach CDU-Angriff auf Bas: „Was soll das?“",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-klingbeil-nach-angriffen-auf-bas-was-soll-das-faz-110093143.html",
+          "summary": "SPD-Chef fordert Union zu besserem Miteinander auf +++ Unionsfraktionchef hält Bundeszwang gegen AfD-Landesregierung für möglich +++ Mecklenburg-Vorpommern: CDU-Politiker befürchten Scheitern an Fünfprozenthürde +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/6e33de07a016/w2904h1517x0y111o/202609/43601.0.2541602204/der-ko-vorsitzende-der-spd.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Künstliche Intelligenz: Wenn die KI Chefin ist – und der Laden Verlust macht",
-          "url": "https://www.spiegel.de/karriere/kuenstliche-intelligenz-wenn-die-ki-chefin-ist-und-der-laden-verlust-macht-a-2c21606a-00d9-4ec1-8037-ffccbf27405c#ref=rss",
-          "summary": "Ein Start-up in San Francisco hat eine KI mit einem Budget von 100. 000 Dollar und einer Ladenfläche ausgestattet. Die Bilanz nach vier Monaten: Zehntausende Dollar Verlust, Arbeitsrechtsverstöße – und zufriedene Mitarbeiter.",
+          "title": "Wahl in Schweden: Die Schwedendemokraten greifen nach der Macht",
+          "url": "https://www.spiegel.de/ausland/wahl-in-schweden-die-schwedendemokraten-greifen-nach-der-macht-a-6d0182d3-e78e-4482-a81d-0f019dac113c#ref=rss",
+          "summary": "Seit vier Jahren lassen sich Schwedens Konservative von den Schwedendemokraten dulden. Heute dominieren die Rechtspopulisten das Land, ohne Verantwortung übernehmen zu müssen. Nach der Wahl am Sonntag dürften sie noch mehr zu sagen haben.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/88513fb0-9ecb-4818-bb8b-c9a755ee3dac_w1200_r1.778_fpx55_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e8fe7a9b-8b8b-4950-b039-4300b9f812a6_w1200_r1.778_fpx70.19_fpy45.jpg"
         },
         {
-          "title": "9/11 im historischen Liveticker: Wladimir Putin ordnet in Russland Schweigeminute für Opfer von 9/11 an",
+          "title": "9/11 im historischen Liveticker: Taliban-Regierung bietet den USA Gespräche über Auslieferung Osama bin Ladens an",
           "url": "https://www.spiegel.de/ausland/9-11-im-historischen-liveticker-george-w-bush-kuendigt-vergeltung-an-die-usa-haetten-ihre-feinde-immer-bezwungen-und-wir-werden-das-auch-diesmal-a-90101f5e-8ae8-42f4-b752-fd4efd297ae5#ref=rss",
-          "summary": "Der russische Präsident solidarisiert sich mit den USA, kurz bevor er eine Reise nach Deutschland antritt. Das Pentagon steht noch immer in Flammen. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
+          "summary": "Rund 24 Stunden nach dem Terror in den USA verdichten sich Hinweise, das Al-Qaida-Führer Osama bin Laden der Drahtzieher ist. Rettungskräfte fanden bislang neun Überlebende. Dieser Liveblog rekonstruiert den Terroranschlag vom 11. September 2001.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/16d273dd-79f8-4113-8998-2390e8106cea_w1200_r1.778_fpx53.3_fpy44.96.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a2b7eb94-bf39-4230-a9f5-284d934ad83e_w1200_r1.778_fpx45.6_fpy49.86.jpg"
         },
         {
-          "title": "Zahnmedizin-Hochschule DTMD: Viel Geld für einen Abschluss, der nichts wert ist?",
-          "url": "https://www.spiegel.de/start/zahnmedizin-hochschule-dtmd-viel-geld-fuer-einen-abschluss-der-nichts-wert-ist-a-74aae922-7bda-4725-863c-922f0e8c185f#ref=rss",
-          "summary": "Sie versprach Zahnärztinnen und Zahnärzten einen akademischen Abschluss. Doch die »DTMD University« war nicht das, wofür sie sich ausgab.",
+          "title": "Berlin Abgeordnetenhauswahl 2026: Diese Koalitionen sind möglich",
+          "url": "https://www.spiegel.de/politik/deutschland/berlin-abgeordnetenhauswahl-2026-diese-koalitionen-sind-moeglich-a-5bbb1f41-9af9-47da-bd70-89a193047878#ref=rss",
+          "summary": "In Berlin zeichnet sich bei der Abgeordnetenhauswahl ein Kopf-an-Kopf-Rennen ab. Laut neuesten Umfragen sind vor allem zwei Koalitionen denkbar. Testen Sie mit unserem Rechner, wann welche Regierungsoption möglich wird.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8e87fb91-a8b0-4753-b74f-489ba217c0ba_w1200_r1.778_fpx49_fpy47.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d45f96e8-196a-4512-becd-32df1539677b_w1200_r1.778_fpx50_fpy44.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html",
-          "summary": "Nach dem versuchten Drohnenanschlag auf den Flughafen Leipzig/Halle kommen immer mehr Details ans Licht. Einem Bericht zufolge führen die Ermittlungen direkt zum russischen Geheimdienst: Ein GRU-Mitarbeiter soll der Logistiker sein.",
+          "title": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
+          "summary": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin gelegen - ihr Industrie-Erbe nutzt. Von J. Piwon.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/52029c92-8d0f-4b4a-ac51-736f57ee06ff/AAABn_Da9mU/AAABnSSvrFg/16x9-big/antonov-leipzig-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d7b04f2a-66a5-4f38-a81f-e5b7fcb485aa/AAABoGvwT84/AAABnSSvrFg/16x9-big/veritas-werk-100.jpg?width=1280"
         },
         {
-          "title": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
-          "url": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html",
-          "summary": "US-Präsident Trump spricht von guten Beziehungen zu Nordkoreas Machthaber Kim. Doch unmittelbar nach Ende eines Manövers der USA mit Südkorea reagiert der Norden mit Raketen.",
+          "title": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
+          "summary": "Im kommenden Winter brauchen Millionen Haushalte wieder Gas für ihre Heizung - und die Sorge ist groß, dass dieses Jahr nicht genug Gas eingespeichert wurde. Die Bundesnetzagentur gibt nun Entwarnung: Die Speicher seien voll genug. Doch die Preise könnten steigen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4202c5b1-6ffa-4d9b-9d9a-28ac7d64669f/AAABoJSExRo/AAABnSSvrFg/16x9-big/raketen-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0173b96b-ffef-419e-afcf-6e7714cce86c/AAABoJXHNdk/AAABnSSvrFg/16x9-big/gasspeicher-278.jpg?width=1280"
         },
         {
-          "title": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
-          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html",
-          "summary": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lassen könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
+          "title": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
+          "url": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
+          "summary": "Auf dem Treffen der BRICS-Länder in Neu-Delhi hat Chinas Präsident Xi mehr Einsatz der Schwellenländer für Frieden im Nahen Osten gefordert. Man müsse \"auf der richtigen Seite der Geschichte\" stehen, sagte er.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/efefc8e3-c54e-4b47-b063-d1bb3c751b8d/AAABoJRxUQI/AAABnSSvrFg/16x9-big/oelpipeline-saudi-arabien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e0bb5923-ee64-4740-9e39-8774c3453fc9/AAABoJW7M4c/AAABnSSvrFg/16x9-big/brics-xi-100.jpg?width=1280"
         }
       ]
     },
@@ -93,34 +93,42 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Maschinenbauer verlagern Forschung ins Ausland",
+          "url": "https://www.telepolis.de/article/Maschinenbauer-verlagern-Forschung-ins-Ausland-11448572.html",
+          "summary": "Vier von zehn Unternehmen entwickeln neue Produkte außerhalb Deutschlands. Nachdem die Produktion ins Ausland verlagert wurde, folgt jetzt die Entwicklung.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/2/7/1/1/abwanderung-01-d5c88432162379d2.gif"
+        },
+        {
+          "title": "Leuna, Buna, Bitterfeld: Wo die Zukunft von gestern noch arbeitet",
+          "url": "https://www.telepolis.de/article/Leuna-Buna-Bitterfeld-Wo-die-Zukunft-von-gestern-noch-arbeitet-11451245.html",
+          "summary": "Im Chemiedreieck verdichten sich deutsche Industriegeschichte, gescheiterte Großprojekte und neue Hoffnungen. Eine Reise durch Sachsen-Anhalt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/7/8/Master_Bartels-0c13814fc7a732da.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Munitionslager in Bulgarien brennt: Warum der Verdacht auf Russland fällt",
           "url": "https://www.telepolis.de/article/Munitionslager-in-Bulgarien-brennt-Warum-der-Verdacht-auf-Russland-faellt-11451271.html",
           "summary": "Nach dem zweiten Brand bei der Rüstungsfirma EMCO binnen fünf Wochen prüfen Ermittler alle Hypothesen. Die GRU-Vorgeschichte wiegt schwer – Beweise fehlen.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/9/1/shutterstock_2731997907-28da417b066153ec.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Pinochets Killer in Florida: Warum die USA ihn seit 50 Jahren schützen",
-          "url": "https://www.telepolis.de/article/Pinochets-Killer-in-Florida-Warum-die-USA-ihn-seit-50-Jahren-schuetzen-11450331.html",
-          "summary": "Der Ex-DINA-Agent war am Letelier-Attentat 1976 beteiligt. ICE nahm ihn fest, doch nach Monaten kam er frei – angeblich aus Gesundheitsgründen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/6/0/8/ice-chile_Zeichenfla__che_1-91350e77bcfb7f17.gif"
-        },
-        {
-          "title": "Russlands Armee ist nicht am Ende, aber ihr Modell wird teurer",
-          "url": "https://www.telepolis.de/article/Russlands-Armee-ist-nicht-am-Ende-aber-ihr-Modell-wird-teurer-11450569.html",
-          "summary": "Totgesagte leben länger: Die russische Armee ist häufiges Spekulationsobjekt. Eine Analyse, warum der Krieg militärisch weitergeführt werden kann.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/7/2/7/shutterstock_2605118481-6f3ac48948d771df.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "USA-Newsblog: Trump will ein vereintes Irland",
+          "url": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
+          "summary": "Trump sagte, er sei überzeugt, dass ein vereintes Irland irgendwann Realität werden würde und sprach sich dafür aus, die Wiedervereinigung möglichst zeitnah voranzubringen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/12/5f69aa78-f435-41f0-bee8-65580344537c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
         {
           "title": "Münchner Oktoberfest: Millionen-Streit um Vergabe der Wiesnzelte",
           "url": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-zeltvergabe-gericht-li.3508722",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/12/3ba28eed-49d0-4d65-97a2-a1766a7c5616.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C191%2C3156%2C1775"
-        },
-        {
-          "title": "Interview mit ESA-Chef Aschbacher: „Europa wacht jetzt auf“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/weltraum-europa-esa-space-x-isar-aerospace-li.3545838",
-          "summary": "Der Chef der Europäischen Weltraumagentur, Josef Aschbacher, fordert für den Weltraum klare Regeln wie im Flugverkehr und skizziert, wie durch Satellitenüberwachung Vorfälle wie in Leipzig verhindert werden könnten.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2023/12/28/e5929e9f-40f9-41c2-9352-0e3c3beceadb.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1350%2C759"
         }
       ]
     }
