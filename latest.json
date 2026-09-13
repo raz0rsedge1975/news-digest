@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T02:00:15.341Z",
-  "timestamp": "13.9.2026, 04:00:15",
+  "generated": "2026-09-13T06:00:08.669Z",
+  "timestamp": "13.9.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,20 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "OpenAI verschiebt Börsengang wegen Sicherheitsbedenken",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/openai-verschiebt-boersengang-wegen-sicherheitsbedenken-a-abefa746-b504-4ecf-8f84-4a08c55f057e#ref=rss",
-          "summary": "Der mit Spannung erwartete Börsengang des ChatGPT-Entwicklers OpenAI wird in diesem Jahr nicht stattfinden. Firmenchef Sam Altman begründet dies mit der aktuellen Debatte über die Sicherheit von künstlicher Intelligenz.",
+          "title": "Anthropic, OpenAI, SpaceXAI: Eskaliert jetzt die KI-Krise?",
+          "url": "https://www.spiegel.de/wirtschaft/anthropic-openai-spacexai-eskaliert-jetzt-die-ki-krise-a-718c08cc-db04-4074-b4e7-c2b91e33617b#ref=rss",
+          "summary": "Anthropics Chef sagt, der Menschheit bleibe vielleicht nur noch ein halbes Jahr, bis die künstliche Intelligenz außer Kontrolle gerate. OpenAI verschiebt seinen Börsengang – sogar Elon Musk applaudiert. Was steckt dahinter?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5af5045c-5b18-442a-a324-d3fd3d6d4d25_w1200_r1.778_fpx24_fpy86.jpg"
-        },
-        {
-          "title": "Trier, Kempten, Worms, Heuneburg: Wo liegt die älteste Stadt Deutschlands?",
-          "url": "https://www.spiegel.de/wissenschaft/trier-kempten-worms-heuneburg-wo-liegt-die-aelteste-stadt-deutschlands-a-0fea2647-cc1d-4f94-ad2f-217f505c7bcf#ref=rss",
-          "summary": "Trier an der Mosel behauptet, Deutschlands älteste Stadt zu sein. Nun gibt es neue Forschungsergebnisse: Gleich mehrere Orte beanspruchen den begehrten Titel für sich. Die Kandidaten.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f73037c4-125c-429c-ae41-4edd7375f2e7_w1200_r1.778_fpx50_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0d40be1e-3d83-4923-b164-4053aac84a5f_w1200_r1.778_fpx42.74_fpy50.jpg"
         },
         {
           "title": "Markus Söder springt Friedrich Merz bei: CSU-Chef schließt Kanzlersturz aus",
@@ -57,6 +49,14 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c38d045b-ca20-49ee-ae67-6f7c19e42c62_w1200_r1.778_fpx49_fpy33.jpg"
+        },
+        {
+          "title": "Ukraine meldet weltweit erstes Gefecht zwischen Seedrohnen",
+          "url": "https://www.spiegel.de/ausland/ukraine-meldet-weltweit-erstes-gefecht-zwischen-seedrohnen-a-bb0b1e1c-0ac2-4ba5-8e4d-6695b4aed58a#ref=rss",
+          "summary": "»Dies ist die erste Seeschlacht in der Geschichte zwischen unbemannten Booten«: Ein Video der ukrainischen Marine soll zeigen, wie ein russisches Drohnenboot mit einem Maschinengewehr beschossen wird.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/fbf84178-42b0-4c62-93ea-2934370fd932_w1200_r1.778_fpx30_fpy54.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
-          "url": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
-          "summary": "Die Arktis wirkt wie eine Region am Rand der Welt - und wird doch immer wichtiger: militärisch und wirtschaftlich. Das sieht auch die EU so und trifft sich zu Beratungen in Finnland - auch Kanzler Merz ist dabei. Von Christina Nagel.",
+          "title": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
+          "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
+          "summary": "In Schweden wird heute ein neues Parlament gewählt. Der Ausgang ist offen: In Umfragen führen die Sozialdemokraten, doch die rechtspopulistischen Schwedendemokraten könnten so viel Einfluss erhalten wie nie zuvor. Von J. Sinram.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1c93238e-6c7b-49c6-a44c-fcc2854cbaac/AAABlgNImCI/AAABnSSvrFg/16x9-big/arktis-eis-103.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b5723a42-615f-4cfb-8ed9-b5845c7f3692/AAABoJkgSdo/AAABnSSvrFg/16x9-big/jimmie-akesson-104.jpg?width=1280"
         },
         {
-          "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
-          "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der KI-Entwicklung fordert.",
+          "title": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
+          "url": "https://www.tagesschau.de/ausland/amerika/ki-anthropic-106.html",
+          "summary": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic, und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2db14df0-c2e6-400e-9f12-32afe01fe402/AAABoJgKanY/AAABnSSvrFg/16x9-big/altman-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f0082ca5-3ee6-4dc6-8adc-996038da7786/AAABnqw8YgA/AAABnSSvrFg/16x9-big/anthropic-124.jpg?width=1280"
         },
         {
-          "title": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
-          "url": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
-          "summary": "Eine Auszeichnung bei den Filmfestspielen in Venedig zählt für Filmschaffende zu den wichtigsten Ehrungen. In diesem Jahr ging der Goldene Löwe für den besten Film an \"Women Unknow\" von May el-Toukhy. Einen Preis gab es auch für eine Gaza-Doku.",
+          "title": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
+          "summary": "Bei der Entgleisung eines Zuges in der Normandie werden mehr als 40 Menschen verletzt. Hinweise auf einen Anschlag gibt es jedoch laut Staatsanwalt nicht - damit widerspricht er der Darstellung einiger Politiker.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/31436684-e028-4a99-b757-fb7ee2e8e2fa/AAABoJcWdLc/AAABnSSvrFg/16x9-big/may-el-toukhy-regie-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ef5c910d-8b91-4496-af21-a7e4d809af4b/AAABoJimjVM/AAABnSSvrFg/16x9-big/frankreich-zug-106.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Newsblog zum Ukraine-Krieg: Selenskij-Vertrauter: Gespräche mit USA und Russland wieder im Oktober",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-usa-gespraeche-oktober-li.3524928",
+          "summary": "„Wir bereiten uns vor, auf Oktober“, sagt der Stabschef von Präsident Selenskij, Kyrylo Budanow. Damit seien Unterredungen im Dreierformat gemeint. Ein genaues Datum oder den Ort der Treffen nennt er jedoch nicht.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/01/02/577dedc9-ba7f-4cae-bfc6-dc41c8660a05.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "Newsblog zum Nahost-Krieg: Sorgen um Ölversorgung nach Angriff auf Schiff in der Straße von Hormus",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-strasse-von-hormus-li.3530668",
+          "summary": "Kurz nach der vorsorglichen Schließung der Ost-West-Pipeline gibt es erneut einen Angriff auf ein Schiff in der Straße von Hormus. Die angespannte Lage schürt Sorgen um die weltweite Ölversorgung.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/09/054e2255-3090-4d03-97e3-2c2c93691729.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+        },
+        {
           "title": "USA-Newsblog: Trump spricht sich für ein vereintes Irland aus",
           "url": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
           "summary": "Der US-Präsident hat sich zur Frage der irischen Einheit geäußert. Er sagte, er würde „ein vereintes Irland sehr begrüßen“, und prognostizierte, dass ein vereintes Irland „irgendwann kommen wird“.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/12/99ca1c8f-8221-4d3b-82d6-a4351a725fce.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1404%2C406%2C1696%2C955"
-        },
-        {
-          "title": "Künstliche Intelligenz: Bremsmanöver an der Spitze der amerikanischen KI-Branche",
-          "url": "https://www.sueddeutsche.de/medien/kuenstliche-intelligenz-openai-anthropic-altman-amodei-musk-li.3546497",
-          "summary": "In seltener Einigkeit warnen Sam Altman, Dario Amodei und Elon Musk vor den Risiken von zu viel Tempo bei der Entwicklung künstlicher Intelligenz. OpenAI verschiebt sogar seinen Börsengang.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/12/2a9ee013-b306-4532-b603-d641a3968884.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=222%2C0%2C3556%2C2000"
-        },
-        {
-          "title": "Demokratie: Zehntausende Menschen demonstrieren gegen Rechtsextremismus",
-          "url": "https://www.sueddeutsche.de/politik/demonstrationen-rechtsruck-berlin-hamburg-li.3546403",
-          "summary": "In mehreren Städten Deutschlands finden Kundgebungen für die Demokratie statt. Ein Überblick.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/12/111483b0-3132-4b3f-ac89-d2d7833ff37f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
