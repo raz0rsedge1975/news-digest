@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T22:00:07.550Z",
-  "timestamp": "13.9.2026, 00:00:07",
+  "generated": "2026-09-13T02:00:15.341Z",
+  "timestamp": "13.9.2026, 04:00:15",
   "news": [
     {
       "source": "FAZ",
@@ -8,7 +8,7 @@
         {
           "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Bremse und will externe Prüfer in der Firma",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-chef-amodei-fordert-ki-bremse-musk-und-altmann-stimmen-zu-201221272.html",
-          "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren – und mit gutem Beispiel vorangehen. Seine Wettbewerber Sam Altman und Elon Musk stimmen ihm zu.",
+          "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren und mit gutem Beispiel vorangehen. Sein Wettbewerber Sam Altman von Open AI stimmt ihm zu - und verschiebt den Börsengang.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/52081a410eee/w5056h2641x0y121o/202609/43601.0.2544396640/warnt-dass-ki-agenten-in-sechs.webp"
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
+          "url": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
+          "summary": "Die Arktis wirkt wie eine Region am Rand der Welt - und wird doch immer wichtiger: militärisch und wirtschaftlich. Das sieht auch die EU so und trifft sich zu Beratungen in Finnland - auch Kanzler Merz ist dabei. Von Christina Nagel.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/1c93238e-6c7b-49c6-a44c-fcc2854cbaac/AAABlgNImCI/AAABnSSvrFg/16x9-big/arktis-eis-103.jpg?width=1280"
+        },
+        {
+          "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
+          "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der KI-Entwicklung fordert.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2db14df0-c2e6-400e-9f12-32afe01fe402/AAABoJgKanY/AAABnSSvrFg/16x9-big/altman-104.jpg?width=1280"
+        },
+        {
           "title": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
           "url": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
           "summary": "Eine Auszeichnung bei den Filmfestspielen in Venedig zählt für Filmschaffende zu den wichtigsten Ehrungen. In diesem Jahr ging der Goldene Löwe für den besten Film an \"Women Unknow\" von May el-Toukhy. Einen Preis gab es auch für eine Gaza-Doku.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/31436684-e028-4a99-b757-fb7ee2e8e2fa/AAABoJcWdLc/AAABnSSvrFg/16x9-big/may-el-toukhy-regie-100.jpg?width=1280"
-        },
-        {
-          "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
-          "url": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
-          "summary": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfressort. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema. Von Mareike Aden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/dfad6621-0420-409f-89a2-ef5809c01562/AAABoJbDAFU/AAABnSSvrFg/16x9-big/trump-golfplatz-100.jpg?width=1280"
-        },
-        {
-          "title": "Droht der nächste Ölpreis-Schock?",
-          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
-          "summary": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt, Saudi-Arabien, hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/7c2e9701-e819-4725-a2ab-852b76369d8d/AAABoJaZ5y4/AAABnSSvrFg/16x9-big/pipeline-saudi-arabien-102.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA-Newsblog: Trump spricht sich für ein vereintes Irland aus",
+          "url": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
+          "summary": "Der US-Präsident hat sich zur Frage der irischen Einheit geäußert. Er sagte, er würde „ein vereintes Irland sehr begrüßen“, und prognostizierte, dass ein vereintes Irland „irgendwann kommen wird“.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/12/99ca1c8f-8221-4d3b-82d6-a4351a725fce.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1404%2C406%2C1696%2C955"
+        },
+        {
+          "title": "Künstliche Intelligenz: Bremsmanöver an der Spitze der amerikanischen KI-Branche",
+          "url": "https://www.sueddeutsche.de/medien/kuenstliche-intelligenz-openai-anthropic-altman-amodei-musk-li.3546497",
+          "summary": "In seltener Einigkeit warnen Sam Altman, Dario Amodei und Elon Musk vor den Risiken von zu viel Tempo bei der Entwicklung künstlicher Intelligenz. OpenAI verschiebt sogar seinen Börsengang.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/12/2a9ee013-b306-4532-b603-d641a3968884.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=222%2C0%2C3556%2C2000"
+        },
+        {
           "title": "Demokratie: Zehntausende Menschen demonstrieren gegen Rechtsextremismus",
           "url": "https://www.sueddeutsche.de/politik/demonstrationen-rechtsruck-berlin-hamburg-li.3546403",
-          "summary": "In zahlreichen Städten Deutschlands finden Kundgebungen für die Demokratie statt. Dabei wird auch gefordert, ein AfD- Verbotsverfahrens zu prüfen. Ein Überblick.",
+          "summary": "In mehreren Städten Deutschlands finden Kundgebungen für die Demokratie statt. Ein Überblick.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/12/111483b0-3132-4b3f-ac89-d2d7833ff37f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Basketball-WM: Frankreich zeigt Deutschland die Grenzen auf",
-          "url": "https://www.sueddeutsche.de/sport/basketball-wm-frauen-wm-deutschland-halbfinale-li.3546385",
-          "summary": "Nach dem furiosen Sieg gegen Belgien ist Frankreich beim 64:86 im WM-Halbfinale zu stark für Deutschlands Basketballerinnen. Der größte Erfolg einer deutschen Mannschaft bei einer Weltmeisterschaft ist trotzdem noch möglich.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/12/641af532-1cc2-4bf1-bb97-652579850ca4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C256%2C3313%2C1864"
-        },
-        {
-          "title": "Bundesliga: Kleindienst fliegt an Gladbachs Katastrophentag",
-          "url": "https://www.sueddeutsche.de/sport/spieltag-bundesliga-gladbach-ergebnis-kleindienst-li.3546413",
-          "summary": "Die Borussia geht 0:5 beim neuen Tabellenführer in Freiburg unter. Felix Nmecha gelingt gegen Paderborn ein Traumtor, Hoffenheim besiegt den VfB Stuttgart. Das Wichtigste zum Spieltag.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/12/902bc91e-acf1-4204-ba5d-a2489150ac53.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C63%2C1827%2C1028"
         }
       ]
     }
