@@ -1,25 +1,25 @@
 {
-  "generated": "2026-09-13T06:00:08.669Z",
-  "timestamp": "13.9.2026, 08:00:08",
+  "generated": "2026-09-13T10:00:09.257Z",
+  "timestamp": "13.9.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amodei-altman-musk-droht-uns-durch-ki-wirklich-das-ende-accg-201214335.html",
+          "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen nehmen?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3cccec17a445/w2741h1432x68y197o/202410/1.10045252/gruseln-wie-im-film-james.webp"
+        },
+        {
           "title": "Künstliche Intelligenz: Anthropic-Chef fordert KI-Bremse und will externe Prüfer in der Firma",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-chef-amodei-fordert-ki-bremse-musk-und-altmann-stimmen-zu-201221272.html",
-          "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren und mit gutem Beispiel vorangehen. Sein Wettbewerber Sam Altman von Open AI stimmt ihm zu - und verschiebt den Börsengang.",
+          "summary": "Dario Amodei will das Entwicklungstempo für Künstliche Intelligenz reduzieren und mit gutem Beispiel vorangehen. Sein Wettbewerber Sam Altman von Open AI stimmt ihm zu – und verschiebt den Börsengang.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/52081a410eee/w5056h2641x0y121o/202609/43601.0.2544396640/warnt-dass-ki-agenten-in-sechs.webp"
-        },
-        {
-          "title": "Business-Ticker: OpenAI-Chef Altman: Börsengang nicht mehr in diesem Jahr",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-openai-chef-altman-boersengang-nicht-mehr-in-diesem-jahr-faz-200452404.html",
-          "summary": "„Man wäre schlecht beraten, genau jetzt an die Börse zu gehen“, so Altman +++ Debatte über verlangsamte Entwicklung von KI +++ Verivox rechnet mit Gaspreisanstieg von bis zu 20 Prozent +++ Neuigkeiten im Unternehmen-Liveblog.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9219c2738e4b/w5000h2612x0y274o/202609/43601.0.2545725146/sam-altman-mitgruender-und.webp"
         },
         {
           "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
@@ -40,23 +40,23 @@
           "summary": "Anthropics Chef sagt, der Menschheit bleibe vielleicht nur noch ein halbes Jahr, bis die künstliche Intelligenz außer Kontrolle gerate. OpenAI verschiebt seinen Börsengang – sogar Elon Musk applaudiert. Was steckt dahinter?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0d40be1e-3d83-4923-b164-4053aac84a5f_w1200_r1.778_fpx42.74_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/196a1512-238c-49c6-adc9-d1e72b1876ae_w1200_r1.778_fpx39_fpy51.jpg"
         },
         {
-          "title": "Markus Söder springt Friedrich Merz bei: CSU-Chef schließt Kanzlersturz aus",
-          "url": "https://www.spiegel.de/politik/deutschland/markus-soeder-springt-friedrich-merz-bei-csu-chef-schliesst-kanzlersturz-aus-a-d2bab5fb-cb69-41b2-a1d8-f3a1868fdd29#ref=rss",
-          "summary": "Rebelliert die Union gegen Friedrich Merz? Von der CSU drohe dem Kanzler keine Gefahr, sagt Bayerns Ministerpräsident Markus Söder. Für die CDU hingegen könne er nicht sprechen.",
+          "title": "Gefahr durch KI, Künstliche Intelligenz, AfD in Sachsen-Anhalt",
+          "url": "https://www.spiegel.de/politik/deutschland/gefahr-durch-ki-kuenstliche-intelligenz-afd-in-sachsen-anhalt-a-a83ab520-e30a-48d9-b82f-673f557f8065#ref=rss",
+          "summary": "Die KI wird immer unheimlicher, ihr böses Potenzial ist offenbar grenzenlos. Die Menschheit muss jetzt alles tun, um die Kontrolle zu behalten. Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c38d045b-ca20-49ee-ae67-6f7c19e42c62_w1200_r1.778_fpx49_fpy33.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Ukraine meldet weltweit erstes Gefecht zwischen Seedrohnen",
-          "url": "https://www.spiegel.de/ausland/ukraine-meldet-weltweit-erstes-gefecht-zwischen-seedrohnen-a-bb0b1e1c-0ac2-4ba5-8e4d-6695b4aed58a#ref=rss",
-          "summary": "»Dies ist die erste Seeschlacht in der Geschichte zwischen unbemannten Booten«: Ein Video der ukrainischen Marine soll zeigen, wie ein russisches Drohnenboot mit einem Maschinengewehr beschossen wird.",
+          "title": "Ukraine: Russland greift wichtigen Grenzübergang nach Polen an",
+          "url": "https://www.spiegel.de/wirtschaft/ukraine-russland-greift-wichtigen-grenzuebergang-nach-polen-an-a-597b54ae-99fd-4a3a-a686-0d21d8f50070#ref=rss",
+          "summary": "Seit dem Sommer attackiert Russland gezielt ukrainische Grenzposten Richtung Westen. Nun traf es einen Übergang nach Polen, auch einer der engsten Berater von Bundeskanzler Friedrich Merz war betroffen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/fbf84178-42b0-4c62-93ea-2934370fd932_w1200_r1.778_fpx30_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/96715771-686a-49d9-8c72-8afc7f9d2589_w1200_r1.778_fpx30_fpy54.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
-          "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
-          "summary": "In Schweden wird heute ein neues Parlament gewählt. Der Ausgang ist offen: In Umfragen führen die Sozialdemokraten, doch die rechtspopulistischen Schwedendemokraten könnten so viel Einfluss erhalten wie nie zuvor. Von J. Sinram.",
+          "title": "Viele Vermisste nach Fährunglück in Indonesien",
+          "url": "https://www.tagesschau.de/ausland/asien/faehre-indonesien-seenot-100.html",
+          "summary": "In Indonesien ist eine Fähre mit mehr als 240 Menschen an Bord gesunken. Ein Großteil der Passagiere wird noch vermisst. Ein Such- und Rettungseinsatz dauert bei rauer See noch an.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b5723a42-615f-4cfb-8ed9-b5845c7f3692/AAABoJkgSdo/AAABnSSvrFg/16x9-big/jimmie-akesson-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ed86a2a6-bf7d-40cb-b4f7-845031df9e33/AAABoJm0Fcw/AAABnSSvrFg/16x9-big/faehre-indonesien-seenot-102.jpg?width=1280"
         },
         {
-          "title": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
-          "url": "https://www.tagesschau.de/ausland/amerika/ki-anthropic-106.html",
-          "summary": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic, und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
+          "title": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html",
+          "summary": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Verkehrsminister Bilger drängt nun auf die Wiedereinführung der Familienreservierung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f0082ca5-3ee6-4dc6-8adc-996038da7786/AAABnqw8YgA/AAABnSSvrFg/16x9-big/anthropic-124.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e025230f-720e-4d05-b30a-c0a981e6a9e7/AAABnIi4S2A/AAABnSSvrFg/16x9-big/ice-276.jpg?width=1280"
         },
         {
-          "title": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
-          "summary": "Bei der Entgleisung eines Zuges in der Normandie werden mehr als 40 Menschen verletzt. Hinweise auf einen Anschlag gibt es jedoch laut Staatsanwalt nicht - damit widerspricht er der Darstellung einiger Politiker.",
+          "title": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
+          "url": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html",
+          "summary": "Der Welt-Sepsis-Tag soll heute auf die Gefahr durch Blutvergiftungen aufmerksam machen. In Deutschland sterben vergleichsweise viele Menschen daran - sie bleiben in Kliniken oft unerkannt. Remus und M.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ef5c910d-8b91-4496-af21-a7e4d809af4b/AAABoJimjVM/AAABnSSvrFg/16x9-big/frankreich-zug-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/78a93f6a-c113-4099-96f1-b5dcccc5489b/AAABoJlpBI8/AAABnSSvrFg/16x9-big/patient-118.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "2 Billionen Dollar Bewertung: Nvidia will bei Anthropic-IPO groß einsteigen",
-          "url": "https://www.telepolis.de/article/2-Billionen-Dollar-Bewertung-Nvidia-will-bei-Anthropic-IPO-gross-einsteigen-11451411.html",
-          "summary": "Chiphersteller investiert Milliarden in seinen eigenen Kunden – und könnte damit den größten KI-Börsengang aller Zeiten befeuern. Die Verflechtungen sind enorm.",
+          "title": "Warum bekommen Deutsche kaum noch Kinder – obwohl sie es wollen?",
+          "url": "https://www.telepolis.de/article/Warum-bekommen-Deutsche-kaum-noch-Kinder-obwohl-sie-es-wollen-11451573.html",
+          "summary": "Neue BiB-Daten zeigen: Der Kinderwunsch liegt bei 1,7 – die Realität bei 1,32. Wohnungsnot, Kita-Mangel und Zukunftssorgen bremsen junge Paare aus.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/1/6/6/shutterstock_2705357347-238b9871a406059e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/2/4/7/shutterstock_2719434757-864dbe38153dd97d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Die Indus-Zivilisation: Hochkultur und Wohlstand ohne Paläste?",
-          "url": "https://www.telepolis.de/article/Die-Indus-Zivilisation-Hochkultur-und-Wohlstand-ohne-Palaeste-11451279.html",
-          "summary": "Vor 4.000 Jahren entstand in Südasien eine rätselhafte Hochkultur. Ihre Städte hatten Kanalisation und Stadtplanung – aber keine Prachtbauten.",
+          "title": "OpenAI und die Navier-Stokes-Gleichungen: Wessen Beweis ist es wirklich?",
+          "url": "https://www.telepolis.de/article/OpenAI-und-die-Navier-Stokes-Gleichungen-Wessen-Beweis-ist-es-wirklich-11448270.html",
+          "summary": "Ein KI-Agent von OpenAI soll eine Singularität in den Navier-Stokes-Gleichungen bewiesen haben. Der Mathematiker Tristan Buckmaster fragt: Wessen Idee war es?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/0/9/5/Amin_Rajput-7725a3f8678d9750.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/2/5/5/7/openai-01-044e926b25976124.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Maschinenbauer verlagern Forschung ins Ausland",
-          "url": "https://www.telepolis.de/article/Maschinenbauer-verlagern-Forschung-ins-Ausland-11448572.html",
-          "summary": "Vier von zehn Unternehmen entwickeln neue Produkte außerhalb Deutschlands. Nachdem die Produktion ins Ausland verlagert wurde, folgt jetzt die Entwicklung.",
+          "title": "Fabergé-Eier: Luxus mit verborgener Raffinesse",
+          "url": "https://www.telepolis.de/article/Faberge-Eier-Luxus-mit-verborgener-Raffinesse-11448875.html",
+          "summary": "Die kostbaren Ostereier von Peter Carl Fabergé begeistern mit raffinierten Überraschungen und erzählen vom Luxus der Zarenfamilie bis zum Wandel von 1917.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/2/7/1/1/abwanderung-01-d5c88432162379d2.gif"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/2/8/6/7/shutterstock_2640583001-2fde0268fabe1b01.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Ukraine-Krieg: Selenskij-Vertrauter: Gespräche mit USA und Russland wieder im Oktober",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-usa-gespraeche-oktober-li.3524928",
-          "summary": "„Wir bereiten uns vor, auf Oktober“, sagt der Stabschef von Präsident Selenskij, Kyrylo Budanow. Damit seien Unterredungen im Dreierformat gemeint. Ein genaues Datum oder den Ort der Treffen nennt er jedoch nicht.",
+          "title": "Bundesregierung: Liebe Christdemokraten, was habt ihr eigentlich von Merz erwartet?",
+          "url": "https://www.sueddeutsche.de/meinung/friedrich-merz-cdu-deutschland-autoritaetsverlust-kommentar-li.3546579",
+          "summary": "Die CDU trägt Verantwortung für einen Kanzler, dem sie offenbar selbst nicht mehr zutraut, das Land in schwierigen Zeiten zu führen.  Diese Verantwortung wiegt schwer.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/01/02/577dedc9-ba7f-4cae-bfc6-dc41c8660a05.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/09/85a2bccd-7c74-4d6d-ad6c-cdb7a37e498d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zum Nahost-Krieg: Sorgen um Ölversorgung nach Angriff auf Schiff in der Straße von Hormus",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-huthi-saudi-arabien-oel-irak-strasse-von-hormus-li.3530668",
-          "summary": "Kurz nach der vorsorglichen Schließung der Ost-West-Pipeline gibt es erneut einen Angriff auf ein Schiff in der Straße von Hormus. Die angespannte Lage schürt Sorgen um die weltweite Ölversorgung.",
+          "title": "Pop-Musiker Jakob Bruckner: „Ich will nicht die Kindheit meiner Kids verpassen“",
+          "url": "https://www.sueddeutsche.de/muenchen/bruckner-band-jakob-matti-familie-karriere-interview-li.3534216",
+          "summary": "Während die Band „Bruckner“ mit Album und Tour vor dem nächsten Karriereschritt steht, gerät das Familienleben zunehmend unter Druck. Jakob Bruckner erzählt, warum er trotz der Musikleidenschaft über den Lehrerberuf nachdenkt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/09/054e2255-3090-4d03-97e3-2c2c93691729.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2026/09/10/50527c49-e9db-40b8-b3ab-e6cfbc2ad4e6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=313%2C486%2C3055%2C1718"
         },
         {
-          "title": "USA-Newsblog: Trump spricht sich für ein vereintes Irland aus",
-          "url": "https://www.sueddeutsche.de/politik/trump-irland-li.3530667",
-          "summary": "Der US-Präsident hat sich zur Frage der irischen Einheit geäußert. Er sagte, er würde „ein vereintes Irland sehr begrüßen“, und prognostizierte, dass ein vereintes Irland „irgendwann kommen wird“.",
+          "title": "Newsblog zur Bundespolitik: Söder: CSU wird Kanzler Merz „auf keinen Fall“ stürzen",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-soeder-merz-cdu-csu-kanzlersturz-li.3529564",
+          "summary": "Nach dem CDU-Wahldebakel in Sachsen-Anhalt tritt der CSU-Chef Spekulationen über einen möglichen Wechsel des Bundeskanzlers klar entgegen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/12/99ca1c8f-8221-4d3b-82d6-a4351a725fce.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1404%2C406%2C1696%2C955"
+          "image": "https://www.sueddeutsche.de/2026/09/13/ea4922ff-893b-442a-a2d3-7680d1d091b9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C200%2C4000%2C2250"
         }
       ]
     }
