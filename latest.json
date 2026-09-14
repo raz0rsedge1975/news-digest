@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-14T06:00:11.076Z",
-  "timestamp": "14.9.2026, 08:00:11",
+  "generated": "2026-09-14T10:00:09.530Z",
+  "timestamp": "14.9.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Aufstieg der AfD: Das Rätsel mit den drei Buchstaben",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/nach-landtagswahl-warum-ist-es-so-schwer-den-aufstieg-der-afd-zu-erklaeren-accg-201213156.html",
-          "summary": "Wie lässt sich der Aufstieg der AfD erklären? Eineinhalb Jahrzehnte nachdem der Siegeszug des Rechtspopulismus begonnen hat, mangelt es noch immer an tragenden Antworten. Woran liegt das?",
+          "title": "Künstliche Intelligenz: Spiel mit dem KI-Feuer",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warnung-vor-gefahren-der-ki-spiel-mit-dem-feuer-201223073.html",
+          "summary": "Es gibt gute Gründe, die düsteren Warnungen aus KI-Unternehmen ernst zu nehmen. Und es wäre dringend geboten, global an einem Strang zu ziehen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e68f95bd30ea/w5500h2873x0y683o/202609/43601.0.2538853922/kann-sich-den-eigenen-erfolg.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a6a2312e5121/w7677h4011x0y153o/202609/43601.0.2544397440/warnt-dass-ki-bald-das-ganze.webp"
         },
         {
-          "title": "Konflikt mit USA: Kanada strebt „einzigartige Allianz“ mit EU an – keine Mitgliedschaft",
-          "url": "https://www.faz.net/aktuell/politik/ausland/kanada-strebt-einzigartige-allianz-mit-eu-an-accg-201223617.html",
-          "summary": "Premierminister Mark Carney lässt prüfen, ob Kanada ein „assoziiertes Mitglied“ der EU werden könnte. Hintergrund der Annäherung ist der eskalierende Handelsstreit mit den USA.",
+          "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amodei-altman-musk-droht-uns-durch-ki-wirklich-das-ende-accg-201214335.html",
+          "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen nehmen?",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e7d8b4b78e16/w6144h3210x0y260o/202609/43601.0.2550526060/laut-premierminister-mark.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/3cccec17a445/w2741h1432x68y197o/202410/1.10045252/gruseln-wie-im-film-james.webp"
         },
         {
-          "title": "TV-Kritik „Caren Miosga“: Die Unfähigkeit zum Kompromiss und die Gefahr des Scheiterns",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-caren-miosga-die-unfaehigkeit-zum-kompromiss-accg-201223680.html",
-          "summary": "Anke Rehlinger deutet bei „Caren Miosga“ an, dass die SPD das Reformpaket aufschnüren könnte – selbst wenn damit das Ende der Koalition eingeläutet würde. Einigkeit herrschte nur in Bezug auf den Angstgegner von rechts.",
+          "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
+          "summary": "Wir erleben einen epochalen Umbruch. Der Übergang in die KI-Ära wird zu den unruhigsten Phasen der Menschheitsgeschichte gehören. Bislang bereiten wir uns nicht ausreichend darauf vor. Was uns droht – und was zu tun ist.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7850135f8c16/w4055h2118x0y501o/202609/8e379710-5952-453f-b7f2-86ddee918a58/die-sendung-caren-miosga.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/aa7fb71c3fc7/w4911h2565x0y364o/202602/43601.0.1796871408/microsoft-mitgruender-bill.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Niedersachsen: CDU gewinnt Kommunalwahl – AfD auf Rang 3",
-          "url": "https://www.spiegel.de/politik/deutschland/niedersachsen-cdu-gewinnt-kommunalwahl-afd-auf-rang-3-a-4fae5fc1-7ce6-4103-92a9-351f8108ce68#ref=rss",
-          "summary": "Die CDU bleibt in Niedersachsen die stärkste Kraft auf Kreisebene vor der SPD. Die AfD verzeichnet hohe Gewinne, auch die Linke legt zu.",
+          "title": "Russland - Ilona W.: Bundesanwaltschaft klagt an, Verdacht auf Agententätigkeit an",
+          "url": "https://www.spiegel.de/politik/deutschland/russland-ilona-w-bundesanwaltschaft-klagt-an-verdacht-auf-agententaetigkeit-an-a-9ceb66e7-a16d-4617-ae43-acba52419bfd#ref=rss",
+          "summary": "Sie soll einen Offizier des russischen Geheimdienstes GRU mit Informationen versorgt haben. Dann wurde die 57-Jährige verhaftet. Nun hat der Generalbundesanwalt Anklage gegen die Unternehmerin aus Berlin erhoben.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/07724c33-c26c-48da-9905-4985b890d9a5_w1200_r1.778_fpx60.64_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9144b694-9670-489e-ae9c-e8b7f635545c_w1089_r1.778_fpx56.57_fpy49.94.jpg"
         },
         {
-          "title": "US Open: Alexander Zverev gewinnt gegen Ben Shelton in vier Sätzen",
-          "url": "https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-punktet-locker-ben-shelton-hat-muehe-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss",
-          "summary": "Mit einer nahezu makellosen Leistung hat sich Deutschlands Tennisstar Alexander Zverev gegen Ben Shelton den Titel bei den US Open gesichert. Lesen Sie hier das Duell im Livekommentar nach.",
+          "title": "AfD: Bundesvorstand beschließt Auflagen für Streamer »Aktivist Man«",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-bundesvorstand-beschliesst-auflagen-fuer-streamer-aktivist-man-a-7716a33f-da6c-443d-abe9-858d32d9d6e9#ref=rss",
+          "summary": "Matthäus Westfal bedrängt und beschimpft seit Wochen Journalisten auf AfD-Veranstaltungen. Nun beschließt der Bundesvorstand Auflagen für den umstrittenen Streamer. Nicht allen in der Partei gefällt das.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/672c3098-661c-41f5-ae8a-02a786216af1_w1200_r1.778_fpx41_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/44aa491c-1b89-46e3-ba10-bff5cd9215fe_w1200_r1.778_fpx69.99_fpy50.98.jpg"
         },
         {
-          "title": "News: Söders vergiftete Ratschläge an Merz, Arktis-Gipfel der EU, Trump spielt KI-Warnungen herunter",
-          "url": "https://www.spiegel.de/politik/deutschland/news-soeders-vergiftete-ratschlaege-an-merz-arktis-gipfel-der-eu-trump-spielt-ki-warnungen-herunter-a-a3bfb83c-9087-4316-8d13-507836c68f29#ref=rss",
-          "summary": "Markus Söder gibt sich loyal und ehrgeizig zugleich. Die Arktis bietet Friedrich Merz willkommene Ablenkung. Und die KI-Zauberlehrlinge rufen vergeblich nach dem Meister. Das ist die Lage am Montagmorgen.",
+          "title": "Wehrdienst: Fast jeder dritte Freiwillige fällt bei Tauglichkeit durch",
+          "url": "https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss",
+          "summary": "Seit Anfang des Jahres wirbt die Bundeswehr um Freiwillige für den neuen Wehrdienst. Eine interne, bislang unbekannte Statistik zeigt nun: Rund 30 Prozent der Bewerber wurden als nicht wehrtauglich ausgemustert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e50d717b-a72e-4f02-967d-a2f3928e4710_w1200_r1.778_fpx39.35_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/478a11bb-8a31-4acb-8418-218a23a36aee_w1200_r1.778_fpx49_fpy49.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Parlamentswahl in Schweden: Keine strahlenden Sieger und ein Verlierer",
-          "url": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-110.html",
-          "summary": "Schweden hat gewählt - aber noch lange keine Regierung. Sowohl die Sozialdemokraten als stärkste Kraft als auch die Konservativen brauchen Partner. Die rechtspopulistischen Schwedendemokraten büßten überraschend Stimmen ein. Von Arne Bartram.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/394407e8-f683-47b4-90aa-e53a535113c7/AAABoJ5n-4I/AAABnSSvrFg/16x9-big/schweden-wahl-sozialdemokraten-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Hoher Ölpreis verhagelt den Wochenstart",
+          "title": "Marktbericht: Anleger fürchten straffere Geldpolitik",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-          "summary": "Die Aktienmärkte bleiben an den steigenden Ölpreis gekettet: Die Eskalation in Saudi-Arabien schürt die Sorgen vor einem Anziehen der Inflation. Mit Spannung blicken die Investoren auf den Zinsentscheid der US-Notenbank.",
+          "summary": "Zum Wochenstart drücken höhere Ölpreise und die Aussicht auf steigende Zinsen auf die Stimmung der Anleger. Die Notenbanken von England, Japan und den USA werden in dieser Woche ihre Entscheidung verkünden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/12a1b5ae-bb98-41bb-99a8-8613dbc1fdfa/AAABn8algs0/AAABnSSvrFg/16x9-big/boerse-532.jpg?width=1280"
         },
         {
-          "title": "Hitze, Feuer, Fluten: Wie das Mittelmeer Europas Wetter verändert",
-          "url": "https://www.tagesschau.de/podcast-11km-mittelmeer-klima-100.html",
-          "summary": "Das Mittelmeer wird immer heißer. Die Folge: Hitze, Brände, Fluten. 11KM darüber, wie sich das Klima des Mittelmeerraums gerade fundamental verändert.",
+          "title": "Indonesien: Suche nach Vermissten in Wrack von Fähre",
+          "url": "https://www.tagesschau.de/ausland/asien/indonesien-faehrunglueck-vermisste-100.html",
+          "summary": "Nach dem Fährunglück in Indonesien suchen Rettungskräfte nach den noch mehr als 100 Vermissten in der Javasee. Ihre Hoffnung: Im Inneren der gekenterten Fähre könnten noch Menschen am Leben sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7acdef9e-1e91-408d-9783-0fdda5efaaa5/AAABoJ4bqPQ/AAABnSSvrFg/16x9-big/podcast-11km-3854.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9b685ac8-a8da-4e70-9749-4052c32f9822/AAABoJ7xhLA/AAABnSSvrFg/16x9-big/faehre-indonesien-104.jpg?width=1280"
+        },
+        {
+          "title": "Sind die Spritpreise noch zu bremsen?",
+          "url": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
+          "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten werden Benzin und Diesel immer teurer - am Wochenende gab es ein neues Allzeithoch. Auch die Preise für Heizöl steigen deutlich.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/547130f5-d9a7-40f7-a6f2-90ae15f49cc0/AAABoJ9MMHA/AAABnSSvrFg/16x9-big/kraftstoffpreise-124.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "VW-Werk Osnabrück: Hier sollen bald Raketen statt Autos vom Band laufen",
+          "url": "https://www.telepolis.de/article/VW-Werk-Osnabrueck-Hier-sollen-bald-Raketen-statt-Autos-vom-Band-laufen-11451899.html",
+          "summary": "Ab 2027 sollen in Osnabrück statt Cabrios Raketenabwehr-Komponenten entstehen – mitten im IGH-Verfahren gegen Deutschland.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/4/1/0/2ca1096b-d4eb-4403-bd60-06bdf4f02d1d-0f731281cef576f5.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "\"Jupiter\": Führt die Ukraine Europa in den Abgrund?",
+          "url": "https://www.telepolis.de/article/Jupiter-Fuehrt-die-Ukraine-Europa-in-den-Abgrund-11451883.html",
+          "summary": "Filmfestspiele von Venedig: Ein Politthriller treibt Europas Solidarität mit Kiew bis zur atomaren Eskalation – und stellt eine unbequeme Schuldfrage.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/4/0/2/Master_Jupiter-d4cd867a14d8d94e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Wenn Sprache zum Interface wird: Was KI-Nutzung mit unserem Satzbau macht",
           "url": "https://www.telepolis.de/article/Wenn-Sprache-zum-Interface-wird-Was-KI-Nutzung-mit-unserem-Satzbau-macht-11416286.html",
           "summary": "Wie Menschen ihre Sprache durch Arbeit mit KI verändern. Studie beleuchtet Entwicklungen, aber auch mögliche Gefahren. Ein Telepolis-Interview mit Nils Andres.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/4/8/0/5/6/shutterstock_2143313807-6e6e3de0c695c235.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Für 220 Dollar pro Kilo ins All: Was hinter kinetischen Startsystemen steckt",
-          "url": "https://www.telepolis.de/article/Fuer-220-Dollar-pro-Kilo-ins-All-Was-hinter-kinetischen-Startsystemen-steckt-11451303.html",
-          "summary": "Raketen verbrennen Hunderttausende Liter Treibstoff, bevor sie abheben. Neue Technologien setzen unter anderem auf Zentrifugen und Gaskanonen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/1/0/7/SpinLaunch-98f0e4a75e6647f2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "China-Europe Railway Express: Warum 19.000 Züge den Welthandel verändern",
-          "url": "https://www.telepolis.de/article/China-Europe-Railway-Express-Warum-19-000-Zuege-den-Welthandel-veraendern-11450020.html",
-          "summary": "Vom Seeweg abhängig: 80 Prozent des Welthandels laufen über Schiffe. China baut parallel ein Schienennetz nach Europa auf – als Absicherung, nicht als Ersatz.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/4/4/6/schienenchina-ee47963654ae484d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Ukraine-Krieg: Trump fordert von Selenskij Ende der Angriffe auf russische Raffinerien",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-usa-trump-angriffe-raffinerien-dieselknappheit-li.3524928",
-          "summary": "Der US-Präsident macht die Ukraine für eine weltweite Dieselknappheit verantwortlich. Dabei lässt er außen vor, dass die jüngste Energiekrise erst durch den Krieg gegen Iran ausgelöst wurde.",
+          "title": "FC Bayern: Die Lehren von der Baustelle",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-kompany-rotation-elversberg-li.3547024",
+          "summary": "Der FC Bayern tut sich beim 2:1 in Elversberg lange schwer. Vincent Kompany rotiert seine Startelf auf sieben Positionen – und erklärt, wie dieses Prinzip sein Team in dieser Saison stärker machen soll.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/12/22/ea70bf62-fca8-4408-99ee-d53f9db76502.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C194%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/14/ac9fe76d-fa03-499f-a2fe-d4a1ef657197.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=320%2C489%2C2630%2C1479"
         },
         {
-          "title": "Kommunalwahl: Die CDU bleibt stärkste Kraft in Niedersachsen",
-          "url": "https://www.sueddeutsche.de/politik/kommunalwahl-niedersachsen-cdu-spd-li.3546890",
+          "title": "Künstliche Intelligenz: Die Panikmache der KI-Konzerne soll vom eigenen Versagen ablenken",
+          "url": "https://www.sueddeutsche.de/wirtschaft/ki-entwicklung-usa-open-ai-hugging-risiken-verantwortung-li.3546741",
+          "summary": "Durch ihre Obsession mit der „Superintelligenz“ gefährdet die KI-Elite uns alle. Was hinter den Science-Fiction-Geschichten von Altman, Amodei und Musk steckt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/14/9566af2d-f444-42d4-b8d0-238830ef4c20.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C344%2C4000%2C2250"
+        },
+        {
+          "title": "Kommunalwahlen: Die CDU bleibt stärkste Kraft in Niedersachsen",
+          "url": "https://www.sueddeutsche.de/politik/kommunalwahl-niedersachsen-2026-cdu-spd-afd-li.3546890",
           "summary": "Dem vorläufigen Ergebnis zufolge liegt sie mit 27,2 Prozent vor der SPD. Die AfD verdreifacht indes ihr Ergebnis.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/13/b946a621-4542-4e00-92b3-e0564c631fe7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Parlamentswahl: Sozialdemokraten wohl stärkste Kraft in Schweden – Machtverhältnisse unklar",
-          "url": "https://www.sueddeutsche.de/politik/schweden-wahl-andersson-kristersson-sozialdemokraten-li.3546905",
-          "summary": "Beobachter hatten vor der Parlamentswahl ein Kopf-an-Kopf-Rennen prognostiziert. Jetzt haben die Menschen in Schweden ihre Stimmen abgegeben – und es ist völlig offen, wer künftig das skandinavische Land regiert.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/14/e2eedcaf-6ecd-4009-83fc-a38be83a0410.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C240%2C2048%2C1152"
         }
       ]
     }
