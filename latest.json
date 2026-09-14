@@ -1,17 +1,25 @@
 {
-  "generated": "2026-09-14T10:00:09.530Z",
-  "timestamp": "14.9.2026, 12:00:09",
+  "generated": "2026-09-14T14:00:10.335Z",
+  "timestamp": "14.9.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Künstliche Intelligenz: Spiel mit dem KI-Feuer",
-          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warnung-vor-gefahren-der-ki-spiel-mit-dem-feuer-201223073.html",
-          "summary": "Es gibt gute Gründe, die düsteren Warnungen aus KI-Unternehmen ernst zu nehmen. Und es wäre dringend geboten, global an einem Strang zu ziehen.",
+          "title": "Geheimdienst warnt: China macht KI zur Frage der Regimesicherheit",
+          "url": "https://www.faz.net/aktuell/politik/ausland/chinas-geheimdienst-sieht-ki-als-gefahr-fuer-die-regimesicherheit-accg-201224283.html",
+          "summary": "Chinas Geheimdienst bezeichnet KI erstmals als Gefahr für das Regime. Er warnt vor den USA – und schweigt zur Frage einer langsameren KI-Entwicklung.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a6a2312e5121/w7677h4011x0y153o/202609/43601.0.2544397440/warnt-dass-ki-bald-das-ganze.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2566ffcf0926/w7790h4070x0y286o/202607/43601.0.2345461386/xi-jinpings-rede-zur.webp"
+        },
+        {
+          "title": "China und KI: Der Westen sollte nicht noch einmal naiv sein",
+          "url": "https://www.faz.net/aktuell/politik/ausland/china-und-kuenstliche-intelligenz-nicht-schon-wieder-naiv-sein-201222424.html",
+          "summary": "Viele schauen auf die Chancen von Künstlicher Intelligenz, doch die Risiken sind größer als gedacht – gerade mit Blick auf autokratisch regierte Länder wie China.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/001ec777ba23/w6144h3210x0y181o/202609/43601.0.2544733685/anthropic-chef-dario-amodei-im.webp"
         },
         {
           "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/3cccec17a445/w2741h1432x68y197o/202410/1.10045252/gruseln-wie-im-film-james.webp"
-        },
-        {
-          "title": "Bill Gates Warnt: Das turbulente Zeitalter der Künstlichen Intelligenz hat begonnen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/bill-gates-warnt-wir-sind-auf-die-kuenstliche-intelligenz-nicht-vorbereitet-accg-201170877.html",
-          "summary": "Wir erleben einen epochalen Umbruch. Der Übergang in die KI-Ära wird zu den unruhigsten Phasen der Menschheitsgeschichte gehören. Bislang bereiten wir uns nicht ausreichend darauf vor. Was uns droht – und was zu tun ist.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/aa7fb71c3fc7/w4911h2565x0y364o/202602/43601.0.1796871408/microsoft-mitgruender-bill.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Russland - Ilona W.: Bundesanwaltschaft klagt an, Verdacht auf Agententätigkeit an",
-          "url": "https://www.spiegel.de/politik/deutschland/russland-ilona-w-bundesanwaltschaft-klagt-an-verdacht-auf-agententaetigkeit-an-a-9ceb66e7-a16d-4617-ae43-acba52419bfd#ref=rss",
-          "summary": "Sie soll einen Offizier des russischen Geheimdienstes GRU mit Informationen versorgt haben. Dann wurde die 57-Jährige verhaftet. Nun hat der Generalbundesanwalt Anklage gegen die Unternehmerin aus Berlin erhoben.",
+          "title": "Anthropic: Ehrenamtlicher aus Wien entschärft ausgebrochene KI",
+          "url": "https://www.spiegel.de/netzwelt/anthropic-ehrenamtlicher-aus-wien-entschaerft-ausgebrochene-ki-a-a693a862-b191-4a05-a0cb-6ffa45b8bb7a#ref=rss",
+          "summary": "Nach zahlreichen Vorfällen wollen KI-Chefs das Entwicklungstempo bremsen. Bei einer jüngst bekannt gewordenen Attacke einer Anthropic-KI griff ein Ehrenamtlicher rechtzeitig ein. Das ist seine Geschichte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9144b694-9670-489e-ae9c-e8b7f635545c_w1089_r1.778_fpx56.57_fpy49.94.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/47683fed-ef44-4842-82bc-e9a1f5ec62ff_w1200_r1.778_fpx33.33_fpy49.99.jpg"
+        },
+        {
+          "title": "Friedrich Merz: Drei Szenarien, wie es mit dem Kanzler weitergehen kann",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-drei-szenarien-wie-es-mit-dem-kanzler-weitergehen-kann-a-44d7c490-ff0d-4665-a0fd-0f5230666cf4#ref=rss",
+          "summary": "Nie zuvor war ein Bundeskanzler unbeliebter, neue Wahlschlappen drohen. Kann Friedrich Merz sich überhaupt noch im Amt halten? Und wenn ja: wie?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/beda39da-b1cd-4aef-809b-4163ec7fbe92_w1200_r1.778_fpx61.37_fpy49.99.jpg"
         },
         {
           "title": "AfD: Bundesvorstand beschließt Auflagen für Streamer »Aktivist Man«",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/44aa491c-1b89-46e3-ba10-bff5cd9215fe_w1200_r1.778_fpx69.99_fpy50.98.jpg"
-        },
-        {
-          "title": "Wehrdienst: Fast jeder dritte Freiwillige fällt bei Tauglichkeit durch",
-          "url": "https://www.spiegel.de/politik/deutschland/wehrdienst-fast-jeder-dritte-freiwillige-faellt-bei-tauglichkeit-durch-a-fb847b63-018d-4472-89c0-b63b9aa32c64#ref=rss",
-          "summary": "Seit Anfang des Jahres wirbt die Bundeswehr um Freiwillige für den neuen Wehrdienst. Eine interne, bislang unbekannte Statistik zeigt nun: Rund 30 Prozent der Bewerber wurden als nicht wehrtauglich ausgemustert.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/478a11bb-8a31-4acb-8418-218a23a36aee_w1200_r1.778_fpx49_fpy49.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Anleger fürchten straffere Geldpolitik",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-          "summary": "Zum Wochenstart drücken höhere Ölpreise und die Aussicht auf steigende Zinsen auf die Stimmung der Anleger. Die Notenbanken von England, Japan und den USA werden in dieser Woche ihre Entscheidung verkünden.",
+          "title": "EU-Staaten wollen Interessen in der Arktis schützen",
+          "url": "https://www.tagesschau.de/ausland/europa/arktis-gipfel-eu-100.html",
+          "summary": "Schifffahrtsrouten, Bodenschätze und Sicherheitspolitik: Deutschland und weitere europäische Staaten fordern eine stärkere Rolle der EU in der Arktis - vor allem wegen der Bedrohung aus Moskau.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/12a1b5ae-bb98-41bb-99a8-8613dbc1fdfa/AAABn8algs0/AAABnSSvrFg/16x9-big/boerse-532.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a5a1af95-115d-4def-900a-0e0e83d6d2d8/AAABoKAofxs/AAABnSSvrFg/16x9-big/arktis-gipfel-100.jpg?width=1280"
         },
         {
-          "title": "Indonesien: Suche nach Vermissten in Wrack von Fähre",
-          "url": "https://www.tagesschau.de/ausland/asien/indonesien-faehrunglueck-vermisste-100.html",
-          "summary": "Nach dem Fährunglück in Indonesien suchen Rettungskräfte nach den noch mehr als 100 Vermissten in der Javasee. Ihre Hoffnung: Im Inneren der gekenterten Fähre könnten noch Menschen am Leben sein.",
+          "title": "Rückendeckung für Merz - aber die Debatte reißt nicht ab",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-debatte-100.html",
+          "summary": "Der Bundeskanzler steht vor einer entscheidenden Woche. Nach dem Wahldebakel in Sachsen-Anhalt erhält Merz Rückendeckung in der Debatte um seine Person. Doch Kritik an den Reformen und am Umgang mit der AfD nehmen weiter Fahrt auf.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9b685ac8-a8da-4e70-9749-4052c32f9822/AAABoJ7xhLA/AAABnSSvrFg/16x9-big/faehre-indonesien-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1eb63d78-adaf-4390-a32d-327e21eb7e94/AAABoJ-7W-U/AAABnSSvrFg/16x9-big/merz-1584.jpg?width=1280"
         },
         {
-          "title": "Sind die Spritpreise noch zu bremsen?",
-          "url": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html",
-          "summary": "Der Schock an den Zapfsäulen ist zurück. Wegen der Eskalation im Nahen Osten werden Benzin und Diesel immer teurer - am Wochenende gab es ein neues Allzeithoch. Auch die Preise für Heizöl steigen deutlich.",
+          "title": "Bund und UniCredit verhandeln über Commerzbank-Übernahme",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-commerzbank-unicredit-100.html",
+          "summary": "Die UniCredit hat am Finanzmarkt Realitäten geschaffen, und die Politik muss reagieren. Heute wird Bankchef Orcel im Finanzministerium empfangen. Es geht um die geplante Übernahme der Commerzbank.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/547130f5-d9a7-40f7-a6f2-90ae15f49cc0/AAABoJ9MMHA/AAABnSSvrFg/16x9-big/kraftstoffpreise-124.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/32b38b51-5cfa-46f7-8da7-93a66e07a1d6/AAABoJ-ctYY/AAABnSSvrFg/16x9-big/commerzbank-304.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "VW-Werk Osnabrück: Hier sollen bald Raketen statt Autos vom Band laufen",
-          "url": "https://www.telepolis.de/article/VW-Werk-Osnabrueck-Hier-sollen-bald-Raketen-statt-Autos-vom-Band-laufen-11451899.html",
-          "summary": "Ab 2027 sollen in Osnabrück statt Cabrios Raketenabwehr-Komponenten entstehen – mitten im IGH-Verfahren gegen Deutschland.",
+          "title": "KI-Entwicklungsbremse: Warum Kontrolle kaum möglich ist",
+          "url": "https://www.telepolis.de/article/KI-Entwicklungsbremse-Warum-Kontrolle-kaum-moeglich-ist-11452550.html",
+          "summary": "Die Stimmen nach Verlangsamung der KI-Entwicklung mehren sich. Doch der Wettbewerb zwischen den USA und China macht eine wirksame Kontrolle nahezu unmöglich.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/4/1/0/2ca1096b-d4eb-4403-bd60-06bdf4f02d1d-0f731281cef576f5.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/7/3/9/shutterstock_2184484449-ab796f792d809561.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "\"Jupiter\": Führt die Ukraine Europa in den Abgrund?",
-          "url": "https://www.telepolis.de/article/Jupiter-Fuehrt-die-Ukraine-Europa-in-den-Abgrund-11451883.html",
-          "summary": "Filmfestspiele von Venedig: Ein Politthriller treibt Europas Solidarität mit Kiew bis zur atomaren Eskalation – und stellt eine unbequeme Schuldfrage.",
+          "title": "Bildungsmonitor 2026: Sachsen siegt, aber alle Bundesländer verlieren",
+          "url": "https://www.telepolis.de/article/Bildungsmonitor-2026-Sachsen-siegt-aber-alle-Bundeslaender-verlieren-11452385.html",
+          "summary": "Das Bildungsniveau sinkt in allen 16 Bundesländern. Fast jeder fünfte junge Erwachsene hat keinen Berufsabschluss. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/4/0/2/Master_Jupiter-d4cd867a14d8d94e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/6/5/4/shutterstock_1787104346-936234191b84c0c6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Wenn Sprache zum Interface wird: Was KI-Nutzung mit unserem Satzbau macht",
-          "url": "https://www.telepolis.de/article/Wenn-Sprache-zum-Interface-wird-Was-KI-Nutzung-mit-unserem-Satzbau-macht-11416286.html",
-          "summary": "Wie Menschen ihre Sprache durch Arbeit mit KI verändern. Studie beleuchtet Entwicklungen, aber auch mögliche Gefahren. Ein Telepolis-Interview mit Nils Andres.",
+          "title": "AfD vor dem nächsten Wahlsieg: Was dem NDR wirklich droht",
+          "url": "https://www.telepolis.de/article/AfD-vor-dem-naechsten-Wahlsieg-Was-dem-NDR-wirklich-droht-11452361.html",
+          "summary": "Mecklenburg-Vorpommern: Der AfD fehlen wohl die Mehrheiten für einen Ausstieg aus dem NDR. Doch erhöht ihr Wahlerfolg erhöht den Druck auf den ÖRR.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/4/8/0/5/6/shutterstock_2143313807-6e6e3de0c695c235.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/6/4/2/Master_NDR-b94c731fdcb8f38a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "FC Bayern: Die Lehren von der Baustelle",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-kompany-rotation-elversberg-li.3547024",
-          "summary": "Der FC Bayern tut sich beim 2:1 in Elversberg lange schwer. Vincent Kompany rotiert seine Startelf auf sieben Positionen – und erklärt, wie dieses Prinzip sein Team in dieser Saison stärker machen soll.",
+          "title": "CSU-Vorstandsklausur: „Stillstand ist der beste Treibstoff für die AfD“",
+          "url": "https://www.sueddeutsche.de/bayern/csu-klausuer-soeder-kretschmer-linksruck-afd-li.3544928",
+          "summary": "Ministerpräsident Markus Söder mahnt nach dem Wahlerfolg der AfD in Sachsen-Anhalt die Bundesregierung an, die geplanten Reformen zügig umzusetzen. Außerdem will er die Benzin- und Dieselpreise senken.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/14/ac9fe76d-fa03-499f-a2fe-d4a1ef657197.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=320%2C489%2C2630%2C1479"
+          "image": "https://www.sueddeutsche.de/2026/09/13/cfca5490-ea98-4031-8d47-2023759d78b7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Künstliche Intelligenz: Die Panikmache der KI-Konzerne soll vom eigenen Versagen ablenken",
-          "url": "https://www.sueddeutsche.de/wirtschaft/ki-entwicklung-usa-open-ai-hugging-risiken-verantwortung-li.3546741",
-          "summary": "Durch ihre Obsession mit der „Superintelligenz“ gefährdet die KI-Elite uns alle. Was hinter den Science-Fiction-Geschichten von Altman, Amodei und Musk steckt.",
+          "title": "Parlamentswahl: Mitte-links-Bündnis in Schweden knapp vorn – wahrscheinlich",
+          "url": "https://www.sueddeutsche.de/politik/schweden-wahl-ergebnis-analyse-li.3546043",
+          "summary": "Auch am Morgen nach der Wahl ist noch unklar, wer Schweden künftig regiert. Vieles deutet auf einen Regierungswechsel hin. Sicher ist, dass die Rechtspopulisten an Zustimmung verlieren.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/14/9566af2d-f444-42d4-b8d0-238830ef4c20.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C344%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/14/85eb5aad-62bf-4512-b584-82ad02e83567.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=870%2C240%2C2630%2C1479"
         },
         {
-          "title": "Kommunalwahlen: Die CDU bleibt stärkste Kraft in Niedersachsen",
-          "url": "https://www.sueddeutsche.de/politik/kommunalwahl-niedersachsen-2026-cdu-spd-afd-li.3546890",
-          "summary": "Dem vorläufigen Ergebnis zufolge liegt sie mit 27,2 Prozent vor der SPD. Die AfD verdreifacht indes ihr Ergebnis.",
+          "title": "Frankreich: Ein Rechter, mitten im Wahlkampf?",
+          "url": "https://www.sueddeutsche.de/medien/paris-frankreich-radio-france-charles-sapin-li.3547018",
+          "summary": "Die Belegschaft des öffentlich-rechtlichen Radio France legt die Arbeit nieder – aus Protest gegen die Einstellung eines rechten Kolumnisten. Soll er Le Pen helfen?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/13/b946a621-4542-4e00-92b3-e0564c631fe7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/14/395481fd-6dea-4ab6-8be2-5bd004ecc2bb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C330%2C4000%2C2250"
         }
       ]
     }
