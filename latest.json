@@ -1,17 +1,25 @@
 {
-  "generated": "2026-09-14T18:00:13.768Z",
-  "timestamp": "14.9.2026, 20:00:13",
+  "generated": "2026-09-14T22:00:08.032Z",
+  "timestamp": "15.9.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Verwaltungsgericht Trier: Warum das Trierer Asylgericht eines der schnellsten in Deutschland ist",
-          "url": "https://www.faz.net/aktuell/politik/inland/trier-eines-der-schnellsten-asylgerichte-in-deutschland-201154062.html",
-          "summary": "Bundesweit dauern Asylverfahren im Schnitt 14 Monate. Am Verwaltungsgericht Trier sind es nur acht. Was macht das Gericht anders?",
+          "title": "Anhörung in Missouri: Endspiel um Bayers Glyphosat-Vergleich",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-glyphosat-vergleich-finale-anhoerung-in-missouri-201225237.html",
+          "summary": "Mit Klägeranwälten hat sich der Dax-Konzern auf einen milliardenschweren Vergleich geeinigt. Den muss ein Gericht aber noch genehmigen. In der Heimat des Glyphosat-Herstellers Monsanto werden nun alle Parteien angehört.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9a39733dd69d/w3000h1567x0y369o/202505/43601.0.1009975312/blick-aus-einem-fenster-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d5f325ffa503/w4005h2092x0y338o/202609/43601.0.2539540171/kern-des-monsanto.webp"
+        },
+        {
+          "title": "Bayer in den USA: Babymais statt Glyphosat",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-agrarsparte-preceon-mais-als-antwort-auf-glyphosat-201204145.html",
+          "summary": "Nach jahrelangen Rechtsstreitigkeiten um Glyphosat versucht Bayer, den Blick auf seine neuen Produkte in der Agrarsparte zu lenken – und will so beweisen, dass der Kauf von Monsanto richtig war.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/f40569c4406b/w2500h1306x0y50o/202609/7ceb6b59-a163-4d8b-8ec1-440fc06f46c5/testfelder-von-bayer-in-huxley.webp"
         },
         {
           "title": "Krise der Koalition: Jeder taumelt für sich allein",
@@ -20,28 +28,12 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/5401c2f02536/w4545h2374x955y463o/202607/43601.0.2288237426/gemeinsam-einsam-bundeskanzler.webp"
-        },
-        {
-          "title": "Handelsstreit mit USA: Carneys Blick nach Europa ist nicht risikolos",
-          "url": "https://www.faz.net/aktuell/politik/ausland/mark-carney-einzigartige-allianz-zwischen-kanada-und-eu-201224523.html",
-          "summary": "Im Zuge des offenen Streits mit dem wichtigsten Handelspartner USA wendet sich Kanada der EU zu. „Unsere Stärken ergänzen sich hervorragend“, sagt Ministerpräsident Mark Carney.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/21c42a288316/w5487h2866x0y155o/202609/43601.0.2551045417/der-kanadische.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
-        {
-          "title": "Künstliche Intelligenz: Weltuntergang durch KI? Wie soll das denn passieren?",
-          "url": "https://www.spiegel.de/netzwelt/netzpolitik/kuenstliche-intelligenz-weltuntergang-durch-ki-wie-soll-das-denn-passieren-a-2a987e6a-f06f-45e8-8979-e4b3482b660d#ref=rss",
-          "summary": "Der Weltuntergang, mit zehn Prozent Wahrscheinlichkeit? Es vergeht kein Tag ohne ein neues Szenario, wann und wie KI alle Menschen töten könnte. Manche sind absurd. Einige erschreckend nah.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6c14c41a-d330-4c9f-acc0-5c1819d876b1_w1200_r1.778_fpx63.99_fpy49.99.jpg"
-        },
         {
           "title": "News des Tages: CDU in Niedersachsen, Bann für AfD-nahen Aktivisten, Russland-Offensive",
           "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-in-niedersachsen-bann-fuer-afd-nahen-aktivisten-russland-offensive-a-0a42b9f8-1833-4a28-b432-40e5d3783566#ref=rss",
@@ -57,6 +49,14 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/a54277f2-8acd-48a4-b0fe-7aececd273e4_w1200_r1.778_fpx44.65_fpy52.99.jpg"
+        },
+        {
+          "title": "USA: Kraftwerke dürfen bald ohne Limit emittieren",
+          "url": "https://www.spiegel.de/ausland/usa-kraftwerke-duerfen-bald-ohne-limit-emittieren-a-7592ad1e-7bad-4e64-b217-1b9b6145ff75#ref=rss",
+          "summary": "Die USA schaffen Regelungen ab, die den Ausstoß von klimaschädlichen Emissionen in Kraftwerken begrenzt haben. Präsident Trump will »Energie freisetzen« – doch seine Umweltpolitik könnte Zehntausende das Leben kosten.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ea32b745-07a5-46a5-a969-d76297e2b2ce_w1200_r1.778_fpx61_fpy66.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Oasis kündigt Konzerte in Deutschland an",
-          "url": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html",
-          "summary": "Nach langem Streit ging Oasis im vergangenen Jahr auf Reunion-Tournee - seither hofften Fans auch hierzulande auf Konzerte. Nun ist es soweit: Erstmals seit mehr als 15 Jahren sind wieder zwei Auftritte in Deutschland geplant.",
+          "title": "Schock und Trotz nach Razzien gegen LGBTQ-Vereine in der Türkei",
+          "url": "https://www.tagesschau.de/ausland/tuerkei-razzien-102.html",
+          "summary": "In der Türkei wurden am Wochenende zahlreiche Aktivisten und Aktivistinnen für LGBTQ-Rechte festgenommen. NGOs und Zivilgesellschaft verurteilen die Razzien - es sei das bisher größte Vorgehen gegen die Community. Von B. Weber.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8efe6d65-7a35-4d1f-9b55-5829365ffe30/AAABoKCuVOE/AAABnSSvrFg/16x9-big/oasis-142.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2f280aaf-9a37-49db-9669-f1b1513bc6e6/AAABoKER3T8/AAABnSSvrFg/16x9-big/regenbogenflagge-polizei-istanbul-100.jpg?width=1280"
         },
         {
-          "title": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-arktis-gipfel-abschluss-100.html",
-          "summary": "Mit dem Klimawandel verändert sich die Bedeutung der Arktis - wirtschaftlich und sicherheitspolitisch. Darauf will die EU reagieren. Ein Gipfel in Finnland sollte den Anfang machen. Meyer-Feist.",
+          "title": "Klingbeil stellt Bedingungen für Commerzbank-Übernahme",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/klingbeil-bedingungen-unicredit-commerzbank-100.html",
+          "summary": "Die Übernahme der Commerzbank durch die italienische UniCredit ist kaum noch abzuwenden - trotz aller bisherigen Widerstände, auch aus der Bundesregierung. Nun versucht Finanzminister Klingbeil, rote Linien zu ziehen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9c83ba62-2c12-45cd-8d3f-c702bf114cf3/AAABoKC_TEI/AAABnSSvrFg/16x9-big/finnland-arktis-treffen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4937ae60-e16e-4cd5-a49f-a6e943738555/AAABoKEOHYY/AAABnSSvrFg/16x9-big/klingbeil-424.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: KI- und Zinssorgen bremsen DAX",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
-          "summary": "Ein ganzer Mix ungünstiger Nachrichten hat den Start in die neue Woche belastet. Der DAX konnte seine Verluste allerdings im Verlauf eingrenzen.",
+          "title": "Was steckt hinter der Debatte über eine KI-Bremse?",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html",
+          "summary": "Nach bedrohlichen Zwischenfällen im Zusammenhang mit KI-Modellen ist eine globale Debatte über schärfere Regeln für die Technologie entbrannt. Vorne mit dabei: ausgerechnet die führenden Entwickler OpenAI und Anthropic.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/96aa490a-9a4d-4554-a094-843244132ed8/AAABoKAOqps/AAABnSSvrFg/16x9-big/kuenstliche-intelligenz-234.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zur Bundespolitik: Pistorius: Truppe ist weiter als viele denken",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-pistorius-bundeswehr-li.3529564",
-          "summary": "Der Verteidigungsminister betont, dass die Bundeswehr bereits jetzt stark in neue Technologien investiert. Kritik an der Beschaffungspolitik weist er zurück.",
+          "title": "Newsblog zum Nahost-Krieg: Tanker laut Iran in Straße von Hormus durch Mine in Brand geraten – USA widersprechen",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-oman-strasse-von-hormus-tanker-usa-li.3530668",
+          "summary": "Iran hat Teile der wirtschaftlich bedeutenden Meerenge vermint. Jetzt soll ein Tanker auf der südlichen Route auf eine Mine gefahren und in Flammen aufgegangen sein. Das US-Militär macht andere Angaben zu dem Vorfall.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/14/011e5ccf-d7ae-4c39-ab6e-a2d89667b15c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/14/1112d84c-9eb7-4055-bb1e-d6b1cd4e7871.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Gespräche mit Unicredit: Was sich der Bund für die Commerzbank-Übernahme wünscht",
-          "url": "https://www.sueddeutsche.de/wirtschaft/commerzbank-uebernahme-bundesregierung-unicredit-gespraeche-berlin-li.3547170",
-          "summary": "Plötzlich reden sie doch: Lars Klingbeil hat sich mit Andrea Orcel getroffen, dem Chef der italienischen Großbank Unicredit. Die Bundesregierung stellt Forderungen – vor allem, was den Firmensitz und den Erhalt von Arbeitsplätzen angeht.",
+          "title": "Hannover 96: Das nächste große Ego im Klub der großen Egos?",
+          "url": "https://www.sueddeutsche.de/sport/hannover-96-trainer-wagner-titz-boldt-li.3547053",
+          "summary": "Zweitligist Hannover 96 trennt sich von Trainer Christian Titz, Sportchef Jonas Boldt hat sich in einem internen Machtkampf durchgesetzt – und plant offenbar die Verpflichtung von Sandro Wagner.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/14/82925041-b598-4723-9839-506773e16cf1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C263%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/09/14/389e3387-cfed-4419-b5eb-460a12acc5b6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C141%2C3947%2C2220"
         },
         {
-          "title": "Newsblog zum Ukraine-Krieg: Trump: Moskau und Kiew wollen Angriffe auf Energie stoppen",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-polen-zug-angriff-energieanlagen-infrastruktur-trump-li.3524928",
-          "summary": "Russland und die Ukraine wollen nach Darstellung von US-Präsident Trump auf Angriffe auf gegnerische Energieanlagen verzichten. Konkrete Details nannte er dabei nicht.",
+          "title": "Das rät eine Schulpsychologin: Warum ein bisschen Stress in der Schule gar nicht so schlimm ist",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-schule-schulanfang-schulstress-schueler-behandlung-li.3545035",
+          "summary": "Schulpsychologin Regina Knape erklärt, was die Schüler und Schülerinnen heutzutage wirklich belastet - und warum ein „Du schaffst das schon“ selten hilft.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/14/356a45b2-f68b-4dff-b1ec-885bbd1b7482.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C21%2C2155%2C1212"
+          "image": "https://www.sueddeutsche.de/2026/09/10/dccb75a5-199e-4024-b183-fcfe0d32a912.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
