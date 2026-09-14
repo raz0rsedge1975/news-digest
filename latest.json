@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-14T02:00:11.227Z",
-  "timestamp": "14.9.2026, 04:00:11",
+  "generated": "2026-09-14T06:00:11.076Z",
+  "timestamp": "14.9.2026, 08:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Zweiter Major-Titel: Alexander Zverevs Meisterstück im US-Open-Finale",
-          "url": "https://www.faz.net/aktuell/sport/us-open/tennis-alexander-zverev-gewinnt-die-us-open-in-new-york-201223392.html",
-          "summary": "Alexander Zverev zeigt im Finale der US Open hohe Tennis-Kunst und gewinnt in New York seinen zweiten Grand-Slam-Titel. Dem Amerikaner Ben Shelton lässt er keine Chance.",
+          "title": "Aufstieg der AfD: Das Rätsel mit den drei Buchstaben",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/nach-landtagswahl-warum-ist-es-so-schwer-den-aufstieg-der-afd-zu-erklaeren-accg-201213156.html",
+          "summary": "Wie lässt sich der Aufstieg der AfD erklären? Eineinhalb Jahrzehnte nachdem der Siegeszug des Rechtspopulismus begonnen hat, mangelt es noch immer an tragenden Antworten. Woran liegt das?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a2b0128b1648/w3147h1644x665y1085o/202609/43601.0.2550399980/us-open-champion-2026.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e68f95bd30ea/w5500h2873x0y683o/202609/43601.0.2538853922/kann-sich-den-eigenen-erfolg.webp"
         },
         {
-          "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amodei-altman-musk-droht-uns-durch-ki-wirklich-das-ende-accg-201214335.html",
-          "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen nehmen?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/3cccec17a445/w2741h1432x68y197o/202410/1.10045252/gruseln-wie-im-film-james.webp"
-        },
-        {
-          "title": "Amodeis Vorstoß: Die Geister, die sie riefen",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/dario-amodei-sam-altman-und-elon-musk-wollen-ki-entwicklung-verlangsamen-201221533.html",
-          "summary": "Nun fordern die Chefs der KI-Unternehmen selbst eine koordinierte Verlangsamung der technischen Entwicklung. Und die Politik soll helfen. Was wissen die Tech-Bosse, das wir nicht wissen?",
+          "title": "Konflikt mit USA: Kanada strebt „einzigartige Allianz“ mit EU an – keine Mitgliedschaft",
+          "url": "https://www.faz.net/aktuell/politik/ausland/kanada-strebt-einzigartige-allianz-mit-eu-an-accg-201223617.html",
+          "summary": "Premierminister Mark Carney lässt prüfen, ob Kanada ein „assoziiertes Mitglied“ der EU werden könnte. Hintergrund der Annäherung ist der eskalierende Handelsstreit mit den USA.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/24378e7df4b3/w6495h3393x0y163o/202609/43601.0.2544294905/er-ruft-die-politik-zu-hilfe.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e7d8b4b78e16/w6144h3210x0y260o/202609/43601.0.2550526060/laut-premierminister-mark.webp"
+        },
+        {
+          "title": "TV-Kritik „Caren Miosga“: Die Unfähigkeit zum Kompromiss und die Gefahr des Scheiterns",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-caren-miosga-die-unfaehigkeit-zum-kompromiss-accg-201223680.html",
+          "summary": "Anke Rehlinger deutet bei „Caren Miosga“ an, dass die SPD das Reformpaket aufschnüren könnte – selbst wenn damit das Ende der Koalition eingeläutet würde. Einigkeit herrschte nur in Bezug auf den Angstgegner von rechts.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/7850135f8c16/w4055h2118x0y501o/202609/8e379710-5952-453f-b7f2-86ddee918a58/die-sendung-caren-miosga.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Niedersachsen: CDU gewinnt Kommunalwahl – AfD auf Rang 3",
+          "url": "https://www.spiegel.de/politik/deutschland/niedersachsen-cdu-gewinnt-kommunalwahl-afd-auf-rang-3-a-4fae5fc1-7ce6-4103-92a9-351f8108ce68#ref=rss",
+          "summary": "Die CDU bleibt in Niedersachsen die stärkste Kraft auf Kreisebene vor der SPD. Die AfD verzeichnet hohe Gewinne, auch die Linke legt zu.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/07724c33-c26c-48da-9905-4985b890d9a5_w1200_r1.778_fpx60.64_fpy54.99.jpg"
+        },
+        {
           "title": "US Open: Alexander Zverev gewinnt gegen Ben Shelton in vier Sätzen",
           "url": "https://www.spiegel.de/sport/tennis/us-open-im-liveticker-alexander-zverev-punktet-locker-ben-shelton-hat-muehe-a-1ba985bc-06c8-43f2-96bd-44578c9e6997#ref=rss",
-          "summary": "Mit einer nahezu makellosen Leistung hat sich Deutschlands Tennisstar Alexander Zverev gegen Ben Shelton den Titel bei den US Open gesichert. Lesen Sie hier das Duell im Livekommentar nach – inklusive der drei Erkenntnisse zum Finale.",
+          "summary": "Mit einer nahezu makellosen Leistung hat sich Deutschlands Tennisstar Alexander Zverev gegen Ben Shelton den Titel bei den US Open gesichert. Lesen Sie hier das Duell im Livekommentar nach.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/672c3098-661c-41f5-ae8a-02a786216af1_w1200_r1.778_fpx41_fpy46.jpg"
         },
         {
-          "title": "CDU laut Hochrechnung vor SPD – AfD und Linke legen zu",
-          "url": "https://www.spiegel.de/politik/deutschland/cdu-bei-kommunalwahl-in-niedersachsen-vor-spd-afd-und-linke-legen-zu-a-91ba6efc-afa7-49c1-a801-71fddd337478#ref=rss",
-          "summary": "Die CDU bleibt in Niedersachsen die stärkste Kraft, dazugewinnen konnten aber nur AfD und Linke. Nach dem Wahl-Debakel in Sachsen-Anhalt gelten die Kommunalwahlen als wichtiger Stimmungstest in Westdeutschland.",
+          "title": "News: Söders vergiftete Ratschläge an Merz, Arktis-Gipfel der EU, Trump spielt KI-Warnungen herunter",
+          "url": "https://www.spiegel.de/politik/deutschland/news-soeders-vergiftete-ratschlaege-an-merz-arktis-gipfel-der-eu-trump-spielt-ki-warnungen-herunter-a-a3bfb83c-9087-4316-8d13-507836c68f29#ref=rss",
+          "summary": "Markus Söder gibt sich loyal und ehrgeizig zugleich. Die Arktis bietet Friedrich Merz willkommene Ablenkung. Und die KI-Zauberlehrlinge rufen vergeblich nach dem Meister. Das ist die Lage am Montagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1c3ee5a5-7a16-421f-8ab6-064d2167758c_w1200_r1.778_fpx66.64_fpy49.99.jpg"
-        },
-        {
-          "title": "Friedrich Merz in der Krise: In der CDU geht die Angst um",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-in-der-cdu-geht-die-angst-um-a-10502655-c11c-42a5-b7e6-79db04e5108a#ref=rss",
-          "summary": "Putschgerüchte machen in Berlin die Runde. Was passiert mit Kanzler Merz, falls die CDU in sieben Tagen in Mecklenburg-Vorpommern an der Fünfprozenthürde scheitert? Zwei Ministerpräsidenten werden als mögliche Nachfolger genannt.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/02b9d499-9de4-4c33-9b2f-97c801dad048_w1200_r1.778_fpx58_fpy75.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e50d717b-a72e-4f02-967d-a2f3928e4710_w1200_r1.778_fpx39.35_fpy45.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
-          "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
-          "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson laut Hochrechnungen stärkste Kraft geworden. Ob es für die Regierungsbildung reicht, ist aber noch offen.",
+          "title": "Parlamentswahl in Schweden: Keine strahlenden Sieger und ein Verlierer",
+          "url": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-110.html",
+          "summary": "Schweden hat gewählt - aber noch lange keine Regierung. Sowohl die Sozialdemokraten als stärkste Kraft als auch die Konservativen brauchen Partner. Die rechtspopulistischen Schwedendemokraten büßten überraschend Stimmen ein. Von Arne Bartram.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2aad662e-7a7e-4ce2-94aa-7ce7ef1cf984/AAABoJwxKBc/AAABnSSvrFg/16x9-big/andersson-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/394407e8-f683-47b4-90aa-e53a535113c7/AAABoJ5n-4I/AAABnSSvrFg/16x9-big/schweden-wahl-sozialdemokraten-100.jpg?width=1280"
         },
         {
-          "title": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html",
-          "summary": "In der CDU wächst die Kritik an Kanzler Merz: Clara von Nathusius, im Vorstand der Jungen Union, hält seine Tage im Amt für gezählt. Die CDU müsse sich nun entscheiden, wofür sie stehe, sagt sie im Bericht aus Berlin. Die Brandmauer hält sie für gescheitert.",
+          "title": "Marktbericht: Hoher Ölpreis verhagelt den Wochenstart",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
+          "summary": "Die Aktienmärkte bleiben an den steigenden Ölpreis gekettet: Die Eskalation in Saudi-Arabien schürt die Sorgen vor einem Anziehen der Inflation. Mit Spannung blicken die Investoren auf den Zinsentscheid der US-Notenbank.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3bf30ade-1e8c-44a9-a6cf-5f319976d8dd/AAABoJvfH6I/AAABnSSvrFg/16x9-big/von-nathusius-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1280"
         },
         {
-          "title": "Abschluss des BRICS-Treffens: Wenig Konfrontation, wenig geklärt",
-          "url": "https://www.tagesschau.de/ausland/asien/brics-zweiter-tag-100.html",
-          "summary": "So unterschiedlich die Interessen der BRICS-Staaten auch sind: Beim Gipfel in Indien waren sie bemüht, Einigkeit zu demonstrieren. So beschlossen sie eine Erklärung, die jedoch vage blieb und niemandem wehtat. Von L. Bodewein.",
+          "title": "Hitze, Feuer, Fluten: Wie das Mittelmeer Europas Wetter verändert",
+          "url": "https://www.tagesschau.de/podcast-11km-mittelmeer-klima-100.html",
+          "summary": "Das Mittelmeer wird immer heißer. Die Folge: Hitze, Brände, Fluten. 11KM darüber, wie sich das Klima des Mittelmeerraums gerade fundamental verändert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e5831947-08f1-4e01-aa5a-54713a018043/AAABoJvdk6o/AAABnSSvrFg/16x9-big/brics-138.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7acdef9e-1e91-408d-9783-0fdda5efaaa5/AAABoJ4bqPQ/AAABnSSvrFg/16x9-big/podcast-11km-3854.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Wenn Sprache zum Interface wird: Was KI-Nutzung mit unserem Satzbau macht",
+          "url": "https://www.telepolis.de/article/Wenn-Sprache-zum-Interface-wird-Was-KI-Nutzung-mit-unserem-Satzbau-macht-11416286.html",
+          "summary": "Wie Menschen ihre Sprache durch Arbeit mit KI verändern. Studie beleuchtet Entwicklungen, aber auch mögliche Gefahren. Ein Telepolis-Interview mit Nils Andres.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/4/8/0/5/6/shutterstock_2143313807-6e6e3de0c695c235.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Für 220 Dollar pro Kilo ins All: Was hinter kinetischen Startsystemen steckt",
           "url": "https://www.telepolis.de/article/Fuer-220-Dollar-pro-Kilo-ins-All-Was-hinter-kinetischen-Startsystemen-steckt-11451303.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/3/4/4/6/schienenchina-ee47963654ae484d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Ceuta-Krise: Europas Abhängigkeit von Marokko wird zum Risiko",
-          "url": "https://www.telepolis.de/article/Ceuta-Krise-Europas-Abhaengigkeit-von-Marokko-wird-zum-Risiko-11451521.html",
-          "summary": "Madrid streitet über ignorierte Warnungen, die Justiz ermittelt gegen Rabat. Der Massenandrang legt Spaniens und Europas Verwundbarkeit offen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/2/2/1/Master_Sanchez-860e23baec2715e1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Caren Miosga: In der Spirale der Ratlosigkeit",
-          "url": "https://www.sueddeutsche.de/medien/caren-miosga-tv-kritik-ard-li.3546725",
-          "summary": "Die Wahl in Sachsen-Anhalt hat die demokratische Mitte schockiert. Die Parteien beteuern unisono, man dürfe jetzt nicht einfach so weitermachen. Wie schwierig das ist, wenn es konkret wird, zeigt bei Caren Miosga die Debatte um die Rentenreform.",
+          "title": "Newsblog zum Ukraine-Krieg: Trump fordert von Selenskij Ende der Angriffe auf russische Raffinerien",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-usa-trump-angriffe-raffinerien-dieselknappheit-li.3524928",
+          "summary": "Der US-Präsident macht die Ukraine für eine weltweite Dieselknappheit verantwortlich. Dabei lässt er außen vor, dass die jüngste Energiekrise erst durch den Krieg gegen Iran ausgelöst wurde.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/13/9fb90c04-fac0-488a-8ea8-9fd0973660eb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C107%2C2048%2C1152"
+          "image": "https://www.sueddeutsche.de/2025/12/22/ea70bf62-fca8-4408-99ee-d53f9db76502.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C194%2C4000%2C2250"
         },
         {
-          "title": "Technologie: Experten fordern: Europa darf bei KI nicht den Anschluss verlieren",
-          "url": "https://www.sueddeutsche.de/wirtschaft/ki-strategie-europa-deutschland-rechenzentren-li.3545883",
-          "summary": "200 Seiten stark ist das Strategiepapier: Frühere Politiker, Ökonomen und Experten erklären, was zu tun ist, damit nicht nur China und die USA über künstliche Intelligenz bestimmen. Oder, noch schlimmer, einzelne Firmen das Sagen haben.",
+          "title": "Kommunalwahl: Die CDU bleibt stärkste Kraft in Niedersachsen",
+          "url": "https://www.sueddeutsche.de/politik/kommunalwahl-niedersachsen-cdu-spd-li.3546890",
+          "summary": "Dem vorläufigen Ergebnis zufolge liegt sie mit 27,2 Prozent vor der SPD. Die AfD verdreifacht indes ihr Ergebnis.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/11/17/ffec5915-b61d-47dd-b41a-394fe9bc920b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/13/b946a621-4542-4e00-92b3-e0564c631fe7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Tennisprofi Alexander Zverev: Ob man ihn mag oder nicht – er ist Deutschlands herausragender Sportler",
-          "url": "https://www.sueddeutsche.de/sport/alexander-zverev-us-open-kommentar-li.3546875",
-          "summary": "Über Alexander Zverev werden hitzige Debatten geführt. Aber Fakt ist: Er ist der beste Spieler dieser Tennissaison.",
+          "title": "Parlamentswahl: Sozialdemokraten wohl stärkste Kraft in Schweden – Machtverhältnisse unklar",
+          "url": "https://www.sueddeutsche.de/politik/schweden-wahl-andersson-kristersson-sozialdemokraten-li.3546905",
+          "summary": "Beobachter hatten vor der Parlamentswahl ein Kopf-an-Kopf-Rennen prognostiziert. Jetzt haben die Menschen in Schweden ihre Stimmen abgegeben – und es ist völlig offen, wer künftig das skandinavische Land regiert.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/13/baa9e686-e749-4aa8-9ba0-a1fefbadaaee.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C162%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/14/e2eedcaf-6ecd-4009-83fc-a38be83a0410.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C240%2C2048%2C1152"
         }
       ]
     }
