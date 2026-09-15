@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-15T10:00:11.279Z",
-  "timestamp": "15.9.2026, 12:00:11",
+  "generated": "2026-09-15T14:00:15.261Z",
+  "timestamp": "15.9.2026, 16:00:15",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Streit um KI: Nein, eine KI-Superintelligenz ist keine ausgemachte Sache",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ralf-otte-ueber-die-ki-debatte-von-amodei-altman-und-musk-nein-superintelligenz-steht-nicht-fest-accg-201213101.html",
-          "summary": "Sind Computer bald so kompetent wie unsere Gehirne? Bewiesen ist das nicht. Es könnte sogar sein, dass der Mensch das Optimum an Intelligenz ist, die sich in Millionen Jahren dauernder Evolution unter permanentem Überlebenszwang erreichen lässt.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/c0b481fbf888/w9499h4963x1y190o/202601/43601.0.1686793064/so-gut-wie-unser-gehirn-sind.webp"
-        },
-        {
-          "title": "Künstliche Intelligenz: Macht Trump KI-Liebe zum neuen Loyalitätstest?",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/gegen-anthropic-chef-trump-will-keine-ki-regulierung-accg-201226792.html",
-          "summary": "Trump spricht sich gegen Regeln für KI aus. Es gebe eine „kranke Verschwörung“ zugunsten Chinas. Gleichzeitig kämpfen manche Republikaner sogar gegen Rechenzentren.",
+          "title": "Mögliche Maßnahmen: So könnte die Bundesregierung Autofahrer entlasten",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/spritkosten-wie-die-bundesregierung-autofahrer-entlasten-koennte-201228630.html",
+          "summary": "Der Kanzler hat angekündigt, geplagte Autofahrer zu unterstützen. Dazu sind unterschiedliche Maßnahmen denkbar.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7d89ab98ec15/w2155h1125x0y49o/202609/43601.0.2550737053/donald-trump-spricht-auf-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e91458b8a9e2/w3979h2079x0y79o/202609/43601.0.2552412842/nichts-wie-weg-die-spritpreise.webp"
         },
         {
-          "title": "Gefahr durch KI-Roboter: Überall bis zum Überfall",
-          "url": "https://www.faz.net/aktuell/technik-motor/digital/warum-autonome-ki-roboter-gefaehrlich-sind-accg-201209431.html",
-          "summary": "Autonome, von KI gesteuerte Maschinen unterscheiden sich grundlegend von Dampfmaschine oder Automobil. Das gilt auch für die Gefahren.",
+          "title": "Energiepreise auf Rekord: Merz: „Bin der Meinung, dass wir handeln müssen“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/merz-kuendigt-entlastungen-von-hohen-energiepreisen-an-201229173.html",
+          "summary": "Der Bundeskanzler will angesichts der hohen Öl- und Gaspreise eingreifen. Das kündigte er bei einer Veranstaltung in Berlin an.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/fe4aaecd00ef/w962h502x0y261o/202609/43271c86ec-ac2c-11f1-a555-422663e9a377/alles-noch-unter-kontrolle-ein.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9d8fcb4d0814/w6144h3210x0y123o/202609/43601.0.2556181375/kanzler-merz-am-dienstag-in.webp"
+        },
+        {
+          "title": "Hohe Spritpreise: Die Hilflosigkeit der Politik",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/spritpreise-und-uebergewinnsteuer-die-hilflosigkeit-der-politik-201227818.html",
+          "summary": "Preisbremsen, Deckel, Übergewinnsteuern: Die politischen Akteure überbieten sich mit Entlastungsvorschlägen. Was ökonomisch sinnvoll wäre, ist technisch nicht möglich.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e4ebd2c2fd56/w4256h2223x0y186o/202609/43601.0.2552044895/alarmstufe-rot-nicht-nur-an.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Bundesgerichtshof: Die Maskenprozesse sind für die Bundesregierung eine Zeitbombe",
-          "url": "https://www.spiegel.de/panorama/justiz/bundesgerichtshof-die-maskenprozesse-sind-fuer-die-bundesregierung-eine-zeitbombe-a-bd0eb77e-b5e3-4ec6-830c-1179c97e2d37#ref=rss",
-          "summary": "An diesem Mittwoch steigt beim Bundesgerichtshof das Endspiel um die Maskendeals von Jens Spahn. Für die Bundesregierung sind die Prozesse eine Zeitbombe. Händler Alexander Waap hat ein ganz anderes Problem.",
+          "title": "Künstliche Intelligenz: Fondsmanager warnt vor KI-Risiken für Finanzmärkte",
+          "url": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-fondsmanager-warnt-vor-ki-risiken-fuer-finanzmaerkte-a-ff70246d-f08b-4bc4-8798-12e3dc2a9dd1#ref=rss",
+          "summary": "Anthropic warnt vor massiven KI-Risiken, OpenAI verschiebt seinen Börsengang. Fondsmanager Christoph Schmidbauer vermutet dahinter auch knallharte Geschäftsinteressen – und sagt, worauf er jetzt setzen würde.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5b600e85-cb5a-4f5a-90a8-2f7a24ca201f_w1200_r1.778_fpx50_fpy49.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3e47f561-dd71-497b-9113-93fc2c35d22e_w1200_r1.778_fpx73.44_fpy55.01.jpg"
         },
         {
-          "title": "Größte Bank der Welt: Interne Dokumente zeigen fragwürdige Praktiken bei der chinesischen ICBC in London",
-          "url": "https://www.spiegel.de/wirtschaft/groesste-bank-der-welt-interne-dokumente-zeigen-fragwuerdige-praktiken-bei-der-chinesischen-icbc-in-london-a-f2e49b45-d3ab-4d7b-b5d5-14693a2964eb#ref=rss",
-          "summary": "China wickelt seine Geschäfte gern über die staatlich kontrollierte ICBC ab. Nun enthüllen interne Dokumente, die dem SPIEGEL vorliegen, wie fahrlässig in der größten Bank der Welt gearbeitet wird. Vor allem ein Fall alarmiert.",
+          "title": "Friedrich Merz: Was für und gegen Wüst, Söder, Dobrindt und Rhein als Kanzler spricht",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-was-fuer-und-gegen-wuest-soeder-dobrindt-und-rhein-als-kanzler-spricht-a-4f225f9d-c24e-46b0-89e3-5011671d8f15#ref=rss",
+          "summary": "Alexander Dobrindt, Hendrik Wüst, Markus Söder oder Boris Rhein? Der Kanzler wackelt, die Debatte über einen Nachfolger nimmt Fahrt auf. Doch bislang blockieren sich die möglichen Kandidaten in der Union. Was spricht für, was gegen sie?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c260d20b-a1ac-4235-9e6e-99a4882a8077_w1200_r1.778_fpx53.33_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/54b4d6b1-5ea4-4907-a813-74406581cdcd_w1200_r1.778_fpx61.15_fpy44.97.jpg"
         },
         {
-          "title": "Friedrich Merz: Die Union darf den Kanzler jetzt nicht fallenlassen – Kommentar",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-die-union-darf-den-kanzler-jetzt-nicht-fallenlassen-kommentar-a-22f902e5-1393-4fcb-bcef-1ab63fe4cbce#ref=rss",
-          "summary": "Manche in der Union wollen ihren Kanzler loswerden. Doch dann blieben die Reformen liegen, und das wäre für Deutschland desaströs.",
+          "title": "Benzinpreis: Friedrich Merz kündigt Entlastungen an",
+          "url": "https://www.spiegel.de/wirtschaft/benzinpreis-friedrich-merz-kuendigt-entlastungen-an-a-59ec2177-9a42-4a43-bac8-e3a9ed9b4c3d#ref=rss",
+          "summary": "Angesichts der hohen Spritpreise sieht der Kanzler die Belastungsgrenze vieler Autofahrer erreicht. Er sei der Meinung, »dass wir handeln müssen«. Das »genaue Instrumentarium« stehe aber noch nicht fest.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7b2959a4-471c-4ca7-9ee3-64b8d1cb7bb6_w1200_r1.778_fpx65.34_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/75cf481f-e21b-4541-97f9-fa8bd9b79096_w1200_r1.778_fpx42_fpy46.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
-          "url": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html",
-          "summary": "Unbekannte haben auf mehreren Bahnstrecken in den Niederlanden Rohre abgelegt. In Teilen des Landes fuhren keine Züge mehr. Der Netzbetreiber geht von Sabotage aus.",
+          "title": "Brandenburg: Weiterer BSW-Abgeordneter verlässt Partei und Fraktion",
+          "url": "https://www.tagesschau.de/inland/regional/brandenburg/weiterer-austritt-bsw-100.html",
+          "summary": "Der Brandenburger Landtag schrumpft weiter. Der Abgeordnete Oliver Skopec verlässt die BSW-Fraktion. Sein Mandat will er als parteiloser Abgeordneter weiterführen. Es ist der sechste Fraktionsaustritt seit vergangenem November.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/973c57c9-54be-424b-b487-e9fe15ffb5e4/AAABoKRQolw/AAABnSSvrFg/16x9-big/bahnhof-zwolle-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b139ad97-0b20-46fe-8438-ac7e4ed39898/AAABoKVcDyQ/AAABnSSvrFg/16x9-big/landtag-brandenburg-120.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: US-Zinsentscheid zwingt Anleger zur Vorsicht",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
-          "summary": "Der hohe Ölpreis zerschlägt die Hoffnungen der Anleger auf eine Kurserholung. Der DAX fällt weiter zurück, Argumente für den Kauf von Aktien sind derzeit schwer zu finden. Auch frische Konjunkturdaten fallen schwach aus.",
+          "title": "Linken-Kandidatin zur Berlin-Wahl: Wie Elif Eralp um das Rote Rathaus kämpft",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-eralp-linke-100.html",
+          "summary": "Die Linke liefert sich in Umfragen zur Berliner Abgeordnetenhauswahl ein Kopf-an-Kopf-Rennen mit der CDU. Ihre Spitzenkandidatin kämpft vor allem gegen hohe Mieten und polarisiert im Wahlkampf stark. Von Boris Hermel und Mirja Fiedler.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8080c411-a4f0-4a6f-a4e2-515285924a9d/AAABlg9yr_U/AAABnSSvrFg/16x9-big/dax-haendlerin-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b54e4f01-d929-4934-8d77-17debf7b4aad/AAABoKVUxE4/AAABnSSvrFg/16x9-big/elif-eralp-100.jpg?width=1280"
         },
         {
-          "title": "Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter",
-          "url": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html",
-          "summary": "Ein dänischer Militärhubschrauber ist nur knapp von Leuchtraketen einer russischen Fregatte verfehlt worden. Dänemark spricht von einem ernsten Vorfall - und hat den russischen Botschafter einbestellt. Von Jana Sinram.",
+          "title": "Bundesanwaltschaft: Mutmaßliche Mitglieder von Eritrea-Terrorgruppe festgenommen",
+          "url": "https://www.tagesschau.de/inland/bundesanwaltschaft-festnahme-eritrea-terrorgruppe-100.html",
+          "summary": "Eine in Deutschland tätige Terrorgruppe soll unter anderem für die Gewalt auf Eritrea-Festivals im vergangenen Jahr verantwortlich sein. Zwei mutmaßliche Mitglieder wurden jetzt festgenommen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/dc95f92c-04f3-4556-98bb-53ae71a2cc45/AAABoKQzYIw/AAABnSSvrFg/16x9-big/daenemark-gedser-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/01e14bf7-b158-4fac-9831-4029b5655fb2/AAABnkUewKg/AAABnSSvrFg/16x9-big/generalbundesanwalt-130.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Brics: Gipfel der geduldeten Gegensätze",
+          "url": "https://www.telepolis.de/article/Brics-Gipfel-der-geduldeten-Gegensaetze-11453620.html",
+          "summary": "Tiefe Gräben und ein gemeinsamer Text: Der Brics-Gipfel in Neu-Delhi trotzte dem Iran-Krieg. Doch ob aus dem Machtprojekt echte Gegenmacht wird, bleibt offen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/5/3/1/4/shutterstock_2613591413-42fd9e73b6e6d2c7.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Kriegstüchtigkeit: Der neue Obrigkeitsstaat kommt im Fragebogen",
+          "url": "https://www.telepolis.de/article/Kriegstuechtigkeit-Der-neue-Obrigkeitsstaat-kommt-im-Fragebogen-11453536.html",
+          "summary": "Wehretat, Wehrdienst und neue Kontrollbefugnisse verändern nicht nur die Bundeswehr, sondern auch die Republik. Ein Gastbeitrag.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/5/2/7/0/Master_Bw-cf430ad06b73c5dd.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Stuttgart 21: Das späte Geständnis eines Gutachters",
           "url": "https://www.telepolis.de/article/Stuttgart-21-Das-spaete-Gestaendnis-eines-Gutachters-11453436.html",
           "summary": "Ein Gutachter, der den Stresstest für Stuttgart 21 absegnete, glaubte selbst nicht an seine Zahlen. Was das für die spätere Betriebspraxis bedeuten könnte.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/5/2/1/0/shutterstock_2731708089-00bda491542b02ff.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Hybride Kriegsführung: Russlands verwundbares Hinterland",
-          "url": "https://www.telepolis.de/article/Hybride-Kriegsfuehrung-Russlands-verwundbares-Hinterland-11453203.html",
-          "summary": "Angeworbene Helfer und eingeschleuste Drohnen überwinden jede Entfernung. Doch für Sabotage tief im Hinterland braucht es Menschen vor Ort.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/5/0/8/2/Master_Lange-b1d4467e1af9646b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Gaskraftwerke: Erste Ausschreibung überzeichnet – doch Probleme beginnen erst",
-          "url": "https://www.telepolis.de/article/Gaskraftwerke-Erste-Ausschreibung-ueberzeichnet-doch-Probleme-beginnen-erst-11451929.html",
-          "summary": "Die Bundesnetzagentur prüft die Gebote – doch ungeklärte Gasbeschaffung, fehlende Turbinen und politischer Standortstreit gefährden das Milliardenprojekt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/4/2/5/gaskraft-89829a23536c98ae.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Oberleitungsschaden: Münchner S-Bahn-Stammstrecke komplett gesperrt – zwei Züge mit 150 Passagieren evakuiert",
-          "url": "https://www.sueddeutsche.de/muenchen/s-bahn-muenchen-stammstrecke-sperrung-heute-alternativen-evakuierung-li.3547720",
-          "summary": "Wegen Reparaturen an der Oberleitung kommt es am Dienstagmorgen zu großen Störungen im S-Bahn-Netz. Pendler müssen auf Ersatzverkehr ausweichen. Nur langsam entspannt sich die Lage.",
+          "title": "Raumfahrt: Esa warnt vor zu vielen Satelliten",
+          "url": "https://www.sueddeutsche.de/wissen/esa-weltraumschrottbericht-satelliten-erdorbit-li.3547449",
+          "summary": "Die langfristigen Folgen der Weltraumnutzung haben sich im Jahr 2025 ums zehnfache verschlimmert, berichtet die europäische Weltraumagentur. Und sie führt einen neuen Index ein: die Wahrscheinlichkeit, dass Weltraumschrott Menschen auf der Erde trifft.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/08/20/6d6c66fc-9d03-43af-972e-9afd00a3f68a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=321%2C758%2C3305%2C1859"
+          "image": "https://www.sueddeutsche.de/2026/09/15/238c57eb-41f4-4489-9430-7aba46700c50.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C154%2C4000%2C2250"
         },
         {
-          "title": "Bundeskriminalamt: Organisierte Kriminalität verursacht Schäden in Milliardenhöhe",
-          "url": "https://www.sueddeutsche.de/politik/organisierte-kriminalitaet-deutschland-rekordschaden-li.3547405",
-          "summary": "Der jährliche Schaden durch Clans, Mafia und Rockerbanden steigt auf 2,8 Milliarden Euro. Sorge bereitet den Ermittlern, dass die Taten immer brutaler werden – und viele Verdächtige sehr jung sind.",
+          "title": "CDU: Die Union bereitet sich auf das Schlimmste vor",
+          "url": "https://www.sueddeutsche.de/politik/cdu-berlin-mecklenburg-vorpommern-landtagswahlen-merz-li.3547763",
+          "summary": "Unter dem Eindruck alarmierender Umfragen verspricht Kanzler Merz kurz vor den Wahlen in Mecklenburg-Vorpommern und Berlin Entlastungen wegen der hohen Spritpreise.  Aber auch die Planung für einen harten Wahlabend läuft.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/15/b550353e-9729-4c61-92fb-0022f49f8952.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=695%2C616%2C3305%2C1859"
+          "image": "https://www.sueddeutsche.de/2026/09/15/88b3c176-1df0-40d4-bea5-7e883cd2ab5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C251%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zum Ukraine-Krieg: Trotz Ankündigung Trumps: Ukraine greift russische Ölraffinerie an",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-polen-zug-angriff-energieanlagen-infrastruktur-trump-li.3524928",
-          "summary": "Kiew beschießt die Industrieanlage in der Region Samara mit rund 40 Drohnen. Zuvor hatte der US-Präsident verkündet, Russland und die Ukraine wollten kritische Infrastruktur verschonen.",
+          "title": "Prozess in Düsseldorf: Erst Mörder, dann Influencer, nun wieder auf der Anklagebank",
+          "url": "https://www.sueddeutsche.de/panorama/duesseldorf-maschsee-moerder-prozess-alexander-k-li.3534170",
+          "summary": "Alexander K. soll seine Freundin geschlagen und mit einer Säge verletzt haben. Er ist kein Unbekannter: 2013 wurde er wegen des „Maschsee-Mordes“ verurteilt. Wie kam er so früh frei?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/15/9cfcd040-ad89-4c0c-8351-7b4e8f5becfd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/15/cb7426e6-4d14-46f9-9a53-f005af8be04d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
