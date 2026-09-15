@@ -1,10 +1,26 @@
 {
-  "generated": "2026-09-15T14:00:15.261Z",
-  "timestamp": "15.9.2026, 16:00:15",
+  "generated": "2026-09-15T18:00:09.607Z",
+  "timestamp": "15.9.2026, 20:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Abermals Preisrekord: Mit diesen vier Strategien wird versucht in Europa den Benzinpreis zu drücken",
+          "url": "https://www.faz.net/aktuell/finanzen/benzinpreise-in-europa-was-kann-deutschland-vom-ausland-lernen-201228415.html",
+          "summary": "In vielen Ländern versucht die Politik, etwas gegen die hohen Benzinpreise zu unternehmen. Was kann Deutschland vom Ausland lernen?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c5e38242c5b0/w4013h2096x142y459o/202609/43601.0.2552372569/die-benzinpreise-steigen.webp"
+        },
+        {
+          "title": "Liveblog Irankrieg: US-Energieminister: Saudische Pipeline nach Angriff bald wieder in Betrieb",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-energieminister-saudische-pipeline-nach-angriff-bald-wieder-in-betrieb-faz-200583539.html",
+          "summary": "Chris Wright spricht über Reparaturen +++ USA machen unterschiedliche Angaben zu explodiertem Öltanker in Straße von Hormus +++ Österreich verweigert Visum auf US-Druck +++  alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e395a75123f1/w7265h3795x0y901o/202609/43601.0.2557202991/us-energieminister-chris.webp"
+        },
         {
           "title": "Mögliche Maßnahmen: So könnte die Bundesregierung Autofahrer entlasten",
           "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/spritkosten-wie-die-bundesregierung-autofahrer-entlasten-koennte-201228630.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/e91458b8a9e2/w3979h2079x0y79o/202609/43601.0.2552412842/nichts-wie-weg-die-spritpreise.webp"
-        },
-        {
-          "title": "Energiepreise auf Rekord: Merz: „Bin der Meinung, dass wir handeln müssen“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/merz-kuendigt-entlastungen-von-hohen-energiepreisen-an-201229173.html",
-          "summary": "Der Bundeskanzler will angesichts der hohen Öl- und Gaspreise eingreifen. Das kündigte er bei einer Veranstaltung in Berlin an.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9d8fcb4d0814/w6144h3210x0y123o/202609/43601.0.2556181375/kanzler-merz-am-dienstag-in.webp"
-        },
-        {
-          "title": "Hohe Spritpreise: Die Hilflosigkeit der Politik",
-          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/spritpreise-und-uebergewinnsteuer-die-hilflosigkeit-der-politik-201227818.html",
-          "summary": "Preisbremsen, Deckel, Übergewinnsteuern: Die politischen Akteure überbieten sich mit Entlastungsvorschlägen. Was ökonomisch sinnvoll wäre, ist technisch nicht möglich.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e4ebd2c2fd56/w4256h2223x0y186o/202609/43601.0.2552044895/alarmstufe-rot-nicht-nur-an.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Künstliche Intelligenz: Fondsmanager warnt vor KI-Risiken für Finanzmärkte",
-          "url": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-fondsmanager-warnt-vor-ki-risiken-fuer-finanzmaerkte-a-ff70246d-f08b-4bc4-8798-12e3dc2a9dd1#ref=rss",
-          "summary": "Anthropic warnt vor massiven KI-Risiken, OpenAI verschiebt seinen Börsengang. Fondsmanager Christoph Schmidbauer vermutet dahinter auch knallharte Geschäftsinteressen – und sagt, worauf er jetzt setzen würde.",
+          "title": "Krieg im All: Die USA stationieren Waffen im Weltraum – kommt es jetzt zum Wettrüsten?",
+          "url": "https://www.spiegel.de/wissenschaft/weltall/krieg-im-all-die-usa-stationieren-waffen-im-weltraum-kommt-es-jetzt-zum-wettruesten-a-7591e91f-bbd6-4d17-8566-5fd366da01e0#ref=rss",
+          "summary": "Erstmals räumt das US-Militär ein, Waffen in den Orbit gebracht zu haben. Details sind rar, Fachleute warnen trotzdem vor einem gefährlichen Signal an Russland und China.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3e47f561-dd71-497b-9113-93fc2c35d22e_w1200_r1.778_fpx73.44_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/12a43fd2-263a-4abe-aa8a-245aec01f206_w1200_r1.778_fpx46_fpy42.jpg"
         },
         {
-          "title": "Friedrich Merz: Was für und gegen Wüst, Söder, Dobrindt und Rhein als Kanzler spricht",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-was-fuer-und-gegen-wuest-soeder-dobrindt-und-rhein-als-kanzler-spricht-a-4f225f9d-c24e-46b0-89e3-5011671d8f15#ref=rss",
-          "summary": "Alexander Dobrindt, Hendrik Wüst, Markus Söder oder Boris Rhein? Der Kanzler wackelt, die Debatte über einen Nachfolger nimmt Fahrt auf. Doch bislang blockieren sich die möglichen Kandidaten in der Union. Was spricht für, was gegen sie?",
+          "title": "Raumfahrt: Warum die Träume von riesigen Mondsiedlungen scheitern dürften",
+          "url": "https://www.spiegel.de/wissenschaft/weltall/raumfahrt-warum-die-traeume-von-riesigen-mondsiedlungen-scheitern-duerften-a-7e6a1208-379c-4585-bc9a-3ed01378af23#ref=rss",
+          "summary": "Kann die Menschheit auf dem Mond leben? Ja, sagt Jonathan McDowell – aber für die Expansion ins All braucht es Strom und Wasser. Der Astronom hat berechnet, ob genug davon da wäre.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/54b4d6b1-5ea4-4907-a813-74406581cdcd_w1200_r1.778_fpx61.15_fpy44.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cde14769-aa25-4d9c-a31b-e7fd2514d49d_w1200_r1.778_fpx48_fpy60.jpg"
         },
         {
-          "title": "Benzinpreis: Friedrich Merz kündigt Entlastungen an",
-          "url": "https://www.spiegel.de/wirtschaft/benzinpreis-friedrich-merz-kuendigt-entlastungen-an-a-59ec2177-9a42-4a43-bac8-e3a9ed9b4c3d#ref=rss",
-          "summary": "Angesichts der hohen Spritpreise sieht der Kanzler die Belastungsgrenze vieler Autofahrer erreicht. Er sei der Meinung, »dass wir handeln müssen«. Das »genaue Instrumentarium« stehe aber noch nicht fest.",
+          "title": "News des Tages: Demokraten-Interview von Jimmy Kimmel, US-amerikanische Waffen im Weltraum, Roggenbrot in Manhattan",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-demokraten-interview-von-jimmy-kimmel-us-amerikanische-waffen-im-weltraum-roggenbrot-in-manhattan-a-01a90867-fa5f-425b-8559-14b2129f2614#ref=rss",
+          "summary": "Ein junger Demokrat aus Texas macht die Republikaner nervös. Das Wettrüsten im All ist offiziell eröffnet. Und in New York verwandelt ein Bäcker aus Österreich Brot in Gold. Das ist die Lage am Dienstagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/75cf481f-e21b-4541-97f9-fa8bd9b79096_w1200_r1.778_fpx42_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Brandenburg: Weiterer BSW-Abgeordneter verlässt Partei und Fraktion",
-          "url": "https://www.tagesschau.de/inland/regional/brandenburg/weiterer-austritt-bsw-100.html",
-          "summary": "Der Brandenburger Landtag schrumpft weiter. Der Abgeordnete Oliver Skopec verlässt die BSW-Fraktion. Sein Mandat will er als parteiloser Abgeordneter weiterführen. Es ist der sechste Fraktionsaustritt seit vergangenem November.",
+          "title": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-102.html",
+          "summary": "Siebenstellige Mehrkosten verursacht die Umrundung Afrikas. Am Ende bezahlen das die Kunden. Doch die Preiserhöhungen liegen im Cent-Bereich, sagt Reederei-Experte Kröger. Er blickt gelassen auf die Lage: Schiffe fänden fast immer einen Weg.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b139ad97-0b20-46fe-8438-ac7e4ed39898/AAABoKVcDyQ/AAABnSSvrFg/16x9-big/landtag-brandenburg-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dea2e7e2-64b7-4b8b-9f0a-aadc13235b15/AAABoKVQsp8/AAABnSSvrFg/16x9-big/hapag-lloyd-schiff-100.jpg?width=1280"
         },
         {
-          "title": "Linken-Kandidatin zur Berlin-Wahl: Wie Elif Eralp um das Rote Rathaus kämpft",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-eralp-linke-100.html",
-          "summary": "Die Linke liefert sich in Umfragen zur Berliner Abgeordnetenhauswahl ein Kopf-an-Kopf-Rennen mit der CDU. Ihre Spitzenkandidatin kämpft vor allem gegen hohe Mieten und polarisiert im Wahlkampf stark. Von Boris Hermel und Mirja Fiedler.",
+          "title": "Bekannt aus \"Das Boot\": Schauspieler Ralf Richter ist tot",
+          "url": "https://www.tagesschau.de/kultur/ralf-richter-tot-102.html",
+          "summary": "Seine erste größere Rolle brachte gleich den Durchbruch: Der aus \"Das Boot\" bekannte Schauspieler Ralf Richter ist gestorben. In seiner Karriere spielte er oft ein Original aus dem Ruhrgebiet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b54e4f01-d929-4934-8d77-17debf7b4aad/AAABoKVUxE4/AAABnSSvrFg/16x9-big/elif-eralp-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ea4130ae-4177-4aa3-bac0-dfa63f0f228b/AAABoKW340Y/AAABnSSvrFg/16x9-big/richter-216.jpg?width=1280"
         },
         {
-          "title": "Bundesanwaltschaft: Mutmaßliche Mitglieder von Eritrea-Terrorgruppe festgenommen",
-          "url": "https://www.tagesschau.de/inland/bundesanwaltschaft-festnahme-eritrea-terrorgruppe-100.html",
-          "summary": "Eine in Deutschland tätige Terrorgruppe soll unter anderem für die Gewalt auf Eritrea-Festivals im vergangenen Jahr verantwortlich sein. Zwei mutmaßliche Mitglieder wurden jetzt festgenommen.",
+          "title": "Merz-Rückhalt in der Union bröckelt: Geteilte Stimmungslage",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/union-kanzlerfrage-analyse-100.html",
+          "summary": "Die Union ist geteilt: Die einen betonen die schlechte Stimmung, die anderen meinen, ein Kanzlertausch löse keine Probleme. Kritik bleibt meist anonym, potenzielle Nachfolger halten sich bedeckt. Palzer und T.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/01e14bf7-b158-4fac-9831-4029b5655fb2/AAABnkUewKg/AAABnSSvrFg/16x9-big/generalbundesanwalt-130.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c869ff29-ad26-40a6-b812-a798ff9ce526/AAABoKWvzLg/AAABnSSvrFg/16x9-big/merz-1602.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Raumfahrt: Esa warnt vor zu vielen Satelliten",
-          "url": "https://www.sueddeutsche.de/wissen/esa-weltraumschrottbericht-satelliten-erdorbit-li.3547449",
-          "summary": "Die langfristigen Folgen der Weltraumnutzung haben sich im Jahr 2025 ums zehnfache verschlimmert, berichtet die europäische Weltraumagentur. Und sie führt einen neuen Index ein: die Wahrscheinlichkeit, dass Weltraumschrott Menschen auf der Erde trifft.",
+          "title": "Newsblog zur Bundespolitik: Bericht: Merz sagt Reise zur UN-Vollversammlung ab",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-bundeswehr-merz-un-mecklenburg-vorpommern-li.3529564",
+          "summary": "Wegen der innenpolitischen Debatten wird der Bundeskanzler kommende Woche nicht zur UN-Generalversammlung fliegen. Grund sind die Landtagswahlen am Wochenende. Die Anwesenheit des Kanzlers sei in Berlin erforderlich, heißt es.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/15/238c57eb-41f4-4489-9430-7aba46700c50.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C154%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/15/74db0ab9-b60b-4cb4-9a52-70942aab481e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=662%2C266%2C3005%2C1690"
         },
         {
-          "title": "CDU: Die Union bereitet sich auf das Schlimmste vor",
-          "url": "https://www.sueddeutsche.de/politik/cdu-berlin-mecklenburg-vorpommern-landtagswahlen-merz-li.3547763",
-          "summary": "Unter dem Eindruck alarmierender Umfragen verspricht Kanzler Merz kurz vor den Wahlen in Mecklenburg-Vorpommern und Berlin Entlastungen wegen der hohen Spritpreise.  Aber auch die Planung für einen harten Wahlabend läuft.",
+          "title": "München: Oberleitung der S-Bahn repariert: Stammstrecke wieder frei",
+          "url": "https://www.sueddeutsche.de/muenchen/s-bahn-muenchen-stammstrecke-sperrung-heute-nachmittag-li.3547720",
+          "summary": "Wegen eines Schadens in der Oberleitung Nahe Pasing kommt es am Dienstag den gesamten Tag über zu massiven Ausfällen bei der S-Bahn, zwei Züge werden evakuiert. Verkehrsminister Bernreiter übt scharfe Kritik an der Bahn.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/15/88b3c176-1df0-40d4-bea5-7e883cd2ab5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C251%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/08/20/6d6c66fc-9d03-43af-972e-9afd00a3f68a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=321%2C758%2C3305%2C1859"
         },
         {
-          "title": "Prozess in Düsseldorf: Erst Mörder, dann Influencer, nun wieder auf der Anklagebank",
-          "url": "https://www.sueddeutsche.de/panorama/duesseldorf-maschsee-moerder-prozess-alexander-k-li.3534170",
-          "summary": "Alexander K. soll seine Freundin geschlagen und mit einer Säge verletzt haben. Er ist kein Unbekannter: 2013 wurde er wegen des „Maschsee-Mordes“ verurteilt. Wie kam er so früh frei?",
+          "title": "Film: Schauspieler Ralf Richter ist tot",
+          "url": "https://www.sueddeutsche.de/kultur/schauspieler-ralf-richter-tot-das-boot-bang-boom-bang-li.3548086",
+          "summary": "Richter war unter anderem im Film „Das Boot“ vor der Kamera. Der „Charakterkopf mit markanter Stimme“ wurde 69 Jahre alt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/15/cb7426e6-4d14-46f9-9a53-f005af8be04d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/15/e8055304-f61d-4062-a261-4abdc73a28a0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C170%2C2912%2C1638"
         }
       ]
     }
