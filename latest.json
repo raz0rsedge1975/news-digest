@@ -1,10 +1,26 @@
 {
-  "generated": "2026-09-15T22:00:08.723Z",
-  "timestamp": "16.9.2026, 00:00:08",
+  "generated": "2026-09-16T02:00:08.957Z",
+  "timestamp": "16.9.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Pistorius in den USA: Hegseth lobt Deutschland für „große Fortschritte“ bei Stärkung der NATO",
+          "url": "https://www.faz.net/aktuell/politik/ausland/hegseth-lobt-deutschland-fuer-grosse-fortschritte-bei-staerkung-der-nato-accg-201230752.html",
+          "summary": "Deutschland gehe bei seinen Militärausgaben mit gutem Beispiel voran, sagt der US-Verteidigungsminister. Mit seinem Amtskollegen Boris Pistorius vereinbart er eine vertiefte Zusammenarbeit in der Waffenproduktion.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a44c53eeafbd/w5544h2896x0y111o/202609/43601.0.2557338532/die-verteidigungsminister.webp"
+        },
+        {
+          "title": "Liveblog Irankrieg: USA räumen erstmals Munitionsknappheit im Irankrieg ein",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-us-energieminister-saudische-pipeline-nach-angriff-bald-wieder-in-betrieb-faz-200583539.html",
+          "summary": "Pentagon spricht von „strategischen Bestandslücken“ +++ USA bestätigen hochrangiges Militärtreffen in Deutschland +++ US-Energieminister: Pipeline nach Angriff bald wieder in Betrieb +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/81b9dc6e1451/w8256h4313x0y595o/202609/43601.0.2524003096/us-soldaten-feuern-waehrend.webp"
+        },
         {
           "title": "Abend mit Merz: In einer Zeit, die „verdammt nicht einfach ist“",
           "url": "https://www.faz.net/aktuell/politik/inland/friedrich-merz-bei-der-konrad-adenauer-stiftung-inmitten-der-unruhe-in-der-koalition-201230367.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ed7215c08b5e/w6000h3135x0y366o/202609/43601.0.2557173276/ein-abend-zum-kraft-tanken.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: „Weil seine Präsenz in Berlin erforderlich ist“ – Merz sagt Reise zur UN ab",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-weil-seine-praesenz-in-berlin-erforderlich-ist-merz-sagt-reise-zur-un-ab-faz-110093143.html",
-          "summary": "Reise ursprünglich für nächste Woche geplant +++ Kanzler spricht von einer „Bewährungsprobe für die Koalition“ +++ Dobrindt meldet „Kokainflut“ in Deutschland +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dd586d5062fc/w6000h3135x0y433o/202609/43601.0.2557116372/bundeskanzler-friedrich-merz.webp"
-        },
-        {
-          "title": "Kulturzentrum in Washington: Trump droht mit Aus für das Kennedy Center",
-          "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/trump-droht-mit-aus-fuer-das-kennedy-center-accg-201226825.html",
-          "summary": "Das Kennedy Center hat die sofortige Schließung für die Renovierung beschlossen. Ein Bundesrichter verbot erneut, Donald Trumps Namen an der Fassade anzubringen. Der droht nun mit dem Aus für das Kulturzentrum.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5018402f6cbc/w6000h3135x0y470o/202609/43601.0.2521321734/nur-noch-ein-schatten.webp"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an",
+          "url": "https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html",
+          "summary": "US-Präsident Trump will seinen Namen am berühmten Kennedy Center anbringen. Nachdem ein Gericht dies erneut untersagte, kündigte er die sofortige Schließung an. Das begründete er unter anderem mit nötigen Renovierungsarbeiten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/1878aaab-2f86-4e7b-90c0-e47e58582d1c/AAABoKeTH9Q/AAABnSSvrFg/16x9-big/kennedy-center-114.jpg?width=1280"
+        },
+        {
+          "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
+          "url": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html",
+          "summary": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtmunition beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf Dänemark Provokation vor.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/dc95f92c-04f3-4556-98bb-53ae71a2cc45/AAABoKQzYIw/AAABnSSvrFg/16x9-big/daenemark-gedser-100.jpg?width=1280"
+        },
+        {
           "title": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
           "url": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html",
           "summary": "Die Huthi-Miliz blockiert im Jemen eine der wichtigsten Meerengen der Welt. Doch abseits der Schlagzeilen zu Öl und Handel leiden Zehntausende Menschen. Sie sind der Gewalt schutzlos ausgeliefert. Von Anna Osius.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/fde413ff-2405-4ac8-8dac-d83228e906b6/AAABoKZtE2Y/AAABnSSvrFg/16x9-big/jemen-830.jpg?width=1280"
-        },
-        {
-          "title": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
-          "url": "https://www.tagesschau.de/inland/sprit-taskforce-bundesregierung-100.html",
-          "summary": "Mehr Druck auf Mineralölkonzerne und zielgerichtete Maßnahmen: SPD-Fraktionsvize Zorn verspricht neue Vorschläge der Sprit-Taskforce \"in den nächsten Tagen\". Angesichts der hohen Spritpreise seien staatliche Eingriffe nötig.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/2723cc5b-df79-4dea-bf97-762c3f46fbe9/AAABoKaBFRc/AAABnSSvrFg/16x9-big/tankstelle-338.jpg?width=1280"
-        },
-        {
-          "title": "Bundeskanzler Merz sagt Reise zur UN-Generaldebatte ab",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-un-generaldebatte-absage-100.html",
-          "summary": "Der \"Außenkanzler\" Merz steht unter Druck - innenpolitisch. Das Wahlergebnis in Sachsen-Anhalt setzt ihm zu - und die nächsten Wahlen stehen bevor. Nun sagt der CDU-Chef eine Reise zu den Vereinten Nationen ab: Er werde in Berlin gebraucht.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ba01822f-f82b-4029-b97c-9ca0d8ff3ca3/AAABoKZhJzo/AAABnSSvrFg/16x9-big/merz-1606.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA-Newsblog: Kennedy Center wird laut Trump umgehend geschlossen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kennedy-center-geschlossen-li.3530667",
+          "summary": "Der US-Präsident wollte seinen Namen an das berühmte Kulturzentrum in Washington anbringen, doch ein Gericht blockiert den Schritt mehrfach. Jetzt versucht er erneut, die Einrichtung lange Zeit stillzulegen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/15/b03f9d7c-fade-4e3a-a26e-c8dca38d9c1a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Newsblog zur Bundespolitik: Bericht: Merz sagt Reise zur UN-Vollversammlung ab",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-bundeswehr-merz-un-mecklenburg-vorpommern-li.3529564",
           "summary": "Wegen der innenpolitischen Debatten wird der Bundeskanzler kommende Woche nicht zur UN-Generalversammlung fliegen. Grund sind die Landtagswahlen am Wochenende. Die Anwesenheit des Kanzlers sei in Berlin erforderlich, heißt es.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/20/6d6c66fc-9d03-43af-972e-9afd00a3f68a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=321%2C758%2C3305%2C1859"
-        },
-        {
-          "title": "Film: Schauspieler Ralf Richter ist tot",
-          "url": "https://www.sueddeutsche.de/kultur/schauspieler-ralf-richter-tot-das-boot-bang-boom-bang-li.3548086",
-          "summary": "Richter war unter anderem im Film „Das Boot“ vor der Kamera. Der „Charakterkopf mit markanter Stimme“ wurde 69 Jahre alt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/15/e8055304-f61d-4062-a261-4abdc73a28a0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C170%2C2912%2C1638"
         }
       ]
     }
