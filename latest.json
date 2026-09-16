@@ -1,25 +1,25 @@
 {
-  "generated": "2026-09-16T18:00:12.075Z",
-  "timestamp": "16.9.2026, 20:00:12",
+  "generated": "2026-09-16T22:00:08.159Z",
+  "timestamp": "17.9.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Migrantische Wähler: „Ich geh’ nicht wählen, es bringt ja eh nichts“",
+          "title": "Deutschland-Liveblog: Schwesig und Holm streiten über Rassismus und Migration",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-schwesig-und-holm-streiten-ueber-rassismus-und-migration-faz-110093143.html",
+          "summary": "Scharfe gegenseitige Angriffe beim TV-Duell in Schwerin zwischen Ministerpräsidentin Schwesig (SPD) und AfD-Herausforderer Holm +++ Fernsehdebatte der Berliner Spitzenkandidaten: Streit über mögliche Enteignungen +++ Bas und Dobrindt legen Zehn-Punkte-Plan zu Sozialbetrug vor +++...",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/99381ee8ff0e/w6192h3235x0y339o/202609/43601.0.2560798058/fernsehduell-in-schwerin.webp"
+        },
+        {
+          "title": "Berlin: Warum migrantische Wähler seltener ihre Stimme abgeben",
           "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-warum-migrantische-waehler-seltener-ihre-stimme-abgeben-201224207.html",
           "summary": "Menschen mit Migrationshintergrund nehmen seltener an Wahlen teil. Woran liegt das, und was kann man dagegen tun? Unterwegs in Berlin-Neukölln.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/64ed839f2cd5/w3741h1954x0y341o/202608/43601.0.2473300997/die-vorstandssprecherin-des.webp"
-        },
-        {
-          "title": "Wahl in Berlin: Würde die Linke ihre Spitzenkandidatin regieren lassen?",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berlin-wahl-2026-wuerde-die-linkspartei-elif-eralp-regieren-lassen-accg-201224291.html",
-          "summary": "Die Linkspartei hat gute Chancen, die Berliner Abgeordnetenhauswahl zu gewinnen. Elif Eralps Weg ins Rote Rathaus könnte trotzdem steinig werden.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a968ca4aa928/w7930h4143x0y755o/202609/43601.0.2517506243/elif-eralp-bei-der.webp"
         },
         {
           "title": "Wahl in Berlin: Wofür die Spitzenkandidaten in Berlin stehen",
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "CDU: Friedrich Merz - was hinter der Solidaritätsadresse der Ministerpräsidenten steckt",
-          "url": "https://www.spiegel.de/politik/deutschland/cdu-friedrich-merz-was-hinter-der-solidaritaetsadresse-der-ministerpraesidenten-steckt-a-26d24769-8744-4047-bb61-732113a63bd4#ref=rss",
-          "summary": "Die acht CDU-Ministerpräsidenten wenden sich gegen Gedankenspiele zu Minderheitsregierungen und Personaldebatten. Kanzler Merz kann sich gestärkt fühlen – vorerst.",
+          "title": "Monchi zu AfD: Gesichert rechtsextrem? »Das ist den Leuten gesichert scheißegal« - SPIEGEL-Talk",
+          "url": "https://www.spiegel.de/politik/monchi-im-spiegel-talk-gesichert-rechtsextrem-das-ist-den-leuten-gesichert-scheissegal-a-dbbcc598-6f0d-436e-87c8-f55cee93c26c#ref=rss",
+          "summary": "Warum wählen so viele Ostdeutsche die AfD? Hier diskutieren Sänger Jan »Monchi« Gorkow, Autor Olaf Sundermeyer und Melanie Stein von »Wir sind der Osten« über Verfassungsschutzberichte, politische Fehler und westdeutsche Arroganz.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/33d690ca-7695-4eb5-8b8d-df644eaa1473_w1200_r1.778_fpx52_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/867b3022-52b9-4044-9360-51f85b03a6db_w1200_r1.778_fpx50_fpy50.jpg"
+        },
+        {
+          "title": "US-Notenbank Fed erhöht Leitzins erstmals seit 2023",
+          "url": "https://www.spiegel.de/wirtschaft/us-notenbank-fed-erhoeht-leitzins-erstmals-seit-2023-a-c72447c1-ff8e-4fdb-a5c1-9745d77ce5b9#ref=rss",
+          "summary": "Wegen Irankriegs und hoher Inflation: Fed-Chef Kevin Warsh setzt den Leitzins erstmals seit mehr als drei Jahren rauf. Er geht damit auf Konfrontationskurs mit US-Präsident Trump.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/3a3e7b87-f2df-4457-9a09-f1856957eeb3_w1200_r1.778_fpx53_fpy60.jpg"
         },
         {
           "title": "News des Tages: Ed Sheeran, Ursula von der Leyen, Malaria in Deutschland",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "USA: Widersetzt sich Fed-Chef Kevin Warsh dem Druck von Donald Trump?",
-          "url": "https://www.spiegel.de/wirtschaft/usa-widersetzt-sich-fed-chef-kevin-warsh-dem-druck-von-donald-trump-a-78810cd9-3e2f-43cc-8252-50684f9c1752#ref=rss",
-          "summary": "Der neue Fed-Chef steht vor einer kaum lösbaren Aufgabe: die Inflation bekämpfen und dafür die Zinsen erhöhen – oder seinen Fürsprecher Donald Trump glücklich machen. Es ist ein Test, wie unabhängig der oberste US-Währungshüter ist.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/57845fbd-fe26-4de9-82bc-cf93e3362f22_w1200_r1.778_fpx66.64_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Vier Jahre \"Frau, Leben, Freiheit\": Was von Irans Protesten geblieben ist",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-jahrestag-frau-leben-freiheit-100.html",
-          "summary": "Vor vier Jahren starb eine junge Kurdin nach ihrer Festnahme durch die Sittenpolizei in Iran, es folgten landesweite Proteste. Frauen haben sich seitdem kleine Freiräume erkämpft - doch die Repression hat sich weiter verschärft. Von Antonia Rüller.",
+          "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
+          "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit diesem Schritt gerechnet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/998bd191-f8dd-4053-b9c1-166e354d27e1/AAABoKtOVuQ/AAABnSSvrFg/16x9-big/frauen-teheran-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/685c8519-02b2-4274-a9e1-f8616648a419/AAABoKuKZSE/AAABnSSvrFg/16x9-big/stock-exchange-100.jpg?width=1280"
         },
         {
-          "title": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
-          "summary": "Angesichts hoher Spritpreise hat die Politik Entlastung versprochen - aber es ist unklar, wie die aussehen könnte. Nach Unionsfraktionschef Frei sprach sich nun auch Wirtschaftsministerin Reiche für eine befristete Senkung der Mehrwertsteuer aus.",
+          "title": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
+          "url": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html",
+          "summary": "Martin Gutzeit war 1989 Mitbegründer der Ost-SPD und später langjähriger Berliner Beauftragter für die Stasi-Unterlagen. Nun ist er im Alter von 74 Jahren in Berlin gestorben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6cd6025b-4e5a-4a03-aa32-a408330d8530/AAABoKs-NTg/AAABnSSvrFg/16x9-big/reiche-210.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/490a209a-1582-4dd1-befe-fa6d1b486642/AAABoKtwo-U/AAABnSSvrFg/16x9-big/gutzeit-100.jpg?width=1280"
         },
         {
-          "title": "Streit um Kultureinrichtung: Trump verweigert Kennedy Center Renovierung",
-          "url": "https://www.tagesschau.de/ausland/amerika/kennedy-center-120.html",
-          "summary": "Das Kennedy Center ist nach einem Sturm in schlechtem Zustand. Es müsste dringend renoviert werden. Doch US-Präsident Trump will nur zustimmen, wenn er anschließend wieder seinen Namen am Gebäude anbringen darf.",
+          "title": "Syrien: Größte Proteste seit Sturz von Assad",
+          "url": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
+          "summary": "Gleich zweimal in kurzer Zeit hat die syrische Regierung Energiepreise erhöht. Dagegen regt sich im Land nun breiter Protest. Die Energiekrise hängt weniger mit der Entwicklung rund um Iran zusammen - sondern mit einem anderen Krieg.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b30fc624-ed02-4d48-a7dd-5c5cfd6296f3/AAABoKsPBuM/AAABnSSvrFg/16x9-big/kennedy-center-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/07dfa3ef-ef4c-49e3-8058-c135f01b320e/AAABoKtMa_U/AAABnSSvrFg/16x9-big/tanklastwagen-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Salzburger Festspiele: Überraschung auf der Zielgeraden",
-          "url": "https://www.sueddeutsche.de/kultur/salzburger-festspiele-oper-bruessel-peter-de-caluwe-li.3548840",
-          "summary": "Der belgische Opernintendant Peter de Caluwe wird neuer Intendant der Salzburger Festspiele. Das als Favorit gehandelte Duo geht leer aus.",
+          "title": "Geldpolitik: US-Notenbank erhöht Zinsen erstmals seit drei Jahren",
+          "url": "https://www.sueddeutsche.de/wirtschaft/us-notenbank-fed-leitzins-erhoehung-warsh-trump-li.3548613",
+          "summary": "Der neue Fed-Chef Kevin Warsh setzt den Leitzins herauf. Die hohe Inflation ließ ihm kaum eine andere Wahl. Die Kritik des US-Präsidenten erfolgt prompt, Donald Trump hält niedrige Zinsen für patriotisch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/16/c47a1931-7c20-427a-9418-9c95e6c7ec04.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C206%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/16/8ef96754-946e-4f1f-a2a7-a928d2728747.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C103%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zur Bundespolitik: Regierungssprecher zweifelt an Seriosität von Umfragen",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-kornelius-umfragen-li.3529564",
-          "summary": "Die Beliebtheitswerte von Kanzler Merz sind gerade nicht gut. Sein Sprecher Kornelius rät nun zur Vorsicht, was die Aussagekraft solcher Erhebungen angeht.",
+          "title": "Bundesregierung: Klingbeil und Bas laden frühere SPD-Chefs zu Lagebesprechung ein",
+          "url": "https://www.sueddeutsche.de/politik/spd-klingbeil-bas-vorgaenger-lagebesprechung-berlin-li.3548314",
+          "summary": "Die beiden SPD-Vorsitzenden haben eine Reihe ihrer Vorgänger für den Tag nach den Wahlen in Berlin und Mecklenburg-Vorpommern in die Parteizentrale gebeten. Sie hoffen auf Rückendeckung in schwierigen Zeiten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/16/2e9c83cc-5ff1-46ea-b79a-9480d23d5abe.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C457%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2025/09/28/9e243951-f9b7-4ade-ada4-23ac55cb9d34.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C293%2C3636%2C2045"
         },
         {
-          "title": "Künstliche Intelligenz: Warum ein amerikanisches Start-up nach Deutschland geht",
-          "url": "https://www.sueddeutsche.de/wirtschaft/langdock-ki-start-up-firmensitz-usa-berlin-li.3548326",
-          "summary": "Die Firma Langdock gibt ihren Firmensitz im US-Bundesstaat Delaware auf. Was klingt wie ein modernes Märchen, hat vor allem mit dem Geschäftsmodell der KI-Plattform zu tun.",
+          "title": "Newsblog zu KI: UN-Generalsekretär warnt vor KI-Risiken",
+          "url": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-zusammenarbeit-openai-anthropic-google-un-trump-li.3547133",
+          "summary": "Vor der UN-Vollversammlung kommende Woche fordert Guterres eine stärkere Überwachung der Technologie. Er stellt sich damit gegen die Aussagen von US-Präsident Trump.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/16/95dec415-74e9-409f-91c7-6199df99f9f2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C242%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/09/16/1adad32a-882c-4094-9f79-4cb96064f684.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C287%2C3636%2C2045"
         }
       ]
     }
