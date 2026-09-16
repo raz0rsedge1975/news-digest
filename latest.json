@@ -1,39 +1,47 @@
 {
-  "generated": "2026-09-16T10:00:18.221Z",
-  "timestamp": "16.9.2026, 12:00:18",
+  "generated": "2026-09-16T14:00:12.998Z",
+  "timestamp": "16.9.2026, 16:00:12",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Deutschland-Liveblog: CDU-Ministerpräsidenten gegen Minderheitsregierung und Personaldebatten",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cdu-ministerpraesidenten-gegen-minderheitsregierung-und-personaldebatten-faz-110093143.html",
-          "summary": "Sämtliche Länderchefs der CDU veröffentlichen gemeinsame Stellungnahme +++ Regierung beschließt Zehn-Punkte-Plan gegen islamistischen Terror  +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7138c7fa0ae7/w5694h2975x0y417o/202609/43601.0.2559077024/bundeskanzler-friedrich-merz.webp"
-        },
-        {
-          "title": "UBS-Stratege Maximilian Kunkel: „Die Wahl in Sachsen-Anhalt wird den Aufschwung nicht stoppen\"",
-          "url": "https://www.faz.net/aktuell/finanzen/maximilian-kunkel-von-ubs-reformagenda-ist-entscheidend-accg-201224666.html",
-          "summary": "Der Ausgang der Wahl in Sachsen-Anhalt hat für politische Schockwellen gesorgt. Der UBS-Anlagestratege Maximilian Kunkel hat die Märkte gelassener im Blick.",
+          "title": "Technischer Fortschritt: Das bedrohte Versprechen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/anthropic-openai-co-das-versprechen-der-ki-und-wieso-die-gefahr-gross-ist-19983533.html",
+          "summary": "Mehr Daten, mehr Mathematik und mehr Vernetzung führen zu mehr Fortschritt, Freiheit und Wohlstand – darauf haben wir uns lange verlassen. Das erhoffen wir eigentlich auch von der Künstlichen Intelligenz. Und nun?",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/5dda6ec7208c/w6038h3154x0y435o/202609/43601.0.2522132028/magdeburg-nach-der-wahl.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3291b8a2687e/w8091h4227x0y502o/202404/43601.0.277540366/die-kuenstlichen-neuronalen.webp"
         },
         {
-          "title": "Die Gründe der AfD-Wähler: Das Blaue vom Himmel",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/wahl-sachsen-anhalt-2026-detlef-pollack-ueber-die-gruende-der-afd-waehler-accg-201215644.html",
-          "summary": "Woher kommt der Erfolg der AfD? Es gibt ostspezifische und gesamtdeutsche Gründe. Gefühlte Schwäche nährt eingebildete Überlegenheit, und die falschen Versprechen der Politik rächen sich irgendwann.",
+          "title": "Cohere übernimmt Aleph Alpha: Die Pläne der neuen deutsch-kanadischen KI-Hoffnung",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-und-cohere-das-planen-aidan-gomez-und-ilhan-scheer-201231269.html",
+          "summary": "Die Übernahme der einstigen deutschen KI-Hoffnung Aleph Alpha durch Cohere ist unterzeichnet. Hier sprechen die Chefs Aidan Gomez und Ilhan Scheer über ihre Pläne – und was in der Vergangenheit schiefgelaufen ist.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f974c90b89eb/w4133h2159x0y83o/202609/43601.0.2535256234/der-gute-laune-problembaer-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/be93d34e8dce/w6000h3135x0y545o/202604/43601.0.2014084539/hochpolitisch-digitalminister.webp"
+        },
+        {
+          "title": "Künstliche Intelligenz: Bringt die KI uns alle um?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elon-musk-stimmt-openai-und-anthropic-zu-droht-uns-durch-ki-wirklich-das-ende-accg-201214335.html",
+          "summary": "KI-Entwickler warnen davor, dass ihre Schöpfung die Menschheit vernichten kann. Nun verlangen sogar die Chefs von Open AI und Anthropic öffentlich, die Forschung zu bremsen – und Elon Musk stimmt ihnen zu. Wie ernst muss man die Sorgen nehmen?",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/3cccec17a445/w2741h1432x68y197o/202410/1.10045252/gruseln-wie-im-film-james.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Fußball-Nationalmannschaft: Kann Jürgen Klopp den deutschen Fußball wieder nach oben führen?",
+          "url": "https://www.spiegel.de/sport/fussball/fussball-nationalmannschaft-kann-juergen-klopp-den-deutschen-fussball-wieder-nach-oben-fuehren-a-e53266b2-ab4f-4199-81fa-2db85ac44cd1#ref=rss",
+          "summary": "Mit dem ersten Länderspiel wird es jetzt ernst für Bundestrainer Jürgen Klopp. Der Auftrag: den deutschen Fußball zurück an die Weltspitze bringen. Sind die Erwartungen zu hoch?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8615ee67-88ef-4a08-bbeb-e70bf5873e8a_w1200_r1.778_fpx43_fpy39.jpg"
+        },
         {
           "title": "Ursula von der Leyen schlägt Kanada als erstes »assoziiertes« EU-Mitglied vor",
           "url": "https://www.spiegel.de/ausland/ursula-von-der-leyen-schlaegt-kanada-als-erstes-assoziiertes-eu-mitglied-vor-a-079db81d-c66a-4dc7-a292-98c04d204af4#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/bc42c060-0491-4c47-9c1d-c7f4e95e692e_w1200_r1.778_fpx46_fpy33.jpg"
         },
         {
-          "title": "Friedrich Merz und Bundesregierung: CDU-Ministerpräsidenten warnen vor Planspielen mit Minderheitsregierung",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-und-bundesregierung-cdu-ministerpraesidenten-warnen-vor-planspielen-mit-minderheitsregierung-a-4afd473b-a3f9-48e0-b08e-77b2f3ca4816#ref=rss",
-          "summary": "Kanzler Friedrich Merz steht massiv unter Druck. Jetzt melden sich alle CDU-Ministerpräsidenten zu Wort. In einem Schreiben wenden sie sich – wenn auch nur knapp – gegen Personaldiskussionen und drängen auf Stabilität.",
+          "title": "Friedrich Merz/Bundesregierung: CDU-Ministerpräsidenten warnen vor Planspielen mit Minderheitsregierung",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-bundesregierung-cdu-ministerpraesidenten-warnen-vor-planspielen-mit-minderheitsregierung-a-4afd473b-a3f9-48e0-b08e-77b2f3ca4816#ref=rss",
+          "summary": "Jetzt melden sich in der Kanzlerkrise alle CDU-Ministerpräsidenten zu Wort. In einem Schreiben wenden sie sich – wenn auch nur knapp – gegen Personaldiskussionen und drängen auf Stabilität.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8ef7b1bd-5dd7-450a-8eb4-22c9856a6f67_w1200_r1.778_fpx50.67_fpy50.jpg"
-        },
-        {
-          "title": "Spritpreise: Unionsfraktionschef Frei schlägt Senkung der Mehrwertsteuer vor",
-          "url": "https://www.spiegel.de/wirtschaft/spritpreise-experten-warnen-doch-der-druck-auf-merz-waechst-a-c5c151ba-df63-4535-85b2-abb55d15f899#ref=rss",
-          "summary": "Mit seiner Ankündigung, gegen die hohe Belastung durch teuren Sprit vorzugehen, hat Bundeskanzler Merz eine heftige Diskussion ausgelöst. Experten warnen, der Chor der Befürworter wächst. Fraktionschef Frei formuliert einen möglichen Kompromiss.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ed8fa909-2a2b-4e42-bcc6-277d4b35ad7e_w1200_r1.778_fpx55.96_fpy49.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/368e13ee-795b-49c9-a333-f28b9eb9a487_w1200_r1.778_fpx49_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html",
-          "summary": "Die Bundesregierung will entschlossener gegen Terror, Propaganda und Gewalt vorgehen. Gefährder sollen künftig stärker überwacht, Messerangriffe härter bestraft werden. Justizministerin Hubig sprach von einer \"ernsten Gefahr\".",
+          "title": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
+          "url": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html",
+          "summary": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen. Hoffnung weckt auch ein neuer Wirkstoff.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/124fc073-9c83-4c7b-a898-471fd1116654/AAABoKlokfw/AAABnSSvrFg/16x9-big/dobrindt-hubig-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/68a835d7-c483-470b-aad9-448249d46291/AAABoKoY7uM/AAABnSSvrFg/16x9-big/blutproben-110.jpg?width=1280"
         },
         {
-          "title": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html",
-          "summary": "Kanzler Merz steht massiv unter Druck. Kurz vor den Landtagswahlen in Mecklenburg-Vorpommern und Berlin melden sich nun alle acht CDU-Ministerpräsidenten in der Personaldebatte zu Wort - und stellen sich hinter Merz.",
+          "title": "Gazastreifen: Tote bei Einsturz von ausgebombtem Wohnhaus",
+          "url": "https://www.tagesschau.de/ausland/europa/gaza-tote-hauseinsturz-100.html",
+          "summary": "Im Gazastreifen ist ein mehrstöckiges Wohnhaus eingestürzt. Es gibt zahlreiche Tote, noch fast 100 weitere Menschen werden vermisst. Helfer graben mit bloßen Händen nach ihnen. Das Gebäude war zuvor durch israelische Angriffe beschädigt worden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a838d116-c746-4c36-99cd-969b2bef8468/AAABoHu6fAA/AAABnSSvrFg/16x9-big/merz-1528.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/883e3925-8546-47ea-8a6c-3e69a3c72ce9/AAABoKpPaUM/AAABnSSvrFg/16x9-big/wohnhaus-gaza-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX startet mit Gewinnen vor US-Zinsentscheid",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html",
-          "summary": "Ermutigt durch sinkende Ölpreise zeigen sich die Anlegerinnen und Anleger zur Wochenmitte wieder etwas risikofreudiger. Vor der Zinsentscheidung der US-Notenbank am Abend stabilisiert sich der DAX.",
+          "title": "Mindestens 60 Tote bei Einsturz von Goldmine im Sudan",
+          "url": "https://www.tagesschau.de/ausland/afrika/sudan-goldmine-102.html",
+          "summary": "Beim Einsturz einer Goldmine im Sudan sind mindestens 60 Menschen ums Leben gekommen. Möglicherweise könnten weitere Arbeiter noch verschüttet sein. Das Land ist ein weltweit wichtiger Goldproduzent. Von Moritz Behrendt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/09506678-7749-49b2-9070-2851175fbbe3/AAABoKkOuXQ/AAABnSSvrFg/16x9-big/fed-168.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/86bedd8e-9258-465f-b8f2-af621aa25efc/AAABoKpB-m8/AAABnSSvrFg/16x9-big/karte-sudan-khartum-nuhud-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Der Kanzler, der zu Hause bleiben muss",
-          "url": "https://www.telepolis.de/article/Der-Kanzler-der-zu-Hause-bleiben-muss-11454944.html",
-          "summary": "Bundeskanzler Friedrich Merz sagt seine Reise zur UN-Generaldebatte in New York ab. Doch die Absage verrät mehr über seine Lage, als ihm lieb sein kann.",
+          "title": "Preisschock an der Säule: Wie der Iran-Krieg die Welt in die Energiekrise treibt",
+          "url": "https://www.telepolis.de/article/Preisschock-an-der-Saeule-Wie-der-Iran-Krieg-die-Welt-in-die-Energiekrise-treibt-11455150.html",
+          "summary": "Rekordspritpreise in Deutschland, brennende Autos in Guatemala: Der US-israelische Krieg gegen Iran führt die Welt ungebremst in eine Energiekrise.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/5/9/8/6/shutterstock_2704196233-2e42a64b3a18956a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/0/8/9/shutterstock_2758287253-e23c983ac0edd1c8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Losdemokratie: Das Los schafft die Herrschaft nicht ab",
-          "url": "https://www.telepolis.de/article/Losdemokratie-Das-Los-schafft-die-Herrschaft-nicht-ab-11454603.html",
-          "summary": "Ausgeloste Bürger entscheiden womöglich offener als Berufspolitiker. Doch ohne faire Aushandlung kann auch ihre Mehrheit willkürlich über andere bestimmen.",
+          "title": "US-Berichte enthüllen: Iran-Krieg kostet 38 Mrd. und leert Raketenlager",
+          "url": "https://www.telepolis.de/article/US-Berichte-enthuellen-Iran-Krieg-kostet-38-Mrd-und-leert-Raketenlager-11455156.html",
+          "summary": "Offizielle US-Berichte belegen erstmals das Ausmaß des Munitionsverbrauchs im Iran-Krieg. Die Folgen treffen auch die Bundeswehr und die Ukraine.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/5/8/1/7/Master_Rieg-689e64000fcd8f3c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/0/9/2/shutterstock_2379854391-7018313336bd150e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Kaffeeersatz: Von Lupine bis Eichel – diese Alternativen lohnen sich wirklich",
-          "url": "https://www.telepolis.de/article/Kaffeeersatz-Von-Lupine-bis-Eichel-diese-Alternativen-lohnen-sich-wirklich-11451977.html",
-          "summary": "Bohnenkaffee wird immer teurer. Heimische Pflanzen wie Dinkel, Lupine oder Zichorie liefern koffeinfreie Alternativen – mit erstaunlichem Geschmack.",
+          "title": "Deutschlandfunk: Der Mut zur Kultur schwindet",
+          "url": "https://www.telepolis.de/article/Deutschlandfunk-Der-Mut-zur-Kultur-schwindet-11455144.html",
+          "summary": "Fachmagazine weg, Inhalte über den Tag verstreut: Der Deutschlandfunk verspricht mehr Tiefe. Doch seine Reform droht das Programm zu verflachen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/4/4/9/cafe-f89da78a77f28ad0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/0/8/6/Master_Radio-b0963d54a883ce96.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundesregierung: Klingbeil und Bas laden frühere SPD-Chefs zu Lagebesprechung ein",
-          "url": "https://www.sueddeutsche.de/politik/spd-klingbeil-bas-vorgaenger-lagebesprechung-berlin-li.3548314",
-          "summary": "Die beiden SPD-Vorsitzenden haben eine Reihe ihrer Vorgänger für den Tag nach den Wahlen in Berlin und Mecklenburg-Vorpommern in die Parteizentrale gebeten. Sie hoffen auf Rückendeckung in schwierigen Zeiten.",
+          "title": "Corona-Schutzmasken: Dieses Haushaltsloch könnte dem Bund erspart bleiben",
+          "url": "https://www.sueddeutsche.de/politik/corona-schutzmasken-bundesgerichtshof-li.3548267",
+          "summary": "Der Bundesgerichtshof verhandelt über Maskenlieferungen aus der Frühzeit der Pandemie. Es geht um Milliarden. Ein Richter deutet an, dass die Sache für den Steuerzahler womöglich gut ausgeht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/09/28/9e243951-f9b7-4ade-ada4-23ac55cb9d34.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C293%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2022/06/08/36f08a64-6857-4c55-bd5a-cf2706d5b0a4.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=31%2C238%2C1115%2C627"
         },
         {
-          "title": "Bundesregierung: CDU-Ministerpräsidenten springen Merz bei",
-          "url": "https://www.sueddeutsche.de/politik/merz-cdu-bundeskanzler-ministerpraesidenten-wuest-li.3548342",
-          "summary": "Lange war es einsam um den Kanzler. Nun unterstützen ihn die mächtigen Regierungschefs seiner Partei in einem gemeinsamen Schreiben – und fordern ein Ende der Personaldiskussionen.",
+          "title": "Spritpreise: Der Kanzler will entlasten – bloß wie?",
+          "url": "https://www.sueddeutsche.de/politik/spritpreise-deutschland-entlastung-merz-tankrabatt-li.3548425",
+          "summary": "Friedrich Merz will wegen der hohen Benzinpreise rasch die Bürgerinnen und Bürger unterstützen. Ideen gibt es einige – und jede hat einen Haken.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/16/8fe47c04-a6bb-4b2d-9e50-21846513282a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C235%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/09/16/24121e2f-494d-4bd4-b2cc-d601b39e2221.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C0%2C3636%2C2045"
         },
         {
-          "title": "Newsblog zur Bundespolitik: CDU-Ministerpräsidenten: „Gemeinsam mit dem Bundeskanzler“",
-          "url": "https://www.sueddeutsche.de/politik/cdu-ministerpraesidenten-bundeskanzler-zusammenarbeit-deutschland-friedrich-merz-li.3529564",
-          "summary": "Die acht Ministerpräsidenten wenden sich in einer Erklärung gegen Personaldiskussionen rund um die politische Zukunft von Friedrich Merz.",
+          "title": "Rechtsextremer Anschlag: OB Krause will beim Wiesn-Einzug der Opfer des Oktoberfestattentats gedenken",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-oktoberfest-attentat-wiesn-gedenken-krause-li.3548499",
+          "summary": "Bevor der neue Münchner Oberbürgermeister auf der Wiesn das erste Fass anzapft, möchte er am Denkmal, das am Eingang an den Bombenanschlag von 1980 erinnert, kurz innehalten. Eine Neuerung.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/16/b4647c8a-caac-4569-b1ef-fe5f0843e13f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C207%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2022/06/08/37e82adb-3d79-4dd9-9a61-a7d64096927e.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C70%2C1350%2C759"
         }
       ]
     }
