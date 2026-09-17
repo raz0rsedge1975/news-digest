@@ -1,10 +1,18 @@
 {
-  "generated": "2026-09-17T18:00:08.227Z",
-  "timestamp": "17.9.2026, 20:00:08",
+  "generated": "2026-09-17T22:00:09.411Z",
+  "timestamp": "18.9.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Scheinwahl in Russland: Kriegsveteran gegen Kriegsgegner",
+          "url": "https://www.faz.net/aktuell/politik/ausland/duma-wahl-in-russland-wo-ein-kriegsgegner-gegen-einen-veteranen-antritt-201227953.html",
+          "summary": "Putin inszeniert die Duma-Wahl als Votum über den Krieg. Ein Besuch in Moskaus Osten, wo der Kandidat der Jabloko-Partei für Frieden wirbt und gegen einen Frontkämpfer antritt.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/641c02923031/w6192h3235x0y553o/202609/43601.0.2523386232/fussgaenger-laufen-am.webp"
+        },
         {
           "title": "Zukunft des Kanzlers: Über diese vier Szenarien spricht die Union",
           "url": "https://www.faz.net/aktuell/politik/inland/union-in-der-krise-es-brodelt-an-der-basis-201235415.html",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/efa969280060/w5472h2859x0y463o/v/2026/09/17/4iobR6JC/friedrich-merz-am-16-september.webp"
-        },
-        {
-          "title": "F.A.Z. Podcast für Deutschland: Klare Ansage an Merz: Womit er die CDU verlieren würde",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/friedrich-merz-stoppen-die-cdu-ministerpraesidenten-die-debatte-ueber-einen-kanzlertausch-201237426.html",
-          "summary": "Die CDU-Ministerpräsidenten stärken Friedrich Merz mit einem Brief den Rücken. Kehrt damit Ruhe ein und ist die Debatte über einen Kanzlertausch beendet?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/8cb3aa28f51a/w2080h1086x0y153o/202609/43601.0.2559840104/4360102559840104.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Iran-Krieg: Nahostexpertin warnt vor erneuter umfassender Eskalation",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-nahostexpertin-warnt-vor-erneuter-umfassender-eskalation-a-e06caf30-4176-44ab-ba69-8eba2b412151#ref=rss",
-          "summary": "Der Krieg zwischen den USA und Iran könnte weit ins kommende Jahr andauern, sagt die Nahostexpertin Sanam Vakil. Sie warnt vor heftigen Kämpfen rund um die US-Zwischenwahlen.",
+          "title": "Robert F. Kennedy Jr.: Ruiniert Donald Trumps Gesundheitsminister das Erbe der Kennedys?",
+          "url": "https://www.spiegel.de/ausland/robert-f-kennedy-jr-ruiniert-donald-trumps-gesundheitsminister-das-erbe-der-kennedys-a-428120b8-fc8b-4d62-abe9-1336b33a618f#ref=rss",
+          "summary": "14 Jahre war Robert F. Kennedy Jr. heroinabhängig, heute ist er Gesundheitsminister unter Donald Trump. Er sieht sich als politischen Thronfolger der Kennedys. Seine Verwandten sehen darin Verrat am Familienerbe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0def6639-c597-493f-8b4e-cbd8316146f1_w1200_r1.778_fpx57.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8737de7d-0506-452e-a944-4ada93dba1e7_w1200_r1.778_fpx84_fpy45.jpg"
         },
         {
           "title": "Aktionskünstler Philipp Ruch: »Als hätten Außerirdische eine Bevölkerung ausgetauscht«",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/b513128a-27b7-4cd9-88f4-a8f45025069e_w1200_r1.778_fpx43.01_fpy52.97.jpg"
         },
         {
-          "title": "News des Tages: Cyberbetrug durch IT-Firma, Kontrolle von KI-Systemen, Tierversuche",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-cyberbetrug-durch-it-firma-kontrolle-von-ki-systemen-tierversuche-a-47e8273e-2c2c-45b6-85d3-75ca29a5e814#ref=rss",
-          "summary": "Ermittler jagen Cyberkriminelle, die Tausende Deutsche um ihr Geld gebracht haben. Experten schildern, wie KI-Supermaschinen der Kontrolle der Menschen entgleiten könnten. Und Wissenschaftler haben menschliche Zellen in Mäusehirne eingesetzt. Das ist die Lage am Donnerstagabend.",
+          "title": "Friedrich Merz: Der Soli-Brief für den Kanzler ging völlig nach hinten los – Meinung",
+          "url": "https://www.spiegel.de/politik/deutschland/kanzler-in-der-krise-der-soli-brief-fuer-merz-ging-voellig-nach-hinten-los-kommentar-a-8bbb9f36-61d6-47dd-ade5-ef031ffdb055#ref=rss",
+          "summary": "Die CDU-Ministerpräsidenten glaubten, mit ihrer Erklärung könnten sie Zweifel an ihrer Loyalität zum Kanzler ausräumen. Tatsächlich aber offenbart das Schreiben, wie tief der Riss zwischen ihnen und Merz wirklich ist.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/22892bb4-6004-4c53-b335-6c8a2fb264f3_w1200_r1.778_fpx32.47_fpy45.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Wie Russland den ukrainischen Buchmarkt angreift",
+          "url": "https://www.tagesschau.de/kultur/ukraine-verbrannte-buecher-100.html",
+          "summary": "Wegen verstärkter Luftangriffe musste die Kiewer Buchmesse in diesem Jahr abgesagt werden. Russland zerstört Bücher aber auch direkt - durch Raketen auf Lagerhallen. Für viele ein gezielter Angriff auf die ukrainische Kultur. Kellermann.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c92c5b8c-6c64-4535-a4bd-e700051fc2fa/AAABoK37l_E/AAABnSSvrFg/16x9-big/buecher-ukraine-100.jpg?width=1280"
+        },
+        {
+          "title": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
+          "url": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html",
+          "summary": "An der Ostflanke der NATO wachsen die Sorgen vor russischen Angriffen. Angesichts jüngster Vorfälle im polnisch-ukrainischen Grenzgebiet warnt Regierungschef Tusk nun vor einem russischen Plan, Ukraine-Verbündete gezielt anzugreifen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4cbf5fa6-4a9f-4f77-ac34-9a92650a4bb4/AAABoLB37b8/AAABnSSvrFg/16x9-big/tusk-360.jpg?width=1280"
+        },
+        {
           "title": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
           "url": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html",
           "summary": "Kanadas Premier Carney hat sich im Europaparlament in Straßburg für eine stärkere Zusammenarbeit seines Landes mit der EU ausgesprochen. Eine Partnerschaft müsse auf Werten begründet sein, nicht auf Eigensinn. Von Andreas Meyer-Feist.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e2da9f42-d22c-4741-b5f9-9c9e49621311/AAABoLB46Qw/AAABnSSvrFg/16x9-big/mark-carney-110.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX schließt nach US-Zinserhöhung im Plus",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
-          "summary": "Der DAX hat nach der Zinserhöhung der US-Notenbank zugelegt. Rückenwind kam von fallenden Ölpreisen. Nach Übernahmespekulationen führt der Diagnostikkonzern Qiagen den deutschen Leitindex an.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/37015892-b7ac-40f4-8e71-c5b885175263/AAABoK6EY0g/AAABnSSvrFg/16x9-big/dax-leitindex-100.jpg?width=1280"
-        },
-        {
-          "title": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
-          "url": "https://www.tagesschau.de/wissen/technologie/ki-risiken-forscher-100.html",
-          "summary": "Öffentlichkeitswirksam haben zuletzt große KI-Entwickler für mehr Regulierung der eigenen Technologie plädiert. Forscher in Deutschland relativieren die Warnungen, trotz aller Risiken - und nehmen die Entwickler in die Pflicht. Von Sven Kästner.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/35eea863-c4e2-4697-b8dd-a74b06267c43/AAABoK_I4vk/AAABnSSvrFg/16x9-big/kuenstliche-intelligenz-248.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Klarnamenpflicht: Wie Merz den Freiheitsbegriff den Populisten überlässt",
+          "url": "https://www.telepolis.de/article/Klarnamenpflicht-Wie-Merz-den-Freiheitsbegriff-den-Populisten-ueberlaesst-11457571.html",
+          "summary": "Friedrich Merz will Anonymität im Netz abschaffen und nennt freie Rede \"libertär\". Doch der BGH und das Grundgesetz sehen das anders – ein Faktencheck.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/7/3/0/8/merz-bc2b526b3c187307.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Digitale-Medien-Staatsvertrag: Wer künftig die Öffentlichkeit ordnet",
           "url": "https://www.telepolis.de/article/Digitale-Medien-Staatsvertrag-Wer-kuenftig-die-Oeffentlichkeit-ordnet-11457469.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/8/7/7/shutterstock_1641581776-22ae3958f488fd48.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "E-Auto-Batterien: Robuster als ihr Ruf – aber mit großen Unterschieden im Detail",
-          "url": "https://www.telepolis.de/article/E-Auto-Batterien-Robuster-als-ihr-Ruf-aber-mit-grossen-Unterschieden-im-Detail-11456481.html",
-          "summary": "Elektroauto-Batterien halten länger als sie müssen – das belegt eine neue Großstudie. Doch zwischen baugleichen Modellen lauern überraschende Unterschiede.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/7/6/0/shutterstock_2701777877-181efdb303839302.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA-Newsblog: Trump stellt Polen einen US-Heeresstützpunkt in Aussicht",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-kanada-eu-zoelle-polen-us-armee-li.3530667",
+          "summary": "Der US-Präsident wollte die US-Streitkräfte eigentlich stärker auf dem amerikanischen Kontinent konzentrieren. Für Polen könnte es jetzt eine Ausnahme geben.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/17/8f7f150a-485a-4672-a79b-fcc9368879b8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C200%2C3840%2C2160"
+        },
+        {
+          "title": "Merz in Berlin: „Es ist eine schwere Verantwortung, die auf deinen Schultern ruht, lieber Friedrich“",
+          "url": "https://www.sueddeutsche.de/politik/merz-berlin-cdu-wahlkampf-li.3549430",
+          "summary": "Auch in Berlin macht Kanzler Merz nur in einem sorgfältig kuratierten Umfeld Wahlkampf. Er weiß, dass es bei den Landtagswahlen am Sonntag um alles geht, auch für ihn persönlich.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/17/7bf716e4-5d9e-4c48-ae48-ea96299621f9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C163%2C3096%2C1741"
+        },
+        {
           "title": "Newsblog zum Nahost-Krieg: Diplomaten: US-Delegation traf Huthi-Vertreter im Oman",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-usa-iran-us-stuetzpunkt-us-armee-verluste-li.3530668",
           "summary": "Bei dem Treffen in der US-Botschaft im Oman hätten die Huthi zugesichert, keine Schiffe der USA und Israels anzugreifen. Die Miliz hatte zuvor eine Blockade für saudische Schiffe angekündigt und dann mehrere saudische Schiffe angegriffen.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/17/7f3bae0c-30dc-496d-8190-5d58f657009d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=136%2C342%2C2727%2C1534"
-        },
-        {
-          "title": "Kanada und die EU: Wird die totgesagte EU gerade zum interessantesten politischen Projekt der Welt?",
-          "url": "https://www.sueddeutsche.de/kultur/mark-carney-kanada-beitritt-eu-strassburg-li.3547048",
-          "summary": "Magdeburg verloren, Vancouver gewonnen: Kanadas Premier Mark Carney hat der Europäischen Union einen unwiderstehlichen Vorschlag gemacht.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/17/a2da7832-fd3f-49ee-915a-e413f0961b6d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=669%2C558%2C1326%2C746"
-        },
-        {
-          "title": "Fahrgeschäfte und Zelte auf der Wiesn: Neuer Nervenkitzel für das Oktoberfest",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-neue-fahrgeschaefte-festzelte-li.3545585",
-          "summary": "Die Wiesn hat in diesem Jahr einige Zugänge: Fahrgeschäfte, Zelte, Wirte. Ein Rundgang über das Gelände mit OB Dominik Krause, der eine Attraktion nur mit „Mut-Mass intus“ fahren würde.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/17/8eef3108-dd46-4407-9175-e5f0864ff567.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C166%2C4000%2C2250"
         }
       ]
     }
