@@ -1,39 +1,47 @@
 {
-  "generated": "2026-09-17T10:00:08.831Z",
-  "timestamp": "17.9.2026, 12:00:08",
+  "generated": "2026-09-17T14:00:08.962Z",
+  "timestamp": "17.9.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Gleich zwei Kader: Bundestrainer Klopp beruft 44 Spieler für Nationalteam",
-          "url": "https://www.faz.net/aktuell/sport/fussball/bundestrainer-klopp-beruft-44-spieler-fuer-fussball-nationalmannschaft-accg-201235720.html",
-          "summary": "Jürgen Klopp denkt groß. Sein erstes Aufgebot reicht für zwei Kader. Der neue Bundestrainer plant mit einem Jobsharing-Modell.",
+          "title": "Der Begriff der Stunde: Lasst uns die Republik ausrufen!",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/wahl-sachsen-anhalt-2026-republik-als-neuer-fahnenbegriff-201235059.html",
+          "summary": "Die Bundesrepublik geht zu Ende. Ein neues Deutschland beginnt. Rachsucht und Zwietracht bestimmen das Geschehen. Was wir jetzt brauchen, ist ein Begriff, der links und rechts nicht mit gut und böse übersetzt: die Republik.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c6f36a34c51e/w5520h2884x0y110o/202609/43601.0.2562324465/bundestrainer-juergen-klopp.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/0a9ab4894ef1/w3495h1826x0y228o/202609/43601.0.2556413720/geburtsstunde-der.webp"
         },
         {
-          "title": "Tuchel und Klopp: Einfach mehr Gras fressen?",
-          "url": "https://www.faz.net/aktuell/sport/fussball/thomas-tuchel-und-juergen-klopp-mehr-gras-fressen-201232512.html",
-          "summary": "Thomas Tuchel rätselt: Hätte er während der WM seinen Ernährungsplan erweitern müssen? Und was bedeutet Tuchels Erfolgshunger für Jürgen Klopps Suche nach dem besten Rezept für den Neuanfang? Eine Glosse.",
+          "title": "AfD-Wähler verstehen: Was Gefühle politisch bedeuten – und was nicht",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/afd-und-psychopolitik-manfred-luetz-hilft-nicht-weiter-201234705.html",
+          "summary": "Politik braucht Psychologie, aber keine Psychologisierung: Vielleicht müssen sich manche eingestehen, rechtsradikal unterwegs zu sein, die sich bislang nur für Frustrierte hielten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/21fab6f759cc/w2793h1459x173y445o/202006/43600.0.17458368/machen-appetit-auf-die-em-2028.webp"
+          "image": "https://media0.faz.net/image/w1200h627/aa42f1a6ffd0/w6144h3210x0y435o/202609/43601.0.2562342392/irre-zeiten-bjoern-hoecke-afd.webp"
         },
         {
-          "title": "Zweikampf um MV: Schwesig und Holm kämpfen gegeneinander – und gegen Berlin",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-mv-2026-schwesig-und-holm-liefern-sich-ein-knappes-rennen-accg-201228045.html",
-          "summary": "Die Kandidaten von SPD und AfD trennen politisch Welten. Doch ihr Wahlkampf ähnelt sich bisweilen. Kurz vor der Wahl liegen sie Kopf an Kopf.",
+          "title": "Großer DFB-Kader: Klopp macht Inventur",
+          "url": "https://www.faz.net/aktuell/sport/fussball/kommentar-zum-kader-der-fussball-nationalmannschaft-juergen-klopp-macht-inventur-201236104.html",
+          "summary": "Mit seinem XXL-Kader löst der Bundestrainer ein Versprechen an seine Spieler ein. Es ist der Versuch, einen der großen Fehler Nagelsmanns bei der WM zu vermeiden. Doch entscheidend ist etwas anderes.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3c1dcd8732cf/w7949h4153x0y403o/202608/43601.0.2489429737/die-angeblich-erste-die-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2566d1d148ed/w5440h2842x0y109o/202609/43601.0.2562383574/ein-mann-44-namen-juergen.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Jürgen Klopp: Bundestrainer macht die Pressekonferenz zur Regierungserklärung – Kommentar",
+          "url": "https://www.spiegel.de/sport/fussball/juergen-klopp-macht-nominierung-vom-dfb-kader-zur-regierungserklaerung-a-c64d9e8a-874d-4738-b4e7-dd62c6170265#ref=rss",
+          "summary": "Die Kaderpräsentation des neuen Bundestrainers Jürgen Klopp wird zum wuchtigen Signal an das ganze Land und zu einer Absage an einen dumpfen Patriotismus. So kann man Orientierung bieten in orientierungslosen Zeiten.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/660a081a-36a8-4967-bf56-3fc0a30fcdf8_w1200_r1.778_fpx21_fpy37.jpg"
+        },
         {
           "title": "Cyberbetrug: Wie eine israelische IT-Firma ein weltweites Abzock-System ermöglichte",
           "url": "https://www.spiegel.de/panorama/justiz/cyberbetrug-wie-eine-israelische-it-firma-ein-weltweites-abzock-system-ermoeglichte-a-391792f5-67de-4927-a3b6-f5b746977059#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/27fdd270-2340-4251-868d-86a5444af304_w1200_r1.778_fpx62_fpy47.jpg"
         },
         {
-          "title": "Jürgen nominiert seine ersten DFB-Kader – drei Lehren aus seinem Auftritt",
-          "url": "https://www.spiegel.de/sport/fussball/juergen-klopp-wen-nominiert-der-bundestrainer-fuer-das-dfb-team-a-6c3dc7ff-48f0-43ad-9218-3f2dba02b6f1#ref=rss",
-          "summary": "Jürgen Klopp steht vor seinem Debüt als Bundestrainer, nun nominiert er 44 Spieler. Was es mit dem XXL-Kader auf sich hat und wie Klopp über Nationalstolz gesprochen hat: die schnelle Analyse.",
+          "title": "Kanada ist laut Mark Carney offen für Idee einer EU-Sondermitgliedschaft",
+          "url": "https://www.spiegel.de/ausland/kanada-ist-laut-mark-carney-offen-fuer-idee-einer-eu-sondermitgliedschaft-a-bac9d100-3566-40ae-8ddc-84cd65aca170#ref=rss",
+          "summary": "EU-Kommissionschefin von der Leyen hatte einen Sonderstatus für Kanada vorgeschlagen – als erstes »assoziiertes« Mitglied der EU. »Wir begrüßen diesen Vorstoß«, sagte Premier Carney jetzt vor dem Europäischen Parlament.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/90693115-8828-4e34-a17e-fe9a075d91c9_w1200_r1.778_fpx46_fpy49.jpg"
-        },
-        {
-          "title": "Mark Carney: Kanadas Premier spricht vor dem EU-Parlament - hier im Livestream",
-          "url": "https://www.spiegel.de/ausland/mark-carney-kanadas-premier-spricht-vor-dem-eu-parlament-hier-im-livestream-a-c85b095b-dc30-46b9-b3c9-88a70cc6618e#ref=rss",
-          "summary": "US-Präsident Trump droht mit Handelskrieg – als Reaktion auf die rasante Annäherung zwischen Europa und Kanada. Jetzt spricht Premierminister Mark Carney im EU-Parlament – hier im Livestream.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bfaa0465-cfa7-4a5d-95be-3cb73b3861f8_w1200_r1.778_fpx51_fpy57.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c7030772-c10b-401f-be64-1bd9f383dad8_w1200_r1.778_fpx26.92_fpy52.97.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: DAX rückt nach US-Zinsentscheid weiter vor",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html",
-          "summary": "Die Zinserhöhung in den USA erschreckt die Anleger nicht, der DAX legt solide zu. Unterstützung erhält der deutsche Leitindex auch von ermutigenden Signalen aus der Industrie.",
+          "title": "Frankfurt am Main: An Malaria erkrankte Person gestorben",
+          "url": "https://www.tagesschau.de/inland/regional/hessen/malaria-faelle-frankfurt-100.html",
+          "summary": "In Frankfurt am Main ist eine Person, die an Malaria erkrankt war, gestorben. Sie und eine weitere erkrankte Person haben laut Gesundheitsamt nahe dem Flughafen gewohnt. Ein Malaria-Gebiet hatten beide zuvor nicht bereist.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/04a75b3f-097d-4b77-908f-04d2e8b009c9/AAABoK-f-X8/AAABnSSvrFg/16x9-big/hr-auf-den-menschen-uebertragen-wird-malaria-durch-anopheles-stechmuecken-wenn-diese-sich-zuvor-selbst-infiziert-haben-100.jpg?width=1280"
         },
         {
-          "title": "Klimawandel war ein Hauptgrund für Felssturz im Himalaya",
-          "url": "https://www.tagesschau.de/wissen/klima/sturzflut-himalaya-klimawandel-100.html",
-          "summary": "Ein neuer Bericht über die Ursachen der Sturzflut im Himalaya zeigt: Der Klimawandel hatte einen weit größeren Anteil an der Katastrophe als zunächst vermutet. Ein dabei entdecktes, kaum bekanntes Phänomen könnte auch in den Alpen relevant sein. Von Frank Bäumer.",
+          "title": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
+          "url": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html",
+          "summary": "Der von Ulf Kristersson geführte konservativ-rechte Parteienblock musste bei der Wahl in Schweden eine Niederlage hinnehmen. Der Regierungschef trat zurück. Die bisherige Opposition steht mit Magdalena Andersson vor einer schwierigen Regierungsbildung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/40c3ee76-b78d-41aa-8fa5-f8ffe7543216/AAABoK6yt3k/AAABnSSvrFg/16x9-big/sturzflut-himalaya-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/64730746-7b34-4308-b480-f666c638143a/AAABoK-M19E/AAABnSSvrFg/16x9-big/magdalena-andersson-110.jpg?width=1280"
         },
         {
-          "title": "SPD-Spitzenkandidat Krach: Lieber nach vorne schauen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-krach-spd-100.html",
-          "summary": "Der Spitzenkandidat der Berliner SPD hat ein erklärtes Ziel: Er will das Rote Rathaus für die SPD zurückerobern. Aber die Umfragen sind für nicht gerade ermutigend. Zudem gibt es Ermittlungen gegen ihn. Von Martin Polansky.",
+          "title": "Urteil des Bundesgerichtshofs: Orange gehört Obi nicht allein",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/orange-baumarkt-urteil-100.html",
+          "summary": "Die Baumarktkette Obi kann laut einem BGH-Urteil keinen Markenschutz für die Farbe Orange beanspruchen. Verbraucher sehen die Farbe nicht als Hinweis auf ein bestimmtes Unternehmen, so die Begründung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d156fa19-c21f-4720-a8c9-7906eb2ee241/AAABoK6ha-I/AAABnSSvrFg/16x9-big/steffen-krach-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/19fca481-5dcf-40dc-a7d6-0fb116f5fbc7/AAABoK9vy60/AAABnSSvrFg/16x9-big/orange-baumarkt-urteil-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Kanada und Brüssel: Wie Trump seine engsten Verbündeten vertreibt",
-          "url": "https://www.telepolis.de/article/Kanada-und-Bruessel-Wie-Trump-seine-engsten-Verbuendeten-vertreibt-11456425.html",
-          "summary": "Trumps Handelskrieg gegen Kanada hat einen unerwarteten Effekt. Brüssel streckt Ottawa die Hand aus – und stellt Washington vor ein Dilemma.",
+          "title": "Wasserstoff-Studie: Ostdeutschland kann Milliarden mit Elektrolyseuren verdienen",
+          "url": "https://www.telepolis.de/article/Wasserstoff-Studie-Ostdeutschland-kann-Milliarden-mit-Elektrolyseuren-verdienen-11456717.html",
+          "summary": "Die Produktion von Elektrolyseuren könnte den ostdeutschen Bundesländern bis 2045 jährlich bis zu 2,2 Milliarden Euro Bruttowertschöpfung bringen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/7/3/2/shutterstock_2768006633-d30bb67480e58047.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/8/7/7/shutterstock_1641581776-22ae3958f488fd48.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Israels neues U-Boot aus Kiel: Gebaut für den Zweitschlag?",
-          "url": "https://www.telepolis.de/article/Israels-neues-U-Boot-aus-Kiel-Gebaut-fuer-den-Zweitschlag-11456112.html",
-          "summary": "Israel erhält ein neues U-Boot aus Kiel. Seine Bewaffnung bleibt geheim – doch Bauform und Einsatzprofil nähren Vermutungen über eine nukleare Rolle.",
+          "title": "E-Auto-Batterien: Robuster als ihr Ruf – aber mit großen Unterschieden im Detail",
+          "url": "https://www.telepolis.de/article/E-Auto-Batterien-Robuster-als-ihr-Ruf-aber-mit-grossen-Unterschieden-im-Detail-11456481.html",
+          "summary": "Elektroauto-Batterien halten länger als sie müssen – das belegt eine neue Großstudie. Doch zwischen baugleichen Modellen lauern überraschende Unterschiede.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/5/7/5/Master_Lange-8659c2d9a32e87fc.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/7/6/0/shutterstock_2701777877-181efdb303839302.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "BDA will Betriebsräte bei neuer Technik entmachten – was das bedeutet",
-          "url": "https://www.telepolis.de/article/BDA-will-Betriebsraete-bei-neuer-Technik-entmachten-was-das-bedeutet-11452151.html",
-          "summary": "Tracking, Scoring, KI: Firmen können Beschäftigte lückenlos überwachen. Nun will die BDA die Mitbestimmung bei Technik-Einführung einschränken.",
+          "title": "Krieg mit Russland: Deutschlands Gesundheitssystem wäre in Tagen am Limit",
+          "url": "https://www.telepolis.de/article/Krieg-mit-Russland-Deutschlands-Gesundheitssystem-waere-in-Tagen-am-Limit-11456553.html",
+          "summary": "90 Prozent der Arztpraxen fühlen sich unvorbereitet, Medikamente fehlen schon im Frieden. Ärztekammer und Forschungsinstitute warnen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/5/3/7/wegweiser2_1-cfd21bc8bb9f7feb.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/7/9/5/shutterstock_1530542450-b90698e52ee7cda1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zu den Landtagswahlen: Berlin: Kandidaten streiten über Wuchermiete und Enteignung",
-          "url": "https://www.sueddeutsche.de/politik/berlin-streit-miete-enteignung-wahl-li.3540501",
-          "summary": "In einer Fernsehdebatte zeigen sich die Spitzenkandidaten uneinig darüber, was die Politik gegen Wohnungsmangel und explodierende Mieten in der Hauptstadt tun kann.",
+          "title": "Tropenkrankheit: Frankfurter Malaria-Patient gestorben",
+          "url": "https://www.sueddeutsche.de/panorama/flughafen-frankfurt-malaria-todesfall-muecken-infektionsschutz-li.3549111",
+          "summary": "Das gab die Stadt bekannt. Die Person wohnte in der Nähe des Flughafens. Es ist bereits der dritte Malaria-Todesfall in Frankfurt seit dem Sommer.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/17/c3cb5174-9673-4791-a019-2e25a0d4846a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/17/4939c01f-1c62-48b0-8cef-59e8e0729b29.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Baumarktkette: Obi verliert Farbstreit",
-          "url": "https://www.sueddeutsche.de/wirtschaft/obi-orange-rechtsstreit-li.3549297",
-          "summary": "Das „Obi-Orange“ lässt sich nicht als Marke schützen, entscheidet der Bundesgerichtshof.",
+          "title": "Britisches Königshaus: „Du kannst dir sicher sein‚ dass wir sie bald genug vergessen werden!“",
+          "url": "https://www.sueddeutsche.de/panorama/koenig-charles-diana-earl-spencer-begraebnis-vergessen-li.3548770",
+          "summary": "Das Verhältnis zwischen Dianas Bruder und der königlichen Familie gilt schon lange als angespannt. Jetzt befeuert ein neues Buch die Familienfehde. Erstmals reagiert der König auf Kritik mit einer öffentlichen Erklärung.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/17/cfff10d5-29ab-41cc-a2f7-d884eff87074.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=98%2C0%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/09/17/f1dfa16a-43ea-4c16-98c4-dd3bfd5e70e3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C87%2C3300%2C1856"
         },
         {
-          "title": "Deutsche Nationalmannschaft: Klopp nominiert 44 Spieler",
-          "url": "https://www.sueddeutsche.de/sport/klopp-dfb-kader-nominierung-deutsche-nationalmannschaft-fussball-li.3549228",
-          "summary": "Der neue Bundestrainer beruft für die kommenden vier Länderspiele gleich zwei komplette Kader. Dabei sind auch weitgehend unbekannte Spieler wie Vitaly Janelt und Mika Baur.",
+          "title": "Ukraine: Moskaus Terror gegen Überlebensadern",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-eisenbahn-angriffe-russland-lokomotiven-grenzpunkte-li.3548278",
+          "summary": "Mehr als 500 ukrainische Lokomotiven hat Russland bisher beschädigt oder zerstört. Auch die Attacken auf Grenzübergänge zu Polen, Moldau oder Rumänien häufen sich.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/17/4bf0b554-bf85-4a7c-936c-0bc9585799bd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C348%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/17/837a3d88-a686-4ead-b3b7-84d817d48c00.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C87%2C1280%2C720"
         }
       ]
     }
