@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-18T18:00:09.059Z",
-  "timestamp": "18.9.2026, 20:00:09",
+  "generated": "2026-09-18T22:00:09.751Z",
+  "timestamp": "19.9.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Sachsen-Anhalt: Die AfD meldet ihren weitreichenden Machtanspruch an",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/nach-der-wahl-in-sachsen-anhalt-so-will-die-afd-den-landtag-umkrempeln-201239425.html",
-          "summary": "Die AfD-Fraktion fordert nach der Landtagswahl eine völlig veränderte Sitzordnung im Landtag. Sie will sich in den Ausschüssen zudem eine weitreichende Blockademöglichkeit verschaffen.",
+          "title": "Steuersenkung um 17 Cent: Bundesregierung einigt sich auf Tankrabatt und Spritpreisdeckel",
+          "url": "https://www.faz.net/aktuell/wirtschaft/tankrabatt-und-spritpreisdeckel-darauf-hat-sich-die-bundesregierung-geeinigt-201242083.html",
+          "summary": "Als Reaktion auf die hohen Spritpreise hat sich die schwarz-rote Koalition auf Entlastungen geeinigt. Auch die Länder sind involviert. Worum es im Detail geht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/12ed87a3519c/w5243h2739x152y105o/202609/43601.0.2563696418/nach-der-konstituierenden.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3519d49b1baa/w5566h2908x0y111o/202609/43601.0.2567412944/blick-auf-zapfsaeulen-fuer.webp"
         },
         {
-          "title": "Landtag in Magdeburg: Die Angst der AfD vor dem Kompromiss",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/die-angst-der-afd-vor-dem-kompromiss-201240302.html",
-          "summary": "Die AfD hat ihr Wahlziel in Sachsen-Anhalt noch nicht aufgegeben. Im Landtag will sie sich die Möglichkeit schaffen, alles blockieren zu können.",
+          "title": "Hohe Spritpreise: Klingbeil kassiert Absage für EU-Übergewinnsteuer",
+          "url": "https://www.faz.net/aktuell/wirtschaft/uebergewinnsteuer-lars-klingbeil-scheitert-in-bruessel-201240513.html",
+          "summary": "Finanzminister Klingbeils Vorstoß für eine EU-Steuer auf Übergewinne stößt in Brüssel auf Widerstand. Warum die Kommission den Vorschlag ablehnt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e7d27a6af1b5/w3744h1956x0y216o/202609/43601.0.2535741352/ulrich-siegmund-auf-einer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c2e4b7b6116e/w5472h2859x0y394o/202609/43601.0.2562787243/lars-klingbeil-ist.webp"
         },
         {
-          "title": "Sachsen-Anhalt: Diese fragwürdigen AfD-Abgeordneten kommen in den Landtag",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-wer-fuer-die-afd-in-den-landtag-einzieht-201202059.html",
-          "summary": "Einer hat in Pornofilmen mitgewirkt, andere sollen an einer Fortführung der neonazistischen „Artgemeinschaft“ beteiligt gewesen sein. Jetzt ziehen sie direkt ins Parlament ein.",
+          "title": "Hohe Energiekosten: Warum der Ölpreis die Börsen mehr beunruhigt als KI",
+          "url": "https://www.faz.net/aktuell/finanzen/boersenwoche-robert-greil-warnt-vor-konjunkturdaempfer-201239521.html",
+          "summary": "Die KI-Angst ist an den Märkten verflogen. Nun bangen Anleger wieder um Konjunktur, Inflation – und den Ölpreis.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ad9544e9bfc9/w5816h3038x0y228o/202609/43601.0.2520256966/knapp-44-prozent-der-stimmen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ca30e04e9155/w5481h2863x0y395o/202609/43601.0.2562131027/spritpreisrekorde-werden-die.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Spritpreise: Erst Tankrabatt, dann Preisdeckel für Autofahrer und Wirtschaft",
+          "url": "https://www.spiegel.de/wirtschaft/spritpreise-erst-tankrabatt-dann-preisdeckel-fuer-autofahrer-und-wirtschaft-a-463af428-fe71-48b1-b253-c740334f6116#ref=rss",
+          "summary": "Um Verbraucher in der Spritkrise zu unterstützen, kündigen Bund und Länder zunächst einen teuren Rabatt mit der Gießkanne, danach neuartige Preisgrenzen an. Die beste Lösung funktioniert technisch noch nicht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/58b9e6cb-886f-4c5e-a14d-665d743b4d6e_w1200_r1.778_fpx52_fpy50.jpg"
+        },
+        {
+          "title": "USA: Trump will CNN, »Politico« und MS Now aus Weißem Haus verbannen",
+          "url": "https://www.spiegel.de/ausland/usa-donald-trump-trump-droht-cnn-politico-und-ms-now-mit-rauswurf-aus-weissem-haus-a-769d6181-a95e-4da8-8f87-50dbc5b3950d#ref=rss",
+          "summary": "Donald Trump hat angekündigt zwei Fernsehsender und ein Nachrichtenportal den Zutritt zum Weißen Haus zu verweigern. Der Grund: angebliche »Fake News«.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/a64e6417-763e-4432-9df9-004e2f8066fd_w1200_r1.778_fpx46.66_fpy49.99.jpg"
+        },
+        {
           "title": "Rente mit 63 ist besonders in Ostdeutschland ein Reizthema – zu Recht?",
           "url": "https://www.spiegel.de/wirtschaft/soziales/rente-mit-63-ist-besonders-in-ostdeutschland-ein-reizthema-zu-recht-a-b449dce9-aff1-4abf-8ea9-d94da51fb083#ref=rss",
           "summary": "Manuela Schwesig führt ihren fulminanten Wahlkampf auch gegen das Ende der abschlagsfreien Frührente: Das träfe den Osten besonders hart, sagt sie. Doch die Fakten sind längst nicht so eindeutig.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/59080c87-c344-41d8-8764-3601c83d67d5_w1200_r1.778_fpx52_fpy52.jpg"
-        },
-        {
-          "title": "News des Tages: Spritpreise, Tarnkappenbomber F-35, Wahlen",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-spritpreise-tarnkappenbomber-f-35-wahlen-a-79a1c02a-815f-4950-a651-c59c2fee795a#ref=rss",
-          "summary": "Die Regierung steht offenbar vor einer Einigung für Entlastungen für Autofahrer. Deutschland will mit neuem F-35-Tarnkappenjet einen »Quantensprung« machen. Und Schwesig überholt in Umfragen die AfD. Das ist die Lage am Freitagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Spritpreise: Regierung offenbar vor Einigung auf Tankpreisdeckel",
-          "url": "https://www.spiegel.de/politik/deutschland/spritpreise-regierung-offenbar-vor-einigung-auf-tankpreisdeckel-a-e8dfdecc-4a64-4b26-8895-94180b30a37d#ref=rss",
-          "summary": "Nach SPIEGEL-Informationen steht die Bundesregierung kurz vor einer Einigung auf ein Spritpreis-Entlastungspaket. Teil davon soll ein Tankpreisdeckel sein. Noch heute könnte die Einigung verkündet werden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6e4ea503-4d20-4aec-b34e-e9696e76144b_w1200_r1.778_fpx38_fpy43.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
+          "summary": "Der Sender CNN und weitere Medien sollen keinen Zugang mehr zum Weißen Haus erhalten. US-Präsident Trump wirft ihnen vor, \"Erfindungen und Lügen\" zu verbreiten. Es ist nicht das erste Mal, dass Trump gegen Journalisten vorgeht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/8290304e-7574-48b2-93bc-e2f5cc1e23b9/AAABoLZYWnk/AAABnSSvrFg/16x9-big/trump-reporter-weisses-haus-100.jpg?width=1280"
+        },
+        {
+          "title": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
+          "summary": "In Texas hat Bundesverteidigungsminister Pistorius den ersten von 35 Kampfjets des Typs F-35A übernommen. Die Flugzeuge sind vom gegnerischen Radar nur schwer zu orten. Pistorius sprach von einer \"neuen Ära für die Luftwaffe\".",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4313dee0-3d2f-4a08-a462-af1aeb094185/AAABoLXIdgU/AAABnSSvrFg/16x9-big/pistorius-f35-100.jpg?width=1280"
+        },
+        {
           "title": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
           "url": "https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html",
           "summary": "Wegen der hohen Spritpreise übt Finanzminister Klingbeil scharfe Kritik an der EU-Kommission. Er fordert eine Übergewinnsteuer für Ölkonzerne auf EU-Ebene. Doch Brüssel zeigt wenig Interesse. Von Sarah López.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/59d547e0-8c3a-4e4e-9e97-9ab13dd91059/AAABoLWc--o/AAABnSSvrFg/16x9-big/klingbeil-dublin-102.jpg?width=1280"
-        },
-        {
-          "title": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
-          "url": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
-          "summary": "Mit dem Projekt Greensand ist das erste CO2-Einlagerungsprojekt in der EU gestartet. Unter der Nordsee soll in Zukunft klimaschädliches CO2 dauerhaft im Meeresboden gespeichert werden. Doch es gibt auch Kritik.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/6e11385c-fad5-4e5e-abc9-8cd49fe2bd5d/AAABoLT9OFI/AAABnSSvrFg/16x9-big/frederik-sir-jim-ratcliffe-100.jpg?width=1280"
-        },
-        {
-          "title": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
-          "url": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
-          "summary": "Erstmals seit mehr als hundert Jahren haben Forscher in Südamerika eine bislang unbekannte Katzenart entdeckt. Das Tier ist hellbraun gefleckt und kleiner als eine Hauskatze. Es trägt nun den Namen \"Leopardus tilcayo\".",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/e2192bb9-edc3-4dad-b278-d6dc421161ed/AAABoLTjQzA/AAABnSSvrFg/16x9-big/leopardus-tilcayo-katze-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Fernsehen: Böhmermann hört mit „ZDF Magazin Royale“ auf",
-          "url": "https://www.sueddeutsche.de/medien/boehmermann-zdf-magazin-royale-li.3550325",
-          "summary": "Das teilt der Sender mit. Man befinde sich in Gesprächen zu einem möglichen neuen Show-Konzept.",
+          "title": "Sieg gegen Union Berlin: Die Bayern blasen ihre Torflaute fort",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-union-kane-olise-bundesliga-spielbericht-tore-tabelle-li.3550142",
+          "summary": "Ein Wiesn-Vorabend, wie er besser kaum laufen könnte für die Bayern: Harry Kane erzielt beim 7:0-Erfolg gegen Union Berlin sein 100. Bundesligator – und Michael Olise gelingt ein Hattrick.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/18/1fd6a2bc-4868-43d5-b79e-8bac00d136ba.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=191%2C341%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/09/18/7e3c551d-8489-4a28-9cdf-efff45c434b0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2972%2C1672"
         },
         {
-          "title": "Energiepreise: Neuer Tankrabatt soll kommen",
-          "url": "https://www.sueddeutsche.de/politik/tankrabatt-preisdeckel-benzin-deutschland-spritpreise-li.3550202",
-          "summary": "Die Bundesregierung will offenbar den alten Tankrabatt wieder in Kraft setzen, kombiniert mit einer Art Preisobergrenze. Doch noch ist nicht alles geklärt – denn die Länder sollen diesmal mitzahlen.",
+          "title": "Wahlwochenende: Schicksalstage für Friedrich Merz",
+          "url": "https://www.sueddeutsche.de/politik/friedrich-merz-cdu-wahlen-mecklenburg-vorpommern-berlin-li.3549855",
+          "summary": "In Mecklenburg-Vorpommern und Berlin entscheiden die Menschen über neue Parlamente – aber auch über die Zukunft des Bundeskanzlers.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/18/26bd040a-326b-4b28-abb4-98fe4747756a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C98%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/18/9b8984a8-ead4-4d0a-9d13-10f1a98c5e57.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C335%2C4000%2C2250"
         },
         {
-          "title": "Radsport: Extremsportler Max Riese tödlich verunglückt",
-          "url": "https://www.sueddeutsche.de/panorama/max-riese-radsport-unfall-tod-li.3550197",
-          "summary": "Der erfolgreiche Radsportler ist nach einem Straßenunfall gestorben. Die genaue Ursache ist bisher ungeklärt. Die Polizei geht einer möglichen Kollision mit einem Hirsch nach.",
+          "title": "USA-Newsblog: Trump verbietet CNN, Politico und MS Now Zugang zum Weißen Haus",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-cnn-politico-weisses-haus-li.3530667",
+          "summary": "Grund sei deren Berichterstattung – sie verbreiteten „Erfindungen und Lügen“, so der US-Präsident. Weitere Medien würden ebenfalls verbannt, kündigt er an.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/18/861e93b3-a11c-45aa-88cb-f33c43cb97ee.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C101%2C1024%2C576"
+          "image": "https://www.sueddeutsche.de/2026/09/18/f93b8591-9815-4e79-99ef-6dc10cb7e17c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
