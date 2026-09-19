@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-18T22:00:09.751Z",
-  "timestamp": "19.9.2026, 00:00:09",
+  "generated": "2026-09-19T02:00:07.718Z",
+  "timestamp": "19.9.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Steuersenkung um 17 Cent: Bundesregierung einigt sich auf Tankrabatt und Spritpreisdeckel",
-          "url": "https://www.faz.net/aktuell/wirtschaft/tankrabatt-und-spritpreisdeckel-darauf-hat-sich-die-bundesregierung-geeinigt-201242083.html",
-          "summary": "Als Reaktion auf die hohen Spritpreise hat sich die schwarz-rote Koalition auf Entlastungen geeinigt. Auch die Länder sind involviert. Worum es im Detail geht.",
+          "title": "Abkommen mit Donald Trump: Dänemark und USA verkünden Durchbruch im Streit um Grönland",
+          "url": "https://www.faz.net/aktuell/politik/ausland/daenemark-und-usa-verkuenden-durchbruch-im-streit-um-groenland-201242417.html",
+          "summary": "Dänemark und die USA wollen den Streit um die Arktisinsel mit einem Abkommen beenden. Die Vereinbarung sei „gut für die NATO und für Europa“, teilt die dänische Regierung mit.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3519d49b1baa/w5566h2908x0y111o/202609/43601.0.2567412944/blick-auf-zapfsaeulen-fuer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/31f89e573473/w5541h2895x0y298o/202609/43601.0.2568639885/daenemark-und-die-usa-planen.webp"
         },
         {
-          "title": "Hohe Spritpreise: Klingbeil kassiert Absage für EU-Übergewinnsteuer",
-          "url": "https://www.faz.net/aktuell/wirtschaft/uebergewinnsteuer-lars-klingbeil-scheitert-in-bruessel-201240513.html",
-          "summary": "Finanzminister Klingbeils Vorstoß für eine EU-Steuer auf Übergewinne stößt in Brüssel auf Widerstand. Warum die Kommission den Vorschlag ablehnt.",
+          "title": "Kampf gegen Pressefreiheit: Trump verbietet CNN, „Politico“ und MS Now Zutritt zum Weißen Haus",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/trump-verbietet-cnn-politico-und-ms-now-zutritt-zum-weissen-haus-201242180.html",
+          "summary": "US-Präsident Donald Trump verwehrt den Fernsehsendern CNN und MS NOW sowie dem Nachrichtenportal „Politico“ den Zugang zum Weißen Haus. Weiteren Medienhäusern droht eine Sperre.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c2e4b7b6116e/w5472h2859x0y394o/202609/43601.0.2562787243/lars-klingbeil-ist.webp"
+          "image": "https://media0.faz.net/image/w1200h627/242dcafcf150/w5500h2873x0y253o/202609/43601.0.2568338222/unliebsame-medien-wirft-er.webp"
         },
         {
-          "title": "Hohe Energiekosten: Warum der Ölpreis die Börsen mehr beunruhigt als KI",
-          "url": "https://www.faz.net/aktuell/finanzen/boersenwoche-robert-greil-warnt-vor-konjunkturdaempfer-201239521.html",
-          "summary": "Die KI-Angst ist an den Märkten verflogen. Nun bangen Anleger wieder um Konjunktur, Inflation – und den Ölpreis.",
+          "title": "USA unter Trump: Oligarchen-Geld für Hochzeit laut Trump „völlig erlaubt“",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-republikanische-abgeordnete-attackiert-trump-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ca30e04e9155/w5481h2863x0y395o/202609/43601.0.2562131027/spritpreisrekorde-werden-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f46ae2cb9396/w5760h3009x0y115o/202605/43601.0.2123249679/us-praesident-donald-trump-mit.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Grönland-Deal: Donald Trump löst eine selbstgemachte Krise",
+          "url": "https://www.spiegel.de/ausland/groenland-deal-donald-trump-loest-eine-selbstgemachte-krise-a-c57de044-a3d8-4718-92b6-01e47f1208d1#ref=rss",
+          "summary": "Über Monate wollte Donald Trump sich Grönland einverleiben, drohte sogar mit einem Truppeneinsatz. Nun verkündet der US-Präsident einen Deal, der zeigt, wie planlos seine Außenpolitik ist.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/b35b3547-abf0-4941-8619-dfc6e8dbd272_w1200_r1.778_fpx64_fpy50.jpg"
+        },
+        {
           "title": "Spritpreise: Erst Tankrabatt, dann Preisdeckel für Autofahrer und Wirtschaft",
           "url": "https://www.spiegel.de/wirtschaft/spritpreise-erst-tankrabatt-dann-preisdeckel-fuer-autofahrer-und-wirtschaft-a-463af428-fe71-48b1-b253-c740334f6116#ref=rss",
           "summary": "Um Verbraucher in der Spritkrise zu unterstützen, kündigen Bund und Länder zunächst einen teuren Rabatt mit der Gießkanne, danach neuartige Preisgrenzen an. Die beste Lösung funktioniert technisch noch nicht.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/58b9e6cb-886f-4c5e-a14d-665d743b4d6e_w1200_r1.778_fpx52_fpy50.jpg"
-        },
-        {
-          "title": "USA: Trump will CNN, »Politico« und MS Now aus Weißem Haus verbannen",
-          "url": "https://www.spiegel.de/ausland/usa-donald-trump-trump-droht-cnn-politico-und-ms-now-mit-rauswurf-aus-weissem-haus-a-769d6181-a95e-4da8-8f87-50dbc5b3950d#ref=rss",
-          "summary": "Donald Trump hat angekündigt zwei Fernsehsender und ein Nachrichtenportal den Zutritt zum Weißen Haus zu verweigern. Der Grund: angebliche »Fake News«.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a64e6417-763e-4432-9df9-004e2f8066fd_w1200_r1.778_fpx46.66_fpy49.99.jpg"
         },
         {
           "title": "Rente mit 63 ist besonders in Ostdeutschland ein Reizthema – zu Recht?",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
-          "summary": "Der Sender CNN und weitere Medien sollen keinen Zugang mehr zum Weißen Haus erhalten. US-Präsident Trump wirft ihnen vor, \"Erfindungen und Lügen\" zu verbreiten. Es ist nicht das erste Mal, dass Trump gegen Journalisten vorgeht.",
+          "title": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
+          "url": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
+          "summary": "Die Bundesregierung will die Spritpreise in zwei Schritten senken: erst mit einem Tankrabatt, ab Januar mit einem Preisdeckel. Doch der dürfte noch für Streit in der Koalition sorgen. Von Maximilian Ulrich.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8290304e-7574-48b2-93bc-e2f5cc1e23b9/AAABoLZYWnk/AAABnSSvrFg/16x9-big/trump-reporter-weisses-haus-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/398100ba-79cc-4f7c-bdf9-69b8a189de96/AAABoLcZokE/AAABnSSvrFg/16x9-big/tanken-238.jpg?width=1280"
         },
         {
-          "title": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
-          "summary": "In Texas hat Bundesverteidigungsminister Pistorius den ersten von 35 Kampfjets des Typs F-35A übernommen. Die Flugzeuge sind vom gegnerischen Radar nur schwer zu orten. Pistorius sprach von einer \"neuen Ära für die Luftwaffe\".",
+          "title": "Dänemark und USA verkünden Durchbruch im Grönland-Streit",
+          "url": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
+          "summary": "US-Präsident Trump sorgte mit seinen Ansprüchen auf Grönland für Spannungen innerhalb der NATO. Nun wollen die USA, Dänemark und Grönland ein Abkommen schließen. Laut Grönlands Regierungschef nützt es allen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4313dee0-3d2f-4a08-a462-af1aeb094185/AAABoLXIdgU/AAABnSSvrFg/16x9-big/pistorius-f35-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d6ef7c9f-5cc7-4b1b-ac6b-9a3ea99ce004/AAABoLbNKng/AAABnSSvrFg/16x9-big/us-konsulat-nuuk-100.jpg?width=1280"
         },
         {
-          "title": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
-          "url": "https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html",
-          "summary": "Wegen der hohen Spritpreise übt Finanzminister Klingbeil scharfe Kritik an der EU-Kommission. Er fordert eine Übergewinnsteuer für Ölkonzerne auf EU-Ebene. Doch Brüssel zeigt wenig Interesse. Von Sarah López.",
+          "title": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
+          "url": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+          "summary": "Vier Tage war Verteidigungsminister Pistorius in den USA. In Washington, New York und Fort Worth in Texas wird schnell klar, dass sich etwas verändert hat: Das Interesse der USA am Bündnispartner scheint neu erwacht. Von C. Nagel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/59d547e0-8c3a-4e4e-9e97-9ab13dd91059/AAABoLWc--o/AAABnSSvrFg/16x9-big/klingbeil-dublin-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/76a49499-089f-4b37-8237-d20f6442cd8c/AAABoLasYKo/AAABnSSvrFg/16x9-big/pistorius-658.jpg?width=1280"
         }
       ]
     },
@@ -122,9 +122,17 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Newsblog zu KI: Googles KI Gemini hackte ebenfalls andere Unternehmen",
+          "url": "https://www.sueddeutsche.de/politik/ki-newsblog-europa-sicherheit-google-gemini-probleme-zwischenfaelle-li.3547133",
+          "summary": "Bisher waren keine Hacking-Vorfälle mit Googles Künstlicher Intelligenz Gemini bekannt. Das ändert sich nun – aber erst, nachdem eine US-Zeitung Fragen gestellt hat.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/19/8c0fe5cb-0e0b-4166-a88a-28d32d3b12d4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
           "title": "Sieg gegen Union Berlin: Die Bayern blasen ihre Torflaute fort",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-union-kane-olise-bundesliga-spielbericht-tore-tabelle-li.3550142",
-          "summary": "Ein Wiesn-Vorabend, wie er besser kaum laufen könnte für die Bayern: Harry Kane erzielt beim 7:0-Erfolg gegen Union Berlin sein 100. Bundesligator – und Michael Olise gelingt ein Hattrick.",
+          "summary": "Ein Wiesn-Vorabend, wie er besser kaum laufen könnte für die Bayern: Harry Kane erzielt beim 7:0-Erfolg gegen Union Berlin sein 100. Bundesligator – und Michael Olise gelingt sein erster Hattrick.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/18/7e3c551d-8489-4a28-9cdf-efff45c434b0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C2972%2C1672"
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/18/9b8984a8-ead4-4d0a-9d13-10f1a98c5e57.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C335%2C4000%2C2250"
-        },
-        {
-          "title": "USA-Newsblog: Trump verbietet CNN, Politico und MS Now Zugang zum Weißen Haus",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-cnn-politico-weisses-haus-li.3530667",
-          "summary": "Grund sei deren Berichterstattung – sie verbreiteten „Erfindungen und Lügen“, so der US-Präsident. Weitere Medien würden ebenfalls verbannt, kündigt er an.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/18/f93b8591-9815-4e79-99ef-6dc10cb7e17c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
