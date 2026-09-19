@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-19T10:00:08.583Z",
-  "timestamp": "19.9.2026, 12:00:08",
+  "generated": "2026-09-19T14:00:10.493Z",
+  "timestamp": "19.9.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Spritpreispaket: Aktionistisch, teuer und kontraproduktiv",
-          "url": "https://www.faz.net/aktuell/wirtschaft/tankrabatt-und-preisdeckel-sind-aktionistisch-teuer-und-kontraproduktiv-ein-kommentar-201242809.html",
-          "summary": "Tankrabatt, Preisdeckel und womöglich doch eine Übergewinnsteuer: Mit ihrem Spritpreispaket halten Union und SPD an einer falschen Politik fest.",
+          "title": "Kontrollverlust: Die Verschwörung der Maschinen",
+          "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/hugging-face-hack-gefaehrliche-gruppendynamik-der-ki-agenten-von-open-ai-accg-201227724.html",
+          "summary": "Heimlichtuerei, sozialer Druck, Gruppenzwang. Eine Analyse des Hackerangriffs auf die Plattform Hugging Face zeigt: Sobald KI-Agenten zusammenkommen, entwickeln sie eine gefährliche Gruppendynamik.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e347c82f31e9/w4256h2223x0y275o/202609/43601.0.2500567982/teure-tankpolitik.webp"
+          "image": "https://media0.faz.net/image/w1200h627/569fc12065ba/w3780h1975x8y75o/202609/43601.0.2560200962/ki-agenten-rotten-sich-gern.webp"
         },
         {
-          "title": "Tankrabatt & Co.: „Hätte das nicht für möglich gehalten“ – scharfe Kritik am Spritpreispaket",
-          "url": "https://www.faz.net/aktuell/wirtschaft/clemens-fuest-und-monika-schnitzer-kritisieren-tankrabatt-und-preisdeckel-accg-201242745.html",
-          "summary": "Tankrabatt und Preisdeckel: Union und SPD einigen sich auf Maßnahmen gegen die hohen Spritpreise. Fachleute sind entsetzt.",
+          "title": "Yoshua Bengio: Warum lügen, betrügen und koordinieren sich KI-Agenten?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/yoshua-bengio-erklaert-warum-luegt-betruegt-und-koordiniert-sich-die-ki-accg-201242795.html",
+          "summary": "Künstliche Intelligenz hat Maßnahmen ergriffen, die als Verbrechen gelten würden, wenn ein Mensch sie beginge. Die Erklärung ist höchst besorgniserregend. Was dahintersteckt und nun zu tun ist.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4864faccfe09/w6000h3135x0y463o/202609/43601.0.2559076095/kanzler-merz-und-vizekanzler.webp"
+          "image": "https://media0.faz.net/image/w1200h627/951b47a2807a/w1887h985x10y297o/202311/1.9283644/der-kanadische-informatiker.webp"
         },
         {
-          "title": "Deal mit den USA: Was bedeutet das neue Abkommen für Grönland?",
-          "url": "https://www.faz.net/aktuell/politik/ausland/groenland-abkommen-usa-und-daenemark-einigen-sich-accg-201242732.html",
-          "summary": "Die USA, Dänemark und Grönland haben sich auf ein Abkommen über die arktische Insel verständigt. Militärisch ändert es wenig, wirtschaftlich hingegen schon.",
+          "title": "Künstliche Intelligenz: Das bedrohte Fortschritts-Versprechen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/anthropic-openai-co-das-versprechen-der-ki-und-wieso-die-gefahr-gross-ist-19983533.html",
+          "summary": "Mehr Daten, mehr Mathematik und mehr Vernetzung führen zu mehr Freiheit und Wohlstand – darauf haben wir uns lange verlassen. Das erhoffen wir eigentlich auch von der Künstlichen Intelligenz. Und nun?",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8c28707c1f5c/w3517h1837x0y253o/202609/43601.0.2568654854/ein-daenisches-militaerschiff.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/3291b8a2687e/w8091h4227x0y502o/202404/43601.0.277540366/die-kuenstlichen-neuronalen.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "AfD: Alice Weidel kopiert jetzt Ulrich Siegmund – und sein Erfolgsrezept",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-alice-weidel-kopiert-jetzt-ulrich-siegmund-und-sein-erfolgsrezept-a-145148a3-cf22-4d16-a59f-face74c443b6#ref=rss",
-          "summary": "Die AfD-Vorsitzende Alice Weidel entdeckt Social Media neu. Das Vorbild sitzt in Sachsen-Anhalt: Ulrich Siegmunds Wahlkampf dient als Blaupause für die Partei.",
+          "title": "Chor aus Ghana in Sachsen-Anhalt: »Wir lieben Germany« – und Magdeburg liebt sie",
+          "url": "https://www.spiegel.de/panorama/chor-aus-ghana-in-sachsen-anhalt-wir-lieben-germany-und-magdeburg-liebt-sie-a-9c600eea-2332-4ced-be7c-8350965e89d7#ref=rss",
+          "summary": "Fröhliche Hymnen statt AfD-Tristesse: Die Mitglieder des Kumasi Evangel Choir aus Ghana sind nach Magdeburg gereist, um an einem Gesangswettbewerb teilzunehmen. Wie ergeht es einem afrikanischen Chor im neuen Sachsen-Anhalt?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/501dce31-9ea5-4db1-9e93-d840b20b6b12_w1200_r1.778_fpx33.35_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/625236af-0945-4702-81be-e2bdedc23e5a_w1200_r1.778_fpx51.41_fpy49.99.jpg"
         },
         {
-          "title": "Berlin – Wahl zum Abgeordnetenhaus 2026: Berlin ist unwählbar geworden",
-          "url": "https://www.spiegel.de/kultur/berlin-wahl-zum-abgeordnetenhaus-2026-berlin-ist-unwaehlbar-geworden-a-5f0035a3-a641-481c-a7ef-4b66be585086#ref=rss",
-          "summary": "Die Hauptstadt stand lange für Freiheit und Aufbruch. Heute versprechen linke und rechte Parteien in Berlin vor allem eines: Schutz vor Veränderung.",
+          "title": "80 Jahre DER SPIEGEL: Mehr Ex-Nazis als bisher bekannt arbeiteten in der Redaktion",
+          "url": "https://www.spiegel.de/kultur/literatur/80-jahre-der-spiegel-mehr-ex-nazis-als-bisher-bekannt-arbeiteten-in-der-redaktion-a-7bc40122-b970-48c2-aab9-4630445b035d#ref=rss",
+          "summary": "In der frühen SPIEGEL-Redaktion arbeiteten deutlich mehr ehemalige Nationalsozialisten und SS-Leute als bisher bekannt. Auszüge aus der neuen Biografie des SPIEGEL-Herausgebers »Augstein. Ein deutsches Leben«.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/aa5843e5-7b66-4d7b-ba83-79597f0828dd_w1200_r1.778_fpx68.66_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f3d5f5a1-2572-4661-b452-289eadd887b8_w1200_r1.778_fpx50.99_fpy50.jpg"
         },
         {
-          "title": "News: Tankrabatt und Spritpreisdeckel, Wohnungsnot in Deutschland, NS-Aufarbeitung in den Familien",
-          "url": "https://www.spiegel.de/politik/deutschland/news-tankrabatt-und-spritpreisdeckel-wohnungsnot-in-deutschland-ns-aufarbeitung-in-den-familien-a-8f629987-8803-4e98-adb8-0f0cece6526d#ref=rss",
-          "summary": "Bund und Länder verkünden eine teure Lösung für teuren Sprit. Die Wohnungsnot betrifft vor allem Studierende. Und die Aufarbeitung der NS-Vergangenheit setzt sich in den Familien fort. Das ist die Lage am Samstagmorgen.",
+          "title": "KI-Warnung: Donald Trump ist die Börsenparty wichtiger als das Überleben der Menschheit",
+          "url": "https://www.spiegel.de/ausland/ki-warnung-donald-trump-ist-die-boersenparty-wichtiger-als-das-ueberleben-der-menschheit-a-be3c1832-606f-4577-bd15-0cf8f038431f#ref=rss",
+          "summary": "US-Präsident Trump sperrt sich gegen eine wirksame Regulierung künstlicher Intelligenz. Das könnte sich als die fatalste Entscheidung seiner Amtszeit herausstellen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/634b723d-aaca-4dfc-a886-aad6454fcc90_w1200_r1.778_fpx34_fpy55.01.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Abgeordnetenhauswahl: So lief der Wahlkampf in Berlin",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
-          "summary": "Last-Minute-Spitzenkandidatenwechsel, Terroranschlag, Korruptions-Ermittlungen: Berlin hat einen außergewöhnlichen Wahlkampf erlebt. Nicht zuletzt deshalb ist das Rennen um Platz eins so eng wie nie.",
+          "title": "Auch Googles KI hackte Unternehmen",
+          "url": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
+          "summary": "Wiederholt haben KI-Systeme bei Tests unerwartet auf fremde Systeme zugegriffen. Nun wurden solche Vorfälle auch bei Googles Gemini bekannt. In der Debatte um KI-Sicherheit lässt Kalifornien mögliche strengere Sicherheitsvorgaben prüfen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/87f78197-9363-4871-a2af-be7ce80d3cde/AAABoLgbejw/AAABnSSvrFg/16x9-big/rbb-wahlkampfplakatierung-berlin-mitte-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ca3c2572-621d-4cf6-846e-aaff4a350064/AAABoLkMzYA/AAABnSSvrFg/16x9-big/gemini-100.jpg?width=1280"
         },
         {
-          "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
-          "summary": "Vor dem Wahlen in Mecklenburg-Vorpommern und Berlin beenden die Parteien heute ihren Wahlkampf. Bundeskanzler Merz erhält vor dem Wahlsonntag weitere Rückendeckung aus seiner eigenen Partei.",
+          "title": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
+          "url": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html",
+          "summary": "Debatten um die Eindämmung der Gefahren durch Künstliche Intelligenz enden in den USA meist mit dem Hinweis, dass China dann einen gefährlichen Vorsprung erlange. Doch wo steht Peking in der Debatte? Von Jörg Endriss.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9c82a506-f1ec-4f1c-b039-a6e2a1939efb/AAABoKoupgo/AAABnSSvrFg/16x9-big/wahlplakate-mecklenburg-vorpommern-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8dd5a257-c551-4f50-bf23-7f6ae2d95ec9/AAABoLnIlxw/AAABnSSvrFg/16x9-big/ki-poster-china-100.jpg?width=1280"
         },
         {
-          "title": "Vier Kinofilme und eine neue Serie über die Beatles",
-          "url": "https://www.tagesschau.de/kultur/beatles-kino-serie-100.html",
-          "summary": "Vier Kinofilme, eine BBC/ZDF-Serie über ihre Hamburger Jahre, neue Bücher, Shows und ein Podcast im NDR: Die Geschichte der Beatles lässt die Menschen nicht los. Von O. Bandixen.",
+          "title": "Wie sich Lokaljournalismus weiterentwickelt",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html",
+          "summary": "Klicks, neue Kanäle, Künstliche Intelligenz: Der Lokaljournalismus befindet sich im Wandel. Wie Zeitungen mit den Herausforderungen umgehen, zeigt eine Redaktion des Böblinger Boten. Wie kann sie sich behaupten? Von Laura Bisch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2de179fd-2cce-46c3-bbd8-e7352758fc9c/AAABoLR4fYM/AAABnSSvrFg/16x9-big/filmszene-beatles-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e6ae0e58-1b26-4fbf-9321-3c7fe1f675bb/AAABoLQVlmk/AAABnSSvrFg/16x9-big/sendungsbild-1798048.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Baut China \"T-800 Terminatoren\"? – Teil 3: Die letzte menschliche Instanz",
-          "url": "https://www.telepolis.de/article/Baut-China-T-800-Terminatoren-Teil-3-Die-letzte-menschliche-Instanz-11455806.html",
-          "summary": "Bewaffnete Roboterhunde und autonome Drohnen sind keine Science-Fiction mehr. Die Entwicklung von KI-Waffen wirft ethische Fragen auf.",
+          "title": "Alzheimer-Forschung: Warum die 3D-Struktur des Genoms alles ändern könnte",
+          "url": "https://www.telepolis.de/article/Alzheimer-Forschung-Warum-die-3D-Struktur-des-Genoms-alles-aendern-koennte-11457785.html",
+          "summary": "Die DNA-Faltung in Gehirnzellen von Alzheimer-Patienten ist messbar verändert – das eröffnet laut Forschern neue Ansätze für gezielte Therapien.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/4/2/0/field-ai-news-613c8bd1b56a4268.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/7/4/1/5/demenz-01-8fa66ebee0f4c4ca.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Israel/Palästina: Zwischen biblischer Erzählung und historischem Befund",
-          "url": "https://www.telepolis.de/article/Israel-Palaestina-Zwischen-biblischer-Erzaehlung-und-historischem-Befund-11452858.html",
-          "summary": "Archäologie und Bibel erzählen von David und Salomo. Doch was Inschriften und Ausgrabungen enthüllen, widerspricht dem Alten Testament fundamental (Teil 1/3).",
+          "title": "Der neue deutsche Militarismus trägt keine Pickelhaube",
+          "url": "https://www.telepolis.de/article/Der-neue-deutsche-Militarismus-traegt-keine-Pickelhaube-11459101.html",
+          "summary": "Generalinspekteur Breuer fordert Mobilisierung der gesamten Gesellschaft. Warum Deutschland eine Debatte führen muss, die es derzeit nicht führt. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/8/9/8/Beisan_Old_City-832238b0c2b63817.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/0/7/7/shutterstock_2335357143-dd8a56bc8686eea1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "27.000 Verluste monatlich: Die Ukraine stößt an ihre personelle Grenze",
-          "url": "https://www.telepolis.de/article/27-000-Verluste-monatlich-Die-Ukraine-stoesst-an-ihre-personelle-Grenze-11458657.html",
-          "summary": "Polens Premier Donald Tusk legt die Arithmetik des Abnutzungskriegs offen: Die Lücke zwischen Verlusten und Rekruten schrumpft auf ein gefährliches Minimum.",
+          "title": "Oktoberfest: Nation-Building in Dirndl und Lederhose",
+          "url": "https://www.telepolis.de/article/Oktoberfest-Nation-Building-in-Dirndl-und-Lederhose-11459051.html",
+          "summary": "Bayerische Könige nutzten Trachten und Volksfeste, um ihr Land zu formen – und schufen Deutschlands erfolgreichstes Weltklischee.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/7/8/5/3/Screenshot_2026-09-18_153539-7bab2aa34161906e.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/0/5/2/Master_Oktoberfest-8fe2633b2e7bdcb8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA-Newsblog: Hunderte demonstrieren gegen Kennedy-Center-Pläne Trumps – Foto zeigt ihn mit Abrissplänen",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedy-center-abrissplaene-demonstration-li.3530667",
-          "summary": "Am Freitag demonstrierten Hunderte Menschen gegen die sofortige Schließung des Gebäudes, die der US-Präsident angeordnet hatte. Er möchte das Zentrum unbedingt nach sich benennen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/19/440b6be0-4d00-4f53-adcb-62fb2671df20.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C104%2C1962%2C1104"
-        },
-        {
-          "title": "Oktoberfest: Besucher stürmen auf die Wiesn – OB Krause reist per U-Bahn an",
+          "title": "Oktoberfest: Erste Zelte geschlossen – Panne bei Fahrgeschäft",
           "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesnstart-anstich-samstag-liveticker-li.3549371",
-          "summary": "Die Wiesnwirte fahren nun in ihren Kutschen zum Festgelände. Zum ersten Mal wird am Mittag ein grüner Oberbürgermeister anzapfen – und die Sanitäter melden den ersten Einsatz nach neun Minuten.",
+          "summary": "Münchens Oberbürgermeister hat das Oktoberfest beim Anzapfen mit zwei Schlägen eröffnet. Die Wiesn-Party nimmt Fahrt auf, Söder zieht weiter ins Promi-Zelt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/19/b3f607e2-77a5-4ce5-ad27-9d5371c73dd4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C311%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/19/63a66aea-e3e2-4108-8b56-f9736627d903.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C29%2C4000%2C2250"
         },
         {
-          "title": "Tankrabatt: Wieder begeht die Koalition alte Fehler",
-          "url": "https://www.sueddeutsche.de/meinung/tankrabatt-spritpreise-bundesregierung-kommentar-li.3550373",
-          "summary": "Es hätte bessere Ideen als einen Tankrabatt gegeben, Menschen spürbar zu entlasten. Und eine zweite Maßnahme könnte ziemlich nach hinten losgehen.",
+          "title": "Oktoberfest-Anstich in Bildern: Zähes Warten, „Wiesn-Run“ – und dann ein Krause-Plan, der aufgeht",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-wiesnstart-samstag-bilder-li.3545965",
+          "summary": "Dem friedlichen Anstich-Morgen wohnt ein besonderer Zauber inne, doch das ändert sich am Vormittag abrupt: Tausende rennen wie verrückt in die Zelte – und dem Oberbürgermeister gelingt ein Kunststück. Der Wiesn-Start in Bildern.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/18/83da8988-0c36-47fa-9a37-a273f2b7827e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/19/7566b101-4edf-46eb-aaa9-f4366aeda6a2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3487%2C1961"
+        },
+        {
+          "title": "FC Bayern nach dem 7:0 gegen Union Berlin: Vier Festreden und ein Sonderurlaub",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-union-kane-olise-li.3549823",
+          "summary": "Während Harry Kane und Michael Olise beim 7:0 gegen Union Berlin Bewerbungen für den Ballon d’Or abgeben, erlebt Luis Díaz eine Schaffenskrise – die er offenbar kommen sah.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/19/6f1b5945-6b24-4b91-ba99-d2ee45630b3c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3546%2C1995"
         }
       ]
     }
