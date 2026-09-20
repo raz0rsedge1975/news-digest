@@ -1,17 +1,25 @@
 {
-  "generated": "2026-09-20T10:00:09.556Z",
-  "timestamp": "20.9.2026, 12:00:09",
+  "generated": "2026-09-20T14:00:10.066Z",
+  "timestamp": "20.9.2026, 16:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Umbruch in Duisburg: Wenn die Stahlschmelzer ihren Ofen für immer abschalten",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hkm-in-duisburg-wenn-die-stahlschmelzer-ihren-ofen-fuer-immer-abschalten-accg-201239189.html",
-          "summary": "Aus nach 53 Produktionsjahren: Das zweitgrößte integrierte deutsche Stahlwerk hat am Wochenende einen seiner Hochöfen außer Betrieb genommen. Wie die Arbeiter das Ende erlebt haben.",
+          "title": "Heinrich August Winkler: „Es könnte sein, dass die AfD gerade ihren Höhepunkt überschreitet“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/heinrich-august-winkler-vielleicht-hat-die-afd-ihren-hoehepunkt-gerade-ueberschritten-accg-201237588.html",
+          "summary": "Der Historiker Heinrich August Winkler hält die AfD für besiegbar. Und zwar dann, wenn die schwarz-rote Regierung nach den Landtagswahlen an ihren Reformen festhält.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/684a07631fd6/w5703h2979x0y411o/202609/43601.0.2563990007/schwerer-abschied.webp"
+          "image": "https://media0.faz.net/image/w1200h627/742b8254baa2/w5184h2708x0y129o/201408/43cd39865e-de6c-11ea-972f-237a00511f13/heinrich-august-winkler-zaehlt.webp"
+        },
+        {
+          "title": "Deutschland-Liveblog: In Mecklenburg-Vorpommern zeichnet sich hohe Wahlbeteiligung ab",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-in-mecklenburg-vorpommern-zeichnet-sich-hohe-wahlbeteiligung-ab-faz-110093143.html",
+          "summary": "Bis 14.00 Uhr gaben 40,7 Prozent der Wahlberechtigten ihre Stimme ab +++ Auch Wahlbeteiligung in Berlin bis zum Mittag höher als 2023 +++ Schwesig und Holm haben in Schwerin abgestimmt +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/746d6b7a9fe9/w6000h3135x0y365o/202609/43601.0.2573969654/eine-waehlerin-steckt-ihren.webp"
         },
         {
           "title": "Landtagswahlen: Kann Schwesig wirklich die AfD überholen?",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/c0e822c9be35/w4955h2588x0y357o/202609/43601.0.2559506550/wer-wird-am-ende-vorne-liegen.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Antisemitismus und Ermittlungen: Was den Berliner Wahlkampf geprägt hat",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-was-den-wahlkampf-in-berlin-gepraegt-faz-110093143.html",
-          "summary": "Wahllokale in Berlin und Mecklenburg-Vorpommern geöffnet +++ Druck auf Pistorius: Neuen Generalinspekteur schnell benennen +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b12a0e93de0f/w5795h3027x0y418o/202609/43601.0.2572891851/eine-person-gibt-am-sonntag-im.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Warum die »Nazi-Kartei« ein Wendepunkt des Gedenkens in Deutschland ist",
+          "title": "SPIEGEL-Datenprojekt Babynächte: Mein Mann schlummerte neben dem schreienden Baby",
+          "url": "https://www.spiegel.de/familie/spiegel-datenprojekt-babynaechte-mein-mann-schlummerte-neben-dem-schreienden-baby-a-64a1a29e-1563-40c3-82fd-4eef5fa40e62#ref=rss",
+          "summary": "Wer kümmert sich nachts um das Kind? Nach der Geburt meines Sohnes war das vor allem: ich. Wie vielen Frauen geht das so?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/3239b29c-bf3b-4826-a079-3c8f9306c7ca_w1200_r1.778_fpx47_fpy38.jpg"
+        },
+        {
+          "title": "Wahlen in Mecklenburg-Vorpommern: »Norddeutsch« war mein Schutzschild",
+          "url": "https://www.spiegel.de/kultur/wahlen-in-mecklenburg-vorpommern-norddeutsch-war-mein-schutzschild-a-b7eccc37-aa5f-4a0c-8c4c-ee0a72737f66#ref=rss",
+          "summary": "Unsere Autorin kommt aus Rostock und bezeichnete sich früher oft zuerst als norddeutsch, um westdeutsche Abwertung zu umgehen. Warum sie das schon vor Jahren änderte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/134a046d-9904-4de0-a8e1-5c6cdcb94475_w1200_r1.778_fpx52_fpy35.jpg"
+        },
+        {
+          "title": "Warum die Nazi-Kartei ein Wendepunkt des Gedenkens in Deutschland ist",
           "url": "https://www.spiegel.de/geschichte/warum-die-nazi-kartei-ein-wendepunkt-des-gedenkens-in-deutschland-ist-a-a479b43f-5a2d-4e1e-90c5-0d75442ef0ad#ref=rss",
           "summary": "Erstmals in der bundesdeutschen Geschichte können Nachgeborene am Laptop erforschen, ob ihre Vorfahren Mitglieder in Hitlers Partei waren. Es ist ein Meilenstein für die Aufarbeitung der NS-Vergangenheit in den Familien.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/ddfe1a58-c606-457e-81ec-664c7b0c7d6f_w1200_r1.778_fpx46_fpy52.jpg"
-        },
-        {
-          "title": "Mecklenburg-Vorpommern: Was Sie über die Landtagswahl wissen sollten",
-          "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-was-sie-ueber-die-landtagswahl-wissen-sollten-a-83418abb-d0a2-40db-80cd-3cc2e694be66#ref=rss",
-          "summary": "Profitiert die AfD vom Triumph in Sachsen-Anhalt? Kann der Mann mit dem Fischbrötchen den Bundeskanzler retten? Und wird Manuela Schwesig zur wichtigsten Frau der SPD? Fragen und Antworten zur Wahl.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a292ccaf-2005-4441-a444-f177b267618b_w1200_r1.778_fpx36.67_fpy54.99.jpg"
-        },
-        {
-          "title": "Die AfD und der SPIEGEL: Wie berichten wir über eine Partei, die uns zu Feinden erklärt?",
-          "url": "https://www.spiegel.de/politik/deutschland/die-afd-und-der-spiegelwie-berichten-wir-ueber-eine-partei-die-uns-zu-feinden-erklaert-a-845ea8bb-bcb3-4ab2-b554-5eba8f609d39#ref=rss",
-          "summary": "»Mainstreammedien«, »Lügenpresse« – AfD-Politiker greifen Journalisten scharf an. So gehen wir beim SPIEGEL damit um – und so streitet unsere Redaktion darüber.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b9d35367-6d51-4d1e-8ab8-7e740af74f68_w1200_r1.778_fpx53_fpy32.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Künstliche Intelligenz: US-Präsident Trump kündigt \"AI Force\" an",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-ki-taskforce-100.html",
-          "summary": "Nach Hacking-Vorfällen plädierten selbst führende KI-Firmen dafür, die Entwicklung der Technologie zu drosseln. US-Präsident Trump sieht das allerdings anders. Nun kündigt er eine \"AI Force\" an, die das Wachstum von KI beaufsichtigen soll.",
+          "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Wahlbeteiligung voraussichtlich höher als 2021 ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+          "summary": "In Mecklenburg-Vorpommern zeichnet sich eine hohe Wahlbeteiligung ab: Bis 14 Uhr sind mehr Menschen zur Wahlurne gegangen als bei der vorherigen Landtagswahl. Auch mehrere Spitzenkandidaten waren schon wählen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5ecebe26-c44d-41a4-8b00-5f69aa7ee58f/AAABoL3maeI/AAABnSSvrFg/16x9-big/donald-trump-932.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/774a5faf-fb9b-4fa4-9166-3a0251e40f72/AAABoL8X7d4/AAABnSSvrFg/16x9-big/mecklenburg-vorpommern-wahl-100.jpg?width=1280"
         },
         {
-          "title": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
-          "url": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
-          "summary": "Unter Präsident Trump gehen die USA in der Karibik seit vergangenem Jahr mit gezielten Angriffen gegen mutmaßliche Drogenboote vor. Bei einem neuerlichen Einsatz sind dabei nach Militärangaben erneut vier Menschen gestorben.",
+          "title": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html",
+          "summary": "In Berlin steht für die CDU das Rote Rathaus auf dem Spiel, in Mecklenburg-Vorpommern droht den Christdemokraten ein einstelliges Ergebnis. Welche Folgen hätte das für Kanzler Merz?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6fd58485-e329-4afb-8acf-07dd2f267009/AAABoL2bSzU/AAABnSSvrFg/16x9-big/usa-karibik-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/30994218-a333-4c39-b90e-a32b44cb3216/AAABoKl_t0A/AAABnSSvrFg/16x9-big/merz-1610.jpg?width=1280"
         },
         {
-          "title": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
-          "summary": "Bei Angriffen der Ukraine mit Hunderten Drohnen hat es in Russland mindestens zwei Tote gegeben. In der Region um Moskau wurde eine Raffinerie getroffen. Auch bei russischen Angriffen starben mehrere Menschen.",
+          "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html",
+          "summary": "Italien fürchtet massive wirtschaftliche Schäden aufgrund der jüngsten Entwicklungen in der Meerenge Bab al-Mandab. Das Land fordert Unterstützung von der EU - nachdem es kürzlich noch einen Alleingang ins Spiel gebracht hatte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c7699c74-a966-48c4-bd23-6a6ca2e75d81/AAABoL2UB0I/AAABnSSvrFg/16x9-big/rauchwolke-moskau-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f580917f-fd16-4326-875a-63e83bf5ca57/AAABn4Weng8/AAABnSSvrFg/16x9-big/bab-al-mandab-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Brokkoli-Strunk als Wurst und Eis: Forscher machen aus Abfall ein Klimaprojekt",
-          "url": "https://www.telepolis.de/article/Brokkoli-Strunk-als-Wurst-und-Eis-Forscher-machen-aus-Abfall-ein-Klimaprojekt-11456156.html",
-          "summary": "Die meisten essen nur die Röschen. Dabei steckt in Strünken und Blättern nicht nur Geschmack, sondern auch ein Hebel gegen klimaschädliches Lachgas.",
+          "title": "Benzinpreise im EU-Vergleich: Was Griechenland besser macht als Deutschland",
+          "url": "https://www.telepolis.de/article/Benzinpreise-im-EU-Vergleich-Was-Griechenland-besser-macht-als-Deutschland-11458087.html",
+          "summary": "Belgien, Kroatien, Griechenland – überall ist Benzin günstiger als in Deutschland. Der Grund liegt nicht nur bei den Steuern, sondern auch bei der Regulierung.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/5/9/7/Broccoli-01-fd0dfcf1badfb3cc.gif"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/7/5/6/6/TankenEvia260918-1-689f87146f98fc95.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Gesinnung als Gewerbekriterium: Der Fall Ken Merten",
-          "url": "https://www.telepolis.de/article/Gesinnung-als-Gewerbekriterium-Der-Fall-Ken-Merten-11452894.html",
-          "summary": "Ein Wachmann soll seinen Job verlieren. Der Grund dafür ist das falsche Parteibuch. Was der Fall Ken Merten über die Rückkehr der Berufsverbote verrät.",
+          "title": "US-Militär: Wie ein KI-Fehler beinahe einen Krieg mit China auslöste",
+          "url": "https://www.telepolis.de/article/US-Militaer-Wie-ein-KI-Fehler-beinahe-einen-Krieg-mit-China-ausloeste-11459301.html",
+          "summary": "Ein falscher Bericht über Nuklearfracht stoppte erst kurz vor dem Angriff. Der Vorfall zeigt die Gefahr der rasanten KI-Aufrüstung im Militär.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/9/2/1/shutterstock_2103114125-43f32cc7c46f9851.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/1/7/7/shutterstock_2479584695-7754a60af33c860d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Tankrabatt: 17 Cent pro Liter – unabhängig vom Einkommen",
-          "url": "https://www.telepolis.de/article/Tankrabatt-17-Cent-pro-Liter-unabhaengig-vom-Einkommen-11459155.html",
-          "summary": "Berlin senkt die Energiesteuer und plant einen Preisdeckel. Wer viel tankt, profitiert am stärksten. Gezielte Hilfen sollen erst später folgen.",
+          "title": "Pakistan in der Taliban-Falle",
+          "url": "https://www.telepolis.de/article/Pakistan-in-der-Taliban-Falle-11459233.html",
+          "summary": "Das Militär half den Islamisten zurück an die Macht. Nun wachsen Terror, Grenzkonflikte und wirtschaftliche Not – und die Atommacht gerät ins Wanken.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/1/0/4/master_tanken-73e26b603370c4b9.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/1/4/3/Former_Taliban_fighters_return_arms-977447f15309d504.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Mittelstand: „Ich fand schon immer: Der Kleiderbügel ist unterbewertet“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/mawa-kleiderbuegelproduktion-billigkonkurrenz-mittelstand-li.3548063",
-          "summary": "Michaela Schenk und ihre Firma Mawa  aus Pfaffenhofen stellen auf den ersten Blick ein Allerweltsprodukt her – und haben trotzdem international Erfolg. Können andere deutsche Firmen von ihr lernen?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/16/684b0dab-0822-4bb1-a68c-93d3776cfa98.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C117%2C2250%2C1266"
-        },
-        {
-          "title": "Oktoberfest: Was am zweiten Wiesn-Tag ansteht – Menschen hängen kopfüber in Fahrgeschäft fest",
+          "title": "Oktoberfest: Kreislaufprobleme: OB Dominik Krause muss Auftritt am Gay Sunday absagen",
           "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-sonntag-liveticker-li.3549371",
-          "summary": "Am Sonntag des Eröffnungswochenendes ziehen Trachten- und Schützenvereine durch die Stadt, und im Bräurosl-Zelt gibt es eine besondere Tradition. Die Sanitätsstation auf der Wiesn hatte am ersten Festtag viel zu tun.",
+          "summary": "Beim Trachtenfestzug fährt Krause noch in der Kutsche mit, doch dann muss er den Wiesn-Besuch abbrechen – und auf die Teilnahme in der Bräurosl als erster schwuler Oberbürgermeister in München verzichten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/19/63a66aea-e3e2-4108-8b56-f9736627d903.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C29%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/20/353ccc5e-2996-4850-aef8-af38da29389a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=381%2C230%2C3306%2C1860"
         },
         {
-          "title": "Fernsehen: Und wer bitteschön sollte das ZDF kaufen wollen?",
-          "url": "https://www.sueddeutsche.de/meinung/zdf-weimer-verkauf-rtl-fernsehen-kommentar-li.3549665",
-          "summary": "Staatsminister Weimer denkt laut darüber nach, den Mainzer Sender zu privatisieren. Wie solche Ideen zu bewerten sind, verrät der neuerliche Stellenabbau bei RTL.",
+          "title": "FC Bayern auf dem Oktoberfest: Fußball-Stars mit Skibrille und Wollmütze",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-muenchen-fc-bayern-muenchen-wiesn-harry-kane-fussball-stars-li.3549540",
+          "summary": "Kimmich trägt Hut, Davies volle Gesichtsmontur, und was macht nur Michael Olise? Die Spieler des FC Bayern am Sonntagmittag auf der Wiesn bei Käfer – fast alle im Fokus, nur einer drückt sich.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/e079d8ec-eca1-49b5-8aa7-9aba8edc2351.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C304%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/20/459fcd90-7e3c-4069-a87c-3244c69f48a9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C88%2C4000%2C2250"
+        },
+        {
+          "title": "Newsblog zu den Landtagswahlen: Kleine Wahlpanne in Rostock: ein Bus als Wahllokal",
+          "url": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-umfrage-wahllokale-rostock-li.3540501",
+          "summary": "Normalerweise geben die Wähler ihre Stimme in Schulen, Kitas oder öffentlichen Gebäuden ab. In Rostock musste sich die Stadt kurz anders behelfen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/20/382d8a5d-dafc-4b9c-81da-d04da35993fc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C122%2C4000%2C2250"
         }
       ]
     }
