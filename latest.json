@@ -1,12 +1,20 @@
 {
-  "generated": "2026-09-20T06:00:08.895Z",
-  "timestamp": "20.9.2026, 08:00:08",
+  "generated": "2026-09-20T10:00:09.556Z",
+  "timestamp": "20.9.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Landtagswahlen: Was an diesem Wahlsonntag auf dem Spiel steht",
+          "title": "Umbruch in Duisburg: Wenn die Stahlschmelzer ihren Ofen für immer abschalten",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/hkm-in-duisburg-wenn-die-stahlschmelzer-ihren-ofen-fuer-immer-abschalten-accg-201239189.html",
+          "summary": "Aus nach 53 Produktionsjahren: Das zweitgrößte integrierte deutsche Stahlwerk hat am Wochenende einen seiner Hochöfen außer Betrieb genommen. Wie die Arbeiter das Ende erlebt haben.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/684a07631fd6/w5703h2979x0y411o/202609/43601.0.2563990007/schwerer-abschied.webp"
+        },
+        {
+          "title": "Landtagswahlen: Kann Schwesig wirklich die AfD überholen?",
           "url": "https://www.faz.net/aktuell/politik/inland/wahl-in-mv-und-berlin-was-wird-mit-der-koalition-zwischen-cdu-und-spd-accg-201235530.html",
           "summary": "Wackelt Merz nach der Wahl in Mecklenburg-Vorpommern? Krempelt die Linke Berlin um? Die fünf wichtigsten Fragen und Antworten zu den beiden Wahlen.",
           "source": "FAZ",
@@ -14,26 +22,26 @@
           "image": "https://media0.faz.net/image/w1200h627/c0e822c9be35/w4955h2588x0y357o/202609/43601.0.2559506550/wer-wird-am-ende-vorne-liegen.webp"
         },
         {
-          "title": "Medienberichte über Merz: Der Kanzlertausch als mediales Lieblingsspiel",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kanzlertausch-merz-der-kanzlertausch-als-mediales-lieblingsspiel-accg-201226426.html",
-          "summary": "Die Antwort auf fast alle Fragen nach den Wahlergebnissen in Sachsen-Anhalt lautete in den letzten zehn Tagen: Merz. Was passiert, wenn Medieninsider keine Außenwelt mehr sehen, sondern nur noch spekulieren.",
+          "title": "Deutschland-Liveblog: Antisemitismus und Ermittlungen: Was den Berliner Wahlkampf geprägt hat",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-was-den-wahlkampf-in-berlin-gepraegt-faz-110093143.html",
+          "summary": "Wahllokale in Berlin und Mecklenburg-Vorpommern geöffnet +++ Druck auf Pistorius: Neuen Generalinspekteur schnell benennen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/50ee1c619109/w5169h2700x0y570o/202609/43601.0.2560301531/inside-kanzleramt.webp"
-        },
-        {
-          "title": "Merz in der Klemme: Wir sitzen in der Tinte",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/merz-bashing-als-ersatzhandlung-deutschland-steckt-in-der-krise-201235163.html",
-          "summary": "Mehr Emotionen wagen? Und mehr Optimismus verbreiten? Nur müssten wir uns erst einmal eingestehen, wie tief die Krise ist, in der das Land steckt.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8b654a4b5a9e/w6144h3210x0y458o/202607/43601.0.2292540301/noch-stabilisieren-ihre.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b12a0e93de0f/w5795h3027x0y418o/202609/43601.0.2572891851/eine-person-gibt-am-sonntag-im.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Warum die »Nazi-Kartei« ein Wendepunkt des Gedenkens in Deutschland ist",
+          "url": "https://www.spiegel.de/geschichte/warum-die-nazi-kartei-ein-wendepunkt-des-gedenkens-in-deutschland-ist-a-a479b43f-5a2d-4e1e-90c5-0d75442ef0ad#ref=rss",
+          "summary": "Erstmals in der bundesdeutschen Geschichte können Nachgeborene am Laptop erforschen, ob ihre Vorfahren Mitglieder in Hitlers Partei waren. Es ist ein Meilenstein für die Aufarbeitung der NS-Vergangenheit in den Familien.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ddfe1a58-c606-457e-81ec-664c7b0c7d6f_w1200_r1.778_fpx46_fpy52.jpg"
+        },
         {
           "title": "Mecklenburg-Vorpommern: Was Sie über die Landtagswahl wissen sollten",
           "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-was-sie-ueber-die-landtagswahl-wissen-sollten-a-83418abb-d0a2-40db-80cd-3cc2e694be66#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/a292ccaf-2005-4441-a444-f177b267618b_w1200_r1.778_fpx36.67_fpy54.99.jpg"
         },
         {
-          "title": "Russland-Ukraine-Krieg: Eine Reise entlang dem Dnipro – und durch eine Ukraine im Krieg",
-          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-eine-reise-entlang-dem-dnipro-und-durch-eine-ukraine-im-krieg-a-68a30900-6279-4e63-afd9-36bd43784586#ref=rss",
-          "summary": "Der Fluss Dnipro ist der Schicksalsstrom der Ukraine, Lebensader und auch Front. Wie leben die Menschen an seinen Ufern?",
+          "title": "Die AfD und der SPIEGEL: Wie berichten wir über eine Partei, die uns zu Feinden erklärt?",
+          "url": "https://www.spiegel.de/politik/deutschland/die-afd-und-der-spiegelwie-berichten-wir-ueber-eine-partei-die-uns-zu-feinden-erklaert-a-845ea8bb-bcb3-4ab2-b554-5eba8f609d39#ref=rss",
+          "summary": "»Mainstreammedien«, »Lügenpresse« – AfD-Politiker greifen Journalisten scharf an. So gehen wir beim SPIEGEL damit um – und so streitet unsere Redaktion darüber.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/20a94e99-80d5-4f00-8e6c-ecf5920f2e6e_w1200_r1.778_fpx65.21_fpy52.99.jpg"
-        },
-        {
-          "title": "Donald Trump: US-Präsident kündigt »AI Force« zur KI-Überwachung an",
-          "url": "https://www.spiegel.de/ausland/donald-trump-kuendigt-ai-force-zur-ki-ueberwachung-an-a-e2cf0663-c5a1-404b-8910-8605336743e1#ref=rss",
-          "summary": "Von Warnungen vor den Risiken künstlicher Intelligenz will der US-Präsident weiter nichts wissen. Trotzdem will er nun ihre Entwicklung mit einer neuen Institution überwachen. Dabei helfen soll auch ein »KI-Zar«.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b02fa213-0de9-46ab-be52-a269b9d72faf_w1200_r1.778_fpx26_fpy39.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b9d35367-6d51-4d1e-8ab8-7e740af74f68_w1200_r1.778_fpx53_fpy32.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
-          "url": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
-          "summary": "Die Bundesregierung will erneut die Energiesteuer auf Kraftstoffe senken und einen Spritpreisdeckel einführen, um Verbraucher zu entlasten. Die Ökonomin Grimm kritisiert das als opportunistisch - und warnt vor weitreichenden Konsequenzen.",
+          "title": "Künstliche Intelligenz: US-Präsident Trump kündigt \"AI Force\" an",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-ki-taskforce-100.html",
+          "summary": "Nach Hacking-Vorfällen plädierten selbst führende KI-Firmen dafür, die Entwicklung der Technologie zu drosseln. US-Präsident Trump sieht das allerdings anders. Nun kündigt er eine \"AI Force\" an, die das Wachstum von KI beaufsichtigen soll.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ce3cfc91-b28e-4c3f-9ca7-19090ecd2f0b/AAABoL04JfU/AAABnSSvrFg/16x9-big/grimm-wirtschaftsweise-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5ecebe26-c44d-41a4-8b00-5f69aa7ee58f/AAABoL3maeI/AAABnSSvrFg/16x9-big/donald-trump-932.jpg?width=1280"
         },
         {
-          "title": "Warum wir noch immer so viel Essen wegwerfen",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
-          "summary": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
+          "title": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
+          "url": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html",
+          "summary": "Unter Präsident Trump gehen die USA in der Karibik seit vergangenem Jahr mit gezielten Angriffen gegen mutmaßliche Drogenboote vor. Bei einem neuerlichen Einsatz sind dabei nach Militärangaben erneut vier Menschen gestorben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/56b3396d-a8ba-4a90-ac71-593c497c761a/AAABoEewqQc/AAABnSSvrFg/16x9-big/lebensmittelverschwendung-142.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6fd58485-e329-4afb-8acf-07dd2f267009/AAABoL2bSzU/AAABnSSvrFg/16x9-big/usa-karibik-100.jpg?width=1280"
         },
         {
-          "title": "FAQ: Was Sie zur Wahl in Berlin wissen müssen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/faq-abgeordnetenhauswahl-2026-berlin-100.html",
-          "summary": "Vier Parteien liegen in den Umfragen dicht beieinander, CDU und Linke konkurrieren um die Spitze: Die Berlin-Wahl verspricht spannend zu werden. Wie die Wahl abläuft und warum ihr Ausgang vieles ändern könnte.",
+          "title": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
+          "summary": "Bei Angriffen der Ukraine mit Hunderten Drohnen hat es in Russland mindestens zwei Tote gegeben. In der Region um Moskau wurde eine Raffinerie getroffen. Auch bei russischen Angriffen starben mehrere Menschen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ca0baa68-2e28-47c7-ab2f-3948f5b6efa7/AAABoGL_We0/AAABnSSvrFg/16x9-big/berlin-abgeordnetenhaus-126.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c7699c74-a966-48c4-bd23-6a6ca2e75d81/AAABoL2UB0I/AAABnSSvrFg/16x9-big/rauchwolke-moskau-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Brokkoli-Strunk als Wurst und Eis: Forscher machen aus Abfall ein Klimaprojekt",
+          "url": "https://www.telepolis.de/article/Brokkoli-Strunk-als-Wurst-und-Eis-Forscher-machen-aus-Abfall-ein-Klimaprojekt-11456156.html",
+          "summary": "Die meisten essen nur die Röschen. Dabei steckt in Strünken und Blättern nicht nur Geschmack, sondern auch ein Hebel gegen klimaschädliches Lachgas.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/6/5/9/7/Broccoli-01-fd0dfcf1badfb3cc.gif"
+        },
+        {
+          "title": "Gesinnung als Gewerbekriterium: Der Fall Ken Merten",
+          "url": "https://www.telepolis.de/article/Gesinnung-als-Gewerbekriterium-Der-Fall-Ken-Merten-11452894.html",
+          "summary": "Ein Wachmann soll seinen Job verlieren. Der Grund dafür ist das falsche Parteibuch. Was der Fall Ken Merten über die Rückkehr der Berufsverbote verrät.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/4/9/2/1/shutterstock_2103114125-43f32cc7c46f9851.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Tankrabatt: 17 Cent pro Liter – unabhängig vom Einkommen",
           "url": "https://www.telepolis.de/article/Tankrabatt-17-Cent-pro-Liter-unabhaengig-vom-Einkommen-11459155.html",
           "summary": "Berlin senkt die Energiesteuer und plant einen Preisdeckel. Wer viel tankt, profitiert am stärksten. Gezielte Hilfen sollen erst später folgen.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/1/0/4/master_tanken-73e26b603370c4b9.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Alzheimer-Forschung: Warum die 3D-Struktur des Genoms alles ändern könnte",
-          "url": "https://www.telepolis.de/article/Alzheimer-Forschung-Warum-die-3D-Struktur-des-Genoms-alles-aendern-koennte-11457785.html",
-          "summary": "Die DNA-Faltung in Gehirnzellen von Alzheimer-Patienten ist messbar verändert – das eröffnet laut Forschern neue Ansätze für gezielte Therapien.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/7/4/1/5/demenz-01-8fa66ebee0f4c4ca.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Der neue deutsche Militarismus trägt keine Pickelhaube",
-          "url": "https://www.telepolis.de/article/Der-neue-deutsche-Militarismus-traegt-keine-Pickelhaube-11459101.html",
-          "summary": "Generalinspekteur Breuer fordert Mobilisierung der gesamten Gesellschaft. Warum Deutschland eine Debatte führen muss, die es derzeit nicht führt. Ein Kommentar.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/0/7/7/shutterstock_2335357143-dd8a56bc8686eea1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Oktoberfest: Viele Zelte geschlossen – Panne bei Fahrgeschäft",
+          "title": "Mittelstand: „Ich fand schon immer: Der Kleiderbügel ist unterbewertet“",
+          "url": "https://www.sueddeutsche.de/wirtschaft/mawa-kleiderbuegelproduktion-billigkonkurrenz-mittelstand-li.3548063",
+          "summary": "Michaela Schenk und ihre Firma Mawa  aus Pfaffenhofen stellen auf den ersten Blick ein Allerweltsprodukt her – und haben trotzdem international Erfolg. Können andere deutsche Firmen von ihr lernen?",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/16/684b0dab-0822-4bb1-a68c-93d3776cfa98.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C117%2C2250%2C1266"
+        },
+        {
+          "title": "Oktoberfest: Was am zweiten Wiesn-Tag ansteht – Menschen hängen kopfüber in Fahrgeschäft fest",
           "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-sonntag-liveticker-li.3549371",
-          "summary": "Münchens Oberbürgermeister hat das Oktoberfest beim Anzapfen mit zwei Schlägen eröffnet. Die Wiesn-Party nimmt Fahrt auf, die Zahl der sogenannten Bierleichen steigt.",
+          "summary": "Am Sonntag des Eröffnungswochenendes ziehen Trachten- und Schützenvereine durch die Stadt, und im Bräurosl-Zelt gibt es eine besondere Tradition. Die Sanitätsstation auf der Wiesn hatte am ersten Festtag viel zu tun.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/19/63a66aea-e3e2-4108-8b56-f9736627d903.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C29%2C4000%2C2250"
         },
         {
-          "title": "Bremen-Comeback mit Weiser: Noch ein Märchen an der Weser",
-          "url": "https://www.sueddeutsche.de/sport/werder-bremen-bundesliga-augsburg-weiser-li.3550612",
-          "summary": "Mitchell Weiser schießt nach einem 0:2-Rückstand den Treffer zum 3:2 gegen den FC Augsburg: Einer, der immer ein bisschen viel Distanz gehalten hat, rührt das Herz der Bremer Fans auf besondere Weise.",
+          "title": "Fernsehen: Und wer bitteschön sollte das ZDF kaufen wollen?",
+          "url": "https://www.sueddeutsche.de/meinung/zdf-weimer-verkauf-rtl-fernsehen-kommentar-li.3549665",
+          "summary": "Staatsminister Weimer denkt laut darüber nach, den Mainzer Sender zu privatisieren. Wie solche Ideen zu bewerten sind, verrät der neuerliche Stellenabbau bei RTL.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/19/74730681-cf8e-45ef-8273-c5b461da129d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C32%2C4000%2C2250"
-        },
-        {
-          "title": "Newsblog zu KI: Trump kündigt „AI Force“ an",
-          "url": "https://www.sueddeutsche.de/politik/ki-newsblog-trump-usa-sicherheit-li.3547133",
-          "summary": "Der US-Präsident will einen KI-Beauftragten ernennen. Die Regierung werde die Technologie unterstützen und auf Missbrauch achten, schrieb Trump auf Social Media. Anfang der Woche hatte er Forderungen nach neuen KI-Regeln zurückgewiesen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/19/8111d736-14a1-4ba3-80c9-4675b7e51312.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=414%2C84%2C2907%2C1636"
+          "image": "https://www.sueddeutsche.de/2026/09/20/e079d8ec-eca1-49b5-8aa7-9aba8edc2351.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C304%2C4000%2C2250"
         }
       ]
     }
