@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-20T02:00:07.864Z",
-  "timestamp": "20.9.2026, 04:00:07",
+  "generated": "2026-09-20T06:00:08.895Z",
+  "timestamp": "20.9.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Merz in der Klemme: Wir sitzen in der Tinte",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/merz-bashing-als-ersatzhandlung-deutschland-steckt-in-der-krise-201235163.html",
-          "summary": "Mehr Emotionen wagen? Und mehr Optimismus verbreiten? Nur müssten wir uns erst einmal eingestehen, wie tief die Krise ist, in der das Land steckt.",
+          "title": "Landtagswahlen: Was an diesem Wahlsonntag auf dem Spiel steht",
+          "url": "https://www.faz.net/aktuell/politik/inland/wahl-in-mv-und-berlin-was-wird-mit-der-koalition-zwischen-cdu-und-spd-accg-201235530.html",
+          "summary": "Wackelt Merz nach der Wahl in Mecklenburg-Vorpommern? Krempelt die Linke Berlin um? Die fünf wichtigsten Fragen und Antworten zu den beiden Wahlen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8b654a4b5a9e/w6144h3210x0y458o/202607/43601.0.2292540301/noch-stabilisieren-ihre.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c0e822c9be35/w4955h2588x0y357o/202609/43601.0.2559506550/wer-wird-am-ende-vorne-liegen.webp"
         },
         {
           "title": "Medienberichte über Merz: Der Kanzlertausch als mediales Lieblingsspiel",
@@ -22,18 +22,26 @@
           "image": "https://media0.faz.net/image/w1200h627/50ee1c619109/w5169h2700x0y570o/202609/43601.0.2560301531/inside-kanzleramt.webp"
         },
         {
-          "title": "24 Festnahmen: Rechtsextreme randalieren in Den Haag",
-          "url": "https://www.faz.net/aktuell/politik/ausland/rechtsextreme-randalieren-in-den-haag-24-festnahmen-accg-201243835.html",
-          "summary": "Hitlergrüße, Feuerwerkskörper, Wasserwerfer – die Polizei hat eine unter dem Motto „Wir sind das Volk“ stehende Demo nach Ausschreitungen aufgelöst. Der niederländische Regierungschef kritisiert „abscheuliche“ Parolen.",
+          "title": "Merz in der Klemme: Wir sitzen in der Tinte",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/merz-bashing-als-ersatzhandlung-deutschland-steckt-in-der-krise-201235163.html",
+          "summary": "Mehr Emotionen wagen? Und mehr Optimismus verbreiten? Nur müssten wir uns erst einmal eingestehen, wie tief die Krise ist, in der das Land steckt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ae1a8f8741e1/w5457h2851x0y677o/202609/43601.0.2569800507/19-09-2026-niederlande-den.webp"
+          "image": "https://media0.faz.net/image/w1200h627/8b654a4b5a9e/w6144h3210x0y458o/202607/43601.0.2292540301/noch-stabilisieren-ihre.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Mecklenburg-Vorpommern: Was Sie über die Landtagswahl wissen sollten",
+          "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-was-sie-ueber-die-landtagswahl-wissen-sollten-a-83418abb-d0a2-40db-80cd-3cc2e694be66#ref=rss",
+          "summary": "Profitiert die AfD vom Triumph in Sachsen-Anhalt? Kann der Mann mit dem Fischbrötchen den Bundeskanzler retten? Und wird Manuela Schwesig zur wichtigsten Frau der SPD? Fragen und Antworten zur Wahl.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/a292ccaf-2005-4441-a444-f177b267618b_w1200_r1.778_fpx36.67_fpy54.99.jpg"
+        },
         {
           "title": "Russland-Ukraine-Krieg: Eine Reise entlang dem Dnipro – und durch eine Ukraine im Krieg",
           "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-eine-reise-entlang-dem-dnipro-und-durch-eine-ukraine-im-krieg-a-68a30900-6279-4e63-afd9-36bd43784586#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/20a94e99-80d5-4f00-8e6c-ecf5920f2e6e_w1200_r1.778_fpx65.21_fpy52.99.jpg"
         },
         {
-          "title": "Donald Trump kündigt »AI Force« zur KI-Überwachung an",
+          "title": "Donald Trump: US-Präsident kündigt »AI Force« zur KI-Überwachung an",
           "url": "https://www.spiegel.de/ausland/donald-trump-kuendigt-ai-force-zur-ki-ueberwachung-an-a-e2cf0663-c5a1-404b-8910-8605336743e1#ref=rss",
           "summary": "Von Warnungen vor den Risiken künstlicher Intelligenz will der US-Präsident weiter nichts wissen. Trotzdem will er nun ihre Entwicklung mit einer neuen Institution überwachen. Dabei helfen soll auch ein »KI-Zar«.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/b02fa213-0de9-46ab-be52-a269b9d72faf_w1200_r1.778_fpx26_fpy39.jpg"
-        },
-        {
-          "title": "Berlin – Wahl zum Abgeordnetenhaus 2026: Berlin ist unwählbar geworden",
-          "url": "https://www.spiegel.de/kultur/berlin-wahl-zum-abgeordnetenhaus-2026-berlin-ist-unwaehlbar-geworden-a-5f0035a3-a641-481c-a7ef-4b66be585086#ref=rss",
-          "summary": "Die Hauptstadt stand lange für Freiheit und Aufbruch. Heute versprechen linke und rechte Parteien in Berlin vor allem eines: Schutz vor Veränderung.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/aa5843e5-7b66-4d7b-ba83-79597f0828dd_w1200_r1.778_fpx68.66_fpy54.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Medien kritisierten Trumps Hausverbot als rechtswidrigen Angriff auf die Pressefreiheit",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-104.html",
-          "summary": "Der Hausausweis abgenommen, der Zutritt zum Weißen Haus verwehrt: Die Entscheidung des US-Präsidenten, Journalisten von CNN, MS NOW und Politico den Zutritt zu verwehren, stößt auf breite Kritik. Viele sehen die Pressefreiheit in Gefahr.",
+          "title": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
+          "url": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
+          "summary": "Die Bundesregierung will erneut die Energiesteuer auf Kraftstoffe senken und einen Spritpreisdeckel einführen, um Verbraucher zu entlasten. Die Ökonomin Grimm kritisiert das als opportunistisch - und warnt vor weitreichenden Konsequenzen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/84aea08b-b870-4bb4-a194-23d56ab4e651/AAABoLyGZVQ/AAABnSSvrFg/16x9-big/cnn-122.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ce3cfc91-b28e-4c3f-9ca7-19090ecd2f0b/AAABoL04JfU/AAABnSSvrFg/16x9-big/grimm-wirtschaftsweise-100.jpg?width=1280"
         },
         {
-          "title": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
-          "summary": "Vor der Wahl zum Berliner Abgeordnetenhaus ist laut Infratest Dimap nur noch jeder Fünfte mit der Arbeit des Senats zufrieden. Damit ist die Landesregierung in Berlin so unbeliebt wie zuletzt keine andere in Deutschland vor einer Wahl.",
+          "title": "Warum wir noch immer so viel Essen wegwerfen",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
+          "summary": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/54199f38-e22d-4ad0-ade6-573364fbad53/AAABoLsRgzA/AAABnSSvrFg/16x9-big/rbb-turm-des-roten-rathauses-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/56b3396d-a8ba-4a90-ac71-593c497c761a/AAABoEewqQc/AAABnSSvrFg/16x9-big/lebensmittelverschwendung-142.jpg?width=1280"
         },
         {
-          "title": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
-          "url": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
-          "summary": "Die Huthi-Miliz im Jemen hat die jüngsten Angriffe auf Ziele in Saudi-Arabien für sich reklamiert. Zuvor hatten Anwohner in Riad von Explosionen und einer Rauchsäule nahe dem internationalen Flughafen berichtet.",
+          "title": "FAQ: Was Sie zur Wahl in Berlin wissen müssen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/faq-abgeordnetenhauswahl-2026-berlin-100.html",
+          "summary": "Vier Parteien liegen in den Umfragen dicht beieinander, CDU und Linke konkurrieren um die Spitze: Die Berlin-Wahl verspricht spannend zu werden. Wie die Wahl abläuft und warum ihr Ausgang vieles ändern könnte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b10c17a7-c124-41ad-8016-e9f37967eb99/AAABoLvv5FI/AAABnSSvrFg/16x9-big/riad-flughafen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ca0baa68-2e28-47c7-ab2f-3948f5b6efa7/AAABoGL_We0/AAABnSSvrFg/16x9-big/berlin-abgeordnetenhaus-126.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Oktoberfest: Viele Zelte geschlossen – Panne bei Fahrgeschäft",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-sonntag-liveticker-li.3549371",
+          "summary": "Münchens Oberbürgermeister hat das Oktoberfest beim Anzapfen mit zwei Schlägen eröffnet. Die Wiesn-Party nimmt Fahrt auf, die Zahl der sogenannten Bierleichen steigt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/19/63a66aea-e3e2-4108-8b56-f9736627d903.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C29%2C4000%2C2250"
+        },
+        {
           "title": "Bremen-Comeback mit Weiser: Noch ein Märchen an der Weser",
           "url": "https://www.sueddeutsche.de/sport/werder-bremen-bundesliga-augsburg-weiser-li.3550612",
           "summary": "Mitchell Weiser schießt nach einem 0:2-Rückstand den Treffer zum 3:2 gegen den FC Augsburg: Einer, der immer ein bisschen viel Distanz gehalten hat, rührt das Herz der Bremer Fans auf besondere Weise.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/19/8111d736-14a1-4ba3-80c9-4675b7e51312.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=414%2C84%2C2907%2C1636"
-        },
-        {
-          "title": "Borussia Mönchengladbach: „Bei wieder vier Gegentoren fällt es schwer, etwas schönzureden“",
-          "url": "https://www.sueddeutsche.de/sport/borussia-moenchengladbach-mainz-bundesliga-li.3550584",
-          "summary": "Gladbachs Interimstrainer Jan-Moritz Lichte reaktiviert gegen Mainz den längst vergessenen Florian Neuhaus, der prompt trifft. Doch beim 3:4 zeigen sich alte Probleme der Elf – und die Trainersuche läuft.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/19/ea9d74de-7be5-4f3f-a1cc-eba8fc21358e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C249%2C4000%2C2250"
         }
       ]
     }
