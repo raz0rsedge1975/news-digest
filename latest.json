@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T22:00:09.190Z",
-  "timestamp": "20.9.2026, 00:00:09",
+  "generated": "2026-09-20T02:00:07.864Z",
+  "timestamp": "20.9.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/50ee1c619109/w5169h2700x0y570o/202609/43601.0.2560301531/inside-kanzleramt.webp"
         },
         {
-          "title": "Business-Ticker: Trump will „KI-Zar“ ernennen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-will-ki-zar-ernennen-faz-200452404.html",
-          "summary": "US-Präsident: „Wachstum dieser unglaublichen Industrie in keinster Weise behindern“ +++ KI-Fehler hätte laut CNN-Bericht fast zu US-Militäreinsatz gegen chinesisches Schiff geführt +++ Neuigkeiten im Unternehmen-Liveblog.",
+          "title": "24 Festnahmen: Rechtsextreme randalieren in Den Haag",
+          "url": "https://www.faz.net/aktuell/politik/ausland/rechtsextreme-randalieren-in-den-haag-24-festnahmen-accg-201243835.html",
+          "summary": "Hitlergrüße, Feuerwerkskörper, Wasserwerfer – die Polizei hat eine unter dem Motto „Wir sind das Volk“ stehende Demo nach Ausschreitungen aufgelöst. Der niederländische Regierungschef kritisiert „abscheuliche“ Parolen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4b491dce42fb/w4000h2090x0y289o/202609/43601.0.2568487569/us-praesident-donald-trump-am.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ae1a8f8741e1/w5457h2851x0y677o/202609/43601.0.2569800507/19-09-2026-niederlande-den.webp"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
-          "url": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html",
-          "summary": "In der saudi-arabischen Hauptstadt Riad ist nach Luftalarm in der Nähe des Flughafens schwarzer Rauch aufgestiegen. Zuletzt hatte sich der Konflikt zwischen Saudi-Arabien und der von Iran unterstützten Huthi-Miliz wieder zugespitzt. Von Anna Osius.",
+          "title": "US-Medien kritisierten Trumps Hausverbot als rechtswidrigen Angriff auf die Pressefreiheit",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-104.html",
+          "summary": "Der Hausausweis abgenommen, der Zutritt zum Weißen Haus verwehrt: Die Entscheidung des US-Präsidenten, Journalisten von CNN, MS NOW und Politico den Zutritt zu verwehren, stößt auf breite Kritik. Viele sehen die Pressefreiheit in Gefahr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1bd5eb08-3a7c-4a6c-ac6e-7aa39d0acf40/AAABoLrwntQ/AAABnSSvrFg/16x9-big/riad-126.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/84aea08b-b870-4bb4-a194-23d56ab4e651/AAABoLyGZVQ/AAABnSSvrFg/16x9-big/cnn-122.jpg?width=1280"
         },
         {
-          "title": "Duma-Wahl: Warum Snegowskij keine Chance gegen Tolstoj hat",
-          "url": "https://www.tagesschau.de/ausland/europa/russland-direktkandidat-jabloko-100.html",
-          "summary": "Seine Jabloko-Partei ist von der Duma-Wahl ausgeschlossen. Aber als Direktkandidat darf Artjom Snegowskij in Moskau antreten. Hat er eine Chance? Sein Gegenkandidat ist der Vizepräsident der Duma, Pjotr Tolstoj. Norbert Hahn über ein ungleiches Duell.",
+          "title": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
+          "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
+          "summary": "Vor der Wahl zum Berliner Abgeordnetenhaus ist laut Infratest Dimap nur noch jeder Fünfte mit der Arbeit des Senats zufrieden. Damit ist die Landesregierung in Berlin so unbeliebt wie zuletzt keine andere in Deutschland vor einer Wahl.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/526c82cb-f03b-4b42-bae1-840370e137ce/AAABoLUAYbw/AAABnSSvrFg/16x9-big/artjom-segowskij-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/54199f38-e22d-4ad0-ade6-573364fbad53/AAABoLsRgzA/AAABnSSvrFg/16x9-big/rbb-turm-des-roten-rathauses-100.jpg?width=1280"
         },
         {
-          "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html",
-          "summary": "Es ist einer der einflussreichsten Posten bei der NATO - und künftig hat ihn ein Deutscher inne: Generalinspekteur Breuer ist zum neuen Vorsitzenden des NATO-Militärausschusses gewählt worden. Er wird damit Berater von Generalsekretär Rutte.",
+          "title": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
+          "url": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
+          "summary": "Die Huthi-Miliz im Jemen hat die jüngsten Angriffe auf Ziele in Saudi-Arabien für sich reklamiert. Zuvor hatten Anwohner in Riad von Explosionen und einer Rauchsäule nahe dem internationalen Flughafen berichtet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/143a1400-0623-4261-970e-db96cebd8c89/AAABoLqd48k/AAABnSSvrFg/16x9-big/carsten-breuer-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b10c17a7-c124-41ad-8016-e9f37967eb99/AAABoLvv5FI/AAABnSSvrFg/16x9-big/riad-flughafen-100.jpg?width=1280"
         }
       ]
     },
