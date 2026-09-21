@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-21T06:00:10.244Z",
-  "timestamp": "21.9.2026, 08:00:10",
+  "generated": "2026-09-21T10:00:10.385Z",
+  "timestamp": "21.9.2026, 12:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Nach den wahlen im Osten: Für CDU und SPD gilt: Jetzt nicht die Nerven verlieren",
+          "url": "https://www.faz.net/aktuell/politik/inland/fuer-cdu-und-spd-gilt-jetzt-nicht-die-nerven-verlieren-201247292.html",
+          "summary": "Der angezählte Bundeskanzler muss an seinem Reformkurs festhalten. Die SPD darf nicht auf Schwesig-Kurs gehen. Sonst hat Merz nur noch eine Wahl.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0b38366e23be/w6087h3180x111y122o/202609/43601.0.2574874562/friedrich-merz-am-20-september.webp"
+        },
+        {
           "title": "Wahlanalyse: Unzufriedener können die Leute kaum noch werden",
           "url": "https://www.faz.net/aktuell/politik/inland/wahlen-in-berlin-und-mv-unzufriedener-koennen-die-leute-kaum-noch-werden-accg-201245418.html",
-          "summary": "In Mecklenburg-Vorpommern ist der Ärger über die Bundesregierung groß. Manuela Schwesig bleibt beliebt – auch, weil sie auf den Bund schimpfte. Währenddessen verhalfen die Mietpreise in Berlin der Linken zum Sieg.",
+          "summary": "In Mecklenburg-Vorpommern ist der Ärger über die Bundesregierung groß. Manuela Schwesig bleibt beliebt – auch weil sie auf den Bund schimpfte. Währenddessen verhalfen die Mietpreise in Berlin der Linken zum Sieg.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/742a1cedf94c/w3000h1567x0y74o/202609/43601.0.2574826886/ministerpraesidentin-manuela.webp"
         },
         {
-          "title": "Deutschland-Liveblog: CDU scheitert erstmals in ihrer Geschichte an der Fünfprozenthürde",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cdu-scheitert-erstmals-in-ihrer-geschichte-an-der-fuenfprozenthuerde-faz-110093143.html",
-          "summary": "Alle Wahlkreise in Mecklenburg-Vorpommern ausgezählt +++ Linke gewinnt Berliner Wahl mit großem Vorsprung, BSW bleibt draußen +++ Schwesig kritisiert Merz +++ alle Entwicklungen im Liveblog",
+          "title": "Deutschland-Liveblog: Eralp: Haben mit organisierter Kriminalität nichts zu tun",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-eralp-nach-wahlerfolg-in-berlin-haben-mit-organisierter-kriminalitaet-nichts-zu-tun-faz-110093143.html",
+          "summary": "Nach Besuch von Clan-Chef Isso Remmo auf Linken-Wahlparty +++ CDU-Ministerpräsidenten tagten ohne Merz +++ Graf fordert von Linkspartei Auseinandersetzung mit Antisemitismus +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d1d5a7dcf3d4/w5203h2718x0y375o/202609/43601.0.2575393140/cdu-spitzenkandidat-daniel.webp"
-        },
-        {
-          "title": "Landtagswahlen: Ein bedenkliches Beispiel für den Niedergang der CDU",
-          "url": "https://www.faz.net/aktuell/politik/inland/wahlen-in-berlin-und-mv-ein-bedenkliches-beispiel-fuer-den-niedergang-der-cdu-201240862.html",
-          "summary": "Selten drohten zwei Landtagswahlen so unmittelbare Auswirkungen auf die Stabilität einer Bundesregierung zu haben. Der Kanzler verspricht „Rückgrat“ und „Geduld“.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e35987706617/w5078h2653x809y873o/202609/43601.0.2574874766/deutschland-ist-reformfaehig.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a267a44be47c/w5461h2853x219y109o/202609/43601.0.2576305621/linken-spitzenkandidatin-elif.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Mecklenburg-Vorpommern-Wahl: Wie die CDU im blau-roten Zweikampf einfach verschwand - Datenanalyse",
-          "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-wahl-wie-die-cdu-im-blau-roten-zweikampf-einfach-verschwand-datenanalyse-a-6ca35c2f-d8f1-471a-9d26-947e68436066#ref=rss",
-          "summary": "Die AfD hat zum zweiten Mal eine Landtagswahl gewonnen, doch es war ein Kopf-an-Kopf-Rennen mit der SPD. Die CDU scheitert in Mecklenburg-Vorpommern historisch an der Fünfprozenthürde. Die Gründe in der Datenanalyse.",
+          "title": "Mecklenburg-Vorpommern: So gelang Manuela Schwesig die Aufholjagd zur AfD",
+          "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-so-gelang-manuela-schwesig-die-aufholjagd-zur-afd-a-f4053bb5-41b7-45a1-9523-17cfdb2a9028#ref=rss",
+          "summary": "Die SPD in Mecklenburg-Vorpommern hatte noch vor einem Jahr miese Umfragewerte, am Ende kam sie nahe ran an die AfD. Wie hat Manuela Schwesig das geschafft? Das Playbook zum Comeback.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/594acd1e-4ddd-49a8-8ec7-dd0fddbe2469_w1200_r1.778_fpx50_fpy51.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d0633eb3-a259-4dfc-b5da-d438beb5fe9f_w1200_r1.778_fpx30_fpy48.96.jpg"
         },
         {
-          "title": "Nahostkrise: Schiffsverkehr durch Straße von Hormus kommt praktisch zum Erliegen",
-          "url": "https://www.spiegel.de/wirtschaft/nahostkrise-schiffsverkehr-durch-strasse-von-hormus-kommt-praktisch-zum-erliegen-a-c6606b16-1a6f-4d45-bdd2-42af859203ee#ref=rss",
-          "summary": "Am Wochenende ist der Schiffsverkehr durch die Straße von Hormus noch einmal deutlich zurückgegangen. Saudi-Arabien konnte seine Ölexporte trotzdem steigern.",
+          "title": "Jemen: Saudi-Arabiens einsamer Kampf gegen die Huthis am Bab al-Mandab",
+          "url": "https://www.spiegel.de/ausland/jemen-saudi-arabiens-einsamer-kampf-gegen-die-huthis-am-bab-al-mandab-a-a9db1261-27ef-4cad-bf1a-d9e10b27f5e4#ref=rss",
+          "summary": "Der rasante Feldzug der Huthis bedroht Saudi-Arabiens Ölhandelsrouten. Das Geschäftsmodell des Königreichs gerät unter Druck. Und die Verbündeten, allen voran die Türkei und Pakistan? Sind eine herbe Enttäuschung.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5e21f5b7-c67a-4184-bc2a-73482eb8a096_w1200_r1.778_fpx66.67_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/835d096e-43c0-4c7f-b08d-25ed7866c4e3_w1200_r1.778_fpx58.95_fpy45.jpg"
         },
         {
-          "title": "Wolodymyr Selenskyj kündigt Treffen mit Donald Trump in New York an",
-          "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-treffen-mit-donald-trump-in-new-york-an-a-2e80dc9f-e662-4b2e-b785-dfdf637f79f4#ref=rss",
-          "summary": "Es soll um »Deeskalationsmaßnahmen« im Verteidigungskrieg gegen Russland gehen: Der ukrainische Staatschef Selenskyj will sich am Rande der Uno-Generalversammlung in New York mit US-Präsident Trump austauschen.",
+          "title": "Russland: Europas Geheimdienste warnen vor Angriff",
+          "url": "https://www.spiegel.de/ausland/russland-europas-geheimdienste-warnen-vor-angriff-a-98a0344a-f12d-4b11-b497-f81ebd1a4278#ref=rss",
+          "summary": "Ein tschechischer Geheimdienstchef hält einen begrenzten Vorstoß gegen Nato-Gebiet binnen Monaten für möglich. Baltische Kollegen warnen dagegen vor Panik und Überreaktionen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/36f6ab4e-35ba-4857-97c7-fee14448c13c_w1200_r1.778_fpx51_fpy40.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ec1b6c3b-1545-4980-9b36-9bc546364f9e_w1200_r1.778_fpx59.32_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "++ Liveblog nach den Wahlen: Klüssendorf stellt Kurs infrage ++",
+          "title": "Was ein Notschalter für KI bringen könnte",
+          "url": "https://www.tagesschau.de/ausland/amerika/notschalter-ki-100.html",
+          "summary": "Die Entwicklung von KI verläuft rasant. Rufe nach Regulierungen werden laut - und nach einem sogenannten Notschalter. Doch wie könnte das funktionieren - und vor allem: Wer dürfte ihn betätigen? Von Antje Sieb.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/71ed4687-bd27-4640-adc7-125da42b3f60/AAABoK-_SZ4/AAABnSSvrFg/16x9-big/modell-neuronales-netzwerk-100.jpg?width=1280"
+        },
+        {
+          "title": "CDU sortiert sich nach Wahlniederlagen neu",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html",
+          "summary": "Die Wahlen in Mecklenburg-Vorpommern und Berlin sind für die CDU eine Zäsur. Erstmals hat sie es nicht in ein Landesparlament geschafft, in Berlin wird sie abgehängt. Wie kann es nun weitergehen? Die Partei sucht nach Antworten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/13ded5bd-ff44-403d-9412-70c1c97000d8/AAABoML93Us/AAABnSSvrFg/16x9-big/konrad-adenauer-haus-116.jpg?width=1280"
+        },
+        {
+          "title": "++ Liveticker: AfD hat laut Weidel CDU als Volkspartei abgelöst ++",
           "url": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
-          "summary": "SPD-Generalsekretär Klüssendorf stellt nach den Wahlergebnissen den Kurs der Bundesregierung infrage. Bundestagsvizepräsident Ramelow weist Warnungen des Zentralrats der Juden vor antisemitischen Positionen bei der Berliner Linken zurück.",
+          "summary": "AfD-Chefin Weidel sieht ihre Partei nach den Wahlerfolgen als politische Erbin der Volkspartei CDU. Die Linke-Fraktionsvorsitzende im Bundestag, Reichinnek, weist Antisemitismus-Vorwürfe gegen ihre Partei zurück.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bc5556dd-7c81-412d-a0c3-2946e72ea480/AAABoMJpzNY/AAABnSSvrFg/16x9-big/kluessendorf-130.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Anleger nehmen Wahlausgang gelassen auf",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
-          "summary": "Das Gesprächsthema am Aktienmarkt werden heute die Wahlausgänge in Mecklenburg-Vorpommern und Berlin sein. Der sinkende Ölpreis stützt den DAX, vor allem die Konjunktur dürfte in dieser Woche im Blickpunkt stehen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1280"
-        },
-        {
-          "title": "11KM-Podcast: Scheuer vor Gericht - Das Maut-Debakel",
-          "url": "https://www.tagesschau.de/podcast-11km-scheuer-prozess-100.html",
-          "summary": "Ex-Bundesverkehrsminister Andreas Scheuer steht vor Gericht - wegen des Vorwurfs der Falschaussage in Zusammenhang mit dem Maut-Debakel. Der Podcast 11KM über Hintergründe und Bedeutung des Prozesses.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/3dc3a0da-f5d1-490b-b8ff-27679ea81851/AAABoMIoYhM/AAABnSSvrFg/16x9-big/podcast-11km-3874.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/76523636-17a2-4340-9ad3-c121721f9e53/AAABoMNdhOU/AAABnSSvrFg/16x9-big/spd-spitze-110.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Etruskische Gräber: Wie die Anlagen die Wahrnehmung verändert haben",
-          "url": "https://www.telepolis.de/article/Etruskische-Graeber-Wie-die-Anlagen-die-Wahrnehmung-veraendert-haben-11453844.html",
-          "summary": "Zwei über 2. 400 Jahre alte Grabkammern in Tarquinia wurden neu untersucht. Die Grabarchitektur hatte möglicherweise die Sinneswahrnehmung der Besucher im Blick.",
+          "title": "Schwarz-Rot-Ratlos? AfD und Linke gewinnen – die Mitte verliert",
+          "url": "https://www.telepolis.de/article/Schwarz-Rot-Ratlos-AfD-und-Linke-gewinnen-die-Mitte-verliert-11459780.html",
+          "summary": "In Schwerin fliegt die CDU aus dem Landtag, in Berlin stürzt die SPD auf 12 Prozent. Beide Regierungsparteien verlieren – an entgegengesetzte Pole.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/5/4/3/0/shutterstock_2407382595-b6613e298b7c3a02.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/4/1/6/shutterstock_2589447589-fcd6d7269651e387.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Wahlen: AfD gewinnt in Mecklenburg-Vorpommern, Linke in Berlin",
-          "url": "https://www.telepolis.de/article/Wahlen-AfD-und-Linke-siegen-CDU-stuerzt-in-beiden-Laendern-ab-11459447.html",
-          "summary": "CDU fällt in Schwerin auf knapp über 5 Prozent und verliert auch in Berlin. Schwierige Regierungsbildungen zeichnen sich ab. Kanzler Merz will im Amt bleiben.",
+          "title": "Kartellklage gegen OpenAI, Anthropic, Google und xAI: KI zu langsam entwickelt?",
+          "url": "https://www.telepolis.de/article/Kartellklage-gegen-OpenAI-Anthropic-Google-und-xAI-KI-zu-langsam-entwickelt-11459617.html",
+          "summary": "Vier Nutzer werfen OpenAI, Anthropic, Google und xAI vor, das Tempo der KI-Entwicklung heimlich gedrosselt zu haben. Ein Essay dient als Beweis.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/2/5/1/Master_Merz-40849f4665ec58d6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/3/3/6/shutterstock_2632059907-563b82432e4b5318.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Bundeswehr-Buggys: Drei Sitze für eine halbe Million Euro",
-          "url": "https://www.telepolis.de/article/Bundeswehr-Buggys-Drei-Sitze-fuer-eine-halbe-Million-Euro-11459285.html",
-          "summary": "Tahr und Caracal kosten rechnerisch rund 570. 000 Euro je Fahrzeug. Der Vergleich mit Russlands Billigmodell wirft Fragen zur Beschaffung auf. Eine Einschätzung.",
+          "title": "Flut in Nepal: 17,5 Millionen Dollar Klima-Entschädigung gefordert",
+          "url": "https://www.telepolis.de/article/Flut-in-Nepal-17-5-Millionen-Dollar-Klima-Entschaedigung-gefordert-11459361.html",
+          "summary": "Ein Nepalese verursacht 0,6 Tonnen CO2 pro Jahr, ein Deutscher sieben Tonnen. Nun fordert Nepal Klima-Kompensation. Die Industrieländer fürchten Präzedenzfälle.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/1/6/9/Master_Lange-855a7fd7803a5dc3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/2/0/8/AP_Tolang_cropped-ef47b4b47a31ed8d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Wahl in Berlin 2026: Das vorläufige Ergebnis: Die Linke gewinnt deutlich vor der CDU",
-          "url": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-ergebnis-die-linke-cdu-spd-afd-li.3550919",
-          "summary": "Die Linke hat die Wahl in Berlin 2026 mit deutlichem Vorsprung vor der CDU gewonnen. Die AfD legt zu, Grüne und SPD verlieren. Das vorläufige Ergebnis.",
+          "title": "Newsblog zu den Landtagswahlen: Schwesig setzt auf Rot-Rot-Grün in Mecklenburg-Vorpommern",
+          "url": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-livestream-li.3540501",
+          "summary": "Nach der Landtagswahl in Mecklenburg-Vorpommern nehmen die Parteien Stellung zum Wahlausgang. Verfolgen Sie die Pressekonferenzen im Livestream.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/983e3837-3d47-4f81-92e8-b2395a6842dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/20/d19d0407-ff41-407b-b759-458bc22151f2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "Landtagswahl in Mecklenburg-Vorpommern 2026: Das vorläufige Ergebnis: AfD vor SPD - CDU verpasst Einzug",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-2026-ergebnis-afd-spd-cdu-li.3550920",
-          "summary": "Die AfD hat die Landtagswahl 2026 in Mecklenburg-Vorpommern vor der SPD gewonnen. Die CDU verpasst den Einzug in den Schweriner Landtag. Das vorläufige Ergebnis.",
+          "title": "Landtagswahlen: Das ganze Drama eines Kanzlers, dem nur noch schlechte und weniger schlechte Optionen bleiben",
+          "url": "https://www.sueddeutsche.de/meinung/cdu-wahl-2026-merz-koalition-demokratie-deutschland-li.3551026",
+          "summary": "Friedrich Merz braucht eine Antwort auf die Frage, was er noch bewirken kann. Es geht längst um sehr viel mehr als seine Kanzlerschaft – und auch um mehr als die Koalition aus Union und SPD.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/36ec82dd-729a-47a7-8da1-f124307b9843.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/21/0ac90a9d-022f-4cc7-b900-3330658692e9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Oktoberfest: Kreislaufprobleme: OB Dominik Krause muss Auftritt am Gay Sunday absagen",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-li.3549371",
-          "summary": "Beim Trachtenfestzug fährt Krause noch in der Kutsche mit, doch dann muss er den Wiesn-Besuch abbrechen – und auf die Teilnahme in der Bräurosl als erster schwuler Oberbürgermeister in München verzichten.",
+          "title": "Oktoberfest: Wieder fit: Oberbürgermeister Krause kommt zur „Wiesn mit Herz“",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-li.3549371",
+          "summary": "Wegen Kreislaufproblemen sagte der Münchner OB am Sonntag seinen Termin beim „Gay Sunday“ auf dem Oktoberfest ab. Doch nun hat er sich erholt. Und auch Hunderte Kinder kommen zur Wiesn – ohne Eltern.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/353ccc5e-2996-4850-aef8-af38da29389a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=381%2C230%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/09/21/c17aabf2-2db8-4435-8d9d-190f825b3f56.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C67%2C4000%2C2250"
         }
       ]
     }
