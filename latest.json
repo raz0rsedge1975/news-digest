@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-20T22:00:08.737Z",
-  "timestamp": "21.9.2026, 00:00:08",
+  "generated": "2026-09-21T02:00:09.896Z",
+  "timestamp": "21.9.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Berliner Wahlsiegerin: Wer ist Elif Eralp?",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/elif-eralp-berliner-linke-auf-rekordkurs-201245822.html",
-          "summary": "Sie hat die Berliner Linke zu einem Rekordergebnis geführt. Ob die Spitzenkandidatin ihre Partei im Griff hat, werden aber erst die kommenden Wochen zeigen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/546e1548aa9a/w4800h2508x0y140o/202609/43601.0.2575010926/elif-eralp-zusammen-mit.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: CDU fällt in Schwerin laut Hochrechnung erstmals unter fünf Prozent",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cdu-faellt-in-mv-laut-hochrechnung-erstmals-unter-fuenf-prozent-faz-110093143.html",
-          "summary": "BSW verpasst wohl Einzug ins Berliner Abgeordnetenhaus +++ Schwesig kritisiert Merz +++ Grüne in Berlin für Koalition mit der Linken und SPD +++ alle Entwicklungen im Liveblog",
+          "title": "Deutschland-Liveblog: CDU scheitert erstmals in ihrer Geschichte an der Fünfprozenthürde",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cdu-scheitert-erstmals-in-ihrer-geschichte-an-der-fuenfprozenthuerde-faz-110093143.html",
+          "summary": "Alle Wahlkreise in Mecklenburg-Vorpommern ausgezählt +++ Linke gewinnt Berliner Wahl mit großem Vorsprung, BSW bleibt draußen +++ Schwesig kritisiert Merz +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/d1d5a7dcf3d4/w5203h2718x0y375o/202609/43601.0.2575393140/cdu-spitzenkandidat-daniel.webp"
         },
         {
-          "title": "Wahl in Berlin: Jubel bei den Linken, Trübsal bei der CDU",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-berlin/berliner-abgeordnetenhauswahl-elif-eralp-und-die-linke-201237579.html",
-          "summary": "Die Linke liegt bei der Wahl zum Abgeordnetenhaus klar vorn, Spitzenkandidatin Eralp will regieren. Bei der CDU hingegen gibt es für Feierlaune keinen Anlass.",
+          "title": "MV hat gewählt: Schwesigs Aufholjagd und der „krasse blaue Balken“ der AfD",
+          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-in-mecklenburg-vorpommern-schwesigs-aufholjagd-und-der-ueberlebenskampf-der-cdu-201240540.html",
+          "summary": "Die SPD feiert ihr Ergebnis in Schwerin, aber landet doch nur auf dem zweiten Platz hinter der AfD. Die CDU holt das schlechteste Ergebnis überhaupt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
+          "image": "https://media0.faz.net/image/w1200h627/ad878b766c6e/w2479h1295x303y49o/202609/43601.0.2574826251/gefeiert-wie-die-siegerin.webp"
+        },
+        {
+          "title": "Landtagswahlen: Ein bedenkliches Beispiel für den Niedergang der CDU",
+          "url": "https://www.faz.net/aktuell/politik/inland/wahlen-in-berlin-und-mv-ein-bedenkliches-beispiel-fuer-den-niedergang-der-cdu-201240862.html",
+          "summary": "Selten drohten zwei Landtagswahlen so unmittelbare Auswirkungen auf die Stabilität einer Bundesregierung zu haben. Der Kanzler verspricht „Rückgrat“ und „Geduld“.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e35987706617/w5078h2653x809y873o/202609/43601.0.2574874766/deutschland-ist-reformfaehig.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Wahlen in Berlin und Mecklenburg-Vorpommern: CDU rutscht in Mecklenburg-Vorpommern laut Hochrechnungen auf 5,0 Prozent - die Liveanalyse",
+          "title": "Wahl in Mecklenburg-Vorpommern: CDU fliegt erstmals aus einem deutschen Landtag - die Liveanalyse",
           "url": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-hohe-wahlbeteiligung-zeichnet-sich-ab-a-69aea6a5-b618-4d80-99c2-87575ce49412#ref=rss",
-          "summary": "Der CDU droht eine historische Schlappe: Die Partei fliegt laut aktuellen Zahlen aus dem Landtag in Mecklenburg-Vorpommern. Die Live-Analyse.",
+          "summary": "Historische Pleite für die Kanzlerpartei: In Mecklenburg-Vorpommern stürzt die CDU auf 4,9 Prozent ab – und scheitert damit zum ersten Mal bei einer Landtagswahl an der Fünfprozenthürde. In Berlin siegt die Linke deutlich. Die Liveanalyse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cb4f4c6f-4be9-4df7-a8fe-ccfb2a3dece4_w1200_r1.778_fpx37_fpy33.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c4993ea3-ea23-4ab1-98de-3265983ebc54_w1200_r1.778_fpx48.65_fpy54.98.jpg"
+        },
+        {
+          "title": "Wahldebakel in Mecklenburg-Vorpommern: Jetzt kann für Merz' Zukunft niemand mehr garantieren",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-jetzt-beginnen-die-besonders-heiklen-tage-fuer-den-kanzler-a-68dc930c-5efe-469d-818d-32eedef0688a#ref=rss",
+          "summary": "Friedrich Merz bekräftigte am Wahlabend, dass er Kanzler bleiben will. Doch da war noch nicht klar: Mit dem Landtags-Aus in Mecklenburg-Vorpommern ist für die CDU das Worst-Case-Szenario eingetreten.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/acf9ac9b-132e-496d-805c-039cd4d5a9c0_w1200_r1.778_fpx54_fpy52.jpg"
         },
         {
           "title": "Friedrich Merz: Wie steht es um den Kanzler nach den Wahlen in Berlin und Mecklenburg-Vorpommern?",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/06849418-1c49-4648-aafd-b648d77ff336_w1200_r1.778_fpx48_fpy43.jpg"
-        },
-        {
-          "title": "Wolodymyr Selenskyj kündigt Treffen mit Donald Trump in New York an",
-          "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-treffen-mit-donald-trump-in-new-york-an-a-2e80dc9f-e662-4b2e-b785-dfdf637f79f4#ref=rss",
-          "summary": "Es soll um »Deeskalationsmaßnahmen« im Verteidigungskrieg gegen Russland gehen: Der ukrainische Staatschef Selenskyj will sich am Rande der Uno-Generalversammlung in New York mit US-Präsident Trump austauschen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/36f6ab4e-35ba-4857-97c7-fee14448c13c_w1200_r1.778_fpx51_fpy40.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
+          "summary": "Ministerpräsidentin Schwesig hat erneut das Direktmandat in ihrem Wahlkreis gewonnen und sich damit gegen den AfD-Kandidaten Holm durchgesetzt. Das BSW zeigt sich enttäuscht über den knapp verpassten Einzug in den Landtag.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/0ed3de60-493e-4309-a5b5-64f17f77d168/AAABoMDxh_o/AAABnSSvrFg/16x9-big/schwesig-spd-100.jpg?width=1280"
+        },
+        {
+          "title": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
+          "summary": "Die Linke hat dank einer Altersgruppe in Berlin gewonnen und aufs richtige Thema gesetzt, das zeigen Umfragen. Für die AfD ist dort manches anders als in anderen Bundesländern. Und alle Parteien hatten ziemlich unbekannte Kandidaten. Schwesinger.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/227707c5-e528-4825-9c2a-a87f2f6c121b/AAABoMDv-S0/AAABnSSvrFg/16x9-big/berlin-734.jpg?width=1280"
+        },
+        {
           "title": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
           "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
           "summary": "Die frühere Regierende Bürgermeisterin Giffey wird dem neuen Abgeordnetenhaus nicht mehr angehören. In der aktuellen Hochrechnung fällt das BSW unter die Fünf-Prozent-Hürde - Schwarz-Grün-Rot wäre wieder möglich.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/a3f34242-bad8-4d30-a91e-4218e80e3cfe/AAABoMC70uc/AAABnSSvrFg/16x9-big/giffey-274.jpg?width=1280"
-        },
-        {
-          "title": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
-          "summary": "Wer liegt in welchen Wahlkreisen und Gemeinden vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Landtagswahl 2026 in Mecklenburg-Vorpommern.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ab4c2e21-db2d-4e18-a341-741158298b72/AAABoMDNxLg/AAABnSSvrFg/16x9-big/karte-landtagswahl-mecklenburg-vorpommern-100.jpg?width=1280"
-        },
-        {
-          "title": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
-          "summary": "Warum gelang Ministerpräsidentin Schwesig mit dem Slogan \"Frau gegen Blau\" eine Aufholjagd? Warum lag die AfD trotzdem vorne? Umfragen von infratest dimap liefern dazu ebenso Erklärungen wie ein Detail, das die CDU alarmieren muss. Schwesinger.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/dd9f44ff-71b9-4f47-9854-25e3ba7a3afd/AAABoMB6_Dk/AAABnSSvrFg/16x9-big/spd-schwesig-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Wahl in Berlin 2026: Linke laut Hochrechnung deutlich vor der CDU",
-          "url": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-aktuelle-hochrechnung-die-linke-cdu-spd-afd-li.3550919",
-          "summary": "Laut aktuellen Hochrechnungen liegt die Linke in Berlin klar in Führung vor der CDU. Die AfD gewinnt deutlich hinzu.",
+          "title": "USA-Newsblog: Bürgermeister Mamdani will Trump in New York treffen",
+          "url": "https://www.sueddeutsche.de/politik/trump-mamdani-new-york-li.3530667",
+          "summary": "Obwohl der US-Präsident den New Yorker Bürgermeister regelmäßig als „Kommunisten“ bezeichnet und mit dem Entzug von Geldern droht, verliefen die Treffen der beiden bislang sehr zivil. Nun steht einer weitere Begegnung an.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/983e3837-3d47-4f81-92e8-b2395a6842dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/20/fd45e536-6129-43c2-aaf3-b9d2974265ae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         },
         {
-          "title": "Landtagswahl in Mecklenburg-Vorpommern 2026: AfD laut Hochrechnung vor der SPD - CDU muss bangen",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-2026-aktuelle-hochrechnung-afd-spd-cdu-li.3550920",
-          "summary": "Die Hochrechnungen sehen in Mecklenburg-Vorpommern die AfD knapp vor der SPD. Die CDU muss um den Einzug in den Landtag bangen.",
+          "title": "Mecklenburg-Vorpommern und Berlin: Fünf Erkenntnisse aus den Wahlen",
+          "url": "https://www.sueddeutsche.de/politik/wahlen-mecklenburg-vorpommern-berlin-2026-ergebnisse-prognose-analyse-li.3548057",
+          "summary": "Manuela Schwesig trotzt der AfD, doch das hat einen Preis. Die Linke gewinnt zum ersten Mal in der Hauptstadt. Welche Lehren sich aus den Parlamentswahlen in Mecklenburg-Vorpommern und Berlin ziehen lassen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/36ec82dd-729a-47a7-8da1-f124307b9843.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/20/861befec-4f50-4e58-821f-5ceb4c1ffccb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C266%2C1843%2C1037"
         },
         {
-          "title": "CDU: „Es ist ein Desaster“",
-          "url": "https://www.sueddeutsche.de/politik/merz-bundeskanzler-konsequenzen-landtagswahlen-cdu-berlin-mecklenburg-vorpommern-li.3547883",
-          "summary": "Bei den Wahlen verliert die CDU erneut. Und sie droht sogar erstmals den Einzug in ein Landesparlament zu verpassen. Doch der Kanzler will weitermachen.",
+          "title": "Newsblog zu den Landtagswahlen: CDU verpasst Einzug in den Landtag von Schwerin",
+          "url": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-verpasst-einzug-landtag-li.3540501",
+          "summary": "Die CDU scheitert laut vorläufigem amtlichem Endergebnis in Mecklenburg-Vorpommern an der Fünf-Prozent-Hürde und verfehlt erstmals in der Geschichte der Bundesrepublik den Einzug in ein Landesparlament. Die Linken in Berlin distanzieren sich von einem Clanchef.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/07894ab5-a229-41e4-a3de-97d84c073ed6.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=528%2C455%2C2512%2C1413"
+          "image": "https://www.sueddeutsche.de/2026/09/20/d19d0407-ff41-407b-b759-458bc22151f2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
