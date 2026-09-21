@@ -1,10 +1,18 @@
 {
-  "generated": "2026-09-21T02:00:09.896Z",
-  "timestamp": "21.9.2026, 04:00:09",
+  "generated": "2026-09-21T06:00:10.244Z",
+  "timestamp": "21.9.2026, 08:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Wahlanalyse: Unzufriedener können die Leute kaum noch werden",
+          "url": "https://www.faz.net/aktuell/politik/inland/wahlen-in-berlin-und-mv-unzufriedener-koennen-die-leute-kaum-noch-werden-accg-201245418.html",
+          "summary": "In Mecklenburg-Vorpommern ist der Ärger über die Bundesregierung groß. Manuela Schwesig bleibt beliebt – auch, weil sie auf den Bund schimpfte. Währenddessen verhalfen die Mietpreise in Berlin der Linken zum Sieg.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/742a1cedf94c/w3000h1567x0y74o/202609/43601.0.2574826886/ministerpraesidentin-manuela.webp"
+        },
         {
           "title": "Deutschland-Liveblog: CDU scheitert erstmals in ihrer Geschichte an der Fünfprozenthürde",
           "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cdu-scheitert-erstmals-in-ihrer-geschichte-an-der-fuenfprozenthuerde-faz-110093143.html",
@@ -12,14 +20,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/d1d5a7dcf3d4/w5203h2718x0y375o/202609/43601.0.2575393140/cdu-spitzenkandidat-daniel.webp"
-        },
-        {
-          "title": "MV hat gewählt: Schwesigs Aufholjagd und der „krasse blaue Balken“ der AfD",
-          "url": "https://www.faz.net/aktuell/politik/wahl-in-mecklenburg-vorpommern/wahl-in-mecklenburg-vorpommern-schwesigs-aufholjagd-und-der-ueberlebenskampf-der-cdu-201240540.html",
-          "summary": "Die SPD feiert ihr Ergebnis in Schwerin, aber landet doch nur auf dem zweiten Platz hinter der AfD. Die CDU holt das schlechteste Ergebnis überhaupt.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ad878b766c6e/w2479h1295x303y49o/202609/43601.0.2574826251/gefeiert-wie-die-siegerin.webp"
         },
         {
           "title": "Landtagswahlen: Ein bedenkliches Beispiel für den Niedergang der CDU",
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Wahl in Mecklenburg-Vorpommern: CDU fliegt erstmals aus einem deutschen Landtag - die Liveanalyse",
-          "url": "https://www.spiegel.de/politik/deutschland/wahlen-in-berlin-und-mecklenburg-vorpommern-hohe-wahlbeteiligung-zeichnet-sich-ab-a-69aea6a5-b618-4d80-99c2-87575ce49412#ref=rss",
-          "summary": "Historische Pleite für die Kanzlerpartei: In Mecklenburg-Vorpommern stürzt die CDU auf 4,9 Prozent ab – und scheitert damit zum ersten Mal bei einer Landtagswahl an der Fünfprozenthürde. In Berlin siegt die Linke deutlich. Die Liveanalyse.",
+          "title": "Mecklenburg-Vorpommern-Wahl: Wie die CDU im blau-roten Zweikampf einfach verschwand - Datenanalyse",
+          "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-wahl-wie-die-cdu-im-blau-roten-zweikampf-einfach-verschwand-datenanalyse-a-6ca35c2f-d8f1-471a-9d26-947e68436066#ref=rss",
+          "summary": "Die AfD hat zum zweiten Mal eine Landtagswahl gewonnen, doch es war ein Kopf-an-Kopf-Rennen mit der SPD. Die CDU scheitert in Mecklenburg-Vorpommern historisch an der Fünfprozenthürde. Die Gründe in der Datenanalyse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c4993ea3-ea23-4ab1-98de-3265983ebc54_w1200_r1.778_fpx48.65_fpy54.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/594acd1e-4ddd-49a8-8ec7-dd0fddbe2469_w1200_r1.778_fpx50_fpy51.jpg"
         },
         {
-          "title": "Wahldebakel in Mecklenburg-Vorpommern: Jetzt kann für Merz' Zukunft niemand mehr garantieren",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-der-krise-jetzt-beginnen-die-besonders-heiklen-tage-fuer-den-kanzler-a-68dc930c-5efe-469d-818d-32eedef0688a#ref=rss",
-          "summary": "Friedrich Merz bekräftigte am Wahlabend, dass er Kanzler bleiben will. Doch da war noch nicht klar: Mit dem Landtags-Aus in Mecklenburg-Vorpommern ist für die CDU das Worst-Case-Szenario eingetreten.",
+          "title": "Nahostkrise: Schiffsverkehr durch Straße von Hormus kommt praktisch zum Erliegen",
+          "url": "https://www.spiegel.de/wirtschaft/nahostkrise-schiffsverkehr-durch-strasse-von-hormus-kommt-praktisch-zum-erliegen-a-c6606b16-1a6f-4d45-bdd2-42af859203ee#ref=rss",
+          "summary": "Am Wochenende ist der Schiffsverkehr durch die Straße von Hormus noch einmal deutlich zurückgegangen. Saudi-Arabien konnte seine Ölexporte trotzdem steigern.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/acf9ac9b-132e-496d-805c-039cd4d5a9c0_w1200_r1.778_fpx54_fpy52.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5e21f5b7-c67a-4184-bc2a-73482eb8a096_w1200_r1.778_fpx66.67_fpy50.jpg"
         },
         {
-          "title": "Friedrich Merz: Wie steht es um den Kanzler nach den Wahlen in Berlin und Mecklenburg-Vorpommern?",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-wie-steht-es-um-den-kanzler-nach-den-wahlen-in-berlin-und-mecklenburg-vorpommern-a-816c1642-b38d-473d-b1c6-edfc3d0cbda3#ref=rss",
-          "summary": "Ein Debakel für die CDU in Mecklenburg-Vorpommern, eine Niederlage gegen die Linke in Berlin: Wie sehr schadet der Wahlabend Friedrich Merz? Einschätzungen von SPIEGEL-Politikchef Christoph Hickmann.",
+          "title": "Wolodymyr Selenskyj kündigt Treffen mit Donald Trump in New York an",
+          "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-kuendigt-treffen-mit-donald-trump-in-new-york-an-a-2e80dc9f-e662-4b2e-b785-dfdf637f79f4#ref=rss",
+          "summary": "Es soll um »Deeskalationsmaßnahmen« im Verteidigungskrieg gegen Russland gehen: Der ukrainische Staatschef Selenskyj will sich am Rande der Uno-Generalversammlung in New York mit US-Präsident Trump austauschen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/06849418-1c49-4648-aafd-b648d77ff336_w1200_r1.778_fpx48_fpy43.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/36f6ab4e-35ba-4857-97c7-fee14448c13c_w1200_r1.778_fpx51_fpy40.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-          "summary": "Ministerpräsidentin Schwesig hat erneut das Direktmandat in ihrem Wahlkreis gewonnen und sich damit gegen den AfD-Kandidaten Holm durchgesetzt. Das BSW zeigt sich enttäuscht über den knapp verpassten Einzug in den Landtag.",
+          "title": "++ Liveblog nach den Wahlen: Klüssendorf stellt Kurs infrage ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html",
+          "summary": "SPD-Generalsekretär Klüssendorf stellt nach den Wahlergebnissen den Kurs der Bundesregierung infrage. Bundestagsvizepräsident Ramelow weist Warnungen des Zentralrats der Juden vor antisemitischen Positionen bei der Berliner Linken zurück.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0ed3de60-493e-4309-a5b5-64f17f77d168/AAABoMDxh_o/AAABnSSvrFg/16x9-big/schwesig-spd-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bc5556dd-7c81-412d-a0c3-2946e72ea480/AAABoMJpzNY/AAABnSSvrFg/16x9-big/kluessendorf-130.jpg?width=1280"
         },
         {
-          "title": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
-          "summary": "Die Linke hat dank einer Altersgruppe in Berlin gewonnen und aufs richtige Thema gesetzt, das zeigen Umfragen. Für die AfD ist dort manches anders als in anderen Bundesländern. Und alle Parteien hatten ziemlich unbekannte Kandidaten. Schwesinger.",
+          "title": "Marktbericht: Anleger nehmen Wahlausgang gelassen auf",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html",
+          "summary": "Das Gesprächsthema am Aktienmarkt werden heute die Wahlausgänge in Mecklenburg-Vorpommern und Berlin sein. Der sinkende Ölpreis stützt den DAX, vor allem die Konjunktur dürfte in dieser Woche im Blickpunkt stehen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/227707c5-e528-4825-9c2a-a87f2f6c121b/AAABoMDv-S0/AAABnSSvrFg/16x9-big/berlin-734.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1280"
         },
         {
-          "title": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-          "summary": "Die frühere Regierende Bürgermeisterin Giffey wird dem neuen Abgeordnetenhaus nicht mehr angehören. In der aktuellen Hochrechnung fällt das BSW unter die Fünf-Prozent-Hürde - Schwarz-Grün-Rot wäre wieder möglich.",
+          "title": "11KM-Podcast: Scheuer vor Gericht - Das Maut-Debakel",
+          "url": "https://www.tagesschau.de/podcast-11km-scheuer-prozess-100.html",
+          "summary": "Ex-Bundesverkehrsminister Andreas Scheuer steht vor Gericht - wegen des Vorwurfs der Falschaussage in Zusammenhang mit dem Maut-Debakel. Der Podcast 11KM über Hintergründe und Bedeutung des Prozesses.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3f34242-bad8-4d30-a91e-4218e80e3cfe/AAABoMC70uc/AAABnSSvrFg/16x9-big/giffey-274.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3dc3a0da-f5d1-490b-b8ff-27679ea81851/AAABoMIoYhM/AAABnSSvrFg/16x9-big/podcast-11km-3874.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Etruskische Gräber: Wie die Anlagen die Wahrnehmung verändert haben",
+          "url": "https://www.telepolis.de/article/Etruskische-Graeber-Wie-die-Anlagen-die-Wahrnehmung-veraendert-haben-11453844.html",
+          "summary": "Zwei über 2. 400 Jahre alte Grabkammern in Tarquinia wurden neu untersucht. Die Grabarchitektur hatte möglicherweise die Sinneswahrnehmung der Besucher im Blick.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/5/4/3/0/shutterstock_2407382595-b6613e298b7c3a02.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Wahlen: AfD gewinnt in Mecklenburg-Vorpommern, Linke in Berlin",
           "url": "https://www.telepolis.de/article/Wahlen-AfD-und-Linke-siegen-CDU-stuerzt-in-beiden-Laendern-ab-11459447.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/1/6/9/Master_Lange-855a7fd7803a5dc3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
-        },
-        {
-          "title": "Benzinpreise im EU-Vergleich: Was Griechenland besser macht als Deutschland",
-          "url": "https://www.telepolis.de/article/Benzinpreise-im-EU-Vergleich-Was-Griechenland-besser-macht-als-Deutschland-11458087.html",
-          "summary": "Belgien, Kroatien, Griechenland – überall ist Benzin günstiger als in Deutschland. Der Grund liegt nicht nur bei den Steuern, sondern auch bei der Regulierung.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/7/5/6/6/TankenEvia260918-1-689f87146f98fc95.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA-Newsblog: Bürgermeister Mamdani will Trump in New York treffen",
-          "url": "https://www.sueddeutsche.de/politik/trump-mamdani-new-york-li.3530667",
-          "summary": "Obwohl der US-Präsident den New Yorker Bürgermeister regelmäßig als „Kommunisten“ bezeichnet und mit dem Entzug von Geldern droht, verliefen die Treffen der beiden bislang sehr zivil. Nun steht einer weitere Begegnung an.",
+          "title": "Wahl in Berlin 2026: Das vorläufige Ergebnis: Die Linke gewinnt deutlich vor der CDU",
+          "url": "https://www.sueddeutsche.de/politik/wahl-berlin-2026-ergebnis-die-linke-cdu-spd-afd-li.3550919",
+          "summary": "Die Linke hat die Wahl in Berlin 2026 mit deutlichem Vorsprung vor der CDU gewonnen. Die AfD legt zu, Grüne und SPD verlieren. Das vorläufige Ergebnis.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/fd45e536-6129-43c2-aaf3-b9d2974265ae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/20/983e3837-3d47-4f81-92e8-b2395a6842dd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Mecklenburg-Vorpommern und Berlin: Fünf Erkenntnisse aus den Wahlen",
-          "url": "https://www.sueddeutsche.de/politik/wahlen-mecklenburg-vorpommern-berlin-2026-ergebnisse-prognose-analyse-li.3548057",
-          "summary": "Manuela Schwesig trotzt der AfD, doch das hat einen Preis. Die Linke gewinnt zum ersten Mal in der Hauptstadt. Welche Lehren sich aus den Parlamentswahlen in Mecklenburg-Vorpommern und Berlin ziehen lassen.",
+          "title": "Landtagswahl in Mecklenburg-Vorpommern 2026: Das vorläufige Ergebnis: AfD vor SPD - CDU verpasst Einzug",
+          "url": "https://www.sueddeutsche.de/politik/landtagswahl-mecklenburg-vorpommern-2026-ergebnis-afd-spd-cdu-li.3550920",
+          "summary": "Die AfD hat die Landtagswahl 2026 in Mecklenburg-Vorpommern vor der SPD gewonnen. Die CDU verpasst den Einzug in den Schweriner Landtag. Das vorläufige Ergebnis.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/861befec-4f50-4e58-821f-5ceb4c1ffccb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C266%2C1843%2C1037"
+          "image": "https://www.sueddeutsche.de/2026/09/20/36ec82dd-729a-47a7-8da1-f124307b9843.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zu den Landtagswahlen: CDU verpasst Einzug in den Landtag von Schwerin",
-          "url": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-spd-afd-cdu-verpasst-einzug-landtag-li.3540501",
-          "summary": "Die CDU scheitert laut vorläufigem amtlichem Endergebnis in Mecklenburg-Vorpommern an der Fünf-Prozent-Hürde und verfehlt erstmals in der Geschichte der Bundesrepublik den Einzug in ein Landesparlament. Die Linken in Berlin distanzieren sich von einem Clanchef.",
+          "title": "Oktoberfest: Kreislaufprobleme: OB Dominik Krause muss Auftritt am Gay Sunday absagen",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-li.3549371",
+          "summary": "Beim Trachtenfestzug fährt Krause noch in der Kutsche mit, doch dann muss er den Wiesn-Besuch abbrechen – und auf die Teilnahme in der Bräurosl als erster schwuler Oberbürgermeister in München verzichten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/20/d19d0407-ff41-407b-b759-458bc22151f2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/20/353ccc5e-2996-4850-aef8-af38da29389a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=381%2C230%2C3306%2C1860"
         }
       ]
     }
