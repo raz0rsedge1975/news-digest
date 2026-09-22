@@ -1,39 +1,47 @@
 {
-  "generated": "2026-09-22T02:00:09.137Z",
-  "timestamp": "22.9.2026, 04:00:09",
+  "generated": "2026-09-22T06:00:08.977Z",
+  "timestamp": "22.9.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "CDU Nach den Wahlen: Keiner springt, Merz bleibt",
-          "url": "https://www.faz.net/aktuell/politik/inland/wahl-mv-2026-keiner-springt-merz-bleibt-201247538.html",
-          "summary": "Nach dem historischen Scheitern der CDU in Mecklenburg-Vorpommern fordert niemand den Parteichef heraus. Während der Landesvorsitzende in Schwerin geht, hält Merz an seinen Ämtern fest.",
+          "title": "Sichere Energieversorgung: Schafft die Gasspeicherziele ab!",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/hohe-gaspreise-und-energieknappheit-schafft-die-gasspeicherziele-ab-201225235.html",
+          "summary": "Europa hat wieder eine Energiekrise am Hals. Teure, überhastete Aktionen helfen aber nicht beim Aufbau von Resilienz. Was für eine sichere Versorgung nötig wäre.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9de8cefce109/w4800h2508x0y598o/202609/43601.0.2578408837/merz-und-evers-am-montag-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ce5520387829/w6000h3135x0y534o/202609/43601.0.2558519129/soll-bald-fluessiggas-nach.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Mecklenburg-Vorpommerns CDU-Chef Peters tritt zurück",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-mecklenburg-vorpommerns-cdu-chef-peters-tritt-zurueck-faz-110093143.html",
-          "summary": "Amthor soll vorerst übernehmen +++ Kabinett beschließt Gesetzentwurf zu Tankrabatt +++ Merkel: Brückenbau muss Anspruch einer Volkspartei sein  +++ alle Entwicklungen im Liveblog",
+          "title": "178 Euro je 100 Liter: Lohnt es sich, nun Heizöl für den Winter zu kaufen?",
+          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/heizoel-so-teuer-wie-seit-2022-nicht-mehr-jetzt-kaufen-oder-besser-warten-201232126.html",
+          "summary": "Der Herbst naht und mit ihm die kältere Jahreszeit. Doch Heizöl ist extrem teuer. Tipps, wie Verbraucher jetzt beim Ölkauf vorgehen können.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8a4caebd173e/w6000h3135x0y120o/202609/43601.0.2579142579/daniel-peters-und-philipp.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/78126c873c02/w6144h3210x0y774o/202604/43601.0.1993810050/heizoel-lieferung-die-rechnung.webp"
         },
         {
-          "title": "Landtagswahlen: Was die AfD aus ihrem Herbst der Rekorde lernt",
-          "url": "https://www.faz.net/aktuell/politik/inland/afd-nach-wahltriumphen-welche-lehren-zieht-die-partei-201247328.html",
-          "summary": "Die AfD hatte in Magdeburg, Schwerin und Berlin Grund zum Jubeln. Doch die Wahlerfolge stellen sie auch vor neue Herausforderungen.",
+          "title": "TV-Kritik „Illner spezial“: „Es kann passieren, dass er die Vertrauensfrage stellen muss“",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/maybrit-illner-brandmauer-merz-und-die-vertrauensfrage-accg-201248797.html",
+          "summary": "Die Union schont Kanzler Merz – vorerst. Bei Maybrit Illner zeigt sich, wie fragil die Lage ist: Die Partei ist gespalten, die SPD will das Reformpaket nicht unverändert mittragen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f7f43e5c1130/w6016h3143x0y749o/202609/43601.0.2577681355/nach-den-wahlen-leif-erik-holm.webp"
+          "image": "https://media0.faz.net/image/w1200h627/7024c7e8bcbf/w4724h2468x0y424o/202609/ec929322-4aa3-45db-ab60-5621724ee11b/maybrit-illner-diskutiert-mit.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Donald Trump wirft Journalisten raus - und wird nun vor Gericht gezerrt",
+          "url": "https://www.spiegel.de/ausland/donald-trump-wirft-journalisten-raus-und-wird-nun-vor-gericht-gezerrt-a-12a6d462-72ec-4a9e-908d-ef7e006216a5#ref=rss",
+          "summary": "Es ist die jüngste Eskalation in seinem Feldzug gegen die Presse: Donald Trump hat zwei Sendern und einem Portal Hausverbot erteilt. Doch die Medien wehren sich – und gehen gemeinsam gegen den Präsidenten vor.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7db0e056-eedc-449b-9a70-567081c1f062_w1200_r1.778_fpx35.33_fpy45.jpg"
+        },
         {
           "title": "So gefährden die eigenen Genossen Eralps Einzug ins Rote Rathaus",
           "url": "https://www.spiegel.de/politik/deutschland/so-gefaehrden-die-eigenen-genossen-eralps-einzug-ins-rote-rathaus-a-8cb8e614-c19f-4271-8222-536dd21e8a20#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/790ce907-6305-42e0-a9f2-73907d8ec990_w1200_r1.778_fpx32.65_fpy45.jpg"
         },
         {
-          "title": "CNN, NBC, ABC, CBS und Fox News: US-Sender schränken Berichterstattung ein",
-          "url": "https://www.spiegel.de/kultur/tv/cnn-nbc-abc-cbs-und-fox-news-us-sender-schraenken-berichterstattung-ein-a-db6ad1a9-dde5-4505-b884-68b2c016296e#ref=rss",
-          "summary": "US-Präsident Trump hat Medien wie CNN und »Politico« aus dem Weißen Haus verbannt. Nun erklären sich andere große TV-Sender, darunter auch Fox News, solidarisch: Sie wollen zunächst nicht mehr von seinen Terminen berichten.",
+          "title": "News: Friedrich Merz in Berlin statt New York, Boom in Cottbus, Charles Spencer schreibt über Prinzessin Diana",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-in-berlin-statt-new-york-boom-in-cottbus-charles-spencer-schreibt-ueber-prinzessin-diana-a-e29cc826-2a3c-43ec-90e6-717c575904b0#ref=rss",
+          "summary": "In New York reden die Wichtigen ohne Friedrich Merz. Cottbus zeigt sich überraschend dynamisch. Und weltweit und in zwölf Sprachen erscheinen unerhörte Neuigkeiten über Diana, Princess of Wales. Das ist die Lage am Dienstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cfdc5fc2-5806-4a8d-980d-a9e02ecb3266_w1200_r1.778_fpx39.98_fpy50.jpg"
-        },
-        {
-          "title": "Generalversammlung: So will die Uno den nächsten Trump-Eklat auf der Rolltreppe verhindern",
-          "url": "https://www.spiegel.de/ausland/generalversammlung-so-will-die-uno-den-naechsten-trump-eklat-auf-der-rolltreppe-verhindern-a-13a4efa8-2571-4743-821c-3daa4741cca2#ref=rss",
-          "summary": "2025 strandete Donald Trump mit Melania bei der Uno auf der Rolltreppe – und ist darüber offenbar immer noch nicht hinweg. Vor seinem Auftritt in diesem Jahr nimmt man es daher bei den Vereinten Nationen technisch ganz genau.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6582eec3-50ef-4e03-9240-fe58e7fcafc3_w1200_r1.778_fpx59.99_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9dd2d089-c73a-4529-9962-19f394c5e158_w1200_r1.778_fpx50.63_fpy49.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "UN-Generaldebatte in New York - Rede von Trump geplant",
-          "url": "https://www.tagesschau.de/ausland/un-trump-102.html",
-          "summary": "Treffen mit Selenskyj, Grönland-Abkommen: Am Rande der UN-Generaldebatte stehen für Trump gleich mehrere Termine auf dem Plan. Auch eine Rede will er wieder halten - nach einem denkwürdigen Auftritt im vergangenen Jahr. Ganslmeier.",
+          "title": "Marktbericht: DAX könnte Erholung fortsetzen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html",
+          "summary": "Starke Vorgaben aus den USA dürften den DAX heute weiter anschieben. Die Hoffnung auf eine diplomatische Lösung im Nahen Osten sorgt für freundliche Stimmung. An der Wall Street waren KI-Aktien gefragt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5b710c82-57e5-4812-b3b1-dfa993622c4a/AAABoMZScmY/AAABnSSvrFg/16x9-big/trump-5284.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b19e9d58-9935-4067-a655-d494e13c64cc/AAABn1pWFaE/AAABnSSvrFg/16x9-big/boerse-522.jpg?width=1280"
         },
         {
-          "title": "SPD-Vize Rehlinger fordert \"echte Reformen und nicht nur Kürzungsvorschläge\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/wahlen-regierung-rehlinger-100.html",
-          "summary": "Für SPD-Vizechefin Rehlinger sind die jüngsten Wahlergebnisse ein Signal, dass sich etwas ändern müsse. Das \"Störgefühl\" vieler Menschen beim Rentenpaket könne sie nachvollziehen. Bei den Reformen müssten Union und SPD nun zusammenkommen.",
+          "title": "Trumps Streit mit den Medien in den USA eskaliert",
+          "url": "https://www.tagesschau.de/ausland/usa-medien-trump-102.html",
+          "summary": "Der US-Präsident verbannt den weltbekannten Sender CNN und andere Medien aus dem Weißen Haus. Die Betroffenen wehren sich juristisch und bekommen Unterstützung von anderen Medien - auch vom Trump-freundlichen Sender Fox News. Von Ralf Borchard.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d5d9fc59-6e37-4183-b0ae-1adb61f6f4a0/AAABoMYzu6g/AAABnSSvrFg/16x9-big/anke-rehlinger-140.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/aa4e88f9-86cb-414d-9054-87ac10ba00ac/AAABoMeLxlg/AAABnSSvrFg/16x9-big/trump-medien-126.jpg?width=1280"
         },
         {
-          "title": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html",
-          "summary": "Für viele überraschend hat sich Kanzler Merz zum dualen System der Krankenkassen geäußert. Viele sähen darin ein \"Gerechtigkeitsproblem\", über das man sprechen müsse. Seine Aussage ruft deutliche Kritik hervor - aber auch Lob.",
+          "title": "Unfall auf Oktoberfest: Mitarbeiter tödlich verunglückt",
+          "url": "https://www.tagesschau.de/inland/oktoberfest-unfall-104.html",
+          "summary": "Bei einem Unfall an einem Free-Fall-Turm auf dem Oktoberfest in München ist ein Mitarbeiter ums Leben gekommen. Nach ersten Erkenntnissen wurde der Mann von einer Gondel getroffen. Die Polizei ermittelt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7eb195d4-f9eb-4944-94f2-90c96aa79309/AAABoMWaKck/AAABnSSvrFg/16x9-big/friedrich-merz-506.jpg?width=1280"
+          "image": "https://img.br.de/10346dd1-82e9-4050-aebf-e19672933c81.jpeg?q=80&amp;rect=0%2C142%2C4027%2C2261&amp;w=1600&amp;h=900"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA-Newsblog: Trump: Mamdani hat Potenzial zu großartigem Bürgermeister",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-mamdani-lob-li.3530667",
+          "summary": "Trotz erheblicher politischer Differenzen hat US-Präsident Donald Trump den New Yorker Bürgermeister erneut öffentlich gelobt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/22/9b3ca27f-6465-4fd5-8f36-e290869f88de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3425%2C1927"
+        },
+        {
+          "title": "Newsblog zur Bundespolitik: Regierung bringt Tankrabatt auf den Weg",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-parteien-merz-tankrabatt-regierung-li.3529564",
+          "summary": "Vom 1. Oktober bis Jahresende soll die Energiesteuer auf Diesel und Benzin um rund 14 Cent pro Liter gesenkt werden. Die Mehrwertsteuer eingerechnet ergibt sich laut Regierung eine Entlastung von bis zu 17 Cent pro Liter.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/22/cd8ddd18-1387-4dcf-bc34-92dfbf402651.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C145%2C4000%2C2250"
+        },
+        {
           "title": "Oktoberfest: Oktoberfest: Mitarbeiter nach Fahrgeschäft-Unfall gestorben",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-montag-unfall-hangover-fahrgeschaeft-mitarbeiter-verletzt-li.3549371",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-dienstag-toedlicher-unfall-hangover-fahrgeschaeft-li.3549371",
           "summary": "An einem Free-Fall-Turm auf dem Münchner Oktoberfest gab es einen schweren Unfall. Ein Mitarbeiter des Fahrgeschäfts  starb an seinen Verletzungen. Die Ermittlungen laufen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/21/01047d87-203f-45bd-9b68-cc3162396613.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "USA: Trumps Zustimmungswerte fallen auf Rekordtief",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-umfrage-zwischenwahlen-li.3530667",
-          "summary": "Wenige Wochen vor den Zwischenwahlen ist der US-Präsident auf dem bisher tiefsten Stand seiner Politik-Karriere: Laut einer Umfrage sind nur 32 Prozent der Amerikaner mit seiner Arbeit zufrieden.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/21/c822f27b-3283-4382-bd93-bdd2e23660b2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Newsblog zu den Landtagswahlen: Spitzenkandidat Peters tritt nach CDU-Debakel in Mecklenburg-Vorpommern zurück",
-          "url": "https://www.sueddeutsche.de/politik/wahl-mecklenburg-vorpommern-berlin-liveblog-peters-cdu-landesvorsitz-ruecktritt-amthor-li.3540501",
-          "summary": "Die CDU in Mecklenburg-Vorpommern hatte am Sonntag erstmals in der Geschichte der Bundesrepublik den Einzug in ein Landesparlament verpasst.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/21/4af4d587-e257-468e-b946-383369c5d2ca.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=158%2C0%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/09/21/01047d87-203f-45bd-9b68-cc3162396613.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C121%2C4000%2C2250"
         }
       ]
     }
