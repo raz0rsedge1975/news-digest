@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-23T18:00:09.705Z",
-  "timestamp": "23.9.2026, 20:00:09",
+  "generated": "2026-09-23T22:00:09.436Z",
+  "timestamp": "24.9.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Lucas Museum in LA: Eine Geschichte der Menschheit in 1500 Bildern",
-          "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/lucas-museum-of-narrative-art-in-los-angeles-eroeffnet-201252390.html",
-          "summary": "Wer dachte, George Lucas sei nur Filmregisseur, der irrt: Über fünf Jahrzehnte sammelte er mehr als 40. 000 Werke zur Geschichte des bildlichen Erzählens. In Los Angeles hat er ein phantastisches Museum für seine Kollektionen eröffnet.",
+          "title": "Unseriöse Politiker: Da ist er wieder, der Hallodri!",
+          "url": "https://www.faz.net/aktuell/politik/inland/afd-in-sachsen-anhalt-vom-pornoset-in-den-landtag-201228071.html",
+          "summary": "Über Jahrzehnte hielten die Deutschen nichts von Hasardeuren und Glücksrittern. Ausnahmen bilden die zwanziger und die siebziger Jahre – und heute.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0011fb1f17bc/w5798h3029x0y647o/202609/43601.0.2580399055/raumschiff-des-erzaehlens-das.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f7435c1da407/w6568h3431x0y413o/202609/43601.0.2562965679/gefaelschtes-abitur.webp"
         },
         {
           "title": "Zusammenarbeit: AfD und BSW bereiten Regierungsbildung in Sachsen-Anhalt vor",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/ea8c41c572de/w6144h3210x0y245o/202609/43601.0.2497177091/ulrich-siegmund-afd-und.webp"
         },
         {
-          "title": "Antisemitismus: Am Brandenburger Tor zur Hölle",
-          "url": "https://www.faz.net/aktuell/politik/inland/spd-und-linke-am-brandenburger-tor-zur-hoelle-201255449.html",
-          "summary": "Die SPD will dem Antisemitismus „keinen Millimeter“ Platz geben. Dann müsste sie eine Koalition mit der Linkspartei in Berlin rundweg ablehnen.",
+          "title": "UN-Generaldebatte: Zynische Routine am East River",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/marco-rubio-trifft-sergej-lawrow-einladung-an-wladimir-putin-201257117.html",
+          "summary": "Washington äußert die Sorge, Moskau wolle den Ukrainekrieg auf andere Länder ausweiten. Dennoch spricht Rubio beim Treffen mit Lawrow in New York eine brisante Einladung aus.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/676a48bd899e/w4776h2495x0y96o/202609/43601.0.2581853370/die-spd-vorsitzenden-lars.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a9d9c5b1539f/w5702h2979x0y114o/202609/43601.0.2586636727/russlands-aussenminister.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Linke in Berlin: Elif Eralps Traum vom Roten Rathaus könnte platzen – wegen ein paar Genossen",
-          "url": "https://www.spiegel.de/politik/deutschland/linke-in-berlin-elif-eralps-traum-vom-roten-rathaus-koennte-platzen-wegen-der-eigenen-genossen-a-2f6990b4-536c-4e40-8f42-15fc3e4d0286#ref=rss",
-          "summary": "Ein Chat mit einer arabischstämmigen Clangröße, Fotos mit einem Terrorunterstützer: Radikale Linke aus Berlin-Neukölln haben düstere Verbindungen. Parteifreunde von Wahlsiegerin Elif Eralp scheinen die Machtübernahme zu sabotieren.",
+          "title": "Nvidia-Chef Jensen Huang und Donald Trump: Der KI-Einflüsterer",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-chef-jensen-huang-und-donald-trump-der-ki-einfluesterer-a-fad307df-42fa-4911-badb-cdd21d6a4d2d#ref=rss",
+          "summary": "Jensen Huang leitet Nvidia, das wertvollste Unternehmen der Welt. Von KI-Horrorszenarien hält er nichts – so ist er zum wichtigen Verbündeten von Donald Trump geworden. Doch hinter der Bromance steckt noch mehr.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f8f21f63-0f73-48f7-82dc-56334177b07f_w1200_r1.778_fpx44.68_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7b064d64-55cc-4c23-a44c-c8da918158a6_w1200_r1.778_fpx63.38_fpy54.87.jpg"
         },
         {
           "title": "AfD: Was jetzt geschehen müsste, um die Rechtsextremen zu stoppen – Kommentar",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/0b033740-7486-4b72-a93c-4e8826824eab_w1200_r1.778_fpx44_fpy46.jpg"
         },
         {
-          "title": "Gesundheitssystem: Ende der Privatversicherung? So hat Friedrich Merz das doch nicht gemeint",
-          "url": "https://www.spiegel.de/politik/deutschland/gesundheitssystem-ende-der-privatversicherung-so-hat-friedrich-merz-das-doch-nicht-gemeint-a-3d8de180-43a1-4709-8250-94d56c546d3c#ref=rss",
-          "summary": "Der neue Gesundheitsminister Carsten Linnemann muss im Bundestag erklären, was Friedrich Merz mit seinen Äußerungen zum deutschen Gesundheitssystem bezwecken wollte. Keine leichte Aufgabe.",
+          "title": "Sachsen-Anhalt/Mecklenburg-Vorpommern: Johannes stimmte für die AfD, Lea für die Linke",
+          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-mecklenburg-vorpommern-johannes-stimmte-fuer-die-afd-lea-fuer-die-linke-a-9bacdda7-5db4-4d48-aab8-9444b6b4e8f0#ref=rss",
+          "summary": "Bei den Landtagswahlen in Sachsen-Anhalt und Mecklenburg-Vorpommern taten sich viele junge Menschen schwer. Wir haben mit ihnen gesprochen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c2962c5d-0e60-4a40-bc8f-0a48c9ed43d0_w1200_r1.778_fpx64.61_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/eb4f2bb1-d63d-4897-a4a8-1252268c1ac1_w1200_r1.778_fpx70_fpy55.01.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html",
-          "summary": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht man, sich zu erklären. Spickhofen.",
+          "title": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
+          "summary": "Die Bundesregierung hat einen Aktionsplan gegen Sozialmissbrauch beschlossen. Er zielt zum Beispiel auf Kriminelle, die Menschen in \"Schrottimmobilien\" unterbringen, für die das Jobcenter überhöhte Mieten zahlen soll. Von D. Pepping.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/637a9eed-1459-436d-9abe-89f526a50a6a/AAABldoaOeU/AAABnSSvrFg/16x9-big/eu-schulden-haushalt-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c92b3d95-5d04-4ea6-a5dc-9ba192f8f653/AAABoM-JTws/AAABnSSvrFg/16x9-big/polizist-treppenhaus-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX baut Verluste aus",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-          "summary": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die jüngst aufgekeimte Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder dahin.",
+          "title": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
+          "url": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
+          "summary": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9ec4f2f2-7645-46b0-ba13-bb7823f852db/AAABoK6DAQE/AAABnSSvrFg/16x9-big/boerse-336.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/225b2ad6-9f14-4d10-ad1f-3fcc9be49ba8/AAABoM9r0j4/AAABnSSvrFg/16x9-big/rubio-208.jpg?width=1280"
         },
         {
-          "title": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
-          "url": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
-          "summary": "Nach einem Jahr Abwesenheit wollen die Niederlande 2027 wieder beim Eurovision Song Contest mit dabei sein. Der öffentlich-rechtliche Rundfunk übernimmt vom bisherigen Sender. Ein erneuter Boykott wegen der Teilnahme Israels ist damit vom Tisch.",
+          "title": "Iran wehrt sich vor UN gegen Trump-Drohungen",
+          "url": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
+          "summary": "In einer Rede vor den Vereinten Nationen hat Irans Präsident Peseschkian eine internationale Ordnung der \"Gewalttätigen\" beklagt - und sich gegen US-Präsident Trumps Drohungen gewehrt. Doch es wurde auch verhandelt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0fa1fc37-1b37-468e-a416-888543df09dc/AAABoM7wq1k/AAABnSSvrFg/16x9-big/esc-336.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e049fe8d-8e0d-46de-9511-6739c9ab0ca3/AAABoM837c8/AAABnSSvrFg/16x9-big/peseschkian-120.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Nations League: Das Klopp-Zeitalter beginnt",
+          "url": "https://www.sueddeutsche.de/sport/nations-league-juergen-klopp-elftal-fussball-nationalmannschaft-niederlande-li.3552927",
+          "summary": "Die deutsche Fußball-Nationalmannschaft bestreitet in Amsterdam ihr erstes Spiel unter dem neuen Bundestrainer Jürgen Klopp. Die Elftal wird ein wenig Schicksal spielen, wie der Start in die Mission gelingt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/23/3cc426ee-b992-4efe-898b-c5a7469deae1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C85%2C4000%2C2250"
+        },
+        {
+          "title": "Urteil in Berlin: „Ich will da nie wieder hin zurück“",
+          "url": "https://www.sueddeutsche.de/panorama/prozess-dragqueen-jurassica-parka-kinderpornografie-urteil-li.3549973",
+          "summary": "machte in Berlin als Dragqueen Jurassica Parka Karriere, bis man bei ihm Kinderpornografie fand. Ein Gericht verurteilte ihn jetzt zu einer Freiheitsstrafe. Er findet: zu Recht.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/23/f2ae1ed0-b74f-42ca-93f0-9cb93580fd20.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=326%2C549%2C3306%2C1860"
+        },
+        {
           "title": "Newsblog zum Nahost-Krieg: Irans Präsident: Werden zivile Atomenergie nicht aufgeben",
           "url": "https://www.sueddeutsche.de/politik/iran-fluege-region-nahost-blog-iran-li.3530668",
           "summary": "Gleichzeitig beteuert Peseschkian vor der UN-Generalversammlung in New York, dass Teheran weiterhin keine Atomwaffen anstrebe. Die scharfe Kritik von Trump an seinem Land weist er vehement zurück.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/23/5f0074c3-dc96-4106-ba8c-c07b5327bb7a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C136%2C2602%2C1464"
-        },
-        {
-          "title": "USA-Newsblog: USA laden Putin zu G-20-Gipfel ein",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-putin-g-20-gipfel-li.3530667",
-          "summary": "Das gibt Außenminister Rubio bekannt. Die Regierung in Washington hoffe, dass Russlands Präsident die Einladung nach Miami annehmen werde.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/04/09/f75de7dd-7727-4d1a-b0e3-49220575bbb3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Podcast: „Auf den Punkt“: Was will Xi mit KI?",
-          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ki-china-usa-xi-trump-li.3552624",
-          "summary": "Die USA und China liefern sich einen Wettlauf um künstliche Intelligenz. Doch werden sie sich auf Regeln einigen können?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
         }
       ]
     }
