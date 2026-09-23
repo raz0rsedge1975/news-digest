@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-22T22:00:09.330Z",
-  "timestamp": "23.9.2026, 00:00:09",
+  "generated": "2026-09-23T02:00:08.515Z",
+  "timestamp": "23.9.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Sachsen: Kein Anspruch auf Lehrerausbildung für Tochter von Götz Kubitschek",
-          "url": "https://www.spiegel.de/panorama/bildung/sachsen-kein-anspruch-auf-lehrerausbildung-fuer-tochter-von-goetz-kubitschek-a-a9deaae5-091c-4a00-9ff4-5c934cdf63a8#ref=rss",
-          "summary": "Der rechtsextreme Verleger Götz Kubitschek veranstaltet regelmäßig Treffen für Gleichgesinnte. An einigen Terminen hat offenbar auch eine Tochter teilgenommen – das wird ihr nun beruflich zum Verhängnis.",
+          "title": "Donald Trump bei der Uno: Ein bisschen drohen, ein bisschen kuscheln",
+          "url": "https://www.spiegel.de/ausland/donald-trump-bei-der-uno-ein-bisschen-drohen-ein-bisschen-kuscheln-a-9dafdd6f-d8ac-489e-986b-94242834a103#ref=rss",
+          "summary": "Ein bisschen drohen, ein bisschen kuscheln: Vor der Uno präsentiert US-Präsident Donald Trump eine seltsam gezähmte Version seiner selbst. Seine jüngsten Schlappen kann er damit aber kaum übertünchen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/97a2b230-0001-0004-0000-000001350432_w1200_r1.778_fpx58_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/23edfcea-0f6a-4499-8ec5-d85314d106c9_w1200_r1.778_fpx51_fpy36.jpg"
         },
         {
           "title": "Adolf Hitler: Neuer Aktenfund erschüttert Alibi beim Tod seiner Nichte",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Mehr Staatsmann und weniger Konfrontation",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
+          "summary": "US-Präsident Trump hat sich bei der UN-Vollversammlung ungewohnt diszipliniert präsentiert. Doch hinter dem Kurswechsel stecken vor allem innenpolitischer Druck und die Suche nach einem Ausweg, meint Martin Ganslmeier.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/90dbf839-5bac-49eb-b350-26424868b746/AAABoMrwR40/AAABnSSvrFg/16x9-big/trump-rede-196.jpg?width=1280"
+        },
+        {
           "title": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
           "url": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
           "summary": "Der Unionsfraktionsvorsitzende Frei sieht nach dem CDU-Wahldebakel einen \"enormen Aussprachebedarf\". Im tagesthemen-Interview stellt er sich hinter Kanzler Merz - obwohl es beim Fraktionstreffen deutliche Kritik gab.",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/19f5f9e7-1408-4ee2-ab14-5318eeb35cf0/AAABoMmUWdM/AAABnSSvrFg/16x9-big/friedrich-merz-508.jpg?width=1280"
-        },
-        {
-          "title": "Kommentar zum Grönland-Abkommen: Ein alter Deal in neuer Verpackung",
-          "url": "https://www.tagesschau.de/kommentar/groenland-abkommen-trump-100.html",
-          "summary": "Immer wieder hatte US-Präsident Trump seinen vermeintlichen Anspruch auf Grönland bekundet. Das ist nun vom Tisch: Ein Abkommen wurde geschlossen. Und das ist am Ende vor allem eine Meisterleistung skandinavischer Diplomatie, findet Jana Sinram.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/33da09c2-97e5-469e-bc80-018af412e752/AAABoMooC7k/AAABnSSvrFg/16x9-big/groenland-256.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Hamburg als logistisches Nato-Drehkreuz: \"Dieses Manöver ist kein Schutz\"",
+          "url": "https://www.telepolis.de/article/Hamburg-als-logistisches-Nato-Drehkreuz-Dieses-Manoever-ist-kein-Schutz-11461569.html",
+          "summary": "Die Hamburger Friedensaktivistin Anne im Gespräch über \"Red Storm Charlie\", Kriegstüchtigkeit und Alternativen zur Sicherheitslogik. Ein Telepolis-Interview.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/9/3/1/9/Nicht_unser_Krieg_Bild-0336024972f511a5.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "China-Shock 2.0: Wie deutsche Maschinenbauer ihren Vorsprung verlieren",
           "url": "https://www.telepolis.de/article/China-Shock-2-0-Wie-deutsche-Maschinenbauer-ihren-Vorsprung-verlieren-11462421.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/9/7/3/8/Solarpanel-4079468571d9a420.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Autokrise: Wer soll für die Fehler der Konzerne bezahlen?",
-          "url": "https://www.telepolis.de/article/Autokrise-Wer-soll-fuer-die-Fehler-der-Konzerne-bezahlen-11461427.html",
-          "summary": "Die IG Metall mobilisiert gegen Stellenabbau und Werksschließungen. Der VDA sieht vor allem den Standort Deutschland in der Krise. Worum es eigentlich geht.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/9/2/4/8/shutterstock_1934549078-edee2103905ba0b0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
