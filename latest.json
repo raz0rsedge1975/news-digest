@@ -1,25 +1,17 @@
 {
-  "generated": "2026-09-23T22:00:09.436Z",
-  "timestamp": "24.9.2026, 00:00:09",
+  "generated": "2026-09-24T02:00:08.600Z",
+  "timestamp": "24.9.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Unseriöse Politiker: Da ist er wieder, der Hallodri!",
-          "url": "https://www.faz.net/aktuell/politik/inland/afd-in-sachsen-anhalt-vom-pornoset-in-den-landtag-201228071.html",
-          "summary": "Über Jahrzehnte hielten die Deutschen nichts von Hasardeuren und Glücksrittern. Ausnahmen bilden die zwanziger und die siebziger Jahre – und heute.",
+          "title": "USA unter Trump: Trump empfängt Xi in den USA, Zollpause abermals verlängert",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-usa-laden-osze-nicht-zur-wahlbeobachtung-ein-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f7435c1da407/w6568h3431x0y413o/202609/43601.0.2562965679/gefaelschtes-abitur.webp"
-        },
-        {
-          "title": "Zusammenarbeit: AfD und BSW bereiten Regierungsbildung in Sachsen-Anhalt vor",
-          "url": "https://www.faz.net/aktuell/politik/inland/afd-und-bsw-in-sachsen-anhalt-bereiten-regierungsbildung-vor-201254954.html",
-          "summary": "AfD und BSW bereiten in Magdeburg die Wahl eines AfD-Landtagspräsidenten vor. Anfang Oktober könnte damit ihre neue Mehrheit sichtbar werden.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ea8c41c572de/w6144h3210x0y245o/202609/43601.0.2497177091/ulrich-siegmund-afd-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/97392985a309/w6144h3210x0y763o/202609/43601.0.2588042328/us-praesident-donald-trump.webp"
         },
         {
           "title": "UN-Generaldebatte: Zynische Routine am East River",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/a9d9c5b1539f/w5702h2979x0y114o/202609/43601.0.2586636727/russlands-aussenminister.webp"
+        },
+        {
+          "title": "Unseriöse Politiker: Da ist er wieder, der Hallodri!",
+          "url": "https://www.faz.net/aktuell/politik/inland/afd-in-sachsen-anhalt-vom-pornoset-in-den-landtag-201228071.html",
+          "summary": "Über Jahrzehnte hielten die Deutschen nichts von Hasardeuren und Glücksrittern. Ausnahmen bilden die zwanziger und die siebziger Jahre – und heute.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/f7435c1da407/w6568h3431x0y413o/202609/43601.0.2562965679/gefaelschtes-abitur.webp"
         }
       ]
     },
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/0b033740-7486-4b72-a93c-4e8826824eab_w1200_r1.778_fpx44_fpy46.jpg"
         },
         {
-          "title": "Sachsen-Anhalt/Mecklenburg-Vorpommern: Johannes stimmte für die AfD, Lea für die Linke",
-          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-mecklenburg-vorpommern-johannes-stimmte-fuer-die-afd-lea-fuer-die-linke-a-9bacdda7-5db4-4d48-aab8-9444b6b4e8f0#ref=rss",
-          "summary": "Bei den Landtagswahlen in Sachsen-Anhalt und Mecklenburg-Vorpommern taten sich viele junge Menschen schwer. Wir haben mit ihnen gesprochen.",
+          "title": "Mini-AKW: Katherina Reiche wirbt für Atomenergie – nun entzaubern ihre Leute kleine Kernkraftwerke",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/mini-akw-katherina-reiche-wirbt-fuer-atomenergie-nun-entzaubern-ihre-leute-kleine-kernkraftwerke-a-dee6390e-3212-41d1-8be1-b3c9ff08e035#ref=rss",
+          "summary": "Wirtschaftsministerin Reiche sieht großes Potenzial in Mini-AKW. Doch laut einem vertraulichen Dokument, das dem SPIEGEL vorliegt, zweifeln ihre eigenen Fachleute daran. Der bislang von ihr propagierte Hauptvorteil existiert demnach noch nicht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/eb4f2bb1-d63d-4897-a4a8-1252268c1ac1_w1200_r1.778_fpx70_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6926663f-47a2-4135-b055-dcebb89b636d_w1200_r1.778_fpx69.99_fpy45.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Hoffen auf Israel: die Drusen auf den Golanhöhen",
+          "url": "https://www.tagesschau.de/ausland/asien/drusen-golanhoehen-100.html",
+          "summary": "Auf den von Israel annektierten Golanhöhen fühlten sich die meisten Drusen jahrzehntelang Syrien zugehörig, man lehnte die israelische Staatsbürgerschaft ab. Doch Krieg und Gewalt erschüttern alte Gewissheiten. Von Natalie Amiri.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/21865cdf-56e3-4301-a8cb-68d6621f7892/AAABoM2KSCM/AAABnSSvrFg/16x9-big/grenzzaun-134.jpg?width=1280"
+        },
+        {
+          "title": "Tech-Bosse warnen UN-Sicherheitsrat vor KI",
+          "url": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html",
+          "summary": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/89e5da89-db46-4ffc-84ac-3e316752a8ea/AAABoNCFqgk/AAABnSSvrFg/16x9-big/sam-altman-130.jpg?width=1280"
+        },
+        {
           "title": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
           "url": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
           "summary": "Die Bundesregierung hat einen Aktionsplan gegen Sozialmissbrauch beschlossen. Er zielt zum Beispiel auf Kriminelle, die Menschen in \"Schrottimmobilien\" unterbringen, für die das Jobcenter überhöhte Mieten zahlen soll. Von D. Pepping.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/c92b3d95-5d04-4ea6-a5dc-9ba192f8f653/AAABoM-JTws/AAABnSSvrFg/16x9-big/polizist-treppenhaus-100.jpg?width=1280"
-        },
-        {
-          "title": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
-          "url": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
-          "summary": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/225b2ad6-9f14-4d10-ad1f-3fcc9be49ba8/AAABoM9r0j4/AAABnSSvrFg/16x9-big/rubio-208.jpg?width=1280"
-        },
-        {
-          "title": "Iran wehrt sich vor UN gegen Trump-Drohungen",
-          "url": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
-          "summary": "In einer Rede vor den Vereinten Nationen hat Irans Präsident Peseschkian eine internationale Ordnung der \"Gewalttätigen\" beklagt - und sich gegen US-Präsident Trumps Drohungen gewehrt. Doch es wurde auch verhandelt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/e049fe8d-8e0d-46de-9511-6739c9ab0ca3/AAABoM837c8/AAABnSSvrFg/16x9-big/peseschkian-120.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Chinas Zerstörer: Die Stärke liegt in der Stückzahl",
+          "url": "https://www.telepolis.de/article/Chinas-Zerstoerer-Die-Staerke-liegt-in-der-Stueckzahl-11462772.html",
+          "summary": "Vierzig baugleiche Zerstörer prägen künftig Chinas Marine im Pazifik. Nun erhielten sie eine neue Überschallrakete. Ein Detail bleibt jedoch unklar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/9/9/3/6/Type-52D_destroyer_Zhanjiang__165__in_Langkawi-ade261b559982808.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Ukraine-Winter: Warum 810 Mio. Euro aus Deutschland noch immer nicht reichen",
           "url": "https://www.telepolis.de/article/Ukraine-Winter-Warum-810-Mio-Euro-aus-Deutschland-noch-immer-nicht-reichen-11463586.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/1/9/1/shutterstock_2573993557-84a210cf55309dea.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "IWF warnt vor Rekordschulden: Warum Kredite teuer bleiben könnten",
-          "url": "https://www.telepolis.de/article/IWF-warnt-vor-Rekordschulden-Warum-Kredite-teuer-bleiben-koennten-11463152.html",
-          "summary": "Die weltweiten Staatsschulden steuern auf 100 Prozent der Wirtschaftsleistung zu. Für Kreditnehmer und Sparer hat das Folgen – der IWF fordert Konsolidierung.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/1/2/6/shutterstock_2003203385-b12c5cb2194718b8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "USA-Newsblog: Chinas Präsident Xi zu Staatsbesuch in den USA angekommen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-xi-jinping-chine-staatsbesuch-washington-li.3530667",
+          "summary": "Empfangen wurde sie am Flughafen in Washington von US-Präsident Donald Trump und seiner Ehefrau Melania. Für Xi ist es die erste USA-Reise seit rund drei Jahren.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/23/1758a3d9-8023-4483-a033-d840a5e79f9c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C328%2C4000%2C2250"
+        },
         {
           "title": "Nations League: Das Klopp-Zeitalter beginnt",
           "url": "https://www.sueddeutsche.de/sport/nations-league-juergen-klopp-elftal-fussball-nationalmannschaft-niederlande-li.3552927",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/23/f2ae1ed0-b74f-42ca-93f0-9cb93580fd20.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=326%2C549%2C3306%2C1860"
-        },
-        {
-          "title": "Newsblog zum Nahost-Krieg: Irans Präsident: Werden zivile Atomenergie nicht aufgeben",
-          "url": "https://www.sueddeutsche.de/politik/iran-fluege-region-nahost-blog-iran-li.3530668",
-          "summary": "Gleichzeitig beteuert Peseschkian vor der UN-Generalversammlung in New York, dass Teheran weiterhin keine Atomwaffen anstrebe. Die scharfe Kritik von Trump an seinem Land weist er vehement zurück.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/23/5f0074c3-dc96-4106-ba8c-c07b5327bb7a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C136%2C2602%2C1464"
         }
       ]
     }
