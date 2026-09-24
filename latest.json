@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-24T18:00:18.675Z",
-  "timestamp": "24.9.2026, 20:00:18",
+  "generated": "2026-09-24T22:00:18.071Z",
+  "timestamp": "25.9.2026, 00:00:18",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Erfolgreiche App Muse: Warum Metas KI-Agent so erfolgreich ist",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/metas-ki-agent-muse-wird-zum-ueberraschungserfolg-fuer-mark-zuckerberg-201255847.html",
-          "summary": "Der Tech-Konzern landet mit seinem neuen virtuellen Alltagshelfer Muse einen Überraschungserfolg und stellt ein eigens dafür konzipiertes Gerät vor. Doch der KI-Agent wirft einige Fragen auf.",
+          "title": "DFB-Team in Amsterdam: Spätes Gegentor verdirbt Klopp den Traumeinstand",
+          "url": "https://www.faz.net/aktuell/sport/fussball/juergen-klopp-spaetes-gegentor-truebt-bundestrainer-debuet-201203496.html",
+          "summary": "Jürgen Klopps Debüt als Bundestrainer endet mit einem Remis. Bis kurz vor Schluss liegt das deutsche Team auf Siegkurs, doch dann gelingt den Niederländern eine Traumkombination.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e93865a7b8d9/w4928h2574x0y607o/202609/43601.0.2588246665/erinnert-an-das-virtuelle.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a0871970ac3c/w2781h1453x0y152o/202609/43601.0.2591812582/akrobatischer-niederlaender.webp"
         },
         {
           "title": "Angriff in Australien: Open AI missbraucht die Welt als Testlabor",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Jürgen Klopp: Crashkurs beim Debüt als neuer Bundestrainer",
-          "url": "https://www.spiegel.de/sport/fussball/juergen-klopp-crashkurs-beim-debuet-als-neuer-bundestrainer-a-bf0f04b6-81ff-49f2-8716-b4eb6cb41933#ref=rss",
-          "summary": "Videositzungen, Einzelgespräche: In wenigen Tagen hat Jürgen Klopp versucht, seinen Nationalspielern zu vermitteln, was ihm wichtig ist. Ein Crashkurs in Klopp.",
+          "title": "Nations League: Deutschland remis gegen Niederlande bei Debüt von Jürgen Klopp",
+          "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-remis-gegen-niederlande-bei-debuet-von-juergen-klopp-a-0616fce9-7540-4017-9f4f-d2345446e019#ref=rss",
+          "summary": "Beinahe reichen Mühe und Leidenschaft zum DFB-Sieg gegen die Niederlande, dann schlägt Mark van Bommels Sohn eine Zauberflanke. Jürgen Klopp ist voll des Lobes, Oranje leicht pikiert ob der deutschen Sportlichkeit.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bef79f2c-a463-4874-88ff-20f3c4e58393_w1200_r1.778_fpx51_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f53e20dd-56c0-42ee-8ae9-09f6ac746a21_w1200_r1.778_fpx55_fpy55.jpg"
         },
         {
           "title": "Deutscher Adel im Nationalsozialismus: Freiherr von Massenmörder",
@@ -51,18 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/92e6a4dc-6233-42bc-a7d8-efe422fb849c_w1200_r1.778_fpx39_fpy36.jpg"
         },
         {
-          "title": "News des Tages: CDU und AfD lehnen in Heidenau Stolpersteine ab, Jürgen Klopp mit DFB-Debüt",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-cdu-und-afd-lehnen-in-heidenau-stolpersteine-ab-juergen-klopp-mit-dfb-debuet-a-6eece844-0404-4b9e-82e3-4f7b66bdd6b4#ref=rss",
-          "summary": "In der sächsischen Stadt Heidenau lehnen CDU und AfD gemeinschaftlich Stolpersteine ab. Jürgen Klopp debütiert als Bundestrainer. Und ein Psychiater will uns das Fürchten lehren. Das ist die Lage am Donnerstagabend.",
+          "title": "Benjamin Netanyahu: Etliche Delegierte verlassen vor Rede bei der Uno-Vollversammlung den Saal",
+          "url": "https://www.spiegel.de/ausland/benjamin-netanyahu-etliche-delegierte-verlassen-vor-rede-bei-der-uno-vollversammlung-den-saal-a-1f659f23-0245-4799-a44f-2655805a2619#ref=rss",
+          "summary": "Vor Benjamin Netanyahus Rede bei der Uno-Vollversammlung protestierten Dutzende Delegierte gegen Israels Vorgehen in Gaza. Netanyahu griff sie scharf an – besonders aber New Yorks Bürgermeister Zohran Mamdani.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/183bde17-fc78-49a3-b856-ded19d537340_w1200_r1.778_fpx48_fpy41.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
+          "url": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
+          "summary": "Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahost.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/e31baaad-b003-4c3e-8c1e-d407d6dd4c7c/AAABoNTeqKI/AAABnSSvrFg/16x9-big/netanjahu-un-106.jpg?width=1280"
+        },
         {
           "title": "Rheinland-Pfalz behält MPK-Vorsitz - Sachsen-Anhalt wird übersprungen",
           "url": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-behaelt-mpk-vorsitz-100.html",
@@ -72,26 +80,26 @@
           "image": "https://images.tagesschau.de/image/148081ed-e96a-4c29-b690-dfcca827cc91/AAABoNRfwnM/AAABnSSvrFg/16x9-big/schnieder-154.jpg?width=1280"
         },
         {
-          "title": "Russlands Krieg gegen die Ukraine Wettlauf der schnellen Drohnen",
+          "title": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
           "url": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
           "summary": "Gelingt es der Ukraine, den russischen Vorsprung bei schnellen, mit Jetantrieb ausgestatteten Drohnen aufzuholen? Die Antwort entscheidet über Leben und Tod vieler Menschen. Von Kai Küstner und Stefan Niemann.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/bba5b5c3-e64e-46dc-9452-9d93285c8194/AAABoNPmfhU/AAABnSSvrFg/16x9-big/drohnen-278.jpg?width=1280"
-        },
-        {
-          "title": "Nach Richterspruch - Weißes Haus lässt CNN-Reporter wieder zu",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-102.html",
-          "summary": "US-Präsident Trump hatte CNN und andere Medien tagelang ausgesperrt. Auch nach einem Richterspruch verweigerte das Weiße Haus Reportern zunächst den Zugang. Jetzt gab die Trump-Regierung nach.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/cb99a10a-a0e1-4a3e-a3a6-d534d70b0e27/AAABoNRvCWQ/AAABnSSvrFg/16x9-big/barron-lopez-traylor-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Heidenau: CDU und AfD beschließen Verbot neuer Stolpersteine",
+          "url": "https://www.telepolis.de/article/Heidenau-CDU-und-AfD-beschliessen-Verbot-neuer-Stolpersteine-11465119.html",
+          "summary": "In Heidenau hat eine Mehrheit aus CDU, AfD und BOD neue Stolpersteine gestoppt. Die Stolperstein-Stiftung nennt den Vorgang einzigartig.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/1/1/2/5/shutterstock_2324642945-be76a8a1a8e2b7c6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Rente mit 63 vor dem Aus: Was das für Jüngere und die Aktienrente bedeutet",
           "url": "https://www.telepolis.de/article/Rente-mit-63-vor-dem-Aus-Was-das-fuer-Juengere-und-die-Aktienrente-bedeutet-11464823.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/8/3/3/excalibur-uuv-unveiling-ee5bed70b8ed8a03.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Katz droht Damaskus mit dauerhafter Gebietsnahme",
-          "url": "https://www.telepolis.de/article/Katz-droht-Damaskus-mit-dauerhafter-Gebietsnahme-11464534.html",
-          "summary": "Israels Verteidigungsminister Katz schließt einen Rückzug von den Golanhöhen aus und kündigt an, künftig erobertes syrisches Gebiet dauerhaft zu behalten.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/8/2/5/shutterstock_2376233077-c8f2238614db6da7.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "DFB-Elf in der Einzelkritik: Ter Stegen bügelt seine eigenen Fehler aus",
+          "url": "https://www.sueddeutsche.de/sport/nations-league-deutschland-niederlande-einzelkritik-ter-stegen-li.3553278",
+          "summary": "Der deutsche Torhüter etabliert eine neue Kunstform, Joshua Kimmich macht sich unbeliebt beim niederländischen Publikum. Das deutsche Team in der Einzelkritik.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/24/7a33b679-56e3-45df-b0e9-a66b5810d0d5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
+          "title": "Deutsche Nationalmannschaft: Kleiner Schock für Klopp in der Nachspielzeit",
+          "url": "https://www.sueddeutsche.de/sport/fussball-nations-league-deutschland-niederlande-klopp-nmecha-li.3553279",
+          "summary": "Beim Einstand des neuen Bundestrainers führt das DFB-Team lange in Amsterdam – bis die Niederländer spät zum 1:1 ausgleichen. Grund zur Freude hat Jürgen Klopp beim Debütantenball trotzdem.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/24/96e3a484-b060-42ad-a685-88a0eb88541c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1243%2C699"
+        },
+        {
           "title": "USA-Newsblog: Reporter haben wieder Zugang zum Weißen Haus",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-zugang-li.3530667",
           "summary": "Die Anordnung eines Richters hatte in der Nacht zuvor den Ausschluss von CNN, MS Now und „Politico“ als „wahrscheinlich verfassungswidrig“ eingestuft. Am Morgen war einigen Reportern der Zugang noch verweigert worden.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/24/9c5a1b3c-2895-43bc-86a7-685b17b5fdc8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
-        },
-        {
-          "title": "Oktoberfest: Ermittler werten Videos zum tödlichen Unfall am „Hangover“ aus",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-donnerstag-li.3549371",
-          "summary": "Der Tod eines Mitarbeiters des Fahrgeschäfts ist auch beim traditionellen Gottesdienst der Schausteller ein Thema. Einem 90-Jährigen wird der Rollator gestohlen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/24/064626b5-b1f3-47fb-b17e-77b064e27b66.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C302%2C4000%2C2250"
-        },
-        {
-          "title": "Discounter in Regenstauf: Ratten in Norma-Zentrallager - Behörden greifen ein",
-          "url": "https://www.sueddeutsche.de/bayern/regenstauf-norma-zentrallager-ratten-rattenbefall-hygienemaengel-li.3553588",
-          "summary": "Ein Hinweis rief die Lebensmittelüberwachung auf den Plan: Anfang August bereits wurden im Zentrallager des Discounters Norma in Regenstauf Ratten entdeckt. Was sich seitdem getan hat.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/24/60808a6c-9259-449b-b742-167896bd0862.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C104%2C1935%2C1088"
         }
       ]
     }
