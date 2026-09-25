@@ -1,33 +1,33 @@
 {
-  "generated": "2026-09-25T06:00:21.904Z",
-  "timestamp": "25.9.2026, 08:00:21",
+  "generated": "2026-09-25T10:00:43.800Z",
+  "timestamp": "25.9.2026, 12:00:43",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Nach den Wahlen: „Bezahlbarkeit“ ist das neue Lieblingswort der SPD",
-          "url": "https://www.faz.net/aktuell/politik/inland/warum-bezahlbarkeit-das-neue-lieblingswort-der-spd-ist-accg-201258566.html",
-          "summary": "In der CDU reden sie fast wie Sozialdemokraten über die Reformen. Die wiederum haben nach ihrem erfolgreichen Kampf für den Tankrabatt ein Schlagwort für sich entdeckt.",
+          "title": "XI-Trump-Gipfel: Xi und auch Putin spielen Spielchen mit Trump",
+          "url": "https://www.faz.net/aktuell/politik/ausland/donald-trump-und-china-warum-er-den-konflikt-scheut-201260349.html",
+          "summary": "Wie seine Vorgänger wollte Trump sich eigentlich der chinesischen Herausforderung stellen. Doch der Präsident lässt sich umschmeicheln.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2f40e3b99a2f/w4776h2495x0y188o/202609/43601.0.2581853370/bas-und-klingbeil-am-22.webp"
+          "image": "https://media0.faz.net/image/w1200h627/46ddc39f6d13/w5054h2640x0y617o/202609/43601.0.2592154928/xi-jinping-und-donald-trump-im.webp"
         },
         {
-          "title": "Boris Rhein: Endlich auf Augenhöhe mit den Großen",
-          "url": "https://www.faz.net/aktuell/politik/inland/boris-rhein-endlich-auf-augenhoehe-mit-den-grossen-accg-201251875.html",
-          "summary": "Boris Rhein profiliert sich in der Krise der CDU, wird als möglicher Parteivorsitzender oder Bundespräsident gehandelt. Wonach strebt er wirklich?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/3b5d6d283df3/w3500h1828x0y235o/202609/43601.0.2578670074/boris-rhein-in-calden-im.webp"
-        },
-        {
-          "title": "Sachsen-Anhalt: Die CDU sollte es der AfD nicht zu leicht machen",
-          "url": "https://www.faz.net/aktuell/politik/inland/cdu-in-sachsen-anhalt-warum-die-afd-warten-soll-201259656.html",
-          "summary": "Die CDU tut gut daran, sich bei der Regierungsbildung in Sachsen-Anhalt nicht aufzudrängen. Jetzt ist die AfD am Zug.",
+          "title": "Xis Bosse nicht dabei: Trump lässt Chinas Konzernchefs abblitzen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/trump-laesst-chinas-konzernchefs-beim-staatsbankett-abblitzen-accg-201261065.html",
+          "summary": "Das Staatsbankett in Washington lief ohne chinesische Konzernchefs ab. Diese hatten offenbar bis zur letzten Minute gehofft.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/093d97511851/w8256h4313x0y165o/202609/43601.0.2520363740/ministerpraesident-sven.webp"
+          "image": null
+        },
+        {
+          "title": "Gipfel in Washington: Ein Staatsbankett für Xis Geschmack",
+          "url": "https://www.faz.net/aktuell/politik/ausland/xi-jinping-und-trump-beim-gipfel-gesten-statt-ergebnisse-accg-201260994.html",
+          "summary": "Trump schmeichelt, hinter den Kulissen tobt der Machtkampf und Xi sagt: Wir können den Wettbewerb ruhig führen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump empfäng Xi Jinping: Was der Gipfel im Weißen Haus verändert",
-          "url": "https://www.spiegel.de/ausland/donald-trump-empfaeng-xi-jinping-was-der-gipfel-im-weissen-haus-veraendert-a-acc50516-a770-4094-8330-236661e5ba82#ref=rss",
-          "summary": "Symbolik schlägt Substanz – was vor vier Monaten in Peking galt, gilt auch beim Treffen von Xi Jinping und Donald Trump in Washington. Nur dass der chinesische Staatschef diesmal mehr davon hat als der US-Präsident.",
+          "title": "VW Golf, Tiguan, Touran: Rückruf wegen Lenkung",
+          "url": "https://www.spiegel.de/mobilitaet/auto/vw-golf-tiguan-touran-rueckruf-wegen-lenkung-a-b1272e7c-56b0-4726-b908-1a8a650e0a86#ref=rss",
+          "summary": "VW muss einige seiner verbreitetsten Modelle zurückrufen. Bei Golf, Tiguan, Touran und anderen droht laut Kraftfahrt-Bundesamt ein Schraubenabriss der Lenkung durch Rost. Potenziell betroffen sind weltweit insgesamt Millionen Pkw.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6a31df6f-00a2-4a5a-8b16-7d6ec1387d67_w1200_r1.778_fpx46_fpy49.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b3649c87-e4f8-48ee-833f-6987c0f9a259_w1200_r1.778_fpx49_fpy3.jpg"
         },
         {
-          "title": "News: Tankrabatt im Bundestag und Bundesrat, Sorge um Meerenge Bab al-Mandab, Berliner Linke und Antisemitismus",
-          "url": "https://www.spiegel.de/politik/deutschland/news-tankrabatt-im-bundestag-und-bundesrat-sorge-um-meerenge-bab-al-mandab-berliner-linke-und-antisemitismus-a-50ea9a92-ae17-47da-b68a-6d8819709611#ref=rss",
-          "summary": "Bundestag und Bundesrat entscheiden über den neuen Tankrabatt. Schon wieder schließt sich eine Handelsroute. Und die Berliner Linke muss sich heute regierungsfähig zeigen. Das ist die Lage am Freitagmorgen.",
+          "title": "Deutschland braucht Reformen: Warum die Wähler harte Einschnitte ablehnen",
+          "url": "https://www.spiegel.de/politik/deutschland/deutschland-braucht-reformen-warum-die-waehler-harte-einschnitte-ablehnen-a-bedca1cb-432c-4290-b495-4f96fd517d23#ref=rss",
+          "summary": "Deutschland braucht harte Reformen, um Sicherheit und Wohlstand zu bewahren. Doch das Volk muss mitziehen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3133cc68-ab51-4173-bb36-1715faa086f7_w1200_r1.778_fpx48.68_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8ee2e964-5146-4e6e-8b3a-caecc842006a_w1200_r1.778_fpx45_fpy35.5.jpg"
         },
         {
-          "title": "Berlin: SPD-Vize Cansel Kiziltepe spricht sich für Rot-Grün-Rot aus",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-spd-vize-cansel-kiziltepe-spricht-sich-fuer-rot-gruen-rot-aus-a-cadea9ed-3fb0-441f-ad7f-448caa0cc472#ref=rss",
-          "summary": "Die Berliner SPD scheut bisher eine Koalition mit der Linken – mit Verweis auf deren derzeitigen Zustand. Die Vizelandeschefin will nun ein Umdenken in ihrer Partei. Allerdings hat sie auch eine Forderung an den Wahlsieger.",
+          "title": "Peter Thiel erhält Axel Springer Award - und kann verstehen, warum Berliner die Linke wählen",
+          "url": "https://www.spiegel.de/kultur/peter-thiel-erhaelt-axel-springer-award-und-kann-verstehen-warum-berliner-die-linke-waehlen-a-9c2ee2fc-5bfb-4d4c-b64d-dfaeb57ff7d4#ref=rss",
+          "summary": "»Haben wir einen Antidemokraten ausgezeichnet? « Springer-Chef Mathias Döpfner verleiht einen Demokratiepreis an Peter Thiel. Dann betritt der vermeintliche Vordenker der Neuen Rechten die Bühne – und überrascht alle.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/91d68830-1802-4252-b900-832c25d069b3_w1200_r1.778_fpx51_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ea84db81-7de9-499b-ad55-b745013211e3_w1200_r1.778_fpx60_fpy46.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Stoppt der DAX seine Verlustserie?",
+          "title": "Immer mehr Haushalte beziehen Wohngeld",
+          "url": "https://www.tagesschau.de/inland/wohngeld-statistik-100.html",
+          "summary": "Die Bundesregierung will beim Wohngeld kürzen. Gleichzeitig steigt der Bedarf: Noch nie war die Zahl an Haushalten, die Wohngeld beziehen, so hoch wie Ende des vergangenen Jahres. Auch der Betrag stieg auf ein neues Hoch.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2def2a49-0fea-40fc-90f7-bf465abb15a4/AAABoMTG1tk/AAABnSSvrFg/16x9-big/wohnungen-berlin-104.jpg?width=1280"
+        },
+        {
+          "title": "Hunderte Jungwale tot in Argentinien - Forscher vermuten Infektion",
+          "url": "https://www.tagesschau.de/ausland/amerika/jungwale-argentinien-100.html",
+          "summary": "Hunderte Walkälber sind tot an Strände in Südargentinien gespült worden. Forscher gehen davon aus, dass das Walsterben auf eine Hautinfektion zurückgeht - die Walpopulation der Region sei aber nicht gefährdet.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f787abde-43eb-4974-8894-5ed437683908/AAABoNdTx-E/AAABnSSvrFg/16x9-big/wale-strand-100.jpg?width=1280"
+        },
+        {
+          "title": "Marktbericht: Sinkende Ölpreise bewegen DAX ins Plus",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html",
-          "summary": "Dem deutschen Leitindex winkt ein versöhnlicher Wochenabschluss. Dafür könnten neue Konjunkturdaten sorgen. Doch der hohe Ölpreis bleibt eine Belastung und facht die Inflationsangst an.",
+          "summary": "Der leichte Ölpreisrückgang hilft dem DAX zum Wochenschluss auf die Sprünge. Doch die Hoffnungen auf ein Ende des Iran-Kriegs und eine diplomatische Lösung bleiben vage.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/eda3c196-19fe-4cde-a158-813f3316d25b/AAABnyMUShE/AAABnSSvrFg/16x9-big/boerse-frankfurt-218.jpg?width=1280"
-        },
-        {
-          "title": "Berliner Linke entscheidet auf Parteitag über Sondierungen",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html",
-          "summary": "Als Wahlsieger muss die Berliner Linke nun entscheiden, mit wem sie über eine mögliche Koalition spricht. Die Parteispitze will SPD und Grüne zu Sondierungen einladen und ist überzeugt, dass die Delegierten am Freitag auf dem Parteitag dem Vorschlag folgen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1ee64e32-ad9c-444f-946f-753b92a2dc95/AAABoNcbPb8/AAABnSSvrFg/16x9-big/rbb-berliner-linke-parteitag-100.jpg?width=1280"
-        },
-        {
-          "title": "Xi bei Trump: Fanfaren, Spalier, Bankett - aber kaum Lösungen",
-          "url": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-104.html",
-          "summary": "Als Geschenk gab es sogar eine massive Weißkopfadlerstatue: Beim Besuch von Chinas Präsident Xi wurde in Washington groß aufgefahren. Doch viele Probleme bleiben - und es gibt Kritik an Trumps Pomp. Von Ralf Borchard.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1ead74a8-c457-45b8-9ae9-4291336b8b9c/AAABoNbdQ8U/AAABnSSvrFg/16x9-big/xi-trump-staatsbankett-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/eee2f737-03cc-4107-872f-1a79f01488f4/AAABnipnoiI/AAABnSSvrFg/16x9-big/boerse-514.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "KI soll Aufnahmeorte aus Bild und Ton erschließen",
-          "url": "https://www.telepolis.de/article/KI-soll-Aufnahmeorte-aus-Bild-und-Ton-erschliessen-11464780.html",
-          "summary": "Das US-Geheimdienst-Forschungsprogramm LocUS will Standorte aus Videos, Fotos und Audiomaterial automatisch bestimmen – ohne Metadaten und Gesichtserkennung.",
+          "title": "Schulstreik: Warum Schüler wieder gegen die Wehrpflicht auf die Straße gehen",
+          "url": "https://www.telepolis.de/article/Schulstreik-Warum-Schueler-wieder-gegen-die-Wehrpflicht-auf-die-Strasse-gehen-11465849.html",
+          "summary": "Zum vierten Mal streiken Zehntausende Schüler gegen den neuen Wehrdienst. Was ist Pflicht, was nicht – und was riskieren Jugendliche?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/9/5/2/shutterstock_2846576949-dfa987f7a7594833.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
-          "title": "Heidenau: CDU und AfD beschließen Verbot neuer Stolpersteine",
-          "url": "https://www.telepolis.de/article/Heidenau-CDU-und-AfD-beschliessen-Verbot-neuer-Stolpersteine-11465119.html",
-          "summary": "In Heidenau hat eine Mehrheit aus CDU, AfD und BOD neue Stolpersteine gestoppt. Die Stolperstein-Stiftung nennt den Vorgang einzigartig.",
+          "title": "Israels Parlamentswahl: Warum Eisenkot keinen Kurswechsel verspricht",
+          "url": "https://www.telepolis.de/article/Israels-Parlamentswahl-Warum-Eisenkot-keinen-Kurswechsel-verspricht-11465399.html",
+          "summary": "Ein General führt die Umfragen an, arabische Parteien werden ausgeschlossen: Israels Wahlkampf kündigt einen Machtwechsel in gleicher Richtung an. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/1/1/2/5/shutterstock_2324642945-be76a8a1a8e2b7c6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
-          "title": "Rente mit 63 vor dem Aus: Was das für Jüngere und die Aktienrente bedeutet",
-          "url": "https://www.telepolis.de/article/Rente-mit-63-vor-dem-Aus-Was-das-fuer-Juengere-und-die-Aktienrente-bedeutet-11464823.html",
-          "summary": "Union und SPD verhandeln über das Ende der abschlagsfreien Frührente. Der frei werdende Spielraum soll in eine kapitalgedeckte Säule fließen.",
+          "title": "ÖRR unter Druck: Warum es manche Ereignisse nie in die Nachrichten schaffen",
+          "url": "https://www.telepolis.de/article/OeRR-unter-Druck-Warum-es-manche-Ereignisse-nie-in-die-Nachrichten-schaffen-11461217.html",
+          "summary": "Hyrox-Durchfall im ZDF, ignorierte Kundgebung in Frankfurt: Zwei Fälle zeigen, wie willkürlich Nachrichtenrelevanz wirken kann.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/9/7/5/shutterstock_2214390101-f354cf64b3187b78.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zu den Landtagswahlen: Berliner SPD-Vizechefin für Koalitionsverhandlungen mit Linken und Grünen",
-          "url": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-li.3540501",
-          "summary": "Cansel Kiziltepe ist die erste führende SPD-Politikerin in Berlin, die sich in dieser Frage klar positioniert. „Auch wenn die SPD deutlich abgewählt wurde: Unsere Schnittmengen zur Linken und Grünen sind offensichtlich“, sagt sie.",
+          "title": "Promis auf dem Oktoberfest an Tag 6: Wiesn-Terminator Teil 2",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-promis-2026-arnold-schwarzenegger-klaus-steinbacher-muenchen-beats-mitsou-jung-hubert-ohne-staller-fotos-li.3553445",
+          "summary": "Schwarzenegger zieht es mit Freundin wieder ins Marstallzelt, ein „Hubert ohne Staller“-Star erscheint in flauschiger Begleitung und zwei ehemalige FC-Bayern-Angestellte analysieren die Fußballweltlage zum Länderspiel.",
           "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/25/b4d6d679-d2e4-4acb-9000-3e2c982175b2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C175%2C4000%2C2250"
+          "paywall": false,
+          "image": null
         },
         {
-          "title": "Newsblog zum Nahost-Krieg: Frankreichs Militär will Ölhafen in Saudi-Arabien schützen",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-frankreich-saudi-arabien-li.3530668",
-          "summary": "Soldaten, Radarsysteme und Systeme zur Verteidigung würden in die Hafenstadt Yanbu geschickt, kündigt Frankreichs Präsident Macron an.",
+          "title": "Luftfahrt: Condor steht vor einem komplizierten Umbau",
+          "url": "https://www.sueddeutsche.de/wirtschaft/condor-attestor-umbau-li.3552681",
+          "summary": "Mit der vollständigen Übernahme durch einen Finanzinvestor  beginnt für Condor eine neue Phase. Die Ferienfluggesellschaft muss nun sparen, neue Strecken aufbauen und einen Partner aus der Branche gewinnen.",
           "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/25/10644b2d-601b-42ad-a926-3951d11bc80b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C102%2C4000%2C2250"
+          "paywall": false,
+          "image": null
         },
         {
-          "title": "Journalismus: Männerbünde",
-          "url": "https://www.sueddeutsche.de/medien/axel-springer-award-peter-thiel-matthias-doepfner-preisverleihung-berlin-li.3552058",
-          "summary": "Mathias Döpfner verleiht den Axel Springer Award an Peter Thiel. Darauf ist er sichtlich stolz. Also Döpfner. Ist generös genug, es ihm zu gönnen.",
+          "title": "Newsblog zur Bundespolitik: Schwesig dringt auf Treffen von Merz mit Ministerpräsidenten",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-schwesig-merz-li.3529564",
+          "summary": "„Ich erwarte, dass der Kanzler jetzt auch die Ministerpräsidenten einlädt und über die Reformen spricht, denn wir haben da ein wichtiges Wort mitzureden“, sagt die Regierungschefin von Mecklenburg-Vorpommern.",
           "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/25/dd3ff063-707f-43f6-8094-824562090e9d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C56%2C3500%2C1969"
+          "paywall": false,
+          "image": null
         }
       ]
     }
