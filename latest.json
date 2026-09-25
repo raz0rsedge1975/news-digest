@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-24T22:00:18.071Z",
-  "timestamp": "25.9.2026, 00:00:18",
+  "generated": "2026-09-25T02:00:20.511Z",
+  "timestamp": "25.9.2026, 04:00:20",
   "news": [
     {
       "source": "FAZ",
@@ -14,20 +14,20 @@
           "image": "https://media0.faz.net/image/w1200h627/a0871970ac3c/w2781h1453x0y152o/202609/43601.0.2591812582/akrobatischer-niederlaender.webp"
         },
         {
+          "title": "Deutsche Sorgen: Klopp spricht über Verletzungen von Musiala und Havertz",
+          "url": "https://www.faz.net/aktuell/sport/fussball/jamal-musiala-und-kai-havertz-juergen-klopp-mit-update-zu-dfb-verletzungen-201260873.html",
+          "summary": "Im ersten Spiel als Bundestrainer will Jürgen Klopp auf Jamal Musiala setzen. Kurz vor Anpfiff heißt es: Musiala fällt aus. Nach dem 1:1 erklärt Jürgen Klopp, warum. Er spricht auch über Kai Havertz.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/8ee6ee510f8a/w4521h2362x1587y2308o/202609/182df112-e6d1-4dfb-a82c-8caa4ec93a28/fuer-kai-havertz-am-boden-war.webp"
+        },
+        {
           "title": "Angriff in Australien: Open AI missbraucht die Welt als Testlabor",
           "url": "https://www.faz.net/aktuell/feuilleton/debatten/ki-angriff-in-australien-zeigt-die-doppelmoral-von-open-ai-201258480.html",
           "summary": "Sam Altman pocht auf Standards bei der KI-Sicherheit. Der jüngste Angriff seiner Systeme auf die australische Krankenversicherung zeigt aber: Sein Unternehmen missachtet einfachste gesellschaftliche Normen.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/4cd84c6064f3/w6243h3261x0y508o/202609/43601.0.2587412112/pocht-auf-internationale.webp"
-        },
-        {
-          "title": "Krankenversicherung: Als der KI-Agent einbrach, hat es Australien nicht mal bemerkt",
-          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/als-der-ki-agent-einbrach-hat-es-australien-noch-nicht-mal-gemerkt-accg-201258246.html",
-          "summary": "Open AI wusste schon Mitte August von der Attacke auf die gesetzliche Krankenversicherung, meldete sie den Australiern aber erst vier Wochen später. Es ist der erste Einbruch einer KI in ein staatliches System. Die Regierung klingt panisch.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1ae647d382e3/w6144h3210x0y763o/202609/43601.0.2588129957/extrem-besorgt-australiens.webp"
         }
       ]
     },
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
+          "url": "https://www.tagesschau.de/inland/regional/berlin/evers-cdu-fraktion-berlin-100.html",
+          "summary": "Berlins Finanzsenator Evers wird künftig die CDU-Fraktion im Abgeordnetenhaus führen. Er sei offen für eine Koalition mit der SPD und den Grünen - zunächst wolle er aber die Sondierungsgespräche der Linkspartei abwarten",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a0e1b688-7801-4bba-8683-9cfc2e4c39f2/AAABoNSuj1E/AAABnSSvrFg/16x9-big/rbb-620632024-100.jpg?width=1280"
+        },
+        {
           "title": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
           "url": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
           "summary": "Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahost.",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/148081ed-e96a-4c29-b690-dfcca827cc91/AAABoNRfwnM/AAABnSSvrFg/16x9-big/schnieder-154.jpg?width=1280"
-        },
-        {
-          "title": "Russlands Krieg gegen die Ukraine: Wettlauf der schnellen Drohnen",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-schnelle-drohnen-100.html",
-          "summary": "Gelingt es der Ukraine, den russischen Vorsprung bei schnellen, mit Jetantrieb ausgestatteten Drohnen aufzuholen? Die Antwort entscheidet über Leben und Tod vieler Menschen. Von Kai Küstner und Stefan Niemann.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/bba5b5c3-e64e-46dc-9452-9d93285c8194/AAABoNPmfhU/AAABnSSvrFg/16x9-big/drohnen-278.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "KI soll Aufnahmeorte aus Bild und Ton erschließen",
+          "url": "https://www.telepolis.de/article/KI-soll-Aufnahmeorte-aus-Bild-und-Ton-erschliessen-11464780.html",
+          "summary": "Das US-Geheimdienst-Forschungsprogramm LocUS will Standorte aus Videos, Fotos und Audiomaterial automatisch bestimmen – ohne Metadaten und Gesichtserkennung.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/9/5/2/shutterstock_2846576949-dfa987f7a7594833.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Heidenau: CDU und AfD beschließen Verbot neuer Stolpersteine",
           "url": "https://www.telepolis.de/article/Heidenau-CDU-und-AfD-beschliessen-Verbot-neuer-Stolpersteine-11465119.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/9/7/5/shutterstock_2214390101-f354cf64b3187b78.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Aukus-Premiere: Unterwasserdrohne verschießt US-Torpedo vor Schottland",
-          "url": "https://www.telepolis.de/article/AUKUS-Premiere-Unterwasserdrohne-verschiesst-US-Torpedo-vor-Schottland-11464550.html",
-          "summary": "Vor Schottlands Küste feuerte erstmals ein unbemanntes U-Boot einen Mk-48-Torpedo. London und Washington planen bereits Folgeprojekte.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/8/3/3/excalibur-uuv-unveiling-ee5bed70b8ed8a03.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Markus Lanz: Ein lehrreicher Ausflug in die Todeszone",
+          "url": "https://www.sueddeutsche.de/medien/markus-lanz-tv-kritik-zdf-li.3553422",
+          "summary": "CDU-Vordenker Rödder will die Brandmauer zur AfD durch rote Linien ersetzen. Ein Weg aus der politischen Lähmung Deutschlands? Markus Lanz moderiert eine kluge Debatte.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/04/29/27cef90a-5d0c-44bc-aff9-d6f1a897b282.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C254%2C4000%2C2250"
+        },
         {
           "title": "DFB-Elf in der Einzelkritik: Ter Stegen bügelt seine eigenen Fehler aus",
           "url": "https://www.sueddeutsche.de/sport/nations-league-deutschland-niederlande-einzelkritik-ter-stegen-li.3553278",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/24/96e3a484-b060-42ad-a685-88a0eb88541c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1243%2C699"
-        },
-        {
-          "title": "USA-Newsblog: Reporter haben wieder Zugang zum Weißen Haus",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-aufgehoben-zugang-li.3530667",
-          "summary": "Die Anordnung eines Richters hatte in der Nacht zuvor den Ausschluss von CNN, MS Now und „Politico“ als „wahrscheinlich verfassungswidrig“ eingestuft. Am Morgen war einigen Reportern der Zugang noch verweigert worden.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/24/9c5a1b3c-2895-43bc-86a7-685b17b5fdc8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
         }
       ]
     }
