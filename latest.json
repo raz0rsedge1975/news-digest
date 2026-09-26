@@ -1,10 +1,26 @@
 {
-  "generated": "2026-09-26T14:00:23.087Z",
-  "timestamp": "26.9.2026, 16:00:23",
+  "generated": "2026-09-26T18:00:21.303Z",
+  "timestamp": "26.9.2026, 20:00:21",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Brandmauer: Die AfD will nicht ernsthaft sondieren",
+          "url": "https://www.faz.net/aktuell/politik/inland/afd-und-sondierungen-will-die-partei-wirklich-reden-201249632.html",
+          "summary": "AfD und Sondierungen: Will die Partei wirklich reden?",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/efe20f38c5ea/w4397h2297x0y291o/202609/43601.0.2520390187/jubelnde-afd-funktionaere-am.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Wadephul trifft Lawrow: Verlassen Sie den gefährlichen Weg der Eskalation",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-trifft-lawrow-in-new-york-faz-110683325.html",
+          "summary": "Erstes Treffen der Außenminister seit Beginn der russischen Vollinvasion 2022 +++ Vučić telefoniert mit Putin +++ Selenskyj: Russland eskaliert jeden Tag +++ alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/7317aa54f778/w5704h2980x0y411o/202609/43601.0.2597916081/der-russische-aussenminister.webp"
+        },
         {
           "title": "Olympia-Kandidat: München geht für Deutschland ins Rennen",
           "url": "https://www.faz.net/aktuell/sport/sportpolitik/muenchen-als-olympia-bewerber-fuer-deutschland-im-rennen-accg-201264846.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/bdc009d03e50/w6144h3210x0y734o/202609/43601.0.2597577992/siegerfoto-muenchen-wird-im.webp"
-        },
-        {
-          "title": "Abschied vom Wohlstand: Die Deutschen haben ihre Marktwirtschaft abgewählt",
-          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/soziale-marktwirtschaft-warum-afd-und-linke-dagegen-sind-accg-201256661.html",
-          "summary": "Links und rechts verweigern Reformen. Und die gerupfte Mitte redet ihnen nach dem Munde. War es das mit dem Wohlstand?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/679e16b03896/w4065h2123x0y263o/201806/43ae34762e-da66-11ea-b79e-0dfc3810918b/wohlstand-fuer-alle.webp"
-        },
-        {
-          "title": "Kolumne „Import Export“: Etwas hat sich radikal verschoben in Deutschland",
-          "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/anstieg-von-rechtsextremismus-ueberall-bunt-war-einmal-accg-201252196.html",
-          "summary": "Ältere Damen, die Kindern den Tod wünschen, Besucher eines Festivals, die von „entarteter“ Kunst sprechen: Die freiheitlich-demokratische Grundordnung ist kein Konsens mehr. Wie treten wir dem entgegen?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7ce52d72d986/w6144h3210x0y443o/202609/43601.0.2581667210/in-der-tram-in-leipzig.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Olympia: München wird deutscher Bewerber für Sommerspiele ab 2036",
-          "url": "https://www.spiegel.de/sport/olympia/olympia-muenchen-wird-deutscher-bewerber-fuer-sommerspiele-ab-2036-a-935a16f2-e6c1-4692-aa61-e7ce3b52a864#ref=rss",
-          "summary": "Die Entscheidung ist gefallen: Die Delegierten des DOSB haben München als deutsche Bewerberstadt für die Olympischen Sommerspiele 2036, 2040 oder 2044 ausgewählt. Köln-Rhein-Ruhr geht leer aus.",
+          "title": "Arktis: Großmanöver mit Störsignalen soll Widerstand gegen Russland stärken",
+          "url": "https://www.spiegel.de/wissenschaft/technik/arktis-grossmanoever-mit-stoersignalen-soll-widerstand-gegen-russland-staerken-a-635c0168-c42c-4add-abc4-b7161c3fdea7#ref=rss",
+          "summary": "Norwegen ruft einmal im Jahr die Satellitenexperten der Welt auf eine entlegene Arktisinsel und beschießt deren Technik mit Störsignalen. Das Treffen dient dem Schutz der Welt im hybriden Krieg. Unser Autor war dabei.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5355f46e-2fa2-4ad8-ab35-95eff7e56a52_w1200_r1.778_fpx59.24_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5ab8eda5-3bab-4e0b-aeb5-8a60d8bce7f7_w1200_r1.778_fpx45_fpy55.01.jpg"
         },
         {
-          "title": "Die Linke in Berlin: Was hat Elif Eralp, was die anderen nicht haben?",
-          "url": "https://www.spiegel.de/kultur/die-linke-in-berlin-was-hat-elif-eralp-was-die-anderen-nicht-haben-a-7731e2af-3370-47d0-a02f-ed781ab993ed#ref=rss",
-          "summary": "Wie in New York kommt auch in Berlin hinter der eigentlich staatstragenden Linken eine für viele junge Wähler attraktive linksradikale Bewegung zum Vorschein – inklusive Rapper, Israelfeinden und Clanchef.",
+          "title": "Iran: Donald Trump lehnt Teherans Vorschlag zur Straße von Hormus ab",
+          "url": "https://www.spiegel.de/ausland/iran-donald-trump-lehnt-teherans-vorschlag-zur-strasse-von-hormus-ab-a-9112d53a-9fb7-407e-bbce-c60cbd46ebce#ref=rss",
+          "summary": "Die Führung in Teheran hat den USA einen Vorschlag zur Öffnung der Straße von Hormus übermittelt. US-Präsident Donald Trump ließ sich nach eigenen Angaben nicht auf den iranischen Vorstoß ein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5e7d4386-4914-4d8a-9748-fa090d8793a6_w1200_r1.778_fpx48_fpy51.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/020dc927-0ee3-43e2-ae9b-75d05cddcc17_w1200_r1.778_fpx52.69_fpy44.99.jpg"
         },
         {
-          "title": "Steffen Bilger: Interview mit dem Bundesverkehrsminister über Bahn, Autobahn und Raser",
-          "url": "https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss",
-          "summary": "Kommt die Bahn bis zur nächsten Bundestagswahl wieder pünktlich? Der neue Verkehrsminister Steffen Bilger erklärt, welche ersten Maßnahmen er plant – und was er von Autobahnrasern hält.",
+          "title": "AfD und Linke im Aufwind: Warum Jungs eher rechts und Mädchen eher links sind",
+          "url": "https://www.spiegel.de/ausland/afd-und-linke-im-aufwind-warum-jungs-eher-rechts-und-maedchen-eher-links-sind-a-2d43c7e0-a62c-4d46-8fe3-d1375cd5e19b#ref=rss",
+          "summary": "In Deutschland und der Welt öffnet sich ein Graben zwischen den Geschlechtern. Das hat dramatische Folgen für die Politik und die Zukunft der Liebe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1dc4e095-3817-438d-bb31-1b61ebc127cb_w1200_r1.778_fpx44_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3ed03d4c-3376-4cd0-9a21-693982019cb5_w1200_r1.778_fpx50_fpy42.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln",
-          "url": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html",
-          "summary": "Die SPD will die geplante Reform in der Pflege nachverhandeln. Ein Papier, das dem ARD-Hauptstadtstudio exklusiv vorliegt, beschreibt, wie ein Pflegedeckel aussehen könnte: Der \"einrichtungseinheitliche\" Eigenanteil soll dabei sinken. Von M. Rödle.",
+          "title": "Wadephul trifft überraschend Lawrow in New York",
+          "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+          "summary": "Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und Lawrow fand am Rande der UN-Generaldebatte statt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d453df17-eccd-4f04-a764-2d7c4bcaaa1c/AAABnt_mAFc/AAABnSSvrFg/16x9-big/seniorin-pflegekraft-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/771303fc-5e03-4b42-beb5-3d478ad2ae77/AAABoN5-D6E/AAABnSSvrFg/16x9-big/wadephul-lawrow-100.jpg?width=1280"
         },
         {
-          "title": "Durchtrennte Kabel in Gelsenkirchen: Zugausfälle und Umleitungen im Ruhrgebiet",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/kabelklau-gelsenkirchen-zugausfaelle--umleitungen-ruhrgebiet-100.html",
-          "summary": "Durchtrennte Kabel bei Gelsenkirchen haben zeitweise für Störungen im Nah- und Fernverkehr im Ruhrgebiet gesorgt. Laut Polizei sind die unbekannten Täter sehr grob vorgegangen: Dadurch sind Signale und Steuerungsanlagen ausgefallen.",
+          "title": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html",
+          "summary": "Die Straße von Hormus ist seit Beginn des Iran-Kriegs für die Schifffahrt praktisch blockiert. Iran unterbreitete den USA am Rande der UN-Generalversammlung einen Vorschlag zur Öffnung. Den lehnte US-Präsident Trump nun ab.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/be58201d-44d2-4b25-8694-af22f31e0938/AAABoN2xsn0/AAABnSSvrFg/16x9-big/wdr-busse-statt-bahnen-am-hauptbahnhof-in-gelsenkirchen-fahren-nach-einem-kabelklau-keine-zuege-mehr-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c0a2770e-832c-4c37-b2e2-04315c739d31/AAABoN5ca9M/AAABnSSvrFg/16x9-big/trump-5302.jpg?width=1280"
         },
         {
-          "title": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html",
-          "summary": "Stolpersteine erinnern an die Opfer des Nationalsozialismus. Im sächsischen Heidenau sollen laut einem Beschluss des Stadtrats keine neuen mehr verlegt werden. Bundesbildungsministerin Prien spricht von einem Skandal.",
+          "title": "Pflege in Schweden: So lange wie möglich zu Hause",
+          "url": "https://www.tagesschau.de/ausland/europa/schweden-pflege-100.html",
+          "summary": "Schweden setzt bei der Altenpflege konsequent auf die Betreuung zu Hause. Ein gut ausgebauter Pflegedienst macht das möglich. Die Höhe des Eigenbeitrags ist begrenzt - doch Fachkräfte werden knapp.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/68c10266-d957-4ced-bb7d-c7633e1c4052/AAABoN13HE0/AAABnSSvrFg/16x9-big/stolperstein-heidenau-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fbd13490-7908-4fa2-8224-ca7e0e3fa74b/AAABoNRDGGk/AAABnSSvrFg/16x9-big/hosseini-lindstroem-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Heidenau: Sind Stolpersteine wirklich würdiges Gedenken an NS-Opfer?",
-          "url": "https://www.telepolis.de/article/Stolpersteine-in-Heidenau-verboten-doch-die-eigentliche-Frage-ist-eine-andere-11466988.html",
-          "summary": "Messing im Straßendreck oder Tafeln an Hauswänden? Der Streit um Heidenau zeigt: Die eigentliche Frage ist, welches Gedenken die Ermordeten verdienen.",
+          "title": "Nach Sardinien-Foto: CDU will Spahn aus mächtigem Haushaltsgremium drängen",
+          "url": "https://www.telepolis.de/article/Nach-Sardinien-Foto-CDU-will-Spahn-aus-maechtigem-Haushaltsgremium-draengen-11467066.html",
+          "summary": "Ein Flughafenfoto aus Olbia wird Spahn zum Verhängnis. Die Unions-Haushälter wollten ihn abziehen – Fraktionschef Frei rettete ihn vorerst bis Dezember.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/0/6/6/shutterstock_1060599974-7582068a55440830.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/1/0/5/shutterstock_2687323809-c1be92ab60e95f69.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Digitale Identität und Überwachung: Russlands \"Max\" und Brüssels \"Mini-Wallet\"",
-          "url": "https://www.telepolis.de/article/Digitale-Identitaet-und-Ueberwachung-Russlands-Max-und-Bruessels-Mini-Wallet-11466938.html",
-          "summary": "Chinas \"WeChat\", Musks \"X\", Russlands \"Max\": \"Everything-Apps\" gelten der EU meist als Zeugnis autoritärer Kontrolle. Aber sind ihre Werkzeuge so verschieden?",
+          "title": "KPRF-Chef Sjuganow: \"Wenn der Abnutzungskrieg weitergeht, verlieren alle\"",
+          "url": "https://www.telepolis.de/article/KPRF-Chef-Sjuganow-Wenn-der-Abnutzungskrieg-weitergeht-verlieren-alle-11467042.html",
+          "summary": "Der KPRF-Chef prangert explodierende Preise und Kriegsgewinnler an – dabei trug seine Partei selbst zum Einmarsch in die Ukraine bei.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/0/4/1/shutterstock_2660625915-002b5cb6c0a03b4e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/0/9/3/shutterstock_2291225215-4383b7b7138290ef.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Bundesnetzagentur: Warum ihre Zinsvorgaben Gasnetze gefährden könnten",
-          "url": "https://www.telepolis.de/article/Bundesnetzagentur-Warum-ihre-Zinsvorgaben-Gasnetze-gefaehrden-koennten-11462818.html",
-          "summary": "BDEW und VKU kritisieren die Kapitalverzinsung der BNetzA als zu niedrig – Investoren könnten abspringen, die Klimaneutralität der Netze sei gefährdet.",
+          "title": "Chinas Weg zu 3-Nanometer-Chips ohne EUV-Lithografie",
+          "url": "https://www.telepolis.de/article/Chinas-Weg-zu-3-Nanometer-Chips-ohne-EUV-Lithografie-11461529.html",
+          "summary": "Forscher entwickeln Gate-All-Around-Transistoren mit älterer Belichtungstechnik. Zur Massenproduktion ist es noch weit – doch China macht Fortschritte.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/9/9/5/9/netze-Kosten-F-3b40e3e5e34cdf25.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Oktoberfest: Es ist eng auf der Wiesn - Massen strömen zum Fest",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
-          "summary": "Im vergangenen Jahr kam es am mittleren Wiesnsamstag zu einem kritischen Gedränge auf der Wiesn. Auch diesmal ist es sehr voll, noch gibt es aber ein Durchkommen.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Nationale Olympia-Entscheidung: Wie Augsburg von Münchens möglichen Spielen profitieren will",
-          "url": "https://www.sueddeutsche.de/bayern/augsburg-olympische-spiele-bewerbung-eiskanal-kajak-kanu-li.3553877",
-          "summary": "Wie bei den Spielen 1972 sollen auch diesmal Wettbewerbe in Schwaben stattfinden, Kanu und Kajak  im berühmten Eiskanal - und Fußball. Aber Augsburg will noch mehr.",
+          "title": "Newsblog zum Nahost-Krieg: Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-trump-meerenge-li.3530668",
+          "summary": "Man habe einen „Sieben-Tage-Plan“ für die Öffnung der Meerenge vorgelegt, erklärt Irans Außenminister Araghtschi. Das Angebot sei „nicht annehmbar“, sagte der US-Präsident vor Journalisten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2022/07/31/9d1a6879-ccf3-450a-9892-eb1ab894c2b6.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C29%2C1498%2C843"
+          "image": "https://www.sueddeutsche.de/2026/09/26/e42f794a-c498-4a3e-8081-10657b4e7f26.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
         },
         {
-          "title": "Entscheidung über die Olympiabewerbung: Wie München sich gegen Köln-Rhein-Ruhr durchgesetzt hat",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-olympische-spiele-bewerbung-dosb-entscheidung-li.3370202",
-          "summary": "Mit dem Erbe von 1972, dem Versprechen kompakter, nachhaltiger Spiele und prominenter Unterstützung überzeugt München die DOSB-Delegierten.",
+          "title": "Papst Leo XIV. in Frankreich: Ein Empfang wie für einen Popstar",
+          "url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-paris-empfang-messe-li.3553392",
+          "summary": "700 000 Gläubige nehmen in Paris an der Messe mit Leo XIV. teil - viel mehr als erwartet. Gerade die jungen Franzosen verehren diesen Papst.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/26/4d1733de-5b60-4384-a44d-9d07134d8e1b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/26/4292425d-2505-4b77-ada8-aa888df379ad.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C55%2C2889%2C1625"
+        },
+        {
+          "title": "Markus Söder: Hurra, NRW ist schon mal besiegt",
+          "url": "https://www.sueddeutsche.de/sport/muenchen-olympiabewerbung-sportpolitik-bayern-soeder-li.3553975",
+          "summary": "Wenn's um Sport geht, ist die Begeisterung des bayerischen Ministerpräsidenten immer echt. Und er landet nicht gern auf Platz zwei, schon gar nicht hinter Hendrik Wüst. Lief also super für ihn beim Olympia-Termin.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/26/118ff3a2-a23d-41a8-a5cc-ecb5a333e44c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
