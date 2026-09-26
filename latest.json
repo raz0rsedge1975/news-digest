@@ -1,14 +1,22 @@
 {
-  "generated": "2026-09-26T02:00:16.412Z",
-  "timestamp": "26.9.2026, 04:00:16",
+  "generated": "2026-09-26T06:00:21.267Z",
+  "timestamp": "26.9.2026, 08:00:21",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Business-Ticker: Hacking – KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-dutzende-organisationen-von-besuch-durch-ki-agenten-betroffen-faz-200452404.html",
-          "summary": "Offenbar Webseiten von Regierungen und Universitäten durch KI-Agenten beeinträchtigt +++ Social-Media-Sucht: Tiktok wendet Prozess in USA durch 100-Millionen-Vergleich ab +++ Neuigkeiten im Unternehmen-Liveblog",
+          "title": "USA unter Trump: Streit geht weiter – CNN darf Trump nicht auf Reise begleiten",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-streit-geht-weiter-cnn-darf-trump-nicht-auf-reise-begleiten-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/39671b1b2ec5/w5315h2777x0y383o/202609/43601.0.2594074680/usa-washington-die-cnn.webp"
+        },
+        {
+          "title": "Business-Ticker: Open-AI-Agenten griffen in Webseiten von US-Behörden ein",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-agenten-griffen-in-webseiten-von-us-behoerden-ein-faz-200452404.html",
+          "summary": "KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen +++ Social-Media-Sucht: Tiktok wendet Prozess in USA durch 100-Millionen-Vergleich ab +++ Neuigkeiten im Unternehmen-Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/b1c5fdbfe9ca/w8009h4184x0y383o/202609/43601.0.2586303029/open-ai-ceo-sam-altman-am.webp"
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/7a3d64d10587/w5353h2796x0y107o/202609/43601.0.2595165304/microsoft-gruender-bill-gates.webp"
-        },
-        {
-          "title": "Nach KI-Einbruch: Wie Australien „Big Tech“ die Stirn bieten will",
-          "url": "https://www.faz.net/aktuell/politik/ausland/ki-einbruch-wie-australien-big-tech-die-stirn-bietet-201261428.html",
-          "summary": "Schon Canberras Social-Media-Bann für Jugendliche war wegweisend. Nun will das Land die Gesetze weiter ausbauen – und auch die KI ins Visier nehmen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7c00cd996ab8/w4000h2090x0y339o/202609/43601.0.2592100895/die-ki-kontrollieren-um-nicht.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine: Wofür braucht das Land zusätzliche 27 Milliarden Dollar in diesem Jahr?",
-          "url": "https://www.spiegel.de/ausland/ukraine-wofuer-braucht-das-land-zusaetzliche-27-milliarden-dollar-in-diesem-jahr-a-930743f2-afd3-4b62-bd77-c15c1cdbcb87#ref=rss",
-          "summary": "Die Verteidigung gegen Russlands Angriffskrieg wird für Kyjiw und seine Unterstützer immer teurer. Die Geldnot der Ukraine hat auch mit hausgemachten Problemen zu tun.",
+          "title": "CDU und SPD in der Krise: Wenn alte Gewissheiten fallen und die Politik keine Antwort findet",
+          "url": "https://www.spiegel.de/politik/cdu-und-spd-in-der-krise-wenn-alte-gewissheiten-fallen-und-die-politik-keine-antwort-findet-a-7eeae176-d540-4591-bf43-a1ded031797b#ref=rss",
+          "summary": "Die jüngsten Wahlsiege von AfD und Linken sind eine Zäsur für Deutschland. Vorbei ist eine jahrzehntelange Epoche mit unumstößlichen Gewissheiten. Das bisherige System stand für Stabilität, die Zukunft wirkt leider düster.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/31932f24-41d7-400a-8b9f-b4ede33e3cb8_w1200_r1.778_fpx56_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/af8891e5-a7a7-4f22-949c-1c82fd0582ba_w1200_r1.778_fpx47_fpy24.jpg"
         },
         {
-          "title": "USA: Supreme Court lässt zentrales Tool von Donald Trumpzur Überprüfung von Wählern wieder zu",
-          "url": "https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu-a-e78d3f71-db15-4e04-bef8-2343574d52d2#ref=rss",
-          "summary": "Donald Trump will die Kontrolle des Bundes über Wahlen ausweiten. Der Supreme Court hat dem US-Präsidenten nun recht gegeben und ein Verbot einer umstrittenen Wählerdatenbank aufgehoben.",
+          "title": "Steffen Bilger: Interview mit dem Bundesverkehrsminister über Bahn, Autobahn und Raser",
+          "url": "https://www.spiegel.de/wirtschaft/steffen-bilger-interview-mit-dem-bundesverkehrsminister-ueber-bahn-autobahn-und-raser-a-dfe50634-f623-4e62-9b43-014889c74834#ref=rss",
+          "summary": "Kommt die Bahn bis zur nächsten Bundestagswahl wieder pünktlich? Der neue Verkehrsminister Steffen Bilger erklärt, welche ersten Maßnahmen er plant – und was er von Autobahn-Rasern hält.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e16ba7f9-0757-47ce-8bfe-e59cab68ab4e_w1200_r1.778_fpx47.32_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1dc4e095-3817-438d-bb31-1b61ebc127cb_w1200_r1.778_fpx44_fpy55.jpg"
         },
         {
-          "title": "Pflegeversicherung: SPD erhöht Druck auf Linnemann vor Kabinettsbeschluss",
-          "url": "https://www.spiegel.de/politik/pflegeversicherung-spd-erhoeht-druck-auf-linnemann-vor-kabinettsbeschluss-a-9039f608-015d-4b83-8629-b6a4285f41aa#ref=rss",
-          "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten. Doch kurz vorher macht der Koalitionspartner Druck.",
+          "title": "News: Parteitag der Berliner Linken, Wohnungskrise, Papst Leo in Frankreich",
+          "url": "https://www.spiegel.de/politik/deutschland/news-parteitag-der-berliner-linken-wohnungskrise-papst-leo-in-frankreich-a-0ec85231-d9e0-414f-b455-f3e580239dba#ref=rss",
+          "summary": "Die Berliner Linke will mit Grünen und SPD verhandeln. Eine Rentnerin aus Spanien wird zum Gesicht der Wohnungskrise. Und Frankreichs Rechte entdecken den Katholizismus für sich. Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5f290331-6597-4c19-a099-e5c7149c4183_w1200_r1.778_fpx29.98_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Weltraumspiegel: Satelliten sollen nachts die Erde erhellen",
+          "url": "https://www.tagesschau.de/wissen/technologie/satellitenspiegel-nacht-100.html",
+          "summary": "Ein US-Unternehmen will Tausende Satelliten ins All schicken, um mit Spiegeln die Nachtseite der Erde zu beleuchten. Forschende warnen vor Gefahren für Astronomie, Natur - und den Menschen. Von Jan Kerckhoff.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f07e9774-fbf7-47db-83fd-53043b237e3e/AAABoNihKhw/AAABnSSvrFg/16x9-big/erde-117.jpg?width=1280"
+        },
+        {
+          "title": "Deutsche Olympia-Bewerbung: Wer macht das Rennen?",
+          "url": "https://www.tagesschau.de/inland/olympia-kandidatur-deutschland-faq-100.html",
+          "summary": "Der Deutsche Olympische Sportbund entscheidet heute über die deutsche Olympia-Bewerbung. Was Sie zur Abstimmung und der Konkurrenz wissen müssen - und wie es danach weitergeht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4c2f6865-b94e-4a18-a840-a91cac406f0d/AAABoNLRt7Y/AAABnSSvrFg/16x9-big/olympiastadion-muenchen-116.jpg?width=1280"
+        },
+        {
           "title": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
           "url": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html",
           "summary": "Kommende Woche wollte das Bundeskabinett die geplante Reform in der Pflege auf den Weg bringen - doch das wird wohl nicht klappen. Die SPD will nachverhandeln und droht nach Informationen des ARD-Hauptstadtstudios mit Blockade. Von A. Budweg.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/7de379d4-2f89-4ff0-b2d1-c1cd33a05bbd/AAABoNncZlU/AAABnSSvrFg/16x9-big/pflege-602.jpg?width=1280"
-        },
-        {
-          "title": "Muss Spahn nun auch um seinen Platz im Haushaltsausschuss bangen?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-haushaltsausschuss-100.html",
-          "summary": "Nach seinem Rücktritt als Fraktionschef sitzt Jens Spahn nun im Haushaltsausschuss. Doch in der Union gibt es nach ARD-Informationen Unmut - über einen Urlaub Spahns während einer Ausschusssitzung. Rödle und P. Kuntschner.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/fee21b04-debd-4809-a6f5-4f86b5db6616/AAABoNmlXz8/AAABnSSvrFg/16x9-big/spahn-792.jpg?width=1280"
-        },
-        {
-          "title": "Diego Garcia - Streit um einen Militärstützpunkt",
-          "url": "https://www.tagesschau.de/ausland/afrika/afrika-indischer-ozean-chagos-usa-mauritius-100.html",
-          "summary": "Eigentlich wollte London die Insel Diego Garcia an Mauritius zurückgeben. Doch US-Präsident Trump stoppte den \"schrecklichen\" Deal. Für ihn geht es um einen der wichtigsten US-Militärstützpunkte. Von Stephan Ueberbach.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f8344477-1fae-483f-8c09-b293238f1734/AAABnRA0wgg/AAABnSSvrFg/16x9-big/chagos-archipel-diego-garcia-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Diplomatie: Ein Prosit auf Kanada",
-          "url": "https://www.sueddeutsche.de/politik/usa-kanada-deutschland-verteidigung-uboote-eu-li.3553517",
-          "summary": "Bei seinem Kurztrip nach Ottawa sucht Außenminister Wadephul eine Antwort auf die Frage: Wie umgehen mit einem US-Präsidenten, auf den kein Verlass mehr ist?",
+          "title": "Bundespolitik: Vor Kabinettsbeschluss: SPD will bei Pflegereform nachverhandeln",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-spd-pflegereform-li.3529564",
+          "summary": "SPD-Generalsekretär Klüssendorf fordert mehr Entlastungen für Pflegeheimbewohner und eine weitergehende Neuordnung der Finanzierung. Nach ARD-Informationen droht die SPD damit, die Pflegereform vorerst scheitern zu lassen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/25/1ac03ea9-0dd4-4708-88b7-061c6626353d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C258%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/26/8d0c0aab-3e30-4d7b-9540-82ebf569b9aa.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C178%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zu den Landtagswahlen: Berliner Linke wehrt sich gegen Vorwürfe",
-          "url": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-antisemitismus-li.3540501",
-          "summary": "Auf einem Parteitag beschließen die Delegierten, Gespräche über die Regierungsbildung in der Hauptstadt zu führen. Antisemitismusvorwürfe weist die Linke zurück, zeigt sich aber selbstkritisch.",
+          "title": "Newsblog zum Nahost-Krieg: Iran: Haben USA Plan übermittelt, nun ist Washington am Zug",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-li.3530668",
+          "summary": "Man habe einen „konkreten“ Plan für die Öffnung der Straße von Hormus vorgelegt, erklärt Irans Außenminister Araghtschi. US-Präsident Trump ist laut einem Zeitungsbericht allerdings skeptisch.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/25/8dc686be-ac91-47cf-9ea7-6faa60609095.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/26/e7651fdf-b048-455b-856f-d061a71c690f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C242%2C3599%2C2024"
         },
         {
-          "title": "Festakt in Augsburg: Ein Preis für Merkels „inneren Kompass“",
-          "url": "https://www.sueddeutsche.de/bayern/angela-merkel-augsburg-elisabethpreis-caritas-li.3553734",
-          "summary": "Die Caritas ehrt die Bundeskanzlerin a. im Goldenen Saal in Augsburg für ihre Verdienste um ein respektvolles Miteinander. Angela Merkel bedankt sich mit einem Ratschlag für die Stürme dieser Zeit.",
+          "title": "USA-Newsblog: Streit geht weiter: CNN darf Trump nicht auf Reise begleiten",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-cnn-ausschluss-weisses-haus-zugang-tennessee-li.3530667",
+          "summary": "Nachdem Reporter mancher Medien zeitweise nicht ins Weiße Haus durften, folgt nun die nächste Machtprobe des US-Präsidenten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/25/6825756c-8dce-4cb7-a7bd-18cba14f028b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=834%2C76%2C2258%2C1270"
+          "image": "https://www.sueddeutsche.de/2026/09/26/3687b36e-d4bd-4389-af3b-73c6302f98e1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
         }
       ]
     }
