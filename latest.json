@@ -1,25 +1,17 @@
 {
-  "generated": "2026-09-25T22:00:28.825Z",
-  "timestamp": "26.9.2026, 00:00:28",
+  "generated": "2026-09-26T02:00:16.412Z",
+  "timestamp": "26.9.2026, 04:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Medizin, Essen, Haushalt: Kann die KI mehr als nur Kosten sparen?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-kann-ki-mehr-als-kosten-sparen-201251373.html",
-          "summary": "Tech-Unternehmer betonen, dass KI trotz aller Gefahren lange undenkbare Innovationen hervorbringen kann. Diese Beispiele zeigen, wo das schon heute gelingt. Aber der Weg zum großen Fortschrittsversprechen ist lang.",
+          "title": "Business-Ticker: Hacking – KI von OpenAI brachte Nutzer-Bilder zu Online-Plattformen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-open-ai-dutzende-organisationen-von-besuch-durch-ki-agenten-betroffen-faz-200452404.html",
+          "summary": "Offenbar Webseiten von Regierungen und Universitäten durch KI-Agenten beeinträchtigt +++ Social-Media-Sucht: Tiktok wendet Prozess in USA durch 100-Millionen-Vergleich ab +++ Neuigkeiten im Unternehmen-Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dd15f159c78c/w5000h2612x0y587o/202609/43601.0.2551574686/kuenstliche-intelligenz-im.webp"
-        },
-        {
-          "title": "App Muse: Warum Metas KI-Agent so erfolgreich ist",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agent-muse-warum-meta-damit-einen-ueberraschungserfolg-landet-201255847.html",
-          "summary": "Der Tech-Konzern landet mit seinem neuen virtuellen Alltagshelfer Muse einen Überraschungserfolg und stellt ein eigens dafür konzipiertes Gerät vor. Doch der KI-Agent wirft einige Fragen auf.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e93865a7b8d9/w4928h2574x0y607o/202609/43601.0.2588246665/erinnert-an-das-virtuelle.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b1c5fdbfe9ca/w8009h4184x0y383o/202609/43601.0.2586303029/open-ai-ceo-sam-altman-am.webp"
         },
         {
           "title": "Bill Gates warnt: „Es gab noch nie eine so mächtige Waffe“",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/7a3d64d10587/w5353h2796x0y107o/202609/43601.0.2595165304/microsoft-gruender-bill-gates.webp"
+        },
+        {
+          "title": "Nach KI-Einbruch: Wie Australien „Big Tech“ die Stirn bieten will",
+          "url": "https://www.faz.net/aktuell/politik/ausland/ki-einbruch-wie-australien-big-tech-die-stirn-bietet-201261428.html",
+          "summary": "Schon Canberras Social-Media-Bann für Jugendliche war wegweisend. Nun will das Land die Gesetze weiter ausbauen – und auch die KI ins Visier nehmen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/7c00cd996ab8/w4000h2090x0y339o/202609/43601.0.2592100895/die-ki-kontrollieren-um-nicht.webp"
         }
       ]
     },
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/31932f24-41d7-400a-8b9f-b4ede33e3cb8_w1200_r1.778_fpx56_fpy50.jpg"
         },
         {
-          "title": "Friedrich Merz beim G20-Gipfel: Donald Trump lädt Wladimir Putin ein - und jetzt?",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-beim-g20-gipfel-donald-trump-laedt-wladimir-putin-ein-und-jetzt-a-88492d45-360e-44e9-aef2-fdbf809b0636#ref=rss",
-          "summary": "US-Präsident Trump hat den russischen Machthaber Putin zum G20-Gipfel in Miami eingeladen. Kanzler Merz und die Europäer müssen sich überlegen, wie sie damit umgehen. Das sind die Szenarien.",
+          "title": "USA: Supreme Court lässt zentrales Tool von Donald Trumpzur Überprüfung von Wählern wieder zu",
+          "url": "https://www.spiegel.de/ausland/usa-supreme-court-laesst-zentrales-tool-von-donald-trumpzur-ueberpruefung-von-waehlern-wieder-zu-a-e78d3f71-db15-4e04-bef8-2343574d52d2#ref=rss",
+          "summary": "Donald Trump will die Kontrolle des Bundes über Wahlen ausweiten. Der Supreme Court hat dem US-Präsidenten nun recht gegeben und ein Verbot einer umstrittenen Wählerdatenbank aufgehoben.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/15236fd2-ee76-426b-971c-5b211a09e72f_w1200_r1.778_fpx42_fpy40.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e16ba7f9-0757-47ce-8bfe-e59cab68ab4e_w1200_r1.778_fpx47.32_fpy55.jpg"
         },
         {
-          "title": "Donald Trump und Xi Jinping: Wer beim Dinner neben den Präsidenten saß",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/donald-trump-xi-jinping-techbosse-wer-beim-dinner-neben-den-praesidenten-sass-a-59445080-10be-49c4-9910-1ee7aaa57d3e#ref=rss",
-          "summary": "Zum Staatsbesuch des chinesischen Präsidenten hat Donald Trump das Who’s who der amerikanischen Wirtschaft eingeladen. Die Sitzordnung lässt darauf schließen, wer dem Mann im Weißen Haus derzeit besonders nah ist.",
+          "title": "Pflegeversicherung: SPD erhöht Druck auf Linnemann vor Kabinettsbeschluss",
+          "url": "https://www.spiegel.de/politik/pflegeversicherung-spd-erhoeht-druck-auf-linnemann-vor-kabinettsbeschluss-a-9039f608-015d-4b83-8629-b6a4285f41aa#ref=rss",
+          "summary": "Der Pflegeversicherung drohen Milliardendefizite, CDU-Gesundheitsminister Linnemann will nächste Woche im Kabinett eine Kehrtwende einleiten. Doch kurz vorher macht der Koalitionspartner Druck.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3474839c-8fa0-476a-95ee-d71b3c9ada7a_w1200_r1.778_fpx49_fpy37.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5f290331-6597-4c19-a099-e5c7149c4183_w1200_r1.778_fpx29.98_fpy44.98.jpg"
         }
       ]
     },
@@ -114,7 +114,7 @@
           "summary": "Zum vierten Mal streiken Zehntausende Schüler gegen den neuen Wehrdienst. Was ist Pflicht, was nicht – und was riskieren Jugendliche?",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/1/4/9/0/shutterstock_2710663153-b0f9df1b1c898b7c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -134,8 +134,8 @@
           "url": "https://www.sueddeutsche.de/politik/wahlen-deutschland-mecklenburg-vorpommern-berlin-liveblog-spd-linke-gruene-antisemitismus-li.3540501",
           "summary": "Auf einem Parteitag beschließen die Delegierten, Gespräche über die Regierungsbildung in der Hauptstadt zu führen. Antisemitismusvorwürfe weist die Linke zurück, zeigt sich aber selbstkritisch.",
           "source": "SZ",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/25/8dc686be-ac91-47cf-9ea7-6faa60609095.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
           "title": "Festakt in Augsburg: Ein Preis für Merkels „inneren Kompass“",
