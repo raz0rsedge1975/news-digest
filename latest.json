@@ -1,39 +1,47 @@
 {
-  "generated": "2026-09-27T18:00:28.808Z",
-  "timestamp": "27.9.2026, 20:00:28",
+  "generated": "2026-09-27T22:00:22.319Z",
+  "timestamp": "28.9.2026, 00:00:22",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Leo XIV. in Paris: Wo der Papst wie ein Superstar gefeiert wird",
-          "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-in-frankreich-gefeiert-wie-ein-superstar-201266284.html",
-          "summary": "In Frankreich wird der Papst mit Begeisterung empfangen, eine neue „Generation Leo“ lässt die Kirche auf Erneuerung hoffen. Eindrücke aus dem Stade de France und von den Champs-Élysées.",
+          "title": "0:1 gegen Griechenland: Klopps Heimdebüt geht daneben",
+          "url": "https://www.faz.net/aktuell/sport/fussball/juergen-klopps-heimdebuet-geht-gegen-griechenland-0-1-verloren-201203548.html",
+          "summary": "Der angestrebte Vollgasfußball kommt nicht in die Gänge. Beim Heimdebüt von Jürgen Klopp zeigt die deutsche Nationalmannschaft kein gutes Spiel gegen Griechenland.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5791b0478d0f/w6144h3210x0y696o/202609/43601.0.2595929383/empfangen-von-80-000-jungen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ab772f64f584/w5540h2894x0y111o/202609/43601.0.2603024395/nach-der-niederlage-juergen.webp"
         },
         {
-          "title": "Der Papst in Lourdes: Leo beklagt die „schmerzhafte Wunde des Missbrauchs“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/leo-in-lourdes-der-papst-beklagt-den-missbrauch-in-der-kirche-201267344.html",
-          "summary": "„Buße, Buße, Buße“: In Lourdes wendet sich der Papst an seine Kirche. Verbände von Missbrauchsopfern fordern, dass über Entschädigungen gesprochen wird.",
+          "title": "Pressestimmen: „Griechische Tragödie für Klopp“",
+          "url": "https://www.faz.net/aktuell/sport/fussball/pressestimmen-zur-deutschen-niederlage-gegen-griechenland-201267579.html",
+          "summary": "Die internationale Presse nimmt sich das Heimdebüt von Bundestrainer Klopp vor. Einig sind sich viele Stimmen über einem „unrühmlichen Start“.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/02c8a7854ecc/w2991h1562x0y93o/202609/43601.0.2602024570/papst-leo-xiv-mit-der-mutter.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5241e7328ec1/w3550h1854x0y71o/202609/43601.0.2603011922/auch-er-kann-nicht-zaubern.webp"
         },
         {
-          "title": "PapstBesuch: Frankreichs Generation Leo",
-          "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-begeistert-frankreich-die-generation-leo-201266015.html",
-          "summary": "Der Zustrom für den Papst in Frankreich ist überwältigend. In ihn werden Hoffnungen gesetzt, über die Religion hinaus Orientierung zu geben.",
+          "title": "Nations League: Niederländer siegen und sorgen sich in Serbien",
+          "url": "https://www.faz.net/aktuell/sport/fussball/niederlande-gewinnt-in-nations-league-in-serbien-201267429.html",
+          "summary": "Das Team der Niederlande gewinnt in der Nations League gegen Serbien, muss aber einen Schreckmoment verkraften. Österreich spielt souverän auf.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5212a876b9b2/w6144h3210x0y443o/202609/43601.0.2600431943/papst-leo-xiv-trifft-am.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a25897ecb6cb/w5700h2978x0y708o/202609/43601.0.2602220662/virgil-van-dijk-mitte-und.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Nations League: Deutschland gegen Griechenland: Erste Pleite für Jürgen Klopp als Bundestrainer",
+          "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-griechenland-erste-pleite-fuer-juergen-klopp-als-bundestrainer-a-968b61e9-0128-4cbc-8e65-ffe7d6024792#ref=rss",
+          "summary": "Zweites Spiel, erste Niederlage für Jürgen Klopp: Die deutsche Fußballnationalelf hat erstmals gegen Griechenland verloren. Der Bundestrainer gibt sich trotzdem entspannt. Kritischer wird TV-Experte Bastian Schweinsteiger.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6d85eb85-a25c-4c15-906e-23cdef4592ad_w1200_r1.778_fpx51.48_fpy45.jpg"
+        },
         {
           "title": "Traumziel Paraguay: Warum immer mehr Deutsche nach Südamerika auswandern",
           "url": "https://www.spiegel.de/ausland/traumziel-paraguay-warum-immer-mehr-deutsche-nach-suedamerika-auswandern-a-8eeea25c-52e7-47eb-83b1-f55554b24377#ref=rss",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/8b597b97-ea10-46d5-9070-14c280ec8a31_w1200_r1.778_fpx49.99_fpy66.66.jpg"
-        },
-        {
-          "title": "Deutschland: Die unterschätzten Stärken der Bundesrepublik vor der Wiedervereinigung",
-          "url": "https://www.spiegel.de/politik/deutschland/deutschland-die-unterschaetzten-staerken-der-bundesrepublik-vor-der-wiedervereinigung-a-230abee2-95bc-47ed-b52d-01243a9953ba#ref=rss",
-          "summary": "Die Bundesrepublik war vor der Wiedervereinigung nie ein fertiges Land. Was den Westen des Landes zusammenhielt – und worauf wir uns heute besinnen sollten.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c43ff1c2-b0e6-4abc-a03f-d4f9e203bcfc_w1200_r1.778_fpx40.66_fpy54.99.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
+          "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/93b0f34a-0089-4325-ba5b-7799ba9202e8/AAABle8bTl4/AAABnSSvrFg/16x9-big/eltern-familie-kinder-101.jpg?width=1280"
+        },
+        {
+          "title": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
+          "url": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
+          "summary": "Der protestantische Oranier-Orden wollte durch einen katholischen Teil der Stadt Portadown in Nordirland marschieren. Doch Gegner blockieren den Marsch. Es geht um eine Straße, die früher ein Unruhen-Brennpunkt war. Von Franziska Hoppen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/94512de7-af40-480d-a10e-ff52372f6703/AAABoOQlXt8/AAABnSSvrFg/16x9-big/nordirland-160.jpg?width=1280"
+        },
+        {
           "title": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
           "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
           "summary": "Die SPD droht, die geplante Pflegereform zu blockieren - und fordert Änderungen. Doch die bieten aus Sicht von Gesundheitsminister Linnemann keine Lösungen. Eine Einigung hält er trotz des Streits in der Koalition für möglich.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/f99e0c4e-e763-40f8-9d91-3d4ab84e6920/AAABoOOaey4/AAABnSSvrFg/16x9-big/sendungsbild-1803270.jpg?width=1280"
-        },
-        {
-          "title": "Banaszak und Brantner treten wieder für Vorsitz von Bündnis 90/Die Grünen an",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/gruene-banaszak-brantner-bundesvorsitz-100.html",
-          "summary": "Der nächste Parteitag von Bündnis 90/Die Grünen ist erst Anfang Dezember. Aber schon jetzt haben die beiden Vorsitzenden Brantner und Banaszak ihre erneute Kandidatur für eine Doppelspitze angekündigt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/7f8e4538-9390-4540-bbf4-08b6c9e62324/AAABoONHo3c/AAABnSSvrFg/16x9-big/franziska-brantner-felix-banaszak-104.jpg?width=1280"
-        },
-        {
-          "title": "Volksabstimmung in der Schweiz: Mehrheit gegen verschärfte Neutralität",
-          "url": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-106.html",
-          "summary": "In einer Volksabstimmung hat sich in der Schweiz eine Mehrheit dagegen ausgesprochen, das Neutralitätsgebot für das eigene Land zu verschärfen. Ein Ergebnis, das in Russland für Unmut sorgen dürfte.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/62eb0a01-1c96-4d9d-9986-947012eb1cac/AAABoOMSZNg/AAABnSSvrFg/16x9-big/schweiz-volksabstimmung-neutralitaet-108.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Bericht: EU-Kommissar ruft zum Gassparen auf und warnt vor \"Preiskrise\"",
+          "url": "https://www.telepolis.de/article/Gaskrise-vor-dem-Winter-EU-Kommissar-warnt-vor-Preisschock-beim-Heizen-11467420.html",
+          "summary": "Dan Jørgensen fordert weniger Heizen und Licht aus. Verbindliche Vorgaben gibt es nicht, doch der TTF-Gaspreis hat sich seit Februar fast verdoppelt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/2/9/6/shutterstock_2565649117-21ed4c007f6ad427.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "\"Lords of War\" zeigt die Welt der Rüstungs-CEOs",
           "url": "https://www.telepolis.de/article/Lords-of-War-zeigt-die-Welt-der-Ruestungs-CEOs-11464578.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/1/2/3/4/blutwaesche_Z1-ed7f2a0a0e9900e4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "CDU/CSU im freien Fall – und ausgerechnet die Grünen profitieren davon",
-          "url": "https://www.telepolis.de/article/CDU-CSU-im-freien-Fall-und-ausgerechnet-die-Gruenen-profitieren-davon-11467274.html",
-          "summary": "Friedrich Merz will als Kanzler weitermachen – doch die Zahlen sprechen gegen ihn. Die Grünen klettern auf den besten Wert seit September 2023.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Deutschland in der Einzelkritik: Kimmich sieht aus wie ein Kapitän ohne Mannschaft",
+          "url": "https://www.sueddeutsche.de/sport/deutschland-griechenland-dfb-einzelkritik-li.3554790",
+          "summary": "Der Münchner treibt das Spiel an und fälscht den Ball vor dem Gegentor unglücklich ab. Karim Adeyemi probiert viel und Felix Nmecha lässt sich zu leicht ausspielen. Die DFB-Elf in der Einzelkritik.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/27/c148eb7a-fd36-4c2d-94ee-2f330a8d8c19.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C121%2C3576%2C2011"
+        },
+        {
+          "title": "Nations League: Griechenland zieht Klopp den Stecker",
+          "url": "https://www.sueddeutsche.de/sport/klopp-griechenland-deutschland-niederlage-li.3554807",
+          "summary": "In einer zähen bis langweiligen Partie gelingt Griechenland das entscheidende Tor des Abends. Jürgen Klopp verliert seine Heimpremiere als Bundestrainer.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/27/c1d03117-97c8-4e0d-946b-4e0c9f152bc1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C61%2C2300%2C1294"
+        },
+        {
           "title": "Oktoberfest: Polizisten erwischen Kokser neben Bavaria – und stoppen sexuelle Übergriffe auf der Wiesn",
           "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-sonntag-li.3549371",
           "summary": "Auf der Wiesn sind zahlreiche Beamte in Zivil unterwegs. Sie ertappen nicht nur Kokser, sondern auch Männer, die grabschen und unter Röcke filmen. Insgesamt bleibt die Stimmung am zweiten Wiesnsonntag entspannt, auch wenn es zwischenzeitlich voll wird.",
           "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Newsblog zum Ukraine-Krieg: Abgeriegelte Frontstadt Oleschky erhält Lebensmittel aus der Luft",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-lebensmittel-oleschky-lastdrohnen-li.3549696",
-          "summary": "Ukrainische Truppen haben mit Lastdrohnen vier Tonnen Lebensmittel in die Stadt gebracht. Seit Monaten ist die Frontstadt mit 2000 Menschen auf russischem Besatzungsgebiet abgeriegelt.",
-          "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/22/fa40566a-9646-465d-b233-54c8c5da6b6d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Nach der Kür zum Olympia-Kandidaten: Wie geht es in München jetzt weiter mit Olympia?",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-bewerbung-olympische-spiele-li.3554582",
-          "summary": "Wer spricht mit wem, warum muss die Stadt jetzt schon loslegen – und wer zahlt das eigentlich alles? Klar ist wohl nicht nur Ministerpräsident Söder: „Wenn es am Ende am Geld scheitern sollte in der drittgrößten Volkswirtschaft der Welt, wäre das peinlich.“",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/27/13357b23-1736-4427-a388-2b0631bbfee1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C94%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/09/27/1f59ece2-dcf9-4972-a576-49a681a3b26c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
