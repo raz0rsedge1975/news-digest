@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-27T02:00:22.760Z",
-  "timestamp": "27.9.2026, 04:00:22",
+  "generated": "2026-09-27T06:00:23.474Z",
+  "timestamp": "27.9.2026, 08:00:23",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Brandmauer: Die AfD will nicht ernsthaft sondieren",
-          "url": "https://www.faz.net/aktuell/politik/inland/afd-und-sondierungen-will-die-partei-wirklich-reden-201249632.html",
-          "summary": "AfD und Sondierungen: Will die Partei wirklich reden?",
+          "title": "Geheime Studie: Kriegsangst wirkt jahrzehntelang nach",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lernen-aus-der-nato-geschichte-kriegsangst-wirkt-jahrzehntelang-nach-accg-201237009.html",
+          "summary": "Eine geheime Studie aus dem Jahr 1977 für Jimmy Carter über Westdeutschland und die NATO zeigt: Schon die Angst vor Krieg belastet die wirtschaftliche Entwicklung.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/efe20f38c5ea/w4397h2297x0y291o/202609/43601.0.2520390187/jubelnde-afd-funktionaere-am.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ef5cc65ee23d/w8256h4313x0y595o/202511/43e1c5fe98-b8a2-11f0-84c7-fdc687432d7f/friedensdemonstration-in.webp"
         },
         {
           "title": "Wadephul trifft Lawrow: Zwanzig Minuten und eine kleine Geste",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/dd00553075af/w6000h3135x0y353o/202609/43601.0.2598127866/treffen-der-aussenminister-in.webp"
         },
         {
-          "title": "Abstimmung zur Neutralität: „Die Schweiz leidet unter einem Asterix-Syndrom“",
-          "url": "https://www.faz.net/aktuell/politik/ausland/historiker-neutralitaetsinitiative-in-schweiz-ist-mogelpackung-accg-201224583.html",
-          "summary": "Schweizer Historiker: Die Neutralitätsinitiative in der Schweiz ist eine Mogelpackung",
+          "title": "Podcast-Fabrik: Über 3000 Folgen pro Woche, alle von der KI",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/ki-podcasts-von-epstein-bis-stricken-wer-hoert-das-alles-accg-201248406.html",
+          "summary": "Ein einziges Start-up betreibt mehr als 10. 000 KI-Podcasts, ein anderer über die Epstein-Files schaffte es in die Top 10 bei Apple. Die Qualität ist zum Teil erstaunlich gut. Nur: Wer soll das alles hören?",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/263e0c6a4b08/w6144h3210x0y443o/202609/43601.0.2501559609/zwei-ehrenamtliche-mit.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c3798f822419/w1285h671x247y313o/202609/43601.0.2581000115/der-instagram-account-der-ki.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine: Russische Besatzung – in Oleschky essen sie Unkraut, um zu überleben",
-          "url": "https://www.spiegel.de/ausland/ukraine-unter-russischer-besatzung-hungerkrise-in-oleschky-a-16b18f20-727b-44d4-9f4d-8e626e9ab249#ref=rss",
-          "summary": "In einer von Russland besetzten ukrainischen Stadt bahnt sich eine Hungerkatastrophe an. Tausende Einwohner sind im Kampfgebiet gefangen. Auf eine Evakuierung können sich Moskau und Kyjiw nicht einigen.",
+          "title": "Olympia-Entscheidung in Deutschland für München: Markus Söder 1 – Hendrik Wüst 0",
+          "url": "https://www.spiegel.de/politik/olympia-entscheidung-in-deutschland-fuer-muenchen-markus-soeder-1-hendrik-wuest-0-a-05e92666-b62e-43ce-8dbe-e6032fdc10a0#ref=rss",
+          "summary": "Es ging (noch) nicht um die Kanzlerschaft, aber die Olympia-Nominierung Münchens nutzt Markus Söders Ambitionen. Dabei hatte Konkurrent Hendrik Wüst viel in die Bewerbung aus Nordrhein-Westfalen investiert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/752af0dd-3eae-406e-940c-6de9d186c611_w1200_r1.778_fpx54.67_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1016de27-d859-491b-963a-11713022ba12_w1200_r1.778_fpx51_fpy39.jpg"
         },
         {
-          "title": "Donald Trump lehnt Irans Vorschlag zur Straße von Hormus ab",
-          "url": "https://www.spiegel.de/ausland/iran-donald-trump-lehnt-teherans-vorschlag-zur-strasse-von-hormus-ab-a-9112d53a-9fb7-407e-bbce-c60cbd46ebce#ref=rss",
-          "summary": "Die Führung in Teheran hat den USA einen Vorschlag zur Öffnung der Straße von Hormus übermittelt. US-Präsident Donald Trump ließ sich nach eigenen Angaben nicht auf den iranischen Vorstoß ein.",
+          "title": "News: Folgen der Wahlen in Berlin, Sachsen-Anhalt und Mecklenburg-Vorpommern, DFB-Spiel unter Jürgen Klopp, neuer SPIEGEL",
+          "url": "https://www.spiegel.de/politik/deutschland/news-folgen-der-wahlen-in-berlin-sachsen-anhalt-und-mecklenburg-vorpommern-dfb-spiel-unter-juergen-klopp-neuer-spiegel-a-7816032a-ef8b-445c-8d47-de0d8264a740#ref=rss",
+          "summary": "Ein Wochenende ohne Landtagswahlen, ein kurzer Moment zum Durchatmen. Zumal wir mit dem Ausgang der letzten drei Wahlen noch genug zu tun haben werden. Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/020dc927-0ee3-43e2-ae9b-75d05cddcc17_w1200_r1.778_fpx52.69_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "AfD und Linke im Aufwind: Warum Jungs eher rechts und Mädchen eher links sind",
-          "url": "https://www.spiegel.de/ausland/afd-und-linke-im-aufwind-warum-jungs-eher-rechts-und-maedchen-eher-links-sind-a-2d43c7e0-a62c-4d46-8fe3-d1375cd5e19b#ref=rss",
-          "summary": "In Deutschland und der Welt öffnet sich ein Graben zwischen den Geschlechtern. Das hat dramatische Folgen für die Politik und die Zukunft der Liebe.",
+          "title": "Haya Molcho über Mütter als Managerinnen, Antisemitismus und ihr Gastroimperium",
+          "url": "https://www.spiegel.de/kultur/gastronomie-haya-molcho-ueber-muetter-als-managerinnen-und-ihr-gastroimperium-a-ddf710c1-7063-44b9-8f12-1403cd976133#ref=rss",
+          "summary": "Haya Molcho führt ein Gastroimperium. Hier spricht die Köchin und Gründerin der Restaurantkette NENI über Mütter als Managerinnen, Judenhass und die Lehre, die ihr Sauerteig fürs Leben gegeben hat.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3ed03d4c-3376-4cd0-9a21-693982019cb5_w1200_r1.778_fpx50_fpy42.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7bb2f671-0e44-471a-a3a4-15cbd5a43bd2_w1200_r1.778_fpx42_fpy31.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "EU geht gegen \"Greenwashing\" in der Werbung vor",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-greenwashing-100.html",
+          "summary": "\"Grün\", \"nachhaltig\", \"klimaneutral\" - eine ab heute geltende EU-Richtlinie soll für mehr Klarheit bei Umwelt-Aussagen sorgen. Kritik gibt es an der deutschen Umsetzung. Was passiert nun mit Produkten in alten Verpackungen? Von Sarah López.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2b470d2d-4fdb-491e-a550-117451db65fc/AAABoNn2sgM/AAABnSSvrFg/16x9-big/supermarkt-252.jpg?width=1280"
+        },
+        {
+          "title": "Schweiz: Volksabstimmung über striktere Neutralität",
+          "url": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-104.html",
+          "summary": "Die Schweiz ist berühmt für Schokolade, Uhren und politische Neutralität. Über letzteres wird gestritten. Der Grund: Die Sanktionen gegen Russland - aus Sicht der Initiative, über die heute abgestimmt wird, ein \"Sündenfall\". Biegger und S.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c46f266c-e34e-44c7-ab2e-18325d79a7a4/AAABoNfKlWI/AAABnSSvrFg/16x9-big/schweiz-plakat-102.jpg?width=1280"
+        },
+        {
           "title": "EU stellt 710 Millionen Euro für weltweite Krisenhilfe bereit",
           "url": "https://www.tagesschau.de/ausland/europa/eu-krisenhilfe-100.html",
           "summary": "Weltweit leiden Menschen unter den Folgen von Naturkatastrophen oder Konflikten. EU-Kommissionspräsidentin von der Leyen hat nun weitere Hilfen für sie angekündigt. Ein Großteil des Geldes soll nach Afrika fließen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/7e401613-a440-455c-90cb-f60105ae4b63/AAABmnfmaOw/AAABnSSvrFg/16x9-big/ursula-von-der-leyen-186.jpg?width=1280"
-        },
-        {
-          "title": "Sturm an der US-Ostküste: Ein Toter, viele Haushalte ohne Strom",
-          "url": "https://www.tagesschau.de/ausland/amerika/sturm-usa-144.html",
-          "summary": "Ein schwerer Herbststurm hat im Nordosten der USA den Flugverkehr teilweise lahmgelegt und zu Stromausfällen geführt. Mindestens ein Menschen kam durch das Unwetter ums Leben. Viele Veranstaltungen wurden abgesagt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/bf5e1859-b364-47e3-832e-bf168127d4db/AAABoOBfyS8/AAABnSSvrFg/16x9-big/sturm-usa-148.jpg?width=1280"
-        },
-        {
-          "title": "Zehntausende demonstrieren nach Zwangsräumung von 87-Jähriger in Madrid",
-          "url": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
-          "summary": "Unmut über Wohnungsnot und hohe Mieten gibt es auch in Spanien schon lange. Doch die Zwangsräumung einer 87-Jährigen bringt für viele nun offenbar das Fass zum Überlaufen. Zehntausende gingen in Madrid auf die Straße.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/0e289a9f-85be-4c37-988b-bb136df85c8c/AAABoOAP7a4/AAABnSSvrFg/16x9-big/madrid-demonstration-108.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Nahost-Krieg: Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
+          "title": "Newsblog zum Nahost-Krieg: Iran pocht auf Diplomatie",
           "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-sieben-tage-plan-trump-meerenge-li.3530668",
-          "summary": "Man habe einen „Sieben-Tage-Plan“ für die Öffnung der Meerenge vorgelegt, erklärt Irans Außenminister Araghtschi. Das Angebot sei „nicht annehmbar“, sagte der US-Präsident vor Journalisten.",
+          "summary": "Der Ölhandel über die Straße von Hormus ist weiter stark eingeschränkt, doch Trump will vom iranischen Friedensplan nichts wissen. Aus Teheran heißt es, nur eine Verhandlungslösung führe aus der „Sackgasse“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/26/e42f794a-c498-4a3e-8081-10657b4e7f26.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/09/27/c00b264f-d06c-4a7a-96ab-defa1bd5d7e3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "USA-Newsblog: USA lockern Spritsparvorgaben für Autos deutlich",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-autos-sprit-trump-li.3530667",
+          "summary": "Die Trump-Regierung kippt Vorgaben für Autos und Lastwagen aus der Biden-Ära. Das soll Neufahrzeuge billiger machen, schadet aber dem Klima.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/27/a521f92b-2aa6-441f-aac7-d1d87dd90efd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
           "title": "Papst Leo XIV. in Frankreich: Ein Empfang wie für einen Popstar",
           "url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-paris-empfang-messe-li.3553392",
-          "summary": "700 000 Gläubige nehmen in Paris an der Messe mit Leo XIV. teil - viel mehr als erwartet. Gerade die jungen Franzosen verehren diesen Papst.",
+          "summary": "700 000 Gläubige nehmen in Paris an der Messe mit Leo XIV. teil – viel mehr als erwartet. Gerade die jungen Franzosen verehren diesen Papst.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/26/4292425d-2505-4b77-ada8-aa888df379ad.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C55%2C2889%2C1625"
-        },
-        {
-          "title": "Markus Söder: Hurra, NRW ist schon mal besiegt",
-          "url": "https://www.sueddeutsche.de/sport/muenchen-olympiabewerbung-sportpolitik-bayern-soeder-li.3553975",
-          "summary": "Wenn's um Sport geht, ist die Begeisterung des bayerischen Ministerpräsidenten immer echt. Und er landet nicht gern auf Platz zwei, schon gar nicht hinter Hendrik Wüst. Lief also super für ihn beim Olympia-Termin.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/26/118ff3a2-a23d-41a8-a5cc-ecb5a333e44c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
