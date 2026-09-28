@@ -1,39 +1,47 @@
 {
-  "generated": "2026-09-28T02:00:18.396Z",
-  "timestamp": "28.9.2026, 04:00:18",
+  "generated": "2026-09-28T06:00:20.829Z",
+  "timestamp": "28.9.2026, 08:00:20",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "0:1 gegen Griechenland: Klopps Heimdebüt geht daneben",
-          "url": "https://www.faz.net/aktuell/sport/fussball/juergen-klopps-heimdebuet-geht-gegen-griechenland-0-1-verloren-201203548.html",
-          "summary": "Der angestrebte Vollgasfußball kommt nicht in die Gänge. Beim Heimdebüt von Jürgen Klopp zeigt die deutsche Nationalmannschaft kein gutes Spiel gegen Griechenland.",
+          "title": "Brandmauer: „Das Programm der Linken ist ganz klar antisemitisch“",
+          "url": "https://www.faz.net/aktuell/politik/inland/brandmauer-afd-und-linke-annegret-kramp-karrenbauer-im-gespraech-accg-201260526.html",
+          "summary": "Die ehemalige Vorsitzende Kramp-Karrenbauer über den Anspruch der CDU, Volkspartei zu bleiben, und den Moment, in dem sie überlegen würde auszutreten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ab772f64f584/w5540h2894x0y111o/202609/43601.0.2603024395/nach-der-niederlage-juergen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/be6d82d4de5f/w4883h2551x0y559o/202609/43601.0.2594774452/die-fruehere-cdu-vorsitzende.webp"
         },
         {
-          "title": "Pressestimmen: „Griechische Tragödie für Klopp“",
-          "url": "https://www.faz.net/aktuell/sport/fussball/pressestimmen-zur-deutschen-niederlage-gegen-griechenland-201267579.html",
-          "summary": "Die internationale Presse nimmt sich das Heimdebüt von Bundestrainer Klopp vor. Einig sind sich viele Stimmen über einem „unrühmlichen Start“.",
+          "title": "Antisemitismusvorwurf: Eralp und Berliner Linke zeigen Dobrindt an",
+          "url": "https://www.faz.net/aktuell/politik/inland/streit-ueber-antisemitismusvorwurf-elif-eralp-und-berliner-linke-zeigen-dobrindt-an-accg-201267757.html",
+          "summary": "Bei „Maybrit Illner“ kommentiert der Bundesinnenminister einen Versprecher der Moderatorin über Linken-Politikerin Elif Eralp. Die reagiert mit einer Anzeige wegen übler Nachrede.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5241e7328ec1/w3550h1854x0y71o/202609/43601.0.2603011922/auch-er-kann-nicht-zaubern.webp"
+          "image": "https://media0.faz.net/image/w1200h627/378c9e2862a8/w7285h3806x0y640o/202609/43601.0.2595065300/elif-eralp-und-ihr.webp"
         },
         {
-          "title": "Nations League: Niederländer siegen und sorgen sich in Serbien",
-          "url": "https://www.faz.net/aktuell/sport/fussball/niederlande-gewinnt-in-nations-league-in-serbien-201267429.html",
-          "summary": "Das Team der Niederlande gewinnt in der Nations League gegen Serbien, muss aber einen Schreckmoment verkraften. Österreich spielt souverän auf.",
+          "title": "Deutschland-Liveblog: Wüst: Aufstieg der AfD „nicht unumkehrbar“",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hendrik-wuest-aufstieg-der-afd-nicht-unumkehrbar-faz-110093143.html",
+          "summary": "Berichte: Unions-Abgeordnete wollten Spahn aus Ausschuss werfen +++ Linke geht rechtlich gegen Instagram-Video von Reiche vor +++ Ehemalige BSW-Vorsitzende Wolf offen für AfD-Verbotsverfahren +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a25897ecb6cb/w5700h2978x0y708o/202609/43601.0.2602220662/virgil-van-dijk-mitte-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/8d6648ae4e37/w5316h2777x61y285o/202609/43601.0.2593615672/nordrhein-westfalens.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Pflege, Rente, Steuern: An diesen Konflikten könnte die Koalition scheitern",
+          "url": "https://www.spiegel.de/politik/deutschland/pflege-rente-steuern-an-diesen-konflikten-koennte-die-koalition-scheitern-a-5f8b9dc5-ede1-47c2-a277-7b6b26cef2eb#ref=rss",
+          "summary": "Die Revolten in CDU und SPD sind ausgeblieben, doch nun droht der Regierung neues Ungemach: Gleich drei inhaltliche Konflikte spitzen sich gefährlich zu. Scheitert die Koalition an ihrer Reformpolitik?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6517201f-0586-4fd1-9772-62a232ae4e62_w1200_r1.778_fpx48.47_fpy50.jpg"
+        },
         {
           "title": "Nations League: Deutschland gegen Griechenland: Erste Pleite für Jürgen Klopp als Bundestrainer",
           "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-griechenland-erste-pleite-fuer-juergen-klopp-als-bundestrainer-a-968b61e9-0128-4cbc-8e65-ffe7d6024792#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/6d85eb85-a25c-4c15-906e-23cdef4592ad_w1200_r1.778_fpx51.48_fpy45.jpg"
         },
         {
-          "title": "Traumziel Paraguay: Warum immer mehr Deutsche nach Südamerika auswandern",
-          "url": "https://www.spiegel.de/ausland/traumziel-paraguay-warum-immer-mehr-deutsche-nach-suedamerika-auswandern-a-8eeea25c-52e7-47eb-83b1-f55554b24377#ref=rss",
-          "summary": "»Die Nachfrage ist riesig«: Immer mehr Deutsche ziehen nach Paraguay, aus ganz anderen Gründen als zur Coronazeit. Wer Fuß fassen will, sollte eine Menge Geld mitbringen.",
+          "title": "Russland: Kyjiw wirft Moskau vor, Friedensbereitschaft nur vorzutäuschen",
+          "url": "https://www.spiegel.de/politik/russland-kyjiw-wirft-moskau-vor-friedensbereitschaft-nur-vorzutaeuschen-a-22c921c6-a00c-45fb-9303-6f31ce087c2c#ref=rss",
+          "summary": "Bei russischen Drohnenangriffen sind mehrere Menschen in der Ukraine getötet und verletzt worden. Präsident Selenskyj wirft Moskau Terrorismus vor. Und sagt: Putin täuscht die Welt mit falschen Friedenssignalen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/de35a218-3edb-437f-b379-f274480e381a_w1200_r1.778_fpx70_fpy54.jpg"
-        },
-        {
-          "title": "Papst Leo XIV. in Frankreich: Streit mit Macron, Jubel von Le Pen",
-          "url": "https://www.spiegel.de/ausland/papst-leo-xiv-in-frankreich-streit-mit-macron-jubel-von-le-pen-a-c7a4851a-abd5-4800-970a-8a8ed51f555a#ref=rss",
-          "summary": "Paris, Lourdes, Metz: In einem Land, das vom Glauben abgefallen schien, jubeln Hunderttausende Leo XIV. zu – auch die rechte Präsidentschaftskandidatin Marine Le Pen. Präsident Macron muss sich dagegen Tadel anhören.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8b597b97-ea10-46d5-9070-14c280ec8a31_w1200_r1.778_fpx49.99_fpy66.66.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9533d85f-2f01-4251-8973-190bce64bd1a_w1200_r1.778_fpx66.67_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
-          "url": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
-          "summary": "Der Fall einer 87‑Jährigen, die nach Jahrzehnten ihre Wohnung verlassen muss, bewegt Spanien. 000 Menschen demonstrierten in Madrid an diesem Wochenende gegen die Wohnungskrise. Ein Protestcamp erinnert an die Bewegung der Empörten vor 15 Jahren.",
+          "title": "Marktbericht: DAX vor freundlichem Wochenstart",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-162.html",
+          "summary": "Trotz Zinssorgen und der anhaltend schwierigen Lage im Nahen Osten dürfte der DAX mit einem Plus in die neue Woche starten. Ein schwaches Gewinnwachstum der chinesischen Industrie belastet den Aktienmarkt in China.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/49b8604c-dd00-47d3-9014-8162dd08e0fa/AAABoOWPq2U/AAABnSSvrFg/16x9-big/madrid-zelten-protest-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/42152e4c-2b1d-4f6e-a48d-9c1adf615e01/AAABnYVt-C0/AAABnSSvrFg/16x9-big/boerse-504.jpg?width=1280"
         },
         {
-          "title": "Serbiens Präsident Vucic tritt zurück",
-          "url": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
-          "summary": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und politischen Druck. Von Silke Hahne.",
+          "title": "Ex-Vizekanzler Habeck dementiert Pläne für Parteigründung",
+          "url": "https://www.tagesschau.de/inland/habeck-dementiert-plaene-parteigruendung-100.html",
+          "summary": "Will Robert Habeck eine neue Partei gründen? Darüber wird offenbar im politischen Berlin spekuliert. Bei Caren Miosga stellt der Ex-Vizekanzler klar, was er von diesem Gerücht hält.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ca58d4b1-7d55-4284-8376-09a3d2f251f2/AAABoOUlgsc/AAABnSSvrFg/16x9-big/aleksandar-vucic-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/90927a01-5f21-4c58-9285-5ac3c95425da/AAABoOZZ5Fg/AAABnSSvrFg/16x9-big/sendungsbild-1803428.jpg?width=1280"
         },
         {
-          "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
-          "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen.",
+          "title": "75 Jahre Hüter der Verfassung: Diese Aufgaben hat das Bundesverfassungsgericht",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-jubilaeum-102.html",
+          "summary": "Das Bundesverfassungsgericht wacht über die Verfassung. Was sind seine Aufgaben? Und warum sitzt es in Karlsruhe? Und warum diese roten Roben? Ein Überblick von Michael-Matthias Nordhardt und Frank Bräutigam.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/93b0f34a-0089-4325-ba5b-7799ba9202e8/AAABle8bTl4/AAABnSSvrFg/16x9-big/eltern-familie-kinder-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fb4b6a06-82df-48ae-96dd-038d01ea2d38/AAABoOaB12Q/AAABnSSvrFg/16x9-big/bverfg-130.jpg?width=1280"
         }
       ]
     },
@@ -122,12 +122,20 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Newsblog zur Bundespolitik: Antisemitismusvorwurf: Elif Eralp zeigt Alexander Dobrindt an",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-berlin-alexander-dobrindt-elif-eralp-berlin-antisemitismus-li.3529564",
+          "summary": "Der Bundesinnenminister soll sich eine Aussage über Eralp als „Antisemitin“ zu eigen gemacht haben. Dies erfülle den Tatbestand der üblen Nachrede und Beleidigung, erklärte der Anwalt der Berliner Politikerin.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/27/3f81d579-1cae-4cbc-9aad-76ea58d124ca.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
+        },
+        {
           "title": "„Caren Miosga“: Der Beobachter vom Nordpol",
           "url": "https://www.sueddeutsche.de/medien/tv-kritik-robert-habeck-caren-miosga-waermepumpe-li.3554055",
           "summary": "Ein Jahr nach seinem Ausscheiden aus der Politik ist Robert Habeck zu Gast bei Caren Miosga. Das Wort „Wärmepumpe“ verfolgt ihn wie ein Gespenst. Aber er hat auch etwas Neues anzubieten: den Blick von außen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/27/3cf96951-1a8c-43e5-ba43-22748d17556b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C145%2C3676%2C2068"
+          "image": "https://www.sueddeutsche.de/2026/09/28/70cda21f-377b-4bb9-ae86-5904b3d0b32f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C552%2C3636%2C2045"
         },
         {
           "title": "Deutschland in der Einzelkritik: Kimmich sieht aus wie ein Kapitän ohne Mannschaft",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/27/c148eb7a-fd36-4c2d-94ee-2f330a8d8c19.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C121%2C3576%2C2011"
-        },
-        {
-          "title": "Nations League: Griechenland zieht Klopp den Stecker",
-          "url": "https://www.sueddeutsche.de/sport/klopp-griechenland-deutschland-niederlage-li.3554807",
-          "summary": "In einer zähen bis langweiligen Partie gelingt Griechenland das entscheidende Tor des Abends. Jürgen Klopp verliert seine Heimpremiere als Bundestrainer.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/27/c1d03117-97c8-4e0d-946b-4e0c9f152bc1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C61%2C2300%2C1294"
         }
       ]
     }
