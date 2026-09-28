@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T22:00:22.319Z",
-  "timestamp": "28.9.2026, 00:00:22",
+  "generated": "2026-09-28T02:00:18.396Z",
+  "timestamp": "28.9.2026, 04:00:18",
   "news": [
     {
       "source": "FAZ",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
+          "url": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
+          "summary": "Der Fall einer 87‑Jährigen, die nach Jahrzehnten ihre Wohnung verlassen muss, bewegt Spanien. 000 Menschen demonstrierten in Madrid an diesem Wochenende gegen die Wohnungskrise. Ein Protestcamp erinnert an die Bewegung der Empörten vor 15 Jahren.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/49b8604c-dd00-47d3-9014-8162dd08e0fa/AAABoOWPq2U/AAABnSSvrFg/16x9-big/madrid-zelten-protest-102.jpg?width=1280"
+        },
+        {
+          "title": "Serbiens Präsident Vucic tritt zurück",
+          "url": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
+          "summary": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und politischen Druck. Von Silke Hahne.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/ca58d4b1-7d55-4284-8376-09a3d2f251f2/AAABoOUlgsc/AAABnSSvrFg/16x9-big/aleksandar-vucic-110.jpg?width=1280"
+        },
+        {
           "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
           "url": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
           "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/93b0f34a-0089-4325-ba5b-7799ba9202e8/AAABle8bTl4/AAABnSSvrFg/16x9-big/eltern-familie-kinder-101.jpg?width=1280"
-        },
-        {
-          "title": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
-          "url": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
-          "summary": "Der protestantische Oranier-Orden wollte durch einen katholischen Teil der Stadt Portadown in Nordirland marschieren. Doch Gegner blockieren den Marsch. Es geht um eine Straße, die früher ein Unruhen-Brennpunkt war. Von Franziska Hoppen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/94512de7-af40-480d-a10e-ff52372f6703/AAABoOQlXt8/AAABnSSvrFg/16x9-big/nordirland-160.jpg?width=1280"
-        },
-        {
-          "title": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
-          "summary": "Die SPD droht, die geplante Pflegereform zu blockieren - und fordert Änderungen. Doch die bieten aus Sicht von Gesundheitsminister Linnemann keine Lösungen. Eine Einigung hält er trotz des Streits in der Koalition für möglich.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f99e0c4e-e763-40f8-9d91-3d4ab84e6920/AAABoOOaey4/AAABnSSvrFg/16x9-big/sendungsbild-1803270.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Lebenserwartung: Schlafdauer ist nach Rauchen der wichtigste Faktor",
+          "url": "https://www.telepolis.de/article/Lebenserwartung-Schlafdauer-ist-nach-Rauchen-der-wichtigste-Faktor-11461647.html",
+          "summary": "Zu wenig Schlaf verkürzt das Leben. Eine US-Studie zeigt: Die Schlafdauer ist nach dem Rauchen der stärkste verhaltensbedingte Prädiktor für Lebenserwartung.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/9/3/5/8/shutterstock_2298364759-4a5d4b5c92295ff3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Bericht: EU-Kommissar ruft zum Gassparen auf und warnt vor \"Preiskrise\"",
           "url": "https://www.telepolis.de/article/Gaskrise-vor-dem-Winter-EU-Kommissar-warnt-vor-Preisschock-beim-Heizen-11467420.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/0/8/4/8/shutterstock_2689957537-5a730717757339d8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Longevity und Blutwäsche: Tod von Giorgos Mazonakis wirft Fragen auf",
-          "url": "https://www.telepolis.de/article/Longevity-Ein-Popstar-stirbt-und-eine-ganze-Branche-geraet-ins-Wanken-11465337.html",
-          "summary": "Der Fall wirft ein Schlaglicht auf den Longevity-Markt: auf als Verjüngung beworbene Behandlungen, ihre Risiken und die Kontrolle der Anbieter.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/1/2/3/4/blutwaesche_Z1-ed7f2a0a0e9900e4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "„Caren Miosga“: Der Beobachter vom Nordpol",
+          "url": "https://www.sueddeutsche.de/medien/tv-kritik-robert-habeck-caren-miosga-waermepumpe-li.3554055",
+          "summary": "Ein Jahr nach seinem Ausscheiden aus der Politik ist Robert Habeck zu Gast bei Caren Miosga. Das Wort „Wärmepumpe“ verfolgt ihn wie ein Gespenst. Aber er hat auch etwas Neues anzubieten: den Blick von außen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/27/3cf96951-1a8c-43e5-ba43-22748d17556b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C145%2C3676%2C2068"
+        },
         {
           "title": "Deutschland in der Einzelkritik: Kimmich sieht aus wie ein Kapitän ohne Mannschaft",
           "url": "https://www.sueddeutsche.de/sport/deutschland-griechenland-dfb-einzelkritik-li.3554790",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/27/c1d03117-97c8-4e0d-946b-4e0c9f152bc1.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C61%2C2300%2C1294"
-        },
-        {
-          "title": "Oktoberfest: Polizisten erwischen Kokser neben Bavaria – und stoppen sexuelle Übergriffe auf der Wiesn",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-sonntag-li.3549371",
-          "summary": "Auf der Wiesn sind zahlreiche Beamte in Zivil unterwegs. Sie ertappen nicht nur Kokser, sondern auch Männer, die grabschen und unter Röcke filmen. Insgesamt bleibt die Stimmung am zweiten Wiesnsonntag entspannt, auch wenn es zwischenzeitlich voll wird.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/27/1f59ece2-dcf9-4972-a576-49a681a3b26c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         }
       ]
     }
