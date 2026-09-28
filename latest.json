@@ -1,10 +1,26 @@
 {
-  "generated": "2026-09-28T18:00:35.661Z",
-  "timestamp": "28.9.2026, 20:00:35",
+  "generated": "2026-09-28T22:00:17.353Z",
+  "timestamp": "29.9.2026, 00:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Europa-Rede von Leo XIV.: Ein päpstliches Herz für Europa",
+          "url": "https://www.faz.net/aktuell/politik/ausland/leos-besuch-in-metz-ein-paepstliches-herz-fuer-europa-201270001.html",
+          "summary": "Papst Franziskus verglich Europa mit einer unfruchtbaren Großmutter. Leos Reise nach Frankreich ist ein Bekenntnis zum Alten Kontinent, mit dem sein Vorgänger fremdelte.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c14dbeab8a22/w2895h1512x0y205o/202609/43601.0.2605398832/papst-leo-xiv-r-und-der.webp"
+        },
+        {
+          "title": "Leo XIV. über Europa: „Man muss sich vor der Illusion der Wiederaufrüstung hüten“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-fordert-europa-zur-verteidigung-seiner-werte-auf-201268112.html",
+          "summary": "Der Papst beklagt, dass die internationalen Beziehungen „immer barbarischerer“ würden. Er ermuntert die Europäer, weiterhin ein Gegengewicht dazu zu bilden.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ea7c99681432/w4710h2460x0y154o/202609/43601.0.2604597045/papst-leo-xiv-kommt-zum.webp"
+        },
         {
           "title": "Koalitionsstreit: Der Griff nach dem Geld der Privatversicherten in der Pflege",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spd-und-pflegesoli-der-griff-nach-dem-geld-der-privatversicherten-in-der-pflege-201268938.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/0be5e033aa64/w6414h3351x287y898o/202412/43601.0.729500737/mehr-pflegebeduerftige-weniger.webp"
-        },
-        {
-          "title": "Nach massiver Kritik: Warum sich Spahn schon wieder zurückzieht",
-          "url": "https://www.faz.net/aktuell/politik/inland/jens-spahn-zieht-sich-aus-dem-haushaltsausschuss-zurueck-201269563.html",
-          "summary": "Die Rückkehr des früheren Fraktionsvorsitzenden ins politische Rampenlicht währte kurz. Wieder spielte sein Privatleben eine Rolle – und Empörung in den eigenen Reihen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/114ebdf1fb88/w4034h2107x0y81o/202609/43601.0.2605660641/jens-spahn-cdu-am-15-september.webp"
-        },
-        {
-          "title": "Humanitäre Not: Hilfe für besetzte Stadt Oleschky kommt aus der Luft",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/oleschky-humanitaere-hilfe-per-drohne-fuer-zivilisten-201268829.html",
-          "summary": "Ukrainische Behörden schicken über das von Russland besetzte Oleschky. Sie lassen Lebensmittel für die ausgehungerten Bewohner fallen, trotz Beschusses.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3c21edea326e/w1639h856x440y33o/202609/43601.0.2604997352/diese-aufnahme-stammt-aus.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Pflegeversicherung: Die SPD will die Beiträge fürs Heim deckeln. Kann das funktionieren?",
-          "url": "https://www.spiegel.de/wirtschaft/pflegeversicherung-die-spd-will-die-beitraege-fuers-heim-deckeln-kann-das-funktionieren-a-7067fdc3-29c1-4ba6-865e-fcd6529d16af#ref=rss",
-          "summary": "Der Eigenanteil fürs Pflegeheim könnte in den kommenden Jahren auf mehr als 6000 Euro steigen. Nun fordert die SPD eine Obergrenze – und will zur Finanzierung die Privatversicherten heranziehen.",
+          "title": "NRW-Ministerpräsident in der Türkei: Und dann sitzt Wüst auf einmal bei Erdoğan",
+          "url": "https://www.spiegel.de/politik/deutschland/nrw-ministerpraesident-in-der-tuerkei-und-dann-sitzt-wuest-auf-einmal-bei-erdogan-a-2a690cd1-9240-4866-ba1d-ca6f226a4a66#ref=rss",
+          "summary": "Lächeln, erklären, versöhnen: Hendrik Wüst präsentiert sich auf einer groß angelegten Türkeireise als Gegenentwurf zum Kanzler. Und dann erhält der NRW-Ministerpräsident auch noch Audienz beim Staatspräsidenten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1682dfa8-20ed-47d1-8447-fd2ab4915f7e_w1200_r1.778_fpx29.99_fpy52.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4f7c30da-3885-42c8-a673-099b74f108a8_w1200_r1.778_fpx35.34_fpy54.99.jpg"
         },
         {
           "title": "Schufa im Nationalsozialismus: Der jüdische Gründer Kurt Meyer trotzte den Nazis",
@@ -64,34 +64,71 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Papst in Metz - Eine Rede an Europas Gewissen",
-          "url": "https://www.tagesschau.de/ausland/europa/papst-leo-in-metz-100.html",
-          "summary": "Papst Leo XIV. hat Europa zum Festhalten an Völkerrecht, Dialog und Multilateralismus aufgerufen. Zum Abschluss seiner Frankreich-Reise äußerte er auch Kritik, die in Richtung US-Präsident Trump gerichtet sein dürfte. Von Cai Rienäcker.",
+          "title": "Türkei: Comedian Göktaş zu 18 Monaten Haft verurteilt",
+          "url": "https://www.tagesschau.de/ausland/europa/tuerkischer-comedian-kommt-aus-haft-frei-100.html",
+          "summary": "Der türkische Comedian Deniz Göktaş ist zu rund 18 Monaten Haft verurteilt worden - unter anderem wegen Präsidentenbeleidigung. Bis zum Abschluss des Berufungsverfahrens kommt er jedoch auf freien Fuß. Von Benjamin Weber.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e96ed314-357f-424b-9db6-f786af32689c/AAABoOkXPzA/AAABnSSvrFg/16x9-big/papst-rede2-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ca83fbd6-df10-429b-8c52-1dd2987117b0/AAABoOlwuCA/AAABnSSvrFg/16x9-big/deniz-goktas-100.jpg?width=1280"
         },
         {
-          "title": "Russland stellt Metros Vermögenswerte unter Zwangsverwaltung",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-metro-vermoegenswerte-100.html",
-          "summary": "Die Metro AG hat nach Beginn des Ukraine-Kriegs sein Geschäft in Russland weitergeführt. Jetzt hat der russische Präsident Putin diesen Teil des Handelskonzerns unter Zwangsverwaltung gestellt. Zuvor war es schon anderen Unternehmen so ergangen.",
+          "title": "NRW-Landeschef Wüst trifft überraschend Erdogan in Türkei",
+          "url": "https://www.tagesschau.de/ausland/asien/hendrik-wuest-erdogan-tuerkei-100.html",
+          "summary": "Nordrhein-Westfalens Ministerpräsident Wüst ist für drei Tage zu Besuch in der Türkei. Anlass ist das 65-jährige Jubiläum des Gastarbeiter-Abkommens. Für viele überraschend traf Wüst dort Regierungschef Erdogan.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8317f509-b380-4be1-9c0c-12d5be111077/AAABoOjgIDo/AAABnSSvrFg/16x9-big/metro-einkaufswagen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/515ff731-c4f3-4c6c-9919-0afa701902f7/AAABoOlH61Y/AAABnSSvrFg/16x9-big/wuest-erdogan-100.jpg?width=1280"
         },
         {
-          "title": "Worum Union und SPD bei der Pflegereform ringen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reformen-pflege-100.html",
-          "summary": "Die Pflegereform hat ein Finanzierungsproblem, darin sind sich Union und SPD einig. Doch bei der Frage nach Lösungen liegen die Koalitionspartner weit auseinander. Gelingt der Durchbruch bis zur Kabinettssitzung am Mittwoch?",
+          "title": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
+          "url": "https://www.tagesschau.de/ausland/asien/tuerkei-kriminalisierung-lgbt-100.html",
+          "summary": "In der Türkei gehen die Behörden derzeit verstärkt gegen die LGBTQI-Community vor. Menschenrechtler sprechen von einer Kampagne der Kriminalisierung, Betroffene haben Angst vor noch mehr Stigmatisierung. Von Katharina Willinger.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/c8d6a06a-0c1a-4cf1-b151-faf4d53892a7/AAABoOlem1A/AAABnSSvrFg/16x9-big/verhaftung-tuerkei-104.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Jens Spahn räumt Sitz im Haushaltsausschuss – endlich mal eine gute Nachricht",
+          "url": "https://www.telepolis.de/article/Jens-Spahn-raeumt-Sitz-im-Haushaltsausschuss-endlich-mal-eine-gute-Nachricht-11468255.html",
+          "summary": "Jens Spahn gibt seinen Sitz im Haushaltsausschuss ab. Doch das eigentliche Problem heißt nicht Sardinien, sondern Masken. Ein Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/7/2/5/shutterstock_1888201069-e2823dbbf77dac9a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Brasilien: Milliarden-Offensive für kritische Rohstoffe",
+          "url": "https://www.telepolis.de/article/Brasilien-Milliarden-Offensive-fuer-kritische-Rohstoffe-11466310.html",
+          "summary": "21 Millionen Tonnen Seltene Erden, zweitgrößte Reserven weltweit – doch die Wertschöpfung findet im Ausland statt. Lulas neues Gesetz soll das ändern.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/1/7/2/4/Joa_Souza-e0118aa3daa380e2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "USA und Kuba: Geleaktes Dokument befeuert Debatte über Militäreinsatz",
+          "url": "https://www.telepolis.de/article/USA-und-Kuba-Geleaktes-Dokument-befeuert-Debatte-ueber-Militaereinsatz-11468007.html",
+          "summary": "Ein CBS-Bericht enthüllt eine interne Truppenabfrage mit Kuba-Bezug. Kampftruppen fehlen auf der Liste – dafür stehen Sanitäter und Pioniere darauf.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/5/9/2/shutterstock_2748443715-2ce25b6d59dd6f87.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Olympia-Versprechen eingelöst: Ministerpräsident Söder wagt sich mit OB Krause in die Achterbahn",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-soeder-krause-oktoberfest-achterbahn-li.3555092",
+          "summary": "Voller Einsatz für Olympia: Obwohl er kein Freund wilder Fahrgeschäfte ist, fährt der CSU-Chef Fünfer-Looping mit Münchens Oberbürgermeister. Gemeinsam wollen sie der Bewerbung nun auch international Schwung verleihen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/28/4839afae-9ac2-4a79-a613-c74385e90c4a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=337%2C0%2C3367%2C1894"
+        },
         {
           "title": "Elektromobilität: Chinesischer Batteriepartner kommt für VW-Partnerschaft nach Europa",
           "url": "https://www.sueddeutsche.de/wirtschaft/vw-partnerschaft-china-powerco-gotion-li.3555272",
@@ -107,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/28/523f2b3b-41d5-4668-8d13-5f6277fe5d42.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=356%2C449%2C3636%2C2045"
-        },
-        {
-          "title": "Newsblog zum Ukraine-Krieg: Nationale Akademie der Wissenschaften in Kiew in Flammen",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-rueckeroberung-gebiete-donezk-li.3549696",
-          "summary": "Das historische Gebäude ist nur etwa fünf Gehminuten von der deutschen Botschaft entfernt. Ein Video des ukrainischen Präsidenten Wolodimir Selenskij zeigt das Ausmaß des russischen Angriffs auf Kiew.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/28/3e17928a-7cb8-45b9-8b54-0ec8e47864f5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=111%2C1773%2C1349%2C759"
         }
       ]
     }
