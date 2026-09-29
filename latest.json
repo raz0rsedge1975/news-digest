@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-28T22:00:17.353Z",
-  "timestamp": "29.9.2026, 00:00:17",
+  "generated": "2026-09-29T02:00:17.156Z",
+  "timestamp": "29.9.2026, 04:00:17",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "NRW-Ministerpräsident in der Türkei: Und dann sitzt Wüst auf einmal bei Erdoğan",
-          "url": "https://www.spiegel.de/politik/deutschland/nrw-ministerpraesident-in-der-tuerkei-und-dann-sitzt-wuest-auf-einmal-bei-erdogan-a-2a690cd1-9240-4866-ba1d-ca6f226a4a66#ref=rss",
-          "summary": "Lächeln, erklären, versöhnen: Hendrik Wüst präsentiert sich auf einer groß angelegten Türkeireise als Gegenentwurf zum Kanzler. Und dann erhält der NRW-Ministerpräsident auch noch Audienz beim Staatspräsidenten.",
+          "title": "USA-China-Gipfel: Donald Trump dementiert angebliches Waffenangebot an Xi Jinping",
+          "url": "https://www.spiegel.de/ausland/usa-china-gipfel-donald-trump-dementiert-angebliches-waffenangebot-an-xi-jinping-a-e18ebcc2-d3af-435e-a19d-99d4854029b9#ref=rss",
+          "summary": "Wollen die USA Waffen an China verkaufen? Ein entsprechender Bericht sorgte für Aufsehen. Jetzt schaltet sich Donald Trump ein – und widerspricht seinem eigenen Botschafter in Peking.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4f7c30da-3885-42c8-a673-099b74f108a8_w1200_r1.778_fpx35.34_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cda75b91-7a53-48f2-8b8a-bd31e68f3238_w1200_r1.778_fpx51_fpy37.jpg"
         },
         {
           "title": "Schufa im Nationalsozialismus: Der jüdische Gründer Kurt Meyer trotzte den Nazis",
@@ -51,18 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/7acf3fb8-8b03-4d89-9c54-e969fbae2241_w1200_r1.778_fpx46.5_fpy50.jpg"
         },
         {
-          "title": "Johann Wadephul: Mit Sergej Lawrow in New York - Was der Außenminister mit seinem Sensationstreffen bezweckte",
-          "url": "https://www.spiegel.de/politik/deutschland/johann-wadephul-mit-sergej-lawrow-in-new-york-was-der-aussenminister-mit-seinem-sensationstreffen-bezweckte-a-ed7bb27b-707b-4fce-aeb1-931e38fc9f70#ref=rss",
-          "summary": "Außenpolitisch hat Johann Wadephul beim Gespräch mit seinem russischen Amtskollegen Sergej Lawrow nicht viel erreicht. Hinter dem Coup des Ministers dürfte aber ein anderes Kalkül stecken.",
+          "title": "NRW-Ministerpräsident in der Türkei: Und dann sitzt Wüst auf einmal bei Erdoğan",
+          "url": "https://www.spiegel.de/politik/deutschland/nrw-ministerpraesident-in-der-tuerkei-und-dann-sitzt-wuest-auf-einmal-bei-erdogan-a-2a690cd1-9240-4866-ba1d-ca6f226a4a66#ref=rss",
+          "summary": "Lächeln, erklären, versöhnen: Hendrik Wüst präsentiert sich auf einer groß angelegten Türkeireise als Gegenentwurf zum Kanzler. Und dann erhält der NRW-Ministerpräsident auch noch Audienz beim Staatspräsidenten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f208a6a4-81ef-4d0a-8bda-89ad9665811e_w1200_r1.778_fpx42.4_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4f7c30da-3885-42c8-a673-099b74f108a8_w1200_r1.778_fpx35.34_fpy54.99.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Nach Zwangsräumung in Madrid: Rentnerin darf zurück nach Hause",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
+          "summary": "Die 87-jährige Rentnerin, die in Madrid aus ihrer Wohnung zwangsgeräumt wurde, soll nach Hause zurückkehren können. Nach landesweiten Protesten will die spanische Regierung heute ein Dekret beschließen - gegen steigende Mieten und Wohnungsnot. Von H.-G. Kellner.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/06453b2b-aff3-42ea-a45f-07e4afd6fd25/AAABoOpzr6A/AAABnSSvrFg/16x9-big/protest-spanien-wohungsnot-100.jpg?width=1280"
+        },
         {
           "title": "Türkei: Comedian Göktaş zu 18 Monaten Haft verurteilt",
           "url": "https://www.tagesschau.de/ausland/europa/tuerkischer-comedian-kommt-aus-haft-frei-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/515ff731-c4f3-4c6c-9919-0afa701902f7/AAABoOlH61Y/AAABnSSvrFg/16x9-big/wuest-erdogan-100.jpg?width=1280"
-        },
-        {
-          "title": "Türkei: \"Gesellschaft soll Angst vor queeren Menschen bekommen\"",
-          "url": "https://www.tagesschau.de/ausland/asien/tuerkei-kriminalisierung-lgbt-100.html",
-          "summary": "In der Türkei gehen die Behörden derzeit verstärkt gegen die LGBTQI-Community vor. Menschenrechtler sprechen von einer Kampagne der Kriminalisierung, Betroffene haben Angst vor noch mehr Stigmatisierung. Von Katharina Willinger.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c8d6a06a-0c1a-4cf1-b151-faf4d53892a7/AAABoOlem1A/AAABnSSvrFg/16x9-big/verhaftung-tuerkei-104.jpg?width=1280"
         }
       ]
     },
@@ -93,12 +93,20 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Verborgene Kammern neben Tutanchamuns Grab? Neue Daten nähren alte Hoffnungen",
+          "url": "https://www.telepolis.de/article/Verborgene-Kammern-neben-Tutanchamuns-Grab-Neue-Daten-naehren-alte-Hoffnungen-11460432.html",
+          "summary": "Geophysikalische Untersuchungen rund um das berühmteste Grab im Tal der Könige haben unterirdische Anomalien ans Licht gebracht. Was die Forscher vermuten.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/6/8/7/4/6/Inside_the_tomb_of_Tutankhamun__1_-e2b9bb969e5c8c92.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Jens Spahn räumt Sitz im Haushaltsausschuss – endlich mal eine gute Nachricht",
           "url": "https://www.telepolis.de/article/Jens-Spahn-raeumt-Sitz-im-Haushaltsausschuss-endlich-mal-eine-gute-Nachricht-11468255.html",
           "summary": "Jens Spahn gibt seinen Sitz im Haushaltsausschuss ab. Doch das eigentliche Problem heißt nicht Sardinien, sondern Masken. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/7/2/5/shutterstock_1888201069-e2823dbbf77dac9a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "Brasilien: Milliarden-Offensive für kritische Rohstoffe",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/1/7/2/4/Joa_Souza-e0118aa3daa380e2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "USA und Kuba: Geleaktes Dokument befeuert Debatte über Militäreinsatz",
-          "url": "https://www.telepolis.de/article/USA-und-Kuba-Geleaktes-Dokument-befeuert-Debatte-ueber-Militaereinsatz-11468007.html",
-          "summary": "Ein CBS-Bericht enthüllt eine interne Truppenabfrage mit Kuba-Bezug. Kampftruppen fehlen auf der Liste – dafür stehen Sanitäter und Pioniere darauf.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/2/5/9/2/shutterstock_2748443715-2ce25b6d59dd6f87.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Newsblog zum Ukraine-Krieg: Putin stockt russische Armee auf 1,55 Millionen Soldaten auf",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-armee-soldaten-putin-mobilmachung-li.3549696",
+          "summary": "Die Zahl der aktiven Soldaten steigt um 15.500. Der russische Präsident hat das entsprechende Dekret bereits unterschrieben.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/08/12/6e998b9d-d882-40ff-aa6d-2718e411beca.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C141%2C4000%2C2250"
+        },
         {
           "title": "Olympia-Versprechen eingelöst: Ministerpräsident Söder wagt sich mit OB Krause in die Achterbahn",
           "url": "https://www.sueddeutsche.de/muenchen/muenchen-soeder-krause-oktoberfest-achterbahn-li.3555092",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/28/d5d15ba8-8bd2-4dbd-a3e0-736eacbf728a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
-        },
-        {
-          "title": "Evidenzbasierte Medizin: Bund streicht renommierter Cochrane-Stiftung die Förderung",
-          "url": "https://www.sueddeutsche.de/politik/warken-ausstieg-foerderung-cochrane-evidenzbasiert-medizin-li.3553545",
-          "summary": "Die an der Uni Freiburg angesiedelte Stiftung untersucht den Nutzen medizinischer Therapien. Auf die Entscheidung des Gesundheitsministeriums reagieren Fachleute mit Unverständnis.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/28/523f2b3b-41d5-4668-8d13-5f6277fe5d42.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=356%2C449%2C3636%2C2045"
         }
       ]
     }
