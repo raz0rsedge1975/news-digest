@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T22:00:16.414Z",
-  "timestamp": "30.9.2026, 00:00:16",
+  "generated": "2026-09-30T02:00:10.187Z",
+  "timestamp": "30.9.2026, 04:00:10",
   "news": [
     {
       "source": "FAZ",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Großbritannien: Andy Burnham versprüht bei Labour-Parteitag Hoffnung",
+          "url": "https://www.spiegel.de/ausland/grossbritannien-andy-burnham-versprueht-bei-labour-parteitag-hoffnung-a-045935cc-326e-4a64-8a92-9ae33789ca8b#ref=rss",
+          "summary": "Er zeichnet ein düsteres Bild Großbritanniens, wird persönlich und versprüht dennoch Hoffnung: Andy Burnham hat mit seiner ersten Parteitagsrede als Premier ein Programm für die kommenden Jahre vorgelegt. Womöglich für ein ganzes Jahrzehnt.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/303871ed-1778-4960-ad05-bbe1b5daab5d_w1200_r1.778_fpx50_fpy42.jpg"
+        },
+        {
           "title": "Russlands Attacken auf Kyjiw: Luftangriffe zu jeder Tages- und Nachtzeit",
           "url": "https://www.spiegel.de/ausland/russlands-attacken-auf-kyjiw-luftangriffe-zu-jeder-tages-und-nachtzeit-a-0c1baf4d-dcff-432d-91e4-9dd811b55410#ref=rss",
           "summary": "Russland greift verstärkt die Innenstadt von Kyjiw an. Insbesondere Rechenzentren gehen in Flammen auf. Die Bevölkerung reagiert stoisch.",
@@ -49,20 +57,20 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/246122c5-2c4d-475c-a23c-3d6e12e447e4_w1200_r1.778_fpx67.33_fpy55.jpg"
-        },
-        {
-          "title": "USA: Donald Trump setzt bei Künstlicher Intelligenz auf Selbstregulierung der Techbranche",
-          "url": "https://www.spiegel.de/ausland/usa-donald-trump-setzt-bei-kuenstlicher-intelligenz-auf-selbstregulierung-der-techbranche-a-359d0419-22e2-4766-b951-8be849400e40#ref=rss",
-          "summary": "Die Warnungen vor KI werden immer lauter, doch US-Präsident Donald Trump will von gesetzlichen Einschränkungen weiterhin nichts wissen. Mit Vertretern aus Branche unterschrieb er jetzt eine »moralisch bindende« Vereinbarung.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/50fdb010-c687-4dcc-aa34-80c668465ed5_w1200_r1.778_fpx63.51_fpy44.99.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+          "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten. KI-Unternehmen sollen sich freiwillig selbst kontrollieren.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/cba5a9e6-4222-4311-80f4-5ba8a75cbbbd/AAABoO9foE8/AAABnSSvrFg/16x9-big/trump-5304.jpg?width=1280"
+        },
         {
           "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
           "url": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/cb2db7ba-55c9-4f07-a3eb-0bf7ee345fd1/AAABoO6yHu4/AAABnSSvrFg/16x9-big/merz-tokajew-102.jpg?width=1280"
-        },
-        {
-          "title": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
-          "url": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
-          "summary": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisheriger Wohnungsbauministerin El Mansouri.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/d3a2589b-38c8-41aa-8129-bc45456360c2/AAABoO6P8-g/AAABnSSvrFg/16x9-big/el-mansouri-102.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "OpenAI hält neues Modell zurück: Wenn KI immer unverständlicher wird",
+          "url": "https://www.telepolis.de/article/OpenAI-haelt-neues-Modell-zurueck-Wenn-KI-immer-unverstaendlicher-wird-11469389.html",
+          "summary": "OpenAI stoppt die Veröffentlichung des Astra 6. 1-Modells wegen eigenmächtiger Eingriffe. Der Fall ist kein Ausrutscher, sondern zeigt ein strukturelles Problem.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/3/2/9/6/shutterstock_2719900129-7b1da884cef26232.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Gasspeicher: Branchenvertreter fordern jetzt eine staatliche Reserve",
           "url": "https://www.telepolis.de/article/Gasspeicher-Branchenvertreter-fordern-jetzt-eine-staatliche-Reserve-11470113.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/3/4/9/2/shutterstock_2711260277-c921e69563f910f0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Starship erreicht erstmals Erdumlaufbahn – mit Satelliten an Bord",
-          "url": "https://www.telepolis.de/article/Starship-erreicht-erstmals-Erdumlaufbahn-mit-Satelliten-an-Bord-11469541.html",
-          "summary": "Testflug gelang SpaceX erstmals der Orbitalflug des Starship. Trotz Triebwerksproblemen wurden 26 Starlink-Satelliten ausgesetzt. Ein Überblick.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Maischberger und der Antisemitismus bei den Linken: „Das Problem haben sie doch schon seit Jahren“",
+          "url": "https://www.sueddeutsche.de/medien/maischberger-und-der-antisemitismus-bei-den-linken-das-problem-haben-sie-doch-schon-seit-jahren-li.3555725",
+          "summary": "Statt der Wahlsiegerin Eralp kommt Ex-Linkenchef van Aken in die TV-Runde. Trotz seines Bekenntnisses, Antisemiten hätten bei der Partei nichts zu suchen, tut er sich schwer, die Vorwürfe zu entkräften. Das hat auch mit der langen Vorgeschichte zu tun.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/04/15/d03ec730-7119-43b5-b14f-1e0cc6027469.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C123%2C4000%2C2250"
+        },
         {
           "title": "Newsblog zu KI: Trump und Tech-Chefs unterschreiben „moralisch bindendes“ KI-Dokument",
           "url": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-open-trump-ki-verfassung-ai-chat-gpt-sicherheitsbedenken-li.3547133",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/08/16/e72de5e6-3272-4635-9f8a-4f31c1f4461d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=555%2C493%2C1415%2C796"
-        },
-        {
-          "title": "USA-Newsblog: Oberster Gerichtshof erlaubt vorerst wieder Abschiebungen in Drittstaaten",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-abschiebungen-supreme-court-drittstaaten-li.3530667",
-          "summary": "Die US-Regierung schob Menschen in Länder ab, die nicht ihre Heimat sind – ohne die Chance auf Einwände. Der Rechtsstreit über diese Praxis geht nach einem Etappensieg für US-Präsident Trump weiter.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/29/384c31ac-8fa2-4bff-959c-d713b2b13205.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
         }
       ]
     }
