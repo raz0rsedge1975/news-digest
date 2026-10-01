@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-30T22:00:15.654Z",
-  "timestamp": "1.10.2026, 00:00:15",
+  "generated": "2026-10-01T02:00:38.442Z",
+  "timestamp": "1.10.2026, 04:00:38",
   "news": [
     {
       "source": "FAZ",
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/196abb2b-28b3-4b39-ba96-dff3bbb61b7f_w1200_r1.778_fpx47_fpy38.jpg"
         },
         {
-          "title": "AfD-Wahlkampf in Sachsen-Anhalt: Staatsrechtler zweifeln Gültigkeit der Wahl an",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-wahlkampf-in-sachsen-anhalt-staatsrechtler-zweifeln-gueltigkeit-der-wahl-an-a-137983c8-4b6d-4ef0-bff9-308cbcdfdaf9#ref=rss",
-          "summary": "Die AfD hat in Sachsen-Anhalt bei der Landtagswahl triumphiert. Die Juraprofessorin Sophie Schönberger kritisiert eine unsaubere Wahlkampffinanzierung. Das könne dazu führen, dass die Wahl wiederholt werden muss.",
+          "title": "Flydubai: Benjamin Netanyahu würdigt Piloten nach Angriff als »wahren Helden«",
+          "url": "https://www.spiegel.de/ausland/flydubai-benjamin-netanyahu-wuerdigt-piloten-nach-angriff-als-wahren-helden-a-827820ff-8aa8-4849-b587-77288050548d#ref=rss",
+          "summary": "Laut Israels Premier hat der Kapitän der Flydubai-Maschine eine »Katastrophe« verhindert. Inzwischen melden sich auch mehrere Passagiere zu Wort. Darunter der Mann, der den mutmaßlichen Angreifer im Cockpit überwältigt haben will.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e0cce936-b379-443a-9d65-997f3c7ff66e_w1200_r1.778_fpx50_fpy49.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e8919380-45c2-4314-a8c8-0d21279dae35_w1200_r1.778_fpx58_fpy30.jpg"
         },
         {
-          "title": "Flydubai: Gewalt an Bord – Mann mit Messer auf Flug nach Tel Aviv überwältigt",
-          "url": "https://www.spiegel.de/ausland/flydubai-gewalt-an-bord-mann-mit-messer-auf-flug-nach-tel-aviv-ueberwaeltigt-a-e1892e1b-40ec-4c34-984d-dfb33b616f36#ref=rss",
-          "summary": "Videos zeigen die Situation auf einem Flug von Dubai nach Tel Aviv: Nach Medienberichten wurde der Kapitän mit einem Messer attackiert. Passagiere überwältigten offenbar den Täter, die Maschine landete sicher in Saudi-Arabien.",
+          "title": "Wahlkampfhilfe für Donald Trump: USA wollen Europas Diesel-Vorräte freipressen",
+          "url": "https://www.spiegel.de/wirtschaft/wahlkampfhilfe-fuer-donald-trump-usa-wollen-europas-diesel-vorraete-freipressen-a-0e013ec0-61d3-4cb9-86d5-be36f9d8d9b5#ref=rss",
+          "summary": "Donald Trump steht vor den Zwischenwahlen mit dem Rücken zur Wand. Nun versucht er offenbar, die Europäer zur Freigabe ihrer strategischen Dieselreserven zu zwingen – um die Preise in den USA zu drücken.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e7007417-13c1-4b1a-a76b-440de8aaba98_w1080_r1.778_fpx52.97_fpy25.32.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/391e97b0-7fc0-409c-bfe0-947ea86b7b47_w1200_r1.778_fpx33.33_fpy49.99.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
+          "summary": "Nicht nur Schüler, sondern auch Eltern sind betroffen: In Italien gilt jetzt an Schulen ein Verschleierungsverbot und eine Sprachquote. Staatschef Mattarella unterschrieb am Abend ein Gesetzesdekret der rechten Meloni-Regierung.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/55b45400-030c-4a7b-a0c0-5fffa8cfca27/AAABoPTdPVE/AAABnSSvrFg/16x9-big/meloni-burkaverbot-sprachquote-italien-100.jpg?width=1280"
+        },
+        {
+          "title": "US-Verteidigungsminister Hegseth verschlankt US-Armee - neue Rolle für Musk",
+          "url": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
+          "summary": "Der US-Verteidigungsminister strukturiert weiter die Armee um: Künftig soll es 20 Prozent weniger Offiziere und Planstellen geben. Zudem kommt Elon Musk eine neue Rolle zu: Der Tech-Milliardär soll die künftige Kriegsführung erforschen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c300d0ed-a041-487d-ba53-13f49b250255/AAABoPSa0dQ/AAABnSSvrFg/16x9-big/hegseth-militaer-rede-100.jpg?width=1280"
+        },
+        {
           "title": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
           "url": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
           "summary": "Nach dem gewaltsamen Vorfall im Cockpit eines Flydubai-Flugzeugs auf dem Weg nach Tel Aviv geht die israelische Regierung von einem versuchten Terroranschlag aus. Was über den Zwischenfall bekannt ist - und was nicht.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/fbe9bd8d-95ad-49dd-b3d7-3b17cac47ac8/AAABoPPLqPg/AAABnSSvrFg/16x9-big/flydubai-flugzeug-102.jpg?width=1280"
-        },
-        {
-          "title": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
-          "url": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
-          "summary": "Großbritannien hat nach Angaben von Premier Burnham Hinweise, dass Iran in den Vorfall nahe dem Luftwaffenstützpunkt Fairford verwickelt ist. Teheran bestreitet jegliche Beteiligung. Viele Details sind weiter unklar.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
-          "url": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
-          "summary": "Mit Erdöl kennt sich Aliko Dangote aus: Der reichste Afrikaner betreibt in Nigeria die größte Raffinerie des Kontinents. Nun soll eine weitere in Kenia dazukommen. Dangote verfolgt damit große Pläne.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/b9ff2a4a-7dbe-4a32-a188-e60a918e51cb/AAABoPJ28ls/AAABnSSvrFg/16x9-big/luftaufnahme-insel-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "US-Marine kauft 30 autonome Drohnenboote für 1,2 Milliarden Dollar",
+          "url": "https://www.telepolis.de/article/US-Marine-kauft-30-autonome-Drohnenboote-fuer-1-2-Milliarden-Dollar-11470981.html",
+          "summary": "Die US-Marine vergibt Aufträge für 30 unbemannte Oberflächenfahrzeuge an drei Werften in Louisiana. Die Boote sollen ab Ende 2027 ausgeliefert werden.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/0/9/9/image-d2f242b407bd391d.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "TikTok-Trend \"Cat in the Hat\" an Schulen: Was Eltern jetzt wissen müssen",
           "url": "https://www.telepolis.de/article/TikTok-Trend-Cat-in-the-Hat-an-Schulen-Was-Eltern-jetzt-wissen-muessen-11471725.html",
@@ -106,15 +114,7 @@
           "summary": "Isotopenanalysen offenbaren 36,3 °C Körpertemperatur beim T. rex. Diese innere Heizung erlaubte dem Urzeit-Giganten das Überleben im kalten Norden.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/2/9/8/trex-thermal__UCLA-018c6e79d14739b5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Pflegereform beschlossen: Warum die SPD das Sparpaket so nicht hinnimmt",
-          "url": "https://www.telepolis.de/article/Pflegereform-im-Kabinett-beschlossen-Koalitionsstreit-bis-zur-letzten-Minute-11470859.html",
-          "summary": "Die Pflegekassen steuern auf ein Milliarden-Defizit zu. Die Koalition hat nun einen Kompromiss beschlossen – die großen Konflikte bleiben offen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/0/3/8/shutterstock_2409163709-b85e905c2787869f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -126,16 +126,16 @@
           "url": "https://www.sueddeutsche.de/sport/klopp-muenchen-pressekonferenz-kapitaen-li.3556612",
           "summary": "Vor dem Länderspiel gegen Serbien plädiert der Bundestrainer für Geduld mit dem neuen Kurs der Nationalmannschaft. In Abwesenheit von Joshua Kimmich findet Klopp bei der Kapitänsfrage eine pragmatische Lösung.",
           "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/30/6c59be6c-05e4-4f55-bfc9-b264f669b036.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C112%2C3500%2C1969"
+          "paywall": false,
+          "image": null
         },
         {
           "title": "Newsblog zur Bundespolitik: Linken-Politiker Koçak gibt Sitz im Innenausschuss ganz auf",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-ferat-kocak-linke-clans-li.3529564",
           "summary": "Der Berliner Linken-Abgeordnete zieht damit Konsequenzen, nachdem es größere Diskussionen über seine Nähe zu mutmaßlichen Angehörigen krimineller Clanstrukturen gegeben hatte. Er hatte die Ausschusstätigkeit bereits ruhen lassen.",
           "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/30/9593f09e-7c6d-4274-9623-10b39f0ecbd5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
+          "paywall": false,
+          "image": null
         },
         {
           "title": "Podcast „Auf den Punkt“: Was die Pflege braucht, ist längst klar – nur umgesetzt wird es nicht",
