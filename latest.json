@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-01T02:00:38.442Z",
-  "timestamp": "1.10.2026, 04:00:38",
+  "generated": "2026-10-01T06:00:20.083Z",
+  "timestamp": "1.10.2026, 08:00:20",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Künstliche Intelligenz: Warum Trump die KI-Risiken ignoriert",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-trump-die-ki-risiken-ignoriert-201275958.html",
-          "summary": "Die USA verzichten auf Vorgaben für Künstliche Intelligenz. Zu groß ist die Bedeutung für die US-Wirtschaft. Doch mit den Investitionen wachsen die Risiken.",
+          "title": "Ärger um Kaliningrad: Was hinter Russlands Drohungen gegen die NATO steht",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/kaliningrad-was-hinter-russlands-drohungen-gegen-die-nato-steht-accg-201275873.html",
+          "summary": "Die russischen Botschaften in Brüssel und Dublin beschwören eine Abtrennung Kaliningrads durch die NATO. Und drohen dem Bündnis selbst mit dem „ganzen Arsenal“.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/27283ca211f3/w6000h3135x0y637o/202609/43601.0.2611158026/us-praesident-donald-trump.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4e528b092219/w3744h1956x0y465o/202609/43601.0.2613228058/von-kaliningrads-plattenbauten.webp"
         },
         {
-          "title": "Business-Ticker: USA ermitteln wegen Cyberangriffen gegen KI-Entwickler",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-usa-ermitteln-wegen-cyberangriffen-gegen-ki-entwickler-faz-200452404.html",
-          "summary": "Tippfehler in Trumps Abkommen für „Superintelligenz“ sorgt für Spott  +++ Mercedes-Benz reaktiviert Abfindungsprogramm +++ Neuigkeiten im Unternehmen-Liveblog",
+          "title": "Deutsches RusslandBild: „Putins Führungsstil erscheint vielen attraktiv“",
+          "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/sehnsucht-nach-einem-diktator-gwendolyn-sasse-russlandbild-der-deutschen-accg-201225389.html",
+          "summary": "Gwendolyn Sasse hat die Deutschen zu ihrem Russlandbild befragt und ist auf interessante Antworten gestoßen: Viele Bürger wünschen sich insgeheim jemanden, der diktatorisch durchgreift – in Ost und West. Ein Gespräch.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/eae89f6fd211/w5500h2873x0y203o/202609/43601.0.2595168220/ftc-chef-andrew-ferguson-steht.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/1d279a2fa1e7/w3464h1809x0y288o/202204/43600.0.858165244/kein-ostphaenomen-prorussische.webp"
         },
         {
-          "title": "Künstliche Intelligenz: Nvidia will KI mit neuer Software im Zaum halten",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-ki-sicherheitsplattform-jensen-huangs-neuer-plan-201269402.html",
-          "summary": "Vorstandschef Jensen Huang hat KI-Risiken zuletzt wiederholt heruntergespielt und als technisch lösbare Herausforderung beschrieben. Jetzt kündigt er eine neue Sicherheitsplattform für KI an.",
+          "title": "Flydubai-Maschine: Netanjahu nennt den angegriffenen Piloten einen „wahren Helden“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/nach-notlandung-von-flydubai-maschine-netanjahu-nennt-angegriffenen-piloten-einen-wahren-helden-accg-201278451.html",
+          "summary": "Der Flug von Dubai nach Tel Aviv ist offenbar nur knapp einer Katastrophe entronnen, Israel spricht von einem Terroranschlag. Nun werden immer mehr Details dazu bekannt, was sich im Cockpit abspielte.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2b950bcc5dfa/w4871h2545x25y254o/202609/43601.0.2557779342/wir-brauchen-keine-neuen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f7dca11e305b/w8192h4280x0y762o/202609/43601.0.2614907193/nach-der-landung-in-israel.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Hape Kerkeling zum AfD-Verbot: Wann, wenn nicht jetzt?",
-          "url": "https://www.spiegel.de/politik/deutschland/hape-kerkeling-zum-afd-verbot-wann-wenn-nicht-jetzt-a-2b15ab6d-9152-4c7c-b58e-92d458ed1eee#ref=rss",
-          "summary": "Hape Kerkeling und Hans-Georg Maaßen waren dabei: Im Thüringer Landtag haben Fachleute und Prominente stundenlang über die AfD diskutiert. Der Ausgang der Debatte ist offen – und könnte wegweisend sein.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/196abb2b-28b3-4b39-ba96-dff3bbb61b7f_w1200_r1.778_fpx47_fpy38.jpg"
-        },
-        {
           "title": "Flydubai: Benjamin Netanyahu würdigt Piloten nach Angriff als »wahren Helden«",
           "url": "https://www.spiegel.de/ausland/flydubai-benjamin-netanyahu-wuerdigt-piloten-nach-angriff-als-wahren-helden-a-827820ff-8aa8-4849-b587-77288050548d#ref=rss",
-          "summary": "Laut Israels Premier hat der Kapitän der Flydubai-Maschine eine »Katastrophe« verhindert. Inzwischen melden sich auch mehrere Passagiere zu Wort. Darunter der Mann, der den mutmaßlichen Angreifer im Cockpit überwältigt haben will.",
+          "summary": "Laut Israels Premier hat der indische Kapitän der Flydubai-Maschine eine »Katastrophe« verhindert. Inzwischen melden sich auch mehrere Passagiere zu Wort. Darunter der Mann, der den mutmaßlichen Angreifer im Cockpit überwältigt haben will.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/e8919380-45c2-4314-a8c8-0d21279dae35_w1200_r1.778_fpx58_fpy30.jpg"
         },
         {
-          "title": "Wahlkampfhilfe für Donald Trump: USA wollen Europas Diesel-Vorräte freipressen",
-          "url": "https://www.spiegel.de/wirtschaft/wahlkampfhilfe-fuer-donald-trump-usa-wollen-europas-diesel-vorraete-freipressen-a-0e013ec0-61d3-4cb9-86d5-be36f9d8d9b5#ref=rss",
-          "summary": "Donald Trump steht vor den Zwischenwahlen mit dem Rücken zur Wand. Nun versucht er offenbar, die Europäer zur Freigabe ihrer strategischen Dieselreserven zu zwingen – um die Preise in den USA zu drücken.",
+          "title": "News: Tankrabatt, Friedenspreis an Nato, Filmkritik »Digger« mit Tom Cruise",
+          "url": "https://www.spiegel.de/politik/deutschland/news-tankrabatt-friedenspreis-an-nato-filmkritik-digger-mit-tom-cruise-a-267aaf6a-db47-45d7-a1a0-25537720d0c8#ref=rss",
+          "summary": "Benzin und Diesel sind dank Regierungsrabatt billiger. Ausgerechnet die Nato bekommt einen Friedenspreis. Und im Kino läuft der womöglich schrecklichste Film des Jahres. Das ist die Lage am Donnerstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/391e97b0-7fc0-409c-bfe0-947ea86b7b47_w1200_r1.778_fpx33.33_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/05ee3bc4-0d0f-4172-9539-3ca50e187053_w1200_r1.778_fpx33.34_fpy50.jpg"
+        },
+        {
+          "title": "Tankrabatt: Start bringt spürbaren Rückgang der Spritpreise",
+          "url": "https://www.spiegel.de/wirtschaft/service/tankrabatt-start-bringt-spuerbaren-rueckgang-der-spritpreise-a-8f36c371-f735-48b9-8388-8786dae75db1#ref=rss",
+          "summary": "Mit der Einführung des Tankrabatts wurde Benzin an Tankstellen im Schnitt offenbar um 10 bis 11 Cent günstiger. Erste Daten zeigen aber auch, wo das Angebot noch nicht angekommen ist.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/cb1a35ac-866e-47a9-a917-da32ddceacdc_w1200_r1.778_fpx34_fpy7.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
-          "url": "https://www.tagesschau.de/ausland/europa/italien-erlaesst-burkaverbot-und-sprachquote-an-schulen-100.html",
-          "summary": "Nicht nur Schüler, sondern auch Eltern sind betroffen: In Italien gilt jetzt an Schulen ein Verschleierungsverbot und eine Sprachquote. Staatschef Mattarella unterschrieb am Abend ein Gesetzesdekret der rechten Meloni-Regierung.",
+          "title": "Gescheiterte Hinrichtung: Verurteilte überlebt zwei Giftspritzen",
+          "url": "https://www.tagesschau.de/ausland/amerika/hinrichtung-usa-supreme-court-100.html",
+          "summary": "Vor 30 Jahren wurde Christa Pike in den USA wegen Mordes zum Tode verurteilt. Nun sollte die Hinrichtung nach langem juristischen Tauziehen vollzogen werden - doch die Verurteilte überlebte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/55b45400-030c-4a7b-a0c0-5fffa8cfca27/AAABoPTdPVE/AAABnSSvrFg/16x9-big/meloni-burkaverbot-sprachquote-italien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8a9b49a5-60b6-4d2e-abc7-3b2ff0ceffe0/AAABld854Bw/AAABnSSvrFg/16x9-big/alabama-todesstrafe-stickstoff-100.jpg?width=1280"
         },
         {
-          "title": "US-Verteidigungsminister Hegseth verschlankt US-Armee - neue Rolle für Musk",
-          "url": "https://www.tagesschau.de/ausland/amerika/hegseth-entlaesst-offiziere-musk-untersucht-kriegsfuehrung-100.html",
-          "summary": "Der US-Verteidigungsminister strukturiert weiter die Armee um: Künftig soll es 20 Prozent weniger Offiziere und Planstellen geben. Zudem kommt Elon Musk eine neue Rolle zu: Der Tech-Milliardär soll die künftige Kriegsführung erforschen.",
+          "title": "Marktbericht: DAX dürfte mit Verlusten starten",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html",
+          "summary": "Der neue Monat verheißt zunächst keine Gewinne für den deutschen Leitindex. Schwache Vorgaben aus Asien und die hohen Renditen der Staatsanleihen dürften den DAX ins Minus drücken.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c300d0ed-a041-487d-ba53-13f49b250255/AAABoPSa0dQ/AAABnSSvrFg/16x9-big/hegseth-militaer-rede-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9665c1da-a9f3-45e3-85ec-906c3f567c9f/AAABk92yH2w/AAABnSSvrFg/16x9-big/boerse-382.jpg?width=1280"
         },
         {
-          "title": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
-          "url": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
-          "summary": "Nach dem gewaltsamen Vorfall im Cockpit eines Flydubai-Flugzeugs auf dem Weg nach Tel Aviv geht die israelische Regierung von einem versuchten Terroranschlag aus. Was über den Zwischenfall bekannt ist - und was nicht.",
+          "title": "Freiwilliger Spritpreisdeckel - auch in Deutschland denkbar?",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-deckel-europa-deutschland-100.html",
+          "summary": "In Frankreich und Italien begrenzen große Mineralölkonzerne die Preise an ihren Tankstellen. Dafür verzichten sie auf einen Teil ihrer Gewinne. Könnten Konzerne in Deutschland das auch machen? Von Michelle Goddemeier.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fbe9bd8d-95ad-49dd-b3d7-3b17cac47ac8/AAABoPPLqPg/AAABnSSvrFg/16x9-big/flydubai-flugzeug-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/15587356-46b5-4e1e-83a9-eb9408b7be63/AAABoPFs0WE/AAABnSSvrFg/16x9-big/tankstelle-frankreich-102.jpg?width=1280"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Die US-Marine vergibt Aufträge für 30 unbemannte Oberflächenfahrzeuge an drei Werften in Louisiana. Die Boote sollen ab Ende 2027 ausgeliefert werden.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/0/9/9/image-d2f242b407bd391d.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "TikTok-Trend \"Cat in the Hat\" an Schulen: Was Eltern jetzt wissen müssen",
@@ -106,7 +106,7 @@
           "summary": "Der US-Trend \"Cat in the Hat\" erreicht deutsche Schulen. In Sachsen-Anhalt gab es erste Einsätze – die Polizei warnt vor strafbaren Handlungen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/4/9/3/generated-image-1__1_-6467d0d5864af843.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": null
         },
         {
           "title": "36,3 Grad Körperwärme: Warum der T. rex selbst in Alaska überleben konnte",
@@ -114,7 +114,7 @@
           "summary": "Isotopenanalysen offenbaren 36,3 °C Körpertemperatur beim T. rex. Diese innere Heizung erlaubte dem Urzeit-Giganten das Überleben im kalten Norden.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/2/9/8/trex-thermal__UCLA-018c6e79d14739b5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "DFB-Team: Klopps kleine Verteidigungsrede",
-          "url": "https://www.sueddeutsche.de/sport/klopp-muenchen-pressekonferenz-kapitaen-li.3556612",
-          "summary": "Vor dem Länderspiel gegen Serbien plädiert der Bundestrainer für Geduld mit dem neuen Kurs der Nationalmannschaft. In Abwesenheit von Joshua Kimmich findet Klopp bei der Kapitänsfrage eine pragmatische Lösung.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Newsblog zur Bundespolitik: Linken-Politiker Koçak gibt Sitz im Innenausschuss ganz auf",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-ferat-kocak-linke-clans-li.3529564",
-          "summary": "Der Berliner Linken-Abgeordnete zieht damit Konsequenzen, nachdem es größere Diskussionen über seine Nähe zu mutmaßlichen Angehörigen krimineller Clanstrukturen gegeben hatte. Er hatte die Ausschusstätigkeit bereits ruhen lassen.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Podcast „Auf den Punkt“: Was die Pflege braucht, ist längst klar – nur umgesetzt wird es nicht",
-          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-gesundheit-pflege-plegereform-li.3556367",
-          "summary": "Die Bundesregierung hat sich auf Maßnahmen zur Finanzierung der Pflegeversicherung geeinigt. Doch es braucht viel mehr als das.",
+          "title": "Robert Habeck über die Arktis: Tiefenbohrung im fragilen Eis",
+          "url": "https://www.sueddeutsche.de/politik/robert-habeck-buch-arktis-geopolitik-klimaschutz-arctic-meltdown-li.3547453",
+          "summary": "„Arctic Meltdown“ heißt das neue Buch des ehemaligen Wirtschafts- und Klimaministers Robert Habeck. Es ist aber kein Thriller, sondern eine dringend nötige sicherheitspolitische Analyse über Nordeuropa.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C3200%2C1800"
+          "image": "https://www.sueddeutsche.de/2025/02/10/fe0d774b-df71-4cd9-907e-8aaf0e22a945.jpeg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C156%2C3000%2C1687"
+        },
+        {
+          "title": "Verfassungsgericht: Steht es Politikern denn zu, eine mögliche Gefahr für die Demokratie auszusitzen?",
+          "url": "https://www.sueddeutsche.de/meinung/afd-verbot-verfassungsgericht-regierungsmehrheit-kommentar-li.3555655",
+          "summary": "Eine Regierungsmehrheit muss den Weg für ein Verbotsverfahren gegen die AfD freimachen. Und sorgt sich, dass es wirkt, als wolle sie unfein ihre Konkurrenz loswerden. Das sollte so nicht sein.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/01/7c0b308c-f86a-4622-a337-22f7f3d27a9a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C230%2C4000%2C2250"
+        },
+        {
+          "title": "Newsblog zu den Landtagswahlen: Gespräche zur Regierungsbildung in Berlin beginnen",
+          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-berlin-rathaus-regierungsbildung-linke-gruene-spd-li.3540501",
+          "summary": "Bei der Wahl zum Berliner Abgeordnetenhaus wurde die Linke stärkste Kraft. An diesem Donnerstag gibt es ein „Vorgespräch“ mit Grünen und SPD.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/01/55f192ef-05e5-4ded-9a0c-aeb3beaba6ec.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
