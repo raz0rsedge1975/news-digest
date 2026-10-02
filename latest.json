@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-02T10:00:18.335Z",
-  "timestamp": "2.10.2026, 12:00:18",
+  "generated": "2026-10-02T14:00:17.919Z",
+  "timestamp": "2.10.2026, 16:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Regierungspolitik: Der „gefährliche Weg“ der sozialen Gerechtigkeit",
+          "title": "Dieselreserven: Trump droht, die EU reagiert – dabei gibt es keinen Engpass",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-dieselreserven-wie-europa-auf-trumps-drohung-reagiert-201282945.html",
+          "summary": "Die amerikanische Regierung verlangt von Deutschland und Frankreich, die Dieselreserven freizugeben und droht mit einem Exportstopp. Hinter den Kulissen gibt es jetzt Bewegung.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/bb5ef391eb55/w3387h1769x0y101o/202610/43601.0.2619755834/den-amerikanischen.webp"
+        },
+        {
+          "title": "Redet mit Ministern: Steinmeier sorgt sich um die Koalition",
+          "url": "https://www.faz.net/aktuell/politik/inland/sorge-um-koalition-steinmeier-telefoniert-mit-ministern-accg-201282715.html",
+          "summary": "Immer wieder spricht der Bundespräsident mit den Spitzen von Regierung und Parteien. Zuletzt hat er den Austausch intensiviert – wegen des Zustands der Koalition.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/2cf598e85fbd/w6000h3135x0y296o/202609/43601.0.2604935663/steinmeier-bei-den.webp"
+        },
+        {
+          "title": "Regierungspolitik: „Ich sehe in der Grundsicherung einen Gerechtigkeitsverstoß“",
           "url": "https://www.faz.net/aktuell/politik/inland/interview-mit-philosoph-wie-gerecht-ist-soziale-gerechtigkeit-accg-201270495.html",
           "summary": "Interview mit dem Philosoph Otfried Höffe: Wie gerecht ist \"soziale Gerechtigkeit?\"",
           "source": "FAZ",
           "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/60857695c296/w7856h4104x0y974o/202601/43601.0.1690558174/aktivisten-von-attac.webp"
-        },
-        {
-          "title": "CDU-Generalsekretärin: „Ein Linksbündnis in Berlin wäre eine schwere Belastung für die Bundesregierung“",
-          "url": "https://www.faz.net/aktuell/politik/inland/cdu-generalsekretaerin-hoppermann-warnt-spd-berliner-linksbuendnis-wuerde-bundesregierung-belasten-accg-201276230.html",
-          "summary": "Die neue CDU-Generalsekretärin Franziska Hoppermann über Elif Eralp, die Notwendigkeit einer Stadtbild-Debatte, die Nöte ihrer Partei im Osten – und Philipp Amthors Strandkorb.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8a4a3f424855/w6500h3396x0y366o/202609/43601.0.2613572310/will-ueber-sozialleistungen.webp"
-        },
-        {
-          "title": "Länder gegen Steuererhöhungen: Die neue Macht der CDU-Ministerpräsidenten",
-          "url": "https://www.faz.net/aktuell/politik/inland/cdu-ministerpraesidenten-gegen-steuererhoehungen-zuckersteuer-gestoppt-201275383.html",
-          "summary": "Die Länderchefs der Union fordern schnelle Entlastungen für die Bürger. Der Stopp der geplanten Zuckersteuer durch das Kanzleramt ist ihr erster Erfolg.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dea017f84795/w3000h1567x0y79o/202310/43600.0.2101967664/sind-gegen-steuererhoehungen.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ex-Pussy-Riot-Aktivistin Rita Flores: »Sollte mich an der Ermordung eines guten Freundes beteiligen«",
-          "url": "https://www.spiegel.de/ausland/ex-pussy-riot-aktivistin-rita-flores-sollte-mich-an-der-ermordung-eines-guten-freundes-beteiligen-a-b6c57f6e-006f-4e89-9325-23e1b47fa936#ref=rss",
-          "summary": "Die Aktivistin Rita Flores aus dem erweiterten Umfeld von »Pussy Riot« behauptet, dass sie dreieinhalb Jahre lang für den FSB arbeiten musste. Hier spricht sie darüber, wie der russische Geheimdienst die Kunstszene unterwandert.",
+          "title": "Linke Wirtschaftspolitik: Isabella Weber fordert Staat im Dienst der Bürger",
+          "url": "https://www.spiegel.de/wirtschaft/linke-wirtschaftspolitik-isabella-weber-fordert-staat-im-dienst-der-buerger-a-60c890a0-0316-4da2-b57b-cb67904dacea#ref=rss",
+          "summary": "Die in den USA lehrende deutsche Ökonomin Isabella Weber glaubt zu wissen, wie man Rechtspopulisten aufhält. Sie will den Staat rigoros um die Bedürfnisse der Menschen herum organisieren.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/90b54404-c15b-4b3d-9bab-887e28381eba_w1200_r1.778_fpx67_fpy25.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d9627374-b066-4d53-bd5e-3c1616711257_w1200_r1.778_fpx49_fpy50.jpg"
+        },
+        {
+          "title": "Berlin-Wahl: Panne in Spandau - AfD holt Direktmandat statt CDU",
+          "url": "https://www.spiegel.de/politik/deutschland/berlin-wahl-panne-in-spandau-afd-holt-direktmandat-statt-cdu-a-90180b60-01c0-4120-81e9-e295efadc13b#ref=rss",
+          "summary": "Nach einer Neuauszählung muss die CDU ihr Direktmandat in Spandau der AfD überlassen. Zuvor war das Ergebnis falsch übermittelt worden. Die Korrektur wirkt sich auf die Größe des Berliner Abgeordnetenhauses aus.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/89539821-27b9-4e43-8ebf-bb067d3d28d2_w1200_r1.778_fpx66.27_fpy49.99.jpg"
         },
         {
           "title": "Robert Habeck und sein neues Leben: »Man kann nicht nach vorne gehen und nach hinten leben«",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/fa575868-950b-4825-845a-72fb383c0cd0_w1200_r1.778_fpx50_fpy62.jpg"
-        },
-        {
-          "title": "Union und SPD in der Krise: Warum sich Frank-Walter Steinmeier eingeschaltet hat",
-          "url": "https://www.spiegel.de/politik/deutschland/union-und-spd-in-der-krise-warum-sich-der-bundespraesident-eingeschaltet-hat-a-85aa3ed3-a396-41f1-a086-49de6e9fd56a#ref=rss",
-          "summary": "Union und SPD streiten seit Wochen über ihren Reformkurs. Anfang der Woche spitzt sich die Lage nach SPIEGEL-Informationen so zu, dass Frank-Walter Steinmeier sich einschaltet. Rekonstruktion einer Eskalation.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6fcfca2f-685b-4fb9-88e9-94074d74d34c_w1200_r1.778_fpx47.35_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,57 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Deutschland zum Tag der Deutschen Einheit zu Gast in Bremen",
-          "url": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
-          "summary": "Mehr als 700 Veranstaltungen und prominente Gäste: Bremen verwandelt sich zum 3. Oktober in eine Festivalmeile. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". 000 Menschen werden erwartet.",
+          "title": "Schwedens Wahlsiegerin Andersson unternimmt zweiten Anlauf zur Regierungsbildung",
+          "url": "https://www.tagesschau.de/ausland/europa/schwedische-regierungsbildung-andersson-100.html",
+          "summary": "Eigentlich hatte Schwedens Wahlsiegerin Andersson die Regierungsbildung für unmöglich erklärt. Nun soll sie es trotzdem noch mal versuchen. Denn auch der amtierende Ministerpräsident Kristersson dürfte keine Mehrheit finden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/aac85033-7e29-4ee0-b38d-fe3ab8be0630/AAABoPv5MxU/AAABnSSvrFg/16x9-big/bremen-stadtmusikanten-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5eb02292-0ccd-42c6-ade1-20ed4cc63181/AAABoPyUrlM/AAABnSSvrFg/16x9-big/andersson-126.jpg?width=1280"
         },
         {
-          "title": "Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-tankrabatt-debatte-100.html",
-          "summary": "Autofahrer profitieren seit dem 1. Oktober vom \"Tankrabatt\". Hausbesitzer mit Ölheizung gehen leer aus. Fachleute sehen darin ein Gerechtigkeitsproblem - warnen aber vor neuen, teuren Steuernachlässen. Bemelmann und S.",
+          "title": "Israels Oberstes Gericht lässt arabische Parteien bei Parlamentswahl zu",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-wahlen-gericht-100.html",
+          "summary": "Ende Oktober steht in Israel eine wegweisende Parlamentswahl an. Das Zentrale Wahlkomitee wollte arabische Parteien davon ausschließen - diesen Beschluss hat das Oberste Gericht nun gekippt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7612b46e-bc9f-401f-8ee2-93e4b6f823a1/AAABoPbpnWA/AAABnSSvrFg/16x9-big/heizoel-146.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/90860c75-7ace-434b-955a-682ce78da785/AAABoPxztMc/AAABnSSvrFg/16x9-big/knesset-134.jpg?width=1280"
         },
         {
-          "title": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
-          "url": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html",
-          "summary": "Deutschlands letzte große Warenhauskette Galeria hat erneut Insolvenz angemeldet - es ist bereits die vierte innerhalb von sechs Jahren. Wie es mit den etwa 12. 000 Mitarbeitenden in den 83 Warenhäusern weitergeht, ist unklar.",
+          "title": "Was es mit Melonis Schul-Dekret auf sich hat",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-schuldekret-meloni-100.html",
+          "summary": "Ausländerquote und Burkaverbot: Italiens Regierung verschärft per Dekret die Regeln an Schulen. Doch in der Praxis greifen die Maßnahmen kaum. Kritiker sprechen von Nervosität und Wahlkampftaktik.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1037274f-d819-413e-a544-e5cf484f9e34/AAABoPvn758/AAABnSSvrFg/16x9-big/galeria-236.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2273ab45-b18c-4844-af32-634ef6dc3a59/AAABoPzF2NY/AAABnSSvrFg/16x9-big/meloni-208.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Medienrat: Neue Prüfer für ARD und ZDF – was können sie bewirken?",
+          "url": "https://www.telepolis.de/article/Medienrat-Neue-Pruefer-fuer-ARD-und-ZDF-was-koennen-sie-bewirken-11474267.html",
+          "summary": "Sechs Experten sollen prüfen, ob die Sender ihren Auftrag erfüllen. Ihr erster Bericht kommt erst 2028. Programmänderungen können sie nicht erzwingen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/7/6/3/Master_ARDZDFDeutschland-d7064cf1a63a404c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Die genaueste Uhr der Welt steht jetzt in Singapur",
+          "url": "https://www.telepolis.de/article/Die-genaueste-Uhr-der-Welt-steht-jetzt-in-Singapur-11473966.html",
+          "summary": "Ein kleines Forschungsteam der National University of Singapore hat die genaueste Atomuhr der Welt gebaut – und könnte die Definition der Sekunde neu schreiben.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/6/1/6/Lu-clock-team-45dd81f46d13112d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Nur 10 Prozent! So tief ist noch kein Kanzler jemals gefallen",
+          "url": "https://www.telepolis.de/article/Nur-10-Prozent-So-tief-ist-noch-kein-Kanzler-jemals-gefallen-11474263.html",
+          "summary": "Historischer Absturz im Deutschlandtrend: Kein Regierungschef war seit 1997 so unbeliebt. Und dann ist da noch der Koalitionskrieg.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/7/6/1/shutterstock_2577855295-86a78d410dc1bf41.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -93,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zur Bundespolitik: Zufriedenheitswerte von Merz im Rekordtief",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-merz-umfragewerte-koalition-li.3529564",
-          "summary": "Nur 10 Prozent sind mit Friedrich Merz zufrieden – so niedrig waren die Werte in einem ARD-„Deutschlandtrend“ für einen Kanzler seit 1997 nicht.",
+          "title": "Oktoberfest: 38-Jähriger wird in Wiesn-Camp reanimiert und stirbt in Klinik",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-freitag-li.3549371",
+          "summary": "Der Mann war betrunken auf dem Gelände in Riem gefunden worden. Zwei Männer sind zu groß für den Olympia-Looping und rasten aus. Am Wochenende lässt sich zum Endspurt noch einmal die Sonne blicken.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/02/190ece78-6318-4d84-b6b7-5145875c91ae.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2025/11/14/90ec91f4-9bdb-4a68-ac63-328e311f482d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C115%2C4000%2C2250"
         },
         {
-          "title": "Promis auf dem Oktoberfest an Tag 12: Sasha knutscht und singt – und eine Milliardärstochter winkt",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-promis-2026-sasha-andrea-catsimatidis-leigh-ann-rose-stavros-kostantinidis-florian-schoerghuber-fotos-li.3556811",
-          "summary": "Endlich ist es so weit: Zwei Promis bussln. Und dann sind da noch echte und unechte CEOs, CMOs, CZOs und sogar CSUs.",
+          "title": "DFB-Team: Jürgen Klopp und das Lied von Joshua Kimmich",
+          "url": "https://www.sueddeutsche.de/sport/klopp-kimmich-serbien-mittelfeld-li.3557499",
+          "summary": "Beim bisher besten Spiel der Nationalmannschaft unter dem neuen Bundestrainer fehlt der Kapitän. Jürgen Klopp erkennt schnell, welche Sprengkraft in der Diskussion darüber stecken könnte.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/01/03d6f5d2-3ac5-49ea-841d-e0a3b6214413.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=96%2C722%2C1821%2C1025"
+          "image": "https://www.sueddeutsche.de/2026/10/02/c788947c-cd65-486b-ac1a-277e897d8bf7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=316%2C306%2C2254%2C1268"
         },
         {
-          "title": "Debatte: Warum der Mensch den Zucker liebt",
-          "url": "https://www.sueddeutsche.de/kultur/zucker-geschmack-evolution-sozialer-status-li.3538680",
-          "summary": "Die Zucker-Steuer ist vorerst gescheitert. Was zu der Frage führt: Müsste man in der Diskussion um die süße Droge politisch nicht an völlig anderer Stelle ansetzen?",
+          "title": "„Rote Hilfe“: Links, legal und doch verdächtig",
+          "url": "https://www.sueddeutsche.de/politik/elif-eralp-linke-rote-hilfe-li.3556889",
+          "summary": "Der Verein „Rote Hilfe“, in dem Elif Eralp war, darf linksextremen Gewalttätern juristischen Beistand leisten – das gehört zum Rechtsstaat. Aber auch, wer sich an Gesetze hält, kann ein Verfassungsfeind sein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/01/9c6a2cfd-4605-4f18-9698-7f5678fd474a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C452%2C3000%2C1687"
+          "image": "https://www.sueddeutsche.de/2026/10/02/6c42852a-f00d-4042-89f4-01f6b1b55a0d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C182%2C3500%2C1969"
         }
       ]
     }
