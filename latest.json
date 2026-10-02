@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-01T22:00:23.524Z",
-  "timestamp": "2.10.2026, 00:00:23",
+  "generated": "2026-10-02T02:00:20.219Z",
+  "timestamp": "2.10.2026, 04:00:20",
   "news": [
     {
       "source": "FAZ",
@@ -19,7 +19,7 @@
           "summary": "Der Linken-Fraktionschef verkündet seinen Eintritt nur zwei Tage nach Bekanntwerden der früheren Mitgliedschaft von Elif Eralp. Er ist mit seiner Sympathie für den Verein nicht allein.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/792f90b8bb7a/w3000h1567x0y154o/202511/43601.0.1516806090/soeren-pellmann-im-november.webp"
         },
         {
           "title": "CDU-Generalsekretärin: „Ein Linksbündnis in Berlin wäre eine schwere Belastung für die Bundesregierung“",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "\"Maricarmen\"-Dekrete: Spanien stimmt über Wohnungsgesetze ab",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html",
+          "summary": "Nach den anhaltenden Protesten aufgrund der Zwangsräumung einer Rentnerin in Madrid, stimmt nun das Parlament ab - unter anderem geht es um stärkeren Mieterschutz und günstigere Mieten. Von Hans-Günter Kellner.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a7885a23-167d-482c-b799-18682f9db464/AAABoPpGg68/AAABnSSvrFg/16x9-big/spanien-sanchez-124.jpg?width=1280"
+        },
+        {
           "title": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
           "url": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html",
           "summary": "Die Verleihung des Westfälischen Friedenspreises an die NATO in Münster hat Kanzler Merz für eine Grundsatzrede genutzt. Er unterstrich die Bedeutung der Allianz - auch, um \"Moskau Einhalt zu gebieten\".",
@@ -78,14 +86,35 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/90b3bf62-0234-4a4c-927b-a5d4e8467fea/AAABoPifbyA/AAABnSSvrFg/16x9-big/rettungsfahrzeuge-100.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Aufrüstung und Sozialabbau: \"Zwei Seiten derselben Medaille\"",
+          "url": "https://www.telepolis.de/article/Aufruestung-und-Sozialabbau-Zwei-Seiten-derselben-Medaille-11472453.html",
+          "summary": "Erst Sozialproteste, jetzt Friedensdemos: Beide Bewegungen eint mehr, als es scheint. Ralf Krämer erklärt, warum. Ein Gespräch über Krieg, Krise und Kapital.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/8/5/8/ruestungsgewinne_ho-1c491a85e393cc25.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-          "summary": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert.",
-          "source": "Tagesschau",
+          "title": "Return Hubs beschlossen: Fünf EU-Staaten treiben Abschiebezentren voran",
+          "url": "https://www.telepolis.de/article/Return-Hubs-beschlossen-Fuenf-EU-Staaten-treiben-Abschiebezentren-voran-11473411.html",
+          "summary": "Zwei von drei Ausreisepflichtigen bleiben bislang in der EU. Die neuen Regeln bringen Sanktionen, längere Haft und eine Rechtsgrundlage für Return Hubs.",
+          "source": "Telepolis",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/699bdb11-1877-4777-b26b-f4b7f1748ee2/AAABoPhwH2M/AAABnSSvrFg/16x9-big/suessigkeiten-supermarkt-regal-101.jpg?width=1280"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/3/3/4/shutterstock_2824613771-cec4cf4a12dcd12e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Strom aus Luftfeuchtigkeit: Papiertapete soll Smart-Home-Sensoren versorgen",
+          "url": "https://www.telepolis.de/article/Strom-aus-Luftfeuchtigkeit-Papiertapete-soll-Smart-Home-Sensoren-versorgen-11473265.html",
+          "summary": "Leere Batterien im Smart Home nerven. Eine Papiertapete aus den USA soll das ändern – zumindest für kleine Sensoren.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/2/6/1/Wallpaper_graphic-121cf80317ec65ed.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -97,8 +126,8 @@
           "url": "https://www.sueddeutsche.de/sport/nations-league-deutschland-serbien-wirtz-einzelkritik-li.3557283",
           "summary": "Der 22-Jährige füllt seine neue Rolle mit viel Autorität aus, Florian Wirtz zeigt zweimal seine Weltklasse  – nur Nick Woltemade will sich am liebsten verstecken. Das DFB-Team gegen Serbien in der Einzelkritik.",
           "source": "SZ",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/01/00e83de5-a5c0-47df-be3f-69386ef68b9b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C167%2C4000%2C2250"
         },
         {
           "title": "Nations League: Wirtz zaubert Klopp zum ersten Sieg",
