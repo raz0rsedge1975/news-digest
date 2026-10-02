@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-02T18:00:21.215Z",
-  "timestamp": "2.10.2026, 20:00:21",
+  "generated": "2026-10-02T22:00:26.532Z",
+  "timestamp": "3.10.2026, 00:00:26",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Rechnungshof Alarmiert: Die Rente saugt den Bundeshaushalt aus",
-          "url": "https://www.faz.net/aktuell/wirtschaft/bundesrechnungshof-die-rente-saugt-den-bundeshaushalt-aus-201283059.html",
-          "summary": "Womöglich muss die Bundesregierung bald die Hälfte ihrer Steuereinnahmen an die Rentenkasse überweisen. Ein neuer Bericht des Bundesrechnungshofs warnt umso mehr davor, Reformen unbedacht zu verwässern.",
+          "title": "Krieg in der Ukraine: Putin plant den „Krieg der Städte“",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/putins-siegesplan-in-der-ukraine-scheitert-aber-er-hat-einen-neuen-201270556.html",
+          "summary": "Eigentlich wollte Russlands Präsident die Ukraine an der Front besiegen. Weil das nicht gelingt, setzt er auf Bombenterror. So könnte man ihn stoppen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2328b5eaf684/w7966h4162x0y388o/202608/43601.0.2401700620/dreistellige.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4d90a7b3559c/w5887h3075x0y462o/202609/43601.0.2612349669/krieg-der-staedte-rauch-ueber.webp"
         },
         {
-          "title": "Reicht die Rente?: Zehn Prompts für die Finanzplanung ab 50",
-          "url": "https://www.faz.net/premium/digitalwirtschaft/ki-akademie/rente-und-ruhestand-zehn-ki-prompts-fuer-die-finanzplanung-im-alter-accg-201270774.html",
-          "summary": "Wer wissen will, ob das Ersparte für den Ruhestand reicht, kann sich von KI helfen lassen. Zehn Prompts führen Schritt für Schritt durch die Rechnung – von der Rente über das Depot bis zur Krankenkasse.",
+          "title": "Drohnen: Die Ukrainer im Bund mit den Sternen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/elon-musk-befindet-sich-mit-starlink-im-ukraine-krieg-accg-201264387.html",
+          "summary": "Von einem Feld in der Ostukraine starten Soldaten Drohnen. Elon Musks Technik ist für den Erfolg entscheidend. Deshalb wird er von Kiew umschmeichelt.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/4f7b2afabf4d/w4829h2523x0y154o/202604/43601.0.1963247597/chatgpt-reicht-die-rente.webp"
+          "paywall": false,
+          "image": null
         },
         {
-          "title": "Brisanter Bericht: Rechnungshof: Der Bund ist auf dem Weg in die Schuldenfalle",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bundesrechnungshof-warnt-bund-ist-auf-dem-weg-in-die-schuldenfalle-201189665.html",
-          "summary": "Die unabhängige Behörde sieht die Regierung auf einem bedenklichen Kurs: Steigende Zinsausgaben führten zur Aufnahme von noch mehr Krediten. Sie rechnet schon mit mindestens drei Billionen Euro Schulden im Jahr 2030.",
+          "title": "F.A.Z. Podcast für Deutschland: „Russen machen sich über deutschen Außenminister lustig“",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/militaerexperte-lange-russen-machen-sich-ueber-deutschen-aussenminister-lustig-201282973.html",
+          "summary": "Kurz nach Wadephuls Treffen mit Lawrow droht Putin der NATO wegen Kaliningrad. Militäexperte Nico Lange erklärt, warum das Gespräch nichts gebracht hat und hinter der Drohung vor allem Schwäche steckt.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/d46af05cc1d2/w3000h1567x0y373o/202510/43601.0.1398607391/bundesfinanzminister-lars.webp"
+          "image": "https://media0.faz.net/image/w1200h627/02b5686d90ce/w6000h3135x0y485o/202609/43601.0.2598005758/aussenminister-johann-wadephul.webp"
         }
       ]
     },
@@ -35,34 +35,42 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "EU-Parlament und das Verbrenner-Aus: Autoindustrie sucht Nähe zur extremen Rechten",
-          "url": "https://www.spiegel.de/wirtschaft/eu-parlament-und-das-verbrenner-aus-autoindustrie-sucht-naehe-zur-extremen-rechten-a-8a37a537-e98f-4070-b9e6-2c1036aa5e06#ref=rss",
-          "summary": "Das EU-Parlament entscheidet bald, wie stark das Aus vom Verbrenner aufgeweicht wird. Es könnte auf Stimmen der Rechten ankommen. In Brüssel haben Vertreter der Autolobby kaum noch Berührungsängste.",
+          "title": "Iran-Krieg: Warum gelangt wieder so viel Öl durch die Straße von Hormus?",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-warum-gelangt-wieder-so-viel-oel-durch-die-strasse-von-hormus-a-c41e5663-bb36-4524-9416-3cb9ca374c86#ref=rss",
+          "summary": "Immer mehr Tanker passieren das Nadelöhr, obwohl Iran Dutzende Drohnen und Raketen pro Woche in der Meerenge verschießt. Das sind die Hintergründe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7e055f04-381d-4348-a002-3700d98c6e20_w1200_r1.778_fpx41_fpy65.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4a8fadc4-9082-498b-8bc1-3c3d82c8af06_w1200_r1.778_fpx66.67_fpy50.jpg"
         },
         {
-          "title": "News des Tages: VW-Rückruf, Missbrauchsskandal an der Elite-Uni Cornell, Terrorrazzia in Hagen und Unna",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-vw-rueckruf-missbrauchsskandal-an-der-elite-uni-cornell-terrorrazzia-in-hagen-und-unna-a-5ed8632d-8b59-42e5-80fb-2854ce65201f#ref=rss",
-          "summary": "Volkswagens Rückrufdebakel weitet sich aus. Die US-Eliteuni Cornell steht nach einem Missbrauchsskandal in der Kritik. Und in NRW gelingt eine Razzia gegen drei Terrorverdächtige. Das ist die Lage am Freitagabend.",
+          "title": "Saudi-Arabien: Turki bin Faisal drängt auf deutsche Rolle in Militärbündnis",
+          "url": "https://www.spiegel.de/ausland/saudi-arabien-turki-bin-faisal-draengt-auf-deutsche-rolle-in-militaerbuendnis-a-9fef6927-1e73-4163-9dd8-19d19fd6cbc1#ref=rss",
+          "summary": "Saudi-Arabien schmiedet eine Militärallianz gegen die Huthis im Jemen – zusammen mit Briten und Franzosen. Nun fordert Ex-Geheimdienstchef Turki bin Faisal al Saud auch eine deutsche Beteiligung.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/37d9a165-c72f-4089-b5a2-60b125cc202b_w1200_r1.778_fpx42_fpy49.jpg"
         },
         {
-          "title": "Katherina Reiche drängt Gaskonzerne zum Einspeichern",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern-a-848d910c-3a74-4e34-a12e-a7ac93e756d1#ref=rss",
-          "summary": "Die Bundeswirtschaftsministerin hat nach SPIEGEL-Informationen sechs Konzernvertreter aufgefordert, mehr Gas einzuspeichern. Offenbar mit mäßigem Erfolg.",
+          "title": "Exzellenz-Unis: Das sind Deutschlands Spitzenuniversitäten",
+          "url": "https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss",
+          "summary": "Freiburg, Jena, Köln: Drei weitere deutsche Unis und zwei Hochschulverbünde dürfen sich künftig exzellent nennen. Wer neu ausgezeichnet wurde und wer weiterhin gefördert wird – der Überblick.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/82873ebf-4b21-4a1e-a855-2ed9e67995be_w1200_r1.778_fpx44.67_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/50e7a7ee-4715-4324-8b50-b5dca2af789e_w1200_r1.778_fpx33_fpy69.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
+          "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
+          "summary": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen. Schülervertreter wollen weiter protestieren - distanzieren sich aber von Gewalt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f39032ac-e431-40fb-98a4-7cd1a759638b/AAABoP2VGD4/AAABnSSvrFg/16x9-big/frankreich-proteste-208.jpg?width=1280"
+        },
         {
           "title": "Warum es in der schwarz-roten Koalition knirscht",
           "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/2db31d03-cdba-46dd-9aea-71ef81a25776/AAABmnblNn8/AAABnSSvrFg/16x9-big/boerse-468.jpg?width=1280"
-        },
-        {
-          "title": "Bilger erwartet von der Bahn bis 2029 \"spürbare Verbesserung\"",
-          "url": "https://www.tagesschau.de/inland/bilger-verspricht-besserung-bei-bahn-100.html",
-          "summary": "In drei Jahren sollen Bahnkunden aufatmen können. Bis dahin erwarte er eine \"spürbare Verbesserung\", so Verkehrsminister Bilger im ARD-Interview. Eine \"Leistungsvereinbarung\" soll den Druck auf die Bahn erhöhen. Von Jan Zimmermann.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/bff6c2aa-811e-4c22-8c0e-3c950bc4c5a5/AAABoP1AdGk/AAABnSSvrFg/16x9-big/bilger-140.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Während Metro enteignet wird, heuert Schröder beim Konkurrenten in Russland an",
+          "url": "https://www.telepolis.de/article/Waehrend-Metro-enteignet-wird-heuert-Schroeder-beim-Konkurrenten-in-Russland-an-11474925.html",
+          "summary": "Tage nach der Zwangsverwaltung der Metro AG beruft Hyperglobus den Altkanzler in den Aufsichtsrat. Soll sein Draht in den Kreml das Geschäft absichern?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Diesel-Preis: Warum eine Freigabe von Reserven erst im Spätherbst wirkt",
+          "url": "https://www.telepolis.de/article/Diesel-Preis-Warum-eine-Freigabe-von-Reserven-erst-im-Spaetherbst-wirkt-11474568.html",
+          "summary": "Selbst wenn Europa jetzt Reserven freigibt: An der Zapfsäule kommt das frühestens im November an. Zwischen Beschluss und Preissenkung liegen Wochen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Medienrat: Neue Prüfer für ARD und ZDF – was können sie bewirken?",
           "url": "https://www.telepolis.de/article/Medienrat-Neue-Pruefer-fuer-ARD-und-ZDF-was-koennen-sie-bewirken-11474267.html",
           "summary": "Sechs Experten sollen prüfen, ob die Sender ihren Auftrag erfüllen. Ihr erster Bericht kommt erst 2028. Programmänderungen können sie nicht erzwingen.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/7/6/3/Master_ARDZDFDeutschland-d7064cf1a63a404c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Die genaueste Uhr der Welt steht jetzt in Singapur",
-          "url": "https://www.telepolis.de/article/Die-genaueste-Uhr-der-Welt-steht-jetzt-in-Singapur-11473966.html",
-          "summary": "Ein kleines Forschungsteam der National University of Singapore hat die genaueste Atomuhr der Welt gebaut – und könnte die Definition der Sekunde neu schreiben.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/6/1/6/Lu-clock-team-45dd81f46d13112d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Nur 10 Prozent! So tief ist noch kein Kanzler jemals gefallen",
-          "url": "https://www.telepolis.de/article/Nur-10-Prozent-So-tief-ist-noch-kein-Kanzler-jemals-gefallen-11474263.html",
-          "summary": "Historischer Absturz im Deutschlandtrend: Kein Regierungschef war seit 1997 so unbeliebt. Und dann ist da noch der Koalitionskrieg.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/7/6/1/shutterstock_2577855295-86a78d410dc1bf41.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -130,9 +130,9 @@
           "image": "https://www.sueddeutsche.de/2026/09/29/f18f53d7-7a08-41b6-97e5-435096c7a501.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Warnlampe im Cockpit: Söder Tagestrip nach Kroatien gerät auf der Zielgeraden ins Schlingern",
+          "title": "Warnlampe im Cockpit: Söders Tagestrip nach Kroatien gerät auf der Zielgeraden ins Schlingern",
           "url": "https://www.sueddeutsche.de/bayern/markus-soeder-bayern-kroatien-zagreb-gas-pipeline-flugzeug-warnlampe-li.3552710",
-          "summary": "Wegen einer verdächtigen Anzeige in Flugzeug verzögert sich der Abflug. Mehr Tempo hatten hatten Söder und der kroatische Regierungschef Plenković  zuvor bei einer Gas-Pipeline von der Insel Krk nach Bayern gefordert.",
+          "summary": "Wegen einer verdächtigen Anzeige in Flugzeug verzögert sich der Abflug. Mehr Tempo hatten Söder und der kroatische Regierungschef Plenković  zuvor bei einer Gas-Pipeline von der Insel Krk nach Bayern gefordert.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/02/7023bfc7-9e76-4f88-abab-e2b6d84f1c9d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C375%2C4000%2C2250"
