@@ -1,10 +1,18 @@
 {
-  "generated": "2026-10-03T10:00:20.305Z",
-  "timestamp": "3.10.2026, 12:00:20",
+  "generated": "2026-10-03T14:00:15.867Z",
+  "timestamp": "3.10.2026, 16:00:15",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "US-Militärbasen: Endet die amerikanische Hegemonie im Nahen Osten?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/zerstoerte-us-basen-am-golf-endet-die-amerikanische-hegemonie-accg-201270549.html",
+          "summary": "Irans Raketen haben Amerikas Militärbasen am Golf schwer getroffen. Nun steht die Schließung von Stützpunkten zur Debatte. Das könnte die Ordnung in der Region umwälzen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3bca47b9f5ec/w1536h802x0y73o/202604/43601.0.2006841720/von-iran-zerstoert-ein-e-3.webp"
+        },
         {
           "title": "Deutsche Identität: Welchen Traum haben wir von unserem Land?",
           "url": "https://www.faz.net/aktuell/gesellschaft/menschen/wie-die-afd-die-deutsche-einheit-auf-fatale-weise-vollendet-201261559.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/0ee3de3865ae/w2284h1193x0y46o/202511/43601.0.1440239709/historischer-moment-jubelnde.webp"
         },
         {
-          "title": "Deutsche Einheit: Auf dem Weg zum Vaterland ist es noch weit",
-          "url": "https://www.faz.net/aktuell/politik/inland/deutsche-einheit-wie-vaterlandsliebe-entsteht-201275650.html",
-          "summary": "Am Tag der Deutschen Einheit muss man feststellen: Die Zwietracht wird größer. Vaterlandsliebe müssen die Deutschen erst noch lernen.",
+          "title": "Deutschland-Liveblog: Steinmeier: „Unerträgliche politische Demagogie gefährdet unsere Einheit“",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-steinmeier-unertraegliche-politische-demagogie-gefaehrdet-unsere-einheit-faz-110093143.html",
+          "summary": "Rede des Bundespräsidenten am Tag der Deutschen Einheit +++ Steinmeier attackiert „gewissenlose Internet-Oligarchen +++ Grüne fordern Strategiewechsel gegen AfD +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/eb4855c4df1c/w8174h4270x0y765o/202609/43601.0.2614073812/deutschland-fahnen-anlaesslich.webp"
-        },
-        {
-          "title": "Wiedervereinigung: Warum ist am 3. Oktober der Tag der Deutschen Einheit?",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/warum-wir-den-tag-der-deutschen-einheit-am-3-oktober-feiern-18348458.html",
-          "summary": "Am 3. Oktober ist der Tag der Deutschen Einheit. Warum dieses Datum dafür gewählt wurde, wie und wo gefeiert wird und welche Aktionen es zu diesem Anlass gibt – ein Überblick.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/41eb5f84ab8c/w2833h1480x0y330o/201509/431.0.32625605/mit-einem-feuerwerk-am.webp"
+          "image": "https://media0.faz.net/image/w1200h627/6cc43799e064/w3740h1954x0y464o/202610/43601.0.2623793857/bundespraesident-frank-walter.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "DDR-Bürgerrechtler blicken zurück: Einig gegen die Diktatur, entzweit über die Demokratie",
-          "url": "https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie-a-d02cfba7-cbc8-41a5-9c21-5d6ea563dae1#ref=rss",
-          "summary": "Sie bekämpften das SED-Regime und forderten Freiheit. Hier ziehen Akteure der Friedlichen Revolution Bilanz. Und streiten darüber, wer das Erbe von 1989 bedroht – die AfD oder die anderen Parteien.",
+          "title": "Tag der Deutschen Einheit: Frank-Walter Steinmeier attackiert Extremisten – AfD-Chef verweigert Applaus",
+          "url": "https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss",
+          "summary": "Zum Tag der Deutschen Einheit redet Frank-Walter Steinmeier der Republik kurz vor dem Ende seiner Amtszeit noch einmal ins Gewissen. Nicht allen im Publikum gefällt das.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0677b74b-90e9-4c6d-b0ee-b76db484bee0_w1200_r1.778_fpx61.37_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d6de914b-ea61-4e62-ac9c-f5ab36882b8a_w1200_r1.778_fpx33.36_fpy50.jpg"
         },
         {
-          "title": "Tag der Deutschen Einheit: Ostdeutschland bietet einen Blick in die Zukunft. Lernen wir daraus",
-          "url": "https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus-a-c9faa4a1-3637-4e37-a784-56cd270b6ddb#ref=rss",
-          "summary": "Die Wahlen in Ostdeutschland erschüttern die Politik. Dabei sind sie für die Parteien der Mitte auch eine Chance. Die Erfahrungen zeigen, wie man in Zeiten wachsender Polarisierung Menschen für sich gewinnt.",
+          "title": "Deutscher Schulpreis: Besuch in der Bertha-von-Suttner-Schule in Hessen",
+          "url": "https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen-a-ee10b1f6-b1fc-4523-af26-2bdeab618944#ref=rss",
+          "summary": "Die Bertha-von-Suttner-Schule in Hessen hat nicht nur dem Kanzler einen emotionalen Moment beschert. Sie zeigt auch, dass ein besseres Abschneiden bei Pisa möglich wäre. Wie macht sie das?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/941befa3-d02f-47fd-b8cd-f733f2efd08c_w1200_r1.778_fpx61.33_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f3b663d7-72f6-4069-aca2-2071caf44879_w1200_r1.778_fpx56_fpy44.jpg"
         },
         {
-          "title": "Spritpreise: Freigabe der Reserven dürfte Preis nur kurzzeitig senken",
-          "url": "https://www.spiegel.de/wirtschaft/service/spritpreise-freigabe-der-reserven-duerfte-preis-nur-kurzzeitig-senken-a-710cb6db-ccf9-4443-b22c-03298999bab0#ref=rss",
-          "summary": "»Nur ein Tropfen auf den heißen Stein« – das Institut der deutschen Wirtschaft warnt: Auch knapp 16 Milliarden Liter Rohöl und Diesel aus den Reserven werden die Preise an den Tankstellen nicht nachhaltig dämpfen.",
+          "title": "Oetinger-Verlag: Wie der Kinderbuchverlag gegen die Lesekrise kämpft",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/oetinger-verlag-wie-der-kinderbuchverlag-gegen-die-lesekrise-kaempft-a-f59a1641-248c-4f81-884a-a9a3e12ef5c7#ref=rss",
+          "summary": "Mit »Pippi Langstrumpf« wurde Oetinger groß. Nun sucht der Verlag Zugang zu Kindern, die anders lesen, hören und schauen. Kann der Umweg über eine »Olchi«-Erlebniswelt wieder zum Buch führen?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/583bb11b-14bd-4df6-8c6e-6953c1722a07_w1200_r1.778_fpx40.54_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/42f106ae-6418-45bd-8011-d95f1001273d_w1200_r1.778_fpx47_fpy60.jpg"
         }
       ]
     },
@@ -64,57 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?",
-          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
-          "summary": "Großbritanniens Premier Burnham nährt mit einer Aussage Diskussionen um einen Wiedereintritt seines Landes in die EU. Gründe zur Zusammenarbeit gäbe es genug. Aber wäre eine Rückkehr wirklich denkbar? Von Sabrina Fritz.",
+          "title": "Freigabe von G7-Energiereserven stößt auf gemischte Reaktionen",
+          "url": "https://www.tagesschau.de/ausland/europa/freigabe-oelreserven-reaktionen-100.html",
+          "summary": "Angesichts der hohen Energiepreise haben sich die G7-Staaten auf die Freigabe von Ölreserven verständigt. US-Präsident Trump begrüßt die Entscheidung, die Grünen üben Kritik. Eine Ökonomin erwartet nur eine kurzfristige Entlastung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/968ea402-52f1-4ae3-8123-7b65523bb52a/AAABoQDmfdc/AAABnSSvrFg/16x9-big/burnham-von-der-leyen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/02cbf6a1-1fed-4654-a499-3040162504c8/AAABlgpJsbw/AAABnSSvrFg/16x9-big/us-oelreseve-101.jpg?width=1280"
         },
         {
-          "title": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
-          "url": "https://www.tagesschau.de/inland/einheitsfeier-bremen-100.html",
-          "summary": "In Bremen hat die offizielle Feier zum Tag der Deutschen Einheit begonnen. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft. Die Ostbeauftragte Kaiser plädierte unterdessen für eine ostdeutsche Bundespräsidentin.",
+          "title": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\"",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
+          "summary": "Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteidigen. Steinmeier scheidet im März aus dem Amt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5a61140e-24e9-46e1-bd3b-e73603f63f37/AAABoQECklc/AAABnSSvrFg/16x9-big/bremen-tag-der-deutschen-einheit-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b7c2c186-d8c9-44e1-ba10-24f51d4c5c17/AAABoQGW2Nw/AAABnSSvrFg/16x9-big/steinmeier-1486.jpg?width=1280"
         },
         {
-          "title": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant",
-          "url": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
-          "summary": "Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu weiteren Anschlagspläne her - unter anderem gegen Rechtspopulist Farage.",
+          "title": "Russland beschießt erneut Brücke in Kiew",
+          "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
+          "summary": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen - diesmal traf es die Nordbrücke. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews angegriffen und beschädigt worden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b612ccf6-3e5e-46e3-a66e-40b1dbd63212/AAABoQD2Kfg/AAABnSSvrFg/16x9-big/farage-202.jpg?width=1280"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Greenwashing-Verbot: EU untersagt Labels wie \"klimaneutral\" ab sofort",
-          "url": "https://www.telepolis.de/article/Greenwashing-Verbot-EU-untersagt-Labels-wie-klimaneutral-ab-sofort-11474315.html",
-          "summary": "Seit September 2026 müssen Öko-Claims auf Verpackungen konkret belegt werden. Kleine Firmen wie Einhorn sitzen auf unverkäuflicher Ware im Wert Tausender Euro.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/7/8/7/spachtel-eu-8ed432f4d7ff2aa4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Hatschepsut: Wie eine Frau zum Pharao von Ägypten wurde",
-          "url": "https://www.telepolis.de/article/Hatschepsut-Wie-eine-Frau-zum-Pharao-von-Aegypten-wurde-11469785.html",
-          "summary": "Eine Frau auf dem Thron der Pharaonen: Hatschepsut brach mit jeder Tradition Ägyptens. Warum genau, ist bis heute ein Rätsel (Teil 1/2).",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/3/4/9/4/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012-0b1f8286e37beec7.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Während Metro enteignet wird, heuert Schröder beim Konkurrenten in Russland an",
-          "url": "https://www.telepolis.de/article/Waehrend-Metro-enteignet-wird-heuert-Schroeder-beim-Konkurrenten-in-Russland-an-11474925.html",
-          "summary": "Tage nach der Zwangsverwaltung der Metro AG beruft Hyperglobus den Altkanzler in den Aufsichtsrat. Soll sein Draht in den Kreml das Geschäft absichern?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/0/9/6/shutterstock_153589040-803429a22be780f8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://images.tagesschau.de/image/71c18147-acd9-44d5-95bd-37244b81f1e9/AAABoQGSpiI/AAABnSSvrFg/16x9-big/bruecke-kiew-100.jpg?width=1280"
         }
       ]
     },
@@ -122,12 +93,20 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Oktoberfest: Schon 5,2 Millionen Wiesn-Besucher bis Mittwoch",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
-          "summary": "Die Auswertung von Handydaten bis Mitte der zweiten Festwoche zeigt einen deutlichen Anstieg. Ein Mann wird im Wiesn-Camp reanimiert und stirbt in Klinik. Am Wochenende lässt sich zum Endspurt noch einmal die Sonne blicken.",
+          "title": "Impressionen vom Oktoberfest: Zwei Wochen Wiesn-Wahnsinn in Bildern",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-schoene-bilder-li.3557092",
+          "summary": "Seit zwei Wochen ist SZ-Fotograf Johannes Simon auf der Theresienwiese unterwegs. Dabei kommt einem natürlich allerlei Kurioses, aber auch Irritierendes unter. Die Highlights.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/01/5e299afe-8a0b-4594-9778-4b0d2937d591.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/02/ae67321a-d217-47b0-8387-94a911c7ecda.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C273%2C4000%2C2250"
+        },
+        {
+          "title": "Oktoberfest: „Bitte kommen Sie zu einem späteren Zeitpunkt“: Stadt München meldet volle Theresienwiese",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
+          "summary": "In der Zeit des Reservierungswechsels am Nachmittag kann es zu einer Überfüllung kommen. Handydaten zeigen deutlichen Anstieg der Besucherzahlen auf dem Oktoberfest.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/09/19/0cef0612-00b2-483e-ba04-5561ac407fdb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
           "title": "Gescheiterte Hinrichtung in Tennessee: „Dies ist im Namen von uns allen geschehen“",
@@ -136,14 +115,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/03/be6f3a6e-026b-4c08-96a6-079e1968a0cb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C344%2C2630%2C1479"
-        },
-        {
-          "title": "Newsblog zum Nahost-Krieg: Bericht: Wieder Angriff auf Tanker in der Straße von Hormus",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-trump-tanker-handel-li.3530668",
-          "summary": "Erneut ist ein Schiff auf der Handelsroute unter Beschuss geraten. Der Vorfall ereignete sich offenbar nur acht Kilometer von der Küste entfernt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/02/bbcf0bfd-8c84-426a-93ce-502078b0975c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=908%2C215%2C2732%2C1537"
         }
       ]
     }
