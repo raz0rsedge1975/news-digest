@@ -1,10 +1,18 @@
 {
-  "generated": "2026-10-03T18:00:17.798Z",
-  "timestamp": "3.10.2026, 20:00:17",
+  "generated": "2026-10-03T22:00:17.532Z",
+  "timestamp": "4.10.2026, 00:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Overtourism: Baustellen verdrängen Balis saftig grüne Reisterrassen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-der-massentourismus-bali-veraendert-accg-201159456.html",
+          "summary": "Müll, Staus und ein schier endloser Bauboom: Die „Insel der Götter“ kämpft mit den Folgen des Massenandrangs. Der Widerstand dagegen wächst.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/799cb2988eaa/w5193h2713x0y1010o/202608/43601.0.2472237723/muellsammelaktion-am-strand.webp"
+        },
         {
           "title": "Strahlantrieb: Warum neue russische Drohnen an Marschflugkörper erinnern",
           "url": "https://www.faz.net/aktuell/politik/ukraine/warum-russlands-neue-drohnen-so-schwer-abzuwehren-sind-accg-201285641.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/defdf5403ebf/w2613h1365x0y188o/202610/43601.0.2622266972/einschlag-am-freitag-eine.webp"
         },
         {
-          "title": "Liveblog Ukrainekrieg: Moldau meldet Einschläge von russischen Drohnen",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-moldau-meldet-einschlaege-von-russischen-drohnen-faz-110683325.html",
-          "summary": "Auch Raketen haben laut Präsidentin Sandu den Luftraum verletzt +++ Russland greift auch zweite Dnipro-Brücke in Kiew an +++ Putin: Ukrainische Angriffe kosten Russland 1 Prozent des BIP +++  alle Neuigkeiten im Liveblog",
+          "title": "Börsengang: So wird Anthropic zwei Billionen wert",
+          "url": "https://www.faz.net/aktuell/finanzen/anthropic-boersengang-ist-eine-bewertung-von-2-bio-accg-201275707.html",
+          "summary": "Die KI-Firma will beim Börsengang so viel wert sein wie kein Unternehmen zuvor. Angemessen ist das nur, wenn Anthropic bald die US-Wirtschaft dominiert.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4ec964512711/w6000h3135x0y744o/202610/43601.0.2623979299/maia-sandu-praesidentin-der.webp"
-        },
-        {
-          "title": "Drohnen-Regiment: Jetzt muss Pistorius mehr sein als nur ein Ankündiger",
-          "url": "https://www.faz.net/aktuell/politik/inland/drohnen-regiment-jetzt-muss-pistorius-aber-auch-liefern-201283588.html",
-          "summary": "Der Verteidigungsminister will ein eigenes Regiment der Bundeswehr für Drohnenabwehr und autonomen Kampf. Es darf aber nicht nur auf dem Papier entstehen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/afe01c84d86f/w5000h2612x0y229o/202610/43601.0.2617808014/ein-soldat-der-bundeswehr-mit.webp"
+          "image": "https://media0.faz.net/image/w1200h627/073883d4e793/w8256h4313x0y1025o/202609/43601.0.2566452682/das-anthropic-logo.webp"
         }
       ]
     },
@@ -43,26 +43,34 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e69354ee-4aa0-4fc1-bfd0-557eb656d627_w1200_r1.778_fpx52_fpy46.jpg"
         },
         {
-          "title": "Tag der Deutschen Einheit: Frank-Walter Steinmeier attackiert Extremisten – AfD-Chef verweigert Applaus",
-          "url": "https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss",
-          "summary": "Zum Tag der Deutschen Einheit redet Frank-Walter Steinmeier der Republik kurz vor dem Ende seiner Amtszeit noch einmal ins Gewissen. Nicht allen im Publikum gefällt das.",
+          "title": "Bosnien: Wie junge Papp-Revolutionäre die ethnische Spaltung des Landes überwinden wollen",
+          "url": "https://www.spiegel.de/ausland/bosnien-wie-junge-papp-revolutionaere-die-ethnische-spaltung-des-landes-ueberwinden-wollen-a-79694e0b-4e39-4840-a3e3-d0f4ff717506#ref=rss",
+          "summary": "Junge Aktivisten haben in Bosnien eine erfolgreiche Bürgerbewegung für alle geschaffen. Ihre Botschaft: Die Probleme in dem ethnisch gespaltenen Balkanland haben nichts mit Herkunft zu tun. Sondern mit Macht- und Raffgier.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d6de914b-ea61-4e62-ac9c-f5ab36882b8a_w1200_r1.778_fpx33.36_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e63ab515-6e56-48d7-8544-210f2ba12bc4_w1200_r1.778_fpx45_fpy58.jpg"
         },
         {
-          "title": "Ukraine-Krieg: Russland warnt Ausländer vor Aufenthalt in Kyjiw",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss",
-          "summary": "Moskau kündigt weitere Angriffe auf Kyjiw und andere ukrainische Städte an. Zugleich fordert das russische Außenministerium Ausländer und Diplomaten erneut auf, die ukrainische Hauptstadt zu verlassen.",
+          "title": "Ukraine: Die Solidarität der Deutschen schwindet, die Bundesregierung hat ein Problem mehr",
+          "url": "https://www.spiegel.de/politik/deutschland/ukraine-die-solidaritaet-der-deutschen-schwindet-die-bundesregierung-hat-ein-problem-mehr-a-3d984431-ebc6-4a6d-8571-77ed7c96d3cb#ref=rss",
+          "summary": "Immer mehr Menschen lehnen Waffenlieferungen und die finanzielle Unterstützung Kyjiws ab. Populisten von links bis rechts schlagen daraus Profit. Wie lange hält die Bundesregierung noch stand?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/292ecfb8-000f-48b9-b9f3-08cff0e4712c_w1200_r1.778_fpx72.19_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2c2836fc-30fd-4de9-a929-42d113b093f8_w1200_r1.778_fpx56.58_fpy54.85.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
+          "url": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
+          "summary": "Die Letten haben ein neues Parlament gewählt. Laut Nachwahlbefragung liegt das Bündnis von Ministerpräsident Kulbergs vorn. Zentrale Themen im Wahlkampf waren Sicherheit und Verteidigung, aber auch die hohen Lebenshaltungskosten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/01743d33-1777-4c43-83fa-e98863cd8dd7/AAABoQLjpCg/AAABnSSvrFg/16x9-big/lettland-134.jpg?width=1280"
+        },
         {
           "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
           "url": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/1baf7e11-63e4-41d3-a026-abc648bdc53c/AAABoPIGrMw/AAABnSSvrFg/16x9-big/sachsen-anhalt-172.jpg?width=1280"
-        },
-        {
-          "title": "Landesweit große Demos gegen Wohnungsnot in Spanien",
-          "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
-          "summary": "Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500. 000 Teilnehmern allein in Madrid - die Regierung von 70. Derweil gibt es Spekulationen über Neuwahlen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/bba26232-ea32-4251-b4e8-97c112735432/AAABoQIBYQw/AAABnSSvrFg/16x9-big/demosntration-madrid-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Die geschlossene Gesellschaft und ihre Freunde",
+          "url": "https://www.telepolis.de/article/Die-geschlossene-Gesellschaft-und-ihre-Freunde-11469094.html",
+          "summary": "Nur 25 Prozent vertrauen noch den Parteien. Ein Essay über die Frage, ob unsere Demokratie ihre eigenen Profiteure überlebt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/3/1/4/8/treppe-01-581ba0f22c69522b.gif"
+        },
         {
           "title": "Vorne Neuwahl, hinten Entwarnung: Der Spiegel widerlegt seine eigene Schlagzeile",
           "url": "https://www.telepolis.de/article/Vorne-Neuwahl-hinten-Entwarnung-Der-Spiegel-widerlegt-seine-eigene-Schlagzeile-11475101.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/1/4/5/shutterstock_2784996945-b60092721563eafe.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Menschenhandel: Der Zuhälter trägt eine Visitenkarte",
-          "url": "https://www.telepolis.de/article/Menschenhandel-Der-Zuhaelter-traegt-eine-Visitenkarte-11474977.html",
-          "summary": "\"El Castillo\" in San Sebastián: Menschenhandel wird zum internationalen Geschäft – und kriminelle Ausbeutung Teil bürgerlicher Normalität.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/1/2/2/Master_Ruediger-74cec4dc9dad8695.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Oktoberfest: Stadt München hebt Warnung für überfüllte Theresienwiese auf",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
+          "summary": "Am finalen Wiesn-Wochenende war es zwischenzeitlich extrem voll auf dem Gelände. Handydaten zeigen einen deutlichen Anstieg der Besucherzahlen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/03/52d608da-3a12-4d24-b67a-b961cf29a182.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "Frauen-Bundesliga: Bühl entscheidet das Spitzenspiel",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-eintracht-frankfurt-bundesliga-klara-buehl-fussball-li.3558002",
+          "summary": "Dank des Treffers der Nationalspielerin beim 1:0 gegen Eintracht Frankfurt bleibt Bayern München Tabellenerster der Bundesliga. Sorgen bereitet eine mögliche Verletzung von Giulia Gwinn.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/03/32ef7f20-10be-48de-bd1b-b10ba3155251.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=265%2C16%2C2620%2C1474"
+        },
+        {
           "title": "Tag der Deutschen Einheit: „Wir sind stärker als die Niedertracht“",
           "url": "https://www.sueddeutsche.de/politik/tag-der-deutschen-einheit-steinmeier-bundespraesident-merz-bremen-rechtsextremismus-demokratie-li.3557632",
           "summary": "Der scheidende Bundespräsident hält in Bremen seine vielleicht letzte große Rede. Darin diagnostiziert Frank-Walter Steinmeier den Zustand des Landes und der Welt. Über 50 Minuten voll ungewohnter Klarheit.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/03/f90ff29d-4bc4-40c7-b2d8-175894d47b20.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
-        },
-        {
-          "title": "Impressionen vom Oktoberfest: Zwei Wochen Wiesn-Wahnsinn in Bildern",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-schoene-bilder-li.3557092",
-          "summary": "Seit zwei Wochen ist SZ-Fotograf Johannes Simon auf der Theresienwiese unterwegs. Dabei kommt einem natürlich allerlei Kurioses, aber auch Irritierendes unter. Die Highlights.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/02/ae67321a-d217-47b0-8387-94a911c7ecda.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C273%2C4000%2C2250"
-        },
-        {
-          "title": "Oktoberfest: Stadt München meldet volle Theresienwiese",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
-          "summary": "In der Zeit des Reservierungswechsels am Nachmittag war es extrem voll, die Lage besserte sich aber wieder. Handydaten zeigen deutlichen Anstieg der Besucherzahlen auf dem Oktoberfest.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/19/0cef0612-00b2-483e-ba04-5561ac407fdb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
