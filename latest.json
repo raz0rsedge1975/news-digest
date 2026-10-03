@@ -1,10 +1,18 @@
 {
-  "generated": "2026-10-03T06:00:17.452Z",
-  "timestamp": "3.10.2026, 08:00:17",
+  "generated": "2026-10-03T10:00:20.305Z",
+  "timestamp": "3.10.2026, 12:00:20",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Deutsche Identität: Welchen Traum haben wir von unserem Land?",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/wie-die-afd-die-deutsche-einheit-auf-fatale-weise-vollendet-201261559.html",
+          "summary": "Es ist einer von vielen Momenten voll bitterer Ironie in der Geschichte dieses Landes: Die AfD ist im Osten stark und im Westen auf dem Vormarsch. So ist die deutsche Einheit vollendet.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0ee3de3865ae/w2284h1193x0y46o/202511/43601.0.1440239709/historischer-moment-jubelnde.webp"
+        },
         {
           "title": "Deutsche Einheit: Auf dem Weg zum Vaterland ist es noch weit",
           "url": "https://www.faz.net/aktuell/politik/inland/deutsche-einheit-wie-vaterlandsliebe-entsteht-201275650.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/eb4855c4df1c/w8174h4270x0y765o/202609/43601.0.2614073812/deutschland-fahnen-anlaesslich.webp"
         },
         {
-          "title": "F.A.Z. Podcast für Deutschland: Tag der Einheit: Der Osten ist nicht „die Bad Bank der Republik“",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/tag-der-einheit-der-osten-ist-nicht-die-bad-bank-der-republik-201284026.html",
-          "summary": "Deutschland diskutiert 36 Jahre nach der Wiedervereinigung wieder emotional über Unterschiede zwischen Ost und West. Was ist real - und was wird politisch instrumentalisiert?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/05dbb1dd6464/w2970h1551x0y210o/201708/431.0.23754045/bundeskanzler-helmut-kohl.webp"
-        },
-        {
-          "title": "Deutschland-Liveblog: Hunderte bei Antifa-Demo zum Tag der Deutschen Einheit",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-buergerfest-zum-tag-der-deutschen-einheit-beginnt-mit-ueberraschung-faz-110093143.html",
-          "summary": "Polizist bei Zusammenstößen mit Demonstranten verletzt +++ Symbolischer Start einer Ariane-Trägerrakete +++ Private Handynummer von BND-Vizepräsident soll im Internet verfügbar sein +++ alle Entwicklungen im Liveblog",
+          "title": "Wiedervereinigung: Warum ist am 3. Oktober der Tag der Deutschen Einheit?",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/warum-wir-den-tag-der-deutschen-einheit-am-3-oktober-feiern-18348458.html",
+          "summary": "Am 3. Oktober ist der Tag der Deutschen Einheit. Warum dieses Datum dafür gewählt wurde, wie und wo gefeiert wird und welche Aktionen es zu diesem Anlass gibt – ein Überblick.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/81798b0efdd2/w5757h3008x0y415o/202610/43601.0.2622117972/antifa-demo-in-bremen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/41eb5f84ab8c/w2833h1480x0y330o/201509/431.0.32625605/mit-einem-feuerwerk-am.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Flydubai-Copilot galt bei Oman Air offenbar als Sicherheitsrisiko",
-          "url": "https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f#ref=rss",
-          "summary": "Der Mann, der den Flydubai-Flug nach Tel Aviv wohl zum Absturz bringen wollte, wurde laut US-Medien zufolge von seinem früheren Arbeitgeber suspendiert. Demnach stufte Oman Air ihn als Sicherheitsrisiko ein.",
+          "title": "DDR-Bürgerrechtler blicken zurück: Einig gegen die Diktatur, entzweit über die Demokratie",
+          "url": "https://www.spiegel.de/geschichte/ddr-buergerrechtler-blicken-zurueck-einig-gegen-die-diktatur-entzweit-ueber-die-demokratie-a-d02cfba7-cbc8-41a5-9c21-5d6ea563dae1#ref=rss",
+          "summary": "Sie bekämpften das SED-Regime und forderten Freiheit. Hier ziehen Akteure der Friedlichen Revolution Bilanz. Und streiten darüber, wer das Erbe von 1989 bedroht – die AfD oder die anderen Parteien.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7e6b1049-a5fb-4d92-8579-56d67f74e5d9_w1200_r1.778_fpx51_fpy84.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0677b74b-90e9-4c6d-b0ee-b76db484bee0_w1200_r1.778_fpx61.37_fpy50.jpg"
         },
         {
-          "title": "Iran-Krieg: Warum gelangt wieder so viel Öl durch die Straße von Hormus?",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-warum-gelangt-wieder-so-viel-oel-durch-die-strasse-von-hormus-a-c41e5663-bb36-4524-9416-3cb9ca374c86#ref=rss",
-          "summary": "Immer mehr Tanker passieren das Nadelöhr, obwohl Iran Dutzende Drohnen und Raketen pro Woche in der Meerenge verschießt. Das sind die Hintergründe.",
+          "title": "Tag der Deutschen Einheit: Ostdeutschland bietet einen Blick in die Zukunft. Lernen wir daraus",
+          "url": "https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-ostdeutschland-bietet-einen-blick-in-die-zukunft-lernen-wir-daraus-a-c9faa4a1-3637-4e37-a784-56cd270b6ddb#ref=rss",
+          "summary": "Die Wahlen in Ostdeutschland erschüttern die Politik. Dabei sind sie für die Parteien der Mitte auch eine Chance. Die Erfahrungen zeigen, wie man in Zeiten wachsender Polarisierung Menschen für sich gewinnt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4a8fadc4-9082-498b-8bc1-3c3d82c8af06_w1200_r1.778_fpx66.67_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/941befa3-d02f-47fd-b8cd-f733f2efd08c_w1200_r1.778_fpx61.33_fpy49.99.jpg"
         },
         {
-          "title": "Katherina Reiche drängt Gaskonzerne zum Einspeichern",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern-a-848d910c-3a74-4e34-a12e-a7ac93e756d1#ref=rss",
-          "summary": "Die Bundeswirtschaftsministerin hat nach SPIEGEL-Informationen sechs Konzernvertreter aufgefordert, mehr Gas einzuspeichern. Offenbar mit mäßigem Erfolg.",
+          "title": "Spritpreise: Freigabe der Reserven dürfte Preis nur kurzzeitig senken",
+          "url": "https://www.spiegel.de/wirtschaft/service/spritpreise-freigabe-der-reserven-duerfte-preis-nur-kurzzeitig-senken-a-710cb6db-ccf9-4443-b22c-03298999bab0#ref=rss",
+          "summary": "»Nur ein Tropfen auf den heißen Stein« – das Institut der deutschen Wirtschaft warnt: Auch knapp 16 Milliarden Liter Rohöl und Diesel aus den Reserven werden die Preise an den Tankstellen nicht nachhaltig dämpfen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/82873ebf-4b21-4a1e-a855-2ed9e67995be_w1200_r1.778_fpx44.67_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/583bb11b-14bd-4df6-8c6e-6953c1722a07_w1200_r1.778_fpx40.54_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
-          "url": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html",
-          "summary": "Mehr als einen Monat nach der Flutkatastrophe im Himalaya ist die Lage für viele Überlebende immer noch prekär. Gerade für Kinder und junge Frauen birgt das Leben in Notunterkünften viele Gefahren. Von Franziska Amler.",
+          "title": "Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?",
+          "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
+          "summary": "Großbritanniens Premier Burnham nährt mit einer Aussage Diskussionen um einen Wiedereintritt seines Landes in die EU. Gründe zur Zusammenarbeit gäbe es genug. Aber wäre eine Rückkehr wirklich denkbar? Von Sabrina Fritz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1ae88a88-b0bd-4012-8922-edad6251cd5a/AAABoQAXiDY/AAABnSSvrFg/16x9-big/napal-notunterkunft-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/968ea402-52f1-4ae3-8123-7b65523bb52a/AAABoQDmfdc/AAABnSSvrFg/16x9-big/burnham-von-der-leyen-100.jpg?width=1280"
         },
         {
-          "title": "Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten",
-          "url": "https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html",
-          "summary": "Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren Westkurs fortsetzen. Von Arne Bartram.",
+          "title": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
+          "url": "https://www.tagesschau.de/inland/einheitsfeier-bremen-100.html",
+          "summary": "In Bremen hat die offizielle Feier zum Tag der Deutschen Einheit begonnen. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft. Die Ostbeauftragte Kaiser plädierte unterdessen für eine ostdeutsche Bundespräsidentin.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f7bf86f9-6d36-4d73-81bb-c7f6d59cf555/AAABoPzFd2I/AAABnSSvrFg/16x9-big/andris-kulbergs-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5a61140e-24e9-46e1-bd3b-e73603f63f37/AAABoQECklc/AAABnSSvrFg/16x9-big/bremen-tag-der-deutschen-einheit-100.jpg?width=1280"
         },
         {
-          "title": "Ostdeutsche in Führungspositionen: \"Es gibt kaum positive Entwicklungen\"",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
-          "summary": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten. Der Soziologe Hartmann sieht nur wenige Fortschritte - und spricht sich für Quoten bei der Besetzung von Posten aus.",
+          "title": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant",
+          "url": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html",
+          "summary": "Im Juli wurde ein 28-Jähriger im Fall der getöteten Brexit-Politikerin Widdecombe wegen Mordes angeklagt. Die Ermittler stellen nun eine Verbindung zu weiteren Anschlagspläne her - unter anderem gegen Rechtspopulist Farage.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a38f8e2b-7632-46e7-9918-cab30b28d238/AAABoPx5gyE/AAABnSSvrFg/16x9-big/geschaeftsleute-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b612ccf6-3e5e-46e3-a66e-40b1dbd63212/AAABoQD2Kfg/AAABnSSvrFg/16x9-big/farage-202.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Greenwashing-Verbot: EU untersagt Labels wie \"klimaneutral\" ab sofort",
+          "url": "https://www.telepolis.de/article/Greenwashing-Verbot-EU-untersagt-Labels-wie-klimaneutral-ab-sofort-11474315.html",
+          "summary": "Seit September 2026 müssen Öko-Claims auf Verpackungen konkret belegt werden. Kleine Firmen wie Einhorn sitzen auf unverkäuflicher Ware im Wert Tausender Euro.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/7/8/7/spachtel-eu-8ed432f4d7ff2aa4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Hatschepsut: Wie eine Frau zum Pharao von Ägypten wurde",
+          "url": "https://www.telepolis.de/article/Hatschepsut-Wie-eine-Frau-zum-Pharao-von-Aegypten-wurde-11469785.html",
+          "summary": "Eine Frau auf dem Thron der Pharaonen: Hatschepsut brach mit jeder Tradition Ägyptens. Warum genau, ist bis heute ein Rätsel (Teil 1/2).",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/3/4/9/4/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012-0b1f8286e37beec7.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Während Metro enteignet wird, heuert Schröder beim Konkurrenten in Russland an",
           "url": "https://www.telepolis.de/article/Waehrend-Metro-enteignet-wird-heuert-Schroeder-beim-Konkurrenten-in-Russland-an-11474925.html",
           "summary": "Tage nach der Zwangsverwaltung der Metro AG beruft Hyperglobus den Altkanzler in den Aufsichtsrat. Soll sein Draht in den Kreml das Geschäft absichern?",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/0/9/6/shutterstock_153589040-803429a22be780f8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Diesel-Preis: Warum eine Freigabe von Reserven erst im Spätherbst wirkt",
-          "url": "https://www.telepolis.de/article/Diesel-Preis-Warum-eine-Freigabe-von-Reserven-erst-im-Spaetherbst-wirkt-11474568.html",
-          "summary": "Selbst wenn Europa jetzt Reserven freigibt: An der Zapfsäule kommt das frühestens im November an. Zwischen Beschluss und Preissenkung liegen Wochen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/9/1/8/shutterstock_1062083486-88e277e3d2015aad.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Medienrat: Neue Prüfer für ARD und ZDF – was können sie bewirken?",
-          "url": "https://www.telepolis.de/article/Medienrat-Neue-Pruefer-fuer-ARD-und-ZDF-was-koennen-sie-bewirken-11474267.html",
-          "summary": "Sechs Experten sollen prüfen, ob die Sender ihren Auftrag erfüllen. Ihr erster Bericht kommt erst 2028. Programmänderungen können sie nicht erzwingen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/7/6/3/Master_ARDZDFDeutschland-d7064cf1a63a404c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Oktoberfest: Schon 5,2 Millionen Wiesn-Besucher bis Mittwoch",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
+          "summary": "Die Auswertung von Handydaten bis Mitte der zweiten Festwoche zeigt einen deutlichen Anstieg. Ein Mann wird im Wiesn-Camp reanimiert und stirbt in Klinik. Am Wochenende lässt sich zum Endspurt noch einmal die Sonne blicken.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/01/5e299afe-8a0b-4594-9778-4b0d2937d591.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+        },
+        {
+          "title": "Gescheiterte Hinrichtung in Tennessee: „Dies ist im Namen von uns allen geschehen“",
+          "url": "https://www.sueddeutsche.de/panorama/usa-hinrichtung-tennessee-hoechststrafe-death-penalty-information-centers-li.3557133",
+          "summary": "Christa Pike hat ihre eigene Exekution überlebt. Aber in welchem Zustand? Und wie geht diese fürchterliche Geschichte jetzt weiter? Das Schicksal der 50-Jährigen aus Tennessee hat in den USA die Debatte über die Todesstrafe wieder entfacht.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/03/be6f3a6e-026b-4c08-96a6-079e1968a0cb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C344%2C2630%2C1479"
+        },
+        {
           "title": "Newsblog zum Nahost-Krieg: Bericht: Wieder Angriff auf Tanker in der Straße von Hormus",
           "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-trump-tanker-handel-li.3530668",
           "summary": "Erneut ist ein Schiff auf der Handelsroute unter Beschuss geraten. Der Vorfall ereignete sich offenbar nur acht Kilometer von der Küste entfernt.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/02/bbcf0bfd-8c84-426a-93ce-502078b0975c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=908%2C215%2C2732%2C1537"
-        },
-        {
-          "title": "Nach Pisa-Schock: Sechs Stunden Nachsitzen für Bayerns Grundschüler",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-grundschulen-unterricht-pisa-mehr-stunden-lehrermangel-li.3555593",
-          "summary": "Mehr Deutsch, Mathematik, Sport und Musik. Ministerpräsident Söder hat Bayerns Grundschülern zusätzlichen Unterricht verordnet. Nur: Wo sollen die Lehrer herkommen?",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/29/f18f53d7-7a08-41b6-97e5-435096c7a501.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Warnlampe im Cockpit: Söders Tagestrip nach Kroatien gerät auf der Zielgeraden ins Schlingern",
-          "url": "https://www.sueddeutsche.de/bayern/markus-soeder-bayern-kroatien-zagreb-gas-pipeline-flugzeug-warnlampe-li.3552710",
-          "summary": "Wegen einer verdächtigen Anzeige in Flugzeug verzögert sich der Abflug. Mehr Tempo hatten Söder und der kroatische Regierungschef Plenković  zuvor bei einer Gas-Pipeline von der Insel Krk nach Bayern gefordert.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/02/7023bfc7-9e76-4f88-abab-e2b6d84f1c9d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C375%2C4000%2C2250"
         }
       ]
     }
