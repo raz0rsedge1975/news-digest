@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-03T14:00:15.867Z",
-  "timestamp": "3.10.2026, 16:00:15",
+  "generated": "2026-10-03T18:00:17.798Z",
+  "timestamp": "3.10.2026, 20:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "US-Militärbasen: Endet die amerikanische Hegemonie im Nahen Osten?",
-          "url": "https://www.faz.net/aktuell/politik/ausland/zerstoerte-us-basen-am-golf-endet-die-amerikanische-hegemonie-accg-201270549.html",
-          "summary": "Irans Raketen haben Amerikas Militärbasen am Golf schwer getroffen. Nun steht die Schließung von Stützpunkten zur Debatte. Das könnte die Ordnung in der Region umwälzen.",
+          "title": "Strahlantrieb: Warum neue russische Drohnen an Marschflugkörper erinnern",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/warum-russlands-neue-drohnen-so-schwer-abzuwehren-sind-accg-201285641.html",
+          "summary": "Moskau setzt vermehrt auf Drohnen mit Düsenantrieb; Kiew kann derzeit nur knapp 60 Prozent von ihnen abwehren. Das liegt nicht nur an der hohen Geschwindigkeit.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3bca47b9f5ec/w1536h802x0y73o/202604/43601.0.2006841720/von-iran-zerstoert-ein-e-3.webp"
+          "image": "https://media0.faz.net/image/w1200h627/defdf5403ebf/w2613h1365x0y188o/202610/43601.0.2622266972/einschlag-am-freitag-eine.webp"
         },
         {
-          "title": "Deutsche Identität: Welchen Traum haben wir von unserem Land?",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/wie-die-afd-die-deutsche-einheit-auf-fatale-weise-vollendet-201261559.html",
-          "summary": "Es ist einer von vielen Momenten voll bitterer Ironie in der Geschichte dieses Landes: Die AfD ist im Osten stark und im Westen auf dem Vormarsch. So ist die deutsche Einheit vollendet.",
+          "title": "Liveblog Ukrainekrieg: Moldau meldet Einschläge von russischen Drohnen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-moldau-meldet-einschlaege-von-russischen-drohnen-faz-110683325.html",
+          "summary": "Auch Raketen haben laut Präsidentin Sandu den Luftraum verletzt +++ Russland greift auch zweite Dnipro-Brücke in Kiew an +++ Putin: Ukrainische Angriffe kosten Russland 1 Prozent des BIP +++  alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0ee3de3865ae/w2284h1193x0y46o/202511/43601.0.1440239709/historischer-moment-jubelnde.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4ec964512711/w6000h3135x0y744o/202610/43601.0.2623979299/maia-sandu-praesidentin-der.webp"
         },
         {
-          "title": "Deutschland-Liveblog: Steinmeier: „Unerträgliche politische Demagogie gefährdet unsere Einheit“",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-steinmeier-unertraegliche-politische-demagogie-gefaehrdet-unsere-einheit-faz-110093143.html",
-          "summary": "Rede des Bundespräsidenten am Tag der Deutschen Einheit +++ Steinmeier attackiert „gewissenlose Internet-Oligarchen +++ Grüne fordern Strategiewechsel gegen AfD +++ alle Entwicklungen im Liveblog",
+          "title": "Drohnen-Regiment: Jetzt muss Pistorius mehr sein als nur ein Ankündiger",
+          "url": "https://www.faz.net/aktuell/politik/inland/drohnen-regiment-jetzt-muss-pistorius-aber-auch-liefern-201283588.html",
+          "summary": "Der Verteidigungsminister will ein eigenes Regiment der Bundeswehr für Drohnenabwehr und autonomen Kampf. Es darf aber nicht nur auf dem Papier entstehen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6cc43799e064/w3740h1954x0y464o/202610/43601.0.2623793857/bundespraesident-frank-walter.webp"
+          "image": "https://media0.faz.net/image/w1200h627/afe01c84d86f/w5000h2612x0y229o/202610/43601.0.2617808014/ein-soldat-der-bundeswehr-mit.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "USA: 9/11, Obama, Trump – so radikal hat sich Amerika in 30 Jahren verändert",
+          "url": "https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss",
+          "summary": "Das Land, das er einst liebte, erkennt er heute kaum wieder: SPIEGEL-Korrespondent Marc Pitzke verlässt Amerika nach mehr als drei Jahrzehnten. Und zieht Bilanz über ein Land im freien Fall.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/e69354ee-4aa0-4fc1-bfd0-557eb656d627_w1200_r1.778_fpx52_fpy46.jpg"
+        },
         {
           "title": "Tag der Deutschen Einheit: Frank-Walter Steinmeier attackiert Extremisten – AfD-Chef verweigert Applaus",
           "url": "https://www.spiegel.de/politik/deutschland/tag-der-deutschen-einheit-frank-walter-steinmeier-attackiert-extremisten-afd-chef-verweigert-applaus-a-6e637ffe-5b9a-4e7f-9c3a-1dbe49668803#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/d6de914b-ea61-4e62-ac9c-f5ab36882b8a_w1200_r1.778_fpx33.36_fpy50.jpg"
         },
         {
-          "title": "Deutscher Schulpreis: Besuch in der Bertha-von-Suttner-Schule in Hessen",
-          "url": "https://www.spiegel.de/panorama/bildung/deutscher-schulpreis-besuch-in-der-bertha-von-suttner-schule-in-hessen-a-ee10b1f6-b1fc-4523-af26-2bdeab618944#ref=rss",
-          "summary": "Die Bertha-von-Suttner-Schule in Hessen hat nicht nur dem Kanzler einen emotionalen Moment beschert. Sie zeigt auch, dass ein besseres Abschneiden bei Pisa möglich wäre. Wie macht sie das?",
+          "title": "Ukraine-Krieg: Russland warnt Ausländer vor Aufenthalt in Kyjiw",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-auslaender-vor-aufenthalt-in-kyjiw-a-6d4c6d84-4042-4bcd-8e6b-ca0a4ecba842#ref=rss",
+          "summary": "Moskau kündigt weitere Angriffe auf Kyjiw und andere ukrainische Städte an. Zugleich fordert das russische Außenministerium Ausländer und Diplomaten erneut auf, die ukrainische Hauptstadt zu verlassen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f3b663d7-72f6-4069-aca2-2071caf44879_w1200_r1.778_fpx56_fpy44.jpg"
-        },
-        {
-          "title": "Oetinger-Verlag: Wie der Kinderbuchverlag gegen die Lesekrise kämpft",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/oetinger-verlag-wie-der-kinderbuchverlag-gegen-die-lesekrise-kaempft-a-f59a1641-248c-4f81-884a-a9a3e12ef5c7#ref=rss",
-          "summary": "Mit »Pippi Langstrumpf« wurde Oetinger groß. Nun sucht der Verlag Zugang zu Kindern, die anders lesen, hören und schauen. Kann der Umweg über eine »Olchi«-Erlebniswelt wieder zum Buch führen?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/42f106ae-6418-45bd-8011-d95f1001273d_w1200_r1.778_fpx47_fpy60.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/292ecfb8-000f-48b9-b9f3-08cff0e4712c_w1200_r1.778_fpx72.19_fpy45.jpg"
         }
       ]
     },
@@ -64,34 +64,71 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Freigabe von G7-Energiereserven stößt auf gemischte Reaktionen",
-          "url": "https://www.tagesschau.de/ausland/europa/freigabe-oelreserven-reaktionen-100.html",
-          "summary": "Angesichts der hohen Energiepreise haben sich die G7-Staaten auf die Freigabe von Ölreserven verständigt. US-Präsident Trump begrüßt die Entscheidung, die Grünen üben Kritik. Eine Ökonomin erwartet nur eine kurzfristige Entlastung.",
+          "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+          "url": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
+          "summary": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/02cbf6a1-1fed-4654-a499-3040162504c8/AAABlgpJsbw/AAABnSSvrFg/16x9-big/us-oelreseve-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ae5df035-a582-4565-be40-0ebbc3559f06/AAABoQKtQy4/AAABnSSvrFg/16x9-big/butter-126.jpg?width=1280"
         },
         {
-          "title": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\"",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
-          "summary": "Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteidigen. Steinmeier scheidet im März aus dem Amt.",
+          "title": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
+          "summary": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte. Ökonomen sehen dennoch Chancen. Von Claudia Wehrle.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b7c2c186-d8c9-44e1-ba10-24f51d4c5c17/AAABoQGW2Nw/AAABnSSvrFg/16x9-big/steinmeier-1486.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1baf7e11-63e4-41d3-a026-abc648bdc53c/AAABoPIGrMw/AAABnSSvrFg/16x9-big/sachsen-anhalt-172.jpg?width=1280"
         },
         {
-          "title": "Russland beschießt erneut Brücke in Kiew",
-          "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
-          "summary": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen - diesmal traf es die Nordbrücke. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews angegriffen und beschädigt worden.",
+          "title": "Landesweit große Demos gegen Wohnungsnot in Spanien",
+          "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
+          "summary": "Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500. 000 Teilnehmern allein in Madrid - die Regierung von 70. Derweil gibt es Spekulationen über Neuwahlen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/71c18147-acd9-44d5-95bd-37244b81f1e9/AAABoQGSpiI/AAABnSSvrFg/16x9-big/bruecke-kiew-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bba26232-ea32-4251-b4e8-97c112735432/AAABoQIBYQw/AAABnSSvrFg/16x9-big/demosntration-madrid-100.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Vorne Neuwahl, hinten Entwarnung: Der Spiegel widerlegt seine eigene Schlagzeile",
+          "url": "https://www.telepolis.de/article/Vorne-Neuwahl-hinten-Entwarnung-Der-Spiegel-widerlegt-seine-eigene-Schlagzeile-11475101.html",
+          "summary": "Spiegel suggeriert eine Neuwahl in Sachsen-Anhalt, liefert aber selbst die Gegenargumente. Am Ende profitiert ausgerechnet die AfD von der Debatte. Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/1/8/8/KHA08078-original-1-100315c12a06a20f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Wie im Februar 2022: Bereiten westliche Botschaften erneut Abzug aus Kiew vor?",
+          "url": "https://www.telepolis.de/article/Wie-im-Februar-2022-Bereiten-westliche-Botschaften-erneut-Abzug-aus-Kiew-vor-11475023.html",
+          "summary": "Ein Guardian-Bericht sorgt für Aufregung – prorussische Kanäle deuten ihn als Beweis für eine Flucht. Doch die Faktenlage ist komplexer.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/1/4/5/shutterstock_2784996945-b60092721563eafe.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Menschenhandel: Der Zuhälter trägt eine Visitenkarte",
+          "url": "https://www.telepolis.de/article/Menschenhandel-Der-Zuhaelter-traegt-eine-Visitenkarte-11474977.html",
+          "summary": "\"El Castillo\" in San Sebastián: Menschenhandel wird zum internationalen Geschäft – und kriminelle Ausbeutung Teil bürgerlicher Normalität.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/1/2/2/Master_Ruediger-74cec4dc9dad8695.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Tag der Deutschen Einheit: „Wir sind stärker als die Niedertracht“",
+          "url": "https://www.sueddeutsche.de/politik/tag-der-deutschen-einheit-steinmeier-bundespraesident-merz-bremen-rechtsextremismus-demokratie-li.3557632",
+          "summary": "Der scheidende Bundespräsident hält in Bremen seine vielleicht letzte große Rede. Darin diagnostiziert Frank-Walter Steinmeier den Zustand des Landes und der Welt. Über 50 Minuten voll ungewohnter Klarheit.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/03/f90ff29d-4bc4-40c7-b2d8-175894d47b20.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
+        },
         {
           "title": "Impressionen vom Oktoberfest: Zwei Wochen Wiesn-Wahnsinn in Bildern",
           "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-2026-schoene-bilder-li.3557092",
@@ -101,20 +138,12 @@
           "image": "https://www.sueddeutsche.de/2026/10/02/ae67321a-d217-47b0-8387-94a911c7ecda.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C273%2C4000%2C2250"
         },
         {
-          "title": "Oktoberfest: „Bitte kommen Sie zu einem späteren Zeitpunkt“: Stadt München meldet volle Theresienwiese",
+          "title": "Oktoberfest: Stadt München meldet volle Theresienwiese",
           "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
-          "summary": "In der Zeit des Reservierungswechsels am Nachmittag kann es zu einer Überfüllung kommen. Handydaten zeigen deutlichen Anstieg der Besucherzahlen auf dem Oktoberfest.",
+          "summary": "In der Zeit des Reservierungswechsels am Nachmittag war es extrem voll, die Lage besserte sich aber wieder. Handydaten zeigen deutlichen Anstieg der Besucherzahlen auf dem Oktoberfest.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/09/19/0cef0612-00b2-483e-ba04-5561ac407fdb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Gescheiterte Hinrichtung in Tennessee: „Dies ist im Namen von uns allen geschehen“",
-          "url": "https://www.sueddeutsche.de/panorama/usa-hinrichtung-tennessee-hoechststrafe-death-penalty-information-centers-li.3557133",
-          "summary": "Christa Pike hat ihre eigene Exekution überlebt. Aber in welchem Zustand? Und wie geht diese fürchterliche Geschichte jetzt weiter? Das Schicksal der 50-Jährigen aus Tennessee hat in den USA die Debatte über die Todesstrafe wieder entfacht.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/03/be6f3a6e-026b-4c08-96a6-079e1968a0cb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C344%2C2630%2C1479"
         }
       ]
     }
