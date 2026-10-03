@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-03T02:00:16.970Z",
-  "timestamp": "3.10.2026, 04:00:16",
+  "generated": "2026-10-03T06:00:17.452Z",
+  "timestamp": "3.10.2026, 08:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Putin plant den „Krieg der Städte“",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/putins-siegesplan-in-der-ukraine-scheitert-aber-er-hat-einen-neuen-201270556.html",
-          "summary": "Eigentlich wollte Russlands Präsident die Ukraine an der Front besiegen. Weil das nicht gelingt, setzt er auf Bombenterror. So könnte man ihn stoppen.",
+          "title": "Deutsche Einheit: Auf dem Weg zum Vaterland ist es noch weit",
+          "url": "https://www.faz.net/aktuell/politik/inland/deutsche-einheit-wie-vaterlandsliebe-entsteht-201275650.html",
+          "summary": "Am Tag der Deutschen Einheit muss man feststellen: Die Zwietracht wird größer. Vaterlandsliebe müssen die Deutschen erst noch lernen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4d90a7b3559c/w5887h3075x0y462o/202609/43601.0.2612349669/krieg-der-staedte-rauch-ueber.webp"
+          "image": "https://media0.faz.net/image/w1200h627/eb4855c4df1c/w8174h4270x0y765o/202609/43601.0.2614073812/deutschland-fahnen-anlaesslich.webp"
         },
         {
-          "title": "Drohnen: Die Ukrainer im Bund mit den Sternen",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/elon-musk-befindet-sich-mit-starlink-im-ukraine-krieg-accg-201264387.html",
-          "summary": "Von einem Feld in der Ostukraine starten Soldaten Drohnen. Elon Musks Technik ist für den Erfolg entscheidend. Deshalb wird er von Kiew umschmeichelt.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e432eb15d14c/w5472h2859x0y153o/v/2026/10/01/5IAvapqV/die-drohnen-werden-in.webp"
-        },
-        {
-          "title": "F.A.Z. Podcast für Deutschland: „Russen machen sich über deutschen Außenminister lustig“",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/militaerexperte-lange-russen-machen-sich-ueber-deutschen-aussenminister-lustig-201282973.html",
-          "summary": "Kurz nach Wadephuls Treffen mit Lawrow droht Putin der NATO wegen Kaliningrad. Militäexperte Nico Lange erklärt, warum das Gespräch nichts gebracht hat und hinter der Drohung vor allem Schwäche steckt.",
+          "title": "F.A.Z. Podcast für Deutschland: Tag der Einheit: Der Osten ist nicht „die Bad Bank der Republik“",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/tag-der-einheit-der-osten-ist-nicht-die-bad-bank-der-republik-201284026.html",
+          "summary": "Deutschland diskutiert 36 Jahre nach der Wiedervereinigung wieder emotional über Unterschiede zwischen Ost und West. Was ist real - und was wird politisch instrumentalisiert?",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/02b5686d90ce/w6000h3135x0y485o/202609/43601.0.2598005758/aussenminister-johann-wadephul.webp"
+          "image": "https://media0.faz.net/image/w1200h627/05dbb1dd6464/w2970h1551x0y210o/201708/431.0.23754045/bundeskanzler-helmut-kohl.webp"
+        },
+        {
+          "title": "Deutschland-Liveblog: Hunderte bei Antifa-Demo zum Tag der Deutschen Einheit",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-buergerfest-zum-tag-der-deutschen-einheit-beginnt-mit-ueberraschung-faz-110093143.html",
+          "summary": "Polizist bei Zusammenstößen mit Demonstranten verletzt +++ Symbolischer Start einer Ariane-Trägerrakete +++ Private Handynummer von BND-Vizepräsident soll im Internet verfügbar sein +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/81798b0efdd2/w5757h3008x0y415o/202610/43601.0.2622117972/antifa-demo-in-bremen.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Flydubai-Copilot galt bei Oman Air offenbar als Sicherheitsrisiko",
+          "url": "https://www.spiegel.de/ausland/flydubai-copilot-galt-bei-oman-air-offenbar-als-sicherheitsrisiko-a-15ea8ea4-e11d-4fe4-8394-20e4fdb78a0f#ref=rss",
+          "summary": "Der Mann, der den Flydubai-Flug nach Tel Aviv wohl zum Absturz bringen wollte, wurde laut US-Medien zufolge von seinem früheren Arbeitgeber suspendiert. Demnach stufte Oman Air ihn als Sicherheitsrisiko ein.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7e6b1049-a5fb-4d92-8579-56d67f74e5d9_w1200_r1.778_fpx51_fpy84.jpg"
+        },
         {
           "title": "Iran-Krieg: Warum gelangt wieder so viel Öl durch die Straße von Hormus?",
           "url": "https://www.spiegel.de/ausland/iran-krieg-warum-gelangt-wieder-so-viel-oel-durch-die-strasse-von-hormus-a-c41e5663-bb36-4524-9416-3cb9ca374c86#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/4a8fadc4-9082-498b-8bc1-3c3d82c8af06_w1200_r1.778_fpx66.67_fpy50.jpg"
         },
         {
-          "title": "Saudi-Arabien: Turki bin Faisal drängt auf deutsche Rolle in Militärbündnis",
-          "url": "https://www.spiegel.de/ausland/saudi-arabien-turki-bin-faisal-draengt-auf-deutsche-rolle-in-militaerbuendnis-a-9fef6927-1e73-4163-9dd8-19d19fd6cbc1#ref=rss",
-          "summary": "Saudi-Arabien schmiedet eine Militärallianz gegen die Huthis im Jemen – zusammen mit Briten und Franzosen. Nun fordert Ex-Geheimdienstchef Turki bin Faisal al Saud auch eine deutsche Beteiligung.",
+          "title": "Katherina Reiche drängt Gaskonzerne zum Einspeichern",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/katherina-reiche-draengt-gaskonzerne-zum-einspeichern-a-848d910c-3a74-4e34-a12e-a7ac93e756d1#ref=rss",
+          "summary": "Die Bundeswirtschaftsministerin hat nach SPIEGEL-Informationen sechs Konzernvertreter aufgefordert, mehr Gas einzuspeichern. Offenbar mit mäßigem Erfolg.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/37d9a165-c72f-4089-b5a2-60b125cc202b_w1200_r1.778_fpx42_fpy49.jpg"
-        },
-        {
-          "title": "Exzellenz-Unis: Das sind Deutschlands Spitzenuniversitäten",
-          "url": "https://www.spiegel.de/panorama/bildung/exzellenzstrategie-das-sind-die-ausgezeichneten-universitaeten-a-467dde10-1c78-4eb3-ac45-e7448dbe2fae#ref=rss",
-          "summary": "Freiburg, Jena, Köln: Drei weitere deutsche Unis und zwei Hochschulverbünde dürfen sich künftig exzellent nennen. Wer neu ausgezeichnet wurde und wer weiterhin gefördert wird – der Überblick.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/50e7a7ee-4715-4324-8b50-b5dca2af789e_w1200_r1.778_fpx33_fpy69.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/82873ebf-4b21-4a1e-a855-2ed9e67995be_w1200_r1.778_fpx44.67_fpy55.01.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "New Yorks Gouverneurin kündigt nach Gruppenvergewaltigung an Uni Aufklärung an",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-gruppenvergewaltigung-elite-uni-100.html",
-          "summary": "Nach der mutmaßlichen Gruppenvergewaltigung an einer US-Elite-Universität verspricht New Yorks Gouverneurin Hochul jetzt Aufklärung. Staatsanwaltschaft und die Uni selbst waren zuvor in die Kritik geraten. Von Martin Ganslmeier.",
+          "title": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
+          "url": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html",
+          "summary": "Mehr als einen Monat nach der Flutkatastrophe im Himalaya ist die Lage für viele Überlebende immer noch prekär. Gerade für Kinder und junge Frauen birgt das Leben in Notunterkünften viele Gefahren. Von Franziska Amler.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/deceb2bd-1374-4b81-a107-c5d3353db1bd/AAABoP95rBQ/AAABnSSvrFg/16x9-big/james-hochul-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1ae88a88-b0bd-4012-8922-edad6251cd5a/AAABoQAXiDY/AAABnSSvrFg/16x9-big/napal-notunterkunft-100.jpg?width=1280"
         },
         {
-          "title": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
-          "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
-          "summary": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen. Schülervertreter wollen weiter protestieren - distanzieren sich aber von Gewalt.",
+          "title": "Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten",
+          "url": "https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html",
+          "summary": "Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren Westkurs fortsetzen. Von Arne Bartram.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f39032ac-e431-40fb-98a4-7cd1a759638b/AAABoP2VGD4/AAABnSSvrFg/16x9-big/frankreich-proteste-208.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f7bf86f9-6d36-4d73-81bb-c7f6d59cf555/AAABoPzFd2I/AAABnSSvrFg/16x9-big/andris-kulbergs-100.jpg?width=1280"
         },
         {
-          "title": "Warum es in der schwarz-roten Koalition knirscht",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
-          "summary": "Pflege, Rente, Zuckersteuer und überall Spardruck: Es ruckelt heftig in der schwarz-roten Koalition. Gleichzeitig steigt die Unzufriedenheit, viele Menschen fordern spürbare Entlastungen. Wie kommt die Koalition da raus?",
+          "title": "Ostdeutsche in Führungspositionen: \"Es gibt kaum positive Entwicklungen\"",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
+          "summary": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten. Der Soziologe Hartmann sieht nur wenige Fortschritte - und spricht sich für Quoten bei der Besetzung von Posten aus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5068319d-c36d-47f1-9a11-08caf0cdf3b5/AAABoP0B9JQ/AAABnSSvrFg/16x9-big/merz-klingbeil-164.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a38f8e2b-7632-46e7-9918-cab30b28d238/AAABoPx5gyE/AAABnSSvrFg/16x9-big/geschaeftsleute-104.jpg?width=1280"
         }
       ]
     },
