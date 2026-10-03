@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T22:00:26.532Z",
-  "timestamp": "3.10.2026, 00:00:26",
+  "generated": "2026-10-03T02:00:16.970Z",
+  "timestamp": "3.10.2026, 04:00:16",
   "news": [
     {
       "source": "FAZ",
@@ -19,7 +19,7 @@
           "summary": "Von einem Feld in der Ostukraine starten Soldaten Drohnen. Elon Musks Technik ist für den Erfolg entscheidend. Deshalb wird er von Kiew umschmeichelt.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/e432eb15d14c/w5472h2859x0y153o/v/2026/10/01/5IAvapqV/die-drohnen-werden-in.webp"
         },
         {
           "title": "F.A.Z. Podcast für Deutschland: „Russen machen sich über deutschen Außenminister lustig“",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "New Yorks Gouverneurin kündigt nach Gruppenvergewaltigung an Uni Aufklärung an",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-gruppenvergewaltigung-elite-uni-100.html",
+          "summary": "Nach der mutmaßlichen Gruppenvergewaltigung an einer US-Elite-Universität verspricht New Yorks Gouverneurin Hochul jetzt Aufklärung. Staatsanwaltschaft und die Uni selbst waren zuvor in die Kritik geraten. Von Martin Ganslmeier.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/deceb2bd-1374-4b81-a107-c5d3353db1bd/AAABoP95rBQ/AAABnSSvrFg/16x9-big/james-hochul-100.jpg?width=1280"
+        },
+        {
           "title": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
           "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
           "summary": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen. Schülervertreter wollen weiter protestieren - distanzieren sich aber von Gewalt.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/5068319d-c36d-47f1-9a11-08caf0cdf3b5/AAABoP0B9JQ/AAABnSSvrFg/16x9-big/merz-klingbeil-164.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX geht versöhnlich ins Wochenende",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
-          "summary": "Der DAX hat angesichts schwacher US-Arbeitsmarktdaten zugelegt. Die nähren die Hoffnung, dass die US-Notenbank Fed von einer weiteren Erhöhung der Leitzinsen vorerst absehen kann.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/2db31d03-cdba-46dd-9aea-71ef81a25776/AAABmnblNn8/AAABnSSvrFg/16x9-big/boerse-468.jpg?width=1280"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Tage nach der Zwangsverwaltung der Metro AG beruft Hyperglobus den Altkanzler in den Aufsichtsrat. Soll sein Draht in den Kreml das Geschäft absichern?",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/0/9/6/shutterstock_153589040-803429a22be780f8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "Diesel-Preis: Warum eine Freigabe von Reserven erst im Spätherbst wirkt",
@@ -106,7 +106,7 @@
           "summary": "Selbst wenn Europa jetzt Reserven freigibt: An der Zapfsäule kommt das frühestens im November an. Zwischen Beschluss und Preissenkung liegen Wochen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/9/1/8/shutterstock_1062083486-88e277e3d2015aad.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "Medienrat: Neue Prüfer für ARD und ZDF – was können sie bewirken?",
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Newsblog zum Nahost-Krieg: Bericht: Wieder Angriff auf Tanker in der Straße von Hormus",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-usa-trump-tanker-handel-li.3530668",
+          "summary": "Erneut ist ein Schiff auf der Handelsroute unter Beschuss geraten. Der Vorfall ereignete sich offenbar nur acht Kilometer von der Küste entfernt.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/02/bbcf0bfd-8c84-426a-93ce-502078b0975c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=908%2C215%2C2732%2C1537"
+        },
+        {
           "title": "Nach Pisa-Schock: Sechs Stunden Nachsitzen für Bayerns Grundschüler",
           "url": "https://www.sueddeutsche.de/bayern/bayern-grundschulen-unterricht-pisa-mehr-stunden-lehrermangel-li.3555593",
           "summary": "Mehr Deutsch, Mathematik, Sport und Musik. Ministerpräsident Söder hat Bayerns Grundschülern zusätzlichen Unterricht verordnet. Nur: Wo sollen die Lehrer herkommen?",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/02/7023bfc7-9e76-4f88-abab-e2b6d84f1c9d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C375%2C4000%2C2250"
-        },
-        {
-          "title": "Oktoberfest: 38-Jähriger wird in Wiesn-Camp reanimiert und stirbt in Klinik",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-freitag-li.3549371",
-          "summary": "Der Mann war betrunken auf dem Gelände in Riem aufgefunden worden. Zwei Männer sind zu groß für den Olympia-Looping und rasten aus. Am Wochenende lässt sich zum Endspurt noch einmal die Sonne blicken.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2025/11/14/90ec91f4-9bdb-4a68-ac63-328e311f482d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C115%2C4000%2C2250"
         }
       ]
     }
