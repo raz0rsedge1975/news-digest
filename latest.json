@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-03T22:00:17.532Z",
-  "timestamp": "4.10.2026, 00:00:17",
+  "generated": "2026-10-04T02:00:17.554Z",
+  "timestamp": "4.10.2026, 04:00:17",
   "news": [
     {
       "source": "FAZ",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Cornell University: Uni-Präsident bricht Schweigen zu mutmaßlicher Gruppenvergewaltigung",
+          "url": "https://www.spiegel.de/ausland/cornell-university-uni-praesident-bricht-schweigen-zu-mutmasslicher-gruppenvergewaltigung-a-e8ff6f67-d74e-4f19-84f8-a54fce1d0003#ref=rss",
+          "summary": "»Jane Doe« wirft sieben Kommilitonen vor, sie in einem Verbindungshaus an der US-Eliteuni Cornell vergewaltigt zu haben. Der Fall sorgt für großes Aufsehen. Mit einem achtminütigen Video wendet sich nun der Unipräsident an die Gemeinschaft.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/613a5855-aace-4abe-bcfb-5278903ded43_w1200_r1.778_fpx71_fpy37.jpg"
+        },
+        {
           "title": "USA: 9/11, Obama, Trump – so radikal hat sich Amerika in 30 Jahren verändert",
           "url": "https://www.spiegel.de/ausland/usa-9-11-obama-trump-so-radikal-hat-sich-amerika-in-30-jahren-veraendert-a-f3ffc516-c761-4a2a-9c56-57ad5c0ec4b2#ref=rss",
           "summary": "Das Land, das er einst liebte, erkennt er heute kaum wieder: SPIEGEL-Korrespondent Marc Pitzke verlässt Amerika nach mehr als drei Jahrzehnten. Und zieht Bilanz über ein Land im freien Fall.",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/e63ab515-6e56-48d7-8544-210f2ba12bc4_w1200_r1.778_fpx45_fpy58.jpg"
-        },
-        {
-          "title": "Ukraine: Die Solidarität der Deutschen schwindet, die Bundesregierung hat ein Problem mehr",
-          "url": "https://www.spiegel.de/politik/deutschland/ukraine-die-solidaritaet-der-deutschen-schwindet-die-bundesregierung-hat-ein-problem-mehr-a-3d984431-ebc6-4a6d-8571-77ed7c96d3cb#ref=rss",
-          "summary": "Immer mehr Menschen lehnen Waffenlieferungen und die finanzielle Unterstützung Kyjiws ab. Populisten von links bis rechts schlagen daraus Profit. Wie lange hält die Bundesregierung noch stand?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2c2836fc-30fd-4de9-a929-42d113b093f8_w1200_r1.778_fpx56.58_fpy54.85.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Deutsche Bahn will Familienticket dauerhaft anbieten",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html",
+          "summary": "Das Angebot war zunächst nur auf den Sommer begrenzt - jetzt soll es dauerhaft eingeführt werden: das Familienticket der Deutschen Bahn. Denn laut Bahn-Chefin Palla war der Pauschalpreis ein Erfolg.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/facdc8e6-5828-46d2-a09d-e88530f4ac74/AAABngZgB3k/AAABnSSvrFg/16x9-big/bahn-1136.jpg?width=1280"
+        },
+        {
+          "title": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
+          "url": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
+          "summary": "Bei einem Luftangriff im Gazastreifen sind nach Angaben von palästinensischen Rettungskräften mehrere Menschen getötet worden. Die israelische Armee gab an, ein hochrangiges Hamas-Mitglied angegriffen zu haben.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/e8bf4b11-ec9e-4b8d-8dd6-a79a12c50d61/AAABoQP9eZU/AAABnSSvrFg/16x9-big/gaza-angriff-truemmer-haus-100.jpg?width=1280"
+        },
+        {
           "title": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
           "url": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
           "summary": "Die Letten haben ein neues Parlament gewählt. Laut Nachwahlbefragung liegt das Bündnis von Ministerpräsident Kulbergs vorn. Zentrale Themen im Wahlkampf waren Sicherheit und Verteidigung, aber auch die hohen Lebenshaltungskosten.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/01743d33-1777-4c43-83fa-e98863cd8dd7/AAABoQLjpCg/AAABnSSvrFg/16x9-big/lettland-134.jpg?width=1280"
-        },
-        {
-          "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-          "url": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
-          "summary": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ae5df035-a582-4565-be40-0ebbc3559f06/AAABoQKtQy4/AAABnSSvrFg/16x9-big/butter-126.jpg?width=1280"
-        },
-        {
-          "title": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
-          "summary": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte. Ökonomen sehen dennoch Chancen. Von Claudia Wehrle.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1baf7e11-63e4-41d3-a026-abc648bdc53c/AAABoPIGrMw/AAABnSSvrFg/16x9-big/sachsen-anhalt-172.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Newsblog zum Ukraine-Krieg: Russland droht mit massiven Angriffen auf Kiew",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-angriffe-reisewarnung-kiew-selenskij-li.3549696",
+          "summary": "Moskau verstärkt seine Angriffe auf ukrainische Infrastruktur bereits seit Tagen und warnt ausländische Besucher und Diplomaten vor einem Aufenthalt in Kiew.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/03/91776fcb-e011-49d6-bd63-b3fd84737403.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C108%2C4000%2C2250"
+        },
+        {
           "title": "Oktoberfest: Stadt München hebt Warnung für überfüllte Theresienwiese auf",
           "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-samstag-li.3549371",
           "summary": "Am finalen Wiesn-Wochenende war es zwischenzeitlich extrem voll auf dem Gelände. Handydaten zeigen einen deutlichen Anstieg der Besucherzahlen.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/03/32ef7f20-10be-48de-bd1b-b10ba3155251.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=265%2C16%2C2620%2C1474"
-        },
-        {
-          "title": "Tag der Deutschen Einheit: „Wir sind stärker als die Niedertracht“",
-          "url": "https://www.sueddeutsche.de/politik/tag-der-deutschen-einheit-steinmeier-bundespraesident-merz-bremen-rechtsextremismus-demokratie-li.3557632",
-          "summary": "Der scheidende Bundespräsident hält in Bremen seine vielleicht letzte große Rede. Darin diagnostiziert Frank-Walter Steinmeier den Zustand des Landes und der Welt. Über 50 Minuten voll ungewohnter Klarheit.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/03/f90ff29d-4bc4-40c7-b2d8-175894d47b20.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C210%2C4000%2C2250"
         }
       ]
     }
