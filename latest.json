@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-04T06:00:15.099Z",
-  "timestamp": "4.10.2026, 08:00:15",
+  "generated": "2026-10-04T10:00:18.184Z",
+  "timestamp": "4.10.2026, 12:00:18",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Merz und die Ukraine: Wo Putin auf Granit beißen muss",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/kommentar-zu-putins-drohungen-deutschland-darf-nicht-wanken-201285870.html",
+          "summary": "Moskau will mit hybridem Krieg und Atomdrohungen Europa bewegen, die Unterstützung der Ukraine aufzugeben. Das leichteste Spiel meint Putin mit den Deutschen zu haben.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9ee5db92d756/w5432h2838x0y109o/202610/43601.0.2625815844/bundeskanzler-friedrich-merz.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Drohnenalarm in Kiew während Besuch des Kanzlers",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-analyse-drohnenalarm-in-kiew-waehrend-besuch-des-kanzlers-faz-110683325.html",
+          "summary": "Brücke von russischer Drohne getroffen +++ US-Denkfabrik: Russland verliert mehr Gebiete als es gewinnt +++ Regierungspartei siegt klar bei Parlamentswahl in Lettland +++  alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/136612eadfde/w5111h2670x0y534o/202610/43601.0.2625818124/friedrich-merz-in-kiew-am.webp"
+        },
         {
           "title": "Ukraine-Besuch: Merz in Kiew: „Auf unsere Hilfe könnt ihr weiter zählen“",
           "url": "https://www.faz.net/aktuell/politik/ukraine/friedrich-merz-in-kiew-auf-unsere-hilfe-koennt-ihr-weiter-zaehlen-accg-201285831.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ec15a811f34b/w5560h2905x0y464o/202610/43601.0.2625816549/bundeskanzler-friedrich-merz.webp"
-        },
-        {
-          "title": "Strahlantrieb: Warum neue russische Drohnen an Marschflugkörper erinnern",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/warum-russlands-neue-drohnen-so-schwer-abzuwehren-sind-accg-201285641.html",
-          "summary": "Moskau setzt vermehrt auf Drohnen mit Düsenantrieb; Kiew kann derzeit nur knapp 60 Prozent von ihnen abwehren. Das liegt nicht nur an der hohen Geschwindigkeit.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/defdf5403ebf/w2613h1365x0y188o/202610/43601.0.2622266972/einschlag-am-freitag-eine.webp"
-        },
-        {
-          "title": "Liveblog Ukrainekrieg: Analyse widerspricht Putin: Russland verliert mehr Gebiete als es gewinnt",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-analyse-russland-verliert-im-september-mehr-gebiete-als-es-gewinnt-faz-110683325.html",
-          "summary": "US-Denkfabrik: Putins Behauptungen „wie Halluzinationen“ +++ Moldau meldet Einschläge von russischen Drohnen +++ Russland greift auch zweite Dnipro-Brücke in Kiew an +++  alle Neuigkeiten im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6d73a8529a8a/w5501h2874x0y645o/202610/43601.0.2622286312/kremlchef-wladimir-putin-hat.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Russland-Ukraine-Krieg: Friedrich Merz überraschend in Kyjiw eingetroffen",
-          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-friedrich-merz-ueberraschend-in-kyjiw-eingetroffen-a-c6e7607a-70a0-4a19-b913-46020ce53a2d#ref=rss",
-          "summary": "Der Bundeskanzler stattet der Ukraine einen Solidaritätsbesuch ab – und sagt weitere Hilfen für Kyjiws Abwehrkampf zu. »Wenn Russland nicht gestoppt wird, richtet sich seine Kriegsmaschinerie früher oder später gegen uns.«",
+          "title": "Midterm-Wahlen in den USA: Wie Wähler in Ohio auf Donald Trump blicken",
+          "url": "https://www.spiegel.de/ausland/midterm-wahlen-in-den-usa-wie-waehler-in-ohio-auf-donald-trump-blicken-a-e49c1f69-32ab-49f3-8934-62743d096c28#ref=rss",
+          "summary": "30 Tage vor den Midtermwahlen reist US-Präsident Trump in einen besonders umkämpften Bundesstaat. Hier erzählen fünf Republikaner aus Ohio, ob seine Zeit im Weißen Haus ihren Blick auf die Republikaner verändert hat.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/42476330-f8b1-446a-b1ed-d542020c33d4_w1200_r1.778_fpx40_fpy43.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0dd523eb-180f-4cbf-83d2-bf8ae11cec73_w1200_r1.778_fpx52_fpy54.jpg"
         },
         {
-          "title": "Flucht und Migration in die EU: Asylanträge in Europa gehen um fast ein Viertel zurück",
-          "url": "https://www.spiegel.de/ausland/flucht-und-migration-in-die-eu-asylantraege-in-europa-gehen-um-fast-ein-viertel-zurueck-a-ab0839aa-101d-4452-a52b-857942fea985#ref=rss",
-          "summary": "Immer weniger Menschen suchen laut neuesten Zahlen Asyl in Europa. Deutschland fällt als Zielland auf den dritten Platz zurück, vor allem Geflüchtete aus der Ukraine ziehen andere Staaten vor.",
+          "title": "News: Frank-Walter Steinmeier - Das Amt des Bundespräsidenten ist wichtiger denn je",
+          "url": "https://www.spiegel.de/politik/deutschland/news-frank-walter-steinmeier-das-amt-des-bundespraesidenten-ist-wichtiger-denn-je-a-a0c97034-1b7c-4f41-b366-5c422598666a#ref=rss",
+          "summary": "Der Bundespräsident hat der Koalition ins Gewissen geredet: Das Amt ist wichtiger denn je. Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ed31b21b-916e-4ebf-a1e4-8bcfc477aa4d_w1200_r1.778_fpx32.3_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Lettland: Pro-europäische Regierungspartei von Andris Kulbergs gewinnt Parlamentswahl",
-          "url": "https://www.spiegel.de/ausland/lettland-pro-europaeische-regierungspartei-von-andris-kulbergs-gewinnt-parlamentswahl-a-bba7c178-fa10-475f-ae52-cec9ac770ae3#ref=rss",
-          "summary": "Überraschend klar liegt das Mitte-rechts-Bündnis am Ende vorne: Andris Kulbergs kann Ministerpräsident in Lettland bleiben. Die Parlamentswahl in Riga war auch eine Abstimmung über den Ukrainekurs des Landes.",
+          "title": "Timothy Garton Ash über Mittel gegen Populismus, die AfD und Friedrich Merz",
+          "url": "https://www.spiegel.de/geschichte/timothy-garton-ash-ueber-mittel-gegen-populismus-die-afd-und-friedrich-merz-a-9f43ce3f-4799-493f-8b21-ec2795cbf92c#ref=rss",
+          "summary": "Die Wahlerfolge der AfD haben ihn schockiert, aber noch könne man gegensteuern, sagt der britische Historiker und Deutschlandkenner Timothy Garton Ash. Ein Politikertyp wie Friedrich Merz helfe dabei eher nicht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a5566e19-fe43-4aaf-9b07-b878f7b7c2f3_w1200_r1.778_fpx81_fpy26.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/52e12438-677d-4085-8066-d955135a9878_w1200_r1.778_fpx51_fpy38.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Krieg gegen die Ukraine: Kanzler Merz besucht Kiew",
-          "url": "https://www.tagesschau.de/ausland/europa/eilmeldung-merz-kiew-100.html",
-          "summary": "Bundeskanzler Merz ist zu einem Solidaritätsbesuch in Kiew eingetroffen. Dabei soll es auch um weitere militärische Unterstützung gehen. Zuvor hatte Russland vor Reisen in die Ukraine gewarnt.",
+          "title": "Tory-Parteitag: Wie Kemi Badenoch die Tories retten will",
+          "url": "https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html",
+          "summary": "Die britischen Konservativen sind in den Umfragen seit Langem abgeschlagen. Bei dem Parteitag in Birmingham will Kemi Badenoch ihren Tories neuen Mut einflößen. Kann die Parteichefin das? Von Lisa-Marie Röhling.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9bf40eff-4bc5-40cc-8ac5-b8db42dee60a/AAABoQU57l4/AAABnSSvrFg/16x9-big/merz-1682.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/88a24db3-08b4-447c-b5db-db9d199ead63/AAABoQYT4S0/AAABnSSvrFg/16x9-big/kemi-badenoch-104.jpg?width=1280"
         },
         {
-          "title": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
-          "url": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html",
-          "summary": "In Bosnien und Herzegowina werden das Parlament, das dreiköpfige Staatspräsidium und die Regionalregierungen gewählt. Neue Technik soll dabei helfen, Manipulationen zu erschweren. Von S. Hahne.",
+          "title": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
+          "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html",
+          "summary": "Während Kanzler Merz Kiew besucht, hat ein russischer Angriff auf eine Brücke dort Alarm ausgelöst. Merz sagte dem Land Unterstützung zu und trifft sich mit Präsident Selenskyj. Russland begehe \"tägliche Kriegsverbrechen\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/86ad5c0d-5e89-4cfe-ab90-fbe3c85f57f7/AAABoPcr8e0/AAABnSSvrFg/16x9-big/wahlplakate-bosnien-herzegowina-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f8b63254-9921-4185-bbf2-26b4cdfc4fd9/AAABoQYiIFo/AAABnSSvrFg/16x9-big/merz-selenskyj-122.jpg?width=1280"
         },
         {
-          "title": "Hessischer Ministerpräsident Rhein will AfD Ausschussvorsitze ermöglichen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
-          "summary": "Hessens Ministerpräsident Rhein schließt eine inhaltliche Zusammenarbeit mit der AfD aus. In den Augen des CDU-Landeschefs sollte die Partei aber auch auf Bundesebene Ausschussvorsitze übernehmen können.",
+          "title": "Schneider fordert anderen Umgang mit Wasser",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html",
+          "summary": "Wegen der niedrigen Pegelstände hat Bundesumweltminister Schneider ein Umdenken im Umgang mit Wasser angemahnt. Er rief die Bundesländer zu massiven Investitionen in die Wasserinfrastruktur auf.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d39962da-1da8-4aee-87d9-d6eeb7e6834e/AAABoQVAmJE/AAABnSSvrFg/16x9-big/boris-rhein-132.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5e9081c1-4a86-41a0-a20e-cf406f0d20d2/AAABoQWfDfA/AAABnSSvrFg/16x9-big/rhein-200.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Losdemokratie: Warum das Losverfahren fairer ist als Wahlen",
+          "url": "https://www.telepolis.de/article/Losdemokratie-Warum-das-Losverfahren-fairer-ist-als-Wahlen-11473656.html",
+          "summary": "Die Gründerväter der USA wollten explizit keine Demokratie. Warum wir deshalb bis heute wählen statt losen, erklärt eine Replik auf Timo Rieg.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/4/5/9/kugelbahn-F-2-3425aa709bb1b127.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Zeitenwende auf Japanisch: Tokio rüstet wieder auf",
+          "url": "https://www.telepolis.de/article/Zeitenwende-auf-Japanisch-Tokio-ruestet-wieder-auf-11472551.html",
+          "summary": "Japans Regierung treibt die Aufrüstung voran, die Gesellschaft bleibt gespalten. Was bedeutet die Entwicklung für die Sicherheitsarchitektur in Ostasien?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/9/0/8/shutterstock_2565079437-c25aa39372ea9fd0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Die geschlossene Gesellschaft und ihre Freunde",
           "url": "https://www.telepolis.de/article/Die-geschlossene-Gesellschaft-und-ihre-Freunde-11469094.html",
           "summary": "Nur 25 Prozent vertrauen noch den Parteien. Ein Essay über die Frage, ob unsere Demokratie ihre eigenen Profiteure überlebt.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/3/1/4/8/treppe-01-581ba0f22c69522b.gif"
-        },
-        {
-          "title": "Vorne Neuwahl, hinten Entwarnung: Der Spiegel widerlegt seine eigene Schlagzeile",
-          "url": "https://www.telepolis.de/article/Vorne-Neuwahl-hinten-Entwarnung-Der-Spiegel-widerlegt-seine-eigene-Schlagzeile-11475101.html",
-          "summary": "Spiegel suggeriert eine Neuwahl in Sachsen-Anhalt, liefert aber selbst die Gegenargumente. Am Ende profitiert ausgerechnet die AfD von der Debatte. Kommentar.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/1/8/8/KHA08078-original-1-100315c12a06a20f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Wie im Februar 2022: Bereiten westliche Botschaften erneut Abzug aus Kiew vor?",
-          "url": "https://www.telepolis.de/article/Wie-im-Februar-2022-Bereiten-westliche-Botschaften-erneut-Abzug-aus-Kiew-vor-11475023.html",
-          "summary": "Ein Guardian-Bericht sorgt für Aufregung – prorussische Kanäle deuten ihn als Beweis für eine Flucht. Doch die Faktenlage ist komplexer.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/1/4/5/shutterstock_2784996945-b60092721563eafe.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Russisches Haus in Berlin: Staatsanwaltschaft ermittelt wegen Sanktionsverstößen",
-          "url": "https://www.sueddeutsche.de/politik/russisches-haus-berlin-ermittlungen-staatsanwaltschaft-li.3557651",
-          "summary": "Vor einem Monat hatte die Bundesregierung entschieden, dass das  russische Kulturzentrum geschlossen werden soll. Dennoch läuft der Betrieb in Teilen weiter. Wie lange noch?",
+          "title": "Tankrabatt: Wer jetzt noch einen Verbrenner kauft, ist selbst schuld",
+          "url": "https://www.sueddeutsche.de/meinung/tankrabatt-benzinpreise-verbrenner-e-mobilitaet-kommentar-li.3556328",
+          "summary": "Es war richtig von der Regierung, die Benzinkosten zu senken. Mit Populismus gegen Populisten. Es ist einen Versuch wert. Doch das sollte wirklich das letzte Mal sein.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/02/e8348c76-92f1-43ba-a05f-471b0ba3833c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C304%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/04/26a251d3-e711-4870-9a64-903cf7be7ff0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=101%2C369%2C3124%2C1757"
         },
         {
-          "title": "Überraschender Besuch: Merz in Kiew: „Auf unsere Hilfe könnt ihr weiter zählen“",
-          "url": "https://www.sueddeutsche.de/politik/kiew-friedrich-merz-ukraine-militaerhilfe-russland-li.3558024",
-          "summary": "In der von russischen Angriffen geplagten ukrainischen Hauptstadt will der Bundeskanzler Solidarität demonstrieren.  Er möchte Hoffnung vor einem harten Winter machen und bringt wichtige Waffenhilfe mit.",
+          "title": "Oktoberfest: Betriebsunfall auf der Oidn Wiesn: Mitarbeiter von Schiffsschaukel schwer verletzt",
+          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-sonntag-li.3549371",
+          "summary": "An dem Fahrgeschäft ist ein 47-Jähriger schwer verletzt worden. Der Mann wurde vor Ort reanimiert und in eine Klinik gebracht.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/04/d0c10c23-a668-4442-8845-75d2c2646f0b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/04/da0eb503-0141-4a6f-b4ae-c93911566721.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C164%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zum Ukraine-Krieg: Russland droht mit massiven Angriffen auf Kiew",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-russland-angriffe-reisewarnung-kiew-selenskij-li.3549696",
-          "summary": "Moskau verstärkt seine Angriffe auf ukrainische Infrastruktur bereits seit Tagen und warnt ausländische Besucher und Diplomaten vor einem Aufenthalt in Kiew.",
+          "title": "DFB-Team: Jürgen Klopp und das Lied von Joshua Kimmich",
+          "url": "https://www.sueddeutsche.de/sport/nations-league-klopp-kimmich-serbien-mittelfeld-frage-li.3557499",
+          "summary": "Beim bisher besten Spiel der Nationalmannschaft unter dem neuen Bundestrainer fehlt der Kapitän. Jürgen Klopp erkennt schnell, welche Sprengkraft in der Diskussion darüber stecken könnte.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/03/91776fcb-e011-49d6-bd63-b3fd84737403.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C108%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/02/c788947c-cd65-486b-ac1a-277e897d8bf7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=316%2C306%2C2254%2C1268"
         }
       ]
     }
