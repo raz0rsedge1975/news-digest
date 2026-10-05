@@ -1,17 +1,25 @@
 {
-  "generated": "2026-10-05T02:00:21.468Z",
-  "timestamp": "5.10.2026, 04:00:21",
+  "generated": "2026-10-05T06:00:31.572Z",
+  "timestamp": "5.10.2026, 08:00:31",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Bildungsfabrik: Ein Jahresgehalt, um sich auf eine Prüfung vorzubereiten",
-          "url": "https://www.faz.net/aktuell/politik/ausland/kota-lernen-bis-zur-erschoepfung-in-indiens-coachinghauptstadt-201230877.html",
-          "summary": "In der indischen Coachinghauptstadt Kota wird erst „ein Traum verkauft“. Dann kommt der Druck, den sozialen Aufstieg auch zu schaffen. Viele Schüler scheitern daran.",
+          "title": "Inder im Osten: „Viele machen sich Sorgen um ihre Sicherheit“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/inder-in-ostdeutschland-sorgen-wegen-afd-wahlerfolgen-accg-201274852.html",
+          "summary": "Inder stellen in Deutschland die größte Gruppe von ausländischen Studenten und Fachkräften. Seitdem die AfD im Osten Wahl nach Wahl gewinnt, werden viele unruhig.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/59312b686c38/w5712h2984x0y1185o/202609/43601.0.2566054215/alisha-amber-18-im-unterricht.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2fb95a9e3582/w6144h3210x0y464o/202607/43601.0.2325006787/auslaendern-gegenueber-nicht.webp"
+        },
+        {
+          "title": "AfD-Einfluss: Magdeburgs Uni-Rektor warnt vor wissenschaftlicher Isolierung Sachsen-Anhalts",
+          "url": "https://www.faz.net/aktuell/politik/inland/magdeburgs-uni-rektor-warnt-vor-wissenschaftlicher-isolierung-sachsen-anhalts-accg-201288247.html",
+          "summary": "Ulrich Siegmund will sich im Dezember zum Regierungschef von Sachsen-Anhalt wählen lassen. Eine AfD-Regierung könnte erheblichen Einfluss auf die Hochschulen dort nehmen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/5e7e1491eda1/w5568h2909x0y691o/202607/43601.0.2291632942/der-rektor-der-otto-von.webp"
         },
         {
           "title": "0:0 in Griechenland: Viel Klopp-Fußball, aber kein Tor",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/9dcbbb5513b4/w2629h1373x905y310o/202610/43601.0.2628215787/nicht-nur-aleksandar-pavlovi.webp"
-        },
-        {
-          "title": "Folgen für EM-Quali: So wichtig ist die Nations League für das DFB-Team",
-          "url": "https://www.faz.net/aktuell/sport/fussball/dfb-team-in-griechenland-nations-league-hat-folgen-fuer-em-quali-accg-201285469.html",
-          "summary": "Jürgen Klopp nutzt die Nations-League-Spiele zum Fußballfeldversuch. Die Erkenntnisse für den Bundestrainer sind das eine. Eine Niederlage in Griechenland könnte Folgen bis zur EM-Qualifikation haben.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dd5c6ba3125b/w4047h2114x242y376o/202610/43601.0.2619092202/juergen-klopp-links-tritt-mit.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Deutschland unter Jürgen Klopp: Das Vorspiel ist vorbei. Es war so lala",
-          "url": "https://www.spiegel.de/sport/fussball/deutschland-unter-juergen-klopp-das-vorspiel-ist-vorbei-es-war-so-lala-a-a63cd344-fb2e-423d-8879-535c363b648a#ref=rss",
-          "summary": "Vier Länderspiele, nur ein einziger Sieg: Mit einem 0:0 in Griechenland endet der Auftakt unter dem neuen Bundestrainer Jürgen Klopp. Dort gab es einen Blitz-Reflex, eine starke erste Hälfte und Enttäuschungen.",
+          "title": "Wahlen in Brasilien: Der Bolsonaro-Clan triumphiert – Lula muss in Stichwahl",
+          "url": "https://www.spiegel.de/ausland/wahlen-in-brasilien-der-bolsonaro-clan-triumphiert-lula-muss-in-stichwahl-a-c1edecab-3c26-4cce-a27c-ed1e989c43e4#ref=rss",
+          "summary": "Das letzte Bollwerk der Linken in Südamerika steht vor dem Fall. Den Ultrarechten gelingt bei den Wahlen ein Durchmarsch. Für Politveteran Lula wird es schwer: Er muss gegen den Sohn von Ex-Präsident Jair Bolsonaro in die Stichwahl.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/744c2f35-b8bb-4ee5-9833-ee74c0ad5c6c_w1200_r1.778_fpx67.33_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e411c21a-9b7c-467e-b4d1-e18deccd4791_w1200_r1.778_fpx62.65_fpy49.99.jpg"
         },
         {
-          "title": "Nation League: Warum das Fußballspiel Irland gegen Israel politisch so aufgeladen ist",
-          "url": "https://www.spiegel.de/ausland/nation-league-warum-das-fussballspiel-irland-gegen-israel-politisch-so-aufgeladen-ist-a-a76c7fea-f24c-4933-bd68-68f422fccc8f#ref=rss",
-          "summary": "Boykottaufrufe, gesenkte Köpfe bei der Hymne, ein eskalierter Pressetermin: Irlands Fußballduell mit Israel ist brisant, denn im Nahostkonflikt positionieren sich die Iren aufseiten der Palästinenser.",
+          "title": "News: Woche der Nobelpreise, Französische Schulden, Energiekostenrechner",
+          "url": "https://www.spiegel.de/politik/deutschland/news-woche-der-nobelpreise-franzoesische-schulden-energiekostenrechner-a-747c79c3-b777-43a5-b568-369b5e993901#ref=rss",
+          "summary": "Die Nobelpreiswoche beginnt. Frankreich macht immer mehr Schulden. Und die Energiekosten steigen. Das ist die Lage am Montagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0c049db6-5ff6-4654-ac33-c5fa79e4a7da_w1200_r1.778_fpx69.99_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/648c499d-dfda-44ae-bef3-28e45adc7a1e_w1200_r1.778_fpx55.93_fpy54.87.jpg"
         },
         {
           "title": "RAF Fairford: US-Luftwaffe zieht alle Bomber nach Anschlagsverdacht ab",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-          "url": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
-          "summary": "Washington hat seine Langstreckenbomber vom britischen Militärstützpunkt Fairford zurückbeordert - aus Sicherheitsgründen, wie das Pentagon erklärte. Vor einer Woche waren dort Männer wegen möglicher Anschlagspläne festgenommen worden.",
+          "title": "Stichwahl nötig: Brasilien rückt weiter nach rechts",
+          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-ergebnis-100.html",
+          "summary": "Bolsonaro oder Lula? Bei der Präsidentschaftswahl in Brasilien gehen beide Kandidaten in eine Stichwahl. Der Sohn des Ex-Präsidenten gilt als Favorit. Er profitiert von Unzufriedenheit über hohe Lebenshaltungskosten und Kriminalität.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e5c57499-2ab8-4b2a-8d46-ec5dcc92c8f5/AAABoQmlMt8/AAABnSSvrFg/16x9-big/fairford-bomber-kampfjet-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4d1170cf-40eb-4039-b850-97a36c9dc3bd/AAABoQp62oc/AAABnSSvrFg/16x9-big/brasilien-wahl-bolsonaro-104.jpg?width=1280"
         },
         {
-          "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
-          "url": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
-          "summary": "Bei den Wahlen in Bosnien und Herzegowina haben vor allem nationalistische Kräfte die Oberhand. Beobachter halten mit dem nun gewählten Staatspräsidium eine Begnadigung von Ex-Machthaber Dodik für möglich. Von S. Hahne.",
+          "title": "Marktbericht: DAX-Anleger starten Woche mit gemischten Gefühlen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+          "summary": "Es bleibt auch in der neuen Woche herausfordernd für den deutschen Leitindex. Zwar hat bereits am Freitag der US-Arbeitsmarktbericht die Zinssorgen gebremst. Trotzdem belasten die hohen Ölpreise.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/526cd0cf-3efb-4cea-ab87-feb6b891943c/AAABoQlvusI/AAABnSSvrFg/16x9-big/dodik-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/623e331e-6913-4630-b0aa-bd45003fc6c7/AAABoKO-QqQ/AAABnSSvrFg/16x9-big/boerse-542.jpg?width=1280"
         },
         {
-          "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
-          "url": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
-          "summary": "Die Präsidentenwahl in Brasilien wird in einer Stichwahl entschieden: Herausforderer Bolsonaro liegt nach Auszählung fast aller Stimmen zwar etwas vor Amtsinhaber Lula - aber die absolute Mehrheit erreichten beide nicht.",
+          "title": "Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/e-auto-praemie-126.html",
+          "summary": "Die neue Prämie zu Förderung von E-Autos hat laut Umweltminister Schneider die Erwartungen übertroffen. Geld sei bereits an 100. 000 Antragsteller geflossen - viele von ihnen mit geringerem Einkommen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8e7ac03d-34cb-463f-8307-57eb9ae91772/AAABoQkeNtw/AAABnSSvrFg/16x9-big/flyer-wahl-brasilien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/77620946-c469-4271-84a9-c94bd37a989a/AAABoQpgPPo/AAABnSSvrFg/16x9-big/e-auto-252.jpg?width=1280"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Archäologen haben Bestattungen am berühmten Fundort in der Südtürkei nachgewiesen. Was die Knochen über den Zweck der Stätte verrraten.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/3/4/6/6/shutterstock_2320059095-872694af23795905.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "Gernot Erler: \"Mit militärischen Mitteln kann man keinen Frieden schaffen\"",
@@ -106,7 +106,7 @@
           "summary": "Der frühere Russland-Beauftragte Gernot Erler über das Manifest des Erhard-Eppler-Kreises, Aufrüstung und Chancen für Diplomatie mit Moskau.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/3/3/6/generated-image-1__3_-e5e2a0b1828af639.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
         },
         {
           "title": "Asimovs \"Ich, Roboter\": Warum ein 75 Jahre altes Buch die KI-Krise erklärt",
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Deutschland in der Einzelkritik: Derry Scherhant arbeitet an seinem Aufstieg",
-          "url": "https://www.sueddeutsche.de/sport/nations-league-deutschland-griechenland-einzelkritik-li.3558326",
-          "summary": "Der Freiburger zeigt schnelle Antritte, beachtliche Ballbehandlung und gute Laufwege. Pavlovic erinnert phasenweise an Alexander den Großen und Kapitän Wirtz stürzt sich in den Fünfkampf. Die DFB-Elf in der Einzelkritik.",
+          "title": "Newsblog zu den Landtagswahlen: Schulze schließt CDU-Unterstützung bei Siegmund-Wahl aus",
+          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-liveblog-sachsen-anhalt-berlin-schulze-afd-wahl-ministerpraesident-li.3540501",
+          "summary": "Dies hätten alle CDU-Landtagsabgeordneten mehrfach bestätigt, sowohl mündlich als auch schriftlich, sagt CDU-Landesparteichef Schulze in der ARD.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/04/f86a9687-03c1-4d55-ade4-8b7b4629f1fa.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C151%2C2288%2C1287"
+          "image": "https://www.sueddeutsche.de/2026/10/05/9017791f-2cf1-4180-a182-335a5d8da37e.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C62%2C4000%2C2250"
         },
         {
-          "title": "Nations League: Klopps Ballett muss sich noch weiter eintanzen",
-          "url": "https://www.sueddeutsche.de/sport/nations-league-deutschland-griechenland-li.3558325",
-          "summary": "Beim 0:0 in Griechenland bestätigt Klopps Elf mit dem gleichen Mittelfeld wie beim 2:0 gegen Serbien die guten Ansätze – erzielt aber trotz einer Steigerung im Vergleich zum Hinspiel erneut keinen Treffer.",
+          "title": "Newsblog zur Bundespolitik: Linke zieht gegen Ministerin Reiche vor Bundesverfassungsgericht",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-linke-reiche-berlin-video-instagram-wirtschaftsministerin-eilantrag-bundesverfassungsgericht-li.3529564",
+          "summary": "In einem Internet-Video, in dem sie nach deren Wahlsieg vor der Linken warnt, soll die Wirtschaftsministerin gegen die Neutralität im Amt verstoßen haben. Mit einem Eilantrag will die Partei das Video entfernen lassen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/04/67e02394-3351-4e35-90cb-60375acf4a74.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C121%2C1938%2C1090"
+          "image": "https://www.sueddeutsche.de/2026/10/05/77778242-8556-4407-8511-245eaa4340cd.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Oktoberfest: Aus is!",
-          "url": "https://www.sueddeutsche.de/muenchen/oktoberfest-muenchen-2026-news-wiesn-liveticker-sonntag-ende-li.3549371",
-          "summary": "Nach gut zwei Wochen sind die „Bilderbuch-Wiesn“, wie OB Dominik Krause sie nennt, vorbei. Jetzt sind es nur noch 349 Tage bis zum nächsten Oktoberfest.",
+          "title": "Präsidentschaftswahl in Brasilien: Flávio Bolsonaro geht als Sieger aus der ersten Runde hervor",
+          "url": "https://www.sueddeutsche.de/politik/bolsonaro-lula-brasilien-usa-trump-wahlkampf-li.3558160",
+          "summary": "Damit gilt der Sohn des ehemaligen Präsidenten als Favorit für die Stichwahl Ende Oktober – und nicht Amtsinhaber Lula da Silva. Der Ausgang der Wahl ist auch weit über Brasilien hinaus bedeutsam.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/04/be14e21e-777b-45fc-94ab-da7683fa4ad9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C280%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/05/69921071-404d-4736-8d5a-ae00994c4a00.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C292%2C4000%2C2250"
         }
       ]
     }
