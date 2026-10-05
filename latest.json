@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-04T22:00:20.193Z",
-  "timestamp": "5.10.2026, 00:00:20",
+  "generated": "2026-10-05T02:00:21.468Z",
+  "timestamp": "5.10.2026, 04:00:21",
   "news": [
     {
       "source": "FAZ",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/0c049db6-5ff6-4654-ac33-c5fa79e4a7da_w1200_r1.778_fpx69.99_fpy45.jpg"
         },
         {
-          "title": "Gegen 7 Uhr steigt der Kanzler aus dem Zug, um 7.45 Uhr gibt es den ersten Luftalarm",
-          "url": "https://www.spiegel.de/ausland/gegen-7-uhr-steigt-der-kanzler-aus-dem-zug-um-7-45-uhr-gibt-es-den-ersten-luftalarm-a-9c77775b-fe7d-47e4-abd3-5cbceb6dc4d8#ref=rss",
-          "summary": "Friedrich Merz besucht Kyjiw, und Russland schickt den ganzen Tag weiter Drohnen. Doch die Ukrainer bringen dem Kanzler eine Wertschätzung entgegen, wie er sie von zuhause nicht mehr kennt.",
+          "title": "RAF Fairford: US-Luftwaffe zieht alle Bomber nach Anschlagsverdacht ab",
+          "url": "https://www.spiegel.de/ausland/raf-fairford-us-luftwaffe-zieht-alle-bomber-nach-anschlagsverdacht-ab-a-025f9409-8f20-41db-93fe-532795048816#ref=rss",
+          "summary": "Die mutmaßlichen Anschlagspläne gegen die britische Basis Fairford haben das US-Militär aufgeschreckt. Jetzt sind sämtliche Langstreckenbomber zurückbeordert worden. Die Eile des Abzugs wirft neue Fragen auf.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2992bf5c-f0c9-4b8f-9ff7-ebd5952bd399_w1200_r1.778_fpx44_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cec230a2-9e91-462e-9d46-7321a65f5f11_w1200_r1.778_fpx50_fpy54.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
-          "summary": "Die AfD will nach der Wahl in Sachsen-Anhalt regieren, doch ihr fehlt bisher eine Mehrheit. CDU-Fraktionschef Schulze bekräftigte im Bericht aus Berlin, dass die AfD bei der Ministerpräsidentenwahl nicht auf CDU-Stimmen setzen könne.",
+          "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
+          "url": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
+          "summary": "Washington hat seine Langstreckenbomber vom britischen Militärstützpunkt Fairford zurückbeordert - aus Sicherheitsgründen, wie das Pentagon erklärte. Vor einer Woche waren dort Männer wegen möglicher Anschlagspläne festgenommen worden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1ceb13da-5fd8-4c51-9787-fc05a3c86eb9/AAABoQe8Ttc/AAABnSSvrFg/16x9-big/sendungsbild-1806754.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e5c57499-2ab8-4b2a-8d46-ec5dcc92c8f5/AAABoQmlMt8/AAABnSSvrFg/16x9-big/fairford-bomber-kampfjet-100.jpg?width=1280"
         },
         {
-          "title": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
-          "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
-          "summary": "Nach militärischen Erfolgen der Huthi will Jemens international anerkannte Regierung nun in die Offensive gehen. Ziel sei es, das Land aus dem Griff der Miliz zu befreien. Doch das dürfte nicht so einfach sein. Von Anna Osius.",
+          "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+          "url": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+          "summary": "Bei den Wahlen in Bosnien und Herzegowina haben vor allem nationalistische Kräfte die Oberhand. Beobachter halten mit dem nun gewählten Staatspräsidium eine Begnadigung von Ex-Machthaber Dodik für möglich. Von S. Hahne.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/83a5e557-3632-4597-a3e8-ada869e7a8eb/AAABoQgDc5E/AAABnSSvrFg/16x9-big/jemen-840.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/526cd0cf-3efb-4cea-ab87-feb6b891943c/AAABoQlvusI/AAABnSSvrFg/16x9-big/dodik-118.jpg?width=1280"
         },
         {
-          "title": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
-          "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
-          "summary": "Mitglieder der Linksjugend sind in der Geschäftsstelle der Linken in Oranienburg mit Pfefferspray attackiert worden. Die Polizei sucht nach drei Personen. Eine von ihnen soll kurz vor dem Angriff gefragt haben, ob man hier AfD wählen könne.",
+          "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
+          "url": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
+          "summary": "Die Präsidentenwahl in Brasilien wird in einer Stichwahl entschieden: Herausforderer Bolsonaro liegt nach Auszählung fast aller Stimmen zwar etwas vor Amtsinhaber Lula - aber die absolute Mehrheit erreichten beide nicht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/257cd816-8962-4428-84f2-6d1c749d0ba6/AAABoQhPEDY/AAABnSSvrFg/16x9-big/rbb-polizei-blaulicht-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8e7ac03d-34cb-463f-8307-57eb9ae91772/AAABoQkeNtw/AAABnSSvrFg/16x9-big/flyer-wahl-brasilien-100.jpg?width=1280"
         }
       ]
     },
@@ -93,12 +93,20 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Gräber in Göbekli Tepe: Rätsel um verstreute Menschenknochen gelöst?",
+          "url": "https://www.telepolis.de/article/Graeber-in-Goebekli-Tepe-Raetsel-um-verstreute-Menschenknochen-geloest-11469729.html",
+          "summary": "Archäologen haben Bestattungen am berühmten Fundort in der Südtürkei nachgewiesen. Was die Knochen über den Zweck der Stätte verrraten.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Gernot Erler: \"Mit militärischen Mitteln kann man keinen Frieden schaffen\"",
           "url": "https://www.telepolis.de/article/Gernot-Erler-Mit-militaerischen-Mitteln-kann-man-keinen-Frieden-schaffen-11475397.html",
           "summary": "Der frühere Russland-Beauftragte Gernot Erler über das Manifest des Erhard-Eppler-Kreises, Aufrüstung und Chancen für Diplomatie mit Moskau.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/3/3/6/generated-image-1__3_-e5e2a0b1828af639.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": null
         },
         {
           "title": "Asimovs \"Ich, Roboter\": Warum ein 75 Jahre altes Buch die KI-Krise erklärt",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/3/8/7/0/Roboter_Gesetze-2f-1-01-068c948207ce37d6.gif"
-        },
-        {
-          "title": "Wie seriös ist Telepolis? Was Googles KI-Antwort über die Grenzen von KI verrät",
-          "url": "https://www.telepolis.de/article/Wie-serioes-ist-Telepolis-Was-Googles-KI-Antwort-ueber-die-Grenzen-von-KI-verraet-11475309.html",
-          "summary": "Ein Sprachmodell urteilt über ein Medium – gestützt auf alte Text. Telepolis zeigt, warum das ein strukturelles Problem ist.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/2/9/2/generated-image-1__2_-5a96821be6d04ed6.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
