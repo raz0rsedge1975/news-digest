@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-06T10:00:25.020Z",
-  "timestamp": "6.10.2026, 12:00:25",
+  "generated": "2026-10-06T14:00:17.242Z",
+  "timestamp": "6.10.2026, 16:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Bekanntgabe in Stockholm: Physik-Nobelpreis geht an Neutrinoforscher Francis Halzen",
-          "url": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-nobelpreis-an-neutrinoforscher-francis-halzen-accg-201292227.html",
-          "summary": "Der deutsche Physiker Wilhelm Conrad Röntgen zählte zu den allerersten Nobelpreisträgern. 125 Jahre später geht der Preis an einen Astrophysiker.",
+          "title": "August Hanning: Ein Spionageskandal erschüttert den BND",
+          "url": "https://www.faz.net/aktuell/politik/inland/august-hanning-festgenommen-der-bnd-wird-von-einem-spionageskandal-erschuettert-accg-201292341.html",
+          "summary": "Der frühere BND-Präsident August Hanning wurde festgenommen – wegen des Verdachts auf Landesverrat. Ein beispielloser Vorgang, der die Behörde zu einem sensiblen Zeitpunkt trifft.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d340bc997ba7/w1921h1003x0y203o/202510/43601.0.1364762868/eine-nobelmedaille.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c37433cb7026/w6144h3210x0y763o/202610/43601.0.2633249701/polizeibeamte-stehen-vor-dem.webp"
         },
         {
-          "title": "Wegen Spionageverdachts: Ehemaliger BND-Präsident August Hanning festgenommen",
-          "url": "https://www.faz.net/aktuell/politik/inland/spionageverdacht-ehemaliger-bnd-chef-august-hanning-festgenommen-accg-201292036.html",
-          "summary": "Der frühere Geheimdienstchef soll unter anderem für einen fremden Nachrichtendienst eine Analyse erstellt haben. Es handelt sich nach F. -Informationen nicht um einen russischen Dienst.",
+          "title": "Festnahme Hannings: Der rüstige Aufstocker – Mission impossible",
+          "url": "https://www.faz.net/aktuell/politik/inland/ex-bnd-chef-hanning-der-ruestige-aufstocker-201293046.html",
+          "summary": "Eine neue Dimension: Ein ehemaliger Präsident des BND und ein Dauer-Büroleiter stehen im Verdacht der Spionage. Der Schaden ist kaum zu ermessen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/536f511e18f7/w3000h1567x0y191o/202510/43601.0.1414493528/der-fruehere-praesident-des.webp"
+          "image": "https://media0.faz.net/image/w1200h627/18a41388777c/w6144h3210x0y763o/202610/43601.0.2633474020/unter-spionageverdacht-in.webp"
         },
         {
-          "title": "Prozess um Entführung: Und die Kinder? Wurden geknebelt und gefesselt",
-          "url": "https://www.faz.net/aktuell/politik/inland/christina-block-vor-gericht-was-wusste-sie-von-der-entfuehrung-accg-200888026.html",
-          "summary": "Selten kollidieren so viele Interessen in einem Fall: Christina Block steht wegen der Entführung ihrer Kinder vor Gericht – und in ihr Verfahren mischen sich immer wieder angeblich Unbeteiligte ein.",
+          "title": "Landtagspräsident: Die AfD ist nun mittendrin",
+          "url": "https://www.faz.net/aktuell/politik/inland/landtagspraesident-in-sachsen-anhalt-die-afd-ist-mittendrin-201292986.html",
+          "summary": "Die AfD stellt den ersten Landtagspräsidenten. Was er daraus macht, strahlt weit über Magdeburg hinaus.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/0c8d5732eec5/w6000h3135x0y245o/202605/43601.0.2158357279/christina-block-verlaesst-am.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/34b345f84af0/w7950h4153x0y415o/202610/43601.0.2633556221/tobias-rausch-auf-dem-platz.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "PKK-Friedensprozess in der Türkei: Zwei Mütter verlieren ihre Kinder im dem Konflikt - wie blicken sie auf eine mögliche Aussöhnung?",
+          "url": "https://www.spiegel.de/ausland/pkk-friedensprozess-in-der-tuerkei-zwei-muetter-verlieren-ihre-kinder-im-dem-konflikt-wie-blicken-sie-auf-eine-moegliche-aussoehnung-a-c66d272e-f960-44b0-98fb-eedca845ad5e#ref=rss",
+          "summary": "Nezahat Teke verlor ihre Tochter an den kurdischen Widerstand, Pakize Akbaba ihren Sohn im Kampf gegen die PKK. Nun will ausgerechnet die autoritäre türkische Regierung Frieden im Land. Doch der Weg zur Aussöhnung ist riskant.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f0957036-7d2e-4fec-891e-67705a70b1bb_w1200_r1.778_fpx49_fpy72.jpg"
+        },
+        {
+          "title": "Sachsen-Anhalt - Magdeburg: Tobias Rausch ist AfD-Landtagspräsident - 48-Ja-Stimmen",
+          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-magdeburg-tobias-rausch-ist-afd-landtagspraesident-48-ja-stimmen-a-1b6b0b10-0759-4e62-a595-4b43aa6bad11#ref=rss",
+          "summary": "35 Jahre jung und nun Landtagspräsident von Sachsen-Anhalt: Der AfD-Mann Tobias Rausch ist von einer deutlichen Mehrheit gewählt, auch Abgeordnete anderer Parteien stimmten für ihn. Die CDU ist in Aufruhr.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/920cd6a6-2d74-4542-ad31-5672cee92fe3_w1200_r1.778_fpx29.93_fpy46.87.jpg"
+        },
+        {
           "title": "August Hanning: Ex-BND-Chef verhaftet – Verdacht auf Landesverräterische Ausspähung",
           "url": "https://www.spiegel.de/panorama/justiz/august-hanning-ex-bnd-chef-verhaftet-a-a0314149-2e9c-44e4-9338-1cc5ce61da07#ref=rss",
           "summary": "Nach Informationen von SPIEGEL und SPIEGEL TV haben Fahnder den ehemaligen BND-Präsidenten August Hanning festgenommen. Der frühere Spitzenbeamte soll jahrelang privat Geheiminformationen von seinem alten Büroleiter erhalten haben.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/241cb30c-820b-44b2-9e51-80858da893bf_w1200_r1.778_fpx48_fpy56.jpg"
-        },
-        {
-          "title": "Physik-Nobelpreis geht an Francis Halzen für Entdeckung von hochenergetischer Neutrinos aus dem All",
-          "url": "https://www.spiegel.de/wissenschaft/physik-nobelpreis-geht-an-entdecker-hochenergetischer-neutrinos-aus-dem-all-a-ff9a9674-115f-4625-9aec-19b9ccff90f6#ref=rss",
-          "summary": "Der Nobelpreis für Physik geht in diesem Jahr an den belgisch-amerikanischen Neutrinoforscher Francis Halzen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/005a417f-c1e0-4dee-830a-5762402a5ca9_w1200_r1.778_fpx48_fpy46.jpg"
-        },
-        {
-          "title": "Sachsen-Anhalt - Magdeburg: So läuft die erste Sitzung im neuen Landtag",
-          "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-magdeburg-so-laeuft-die-erste-sitzung-im-neuen-landtag-a-1b6b0b10-0759-4e62-a595-4b43aa6bad11#ref=rss",
-          "summary": "In Sachsen-Anhalt kommt erstmals der neu gewählte Landtag zusammen. Alterspräsidentin Eva von Angern zitiert zum Auftakt aus »Spider-Man«. Die Sitzung im Stream und der Liveanalyse.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9ca86647-34b6-421b-8870-68fd008a7202_w1200_r1.778_fpx56_fpy42.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle",
-          "url": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
-          "summary": "Der US-Bundesstaat Pennsylvania hat mehr als 1. 000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind gestorben. Von Nina Barth.",
+          "title": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
+          "summary": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei ist mit einem Großaufgebot im Einsatz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/52b30580-f99e-4f55-8609-79a8f286d5ff/AAABoRBzBlY/AAABnSSvrFg/16x9-big/warnschild-masern-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7947fb73-601c-456b-8ff6-1c9693085c84/AAABoRFIzqE/AAABnSSvrFg/16x9-big/demonstration-paris-104.jpg?width=1280"
         },
         {
-          "title": "Abwehrkampf der Ukraine: Massiver Drohnenangriff auf Moskau",
-          "url": "https://www.tagesschau.de/ausland/europa/drohnenangriff-moskau-104.html",
-          "summary": "Als Teil ihres Abwehrkampfs nimmt die Ukraine immer wieder Ziele tief im russischen Hinterland ins Visier. Die russischen Behörden melden einen großangelegten Angriff auf die Hauptstadt Moskau mit rund 650 Drohnen.",
+          "title": "Separatistenführer Puigdemont kann nach Spanien zurückkehren",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-puigdemont-verfassungsgericht-100.html",
+          "summary": "Per Referendum wollte der katalanische Regierungschef Puigdemont 2017 die Unabhängigkeit der Region durchsetzen - und scheiterte. Es folgte die Flucht ins Ausland und Jahre im Exil. Nun ebnet das Verfassungsgericht den Weg für seine mögliche Rückkehr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8e349c41-4f6c-40f6-8bd2-2e0b273a6563/AAABmnQOl3o/AAABnSSvrFg/16x9-big/langstreckendrohnen-ukraine-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/581ad33b-1acf-4f4e-86eb-d00c75d4eb2c/AAABoRFx3PI/AAABnSSvrFg/16x9-big/puigdemont-378.jpg?width=1280"
         },
         {
-          "title": "Livestream: Die Wahl des Landtagspräsidenten in Sachsen-Anhalt",
-          "url": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html",
-          "summary": "Aktuelle Meldungen, vertiefende Analysen und Interviews: Verfolgen Sie das Programm des ARD-Nachrichtenkanals tagesschau24 hier.",
+          "title": "Tankstellen: Verstöße gegen die 12-Uhr-Regel werden weniger",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/zwoelf-uhr-tank-regel-100.html",
+          "summary": "Die Zahl der Tankstellen, die gegen die 12-Uhr-Regel verstoßen, ist deutlich gesunken. Laut SWR-Analyse konzentrieren sich die verbliebenen Fälle auf wenige auffällige Betreiber. Von Jan Russezki.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/8ab39e88-1d0c-4419-acac-db32dbfde009/AAABoPbp30o/AAABnSSvrFg/16x9-big/benzinpreistafel-tankstelle-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Closing in Moskau: Wenn Frieden zum Geschäft wird",
-          "url": "https://www.telepolis.de/article/Closing-in-Moskau-Wenn-Frieden-zum-Geschaeft-wird-11477419.html",
-          "summary": "Bei den Gesprächen über ein Ende des Ukraine-Krieges geht es nicht nur um Gebiete, sondern auch um einen lukrativen Öl-Deal für Trump-Vertraute. Ein Überblick.",
+          "title": "KI-Weltordnung: Was Pax Silica und Waico für Europa bedeuten",
+          "url": "https://www.telepolis.de/article/KI-Weltordnung-Was-Pax-Silica-und-Waico-fuer-Europa-bedeuten-11472253.html",
+          "summary": "USA und China teilen die KI-Welt auf: hier Pax Silica, dort Waico. Die EU ist bei Pax Silica dabei – doch ihr Status bleibt unklar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/7/3/6/3/shutterstock_1439226746-3e62f43a70351c4f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/7/5/8/Lightspring-247763e5fc676dc5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Fukuyama bei Markus Lanz: Das Gefühl der Missachtung zerstört Demokratien",
-          "url": "https://www.telepolis.de/article/Fukuyama-bei-Markus-Lanz-Das-Gefuehl-der-Missachtung-zerstoert-Demokratien-11477049.html",
-          "summary": "Was treibt Menschen gegen die Demokratie auf? Fukuyama über Respekt, Ostdeutsche und die Lust am Kampf. Der Moderator bleibt im Kleinformat. Eine Kritik.",
+          "title": "Frankreich: Schülerproteste suchen den Schulterschluss",
+          "url": "https://www.telepolis.de/article/Frankreich-Schuelerproteste-suchen-den-Schulterschluss-11477879.html",
+          "summary": "Gewerkschaften und Studierende unterstützen den Protest für bessere Schulen. Schwere Verletzungen Minderjähriger werfen Fragen zum Polizeieinsatz auf.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/7/1/7/3/Master_Lanztalk-ab9658fb2564c1e3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/7/5/9/7/master_france-6c9ea739bdf1fc8d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Wenn die Mehrheit den Klimawandel verdrängt",
-          "url": "https://www.telepolis.de/article/Wenn-die-Mehrheit-den-Klimawandel-verdraengt-11474054.html",
-          "summary": "Bis 2050 könnten Hitze, Sturzfluten und Stürme Deutschland bis zu 900 Milliarden Euro kosten, wenn weder der Staat noch die Bevölkerung Vorsorge treffen will.",
+          "title": "Der Tod in Sibirien",
+          "url": "https://www.telepolis.de/article/Der-Tod-in-Sibirien-11477554.html",
+          "summary": "In Sibirien stirbt eine Mitarbeiterin eines Pest-Instituts, 200 Menschen stehen unter Beobachtung. Offiziell bleibt die Ursache unklar. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/5/6/5/8/klimaleugner-brett_ho-326f88cf55cda248.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/7/4/3/2/shutterstock_2559009163-bb8a87e94a0c5e70.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Liveblog Sachsen-Anhalt: Von Angern appelliert an Abgeordnete: „Wir sind Vorbild, im Guten wie im Schlechten“",
-          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-liveblog-konstituierende-sitzung-rede-von-angern-li.3556472",
-          "summary": "Die Alterspräsidentin der Linke erinnert bei der konstituierenden Sitzung in Magdeburg an Verantwortung für die Demokratie. Tobias Rausch will zum ersten AfD-Landtagspräsidenten gewählt werden. Verfolgen Sie die Sitzung im Liveblog.",
+          "title": "Liveblog Sachsen-Anhalt: Die Wahl der Vizepräsidenten beginnt – AfD und BSW ändern Geschäftsordnung",
+          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-liveblog-landtagspraesident-tobias-rausch-wahl-vizepraesidenten-li.3556472",
+          "summary": "Tobias Rausch ist zum ersten AfD-Landtagspräsidenten gewählt. Der 35-Jährige erhielt 48 von 82 abgegebenen Stimmen und damit vier mehr, als AfD und BSW zusammen haben.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/06/1acd16c8-07bf-41f1-a4bc-ccaa1520ffb8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C312%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/10/06/a2b91d5e-46b5-4e5d-8a0b-725a4b22ff26.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=353%2C977%2C3005%2C1690"
         },
         {
-          "title": "Sachsen-Anhalt: Neue Sitzordnung im Parlament und erster Chefsessel für die AfD",
-          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-afd-wahlsieg-konstituierende-sitzung-folgen-li.3557695",
-          "summary": "In Magdeburg konstituiert sich der neue Landtag. Für den Wahlsieger AfD ist es der erste Schritt zur Macht. Antworten auf die wichtigsten Fragen.",
+          "title": "Todesfall in Sibirien: Was, wenn es die Pest war?",
+          "url": "https://www.sueddeutsche.de/gesundheit/sibirien-pest-li.3559086",
+          "summary": "Nach dem Tod einer Labormitarbeiterin in Sibirien herrscht weiterhin Unsicherheit. Wie wahrscheinlich ist das? Und wie ansteckend ist Lungenpest? Die wichtigsten Fragen und Antworten.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/06/ce43b535-af51-4dc6-8bc9-1481e74c0512.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C417%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/05/2eba62d9-b557-4137-b5d1-743cf5d5d6a4.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C203%2C3801%2C2138"
         },
         {
-          "title": "Newsblog zum Nahost-Krieg: Huthi melden Angriffe auf Ziele in Saudi-Arabien",
-          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-iran-usa-grossbritannien-gefahr-drohnenangriff-huthi-jemen-saudi-arabien-li.3530668",
-          "summary": "Darunter seien der internationale Flughafen in Riad und Abha, eine Erdöl-Raffinerie sowie ein Militärstützpunkt. Pakistan, Saudi-Arabien und die Türkei beschließen die Verlegung gemeinsamer Truppen nach Saudi-Arabien.",
+          "title": "USA: Die Abkanzlerin kehrt zurück",
+          "url": "https://www.sueddeutsche.de/medien/karoline-leavitt-fox-news-trump-pressesprecherin-li.3559022",
+          "summary": "Karoline Leavitt, die ehemalige Pressesprecherin Donald Trumps, wird in Zukunft als Kommentatorin für Fox News arbeiten. Überraschung?",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/06/5fc3fa3d-681b-4983-b4f6-fbc9b1337c5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C289%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/06/34c30eec-4175-4fd1-a3db-01c615115bab.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C193%2C3500%2C1969"
         }
       ]
     }
