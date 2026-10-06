@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-06T02:00:17.846Z",
-  "timestamp": "6.10.2026, 04:00:17",
+  "generated": "2026-10-06T06:00:17.184Z",
+  "timestamp": "6.10.2026, 08:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Schulproteste in Frankreich: Warum sind die Oberschüler so unzufrieden?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-gibt-viel-geld-fuer-bildung-aus-trotzdem-protestieren-die-schueler-accg-201288845.html",
+          "summary": "Die Oberschüler sehen sich als verlorene Generation, die den Niveauverlust des französischen Bildungssystems ausbaden muss. Dafür gibt es mehrere Gründe – und einer davon weist nach Deutschland.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cd697d66db8b/w6144h3210x0y682o/202610/43601.0.2630432446/protestierende-schueler.webp"
+        },
+        {
+          "title": "Wirtschaftliche Lage: Frankreichs Jugend fehlt die Perspektive",
+          "url": "https://www.faz.net/aktuell/wirtschaft/frankreichs-jugend-fehlt-die-perspektive-arbeitslosigkeit-und-ki-als-bedrohung-201289112.html",
+          "summary": "Die wirtschaftlichen Aussichten trüben sich in Frankreich schon länger ein. Junge Menschen sind besonders betroffen. Und mit der KI wird es auf dem Arbeitsmarkt noch schwieriger.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3344a9b90f8c/w5971h3119x0y742o/202610/43601.0.2629810280/protestierende-schueler-in.webp"
+        },
         {
           "title": "Deutscher Buchpreis: Heimat als sinnloser Begriff",
           "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/deutscher-buchpreis-geht-an-shida-bazyar-201290714.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/64e9ca9c46e4/w7110h3714x0y508o/202610/43601.0.2631325371/shida-bazyar-im-kaisersaal-des.webp"
-        },
-        {
-          "title": "Friedenspreisträger: „Ich bin sehr besorgt über die deutsche Position in der Israel-Palästina-Frage“",
-          "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/friedenspreistraeger-philippe-sands-fuer-das-voelkerrecht-auch-in-palaestina-201276114.html",
-          "summary": "Philippe Sands erhält den Friedenspreis des Deutschen Buchhandels. Im Gespräch erklärt er, warum das Recht die Literatur braucht, warum „Ökozide“ strafbar werden sollten und worüber er in der Paulskirche sprechen will.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6e68a966e8a6/w1000h522x0y125o/202609/43601.0.2593750079/philippe-sands-in-seinem-haus.webp"
-        },
-        {
-          "title": "7. bis 11. Oktober 2026: Das müssen Sie vor Ihrem Besuch der Buchmesse wissen",
-          "url": "https://www.faz.net/aktuell/feuilleton/buecher/7-bis-11-oktober-was-sie-vor-dem-besuch-der-buchmesse-wissen-muessen-accg-110720521.html",
-          "summary": "Neue Hallenwege, begrenzte Tickets, zwei geschlossene Eingänge: Wer vor dem Besuch der Frankfurter Buchmesse ein paar Dinge klärt, hat dort mehr Zeit für Bücher. Die wichtigsten Fragen und Antworten für 2026.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/45063c1e910c/w5598h2924x273y112o/202609/43601.0.2552342891/seit-2025-kann-man-buecher.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Covenant: US-Start-up plant Cruise-Missiles-Produktion bei Leipzig mit Geld von Peter Thiel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/covenant-us-start-up-plant-cruise-missiles-produktion-bei-leipzig-mit-geld-von-peter-thiel-a-8781204e-c8d9-41b9-a86f-cea474b85781#ref=rss",
-          "summary": "Deutschland will sich mit weitreichenden Waffen gegen die russische Bedrohung wappnen und unabhängiger von den USA werden. Helfen soll ein Start-up, hinter dem unter anderem der Trump-nahe Investor Peter Thiel steht.",
+          "title": "Cornell University: Was den »Cornell Seven« im Vergewaltigungsfall »Jane Doe« vorgeworfen wird",
+          "url": "https://www.spiegel.de/ausland/cornell-university-was-den-cornell-seven-im-vergewaltigungsfall-jane-doe-vorgeworfen-wird-a-6edcfb3e-ed38-4b35-9eb7-fbd7203d0a08#ref=rss",
+          "summary": "Was passierte in der Nacht der mutmaßlichen Gruppenvergewaltigung an der Cornell University? Die Aussagen der Studentin und der beschuldigten Männer widersprechen einander stark, nun ermittelt eine Sonderstaatsanwältin. Der Fall spaltet Amerika.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1b6d5536-a9c4-4216-a70a-76c81234c231_w1200_r1.778_fpx30_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/80d259fb-26c7-4e07-ae78-2639d7e0ca10_w1200_r1.778_fpx33.34_fpy50.jpg"
+        },
+        {
+          "title": "News: AfD-Präsident für Sachsen-Anhalts Landtag, wachsende Städte vs abgehängte Dörfer, Plan für die Bahn",
+          "url": "https://www.spiegel.de/politik/deutschland/news-afd-praesident-fuer-sachsen-anhalts-landtag-wachsende-staedte-vs-abgehaengte-doerfer-plan-fuer-die-bahn-a-f5f2ede2-cd79-4e9c-ae65-21d445aad2d1#ref=rss",
+          "summary": "Die AfD will in Sachsen-Anhalt den ersten Schritt zur Macht gehen. Forscher erklären die demografische Lage der Nation. Und: Die Bahn hat jetzt einen Plan. Das ist die Lage am Dienstagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
           "title": "RAF Fairford: Trump widerspricht Rubio nach hastigem Abzug von US-Bombern",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/50e62e01-23d9-464b-9c68-7e6eb98170df_w1200_r1.778_fpx69.97_fpy55.jpg"
-        },
-        {
-          "title": "Russland: USA beobachten möglichen Pestfall nach Tod von Laborangestellter",
-          "url": "https://www.spiegel.de/wissenschaft/medizin/russland-usa-beobachten-moeglichen-pestfall-nach-tod-von-laborangestellter-a-84ea34c4-4f01-4b0c-87bc-13c98b432dfb#ref=rss",
-          "summary": "Eine Laborangestellte ist in einem Pestforschungsinstitut in Sibirien gestorben, jetzt äußert sich die US-Regierung. Mehrere Menschen sind offenbar in Quarantäne. Unklar ist jedoch, wodurch die Frau tatsächlich ums Leben kam.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/26be3920-53b6-479d-b9b2-f873483352e9_w1000_r1.778_fpx46_fpy44.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
-          "url": "https://www.tagesschau.de/ausland/asien/tuerkei-pakistan-saudi-arabien-102.html",
-          "summary": "Aufgrund von Huthi-Angriffen auf Saudi-Arabien schicken Pakistan und die Türkei Truppen zur Unterstützung. Zudem wurden Explosionen in der Hauptstadt Riad gemeldet.",
+          "title": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
+          "summary": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können. Der ist bisher nur in der Landwirtschaft erlaubt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5605a9fc-23c2-48b7-b839-1abc7edcd617/AAABoQ6c_x4/AAABnSSvrFg/16x9-big/tuerkei-pakistan-saudi-arabien-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/058e8a24-4658-4180-9ce5-ce30304585d2/AAABoQ-xMYg/AAABnSSvrFg/16x9-big/trump-dekret-diesel-100.jpg?width=1280"
         },
         {
-          "title": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
-          "url": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html",
-          "summary": "Der Algenforscher Peter Hegemann hat Grund zum Feiern: Gemeinsam mit zwei weiteren Forschern erhält er den Medizin-Nobelpreis. In den tagesthemen berichtet er vom Nutzen der Optogenetik - und fordert mehr Mut von der Politik.",
+          "title": "Marktbericht: Positive Vorzeichen könnten DAX beflügeln",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-168.html",
+          "summary": "Der deutsche Leitindex könnte etwas positiver in den Tag starten. Gute Vorzeichen dafür kommen aus den USA: Dort hat der Tech-Index Nasdaq gestern ein Rekordhoch erzielt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/176416f8-b094-4994-bfba-48f2a6bf69fe/AAABoQ1HuBM/AAABnSSvrFg/16x9-big/hegemann-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5f2abda3-ae12-4ce8-9ff1-d6e17b47d882/AAABlf9rdX8/AAABnSSvrFg/16x9-big/boerse-402.jpg?width=1280"
         },
         {
-          "title": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
-          "url": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
-          "summary": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern. Doch das Verteidigungsministerium beendete das Projekt - und beauftragte eine andere Firma. Das hat ein Nachspiel. Kubina und B.",
+          "title": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
+          "url": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html",
+          "summary": "Offene Debatten und politische Diskussionen: Meinungsfreiheit gehört zum nationalen Selbstverständnis der US-Amerikaner. Doch Studien zeigen: An den Universitäten behalten immer mehr ihre Ansichten lieber für sich. Von Anne Schneider.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7914b8a6-2314-43de-9ba4-c017e4797c45/AAABoPt70zg/AAABnSSvrFg/16x9-big/pistorius-682.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ae7bbcd9-44a2-41be-891e-4fe01ea27480/AAABoQ_GxmU/AAABnSSvrFg/16x9-big/universitaet-dallas-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Demonstrationen: Was die Schüler in Frankreich fordern, betrifft auch Deutschland",
-          "url": "https://www.sueddeutsche.de/politik/frankreich-schueler-proteste-soziale-frage-deutschland-kinderarmut-li.3558518",
-          "summary": "Die Demonstrationen in Frankreich werden immer gewalttätiger. Schon an diesem Dienstag könnten sich die Protestbewegung über das ganze Land ausweiten. Und nicht nur dort werden soziale Fragen immer drängender.",
+          "title": "Liveblog Sachsen-Anhalt: Landtag in Sachsen-Anhalt konstituiert sich",
+          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-liveblog-konstituierende-sitzung-li.3556472",
+          "summary": "Der Landtag kommt an diesem Dienstag zum ersten Mal nach der Wahl zusammen. Tobias Rausch soll zum ersten AfD-Landtagspräsidenten gewählt werden. Verfolgen Sie die Sitzung im Liveblog.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/05/9e8e286c-e4f0-4dda-9bac-c7b422709d3c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=346%2C429%2C3458%2C1945"
+          "image": "https://www.sueddeutsche.de/2026/10/04/063813e5-12eb-4f77-bed0-24e2b552ebb9.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C381%2C4000%2C2250"
         },
         {
-          "title": "Wohnungsnot: „Null Neubau“",
-          "url": "https://www.sueddeutsche.de/kultur/wohnungsnot-bauwirtschaft-architektur-li.3557557",
-          "summary": "Gegen die Wohnungsnot wird seit Jahren eine Art Mantra beschworen: Bauen, bauen, bauen! Eine  Studie bezweifelt, dass das klug ist – und bietet eine radikale Alternative.",
+          "title": "USA-Newsblog: US-Bomberabzug aus Großbritannien wohl wegen Gefahr iranischen Drohnenangriffs",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-abzug-iran-bomber-li.3558046",
+          "summary": "Außenminister Marco Rubio hatte hingegen betont, dass der Abzug nicht in direktem Zusammenhang mit mutmaßlichen Terrordrohungen stehe. Die Verlegung sei „nichts Ungewöhnliches“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/05/9079e7af-5829-48a5-8f26-69edc39a8452.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C471%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/06/9d095f2e-8cab-468a-9b9f-82d37229f550.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Japan: Eine Stadt kämpft ums Überleben",
-          "url": "https://www.sueddeutsche.de/wirtschaft/japan-industrie-regierung-kioxia-chip-fabriken-ki-investitionen-li.3548269",
-          "summary": "Die japanische Regierung hat ein Rekord-Investment-Paket aufgelegt, um die Industrie im Land zu stärken. Welche Hoffnungen damit verbunden sind, zeigt ein Besuch in der Kleinstadt Kitakami, die wie andere vom Niedergang bedroht ist.",
+          "title": "Newsblog zum Nahost-Krieg: US-Bomberabzug aus Großbritannien laut Medien wegen Gefahr iranischen Drohnenangriffs",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-iran-usa-bomber-abzug-grossbritannien-gefahr-drohnenangriff-li.3530668",
+          "summary": "Es habe dringende Warnungen vor einem potenziellen komplexen Angriff gegeben, schreibt das Wall Street Journal. Dabei hätten unter anderem US-Piloten auf dem Stützpunkt RAF Fairford getötet werden sollen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/09/22/b2457d3d-8fe1-4b2a-b298-37be799a532c.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/06/5519df65-d1dd-4d08-ab64-ed51a922b916.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
