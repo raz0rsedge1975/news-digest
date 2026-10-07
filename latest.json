@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T22:00:18.770Z",
-  "timestamp": "7.10.2026, 00:00:18",
+  "generated": "2026-10-07T02:00:18.999Z",
+  "timestamp": "7.10.2026, 04:00:19",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
-          "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
-          "summary": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256. 000 Menschen an Demos, allein 56. 000 in Paris. Von Carolin Dylla.",
+          "title": "Anna Politkowskaja: Die Journalistin, die zu mächtige Feinde hatte",
+          "url": "https://www.tagesschau.de/ausland/europa/politkowskaja-journalistin-gedenken-100.html",
+          "summary": "Sie schrieb über Folter, Korruption und den Krieg in Tschetschenien und machte sich damit mächtige Feinde. Oktober 2006 wurde die Journalistin Anna Politkowskaja in Moskau erschossen. Von Stephan Laack.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/028b7f51-994b-454a-807f-fd0547005c6a/AAABoRK84j0/AAABnSSvrFg/16x9-big/proteste-paris-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/00351a65-e339-4135-8435-e1e1adc0c16b/AAABoRQLdcA/AAABnSSvrFg/16x9-big/politkowskaja-110.jpg?width=1280"
         },
         {
-          "title": "Bahn-Sanierung: Verkehrsministerium legt \"Infraplan\" vor",
-          "url": "https://www.tagesschau.de/inland/verkehrsministerium-bahn-infraplan-100.html",
-          "summary": "Im neuen \"Infraplan\" legt der Bund konkrete Ziele für Sanierung und Ausbau des Bahnnetzes fest. Doch die Branche mahnt: Ohne gesicherte Finanzierung droht auch dieser Plan in der Schublade zu verschwinden. Von Benjamin Großkopff.",
+          "title": "129 Tage in der Hand der Hamas: Das neue Leben des Luis Har",
+          "url": "https://www.tagesschau.de/ausland/asien/129-tage-hamas-har-100.html",
+          "summary": "Am 7. Oktober 2023 wurde Luis Har von der Hamas verschleppt und 129 Tage später in einer dramatischen Aktion befreit. Drei Jahre danach kämpft er mit den Spuren des Traumas - und dem Schweigen in seiner Nachbarschaft. Von J. Segador.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ccf7ee47-f049-4cea-9194-dbf807b0efa9/AAABoRJ_-YU/AAABnSSvrFg/16x9-big/bahn-schienen-netz-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c1d46f95-5191-47e8-a057-754462be3472/AAABoROdMYs/AAABnSSvrFg/16x9-big/luis-har-100.jpg?width=1280"
         },
         {
-          "title": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
-          "url": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
-          "summary": "Mit der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt zementiert die AfD ihren Machtanspruch. Und sie zeigt, dass sie Mehrheiten für ihre Kandidaten organisieren kann. Sicher ist nichts mehr, meint Christin Bohmann.",
+          "title": "UN-Menschenrechtsrat: Der Versuch, Menschenrechte vor KI zu schützen",
+          "url": "https://www.tagesschau.de/ausland/europa/un-menschenrechte-ki-100.html",
+          "summary": "Debatten über die Zukunft Künstlicher Intelligenz drehen sich zunehmend um ihre Auswirkungen auf die Menschheit. Nun hat sich der UN-Menschenrechtsrat mit dem Thema befasst - und einstimmig eine Resolution verabschiedet. Von Sandra Biegger.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fe93e184-61fb-4be1-b86b-0673d3ee6e43/AAABoRJp3eg/AAABnSSvrFg/16x9-big/rausch-siegmund-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/977e5209-0efe-4e4d-841b-66719ab8dbc8/AAABmSn4HHY/AAABnSSvrFg/16x9-big/un-menschenrechtsrat-142.jpg?width=1280"
         }
       ]
     },
@@ -93,12 +93,20 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Rasswet: Selenskyj bittet Trump um Blockade",
+          "url": "https://www.telepolis.de/article/Rasswet-Selenskyj-bittet-Trump-um-Blockade-11477654.html",
+          "summary": "Selenskyj bittet Trump, Russlands Starlink-Rivale Rasswet zu blockieren. Was steckt hinter dem Projekt und welche Bedeutung hat es für den Ukraine-Krieg?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "KI-Weltordnung: Was Pax Silica und Waico für Europa bedeuten",
           "url": "https://www.telepolis.de/article/KI-Weltordnung-Was-Pax-Silica-und-Waico-fuer-Europa-bedeuten-11472253.html",
           "summary": "USA und China teilen die KI-Welt auf: hier Pax Silica, dort Waico. Die EU ist bei Pax Silica dabei – doch ihr Status bleibt unklar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/7/5/8/Lightspring-247763e5fc676dc5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "Frankreich: Schülerproteste suchen den Schulterschluss",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/7/5/9/7/master_france-6c9ea739bdf1fc8d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Der Tod in Sibirien",
-          "url": "https://www.telepolis.de/article/Der-Tod-in-Sibirien-11477554.html",
-          "summary": "In Sibirien stirbt eine Mitarbeiterin eines Pest-Instituts, 200 Menschen stehen unter Beobachtung. Offiziell bleibt die Ursache unklar. Ein Überblick.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Frankfurter Buchmesse: Nicht ausgebuht ist genug beklatscht",
+          "url": "https://www.sueddeutsche.de/kultur/wolfram-weimer-eroeffnung-frankfurter-buchmesse-gastland-tschechien-li.3557503",
+          "summary": "Bei der Eröffnung der Frankfurter Buchmesse bekommt Kulturstaatsminister Wolfram Weimer zwar keinen großen Applaus. Aber immerhin wird er nicht vom Publikum beschimpft, wie sein Amtskollege aus dem Gastland Tschechien.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/06/6690b398-2407-4a3c-8351-61ab5d063c74.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=664%2C241%2C2732%2C1537"
+        },
+        {
+          "title": "TV-Kritik zu „Maischberger“: „Sie reden wie Tino Chrupalla über die Extremisten in der AfD“",
+          "url": "https://www.sueddeutsche.de/medien/tv-kritik-talk-afd-linke-cdu-sachsen-anhalt-extremismus-antisemtismus-rechtsextrem-li.3559357",
+          "summary": "Wer hat der AfD zu ihrem ersten Landtagspräsidenten verholfen? Gregor Gysi von der Linken hat bei „Maischberger“ die CDU im Verdacht. Christdemokrat Andreas Rödder wirft ihm Verharmlosung von Antisemitismus vor.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/06/a47a1630-b10a-40b2-b9fd-32a5e36ce742.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=299%2C194%2C3005%2C1690"
+        },
+        {
           "title": "Liveblog Sachsen-Anhalt: SPD-Bundestagsfraktion zieht in Protestmarsch zu Ort mit NS-Vergangenheit",
           "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-spd-pistorius-rede-protestmarsch-berlin-bebelplatz-li.3556472",
           "summary": "Gemeinsam laufen die Abgeordneten zum Bebelplatz, dem Ort der Bücherverbrennung nach der Machtergreifung der Nazis. Verteidigungsminister Pistorius findet klare Worte – und stimmt die Nationalhymne an.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/06/c9b754d7-6ec4-425f-a8a1-50e578ec3644.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C138%2C3149%2C1771"
-        },
-        {
-          "title": "Newsblog zum Ukraine-Krieg: Selenskij warnt vor bevorstehendem Großangriff Russlands",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-selenskij-warnung-grossangriff-russland-li.3549696",
-          "summary": "Der ukrainische Präsident beruft sich auf entsprechende Geheimdienstinfos. Die Armee tue alles ihr Mögliche, die feindlichen Angriffe abzuwehren.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/06/e8cc5981-c8f2-4cb6-a69e-d8ca792b47de.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C208%2C4000%2C2250"
-        },
-        {
-          "title": "Sachsen-Anhalt: Ein Meilenstein für die AfD auf dem Weg zur Macht",
-          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-afd-landtagspraesident-li.3557701",
-          "summary": "Die konstituierende Sitzung des Magdeburger Landtags gerät zur Machtdemonstration der AfD. Die Partei stellt jetzt einen Landtagspräsidenten – und setzt auch noch einen Hardliner als Vize durch.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/06/7dbb957e-8747-41b8-a5f9-d939afaca83a.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C215%2C4000%2C2250"
         }
       ]
     }
