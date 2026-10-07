@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-07T02:00:18.999Z",
-  "timestamp": "7.10.2026, 04:00:19",
+  "generated": "2026-10-07T06:00:16.271Z",
+  "timestamp": "7.10.2026, 08:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Deutsch-französischer Deal: Abkehr vom Verbrenner-Aus bahnt sich an",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/verbrennerverbot-merz-und-macron-planen-ueberraschenden-deal-201291103.html",
-          "summary": "Bundeskanzler Merz will das Verbrennerverbot endgültig kippen. Bislang blockierte Frankreich. Darum will Berlin nun ein Zugeständnis an Paris bei den umstrittenen „Made in EU“-Vorgaben machen.",
+          "title": "7. Oktober 2023: Was wusste Netanjahu?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/was-wusste-benjamin-netanjahu-vor-dem-7-oktober-accg-201292534.html",
+          "summary": "Mehrmals soll Israels Ministerpräsident Benjamin Netanjahu vor dem Terrorangriff vom 7. Oktober gewarnt worden sein. Hilft das der Opposition im Wahlkampf?",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/064b2e9d6f2c/w3000h1567x0y226o/202512/43601.0.1572663969/streng-reglementiert.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/5b3d5000e941/w7250h3788x246y555o/202610/43601.0.2632803124/ein-wahlplakat-mit-benjamin.webp"
         },
         {
-          "title": "AfD in Magdeburg: Ein Etappensieg für die Rechtsradikalen",
-          "url": "https://www.faz.net/aktuell/politik/inland/rausch-und-tillschneider-im-praesidium-des-landtags-sachsen-anhalt-vordergruendig-versoehnlich-201293219.html",
-          "summary": "Erstmals wird ein AfD-Politiker zum Parlamentspräsidenten gewählt – mutmaßlich auch mit Stimmen der CDU. Der steht die eigentliche Feuerprobe allerdings noch bevor.",
+          "title": "Jahrestag des Hamas-Überfalls: Merz sichert Israel Beistand zu und wirbt für Palästinenserstaat",
+          "url": "https://www.faz.net/aktuell/politik/ausland/merz-sichert-israel-beistand-zu-und-wirbt-fuer-palaestinenserstaat-accg-201294567.html",
+          "summary": "Am Jahrestag des Hamas-Überfalls warnt der Kanzler vor wachsendem Antisemitismus in Deutschland. Außenminister Wadephul nennt es beschämend, wie viel noch zu tun sei.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8f2a4981fd99/w2909h1519x0y140o/202610/43601.0.2633807935/noch-ministerpaesident-sven.webp"
+          "image": "https://media0.faz.net/image/w1200h627/018df0ff577b/w6144h3210x0y123o/202610/43601.0.2635630729/bundeskanzler-friedrich-merz.webp"
         },
         {
-          "title": "Magdeburger Landtag: Tillschneider will als Vizepräsident „unauffällig“ arbeiten",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-tillschneider-will-als-vizepraesident-unauffaellig-arbeiten-faz-110093143.html",
-          "summary": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Irankrieg: Huthi-Rebellen greifen internationalen Flughafen mit Raketen an",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-mekka-allianz-beschliesst-nach-angriff-auf-medina-rasche-truppenverlegung-faz-200583539.html",
+          "summary": "Explosionen erschüttern Saudi-Arabiens Hauptstadt Riad +++ Türkei und Pakistan entsenden Truppen +++ Merz „vorsichtig optimistisch“ nach Rückeroberung von Bab al-Mandab +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4e88376c33aa/w4495h2348x0y192o/202610/43601.0.2634410363/hans-thomas-tillschneider-afd.webp"
+          "image": "https://media0.faz.net/image/w1200h627/48cf3abab267/w6000h3135x0y120o/202609/43601.0.2582855830/ein-houthi-kaempfer-feuert.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Friedrich Merz: Mehrheit der Deutschen hält seine Kanzlerschaft für gescheitert",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-mehrheit-der-deutschen-haelt-seine-kanzlerschaft-fuer-gescheitert-a-b755b7f7-77b9-4881-8c18-e25af26ee21b#ref=rss",
+          "summary": "Die Wahlen sind gelaufen, die Stimmung ist mies: Laut dem neuen SPIEGEL-Ipsos-Politikmonitor steht eine Mehrheit der Deutschen nicht hinter Kanzler Merz. Auch das Votum über drei mögliche Nachfolger fällt wenig positiv aus.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/9e3acb49-c57e-45c6-9e71-4c110e272b57_w1200_r1.778_fpx39.98_fpy49.99.jpg"
+        },
         {
           "title": "Sachsen-Anhalt: Wo kommen die CDU-Stimmen für die AfD her?",
           "url": "https://www.spiegel.de/politik/deutschland/sachsen-anhalt-wo-kommen-die-cdu-stimmen-fuer-die-afd-her-a-75c34cdd-db02-4439-a358-1aeda702aa5c#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/562ec7a1-94a7-43ba-8357-fd7c94431236_w1200_r1.778_fpx53_fpy41.jpg"
         },
         {
-          "title": "August Hanning: Festnahme des Ex-BND-Chefs erschüttert Sicherheitsapparat",
-          "url": "https://www.spiegel.de/panorama/justiz/august-hanning-festnahme-des-ex-bnd-chefs-erschuettert-sicherheitsapparat-a-0120eb6b-d2f0-400c-8d31-b9a967acbd98#ref=rss",
-          "summary": "Die Festnahme von Ex-BND-Chef August Hanning ist ein Schock für den deutschen Sicherheitsapparat. Dabei waren seine dubiosen Beratergeschäfte seit Jahren bekannt. Hätte die Regierung früher einschreiten können? Die SPIEGEL-Rekonstruktion.",
+          "title": "News: Umfrage sieht Merz gescheitert, Gedenken an Hamas-Opfer vom 7. Oktober, Galeria-Insolvenz",
+          "url": "https://www.spiegel.de/politik/deutschland/news-umfrage-sieht-merz-gescheitert-gedenken-an-hamas-opfer-vom-7-oktober-galeria-insolvenz-a-41ec4893-ee41-4369-a333-e8f64d015cd3#ref=rss",
+          "summary": "Der Kanzler ist nach Ansicht der Deutschen gescheitert. Am dritten Jahrestag trauern wir um die Opfer des Terrorangriffs vom 7. Und: Galeria darf nicht sterben! Das ist die Lage am Mittwochmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/241cb30c-820b-44b2-9e51-80858da893bf_w1200_r1.778_fpx48_fpy56.jpg"
-        },
-        {
-          "title": "Tennessee: Christa Pike ist nach missglückter Hinrichtung wieder bei Bewusstsein",
-          "url": "https://www.spiegel.de/ausland/tennessee-christa-pike-ist-nach-missglueckter-hinrichtung-wieder-bei-bewusstsein-a-881919ad-4489-48f1-ba78-88a33c1ff77f#ref=rss",
-          "summary": "Die zum Tode verurteilte Mörderin Christa Pike ist US-Medien zufolge wieder bei Bewusstsein und ansprechbar. Ihre missglückte Hinrichtung hatte für Empörung gesorgt.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/00b23f86-fe59-4e0c-a9fd-6cab32f7f4fc_w337_r1.778_fpx49.86_fpy44.45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/5ef6f0a0-f6a8-406b-8e80-8e9ef6b319a0_w1200_r1.778_fpx55.3_fpy50.93.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Anna Politkowskaja: Die Journalistin, die zu mächtige Feinde hatte",
-          "url": "https://www.tagesschau.de/ausland/europa/politkowskaja-journalistin-gedenken-100.html",
-          "summary": "Sie schrieb über Folter, Korruption und den Krieg in Tschetschenien und machte sich damit mächtige Feinde. Oktober 2006 wurde die Journalistin Anna Politkowskaja in Moskau erschossen. Von Stephan Laack.",
+          "title": "SPD-Bundesspitze fordert von der CDU Aufklärung zu Sachsen-Anhalt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-reaktion-koalition-sachsenanhalt-100.html",
+          "summary": "Die Wahl des AfD-Politikers Rausch zum Landtagspräsidenten wirkt sich auf die Bundespolitik aus. Die SPD fordert vom Koalitionspartner CDU Aufklärung, die SPD-Fraktion protestierte in Berlin an einem symbolträchtigen Ort.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/00351a65-e339-4135-8435-e1e1adc0c16b/AAABoRQLdcA/AAABnSSvrFg/16x9-big/politkowskaja-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d287968c-d493-454a-adc7-8c07460c9f17/AAABoRSwJOg/AAABnSSvrFg/16x9-big/spd-berlin-protest-100.jpg?width=1280"
         },
         {
-          "title": "129 Tage in der Hand der Hamas: Das neue Leben des Luis Har",
-          "url": "https://www.tagesschau.de/ausland/asien/129-tage-hamas-har-100.html",
-          "summary": "Am 7. Oktober 2023 wurde Luis Har von der Hamas verschleppt und 129 Tage später in einer dramatischen Aktion befreit. Drei Jahre danach kämpft er mit den Spuren des Traumas - und dem Schweigen in seiner Nachbarschaft. Von J. Segador.",
+          "title": "Ölpreis dürfte DAX ausbremsen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
+          "summary": "Die Entspannung am Ölmarkt ist erst einmal dahin. Die wieder anziehenden Notierungen haben die Märkte in Asien belastet, und dürften auch beim DAX für Abschläge sorgen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c1d46f95-5191-47e8-a057-754462be3472/AAABoROdMYs/AAABnSSvrFg/16x9-big/luis-har-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b19e9d58-9935-4067-a655-d494e13c64cc/AAABn1pWFaE/AAABnSSvrFg/16x9-big/boerse-522.jpg?width=1280"
         },
         {
-          "title": "UN-Menschenrechtsrat: Der Versuch, Menschenrechte vor KI zu schützen",
-          "url": "https://www.tagesschau.de/ausland/europa/un-menschenrechte-ki-100.html",
-          "summary": "Debatten über die Zukunft Künstlicher Intelligenz drehen sich zunehmend um ihre Auswirkungen auf die Menschheit. Nun hat sich der UN-Menschenrechtsrat mit dem Thema befasst - und einstimmig eine Resolution verabschiedet. Von Sandra Biegger.",
+          "title": "Verbraucherpolitiker kritisieren Schufa wegen mangelnder Transparenz",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/schufa-bundestag-kritik-100.html",
+          "summary": "Erst bewarb die Schufa ihren neuen Score mit Transparenz, dann kamen durch NDR- und SZ-Recherchen weitere Bewertungsscores ans Licht. Linke, Grüne, SPD und Union üben Kritik und fordern Antworten. Nur die AfD sieht kein Problem.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/977e5209-0efe-4e4d-841b-66719ab8dbc8/AAABmSn4HHY/AAABnSSvrFg/16x9-big/un-menschenrechtsrat-142.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f4b44dfc-a649-41fe-885a-f1241b789890/AAABoRGt9vI/AAABnSSvrFg/16x9-big/schufa-logo-100.jpg?width=1280"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Selenskyj bittet Trump, Russlands Starlink-Rivale Rasswet zu blockieren. Was steckt hinter dem Projekt und welche Bedeutung hat es für den Ukraine-Krieg?",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/7/4/8/2/shutterstock_2495439245-7cfa2fda79a1bf37.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "KI-Weltordnung: Was Pax Silica und Waico für Europa bedeuten",
@@ -106,7 +106,7 @@
           "summary": "USA und China teilen die KI-Welt auf: hier Pax Silica, dort Waico. Die EU ist bei Pax Silica dabei – doch ihr Status bleibt unklar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/4/7/5/8/Lightspring-247763e5fc676dc5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "Frankreich: Schülerproteste suchen den Schulterschluss",
@@ -114,7 +114,7 @@
           "summary": "Gewerkschaften und Studierende unterstützen den Protest für bessere Schulen. Schwere Verletzungen Minderjähriger werfen Fragen zum Polizeieinsatz auf.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/7/5/9/7/master_france-6c9ea739bdf1fc8d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Frankfurter Buchmesse: Nicht ausgebuht ist genug beklatscht",
-          "url": "https://www.sueddeutsche.de/kultur/wolfram-weimer-eroeffnung-frankfurter-buchmesse-gastland-tschechien-li.3557503",
-          "summary": "Bei der Eröffnung der Frankfurter Buchmesse bekommt Kulturstaatsminister Wolfram Weimer zwar keinen großen Applaus. Aber immerhin wird er nicht vom Publikum beschimpft, wie sein Amtskollege aus dem Gastland Tschechien.",
+          "title": "Spanien: Puigdemont darf wieder nach Katalonien",
+          "url": "https://www.sueddeutsche.de/politik/spanien-carles-puigdemont-katalonien-amnestie-pedro-sanchez-li.3559451",
+          "summary": "Das spanische Verfassungsgericht setzt den Haftbefehl gegen den früheren katalanischen Ministerpräsidenten aus und ermöglicht ihm die Rückkehr aus dem Exil. Doch die Machtverhältnisse in seiner Heimat haben sich verändert.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/06/6690b398-2407-4a3c-8351-61ab5d063c74.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=664%2C241%2C2732%2C1537"
+          "image": "https://www.sueddeutsche.de/2026/10/06/37b12f2c-a1bb-490c-9fbe-4f78b128d019.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C183%2C3500%2C1969"
         },
         {
-          "title": "TV-Kritik zu „Maischberger“: „Sie reden wie Tino Chrupalla über die Extremisten in der AfD“",
-          "url": "https://www.sueddeutsche.de/medien/tv-kritik-talk-afd-linke-cdu-sachsen-anhalt-extremismus-antisemtismus-rechtsextrem-li.3559357",
-          "summary": "Wer hat der AfD zu ihrem ersten Landtagspräsidenten verholfen? Gregor Gysi von der Linken hat bei „Maischberger“ die CDU im Verdacht. Christdemokrat Andreas Rödder wirft ihm Verharmlosung von Antisemitismus vor.",
+          "title": "Newsblog zum Nahost-Krieg: Saudi-Arabien wehrt ballistische Raketen der Huthi-Miliz ab",
+          "url": "https://www.sueddeutsche.de/politik/news-iran-nahost-krieg-iran-usa-grossbritannien-gefahr-drohnenangriff-huthi-jemen-saudi-arabien-li.3530668",
+          "summary": "Das berichtet der Sprecher des von Saudi-Arabien angeführten Militärbündnisses.  Die Abschussplattform der Raketen in Jemen soll nun zerstört werden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/06/a47a1630-b10a-40b2-b9fd-32a5e36ce742.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=299%2C194%2C3005%2C1690"
+          "image": "https://www.sueddeutsche.de/2026/10/06/5fc3fa3d-681b-4983-b4f6-fbc9b1337c5b.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C289%2C4000%2C2250"
         },
         {
-          "title": "Liveblog Sachsen-Anhalt: SPD-Bundestagsfraktion zieht in Protestmarsch zu Ort mit NS-Vergangenheit",
-          "url": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtag-news-spd-pistorius-rede-protestmarsch-berlin-bebelplatz-li.3556472",
-          "summary": "Gemeinsam laufen die Abgeordneten zum Bebelplatz, dem Ort der Bücherverbrennung nach der Machtergreifung der Nazis. Verteidigungsminister Pistorius findet klare Worte – und stimmt die Nationalhymne an.",
+          "title": "Länderspiel-Abschied von Lionel Messi: Ein Tor beim letzten Tango",
+          "url": "https://www.sueddeutsche.de/sport/argentinien-buenos-aires-abschied-lionel-messi-li.3559678",
+          "summary": "Nach 208 Länderspiele beendet Argentiniens größter Fußballspieler seine Karriere im Nationalteam – mit einem 3:0 über Benin: „Dieses Trikot war mein Traum, mein Stolz und mein Leben.“",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/06/c9b754d7-6ec4-425f-a8a1-50e578ec3644.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C138%2C3149%2C1771"
+          "image": "https://www.sueddeutsche.de/2026/10/07/4346a7b4-2fa0-4ef6-9984-5a51987f8974.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=1161%2C431%2C2258%2C1270"
         }
       ]
     }
