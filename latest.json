@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-08T18:00:08.881Z",
-  "timestamp": "8.10.2026, 20:00:08",
+  "generated": "2026-10-08T22:00:08.605Z",
+  "timestamp": "9.10.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Vor der Automesse in Paris: Jetzt wollen auch die Autokonzerne vor China beschützt werden",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/autohersteller-schmieden-deutsch-franzoesische-allianz-gegen-china-201295536.html",
-          "summary": "Chinesische Elektroautos fluten Europa. VW, Renault & Co. sind dem Preiskampf nicht gewachsen – und wollen einen Schutzwall errichten.",
+          "title": "Straße von Hormus: Ohne Einigung mit Iran bleiben die Ölpreise hoch",
+          "url": "https://www.faz.net/aktuell/politik/ausland/ohne-einigung-mit-iran-bleiben-die-oelpreise-hoch-201298687.html",
+          "summary": "Die Öllieferungen vom Golf liegen derzeit fast so hoch wie vor dem Irankrieg. Amerika stellt das als Erfolg dar. Aber so einfach ist es nicht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/43e700359c77/w4032h2106x0y81o/202406/43601.0.385864489/auf-dem-weg-nach-europa.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f67f661273a9/w4000h2090x0y448o/202610/43601.0.2632584861/ein-iranischer-motorradfahrer.webp"
         },
         {
-          "title": "Der Leiters-Plan: Porsche setzt auf Verbrenner – und Luxus",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-setzt-auf-verbrenner-wie-umsatzrendite-wieder-auf-15-prozent-steigen-sollen-accg-201294921.html",
-          "summary": "Teurere Autos, neue Verbrenner und ein Supersportwagen. Porsche-Chef Michael Leiters stellt seine Strategie zur Rettung vor. Mit den Maßnahmen soll die Umsatzrendite wieder auf 15 Prozent steigen.",
+          "title": "Liveblog Irankrieg: Trump schließt Angriff auf Iran vor den Zwischenwahlen aus",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-trump-schliesst-angriff-auf-iran-vor-den-zwischenwahlen-aus-faz-200583539.html",
+          "summary": "USA verschärfen Iran-Sanktionen +++ Weitere Angriffe der Huthi-Miliz auf Riad +++ Saudi-Arabien meldet Großangriff auf Ziele der Huthi-Miliz +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cbeec70d93e9/w5210h2722x0y174o/202607/43601.0.2380648684/porscheplatz-in-zuffenhausen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/35a8ba7abaa5/w6000h3135x0y499o/202610/43601.0.2643026324/us-sanktionen-betreffen-den.webp"
         },
         {
-          "title": "Business-Ticker: Audi will mit Betriebsrat über weitere Einsparungen verhandeln",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-audi-will-mit-betriebsrat-ueber-weitere-einsparungen-verhandeln-faz-200452404.html",
-          "summary": "US-Regierung will Microsoft aus Visa-Programm werfen +++ 700.000 Sitzplätze weniger: Ryanair kappt Flugprogramm in Deutschland +++ TSMC steigert Umsatz +++ Neuigkeiten im Unternehmen-Liveblog",
+          "title": "BND-Skandal: Welche Rolle hat Manfred D. gespielt?",
+          "url": "https://www.faz.net/aktuell/politik/inland/bnd-skandal-um-august-hanning-welche-rolle-hat-manfred-d-gespielt-201298669.html",
+          "summary": "Der Skandal um August Hanning ist für den BND ein Debakel. Besonders erschüttert viele im Dienst die Rolle von Manfred D. Er galt im BND als Vorzeigebeamter.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5ba5b7861c41/w6144h3210x0y335o/202610/43601.0.2635998372/blick-auf-das-audi-werk.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b1be9711de79/w2087h1090x0y42o/202610/43601.0.2640424731/manfred-d-wird-am-6-oktober.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Regierungskrise: Wahl des AfD-Landtagspräsidenten und die Folgen für Kanzler und Union im Spitzengespräch",
+          "url": "https://www.spiegel.de/politik/deutschland/regierungskrise-wahl-des-afd-landtagspraesidenten-und-die-folgen-fuer-kanzler-und-union-im-spitzengespraech-a-09cff44a-97fb-4849-9f8b-4fa01094e6cb#ref=rss",
+          "summary": "Die Wahl des AfD-Langtagspräsidenten in Magdeburg stürzt Bundeskanzler Merz und die Regierung in eine tiefe Krise. Wie geht es weiter? Darüber diskutieren die Ex-Minister Karl Lauterbach, Peter Altmaier und die Ex-Grünenchefin Ricarda Lang.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/fe52dc99-bcdf-486e-93d5-c3a65654d990_w1200_r1.778_fpx49_fpy43.jpg"
+        },
         {
           "title": "SPD: Was Boris Pistorius mit seinen neuen Forderungen erreichen will",
           "url": "https://www.spiegel.de/politik/deutschland/spd-was-boris-pistorius-mit-seinen-neuen-forderungen-erreichen-will-a-c24f7faf-6500-461a-aaf9-223571111347#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/72435113-587d-4db9-83ed-fbcb527fbc94_w1200_r1.778_fpx52_fpy34.jpg"
         },
         {
-          "title": "Berlin: Linke, SPD und Grüne sagen Antisemitismus und Organisierter Kriminalität den Kampf an",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-spd-und-gruene-sagen-antisemitismus-und-organisierter-kriminalitaet-den-kampf-an-a-e7030657-cbab-4f0c-9c5c-186a5a785507#ref=rss",
-          "summary": "Auf dem Papier sagt Rot-Grün-Rot Antisemitismus und Organisierter Kriminalität den Kampf an, nun starten die Sondierungen. Das wird für Ärger sorgen – in der Linken und in der Krisenkoalition des Kanzlers.",
+          "title": "August Hanning: Ex-BND-Chef soll Dossier für Aserbaidschan erstellt haben",
+          "url": "https://www.spiegel.de/panorama/justiz/august-hanning-ex-bnd-chef-soll-dossier-fuer-aserbaidschan-erstellt-haben-a-45a990e9-63ec-4bb2-9e32-e92c086156b1#ref=rss",
+          "summary": "Aserbaidschan versucht seit Jahren, sich deutsche Politiker gefügig zu machen. Auch Ex-BND-Chef August Hanning ließ sich von der Diktatur hofieren – und soll aus vertraulichen Dokumenten ein Dossier erstellt haben.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c9b2a3cf-147e-4486-8428-6ec30e81665b_w1200_r1.778_fpx33.34_fpy50.jpg"
-        },
-        {
-          "title": "News des Tages: Koalitionsgespräche in Berlin, lobbyistischer Berater von Lars Klingbeil, ein Puma in Bayern",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-koalitionsgespraeche-in-berlin-lobbyistischer-berater-von-lars-klingbeil-ein-puma-in-bayern-a-82890aa6-43fd-4aee-b952-165463e4537c#ref=rss",
-          "summary": "Berliner Linke, SPD und Grüne einigen sich auf Sondierungsgespräche. Der Finanzminister braucht offenbar Hilfe beim Geldverteilen. Und Bayern fürchtet sich vor einem Puma in freier Wildbahn. Das ist die Lage am Donnerstagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/11a3ca77-8d10-4029-8094-09ffb883b93a_w1200_r1.778_fpx56.51_fpy48.99.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
-          "url": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html",
-          "summary": "Nachdem die Mörderin Christa Pike den Versuch ihrer Hinrichtung überlebte, kann sie mittlerweile wieder laufen, ist aber in gesundheitlich schlechtem Zustand. Doch wie geht es nun weiter? Wird es einen neuen Exekutionsversuch geben? Ein Überblick.",
+          "title": "Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen",
+          "url": "https://www.tagesschau.de/inland/bundestag-schwangerschaft-diagnostik-100.html",
+          "summary": "Bluttests können Schwangeren die Wahrscheinlichkeit eines Gen-Defekts beim ungeborenen Kind aufzeigen. Unter Bedingungen sind die Tests inzwischen Kassenleistung. Der Bundestag will zu der Praxis nun aber genauere Daten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/29f7ffb8-c6bf-4db8-bbd5-24bf817c3a31/AAABoRySuoE/AAABnSSvrFg/16x9-big/luke-ihnen-pk-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ab68bf7d-be38-4341-92b6-13a217fc1a3f/AAABoRynLJM/AAABnSSvrFg/16x9-big/praenataltest-broschueren-100.jpg?width=1280"
         },
         {
-          "title": "Anne Carson: Die Punk-Philosophin unter den Nobelpreisträgern",
-          "url": "https://www.tagesschau.de/kultur/literaturnobelpreis-2026-anne-carson-100.html",
-          "summary": "Wer Anne Carson einmal live erlebt hat, weiß: Ihre Auftritte sind ein Ereignis. Die frisch gekürte Literaturnobelpreisträgerin begeistert mit Wissen, Witz und unbändiger Erzählfreude. Von Jan Ehlert.",
+          "title": "Sondierungsgespräche in Berlin: Praxis-Test für die rot-grün-rote Theorie",
+          "url": "https://www.tagesschau.de/inland/regional/berlin/sondierungsgespraeche-rot-gruen-rot-berlin-100.html",
+          "summary": "Linke, Grüne und SPD in Berlin haben sich auf eine gemeinsame Linie im Umgang mit Antisemitismus verständigt und starten Sondierungsgespräche. Doch aus der Linkspartei kommt bereits Kritik an der Vereinbarung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d783c56b-e4a1-4265-be8d-280e627b010c/AAABoRs6948/AAABnSSvrFg/16x9-big/buecher-208.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fa2daae4-ee9d-4053-878c-6c67d172f971/AAABoRy-dUI/AAABnSSvrFg/16x9-big/rbb-623935258-100.jpg?width=1280"
         },
         {
-          "title": "Kommentar: Eine Reform zum Vorteil Melonis",
-          "url": "https://www.tagesschau.de/ausland/europa/italien-wahlgesetz-100.html",
-          "summary": "Eine Wahlrechtsreform zur Machtsicherung? Das wirft die italienische Opposition Ministerpräsidentin Meloni vor. Zu Recht, denn die Reform benachteiligt alle außer sie selbst, meint Anna Giordano.",
+          "title": "Berngau in der Oberpfalz: Ein Toter nach Schüssen bei Waffenkontrolle",
+          "url": "https://www.tagesschau.de/inland/regional/bayern/schuesse-bei-waffenkontrolle-100.html",
+          "summary": "Bei einer Waffenkontrolle in Berngau hat ein Mann zwei Personen getötet. Der mutmaßliche Schütze soll sich in einem Wohnhaus aufhalten. Spezialkräfte sind im Einsatz. Zuvor war von einem Todesopfer und einer schwer verletzten Person die Rede.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f23768a3-2c73-47d6-bda8-3e7013c848e1/AAABoRxEDns/AAABnSSvrFg/16x9-big/italien-parlament-116.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/367329c0-c482-4dd3-9afd-000c3587c7d1/AAABoR2EJFI/AAABnSSvrFg/16x9-big/br-im-oberpfaelzischen-berngau-laeuft-ein-einsatz-von-spezialkraeften-der-polizei-104.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Nord Stream: Kushner und Putin-Berater verhandeln wohl über US-Einstieg",
+          "url": "https://www.telepolis.de/article/Nord-Stream-Kushner-und-Putin-Berater-verhandeln-wohl-ueber-US-Einstieg-11481596.html",
+          "summary": "Während die Bundesregierung blockiert, sprechen Jared Kushner und der Kreml über einen Pipeline-Deal. Auch die AfD plant Gespräche.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/9/4/8/1/shutterstock_1239612946-ed1b8fc47f3b8090.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Bundesregierung erwartet Aufschwung, doch nur jede dritte Firma investiert",
           "url": "https://www.telepolis.de/article/Bundesregierung-erwartet-Aufschwung-doch-nur-jede-dritte-Firma-investiert-11480826.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/8/9/4/7/shutterstock_2755898521-de73a530debe757f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "ARD und ZDF: Spartensender auf dem Weg ins Netz",
-          "url": "https://www.telepolis.de/article/ARD-und-ZDF-Spartensender-auf-dem-Weg-ins-Netz-11480808.html",
-          "summary": "Zum Jahreswechsel fallen drei TV-Kanäle weg. Die Nachfolger haben im Fernsehen ein Ablaufdatum. Zugleich rücken ARD und ZDF enger zusammen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/9/0/8/2/Master_TV-834d7f889ccc7ed2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
