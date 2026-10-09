@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-09T18:00:08.935Z",
-  "timestamp": "9.10.2026, 20:00:08",
+  "generated": "2026-10-09T22:00:08.252Z",
+  "timestamp": "10.10.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Trump-Diplomatie: Diesel-Deal mit Putin",
+          "url": "https://www.faz.net/aktuell/wirtschaft/donald-trump-und-wladimir-putin-diesel-deal-mit-folgen-201304918.html",
+          "summary": "Der US-Präsident besorgt russischen Brennstoff für seine Kernwähler. Der ukrainische Präsident ist schwer verärgert.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ce0ef979a8e8/w4124h2154x0y295o/202606/43601.0.2223208506/ruhig-liegt-sie-da-russische.webp"
+        },
+        {
+          "title": "USA unter Trump: Trump: Habe mit Putin russische Diesel-Lieferung für USA und Weltmarkt vereinbart",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-habe-mit-putin-russische-diesel-lieferung-fuer-usa-und-weltmarkt-vereinbart-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/776dcd8654fc/w7551h3945x0y160o/202610/43601.0.2646511367/us-praesident-donald-trump.webp"
+        },
         {
           "title": "Sachsen-Anhalt: Die Selbstzerstörung der CDU",
           "url": "https://www.faz.net/aktuell/politik/inland/die-selbstzerstoerung-der-cdu-in-sachsen-anhalt-201293751.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/1a92468676ed/w6144h3210x0y443o/202609/43601.0.2512822291/reiner-haseloffs-werbung-fuer.webp"
-        },
-        {
-          "title": "USA unter Trump: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-usa-verhaengen-sanktionen-gegen-internationalen-strafgerichtshof-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/92005925a1bf/w4038h2109x0y81o/202610/43601.0.2645890098/der-amerikanische.webp"
-        },
-        {
-          "title": "377 KI-Beweise: Der Tag der Mathe-Apokalypse",
-          "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/open-ai-loest-377-matheprobleme-und-schockt-mathematiker-accg-201297619.html",
-          "summary": "Nur vier Wochen nach Erledigung eines „Millennium-Problems“ veröffentlicht das KI-Unternehmen Open AI auf einen Schlag Resultate zu 377 weiteren, teils sehr hochrangigen Theoremen. Die Mathematiker stehen unter Schock.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4683db085ce1/w5193h2713x625y104o/202610/43601.0.2641727960/was-macht-die-maschine-da-mit.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Friedrich Merz: Das sind die drei größten Probleme des Kanzlers",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-das-sind-die-drei-groessten-probleme-des-kanzlers-a-96524ae6-3e11-4404-a7cf-348883b0d204#ref=rss",
-          "summary": "Wie wird Friedrich Merz die kommenden Wochen überstehen? Das ist offen. Auf verschiedenen Feldern muss er jetzt um seine politische Zukunft ringen.",
+          "title": "Telefonat mit Wladimir Putin: Donald Trump kündigt große Diesellieferungen aus Russland an",
+          "url": "https://www.spiegel.de/ausland/telefonat-mit-wladimir-putin-donald-trump-kuendigt-grosse-diesellieferungen-aus-russland-an-a-541e5758-9f7b-4a7d-bd98-5efe9ac9ca55#ref=rss",
+          "summary": "Er hat die Midterms vor sich: Der US-Präsident hat nach einem Gespräch mit Wladimir Putin Hunderttausende Tonnen an Diesel aus Russland in Aussicht gestellt. Wegen bestehender Sanktionen stellte das US-Finanzministerium dafür eine temporäre Erlaubnis aus.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ed0a89d0-e32d-4419-b4db-860caebfc0bf_w1200_r1.778_fpx49_fpy53.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d0d72879-9d7c-49cc-aa05-c782eb69388b_w1043_r1.778_fpx42_fpy36.jpg"
         },
         {
-          "title": "News des Tages: Navanethem »Navi« Pillay erhält Friedensnobelpreis, Gerhard Schröder in Russland, Umsätze von Shein und Temu brechen ein",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-navanethem-navi-pillay-erhaelt-friedensnobelpreis-gerhard-schroeder-in-russland-umsaetze-von-shein-und-temu-brechen-ein-a-b4b3e1c0-26e3-41a8-8778-c0658dc2977e#ref=rss",
-          "summary": "Die Juristin Navanethem Pillay bekommt den Friedensnobelpreis. Gerhard Schröders Partyauftritt bei Putin empört Bundeskanzler Merz. Und die Umsätze asiatischer Shoppingplattformen mit Billigware brechen ein. Das ist die Lage am Freitagabend.",
+          "title": "Russland: Expertin Hanna Notte hält es für möglich, dass Wladimir Putin weiter eskaliert",
+          "url": "https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss",
+          "summary": "Die Russlandexpertin Hanna Notte hält es für möglich, dass Putin weiter eskaliert. Trotzdem gebe es für ihn noch rote Linien. Welche das sind und warum sie der Nato zu Übungen an der Ostgrenze rät.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/86ceec12-cfa5-41a1-b600-25606c1623e6_w1200_r1.778_fpx50_fpy52.jpg"
         },
         {
           "title": "Navi Pillay: Friedensnobelpreisträgerin kritisiert Israel für Vorgehen in Gaza",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Nobelpreisträgerin Pillay in den tagesthemen: \"Die Nürnberger Prozesse haben mich inspiriert\"",
+          "url": "https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html",
+          "summary": "Der Preis sei eine \"große, schöne Überraschung\", sagt die frisch gekürte Friedensnobelpreisträgerin Pillay in den tagesthemen. Durch die Auszeichnung bekäme die Öffentlichkeit mit, \"wie wichtig die Strafjustiz wirklich ist\".",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/af3d075d-0d7e-402e-8142-63b15ca47cce/AAABoSJg6RY/AAABnSSvrFg/16x9-big/navanethem-pillay-100.jpg?width=1280"
+        },
+        {
+          "title": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
+          "url": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
+          "summary": "Zum vereitelten Absturz des Flydubai-Flugzeugs Ende September sind weitere Details bekannt geworden. Der Co-Pilot hatte nach Angaben der Ermittler geplant, die Maschine in ein israelisches Flughafenterminal zu steuern.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/84014288-012b-4a48-bbab-038efe8da5fe/AAABoPKdPcA/AAABnSSvrFg/16x9-big/flydubai-flughafen-100.jpg?width=1280"
+        },
+        {
           "title": "Nobelpreisträgerin Pillay steht für die multilaterale Ordnung",
           "url": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-pillay-voelkerrecht-100.html",
           "summary": "Mit dem Friedensnobelpreis wird nicht nur die Person Navi Pillay geehrt. Sie steht stellvertretend für die multilaterale Weltordnung - und dafür, dass Völkerrecht Vorrang vor dem Recht des Stärkeren hat. Von Jean-Marie Magro.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/b2725681-05a3-488c-b258-33d24f0a06e7/AAABoSGmvRY/AAABnSSvrFg/16x9-big/navi-pillay-102.jpg?width=1280"
-        },
-        {
-          "title": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
-          "summary": "Die Linksfraktion hatte im Bundestag eine Aktuelle Stunde beantragt. Um den Umgang mit der AfD in Sachsen-Anhalt sollte es gehen. Es wurde eine von starken Emotionen und Zwischenrufen geprägte Debatte.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/a17c1ca1-d77b-46a6-a7b5-9cbd11106c98/AAABoSF3cnU/AAABnSSvrFg/16x9-big/reichinnek-140.jpg?width=1280"
-        },
-        {
-          "title": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
-          "summary": "Die USA verschärfen ihr Vorgehen gegen den Internationalen Strafgerichtshof in Den Haag mit neuen Sanktionen - kurz nach dem Friedensnobelpreis für eine ehemalige IStGH-Richterin. Aus Europa kommt vehemente Kritik.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/9ca0255a-e565-4ade-9499-c2737cf5429e/AAABoB-ybDQ/AAABnSSvrFg/16x9-big/istgh-internationaler-strafgerichtshof-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Heizen im Oktober? Bei diesen Gaspreisen lohnt sich jeder Tag ohne",
+          "url": "https://www.telepolis.de/article/Heizen-im-Oktober-Bei-diesen-Gaspreisen-lohnt-sich-jeder-Tag-ohne-11483122.html",
+          "summary": "EU-Speicher starten mit Rekordtief in den Winter, der Großhandelspreis hat sich fast verdoppelt. Laut Verivox spart ein Einfamilienhaus täglich bis zu 7 Euro.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/2/5/1/shutterstock_2724576433-25e369422dd173ce.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Bitcoin unter Druck: Warum es jetzt darauf ankommt, was wirklich im Depot liegt",
           "url": "https://www.telepolis.de/article/Bitcoin-unter-Druck-Warum-es-jetzt-darauf-ankommt-was-wirklich-im-Depot-liegt-11482728.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/9/8/2/9/shutterstock_2261202667-33bc170c8540bfae.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Deutschland braucht eine politische Grundsatzdebatte über KI",
-          "url": "https://www.telepolis.de/article/Deutschland-braucht-eine-politische-Grundsatzdebatte-ueber-KI-11482412.html",
-          "summary": "KI verändert Macht, Wirtschaft und Waffensysteme. Deutschland muss über Risiken, Kontrolle und die Verteilung der Gewinne streiten. Ein Gastbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/9/8/9/1/Master_KI-07da3c71e375dcf1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Newsblog zum Ukraine-Krieg: Trump kündigt große Diesellieferungen aus Russland an",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-putin-diesel-li.3549696",
+          "summary": "Er habe mit dem russischen Präsidenten unter anderem vereinbart, dass „umgehend“ mehr als 300 000 Tonnen Diesel für die USA und den Weltmarkt zur Verfügung gestellt würden, so der US-Präsident. Dafür werden Sanktionen gelockert.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/09/cddb832e-a666-4f92-a40d-145317e9b2fb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C114%2C3500%2C1969"
+        },
         {
           "title": "Völkerrecht: Trumps USA wollen Souveränität nur für sich selbst – nicht für andere",
           "url": "https://www.sueddeutsche.de/meinung/kommentar-voelkerrecht-internationaler-strafgerichtshof-usa-trump-li.3560980",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/09/2c7f95d2-b5d4-4a05-bea3-1447540d0389.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=510%2C333%2C3005%2C1691"
-        },
-        {
-          "title": "Völkerrecht: USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
-          "url": "https://www.sueddeutsche.de/politik/usa-internationaler-strafgerichtshof-beschaeftigte-sanktionen-li.3560921",
-          "summary": "Außenminister Marco Rubio fordert die Beschäftigten auf, ihre Arbeit umgehend niederzulegen. Das Gericht reagiert empört – und kündigt an, seine Ermittlungen fortzuführen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/09/bb22b961-8b66-4cf9-9b6d-feb11b977bf2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C391%2C3888%2C2187"
         }
       ]
     }
