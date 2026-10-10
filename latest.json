@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-10T14:00:09.022Z",
-  "timestamp": "10.10.2026, 16:00:09",
+  "generated": "2026-10-10T18:00:08.346Z",
+  "timestamp": "10.10.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Koalition: Jetzt kommt der große Streit ums Erben",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/erbschaftsteuer-spd-und-union-steuern-auf-koalitionsstreit-zu-accg-201301380.html",
-          "summary": "Wenn das Verfassungsgericht über die Erbschaftsteuer berät, droht der Regierung der nächste große Streit. Das Thema ist so emotional wie kaum ein anderes. Mit unerwarteten Fronten.",
+          "title": "Hackerangriffe: Das Dilemma der Digitalisierung",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/hackerangriffe-auf-die-verwaltung-das-dilemma-mit-der-digitalisierung-201300619.html",
+          "summary": "Die digitale Verwaltung soll dem Bürger das Leben leichter machen. Aber sie eröffnet Hackern auch die Chance, persönliche Informationen zu stehlen oder ganze Städte lahmzulegen. Das jüngste Beispiel: Dänemark.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/468ed01133fb/w3864h2018x0y278o/202610/43601.0.2638130563/omas-haeuschen-soll-nicht.webp"
+          "image": "https://media0.faz.net/image/w1200h627/717bd9f614ae/w3812h1991x0y417o/202605/43601.0.2105242852/idylle-in-kopenhagen.webp"
         },
         {
-          "title": "Bundesverfassungsgericht: Eine bessere Erbschaftsteuer ist möglich",
-          "url": "https://www.faz.net/aktuell/wirtschaft/bundesverfassungsgericht-eine-bessere-erbschaftsteuer-ist-moeglich-201286773.html",
-          "summary": "Die Angst vor den Folgen einer Reform sollte nicht dazu verleiten, an einem schlechten System festzuhalten. Das gilt unabhängig von der Entscheidung der Verfassungsrichter.",
+          "title": "„Riesiges Datenleck“: Wer weiß jetzt alles, wo die Dänen wohnen?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/datenleck-an-daenemarks-melderegister-wer-weiss-jetzt-alles-wo-die-daenen-wohnen-accg-201288611.html",
+          "summary": "In Dänemark spielt Datenschutz kaum eine Rolle. Ein bislang beispielloser Datendiebstahl könnte das nun ändern.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fafc265df904/w5637h2945x0y212o/202610/43601.0.2641310056/hat-er-bald-auch-noch-ein.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ede5e511adcc/w3000h1567x0y247o/201608/431.0.28418000/die-daenische-flagge-weht-an.webp"
         },
         {
-          "title": "Mecklenburg-Vorpommern: Rot-Rot-Grün macht eine Kampfansage in Richtung AfD",
-          "url": "https://www.faz.net/aktuell/politik/inland/mecklenburg-vorpommern-rot-rot-gruen-hat-die-afd-im-visier-accg-201305735.html",
-          "summary": "SPD, Linke und Grüne in Schwerin wollen am Montag mit Koalitionsverhandlungen beginnen. Sie planen einen Untersuchungsausschuss, der mit der AfD zu tun hat.",
+          "title": "Debatte um Sicherheit: Die KI-Angriffswelle rollt",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-vorfaellen-mit-open-ai-und-anthropic-die-ki-angriffswelle-rollt-201279763.html",
+          "summary": "Ob absichtlich oder nicht: Künstliche Intelligenz bedroht global zunehmend wichtige IT-Systeme. Aber es gibt technische Schutzmöglichkeiten – und selbst in den USA politischen Widerstand.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3dca7a73c5d5/w6000h3135x0y120o/202610/43601.0.2646480513/sehr-gute-gespraeche.webp"
+          "image": "https://media0.faz.net/image/w1200h627/83fc9e18099a/w4000h2090x0y197o/202608/43601.0.2476327132/immer-oefter-mit-ki-hacker.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Paula Schwarz: Warum diese Frau durch ihr Millionenerbe unglücklich wurde",
-          "url": "https://www.spiegel.de/wirtschaft/paula-schwarz-warum-diese-frau-durch-ihr-millionenerbe-ungluecklich-wurde-a-5ef0b2a7-e47c-4eba-9fad-70f476f66d93#ref=rss",
-          "summary": "Paula Schwarz wurde reich geboren. Sie nahm Drogen und rebellierte öffentlich gegen ihre Familie. Nun versucht sie einen Neustart als Unternehmerin – und Tochter.",
+          "title": "Ukraine: Donald Trump fordert Machtwechsel in Kiew nach Diesel-Streit",
+          "url": "https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss",
+          "summary": "US-Präsident Trump reagiert mit scharfen Worten auf Selenskyjs Kritik an seinem Diesel-Deal mit Putin: »Es ist an der Zeit, dass die Ukraine einen neuen Präsidenten bekommt.«",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1b3c5628-8c6e-40c7-97e9-ce2bafb36d58_w1200_r1.778_fpx50_fpy50.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/8ffb1b82-4664-4f4e-aeb1-31496fc502dd_w1200_r1.778_fpx67_fpy60.jpg"
         },
         {
-          "title": "Berlin-Wahl: Warum Vergesellschaftung zum Kapitalismus dazugehört",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-wahl-warum-vergesellschaftung-zum-kapitalismus-dazugehoert-a-178cb9dc-beb4-47c1-9bfa-3d9ef5ef554f#ref=rss",
-          "summary": "Die Vergesellschaftungspläne in Berlin lösen auf allen Seiten große Gefühle aus. Dabei gehört so etwas zum real existierenden Kapitalismus dazu. Ein Beruhigungsversuch.",
+          "title": "Berlin nach der Wahl: Linke-Sieg entfacht Streit über Clans, Judenhass und Armut",
+          "url": "https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss",
+          "summary": "Die Linken gewinnen die Wahl und die Menschen in der Hauptstadt streiten über Clans und Judenhasser, Wohnraum und Armut. Einig sind sich die Berliner immerhin darin: So kann es nicht weitergehen. Aber wie denn dann?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4bae7e53-7376-4452-96cb-0d8201f6df53_w1200_r1.778_fpx30_fpy54.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/85b59e3a-d58b-4db9-8966-627bf52f083b_w1200_r1.778_fpx54.99_fpy44.99.jpg"
         },
         {
-          "title": "Mecklenburg-Vorpommern: SPD, Linke und Grüne starten Koalitionsverhandlungen",
-          "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-spd-linke-und-gruene-starten-koalitionsverhandlungen-a-9020cd82-5a8c-4b00-9a0a-637e327d7613#ref=rss",
-          "summary": "Die AfD hat die Wahl in Mecklenburg-Vorpommern gewonnen, aber regieren wird sie wohl nicht. Nach SPD und Linken sprachen sich nun auch die Grünen einstimmig dafür aus, über eine Koalition zu verhandeln. Viel Zeit bleibt nicht.",
+          "title": "Künstlerin Gabriele Stötzer: Die Staatsfeindin, die in der DDR blieb",
+          "url": "https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss",
+          "summary": "Sie wurde zur Staatsfeindin gemacht und ins Frauengefängnis gesperrt. Dennoch blieb Gabriele Stötzer als Künstlerin in der DDR. Erst jetzt wird ihr Werk richtig gewürdigt. Am Samstag erhält sie den renommierten Kaiserring.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/051c18d8-d05b-4457-847c-c2a9066e9aaa_w1200_r1.778_fpx36.23_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1d0f563a-d7ef-4c9d-90e2-46f9c59b6b33_w1200_r1.778_fpx57.84_fpy54.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
-          "summary": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst. Dabei gebe es viel Talent, sagt ein Gründer. Kartschall.",
+          "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
+          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
+          "summary": "Der Flughafen nahe der saudischen Hauptstadt Riad ist offenbar erneut Ziel eines schweren Angriffs. Vermutet wird, dass die jemenitische Huthi-Miliz für die Attacke verantwortlich ist.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2a0a3a95-82b5-4b24-bcea-cf2a341aa8a2/AAABlETincI/AAABnSSvrFg/16x9-big/startup-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5bbfe4e2-86c9-4c3d-bff3-4ba19e164089/AAABoSasmBE/AAABnSSvrFg/16x9-big/riad-134.jpg?width=1280"
         },
         {
-          "title": "\"Ragebait\" ist Jugendwort des Jahres 2026",
-          "url": "https://www.tagesschau.de/kultur/jugendwort-des-jahres-ragebait-102.html",
-          "summary": "Wenn provokante Inhalte in den Sozialen Medien eine Empörungswelle auslösen, dann heißt das bei Jugendlichen \"Ragebait\", auf Deutsch etwa: \"Wutköder\". Der Begriff ist das Jugendwort des Jahres 2026.",
+          "title": "Serie von Messerattacken an Schulen in Polen",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
+          "summary": "In Polen sorgt eine Serie von Messerattacken an Schulen für Entsetzen. Am Donnerstag starben zwei Menschen nach einem Angriff auf eine Grundschule. Nun wurden bei einem weiteren Angriff drei Frauen verletzt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e090f6b5-4eda-456f-8bcf-815be4f28154/AAABoSWv6h0/AAABnSSvrFg/16x9-big/ragebait-jugendwort-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/22cc46c6-e54b-42ed-a764-134b56ac31e0/AAABoSapwzg/AAABnSSvrFg/16x9-big/polen-564.jpg?width=1280"
         },
         {
-          "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
-          "summary": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer. Auch Kiew wurde erneut attackiert.",
+          "title": "CDU diskutiert über Umgang mit der AfD",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
+          "summary": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werden?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/53230fcf-9628-494b-898b-63cf1a3e8352/AAABoSVy9Do/AAABnSSvrFg/16x9-big/ukraine-saporischschja-angriffe-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/da89450b-0ca5-4236-85fb-627e6f2e0cd8/AAABoSZzs0I/AAABnSSvrFg/16x9-big/cdu-parteizentrale-106.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Reicht Ihre Rente? Mit dieser 80-Prozent-Regel wissen Sie es in einer Minute",
+          "url": "https://www.telepolis.de/article/Reicht-Ihre-Rente-Mit-dieser-80-Prozent-Regel-wissen-Sie-es-in-einer-Minute-11483330.html",
+          "summary": "57 Prozent fürchten, dass ihr Geld im Alter nicht reicht. Doch nur 39 Prozent kennen ihre Rentenlücke. Mit unserem Rechner finden Sie Ihre ganz einfach heraus.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/3/5/5/shutterstock_2742079173-da56b200b8e6411b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Satellitenangriff als Bündnisfall: EU schafft Weltraum-Alternative zur NATO",
+          "url": "https://www.telepolis.de/article/Satellitenangriff-als-Buendnisfall-EU-schafft-Weltraum-Alternative-zur-NATO-11483244.html",
+          "summary": "NATO-Krise: EU wertet Angriffe auf nationale Satelliten künftig als Bündnisfall. Neue militärische Fähigkeiten schafft der Beschluss nicht.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/3/1/2/zwischen1-d82bea1d70838b51.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Arctic LNG 2: Warum China Russlands wichtigster Gasabnehmer wird",
           "url": "https://www.telepolis.de/article/Arctic-LNG-2-Warum-China-Russlands-wichtigster-Gasabnehmer-wird-11483204.html",
           "summary": "Weil Katar-Lieferungen ausblieben, stieg Russland zum zweitgrößten LNG-Lieferanten Chinas auf. Experten sehen Chancen – aber auch klare Grenzen für Arctic LNG 2.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/2/9/2/shutterstock_2240500837-85d53f9b0f320eb5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "CSU-Vize Weber: Brandmauer zur AfD eine \"Riesenbelastung\" für die Union",
-          "url": "https://www.telepolis.de/article/CSU-Vize-Weber-Brandmauer-zur-AfD-eine-Riesenbelastung-fuer-die-Union-11483280.html",
-          "summary": "Manfred Weber will die pauschale Abgrenzung zur AfD beenden. Eine Grundlage für eine Zusammenarbeit sieht er derzeit aber nicht.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/3/3/0/shutterstock_2167428565-63bf07ce33138d8a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Emden: Die Marine soll richten, was die Autokrise anrichtet",
-          "url": "https://www.telepolis.de/article/Emden-Die-Marine-soll-richten-was-die-Autokrise-anrichtet-11483178.html",
-          "summary": "Ein neuer Marinehafen verspricht Arbeitsplätze. Zugleich wird die Nordseeküste für große Truppenverlegungen ausgebaut. Zivile Vorhaben könnten zurückstehen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/2/7/9/Master_Emden2-755cdfc9764a0cc4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Portugal: Ronaldo ist vorläufig suspendiert",
-          "url": "https://www.sueddeutsche.de/sport/cristiano-ronaldo-portugal-suspendiert-cr7-li.3561549",
-          "summary": "Portugals Fußballverband eröffnet ein Disziplinarverfahren gegen Cristiano Ronaldo. Der Nationalheld hatte erklärt, er werde jede Strafe gegen ihn akzeptieren.",
+          "title": "Newsblog zum Ukraine-Krieg: Trump wettert gegen Selenskij: Ukraine soll „sich einen neuen Anführer suchen“",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-selenskij-neuer-anfuehrer-saporischschja-li.3549696",
+          "summary": "Der US-Präsident verlangt einen Führungswechsel in der Ukraine und ein Ende der ukrainischen Angriffe auf russische Ölraffinerien.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/10/9957f9b6-aecd-4267-8f1c-0bb17b907ef0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=218%2C0%2C3240%2C1823"
+          "image": "https://www.sueddeutsche.de/2026/10/10/2807a7e8-d104-4f57-8698-b1ad8ea1cdd5.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
         },
         {
-          "title": "DFB-Frauen: Noch kein WM-Casting, aber...",
-          "url": "https://www.sueddeutsche.de/sport/dfb-frauen-australien-koessler-zicai-wueck-laenderspiel-li.3561365",
-          "summary": "Beim 4:2 gegen Australien bringen sich neue Spielerinnen in den Fokus von Bundestrainer Christian Wück – insbesondere Stürmerin Melissa Kössler. Ganz zufrieden ist Wück aber nicht.",
+          "title": "Parteitag der bayerischen Grünen: „Diese Bundesrepublik ist das beste Deutschland, das wir je hatten“",
+          "url": "https://www.sueddeutsche.de/bayern/gruene-bayern-parteitag-landshut-katharina-schulze-afd-li.3558711",
+          "summary": "Katharina Schulze will, dass ihre Grünen mehr mit den Menschen reden. Die Delegierten? Reden vor allem über die AfD. Eindrücke vom bayerischen Landesparteitag in Landshut.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/10/a3305efa-cc73-4e37-90a3-9e99a9e2d5cc.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C452%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/10/10/db8745c0-12a5-43f3-b58c-cfdde378bbdf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Newsblog zu den Landtagswahlen: Koalitionsverhandlungen in Mecklenburg-Vorpommern können beginnen",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-sachsen-anhalt-berlin-linke-antisemitismus-li.3540501",
-          "summary": "Nach SPD und Linken haben nun auch die Grünen den Verhandlungen zur Bildung einer rot-rot-grünen Landesregierung zugestimmt. Für die Grünen könnte das eine Premiere bedeuten.",
+          "title": "Bundesliga: Der Tag der Kunsttore",
+          "url": "https://www.sueddeutsche.de/sport/bundesliga-spiele-leverkusen-hsv-stuttgart-tore-tabelle-li.3561565",
+          "summary": "Beim Sieben-Tore-Spiel in Mainz gelingt Leverkusens Robert Andrich ein Traumtor. Auch der HSV, Union und Stuttgart jubeln nach sehenswerten Treffern. Das Wichtigste zum Bundesliga-Spieltag.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/10/fa5b0096-f39e-42cb-879b-a6674c70a460.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=474%2C614%2C3306%2C1860"
+          "image": "https://www.sueddeutsche.de/2026/10/10/e84cdea7-1640-4236-bcff-49baa3877876.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C375%2C3636%2C2045"
         }
       ]
     }
