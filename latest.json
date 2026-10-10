@@ -1,10 +1,18 @@
 {
-  "generated": "2026-10-10T02:00:08.163Z",
-  "timestamp": "10.10.2026, 04:00:08",
+  "generated": "2026-10-10T06:00:09.220Z",
+  "timestamp": "10.10.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Finanznot der Ukraine: Kiew hofft auf Europa, kneift aber bei Reformen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/warum-die-ukraine-bei-reformen-kneift-accg-201302312.html",
+          "summary": "Der Abwehrkampf wird für die Ukraine immer teurer. Kiew ist auf neue europäische Milliardenhilfe angewiesen. Warum werden wichtige Beschlüsse trotzdem verschleppt?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9f2e1fca5614/w2657h1388x0y229o/202609/43601.0.2582490791/der-ukrainische-praesident.webp"
+        },
         {
           "title": "Trump-Diplomatie: Diesel-Deal mit Putin",
           "url": "https://www.faz.net/aktuell/wirtschaft/donald-trump-und-wladimir-putin-diesel-deal-mit-folgen-201304918.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/ce0ef979a8e8/w4124h2154x0y295o/202606/43601.0.2223208506/ruhig-liegt-sie-da-russische.webp"
         },
         {
-          "title": "USA unter Trump: Trump: Habe mit Putin russische Diesel-Lieferung für USA und Weltmarkt vereinbart",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-habe-mit-putin-russische-diesel-lieferung-fuer-usa-und-weltmarkt-vereinbart-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+          "title": "Deutschland liveblog: CDA-Chef Radtke warnt vor Zerbrechen der Koalition: „Das Zündeln macht mich fassungslos“",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cda-chef-radtke-warnt-vor-zerbrechen-der-koalition-das-zuendeln-macht-mich-fassungslos-faz-110093143.html",
+          "summary": "Özdemir zur Bundesregierung: Es ist „fünf vor zwölf“ +++ Bericht wirft Fragen zum Abstimmungsverhalten bei Wahl des Landtagspräsidenten auf: Drei CDU-Abgeordnete sollen laut „taz“ gelogen haben +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/776dcd8654fc/w7551h3945x0y160o/202610/43601.0.2646511367/us-praesident-donald-trump.webp"
-        },
-        {
-          "title": "Sachsen-Anhalt: Die Selbstzerstörung der CDU",
-          "url": "https://www.faz.net/aktuell/politik/inland/die-selbstzerstoerung-der-cdu-in-sachsen-anhalt-201293751.html",
-          "summary": "Nach der Wahl eines AfD-Mannes zum Landtagspräsidenten in Magdeburg richten sich alle Augen auf die sachsen-anhaltische CDU. Der ist vieles zuzutrauen. Ein Sittengemälde.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1a92468676ed/w6144h3210x0y443o/202609/43601.0.2512822291/reiner-haseloffs-werbung-fuer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/bb092b12b0af/w6144h3210x0y763o/202609/43601.0.2577729000/der-chef-des-cdu.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Frankreich: Frank-Walter Steinmeier verabschiedet sich von Emmanuel Macron",
+          "url": "https://www.spiegel.de/ausland/frankreich-frank-walter-steinmeier-verabschiedet-sich-von-emmanuel-macron-a-1d1bf67f-3c4f-409f-86d4-25f040108344#ref=rss",
+          "summary": "Zwischen Krise und Krawallen verabschiedet sich Frank-Walter Steinmeier von Frankreichs Präsident Emmanuel Macron. Der emotionale Besuch des scheidenden Bundespräsidenten wirkt wie ein Schlusspunkt für die Ära des Europa-Optimismus.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/c6fcbf19-782c-4741-a8ef-d1a835bdd462_w1200_r1.778_fpx32.27_fpy50.jpg"
+        },
+        {
           "title": "Telefonat mit Wladimir Putin: Donald Trump kündigt große Diesellieferungen aus Russland an",
           "url": "https://www.spiegel.de/ausland/telefonat-mit-wladimir-putin-donald-trump-kuendigt-grosse-diesellieferungen-aus-russland-an-a-541e5758-9f7b-4a7d-bd98-5efe9ac9ca55#ref=rss",
-          "summary": "Er hat die Midterms vor sich: Der US-Präsident hat nach einem Gespräch mit Wladimir Putin Hunderttausende Tonnen an Diesel aus Russland in Aussicht gestellt. Wegen bestehender Sanktionen stellte das US-Finanzministerium dafür eine temporäre Erlaubnis aus.",
+          "summary": "Er hat die Midterms vor sich: Der US-Präsident hat nach einem Gespräch mit Wladimir Putin Hunderttausende Tonnen an Diesel aus Russland in Aussicht gestellt. Trump spiele damit Moskau in die Hände, erklärte der ukrainische Staatschef.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/d0d72879-9d7c-49cc-aa05-c782eb69388b_w1043_r1.778_fpx42_fpy36.jpg"
-        },
-        {
-          "title": "Russland: Expertin Hanna Notte hält es für möglich, dass Wladimir Putin weiter eskaliert",
-          "url": "https://www.spiegel.de/ausland/russland-expertin-hanna-notte-haelt-es-fuer-moeglich-dass-wladimir-putin-weiter-eskaliert-a-dad06464-378d-4255-ae06-287e36686abb#ref=rss",
-          "summary": "Die Russlandexpertin Hanna Notte hält es für möglich, dass Putin weiter eskaliert. Trotzdem gebe es für ihn noch rote Linien. Welche das sind und warum sie der Nato zu Übungen an der Ostgrenze rät.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/86ceec12-cfa5-41a1-b600-25606c1623e6_w1200_r1.778_fpx50_fpy52.jpg"
         },
         {
           "title": "Navi Pillay: Friedensnobelpreisträgerin kritisiert Israel für Vorgehen in Gaza",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Schweres Erdbeben erschüttert Panama",
-          "url": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
-          "summary": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Eine Tsunamiwarnung wurde aufgehoben. Über mögliche Verletzte gibt es bislang keine Angaben.",
+          "title": "Anthropic-KI stellt Visa-Anträge bei US-Außenministerium",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
+          "summary": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtige gehandelt hat. Die KI erstellte eigenständig Visaanträge und gab der Polizei einen falschen Tipp. Von Gabi Biesinger.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6a678e43-2dba-4d4b-9eb1-59a438ee4bec/AAABoSMa5Jw/AAABnSSvrFg/16x9-big/panama-228.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/867d9f35-4721-4345-b40a-78a5cb382176/AAABn7a04Gk/AAABnSSvrFg/16x9-big/anthropic-logo-tastatur-100.jpg?width=1280"
         },
         {
-          "title": "China sagt EU weniger Exporte von Hybridautos zu",
-          "url": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
-          "summary": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen Kompromiss.",
+          "title": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
+          "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
+          "summary": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance. Von A. Herz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cd1e8877-df13-451c-b66e-71c2dff4e7c9/AAABoSIiBGU/AAABnSSvrFg/16x9-big/handelsstreit-china-hybrid-autos-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2e197229-0719-4ef3-b210-24f9289cfc8b/AAABoSCLYa0/AAABnSSvrFg/16x9-big/studierende-anhaenger-100.jpg?width=1280"
         },
         {
-          "title": "Trump kündigt russische Diesel-Lieferungen an",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
-          "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300. 000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
+          "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
+          "summary": "Eine Militärhinrichtung im Livestream: In den USA wird kontrovers über die Ankündigung des Verteidigungsministers diskutiert. Die Rede ist von Methoden wie bei der IS-Miliz. Auch Vizepräsident Vance geht auf Distanz. Von Nina Barth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c49f24bf-a6e7-43b3-bd27-2a24aade3ba4/AAABoSKxMR8/AAABnSSvrFg/16x9-big/trump-5322.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/79e223bb-bb7a-4185-b69e-5f9a68efaf90/AAABoSP0iHg/AAABnSSvrFg/16x9-big/proteste-todesstrafe-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Ukraine-Krieg: Trump kündigt große Diesellieferungen aus Russland an",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-putin-diesel-li.3549696",
-          "summary": "Er habe mit dem russischen Präsidenten unter anderem vereinbart, dass „umgehend“ mehr als 300 000 Tonnen Diesel für die USA und den Weltmarkt zur Verfügung gestellt würden, so der US-Präsident. Dafür werden Sanktionen gelockert.",
+          "title": "Neue Pressesprecherin im Weißen Haus: Katie Zacharia, Trumps neues Sprachrohr",
+          "url": "https://www.sueddeutsche.de/politik/katie-zacharia-trump-pressesprecherin-weisses-haus-usa-li.3561342",
+          "summary": "Sie hat den Präsidenten schon bisher gepriesen und verteidigt, sogar im Fitnessstudio. Nun wird Katie Zacharia die Nachfolgerin von Karoline Leavitt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/09/cddb832e-a666-4f92-a40d-145317e9b2fb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C114%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/10/10/1d9092ce-e36a-4e13-b40c-d41bd610dbf3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C385%2C1857%2C1045"
         },
         {
-          "title": "Völkerrecht: Trumps USA wollen Souveränität nur für sich selbst – nicht für andere",
-          "url": "https://www.sueddeutsche.de/meinung/kommentar-voelkerrecht-internationaler-strafgerichtshof-usa-trump-li.3560980",
-          "summary": "Washington belegt den Internationalen Strafgerichtshof mit neuen Sanktionen. Die Attacke auf das Völkerrecht ist brachial – und scheinheilig begründet.",
+          "title": "USA-Newsblog: Hurrikan „Isaias“ trifft auf US-Golfküste",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-hurrikan-isaias-sturm-evakuierung-li.3558046",
+          "summary": "Menschen müssen ihre Häuser verlassen, Meteorologen warnen vor lebensgefährlichen Sturmfluten. Auch die US-amerikanische Öl- und Gasförderung ist beeinträchtigt.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/09/39f27465-eb62-4d97-970a-cb7c00f6c393.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C214%2C2055%2C1156"
+          "image": "https://www.sueddeutsche.de/2026/10/10/63a85c88-fb41-4005-9e84-9dd0ee2f5ccb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=92%2C346%2C3636%2C2045"
         },
         {
-          "title": "Newsblog zu den Landtagswahlen: Zahlreiche Linke-Politiker kritisieren Einigung zum Antisemitismus",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-berlin-linke-antisemitismus-li.3540501",
-          "summary": "„Die darin enthaltenen Formulierungen übernehmen Narrative einer medialen Hetzkampagne“, heißt es in einer Stellungnahme. Eine Menschenkette hat  AfD-Rechtsaußen Tillschneider an der Teilnahme an einer Gedenkfeier in der Synagoge in Halle gehindert.",
+          "title": "Energiepreise: Trump importiert Diesel aus Russland und brüskiert die Ukraine",
+          "url": "https://www.sueddeutsche.de/politik/trump-diesel-import-russland-midterms-li.3561367",
+          "summary": "Der US-Präsident lockert die Sanktionen gegen den Kreml, um die Treibstoffpreise zu senken. Selenskij spricht von einem Geschenk an Putin – die Demokraten nennen es „Pakt mit dem Teufel“.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/09/2c7f95d2-b5d4-4a05-bea3-1447540d0389.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=510%2C333%2C3005%2C1691"
+          "image": "https://www.sueddeutsche.de/2026/10/10/6ae13477-e91b-4cd9-9f23-9f5f96bc298f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=159%2C209%2C3182%2C1790"
         }
       ]
     }
