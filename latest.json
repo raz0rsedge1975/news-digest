@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-10T06:00:09.220Z",
-  "timestamp": "10.10.2026, 08:00:09",
+  "generated": "2026-10-10T10:00:08.659Z",
+  "timestamp": "10.10.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Finanznot der Ukraine: Kiew hofft auf Europa, kneift aber bei Reformen",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/warum-die-ukraine-bei-reformen-kneift-accg-201302312.html",
-          "summary": "Der Abwehrkampf wird für die Ukraine immer teurer. Kiew ist auf neue europäische Milliardenhilfe angewiesen. Warum werden wichtige Beschlüsse trotzdem verschleppt?",
+          "title": "Fall Fabian: Ging der Plan von Gina H. fatalerweise auf?",
+          "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/fall-fabian-psychogramm-der-angeklagten-gina-h-accg-201301261.html",
+          "summary": "Es ist ein außergewöhnlicher Fall: Gina H. soll den acht Jahre alten Sohn ihres Ex-Partners ermordet haben. Vor Gericht tritt sie oft wie ein Schulmädchen auf. Das psychiatrische Gutachten gibt Aufschlüsse über ihre Persönlichkeit.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9f2e1fca5614/w2657h1388x0y229o/202609/43601.0.2582490791/der-ukrainische-praesident.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/23b25a7418b3/w2693h1407x0y781o/202610/43601.0.2638135241/eine-komplexe-persoenlichkeit.webp"
         },
         {
-          "title": "Trump-Diplomatie: Diesel-Deal mit Putin",
-          "url": "https://www.faz.net/aktuell/wirtschaft/donald-trump-und-wladimir-putin-diesel-deal-mit-folgen-201304918.html",
-          "summary": "Der US-Präsident besorgt russischen Brennstoff für seine Kernwähler. Der ukrainische Präsident ist schwer verärgert.",
+          "title": "Landtagspräsident: Wird Tobias Rausch halten, was er verspricht?",
+          "url": "https://www.faz.net/aktuell/politik/inland/tobias-rausch-als-landtagspraesident-haelt-er-sein-versprechen-201293841.html",
+          "summary": "Der neue Landtagspräsident von Sachsen-Anhalt versichert, sein Amt fair und gewissenhaft auszuüben. Das müssen alle loben. Aber sie dürfen auch skeptisch sein.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ce0ef979a8e8/w4124h2154x0y295o/202606/43601.0.2223208506/ruhig-liegt-sie-da-russische.webp"
+          "image": "https://media0.faz.net/image/w1200h627/1df77c31ff9e/w5352h2796x0y587o/202610/43601.0.2638007342/der-neue-landtagspraesident.webp"
         },
         {
-          "title": "Deutschland liveblog: CDA-Chef Radtke warnt vor Zerbrechen der Koalition: „Das Zündeln macht mich fassungslos“",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cda-chef-radtke-warnt-vor-zerbrechen-der-koalition-das-zuendeln-macht-mich-fassungslos-faz-110093143.html",
-          "summary": "Özdemir zur Bundesregierung: Es ist „fünf vor zwölf“ +++ Bericht wirft Fragen zum Abstimmungsverhalten bei Wahl des Landtagspräsidenten auf: Drei CDU-Abgeordnete sollen laut „taz“ gelogen haben +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Ukrainekrieg: Gespräche zwischen Ukraine und USA enden vorzeitig",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-gespraeche-zwischen-ukraine-und-usa-enden-wohl-frueher-faz-110683325.html",
+          "summary": "Medienbericht: Amerikaner drohen Kiew mit Zurückhaltung von Geheimdienstinformationen +++ Selenskyj: Russland wird sich für Diesel-Deal mit Terror bedanken +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/bb092b12b0af/w6144h3210x0y763o/202609/43601.0.2577729000/der-chef-des-cdu.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f6c60936002f/w3000h1567x0y116o/202402/43601.0.143394833/der-ukrainische.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Frankreich: Frank-Walter Steinmeier verabschiedet sich von Emmanuel Macron",
+          "title": "Winfried Kretschmann im Interview: »Meine Sommer sind gezählt«",
+          "url": "https://www.spiegel.de/politik/deutschland/winfried-kretschmann-im-interview-ich-habe-noch-was-zu-sagen-a-4ba7b100-5804-4ad7-842a-1bb0589b747e#ref=rss",
+          "summary": "Als Ministerpräsident war Winfried Kretschmann jahrelang einer der wichtigsten Politiker der Grünen. Jetzt spricht der 78-Jährige über die Krise der Demokratie, über das Handwerk des Regierens – und macht sich Gedanken über das Sterben.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/4e829a61-3319-427d-919c-caf35288a756_w1200_r1.778_fpx49_fpy53.jpg"
+        },
+        {
+          "title": "News: Bewährungsprobe für Friedrich Merz, Jugendwort des Jahres 2026, Millionen-Erbinnen auf Sinnsuche",
+          "url": "https://www.spiegel.de/politik/deutschland/news-bewaehrungsprobe-fuer-friedrich-merz-jugendwort-des-jahres-2026-millionen-erbinnen-auf-sinnsuche-a-6a0dbe17-f4f2-4862-8f8d-f8d965f5baff#ref=rss",
+          "summary": "Parteichef Merz muss der CDU-Spitze eine Strategie präsentieren. Das Jugendwort des Jahres 2026 wird präsentiert. Und Donald Trump verkeilt sich mit dem Internationalen Strafgerichtshof in Den Haag. Das ist die Lage am Samstagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
+          "title": "Frank-Walter Steinmeier und Emmanuel Macron: Sie wollten Mut machen und verbreiten Wehmut",
           "url": "https://www.spiegel.de/ausland/frankreich-frank-walter-steinmeier-verabschiedet-sich-von-emmanuel-macron-a-1d1bf67f-3c4f-409f-86d4-25f040108344#ref=rss",
           "summary": "Zwischen Krise und Krawallen verabschiedet sich Frank-Walter Steinmeier von Frankreichs Präsident Emmanuel Macron. Der emotionale Besuch des scheidenden Bundespräsidenten wirkt wie ein Schlusspunkt für die Ära des Europa-Optimismus.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c6fcbf19-782c-4741-a8ef-d1a835bdd462_w1200_r1.778_fpx32.27_fpy50.jpg"
-        },
-        {
-          "title": "Telefonat mit Wladimir Putin: Donald Trump kündigt große Diesellieferungen aus Russland an",
-          "url": "https://www.spiegel.de/ausland/telefonat-mit-wladimir-putin-donald-trump-kuendigt-grosse-diesellieferungen-aus-russland-an-a-541e5758-9f7b-4a7d-bd98-5efe9ac9ca55#ref=rss",
-          "summary": "Er hat die Midterms vor sich: Der US-Präsident hat nach einem Gespräch mit Wladimir Putin Hunderttausende Tonnen an Diesel aus Russland in Aussicht gestellt. Trump spiele damit Moskau in die Hände, erklärte der ukrainische Staatschef.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d0d72879-9d7c-49cc-aa05-c782eb69388b_w1043_r1.778_fpx42_fpy36.jpg"
-        },
-        {
-          "title": "Navi Pillay: Friedensnobelpreisträgerin kritisiert Israel für Vorgehen in Gaza",
-          "url": "https://www.spiegel.de/ausland/navi-pillay-friedensnobelpreistraegerin-kritisiert-israel-fuer-vorgehen-in-gaza-a-c3590c37-65d6-458c-9787-97279def1ced#ref=rss",
-          "summary": "Mit Navi Pillay ehrt das Nobelkomitee eine Juristin, die Völkermörder verurteilt hat und Israels Vorgehen in Gaza als Genozid einstuft. Die Wahl soll die internationale Justiz stärken, die von Donald Trump bekämpft wird.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a8484cf5-8a86-447c-940e-6089ca4b29c1_w1200_r1.778_fpx70_fpy84.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Anthropic-KI stellt Visa-Anträge bei US-Außenministerium",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
-          "summary": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtige gehandelt hat. Die KI erstellte eigenständig Visaanträge und gab der Polizei einen falschen Tipp. Von Gabi Biesinger.",
+          "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
+          "summary": "Dass es gerade schwierig ist, da ist sich die CDU einig. Vor allem die Wahlniederlagen im September schmerzen noch immer. Die Partei will raus aus dem Tief und dafür - so ein Vorschlag - wieder näher an den Alltag der Menschen heranrücken.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/867d9f35-4721-4345-b40a-78a5cb382176/AAABn7a04Gk/AAABnSSvrFg/16x9-big/anthropic-logo-tastatur-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d81470ee-c74e-496e-8f12-5cb55662fe34/AAABoSUO66A/AAABnSSvrFg/16x9-big/cdu-symbolbild-logo-100.jpg?width=1280"
         },
         {
-          "title": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
-          "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
-          "summary": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance. Von A. Herz.",
+          "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
+          "url": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+          "summary": "Vor einer geplanten Demonstration gegen Indiens Wahlkommission ist der Gründer der sogenannten Kakerlaken-Bewegung festgenommen worden. Die Bewegung fordert den Rücktritt des Wahlkommissionschefs.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2e197229-0719-4ef3-b210-24f9289cfc8b/AAABoSCLYa0/AAABnSSvrFg/16x9-big/studierende-anhaenger-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/322cbdbe-fffc-4a1d-8e06-04fc29f03829/AAABoSTfTe8/AAABnSSvrFg/16x9-big/abhijeet-dipke-kakerlaken-100.jpg?width=1280"
         },
         {
-          "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html",
-          "summary": "Eine Militärhinrichtung im Livestream: In den USA wird kontrovers über die Ankündigung des Verteidigungsministers diskutiert. Die Rede ist von Methoden wie bei der IS-Miliz. Auch Vizepräsident Vance geht auf Distanz. Von Nina Barth.",
+          "title": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
+          "summary": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/79e223bb-bb7a-4185-b69e-5f9a68efaf90/AAABoSP0iHg/AAABnSSvrFg/16x9-big/proteste-todesstrafe-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7ebf7660-a546-42ab-98ff-abf48d3e3a7d/AAABoSS-sq0/AAABnSSvrFg/16x9-big/zelte-gaza-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Heizen im Oktober? Bei diesen Gaspreisen lohnt sich jeder Tag ohne",
-          "url": "https://www.telepolis.de/article/Heizen-im-Oktober-Bei-diesen-Gaspreisen-lohnt-sich-jeder-Tag-ohne-11483122.html",
-          "summary": "EU-Speicher starten mit Rekordtief in den Winter, der Großhandelspreis hat sich fast verdoppelt. Laut Verivox spart ein Einfamilienhaus täglich bis zu 7 Euro.",
+          "title": "Nobelpreis für Navi Pillay: Eine Juristin kämpft gegen Apartheid und Völkermord",
+          "url": "https://www.telepolis.de/article/Nobelpreis-fuer-Navi-Pillay-Eine-Juristin-kaempft-gegen-Apartheid-und-Voelkermord-11483198.html",
+          "summary": "Navanethem Pillay, Busfahrertochter aus Durban, kämpfte gegen Apartheid und Völkermord und prägte internationales Recht. Nun bekam sie den Friedensnobelpreis.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/2/5/1/shutterstock_2724576433-25e369422dd173ce.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/2/8/9/Zwischenablage-1-8fc5a15fe0cc8ae5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Bitcoin unter Druck: Warum es jetzt darauf ankommt, was wirklich im Depot liegt",
-          "url": "https://www.telepolis.de/article/Bitcoin-unter-Druck-Warum-es-jetzt-darauf-ankommt-was-wirklich-im-Depot-liegt-11482728.html",
-          "summary": "Echte Coins oder Hebelprodukt? Nach der Zwangsliquidation von 720 Millionen Dollar entscheidet die Depot-Struktur, wer Verluste nur sieht – oder sie realisiert.",
+          "title": "Rotes Fleisch und Diabetes: Was eine Sialinsäure damit zu tun haben könnte",
+          "url": "https://www.telepolis.de/article/Rotes-Fleisch-und-Diabetes-Was-eine-Sialinsaeure-damit-zu-tun-haben-koennte-11483174.html",
+          "summary": "Die Sialinsäure Neu5Gc gelangt über Rindfleisch & Co. in den Körper. Eine Studie der Sorbonne Paris Nord deutet auf ein erhöhtes Diabetesrisiko hin.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/0/5/0/shutterstock_1998065048-9ede8036fd1e0af7.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/2/7/7/shutterstock_2737828151-298ca2b1d5098d40.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Februar 2027: Der ukrainische Winter, von dem wir hofften, er käme nie",
-          "url": "https://www.telepolis.de/article/Februar-2027-Der-ukrainische-Winter-von-dem-wir-hofften-er-kaeme-nie-11482288.html",
-          "summary": "Stockende Friedensgespräche, leere Raketenlager, Drohung mit Atomwaffen: Unser Gastautor George Beebe warnt vor einem Szenario, das immer wahrscheinlicher wird.",
+          "title": "Hatschepsut und Thutmosis: Als zwei Pharaonen zusammen herrschten",
+          "url": "https://www.telepolis.de/article/Hatschepsut-und-Thutmosis-Als-zwei-Pharaonen-zusammen-herrschten-11476103.html",
+          "summary": "Formal herrschten sie gemeinsam, tatsächlich bestimmte nur eine die Geschicke Ägyptens. Nach ihrem Tod änderte sich alles (Teil 2/2).",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/9/8/2/9/shutterstock_2261202667-33bc170c8540bfae.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/6/9/3/Hatshepsut_temple4_b-a513d515215f4cce.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "SZ Live: Was ist die Wahrheit, Frauke Brosius-Gersdorf?",
+          "url": "https://www.sueddeutsche.de/kultur/frankfurter-buchmesse-livestream-sz-li.3555197",
+          "summary": "Jetzt live von der Frankfurter Buchmesse: Die Verfassungsrechtlerin im Gespräch mit SZ-Redakteur Detlef Esslinger über ihre gescheiterte Richterwahl und die Debatten unserer Zeit.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/10/b3b4a039-d60f-4443-be5d-571b358d6365.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C94%2C4000%2C2250"
+        },
+        {
+          "title": "Newsblog zum Ukraine-Krieg: Tote bei Angriffen auf Saporischschja",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-angriffe-saporischschja-li.3549696",
+          "summary": "Mindestens sieben Menschen werden getötet, unter ihnen nach Angaben von ukrainischer Seite drei Minderjährige. Die Ukraine reagierte mit Gegenangriffen auf das südrussische Gebiet Rostow.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/10/19ad202f-ac0c-4749-af04-994c69786519.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=341%2C807%2C3306%2C1860"
+        },
+        {
           "title": "Neue Pressesprecherin im Weißen Haus: Katie Zacharia, Trumps neues Sprachrohr",
           "url": "https://www.sueddeutsche.de/politik/katie-zacharia-trump-pressesprecherin-weisses-haus-usa-li.3561342",
           "summary": "Sie hat den Präsidenten schon bisher gepriesen und verteidigt, sogar im Fitnessstudio. Nun wird Katie Zacharia die Nachfolgerin von Karoline Leavitt.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/10/1d9092ce-e36a-4e13-b40c-d41bd610dbf3.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C385%2C1857%2C1045"
-        },
-        {
-          "title": "USA-Newsblog: Hurrikan „Isaias“ trifft auf US-Golfküste",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-hurrikan-isaias-sturm-evakuierung-li.3558046",
-          "summary": "Menschen müssen ihre Häuser verlassen, Meteorologen warnen vor lebensgefährlichen Sturmfluten. Auch die US-amerikanische Öl- und Gasförderung ist beeinträchtigt.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/10/63a85c88-fb41-4005-9e84-9dd0ee2f5ccb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=92%2C346%2C3636%2C2045"
-        },
-        {
-          "title": "Energiepreise: Trump importiert Diesel aus Russland und brüskiert die Ukraine",
-          "url": "https://www.sueddeutsche.de/politik/trump-diesel-import-russland-midterms-li.3561367",
-          "summary": "Der US-Präsident lockert die Sanktionen gegen den Kreml, um die Treibstoffpreise zu senken. Selenskij spricht von einem Geschenk an Putin – die Demokraten nennen es „Pakt mit dem Teufel“.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/10/6ae13477-e91b-4cd9-9f23-9f5f96bc298f.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=159%2C209%2C3182%2C1790"
         }
       ]
     }
