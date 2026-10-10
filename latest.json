@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-10T18:00:08.346Z",
-  "timestamp": "10.10.2026, 20:00:08",
+  "generated": "2026-10-10T22:00:07.596Z",
+  "timestamp": "11.10.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Hackerangriffe: Das Dilemma der Digitalisierung",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/hackerangriffe-auf-die-verwaltung-das-dilemma-mit-der-digitalisierung-201300619.html",
-          "summary": "Die digitale Verwaltung soll dem Bürger das Leben leichter machen. Aber sie eröffnet Hackern auch die Chance, persönliche Informationen zu stehlen oder ganze Städte lahmzulegen. Das jüngste Beispiel: Dänemark.",
+          "title": "Eklat nach KREML-Deal: Für Putins Diesel lässt Trump Selenskyj wieder fallen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukrainekrieg-fuer-putins-diesel-laesst-trump-selenskyj-wieder-fallen-201306029.html",
+          "summary": "Wegen düsterer Aussichten bei den Kongresswahlen ist der US-Präsident bereit, Selenskyj abermals abzuschreiben. Sein Diesel-Deal mit Putin ist ihm angesichts hoher Energiepreise wichtiger.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/717bd9f614ae/w3812h1991x0y417o/202605/43601.0.2105242852/idylle-in-kopenhagen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4e99f1c3f3b7/w6971h3642x0y430o/202610/43601.0.2649741724/wutausbruch-vor-dem-weissen.webp"
         },
         {
-          "title": "„Riesiges Datenleck“: Wer weiß jetzt alles, wo die Dänen wohnen?",
-          "url": "https://www.faz.net/aktuell/politik/ausland/datenleck-an-daenemarks-melderegister-wer-weiss-jetzt-alles-wo-die-daenen-wohnen-accg-201288611.html",
-          "summary": "In Dänemark spielt Datenschutz kaum eine Rolle. Ein bislang beispielloser Datendiebstahl könnte das nun ändern.",
+          "title": "Liveblog Ukrainekrieg: Trump: „Es ist Zeit, dass die Ukraine einen neuen Präsidenten bekommt“",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-es-ist-zeit-dass-die-ukraine-einen-neuen-praesidenten-bekommt-faz-110683325.html",
+          "summary": "US-Präsident: „Das ist ein Krieg, der nie hätte ausbrechen sollen“ +++ Gespräche zwischen Ukraine und USA enden vorzeitig +++ Bundesregierung hält an Russland-Sanktionen fest +++  alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ede5e511adcc/w3000h1567x0y247o/201608/431.0.28418000/die-daenische-flagge-weht-an.webp"
+          "image": "https://media0.faz.net/image/w1200h627/74868da21808/w2184h1141x0y43o/202610/43601.0.2649649033/us-praesident-donald-trump.webp"
         },
         {
-          "title": "Debatte um Sicherheit: Die KI-Angriffswelle rollt",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-vorfaellen-mit-open-ai-und-anthropic-die-ki-angriffswelle-rollt-201279763.html",
-          "summary": "Ob absichtlich oder nicht: Künstliche Intelligenz bedroht global zunehmend wichtige IT-Systeme. Aber es gibt technische Schutzmöglichkeiten – und selbst in den USA politischen Widerstand.",
+          "title": "Ukraine: Putins Schattenkrieg um Eurasien",
+          "url": "https://www.faz.net/aktuell/politik/putin-fordert-ein-russisch-gepraegtes-eurasien-merz-widerspricht-accg-201293808.html",
+          "summary": "Deutschlands Dienste warnen vor einem „gewaltsamen Konflikt“ mit Russland. Ihr Kronzeuge ist Wladimir Putin. Der droht mit der Atombombe.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/83fc9e18099a/w4000h2090x0y197o/202608/43601.0.2476327132/immer-oefter-mit-ki-hacker.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2dab153de542/w4244h2217x0y526o/202610/43601.0.2626178715/welchen-europaeischen.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Begleiteter Suizid: Verschiebt sich die Idee davon, was wir als lebenswert empfinden und was nicht?",
+          "url": "https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss",
+          "summary": "Drei bis vier Menschen nehmen sich in Deutschland im Schnitt jeden Tag das Leben, begleitet von Ärzten. Verschiebt sich gerade die Idee davon, was wir als lebenswert empfinden – und was nicht?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd7ed9ac-5ff1-4152-8b3e-a62372f3b4f9_w1200_r1.778_fpx48_fpy46.jpg"
+        },
         {
           "title": "Ukraine: Donald Trump fordert Machtwechsel in Kiew nach Diesel-Streit",
           "url": "https://www.spiegel.de/ausland/ukraine-donald-trump-fordert-machtwechsel-in-kiew-nach-diesel-streit-a-2dfe459e-03eb-4cd9-8b0b-f324edec837f#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/8ffb1b82-4664-4f4e-aeb1-31496fc502dd_w1200_r1.778_fpx67_fpy60.jpg"
         },
         {
-          "title": "Berlin nach der Wahl: Linke-Sieg entfacht Streit über Clans, Judenhass und Armut",
-          "url": "https://www.spiegel.de/panorama/berlin-nach-der-wahl-linke-sieg-entfacht-streit-ueber-clans-judenhass-und-armut-a-422bfeb6-c0ce-4bbf-9f27-8b22f9626c54#ref=rss",
-          "summary": "Die Linken gewinnen die Wahl und die Menschen in der Hauptstadt streiten über Clans und Judenhasser, Wohnraum und Armut. Einig sind sich die Berliner immerhin darin: So kann es nicht weitergehen. Aber wie denn dann?",
+          "title": "Japan: Mutmaßlicher Mordfall auf Okinawa - Warum jetzt gegen das US-Militär protestiert wird",
+          "url": "https://www.spiegel.de/ausland/japan-mutmasslicher-mordfall-auf-okinawa-warum-jetzt-gegen-das-us-militaer-protestiert-wird-a-fd4f98b1-7350-49fe-a68b-30b5d73c5281#ref=rss",
+          "summary": "Auf Okinawa sind rund 30. 000 US-Soldaten stationiert – zuletzt begingen Militärangehörige so viele Straftaten wie seit mehr als 20 Jahren nicht mehr. Auf einen mutmaßlichen Mordfall reagiert die Politik jetzt mit großer Schärfe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/85b59e3a-d58b-4db9-8966-627bf52f083b_w1200_r1.778_fpx54.99_fpy44.99.jpg"
-        },
-        {
-          "title": "Künstlerin Gabriele Stötzer: Die Staatsfeindin, die in der DDR blieb",
-          "url": "https://www.spiegel.de/kultur/kuenstlerin-gabriele-stoetzer-die-staatsfeindin-die-in-der-ddr-blieb-a-08c48c19-9de9-4d22-bc18-4813b8bc8867#ref=rss",
-          "summary": "Sie wurde zur Staatsfeindin gemacht und ins Frauengefängnis gesperrt. Dennoch blieb Gabriele Stötzer als Künstlerin in der DDR. Erst jetzt wird ihr Werk richtig gewürdigt. Am Samstag erhält sie den renommierten Kaiserring.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1d0f563a-d7ef-4c9d-90e2-46f9c59b6b33_w1200_r1.778_fpx57.84_fpy54.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cb391541-93f1-4068-aa0f-ace709819cab_w1200_r1.778_fpx43_fpy48.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
+          "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7370d223-ada8-4767-b5db-1cd5156f78c6/AAABoSeO-94/AAABnSSvrFg/16x9-big/isaias-102.jpg?width=1280"
+        },
+        {
+          "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+          "summary": "Gestern hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b780b014-d654-44f9-ae2e-ab85a7928960/AAABoSbjyVc/AAABnSSvrFg/16x9-big/trump-5328.jpg?width=1280"
+        },
+        {
           "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
           "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
-          "summary": "Der Flughafen nahe der saudischen Hauptstadt Riad ist offenbar erneut Ziel eines schweren Angriffs. Vermutet wird, dass die jemenitische Huthi-Miliz für die Attacke verantwortlich ist.",
+          "summary": "Der Flughafen nahe der saudischen Hauptstadt Riad ist erneut Ziel eines schweren Angriffs. Vermutet wird, dass die jemenitische Huthi-Miliz für die Attacke verantwortlich ist.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/5bbfe4e2-86c9-4c3d-bff3-4ba19e164089/AAABoSasmBE/AAABnSSvrFg/16x9-big/riad-134.jpg?width=1280"
-        },
-        {
-          "title": "Serie von Messerattacken an Schulen in Polen",
-          "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
-          "summary": "In Polen sorgt eine Serie von Messerattacken an Schulen für Entsetzen. Am Donnerstag starben zwei Menschen nach einem Angriff auf eine Grundschule. Nun wurden bei einem weiteren Angriff drei Frauen verletzt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/22cc46c6-e54b-42ed-a764-134b56ac31e0/AAABoSapwzg/AAABnSSvrFg/16x9-big/polen-564.jpg?width=1280"
-        },
-        {
-          "title": "CDU diskutiert über Umgang mit der AfD",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
-          "summary": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werden?",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/da89450b-0ca5-4236-85fb-627e6f2e0cd8/AAABoSZzs0I/AAABnSSvrFg/16x9-big/cdu-parteizentrale-106.jpg?width=1280"
         }
       ]
     },
@@ -138,12 +138,12 @@
           "image": "https://www.sueddeutsche.de/2026/10/10/db8745c0-12a5-43f3-b58c-cfdde378bbdf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Bundesliga: Der Tag der Kunsttore",
+          "title": "Bundesliga: Leipziger Spektakel am Tag der Kunsttore",
           "url": "https://www.sueddeutsche.de/sport/bundesliga-spiele-leverkusen-hsv-stuttgart-tore-tabelle-li.3561565",
-          "summary": "Beim Sieben-Tore-Spiel in Mainz gelingt Leverkusens Robert Andrich ein Traumtor. Auch der HSV, Union und Stuttgart jubeln nach sehenswerten Treffern. Das Wichtigste zum Bundesliga-Spieltag.",
+          "summary": "Leipzig demontiert Eintracht Frankfurt mit sechs Treffern. Beim Sieben-Tore-Spiel in Mainz gelingt Leverkusens Robert Andrich eins von mehreren Traumtoren. Das Wichtigste zum Bundesliga-Spieltag.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/10/e84cdea7-1640-4236-bcff-49baa3877876.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=364%2C375%2C3636%2C2045"
+          "image": "https://www.sueddeutsche.de/2026/10/10/19258bb0-ff5b-49a1-b61c-ade16d81b12d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C131%2C4000%2C2250"
         }
       ]
     }
