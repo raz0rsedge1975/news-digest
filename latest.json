@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T22:00:07.596Z",
-  "timestamp": "11.10.2026, 00:00:07",
+  "generated": "2026-10-11T02:00:08.888Z",
+  "timestamp": "11.10.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Begleiteter Suizid: Verschiebt sich die Idee davon, was wir als lebenswert empfinden und was nicht?",
-          "url": "https://www.spiegel.de/wissenschaft/mensch/begleiteter-suizid-verschiebt-sich-die-idee-davon-was-wir-als-lebenswert-empfinden-und-was-nicht-a-0270d4f5-0f63-485f-a9a2-79d696dcf524#ref=rss",
-          "summary": "Drei bis vier Menschen nehmen sich in Deutschland im Schnitt jeden Tag das Leben, begleitet von Ärzten. Verschiebt sich gerade die Idee davon, was wir als lebenswert empfinden – und was nicht?",
+          "title": "Saudi-Arabien: Huthis greifen erneut Flughafen in Riad an – zwölf Tote und Hunderte Verletzte",
+          "url": "https://www.spiegel.de/ausland/saudi-arabien-bundesregierung-raet-von-fluegen-ueber-riad-ab-a-9c214d82-2e3e-4b10-8637-4020e9e23dd6#ref=rss",
+          "summary": "Die von Iran unterstützte Huthi-Miliz hat Saudi-Arabiens Hauptstadtflughafen mit Raketen angegriffen. Es gab viele Todesopfer und eine erhebliche Zahl an Verletzten. Die Bundesregierung warnt vor Reisen über Riad.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd7ed9ac-5ff1-4152-8b3e-a62372f3b4f9_w1200_r1.778_fpx48_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ae02bd07-97ad-4bad-80d7-5880530dc5f8_w989_r1.778_fpx64_fpy69.jpg"
         },
         {
           "title": "Ukraine: Donald Trump fordert Machtwechsel in Kiew nach Diesel-Streit",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/8ffb1b82-4664-4f4e-aeb1-31496fc502dd_w1200_r1.778_fpx67_fpy60.jpg"
         },
         {
-          "title": "Japan: Mutmaßlicher Mordfall auf Okinawa - Warum jetzt gegen das US-Militär protestiert wird",
-          "url": "https://www.spiegel.de/ausland/japan-mutmasslicher-mordfall-auf-okinawa-warum-jetzt-gegen-das-us-militaer-protestiert-wird-a-fd4f98b1-7350-49fe-a68b-30b5d73c5281#ref=rss",
-          "summary": "Auf Okinawa sind rund 30. 000 US-Soldaten stationiert – zuletzt begingen Militärangehörige so viele Straftaten wie seit mehr als 20 Jahren nicht mehr. Auf einen mutmaßlichen Mordfall reagiert die Politik jetzt mit großer Schärfe.",
+          "title": "Donald Trump: Justizministerium geht gegen TV-Sender wegen Kartellvorwurf vor",
+          "url": "https://www.spiegel.de/ausland/donald-trump-justizministerium-geht-gegen-tv-sender-wegen-kartellvorwurf-vor-a-53c5b14c-feab-4f15-831a-619c7876224b#ref=rss",
+          "summary": "Die Schikane der US-Regierung gegen unliebsame Medienhäuser setzt sich fort. Laut »New York Times« läuft ein Verfahren gegen CNN und Co. Hintergrund ist ein Boykott der gemeinsamen Berichterstattung aus dem Weißen Haus.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cb391541-93f1-4068-aa0f-ace709819cab_w1200_r1.778_fpx43_fpy48.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d0ebcca7-528e-4697-8f2f-ea7f40b62f5f_w1200_r1.778_fpx41.35_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
-          "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
+          "title": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
+          "summary": "In der CDU ist die Stimmung nach den miserablen Ergebnissen bei den jüngsten Landtagswahlen und sinkenden Umfragewerten schlecht. Heute und morgen kommt das Parteipräsidium zusammen. Von Sabine Henkel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7370d223-ada8-4767-b5db-1cd5156f78c6/AAABoSeO-94/AAABnSSvrFg/16x9-big/isaias-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5497fdfb-69ad-4d61-8d6f-6d83896ecb20/AAABoSE1c7s/AAABnSSvrFg/16x9-big/merz-1702.jpg?width=1280"
         },
         {
-          "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
-          "summary": "Gestern hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+          "title": "Berliner Sondierungen sorgen für Ärger in der Koalition",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/weimer-kluessendorf-berlin-100.html",
+          "summary": "Rot-Grün-Rot in Berlin wird konkreter - das hat auch Auswirkungen auf die Bundespolitik. Kulturstaatsminister Weimer warnt vor einer Zusammenarbeit mit der Linken. Die SPD sieht Handlungsbedarf an anderer Stelle.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b780b014-d654-44f9-ae2e-ab85a7928960/AAABoSbjyVc/AAABnSSvrFg/16x9-big/trump-5328.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7810bdac-265b-4de9-bbc4-4146dd63c898/AAABoGI9AvQ/AAABnSSvrFg/16x9-big/rotes-rathaus-berlin-104.jpg?width=1280"
         },
         {
-          "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
-          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
-          "summary": "Der Flughafen nahe der saudischen Hauptstadt Riad ist erneut Ziel eines schweren Angriffs. Vermutet wird, dass die jemenitische Huthi-Miliz für die Attacke verantwortlich ist.",
+          "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+          "url": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+          "summary": "Etwa 40 Millionen Passagiere nutzen den Flughafen in der saudischen Hauptstadt Riad jedes Jahr. Zuletzt wurde er mehrfach angegriffen. Nun gab es wieder eine Attacke - mindestens zwölf Menschen starben. Diplomaten vermuten die Huthi-Miliz hinter dem Angriff.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5bbfe4e2-86c9-4c3d-bff3-4ba19e164089/AAABoSasmBE/AAABnSSvrFg/16x9-big/riad-134.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7fe37f68-085a-4fe4-a697-d96c3dd3b092/AAABoSgZKIk/AAABnSSvrFg/16x9-big/riad-airport-101.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Trump fordert nach Deal mit Putin einen neuen Staatschef für die Ukraine",
+          "url": "https://www.sueddeutsche.de/politik/trump-selenskij-usa-ukraine-russland-diesel-li.3561607",
+          "summary": "Vor den Zwischenwahlen will der US-Präsident unbedingt die Treibstoffpreise senken – notfalls auf Kosten der Ukraine. Er wendet sich noch deutlicher von dem geschundenen Land ab.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/10/59d5e5c6-c751-45b6-afb9-bfb6ad68c7fb.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=116%2C0%2C3636%2C2045"
+        },
+        {
           "title": "Newsblog zum Ukraine-Krieg: Trump wettert gegen Selenskij: Ukraine soll „sich einen neuen Anführer suchen“",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-selenskij-neuer-anfuehrer-saporischschja-li.3549696",
           "summary": "Der US-Präsident verlangt einen Führungswechsel in der Ukraine und ein Ende der ukrainischen Angriffe auf russische Ölraffinerien.",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/10/db8745c0-12a5-43f3-b58c-cfdde378bbdf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Bundesliga: Leipziger Spektakel am Tag der Kunsttore",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-spiele-leverkusen-hsv-stuttgart-tore-tabelle-li.3561565",
-          "summary": "Leipzig demontiert Eintracht Frankfurt mit sechs Treffern. Beim Sieben-Tore-Spiel in Mainz gelingt Leverkusens Robert Andrich eins von mehreren Traumtoren. Das Wichtigste zum Bundesliga-Spieltag.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/10/19258bb0-ff5b-49a1-b61c-ade16d81b12d.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C131%2C4000%2C2250"
         }
       ]
     }
