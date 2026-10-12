@@ -1,10 +1,18 @@
 {
-  "generated": "2026-10-12T02:00:09.203Z",
-  "timestamp": "12.10.2026, 04:00:09",
+  "generated": "2026-10-12T06:00:09.076Z",
+  "timestamp": "12.10.2026, 08:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Hessen: Der Versuch, die AfD ins Establishment zu zerren",
+          "url": "https://www.faz.net/aktuell/politik/inland/wie-boris-rhein-die-afd-ins-establishment-zerren-will-accg-201300754.html",
+          "summary": "Der Ton des hessischen Ministerpräsidenten Boris Rhein gegenüber der AfD gefällt der eigenen Partei. Der Koalitionspartner SPD ist empört, sieht aber auch eine Chance für sich.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/13da040f410f/w5000h2612x0y429o/202610/43601.0.2621692728/profiliert-sich-in-debatten.webp"
+        },
         {
           "title": "Patrioten ohne Liebe: Das seltsame Verhältnis der AfD zum Vaterland",
           "url": "https://www.faz.net/aktuell/politik/inland/das-seltsame-verhaeltnis-der-afd-zum-vaterland-201243193.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/a0d126816831/w4397h2297x0y189o/202609/43601.0.2520390187/jubel-von-afd-politikern-nach.webp"
         },
         {
-          "title": "Nach Skandal-Posting: Die AfD-Jugend will keine „Generation Großdeutschland“ sein",
-          "url": "https://www.faz.net/aktuell/politik/inland/afd-jugend-strauf-tritt-nach-skandal-posting-zurueck-accg-201307077.html",
-          "summary": "Ein Vorstandsmitglied der „Generation Deutschland“ postete eine vielsagende Karte von Deutschland. Nun ist er zurückgetreten.",
+          "title": "F.A.Z. Frühdenker: Aufbruchstimmung im Konrad-Adenauer-Haus?",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/aufbruchstimmung-im-konrad-adenauer-haus-faz-fruehdenker-201308562.html",
+          "summary": "Das Bundesverfassungsgericht berät über die Erbschaftsteuer. Rot-Rot-Grün startet Koalitionsverhandlungen in Mecklenburg-Vorpommern. Und Merz spricht über Konsequenzen innerhalb der CDU. Frühdenker.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/983034d2bd16/w5886h3075x0y425o/202610/43601.0.2626874414/mitglieder-afd.webp"
-        },
-        {
-          "title": "Provokante Landkarte: Großdeutsche Phantasien in der AfD",
-          "url": "https://www.faz.net/aktuell/politik/inland/grossdeutschen-phantasien-in-der-afd-201307669.html",
-          "summary": "Offenbar verhält es sich mit dem Verhältnis der AfD zu Deutschlands Nachbarn so wie mit dem zu Menschen mit Migrationshintergrund: Es ist gefährlich zweideutig.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2edb5e227eaf/w5024h2625x0y578o/202610/43601.0.2629181388/mitglieder-der-afd.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/a8b94ec56cff/w2207h1153x0y61o/202610/43601.0.2647804334/wird-am-mittag-ueber.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Zohran Mamdani: Warum ein linker Hoffnungsträger mit Donald Trump über Wohnungsbau spricht",
-          "url": "https://www.spiegel.de/ausland/zohran-mamdani-warum-ein-linker-hoffnungstraeger-mit-donald-trump-ueber-wohnungsbau-spricht-a-511f16b1-8327-41b6-b1e9-d2d04453ca1d#ref=rss",
-          "summary": "New Yorks Bürgermeister Zohran Mamdani überrascht mit Pragmatismus. Teile seiner Basis sind empört, seine Umfragewerte aber bleiben gut. Taugt er als Vorbild für Berlin?",
+          "title": "Donald Trump: Experten zweifeln an Preiswirkung von Putins Diesel-Deal",
+          "url": "https://www.spiegel.de/wirtschaft/donald-trump-experten-zweifeln-an-preiswirkung-von-putins-diesel-deal-a-bf2fc488-22aa-45f6-9c0d-c8cb7986319f#ref=rss",
+          "summary": "Donald Trump paktiert drei Wochen vor den Midterms mit dem Kreml. Diesel aus Russland soll die Wählerschaft besänftigen. Fachleute sehen das Abkommen skeptisch. Vor allem, weil es nur einer Seite hilft.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c621ffee-847d-40de-9281-c47faad6b438_w1200_r1.778_fpx65.75_fpy50.95.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7dc47e72-f7bc-4a4f-9a24-9d76a5c84125_w1200_r1.778_fpx41_fpy49.jpg"
+        },
+        {
+          "title": "News: Friedrich Merz nach CDU-Klausur, Erbschaftsteuer vor Verfassungsgericht, Zohran Mamdani in New York",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-nach-cdu-klausur-erbschaftsteuer-vor-verfassungsgericht-zohran-mamdani-in-new-york-a-0eb68a84-45a5-42a8-ab84-5ffd258865b8#ref=rss",
+          "summary": "Friedrich Merz soll heute zeigen, ob er was gelernt hat. Das Bundesverfassungsgericht muss die Politik zu mehr Erbgerechtigkeit treiben. Und dient New York als Blaupause für Berlin? Das ist die Lage am Montagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/4f5ada0d-0da6-4988-998e-80eff8b4ccd0_w1200_r1.778_fpx41.97_fpy44.97.jpg"
         },
         {
           "title": "Friedrich Merz und die CDU-Präsidiumsklausur: Was folgt aus dem Wahl-»Desaster« im Osten?",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/b70f71e8-9f82-42ee-b50f-909541c30ac4_w1200_r1.778_fpx68_fpy45.jpg"
-        },
-        {
-          "title": "AfD in Sachsen-Anhalt: Journalistenverband wirft Ulrich Siegmund Einschüchterung vor",
-          "url": "https://www.spiegel.de/politik/afd-in-sachsen-anhalt-journalistenverband-wirft-ulrich-siegmund-einschuechterung-vor-a-8534b38c-2052-4771-81d4-b3678cc50f55#ref=rss",
-          "summary": "AfD-Politiker Ulrich Siegmund hat den Journalisten Fabian Köster gefragt, ob dieser sich für den Fall der Kündigung des Medienstaatsvertrags schon »einen Job gesucht« habe. Der DJV sieht eine rote Linie überschritten.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8ef14a8d-6358-44f8-a863-22341381bd76_w1200_r1.778_fpx56_fpy44.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
-          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
-          "summary": "Die Huthi-Miliz hat ihre Attacken auf saudische Flughäfen fortgesetzt. Die Luftfahrtbehörde meldete mehrere Verletzte nach einem neuen Angriff auf den Flughafen King Khalid - mindestens ein Mensch wurde getötet.",
+          "title": "Marktbericht: DAX höher erwartet",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+          "summary": "Der DAX bleibt auch in der neuen Woche im Spannungsfeld hoher Ölpreise und Anleiherenditen. Etwas Entspannung kommt von der Wall Street, wo die Anleger den Beginn der Berichtssaison erwarten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c5fcbaa9-edf0-416c-8e74-7f49b808f42c/AAABoSnqIAA/AAABnSSvrFg/16x9-big/saudi-arabien-jemen-king-khalid-airport-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1cd7783b-220b-4d14-9b74-536f856c926b/AAABnjsd-94/AAABnSSvrFg/16x9-big/dax-220.jpg?width=1280"
         },
         {
-          "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
-          "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
-          "summary": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
+          "title": "US-Senatoren kritisieren Trumps Diesel-Pläne als rechtswidrig",
+          "url": "https://www.tagesschau.de/ausland/amerika/kritik-diesellieferung-russland-trump-100.html",
+          "summary": "Der von Präsident Trump angekündigte Import von russischem Diesel in die USA hat weltweit für harsche Kritik gesorgt. Auch im US-Kongress regt sich zunehmend Widerstand - nicht nur auf Seiten der Demokraten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/16b64033-9463-4382-876c-7c6c79d3c93f/AAABoSyXu9k/AAABnSSvrFg/16x9-big/angriff-kiew-138.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4064ddf5-03d5-4087-ac48-e7217bf7916e/AAABm5QNp7c/AAABnSSvrFg/16x9-big/us-kapitol-154.jpg?width=1280"
         },
         {
-          "title": "\"Die Stromsteuer muss für alle gesenkt werden\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
-          "summary": "Die CDU will raus aus der Krise und wieder näher an die Lebenswirklichkeit der Menschen. Als konkrete Maßnahme schlägt der rheinland-pfälzische Regierungschef Schnieder im ARD-Bericht aus Berlin vor, die Stromsteuer für alle zu senken.",
+          "title": "Nordkorea feuert offenbar erneut ballistische Raketen ab",
+          "url": "https://www.tagesschau.de/ausland/asien/suedkorea-nordkorea-raketen-100.html",
+          "summary": "Die Spannungen auf der koreanischen Halbinsel haben in jüngster Zeit wieder zugenommen. Nun führte Nordkorea laut Angaben aus Südkorea und Japan erneut einen Raketentest durch. Die Geschosse landeten im Meer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2b4bc4c2-a221-4ce0-9195-80a06046f252/AAABoSv1uag/AAABnSSvrFg/16x9-big/sendungsbild-1809912.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/41039c4c-7e86-47ac-aaac-53d9024c33c9/AAABoS4jENk/AAABnSSvrFg/16x9-big/suedkorea-fernsehuebertragung-100.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zum Ukraine-Krieg: Trump verkündet „Energie-Waffenruhe“ – Kiew meldet russischen Angriff auf Heikraftwerk",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-energie-waffenruhe-ukraine-russland-li.3549696",
-          "summary": "Russland und die Ukraine hätten einer Vereinbarung zugestimmt, postet der US-Präsident auf Truth Social, ohne Details zu nennen. Die Ukraine meldet, Russland halte sich nicht an die Abmachung. Aus Moskau gibt es bislang keine Reaktion.",
+          "title": "Newsblog zur Bundespolitik: „Ziemlich schäbig“: Söder fordert CDU-Abweichler zum Austritt auf",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-liveblog-soeder-miosga-cdu-abweichler-afd-sachsen-anhalt-li.3529564",
+          "summary": "Der bayerische Ministerpräsident hat eine klare Meinung zu den Unionspolitikern, die in Sachsen-Anhalt möglicherweise für AfD-Politiker stimmen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/11/4b7cf823-ad30-4f97-a589-52faca363213.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/12/99de1e26-ef6d-44aa-85a6-55b8bb4d5eb0.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C207%2C4000%2C2250"
         },
         {
-          "title": "Caren Miosga: Markus, der Milde",
-          "url": "https://www.sueddeutsche.de/medien/markus-soeder-caren-miosga-tv-kritik-li.3561042",
-          "summary": "Während die CDU gerade im Chaos versinkt, gibt CSU-Chef Markus Söder den Stabilisator einer taumelnden Regierung.  An einer wichtigen Stelle lässt die Moderatorin ihn ungeschoren davon kommen.",
+          "title": "USA-Newsblog: Richterin stoppt steuerfinanzierte Wahlwerbung für Trump",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-gerichtsurteil-wahlwerbung-miderms-zwischenwahlen-li.3558046",
+          "summary": "Die Bezirksrichterin in Manhattan gibt der Kontrollorganisation Common Cause recht. Sie wirft der Regierung vor, unerlaubterweise Steuergelder für parteiliche Werbung aufzuwenden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/11/b34d21b8-f57d-486d-b1f5-8dcaeda54ade.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C285%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/12/55f6ee17-3327-45a9-b9d2-26bc978e0451.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         },
         {
-          "title": "Geheimnisse langer Ehen: „Die Flamme der Liebe ist bei uns in diesen 50 Jahren eigentlich nie erloschen“",
-          "url": "https://www.sueddeutsche.de/muenchen/erzdioezese-muenchen-und-freising-kardinal-reinhard-marx-ehe-liebe-li.3561029",
-          "summary": "Jede vierte Ehe in Deutschland wird geschieden. Was machen Menschen anders, die über viele Jahrzehnte zusammenbleiben? Drei Paare erzählen.",
+          "title": "Präsidentschaftswahlen 2027: Frankreichs Sozialisten haben einen Kandidaten – hat er eine Chance?",
+          "url": "https://www.sueddeutsche.de/politik/frankreich-sozialisten-glucksmann-kandidat-praesidentenwahl-li.3561985",
+          "summary": "Der Europaabgeordnete Raphaël Glucksmann wird bei der Vorwahl der Parti Socialiste zum Präsidentschaftskandidaten für 2027 bestimmt. Vier Gründe, warum seine Erfolgsaussichten gering erscheinen.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/11/d17936ff-55bf-4407-918a-dbd9a78ec3bf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=589%2C15%2C3005%2C1691"
+          "image": "https://www.sueddeutsche.de/2026/10/11/c63b55a1-b33c-496b-a45c-e97feb356694.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C204%2C3917%2C2203"
         }
       ]
     }
