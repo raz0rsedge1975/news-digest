@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T22:00:07.896Z",
-  "timestamp": "12.10.2026, 00:00:07",
+  "generated": "2026-10-12T02:00:09.203Z",
+  "timestamp": "12.10.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
+          "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
+          "summary": "Die Huthi-Miliz hat ihre Attacken auf saudische Flughäfen fortgesetzt. Die Luftfahrtbehörde meldete mehrere Verletzte nach einem neuen Angriff auf den Flughafen King Khalid - mindestens ein Mensch wurde getötet.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c5fcbaa9-edf0-416c-8e74-7f49b808f42c/AAABoSnqIAA/AAABnSSvrFg/16x9-big/saudi-arabien-jemen-king-khalid-airport-100.jpg?width=1280"
+        },
+        {
           "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
           "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
           "summary": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/2b4bc4c2-a221-4ce0-9195-80a06046f252/AAABoSv1uag/AAABnSSvrFg/16x9-big/sendungsbild-1809912.jpg?width=1280"
-        },
-        {
-          "title": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
-          "url": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
-          "summary": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/25da5b7b-b3a8-4539-a20a-1ab7298a3e65/AAABoSwWJCY/AAABnSSvrFg/16x9-big/huthi-drohung-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "KI-Mikrodramen in China: Wenn Algorithmen die Sets leeren",
+          "url": "https://www.telepolis.de/article/KI-Mikrodramen-in-China-Wenn-Algorithmen-die-Sets-leeren-11476325.html",
+          "summary": "Nach dem Boom der Kurzserien übernehmen KI-Videotools die Produktion. Schauspieler verlieren Aufträge, Zuschauer ermüden – und die Regulierer greifen ein.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/7/6/8/0/6/shutterstock_2105449937-8d9a5c287c0c6461.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Chatbots bei US-Midterms: Fast ein Drittel der Antworten ungenau oder veraltet",
           "url": "https://www.telepolis.de/article/Chatbots-bei-US-Midterms-Fast-ein-Drittel-der-Antworten-ungenau-oder-veraltet-11483248.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/3/4/6/shutterstock_2385548707-1c0501b607a0f31f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Rentenlücke berechnen: Rechner mit Netto-Rente & Sparrate",
-          "url": "https://www.telepolis.de/article/Rentenluecke-berechnen-Rechner-mit-Netto-Rente-Sparrate-11483567.html",
-          "summary": "Rentenlücke berechnen mit Daten aus der Renteninformation: Netto-Rente, Inflation, Kapitalbedarf und ETF-Sparrate. Kostenlos, ohne Datenspeicherung.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/4/7/4/rentenluecke-berechnen-muenzglas-056531ce67eff8d7.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Newsblog zum Ukraine-Krieg: Trump verkündet „Energie-Waffenruhe“ – Kiew meldet russischen Angriff auf Heikraftwerk",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-energie-waffenruhe-ukraine-russland-li.3549696",
+          "summary": "Russland und die Ukraine hätten einer Vereinbarung zugestimmt, postet der US-Präsident auf Truth Social, ohne Details zu nennen. Die Ukraine meldet, Russland halte sich nicht an die Abmachung. Aus Moskau gibt es bislang keine Reaktion.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/11/4b7cf823-ad30-4f97-a589-52faca363213.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
+        },
+        {
+          "title": "Caren Miosga: Markus, der Milde",
+          "url": "https://www.sueddeutsche.de/medien/markus-soeder-caren-miosga-tv-kritik-li.3561042",
+          "summary": "Während die CDU gerade im Chaos versinkt, gibt CSU-Chef Markus Söder den Stabilisator einer taumelnden Regierung.  An einer wichtigen Stelle lässt die Moderatorin ihn ungeschoren davon kommen.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/11/b34d21b8-f57d-486d-b1f5-8dcaeda54ade.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C285%2C4000%2C2250"
+        },
+        {
           "title": "Geheimnisse langer Ehen: „Die Flamme der Liebe ist bei uns in diesen 50 Jahren eigentlich nie erloschen“",
           "url": "https://www.sueddeutsche.de/muenchen/erzdioezese-muenchen-und-freising-kardinal-reinhard-marx-ehe-liebe-li.3561029",
           "summary": "Jede vierte Ehe in Deutschland wird geschieden. Was machen Menschen anders, die über viele Jahrzehnte zusammenbleiben? Drei Paare erzählen.",
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/11/d17936ff-55bf-4407-918a-dbd9a78ec3bf.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=589%2C15%2C3005%2C1691"
-        },
-        {
-          "title": "Debatte: Das passiert, wenn die AfD Ämter übernimmt",
-          "url": "https://www.sueddeutsche.de/kultur/afd-sachsen-anhalt-halle-synagoge-landtagspraesident-tillschneider-li.3561818",
-          "summary": "Das Landtagspräsidium von Sachsen-Anhalt diffamiert die jüdischen Studierenden, die Hans-Thomas Tillschneider am Betreten der Synagoge in Halle gehindert haben. Es war ein schwerwiegender Fehler, der Partei diesen Posten zu überlassen.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/11/29efc9bd-00aa-4f5f-afce-a513a73cf665.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
-        },
-        {
-          "title": "Newsblog zum Ukraine-Krieg: Trump verkündet „Energie-Waffenruhe“",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-energie-waffenruhe-ukraine-russland-li.3549696",
-          "summary": "Russland und die Ukraine hätten einer Vereinbarung zugestimmt, postet der US-Präsident auf Truth Social, ohne Details zu nennen. Selenskij erklärt, er habe davon nichts gewusst, aus Moskau gibt es bislang keine Reaktion.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/11/4b7cf823-ad30-4f97-a589-52faca363213.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C209%2C4000%2C2250"
         }
       ]
     }
