@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-12T22:00:15.095Z",
-  "timestamp": "13.10.2026, 00:00:15",
+  "generated": "2026-10-13T02:00:25.141Z",
+  "timestamp": "13.10.2026, 04:00:25",
   "news": [
     {
       "source": "FAZ",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
+          "summary": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges von Schweitzer - doch sicher ist nichts im politischen Berlin. Von Dagmar Pepping.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4e846c1f-34a7-46e1-8785-e2421c05c14d/AAABoTKtFak/AAABnSSvrFg/16x9-big/klingbeil-merz-156.jpg?width=1280"
+        },
+        {
+          "title": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
+          "summary": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf produzieren.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4a8659ec-560a-4ac9-a825-4d335211544c/AAABoTKEIyU/AAABnSSvrFg/16x9-big/volkswagen-396.jpg?width=1280"
+        },
+        {
           "title": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
           "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html",
           "summary": "In der saudischen Hauptstadt Riad ist es erneut zu Explosionen gekommen. Offenbar wurde eine von der Huthi-Miliz abgefeuerte Rakete zerstört. Die Bewohner waren zuvor vor einer \"feindlichen Bedrohung\" gewarnt worden.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/b06d3d47-bbee-459c-947f-fb46f598dccd/AAABlrqI7A0/AAABnSSvrFg/16x9-big/saudi-arabien-riad-100.jpg?width=1280"
-        },
-        {
-          "title": "Brand in Starlink-Station in Polen - Festnahmen in Deutschland",
-          "url": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html",
-          "summary": "Ende September brennt eine Starlink-Station in Polen, die auch für die Ukraine wichtig ist. Jetzt wurden in Deutschland zwei Verdächtige festgenommen. Die polnische Regierung vermutet Russland hinter dem Vorfall.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Papst geht Dienstag für Lungenoperation ins Krankenhaus",
-          "url": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html",
-          "summary": "Nach dem Fund eines Knotens in der Lunge will sich Papst Leo operieren lassen. Morgen begibt er sich ins Krankenhaus. Spätestens am Mittwoch soll der Eingriff durchgeführt werden. Von Ivo Marusczyk.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/053a655b-e6ee-4663-b133-92976015133d/AAABoTEq9ZY/AAABnSSvrFg/16x9-big/papst-leo-182.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "AfD-Verbot: Warum Karlsruhe allein keine politische Antwort liefert",
+          "url": "https://www.telepolis.de/article/AfD-Verbot-Warum-Karlsruhe-allein-keine-politische-Antwort-liefert-11484399.html",
+          "summary": "Gutachten, Demonstrationen, Zeitdruck: Die Verbotsdebatte um die AfD gewinnt an Fahrt. Die Hürden sind hoch – und die eigentliche Frage bleibt unbeantwortet.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/8/9/2/shutterstock_2405786717-ac3566bbbbc49183.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Atomkraft in Polen: Warschau bestellt erste Bauteile für Ostsee-AKW",
           "url": "https://www.telepolis.de/article/Atomkraft-in-Polen-Warschau-bestellt-erste-Bauteile-fuer-Ostsee-AKW-11484547.html",
@@ -106,21 +114,21 @@
           "summary": "Die Senkrechtstarter-Drohne soll Ende Oktober als erster Prototyp vorgestellt werden, der Erstflug folgt noch in diesem Jahr.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/8/3/7/seq_cvn_xbat_lrv_cam_1_0006_1_1_1-6b32d072613eedc1.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Rente nach 45 Jahren: Länderchefs lassen Mierschs Rentengipfel abblitzen",
-          "url": "https://www.telepolis.de/article/Rente-nach-45-Jahren-Laenderchefs-lassen-Mierschs-Rentengipfel-abblitzen-11484189.html",
-          "summary": "Die SPD will die Länderchefs in den Rentenstreit holen, die CDU blockt ab. Im Kern geht es um die abschlagsfreie Rente nach 45 Jahren.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/7/8/8/shutterstock_2648548339-f6218cce494d550f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Krieg in Nahost: Mehrere Fluglinien streichen Verbindungen nach Saudi-Arabien",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-putin-riad-huthi-flughafen-reiche-li.3560260",
+          "summary": "Grund sind die Angriffe und Drohungen der jemenitischen Huthi-Miliz gegen Saudi-Arabien. Bundeswirtschaftsministerin Reiche konnte Rückreise antreten.",
+          "source": "SZ",
+          "paywall": true,
+          "image": "https://www.sueddeutsche.de/2026/10/13/a43c4fe5-4e88-41db-8c3e-9597d33eda62.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=310%2C102%2C3306%2C1860"
+        },
         {
           "title": "FC Bayern in Stavanger: „Manu hat was am Fuß gespürt“",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-muenchen-champions-league-manuel-neuer-jonas-urbig-vincent-kompany-viking-stavanger-li.3562686",
@@ -136,14 +144,6 @@
           "source": "SZ",
           "paywall": true,
           "image": "https://www.sueddeutsche.de/2026/10/12/00ef1989-ed1c-4cf6-8e52-a3498f2494b2.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C18%2C4000%2C2250"
-        },
-        {
-          "title": "Nahost: Israel verweigert „taz“-Korrespondentin Arbeitsvisum",
-          "url": "https://www.sueddeutsche.de/medien/taz-israel-serena-bilanceri-arbeitsvisum-einreise-li.3562689",
-          "summary": "Die Journalistin Serena Bilanceri darf nach Angaben ihrer Zeitung nicht nach Israel einreisen. Die „taz“ äußert sich empört.",
-          "source": "SZ",
-          "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/12/a78cb9cc-8744-402f-b9d4-7bf1d1334847.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C146%2C4000%2C2250"
         }
       ]
     }
