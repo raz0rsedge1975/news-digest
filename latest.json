@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-14T02:00:20.728Z",
-  "timestamp": "14.10.2026, 04:00:20",
+  "generated": "2026-10-14T06:00:15.577Z",
+  "timestamp": "14.10.2026, 08:00:15",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Nord-Stream-Prozess: Kiew hat den Angeklagten zum Schweigen verpflichtet",
+          "url": "https://www.faz.net/aktuell/politik/inland/nord-stream-prozess-beginnt-kiew-hat-den-angeklagten-zum-schweigen-verpflichtet-accg-201299640.html",
+          "summary": "Für ukrainische Kinder ist er ein Held, in Hamburg ist er wegen Kriegsverbrechen angeklagt: Serhij K. soll die Nord-Stream-Sabotagegruppe angeführt haben. Heute beginnt der Prozess gegen ihn.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/cc95b4c2d669/w6144h3210x0y311o/202610/43601.0.2650828987/was-ich-getan-habe-habe-ich.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Angriffe auf Kiew: Ukrainer beklagen abermals fehlende Vorwarnung",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-angriffe-auf-kiew-ukrainer-beklagen-abermals-fehlende-vorwarnung-faz-110683325.html",
+          "summary": "Wie schon am Vortag keine Warnhinweise von Verbündeten +++ Selenskyj äußert sich zu Angriffen auf Kiew +++ Festnahmen in Deutschland nach Anschlag auf Starlink-Station in Polen +++  alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e31523d99d30/w8090h4227x0y944o/202610/43601.0.2668733147/brennende-wohngebaeude-in-kiew.webp"
+        },
         {
           "title": "EmDE in Linksfraktion: Wie die Berliner Sondierungen aus den Fugen gerieten",
           "url": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-in-der-linksfraktion-spd-und-gruene-unterbrechen-sondierungen-201315220.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/d34e89400594/w4096h2140x0y773o/202610/43601.0.2665702877/elif-eralp.webp"
-        },
-        {
-          "title": "IT-Konzern angegriffen: „Ich habe alles Geld auf Yandex, und ich weiß nicht, was ich tun soll“",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/angriffe-auf-yandex-ukraine-legt-russisches-google-lahm-201312070.html",
-          "summary": "Ukrainische Drohnen legen Rechenzentren des russischen IT-Konzerns Yandex lahm. Nutzer seiner Dienste sind frustriert – und selbst der Kreml gesteht „Schwierigkeiten“ ein.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f069ce0fa1a8/w2244h1172x0y46o/202610/43601.0.2641582091/rauch-ueber-dem-yandex.webp"
-        },
-        {
-          "title": "Station sabotiert?: Das Muster des Starlink-Vorfalls weist nach Russland",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/mutmasslicher-anschlag-auf-starlink-in-polen-dritter-verdaechtiger-in-deutschland-verhaftet-201313927.html",
-          "summary": "Wegen der mutmaßlichen Sabotage an einer polnischen Starlink-Station wurde in Deutschland ein dritter Verdächtiger verhaftet. „Wir sind im Fadenkreuz Russlands“, sagt der Außenminister.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/bc9972624c92/w2384h1245x0y296o/202610/43601.0.2664196188/zwei-maenner-werden-am.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Klima: Insider warnen, dass Immobilienversicherungen unbezahlbar werden könnten",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/klima-insider-warnen-dass-immobilienversicherungen-unbezahlbar-werden-koennten-a-5d27d4a0-3200-458b-9c9d-3220af26ef38#ref=rss",
+          "summary": "Die immensen Schäden durch Umweltkatastrophen werden bald nicht mehr versicherbar sein, mahnt eine Gruppe von Insidern aus der Versicherungsbranche. Droht gar eine neue Finanzkrise?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/3747a6e2-a91b-42e1-b05b-2c1c7759a27c_w1200_r1.778_fpx39_fpy55.jpg"
+        },
+        {
+          "title": "News: Regierungserklärung von Friedrich Merz, Prozess gegen Nord-Stream-Saboteur, Ukraine-Antrag von AfD und BSW in Sachsen-Anhalt",
+          "url": "https://www.spiegel.de/politik/deutschland/news-regierungserklaerung-von-friedrich-merz-prozess-gegen-nord-stream-saboteur-ukraine-antrag-von-afd-und-bsw-in-sachsen-anhalt-a-76ddd44c-7065-4113-974b-9bd204237304#ref=rss",
+          "summary": "Der Bundeskanzler gibt eine Regierungserklärung ab. In Hamburg steht ein mutmaßlicher Nord-Stream-Saboteur vor Gericht. Und in Sachsen-Anhalt machen sich AfD und BSW wichtig. Das ist die Lage am Mittwochmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/d0a51bc3-bb31-4173-bae7-d8a7d1e4c056_w1200_r1.778_fpx68.21_fpy50.jpg"
+        },
+        {
           "title": "Papst Leo XIV. hat Lungenkrebs",
           "url": "https://www.spiegel.de/ausland/papst-leo-hat-laut-seinen-aerzten-lungenkrebs-a-c5f7d963-8fa4-4989-bc01-e798e6d77a2b#ref=rss",
           "summary": "Bei einem Eingriff wurde der untere Lappen der rechten Lunge entfernt: Papst Leo XIV. leidet nach Angaben seiner behandelnden Ärzte an Krebs. Er soll die rund 90-minütige OP gut überstanden haben.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/2dc322d1-5c47-495f-bafe-7f3f58f7a16b_w1200_r1.778_fpx69_fpy54.jpg"
-        },
-        {
-          "title": "Berlin: Vanessa Emde in Linke-Fraktion aufgenommen - Grüne sind irritiert",
-          "url": "https://www.spiegel.de/politik/berlin-vanessa-emde-in-linke-fraktion-aufgenommen-gruene-sind-irritiert-a-278348a4-d4db-4910-b0a1-62c364e1c1b7#ref=rss",
-          "summary": "Antisemitismusstreit in der Hauptstadt: Die Linke nimmt Vanessa Emde in ihre Fraktion im Abgeordnetenhaus auf. Aber die Berliner Grünen pochen nach SPIEGEL-Informationen darauf, dass vorab ihr Ausschluss zugesagt worden sei.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7dee2a5e-4e09-4386-ae2c-b39bf2dfa197_w1200_r1.778_fpx55_fpy36.jpg"
-        },
-        {
-          "title": "Christina Block, der Prozess und die Tonbandaufnahmen der »Zeit«: Der Vertrauensbruch",
-          "url": "https://www.spiegel.de/panorama/justiz/christina-block-der-prozess-und-die-tonbandaufnahmen-der-zeit-der-vertrauensbruch-a-d11048d8-ad7b-4265-9245-75768509c87b#ref=rss",
-          "summary": "Im Prozess gegen Christina Block geht es um Tonbandaufnahmen der Wochenzeitung »Die Zeit«. Die Tochter der Unternehmerin sorgt sich, ob die Dinge, die sie erzählt hat, vertraulich bleiben.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/66670d65-48fc-4ead-b066-ffe75b335ef2_w1200_r1.778_fpx49_fpy48.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Finnland: KI-Boom auf Kosten der Natur?",
-          "url": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
-          "summary": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Doch für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet: offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram.",
+          "title": "Marktbericht: DAX leicht höher gesehen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+          "summary": "In Asien erholen sich die Technologiewerte wieder, was auch den DAX entlasten dürfte. Der deutsche Leitindex dürfte leicht höher in den Tag starten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6ed3ac08-7b32-4295-ae21-ccb11331fc38/AAABoTfE8HY/AAABnSSvrFg/16x9-big/finnland-google-muhos-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2db31d03-cdba-46dd-9aea-71ef81a25776/AAABmnblNn8/AAABnSSvrFg/16x9-big/boerse-468.jpg?width=1280"
         },
         {
-          "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-          "summary": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten.",
+          "title": "100 Jahre Pu der Bär: Ein bisschen Honig und ganz viel Freundschaft",
+          "url": "https://www.tagesschau.de/kultur/winnie-pu-100-jahre-100.html",
+          "summary": "Pu liebt Honig, ist tollpatschig und nicht gerade ein Genie. Trotzdem - oder gerade deshalb - wird er auch 100 Jahre später bei Groß und Klein geschätzt. Ein Kinderbuchklassiker, der viel über das Leben erzählt. Von Lilofee Fettich.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c17c1b9f-6ab3-4be1-a183-17929691b4a9/AAABnIpC4o8/AAABnSSvrFg/16x9-big/zucker-softdrink-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ce0448bc-b58a-4f7b-9e1e-f314468d06a9/AAABoTA5_eo/AAABnSSvrFg/16x9-big/winnie-puh-zeichnung-100.jpg?width=1280"
         },
         {
-          "title": "Papst Leo XIV. hat Lungenkrebs",
-          "url": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html",
-          "summary": "Auf Anraten der Ärzte hatte sich Papst Leo XIV. einer Lungenoperation unterzogen. Laut Angaben des Vatikans habe sich dabei die vermutete Diagnose eines Lungenkarzinoms bestätigt. Die Operation habe der Heilige Vater gut überstanden.",
+          "title": "Ukraine-Hilfen: Wie der Nord-Stream-Prozess die Stimmung verändern könnte",
+          "url": "https://www.tagesschau.de/inland/prozess-nord-stream-100.html",
+          "summary": "Heute beginnt in Hamburg der Nord-Stream-Prozess. Angeklagt ist ein Ukrainer. Juristisch geht es um die Verantwortung für die Sabotage. Politisch dürfte der Prozess die Debatte über die Ukraine-Hilfen befeuern.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3ae7f386-4661-4b83-ba08-3d01ee6b782f/AAABoTaXT1g/AAABnSSvrFg/16x9-big/papst-gemelli-klinik-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/934f0a79-cee7-44bd-91ec-0c9732c94d7a/AAABoTi9luM/AAABnSSvrFg/16x9-big/nordstream-festnahme-102.jpg?width=1280"
         }
       ]
     },
@@ -122,28 +122,28 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "FC Bayern in der Einzelkritik: Kim ist von der eigenen Unsicherheit verunsichert",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-stavanger-einzelkritik-li.3563237",
-          "summary": "Der Verteidiger geht nicht allzu energisch zur Sache. Kimmich ist Chipball-, Ecken- und Bodycheck-Beauftragter. Und Kane auf dem Weg, ein paar große Stürmer einzuholen. Die Bayern in der Einzelkritik.",
+          "title": "USA-Newsblog: Gericht verlängert Zugang von Medien zu Weißem Haus",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-medien-zutritt-weisses-haus-prozess-pressefreiheit-li.3558046",
+          "summary": "Ein Bundesrichter schützt CNN, Politico und MS NOW vorläufig weiter vor dem Ausschluss durch die Trump-Regierung. Der Prozess läuft weiter.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/13/03c55e23-92cb-4e79-b4d8-7b095d2e6048.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C256%2C3500%2C1969"
+          "image": "https://www.sueddeutsche.de/2026/10/14/d9b3dbff-2b19-4eb7-8c5c-d4aa0f25b2f7.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C84%2C4000%2C2250"
         },
         {
-          "title": "FC Bayern in Stavanger: Ein wahrlich wildes Spiel bei den Wikingern",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-stavanger-champions-league-li.3563182",
-          "summary": "Die Bayern machen aus einem 0:2 in Stavanger dank Harry Kane eine Führung – um dann noch 3:3 zu spielen. Weil sich Michael Olise den ersten Platzverweis seiner Karriere erlaubt.",
+          "title": "SOS-Kinderdörfer: Mohammed, vier Tage alt, verschleppt vom Assad-Regime",
+          "url": "https://www.sueddeutsche.de/panorama/syrien-verschleppte-kinder-sos-kinderdoerfer-aufarbeitung-streit-li.3560605",
+          "summary": "Jahrelang wurden Kinder syrischer Regimegegner entführt und in SOS-Kinderdörfern untergebracht. Die Organisation versprach eine umfassende Aufklärung, doch diese kommt nicht voran. Der Streit darüber könnte nun sogar existenzbedrohend werden.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/13/2b06b11a-c550-4cf5-a3dd-0d2f4ffe9df8.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C278%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/13/92fb70cc-9bfd-486d-92ed-5086d4cc0979.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C1920%2C1080"
         },
         {
-          "title": "Katholische Kirche: Vatikan: Papst Leo XIV. hat Lungenkrebs",
-          "url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-lungenkrebs-lungenadenokarzinom-operation-li.3563095",
-          "summary": "Bei der Operation sei dem Papst ein Teil des rechten Lungenflügels entfernt worden, sagt sein Arzt. Der Eingriff verlief gut, aber der Befund ist besorgniserregend.",
+          "title": "Newsblog zu KI: Open-AI-Mitarbeiter wegen Abhörgeräts festgenommen",
+          "url": "https://www.sueddeutsche.de/politik/ki-newsblog-usa-abhoergeraet-wanze-openai-chat-gpt-li.3547133",
+          "summary": "Die Wanze soll sich in einem Konferenzraum der Firma befunden haben, in dem häufig Geschäftsgeheimnisse besprochen werden. Nun ermittelt die US-Bundespolizei FBI.",
           "source": "SZ",
           "paywall": true,
-          "image": "https://www.sueddeutsche.de/2026/10/13/cf00bf7f-c5cd-4b72-9d2b-f5e5c1500598.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=0%2C0%2C4000%2C2250"
+          "image": "https://www.sueddeutsche.de/2026/10/14/1dfa4f51-0d95-4893-916a-d245c9f69d91.jpg?q=60&amp;fm=webp&amp;width=1200&amp;rect=38%2C206%2C382%2C215"
         }
       ]
     }
