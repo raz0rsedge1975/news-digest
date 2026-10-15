@@ -1,17 +1,25 @@
 {
-  "generated": "2026-10-15T18:01:18.987Z",
-  "timestamp": "15.10.2026, 20:01:18",
+  "generated": "2026-10-15T22:00:17.925Z",
+  "timestamp": "16.10.2026, 00:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Merz und Macron einig: Durchbruch beim Verbrennerverbot",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/durchbruch-beim-verbrennerverbot-deutschland-und-frankreich-vor-einigung-201401010.html",
-          "summary": "Berlin und Paris haben sich auf die Aufweichung des Verbrennerverbots geeinigt. Damit dürfte der Weg auf EU-Ebene frei sein. Der Deal hat für Berlin aber einen Preis.",
+          "title": "Krankenhäuser: Überfüllte Notaufnahmen darf Deutschland nicht länger hinnehmen",
+          "url": "https://www.faz.net/aktuell/politik/inland/notfallreform-im-bundestag-ein-schritt-aber-kein-beweis-fuer-reformwillen-201340619.html",
+          "summary": "Die Notfallreform, die der Bundestag verabschiedet hat, ist bitter nötig. Ein Beweis für den Reformwillen der Koalition ist sie aber nicht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c22b10bf7aee/w2402h1255x0y173o/202610/43601.0.2695685119/deutsch-franzoesischer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/2fb3df8506d2/w5046h2636x0y627o/202211/43600.0.1287508837/ein-krankenwagen-in-frankfurt.webp"
+        },
+        {
+          "title": "Notfallreform: „Der Patient soll bekommen, was er braucht – nicht, was er gerne hätte“",
+          "url": "https://www.faz.net/aktuell/politik/inland/notfallreform-die-versorgung-haengt-heute-von-der-postleitzahl-ab-201339436.html",
+          "summary": "Die Regierung reformiert die Notfallmedizin. Christof Chwojka, dessen Stiftung sich für die Modernisierung des Rettungswesens einsetzt, sieht Licht und Schatten.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://www.faz.net/faz-share-logo.jpg"
         },
         {
           "title": "USA unter Trump: Trump: Hinrichtung wird doch nicht live übertragen",
@@ -20,20 +28,20 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/1e3ce34552a1/w5334h2787x0y553o/202610/43601.0.2699386348/us-praesident-donald-trump-bei.webp"
-        },
-        {
-          "title": "US-Midterms 2026: Bekommt Trump die Quittung? Das sagen die Umfragen",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-wie-stehen-die-umfragen-accg-201302007.html",
-          "summary": "November werden das Repräsentantenhaus und ein Teil des Senats neu gewählt. Wie sehr muss Trump um seine Macht fürchten? Das sagen die Umfragen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/615e3e820b0b/w1602h837x144y32o/202610/a74a33c3-36e1-423d-bfe8-4c129c1b3ca9/o4u1vyctyytd.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Neonazi-Szene hat Zulauf durch Social Media - Podcast Firewall",
+          "url": "https://www.spiegel.de/politik/deutschland/neonazi-szene-hat-zulauf-durch-social-media-podcast-firewall-a-72bea215-bb37-4bd5-82f3-4434748b3022#ref=rss",
+          "summary": "Sie posten perfide Propaganda auf Instagram und TikTok, vernetzen sich mit alten Strippenziehern und schlagen auch mal zu. Hören Sie bei Firewall, wie junge Rechtsextremisten der Szene neuen Zulauf verschaffen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7689a983-6fe5-4baf-8bd4-8f85cbf35226_w1200_r1.778_fpx51_fpy47.jpg"
+        },
         {
           "title": "Donald Trump verrät die Ukraine. So kann sich Europa wehren",
           "url": "https://www.spiegel.de/ausland/donald-trump-verraet-die-ukraine-so-kann-sich-europa-wehren-a-754002ed-3439-4801-903d-9aca7b18b1f7#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/039db86c-45b3-4f04-8427-f59b4f791f3f_w1200_r1.778_fpx64_fpy23.jpg"
         },
         {
-          "title": "News des Tages: Ukrainekrieg, Fifa und DFB, Tabaksteuer",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-ukrainekrieg-fifa-und-dfb-tabaksteuer-a-a5ba86cf-d688-42a5-aba2-5b1333527734#ref=rss",
-          "summary": "Musks Firma Starlink macht es der Ukraine offenbar schwerer, sich zu verteidigen. Gianni Infantino entschuldigt sich. Und der Ex-Mann von Baerbock soll bei den Grünen für eine Tabakfirma lobbyiert haben. Das ist die Lage am Donnerstagabend.",
+          "title": "USA: Botschafterin Kimberly Guilfoyle muss gehen – nicht als einzige Frau in Trumps Umfeld",
+          "url": "https://www.spiegel.de/ausland/usa-botschafterin-kimberly-guilfoyle-muss-gehen-nicht-als-einzige-frau-in-trumps-umfeld-a-4c02b7b0-c391-4574-be39-a7edf57b5610#ref=rss",
+          "summary": "Erst war sie eine »langjährige Freundin«, nun soll sie nie zur Familie gehört haben: Donald Trump hat die US-Botschafterin in Athen geschasst. Wie kam es zum Rücktritt der Frau, die beinahe seine Schwiegertochter geworden wäre?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Friedrich Merz und Emmanuel Macron einigen sich auf Aufweichung von Verbrenner-Aus",
-          "url": "https://www.spiegel.de/wirtschaft/friedrich-merz-und-emmanuel-macron-einigen-sich-auf-aufweichung-von-verbrenner-aus-a-d250ef0f-8188-4c66-8964-7883011ddbaa#ref=rss",
-          "summary": "Deutschland und Frankreich sind sich einig: Beide Regierungen wollen die europäische Autopolitik reformieren. Die Pläne hätten auch Auswirkungen auf das für 2035 geplante Verbrenner-Aus.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/42f1f606-9b0a-4d85-b2ab-412aed1698b7_w1200_r1.778_fpx49.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6f1d8f05-8bc6-4d63-b0b8-6f7e2a34575b_w1200_r1.778_fpx56_fpy41.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
-          "url": "https://www.tagesschau.de/ukraine-usa-starlink-geheimdienste-100.html",
-          "summary": "Um sich verteidigen zu können, ist die Ukraine dringend auf Informationen aus den USA angewiesen. Doch genau dabei hakt es offenbar. Zudem gibt es Probleme mit dem Satellitendienst Starlink. Welche Folgen hat das? Und was steckt dahinter?",
+          "title": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
+          "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
+          "summary": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a864ae97-79fe-4c8a-a651-5beffb7e8d77/AAABoUCuuLw/AAABnSSvrFg/16x9-big/soldaten-front-ukraine-100.jpg?width=1280"
+          "image": null
         },
         {
-          "title": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
-          "url": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
-          "summary": "Mit einer neuen Vergütungsregel will die Regierung bei der Psychotherapie sparen. Kinder und Schwerkranke sind ausgenommen. Fachverbände befürchten jedoch: Alle anderen könnten künftig länger auf einen Therapieplatz warten. Emminghaus.",
+          "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
+          "url": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
+          "summary": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/04a53566-5432-412b-99a3-18b38f991053/AAABk9qApP4/AAABnSSvrFg/16x9-big/psychotherapie-sitzung-100.jpg?width=1280"
+          "image": null
         },
         {
-          "title": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-          "summary": "Der DAX pendelt weiter um die Marke von 25. 000 Punkten. Der weltweite Ausverkauf von Tech-Aktien hat den deutschen Leitindex nicht so stark getroffen - denn große Technologiewerte sind kaum vertreten.",
+          "title": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
+          "url": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
+          "summary": "Nach Berichten über sexuelles Fehlverhalten bei der Bundeswehr in Sachsen-Anhalt kündigt das Verteidigungsministerium Konsequenzen an. Doch wie tief sitzt das Problem in der Truppe wirklich? Von Christina Nagel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1cd7783b-220b-4d14-9b74-536f856c926b/AAABnjsd-94/AAABnSSvrFg/16x9-big/dax-220.jpg?width=1280"
+          "image": null
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Bis zu 12 Wochen Dienst pro Jahr, Pflicht bis 65: Was das neue Reservegesetz für ehemalige Soldaten und ihre Betriebe konkret bedeutet.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/5/2/4/shutterstock_2141401647-926be1ca0225eab3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "ASML verkauft in Europa nichts mehr: Wo bleibt unsere Chip-Industrie?",
@@ -106,7 +106,7 @@
           "summary": "Der weltweite Monopolist für EUV-Lithografieanlagen hat in Europa 2026 keinen einzigen Auftrag erhalten. Die EU droht den Anschluss zu verlieren. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/2/6/7/ASML_HighNA_cleanroom_Veldhoven_068-ac51b4ad3a49a6dc.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "Kiew in der Dunkelheit: Eine einzige Nacht zeigt, wie verwundbar die Ukraine ist",
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Fliegen: Vögel sind energieeffizienter unterwegs als gedacht",
+          "url": "https://www.sueddeutsche.de/wissen/vogel-fliegen-energieverbrauch-studie-li.3562924",
+          "summary": "Lange galt das Schwimmen als die sparsamste Art der Fortbewegung im Tierreich. Doch das Fliegen steht ihm offenbar kaum nach – zumindest bei der richtigen Technik.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Prozess in München: Kleinkinder geschlagen und gedemütigt: Erzieherin zu zwei Jahren Freiheitsstrafe verurteilt",
           "url": "https://www.sueddeutsche.de/muenchen/muenchen-erzieherin-kindesmisshandlung-kita-prozess-gestaendnis-li.3559385",
           "summary": "Die Frau soll in einer Kita monatelang Kinder drangsaliert und sogar mit dem Tod bedroht haben. Vor Gericht legt sie ein Geständnis ab. Die Strafe ist zur Bewährung ausgesetzt.",
@@ -133,14 +141,6 @@
           "title": "Serien: Sie ist der Star des Kompetenz-Pornos",
           "url": "https://www.sueddeutsche.de/kultur/diplomatische-beziehungen-vierte-staffel-keri-russell-schauspielerin-li.3556895",
           "summary": "Das Genre dreht sich um schlaue Menschen mit anspruchsvollen Berufen, Spione und Diplomaten und so. Womit man bei Schauspielerin Keri Russell und der vierten Staffel von „The Diplomat“ wäre.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "USA-Newsblog: Trump: Kein Livestream bei geplanter Hinrichtung durch Militär",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kein-livestream-hinrichtung-attentaeter-todesstrafe-li.3558046",
-          "summary": "Damit vollzieht der US-Präsident eine Kehrtwende. Die geplante Liveübertragung der Erschießung hatte weltweit für Kritik gesorgt.",
           "source": "SZ",
           "paywall": false,
           "image": null
