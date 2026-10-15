@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T22:00:15.445Z",
-  "timestamp": "15.10.2026, 00:00:15",
+  "generated": "2026-10-15T02:00:14.095Z",
+  "timestamp": "15.10.2026, 04:00:14",
   "news": [
     {
       "source": "FAZ",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine: Wie sich die Menschen in Kyjiw auf den Kriegswinter vorbereiten",
-          "url": "https://www.spiegel.de/ausland/ukraine-wie-sich-die-menschen-in-kyjiw-auf-den-kriegswinter-vorbereiten-a-4112c6c2-aab5-4322-ab75-bff436515455#ref=rss",
-          "summary": "US-Geheimdienstinformationen flossen zuletzt nicht wie gewohnt, darum sieht sich die Ukraine Russlands Luftangriffen zunehmend hilflos ausgeliefert. Die Einwohner von Kyjiw treffen Vorkehrungen, manche verlassen die Stadt.",
+          "title": "Russland-Ukraine-Krieg: Wolodymyr Selenskyj erklärt, er fühle sich von Donald Trump verraten",
+          "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-wolodymyr-selenskyj-erklaert-er-fuehle-sich-von-donald-trump-verraten-a-154bfb87-108f-4784-a45e-10610f43d8f9#ref=rss",
+          "summary": "Erst der Dieseldeal mit Putin, dann offenbar die Drosselung des SpaceX-Satellitensystems: Der ukrainische Präsident beklagt den Verlust der USA als Partner. Auch Elon Musk schaltet sich ein – mit Schuldzuweisung gen Washington.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2501d025-13a5-4d1a-b7ec-9a4cd1a2e33f_w1200_r1.778_fpx57.39_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c8033c92-ac1a-4107-8444-00753120dace_w1200_r1.778_fpx51_fpy44.jpg"
         },
         {
           "title": "Linke: Sondierungsgespräche in Berlin werden offenbar fortgesetzt",
@@ -51,18 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/3df7a7a0-9d9d-4dab-915c-a6f2879391fb_w1200_r1.778_fpx54.69_fpy50.jpg"
         },
         {
-          "title": "Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss",
-          "summary": "Der durchschnittliche Zusatzbeitrag für die gesetzliche Krankenversicherung muss nicht erhöht werden. Gesundheitsminister Carsten Linnemann sieht das als gutes Zeichen. Die Finanzlage der Kassen sei dennoch angespannt.",
+          "title": "Landtag von Sachsen-Anhalt: Der AfD-Parlamentspräsident daddelt auf seinem Handy",
+          "url": "https://www.spiegel.de/politik/deutschland/landtag-von-sachsen-anhalt-der-afd-parlamentspraesident-daddelt-auf-seinem-handy-a-a9655865-85d1-4d97-bf66-e46d7cd54285#ref=rss",
+          "summary": "In Sachsen-Anhalt haben AfD und BSW ihr erstes gemeinsames Projekt durch den Landtag gebracht. Der Beschluss ist politisch weitgehend folgenlos, eine äußerst aufschlussreiche Sitzung war es dennoch.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/19b29331-43df-409e-82b4-3b012379e711_w1200_r1.778_fpx45_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f585d6e6-a1d2-4041-99bf-1dd70e695897_w1200_r1.778_fpx37.33_fpy50.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
+          "url": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
+          "summary": "Bundesweit gilt an allen rund 5. 700 Stationen der Deutschen Bahn inklusive der Bahnsteige ab heute ein Alkoholverbot. Die Bahn erhofft sich davon mehr Sicherheit.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f31de5c8-78b9-4c82-891d-1efac3299b65/AAABoT028Jk/AAABnSSvrFg/16x9-big/alkoholverbot-bahn-108.jpg?width=1280"
+        },
         {
           "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
           "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/47cffec3-3400-4302-91b8-37d6796613bd/AAABoTwhD8w/AAABnSSvrFg/16x9-big/rbb-krach-stahr-schirmer-624095053-100.jpg?width=1280"
-        },
-        {
-          "title": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/ruestungsvorhaben-genehmigt-bundestag-100.html",
-          "summary": "Zum Schutz vor Spionage und Sabotage darf die Bundeswehr Netzwerferdrohnen kaufen. Das entschied der Haushaltsausschuss im Bundestag. Auch neue Feuereinheiten für das \"Patriot\"-Luftverteidigungssystem billigte er.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/b32a7c6c-b933-4813-b727-6f7e60f0f8bc/AAABoTuMq90/AAABnSSvrFg/16x9-big/netzwerferdrohne-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Zwischen Plan und Markt: Das Vermächtnis von Klaus Steinitz",
+          "url": "https://www.telepolis.de/article/Zwischen-Plan-und-Markt-Das-Vermaechtnis-von-Klaus-Steinitz-11487906.html",
+          "summary": "Oktober starb Klaus Steinitz. Der Wirtschaftswissenschaftler blieb auch nach Ende der DDR wissenschaftlich und politisch engagiert. Ein Nachruf.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/2/6/5/9/Bundesarchiv_Bild_183-1990-1217-012__Berlin__PDS-Pressekonferenz_Dietmar_Bartsch-4f0e87cf36688c10.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "IWF warnt: Wie zirkuläre KI-Deals zum Risiko für Aktien und Anleihen werden",
           "url": "https://www.telepolis.de/article/IWF-warnt-Wie-zirkulaere-KI-Deals-zum-Risiko-fuer-Aktien-und-Anleihen-werden-11488737.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/2/8/7/1/shutterstock_2838757445-1ce7d3385d69766a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Kuba: Überleben im Würgegriff Washingtons",
-          "url": "https://www.telepolis.de/article/Kuba-Ueberleben-im-Wuergegriff-Washingtons-11487844.html",
-          "summary": "Die US-Energieblockade sollte Havanna binnen Monaten zu Fall bringen. Das Land hält durch, mit Improvisation und Solarpanelen. Doch die Schlinge zieht sich zu.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
         }
       ]
     },
