@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-15T06:00:15.795Z",
-  "timestamp": "15.10.2026, 08:00:15",
+  "generated": "2026-10-15T10:00:13.581Z",
+  "timestamp": "15.10.2026, 12:00:13",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Was hat er erreicht?: Trumps Anspruch und die Wirklichkeit",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-das-ist-donald-trumps-zwischenbilanz-accg-201292988.html",
-          "summary": "„Tut einfach so, als stünde ich auf dem Wahlzettel“: Donald Trump hat die Kongresswahlen zu einer Volksabstimmung über seine Präsidentschaft erklärt. Wie fällt seine Bilanz aus?",
+          "title": "KI-forscherin Zweig: „Platzt die Blase um die KI-Sprachmodelle, könnte ein neuer KI-Winter folgen“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/katharina-zweig-ueber-ki-open-ai-co-wir-lassen-eine-unsichere-software-auf-die-menschheit-los-accg-201317495.html",
+          "summary": "Katharina Zweig ist Deutschlands wohl bekannteste KI-Forscherin. Im Interview spricht sie über tatsächliche Risiken der Künstlichen Intelligenz, die Verantwortung der Konzerne – und die Frage, wie wir über Sprachmodelle sprechen sollten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/546e3cd1f2f3/w3000h1567x0y216o/202610/43601.0.2647391568/donald-trump-im-oktober-im.webp"
-        },
-        {
-          "title": "US-Midterms 2026: So stehen die Chancen für die Demokraten",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-wie-stehen-die-umfragen-accg-201302007.html",
-          "summary": "November werden das Repräsentantenhaus und ein Teil des Senats neu gewählt. Wie sehr muss Trump um seine Macht fürchten? Das sagen die Umfragen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/615e3e820b0b/w1602h837x144y32o/202610/a74a33c3-36e1-423d-bfe8-4c129c1b3ca9/o4u1vyctyytd.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0b90b2a65f3b/w8500h4441x0y170o/202609/43601.0.2577549791/welche-alltaegliche-arbeit.webp"
         },
         {
           "title": "Precht zu KI und Ukraine: Bei Maischberger geht die „Kulturtechnik“ flöten",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-maischberger-mit-richard-david-precht-geht-die-kulturtechnik-floeten-accg-201323334.html",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/tv-kritik-maischberger-wir-trainieren-uns-kulturtechniken-auch-ganz-ohne-ki-ab-accg-201323334.html",
           "summary": "Richard David Precht erklärt die KI, Thorsten Frei will keine „Inquisition“, und Tim Klüssendorf graut es schon vor dem Blick in die Geschichtsbücher: Bei Sandra Maischberger geht wieder alles durcheinander.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/427f36d2c337/w4500h2351x0y324o/202610/dcb3d31b-2386-4703-9d1f-544cd9c47af9/richard-david-precht-im.webp"
+        },
+        {
+          "title": "Die Karrierefrage: Sollte ich mich wegen KI im Beruf spezialisieren?",
+          "url": "https://www.faz.net/aktuell/ki-im-beruf-sollte-man-sich-jetzt-spezialisieren-accg-201289726.html",
+          "summary": "Wer als Generalist arbeitet, könnte durch Künstliche Intelligenz leichter ersetzt werden. Aber man kann sich wappnen – und wird auch als Allrounder mitunter dringend gebraucht.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/c8da46f4f0a8/w4000h2090x0y92o/202610/43601.0.2634381774/hand-in-hand-arbeiten-mit.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Manuela Schwesig: Dieser Frau trauen sie im Umfeld des Kanzlers alles zu",
-          "url": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-dieser-frau-trauen-sie-im-umfeld-des-kanzlers-alles-zu-a-ada8f2d7-ce7f-4bd1-bece-d0bfdf76b1f3#ref=rss",
-          "summary": "In der Union sind sie sich sicher: Manuela Schwesig greift nach der Macht im Bund – als Kanzlerin einer rot-rot-grünen Regierung. In der SPD winken sie ab und lästern über die eigene Ministerpräsidentin.",
+          "title": "Adis Ahmetović: Bundestag hebt Immunität des SPD-Abgeordneten auf",
+          "url": "https://www.spiegel.de/politik/spd-abgeordneter-adis-ahmetovic-bundestag-hebt-immunitaet-auf-a-b61b6c7a-c7f2-433a-9dc4-a116f74028d7#ref=rss",
+          "summary": "Der Bundestag hat die Immunität des Abgeordneten Ahmetovic aufgehoben. Ermittler der Staatsanwaltschaft Hannover durchsuchen nach SPIEGEL-Informationen Wohn- und Geschäftsräume des SPD-Politikers – auch sein Büro im Parlament.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/db86a41d-dcd8-47d0-93e2-4325efec41b5_w1200_r1.778_fpx51_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0e1e9ed0-7d9b-4dfd-a41b-70f2cadf8fb1_w1200_r1.778_fpx58_fpy45.jpg"
         },
         {
-          "title": "News: Friedrich Merz verhandelt über EU-Etat, Kyjiw bereitet sich auf Kriegswinter vor, Alkoholverbot auf Bahnhöfen",
-          "url": "https://www.spiegel.de/politik/deutschland/news-merz-verhandelt-ueber-eu-etat-kyjiw-bereitet-sich-auf-kriegswinter-vor-alkoholverbot-auf-bahnhoefen-a-faae7225-30a0-4a87-a0e8-6ea87cb78a10#ref=rss",
-          "summary": "Friedrich Merz verhandelt in Brüssel über den EU-Etat. Die Ukraine bereitet sich auf den nächsten Kriegswinter vor. Und ab sofort darf erst im Bahnabteil getrunken werden. Das ist die Lage am Donnerstagmorgen.",
+          "title": "Gerhard Schröder: So vermeidet der Altbundeskanzler internationale Sanktionen",
+          "url": "https://www.spiegel.de/politik/deutschland/gerhard-schroeder-so-vermeidet-der-altbundeskanzler-internationale-sanktionen-a-0f24e4d8-0328-42b5-9eff-c748dcaf32ef#ref=rss",
+          "summary": "Der Besuch in Moskau sorgte für scharfe Kritik. Jetzt kommt heraus: Altkanzler Schröder lässt sich ein Aufsichtsratsmandat für eine Handelskette in Russland nach SPIEGEL-Informationen offenbar über einen Beratervertrag in Deutschland bezahlen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/71bb7751-837f-4c89-ac5b-21c53c4cbf2c_w1200_r1.778_fpx48.47_fpy54.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6b35b886-d0af-4881-ab86-afb3b08d75c0_w1200_r1.778_fpx57_fpy41.jpg"
         },
         {
-          "title": "Iran: Donald-Trump-Regierung erwägt offenbar Einsatz von \"Mutter aller Bomben\" gegen Iran",
-          "url": "https://www.spiegel.de/ausland/iran-donald-trump-regierung-erwaegt-offenbar-einsatz-von-mutter-aller-bomben-gegen-iran-a-9cafce66-ee72-4523-8dc7-1df18f3ce9a2#ref=rss",
-          "summary": "Es ist die größte konventionelle Bombe, die Donald Trump im Arsenal hat. Nun berichtet CNN über mögliche Einsatzpläne der US-Armee. Das Schlachtfeld: Irans Energie- und Nuklearinfrastruktur.",
+          "title": "Die Grünen und die Tabaksteuer: Auf einmal fällt der Name des Lobbyisten Daniel Holefleisch",
+          "url": "https://www.spiegel.de/politik/deutschland/die-gruenen-und-die-tabaksteuer-auf-einmal-faellt-der-name-des-lobbyisten-daniel-holefleisch-a-9898234e-e8ff-4080-81c3-74448d594f9d#ref=rss",
+          "summary": "Gesundheitspolitiker der Grünen wollten die Tabaksteuer massiv erhöhen, doch die Finanzpolitiker waren dagegen – und setzten sich durch. Welche Rolle spielte der Ex von Annalena Baerbock?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d6fe876c-0062-47c2-92f6-80808ae6b377_w1200_r1.778_fpx46_fpy53.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9e57adfa-b996-44ca-af7d-a79298f3b70d_w1200_r1.778_fpx56.01_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Börsen zwischen KI-Euphorie und Inflationssorgen",
+          "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+          "url": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html",
+          "summary": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Mehrere Seeleute werden noch vermisst. Ob der Brand durch eine Drohne ausgelöst wurde, ist unklar. Zuletzt kam es hier häufiger zu Drohnenangriffen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a464ef9e-d97b-4108-b9d4-e84b2214cc06/AAABoT7wW3s/AAABnSSvrFg/16x9-big/sendungsbild-1811876.jpg?width=1280"
+        },
+        {
+          "title": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
+          "url": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html",
+          "summary": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mindestens zwei Menschen gestorben. Die Behörden sind im Großeinsatz - und auch heute ist weiterer Regen angekündigt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/73ef99a5-c7fc-4a29-b1e3-e3fc30b9360c/AAABoT6Qdrc/AAABnSSvrFg/16x9-big/istanbul-578.jpg?width=1280"
+        },
+        {
+          "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-          "summary": "Die Berichtssaison und neue Konjunkturdaten geben den Takt vor. Im Mittelpunkt steht die Chipbranche: Nach optimistischen Geschäftsaussichten von ASML richtet sich der Blick auf den taiwanischen Chipkonzern TSMC.",
+          "summary": "Der DAX startet schwach in den Handel. Die hohe US-Inflation schürt die Sorge vor weiteren Zinserhöhungen und setzt Chipwerte weltweit unter Druck. An den Börsen setzt sich der Ausverkauf fort.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/623e331e-6913-4630-b0aa-bd45003fc6c7/AAABoKO-QqQ/AAABnSSvrFg/16x9-big/boerse-542.jpg?width=1280"
-        },
-        {
-          "title": "11KM-Podcast: EU-Comeback für Großbritannien?",
-          "url": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html",
-          "summary": "Andy Burnham überrascht mit kritischen Äußerungen zum Brexit. Kommt Großbritannien zurück in die EU? 11KM über den \"Soft Socialist\" Burnham und wie der neue Premier die britische Politik prägt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/bc6c7b80-f36f-414b-9387-e72e13f2ea2e/AAABoT3BD5c/AAABnSSvrFg/16x9-big/podcast-11km-3946.jpg?width=1280"
-        },
-        {
-          "title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
-          "summary": "Auf dem heutigen EU-Gipfel geht es um bis zu zwei Billionen Euro. Deutschland ist größter Nettozahler - nun will Kanzler Merz beim Haushalt bis 2034 kürzen. Bei anderen Verhandlern stößt das auf Unverständnis.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/0d030d7c-d33c-49e6-9e69-d69546189452/AAABoTte4fo/AAABnSSvrFg/16x9-big/merz-1734.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b3ff1aad-d74a-49f8-97f0-1806ed6945f2/AAABn1pUnjY/AAABnSSvrFg/16x9-big/boerse-526.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Zwischen Plan und Markt: Das Vermächtnis von Klaus Steinitz",
-          "url": "https://www.telepolis.de/article/Zwischen-Plan-und-Markt-Das-Vermaechtnis-von-Klaus-Steinitz-11487906.html",
-          "summary": "Oktober starb Klaus Steinitz. Der Wirtschaftswissenschaftler blieb auch nach Ende der DDR wissenschaftlich und politisch engagiert. Ein Nachruf.",
+          "title": "Niedrigwasser am Bodensee: 89 cm unter dem Mittel – und kein Regen in Sicht",
+          "url": "https://www.telepolis.de/article/Niedrigwasser-am-Bodensee-89-cm-unter-dem-Mittel-und-kein-Regen-in-Sicht-11488881.html",
+          "summary": "Der Pegel in Konstanz liegt fast 90 cm unter dem Normalwert. Die LUBW warnt: Ohne überdurchschnittliche Niederschläge im Winter bleibt die Lage kritisch.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/2/6/5/9/Bundesarchiv_Bild_183-1990-1217-012__Berlin__PDS-Pressekonferenz_Dietmar_Bartsch-4f0e87cf36688c10.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/1/5/1/shutterstock_2608740655-28172ac30fc310ef.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Das Geld fließt im Kreis: IWF warnt vor einem dreifachen Schlag für KI-Konzerne",
-          "url": "https://www.telepolis.de/article/Das-Geld-fliesst-im-Kreis-IWF-warnt-vor-einem-dreifachen-Schlag-fuer-KI-Konzerne-11488737.html",
-          "summary": "Tech-Konzerne finanzieren KI-Kunden, die dafür ihre Dienste kaufen. Der IWF warnt: Wankt ein Glied, brechen Beteiligung, Kredit und Umsatz zugleich ein.",
+          "title": "Wer Wohnen dem Markt überlässt, verliert Wähler",
+          "url": "https://www.telepolis.de/article/Wer-Wohnen-dem-Markt-ueberlaesst-verliert-Waehler-11488997.html",
+          "summary": "Mieten, Mangel, Menschenwürde: Der Wohnungsmarkt kennt kaum Gnade – wie gerade deswegen die Mietenfrage Mehrheiten macht. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/0/7/9/iwf-ki-zirkulaer-finanzierung-aktien-risiko-rechenzentrum-34819b1c21dec4a6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/2/1/3/shutterstock_2469880157-62cdbaba1fbcc34b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Berlins Koalitions-Aus: SPD und Grüne können Kritik nicht von Hass trennen",
-          "url": "https://www.telepolis.de/article/Berlins-Koalitions-Aus-SPD-und-Gruene-koennen-Kritik-nicht-von-Hass-trennen-11488321.html",
-          "summary": "Molotowcocktails auf Synagogen, Angriffe auf Studenten: Wer Antisemitismus bekämpfen will, darf den Begriff nicht an einer Lesart verschleißen. Ein Kommentar.",
+          "title": "Desinformation: Wer die Wahrheit schützt, will mehr Macht",
+          "url": "https://www.telepolis.de/article/Desinformation-Wer-die-Wahrheit-schuetzt-will-mehr-Macht-11484273.html",
+          "summary": "Mehr Regulierung, Strafverfahren und Abschreckung: In Vilnius traf sich das, was der Journalist Norbert Häring den \"Wahrheitskomplex\" getauft hat. Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/2/8/7/1/shutterstock_2838757445-1ce7d3385d69766a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/8/3/0/Master_fess-f1e260e72dfb28fe.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Europa: Le Pen will von der Leyen quasi zu ihrer Sekretärin machen",
-          "url": "https://www.sueddeutsche.de/politik/marine-le-pen-eu-li.3563574",
-          "summary": "Vor dem EU-Gipfel zeichnet die französische Präsidentschaftskandidatin ihr Bild eines neuen Europa. Ihre Botschaft: Fürchtet Euch!",
+          "title": "Newsblog zur Bundespolitik: Bundestag hebt Immunität von SPD-Mann Ahmetovic auf",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-bundestag-aufhebung-immunitaet-ahmetovic-spd-li.3529564",
+          "summary": "Zuletzt fiel sein Name im Zusammenhang mit Ermittlungen in Hannover. Jetzt macht der Bundestag den Weg frei für Durchsuchungen bei dem SPD-Abgeordneten.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Krieg in der Ukraine: Musk nach Kritik aus Kiew: Satelliten-Kontrolle liegt bei US-Regierung",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-musk-satelliten-usa-starlink-li.3563283",
-          "summary": "Jegliche Beschränkungen bei Geschwindigkeit oder Nutzung werde vom US-Militär und letztlich vom US-Präsidenten festgelegt, erklärt Musk.",
+          "title": "Russlands Krieg gegen die Ukraine: Ein Blick in die Ukraine offenbart Elon Musks beängstigende Macht",
+          "url": "https://www.sueddeutsche.de/meinung/usa-krieg-ukraine-musk-starlink-trump-kommentar-li.3563760",
+          "summary": "Ohne das Satellitennetzwerk Starlink kann sich Kiews Armee der Angreifer nicht erwehren. Das weiß der Tech-Multimilliardär und nutzt den Umstand aus – ganz im Sinne von Donald Trump.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Energiekrise: „Wir müssen offen sagen: Das wird ein harter Winter“",
-          "url": "https://www.sueddeutsche.de/politik/eu-oel-diesel-energie-preise-tankrabatt-li.3562934",
-          "summary": "Die EU-Staaten haben durch den Iran-Krieg 110 Milliarden Euro zusätzlich für Öl und Gas ausgegeben. Energiekommissar Dan Jørgensen fordert daher eine konsequente Abkehr von fossilen Brennstoffen – und rät von Tankrabatten ab.",
+          "title": "Immobilienmarkt: So viel Geld müssen Käufer für eine Wohnung in München zahlen",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-immobilien-preise-wohnungen-haeuser-ivd-kosten-li.3559962",
+          "summary": "Der Immobilienverband IVD stellt die Entwicklung der Preise für Eigentumswohnungen und Häuser vor. Was den Experten Sorgen bereitet und was der „Silver Tsunami“ für die Stadt bedeuten könnte.",
           "source": "SZ",
           "paywall": false,
           "image": null
