@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-15T22:00:17.925Z",
-  "timestamp": "16.10.2026, 00:00:17",
+  "generated": "2026-10-16T02:00:14.600Z",
+  "timestamp": "16.10.2026, 04:00:14",
   "news": [
     {
       "source": "FAZ",
@@ -35,14 +35,6 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Neonazi-Szene hat Zulauf durch Social Media - Podcast Firewall",
-          "url": "https://www.spiegel.de/politik/deutschland/neonazi-szene-hat-zulauf-durch-social-media-podcast-firewall-a-72bea215-bb37-4bd5-82f3-4434748b3022#ref=rss",
-          "summary": "Sie posten perfide Propaganda auf Instagram und TikTok, vernetzen sich mit alten Strippenziehern und schlagen auch mal zu. Hören Sie bei Firewall, wie junge Rechtsextremisten der Szene neuen Zulauf verschaffen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7689a983-6fe5-4baf-8bd4-8f85cbf35226_w1200_r1.778_fpx51_fpy47.jpg"
-        },
-        {
           "title": "Donald Trump verrät die Ukraine. So kann sich Europa wehren",
           "url": "https://www.spiegel.de/ausland/donald-trump-verraet-die-ukraine-so-kann-sich-europa-wehren-a-754002ed-3439-4801-903d-9aca7b18b1f7#ref=rss",
           "summary": "Donald Trump will die Ukraine für seinen verkorksten Irankrieg bezahlen lassen. Aber die Europäer haben Hebel, die sie endlich nutzen sollten.",
@@ -51,12 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/039db86c-45b3-4f04-8427-f59b4f791f3f_w1200_r1.778_fpx64_fpy23.jpg"
         },
         {
-          "title": "USA: Botschafterin Kimberly Guilfoyle muss gehen – nicht als einzige Frau in Trumps Umfeld",
-          "url": "https://www.spiegel.de/ausland/usa-botschafterin-kimberly-guilfoyle-muss-gehen-nicht-als-einzige-frau-in-trumps-umfeld-a-4c02b7b0-c391-4574-be39-a7edf57b5610#ref=rss",
-          "summary": "Erst war sie eine »langjährige Freundin«, nun soll sie nie zur Familie gehört haben: Donald Trump hat die US-Botschafterin in Athen geschasst. Wie kam es zum Rücktritt der Frau, die beinahe seine Schwiegertochter geworden wäre?",
+          "title": "Donald Trump: Entlassene FBI-Agenten werfen Präsident persönliche Rache vor",
+          "url": "https://www.spiegel.de/ausland/donald-trump-entlassene-fbi-agenten-werfen-praesident-persoenliche-rache-vor-a-cd4fc477-a974-43b5-bc1b-9f02d9ed55f6#ref=rss",
+          "summary": "Donald Trump gilt als legendär nachtragend. Das zeigte sich auch bei der Entlassung von FBI-Leuten, die zuvor gegen ihn ermittelt hatten. Neun Agenten und Analysten wollen ihren Jobverlust allerdings nicht kampflos hinnehmen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6f1d8f05-8bc6-4d63-b0b8-6f7e2a34575b_w1200_r1.778_fpx56_fpy41.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/98fb1a67-1f72-4aa1-a902-a6912a57ae09_w1200_r1.778_fpx62.65_fpy50.jpg"
+        },
+        {
+          "title": "Friedrich Merz und Emmanuel Macron einigen sich auf Aufweichung von Verbrenner-Aus",
+          "url": "https://www.spiegel.de/wirtschaft/friedrich-merz-und-emmanuel-macron-einigen-sich-auf-aufweichung-von-verbrenner-aus-a-d250ef0f-8188-4c66-8964-7883011ddbaa#ref=rss",
+          "summary": "Deutschland und Frankreich sind sich einig: Beide Regierungen wollen die europäische Autopolitik reformieren. Die Pläne hätten auch Auswirkungen auf das für 2035 geplante Verbrenner-Aus.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/42f1f606-9b0a-4d85-b2ab-412aed1698b7_w1200_r1.778_fpx49.34_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
-          "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
-          "summary": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
+          "title": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html",
+          "summary": "In der Ukraine scheint für viele klar: Die Starlink-Ausfälle sind kein Zufall, sondern politisch gewollt. Die Unterstützung aus der EU wird immer wichtiger. Von Rebecca Barth, ARD-Studio Kiew.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/0aa9ed6d-f209-4d2f-a056-3d1516074fbc/AAABoUIT7jk/AAABnSSvrFg/16x9-big/starlink-zug-100.jpg?width=1280"
         },
         {
-          "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
-          "url": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
-          "summary": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
+          "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+          "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html",
+          "summary": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich ein Deal ab.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/90974820-1ec2-40d2-b13a-d64595a79d49/AAABoUJAJ4Q/AAABnSSvrFg/16x9-big/verbrenner-abgase-100.jpg?width=1280"
         },
         {
-          "title": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
-          "url": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
-          "summary": "Nach Berichten über sexuelles Fehlverhalten bei der Bundeswehr in Sachsen-Anhalt kündigt das Verteidigungsministerium Konsequenzen an. Doch wie tief sitzt das Problem in der Truppe wirklich? Von Christina Nagel.",
+          "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rauchen-bundestag-tabaksteuer-100.html",
+          "summary": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1280"
         }
       ]
     },
@@ -93,12 +93,20 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "US-Inflation steigt vor Midterms auf 3,7 Prozent",
+          "url": "https://www.telepolis.de/article/US-Inflation-steigt-vor-Midterms-auf-3-7-Prozent-11489317.html",
+          "summary": "Die US-Verbraucherpreise sind im September stärker gestiegen als erwartet – ein schlechtes Vorzeichen für die Republikaner kurz vor den Zwischenwahlen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/3/7/5/shutterstock_2536915035-025eb45c4cfceafa.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Bundeswehr-Reserve: Warum Ex-Soldaten künftig nicht mehr Nein sagen können",
           "url": "https://www.telepolis.de/article/Bundeswehr-Reserve-Warum-Ex-Soldaten-kuenftig-nicht-mehr-Nein-sagen-koennen-11489589.html",
           "summary": "Bis zu 12 Wochen Dienst pro Jahr, Pflicht bis 65: Was das neue Reservegesetz für ehemalige Soldaten und ihre Betriebe konkret bedeutet.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/5/2/4/shutterstock_2141401647-926be1ca0225eab3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "ASML verkauft in Europa nichts mehr: Wo bleibt unsere Chip-Industrie?",
@@ -106,15 +114,7 @@
           "summary": "Der weltweite Monopolist für EUV-Lithografieanlagen hat in Europa 2026 keinen einzigen Auftrag erhalten. Die EU droht den Anschluss zu verlieren. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Kiew in der Dunkelheit: Eine einzige Nacht zeigt, wie verwundbar die Ukraine ist",
-          "url": "https://www.telepolis.de/article/Kiew-in-der-Dunkelheit-Eine-einzige-Nacht-zeigt-wie-verwundbar-die-Ukraine-ist-11489349.html",
-          "summary": "Kinder sterben in Wohnhäusern, Busse werden zu Todesfallen, ein ganzes Land friert. Der UN-Menschenrechtskommissar spricht von Kriegsverbrechen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/2/6/7/ASML_HighNA_cleanroom_Veldhoven_068-ac51b4ad3a49a6dc.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
