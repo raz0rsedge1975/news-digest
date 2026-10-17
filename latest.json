@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-17T18:00:08.106Z",
-  "timestamp": "17.10.2026, 20:00:08",
+  "generated": "2026-10-17T22:00:07.522Z",
+  "timestamp": "18.10.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Unruhen in Frankreich: Demonstranten brennen Rathaus von Limoges nieder",
+          "url": "https://www.faz.net/aktuell/politik/ausland/unruhen-bei-protesten-in-frankreich-rathaus-von-limoges-in-flammen-accg-201596707.html",
+          "summary": "Der frankreichweite Protesttag gegen hohe Lebenshaltungskosten gipfelt in schweren Unruhen. Im zentralfranzösischen Limoges geht das Rathaus in Flammen auf. Das Gebäude ist wohl „zum großen Teil verloren“.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ce39d2d47b8b/w7834h4093x0y714o/202610/43601.0.2761550347/in-flammen-das-rathaus-von.webp"
+        },
+        {
+          "title": "Zornige Bürger: Die Epidemie der Wut",
+          "url": "https://www.faz.net/aktuell/wirtschaft/trump-afd-und-mehr-die-epidemie-der-wut-201290031.html",
+          "summary": "Wut ist zum emotionalen Grundzustand der Gesellschaft geworden. Überall wimmelt es von Gegnern und Sündenböcken. Es ist Zeit für ein Gegengift.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a6ca6db386a6/w6144h3210x0y765o/202610/43601.0.2616472529/wir-wollen-das-bac-abitur.webp"
+        },
         {
           "title": "Einigung bei Sondierungen: Was Linke, Grüne und SPD in Berlin vorhaben",
           "url": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-in-berlin-vergesellschaftungen-geplant-201597115.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/06c64fd2beae/w6144h3210x0y207o/202610/43601.0.2760630693/werner-graf-elif-eralp-und.webp"
-        },
-        {
-          "title": "Erfolg in Sondierungen: Rot-grün-rotes Pharisäertum",
-          "url": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-in-berlin-ein-lehrstueck-in-politischem-pharisaeertum-201340119.html",
-          "summary": "Im peinlichen Ringen um eine neue Berliner Landesregierung versteckt sich mehr als Provinztheater. Es geht um Machtoptionen für den Bund.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b73ab51976b7/w3121h1630x0y63o/202610/43601.0.2634698943/man-versteht-sich-hier-in-der.webp"
-        },
-        {
-          "title": "Deutschland Liveblog: Özdemir warnt Berliner Grüne: „Auf einem solchen Bündnis liegt kein Segen“",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-oezdemir-warnt-berliner-gruene-vor-koalition-mit-linken-faz-110093143.html",
-          "summary": "Özdemir rät Landesverband von Regierungsbildung mit Linken ab +++ Grüne-Jugend-Spitze neu gewählt +++ Merz warnt SPD und Grüne vor Zusammenarbeit mit der Linken +++  alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/80d5b225cae6/w6144h3210x0y309o/202610/43601.0.2759567988/cem-oezdemir-buendnis-90-die.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Linke, SPD und Grüne in Berlin: Jetzt bloß nicht irgendwie radikal wirken",
-          "url": "https://www.spiegel.de/politik/linke-spd-und-gruene-in-berlin-jetzt-bloss-nicht-irgendwie-radikal-wirken-a-ee655362-a767-4399-b4a8-64f12e09c279#ref=rss",
-          "summary": "Linke, SPD und Grüne wollen in Berlin eine Regierung bilden. Große Wohnungsunternehmen sollen enteignet werden, der Verfassungsschutz bleiben. Fünf Erkenntnisse zur möglichen neuen Koalition in der Hauptstadt.",
+          "title": "Frankreich: Schwere Krawalle bei Protesten",
+          "url": "https://www.spiegel.de/ausland/frankreich-schwere-krawalle-bei-protesten-a-c90e5583-a5ef-4125-9992-b8469f4dfa8d#ref=rss",
+          "summary": "Die Proteste gegen hohe Lebenshaltungskosten in Frankreich eskalieren weiter. Geschäfte werden geplündert, Gebäude in Brand gesetzt. Die Regierung kam zu einer Krisensitzung zusammen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c710a320-fa3f-418a-870c-c13af58f2f3a_w1200_r1.778_fpx62.1_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/29f9dfbc-25ca-4df5-b8df-7504ec3c90ad_w1200_r1.778_fpx33.99_fpy55.jpg"
         },
         {
           "title": "Donald Trump beim Wahlkampf in Georgia für die Midterms: »Ich unterstütze meinen Präsidenten trotzdem«",
@@ -51,18 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/d5ac48ef-5849-4873-b318-dfae827a5d4a_w1200_r1.778_fpx30_fpy46.98.jpg"
         },
         {
-          "title": "Ukraine: Wolodymyr Selenskyj beklagt anhaltende Drosselung von Starlink in der Ukraine",
-          "url": "https://www.spiegel.de/ausland/urkaine-wolodymyr-selenskyj-beklagt-anhaltende-drosselung-von-starlink-in-der-ukraine-a-8e43cbbd-11bc-4a8a-a33c-1a6a24b6e981#ref=rss",
-          "summary": "Nach Angaben des ukrainischen Präsidenten kann Kyjiws Militär wegen der Störung von Starlink wichtige Drohnen weiterhin nicht steuern. In anderen europäischen Ländern funktioniere der Dienst.",
+          "title": "Ukrainekrieg: So sieht der Alltag im Frontgebiet in Isjum aus",
+          "url": "https://www.spiegel.de/ausland/ukrainekrieg-so-sieht-der-alltag-im-frontgebiet-in-isjum-aus-a-0b6b80a0-2233-449f-b82a-0e3c21872fe0#ref=rss",
+          "summary": "Witalij Papirnyj und Lilija Dschemiljewa mussten wegen der Russen ihr Zuhause verlassen. Nun wollen sie in der Stadt Isjum neu anfangen. Doch die Front rückt immer näher.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dc91493d-c594-4e98-b279-e0c19bdacd08_w1200_r1.778_fpx43.34_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a8bdfb70-73d3-4c70-bc5f-4dd71eb47fb1_w1200_r1.778_fpx47_fpy60.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+          "url": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
+          "summary": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von \"organisierter Gewalt\".",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/125bde1e-d1d3-4383-b86c-5055672128de/AAABoUsqiho/AAABnSSvrFg/16x9-big/bruessel-ausschreitungen-102.jpg?width=1280"
+        },
         {
           "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
           "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/506258a1-d762-4700-a6ce-687b4302de26/AAABoUqkI0o/AAABnSSvrFg/16x9-big/wolodymyr-zelenskyj-100.jpg?width=1280"
-        },
-        {
-          "title": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html",
-          "summary": "Immer mehr Menschen bestellen online. Auch die Zahl der Rücksendungen nimmt stetig zu. Ein lohnendes Geschäft für Kioskbesitzer, Paketunternehmen. Kritik kommt von Umweltschützern. Von Lucretia Gather.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ea868cd3-2d07-488d-99d9-bf4c5462068a/AAABmuOi_Q8/AAABnSSvrFg/16x9-big/dhl-paketzentrum-102.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "FC Bayern gegen Leipzig: Herbstblues? Herbststurm!",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-bundesliga-debakel-li.3564598",
+          "summary": "Welche Krise? Der FC Bayern nutzt das Topspiel gegen RB Leipzig, um sich nach den jüngsten Enttäuschungen mit einem 6:1 für den Vergleich mit Arsenal zu stärken. Vor allem Luis Díaz vertreibt die Verunsicherung.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Einzelkritik FC Bayern: Luis Díaz spielt Jo-Jo mit RB Leipzig",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-einzelkritik-li.3564600",
+          "summary": "Der Kolumbianer dribbelt Leipzigs Klostermann Knoten in die Beine. Laimer spielt wie der beste Rechtsverteidiger der Welt. Und Upamecano taucht in Stürmerposition auf. Die Bayern in der Einzelkritik.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Berlin: Linke, Grüne und SPD wollen vergesellschaften - aber anders als gedacht",
           "url": "https://www.sueddeutsche.de/politik/berlin-vergesellschaftung-linke-gruene-spd-koalition-li.3565059",
           "summary": "In Berlin haben sich die drei Parteien bei den Sondierungen geeinigt. Mit einem ambitionierten wohnungspolitischen Programm wollen sie „zusammenführen statt zu spalten.“",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "6. Spieltag der Bundesliga: Elversberg und Augsburg liefern Spektakel, Füllkrug rettet das Bremer Jubiläum",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-fussball-6-spieltag-elversberg-werder-li.3564589",
-          "summary": "Im Saarland fallen haufenweise Tore. Bremen kommt nach einem 0:2-Rückstand gegen Paderborn zurück, Schalke ärgert sich und der BVB enttäuscht auch bei Union Berlin. Das Wichtigste zum Spieltag.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Newsblog zu den Landtagswahlen: Berlin: Linke, Grüne und SPD planen Vergesellschaftung von Wohnungen",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
-          "summary": "Private Wohnungskonzerne mit großen Beständen sollen in Berlin von einer Vergesellschaftung betroffen sein. Das haben die Parteien in den Sondierungen vereinbart.",
           "source": "SZ",
           "paywall": false,
           "image": null
