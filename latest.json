@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-17T06:00:08.146Z",
-  "timestamp": "17.10.2026, 08:00:08",
+  "generated": "2026-10-17T10:00:08.405Z",
+  "timestamp": "17.10.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Nach Bas-Rücktritt: „Ein pragmatischer Sozialdemokrat, kein Ideologe“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nach-baerbel-bas-warum-alexander-schweitzer-eine-chance-sein-koennte-accg-201458625.html",
+          "summary": "Nach dem Rücktritt von Bärbel Bas fürchten viele den Stillstand. Doch das neue Personal bietet Chancen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/061c13f7b58f/w5662h2958x0y378o/202610/43601.0.2671295710/alexander-schweitzer-kurz-nach.webp"
+        },
+        {
+          "title": "Deutschland Liveblog: Schweitzer will Kompromiss zu „Rente mit 63“ finden",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-schweitzer-will-kompromiss-zu-rente-mit-63-finden-faz-110093143.html",
+          "summary": "Unionsfraktionschef will Änderungen bei Zuckersteuer +++ Krankenkassen für Terminvergabe nach medizinischem Bedarf +++ Fraktionsspitze der Berliner Linken distanziert sich von Emde  +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/bb3bd3f31212/w5000h2612x0y360o/202610/43601.0.2725482661/alexander-schweitzer-spd.webp"
+        },
+        {
           "title": "trumps pressesprecherin: Zacharia muss schon wieder gehen",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/katie-zacharia-trumps-pressesprecherin-scheitert-nach-fuenf-tagen-201591910.html",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/katie-zacharia-trumps-pressesprecherin-scheitert-nach-fuenf-tagen-accg-201591910.html",
           "summary": "„Transitioning out“ nannte ein Regierungsvertreter den Abgang von Donald Trumps neuer Pressesprecherin Katie Zacharia. Loyalität allein reichte doch nicht, nachdem Zacharia über ihre berufliche Qualifikation gelogen hatte.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/438e7a0c631f/w5580h2915x0y323o/202610/43601.0.2750040613/loyalitaet-war-wohl-nicht.webp"
-        },
-        {
-          "title": "USA unter Trump: Fast zwei Billionen – US-Neuverschuldung steigt unter Trump auf Fünf-Jahres-Hoch",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-will-ozean-umbenennen-google-stellt-sich-angeblich-quer-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2e058c00cad1/w3700h1933x0y74o/202610/43601.0.2757035381/us-praesident-donald-trump-hat.webp"
-        },
-        {
-          "title": "F.A.Z. PODCAST FÜR DEUTSCHLAND: Militärexperte Lange: „Situation im Schwarzen Meer dramatisch“",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/militaerexperte-lange-situation-im-schwarzen-meer-dramatisch-201539806.html",
-          "summary": "Der Sicherheitsexperte Nico Lange sagt, die Ukrainer fühlten sich von Trump betrogen und „wie Deppen“ behandelt. Sorgen bereiten Lange die wachsenden Angriffe auf Handelsschiffe im Schwarzen Meer.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/06fa1a28fe71/w6000h3135x0y433o/202610/43601.0.2658643509/4360102658643509.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Zahngold-Prozess in Freiburg: Bestatter hat kiloweise Zahngold entwendet",
+          "url": "https://www.spiegel.de/panorama/justiz/zahngold-prozess-in-freiburg-bestatter-hat-kiloweise-zahngold-entwendet-a-b4259a3c-82a8-463f-8737-63f614a1487a#ref=rss",
+          "summary": "Ein Bestatter der Stadt Freiburg und seine Frau haben kiloweise Zahngold von Verstorbenen an sich genommen. Er war fürs Grobe zuständig, sie für den Verkauf. Warum ist das jahrelang nicht aufgeflogen?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/88aec484-a18e-4b43-9687-69a08422da15_w1200_r1.778_fpx37_fpy50.jpg"
+        },
+        {
+          "title": "Künstliche Intelligenz: Nobelpreisträger Daron Acemoglu warnt vor Gefahr für Demokratie",
+          "url": "https://www.spiegel.de/wirtschaft/kuenstliche-intelligenz-nobelpreistraeger-daron-acemoglu-warnt-vor-gefahr-fuer-demokratie-a-60b67427-f38e-42b4-90b2-b88583daa276#ref=rss",
+          "summary": "Lange war Deutschland immun gegen Jobabbau durch Automatisierung. Das ändere sich nun, warnt Wirtschaftsnobelpreisträger Daron Acemoğlu. Die Politik müsse mit Tabus brechen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/5e75aae3-5708-4c7b-8d95-5a26a472c45e_w1200_r1.778_fpx70_fpy44.99.jpg"
+        },
+        {
           "title": "Katie Zacharia: Gefeuerte Trump-Sprecherin scheitert nach nur fünf Tagen",
           "url": "https://www.spiegel.de/ausland/katie-zacharia-gefeuerte-trump-sprecherin-scheitert-nach-nur-fuenf-tagen-a-6b40d659-cbaf-41d6-89c2-93b91327deab#ref=rss",
           "summary": "Katie Zacharia war das neueste Sprachrohr des Weißen Hauses. Doch erst vergeigte sie ihr Debüt, dann kam ihr geschönter Lebenslauf ans Licht. Nun hält sie einen wenig schmeichelhaften Rekord. Was hinter dem Chaos steckt.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/dd9f4b4c-1467-47ea-a2ce-197b4000f313_w1200_r1.778_fpx7_fpy45.jpg"
-        },
-        {
-          "title": "News: Friedrich Merz, Junge Union, Juden-Deportation vor 85 Jahren, Dieter Dehm verurteilt",
-          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-junge-union-juden-deportation-vor-85-jahren-dieter-dehm-verurteilt-a-cd266a43-6ea0-4bbf-a17a-38bb53e9afbc#ref=rss",
-          "summary": "Die Junge Union empfängt Friedrich Merz zum »Deutschlandtag«. Julia Klöckner hat keine Zeit zum Gedenken an die Juden-Deportationen. Und ein Gericht verurteilt Provokateur Diether Dehm. Das ist die Lage am Samstagmorgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Donald Trump stoppt geplante Zölle gegen Russland",
-          "url": "https://www.spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2#ref=rss",
-          "summary": "Mit weitreichenden Sanktionen wollte der US-Kongress den Angreifer Russland im Ukrainekrieg unter Druck setzen. Donald Trump hat das Vorhaben nun ausgesetzt und verweist auf das »nationale Interesse« der USA.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5574c7bd-d315-49a7-b17b-949fe8d658c0_w1200_r1.778_fpx45.98_fpy52.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
-          "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html",
-          "summary": "Bis Ende Dezember muss der UN-Sicherheitsrat eine Nachfolge für Generalsekretär Guterres bestimmen. Doch auch bei der sechsten Probeabstimmung fielen alle Kandidaten bei den Vetomächten durch. Von Martin Ganslmeier.",
+          "title": "Nach dem Ende des \"Tankrabatts\": Bilger hält weitere Entlastungen für möglich",
+          "url": "https://www.tagesschau.de/inland/bilger-tankrabatt-100.html",
+          "summary": "Der \"Tankrabatt\" gilt noch bis zum Jahresende - und dann? Verkehrsminister Bilger hält weitere gezielte Entlastungen für möglich - etwa für Busunternehmen oder Taxifahrer. Zudem arbeite die Regierung an einem Mechanismus für Direktzahlungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2d526192-947c-4d07-80de-f48bd78bab07/AAABoUewl5k/AAABnSSvrFg/16x9-big/un-sicherheitsrat-384.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/54ab945c-2e1c-4796-95a7-cfc3dfab609a/AAABoUi7EQ0/AAABnSSvrFg/16x9-big/bilger-142.jpg?width=1280"
         },
         {
-          "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
-          "url": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html",
-          "summary": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
+          "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+          "url": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html",
+          "summary": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ba4d718f-247a-4639-b7ae-64e00b16e4c6/AAABkUymyLE/AAABnSSvrFg/16x9-big/arztpraxis-122.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1f90ec15-7648-4a28-ba2b-ab60eac859ef/AAABoUjt0lw/AAABnSSvrFg/16x9-big/antarktis-eis-104.jpg?width=1280"
         },
         {
-          "title": "Wie sich Bundespolitiker auf Social Media schlagen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html",
-          "summary": "Nah an den Leuten oder unangemessen? Auf Social Media versuchen sich die Spitzenpolitiker mit ihrer eigenen Ansprache. Eine Analyse der Postings zeigt: Es gibt klare Gewinner und Verlierer. Von Fynn Dresler und Philine Elster.",
+          "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html",
+          "summary": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen. Auch in den USA wird er dafür massiv kritisiert. Von Carsten Kühntopp.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e19d2d15-6361-4d93-ad4e-aba5023b1103/AAABoUfPJw4/AAABnSSvrFg/16x9-big/bundestag-1426.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2daadef0-c136-4838-b209-10fd925a0792/AAABoUiuEdM/AAABnSSvrFg/16x9-big/trump-putin-254.jpg?width=1280"
         }
       ]
     },
@@ -93,34 +93,42 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Pommes-Krise in Europa: Ernte fällt fast ein Viertel geringer aus",
+          "url": "https://www.telepolis.de/article/Pommes-Krise-in-Europa-Ernte-faellt-fast-ein-Viertel-geringer-aus-11491538.html",
+          "summary": "Von Bayern bis Belgien: Hitze, Trockenheit und Drahtwürmer drücken Erträge und Qualität. Das Bundeslandwirtschaftsministerium erwartet dennoch stabile Preise.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/5/2/6/shutterstock_2283849313-719ac0747ac8733f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Jerusalem: Wie die Stadt in vorjüdischer Zeit um das Überleben kämpfte",
+          "url": "https://www.telepolis.de/article/Jerusalem-Wie-die-Stadt-in-vorjuedischer-Zeit-um-das-Ueberleben-kaempfte-11485897.html",
+          "summary": "Lange vor David und Salomo kämpfte ein Mann namens Abdi-Ḫepa ums Überleben der Stadt. Er diente dem Pharao, doch Hilfe blieb aus. Ein Blick in die Geschichte.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/1/6/3/5/Amarna_stele3-491515045c885c3f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Rechentrick: Merz kürzt den EU-Topf und verspricht Kiew trotzdem mehr Milliarden",
           "url": "https://www.telepolis.de/article/Rechentrick-Merz-kuerzt-den-EU-Topf-und-verspricht-Kiew-trotzdem-mehr-Milliarden-11491466.html",
           "summary": "Der Kanzler will den EU-Haushalt schrumpfen und zugleich Verteidigung und Ukraine stärken. Wo der Rotstift ansetzt, verschweigt er. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/4/9/0/shutterstock_2668141637-2063c6e3b3ce91e4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Starlink-Affäre: Senatoren setzen Pentagon-Prüfern Frist bis 1. November",
-          "url": "https://www.telepolis.de/article/Starlink-Affaere-Senatoren-setzen-Pentagon-Pruefern-Frist-bis-1-November-11491102.html",
-          "summary": "Neun US-Senatoren beider Parteien fordern Aufklärung: Wurde Starlink für die Ukraine absichtlich gedrosselt – und wusste das Weiße Haus davon?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/3/0/6/shutterstock_2758929835-744be41254c58558.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "China: Neuer Katalysator soll nachhaltigen Flugkraftstoff wirtschaftlich machen",
-          "url": "https://www.telepolis.de/article/China-Neuer-Katalysator-soll-nachhaltigen-Flugkraftstoff-wirtschaftlich-machen-11490495.html",
-          "summary": "Chinesische Forscher haben einen Katalysator entwickelt, der aus Biomasse-Synthesegas Kerosin herstellt. Damit könnten Margen über 50 Prozent erreicht werden.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/3/9/8/1/shutterstock_2463327821-3de12d4dfeee06c2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "USA: Gesucht: Loyalisten und Jasagerinnen",
+          "url": "https://www.sueddeutsche.de/medien/trump-pressesprecherin-zacharia-leavitt-frauen-li.3564855",
+          "summary": "Der US-Präsident hat Katie Zacharia nach nur einer Woche wieder aussortiert. Was ist das nur mit Trump und seinen Pressefrauen?",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Krieg in Nahost: Iran: Supertanker fährt in Straße von Hormus auf Seemine",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-iran-supertanker-strasse-von-hormus-seemine-li.3560260",
@@ -133,14 +141,6 @@
           "title": "Newsblog zur Bundespolitik: Unionsfraktionschef Frei will Änderungen bei Zuckersteuer",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-zuckersteuer-thorsten-frei-li.3529564",
           "summary": "Erst vor ein paar Tagen hat sich das Bundeskabinett auf einen Gesetzentwurf verständigt. Nun fordert Frei „Übergangsfristen, damit die Getränkehersteller ihre Rezeptur verändern können“.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Krieg in der Ukraine: US-Senatoren verlangen Klarheit über Starlink-Drosselung in der Ukraine",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-starlink-senatoren-aufklaerung-li.3563283",
-          "summary": "Die vorübergehende Drosselung des militärisch genutzten Satelliteninternets sorgt im US-Senat für parteiübergreifende Kritik. US-Präsident Trump weißt die Schuld von sich - doch ein Bericht widerspricht ihm.",
           "source": "SZ",
           "paywall": false,
           "image": null
