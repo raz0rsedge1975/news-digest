@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-18T14:00:07.971Z",
-  "timestamp": "18.10.2026, 16:00:07",
+  "generated": "2026-10-18T18:00:07.890Z",
+  "timestamp": "18.10.2026, 20:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "SPD in der Krise: Die arme Parteiseele der Sozialdemokraten",
+          "url": "https://www.faz.net/aktuell/politik/inland/spd-vorsitz-laeuft-jetzt-alles-auf-manuela-schwesig-zu-accg-201313117.html",
+          "summary": "SPD-Vorsitz: Läuft jetzt alles auf Manuela Schwesig zu?",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/e19d56aaa144/w7908h4131x0y598o/202610/43601.0.2665776404/auf-ihm-ruhen-grosse.webp"
+        },
+        {
+          "title": "Deutschland Liveblog: Heil: „Ich kann nicht ausschließen, dass ich für den SPD-Vorsitz kandidiere“",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-heil-ich-kann-nicht-ausschliessen-dass-ich-fuer-den-spd-vorsitz-kandidiere-faz-110093143.html",
+          "summary": "20 SPD-Bundestagsabgeordnete wenden sich gegen Linkskoalition in Berlin +++ Bericht über gemeinsame Erklärung +++ Pistorius kritisiert geplantes Bundeswehr-Aus an Berliner Schulen +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/33e34395e2c2/w2619h1368x1594y528o/202609/43601.0.2522969427/bringt-sich-innerparteilich-in.webp"
+        },
         {
           "title": "Vorwürfe gegen Paris: Wie kam es zum Gewaltausbruch in Frankreich?",
           "url": "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-paris-pluenderer-traenengas-und-ein-toter-accg-201597796.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ed93f76b3989/w6144h3210x0y765o/202610/43601.0.2761753892/demonstranten-auf-dem-place-de.webp"
-        },
-        {
-          "title": "Gewalt in Frankreich: Pulverfass Paris",
-          "url": "https://www.faz.net/aktuell/wirtschaft/pulverfass-frankreich-warum-reformen-in-paris-so-lange-verschleppt-wurden-201597964.html",
-          "summary": "Das jahrelange Verschleppen von Reformen in Frankreich zeigt verheerende Folgen. Nichts davon rechtfertigt Gewalt. Aber alles ist Grund zu großer Sorge.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ea229a56f999/w4879h2549x0y348o/202610/43601.0.2764426866/in-paris-haben-sich.webp"
-        },
-        {
-          "title": "Wahlkampf in Frankreich: Warum Deutschland zur Metapher des Bösen wird",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/len-pen-und-melenchon-deutschland-als-feindbild-accg-201339307.html",
-          "summary": "Die französischen Präsidentschaftskandidaten Jean-Luc Mélenchon und Marine Le Pen haben eine Gemeinsamkeit, die uns beunruhigen sollte: ihren schon lange gepflegten Hass auf Deutschland.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/e93dd70fc440/w5500h2873x0y658o/202609/43601.0.2548416436/marine-le-pen-geht-bei-den.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine-Krieg: Ermittler sammeln Beweise für Kriegsverbrechen an der Natur",
-          "url": "https://www.spiegel.de/panorama/ukraine-krieg-ermittler-sammeln-beweise-fuer-kriegsverbrechen-an-der-natur-a-917d7711-17f9-47c0-924d-8df8d479e374#ref=rss",
-          "summary": "Tote Delfine, brennende Wälder, Angriffe auf Nuklearanlagen: Ukrainische Ermittler sammeln Beweise für ein Verbrechen, das es im Völkerrecht noch nicht gibt: Ökozid. Unterwegs mit der Spezialeinheit der Staatsanwaltschaft.",
+          "title": "KZ-Gedenkstätten: Rechtsextreme Vorfälle häufen sich – zu Besuch in Ravensbrück",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck-a-67263c6b-ffcd-4b56-bd5e-9cb7ed6e679e#ref=rss",
+          "summary": "In KZ-Gedenkstätten häufen sich rechtsextreme Vorfälle, auch in Ravensbrück. Wird die Verhöhnung der Naziopfer zur Normalität?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3d1b2544-e86e-4c49-8770-4b64082ca3a6_w1200_r1.778_fpx69_fpy46.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0bf6758e-671c-4693-b0f8-1515b366c63f_w1200_r1.778_fpx56_fpy67.jpg"
         },
         {
-          "title": "Frankreich: Randale und Plünderungen im ganzen Land, Marine Le Pen dürfte profitieren",
-          "url": "https://www.spiegel.de/ausland/frankreich-randale-und-pluenderungen-im-ganzen-land-marine-le-pen-duerfte-profitieren-a-138e577c-6aae-45dc-9385-590c3b73a69e#ref=rss",
-          "summary": "Wenige Monate bevor Präsident Macron ausscheidet, erschüttert die Gewaltorgie junger Randalierer das Land. Politisch dürfte davon eine Frau profitieren: die rechtsradikale Präsidentschaftsfavoritin Marine Le Pen.",
+          "title": "Frankreich: Neue Ausschreitungen in Paris – Polizei setzt Tränengas ein",
+          "url": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
+          "summary": "Nach den Exzessen des Vortages kommt es in Paris erneut zur Gewalt. Am Platz der Republik werden Geschäfte geplündert, im ostfranzösischen Mulhouse verlor eine Jugendliche ein Auge.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2d6ea194-d8ab-4c02-a17f-80e95e7c2438_w1200_r1.778_fpx69_fpy49.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/799a07df-3a31-46a6-b904-77229f7e9c7f_w1200_r1.778_fpx56.69_fpy55.jpg"
         },
         {
-          "title": "Künstliche Intelligenz: Warum sich junge Menschen von KI bedroht fühlen",
-          "url": "https://www.spiegel.de/start/kuenstliche-intelligenz-warum-sich-junge-menschen-von-ki-bedroht-fuehlen-a-d0ecc552-0252-4cac-84f9-c986b4c4d370#ref=rss",
-          "summary": "Sie sind mit Smartphone und Social Media aufgewachsen. Doch auf künstliche Intelligenz reagieren viele junge Menschen inzwischen mit Wut und Unbehagen. Drei von ihnen erzählen, warum.",
+          "title": "Ukraine: USA liefern der Ukraine laut Selenskyj wieder Daten zur Abwehr von Raketenangriffen",
+          "url": "https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss",
+          "summary": "Nach einer Unterbrechung geben die Vereinigten Staaten nach Angaben von Wolodymyr Selenskyj wieder Geheimdienstinformationen an die Ukraine weiter. Zugleich zeigte sich der ukrainische Präsident besorgt über den US-Kurs gegenüber Moskau.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a216d4a9-0d14-4c7c-9835-d9358abbd665_w1200_r1.778_fpx47_fpy38.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ac8886ac-92f8-48be-8e33-101d48f78370_w1200_r1.778_fpx63.98_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-          "summary": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron will sich am Abend an die Nation wenden.",
+          "title": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
+          "url": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
+          "summary": "Die Junge Union ist in der Partei längst ein Machtfaktor. Entsprechend selbstbewusst präsentierte sich der Nachwuchs beim \"Deutschlandtag\" - und Kanzler Merz zeigte sich zugewandt. Harmonie war trotzdem nicht zu spüren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6d4c546e-6c06-4464-bf76-28cae18750f5/AAABoU72PSY/AAABnSSvrFg/16x9-big/nach-ausschreitungen-frankreich-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ed3dc28f-7541-4d1e-bad5-c80e6de8422b/AAABoU_BuUw/AAABnSSvrFg/16x9-big/winkel-merz-ju-100.jpg?width=1280"
         },
         {
-          "title": "Jubel bei erstem öffentlichen Papst-Auftritt nach OP",
-          "url": "https://www.tagesschau.de/ausland/europa/papst-angelus-gebet-106.html",
-          "summary": "Papst Leo XIV. ist zurück im Vatikan. Wenige Tage nach seiner Lungen-Operation wandte er sich an die Gläubigen auf dem Petersplatz. Vom Fenster seines Arbeitszimmers im Apostolischen Palast sprach er das Angelus-Gebet.",
+          "title": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
+          "url": "https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html",
+          "summary": "NATO-Kampfjets stiegen auf, Bürger wurden gewarnt: In Litauen hat eine Drohne für Alarm gesorgt, weil sie in den Luftraum eindrang. Kiew entschuldigte sich kurz darauf - und vermutet eine Störaktion Russlands dahinter.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5f4fbdec-21e2-4283-838a-e59848da27da/AAABoU6wLYA/AAABnSSvrFg/16x9-big/papst-leo-angelusgebet-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9dfa7bee-0bf3-4d7a-af2b-d84560e44e6a/AAABoU-u01U/AAABnSSvrFg/16x9-big/litauen-nato-flagge-100.jpg?width=1280"
         },
         {
-          "title": "Russland meldet Drohnenangriffe in St. Petersburg",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html",
-          "summary": "Die Ukraine hat in St. Petersburg nach russischen Angaben erneut Ölanlagen und ein Logistikzentrum angegriffen. Behörden zufolge kam dabei ein Mensch ums Leben. Auch die Ukraine meldet massiven Beschuss ihrer Energieanlagen und Tote.",
+          "title": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
+          "summary": "Irans Regierung hat gemischte Signale nach Washington gesendet: Während Außenminister Araghtschi das Angebot erneuerte, die Straße von Hormus zu öffnen, drohte der neu ernannte Verteidigungsminister Ketabtschi US-Präsident Trump.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5611c968-7796-494f-a3a1-dd18cf907e1c/AAABoU57WEs/AAABnSSvrFg/16x9-big/oelterminal-sankt-petersburg-feuer-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/68ae9466-ef53-4f13-adf0-cc8c129e535b/AAABlgnHIaI/AAABnSSvrFg/16x9-big/teheran-175.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Mithu Sanyal über Aufrüstung: \"Wir bezahlen ja dreimal dafür\"",
+          "url": "https://www.telepolis.de/article/Mithu-Sanyal-ueber-Aufruestung-Wir-bezahlen-ja-dreimal-dafuer-11485091.html",
+          "summary": "Die Öffentlichkeit trägt die Kosten, Rüstungsfirmen machen Gewinne: Mithu Sanyal über Waffen, Medien und den Mut, dem vermeintlichen Konsens zu widersprechen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/1/2/2/6/Master_Andreas-7aa71b0d8d420041.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+        },
         {
           "title": "Lebensmittelverschwendung: Was Frankreich besser macht als Deutschland",
           "url": "https://www.telepolis.de/article/Lebensmittelverschwendung-Was-Frankreich-besser-macht-als-Deutschland-11491606.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/6/5/4/master_france-6788823904ebd9c6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Milliarden steuerfrei vererbt: Das Privileg der reichsten Unternehmerfamilien",
-          "url": "https://www.telepolis.de/article/Milliarden-steuerfrei-vererbt-Das-Privileg-der-reichsten-Unternehmerfamilien-11491584.html",
-          "summary": "Firmenerben zahlen oft null Steuern auf Milliardenvermögen – während Immobilienerben zur Kasse gebeten werden. Ein Kommentar zur Schieflage.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/5/4/9/shutterstock_2733276239-8c02399ddc271778.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Koalitionsverhandlungen in Berlin: CDU sieht Rot-Grün-Rot als doppelte Gefahr",
-          "url": "https://www.sueddeutsche.de/politik/berlin-koalitionsverhandlungen-2026-rot-gruen-rot-cdu-li.3565264",
-          "summary": "CDU und CSU reagieren mit scharfen Attacken auf die Pläne von Linken, Grünen und SPD in Berlin. Dahinter steckt echte Empörung – und eine handfeste machtstrategische Befürchtung.",
+          "title": "Newsblog zur Bundespolitik: Heil deutet Kandidatur für SPD-Vorsitz im Januar an",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-vorsitz-hubertus-heil-li.3529564",
+          "summary": "„Ich kann es nicht ausschließen, dass ich antrete“, sagt der frühere Arbeitsminister.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "6:1 gegen Leipzig: Alte Bauernregel: Díaz gut, FC Bayern gut",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-kompany-diaz-bundesliga-fussball-li.3565255",
-          "summary": "Beim 6:1 gegen RB Leipzig präsentiert sich der Hattrick-Schütze Luis Díaz in der überragenden Form der Vorsaison. Doch bei seinem Spiel hilft ihm vor allem Michael Olise – der nun gesperrt fehlen wird.",
+          "title": "Bundesliga: Leverkusen beendet Freiburgs Höhenflug",
+          "url": "https://www.sueddeutsche.de/sport/leverkusen-stoppt-mit-einem-2-1-sieg-freiburgs-hoehenflug-li.3565423",
+          "summary": "Dank des Rekordtreffers von Patrik Schick erleiden die Breisgauer die erste Saisonniederlage. Kommenden Sonntag gastiert der neue Tabellenführer Bayern München zum Spitzenspiel.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "VfB Stuttgart: Eine Spitzenmannschaft zu werden, ist schwer. Eine zu bleiben, noch schwerer",
-          "url": "https://www.sueddeutsche.de/sport/vfb-stuttgart-hamburger-sv-fehlstart-bundesliga-kommentar-li.3565285",
-          "summary": "Ist das nur ein Fehlstart oder schon eine kleine Krise? In Stuttgart lässt sich gerade erkennen, dass gute Arbeit in der Vergangenheit nicht vor Rückfällen in der Gegenwart schützt.",
+          "title": "Krieg in der Ukraine: Russland: Ein Toter und mehrere Verletzte bei Drohnenangriff auf Sankt Petersburg",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-sankt-petersburg-angriff-li.3563283",
+          "summary": "Ziele der ukrainischen Attacke waren Ölanlagen, Logistik- und Datenzentren. Nach russischen Angaben sind an einem Ölterminal, einem Öldepot und in Industriehallen Brände ausgebrochen.",
           "source": "SZ",
           "paywall": false,
           "image": null
