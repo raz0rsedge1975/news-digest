@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-18T06:00:08.685Z",
-  "timestamp": "18.10.2026, 08:00:08",
+  "generated": "2026-10-18T10:00:07.770Z",
+  "timestamp": "18.10.2026, 12:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Linke, Grüne, SPD: Berliner Sondierungspapier ohne Maß und Mitte",
+          "url": "https://www.faz.net/aktuell/politik/inland/berliner-sondierungsergebnis-ohne-mass-und-mitte-201597754.html",
+          "summary": "In den Sondierungen für einen rot-grün-roten Senat in Berlin hat sich die Linkspartei weitgehend durchgesetzt. Das Ergebnis gleicht einer Werbung für die CDU.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b66655963232/w3746h1957x0y313o/202610/43601.0.2760615764/werner-graf-gruene-elif-eralp.webp"
+        },
+        {
+          "title": "Deutschland Liveblog: Junge Union fordert Ächtung der Koalition in Berlin",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-junge-union-fordert-aechtung-der-koalition-in-berlin-faz-110093143.html",
+          "summary": "Auch Söder unterstützt den Antrag der JU +++ Berlins CDU-Landeschef Evers nennt Sondierungspapier „Kapitulationserklärung“ +++ Özdemir rät Landesverband von Regierungsbildung mit Linken ab +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3a9630a7bcb5/w6144h3210x0y444o/202610/43601.0.2763872424/johannes-winkel-cdu-spricht-am.webp"
+        },
         {
           "title": "Unruhen in Frankreich: Premierminister Lecornu:„Entsetzliches Ausmaß an Gewalt“",
           "url": "https://www.faz.net/aktuell/politik/ausland/unruhen-bei-protesten-in-frankreich-entsetzliches-ausmass-an-gewalt-accg-201596707.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ce39d2d47b8b/w7834h4093x0y714o/202610/43601.0.2761550347/in-flammen-das-rathaus-von.webp"
-        },
-        {
-          "title": "Zornige Bürger: Die Epidemie der Wut",
-          "url": "https://www.faz.net/aktuell/wirtschaft/trump-afd-und-mehr-die-epidemie-der-wut-201290031.html",
-          "summary": "Wut ist zum emotionalen Grundzustand der Gesellschaft geworden. Überall wimmelt es von Gegnern und Sündenböcken. Es ist Zeit für ein Gegengift.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a6ca6db386a6/w6144h3210x0y765o/202610/43601.0.2616472529/wir-wollen-das-bac-abitur.webp"
-        },
-        {
-          "title": "Einigung bei Sondierungen: Was Linke, Grüne und SPD in Berlin vorhaben",
-          "url": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-in-berlin-vergesellschaftungen-geplant-201597115.html",
-          "summary": "Sie wollen vergesellschaften – und im großen Stil neu bauen. Die Finanzierung komme noch, versprechen die Sondierer. Zum Jahreswechsel wollen sie loslegen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/06c64fd2beae/w6144h3210x0y207o/202610/43601.0.2760630693/werner-graf-elif-eralp-und.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Jill Lepore über künstliche Intelligenz: »Wollen wir, dass jetzt auch noch die Roboter kommen?«",
+          "url": "https://www.spiegel.de/wissenschaft/jill-lepore-ueber-kuenstliche-intelligenz-wollen-wir-dass-jetzt-auch-noch-die-roboter-kommen-a-c796259b-5d5e-415e-83a8-bafa5b42415d#ref=rss",
+          "summary": "Künstliche Intelligenz dringt in die Machtzentren vor. Die Techbarone des Silicon Valley wollen über die Zukunft der Menschheit entscheiden. Die Historikerin Jill Lepore rekonstruiert, woher sie ihre Ideen haben.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/0373e5a4-941c-4aff-a785-df04a0d03107_w1200_r1.778_fpx66.67_fpy50.jpg"
+        },
+        {
+          "title": "News: Ukraine, Israel, Flüchtlinge – wie sich der Diskurs brutalisiert hat",
+          "url": "https://www.spiegel.de/politik/deutschland/news-ukraine-israel-fluechtlinge-wie-sich-der-diskurs-brutalisiert-hat-a-45518eb1-2b39-4c0e-a371-78eb2c2908fb#ref=rss",
+          "summary": "Mitgefühl ist eine der wichtigsten Grundlagen der Politik. Es schwindet mehr und mehr. Das ist die Lage am Sonntag.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
           "title": "Bevölkerung in Deutschland: So hat sich die Einwohnerzahl in Ihrem Ort seit 1871 verändert",
           "url": "https://www.spiegel.de/geschichte/bevoelkerung-in-deutschland-so-hat-sich-die-einwohnerzahl-in-ihrem-ort-seit-1871-veraendert-a-88774ba6-15c1-4ab8-b7ca-478af8cc5782#ref=rss",
           "summary": "Neue Daten zeigen, wie sich die Bevölkerung in den vergangenen eineinhalb Jahrhunderten verändert hat – für jeden einzelnen Ort in Deutschland. Ist Ihre Heimat gewachsen oder geschrumpft?",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/868a40f6-721a-4f05-9c09-e89fd60ba499_w1200_r1.778_fpx50_fpy50.png"
-        },
-        {
-          "title": "Frankreich-Proteste: Premierminister beklagt »entsetzliches Ausmaß an Gewalt",
-          "url": "https://www.spiegel.de/ausland/frankreich-proteste-premierminister-beklagt-entsetzliches-ausmass-an-gewalt-a-fec939b4-9e40-45c7-9825-6657845cc77d#ref=rss",
-          "summary": "Mindestens 550. 000 Demonstranten, 1200 Festnahmen, 150 verletzte Polizisten: Die Proteste in Frankreich sind eskaliert. Laut dem Premierminister wurden in Paris gezielt die Machtzentren ins Visier genommen. Auch in anderen Städten herrscht Chaos.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/28be94e4-c1b1-4b74-b0da-0dfcb9c1cd7f_w1200_r1.778_fpx48_fpy54.jpg"
-        },
-        {
-          "title": "Linke, SPD und Grüne in Berlin: Jetzt bloß nicht irgendwie radikal wirken",
-          "url": "https://www.spiegel.de/politik/linke-spd-und-gruene-in-berlin-jetzt-bloss-nicht-irgendwie-radikal-wirken-a-ee655362-a767-4399-b4a8-64f12e09c279#ref=rss",
-          "summary": "Linke, SPD und Grüne wollen in Berlin eine Regierung bilden. Große Wohnungsunternehmen sollen enteignet werden, der Verfassungsschutz bleiben. Fünf Erkenntnisse zur möglichen neuen Koalition in der Hauptstadt.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c710a320-fa3f-418a-870c-c13af58f2f3a_w1200_r1.778_fpx62.1_fpy44.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-          "url": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html",
-          "summary": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von \"organisierter Gewalt\".",
+          "title": "Wie die Lausitz den Ärztemangel in den Griff bekommen will",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/gesundheit-aerztemangel-brandenburg-100.html",
+          "summary": "In Deutschland fehlen Tausende Hausärzte, besonders auf dem Land. Brandenburg will mit einer neuen staatlichen Medizinerausbildung gegensteuern, in einer Region, die besonders vom Strukturwandel betroffen ist. Von J. Piwon.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/125bde1e-d1d3-4383-b86c-5055672128de/AAABoUsqiho/AAABnSSvrFg/16x9-big/bruessel-ausschreitungen-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b2530172-8318-44cf-aca5-e73bf71bb5ec/AAABoUP5ZFg/AAABnSSvrFg/16x9-big/eingang-universitaet-lausitz-100.jpg?width=1280"
         },
         {
-          "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html",
-          "summary": "Viele Wähler unterstützten 2024 Trumps Versprechen einer rigiden Abschiebepolitik. Doch vor den Zwischenwahlen zeigt sich: Das rücksichtslose Vorgehen der Einwanderungsbehörde ICE befremdet Bürger - und Unternehmer. Von Carsten Kühntopp.",
+          "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskaliert",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html",
+          "summary": "Es war ein beispielloser Protesttag in Frankreich: In mehreren Städten gab es massive Ausschreitungen. 200 Menschen wurden festgenommen. Vermummte plünderten Geschäfte und setzten Gebäude in Brand - darunter das historische Rathaus in Limoges.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/254d0550-a31e-4e56-b124-0dd6179a5f1c/AAABoT7BE1w/AAABnSSvrFg/16x9-big/ice-festnahme-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/62de6281-715b-4d9a-99fd-1bd48d717df3/AAABoU3h5V4/AAABnSSvrFg/16x9-big/frankreich-864.jpg?width=1280"
         },
         {
-          "title": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html",
-          "summary": "US-Präsident Trump setzt geplante Russland-Sanktionen aus - während Angriffe auf die Infrastruktur laut dem ukrainischen Staatschef Selenskyj zunehmen. Er warnt, Trumps Entscheidung werde Moskau nur weiter bestärken.",
+          "title": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
+          "url": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html",
+          "summary": "Ab Montag beraten Vertreter von fast 200 Ländern auf der 17. UN-Konferenz zur biologischen Vielfalt, wie sich ihre selbst gesteckten Ziele noch erreichen lassen. Unterwegs mit Umweltschützern im Gastland Armenien. Von Norbert Hahn.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/506258a1-d762-4700-a6ce-687b4302de26/AAABoUqkI0o/AAABnSSvrFg/16x9-big/wolodymyr-zelenskyj-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/080a0f20-3c4f-4b75-81c5-cb47714b66bd/AAABoUQ92uI/AAABnSSvrFg/16x9-big/ranger-114.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Milliarden steuerfrei vererbt: Das Privileg der reichsten Unternehmerfamilien",
+          "url": "https://www.telepolis.de/article/Milliarden-steuerfrei-vererbt-Das-Privileg-der-reichsten-Unternehmerfamilien-11491584.html",
+          "summary": "Firmenerben zahlen oft null Steuern auf Milliardenvermögen – während Immobilienerben zur Kasse gebeten werden. Ein Kommentar zur Schieflage.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/5/4/9/shutterstock_2733276239-8c02399ddc271778.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Hochschulpolitik: Bund und Länder setzen den Rotstift an",
+          "url": "https://www.telepolis.de/article/Hochschulpolitik-Bund-und-Laender-setzen-den-Rotstift-an-11484486.html",
+          "summary": "Mehr Geld auf dem Papier, doch dahinter stehen Jahre der Kürzungen. NRW und Hessen bauen Personal ab, obwohl die Studierendenzahlen steigen. Ein Überblick.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/9/3/2/shutterstock_2643719361-e5d16a7facf5c4f3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "EU-Wirtschaft: Mehr Subventionen, weniger Wettbewerb",
           "url": "https://www.telepolis.de/article/EU-Wirtschaft-Mehr-Subventionen-weniger-Wettbewerb-11491616.html",
           "summary": "Mit der Wettbewerbsstrategie von Mario Draghi will die EU-Kommission seit zwei Jahren die europäische Wirtschaft fit machen. Jetzt steckt sie fest. Gastbeitrag.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/5/6/5/Master_Horn-94a282e7e6718d77.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
-        },
-        {
-          "title": "Evangelikale in Deutschland: Wo der Pietismus bis heute politisch wirkt",
-          "url": "https://www.telepolis.de/article/Evangelikale-in-Deutschland-Wo-der-Pietismus-bis-heute-politisch-wirkt-11491554.html",
-          "summary": "Vom Pietismus zur politischen Kraft: In Württemberg, Sachsen und NRW halten sich evangelikale Netzwerke – teils beobachtet vom Verfassungsschutz.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/5/3/4/shutterstock_2646335851-8621ddfa7daad1c7.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "ARD und ZDF: Zwei Nachrichtenmagazine, erstaunlich wenig Unterschied",
-          "url": "https://www.telepolis.de/article/ARD-und-ZDF-Zwei-Nachrichtenmagazine-erstaunlich-wenig-Unterschied-11491150.html",
-          "summary": "Klingbeil, Würth und Dilemmata auf allen Kanälen: Tagesthemen und heute journal im Vergleich. Wie viel Wettbewerb steckt im doppelten Angebot?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/3/3/0/Master_Bartels_2-2fdaf4db4073a350.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in Nahost: Saudi-Arabien fängt ballistische Raketen und Drohnen aus Jemen ab",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-huthi-saudi-arabien-drohnen-raketen-li.3560260",
-          "summary": "Die mit Iran verbündete Huthi-Miliz setzt ihre Angriffe mit Drohnen, Raketen und Marschflugkörpern auf Ziele im benachbarten sunnitischen Königreich Saudi-Arabien fort.",
+          "title": "Bank-Panne: Gummibärchen statt Sportwagen",
+          "url": "https://www.sueddeutsche.de/wirtschaft/gummibaerchen-bank-120-000-euro-salzburg-li.3564806",
+          "summary": "Eine Bank in Österreich zahlt versehentlich 120 000 statt 12 900 Euro aus. Die glücklichen Empfänger bringen das Geld sofort zurück. Nur die Belohnung haben sie sich wohl anders vorgestellt.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "FC Bayern gegen Leipzig: Herbstblues? Herbststurm!",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-bundesliga-debakel-li.3564598",
-          "summary": "Welche Krise? Der FC Bayern nutzt das Topspiel gegen RB Leipzig, um sich nach den jüngsten Enttäuschungen mit einem 6:1 für den Vergleich mit Arsenal zu stärken. Vor allem Luis Díaz vertreibt die Verunsicherung.",
+          "title": "Frankreich: Diese Gewaltexzesse nützen nur den extremen Parteien",
+          "url": "https://www.sueddeutsche.de/meinung/frankreich-demonstrationen-gewalt-chaos-regierung-marine-lepen-jean-luc-melenchon-li.3565224",
+          "summary": "Eigentlich haben die Protestierenden legitime Anliegen wie steigende Lebenskosten, schlechte Schulen. Dass die Demonstrationen in Chaos endeten, daran hat auch die Regierung ihren Anteil.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Einzelkritik FC Bayern: Luis Díaz spielt Jo-Jo mit RB Leipzig",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-einzelkritik-li.3564600",
-          "summary": "Der Kolumbianer dribbelt Leipzigs Klostermann Knoten in die Beine. Laimer spielt wie der beste Rechtsverteidiger der Welt. Und Upamecano taucht in Stürmerposition auf. Die Bayern in der Einzelkritik.",
+          "title": "Theater: Es kommen kalte Zeiten",
+          "url": "https://www.sueddeutsche.de/kultur/jugend-ohne-gott-muenchner-kammerspiele-theater-oedoen-von-horvath-felicitas-brucker-li.3562856",
+          "summary": "Die Münchner Kammerspiele zeigen eine „Jugend ohne Gott“, die neue Ideale hat. Ödön von Horváths Erzählung wird zu einem Abend voller Härte – mit einem Gast aus Sachsen-Anhalt.",
           "source": "SZ",
           "paywall": false,
           "image": null
