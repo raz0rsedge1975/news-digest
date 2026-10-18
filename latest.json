@@ -1,25 +1,17 @@
 {
-  "generated": "2026-10-18T18:00:07.890Z",
-  "timestamp": "18.10.2026, 20:00:07",
+  "generated": "2026-10-18T22:00:07.311Z",
+  "timestamp": "19.10.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "SPD in der Krise: Die arme Parteiseele der Sozialdemokraten",
-          "url": "https://www.faz.net/aktuell/politik/inland/spd-vorsitz-laeuft-jetzt-alles-auf-manuela-schwesig-zu-accg-201313117.html",
-          "summary": "SPD-Vorsitz: Läuft jetzt alles auf Manuela Schwesig zu?",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/e19d56aaa144/w7908h4131x0y598o/202610/43601.0.2665776404/auf-ihm-ruhen-grosse.webp"
-        },
-        {
-          "title": "Deutschland Liveblog: Heil: „Ich kann nicht ausschließen, dass ich für den SPD-Vorsitz kandidiere“",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-heil-ich-kann-nicht-ausschliessen-dass-ich-fuer-den-spd-vorsitz-kandidiere-faz-110093143.html",
-          "summary": "20 SPD-Bundestagsabgeordnete wenden sich gegen Linkskoalition in Berlin +++ Bericht über gemeinsame Erklärung +++ Pistorius kritisiert geplantes Bundeswehr-Aus an Berliner Schulen +++ alle Entwicklungen im Liveblog",
+          "title": "Nach Krawallen: Macron: „Es ist unerträglich, die Straßen unserer Städte derart verwüstet zu sehen“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/emmanuel-macron-verurteilt-gewaltexzesse-und-zerstoerung-in-frankreich-unertraeglich-201599021.html",
+          "summary": "Am Samstag eskaliert in Frankreich die Gewalt. In einer Fernsehansprache verurteilt Präsident Macron die Exzesse und kündigt an, dass weitere Demonstrationen notfalls auch verboten werden können.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/33e34395e2c2/w2619h1368x1594y528o/202609/43601.0.2522969427/bringt-sich-innerparteilich-in.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e2bd9a4ab4e5/w5540h2894x0y172o/202610/43601.0.2766048364/frankreich-praesident-emmanuel.webp"
         },
         {
           "title": "Vorwürfe gegen Paris: Wie kam es zum Gewaltausbruch in Frankreich?",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ed93f76b3989/w6144h3210x0y765o/202610/43601.0.2761753892/demonstranten-auf-dem-place-de.webp"
+        },
+        {
+          "title": "Alarm am Finanzmarkt: Jetzt kommt die Gefahr von zwei Seiten",
+          "url": "https://www.faz.net/aktuell/finanzen/staatsschulden-und-ki-krise-jetzt-kommt-die-gefahr-von-zwei-seiten-accg-201340592.html",
+          "summary": "Die Staatsschulden steigen, die KI-Firmen stolpern. Wer da noch cool bleibt, muss sich auf etwas gefasst machen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/01aed680df3a/w5500h2873x0y110o/202506/43601.0.1085642091/frankreich-und-die-kuenstliche.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "KZ-Gedenkstätten: Rechtsextreme Vorfälle häufen sich – zu Besuch in Ravensbrück",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/kz-gedenkstaetten-rechtsextreme-vorfaelle-haeufen-sich-zu-besuch-in-ravensbrueck-a-67263c6b-ffcd-4b56-bd5e-9cb7ed6e679e#ref=rss",
-          "summary": "In KZ-Gedenkstätten häufen sich rechtsextreme Vorfälle, auch in Ravensbrück. Wird die Verhöhnung der Naziopfer zur Normalität?",
+          "title": "Nina Hoss: Wie hat es die Schauspielerin bis nach Hollywood geschafft?",
+          "url": "https://www.spiegel.de/kultur/kino/nina-hoss-wie-hat-es-die-schauspielerin-bis-nach-hollywood-geschafft-a-87010262-04f2-44a7-9888-e5bca87fda2d#ref=rss",
+          "summary": "Mit über 50 feiert Nina Hoss große Erfolge – auch wenn sie merkt, »wie oft mir jetzt die Rolle einer Trinkerin angeboten wird«. Was Frauen ihrer Generation von ihr lernen können.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0bf6758e-671c-4693-b0f8-1515b366c63f_w1200_r1.778_fpx56_fpy67.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2ec41208-6cea-403d-87c0-c413f4f63d80_w1200_r1.778_fpx17_fpy16.jpg"
         },
         {
-          "title": "Frankreich: Neue Ausschreitungen in Paris – Polizei setzt Tränengas ein",
-          "url": "https://www.spiegel.de/ausland/frankreich-neue-ausschreitungen-in-paris-polizei-setzt-traenengas-ein-a-1aa579b7-f840-4e26-8dab-70ceb24addc7#ref=rss",
-          "summary": "Nach den Exzessen des Vortages kommt es in Paris erneut zur Gewalt. Am Platz der Republik werden Geschäfte geplündert, im ostfranzösischen Mulhouse verlor eine Jugendliche ein Auge.",
+          "title": "Frankreich: Die Gewalt ist hausgemacht – Kommentar",
+          "url": "https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar-a-51c264d3-adde-4de5-8d11-2d29b6552ddb#ref=rss",
+          "summary": "Rechte Ideologen behaupten einen Zusammenhang zwischen dem Krawall vom Wochenende und der Abstammung vieler Randalierer. Das ist eine rassistische Lüge, die das französische Versagen verschleiert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/799a07df-3a31-46a6-b904-77229f7e9c7f_w1200_r1.778_fpx56.69_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6b989474-df6c-49e4-ab95-f9042a43dbc4_w1200_r1.778_fpx62.67_fpy50.jpg"
         },
         {
-          "title": "Ukraine: USA liefern der Ukraine laut Selenskyj wieder Daten zur Abwehr von Raketenangriffen",
-          "url": "https://www.spiegel.de/ausland/ukraine-usa-liefern-der-ukraine-laut-selenskyj-wieder-daten-zur-abwehr-von-raketenangriffen-a-d5de6de1-daba-4c30-99d9-2e21ffd87859#ref=rss",
-          "summary": "Nach einer Unterbrechung geben die Vereinigten Staaten nach Angaben von Wolodymyr Selenskyj wieder Geheimdienstinformationen an die Ukraine weiter. Zugleich zeigte sich der ukrainische Präsident besorgt über den US-Kurs gegenüber Moskau.",
+          "title": "USA drohen Europa wegen Starlink-Beschränkungen",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss",
+          "summary": "Die EU will Satellitenfrequenzen für europäische Anbieter reservieren. Der US-Botschafter in Brüssel kündigt »verheerende« Vergeltungsmaßnahmen an. Welche genau das sein sollen, lässt er offen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ac8886ac-92f8-48be-8e33-101d48f78370_w1200_r1.778_fpx63.98_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cec5e13f-7347-418d-ad0e-de44eb2691dd_w1200_r1.778_fpx55.65_fpy54.96.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "\"Deutschlandtag\" der Jungen Union: Der große Knall bleibt aus",
-          "url": "https://www.tagesschau.de/inland/junge-union-deutschlandtag-analyse-100.html",
-          "summary": "Die Junge Union ist in der Partei längst ein Machtfaktor. Entsprechend selbstbewusst präsentierte sich der Nachwuchs beim \"Deutschlandtag\" - und Kanzler Merz zeigte sich zugewandt. Harmonie war trotzdem nicht zu spüren.",
+          "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
+          "summary": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot der Demonstrationen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ed3dc28f-7541-4d1e-bad5-c80e6de8422b/AAABoU_BuUw/AAABnSSvrFg/16x9-big/winkel-merz-ju-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/25d0f714-ec26-4558-a9d7-192f2fcce55e/AAABoVCKnh0/AAABnSSvrFg/16x9-big/macron-1012.jpg?width=1280"
         },
         {
-          "title": "Drohne in Litauens Luftraum eingedrungen und abgestürzt",
-          "url": "https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html",
-          "summary": "NATO-Kampfjets stiegen auf, Bürger wurden gewarnt: In Litauen hat eine Drohne für Alarm gesorgt, weil sie in den Luftraum eindrang. Kiew entschuldigte sich kurz darauf - und vermutet eine Störaktion Russlands dahinter.",
+          "title": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
+          "summary": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor den Zwischenwahlen?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9dfa7bee-0bf3-4d7a-af2b-d84560e44e6a/AAABoU-u01U/AAABnSSvrFg/16x9-big/litauen-nato-flagge-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/03c182d6-0e84-4842-ad7f-ad83c56790c6/AAABoVBjZNM/AAABnSSvrFg/16x9-big/wahlschild-arizona-100.jpg?width=1280"
         },
         {
-          "title": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
-          "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
-          "summary": "Irans Regierung hat gemischte Signale nach Washington gesendet: Während Außenminister Araghtschi das Angebot erneuerte, die Straße von Hormus zu öffnen, drohte der neu ernannte Verteidigungsminister Ketabtschi US-Präsident Trump.",
+          "title": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
+          "summary": "Kann Rot-Grün-Rot in Berlin funktionieren? Der SPD-Politiker Heil und weitere SPD-Bundestagsabgeordnete sind skeptisch. Grünen-Chefin Brantner nennt im Bericht aus Berlin Kriterien, die für eine stabile Regierung erfüllt sein müssten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/68ae9466-ef53-4f13-adf0-cc8c129e535b/AAABlgnHIaI/AAABnSSvrFg/16x9-big/teheran-175.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/db9ecb54-3dc9-459d-ad97-0ab9bcf0212a/AAABoU_L6fE/AAABnSSvrFg/16x9-big/sendungsbild-1813512.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zur Bundespolitik: Heil deutet Kandidatur für SPD-Vorsitz im Januar an",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-vorsitz-hubertus-heil-li.3529564",
-          "summary": "„Ich kann es nicht ausschließen, dass ich antrete“, sagt der frühere Arbeitsminister.",
+          "title": "Unruhen in Frankreich: Macron verurteilt die Gewalt – verspricht aber nichts",
+          "url": "https://www.sueddeutsche.de/politik/frankreich-ausschreitungen-macron-rede-li.3565440",
+          "summary": "In einer Rede an die Nation reagiert Frankreichs Präsident auf die wüsten Ausschreitungen. Er mahnt die Zornigen zur Geduld und schielt gleichzeitig auf die Finanzmärkte.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Bundesliga: Leverkusen beendet Freiburgs Höhenflug",
-          "url": "https://www.sueddeutsche.de/sport/leverkusen-stoppt-mit-einem-2-1-sieg-freiburgs-hoehenflug-li.3565423",
-          "summary": "Dank des Rekordtreffers von Patrik Schick erleiden die Breisgauer die erste Saisonniederlage. Kommenden Sonntag gastiert der neue Tabellenführer Bayern München zum Spitzenspiel.",
+          "title": "Rot-Grün-Rot in Berlin: SPD-Bundestagsabgeordnete rebellieren gegen Linksbündnis",
+          "url": "https://www.sueddeutsche.de/politik/berlin-spd-linkspartei-krach-li.3565442",
+          "summary": "Teile der Fraktion stellen die Berliner Linkspartei in einer Erklärung als nicht regierungsfähig dar. Vor allem die Verstaatlichung von Wohnungen erweckt Widerstand. Landeschef Steffen Krach droht eine Zerreißprobe.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Krieg in der Ukraine: Russland: Ein Toter und mehrere Verletzte bei Drohnenangriff auf Sankt Petersburg",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-russland-sankt-petersburg-angriff-li.3563283",
-          "summary": "Ziele der ukrainischen Attacke waren Ölanlagen, Logistik- und Datenzentren. Nach russischen Angaben sind an einem Ölterminal, einem Öldepot und in Industriehallen Brände ausgebrochen.",
+          "title": "Krieg in der Ukraine: Selenskij: USA liefern Ukraine wieder Geheimdienstdaten",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-geheimdienstdaten-li.3563283",
+          "summary": "„Wir sind dafür sehr dankbar“, sagt der ukrainische Präsident. Zuletzt sei der Austausch der US-Informationen unterbrochen worden. Sein Land ist auf die Daten angewiesen, um ballistische Raketen zu orten, die Russland abfeuert.",
           "source": "SZ",
           "paywall": false,
           "image": null
