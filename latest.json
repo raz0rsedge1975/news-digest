@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T22:00:07.522Z",
-  "timestamp": "18.10.2026, 00:00:07",
+  "generated": "2026-10-18T02:00:07.930Z",
+  "timestamp": "18.10.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in Nahost: Saudi-Arabien fängt ballistische Raketen und Drohnen aus Jemen ab",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-huthi-saudi-arabien-drohnen-raketen-li.3560260",
+          "summary": "Die mit Iran verbündete Huthi-Miliz setzt ihre Angriffe mit Drohnen, Raketen und Marschflugkörpern auf Ziele im benachbarten sunnitischen Königreich Saudi-Arabien fort.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "FC Bayern gegen Leipzig: Herbstblues? Herbststurm!",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-bundesliga-debakel-li.3564598",
           "summary": "Welche Krise? Der FC Bayern nutzt das Topspiel gegen RB Leipzig, um sich nach den jüngsten Enttäuschungen mit einem 6:1 für den Vergleich mit Arsenal zu stärken. Vor allem Luis Díaz vertreibt die Verunsicherung.",
@@ -133,14 +141,6 @@
           "title": "Einzelkritik FC Bayern: Luis Díaz spielt Jo-Jo mit RB Leipzig",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-leipzig-einzelkritik-li.3564600",
           "summary": "Der Kolumbianer dribbelt Leipzigs Klostermann Knoten in die Beine. Laimer spielt wie der beste Rechtsverteidiger der Welt. Und Upamecano taucht in Stürmerposition auf. Die Bayern in der Einzelkritik.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Berlin: Linke, Grüne und SPD wollen vergesellschaften - aber anders als gedacht",
-          "url": "https://www.sueddeutsche.de/politik/berlin-vergesellschaftung-linke-gruene-spd-koalition-li.3565059",
-          "summary": "In Berlin haben sich die drei Parteien bei den Sondierungen geeinigt. Mit einem ambitionierten wohnungspolitischen Programm wollen sie „zusammenführen statt zu spalten.“",
           "source": "SZ",
           "paywall": false,
           "image": null
