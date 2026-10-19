@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T22:00:07.311Z",
-  "timestamp": "19.10.2026, 00:00:07",
+  "generated": "2026-10-19T02:00:07.159Z",
+  "timestamp": "19.10.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/ed93f76b3989/w6144h3210x0y765o/202610/43601.0.2761753892/demonstranten-auf-dem-place-de.webp"
         },
         {
-          "title": "Alarm am Finanzmarkt: Jetzt kommt die Gefahr von zwei Seiten",
-          "url": "https://www.faz.net/aktuell/finanzen/staatsschulden-und-ki-krise-jetzt-kommt-die-gefahr-von-zwei-seiten-accg-201340592.html",
-          "summary": "Die Staatsschulden steigen, die KI-Firmen stolpern. Wer da noch cool bleibt, muss sich auf etwas gefasst machen.",
+          "title": "Plünderungen: 160 Festnahmen bei Ausschreitungen in Mailand",
+          "url": "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-mailand-meloni-beruft-sicherheitssitzung-ein-201599347.html",
+          "summary": "Rund um den Mailänder Dom plündern vermummte Jugendliche erneut Geschäfte, die Polizei setzte Wasserwerfer und Tränengas ein. Nun will Ministerpräsidentin Meloni über weitere Maßnahmen beraten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/01aed680df3a/w5500h2873x0y110o/202506/43601.0.1085642091/frankreich-und-die-kuenstliche.webp"
+          "image": "https://media0.faz.net/image/w1200h627/56e28a159a77/w5022h2623x0y227o/202610/43601.0.2764662205/mailand-demonstranten-der.webp"
         }
       ]
     },
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/6b989474-df6c-49e4-ab95-f9042a43dbc4_w1200_r1.778_fpx62.67_fpy50.jpg"
         },
         {
-          "title": "USA drohen Europa wegen Starlink-Beschränkungen",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss",
-          "summary": "Die EU will Satellitenfrequenzen für europäische Anbieter reservieren. Der US-Botschafter in Brüssel kündigt »verheerende« Vergeltungsmaßnahmen an. Welche genau das sein sollen, lässt er offen.",
+          "title": "Italien: Erneute Ausschreitungen in Mailand – rund 200 Festnahmen",
+          "url": "https://www.spiegel.de/ausland/italien-erneute-ausschreitungen-in-mailand-rund-200-festnahmen-a-e2edf8da-fbe9-44e2-9006-32b89e998ba6#ref=rss",
+          "summary": "Die Bilder ähneln jenen aus Frankreich: In Mailand haben erneut meist junge Randalierer Geschäfte geplündert und Autos angezündet. Ministerpräsidentin Giorgia Meloni setzt eine Krisensitzung an.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cec5e13f-7347-418d-ad0e-de44eb2691dd_w1200_r1.778_fpx55.65_fpy54.96.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/04e34d63-7f80-4f78-af4d-000a20a80bf6_w1200_r1.778_fpx30_fpy45.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
+          "url": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
+          "summary": "Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines in Bulgarien notgelandet. Offenbar hatte es zuvor eine Bombendrohung gegen die Maschine gegeben. Die Hintergründe sind noch unklar.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4b50ce26-ed17-4cc7-b4e9-893285c86cf9/AAABleLgxho/AAABnSSvrFg/16x9-big/schengen-rumaenien-bulgarien-100.jpg?width=1280"
+        },
+        {
+          "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+          "summary": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/6abd3a7f-6558-4ce2-98af-968e125bd2ca/AAABoVDRngM/AAABnSSvrFg/16x9-big/selenskyj-1232.jpg?width=1280"
+        },
+        {
           "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
           "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
           "summary": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot der Demonstrationen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/25d0f714-ec26-4558-a9d7-192f2fcce55e/AAABoVCKnh0/AAABnSSvrFg/16x9-big/macron-1012.jpg?width=1280"
-        },
-        {
-          "title": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
-          "summary": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor den Zwischenwahlen?",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/03c182d6-0e84-4842-ad7f-ad83c56790c6/AAABoVBjZNM/AAABnSSvrFg/16x9-big/wahlschild-arizona-100.jpg?width=1280"
-        },
-        {
-          "title": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
-          "summary": "Kann Rot-Grün-Rot in Berlin funktionieren? Der SPD-Politiker Heil und weitere SPD-Bundestagsabgeordnete sind skeptisch. Grünen-Chefin Brantner nennt im Bericht aus Berlin Kriterien, die für eine stabile Regierung erfüllt sein müssten.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/db9ecb54-3dc9-459d-ad97-0ab9bcf0212a/AAABoU_L6fE/AAABnSSvrFg/16x9-big/sendungsbild-1813512.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Autonomie wird zum neuen Organisationsprinzip der US-Armee",
+          "url": "https://www.telepolis.de/article/Autonomie-wird-zum-neuen-Organisationsprinzip-der-US-Armee-11484579.html",
+          "summary": "Zwei neue Kommandos, ein gemeinsames Ziel: Das Pentagon treibt die Automatisierung des Krieges systematisch voran. Die Ukraine liefert dafür die Blaupause.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/0/9/7/3/shutterstock_2690863843-ccc2c4c03ca0e3fb.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Mithu Sanyal über Aufrüstung: \"Wir bezahlen ja dreimal dafür\"",
           "url": "https://www.telepolis.de/article/Mithu-Sanyal-ueber-Aufruestung-Wir-bezahlen-ja-dreimal-dafuer-11485091.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/5/6/0/shutterstock_2760895703-f0681ddf52c6765f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Frankreich: Der Protest wächst, die Gewalt beherrscht die Bilder",
-          "url": "https://www.telepolis.de/article/Frankreich-Der-Protest-waechst-die-Gewalt-beherrscht-die-Bilder-11491795.html",
-          "summary": "Hunderttausende demonstrieren gegen hohe Lebenshaltungskosten und miese Bildungsbedingungen. Nach Bränden und Plünderungen wird um die Verantwortung gestritten.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/6/5/4/master_france-6788823904ebd9c6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Caren Miosga: Wer wird denn gleich unmenschlich werden",
+          "url": "https://www.sueddeutsche.de/medien/caren-miosga-rentenreform-thorsten-frei-matthias-miersch-tv-kritik-li.3564791",
+          "summary": "Wenn in CDU und SPD alle so miteinander sprächen wie ihre Bundestags-Fraktionschefs – das politische Berlin wäre eine scheinbar heile Welt. Aber immer noch eine ohne einen Gesetzentwurf zur Rentenreform.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Unruhen in Frankreich: Macron verurteilt die Gewalt – verspricht aber nichts",
           "url": "https://www.sueddeutsche.de/politik/frankreich-ausschreitungen-macron-rede-li.3565440",
@@ -133,14 +141,6 @@
           "title": "Rot-Grün-Rot in Berlin: SPD-Bundestagsabgeordnete rebellieren gegen Linksbündnis",
           "url": "https://www.sueddeutsche.de/politik/berlin-spd-linkspartei-krach-li.3565442",
           "summary": "Teile der Fraktion stellen die Berliner Linkspartei in einer Erklärung als nicht regierungsfähig dar. Vor allem die Verstaatlichung von Wohnungen erweckt Widerstand. Landeschef Steffen Krach droht eine Zerreißprobe.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Krieg in der Ukraine: Selenskij: USA liefern Ukraine wieder Geheimdienstdaten",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-geheimdienstdaten-li.3563283",
-          "summary": "„Wir sind dafür sehr dankbar“, sagt der ukrainische Präsident. Zuletzt sei der Austausch der US-Informationen unterbrochen worden. Sein Land ist auf die Daten angewiesen, um ballistische Raketen zu orten, die Russland abfeuert.",
           "source": "SZ",
           "paywall": false,
           "image": null
