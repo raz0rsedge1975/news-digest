@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-19T02:00:07.159Z",
-  "timestamp": "19.10.2026, 04:00:07",
+  "generated": "2026-10-19T06:00:08.284Z",
+  "timestamp": "19.10.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "F.A.Z. Exklusiv: Satellitendaten zeigen Russlands gefährliches Agieren auf der Ostsee",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/iceye-satelliten-wie-russland-im-ostseeraum-aufruestet-accg-201313358.html",
+          "summary": "Elektronische Kampfführung, Militärkonvois, neue Kasernen: Mikrosatelliten des finnischen Unternehmens Iceye zeigen, wie Russland im Ostseeraum aufrüstet.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/93cd678e930d/w1748h913x159y35o/202610/43601.0.2733276803/falschen-zielort-angegeben-und.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Trump: Will Russland am Verhandlungstisch halten",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-will-russland-am-verhandlungstisch-halten-faz-110683325.html",
+          "summary": "US-Präsident verteidigt umstrittenen Kurs +++ Selenskyj: Erhalten wieder Geheimdienstinformationen von USA +++ Ukraine: U-Bahn-Station in Kiew bei russischem Angriff beschädigt +++ alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/9cc880fec635/w3133h1636x0y227o/202610/43601.0.2757132083/us-praesident-donald-trump-und.webp"
+        },
         {
           "title": "Nach Krawallen: Macron: „Es ist unerträglich, die Straßen unserer Städte derart verwüstet zu sehen“",
           "url": "https://www.faz.net/aktuell/politik/ausland/emmanuel-macron-verurteilt-gewaltexzesse-und-zerstoerung-in-frankreich-unertraeglich-201599021.html",
           "summary": "Am Samstag eskaliert in Frankreich die Gewalt. In einer Fernsehansprache verurteilt Präsident Macron die Exzesse und kündigt an, dass weitere Demonstrationen notfalls auch verboten werden können.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e2bd9a4ab4e5/w5540h2894x0y172o/202610/43601.0.2766048364/frankreich-praesident-emmanuel.webp"
-        },
-        {
-          "title": "Vorwürfe gegen Paris: Wie kam es zum Gewaltausbruch in Frankreich?",
-          "url": "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-paris-pluenderer-traenengas-und-ein-toter-accg-201597796.html",
-          "summary": "„Spiel mit dem Feuer“, „roter Faschismus“ und „Geiselhaft“ durch die „extreme Linke“: Nach den Ausschreitungen in Frankreich ringt die Politik um Antworten, wie dem Chaos zu begegnen ist.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ed93f76b3989/w6144h3210x0y765o/202610/43601.0.2761753892/demonstranten-auf-dem-place-de.webp"
-        },
-        {
-          "title": "Plünderungen: 160 Festnahmen bei Ausschreitungen in Mailand",
-          "url": "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-mailand-meloni-beruft-sicherheitssitzung-ein-201599347.html",
-          "summary": "Rund um den Mailänder Dom plündern vermummte Jugendliche erneut Geschäfte, die Polizei setzte Wasserwerfer und Tränengas ein. Nun will Ministerpräsidentin Meloni über weitere Maßnahmen beraten.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/56e28a159a77/w5022h2623x0y227o/202610/43601.0.2764662205/mailand-demonstranten-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e2bd9a4ab4e5/w5540h2894x0y172o/202610/43601.0.2766048364/frankreichs-praesident.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Nina Hoss: Wie hat es die Schauspielerin bis nach Hollywood geschafft?",
-          "url": "https://www.spiegel.de/kultur/kino/nina-hoss-wie-hat-es-die-schauspielerin-bis-nach-hollywood-geschafft-a-87010262-04f2-44a7-9888-e5bca87fda2d#ref=rss",
-          "summary": "Mit über 50 feiert Nina Hoss große Erfolge – auch wenn sie merkt, »wie oft mir jetzt die Rolle einer Trinkerin angeboten wird«. Was Frauen ihrer Generation von ihr lernen können.",
+          "title": "Midterms in den USA: Elon Musk ist zurück. Kann er für Trump Texas retten?",
+          "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-elon-musk-mischt-mit-158-millionen-dollar-im-texas-senatskampf-mit-a-195cac84-d578-4ee4-9d36-deb28e9fd047#ref=rss",
+          "summary": "Es dürfte der teuerste Kongresswahlkampf der US-Geschichte sein: In seiner Wahlheimat Texas versucht Elon Musk, die verkorkste Kampagne des Trump-Kandidaten zu retten. Mit 158 Millionen Dollar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2ec41208-6cea-403d-87c0-c413f4f63d80_w1200_r1.778_fpx17_fpy16.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/679d324c-992b-4682-9db1-f351d1d67c86_w1200_r1.778_fpx48_fpy43.jpg"
         },
         {
-          "title": "Frankreich: Die Gewalt ist hausgemacht – Kommentar",
-          "url": "https://www.spiegel.de/ausland/frankreich-die-gewalt-ist-hausgemacht-kommentar-a-51c264d3-adde-4de5-8d11-2d29b6552ddb#ref=rss",
-          "summary": "Rechte Ideologen behaupten einen Zusammenhang zwischen dem Krawall vom Wochenende und der Abstammung vieler Randalierer. Das ist eine rassistische Lüge, die das französische Versagen verschleiert.",
+          "title": "News: Trumps Abwendung von der Ukraine, Ausschreitungen in Frankreich, rot-grün-rote Koalitionsgespräche in Berlin",
+          "url": "https://www.spiegel.de/politik/deutschland/news-trumps-abwendung-von-der-ukraine-ausschreitungen-in-frankreich-rot-gruen-rote-koalitionsgespraeche-in-berlin-a-62e3ea76-ef1c-4070-950c-6a702b4b8e73#ref=rss",
+          "summary": "Der US-Präsident setzt ein Sanktionspaket gegen Russland aus. Gewaltexzesse erschüttern Frankreich. In Berlin regiert bald der Teufel persönlich. Das ist die Lage am Montagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6b989474-df6c-49e4-ab95-f9042a43dbc4_w1200_r1.778_fpx62.67_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Italien: Erneute Ausschreitungen in Mailand – rund 200 Festnahmen",
-          "url": "https://www.spiegel.de/ausland/italien-erneute-ausschreitungen-in-mailand-rund-200-festnahmen-a-e2edf8da-fbe9-44e2-9006-32b89e998ba6#ref=rss",
-          "summary": "Die Bilder ähneln jenen aus Frankreich: In Mailand haben erneut meist junge Randalierer Geschäfte geplündert und Autos angezündet. Ministerpräsidentin Giorgia Meloni setzt eine Krisensitzung an.",
+          "title": "USA drohen Europa wegen Starlink-Beschränkungen",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-drohen-europa-wegen-starlink-beschraenkungen-a-4bd30814-95f2-463c-982e-38ab6f1c0984#ref=rss",
+          "summary": "Die EU will Satellitenfrequenzen für europäische Anbieter reservieren. Der US-Botschafter in Brüssel kündigt »verheerende« Vergeltungsmaßnahmen an. Welche genau das sein sollen, lässt er offen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/04e34d63-7f80-4f78-af4d-000a20a80bf6_w1200_r1.778_fpx30_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cec5e13f-7347-418d-ad0e-de44eb2691dd_w1200_r1.778_fpx55.65_fpy54.96.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Flugzeug wegen Bombendrohung in Bulgarien notgelandet",
-          "url": "https://www.tagesschau.de/ausland/europa/notlandung-bulgarien-bombendrohung-100.html",
-          "summary": "Auf dem Weg von Tel Aviv nach Wien ist ein Flugzeug von Austrian Airlines in Bulgarien notgelandet. Offenbar hatte es zuvor eine Bombendrohung gegen die Maschine gegeben. Die Hintergründe sind noch unklar.",
+          "title": "Sturmtief \"Adam\": Behörden warnen vor Unwetter auf Mallorca",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-mallorca-sturmwarnung-100.html",
+          "summary": "Mallorca bereitet sich auf schwere Regenfälle vor. Wegen des Sturmtiefs \"Adam\" herrscht Warnstufe Rot, die Schulen sind geschlossen, viele Flüge bereits ausgefallen. Auf dem spanischen Festland kam es bereits zu Überflutungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4b50ce26-ed17-4cc7-b4e9-893285c86cf9/AAABleLgxho/AAABnSSvrFg/16x9-big/schengen-rumaenien-bulgarien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4ccf979e-c7a5-454d-90ae-a1ac3961b667/AAABoVKlB8g/AAABnSSvrFg/16x9-big/mallorca-sturm-gesperrte-strasse-100.jpg?width=1280"
         },
         {
-          "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
-          "summary": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.",
+          "title": "Marktbericht: DAX steht schwacher Wochenstart bevor",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+          "summary": "Positive Konjunkturdaten aus China, Gegenwind der US-Börsen und eine unübersichtliche Lage in Frankreich - ein Mix, der den DAX zum Wochenauftakt belasten könnte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6abd3a7f-6558-4ce2-98af-968e125bd2ca/AAABoVDRngM/AAABnSSvrFg/16x9-big/selenskyj-1232.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b67c6b6d-ed89-46e7-9b57-495550086b8e/AAABn1pS1lI/AAABnSSvrFg/16x9-big/boerse-524.jpg?width=1280"
         },
         {
-          "title": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
-          "summary": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot der Demonstrationen.",
+          "title": "Alberta stimmt über mögliche Abspaltung von Kanada ab",
+          "url": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html",
+          "summary": "Seit einigen Jahren erstarkt in der ölreichen Provinz Alberta im Westen Kanadas eine Separatistenbewegung - unterstützt auch von US-Präsident Trump. Heute wird über ein mögliches Unabhängigkeitsreferendum abgestimmt. Von Martin Ganslmeier.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/25d0f714-ec26-4558-a9d7-192f2fcce55e/AAABoVCKnh0/AAABnSSvrFg/16x9-big/macron-1012.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b36f4cfb-1419-4c96-a1e5-cc771568fb5d/AAABoVJNsXw/AAABnSSvrFg/16x9-big/kanada-alberta-flaggen-100.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Caren Miosga: Wer wird denn gleich unmenschlich werden",
-          "url": "https://www.sueddeutsche.de/medien/caren-miosga-rentenreform-thorsten-frei-matthias-miersch-tv-kritik-li.3564791",
-          "summary": "Wenn in CDU und SPD alle so miteinander sprächen wie ihre Bundestags-Fraktionschefs – das politische Berlin wäre eine scheinbar heile Welt. Aber immer noch eine ohne einen Gesetzentwurf zur Rentenreform.",
+          "title": "Newsblog zu den Landtagswahlen: Berliner Grüne und SPD entscheiden über Koalitionsverhandlungen mit Linke",
+          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
+          "summary": "Die Grünen haben dazu am Abend einen kleinen Parteitag einberufen. Die SPD befindet bei einer digitalen Sitzung ihres Landesvorstands darüber. Die Linke trifft ihre Entscheidung erst auf einem Parteitag am 31.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Unruhen in Frankreich: Macron verurteilt die Gewalt – verspricht aber nichts",
-          "url": "https://www.sueddeutsche.de/politik/frankreich-ausschreitungen-macron-rede-li.3565440",
-          "summary": "In einer Rede an die Nation reagiert Frankreichs Präsident auf die wüsten Ausschreitungen. Er mahnt die Zornigen zur Geduld und schielt gleichzeitig auf die Finanzmärkte.",
+          "title": "Autokonzern: VW plant, Gehälter bis 2030 einzufrieren",
+          "url": "https://www.sueddeutsche.de/wirtschaft/vw-auto-inflation-blume-ig-metall-li.3564978",
+          "summary": "Hunderttausende Beschäftigte sollen auf Lohnerhöhungen verzichten, zeigen interne Unterlagen. Die neuesten Pläne sind eine weitere Eskalation im Konflikt zwischen Vorstand und Arbeitnehmerseite.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Rot-Grün-Rot in Berlin: SPD-Bundestagsabgeordnete rebellieren gegen Linksbündnis",
-          "url": "https://www.sueddeutsche.de/politik/berlin-spd-linkspartei-krach-li.3565442",
-          "summary": "Teile der Fraktion stellen die Berliner Linkspartei in einer Erklärung als nicht regierungsfähig dar. Vor allem die Verstaatlichung von Wohnungen erweckt Widerstand. Landeschef Steffen Krach droht eine Zerreißprobe.",
+          "title": "Unglück: Vier Tote durch Feuer auf Militärbasis in Kanada",
+          "url": "https://www.sueddeutsche.de/politik/kanada-tote-feuer-vorfall-militaerstuetzpunkt-alberta-li.3565214",
+          "summary": "Albertas Premierministerin Danielle Smith zufolge befinden sich mindestens 19 Menschen weiter in Lebensgefahr. Kanadas Premier Carney spricht von einer der „schlimmsten Tragödien“ für die Armee  in Friedenszeiten.",
           "source": "SZ",
           "paywall": false,
           "image": null
