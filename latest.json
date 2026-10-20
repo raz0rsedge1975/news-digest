@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-20T18:00:33.879Z",
-  "timestamp": "20.10.2026, 20:00:33",
+  "generated": "2026-10-20T22:00:24.420Z",
+  "timestamp": "21.10.2026, 00:00:24",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Rot-grün-rot: Es ist Zeit, in Berlin die Reißleine zu ziehen",
-          "url": "https://www.faz.net/aktuell/politik/inland/rot-gruen-rot-fuer-berlin-eine-schlimme-entwicklung-201605075.html",
-          "summary": "Auf mehreren Ebenen wäre Rot-Grün-Rot für Berlin schädlich. Zu was haben Sozialdemokraten und Grüne da das Tor aufgemacht?",
+          "title": "Großmächte-Gipfel: In Shenzhen droht die Rückkehr imperialer Politik",
+          "url": "https://www.faz.net/aktuell/politik/ausland/dreiergipfel-in-china-ueber-die-ukraine-ohne-ukraine-201604727.html",
+          "summary": "Trump hat seine Bereitschaft signalisiert, an einem Gipfel mit Putin und Xi in China teilzunehmen. Es würde auch über die Ukraine verhandelt. Kiew reagiert entsetzt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/661ce16ceb62/w6144h3210x0y249o/202610/687c9903-8d5d-449f-b775-739794c96094/die-berliner-parteianfuehrer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/9728f4f3f812/w6144h3210x0y584o/202610/43601.0.2658491849/treffen-sich-trump-putin-und.webp"
         },
         {
-          "title": "Deutschland Liveblog: Keine Lösung im Streit um Berliner Linke-Abgeordnete Emde",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-keine-loesung-im-streit-um-berliner-linke-abgeordnete-emde-faz-110093143.html",
-          "summary": "Fraktionsvorstand berät digital – Emde krankgemeldet +++ AfD-Kandidat scheitert in Kampfabstimmung um Parlamentsvorsitz in MV  +++ AfD bestätigt Hackerangriff auf E-Mail-Postfächer +++ alle Entwicklungen im Liveblog",
+          "title": "Ukrainekrieg: Trumps verdrehte Sicht auf die Welt",
+          "url": "https://www.faz.net/aktuell/politik/ausland/trumps-verdrehte-sicht-auf-die-welt-201605085.html",
+          "summary": "Der amerikanische Präsident schlägt sich im Ukrainekrieg auf die Seite des Angreifers Russland. Wieder kann Deutschland hier einiges lernen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a1d7cb3eba41/w3552h1855x0y71o/202610/43601.0.2665771185/vanessa-emde-kommt-am.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d471f84149f7/w3643h1903x1282y77o/202610/f73f1e5d-7c93-4fa3-a9cb-63d9eceaa000/der-amerikanische-praesident.webp"
         },
         {
-          "title": "Gewalt und Plünderungen: Frankreichs böses Erwachen nach den Unruhen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/frankreich-nach-den-krawallen-milliardenschaeden-und-ausgangssperren-201604734.html",
-          "summary": "Die Regierung verhängt Ausgangssperren, verspricht ausgeraubten Händlern Hilfe – und versucht, Plünderware aus dem Netz zu verbannen. Wie sieht die vorläufige Schadensbilanz aus?",
+          "title": "Liveblog Ukrainekrieg: Selenskyj: Ukraine muss an möglichem Treffen von Putin, Trump und Xi teilnehmen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-ukraine-muss-an-moeglichem-treffen-von-putin-trump-und-xi-teilnehmen-faz-110683325.html",
+          "summary": "Nach Treffen mit US-Sondergesandten Witkoff in Oslo — US-Gesandter reist nun nach Russland +++ Selenskyj spricht mit Rubio über Starlink +++ Trump beklagt mangelnde Gegenleistung der Ukraine für Hilfe im Krieg +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d2661a0d24fe/w3024h1580x0y475o/202610/9d6cb5c9-a54d-48c3-90b7-7677b32a8b7a/paris-reinigung-der.webp"
+          "image": "https://media0.faz.net/image/w1200h627/07a8c7bcff03/w6144h3210x0y149o/202610/0af1112d-4761-4565-9e5a-667400d59c79/der-ukrainische-praesident.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Krieg in der Ukraine: Jetzt verzögert Trump auch noch Waffenlieferungen – warum das fatale Folgen für Kyjiw haben könnte",
+          "url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-jetzt-verzoegert-trump-auch-noch-waffenlieferungen-warum-das-fatale-folgen-fuer-kyjiw-haben-koennte-a-dfedbb8a-9b6f-437f-9ea4-b6f7201d680c#ref=rss",
+          "summary": "Die Ukraine steuert auf eine schwere Krise zu, weil sich ihr mächtigster Partner abzuwenden scheint: Wolodymyr Selenskyj wirft der Trump-Regierung vor, Abfangraketen zurückzuhalten. Für die Verteidigung wäre das verheerend.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/bc9528d4-491b-4d3e-b080-7aa2225a223e_w1200_r1.778_fpx65.32_fpy50.jpg"
+        },
         {
           "title": "Deutsche Wirtschaft: Investitionsgipfel in Berlin soll Milliarden anlocken",
           "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-wirtschaft-investitionsgipfel-in-berlin-soll-milliarden-anlocken-a-c58246d0-d6a3-42e9-9c4e-57c8c4503a71#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/681fd287-20e0-4b3a-bdcc-9dc1610651a8_w1200_r1.778_fpx48_fpy34.jpg"
         },
         {
-          "title": "News des Tages: Friedrich Merz auf dem Investitionsgipfel; Vanessa Emde und die Berliner Linken; Deutschlandticket light",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-friedrich-merz-auf-dem-investitionsgipfel-vanessa-emde-und-die-berliner-linken-deutschlandticket-light-a-4a189124-dfb5-4b71-8f43-497944eb92d0#ref=rss",
-          "summary": "Friedrich Merz buhlt mit Klischees um Investorenmilliarden. Die Berliner Linke findet keine Lösung im Streit über Israelgegnerin Vanessa Emde. Und: Kommt das Deutschlandticket light? Das ist die Lage am Dienstagabend.",
+          "title": "Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/investitionen-was-vinci-chef-pierre-anjolras-am-standort-deutschland-schaetzt-a-883801b8-7453-4b01-9f8b-2842d86d844c#ref=rss",
+          "summary": "Pierre Anjolras gehört zu den Gästen des Investitionsgipfels in Berlin. Hier erklärt der Chef des französischen Konzerns Vinci, was er am Standort Deutschland schätzt – und wie die Krawalle in Frankreich verhindert werden könnten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
-          "title": "Die Linke Berlin: Vanessa Emde meldet sich krank – Fraktionsvorstand vertagt Aussprache",
-          "url": "https://www.spiegel.de/politik/die-linke-berlin-vanessa-emde-meldet-sich-krank-fraktionsvorstand-vertagt-aussprache-a-d9425403-82d7-4ee3-9a2e-663947ec9cb4#ref=rss",
-          "summary": "Ihre Position zu Israel belastet die Gespräche mit Grünen und SPD: Eigentlich wollte die Linkenführung in Berlin gemeinsam mit der umstrittenen Abgeordneten Vanessa Emde den Konflikt klären. Doch daraus wird nichts.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/09c4c7bb-2190-4b97-aea3-a77c46d56ad6_w1200_r1.778_fpx50_fpy22.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d96b01fe-5992-41f2-ae3b-fbf90dbe4f74_w1200_r1.778_fpx33.34_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+          "url": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+          "summary": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/a50666ee-685e-4f98-a7fb-ba98d1b22a34/AAABoVrm2G4/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-276.jpg?width=1280"
+        },
+        {
+          "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+          "summary": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4e46c524-9b7f-4a2d-bd72-246300afb21c/AAABoVqycF4/AAABnSSvrFg/16x9-big/frankreich-proteste-218.jpg?width=1280"
+        },
+        {
           "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
           "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
           "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/1c8eaff8-f873-49fb-a010-08ca94412aae/AAABoVprdlY/AAABnSSvrFg/16x9-big/auto-auspuff-abgase-100.jpg?width=1280"
-        },
-        {
-          "title": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
-          "summary": "Der Rückruf von Millionen VW-Fahrzeugen liegt noch nicht lange zurück, nun muss Volkswagen erneut einen Mangel beheben. Auch in Deutschland sind viele Autos betroffen - wegen fehlerhafter Batterien.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/34bdf3ab-eb37-47e9-919f-757bf9202752/AAABoVm1u2g/AAABnSSvrFg/16x9-big/id-buzz-102.jpg?width=1280"
-        },
-        {
-          "title": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
-          "url": "https://www.tagesschau.de/ausland/europa/europaeischer-rechnungshof-corona-gelder-100.html",
-          "summary": "Seit 2021 hat die EU fast 50 Milliarden Euro an ihre Mitgliedstaaten ausgezahlt. Geld, das darauf abzielen sollte, Behörden und Verwaltung digitaler und effizienter zu machen. Der EU-Rechnungshof zieht eine gemischte Bilanz.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/26311228-aea2-4d2b-aa95-9bd5f7ade690/AAABoVn2ivU/AAABnSSvrFg/16x9-big/eu-bruessel-124.jpg?width=1280"
         }
       ]
     },
@@ -122,9 +122,17 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Gewaltsame Proteste: Ausgangssperren in Frankreich verhängt",
+          "title": "Gewaltsame Proteste: Erneut nächtliche Ausgangssperren in Frankreich verhängt",
           "url": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-ausganssperren-li.3565815",
-          "summary": "In Paris, Nizza, Lille und weiteren Orten in Frankreich gelten in den Nachtstunden Ausgangssperren. Für kommendes Wochenende sind neue Proteste der Gelbwesten-Bewegung angekündigt. Soldaten sollen die Sicherheitskräfte unterstützen.",
+          "summary": "Die Sperrstunden gelten in Paris, Nizza, Lille und weiteren Orten. Für kommendes Wochenende sind neue Proteste angekündigt. Soldaten sollen die Sicherheitskräfte unterstützen. Der mutmaßliche Brandstifter von Limoges ist festgenommen.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Mecklenburg-Vorpommern: Die AfD scheitert – und provoziert",
+          "url": "https://www.sueddeutsche.de/politik/afd-mecklenburg-vorpommern-landtagspraesident-manuela-schwesig-spd-gruene-linke-li.3565823",
+          "summary": "Dreimal fällt der Kandidat der AfD bei der Wahl zur Landtagspräsidentin durch. Der einzigen Oppositionspartei im Schweriner Landtag bleibt vorerst nur die vermeintliche Opferrolle.",
           "source": "SZ",
           "paywall": false,
           "image": null
@@ -133,14 +141,6 @@
           "title": "Investitionen in Deutschland: Ey, haste mal 'ne Milliarde?",
           "url": "https://www.sueddeutsche.de/wirtschaft/investitionen-deutschland-friedrich-merz-investorengipfel-li.3566360",
           "summary": "Kanzler Merz wirbt mit Humor um internationale Investoren. Die finden Deutschland aber gerade nicht so attraktiv. Und jetzt kommt noch ein neues Risiko dazu, warnen Ökonomen.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "FC Bayern: Kompany kuriert sich aus? Dankste!",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-kompany-krank-grippe-champions-league-li.3566543",
-          "summary": "Ob der an Grippe erkrankte Trainer des FC Bayern die Partie gegen den FC Arsenal im Stadion verfolgen kann, ist unklar. In der Pressekonferenz vor dem Spiel vertritt ihn sein Assistent.",
           "source": "SZ",
           "paywall": false,
           "image": null
