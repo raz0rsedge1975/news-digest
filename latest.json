@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-20T06:00:36.526Z",
-  "timestamp": "20.10.2026, 08:00:36",
+  "generated": "2026-10-20T10:00:15.726Z",
+  "timestamp": "20.10.2026, 12:00:15",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog Ukrainekrieg: Trump beklagt mangelnde Gegenleistung der Ukraine",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-haftbefehl-gegen-zwei-deutsche-wegen-starlink-sabotage-faz-110683325.html",
-          "summary": "Die Ukraine habe den USA „nichts gegeben“, kritisiert der US-Präsident +++ Haftbefehl gegen zwei Deutsche wegen Starlink-Sabotage +++ Selenskyj: Wurden vor Angriffen wieder nicht gewarnt +++ alle Neuigkeiten im Liveblog",
+          "title": "Cloud und Satelliten: Amazon will 2027 16 Milliarden Euro in Deutschland investieren",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-will-2027-16-milliarden-euro-in-deutschland-investieren-accg-201603852.html",
+          "summary": "„Einer der attraktivsten Investitionsstandorte Europas“: Amazon plant neue Milliardeninvestitionen in Deutschland. Das Geld soll unter anderem in eine Alternative zu Elon Musks Starlink fließen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/16e56ccaf02a/w6144h3210x0y123o/202610/43601.0.2776764903/us-praesident-donald-trump.webp"
+          "image": "https://media0.faz.net/image/w1200h627/5920275b77eb/w6144h3210x0y443o/202608/43601.0.2470894911/wird-modernisiert-amazon.webp"
         },
         {
-          "title": "Streit mit Selenskyj: Wird Trumps Torheit wieder Normalmaß annehmen?",
-          "url": "https://www.faz.net/aktuell/politik/ausland/trump-staerkt-putin-und-laesst-die-ukraine-im-stich-201602176.html",
-          "summary": "Der Präsident braucht vor den Kongresswahlen einen Schuldigen für die hohen Spritpreise. Doch auch danach werden die Zeiten für die Ukrainer und die anderen Europäer kaum leichter werden.",
+          "title": "Huang zu Merz: „Gib Deutschland eine Chance!“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-huang-zu-merz-gib-deutschland-eine-chance-201603218.html",
+          "summary": "Der Auftakt zum Investitionsgipfel der Bundesregierung gerät zu einer Demonstration der Stärke der KI-Industrie mit Nvidia-Chef Jensen Huang als ihrem ungekrönten König.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/24b343f8f504/w6000h3135x0y161o/202610/43601.0.2767069309/der-amerikanische-praesident.webp"
+          "image": "https://media0.faz.net/image/w1200h627/12d575eadb92/w5883h3073x0y118o/202610/43601.0.2775891858/bundeskanzler-friedrich-merz.webp"
         },
         {
-          "title": "„Hart aber fair“: Leben deutsche Beamte wirklich länger?",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/wie-bei-hart-aber-fair-ueber-deutsche-beamte-diskutiert-wird-201603418.html",
-          "summary": "Wozu brauchen wir noch Beamte, fragte Louis Klamroth bei „Hart aber Fair“. Gerechtigkeitsdebatten sind ja immer guter Stoff für Talkshows. Aber war das die richtige Frage für diesen Montagabend?",
+          "title": "Höflich sprechen: „Mit zunehmendem Alter wird das Siezen, das Respekt und Distanz ausdrückt, relevanter“",
+          "url": "https://www.faz.net/aktuell/wissen/geist-soziales/warum-sagen-junge-leute-nicht-mehr-bitte-linguistin-erklaert-accg-201313694.html",
+          "summary": "Die Linguistin Janel Zoske gehört selbst zur jungen Generation. Sie sagt: Die Jüngeren sind gar nicht weniger höflich als die Älteren. Sie drücken Höflichkeit nur anders aus.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/00699c4e3815/w2362h1234x0y210o/202610/be5e8ffe-0e01-4e64-8286-d81afde27b3a/louis-klamroth-diskutiert-mit.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/fa1278415737/w3428h1791x0y466o/202610/43601.0.2670747086/duzen-oder-siezen-es-muss.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Donald Trump gibt Wahlempfehlung für Benjamin Netanyahu: Ein Krieg, zwei Wahlkämpfe",
-          "url": "https://www.spiegel.de/ausland/donald-trump-gibt-wahlempfehlung-fuer-benjamin-netanyahu-ein-krieg-zwei-wahlkaempfe-a-38139e76-9a76-4c3c-9d87-e2df195abaa4#ref=rss",
-          "summary": "Sie haben gemeinsam den erfolglosen Feldzug gegen Iran begonnen. Jetzt drohen Donald Trump und Benjamin Netanyahu fast gleichzeitig entscheidende Wahlen zu verlieren – und setzen erneut auf gegenseitige Unterstützung.",
+          "title": "Spritpreisdeckel: Wirtschaftsministerin Katherina Reiche setzt auf Verzögerung",
+          "url": "https://www.spiegel.de/wirtschaft/spritpreisdeckel-wirtschaftsministerin-katherina-reiche-setzt-auf-verzoegerung-a-916ec221-c4bd-449e-8012-7dbeac7f6010#ref=rss",
+          "summary": "Vom Spritpreisdeckel hält Wirtschaftsministerin Katherina Reiche wenig. Umsetzen muss ihr Haus das Gesetz trotzdem. Theoretisch.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/90715511-d67c-4b55-9592-793195bc9205_w1200_r1.778_fpx52_fpy34.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/719786db-18de-45ef-b059-d10b0e100614_w1200_r1.778_fpx56.56_fpy44.99.jpg"
         },
         {
-          "title": "Ukraine-Krieg: Wolodymyr Selenskyj wirft USA Blockade bezahlter Raketenlieferungen vor",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-usa-blockade-bezahlter-raketenlieferungen-vor-a-59d720ee-7bd4-4715-876d-24107dc630bb#ref=rss",
-          "summary": "Die Ukraine braucht dringend Abfangraketen, um sich gegen russischen Dauerbeschuss zu wehren. Doch laut Kyjiws Darstellung verweigern die USA eine Freigabe. Präsident Trump beklagt derweil fehlende Gegenleistungen.",
+          "title": "Deutsche Wirtschaft: Wie Berlin Investoren anlocken will, ohne sich zu abhängig zu machen",
+          "url": "https://www.spiegel.de/wirtschaft/deutsche-wirtschaft-wie-berlin-investoren-anlocken-will-ohne-sich-zu-abhaengig-zu-machen-a-b438cd20-e234-4bbe-9d9e-bee1901cb3f2#ref=rss",
+          "summary": "Die Bundesregierung wirbt um ausländische Investoren, um das Wachstum anzukurbeln. Das darf nicht zu noch mehr Abhängigkeit führen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dc00d263-26b8-40a5-ac72-c00bdba2fd00_w1200_r1.778_fpx19_fpy41.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2ff9ded3-ce5e-48ef-96a9-521725087d38_w1200_r1.778_fpx47_fpy48.jpg"
         },
         {
-          "title": "Wohnungsmarkt: Neuer Wohnungsbaufonds soll private Investitionen ankurbeln",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/wohnungsmarkt-neuer-wohnungsbaufonds-soll-private-investitionen-ankurbeln-a-70b546e8-1ecb-4d90-8150-a5b8d0408dd0#ref=rss",
-          "summary": "Mit staatlichen Mitteln Investoren anlocken: Das ist das Prinzip eines neuen Wohnungsbaufonds, den die Bundesregierung nach SPIEGEL-Informationen plant.",
+          "title": "Verbrenner-Aus: EU-Parlament findet Kompromiss bei CO₂-Zielen",
+          "url": "https://www.spiegel.de/wirtschaft/verbrenner-aus-eu-parlament-findet-kompromiss-bei-co-zielen-a-2996d4eb-fe0d-4434-b54d-ce32833e8243#ref=rss",
+          "summary": "Die Parteien der Mitte im Europaparlament haben sich auf einen Kompromiss zum Verbrenner-Aus geeinigt: Neuwagen sollen ihre CO₂-Emissionen bis 2035 zwar um 87,5 Prozent senken, aber Verbrenner und Hybride bleiben auch danach erlaubt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/460ccbe0-671d-4195-977c-60dafa771a32_w1200_r1.778_fpx35.91_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/42f1f606-9b0a-4d85-b2ab-412aed1698b7_w1200_r1.778_fpx49.34_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Anleger warten auf US-Bilanzen",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-          "summary": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach.",
+          "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
+          "summary": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden. Während Beschäftigte um ihre Jobs kämpfen, fordern Einwohner eine Schließung. Von Verena Schälter.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a36da915-bed1-490b-bd13-d2c33d6b0a23/AAABoVhntDs/AAABnSSvrFg/16x9-big/taranto-stahl-100.jpg?width=1280"
         },
         {
-          "title": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
-          "url": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
-          "summary": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen.",
+          "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+          "summary": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bedb19f4-3c19-4d64-aef7-e6d930b5b74b/AAABoKDNLas/AAABnSSvrFg/16x9-big/landschaft-groenland-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bef8fad3-a7ce-4254-bb86-991e7bf082b0/AAABmeKpCqU/AAABnSSvrFg/16x9-big/afd-logo-170.jpg?width=1280"
         },
         {
-          "title": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html",
-          "summary": "Von heute an berät der Arbeitskreis Steuerschätzung darüber, mit wie vielen Steuereinnahmen Bund und Länder rechnen können. Es könnte mehr sein als bislang erwartet. Das weckt Begehrlichkeiten. Von Philipp Eckstein.",
+          "title": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html",
+          "summary": "Bosch setzt voll auf Künstliche Intelligenz und arbeitet dafür eng mit Microsoft zusammen. Doch Digitalexperten warnen, dass sich die deutsche Industrie zu sehr in die Abhängigkeit von US-Techriesen begibt. Von Laura Bisch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/15dfef23-d764-46ed-89b8-ff6c12569e9e/AAABoVT6oRw/AAABnSSvrFg/16x9-big/merz-klingbeil-170.jpg?width=1280"
+          "image": null
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Dividende mit Durst: Wie Argentiniens Wasser (erneut) zur Ware wird",
-          "url": "https://www.telepolis.de/article/Dividende-mit-Durst-Wie-Argentiniens-Wasser-erneut-zur-Ware-wird-11492587.html",
-          "summary": "Ein internationales Konsortium übernimmt 90 Prozent des Wasserversorgers von Buenos Aires. Doch schon einmal scheiterte die Privatisierung spektakulär.",
+          "title": "Waffenmangel, Energiekrise, Aufrüstung: Die Ukraine unter Mehrfachdruck",
+          "url": "https://www.telepolis.de/article/Waffenmangel-Energiekrise-Aufruestung-Die-Ukraine-unter-Mehrfachdruck-11493576.html",
+          "summary": "Russische Luftangriffe verschärfen die Lage. Zugleich sorgen US-Engpässe bei Waffen und neue russische Militäranlagen im Ostseeraum für Spannungen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/0/6/9/shutterstock_2566599897-6efbee16f5003649.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
-          "title": "Wie China die USA als Wissenschaftsnation abhängt",
-          "url": "https://www.telepolis.de/article/Wie-China-die-USA-als-Wissenschaftsnation-abhaengt-11490996.html",
-          "summary": "Während Washington Forschungsetats kürzt und universitäre Ausbildung zum Luxus wird, hat China die USA in 57 von 64 Schlüsseltechnologien überholt.",
+          "title": "Die Politik der Gefühle als Form der politischen Immunisierung",
+          "url": "https://www.telepolis.de/article/Die-Politik-der-Gefuehle-als-Form-der-politischen-Immunisierung-11493487.html",
+          "summary": "Bärbel Bas Rücktritt: Die SPD wirft der Union Unmenschlichkeit vor. Über Mitgefühl, Macht und die Grenzen politischer Rücksicht. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/2/5/2/N509FZ_cropped-660f8a81de35202e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
-          "title": "Warum werden auf Polymarket Millionen auf längst entschiedene Wahlen gesetzt?",
-          "url": "https://www.telepolis.de/article/Warum-werden-auf-Polymarket-Millionen-auf-laengst-entschiedene-Wahlen-gesetzt-11492555.html",
-          "summary": "Auf Polymarket flossen Hunderte Millionen Dollar in Wahlen, deren Ausgang längst feststand. Analysten sprechen von Wash Trading statt echtem Interesse.",
+          "title": "KI als globale Symphonie: Wer den Takt bei Chips und Modellen vorgibt",
+          "url": "https://www.telepolis.de/article/KI-als-globale-Symphonie-Wer-den-Takt-bei-Chips-und-Modellen-vorgibt-11492202.html",
+          "summary": "China setzt auf offene Modelle, Amerika auf Kapital und Exportkontrollen. Beide Wege bergen eigene Risiken für die Vormacht. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/0/5/3/shutterstock_2628942045-b08b956f2824296d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/4/8/6/9/ki-race2-b2-6dd91e4aa79c0e26.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Trump: „Selenskij weiß nicht, wovon er spricht“",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-trump-waffenlieferungen-patriot-gegenleistung-li.3563283",
-          "summary": "Der US-Präsident weist Andeutungen seines ukrainischen Amtskollegen, wonach Trump mit seinem kremlfreundlichen Kurs auf der falschen Seite der Geschichte stehe, zurück.",
+          "title": "Datenleck: AfD von Hackern angegriffen",
+          "url": "https://www.sueddeutsche.de/politik/afd-hackerangriff-datenleck-cybersicherheit-rechtsextremismus-li.3566216",
+          "summary": "Hacker haben sich offenbar Zugang zu Mail-Postfächern der AfD verschafft. Hunderttausende interne Nachrichten könnten abgeflossen sein. Ein Parteisprecher bestätigt den Angriff.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zur Bundespolitik: Merz beunruhigt wegen Sorglosigkeit gegenüber Russland",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-merz-russland-sorglosigkeit-li.3529564",
-          "summary": "Die Menschen sähen nicht, was das eigentliche Ziel Russlands sei. „Und das ist nicht nur territorialer Gewinn in der Ukraine. Das geht weit darüber hinaus“, sagt der Bundeskanzler.",
+          "title": "Premiere von „Der perfekte Urlaub“: „Man ist froh, dass man selbst nicht erleben muss, was wir auf der Leinwand erleben“",
+          "url": "https://www.sueddeutsche.de/muenchen/der-perfekte-urlaub-premiere-muenchen-elyas-m-barek-li.3553390",
+          "summary": "Im Winter hat Erfolgsregisseur Bora Dagtekin auf Mallorca seinen neuen Film „Der perfekte Urlaub“ gedreht. Bei der Premiere in München lassen sich Stars wie Elyas M'Barek vom Scheinwerferlicht bestrahlen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zu den Landtagswahlen: Berliner Grüne und SPD für Koalitionsgespräche mit Linke",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
-          "summary": "Auf einem kleinen Grünen-Parteitag stimmte am Abend eine breite Mehrheit dafür. Zuvor hatte sich der SPD-Landesvorstand bei einer digitalen Sitzung für Koalitionsgespräche entschieden.",
+          "title": "Raumfahrt: Wissen, was im Erdorbit passiert",
+          "url": "https://www.sueddeutsche.de/wirtschaft/raumfahrt-vyoma-satelliten-esa-space-x-li.3564538",
+          "summary": "Die Zahl der Satelliten im All könnte sich bis 2030 vervielfachen. Bisher wissen die Europäer aber kaum, was in der Erdumlaufbahn herumschwirrt. Ein aktueller Vorfall zeigt, wie wichtig das wäre.",
           "source": "SZ",
           "paywall": false,
           "image": null
