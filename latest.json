@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-20T02:00:14.646Z",
-  "timestamp": "20.10.2026, 04:00:14",
+  "generated": "2026-10-20T06:00:36.526Z",
+  "timestamp": "20.10.2026, 08:00:36",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht",
-          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/rente-mit-63-was-die-abschlagsfreiheit-kostet-und-warum-sie-die-koalition-spaltet-201601670.html",
-          "summary": "Die große Rentenreform hängt politisch am seidenen Faden. Worum geht es für die Versicherten? Ein Faktenüberblick",
+          "title": "Liveblog Ukrainekrieg: Trump beklagt mangelnde Gegenleistung der Ukraine",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-haftbefehl-gegen-zwei-deutsche-wegen-starlink-sabotage-faz-110683325.html",
+          "summary": "Die Ukraine habe den USA „nichts gegeben“, kritisiert der US-Präsident +++ Haftbefehl gegen zwei Deutsche wegen Starlink-Sabotage +++ Selenskyj: Wurden vor Angriffen wieder nicht gewarnt +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b156341d5225/w9000h4702x0y1024o/202610/43601.0.2633352756/wie-viel-geld-bleibt-im-alter.webp"
+          "image": "https://media0.faz.net/image/w1200h627/16e56ccaf02a/w6144h3210x0y123o/202610/43601.0.2776764903/us-praesident-donald-trump.webp"
         },
         {
-          "title": "Rentenrechner für Arbeit ab 67: 100.000 Euro mehr im Alter",
-          "url": "https://www.faz.net/aktuell/rente-mit-67-mehr-einkommen-durch-weiterarbeit-200738878.html",
-          "summary": "Wer ab 67 Jahren noch etwas weiterarbeitet, kann sein Einkommen für den ganzen Ruhestand deutlich erhöhen. Ein F.A.S.-Rechner zeigt, wie sehr sich das lohnt.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/0b9c947d61a6/w1865h974x168y37o/202604/b412f2db-2905-42c4-b420-1271761d6754/92jlg8khtaxu.webp"
-        },
-        {
-          "title": "Huang zu Merz: „Gib Deutschland eine Chance!“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-huang-zu-merz-gib-deutschland-eine-chance-201603218.html",
-          "summary": "Der Auftakt zum Investitionsgipfel der Bundesregierung gerät zu einer Demonstration der Stärke der KI-Industrie mit Nvidia-Chef Jensen Huang als ihrem ungekrönten König.",
+          "title": "Streit mit Selenskyj: Wird Trumps Torheit wieder Normalmaß annehmen?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/trump-staerkt-putin-und-laesst-die-ukraine-im-stich-201602176.html",
+          "summary": "Der Präsident braucht vor den Kongresswahlen einen Schuldigen für die hohen Spritpreise. Doch auch danach werden die Zeiten für die Ukrainer und die anderen Europäer kaum leichter werden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/12d575eadb92/w5883h3073x0y118o/202610/43601.0.2775891858/bundeskanzler-friedrich-merz.webp"
+          "image": "https://media0.faz.net/image/w1200h627/24b343f8f504/w6000h3135x0y161o/202610/43601.0.2767069309/der-amerikanische-praesident.webp"
+        },
+        {
+          "title": "„Hart aber fair“: Leben deutsche Beamte wirklich länger?",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/wie-bei-hart-aber-fair-ueber-deutsche-beamte-diskutiert-wird-201603418.html",
+          "summary": "Wozu brauchen wir noch Beamte, fragte Louis Klamroth bei „Hart aber Fair“. Gerechtigkeitsdebatten sind ja immer guter Stoff für Talkshows. Aber war das die richtige Frage für diesen Montagabend?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/00699c4e3815/w2362h1234x0y210o/202610/be5e8ffe-0e01-4e64-8286-d81afde27b3a/louis-klamroth-diskutiert-mit.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Donald Trump gibt Wahlempfehlung für Benjamin Netanyahu: Ein Krieg, zwei Wahlkämpfe",
+          "url": "https://www.spiegel.de/ausland/donald-trump-gibt-wahlempfehlung-fuer-benjamin-netanyahu-ein-krieg-zwei-wahlkaempfe-a-38139e76-9a76-4c3c-9d87-e2df195abaa4#ref=rss",
+          "summary": "Sie haben gemeinsam den erfolglosen Feldzug gegen Iran begonnen. Jetzt drohen Donald Trump und Benjamin Netanyahu fast gleichzeitig entscheidende Wahlen zu verlieren – und setzen erneut auf gegenseitige Unterstützung.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/90715511-d67c-4b55-9592-793195bc9205_w1200_r1.778_fpx52_fpy34.jpg"
+        },
         {
           "title": "Ukraine-Krieg: Wolodymyr Selenskyj wirft USA Blockade bezahlter Raketenlieferungen vor",
           "url": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-usa-blockade-bezahlter-raketenlieferungen-vor-a-59d720ee-7bd4-4715-876d-24107dc630bb#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/dc00d263-26b8-40a5-ac72-c00bdba2fd00_w1200_r1.778_fpx19_fpy41.jpg"
         },
         {
-          "title": "Deutschland: Wie Vermögen, Bildung und Herkunft die Ungleichheit prägen",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/deutschland-wie-vermoegen-bildung-und-herkunft-die-ungleichheit-praegen-a-b2bf973b-3ff5-48ea-98d1-1f104c45bd0c#ref=rss",
-          "summary": "Immer weniger Menschen schaffen den Aufstieg, Mütter verlieren den Anschluss, Vermögen werden geschont: Eine SPIEGEL-Analyse zeigt, wo es in Deutschland unfair zugeht. Und welche Mythen falsch sind.",
+          "title": "Wohnungsmarkt: Neuer Wohnungsbaufonds soll private Investitionen ankurbeln",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/wohnungsmarkt-neuer-wohnungsbaufonds-soll-private-investitionen-ankurbeln-a-70b546e8-1ecb-4d90-8150-a5b8d0408dd0#ref=rss",
+          "summary": "Mit staatlichen Mitteln Investoren anlocken: Das ist das Prinzip eines neuen Wohnungsbaufonds, den die Bundesregierung nach SPIEGEL-Informationen plant.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d3c19e56-d0fb-41c4-9534-7688b0cb2c4e_w1200_r1.778_fpx50_fpy50.jpg"
-        },
-        {
-          "title": "Berlin: Warum die Vergesellschaftung wohl scheitern wird",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/warum-die-vergesellschaftung-in-berlin-wohl-scheitern-wird-a-793bc493-303b-4f0e-aa89-94be3ff6e351#ref=rss",
-          "summary": "Linke, SPD und Grüne haben vorgelegt, wie sie große Wohnungskonzerne vergesellschaften wollen. Aber der Plan dürfte sich kaum in der kommenden Legislaturperiode umsetzen lassen – aus zwei Gründen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6e66ddc2-e0d5-4e82-82b9-fa86a25848a0_w1200_r1.778_fpx58.67_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/460ccbe0-671d-4195-977c-60dafa771a32_w1200_r1.778_fpx35.91_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Verbaler Schlagabtausch: Spannungen zwischen Trump und Selenskyj",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
-          "summary": "US-Präsident Trump verschärft den Ton gegenüber der Ukraine und Selenskyj immer weiter. Der kritisiert die verzögerte Lieferung von bereits bezahlten Abwehrraketen.",
+          "title": "Marktbericht: Anleger warten auf US-Bilanzen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+          "summary": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f7cec16c-1e64-4017-9eaf-143b68fce60c/AAABoVb8zwY/AAABnSSvrFg/16x9-big/donald-trump-966.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1280"
         },
         {
-          "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
-          "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
-          "summary": "Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.",
+          "title": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
+          "url": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
+          "summary": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/367106a4-4c0e-4842-bb0f-420e633097b1/AAABoVW5ZZw/AAABnSSvrFg/16x9-big/gruene-berlin-abstimmung-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bedb19f4-3c19-4d64-aef7-e6d930b5b74b/AAABoKDNLas/AAABnSSvrFg/16x9-big/landschaft-groenland-100.jpg?width=1280"
         },
         {
-          "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
-          "summary": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
+          "title": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html",
+          "summary": "Von heute an berät der Arbeitskreis Steuerschätzung darüber, mit wie vielen Steuereinnahmen Bund und Länder rechnen können. Es könnte mehr sein als bislang erwartet. Das weckt Begehrlichkeiten. Von Philipp Eckstein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e19d0a95-b875-4988-84b7-8d602ae653f5/AAABoVWeRv8/AAABnSSvrFg/16x9-big/merz-huang-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/15dfef23-d764-46ed-89b8-ff6c12569e9e/AAABoVT6oRw/AAABnSSvrFg/16x9-big/merz-klingbeil-170.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in der Ukraine: Trump: „Selenskij weiß nicht, wovon er spricht“",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-usa-trump-waffenlieferungen-patriot-gegenleistung-li.3563283",
+          "summary": "Der US-Präsident weist Andeutungen seines ukrainischen Amtskollegen, wonach Trump mit seinem kremlfreundlichen Kurs auf der falschen Seite der Geschichte stehe, zurück.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Newsblog zur Bundespolitik: Merz beunruhigt wegen Sorglosigkeit gegenüber Russland",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-merz-russland-sorglosigkeit-li.3529564",
           "summary": "Die Menschen sähen nicht, was das eigentliche Ziel Russlands sei. „Und das ist nicht nur territorialer Gewinn in der Ukraine. Das geht weit darüber hinaus“, sagt der Bundeskanzler.",
@@ -133,14 +141,6 @@
           "title": "Newsblog zu den Landtagswahlen: Berliner Grüne und SPD für Koalitionsgespräche mit Linke",
           "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-gruene-spd-koalitionsverhandlungen-li.3540501",
           "summary": "Auf einem kleinen Grünen-Parteitag stimmte am Abend eine breite Mehrheit dafür. Zuvor hatte sich der SPD-Landesvorstand bei einer digitalen Sitzung für Koalitionsgespräche entschieden.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Insekten: „Klares Warnsignal“: Wo die Bienen verschwinden",
-          "url": "https://www.sueddeutsche.de/wissen/bienensterben-insekten-klimawandel-hummeln-pestizide-li.3565769",
-          "summary": "Die Bienenvielfalt in Europa geht merklich zurück, zeigt eine umfangreiche Auswertung. Doch es gibt auch Gewinner.",
           "source": "SZ",
           "paywall": false,
           "image": null
