@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T22:00:07.731Z",
-  "timestamp": "20.10.2026, 00:00:07",
+  "generated": "2026-10-20T02:00:14.646Z",
+  "timestamp": "20.10.2026, 04:00:14",
   "news": [
     {
       "source": "FAZ",
@@ -35,20 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Berlin: Warum die Vergesellschaftung wohl scheitern wird",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/warum-die-vergesellschaftung-in-berlin-wohl-scheitern-wird-a-793bc493-303b-4f0e-aa89-94be3ff6e351#ref=rss",
-          "summary": "Linke, SPD und Grüne haben vorgelegt, wie sie große Wohnungskonzerne vergesellschaften wollen. Aber der Plan dürfte sich kaum in der kommenden Legislaturperiode umsetzen lassen – aus zwei Gründen.",
+          "title": "Ukraine-Krieg: Wolodymyr Selenskyj wirft USA Blockade bezahlter Raketenlieferungen vor",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-wolodymyr-selenskyj-wirft-usa-blockade-bezahlter-raketenlieferungen-vor-a-59d720ee-7bd4-4715-876d-24107dc630bb#ref=rss",
+          "summary": "Die Ukraine braucht dringend Abfangraketen, um sich gegen russischen Dauerbeschuss zu wehren. Doch laut Kyjiws Darstellung verweigern die USA eine Freigabe. Präsident Trump beklagt derweil fehlende Gegenleistungen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6e66ddc2-e0d5-4e82-82b9-fa86a25848a0_w1200_r1.778_fpx58.67_fpy50.jpg"
-        },
-        {
-          "title": "News des Tages: Mögliches Linksbündnis in Berlin, Krawalle in Frankreich, Natur in der Krise",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-moegliches-linksbuendnis-in-berlin-belastet-koalition-im-bund-krawalle-in-frankreich-natur-in-der-krise-a-0476abe9-47fd-4ebc-ae5a-27c59d902865#ref=rss",
-          "summary": "Die Aussicht auf ein Linksbündnis in Berlin bringt Union und SPD gegeneinander auf. Im Kampf gegen Gewaltexzesse kündigt Frankreich Ausgangssperren an. Der Biber erholt sich – ist aber eine Ausnahme. Das ist die Lage am Montagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/dc00d263-26b8-40a5-ac72-c00bdba2fd00_w1200_r1.778_fpx19_fpy41.jpg"
         },
         {
           "title": "Deutschland: Wie Vermögen, Bildung und Herkunft die Ungleichheit prägen",
@@ -57,12 +49,28 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/d3c19e56-d0fb-41c4-9534-7688b0cb2c4e_w1200_r1.778_fpx50_fpy50.jpg"
+        },
+        {
+          "title": "Berlin: Warum die Vergesellschaftung wohl scheitern wird",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/warum-die-vergesellschaftung-in-berlin-wohl-scheitern-wird-a-793bc493-303b-4f0e-aa89-94be3ff6e351#ref=rss",
+          "summary": "Linke, SPD und Grüne haben vorgelegt, wie sie große Wohnungskonzerne vergesellschaften wollen. Aber der Plan dürfte sich kaum in der kommenden Legislaturperiode umsetzen lassen – aus zwei Gründen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6e66ddc2-e0d5-4e82-82b9-fa86a25848a0_w1200_r1.778_fpx58.67_fpy50.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Verbaler Schlagabtausch: Spannungen zwischen Trump und Selenskyj",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
+          "summary": "US-Präsident Trump verschärft den Ton gegenüber der Ukraine und Selenskyj immer weiter. Der kritisiert die verzögerte Lieferung von bereits bezahlten Abwehrraketen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f7cec16c-1e64-4017-9eaf-143b68fce60c/AAABoVb8zwY/AAABnSSvrFg/16x9-big/donald-trump-966.jpg?width=1280"
+        },
         {
           "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
           "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e19d0a95-b875-4988-84b7-8d602ae653f5/AAABoVWeRv8/AAABnSSvrFg/16x9-big/merz-huang-100.jpg?width=1280"
-        },
-        {
-          "title": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
-          "url": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
-          "summary": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen, die Gründe ähneln einander vielfach. Wer protestiert gerade in welchen Ländern - und warum?",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4f416987-4ea4-45e6-8936-b3ddba049b28/AAABoVWQUXU/AAABnSSvrFg/16x9-big/ausschreitungen-bruessel-102.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Dividende mit Durst: Wie Argentiniens Wasser (erneut) zur Ware wird",
+          "url": "https://www.telepolis.de/article/Dividende-mit-Durst-Wie-Argentiniens-Wasser-erneut-zur-Ware-wird-11492587.html",
+          "summary": "Ein internationales Konsortium übernimmt 90 Prozent des Wasserversorgers von Buenos Aires. Doch schon einmal scheiterte die Privatisierung spektakulär.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/0/6/9/shutterstock_2566599897-6efbee16f5003649.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Wie China die USA als Wissenschaftsnation abhängt",
           "url": "https://www.telepolis.de/article/Wie-China-die-USA-als-Wissenschaftsnation-abhaengt-11490996.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/0/5/3/shutterstock_2628942045-b08b956f2824296d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Frankreich: Le Pen macht das Chaos zum Wahlhelfer",
-          "url": "https://www.telepolis.de/article/Frankreich-Le-Pen-macht-das-Chaos-zum-Wahlhelfer-11492677.html",
-          "summary": "Nach den Unruhen verspricht die Partei am rechten Rand Autorität und Ordnung. Umfragen zeigen Le Pens Vorsprung – und Mélenchons Schwäche in der Stichwahl.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/1/1/4/Master_le_Pen-3f85542772379d31.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
