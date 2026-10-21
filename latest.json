@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-21T14:00:15.915Z",
-  "timestamp": "21.10.2026, 16:00:15",
+  "generated": "2026-10-21T18:00:37.039Z",
+  "timestamp": "21.10.2026, 20:00:37",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Gierige Internetkonzerne: Wie Meta & Co. Verlage in die Zange nehmen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-google-und-amazon-warum-europa-jetzt-handeln-muss-201608260.html",
+          "summary": "Medienverbände fordern die Europäische Kommission auf, Metas geplante neue Geschäftsbedingungen zu stoppen. Verlage sollen alle Inhalte unbezahlt abliefern. Aber Google und Amazon sind nicht besser.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/86bda0962982/w8192h4280x0y164o/202609/43601.0.2611389266/meta-chef-mark-zuckerberg-im.webp"
+        },
+        {
+          "title": "Lücke in PHP-Code: Vorsorgliche Sperre von Webseiten trifft Internetnutzer",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gravierende-sicherheitsluecke-in-php-bedroht-millionen-websites-201609383.html",
+          "summary": "Städte, Krankenhäuser und Webshops müssen dringend eine Sicherheitslücke schließen. Auch Bundesländer nehmen Seiten wichtiger Behörden vom Netz. Private Netznutzer können wenig tun und sind indirekt betroffen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/305af6f9520e/w5000h2612x0y577o/202610/eaafcb0e-0f77-4019-a398-98364b44ad8d/gefahr-fuer-das-internet.webp"
+        },
         {
           "title": "Geleakte E-Mails: Die AfD versucht den Schaden zu begrenzen",
           "url": "https://www.faz.net/aktuell/politik/inland/afd-leaks-die-afd-versucht-den-schaden-zu-begrenzen-201608038.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/30d0dd001dbb/w3000h1567x0y254o/202505/43601.0.998259557/will-die-sache-kleinreden.webp"
-        },
-        {
-          "title": "AfD gehackt: Diese Mails passen ins Bild",
-          "url": "https://www.faz.net/aktuell/politik/inland/gehackt-und-geleakt-afd-mails-die-ins-bild-passen-201605228.html",
-          "summary": "Die AfD-Führung spielt die geleakten Mails der Partei herunter. Als hätte sie Rassismus und Antisemitismus mittlerweile hinter sich gelassen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/08570a51df27/w7727h4037x0y545o/202610/eae4d284-a5aa-4146-b6d8-5771da7b4508/wer-schreibt-und-vor-allem-was.webp"
-        },
-        {
-          "title": "Deutschland Liveblog: Niedersachsens AfD-Chef Schledde angeklagt",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-niedersachsens-afd-chef-schledde-angeklagt-faz-110093143.html",
-          "summary": "Ansgar Schledde soll Parteispenden nicht sofort weitergeleitet haben +++ Keine Lösung im Streit um Berliner Linke-Abgeordnete Emde +++ AfD-Kandidat scheitert in Kampfabstimmung um Parlamentsvorsitz in MV  +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e8de5237318f/w6000h3135x0y265o/202609/43601.0.2562609592/ansgar-schledde-afd.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Sicherheitslücken: Wettrennen gegen den Internet-Zusammenbruch",
-          "url": "https://www.spiegel.de/netzwelt/sicherheitsluecken-wettrennen-gegen-den-internet-zusammenbruch-a-d2b6c8be-df12-4a44-8813-2a89e046f92c#ref=rss",
-          "summary": "Enormes Schadpotenzial: Wegen akuter Sicherheitslücken müssen Millionen Webserver abgedichtet werden, erste Institutionen schalten ihre Websites vorsichtshalber ab.",
+          "title": "AfD-Leak: 421.326 E-Mails und die Geheimnisse der AfD - was wir bisher sagen können",
+          "url": "https://www.spiegel.de/politik/afd-leak-421-326-e-mails-und-die-geheimnisse-der-afd-was-wir-bisher-sagen-koennen-a-2da64a7d-6617-49ba-9c3d-aaad15a25974#ref=rss",
+          "summary": "Hacker haben sich Zugang zu elf Postfächern der AfD verschafft, darunter das von Alexander Gauland. Es ist der umfangreichste Leak der Parteigeschichte. Der SPIEGEL wertet die Daten aus. Was wir bisher darüber sagen können.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c04a55e7-94a1-4a3e-8a8c-affdf64eb589_w1200_r1.778_fpx50_fpy54.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/23ce2437-e6da-4c0f-a312-34571b082560_w1200_r1.778_fpx49.33_fpy49.97.jpg"
         },
         {
           "title": "NSDAP-Kartei: Sie wollen mit der Nazi-Kartei chatten? Probieren Sie es hier aus",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/c5464017-8ac8-41fc-bb50-f31d1e948a3a_w1200_r1.778_fpx37_fpy51.png"
         },
         {
-          "title": "AfD und EU: Rechtsextreme fordern Ende der Direktwahl des Europaparlaments",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-und-eu-rechtsextreme-fordern-ende-der-direktwahl-des-europaparlaments-a-c8880948-0941-4e69-bb0d-fb16d7d4aa4d#ref=rss",
-          "summary": "Erst legte Frankreichs Marine Le Pen ihre Pläne zur Zukunft der EU vor, jetzt zieht die AfD nach. Eines der Ziele: Europaparlament und Kommission sollen in ihrer bisherigen Form abgeschafft werden – und das wäre nur der Anfang.",
+          "title": "News des Tages: Sicherheitslücken bei Webservern, Aus für Magazin »Emma«, Klimawandel",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-sicherheitsluecken-bei-webservern-aus-fuer-magazin-emma-klimawandel-a-8dafb753-631e-4706-9b2c-250876608366#ref=rss",
+          "summary": "Eine gravierende Sicherheitslücke bedroht Millionen Websites. Alice Schwarzer verkündet das Aus für »Emma«. Die Erde heizt sich immer schlimmer auf. Das ist die Lage am Mittwochabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cc2507b2-8abb-4361-8179-c8084f1735e4_w1200_r1.778_fpx66.65_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c04a55e7-94a1-4a3e-8a8c-affdf64eb589_w1200_r1.778_fpx50_fpy54.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
-          "url": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html",
-          "summary": "Ein attraktives Ticket für gelegentliche Bus- und Bahnfahrer - das hatten Hamburg und Nordrhein-Westfalen für die Verkehrsministerkonferenz zur Beratung vorgeschlagen. Doch nun ist \"Deutschlandticket light\" bereits wieder vom Tisch.",
+          "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+          "url": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html",
+          "summary": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5c2d0902-d09e-4f7d-8a25-72a394f988cc/AAABoV6e3S8/AAABnSSvrFg/16x9-big/zug-regional-100.jpg?width=1280"
+          "image": null
         },
         {
-          "title": "Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen",
-          "url": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html",
-          "summary": "Kurz vor der Stichwahl in Brasilien verschärft sich der Wahlkampf zwischen Lula und Bolsonaro. Beide Präsidentschaftsbewerber gehen nun gerichtlich gegen den jeweils anderen vor, um eine Annullierung der Kandidatur zu erreichen.",
+          "title": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html",
+          "summary": "In den USA schwindet die Solidarität mit Israel. Umfragen zeigen, dass sich insbesondere jüngere US-Amerikaner vom engen Verbündeten abwenden. Im Wahlkampf bereitet das Demokraten und Republikaner erhebliche Probleme.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2b2c64c7-ded9-4231-864a-18c6daab9e2f/AAABoV6AQlM/AAABnSSvrFg/16x9-big/bolsonaro-da-silva-102.jpg?width=1280"
+          "image": null
         },
         {
-          "title": "Das abgespaltene Russlandgeschäft von Globus wirft neue Fragen auf",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html",
-          "summary": "Die Eigner der Handelsgruppe Globus sind unter dem Namen \"Hyperglobus\" weiter in Russland aktiv. Eine Plusminus-Recherche zeigt nun: Einer dieser Märkte unterstützt eine Organisation, die Ausrüstung an die russische Armee liefert. Von M. Fuchs.",
+          "title": "Marktbericht: DAX startet dank KI durch",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+          "summary": "Von neuer KI-Zuversicht nach guten Unternehmensdaten getragen, nahm der DAX heute wieder kräftig Fahrt auf. Ein Treiber war das Thema Künstliche Intelligenz. Frankreich-Sorgen traten vorerst in den Hintergrund.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/41e066ee-d4e6-4833-8f3e-766fa010865f/AAABlfLtI1k/AAABnSSvrFg/16x9-big/globus-russland-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7426ec1d-c723-46a2-982e-15cb585de0ca/AAABle6hzm4/AAABnSSvrFg/16x9-big/dax-222.jpg?width=1280"
         }
       ]
     },
@@ -93,7 +93,15 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Auf dünnem Eis: Der Wettlauf um die Artktis",
+          "title": "Pix & UPI: Wie kostenlose Bezahlsysteme Visa und Mastercard das Fürchten lehren",
+          "url": "https://www.telepolis.de/article/Pix-UPI-Wie-kostenlose-Bezahlsysteme-Visa-und-Mastercard-das-Fuerchten-lehren-11495340.html",
+          "summary": "Brasilien und Indien betreiben die größten Echtzeit-Zahlungssysteme der Welt. Washington sieht unfaire Handelspraktiken, aber die Brics-Länder denken weiter.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/4/7/3/generated-image-1-b37e18339b986930.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+        },
+        {
+          "title": "Auf dünnem Eis: Der Wettlauf um die Arktis",
           "url": "https://www.telepolis.de/article/Auf-duennem-Eis-Der-Wettlauf-um-die-Artktis-11495235.html",
           "summary": "Kampf im Kalten: Der hohe Norden birgt gigantische Reichtümer – und weckt Begehrlichkeiten. Wie sich der Großmachtkonflikt zuspitzen könnte. Eine Analyse.",
           "source": "Telepolis",
@@ -106,15 +114,7 @@
           "summary": "Alle reden über fehlende Beitragszahler. Unser Autor sieht das Kernproblem in der schwachen Produktivität – und fordert einen Kurswechsel. Ein Gastbeitrag.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/5/0/1/Grafik_Horn-040296eb58100c66.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
-        },
-        {
-          "title": "Frankreich: Zwei Tote, zahlreiche Schwerverletzte und ein trojanisches Pferd",
-          "url": "https://www.telepolis.de/article/Frankreich-Zwei-Tote-zahlreiche-Schwerverletzte-und-ein-trojanisches-Pferd-11495058.html",
-          "summary": "Aufarbeitung der Proteste: Hinter der Aggression der Randalierer verschwindet die Polizeigewalt und die Frage nach der Verhältnismäßigkeit. Ein Einwurf.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/3/2/8/Master_Andreas-f347efcc58bd5214.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Datenleck: Was steht im AfD-Leak?",
-          "url": "https://www.sueddeutsche.de/politik/afd-leak-afd-e-mails-alexander-gauland-hackerangriff-li.3566739",
-          "summary": "Die „Süddeutsche Zeitung“ hat ein erstes Konvolut aus dem AfD-Leak analysiert. Darunter sind E-Mails zu Skandalen – aber auch zur alltäglichen Parteiarbeit.",
+          "title": "Krieg in der Ukraine: Kreml erklärt sich zu Gesprächen mit USA und Ukraine bereit",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-putin-kreml-usa-gespraeche-li.3563283",
+          "summary": "Das habe Präsident Putin dem US-Gesandten Witkoff zugesagt, erklärt Kreml-Berater Uschakow. Die neuen Verhandlungen könnten demnach im November beginnen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Bundeswehr: Wer den Wehrdienst-Fragebogen ignoriert, muss jetzt zahlen",
-          "url": "https://www.sueddeutsche.de/politik/bundeswehr-wehrdienst-bussgeld-fragebogen-li.3566903",
-          "summary": "Die Bundeswehr wächst, aber Tausende junge Männer beantworten den Fragebogen zum neuen Wehrdienst nicht. Das hat nun Folgen. Die Zahl vorsorglicher Kriegsdienstverweigerer steigt stark an.",
+          "title": "Olympische Spiele 2036, 2040 oder 2044: 20 Millionen Euro, damit München bei der Olympiabewerbung glänzt",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-olympia-2036-bewerbung-stadtrat-olympische-spiele-li.3566342",
+          "summary": "Der Stadtrat stellt die Weichen für den internationalen Wettbewerb und schafft acht neue Stellen. Der Zeitdruck wächst. Und  Bundesfinanzminister Klingbeil wartet auf eine SMS von Markus Söder.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Prozess gegen Russell Brand: „Wahllos und unersättlich“",
-          "url": "https://www.sueddeutsche.de/panorama/russell-brand-prozess-vorwurf-vergewaltigung-intime-details-li.3566439",
-          "summary": "Sechs Frauen werfen Russell Brand vor, sie vergewaltigt oder aggressiv geküsst und berührt zu haben. Der Komiker bestreitet das. Sein Anwalt versucht, die Klägerinnen vor Gericht als hysterisch darzustellen.",
+          "title": "Erderwärmung: Macht Trump die Klimaziele unerreichbar?",
+          "url": "https://www.sueddeutsche.de/wissen/klimawandel-fakten-leugner-donald-trump-emissionen-erderwaermung-folgen-li.3566817",
+          "summary": "Die Prognosen zur Erderhitzung verschlechtern sich, ein UN-Bericht schreibt das besonders der Politik der US-Regierung zu. Dabei tun auch andere Länder zu wenig.",
           "source": "SZ",
           "paywall": false,
           "image": null
