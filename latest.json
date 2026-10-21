@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-20T22:00:24.420Z",
-  "timestamp": "21.10.2026, 00:00:24",
+  "generated": "2026-10-21T02:00:15.776Z",
+  "timestamp": "21.10.2026, 04:00:15",
   "news": [
     {
       "source": "FAZ",
@@ -40,7 +40,7 @@
           "summary": "Die Ukraine steuert auf eine schwere Krise zu, weil sich ihr mächtigster Partner abzuwenden scheint: Wolodymyr Selenskyj wirft der Trump-Regierung vor, Abfangraketen zurückzuhalten. Für die Verteidigung wäre das verheerend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bc9528d4-491b-4d3e-b080-7aa2225a223e_w1200_r1.778_fpx65.32_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bc9528d4-491b-4d3e-b080-7aa2225a223e_w1200_r1.778_fpx61_fpy48.jpg"
         },
         {
           "title": "Deutsche Wirtschaft: Investitionsgipfel in Berlin soll Milliarden anlocken",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/681fd287-20e0-4b3a-bdcc-9dc1610651a8_w1200_r1.778_fpx48_fpy34.jpg"
         },
         {
-          "title": "Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/investitionen-was-vinci-chef-pierre-anjolras-am-standort-deutschland-schaetzt-a-883801b8-7453-4b01-9f8b-2842d86d844c#ref=rss",
-          "summary": "Pierre Anjolras gehört zu den Gästen des Investitionsgipfels in Berlin. Hier erklärt der Chef des französischen Konzerns Vinci, was er am Standort Deutschland schätzt – und wie die Krawalle in Frankreich verhindert werden könnten.",
+          "title": "Cornell University: »Jane Doe« wirft Unipräsident Kotlikoff Versagen vor",
+          "url": "https://www.spiegel.de/ausland/cornell-university-jane-doe-wirft-uni-praesident-kotlikoff-versagen-vor-a-7370b47c-b5cc-4952-93a6-22f4965b971b#ref=rss",
+          "summary": "Das Opfer einer mutmaßlichen Gruppenvergewaltigung an der US-Hochschule Cornell attackiert in einem Brief deren Präsidenten. Die Uni verteidigt sich: Einige Darstellungen in dem Schreiben seien nicht richtig.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d96b01fe-5992-41f2-ae3b-fbf90dbe4f74_w1200_r1.778_fpx33.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/85dd5a97-3417-4c05-b8b4-91dc7965b282_w1200_r1.778_fpx52.65_fpy54.97.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Tödliches Virus: Nigeria bestätigt ersten Ebola-Fall",
+          "url": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html",
+          "summary": "Nun auch der erste Fall von Ebola in Nigeria: Es ist nun das vierte Land in Afrika mit mindestens einem bestätigten Ebola-Fall. 44 Kontaktpersonen der infizierten Frau wurden bisher ermittelt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f433ca12-0788-429e-9cc3-db7b75eaff0d/AAABoVviQKs/AAABnSSvrFg/16x9-big/ebola-nigeria-100.jpg?width=1280"
+        },
+        {
+          "title": "Panne soll behoben werden: Höhere Tabaksteuer gilt aus Versehen ab sofort",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+          "summary": "Ab 2027 sollen die Tabaksteuern schrittweise steigen und das Rauchen verteuern, so dachte man. Doch nun wurde verkündet: Sie gilt bereits ab sofort. Dem Ministerium ist dabei ein Fehler unterlaufen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/fd9be30f-b42d-48cb-89f1-8b2c56826d03/AAABoUHGCn8/AAABnSSvrFg/16x9-big/zigaretten-168.jpg?width=1280"
+        },
+        {
           "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
           "url": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
           "summary": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/a50666ee-685e-4f98-a7fb-ba98d1b22a34/AAABoVrm2G4/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-276.jpg?width=1280"
-        },
-        {
-          "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-          "summary": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4e46c524-9b7f-4a2d-bd72-246300afb21c/AAABoVqycF4/AAABnSSvrFg/16x9-big/frankreich-proteste-218.jpg?width=1280"
-        },
-        {
-          "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-          "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html",
-          "summary": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1c8eaff8-f873-49fb-a010-08ca94412aae/AAABoVprdlY/AAABnSSvrFg/16x9-big/auto-auspuff-abgase-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Konsens per Kommando: Wie Russlands Probleme wachsen",
+          "url": "https://www.telepolis.de/article/Konsens-per-Kommando-Wie-Russlands-Probleme-wachsen-11493612.html",
+          "summary": "An der Urne läuft alles nach Plan, im Hinterland wächst der Unmut. Räumungen, Inflation, stille Proteste. Hält der russische Gesellschaftsvertrag noch?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/5/9/7/shutterstock_2830195519-dd80112b37a3cc8d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Japan: Quantenkraft bewegt erstmals sichtbares Objekt",
           "url": "https://www.telepolis.de/article/Japan-Quantenkraft-bewegt-erstmals-sichtbares-Objekt-11491610.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/7/4/9/image-1000-360894a5afd461015b97a9ad451dce52-e5d3980922a53bae.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Eltern warten Monate auf Grabstein ihrer Tochter: Der Grund liegt im Roten Meer",
-          "url": "https://www.telepolis.de/article/Eltern-warten-Monate-auf-Grabstein-ihrer-Tochter-der-Grund-liegt-im-Roten-Meer-11493688.html",
-          "summary": "Viele Grabsteine kommen per Schiff aus China oder Indien. Huthi-Angriffe und Kap-Umfahrungen verzögern Lieferungen um Wochen – eine Familie wartet seit April.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/6/3/7/shutterstock_2755794113-865a921c598e9050.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
