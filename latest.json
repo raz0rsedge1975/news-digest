@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T22:00:15.512Z",
-  "timestamp": "22.10.2026, 00:00:15",
+  "generated": "2026-10-22T02:00:19.682Z",
+  "timestamp": "22.10.2026, 04:00:19",
   "news": [
     {
       "source": "FAZ",
@@ -11,7 +11,7 @@
           "summary": "Singapur leidet unter einer niedrigen Geburtenrate. Also versucht der Staat, junge Erwachsene mithilfe von Singleabenden, Bootstouren und Datingplattformen zu verkuppeln.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
+          "image": null
         },
         {
           "title": "Witkoff in Russland: Trumps fatale Botschaft an Putin",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
+          "url": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
+          "summary": "Mehrere Raketenangriffe haben in der Nacht erneut Kiew erschüttert. Bürgermeister Klitschko sprach von mindestens sechs Verletzten.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/88f9b81b-bea0-44ec-8a2f-4fef0c048744/AAABoWDLfNk/AAABnSSvrFg/16x9-big/kiew-haus-raketen-100.jpg?width=1280"
+        },
+        {
           "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
           "url": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
           "summary": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/d7ded255-ab71-4df5-b5a9-8b7142b24fee/AAABoV_hoHM/AAABnSSvrFg/16x9-big/papst-leo-220.jpg?width=1280"
-        },
-        {
-          "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html",
-          "summary": "Russland hat sich bereit gezeigt, die Gespräche mit den USA und der Ukraine wieder aufzunehmen. Aber sind Fortschritte wahrscheinlich? Osteuropa-Experte Umland zeigt sich im tagesschau24-Interview skeptisch.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/30d964cc-bfd9-493b-997d-013c2c07564b/AAABoV_REgQ/AAABnSSvrFg/16x9-big/putin-trump-148.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Warum Firmenerben in Deutschland privilegiert werden",
+          "url": "https://www.telepolis.de/article/Warum-Firmenerben-in-Deutschland-privilegiert-werden-11493968.html",
+          "summary": "Firmenerben zahlen oft kaum Erbschaftssteuer, Privatpersonen hingegen schon. In Karlsruhe geht es jetzt um Grundsätzliches. Ein Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/7/7/8/bvg_ho-4f26de65493a51e5.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Pix & UPI: Wie kostenlose Bezahlsysteme Visa und Mastercard das Fürchten lehren",
           "url": "https://www.telepolis.de/article/Pix-UPI-Wie-kostenlose-Bezahlsysteme-Visa-und-Mastercard-das-Fuerchten-lehren-11495340.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/4/1/8/shutterstock_1407562163-8dadbcce6c615ea0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Die Rentenkrise beginnt nicht im Kreißsaal",
-          "url": "https://www.telepolis.de/article/Die-Rentenkrise-beginnt-nicht-im-Kreisssaal-11495396.html",
-          "summary": "Alle reden über fehlende Beitragszahler. Unser Autor sieht das Kernproblem in der schwachen Produktivität – und fordert einen Kurswechsel. Ein Gastbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Nahost: Angriffe der Huthi: USA ziehen Botschaftspersonal aus Saudi-Arabien ab",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-gantz-riad-us-botschaft-li.3560260",
+          "summary": "Das Außenministerium begründet den Schritt mit zunehmenden Attacken auf zivile Ziele. Zurückbeordert werden nicht dringend benötigte Regierungsmitarbeiter.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Bayern in der Einzelkritik: Kane regiert das ganze Spielfeld",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-einzelkritik-kane-davies-li.3567125",
@@ -130,17 +138,9 @@
           "image": null
         },
         {
-          "title": "Real gewinnt gegen Leipzig: Seriös unter die Räder gekommen",
+          "title": "Leipzig unterliegt Real: Seriös unter die Räder gekommen",
           "url": "https://www.sueddeutsche.de/sport/real-madrid-leipzig-champions-league-diomande-li.3567127",
           "summary": "RB Leipzig verkauft sich im Madrider Bernabéu-Stadion über weite Strecken besser, als es das Endergebnis von 1:4 vermuten lässt. Real kann trotzdem ein paar Kräfte für den Clásico sparen.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "2:2 gegen Arsenal: Rice entreißt Bayern den Sieg",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-champions-league-kane-rice-li.3567124",
-          "summary": "Der FC Bayern geht mit einer improvisierten Aufstellung in das Spiel gegen den FC Arsenal. Harry Kane ragt heraus, am Ende hat aber der englische Meister das letzte Wort.",
           "source": "SZ",
           "paywall": false,
           "image": null
