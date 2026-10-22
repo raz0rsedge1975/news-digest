@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-22T10:00:36.568Z",
-  "timestamp": "22.10.2026, 12:00:36",
+  "generated": "2026-10-22T14:00:21.607Z",
+  "timestamp": "22.10.2026, 16:00:21",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Auswanderungsziel: Die Schweiz ist aus guten Gründen das Sehnsuchtsland der Deutschen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
-          "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an. Was macht die Schweiz besser als Deutschland?",
+          "title": "PHP-Sicherheitsleck: Open AI fand die Lücke – und entschied, wer davon erfuhr",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/php-sicherheitsluecke-was-der-ki-fund-fuer-staaten-bedeutet-201611231.html",
+          "summary": "Die lange bestehende PHP-Sicherheitslücke hat Open AI mit seinem KI-Modell aufgedeckt – und gezielt Entwickler und Regierungen darüber informiert. Doch dieses Wohlwollen kann umschlagen, wie das Beispiel Elon Musk zeigt.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
-        },
-        {
-          "title": "So viele wie noch nie: Sie sind dann mal weg – warum Auswandern gerade angesagt ist",
-          "url": "https://www.faz.net/aktuell/wirtschaft/deutsche-auswanderer-warum-so-viele-wie-nie-das-land-verlassen-accg-201076896.html",
-          "summary": "Viele junge, gut qualifizierte Deutsche verlassen das Land. Ein Ökonom sagt: Das „Preis-Leistungs-Verhältnis“ in Deutschland stimmt nicht mehr. Über eine übersehene Krise, die niemanden kaltlassen sollte.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/a45faf130b2f/w7099h3709x0y512o/202609/43601.0.2552631059/sein-konzern-wusste-seit.webp"
         },
         {
           "title": "Internetseiten offline: Was hinter den PHP-Schwachstellen steckt und was nun jeder tun muss",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schwachstelle-in-php-was-dahintersteckt-und-nun-jeder-tun-muss-accg-201610624.html",
-          "summary": "Lücken in der wichtigsten Web-Programmiersprache haben dazu geführt, dass Tausende Internetseiten offline gestellt wurden. Was ist geschehen? Und was ist zu tun? Hier kommen Antworten auf die wichtigsten Fragen.",
+          "summary": "Lücken in der Web-Programmiersprache PHP haben dazu geführt, dass Tausende Internetseiten offline gestellt wurden. Was ist geschehen? Und was ist zu tun? Hier kommen Antworten auf die wichtigsten Fragen.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/c0e9995a9054/w6000h3135x0y120o/202610/a57f1def-bbb9-4e12-bc00-880b3b6ce5d4/gravierende-sicherheitsluecken.webp"
+        },
+        {
+          "title": "43 Milliarden Mehr: Die Steuerschätzung hat einen Haken für Klingbeil",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/steuerschaetzung-klingbeil-erhaelt-kaum-spielraum-fuer-den-bundeshaushalt-201611627.html",
+          "summary": "Steuerfachleute sagen dem Staat ein Plus von mehr als 43 Milliarden Euro bis 2030 voraus. Davon entfallen aber nur drei Milliarden Euro auf den Bund. Das löst weder die Haushaltsprobleme, noch erlaubt es neue Projekte.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a97ad0ec3470/w4000h2090x0y291o/202610/43601.0.2665787572/steuerplus-verschafft-kaum.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Wirecard: Ex-Chef Markus Braun - Interview im Gefängnis: »Ich bin nicht mehr der, der ich war«",
-          "url": "https://www.spiegel.de/wirtschaft/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-f22bd44b-671e-4f3d-8865-29c8a7262d9a#ref=rss",
-          "summary": "Als Chef von Wirecard war Markus Braun Aktienmilliardär. Seit mehr als sechs Jahren sitzt er in Untersuchungshaft, sein Ex-Kollege Jan Marsalek ist auf der Flucht. In der JVA Stadelheim bricht Braun nun sein Schweigen – kurz vor dem Urteil.",
-          "source": "Spiegel",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Donald Trump, Xi Jinping und Wladimir Putin: Europa muss diese Männer stoppen",
-          "url": "https://www.spiegel.de/ausland/donald-trump-xi-jinping-und-wladimir-putin-europa-muss-diese-maenner-stoppen-a-6cbfbcd4-540b-461c-9a38-7073b5e9a5bb#ref=rss",
-          "summary": "Wladimir Putin plant eine unheilvolle Allianz mit Donald Trump und Xi Jinping. Die EU hat die Mittel, das zu verhindern.",
+          "title": "PHP2Shell: Wie eine Server-Schwachstelle Behörden aus dem Netz kegelte",
+          "url": "https://www.spiegel.de/netzwelt/netzpolitik/php2shell-wie-eine-server-schwachstelle-behoerden-aus-dem-netz-kegelte-a-1d993c5a-2f97-4190-86b1-64bc2bf5070b#ref=rss",
+          "summary": "Schwere Sicherheitslücken in Millionen Servern haben Firmen, Behörden und Privatleute alarmiert. Jetzt wird bekannt, dass Informationslecks für den Unfall verantwortlich sind. Wie groß die Schäden werden, ist noch offen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b8428ba5-69d6-42a4-bc65-e0a3793d15b6_w1200_r1.778_fpx48_fpy33.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/cee06562-df04-4f7b-8a98-68a56c617950_w1200_r1.778_fpx69.24_fpy50.jpg"
         },
         {
-          "title": "PHP-Sicherheitslücke auf Websites: was Sie jetzt tun müssen, um sich abzusichern",
-          "url": "https://www.spiegel.de/netzwelt/php-sicherheitsluecke-auf-websites-was-sie-jetzt-tun-muessen-um-sich-abzusichern-a-625f6457-1437-4643-8fd1-b0624da87910#ref=rss",
-          "summary": "Eine tiefgreifende Sicherheitslücke gefährdet Millionen Server im Internet. Für Nutzer gilt vor allem: wachsam sein.",
+          "title": "Steuerschätzung: 43,3 Milliarden Euro mehr Einnahmen bis 2030 erwartet",
+          "url": "https://www.spiegel.de/wirtschaft/steuerschaetzung-43-3-milliarden-euro-mehr-einnahmen-bis-2030-erwartet-a-95ab376a-df8a-4a7c-8205-401ee812527a#ref=rss",
+          "summary": "Die Steuereinnahmen ziehen bis 2030 leicht an: Laut der Prognose des Arbeitskreises Steuerschätzung können Bund, Länder und Kommunen mit mehr rechnen als erwartet. Finanzminister Klingbeil sieht trotzdem keine neuen Spielräume im Haushalt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1c9250d8-3817-4d05-988d-44370a64e026_w1200_r1.778_fpx37.5_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0e9f55c4-c77b-41c4-8e23-bb5ca4bcd3cb_w1200_r1.778_fpx51_fpy53.jpg"
+        },
+        {
+          "title": "Erneuerbare Energien: EEG-Novelle könnte Mehrkosten in Milliardenhöhe verursachen",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/erneuerbare-energien-eeg-novelle-koennte-mehrkosten-in-milliardenhoehe-verursachen-a-cb9f8276-4872-4a83-8c51-238362639eae#ref=rss",
+          "summary": "Die Novelle des Erneuerbare-Energien-Gesetzes droht nach neuen Berechnungen Mehrkosten in zweistelliger Milliardenhöhe zu verursachen. Das Wirtschaftsministerium widerspricht.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/817f30ee-7965-4a7b-ace1-7787c2b7d716_w1200_r1.778_fpx51_fpy38.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
-          "summary": "Die Ministerpräsidentenkonferenz tagt heute - noch ist kein AfD-Regierungschef dabei. Das könnte sich ändern, sollte Siegmund in Sachsen-Anhalt gewählt werden. Der rheinland-pfälzische Ministerpräsident Schnieder warnte vor Sicherheitsrisiken.",
+          "title": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html",
+          "summary": "Markus Söder will Bundesländer mit \"extremistischer\" Regierungsbeteiligung vom Länderfinanzausgleich ausschließen - und schaut dabei nach Berlin und Sachsen-Anhalt. Aber ginge das überhaupt? Von Frank Aischmann.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9f151257-3b6a-4f01-9be2-e32c901e38b4/AAABoWKPpBY/AAABnSSvrFg/16x9-big/gordon-schnieder-110.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/85176c17-bb2b-4854-b0b7-9f6390e8f272/AAABoWPLv5Y/AAABnSSvrFg/16x9-big/soeder-924.jpg?width=1280"
         },
         {
-          "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
-          "summary": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
+          "title": "Marktbericht: SAP-Umbau trägt Früchte",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
+          "summary": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3811b66a-116c-4da8-b96d-0ca6633f6dcd/AAABnu3HSFM/AAABnSSvrFg/16x9-big/rente-472.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a05adccf-f806-4d4c-a983-d6beac9ea8c2/AAABoWLWHwc/AAABnSSvrFg/16x9-big/sap-154.jpg?width=1280"
         },
         {
-          "title": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
-          "url": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
-          "summary": "Seit 1980 kürt die Loki-Schmidt-Stiftung die Blume des Jahres. Für 2027 hat sie die Gelbe Wiesenraute auserkoren. Mit der Wahl der bis zu 1,50 Meter hohen Pflanze verbindet die Stiftung einen Appell.",
+          "title": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
+          "url": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html",
+          "summary": "Der Internationale Strafgerichtshof hat den diesjährigen Sacharow-Preis erhalten. Mit der Auszeichnung würdigt das EU-Parlament den Einsatz des Gerichts für das Völkerrecht - und setzt ein Zeichen gegen die Sanktionen von US-Präsident Trump.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/72a398ad-6bc3-4bf0-b47e-50b5672d4aa9/AAABoWLaBbY/AAABnSSvrFg/16x9-big/gelbe-wiesenraute-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bf15d8c9-9431-4551-b23e-07ee40b0a12f/AAABoTP1tpU/AAABnSSvrFg/16x9-big/istgh-122.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Iceye-Vorfall: Was über Russlands Satellitenmanöver bekannt ist",
+          "url": "https://www.telepolis.de/article/Iceye-Vorfall-Was-ueber-Russlands-Satellitenmanoever-bekannt-ist-11496606.html",
+          "summary": "Kosmos 2612 hat sich einem Radarsatelliten genähert, der die Ukraine mutmaßlich mit Bildern versorgt. Was über den Vorfall bekannt ist – und was nicht.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/1/2/9/ICEYE_SAR_satellite_Netherlands-38d10161049df5e7.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Atemarbeit: Was sie kann – und was nicht",
+          "url": "https://www.telepolis.de/article/Atemarbeit-Was-sie-kann-und-was-nicht-11495452.html",
+          "summary": "Wim Hof, Prānāyāma, zyklisches Seufzen und 4-7-8-Atmung: Forscher bestätigen die positiven Wirkungen – doch nicht jede Technik ist für jeden geeignet.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/5/3/3/fizkes-26d8bd72c48b2d76.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Proteste in Italien: Europa begehrt auf gegen hohe Lebenshaltungskosten",
           "url": "https://www.telepolis.de/article/Proteste-in-Italien-Europa-begehrt-auf-gegen-hohe-Lebenshaltungskosten-11496473.html",
           "summary": "In Süditalien stehen die Lastwagen still. Rom antwortet mit Soldaten. Die Proteste in Italien, Frankreich und Belgien haben gemeinsame Ursachen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/0/5/8/shutterstock_2456421601-78729b6135ae51ac.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Pandemie im Kino: Wer nicht gehorcht, gehört nicht mehr dazu",
-          "url": "https://www.telepolis.de/article/Pandemie-im-Kino-Wer-nicht-gehorcht-gehoert-nicht-mehr-dazu-11496356.html",
-          "summary": "Nina Hoss flieht vor einem autoritären Seuchenstaat. „Die andere Seite“ ist einer der mutigsten und besten deutschen Filme seit Langem.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/9/9/9/Master_Film-437e6d9bf76f369f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Mobbing statt Sozialplan: So setzen Sie sich im Betrieb zur Wehr",
-          "url": "https://www.telepolis.de/article/Mobbing-statt-Sozialplan-So-setzen-Sie-sich-im-Betrieb-zur-Wehr-11493694.html",
-          "summary": "Wenn Stellen wegfallen sollen, greifen manche Chefs zu unfairen Mitteln. Schikane und Ausgrenzung sind laut Betroffenen kein Zufall. Wie kann man sich wehren?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/6/4/0/mobbing_1-f9d57cefafe8942f.gif"
+          "image": null
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Raubkatzen-Sichtung: Rätsel des Pumas am Münchner Flughafen bleibt vorerst ungelöst",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-erding-flughafen-puma-ermittlungen-eingestellt-li.3567178",
-          "summary": "Die Aufnahmen eines Jägers vor zwei Wochen lösten Aufregung aus. Laut Polizei gibt es keine neuen Hinweise – aber die Arbeit für die Ermittler geht weiter.",
+          "title": "Newsblog zur Bundespolitik: Geschätzte Steuereinnahmen ziehen bis 2030 etwas an",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-steuerschaetzung-finanzministerium-haushalt-konjunktur-li.3529564",
+          "summary": "Die Steuerschätzung fällt nach Angaben des Finanzministeriums wegen der besseren Konjunktur allein für das kommende Jahr um 10,9 Milliarden Euro höher aus als bisher erwartet.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "KI und Literatur: Verlag bestätigt KI-Vorwürfe gegen Thélyson Orélien",
-          "url": "https://www.sueddeutsche.de/kultur/thelyson-orelien-ki-vorwurf-verlag-bestaetigt-li.3567259",
-          "summary": "Das Debüt des Autors war zum internationalen Bestseller geworden, dann kam der Vorwurf auf, große Teile des Textes seien KI-generiert. Nun beendet sein Verlag die Zusammenarbeit.",
+          "title": "Justiz: Dämpfer für Wirecard-Aktionäre",
+          "url": "https://www.sueddeutsche.de/wirtschaft/wirecard-ey-aktionaere-bgh-schadenersatz-li.3567487",
+          "summary": "Nach dem Wirecard-Skandal hofften Tausende auf Schadenersatz von den Wirtschaftsprüfern von EY. Zwei Gerichtsentscheidungen haben diese Hoffnung nun deutlich minimiert.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Betrug bei Buchungsportalen: Diese Warnsignale sollten Reisende kennen",
-          "url": "https://www.sueddeutsche.de/wirtschaft/booking-com-betrug-phishing-reisende-tourismus-li.3566920",
-          "summary": "Die EU-Kommission prüft, ob Booking. com seine Nutzer ausreichend vor der Gefahr durch Cyberkriminelle bewahrt. Wie sich Urlauber vor Betrug schützen können.",
+          "title": "München: Vergewaltiger wird aus U-Haft entlassen – und soll erneut vergewaltigt haben",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-vergewaltiger-freilassung-u-haft-prozess-wittelsbacherbruecke-li.3567319",
+          "summary": "Ein junger Mann sitzt wegen Vergewaltigung einer 16-Jährigen in Untersuchungshaft. Das Opfer kann nicht vernommen werden. Der Mann wird daraufhin freigelassen – und nun steht er wieder vor Gericht.",
           "source": "SZ",
           "paywall": false,
           "image": null
