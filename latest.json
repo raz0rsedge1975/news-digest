@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-22T06:00:54.561Z",
-  "timestamp": "22.10.2026, 08:00:54",
+  "generated": "2026-10-22T10:00:36.568Z",
+  "timestamp": "22.10.2026, 12:00:36",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Krawalle auch in Italien: Wenn den Jungen die Zukunft nur noch trostlos erscheint",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/italiens-jugend-ohne-perspektive-warum-wut-und-proteste-wachsen-accg-201607391.html",
-          "summary": "Auch in Italien gehen Tausende junger Menschen auf die Straße, einige davon gewalttätig. Das schwache Bildungssystem und schlechte Aussichten auf eine Arbeitsstelle treiben viele an. Geringe Löhne kommen hinzu.",
+          "title": "Auswanderungsziel: Die Schweiz ist aus guten Gründen das Sehnsuchtsland der Deutschen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
+          "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an. Was macht die Schweiz besser als Deutschland?",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "An Halloween: Kapern Linksextreme die Proteste in deutschen Großstädten?",
-          "url": "https://www.faz.net/aktuell/politik/inland/verfassungsschutz-warnt-vor-linksextremisten-bei-demos-am-31-oktober-201608255.html",
-          "summary": "Polizei und Verfassungsschutz warnen: Linksextremisten wollen die Aktion „Gen Z regelt das“ kapern. Die Polizei kündigt starke Präsenz an.",
+          "title": "So viele wie noch nie: Sie sind dann mal weg – warum Auswandern gerade angesagt ist",
+          "url": "https://www.faz.net/aktuell/wirtschaft/deutsche-auswanderer-warum-so-viele-wie-nie-das-land-verlassen-accg-201076896.html",
+          "summary": "Viele junge, gut qualifizierte Deutsche verlassen das Land. Ein Ökonom sagt: Das „Preis-Leistungs-Verhältnis“ in Deutschland stimmt nicht mehr. Über eine übersehene Krise, die niemanden kaltlassen sollte.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "PHP-Sicherheitslücke: BSI rät zur „umgehenden“ Installation von Sicherheitsupdate",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/php-sicherheitsluecke-bsi-raet-zur-sofortigen-installation-des-updates-201609383.html",
-          "summary": "Eine PHP-Schwachstelle kann Angreifern im Web die vollständige Kontrolle über Server geben. Weltweit wurden daher zahlreiche Internetseiten vorsorglich abgeschaltet. Das BSI rät dringend zu einem Sicherheitsupdate.",
+          "title": "Internetseiten offline: Was hinter den PHP-Schwachstellen steckt und was nun jeder tun muss",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schwachstelle-in-php-was-dahintersteckt-und-nun-jeder-tun-muss-accg-201610624.html",
+          "summary": "Lücken in der wichtigsten Web-Programmiersprache haben dazu geführt, dass Tausende Internetseiten offline gestellt wurden. Was ist geschehen? Und was ist zu tun? Hier kommen Antworten auf die wichtigsten Fragen.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/c0e9995a9054/w6000h3135x0y120o/202610/a57f1def-bbb9-4e12-bc00-880b3b6ce5d4/gravierende-sicherheitsluecken.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Midterms in Ohio: Wahlkampf von Amy Acton und Vivek Ramaswamy gerät zur Schlammschlacht",
-          "url": "https://www.spiegel.de/ausland/midterms-in-ohio-wahlkampf-von-amy-acton-und-vivek-ramaswamy-geraet-zur-schlammschlacht-a-f00e32d6-51bd-4e6d-a1ce-fcfc3f8e9fb8#ref=rss",
-          "summary": "Die Demokratin Amy Acton hat Chancen, Gouverneurin von Ohio zu werden. Dass sie als Kind von ihrem Stiefvater mutmaßlich missbraucht wurde, schlachtet die politische Gegenseite im Wahlkampf aus. Darüber sind sogar Republikaner entsetzt.",
+          "title": "Wirecard: Ex-Chef Markus Braun - Interview im Gefängnis: »Ich bin nicht mehr der, der ich war«",
+          "url": "https://www.spiegel.de/wirtschaft/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-f22bd44b-671e-4f3d-8865-29c8a7262d9a#ref=rss",
+          "summary": "Als Chef von Wirecard war Markus Braun Aktienmilliardär. Seit mehr als sechs Jahren sitzt er in Untersuchungshaft, sein Ex-Kollege Jan Marsalek ist auf der Flucht. In der JVA Stadelheim bricht Braun nun sein Schweigen – kurz vor dem Urteil.",
           "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/bb116e2b-7159-465f-9f01-5d9c60b73594_w1200_r1.778_fpx45_fpy23.jpg"
+          "paywall": false,
+          "image": null
         },
         {
-          "title": "NSDAP-Kartei: Sie wollen mit der Nazi-Kartei chatten? Probieren Sie es hier aus",
-          "url": "https://www.spiegel.de/geschichte/nsdap-kartei-sie-wollen-mit-der-nazi-kartei-chatten-probieren-sie-es-hier-aus-a-7f50cb81-3987-47bc-9072-7788bf95e8db#ref=rss",
-          "summary": "Unser KI-Chatbot durchforstet Millionen Mitgliedskarten der NSDAP, Hunderttausende Daten zu SS und Waffen-SS und das SPIEGEL-Archiv. Bei ChatGPT oder Claude beantwortet er Ihre Fragen.",
+          "title": "Donald Trump, Xi Jinping und Wladimir Putin: Europa muss diese Männer stoppen",
+          "url": "https://www.spiegel.de/ausland/donald-trump-xi-jinping-und-wladimir-putin-europa-muss-diese-maenner-stoppen-a-6cbfbcd4-540b-461c-9a38-7073b5e9a5bb#ref=rss",
+          "summary": "Wladimir Putin plant eine unheilvolle Allianz mit Donald Trump und Xi Jinping. Die EU hat die Mittel, das zu verhindern.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c5464017-8ac8-41fc-bb50-f31d1e948a3a_w1200_r1.778_fpx37_fpy51.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/b8428ba5-69d6-42a4-bc65-e0a3793d15b6_w1200_r1.778_fpx48_fpy33.jpg"
         },
         {
-          "title": "News: Sicherheitsrisiko PHP, Kanzler im Westbalkan, Ministerpräsidentenkonferenz, Hubertus Heil",
-          "url": "https://www.spiegel.de/politik/deutschland/news-sicherheitsrisiko-php-kanzler-im-westbalkan-ministerpraesidentenkonferenz-hubertus-heil-a-19cb9abd-0674-4a64-b2b1-e9427753cdab#ref=rss",
-          "summary": "Websites gehen wegen Sicherheitslücken offline. Der Kanzler reist an die Adria. Und die Ministerpräsidenten wappnen sich gegen die AfD. Das ist die Lage am Donnerstagmorgen.",
+          "title": "PHP-Sicherheitslücke auf Websites: was Sie jetzt tun müssen, um sich abzusichern",
+          "url": "https://www.spiegel.de/netzwelt/php-sicherheitsluecke-auf-websites-was-sie-jetzt-tun-muessen-um-sich-abzusichern-a-625f6457-1437-4643-8fd1-b0624da87910#ref=rss",
+          "summary": "Eine tiefgreifende Sicherheitslücke gefährdet Millionen Server im Internet. Für Nutzer gilt vor allem: wachsam sein.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/1c9250d8-3817-4d05-988d-44370a64e026_w1200_r1.778_fpx37.5_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
-          "summary": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.",
+          "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html",
+          "summary": "Die Ministerpräsidentenkonferenz tagt heute - noch ist kein AfD-Regierungschef dabei. Das könnte sich ändern, sollte Siegmund in Sachsen-Anhalt gewählt werden. Der rheinland-pfälzische Ministerpräsident Schnieder warnte vor Sicherheitsrisiken.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3119ea88-9f5c-41b3-b86c-bc981109b37a/AAABoWHunEA/AAABnSSvrFg/16x9-big/mark-zuckerberg-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9f151257-3b6a-4f01-9be2-e32c901e38b4/AAABoWKPpBY/AAABnSSvrFg/16x9-big/gordon-schnieder-110.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-          "summary": "Am Donnerstag verarbeiten die Aktienmärkte die Bilanzen von wichtigen US-Technologiekonzernen wie Meta und Tesla. Auch SAP hat die Quartalszahlen vorgestellt. Die Anleger reagieren zurückhaltend.",
+          "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html",
+          "summary": "Von 2028 an soll die Kapitalrente das deutsche Rentensystem ergänzen: Beiträge werden in Fonds investiert, um die Altersvorsorge zu stärken. Kann die Kapitalrente die großen Hoffnungen erfüllen? Von Frank Aischmann.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/89614d04-fccf-4229-aac5-bf0e60c2d362/AAABnSQoOG8/AAABnSSvrFg/16x9-big/boerse-498.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3811b66a-116c-4da8-b96d-0ca6633f6dcd/AAABnu3HSFM/AAABnSSvrFg/16x9-big/rente-472.jpg?width=1280"
         },
         {
-          "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
-          "summary": "Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren ihre Zuversicht. Doch sind sie verlässlich? Von Jan Oppel.",
+          "title": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
+          "url": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html",
+          "summary": "Seit 1980 kürt die Loki-Schmidt-Stiftung die Blume des Jahres. Für 2027 hat sie die Gelbe Wiesenraute auserkoren. Mit der Wahl der bis zu 1,50 Meter hohen Pflanze verbindet die Stiftung einen Appell.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c78dd657-79ad-4506-b080-5dafd054e9e0/AAABoVpZM5I/AAABnSSvrFg/16x9-big/wahlplakate-texas-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/72a398ad-6bc3-4bf0-b47e-50b5672d4aa9/AAABoWLaBbY/AAABnSSvrFg/16x9-big/gelbe-wiesenraute-104.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Warum Firmenerben in Deutschland privilegiert werden",
-          "url": "https://www.telepolis.de/article/Warum-Firmenerben-in-Deutschland-privilegiert-werden-11493968.html",
-          "summary": "Firmenerben zahlen oft kaum Erbschaftssteuer, Privatpersonen hingegen schon. In Karlsruhe geht es jetzt um Grundsätzliches. Ein Kommentar.",
+          "title": "Proteste in Italien: Europa begehrt auf gegen hohe Lebenshaltungskosten",
+          "url": "https://www.telepolis.de/article/Proteste-in-Italien-Europa-begehrt-auf-gegen-hohe-Lebenshaltungskosten-11496473.html",
+          "summary": "In Süditalien stehen die Lastwagen still. Rom antwortet mit Soldaten. Die Proteste in Italien, Frankreich und Belgien haben gemeinsame Ursachen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/0/5/8/shutterstock_2456421601-78729b6135ae51ac.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Pix & UPI: Wie kostenlose Bezahlsysteme Visa und Mastercard das Fürchten lehren",
-          "url": "https://www.telepolis.de/article/Pix-UPI-Wie-kostenlose-Bezahlsysteme-Visa-und-Mastercard-das-Fuerchten-lehren-11495340.html",
-          "summary": "Brasilien und Indien betreiben die größten Echtzeit-Zahlungssysteme der Welt. Washington sieht unfaire Handelspraktiken, aber die Brics-Länder denken weiter.",
+          "title": "Pandemie im Kino: Wer nicht gehorcht, gehört nicht mehr dazu",
+          "url": "https://www.telepolis.de/article/Pandemie-im-Kino-Wer-nicht-gehorcht-gehoert-nicht-mehr-dazu-11496356.html",
+          "summary": "Nina Hoss flieht vor einem autoritären Seuchenstaat. „Die andere Seite“ ist einer der mutigsten und besten deutschen Filme seit Langem.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/9/9/9/Master_Film-437e6d9bf76f369f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Auf dünnem Eis: Der Wettlauf um die Arktis",
-          "url": "https://www.telepolis.de/article/Auf-duennem-Eis-Der-Wettlauf-um-die-Artktis-11495235.html",
-          "summary": "Kampf im Kalten: Der hohe Norden birgt gigantische Reichtümer – und weckt Begehrlichkeiten. Wie sich der Großmachtkonflikt zuspitzen könnte. Eine Analyse.",
+          "title": "Mobbing statt Sozialplan: So setzen Sie sich im Betrieb zur Wehr",
+          "url": "https://www.telepolis.de/article/Mobbing-statt-Sozialplan-So-setzen-Sie-sich-im-Betrieb-zur-Wehr-11493694.html",
+          "summary": "Wenn Stellen wegfallen sollen, greifen manche Chefs zu unfairen Mitteln. Schikane und Ausgrenzung sind laut Betroffenen kein Zufall. Wie kann man sich wehren?",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/6/4/0/mobbing_1-f9d57cefafe8942f.gif"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Neue Grundsicherung: Bürgergeld-Reform spart doch keine Milliarden",
-          "url": "https://www.sueddeutsche.de/politik/buergergeld-reform-2026-grundsicherung-einsparungen-merz-li.3566853",
-          "summary": "Das umstrittene Bürgergeld ist weg. Die „Süddeutsche Zeitung“ hat erste Daten zur neuen Grundsicherung ausgewertet, mit einem ernüchternden Ergebnis: Die Reform erfüllt die hohen Erwartungen nicht.",
+          "title": "Raubkatzen-Sichtung: Rätsel des Pumas am Münchner Flughafen bleibt vorerst ungelöst",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-erding-flughafen-puma-ermittlungen-eingestellt-li.3567178",
+          "summary": "Die Aufnahmen eines Jägers vor zwei Wochen lösten Aufregung aus. Laut Polizei gibt es keine neuen Hinweise – aber die Arbeit für die Ermittler geht weiter.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Nahost: Angriffe der Huthi: USA ziehen Botschaftspersonal aus Saudi-Arabien ab",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-gantz-riad-us-botschaft-li.3560260",
-          "summary": "Das Außenministerium begründet den Schritt mit zunehmenden Attacken auf zivile Ziele. Zurückbeordert werden nicht dringend benötigte Regierungsmitarbeiter.",
+          "title": "KI und Literatur: Verlag bestätigt KI-Vorwürfe gegen Thélyson Orélien",
+          "url": "https://www.sueddeutsche.de/kultur/thelyson-orelien-ki-vorwurf-verlag-bestaetigt-li.3567259",
+          "summary": "Das Debüt des Autors war zum internationalen Bestseller geworden, dann kam der Vorwurf auf, große Teile des Textes seien KI-generiert. Nun beendet sein Verlag die Zusammenarbeit.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Bayern in der Einzelkritik: Kane regiert das ganze Spielfeld",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-einzelkritik-kane-davies-li.3567125",
-          "summary": "Der Ballon d’Or-Kandidat führt einen Abstoß aus, spielt Traumpässe und trifft selbst. Alphonso Davies findet sich auf einer neuen Position wunderbar zurecht – und Ismael Saibari braucht noch Zeit. Die Bayern in der Einzelkritik.",
+          "title": "Betrug bei Buchungsportalen: Diese Warnsignale sollten Reisende kennen",
+          "url": "https://www.sueddeutsche.de/wirtschaft/booking-com-betrug-phishing-reisende-tourismus-li.3566920",
+          "summary": "Die EU-Kommission prüft, ob Booking. com seine Nutzer ausreichend vor der Gefahr durch Cyberkriminelle bewahrt. Wie sich Urlauber vor Betrug schützen können.",
           "source": "SZ",
           "paywall": false,
           "image": null
