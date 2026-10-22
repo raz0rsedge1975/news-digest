@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-22T18:01:37.030Z",
-  "timestamp": "22.10.2026, 20:01:37",
+  "generated": "2026-10-22T22:00:14.741Z",
+  "timestamp": "23.10.2026, 00:00:14",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Wahl in Brasilien: Für sie ist Bolsonaro der Messias",
+          "url": "https://www.faz.net/aktuell/politik/ausland/brasiliens-evangelikale-bolsonaros-bruecke-zu-den-armen-201606669.html",
+          "summary": "Brasiliens evangelikale Kirchen sind eine politische Macht. Über sie erreicht die Rechte auch die Armen. Doch nicht alle Gläubigen folgen ihren Pastoren.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/2c7b714d81a6/w2936h1534x0y175o/202610/43601.0.2650259139/die-bibel-im-wahlkampf.webp"
+        },
+        {
+          "title": "Vor der Stichwahl: Manipulieren US-Techkonzerne den Wahlkampf in Brasilien?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/lula-klagt-gegen-bolsonaro-meta-soll-algorithmen-manipuliert-haben-201612301.html",
+          "summary": "Brasiliens amtierender Präsident Lula wirft Meta und X vor, seinem Kontrahenten Bolsonaro Vorteile zu verschaffen. Mit seinem Team zieht er vor das Oberste Wahlgericht.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/39fbf9ae39d9/w6192h3235x0y769o/202610/43601.0.2776563171/anhaenger-von-praesident-lula.webp"
+        },
         {
           "title": "PHP-SIcherheitslücken: „Das ist eine Schwachstellen-Apokalypse“",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jackpot-fuer-angreifer-it-fachmann-mirko-ross-ueber-die-php-schwachstelle-201611025.html",
           "summary": "Sicherheitslücken in der beliebten Programmiersprache PHP bedrohen große Teile des Internets. Der IT-Sicherheitsfachmann Mirko Ross vergleicht das mit einem Katastrophenfall – und erklärt, welche Rolle KI spielt.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Einflussreicher Code: Die deutsche Verbindung zum PHP-Leck",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/php-foundation-wer-hinter-der-programmiersprache-steht-201611899.html",
-          "summary": "Die Programmiersprache wird von einer kleinen Stiftung betreut. Die Organisation hat auch von der deutschen Regierung Geld bekommen und nutzt die aktuellen Sicherheitslücken für einen Spendenappell.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Internetseiten offline: Was hinter den PHP-Schwachstellen steckt und was nun jeder tun muss",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schwachstelle-in-php-was-dahintersteckt-und-nun-jeder-tun-muss-accg-201610624.html",
-          "summary": "Lücken in der Web-Programmiersprache PHP haben dazu geführt, dass Tausende Internetseiten offline gestellt wurden. Was ist geschehen? Und was ist zu tun? Hier kommen Antworten auf die wichtigsten Fragen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c0e9995a9054/w6000h3135x0y120o/202610/a57f1def-bbb9-4e12-bc00-880b3b6ce5d4/gravierende-sicherheitsluecken.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0dea74342949/w5760h3009x0y415o/202101/43600.0.29821470/sicherheitsluecken-wer-mit.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Russland: Wer ist der Deutsche Michael F., der vom FSB vorgeführt wurde?",
+          "url": "https://www.spiegel.de/ausland/russland-wer-ist-der-deutsche-michael-f-der-vom-fsb-vorgefuehrt-wurde-a-b9b68f7f-b1bd-4d2f-9b59-f985c80428b4#ref=rss",
+          "summary": "Der Mann aus Nordrhein-Westfalen kämpfte auf der Seite der Ukraine. Jetzt führte der russische Geheimdienst Michael F. in einem Video vor.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/90035619-f69b-4b8e-8f6e-10a3b99e4dd3_w1200_r1.778_fpx37.16_fpy50.jpg"
+        },
+        {
+          "title": "CDU in Sachsen-Anhalt: Verdacht auf AfD-Nähe bei Abgeordnetem Guido Heuer",
+          "url": "https://www.spiegel.de/politik/deutschland/cdu-in-sachsen-anhalt-verdacht-auf-afd-naehe-bei-abgeordnetem-guido-heuer-a-4befff58-c23f-426b-91d8-74fd99493982#ref=rss",
+          "summary": "Der CDU-Abgeordnete Guido Heuer will bei der Wahl zum Ministerpräsidenten in Magdeburg im Saal bleiben – und stellt sich so gegen seine Fraktion. Das nährt die Befürchtung, Christdemokraten könnten der AfD zur Macht verhelfen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/5b151cc8-e831-4450-826b-1492eb634a82_w1200_r1.778_fpx51_fpy42.jpg"
+        },
+        {
           "title": "Selbst Linke wollen Vanessa Emde jetzt loswerden",
           "url": "https://www.spiegel.de/politik/selbst-linke-wollen-vanessa-emde-jetzt-los-werden-a-134d6a0f-dadd-4f4e-a000-76a272cf191b#ref=rss",
           "summary": "Die Berliner Abgeordnete Vanessa Emde ist in ihrer Partei zunehmend isoliert, der Frust bei einigen Genossen ist groß. Auch Verbündete rücken von ihr ab. Ein Linker sagte dem SPIEGEL: »Der Bruch mit der Fraktion wird kommen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/a245f30c-3de7-4df8-8cdc-ef32c34ff618_w1200_r1.778_fpx63_fpy20.jpg"
-        },
-        {
-          "title": "PHP2Shell: Wie eine Server-Schwachstelle Behörden aus dem Netz kegelte",
-          "url": "https://www.spiegel.de/netzwelt/netzpolitik/php2shell-wie-eine-server-schwachstelle-behoerden-aus-dem-netz-kegelte-a-1d993c5a-2f97-4190-86b1-64bc2bf5070b#ref=rss",
-          "summary": "Schwere Sicherheitslücken in Millionen Servern haben Firmen, Behörden und Privatleute alarmiert. Jetzt wird bekannt, dass Informationslecks für den Unfall verantwortlich sind. Wie groß die Schäden werden, ist noch offen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cee06562-df04-4f7b-8a98-68a56c617950_w1200_r1.778_fpx69.24_fpy50.jpg"
-        },
-        {
-          "title": "News des Tages: Steuerschätzung, Deutschland geht wieder online, Russland-Spion",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-steuerschaetzung-deutschland-geht-wieder-online-russland-spion-a-19385e91-4468-4e4e-b5f3-fc73553d8f50#ref=rss",
-          "summary": "Der Finanzminister kann mit mehr Geld rechnen. Nach dem Sicherheitsvorfall rollt im Internet eine Angriffswelle. Und: Ein mutmaßlicher Spion Russlands hatte die Bundeswehr im Visier. Das ist die Lage am Donnerstagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0e9f55c4-c77b-41c4-8e23-bb5ca4bcd3cb_w1200_r1.778_fpx44_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Datenschutzerklärung von tagesschau.de",
-          "url": "https://www.tagesschau.de/datenschutz",
-          "summary": "Hier erhalten Sie Informationen zum Datenschutz für die Webseiten bei tagesschau.de",
+          "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
+          "url": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
+          "summary": "Korallen bieten im Meer einer großen Artenvielfalt ein Zuhause. Doch die Riffe sind durch die Erhitzung der Meere erheblich gefährdet. Eine Studie zeigt nun das ganze Ausmaß.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/89045d82-5cd5-46ad-8f91-73911add30ee/AAABlpITK5s/AAABnSSvrFg/16x9-big/tagesschau-logo-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ba61b85e-e8dd-4241-8ac1-525a8de01bc9/AAABoWUF7A0/AAABnSSvrFg/16x9-big/korallen-158.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX fällt wieder zurück",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
-          "summary": "Der DAX hat bei volatilem Handel einen Teil seiner Gewinne vom Vortag wieder abgegeben. Er folgte einer schwachen Wall Street. Es waren mal wieder Nachrichten aus dem US-Tech-Sektor, die die Kurse bewegten.",
+          "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html",
+          "summary": "Unter US-Wählern gewinnt vor den Zwischenwahlen ein Thema an Bedeutung - und das ist besonders heikel für Präsident Trump. Immer mehr Bürger registrieren, wie sehr das Vermögen Trumps und seines Umfelds gewachsen ist. Von Ralf Borchard.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/56ba2f02-9500-4623-aa7c-ba298b6d9d91/AAABkeAoNJ4/AAABnSSvrFg/16x9-big/boerse-370.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3324ffb7-1e0c-4df0-9df5-7303d9f6014d/AAABoWUVkW8/AAABnSSvrFg/16x9-big/trump-katar-airforceone-100.jpg?width=1280"
         },
         {
-          "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
-          "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
-          "summary": "Kriege, Extremwetter, Terror: Schweden bereitet seine Bevölkerung auf den möglichen Ernstfall vor - etwa mit einer Broschüre und Übungen. Denn klar ist auch: Im Fall der Fälle müssen die Menschen erstmal alleine klarkommen. Von Jana Sinram.",
+          "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
+          "url": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
+          "summary": "Die Stromsteuer runter, die Kraftstoffkosten deckeln: Die Ministerpräsidentinnen und -präsidenten fordern von der Regierung spürbare Entlastungen für die Menschen im Land. Man sei der Auffassung, dass der Bund diese Spielräume habe.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a78bbff3-3255-481e-83a6-3d585b1bc360/AAABoWRDGqo/AAABnSSvrFg/16x9-big/bunker-schweden-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0b75625c-415e-4ac5-a7c4-eb9d5aa64435/AAABoWSWIs8/AAABnSSvrFg/16x9-big/ministerpraesidentenkonferenz-120.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in der Ukraine: Trump: Musk hat Starlink-Zugang für Ukraine wiederhergestellt",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-trump-musk-starlink-li.3563283",
+          "summary": "Ob er mit dem Tech-Milliardär darüber gesprochen hatte, will der US-Präsident nicht sagen. Der ukrainische Präsident Selenskij hatte allerdings noch am Abend anhaltende Probleme mit dem Satellitennetzwerk beklagt.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Steuererleichterung: Die Schuldenbremse stoppt Merz",
           "url": "https://www.sueddeutsche.de/politik/schuldenbremse-stromsteuer-friedrich-merz-lars-klingbeil-steuerschaetzung-li.3567301",
           "summary": "Die Regierung nimmt mehr Geld ein. Kann sie jetzt die Stromsteuer senken, wie der Kanzler vorgeschlagen hat? Leider nein – weil 2,5 Milliarden Euro sogleich wieder verschwinden.",
@@ -133,14 +141,6 @@
           "title": "Podcast: „Auf den Punkt“: Die PHP-Sicherheitslücke – und was KI damit zu tun hat",
           "url": "https://www.sueddeutsche.de/wirtschaft/php-sicherheitsluecke-cybersicherheit-kuenstliche-intelligenz-internet-podcast-li.3567343",
           "summary": "Internetseiten werden reihenweise offline genommen. Der Grund: eine Sicherheitslücke. Was ist passiert?",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Sterbehilfe: Wenn der Patient um den Tod bittet",
-          "url": "https://www.sueddeutsche.de/gesundheit/sterbehilfe-assistierter-suizid-leitlinie-deutschland-selbstbestimmung-li.3564015",
-          "summary": "Die Zahlen von assistiertem Suizid steigen, seit das Bundesverfassungsgericht das Recht auf Selbstbestimmung am Lebensende betont hat. Aber wie sollten Ärzte oder Pflegende mit Anfragen umgehen? Nun haben sich Fachleute auf Empfehlungen geeinigt.",
           "source": "SZ",
           "paywall": false,
           "image": null
