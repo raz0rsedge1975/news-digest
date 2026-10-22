@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-22T02:00:19.682Z",
-  "timestamp": "22.10.2026, 04:00:19",
+  "generated": "2026-10-22T06:00:54.561Z",
+  "timestamp": "22.10.2026, 08:00:54",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Singapur: Wenn die Regierung bei der Partnersuche hilft",
-          "url": "https://www.faz.net/aktuell/politik/ausland/singapurs-geburtenrate-wenn-der-staat-zum-heiratsvermittler-wird-201298175.html",
-          "summary": "Singapur leidet unter einer niedrigen Geburtenrate. Also versucht der Staat, junge Erwachsene mithilfe von Singleabenden, Bootstouren und Datingplattformen zu verkuppeln.",
+          "title": "Krawalle auch in Italien: Wenn den Jungen die Zukunft nur noch trostlos erscheint",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/italiens-jugend-ohne-perspektive-warum-wut-und-proteste-wachsen-accg-201607391.html",
+          "summary": "Auch in Italien gehen Tausende junger Menschen auf die Straße, einige davon gewalttätig. Das schwache Bildungssystem und schlechte Aussichten auf eine Arbeitsstelle treiben viele an. Geringe Löhne kommen hinzu.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Witkoff in Russland: Trumps fatale Botschaft an Putin",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/steve-witkoff-bei-putin-ein-symbolischer-sieg-des-kremls-201608444.html",
-          "summary": "Der russische Präsident sieht sich durch das Verhalten der Amerikaner in seinem Glauben bestätigt, Russland habe den längeren Atem. Ein Frieden rückt in weite Ferne.",
+          "title": "An Halloween: Kapern Linksextreme die Proteste in deutschen Großstädten?",
+          "url": "https://www.faz.net/aktuell/politik/inland/verfassungsschutz-warnt-vor-linksextremisten-bei-demos-am-31-oktober-201608255.html",
+          "summary": "Polizei und Verfassungsschutz warnen: Linksextremisten wollen die Aktion „Gen Z regelt das“ kapern. Die Polizei kündigt starke Präsenz an.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3c3d73d9067e/w4763h2488x0y221o/202610/1acf5121-6834-4c81-8108-607b7d44bb01/der-amerikanische.webp"
+          "image": null
         },
         {
-          "title": "Lücke in PHP-Code: Vorsorgliche Sperre von Webseiten trifft Internetnutzer",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gravierende-sicherheitsluecke-in-php-bedroht-millionen-websites-201609383.html",
-          "summary": "Städte, Krankenhäuser und Webshops müssen dringend eine Sicherheitslücke schließen. Auch Bundesländer nehmen Seiten wichtiger Behörden vom Netz. Private Netznutzer können wenig tun und sind indirekt betroffen.",
+          "title": "PHP-Sicherheitslücke: BSI rät zur „umgehenden“ Installation von Sicherheitsupdate",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/php-sicherheitsluecke-bsi-raet-zur-sofortigen-installation-des-updates-201609383.html",
+          "summary": "Eine PHP-Schwachstelle kann Angreifern im Web die vollständige Kontrolle über Server geben. Weltweit wurden daher zahlreiche Internetseiten vorsorglich abgeschaltet. Das BSI rät dringend zu einem Sicherheitsupdate.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/305af6f9520e/w5000h2612x0y577o/202610/eaafcb0e-0f77-4019-a398-98364b44ad8d/gefahr-fuer-das-internet.webp"
+          "image": null
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine-Krieg: Wie die Starlink-Drosselung Kyjiws Frontgewinne gefährdet",
-          "url": "https://www.spiegel.de/ausland/ukraine-krieg-wie-die-starlink-drosselung-kyjiws-frontgewinne-gefaehrdet-a-b7c0b77d-f3c2-47c5-ab76-3e92e2527d8d#ref=rss",
-          "summary": "Kyjiws Truppen gelangen zuletzt Gebietsgewinne im Donbass, Russland stand unter Druck. Elon Musk könnte das nun eigenhändig ändern und damit auch die Menschen weit hinter der Front gefährden.",
+          "title": "Midterms in Ohio: Wahlkampf von Amy Acton und Vivek Ramaswamy gerät zur Schlammschlacht",
+          "url": "https://www.spiegel.de/ausland/midterms-in-ohio-wahlkampf-von-amy-acton-und-vivek-ramaswamy-geraet-zur-schlammschlacht-a-f00e32d6-51bd-4e6d-a1ce-fcfc3f8e9fb8#ref=rss",
+          "summary": "Die Demokratin Amy Acton hat Chancen, Gouverneurin von Ohio zu werden. Dass sie als Kind von ihrem Stiefvater mutmaßlich missbraucht wurde, schlachtet die politische Gegenseite im Wahlkampf aus. Darüber sind sogar Republikaner entsetzt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/71cf488d-681d-45e7-ade7-086d4fee0c3c_w1200_r1.778_fpx70_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/bb116e2b-7159-465f-9f01-5d9c60b73594_w1200_r1.778_fpx45_fpy23.jpg"
         },
         {
           "title": "NSDAP-Kartei: Sie wollen mit der Nazi-Kartei chatten? Probieren Sie es hier aus",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/c5464017-8ac8-41fc-bb50-f31d1e948a3a_w1200_r1.778_fpx37_fpy51.png"
         },
         {
-          "title": "Champions League: Harry Kane glänzt bei Bayerns Remis gegen FC Arsenal",
-          "url": "https://www.spiegel.de/sport/fussball/champions-league-harry-kane-glaenzt-bei-bayerns-remis-gegen-fc-arsenal-a-42ef91ab-056e-4fc8-87b1-d14f147d090d#ref=rss",
-          "summary": "Mit einer Not-Offensive trat der FC Bayern gegen den englischen Meister an. Trotzdem sah es dank Allzweckwaffe Harry Kane lange nach einem Sieg aus. Sorgen bereitet die Kadertiefe der Münchner.",
+          "title": "News: Sicherheitsrisiko PHP, Kanzler im Westbalkan, Ministerpräsidentenkonferenz, Hubertus Heil",
+          "url": "https://www.spiegel.de/politik/deutschland/news-sicherheitsrisiko-php-kanzler-im-westbalkan-ministerpraesidentenkonferenz-hubertus-heil-a-19cb9abd-0674-4a64-b2b1-e9427753cdab#ref=rss",
+          "summary": "Websites gehen wegen Sicherheitslücken offline. Der Kanzler reist an die Adria. Und die Ministerpräsidenten wappnen sich gegen die AfD. Das ist die Lage am Donnerstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9bf9c199-9118-4317-a11e-995b881e7bec_w1200_r1.778_fpx45.71_fpy54.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
-          "url": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html",
-          "summary": "Mehrere Raketenangriffe haben in der Nacht erneut Kiew erschüttert. Bürgermeister Klitschko sprach von mindestens sechs Verletzten.",
+          "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
+          "summary": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben. Damit sichert sich Firmenchef Zuckerberg die Kontrolle. Von Antje Sieb.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/88f9b81b-bea0-44ec-8a2f-4fef0c048744/AAABoWDLfNk/AAABnSSvrFg/16x9-big/kiew-haus-raketen-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3119ea88-9f5c-41b3-b86c-bc981109b37a/AAABoWHunEA/AAABnSSvrFg/16x9-big/mark-zuckerberg-120.jpg?width=1280"
         },
         {
-          "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-          "url": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html",
-          "summary": "Acht Jahre nach dem Skandal um den Missbrauch von Nutzerdaten ist der Facebookkonzern Meta in New Mexico zu einer Milliardenstrafe verurteilt worden. Der Fall solle anderen Tech-Unternehmen eine Warnung sein, sagte der Generalstaatsanwalt.",
+          "title": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+          "summary": "Am Donnerstag verarbeiten die Aktienmärkte die Bilanzen von wichtigen US-Technologiekonzernen wie Meta und Tesla. Auch SAP hat die Quartalszahlen vorgestellt. Die Anleger reagieren zurückhaltend.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ee754246-3e1f-4bb1-9445-9756bd46d0c5/AAABoD5PNz4/AAABnSSvrFg/16x9-big/meta-178.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/89614d04-fccf-4229-aac5-bf0e60c2d362/AAABnSQoOG8/AAABnSSvrFg/16x9-big/boerse-498.jpg?width=1280"
         },
         {
-          "title": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
-          "url": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
-          "summary": "Erst vor wenigen Tagen war Leo XIV. wegen eines Karzinoms ein Teil seiner Lunge entfernt worden. Nun gibt es aus dem Vatikan gute Nachrichten: Der Tumor sei lokal begrenzt gewesen, eine weitere Therapie sei nicht nötig.",
+          "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html",
+          "summary": "Angesichts der landesweit niedrigen Zustimmungswerte für Trump hoffen viele Demokraten in den USA auf einen deutlichen Sieg bei den Zwischenwahlen in zwei Wochen. Umfragen nähren ihre Zuversicht. Doch sind sie verlässlich? Von Jan Oppel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d7ded255-ab71-4df5-b5a9-8b7142b24fee/AAABoV_hoHM/AAABnSSvrFg/16x9-big/papst-leo-220.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c78dd657-79ad-4506-b080-5dafd054e9e0/AAABoVpZM5I/AAABnSSvrFg/16x9-big/wahlplakate-texas-100.jpg?width=1280"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Firmenerben zahlen oft kaum Erbschaftssteuer, Privatpersonen hingegen schon. In Karlsruhe geht es jetzt um Grundsätzliches. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/7/7/8/bvg_ho-4f26de65493a51e5.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "Pix & UPI: Wie kostenlose Bezahlsysteme Visa und Mastercard das Fürchten lehren",
@@ -106,7 +106,7 @@
           "summary": "Brasilien und Indien betreiben die größten Echtzeit-Zahlungssysteme der Welt. Washington sieht unfaire Handelspraktiken, aber die Brics-Länder denken weiter.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/4/7/3/generated-image-1-b37e18339b986930.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": null
         },
         {
           "title": "Auf dünnem Eis: Der Wettlauf um die Arktis",
@@ -114,13 +114,21 @@
           "summary": "Kampf im Kalten: Der hohe Norden birgt gigantische Reichtümer – und weckt Begehrlichkeiten. Wie sich der Großmachtkonflikt zuspitzen könnte. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/4/1/8/shutterstock_1407562163-8dadbcce6c615ea0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Neue Grundsicherung: Bürgergeld-Reform spart doch keine Milliarden",
+          "url": "https://www.sueddeutsche.de/politik/buergergeld-reform-2026-grundsicherung-einsparungen-merz-li.3566853",
+          "summary": "Das umstrittene Bürgergeld ist weg. Die „Süddeutsche Zeitung“ hat erste Daten zur neuen Grundsicherung ausgewertet, mit einem ernüchternden Ergebnis: Die Reform erfüllt die hohen Erwartungen nicht.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Nahost: Angriffe der Huthi: USA ziehen Botschaftspersonal aus Saudi-Arabien ab",
           "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-gantz-riad-us-botschaft-li.3560260",
@@ -133,14 +141,6 @@
           "title": "Bayern in der Einzelkritik: Kane regiert das ganze Spielfeld",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-arsenal-einzelkritik-kane-davies-li.3567125",
           "summary": "Der Ballon d’Or-Kandidat führt einen Abstoß aus, spielt Traumpässe und trifft selbst. Alphonso Davies findet sich auf einer neuen Position wunderbar zurecht – und Ismael Saibari braucht noch Zeit. Die Bayern in der Einzelkritik.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Leipzig unterliegt Real: Seriös unter die Räder gekommen",
-          "url": "https://www.sueddeutsche.de/sport/real-madrid-leipzig-champions-league-diomande-li.3567127",
-          "summary": "RB Leipzig verkauft sich im Madrider Bernabéu-Stadion über weite Strecken besser, als es das Endergebnis von 1:4 vermuten lässt. Real kann trotzdem ein paar Kräfte für den Clásico sparen.",
           "source": "SZ",
           "paywall": false,
           "image": null
