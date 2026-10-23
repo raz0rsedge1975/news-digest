@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-23T10:00:08.516Z",
-  "timestamp": "23.10.2026, 12:00:08",
+  "generated": "2026-10-23T14:00:09.125Z",
+  "timestamp": "23.10.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Unruhen in Frankreich: Geht es den Plünderern vielleicht eher um Beute als um Umverteilung?",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/gewalt-in-frankreich-alle-sprachen-nur-noch-von-umbringen-201609918.html",
-          "summary": "Die gewaltvollen Ausschreitungen in Frankreich rufen unterschiedliche Erzählungen hervor, die dennoch dasselbe ausdrücken: Die Sehnsucht nach dem großen, kommenden Aufstand.",
+          "title": "Deutschland Liveblog: CDU pocht auf Recht, eigenen Kandidaten für Steinmeier-Nachfolge zu benennen",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-cdu-besteht-auf-eigenem-kandidaten-fuer-steinmeier-nachfolge-faz-110093143.html",
+          "summary": "Mitteilung aus der CDU kurz vor geplanter Rede Söders auf CSU-Parteitag +++ CSU weiter für Aigner +++ Berliner SPD-Chef weiter gegen Enteignungen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/660d25b98deb/w4000h2090x0y497o/202610/43601.0.2762040291/17-10-2026-auf-der-place-de-la.webp"
+          "image": "https://media0.faz.net/image/w1200h627/259c60f0785a/w4499h2350x900y90o/202607/43601.0.2376196727/ilse-aigner-csu-praesidentin.webp"
         },
         {
-          "title": "Unruhen in Frankreich: Das sind die eigentlichen Ursachen der Schülerproteste",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/randale-ueberschatten-proteste-in-frankreich-accg-201610656.html",
-          "summary": "Die extreme Randale in Frankreich hat den Ursprung der Proteste überschattet. Das Eigentliche gerät aus dem Blick: Warum sind die Schüler unzufrieden – und was werfen sie der Politik genau vor?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ceaf0eaf11c0/w6144h3210x0y722o/202610/36fc21ea-b3ac-4b49-bcff-907b9bc511cc/demonstranten-in-frankreich.webp"
-        },
-        {
-          "title": "Frankreich: So wollen Le Pen und Mélenchon die Staatsfinanzen retten",
-          "url": "https://www.faz.net/premium/weltwirtschaft/weltwissen/frankreich-so-wollen-melenchon-und-le-pen-den-haushalt-retten-accg-201602886.html",
-          "summary": "In Frankreich spitzt sich die Finanzkrise zu. Die Bevölkerung hat offenbar den Ernst der Lage noch nicht verstanden. Nach der Präsidentschaftswahl droht das Land, die gemeinsame Währung zu sprengen.",
+          "title": "F.A.Z. Podcast für Deutschland: Ilse Aigner oder Helene Fischer - wer soll Bundespräsidentin werden?",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/ilse-aigner-oder-helene-fischer-wer-wird-bundespraesidentin-201614454.html",
+          "summary": "Die CSU will Ilse Aigner als Bundespräsidentin durchsetzen. Wird das gelingen? Und würde sie dem Amt überhaupt gerecht? Podcast für Deutschland dazu heute unter anderem Dorothee Bär.",
           "source": "FAZ",
           "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/f70bbcf409ea/w3578h1869x0y303o/202610/43601.0.2766003006/es-brennt-in-paris-und-im.webp"
+          "image": "https://media0.faz.net/image/w1200h627/371452a53444/w6144h3210x0y443o/202610/43601.0.2615917618/04-03-2026-bayern-muenchen.webp"
+        },
+        {
+          "title": "Preiskontrollen und Co.: Chinas erbarmungsloser Kapitalismus",
+          "url": "https://www.faz.net/aktuell/wirtschaft/antwort-auf-tom-krebs-und-isabella-weber-chinas-erbarmungsloser-kapitalismus-accg-201610723.html",
+          "summary": "In Europa herrscht ein Missverständnis. Was China wirklich erfolgreich macht, ist weniger die zentrale Planung, sondern vielmehr der harte Wettbewerb der Provinzen. Und die Arbeitsmoral der Menschen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/0ebd78628955/w2000h1045x0y145o/202605/43601.0.2038940935/die-fussgaengerzone-in-der.webp"
         }
       ]
     },
@@ -35,7 +35,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Datenleck bei der AfD: Mails belasten Alice Weidel",
+          "title": "Wirecard-Prozess: Verfahren gegen Ex-Chef Markus Braun vor dem Finale",
+          "url": "https://www.spiegel.de/wirtschaft/wirecard-prozess-verfahren-gegen-ex-chef-markus-braun-steht-vor-dem-finale-a-52580abd-70d5-40a7-9d6e-7b31c1de8f55#ref=rss",
+          "summary": "Das Gerichtsverfahren gegen Markus Braun geht zu Ende. Dem Ex-Chef von Wirecard und seinen mutmaßlichen Komplizen drohen hohe Strafen. Doch ein Protagonist des Milliardenbetrugs ist nicht zu greifen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/91908578-f2d2-47f1-a09f-081571c58215_w1200_r1.778_fpx33.03_fpy45.jpg"
+        },
+        {
+          "title": "AfD-Datenleck: E-Mails belasten Alice Weidel",
           "url": "https://www.spiegel.de/politik/deutschland/datenleck-bei-der-afd-mails-belasten-alice-weidel-a-0e0e04c3-0f46-4f0d-afb1-fb7530b212a4#ref=rss",
           "summary": "In der Affäre um illegale Wahlkampfspenden aus der Schweiz hat AfD-Chefin Alice Weidel nach SPIEGEL-Recherchen wohl Öffentlichkeit und Partei getäuscht. Das legen geleakte Mails nahe. Demnach wusste Weidel früher von Zahlungen, als sie behauptete.",
           "source": "Spiegel",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/1d93bab8-7b1f-4f35-8b04-89268aef8e04_w1200_r1.778_fpx50_fpy31.jpg"
         },
         {
-          "title": "Midterms in den USA: Fake-Umfragen veröffentlicht – Meinungsforschungsinstitut fliegt auf",
-          "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-fake-umfragen-veroeffentlicht-meinungsforschungsinstitut-fliegt-auf-a-9063a2bf-0705-46b9-b3d8-7e74f0820b81#ref=rss",
-          "summary": "Sogar die »New York Times« griff auf Umfragen von Wedgewood Polling zurück – aber die Zahlen waren frei erfunden. Warum sie trotzdem in Umlauf kamen, dafür haben die angeblichen Meinungsforscher eine erstaunliche Erklärung.",
+          "title": "Berlin: CDU, SPD und Grüne sprechen miteinander, sondieren aber nicht (betonen SPD und Grüne)",
+          "url": "https://www.spiegel.de/politik/deutschland/berlin-cdu-spd-und-gruene-sprechen-miteinander-sondieren-aber-nicht-betonen-spd-und-gruene-a-8ab2249c-8f7b-4bb4-9a0e-5b073f8208a4#ref=rss",
+          "summary": "In der Hauptstadt zeichnet sich ein rot-grün-rotes Bündnis ab. Nun hat CDU-Landeschef Evers SPD und Grüne zu Gesprächen eingeladen. Sondierungen seien das nicht, heißt es von den Gästen – man habe sowieso immer »genug zu klären«.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ee084380-0255-448b-8cb1-f4afeb544039_w1200_r1.778_fpx88_fpy10.jpg"
-        },
-        {
-          "title": "Israel bereitet nach Angriff »vollständige Abriegelung« des Westjordanlands vor",
-          "url": "https://www.spiegel.de/ausland/westjordanland-israel-meldet-mehrere-verletzte-israelis-bei-schussangriff-a-2e600801-3b67-4030-8a35-5b254ecd1743#ref=rss",
-          "summary": "Israels Militär hat nach einer Schusswaffenattacke im Westjordanland zwei mutmaßliche Angreifer getötet. Die Armee bereitet sich auf die Abschottung des Gebiets vor. Laut Premier Netanyahu sei ein »großer Anschlag« verhindert worden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/310d3f29-6286-4437-91d4-e7bdcf8068a4_w1200_r1.778_fpx48.67_fpy55.01.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d9a22983-919c-4bdf-9f9b-2285743463a5_w1200_r1.778_fpx18_fpy36.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html",
-          "summary": "Der Terrorangriff der Hamas vor gut drei Jahren hat auch bei den jungen Wählern Israels tiefe Spuren hinterlassen. Sicherheit, Identität und die Sorge vor dem nächsten Krieg beeinflussen ihre Wahlentscheidung. Von Jan-Christoph Kitzler.",
+          "title": "Marktbericht: Nasdaq kommt unter die Räder",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html",
+          "summary": "Der KI-Boom beherrscht weiter die Wall Street. Die erste Euphorie ist aber vorbei - die Anleger wollen vielmehr endlich Ergebnisse der horrenden KI-Investitionen sehen. Meta ist ein warnendes Beispiel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f044cdb3-68fc-4ead-b1f3-edf8215a3899/AAABoVSbZqI/AAABnSSvrFg/16x9-big/wahlplakat-tel-aviv-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2f742857-a9bd-47f6-afe6-a980911d13eb/AAABoWgIKxA/AAABnSSvrFg/16x9-big/meta-196.jpg?width=1280"
         },
         {
-          "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html",
-          "summary": "Frankreichs Anleiherenditen sind auf den höchsten Stand seit 2002 gestiegen. Wie groß ist die Ansteckungsgefahr für andere hochverschuldete Euroländer - und was kann die EZB dagegen tun? Von Angela Göpfert.",
+          "title": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
+          "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html",
+          "summary": "Ein weiteres Handelsschiff soll Medienberichten zufolge nahe der rumänischen Küste von einer Drohne angegriffen worden sein. Es gebe mindestens ein Todesopfer. Rumäniens Präsident sieht die Verantwortung erneut bei Russland.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6e162984-e98d-4e91-9421-ad32afd37a02/AAABoWO1FpI/AAABnSSvrFg/16x9-big/paris-proteste-134.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c2d520a4-c74c-41b1-97fb-f61c8d191afc/AAABoWj0Fow/AAABnSSvrFg/16x9-big/oeltanker-khoryv-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
-          "summary": "Sorgen um den Technologiesektor und die Angst vor einer erneuten Eskalation im Nahen Osten drücken auf die Stimmung der Anleger. Der Ölpreis legt kräftig zu, damit steigen auch die Inflationsgefahren.",
+          "title": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html",
+          "summary": "Nach den schweren Ausschreitungen in Mailand reagiert Italiens Regierung mit einem neuen Sicherheitsdekret. Die sozialen Ursachen bleiben. Ebenso die Frage: Wer waren die meist sehr jungen Randalierer?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d388efc0-d931-4876-9fbe-df4840ef0ed9/AAABmhb629g/AAABnSSvrFg/16x9-big/dax-195.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c580c6bb-d066-4257-82af-894a4547f5fd/AAABoWizWQA/AAABnSSvrFg/16x9-big/proteste-mailand-104.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Was ist aus all der Sorge um die Demokratie in Venezuela geworden?",
-          "url": "https://www.telepolis.de/article/Was-ist-aus-all-der-Sorge-um-die-Demokratie-in-Venezuela-geworden-11497861.html",
-          "summary": "Die Staatschefs Lateinamerikas, die einst gegen Maduro wetterten, sind nun begierig darauf, sich mit dem Regime im neuen Gewand zu arrangieren. Ein Gastbeitrag.",
+          "title": "Keine UFOs über Deutschland? Bundesregierung antwortet auf AfD-Anfrage",
+          "url": "https://www.telepolis.de/article/Keine-UFOs-ueber-Deutschland-Bundesregierung-antwortet-auf-AfD-Anfrage-11498330.html",
+          "summary": "Offiziell weiß Berlin nichts über rätselhafte Flugobjekte. Dabei liegen Akten in Archiven und Forscher bauen schon Meldestellen auf. Wer weiß wirklich mehr?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/7/6/8/shutterstock_1516212302-1f613ce6be94d7e1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/0/0/9/UFO-4cbb6bfaf641c68d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "ARD und ZDF: Ein Bollwerk gegen das eigene Publikum?",
-          "url": "https://www.telepolis.de/article/ARD-und-ZDF-Ein-Bollwerk-gegen-das-eigene-Publikum-11497742.html",
-          "summary": "Soll der öffentlich-rechtliche Rundfunk den Rechtsruck bekämpfen oder die Gesellschaft abbilden? Der Streit um eine ZDF-Satire zeigt den Konflikt.",
+          "title": "„Woker Unsinn“: Britisches Museum verbannt Mumien aus Ausstellung",
+          "url": "https://www.telepolis.de/article/Woker-Unsinn-Britisches-Museum-verbannt-Mumien-aus-Ausstellung-11498254.html",
+          "summary": "Das Kelvingrove-Museum in Glasgow hat Mumien aus den Vitrinen geräumt. Die Betreiber berufen sich auf Ethikregeln. Kritiker verweisen auf die Praxis in Ägypten.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/7/0/7/Master_ZDF-aab803c0a5a7fa22.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/9/6/9/shutterstock_471333809-332fbe0b1758291c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "EU-Etat 2028–2034: Drei Lager, viele Prioritäten",
-          "url": "https://www.telepolis.de/article/EU-Etat-2028-2034-Drei-Lager-viele-Prioritaeten-11493854.html",
-          "summary": "Merz will sparen, die Landwirte protestieren schon. Brüssel plant den größten Haushalt der Geschichte. Welches Land könnte den Streit am Ende entscheiden?",
+          "title": "AfD-Leaks: Wie viel Rechtsextremismus duldet die Partei?",
+          "url": "https://www.telepolis.de/article/AfD-Leaks-Wie-viel-Rechtsextremismus-duldet-die-Partei-11498428.html",
+          "summary": "Interne Akten könnten zeigen, wie die AfD mit Rechtsextremen umgeht. Für ein Verbotsverfahren zählt, was Parteiorgane wussten – und was sie duldeten.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/7/2/1/eu-haushalt-316ff7ca0e1ec40d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/0/5/9/afd_ho-775ab81f506dcca8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Autoindustrie: IG Metall droht VW mit größtem Konflikt in Geschichte des Konzerns",
-          "url": "https://www.sueddeutsche.de/wirtschaft/vw-ig-metall-kuendigung-streik-heute-li.3566968",
-          "summary": "Die Gewerkschaft will Werksschließungen und Nullrunden bei den Gehältern verhindern. Schon bald könnte gestreikt werden.",
+          "title": "Krieg in der Ukraine: Kiew: Starlink bleibt trotz Trumps Ankündigung gedrosselt",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-trump-starlink-luftabwehr-li.3563283",
+          "summary": "Der US-Präsident hatte am Donnerstag verkündet, das Satelliteninternet in der Ukraine sei nicht mehr gedrosselt. Doch Kiew merkt noch nichts davon. Die Luftabwehr des Landes bleibt damit geschwächt.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Stellenabbau bei Autohersteller: Abfindungsangebot bekommen? Was Sie jetzt wissen sollten",
-          "url": "https://www.sueddeutsche.de/wirtschaft/abfindung-bmw-mercedes-stellenabbau-arbeitsrecht-li.3566634",
-          "summary": "Zehntausende Beschäftigte von BMW, Mercedes und Porsche stehen gerade vor der Frage, ob sie eine Abfindung annehmen oder abwarten sollen. Was sie vor der Unterschrift prüfen sollten und wie die Jobchancen derzeit stehen.",
+          "title": "Illegale Wahlkampfspenden: Interne Mails belasten AfD-Chefin Weidel",
+          "url": "https://www.sueddeutsche.de/politik/afd-leak-alice-weidel-parteispende-affaere-schweiz-li.3567974",
+          "summary": "Für Parteichefin Alice Weidel könnte das Datenleck in ihrer Partei zum Problem werden: E-Mails legen nahe, dass sie schon früher von einer Schweizer Großspende gewusst haben könnte, als sie bislang zugab.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
-          "url": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-uebersicht-rennen-uhrzeit-tv-stream-li.3562584",
-          "summary": "Angriff auf die große Kristallkugel: In Sölden beginnt am 24. Oktober der Ski-Alpin-Weltcup. Wer ist Favorit, wo ist das Rennen zu sehen? Eine Übersicht.",
+          "title": "Nahost: Israel bereitet Abriegelung des Westjordanlands vor",
+          "url": "https://www.sueddeutsche.de/politik/westjordanland-abriegelung-israel-netanjahu-angriff-li.3567934",
+          "summary": "Ministerpräsident Benjamin Netanjahu reagiert damit auf einen Angriff mit zwei getöteten Soldaten in dem besetzten Palästinensergebiet.",
           "source": "SZ",
           "paywall": false,
           "image": null
