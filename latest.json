@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T22:00:14.741Z",
-  "timestamp": "23.10.2026, 00:00:14",
+  "generated": "2026-10-23T02:00:08.153Z",
+  "timestamp": "23.10.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
+          "url": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html",
+          "summary": "Die von China kontrollierte autonome Region Tibet wurde von einem Erdbeben getroffen. Dabei sind Häuser zerstört worden - es gibt bisher 16 Tote und Dutzende Verletzte.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d8bdd4ff-f964-44c6-bb58-ce1eb4f29b89/AAABoWW7J4I/AAABnSSvrFg/16x9-big/tibet-114.jpg?width=1280"
+        },
+        {
           "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
           "url": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html",
           "summary": "Korallen bieten im Meer einer großen Artenvielfalt ein Zuhause. Doch die Riffe sind durch die Erhitzung der Meere erheblich gefährdet. Eine Studie zeigt nun das ganze Ausmaß.",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/3324ffb7-1e0c-4df0-9df5-7303d9f6014d/AAABoWUVkW8/AAABnSSvrFg/16x9-big/trump-katar-airforceone-100.jpg?width=1280"
-        },
-        {
-          "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
-          "url": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
-          "summary": "Die Stromsteuer runter, die Kraftstoffkosten deckeln: Die Ministerpräsidentinnen und -präsidenten fordern von der Regierung spürbare Entlastungen für die Menschen im Land. Man sei der Auffassung, dass der Bund diese Spielräume habe.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/0b75625c-415e-4ac5-a7c4-eb9d5aa64435/AAABoWSWIs8/AAABnSSvrFg/16x9-big/ministerpraesidentenkonferenz-120.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Donroe-Doktrin: Wie die USA Lateinamerikas Kurs beeinflussen",
+          "url": "https://www.telepolis.de/article/Donroe-Doktrin-Wie-die-USA-Lateinamerikas-Kurs-beeinflussen-11494156.html",
+          "summary": "Am Sonntag geht Brasilien in die Stichwahl. Neun Staaten rückten seit 2023 nach rechts, und Washington half kräftig mit. Der Hebel: Drohkulissen und Ängste.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/8/7/5/shutterstock_2661571451-d36cff5155514c0c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "EuGH kippt Preisdeckel: DB InfraGO verlangt 400 Millionen mehr für Regionalzüge",
           "url": "https://www.telepolis.de/article/EuGH-kippt-Preisdeckel-DB-InfraGO-verlangt-400-Millionen-mehr-fuer-Regionalzuege-11496445.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/1/2/9/ICEYE_SAR_satellite_Netherlands-38d10161049df5e7.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Atemarbeit: Was sie kann – und was nicht",
-          "url": "https://www.telepolis.de/article/Atemarbeit-Was-sie-kann-und-was-nicht-11495452.html",
-          "summary": "Wim Hof, Prānāyāma, zyklisches Seufzen und 4-7-8-Atmung: Forscher bestätigen die positiven Wirkungen – doch nicht jede Technik ist für jeden geeignet.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/6/5/3/3/fizkes-26d8bd72c48b2d76.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
