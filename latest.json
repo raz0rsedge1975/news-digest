@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-23T18:00:07.788Z",
-  "timestamp": "23.10.2026, 20:00:07",
+  "generated": "2026-10-23T22:00:07.368Z",
+  "timestamp": "24.10.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Bundeswehr: Der Marder fällt beim digitalen Funktest durch",
-          "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-schuetzenpanzer-marder-faellt-bei-funktest-durch-201614384.html",
-          "summary": "Das Verteidigungsministerium meldet einen Meilenstein bei der digitalen Umrüstung. Doch beim „Arbeitstier“ der Panzergrenadiere, dem Marder, gibt es Probleme.",
+          "title": "Künstliche Intelligenz: Als die KI ins globale Dorf kam",
+          "url": "https://www.faz.net/aktuell/politik/ausland/ghostwriter-in-kenia-wie-ki-die-globalisierung-zurueckdreht-201295366.html",
+          "summary": "Zehntausende Kenianer verdienten ihr Geld als „Ghostwriter“ für Studenten im Ausland. Jetzt erledigt diesen Job die KI. Was jetzt?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/1858159fa2be/w6000h3135x0y520o/202603/43601.0.1894083771/ein-schuetzenpanzer-marder.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c2941483db90/w3855h2014x231y909o/202610/43601.0.2664346508/die-auftraege-werden-weniger.webp"
         },
         {
-          "title": "Bundeswehr: Improvisation statt Lösung",
-          "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-und-digitalfunk-improvisation-statt-loesung-201615553.html",
-          "summary": "Die für die NATO-Verteidigung benannte Bundeswehrbrigade kann digital funken. Aber nur dank hastiger Improvisation.",
+          "title": "F.A.Z. Exklusiv: KI-Verleger packt aus: So entstehen meine Bücher",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ki-verleger-packt-aus-so-entstehen-meine-buecher-accg-201255807.html",
+          "summary": "Im Schnitt zwei Bücher pro Tag: Eine Leipziger Minifirma hat bislang 1500 Sachbücher und Ratgeber veröffentlicht. Die KI schreibt alles. So schafft man es sogar in wissenschaftliche Bibliotheken. Was ist mit der Haftung für falsche Inhalte?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/88d5defce86e/w6000h3135x0y747o/202603/43601.0.1894083771/gefunkt-wird-hier-noch-analog.webp"
+          "image": "https://media0.faz.net/image/w1200h627/987a212c2d4f/w6000h3135x0y425o/202609/43601.0.2585152079/hier-landet-auch-ki-buecher.webp"
         },
         {
-          "title": "CSU-Parteitag: Söder stützt Aigner – hebt aber hervor, dass die CSU nicht entscheidet",
-          "url": "https://www.faz.net/aktuell/politik/inland/csu-parteitag-markus-soeder-stuetzt-ilse-aigner-fuer-bundespraesidentenwahl-201616764.html",
-          "summary": "Die Rede des CSU-Chefs ist geprägt von neu unterfüttertem Selbstbewusstsein. Die Demut der vergangenen Monate ist aber nicht ganz verschwunden.",
+          "title": "KI-forscherin Zweig: „Die Software ist nicht sicher, und das wissen die KI-Anbieter“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-forscherin-katharina-zweig-warnt-vor-risiken-von-chatgpt-und-co-accg-201317495.html",
+          "summary": "Katharina Zweig ist Deutschlands wohl bekannteste KI-Forscherin. Im Interview spricht sie über tatsächliche Risiken der Künstlichen Intelligenz, die Verantwortung der Konzerne – und die Frage, wie wir über Sprachmodelle sprechen sollten.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5fda9fea2bbb/w4103h2143x0y509o/202610/237a6de3-03e7-4f6b-b50f-a51a1ecc7023/soeder-spricht-aigner-winkt.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/a0543db66f8d/w4500h2351x0y249o/202610/4385f5ab46-c7d2-11f1-bc34-447a7c27142d/katharina-zweig-forscht-und.webp"
         }
       ]
     },
@@ -35,20 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Markus Söder: Wie das Aigner-Dilemma seine Kanzlerträume gefährden könnte",
+          "url": "https://www.spiegel.de/politik/deutschland/markus-soeder-wie-das-aigner-dilemma-seine-kanzlertraeume-gefaehrden-koennte-a-13dc7479-31aa-4131-a449-28c22a4aef6d#ref=rss",
+          "summary": "Die CSU will Ilse Aigner als Bundespräsidentin, Parteichef Markus Söder muss sie unterstützen – auch wenn das seine Kanzlerträume zunichtemachen könnte. Vielleicht kommt ihm jetzt ausgerechnet Friedrich Merz zu Hilfe.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/c92c4951-663c-4e65-a2ee-d65f9b780a4b_w1200_r1.778_fpx33.32_fpy49.99.jpg"
+        },
+        {
           "title": "Darline Graham: Donald Trump verrät ihren Bruder Lindsey – fünf Tage später macht sie Wahlkampf mit ihm",
           "url": "https://www.spiegel.de/ausland/darline-graham-donald-trump-verraet-ihren-bruder-lindsey-fuenf-tage-spaeter-macht-sie-wahlkampf-mit-ihm-a-906d3578-7439-46f5-89f1-e05de781108e#ref=rss",
-          "summary": "Lindsey Graham war der wichtigste Ukraine-Freund in Trumps Lager. Seine Schwester erbte den Senatssitz. Nun kippt Trump die Russland-Sanktionen, die den Namen ihres Bruders tragen. Und Darline Graham? Umgarnt den Präsidenten.",
+          "summary": "Lindsey Graham war der wichtigste Ukrainefreund in Trumps Lager. Seine Schwester erbte den Senatssitz. Nun kippt Trump die Russlandsanktionen, die den Namen ihres Bruders tragen. Und Darline Graham? Umgarnt den Präsidenten.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/d0795491-01b8-4a59-9edb-84fb18af9df5_w1200_r1.778_fpx43_fpy19.jpg"
-        },
-        {
-          "title": "News des Tages: Datenleak bei der AfD, Markus Söder, Gewalt in Frankreich",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-datenleak-bei-der-afd-markus-soeder-gewalt-in-frankreich-a-8781b9fb-9976-44e4-bad0-38c6f0cc87d6#ref=rss",
-          "summary": "Eine ausgestanden geglaubte Spendenaffäre holt die AfD-Chefin ein. Ilse Aigner ist der Star des CSU-Parteitags. Ein tödlicher Angriff trifft Frankreich in ohnehin angespannter Situation. Das ist die Lage am Freitagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1d93bab8-7b1f-4f35-8b04-89268aef8e04_w1200_r1.778_fpx67.79_fpy44.97.jpg"
         },
         {
           "title": "Österreich und Bayern: Vermisstensuche im Gebirge – schwierige Rettung in den Alpen",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html",
-          "summary": "2024 hatte Kanzler Merz im Wahlkampf versprochen, das \"System Bürgergeld vom Kopf auf die Füße\" zu stellen. Zweistellige Milliardenbeträge wollte er so einsparen. Gebracht aber hat die neue Grundsicherung bisher wenig. Von Isabell Karras.",
+          "title": "Frankreich rüstet sich für nächsten Protesttag",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html",
+          "summary": "Frankreich fürchtet eine weitere Eskalation der aufgeheizten Stimmung. Diesmal will der Staat besser vorbereitet sein. Inmitten dieser Lage erschüttert ein mutmaßlich rassistisch motivierter Anschlag das Land. Von Cai Rienäcker.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/410cae71-d997-43f0-8d31-3eb00bdd9e5f/AAABoCTJngo/AAABnSSvrFg/16x9-big/antrag-grundsicherung-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2a52c4e1-22c2-4e16-87ec-d63cc82608d8/AAABoWnklWA/AAABnSSvrFg/16x9-big/schaufenster-paris-102.jpg?width=1280"
         },
         {
-          "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
-          "url": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html",
-          "summary": "Beim ersten Treffen dieser Art hat Außenminister Wadephul mit sieben anderen Chefdiplomaten aus Europa und Nahost in Istanbul über Kriege und Konflikte beraten. Seine Bilanz: positiv. Künftig soll es regelmäßige Treffen geben. Buttkereit.",
+          "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
+          "summary": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er forderte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/24a421c2-b462-481b-a442-8d125ff1a6d4/AAABoWnAtx0/AAABnSSvrFg/16x9-big/aussenminister-ankara-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5aad0f93-8911-4b06-ae2d-b9eb439bba40/AAABoWnyfdg/AAABnSSvrFg/16x9-big/soeder-938.jpg?width=1280"
         },
         {
-          "title": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
-          "summary": "Ein Toter, vier Verletzte - darunter ein zwölfjähriges Kind: Nach den Schüssen eines Autofahrers auf Passanten bei Paris ermittelt die Anti-Terror-Staatsanwaltschaft. Sie prüft auch, ob es einen rassistischen Hintergrund gibt. Von C. Dylla.",
+          "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
+          "summary": "Zum Auftakt des CSU-Parteitags knöpft sich Parteichef Söder die Linke und die AfD vor. Und er weist auf den Ernst der Lage für die Union hin. Den meisten Applaus bekam er aber für etwas anderes. Von Anita Fünffinger.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5962a491-5289-4e0b-b6ef-c38ced9095d4/AAABoWmUE_o/AAABnSSvrFg/16x9-big/polizei-paris-124.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/052e0a42-d068-4142-b3ef-ef428748bb26/AAABoWnMAlQ/AAABnSSvrFg/16x9-big/soeder-936.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Proteste: Frankreich fürchtet neue Krawalle bei landesweiten Demos",
+          "url": "https://www.sueddeutsche.de/politik/frankreich-proteste-krawalle-pluenderungen-kundgebungen-li.3568230",
+          "summary": "70 000 Beamte sollen Gewalt und Plünderungen an diesem Samstag verhindern. Manche Kundgebungen werden verboten.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Krieg in der Ukraine: Kiew und Moskau stimmen Feuerpause für Oleschky zu – USA: Melania Trump hat vermittelt",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-feuerpause-oleschky-melania-trump-papst-leo-li.3563283",
           "summary": "Die Kämpfe in der Frontstadt sollen vorübergehend eingestellt werden. Die Ukraine erklärt, die Vereinbarung sei das Ergebnis eines langen Prozesses, an dem neben der First Lady auch der Papst beteiligt gewesen sei. Auch der Kreml bestätigt die Abmachung.",
@@ -133,14 +141,6 @@
           "title": "CSU-Parteitag in München: Söder lässt den Saal für Ilse Aigner jubeln",
           "url": "https://www.sueddeutsche.de/bayern/csu-parteitag-soeder-aigner-merz-brandmauer-li.3564629",
           "summary": "Die CSU warnt auf ihrem Parteitag vor der Gefahr durch radikale Kräfte links wie rechts. Parteichef Söder watscht die Grünen und die Freien Wähler ab – und hat eine Empfehlung für Kanzler Merz.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Nahost: Israel bereitet Abriegelung des Westjordanlands vor – Netanjahu kündigt Großeinsatz an",
-          "url": "https://www.sueddeutsche.de/politik/westjordanland-abriegelung-israel-netanjahu-angriff-grosseinsatz-li.3567934",
-          "summary": "Der israelische Regierungschef reagiert damit auf einen Angriff mit zwei getöteten Soldaten in dem besetzten Palästinensergebiet.",
           "source": "SZ",
           "paywall": false,
           "image": null
