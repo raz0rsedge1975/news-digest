@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-24T18:00:14.971Z",
-  "timestamp": "24.10.2026, 20:00:14",
+  "generated": "2026-10-24T22:00:09.601Z",
+  "timestamp": "25.10.2026, 00:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "UN-Biodiversitätskonferenz: Wie kommen die Länder voran bei der Rettung der Natur?",
-          "url": "https://www.faz.net/aktuell/wissen/erde-klima/weltnaturkonferenz-cop-17-in-eriwan-eine-zwischenbilanz-accg-201610959.html",
-          "summary": "Halbzeit bei der Weltnaturkonferenz: Lässt sich die Zerstörung bis zum Jahr 2030 beenden? Die Konflikte sind groß – der Wille, das ehrgeizigste Naturschutzprojekt der Geschichte nicht scheitern zu lassen, aber auch.",
+          "title": "Shida Bazyar: Die Abgründe hinter der eigenen Haustür",
+          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/shida-bazyar-und-die-ns-abgruende-ihrer-heimatstadt-hermeskeil-201608614.html",
+          "summary": "Shida Bazyar hat über die NS-Vergangenheit ihres Heimatortes einen gefeierten Roman geschrieben. Ein Spaziergang zu den Lücken, die sie selbst erst spät entdeckte.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a714fd096b84/w3113h1626x433y1036o/202610/4a2897e7-b14c-4035-bb0d-7bf1ab405532/artenschutz-dient-nicht-nur.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ec3688b45edf/w4460h2330x0y520o/ef1d2589-3caf-4621-aa1d-a022d435114f-2642933489_ROE_Shida_Bazyar_Hermeskeil_122.jpg/vor-der-fussgaengerzone-von.webp"
         },
         {
-          "title": "UN-Biodiversitätskonferenz: Warum 30 Prozent Schutzfläche für die Natur nicht genügen",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/30-prozent-ziel-das-missverstaendnis-beim-naturschutz-accg-201607245.html",
-          "summary": "Das Weltnaturabkommen will bis 2030 dreißig Prozent der Land- und Meeresflächen schützen. Doch Schutzgebiete sind nicht automatisch menschenleere Wildnis – und auf anderen Flächen geht der Verlust weiter.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/11913a982918/w4000h2090x0y306o/200803/431.0.63340546/sein-lebensraum-schrumpft-ein.webp"
-        },
-        {
-          "title": "Frankreich: Viele Kontrollen und 130 Festnahmen am Protesttag",
-          "url": "https://www.faz.net/aktuell/politik/ausland/proteste-in-frankreich-massive-polizeipraesenz-130-festnahmen-accg-201617989.html",
-          "summary": "Frankreich geht mit massiver Polizeipräsenz und Einschränkungen gegen mögliche Ausschreitungen vor. In einigen Städten setzt die Polizei Tränengas ein, insgesamt bleibt es jedoch zunächst relativ ruhig.",
+          "title": "Frankreich: Zusammenstöße zwischen Polizei und Demonstranten in mehreren Städten",
+          "url": "https://www.faz.net/aktuell/politik/ausland/proteste-in-frankreich-ausschreitungen-und-1000-festnahmen-accg-201617989.html",
+          "summary": "In Frankreich sind an diesem Samstag Hunderttausende Demonstranten auf der Straße. Zunächst verläuft es recht ruhig – doch am Abend spitzt sich die Lage zunehmend zu.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://www.faz.net/faz-share-logo.jpg"
+        },
+        {
+          "title": "Neue Protestaufrufe: Ladenbesitzer organisieren sich zur Selbstverteidigung",
+          "url": "https://www.faz.net/aktuell/politik/ausland/proteste-in-frankreich-es-herrscht-das-gefuehl-dass-der-staat-zusammengebrochen-ist-accg-201609374.html",
+          "summary": "Die Franzosen haben das Gefühl, dass der Staat zusammengebrochen ist. Nicht nur Polizei und Armee bereiten sich auf weitere gewaltsame Proteste vor.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/1000c11daae6/w4785h2500x0y594o/202610/43601.0.2767365933/die-franzoesische-hafenstadt.webp"
         }
       ]
     },
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/48e3c3cf-6955-4763-9648-e321e7bb15f5_w1200_r1.778_fpx58.56_fpy50.jpg"
         },
         {
+          "title": "Brasilien: Bewegung von Jair Bolsonaro steht erneut vor der Macht",
+          "url": "https://www.spiegel.de/ausland/brasilien-bewegung-von-jair-bolsonaro-steht-erneut-vor-der-macht-a-e4ab5fb0-c184-4b32-b09d-6f185ccdc2a1#ref=rss",
+          "summary": "Die Bewegung des rechtsextremen früheren Präsidenten Jair Bolsonaro steht erneut an der Schwelle zur Macht. Seine Unterstützer sehen ihn als politischen Gefangenen – ein umstrittener Spielfilm huldigt dem Mythos.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f278258f-9515-4634-99e2-1e2678343587_w1200_r1.778_fpx62.64_fpy49.99.jpg"
+        },
+        {
           "title": "Frankreich: Hunderttausende demonstrieren – Polizei setzt Tränengas ein",
           "url": "https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss",
-          "summary": "Mit bis zu 70. 000 Polizisten versucht Frankreichs Innenminister, die Proteste in Schach zu halten. Teilweise mit Erfolg: In Paris ist es weitgehend ruhig, in Lyon und anderen Städten setzt die Polizei Tränengas und Wasserwerfer ein.",
+          "summary": "Mit bis zu 70.000 Polizisten versucht Frankreichs Innenminister, die Proteste in Schach zu halten – ohne Erfolg: In Paris eskalierte am Abend die Gewalt, in Lyon und anderen Städten setzte die Polizei früh Tränengas und Wasserwerfer ein.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/f6e80ee2-617e-422a-a8f9-a40519dcc550_w1200_r1.778_fpx66.66_fpy50.jpg"
-        },
-        {
-          "title": "CSU-Parteitag: Friedrich Merz hat zwei Bussis für Ilse Aigner dabei – mehr nicht",
-          "url": "https://www.spiegel.de/politik/deutschland/csu-parteitag-friedrich-merz-hat-zwei-bussis-fuer-ilse-aigner-dabei-mehr-nicht-a-c1592275-6063-4164-95c8-caff14749f80#ref=rss",
-          "summary": "Auf dem CSU-Parteitag schweigt der CDU-Chef zu den Ambitionen der Schwesterpartei, künftig die Bundespräsidentin zu stellen. Unmut darüber war aber nur auf den Gängen zu vernehmen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7cead7c0-e98e-4075-a430-205e7a35b922_w1200_r1.778_fpx34.87_fpy44.99.jpg"
         }
       ]
     },
@@ -66,7 +66,7 @@
         {
           "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
           "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-          "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400. 000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei.",
+          "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400. 000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. 000 Menschen wurden festgenommen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/236feb84-b24d-4116-b8f0-5a0b0cf48424/AAABoW7hjg0/AAABnSSvrFg/16x9-big/marseille-protest-100.jpg?width=1280"
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Pop: Doch, doch, er ist es",
-          "url": "https://www.sueddeutsche.de/kultur/bob-dylan-tour-flensburg-li.3568229",
-          "summary": "Wer ihn hören will auf seiner Deutschlandtour, sollte lieber nicht zu spät kommen: Zum Auftakt im stürmischen Flensburg lässt Bob Dylan nicht den geringsten Zweifel daran, dass niemand den Blues so kann wie er.",
+          "title": "Demonstrationen: Wo in Europa überall Proteste stattfinden",
+          "url": "https://www.sueddeutsche.de/politik/demonstrationen-italien-frankreich-belgien-albanien-jugendliche-li.3568500",
+          "summary": "Nicht nur in Frankreich gehen am Samstag wieder Hunderttausende Menschen auf die Straße. Auch anderswo kommt es zu Protesten – und vereinzelt zu Gewalt. Wo und für was in Europa noch demonstriert wurde.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Bundesweiter Aktionstag: Demonstrationen gegen Abschiebungen an mehreren Flughäfen",
-          "url": "https://www.sueddeutsche.de/panorama/abschiebungen-demonstrationen-flughaefen-li.3568474",
-          "summary": "In München, Leipzig und anderen Großstädten demonstrieren Hunderte gegen Abschiebungen und sogenannte „Abschiebeterminals“ an Flughäfen.  Sie kritisieren auch die Zusammenarbeit der Bundesregierung mit den Taliban.",
+          "title": "Frankreich: „Akt II“ des Protests wird hinter die Kulissen der Stadt verbannt",
+          "url": "https://www.sueddeutsche.de/politik/paris-demo-protest-peripherie-li.3568476",
+          "summary": "Der Pariser Präfekt verlegt die Demo in letzter Minute in die Peripherie. Aus Sicherheitsgründen, heißt es – die Teilnehmenden haben da ihre Zweifel. Ein Marsch mit gut gelaunten Zornigen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "7. Spieltag der Fußball-Bundesliga: Füllkrug trifft immer weiter",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-spieltag-aktuell-ergebnis-fuellkrug-li.3568436",
-          "summary": "Der Bremer Stürmer sammelt mit zwei Treffern weiter Gründe für einen Anruf von Jürgen Klopp. Martín Demichelis’ riskanter Plan geht auf – und der SC Paderborn schockt den HSV. Das Wichtigste zum Spieltag.",
+          "title": "1:0 gegen Frankfurt: Beier schießt den BVB an die Spitze",
+          "url": "https://www.sueddeutsche.de/sport/bvb-frankfurt-bundesliga-ergebnis-li.3568487",
+          "summary": "Borussia Dortmund entscheidet die Partie gegen Eintracht Frankfurt für sich und legt vor dem Bundesliga-Spitzenspiel gegen den FC Bayern am kommenden Wochenende vor.",
           "source": "SZ",
           "paywall": false,
           "image": null
