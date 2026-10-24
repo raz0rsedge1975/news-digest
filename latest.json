@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T22:00:07.368Z",
-  "timestamp": "24.10.2026, 00:00:07",
+  "generated": "2026-10-24T02:00:08.070Z",
+  "timestamp": "24.10.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Wie sieht die Zukunft der Raffinerien aus?",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
+          "summary": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/12519c40-0df6-4402-95d7-87335f1c683c/AAABnQVOSP0/AAABnSSvrFg/16x9-big/oel-142.jpg?width=1280"
+        },
+        {
+          "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+          "url": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+          "summary": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großagelegten Militäreinsatz.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/165069c4-ef89-4bc5-a057-14b8a0dfd86e/AAABoWsq8OM/AAABnSSvrFg/16x9-big/israel-westjordanland-142.jpg?width=1280"
+        },
+        {
           "title": "Frankreich rüstet sich für nächsten Protesttag",
           "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html",
           "summary": "Frankreich fürchtet eine weitere Eskalation der aufgeheizten Stimmung. Diesmal will der Staat besser vorbereitet sein. Inmitten dieser Lage erschüttert ein mutmaßlich rassistisch motivierter Anschlag das Land. Von Cai Rienäcker.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/2a52c4e1-22c2-4e16-87ec-d63cc82608d8/AAABoWnklWA/AAABnSSvrFg/16x9-big/schaufenster-paris-102.jpg?width=1280"
-        },
-        {
-          "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-          "summary": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er forderte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/5aad0f93-8911-4b06-ae2d-b9eb439bba40/AAABoWnyfdg/AAABnSSvrFg/16x9-big/soeder-938.jpg?width=1280"
-        },
-        {
-          "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html",
-          "summary": "Zum Auftakt des CSU-Parteitags knöpft sich Parteichef Söder die Linke und die AfD vor. Und er weist auf den Ernst der Lage für die Union hin. Den meisten Applaus bekam er aber für etwas anderes. Von Anita Fünffinger.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/052e0a42-d068-4142-b3ef-ef428748bb26/AAABoWnMAlQ/AAABnSSvrFg/16x9-big/soeder-936.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Nahost: Israel startet im Westjordanland „Anti-Terror-Operation“",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-us-botschaft-westjordanland-li.3560260",
+          "summary": "Armee und Geheimdienst sollen das Gebiet nach Terrorinfrastruktur und Waffen durchsuchen, teilt die Armee mit. Damit reagiere Israel auf einen Angriff am Morgen. Am Dienstag wird im Land gewählt.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Proteste: Frankreich fürchtet neue Krawalle bei landesweiten Demos",
           "url": "https://www.sueddeutsche.de/politik/frankreich-proteste-krawalle-pluenderungen-kundgebungen-li.3568230",
           "summary": "70 000 Beamte sollen Gewalt und Plünderungen an diesem Samstag verhindern. Manche Kundgebungen werden verboten.",
@@ -133,14 +141,6 @@
           "title": "Krieg in der Ukraine: Kiew und Moskau stimmen Feuerpause für Oleschky zu – USA: Melania Trump hat vermittelt",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-feuerpause-oleschky-melania-trump-papst-leo-li.3563283",
           "summary": "Die Kämpfe in der Frontstadt sollen vorübergehend eingestellt werden. Die Ukraine erklärt, die Vereinbarung sei das Ergebnis eines langen Prozesses, an dem neben der First Lady auch der Papst beteiligt gewesen sei. Auch der Kreml bestätigt die Abmachung.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "CSU-Parteitag in München: Söder lässt den Saal für Ilse Aigner jubeln",
-          "url": "https://www.sueddeutsche.de/bayern/csu-parteitag-soeder-aigner-merz-brandmauer-li.3564629",
-          "summary": "Die CSU warnt auf ihrem Parteitag vor der Gefahr durch radikale Kräfte links wie rechts. Parteichef Söder watscht die Grünen und die Freien Wähler ab – und hat eine Empfehlung für Kanzler Merz.",
           "source": "SZ",
           "paywall": false,
           "image": null
