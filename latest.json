@@ -1,25 +1,17 @@
 {
-  "generated": "2026-10-25T07:00:09.398Z",
-  "timestamp": "25.10.2026, 08:00:09",
+  "generated": "2026-10-25T11:00:08.275Z",
+  "timestamp": "25.10.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Junge Soldaten: „Wir haben eine Pflicht – und der werden wir nachkommen“",
-          "url": "https://www.faz.net/aktuell/politik/inland/junge-soldaten-in-der-bundeswehr-wir-haben-eine-pflicht-und-der-werden-wir-nachkommen-accg-201256414.html",
-          "summary": "Die Bundeswehr sucht dringend Nachwuchs. Doch der raue Umgangston schreckt viele ab. Fünf junge Soldaten erzählen, was sie zur Truppe führt – und warum manche wieder gehen.",
+          "title": "Fabrik in Georgia: Der Audi-Chef macht sich zu Trumps Wahlhelfer",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html",
+          "summary": "Das geplante Audi-Werk in den USA ist eine richtige Entscheidung. Die Verbeugung des Vorstandschefs Döllner vor dem amerikanischen Präsidenten auf offener Bühne dagegen sendet das falsche Signal.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/feef85553dfd/w3466h1810x1034y1060o/202609/43601.0.2569549666/die-21-jahre-alte-soldatin.webp"
-        },
-        {
-          "title": "Wahl in Serbien: Zum ersten Mal muss Vučić bangen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-zum-ersten-mal-muss-vui-bangen-accg-201610779.html",
-          "summary": "In Serbien will die „Studentische Liste“ den langjährigen Präsidenten Vučić von der Macht verdrängen. Der wiederum hat nicht nur Wladimir Putin an seiner Seite.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d924de91dfd7/w6000h3135x0y578o/202610/76ed8eee-e304-41c9-b361-810eedfbaa26/ihr-feind-ist-das.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a0f6905a60ee/w1757h918x0y35o/202610/66d670ec-04af-46c5-a636-372146b98027/dank-fuer-die-unterstuetzung.webp"
         },
         {
           "title": "Deutsche AutoIndustrie: Audi baut für vier Milliarden Dollar ein eigenes Werk in den USA",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/546131841605/w3936h2056x0y288o/202610/b00358ed-6476-45a0-8987-cfea367288ab/us-praesident-donald-trump.webp"
+        },
+        {
+          "title": "Sinkende Verkaufszahlen: So schlimm ist die Autokrise",
+          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/autokrise-vw-bmw-und-mercedes-verlieren-780-000-fahrzeuge-accg-201614859.html",
+          "summary": "Die drei deutschen Autohersteller BMW, Mercedes und Volkswagen erleiden im Branchenvergleich besonders starke Einbußen. Doch es gibt auch Krisengewinner.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/4bd11a149d53/w6144h3210x0y320o/202607/43601.0.2284744092/montage-der-mercedes-s-klasse.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Audi baut für vier Milliarden Dollar eigenes Werk in den USA",
-          "url": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss",
-          "summary": "Bislang importiert Audi alle seine Fahrzeuge in die USA und zahlt dafür hohe Zölle. Nun will der Konzern erstmals vor Ort produzieren. Ausgerechnet Donald Trump darf die Milliardeninvestition im Wahlkampf verkünden – zusammen mit dem Audi-Chef.",
+          "title": "Emmanuel Macron: So wurde der Präsident zum Buhmann der Protestjugend",
+          "url": "https://www.spiegel.de/ausland/emmanuel-macron-so-wurde-der-praesident-zum-buhmann-der-protestjugend-a-7a96fb64-add5-4a77-bacc-784f66c9c616#ref=rss",
+          "summary": "Was als Aufstand gegen die Zustände an Schulen begann, ist zu einer breiten Front gegen den scheidenden Präsidenten geworden. Der Frust der Franzosen auf Emmanuel Macron ist vor allem für die politische Mitte gefährlich.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b47fe38e-b748-4898-9693-4313b737db35_w1200_r1.778_fpx56.81_fpy54.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a47769a1-8a8f-4eef-a791-85eb37906632_w1200_r1.778_fpx49_fpy46.jpg"
         },
         {
-          "title": "Zeitumstellung im Oktober: Was gegen Winterdepressionen hilft",
-          "url": "https://www.spiegel.de/wissenschaft/mensch/zeitumstellung-im-oktober-was-gegen-winterdepressionen-hilft-a-bc6f65c0-6c96-452f-a4b2-f879c8275b53#ref=rss",
-          "summary": "Nach der Zeitumstellung erscheinen die Tage kürzer und dunkler. Psychologieprofessor Trevor Harley ist selbst von Winterdepressionen betroffen und sagt, wie Menschen besser mit schlechtem Wetter zurechtkommen.",
+          "title": "News: Die CDU und ihre vier strategischen Probleme",
+          "url": "https://www.spiegel.de/politik/deutschland/news-die-cdu-und-ihre-vier-strategischen-probleme-a-43c9847b-6120-4e16-8ec5-8b9fae44a49f#ref=rss",
+          "summary": "Warum die einst stolze Volkspartei dem Untergang entgegentaumelt. Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/261b693b-b977-42ff-82e5-6f9a41db0a94_w1200_r1.778_fpx43_fpy51.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "Frankreich: Hunderttausende demonstrieren – Polizei setzt Tränengas ein",
-          "url": "https://www.spiegel.de/ausland/frankreich-hunderttausende-demonstrieren-polizei-setzt-traenengas-ein-a-3570c8f2-a8e5-4574-8b56-c2bd4c85e08a#ref=rss",
-          "summary": "Mit bis zu 70.000 Polizisten versucht Frankreichs Innenminister, die Proteste in Schach zu halten – ohne Erfolg: In Paris eskalierte am Abend die Gewalt, in Lyon und anderen Städten setzte die Polizei früh Tränengas und Wasserwerfer ein.",
+          "title": "Midterms in den USA: Barack Obama greift Donald Trump an - »Chaos, Grausamkeit, Korruption«",
+          "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-barack-obama-greift-donald-trump-an-chaos-grausamkeit-korruption-a-5fac69e5-50f0-43f8-8f9b-fd86afe0347c#ref=rss",
+          "summary": "Barack Obama betritt die Wahlkampfbühne und schwört die US-Wähler ein – mit scharfen Worten gegen seinen Nachfolger: »Nach zwei Jahren Chaos, Grausamkeit, Korruption und Inkompetenz habt ihr nun die Gelegenheit zu sagen: Es reicht.«",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f6e80ee2-617e-422a-a8f9-a40519dcc550_w1200_r1.778_fpx66.66_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7eca0c61-f08a-492e-98d0-5ed57649a2f9_w1200_r1.778_fpx37_fpy46.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
-          "summary": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Kell und H.",
+          "title": "Sturmtief \"Manja\" fegt über Deutschland",
+          "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
+          "summary": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9074f296-062b-4969-8698-46bebb74c3ee/AAABoTVNe_M/AAABnSSvrFg/16x9-big/heizen-158.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/884a8128-5302-4953-b831-e6cb3740a0ab/AAABoXKb0S8/AAABnSSvrFg/16x9-big/unwetter-baden-wuerttemberg-110.jpg?width=1280"
         },
         {
-          "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
-          "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
-          "summary": "Serbiens langjähriger Staatschef Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.",
+          "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich in Wahlkampf mit Trump-Kritik ein",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html",
+          "summary": "Die Demokraten hoffen bei den Zwischenwahlen auf einen Sieg. Nun gibt es Wahlkampfhilfe vom früheren US-Präsidenten Obama. Der wirft Trump Korruption vor - und lästert über die Renovierungsarbeiten im Weißen Haus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7fe85c23-37fa-404f-8826-c9d02e1fd2dc/AAABoXFAejs/AAABnSSvrFg/16x9-big/aleksandar-vucic-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/99deff4b-d50e-4e7b-9c89-3c6ec5ff3798/AAABoXJueMA/AAABnSSvrFg/16x9-big/obama-954.jpg?width=1280"
         },
         {
-          "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
-          "summary": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
+          "title": "Proteste in Europa - auch mit Gewalt",
+          "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html",
+          "summary": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d1655185-f8a9-452b-87c9-ae485a7ca38c/AAABoWuZ1jc/AAABnSSvrFg/16x9-big/lula-bolsonaro-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/12480ce0-3910-4aae-b5a6-7b2d310c06d9/AAABoXIyT6w/AAABnSSvrFg/16x9-big/frankreich-proteste-238.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Igel im Überlebenskampf: Wie unaufgeräumte Gärten beim Überwintern helfen",
+          "url": "https://www.telepolis.de/article/Igel-im-Ueberlebenskampf-Wie-unaufgeraeumte-Gaerten-beim-Ueberwintern-helfen-11496796.html",
+          "summary": "Immer mehr Igel verhungern. Eine Ursache ist das Insektensterben. Doch gerade im Herbst brauchen die Tiere Nahrung und Schutz, um durch den Winter zu kommen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/2/2/3/igel-02-f0df8e80220b18f3.gif"
+        },
+        {
+          "title": "Gewerbepark auf ehemaligem KZ-Gelände in Österreich: Logistik statt Gedenken?",
+          "url": "https://www.telepolis.de/article/Gewerbepark-auf-ehemaligem-KZ-Gelaende-in-Oesterreich-Logistik-statt-Gedenken-11492724.html",
+          "summary": "In Leobersdorf entsteht auf dem Gelände des ehemaligen KZ-Außenlagers Hirtenberg ein Gewerbepark. Das Projekt wirft Fragen zur Erinnerungskultur auf.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/1/4/0/Hirtenberg_concentration_camp_near_Hirtenberg__Lower_Austria__Austria-basemap.at_-_orthophoto-cce35426db91e3cf.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Frankreich: Wer protestiert, steht schon unter Verdacht",
           "url": "https://www.telepolis.de/article/Frankreich-Wer-protestiert-steht-schon-unter-Verdacht-11499201.html",
           "summary": "Akte 2 der Proteste: 70. 000 Sicherheitskräfte, eingeschränkte Grundrechte. Ein rassistischer Anschlag verschärft die Debatte über Gewalt.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/4/5/3/France_Master-0e567d322ad27505.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Deutsche Konzerne streichen mehr Stellen als die europäische Konkurrenz",
-          "url": "https://www.telepolis.de/article/Deutsche-Konzerne-streichen-mehr-Stellen-als-die-europaeische-Konkurrenz-11497885.html",
-          "summary": "Porsche, VW, Warsteiner: Immer mehr Firmen bauen Jobs ab, und zwar rigoroser als im Ausland. Prozessanalysen sollen helfen. Gibt es bessere Wege aus der Krise?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/7/8/0/Zirkel-F-042573b5a757c72c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Die Antwort ist 42. Der Rest ist menschliche Überforderung.",
-          "url": "https://www.telepolis.de/article/Die-Antwort-ist-42-Der-Rest-ist-menschliche-Ueberforderung-11499139.html",
-          "summary": "Ägyptische Totenrichter, biblische Bestien und ein britischer Spötter: Die Karriere einer Zahl erzählt von unserer unheilbaren Sinnsuche. Ein Essay.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/4/2/2/Master_Rathmann-73903e5de5345186.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nahost: Armee will Westjordanland während Wahl in Israel abriegeln",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-us-botschaft-westjordanland-li.3560260",
-          "summary": "Palästinenser sollen nicht in israelische Siedlungen kommen dürfen. In Tel Aviv protestieren viele Menschen gegen die Regierung von Ministerpräsident Netanjahu.",
+          "title": "Weltcup-Auftakt 2026: Ski-Alpin-Saison startet in Sölden – Übersicht zu den Rennen",
+          "url": "https://www.sueddeutsche.de/sport/ski-alpin-soelden-auftakt-2026-heute-live-maenner-riesenslalom-uhrzeit-tv-stream-li.3562584",
+          "summary": "Angriff auf die große Kristallkugel: In Sölden beginnt am 24. Oktober der Ski-Alpin-Weltcup. Wer ist Favorit, wo ist das Rennen zu sehen? Eine Übersicht.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Demonstrationen: Wo in Europa überall Proteste stattfinden",
-          "url": "https://www.sueddeutsche.de/politik/demonstrationen-italien-frankreich-belgien-albanien-jugendliche-li.3568500",
-          "summary": "Nicht nur in Frankreich gehen am Samstag wieder Hunderttausende Menschen auf die Straße. Auch in Italien, Albanien, Spanien, Portugal und Belgien kommt es zu Protesten – und vereinzelt zu Gewalt.",
+          "title": "Aktuelles Lexikon: „Bismillah, c’est les ténèbres“ – was heißt das?",
+          "url": "https://www.sueddeutsche.de/politik/frankreich-bismillah-c-est-les-tenebres-snapchat-proteste-jugendsprache-li.3567452",
+          "summary": "Auf Deutsch: „Im Namen Gottes, es ist die Finsternis! “ Das ist der Slogan der jungen Menschen bei ihren Protesten in Frankreich. Eine kurze Geschichte über ihren Humor.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Frankreich: „Akt II“ des Protests wird hinter die Kulissen der Stadt verbannt",
-          "url": "https://www.sueddeutsche.de/politik/paris-demo-protest-peripherie-li.3568476",
-          "summary": "Der Pariser Präfekt verlegt die Demo in letzter Minute in die Peripherie. Aus Sicherheitsgründen, heißt es – die Teilnehmenden haben da ihre Zweifel. Ein Marsch mit gut gelaunten Zornigen.",
+          "title": "Kompany-Vertreter Aaron Danks: Seine wichtigste Aufgabe: Mit dem Chef jetzt nicht über Fußball reden",
+          "url": "https://www.sueddeutsche.de/sport/danks-bayern-trainer-kompany-ersatz-li.3568507",
+          "summary": "Aaron Danks vertritt Vincent Kompany nach dessen Zusammenbruch zum zweiten Mal an der Seitenlinie – und soll die Aufstellung diesmal wirklich ohne ihn machen.",
           "source": "SZ",
           "paywall": false,
           "image": null
