@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-26T11:00:10.067Z",
-  "timestamp": "26.10.2026, 12:00:10",
+  "generated": "2026-10-26T15:00:09.109Z",
+  "timestamp": "26.10.2026, 16:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Altersmedizinerin Polidori: „Ein Drittel der Pflegefälle könnte man vermeiden – oder um Jahre hinauszögern“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/die-altersforscherin-cristina-polidori-ueber-hohe-lebenserwartung-accg-201611619.html",
-          "summary": "Die Zahl der Senioren steigt rasant. Doch die Gesundheitssysteme sind der Komplexität alter Menschen nicht gewachsen, sagt Cristina Polidori. Dabei könne man ihnen viele Jahre im Heim ersparen.",
+          "title": "Wahl in Serbien: Den Serben ging es um Vučić, nicht um Brüssel",
+          "url": "https://www.faz.net/aktuell/politik/ausland/serbien-vucic-wettert-nach-niederlage-gegen-studenten-accg-201621426.html",
+          "summary": "Nach der Niederlage seines Freundes Orbán in Ungarn gab sich Aleksandar Vučić noch sicher: Das könne ihm nicht passieren. Das sah eine Mehrheit der Serben anders.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dcfb80e6a264/w6908h3609x0y850o/202610/43601.0.2641214981/eine-frau-in-einem-frankfurter.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ae3e63604354/w4528h2365x0y424o/angebote/imago_st_1026_06480001_0870717039.jpg/euphorie-in-belgrad-eine.webp"
         },
         {
-          "title": "Pflegeversicherung: Berlin degradiert Kinderlose zu Kassenfüllern",
-          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/pflegereform-warum-kinderlose-die-zeche-zahlen-sollen-201608221.html",
-          "summary": "Eine kräftige Beitragserhöhung für Kinderlose soll die Finanznot der Pflegekassen beheben. Mit fairem Lastenausgleich hat das wenig zu tun. Warum lässt man sie nicht einfach zur Privatversicherung wechseln?",
+          "title": "Vučićs Niederlage: Für Serbien stehen die Türen der EU jetzt offen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/eu-fuer-serbien-stehen-jetzt-in-bruessel-die-tueren-offen-accg-201621710.html",
+          "summary": "Anfang September hatte die EU-Kommission noch die EU-Perspektive des Landes infrage gestellt, wegen Vučić. Nun keimt die Hoffnung auf eine Wende.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3e00e59924e1/w7952h4154x0y590o/202608/43601.0.2430274917/eine-kraeftige.webp"
+          "image": "https://media0.faz.net/image/w1200h627/37251bc53ca9/w8256h4313x0y1025o/202610/141d4d54-3429-42d6-b3f8-494c6df55d42/die-studenten-feiern-anhaenger.webp"
         },
         {
-          "title": "Brasilien-Wahl: Lulas historischem Sieg droht ein Nachspiel",
-          "url": "https://www.faz.net/aktuell/politik/ausland/brasilien-wahl-2026-lulas-historischem-sieg-droht-ein-nachspiel-accg-201620959.html",
-          "summary": "Brasiliens Präsident schafft nach einer beispiellosen Mobilisierung die Wiederwahl. Doch sein Herausforderer Flávio Bolsonaro erkennt die Niederlage nicht an.",
+          "title": "Serbien: Er hat die Wahl gewonnen – aber das heißt nicht viel",
+          "url": "https://www.faz.net/aktuell/politik/ausland/ilija-srdanovic-wer-ist-der-serbische-wahlsieger-accg-201622443.html",
+          "summary": "Ilija Srdanović war Spitzenkandidat der siegreichen „Studentischen Liste“ bei der Parlamentswahl in Serbien. Ob er dauerhaft in die Politik geht, ist aber noch offen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e8f89595bc78/w4905h2562x479y802o/202610/b1626e59-944d-4d78-a85d-ba272fff5dee/nennt-seine-anhaenger-eine.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0f02e51d8bab/w3929h2052x0y283o/202610/5089e088-ce16-450c-bef6-d149a35e43a7/ilija-srdanovi-am-25-oktober.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Carolina Wilga: Zwölf Tage überlebte sie im Outback von Australien – so geht es ihr ein Jahr später",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/carolina-wilga-zwoelf-tage-ueberlebte-sie-im-outback-von-australien-so-geht-es-ihr-ein-jahr-spaeter-a-4a23e36a-da5c-43aa-af6d-707b98bb9b40#ref=rss",
+          "summary": "Sie trinkt aus Pfützen und isst Blätter, um zu überleben: Australiens Medien sprechen von einem Wunder, als Carolina Wilga 2025 gefunden wird. In ihrer Erinnerung klaffen Lücken, die sie jetzt wieder quälen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ef6033a6-251a-4fc7-8197-dd8eca25811d_w1200_r1.778_fpx41_fpy50.jpg"
+        },
         {
           "title": "Erst Ungarn, jetzt Serbien: Wahlsieg der Studenten – geht Europas Autokraten die Luft aus?",
           "url": "https://www.spiegel.de/ausland/wahlsieg-der-studenten-erst-ungarn-jetzt-serbien-geht-europas-autokraten-die-luft-aus-a-73977c82-1cdb-4625-a309-364b817d1380#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/60f52723-31b0-4cc7-b017-2cd1e29f0410_w1200_r1.778_fpx33.34_fpy50.jpg"
         },
         {
-          "title": "Serbien: Studentenliste feiert unerwarteten Wahlerfolg und Machtwechsel",
-          "url": "https://www.spiegel.de/ausland/serbien-studentenliste-feiert-unerwarteten-wahlerfolg-und-machtwechsel-a-905b36d0-999d-4e28-8064-dd88cb05f795#ref=rss",
-          "summary": "Der Wahlerfolg der Studentenliste in Serbien treibt Zehntausende im ganzen Land auf die Straßen. Sie feiern, tanzen und musizieren – und können den bevorstehenden Machtwechsel selbst noch nicht so richtig fassen.",
+          "title": "Benjamin Netanyahu: Sein umstrittener Berater Srulik Einhorn und dessen CDU-Verbindungen",
+          "url": "https://www.spiegel.de/politik/deutschland/benjamin-netanyahu-sein-umstrittener-berater-srulik-einhorn-und-dessen-cdu-verbindungen-a-7db678a7-1bb9-4b7f-979d-f179171b813c#ref=rss",
+          "summary": "Srulik Einhorn verehrt Israels Premier Benjamin Netanyahu, beriet rechtsnationale Politiker in Europa – und offenbar auch mehrere CDU-Landesverbände. Seine Methoden beschäftigen längst die israelische Justiz.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/708b8e70-98bb-4284-9ba2-7bd8e0c09a2f_w1200_r1.778_fpx39_fpy39.jpg"
-        },
-        {
-          "title": "Brasilien: Wie Lula da Silva überraschend Flávio Bolsonaro besiegte",
-          "url": "https://www.spiegel.de/ausland/brasilien-wie-lula-da-silva-ueberraschend-flavio-bolsonaro-besiegte-a-54205e62-424d-419d-b42b-78fd7a5d236d#ref=rss",
-          "summary": "Entgegen allen Erwartungen hat Präsident Lula die Wiederwahl klar gewonnen. Doch sein Widersacher Flávio Bolsonaro erkennt das Ergebnis nicht an. Er schürt den Hass seiner Anhänger auf das demokratische System.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/594586ba-7f64-4745-9777-663cc4fe28f5_w1200_r1.778_fpx51.42_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dbd42dc3-bcfe-4887-8d24-7d322efea758_w1200_r1.778_fpx65.99_fpy50.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Demonstrationen für Pressefreiheit in der Türkei",
+          "url": "https://www.tagesschau.de/ausland/europa/demo-pressefreiheit-tuerkei-100.html",
+          "summary": "Journalisten stehen in der Türkei seit Langem unter Druck. Erneut sperrten die Behörden kürzlich Medienseiten und inhaftierten weitere Journalisten. Am Wochenende haben nun Tausende Menschen für mehr Pressefreiheit protestiert. Von Stella Männer.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/3d910266-464c-467f-8388-fc77d7c04713/AAABoXh6JWA/AAABnSSvrFg/16x9-big/demo-pressefreiheit-tuerkei-102.jpg?width=1280"
+        },
+        {
+          "title": "Brasiliens Kapitalmärkte stürzen ab",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html",
+          "summary": "Während die EU die Wiederwahl von Brasiliens Präsident Lula begrüßt, hat diese einen Kurssturz bei brasilianischen Aktien und Anleihen ausgelöst. An den Märkten gibt es Sorgen wegen Brasiliens hoher Verschuldung.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/e3db56f8-9818-4332-82a7-649ddf87d630/AAABoXiIBdg/AAABnSSvrFg/16x9-big/boerse-anzeigetafel-100.jpg?width=1280"
+        },
+        {
           "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
           "summary": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/19fe1ab4-786c-4a6c-a36a-1721f8e3e265/AAABoXd_6EU/AAABnSSvrFg/16x9-big/gernot-doellner-102.jpg?width=1280"
-        },
-        {
-          "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
-          "summary": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/bb390a96-5b78-430c-8e58-96caf63ec1dd/AAABoXeSqqk/AAABnSSvrFg/16x9-big/konjunktur-418.jpg?width=1280"
-        },
-        {
-          "title": "Oxford Street in London wird zur Fußgängerzone",
-          "url": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html",
-          "summary": "Von heute an fahren auf einem Teil der bekannten Londoner Oxford Street keine Autos, Busse und Taxis mehr. Der Umbau zur Fußgängerzone soll der Einkaufsstraße neues Leben einhauchen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/3eba8257-d9bc-486d-8795-4718c7c97752/AAABoXe1Q-Q/AAABnSSvrFg/16x9-big/oxford-street-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Nasa beschleunigt Mondpläne: Landung 2028, Mondbasis ab Jahresende",
+          "url": "https://www.telepolis.de/article/Nasa-beschleunigt-Mondplaene-Landung-2028-Mondbasis-ab-Jahresende-11500033.html",
+          "summary": "Die Nasa hält an einer bemannten Mondlandung im Jahr 2028 fest und ändert dafür die Architektur des Artemis-Programms. Ein Überblick.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/8/6/7/shutterstock_2123202848-2183a68f624bf6b5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Die Schulen fallen zurück – und die Herkunft entscheidet",
+          "url": "https://www.telepolis.de/article/Die-Schulen-fallen-zurueck-und-die-Herkunft-entscheidet-11500317.html",
+          "summary": "Frankreichs Schülerproteste lenken den Blick auf eine Bildungskrise, die viele Länder betrifft. Adam Tooze zeigt, was hinter den Schlagzeilen verschwindet.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/0/1/1/Master_schule-0a3f28ff0f6cffc9.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "Brasilien: Lula gewinnt knapp – Bolsonaro erkennt Ergebnis nicht an",
           "url": "https://www.telepolis.de/article/Brasilien-Lula-gewinnt-knapp-Bolsonaro-erkennt-Ergebnis-nicht-an-11499929.html",
           "summary": "Der Amtsinhaber siegt knapp gegen Flávio Bolsonaro, der die Wahl annullieren lassen will. Lula erwartet ein schwieriges Regieren. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/8/1/5/shutterstock_2554311157-2cc280ae2ef70913.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Demokratie: Wer etwas verbieten will, muss etwas bieten",
-          "url": "https://www.telepolis.de/article/Demokratie-Wer-etwas-verbieten-will-muss-etwas-bieten-11499737.html",
-          "summary": "Tempolimit oder Flugverbot: Unser Autor verlangt Verhandlungen mit den Betroffenen – und einen Ausgleich für eingeschränkte Freiheit. Ein Debattenbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/7/1/8/Master_Verbote-449b8d950f5f9c3b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Gefahr für Toyota und BMW: Chinas E-Auto-Riesen drängen in diesen reichen Markt",
-          "url": "https://www.telepolis.de/article/Gefahr-fuer-Toyota-und-BMW-Chinas-E-Auto-Riesen-draengen-in-diesen-reiche-Markt-11492778.html",
-          "summary": "Mit extremen Ladezeiten bedrohen BYD und Geely die etablierte Konkurrenz. Doch die Expansion bringt unerwartete Hürden mit sich.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/1/6/8/shutterstock_2699922613-1e89e7cfb836b968.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Influencer vs. Wanderer: Warum Reinhold Messner den Ausflug in die Berge kontingentieren will",
-          "url": "https://www.sueddeutsche.de/bayern/reinhold-messner-allgaeu-bergwandern-influencer-kolumne-li.3567873",
-          "summary": "Mit seinem Vorschlag hat der Bergsteiger im Allgäu die Gemüter erhitzt – und mit dem Wunsch, seinen Leichnam von Geiern fressen zu lassen.",
+          "title": "Abgebranntes Kehlsteinhaus: „Was ich mir nur schwer vorstellen kann, ist eine reine Rekonstruktion“",
+          "url": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-sven-keller-interview-li.3569039",
+          "summary": "Wie wichtig war das Kehlsteinhaus für die Nazis? Als Leiter der historischen Dokumentation Obersalzberg hat Sven Keller darauf einen ganz eigenen Blick. Im Interview spricht er über das Haus als Wallfahrtsort für Rechtsextreme – und räumt mit einem weitverbreiteten Mythos auf.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zu den Landtagswahlen: Berliner SPD plant Mitgliederbefragung über Koalition",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-spd-krach-giffey-eralp-li.3540501",
-          "summary": "Die Parteibasis soll über eine Koalition mit Linken und Grünen mitentscheiden – das hatten Kritiker des möglichen Bündnisses gefordert.",
+          "title": "Präsidentschaftswahl in Brasilien: „Lulas Armee“ hat den Sieg gesichert",
+          "url": "https://www.sueddeutsche.de/politik/brasilien-wahlen-2026-lula-wiederwahl-li.3568061",
+          "summary": "Für Amtsinhaber da Silva war es ein Wahlerfolg auf den letzten Metern: Im ersten Durchgang lag der rechtsgerichtete Bolsonaro vorn. Doch das mobilisierte dessen Gegner, vor allem im Internet.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Leute: Ein Hund für Familie Hamildashian?",
-          "url": "https://www.sueddeutsche.de/panorama/promis-lewis-hamilton-kim-kardashian-hund-kinder-li.3568962",
-          "summary": "Lewis Hamilton schenkt den Kindern seiner mysteriösen Freundin ein Haustier. Teleshopping-Moderatorin Martina Reuter ist jetzt Bodybuilderin. Und Sylvester Stallone hat Rücken.",
+          "title": "Krise bei Manchester United: Sonnenfinsternis über Old Trafford",
+          "url": "https://www.sueddeutsche.de/sport/premier-league-manchester-united-carrick-kritik-fans-pfiffe-li.3569325",
+          "summary": "Ein Klub versagt auf allen Hierarchieebenen: Manchester United agiert so schlecht wie zuletzt in der Saison 1921/22, Trainer Michael Carrick droht die Entlassung – mal wieder mit Verspätung.",
           "source": "SZ",
           "paywall": false,
           "image": null
