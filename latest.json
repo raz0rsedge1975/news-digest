@@ -1,17 +1,25 @@
 {
-  "generated": "2026-10-25T23:00:07.905Z",
-  "timestamp": "26.10.2026, 00:00:07",
+  "generated": "2026-10-26T03:00:07.506Z",
+  "timestamp": "26.10.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Serbien: Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-          "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-serbien-vucic-gesteht-niederlage-ein-201619434.html",
-          "summary": "Die oppositionelle „Studentische Liste“ hat die Parlamentswahl in Serbien gewonnen – möglicherweise mit einer absoluten Mehrheit. „Es ist klar, dass wir verloren haben“, sagt der langjährige Machthaber Vučić.",
+          "title": "EILMELDUNG: Flávio Bolsonaro fordert Annullierung der Wahl in Brasilien",
+          "url": "https://www.faz.net/aktuell/flavio-bolsonaro-fordert-annullierung-der-wahl-in-brasilien-accg-201620649.html",
+          "summary": "EILMELDUNG: Flávio Bolsonaro fordert Annullierung der Wahl in Brasilien",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7c666eec2ba7/w4774h2494x0y343o/202610/e9cb820e-1a0c-4e40-96df-e33e185a0e01/wahlverlierer-in-belgrad.webp"
+          "image": "https://www.faz.net/faz-share-logo.jpg"
+        },
+        {
+          "title": "Brasilien: Lula gewinnt Brasiliens Präsidentenwahl",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-brasilien-lula-gewinnt-accg-201620584.html",
+          "summary": "Der 80 Jahre alte Linkspolitiker hat in Brasilien Historisches geschafft und den Rückstand aus dem ersten Wahlgang wettgemacht. Seine vierte Amtszeit dürfte schwierig werden.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ec7fba68244e/w6000h3135x0y433o/202610/f57d1d99-0672-48ee-967d-4fa37db7c48c/luiz-inacio-lula-da-silva.webp"
         },
         {
           "title": "Liveblog Nahost: Bericht: Heftiger Streit zwischen Netanjahu und Generalstabschef",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/12f9f844e823/w1600h836x0y115o/202603/43601.0.1850351764/israels-ministerpraesident.webp"
-        },
-        {
-          "title": "Bremerhaven: Kreuzfahrtriese „Mein Schiff 3“ rammt Containerschiff",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mein-schiff-3-kreuzfahrtschiff-rammt-frachtschiff-von-msc-in-bremerhaven-201620352.html",
-          "summary": "An dem Containerschiff soll ein zehn Meter langer Riss entstanden sein. Die Passagiere stehen unter Schock. Ein Video, das im Netz kursiert, zeigt den Unfallhergang.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2c0f298cc2ce/w1520h794x143y147o/202610/2630f4b8-1a48-4128-8298-3994a1e2cff3/die-mein-schiff-3-liegt-nach.webp"
         }
       ]
     },
@@ -35,15 +35,15 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
-          "url": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
-          "summary": "Der langjährige serbische Präsident hat eingeräumt, mit seiner Partei die Parlamentswahl verloren zu haben. Auf den Straßen der Hauptstadt Belgrad brach Jubel aus. Die Wahlbeteiligung erreichte Rekordhöhe.",
+          "title": "Brasilien: Lula gewinnt Präsidentschaftswahl gegen Flávio Bolsonaro knapp",
+          "url": "https://www.spiegel.de/ausland/brasilien-lula-gewinnt-praesidentschaftswahl-gegen-flavio-bolsonaro-knapp-a-1d4b448a-82dc-403d-8f23-d23f71aa375e#ref=rss",
+          "summary": "Die Wählerinnen und Wähler in Brasilien haben den 80-jährigen Luiz Inácio Lula da Silva erneut zum Präsidenten bestimmt. Sein Sieg über den rechten Flávio Bolsonaro war knapp. Der Unterlegene will das Ergebnis anfechten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w1200_r1.778_fpx45.99_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3846dfa4-2b06-4668-926e-c65b1cb83a8f_w1200_r1.778_fpx48_fpy54.jpg"
         },
         {
-          "title": "Wahlen in Israel: Interview mit Bildungsforscherin Tammy Hoffman über rechte Erstwähler",
+          "title": "Israel-Wahlen: Warum viele junge Israelis nach rechts abdriften",
           "url": "https://www.spiegel.de/ausland/wahlen-in-israel-interview-mit-bildungsforscherin-tammy-hoffmann-ueber-rechte-erstwaehler-a-b23b05a0-d9c8-476d-9709-814069e7351f#ref=rss",
           "summary": "Coronapandemie, Protestwellen, Terror: Die junge Generation hat kaum Hoffnung erlebt. Bildungsforscherin Tammy Hoffman erklärt, warum viele junge Israelis nach rechts abdriften.",
           "source": "Spiegel",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/565a60c8-6645-4716-885d-77a7fd8d1e48_w1200_r1.778_fpx52.02_fpy50.jpg"
         },
         {
-          "title": "Kehlsteinhaus abgebrannt: Interview mit Feuerwehreinsatzleiter",
-          "url": "https://www.spiegel.de/panorama/justiz/kehlsteinhaus-abgebrannt-interview-mit-feuerwehreinsatzleiter-a-a0c7e976-6034-414e-a25d-e8e8c6f5afeb#ref=rss",
-          "summary": "Als das Kehlsteinhaus in Flammen aufging, war Kreisbrandrat Michael Brandl im Einsatz. Hier erzählt er von dem »in jeder Hinsicht extremen« Einsatz und wie in der Nacht ein Wetterumschwung auf 1800 Metern Höhe seine Kollegen gefährdete.",
+          "title": "Serbien: Präsident Aleksandar Vučić gesteht Niederlage bei Parlamentswahl ein",
+          "url": "https://www.spiegel.de/ausland/serbien-praesident-aleksandar-vucic-gesteht-niederlage-bei-parlamentswahl-ein-a-d46235a6-039e-4242-bf48-8e8313219f59#ref=rss",
+          "summary": "Der langjährige serbische Präsident hat eingeräumt, mit seiner Partei die Parlamentswahl verloren zu haben. Auf den Straßen der Hauptstadt Belgrad brach Jubel aus. Die Wahlbeteiligung erreichte Rekordhöhe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7f80be50-4fcb-42b5-a284-4ac6b186a960_w1200_r1.778_fpx47_fpy53.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c87b1e56-db7a-47cb-a110-4c2fd6ac03eb_w1200_r1.778_fpx45.99_fpy44.99.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Lula gewinnt Wahl in Brasilien",
+          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+          "summary": "Der linke Staatschef Lula hat die Präsidentschaftswahl in Brasilien gewonnen. Der Trump-Gegner setzte sich gegen den rechten Kandidaten Bolsonaro durch - doch dieser will das Ergebnis nicht anerkennen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7e52859b-49af-4843-83be-ad391e13f68b/AAABoXXW07o/AAABnSSvrFg/16x9-big/lula-234.jpg?width=1280"
+        },
+        {
+          "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+          "url": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+          "summary": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/01544186-423c-402f-8bc1-5be4d2385c15/AAABoVhIwSY/AAABnSSvrFg/16x9-big/baustelle-382.jpg?width=1280"
+        },
+        {
           "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
           "url": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
           "summary": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/6a3f8ef9-940f-4800-be2b-2f708d3bdf2c/AAABoXTVqLQ/AAABnSSvrFg/16x9-big/rb-an-einem-schiff-sind-mittransportierte-rettungsboote-beschaedigt-100.jpg?width=1280"
-        },
-        {
-          "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
-          "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
-          "summary": "Die rechtspopulistische französische Präsidentschaftskandidatin Le Pen führt derzeit in den Umfragen. Zum Auftakt der Wahlkampagne ihres Rassemblement National warb sie für einen politischen Neuanfang.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/274f91de-e565-4573-9330-b5d370a0773f/AAABoXRQYOc/AAABnSSvrFg/16x9-big/le-pen-frankreich-102.jpg?width=1280"
-        },
-        {
-          "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
-          "url": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
-          "summary": "Dass Unternehmen und Haushalte beim Strompreis entlastet werden sollen, darüber herrscht in der Regierung Einigkeit. Unklar aber ist, wie das finanziert werden kann. Im Bericht aus Berlin machten CDU und SPD sehr unterschiedliche Vorschläge.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/9cea354c-b999-4f3e-b80d-621fd3470c99/AAABoXQtGEI/AAABnSSvrFg/16x9-big/kretschmer-bab-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Chinas E-Autos drängen in die Golfstaaten",
+          "url": "https://www.telepolis.de/article/Chinas-E-Autos-draengen-in-die-Golfstaaten-11492778.html",
+          "summary": "BYD, Geely, Li Auto und weitere Hersteller bauen ihre Präsenz im Golf-Kooperationsrat aus. Der Markt ist noch klein, das Potenzial laut Beobachtern groß.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/5/1/6/8/shutterstock_2699922613-1e89e7cfb836b968.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Genialer Strom-Trick: Ein winziger Dreh verändert die Physik radikal",
           "url": "https://www.telepolis.de/article/Genialer-Strom-Trick-Ein-winziger-Dreh-veraendert-die-Physik-radikal-11499347.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/0/6/0/bauklo__tze-dd97f576cd3defbf.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Frankreich: Der Protest bleibt, der Hass wächst",
-          "url": "https://www.telepolis.de/article/Frankreich-Der-Protest-bleibt-der-Hass-waechst-11499343.html",
-          "summary": "Hunderttausende demonstrieren weiter. Hetze und Angriffe verschärfen die Lage. In Orléans zeigt sich, dass es auch anders geht.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/5/2/4/Master_B._Schmid-a2d6322d6674c39a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Wahl in Brasilien: Präsident Lula gewinnt Stichwahl in Brasilien - Bolsonaro will Ergebnis nicht anerkennen",
+          "url": "https://www.sueddeutsche.de/politik/wahl-brasilien-ergebnis-lula-sieg-bolsonaro-li.3568108",
+          "summary": "Der 80-Jährige liegt nach Auszählung fast aller Stimmen mit 51,75 Prozent zu 48,25 Prozent uneinholbar vorn, teilt das Oberste Wahlgericht mit. Der unterlegene Flávio Bolsonaro erklärt, die Wahl müsse annulliert werden.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "El Clásico Barça gegen Real: Mbappés Torjubiläum macht La Liga spannend",
           "url": "https://www.sueddeutsche.de/sport/clasico-barcelona-real-madrid-li.3568847",
@@ -133,14 +141,6 @@
           "title": "Serbien: Vučić räumt Niederlage bei Parlamentswahl ein",
           "url": "https://www.sueddeutsche.de/politik/parlamentswahl-serbien-aleksandar-vucic-studentenbewegung-2026-li.3568833",
           "summary": "Präsident Aleksandar Vučić steht wegen Protesten seit Monaten unter Druck. Nun gesteht er seine Wahlniederlage ein - die Liste der neuen Studentenbewegung liege vorn.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Sieg über Vučić: Studentenliste gewinnt historische Wahl in Serbien",
-          "url": "https://www.sueddeutsche.de/politik/wahl-in-serbien-2026-aleksandar-vucic-wahlmanipulation-gewalt-li.3568103",
-          "summary": "Trotz etlicher Berichte über Gewalt, Zwang und Manipulationen verliert die seit zwölf Jahren regierende Fortschrittspartei von Alexander Vučić die Parlamentswahl. In Belgrad feiern Tausende.",
           "source": "SZ",
           "paywall": false,
           "image": null
