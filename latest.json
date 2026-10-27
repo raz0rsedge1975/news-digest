@@ -1,18 +1,10 @@
 {
-  "generated": "2026-10-26T23:00:07.671Z",
-  "timestamp": "27.10.2026, 00:00:07",
+  "generated": "2026-10-27T03:00:11.085Z",
+  "timestamp": "27.10.2026, 04:00:11",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
-        {
-          "title": "Verleihung in London: Harry Kane gewinnt Ballon d'Or",
-          "url": "https://www.faz.net/aktuell/sport/fussball/harry-kane-gewinnt-den-ballon-d-or-201623664.html",
-          "summary": "Harry Kane wird in London mit einem besonderen Preis ausgezeichnet. Der Ballon d'Or für die beste Fußballerin des Jahres geht an Alexia Putellas.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/77b1ab549d99/w3448h1801x0y249o/202610/26d50710-af9f-4a27-a6a5-98473c7665f6/der-englische-fussballspieler.webp"
-        },
         {
           "title": "Westjordanland: „Wir wissen nicht, warum sie uns aus unseren Häusern getrieben haben“",
           "url": "https://www.faz.net/aktuell/politik/ausland/westjordanland-israels-militaeraktion-in-hebron-201621874.html",
@@ -22,12 +14,20 @@
           "image": "https://media0.faz.net/image/w1200h627/a26567680119/w6000h3135x0y745o/202610/b9f36f72-14ec-4a81-a48c-fdbb7b30e21e/palaestinenser-passieren-zu.webp"
         },
         {
-          "title": "Grüne und LInke: Biberach ist weit weg von Kreuzberg",
-          "url": "https://www.faz.net/aktuell/politik/inland/rot-rot-gruen-in-berlin-so-gespalten-sind-die-suedwest-gruenen-201608819.html",
-          "summary": "Rot-rot-grüne Koalitionsverhandlungen in Berlin: So gespalten ist die Grünen-Basis im Südwesten",
+          "title": "Nach Lulas Wahlsieg: Trump spricht von Manuipulation in Brasilien – Bolsonaros Partei nicht",
+          "url": "https://www.faz.net/aktuell/politik/ausland/brasilien-wahl-trump-nennt-lulas-wahlsieg-manipuliert-201623734.html",
+          "summary": "Donald Trump stellt den Wahlsieg von Präsident Lula in Frage und spricht von möglicher Manipulation. Anders als der unterlegene Flávio Bolsonaro erkennt dessen Partei das Ergebnis jedoch an.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/f3655a49a3e8/w3197h1670x0y231o/202609/43601.0.2585954538/graffiti-auf-einem-berliner-u.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c348cb864272/w6144h3210x0y407o/202610/96649de4-1519-4220-8df2-6badc18a1b8f/donald-trump-mit-luiz-in-cio.webp"
+        },
+        {
+          "title": "Verleihung in London: Harry Kane und Alexia Putellas gewinnen den Ballon d’Or",
+          "url": "https://www.faz.net/aktuell/sport/fussball/harry-kane-gewinnt-den-ballon-d-or-201623664.html",
+          "summary": "Der Bayern-Spieler ist Weltfußballer. Die spanische Ausnahmefußballerin Alexia Putellas ist zum dritten Mal mit dem Ballon d'Or ausgezeichnet worden.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/77b1ab549d99/w3448h1801x0y249o/202610/26d50710-af9f-4a27-a6a5-98473c7665f6/der-englische-fussballspieler.webp"
         }
       ]
     },
@@ -37,10 +37,10 @@
         {
           "title": "Ballon d'Or: Harry Kane und Alexia Putellas gewinnen Weltfußballerwahl",
           "url": "https://www.spiegel.de/sport/fussball/harry-kane-ballon-dor-wer-wird-der-beste-fussballer-und-die-beste-fussballerin-der-welt-a-1234230b-c7ef-4365-9e85-472fd20b06e5#ref=rss",
-          "summary": "Am Ende eines spanisch dominierten Ballon-d'Or-Abends steht der erste Triumph von Bayerns Starstürmer Harry Kane. Bei den Frauen stellt Alexia Putellas einen Rekord ein. Der Livekommentar.",
+          "summary": "Der Triumph Harry Kanes ist kein Erfolg der Bundesliga, sondern einer des FC Bayern. Der spanische Fußball steht aber über allem. Alles Wichtige zur Ballon-d’Or-Wahl im Livekommentar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/02d5d3b0-f183-46a7-9bb0-39b4e37c4ee8_w1200_r1.778_fpx50_fpy41.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/90b18ab8-a190-44e8-bdad-62811cc13f15_w1200_r1.778_fpx36.66_fpy54.99.jpg"
         },
         {
           "title": "Wahl in Israel: Benjamin Netanyahu schaltet in den Panik-Modus",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/56c2c6a9-0041-4f35-a8e0-95be95bbe9bc_w1200_r1.778_fpx33.35_fpy50.jpg"
         },
         {
-          "title": "Audi Q9, Q8, Q7: Mit diesen XXL-SUV biedert sich Audi bei Donald Trump an",
-          "url": "https://www.spiegel.de/mobilitaet/auto/audi-q9-q8-q7-mit-diesen-xxl-suv-biedert-sich-audi-bei-donald-trump-an-a-4fd279c4-18ac-4dcd-8a12-45bbba2bcf0c#ref=rss",
-          "summary": "Audi-Chef Gernot Döllner blinkt in den USA rechts: Mit einem Fabrikprojekt für extragroße Verbrenner-SUV unterstützt er Präsident Trump im Wahlkampf und hofft auf satte Gewinne. Vor allem der Q9 dürfte Umweltschützer erzürnen.",
+          "title": "Brasilien: Flávio Bolsonaro muss Pässe abgeben und im Land bleiben",
+          "url": "https://www.spiegel.de/ausland/brasilien-flavio-bolsonaro-muss-paesse-abgeben-und-im-land-bleiben-a-f44d57e1-6772-430e-aee5-c73b188df3e9#ref=rss",
+          "summary": "Gerade erst hat Flávio Bolsonaro die Wahl in Brasilien verloren, jetzt wurde eine Ausreisesperre gegen ihn verhängt. Offenbar wird wegen des Verdachts der Geldwäsche ermittelt. Er selbst spricht von einem Einschüchterungsversuch.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6fda2ea4-6f87-4e27-a27d-040923e69e3a_w1200_r1.778_fpx55.28_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/11092714-2b18-4a7b-af94-2a76b7e99ae4_w1200_r1.778_fpx59_fpy53.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html",
+          "summary": "In Frankreich geht die Regierung mit einem Maßnahmenkatalog auf die protestierenden Schüler zu. Diese begrüßen den Fünf-Punkte-Plan des Bildungsministers, wollen am kommenden Samstag aber erneut demonstrieren. Von Julia Borutta.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/332b4783-31f5-473f-9e49-9fe7971417a3/AAABoXsqJ-8/AAABnSSvrFg/16x9-big/mitglieder-schuelergewerkschaft-frankreich-100.jpg?width=1280"
+        },
+        {
+          "title": "Harry Kane gewinnt Ballon d'Or",
+          "url": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
+          "summary": "Harry Kane wurde in London mit dem Ballon d'Or ausgezeichnet. Er ist der erste Bundesliga-Spieler seit Matthias Sammer 1996, der den Award gewinnt. Bei den Frauen gewann Alexia Putellas, bester Trainer wurde Luis de la Fuente.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/531a7ed5-383b-497f-8ee6-1f160619676a/AAABoXqD0lw/AAABnSSvrFg/16x9-big/harrykane-100.jpg?width=1280"
+        },
+        {
           "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
           "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
           "summary": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/c75175e1-3383-485a-b61d-f9f29721e772/AAABoXnIy2Y/AAABnSSvrFg/16x9-big/doellner-trump-104.jpg?width=1280"
-        },
-        {
-          "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
-          "url": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
-          "summary": "Trotz der geplanten Wiederaufnahme von Gesprächen unter US-Vermittlung will Russland die Ukraine weiter angreifen. Das teilte Kremlsprecher Peskow mit. In Charkiw wurden bei einer russischen Attacke zwei Menschen getötet.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/12a37bfe-40ae-47e8-a07f-41d39d40f57d/AAABoXlqiT8/AAABnSSvrFg/16x9-big/feuerwehrmann-charkiw-100.jpg?width=1280"
-        },
-        {
-          "title": "Audi investiert in Amerika, Neckarsulm bangt",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
-          "summary": "Audi will in den USA ein neues Werk bauen, der Auftritt des Firmenchefs auf einer Wahlkampfveranstaltung von Trump sorgt für heftige Kritik. Zugleich ist die Zukunft von deutschen Audi-Werken offen - wie in Neckarsulm. Von F. Siegel.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/0dd0f183-9926-4395-a16e-9664211b0d9e/AAABoXjs8w4/AAABnSSvrFg/16x9-big/audi-werk-104.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Krebsimpfstoff soll Risiko bei Schwarzem Hautkrebs um 42 Prozent reduzieren",
+          "url": "https://www.telepolis.de/article/Krebsimpfstoff-soll-Risiko-bei-Schwarzem-Hautkrebs-um-42-Prozent-reduzieren-11500211.html",
+          "summary": "Ein personalisierter mRNA-Impfstoff verringert in Kombination mit einer Immuntherapie das Risiko eines Rückfalls oder Todes bei Melanom-Patienten deutlich.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/9/5/8/shutterstock_2793056887-d56ebd18e2d4f6c8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "USA erklären cislunaren Raum zur militärischen Domäne – ohne konkrete Bedrohung",
           "url": "https://www.telepolis.de/article/USA-erklaeren-cislunaren-Raum-zur-militaerischen-Domaene-ohne-konkrete-Bedrohung-11500171.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/8/6/7/shutterstock_2123202848-2183a68f624bf6b5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Die Schulen fallen zurück – und die Herkunft entscheidet",
-          "url": "https://www.telepolis.de/article/Die-Schulen-fallen-zurueck-und-die-Herkunft-entscheidet-11500317.html",
-          "summary": "Frankreichs Schülerproteste lenken den Blick auf eine Bildungskrise, die viele Länder betrifft. Adam Tooze zeigt, was hinter den Schlagzeilen verschwindet.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/0/1/1/Master_schule-0a3f28ff0f6cffc9.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Trump verspricht Millionen für Hinweise auf Wahlbetrug",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-wahlbetrug-hinweise-li.3568285",
-          "summary": "Immer wieder behauptet Präsident Trump, bei US-Wahlen würde im großen Stil betrogen. Nun lockt er Hinweisgeber mit einer Belohnung. Auch die Präsidentschaftswahl in Brasilien bezeichnet er als gefälscht.",
+          "title": "Krieg in der Ukraine: Hilfsaktion für Frontstadt Oleschky läuft an",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-russland-oleschky-hilfsgueter-feuerpause-hilfslieferungen-minen-li.3563283",
+          "summary": "Weil Oleschky vollständig vermint ist, mussten Hilfsgüter zeitweise mit Drohnen zu den Menschen dort gebracht werden. Nun beginnt eine humanitäre Feuerpause, um einen sicheren Korridor zu schaffen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Proteste in Frankreich: Frankreichs Premier macht erste Zugeständnisse – doch die Schüler wollen mehr",
-          "url": "https://www.sueddeutsche.de/politik/frankreich-schuelerproteste-sebastien-lecornu-bildungspolitik-zugestaendnisse-li.3569506",
-          "summary": "Kleinere Klassen und Milliarden für die Renovierung von Schulen: Damit will die französische Regierung die Krise beenden. Die Schüler sehen „das Maximum“ aber weiterhin nicht erreicht.",
+          "title": "Pressestimmen zum Ballon d'Or: „Kane ist ein absolut verdienter Gewinner“",
+          "url": "https://www.sueddeutsche.de/sport/ballond-d-or-pressestimmen-kane-li.3569559",
+          "summary": "Die internationalen Medien sind sich einig, dass der Ballon d'Or 2026 an den richtigen Fußballer gegangen ist. Die Pressestimmen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Ballon d'Or-Gala: Der Tanz um den goldenen Ball",
-          "url": "https://www.sueddeutsche.de/sport/ballon-d-or-live-liveticker-gala-kane-li.3569528",
-          "summary": "Gewinnt Harry Kane die Auszeichnung als bester Fußballer der Welt? Und wenn nicht er, wer dann? Hat noch nie etwas gewonnen, aber trotzdem zu allem eine Meinung: der SZ-Liveticker.",
+          "title": "Ballon d’Or: Kanes Krönung",
+          "url": "https://www.sueddeutsche.de/sport/ballon-d-or-kane-yamal-mbappe-gewinner-li.3569535",
+          "summary": "„Wow“! Harry Kane gewinnt den Ballon d’Or. Der Stürmer des FC Bayern lässt Mbappé, Yamal und Messi hinter sich und zeigt in seiner Rede noch mal, warum: weil er die Mannschaft nie vergisst.",
           "source": "SZ",
           "paywall": false,
           "image": null
