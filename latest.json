@@ -1,10 +1,26 @@
 {
-  "generated": "2026-10-28T19:00:09.333Z",
-  "timestamp": "28.10.2026, 20:00:09",
+  "generated": "2026-10-28T23:00:07.714Z",
+  "timestamp": "29.10.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Flucht nach Florida: Bolsonaro erklärt sich zum gewählten Präsidenten",
+          "url": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-erklaert-sich-zum-praesidenten-brasiliens-201630574.html",
+          "summary": "Nach seiner Flucht aus Brasilien in die USA beansprucht Flávio Bolsonaro den Wahlsieg für sich. Zwei Unterstützern spricht er seinen Dank aus.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a7fcab9aa203/w3726h1946x0y269o/202610/26942d06-43ab-4205-bc3c-0a4b166fb565/fl-vio-bolsonaro-und-seine.webp"
+        },
+        {
+          "title": "Bolsonaro: Trumps Deponie für polizeilich Gesuchte",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/bolsonaro-in-den-usa-trumps-deponie-fuer-polizeilich-gesuchte-201629129.html",
+          "summary": "Flávio Bolsonaro ist vor Ermittlungen aus Brasilien geflüchtet – die USA haben sogleich Einreiseerlaubnis signalisiert. Law and Order gilt da wohl nur selektiv.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3873333d5f1c/w5084h2656x0y367o/202607/43601.0.2370577606/fl-vio-bolsonaro-2025-die.webp"
+        },
         {
           "title": "Kreuzfahrten: Sturmfahrt der Urlauberschiffe",
           "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kollision-der-mein-schiff-3-in-bremerhaven-was-daraus-folgt-201627921.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/7f9d32e6764b/w6144h3210x0y763o/202610/31301529-1484-4845-90c5-06c1fe316480/das-kreuzfahrtschiff-mein.webp"
-        },
-        {
-          "title": "Wegen Treibstoffpreisen: Kreuzfahrt auf Lebenszeit abgebrochen – Passagiere gestrandet",
-          "url": "https://www.faz.net/aktuell/gesellschaft/lebenslange-kreuzfahrt-abgebrochen-passagiere-in-kambodscha-gestrandet-accg-201628312.html",
-          "summary": "Sie wollten ihr restliches Leben auf See verbringen – nun sind hunderte Passagiere der „Villa Vie Odyssey“ in Kambodscha gestrandet. Manche von ihnen sind nun obdachlos. Sie hatten sich eine Kabine auf Lebenszeit gekauft.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b1c71fbab5b0/w8064h4213x0y161o/202610/b80d06fb-79ae-44d3-8fa9-1f8b24f2a8b9/die-villa-vie-odyssey-am.webp"
-        },
-        {
-          "title": "Kollision in Bremerhaven: „Die Verantwortung trägt immer der Kapitän“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/reparatur-des-mein-schiff-3-welche-herausforderungen-die-beiboote-bergen-201625631.html",
-          "summary": "Die Reparatur des TUI-Kreuzfahrtschiffs Mein Schiff 3 könnte schnell gelingen. Ausgerechnet die Beiboote bergen Herausforderungen. Wie lange das Schiff ausfällt, ist daher unklar.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/c1fa8d021245/w4639h2423x0y335o/202610/c3cc9ef5-21eb-483c-ac1d-bab72306b538/auf-der-bruecke-wird.webp"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
-          "url": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
-          "summary": "Die Vorstellung des Haushalts war für Großbritanniens Premier Burnham der erste Härtetest. Die Erwartungen der Briten sind hoch. Die Regierung setzt vor allem auf kleine Maßnahmen, die die Menschen sofort spüren sollen. Von Lisa-Maria Röhling.",
+          "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+          "url": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
+          "summary": "Heimlich hat sich der brasilianische Wahlverlierer Flávio Bolsonaro in die USA abgesetzt. Gegen ihn wird wegen Korruption und Geldwäsche ermittelt. Entgegen eindeutiger Ergebnisse hat er sich nun selbst zum Wahlsieger erklärt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/457f62ca-25c0-4262-aad0-561a19e89a20/AAABoYOdTHA/AAABnSSvrFg/16x9-big/burnham-168.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Der DAX behauptet sich",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-          "summary": "Der Handelstag im DAX endet mit leichten Gewinnen. Die Investoren haben viele Quartalszahlen zu verarbeiten, außerdem richtet sich der Blick in die USA. Die hohen Energiepreise dämpfen indes weiterhin die Stimmung.",
+          "title": "Wie konnte es zu dem schweren Zugunglück kommen?",
+          "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
+          "summary": "Ein Zug steht, ein weiterer fährt mit hoher Geschwindigkeit auf. Bei dem schweren Zugunglück in Spanien starben mindestens 68 Menschen. Es gibt erste Erkenntnisse zur Unglücksursache: Offenbar spielte menschliches Versagen eine Rolle.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6c27bbdd-9480-4b9a-82b9-1f3c2346ad51/AAABnObPiLk/AAABnSSvrFg/16x9-big/boerse-496.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/98ce9bb3-189f-46dc-87b0-64bc0c327ea9/AAABoYPNV7E/AAABnSSvrFg/16x9-big/zugunglueck-spanien-142.jpg?width=1280"
         },
         {
-          "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html",
-          "summary": "Israel hat gewählt, doch keines der Lager kommt auf eine Mehrheit. Die Regierungsbildung dürfte sich hinziehen. Bis dahin bleibt Netanjahu im Amt - mit weitreichenden Folgen für den Gazastreifen, das Westjordanland und die gesamte Region.",
+          "title": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
+          "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
+          "summary": "Zwei Männer aus Belarus stehen im Verdacht, im Raum Nürnberg einen Brandanschlag geplant zu haben - im Auftrag einer fremden Regierung oder Vereinigung. Sie wurden festgenommen und sitzen in Untersuchungshaft. Von Joseph Röhmel.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ccb27d56-0f1f-423b-a8c4-a80c751d3e2f/AAABoYOG7Tk/AAABnSSvrFg/16x9-big/netanjahu-418.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8f11107f-1b64-4339-87f0-565a908f35cc/AAABoYPWI6M/AAABnSSvrFg/16x9-big/generalstaatsanwaltschaft-muenchen-100.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Buch: Diese Frau gibt es nur einmal",
-          "url": "https://www.sueddeutsche.de/kultur/kim-kardashian-biografie-buch-jonathan-van-meter-li.3569456",
-          "summary": "Seit mehr als 20 Jahren lebt Kim Kardashian in der Öffentlichkeit, jetzt erscheint ihre Biografie „Kim“. Kann man noch Neues über sie erzählen?",
+          "title": "DFB-Pokal: Kiel wirft Hoffenheim raus – Dresden besiegt Schalke – Wagner verliert erneut",
+          "url": "https://www.sueddeutsche.de/sport/dfb-pokal-ergebnisse-stuttgart-freiburg-schalke-li.3570768",
+          "summary": "Die Stuttgarter tun sich gegen zehn Paderborner lange schwer. Der SC Freiburg dreht das Spiel gegen den VfL Wolfsburg, Dynamo Dresden jubelt gegen Schalke und Hannover 96 verliert gegen Kaiserslautern.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Nach Militärübung in Erding: Lebenslang entstellt: Verletzter Soldat will Beschwerde einlegen",
-          "url": "https://www.sueddeutsche.de/bayern/erding-bundeswehr-uebung-polizei-schuesse-ermittlungen-li.3570372",
-          "summary": "Ein Jahr nach dem versehentlichen Schusswechsel zwischen Soldaten und Polizisten bei einer Bundeswehrübung in Erding stellt die Staatsanwaltschaft ihre Vorermittlungen ein. Die Anwälte des Opfers halten das für grotesk.",
+          "title": "Bayern-Sieg im DFB-Pokal: Sechs Tore auch ohne Golden Harry",
+          "url": "https://www.sueddeutsche.de/sport/bayern-magdeburg-pokal-kane-tore-li.3570757",
+          "summary": "Trainer Vincent Kompany hat nach seiner Hirnhautreizung das Krankenhaus verlassen – und statt des besten Fußballers der Welt trifft David Santos Daiber. Das 6:1 gegen den 1. FC Magdeburg ist für den FC Bayern ein erstaunlicher Abend.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Natur: Städter auf der Jagd",
-          "url": "https://www.sueddeutsche.de/leben/jaegerpruefung-staedter-natur-li.3569746",
-          "summary": "Sehnsucht nach Natur und Wirklichkeit: Immer mehr Menschen aus dem urbanen Raum legen die Jägerprüfung ab.",
+          "title": "Brasilien: Flávio Bolsonaro flieht in die USA und erklärt sich zum Wahlsieger",
+          "url": "https://www.sueddeutsche.de/politik/bolsonaro-flucht-usa-brasilien-trump-li.3570291",
+          "summary": "Nach seiner Niederlage bei der Präsidentschaftswahl setzt sich der ultrarechte Kandidat heimlich nach Florida ab. Von dort spricht er dann von „abscheulichem Wahlbetrug“.",
           "source": "SZ",
           "paywall": false,
           "image": null
