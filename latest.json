@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-27T23:00:11.727Z",
-  "timestamp": "28.10.2026, 00:00:11",
+  "generated": "2026-10-28T03:00:07.980Z",
+  "timestamp": "28.10.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Liveblog Israel-Wahl: Netanjahus Likud stärkste Partei – aber Eisenkots Bündnis liegt vorn",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-netanjahus-likud-staerkste-partei-aber-eisenkots-buendnis-liegt-vorn-faz-200583539.html",
-          "summary": "Keines der beiden Lager erreicht bislang eine Mehrheit +++ Eisenkot: Will Netanjahu-Regierung ablösen +++ Höchste Wahlbeteiligung seit Jahrzehnten +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Israel-Wahl: Prognosen: Patt zwischen Netanjahu-Lager und Rivalen",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-netanjahu-lager-und-rivalen-laut-prognosen-gleichauf-faz-200583539.html",
+          "summary": "Likud-Partei stärkste Kraft, Eisenkots Mitte-Partei auf Platz zwei +++ Netanjahu fordert starke Regierung ohne arabische Parteien +++ Eisenkot: Will Netanjahu-Regierung ablösen +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/a5476bcb48b8/w7687h4016x0y274o/202610/6d144cf8-1fb8-4690-8ba5-0d689b2a938e/anhaenger-netanjahus-mit-einem.webp"
@@ -37,10 +37,10 @@
         {
           "title": "Knesset-Wahl in Israel: Likud-Partei von Benjamin Netanyahu ist stärkste Kraft, Opposition führt knapp",
           "url": "https://www.spiegel.de/ausland/knesset-wahl-in-israel-likud-partei-von-benjamin-netanyahu-bei-wahl-vorn-hat-aber-keine-regierungsmehrheit-a-df2c37b8-e8c1-4c16-9257-3f4c70c48ce0#ref=rss",
-          "summary": "Es gibt jetzt eine klare Mehrheit gegen Benjamin Netanyahu, aber die ist uneins. Die arabischen Wähler haben ihre Stimme entdeckt – und die Rechtsextremen gehen nicht mehr weg. Drei Lehren aus der Knessetwahl.",
+          "summary": "Kein Lager kommt auf eine Mehrheit in der Knesset – aber beide wollen regieren. Oppositionsführer Gadi Eisenkot fordert Premier Benjamin Netanyahu zum Rückzug auf. Der feiert sich als Wahlsieger. Alle Entwicklungen im Livekommentar.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6f0f792a-bf40-4ad0-b7b0-ce8c100d11fa_w1200_r1.778_fpx53.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c348f716-a5a8-4cfd-ba2e-5a3eabf509c9_w1200_r1.778_fpx69.99_fpy44.98.jpg"
         },
         {
           "title": "Flávio Bolsonaro nach verlorener Wahl offenbar geflüchtet – USA wollen Visum ausstellen",
@@ -80,9 +80,9 @@
           "image": "https://images.tagesschau.de/image/29df1a75-394a-4b9a-913c-a8932d7564d2/AAABoX6MQ7c/AAABnSSvrFg/16x9-big/claus-116.jpg?width=1280"
         },
         {
-          "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+          "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen",
           "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-          "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat laut Medienberichten Brasilien verlassen - trotz eines gerichtlich verhängten Ausreiseverbots. Die USA wollen ihm und seiner Familie nun Visa erteilen.",
+          "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat laut Medienberichten Brasilien verlassen und ist in den USA gelandet - trotz eines gerichtlich verhängten Ausreiseverbots. Die USA wollen ihm und seiner Familie nun Visa erteilen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/5adcb9c5-52ab-4690-8fb2-76dd79f883bd/AAABoX6p830/AAABnSSvrFg/16x9-big/bolsonaro-340.jpg?width=1280"
@@ -92,6 +92,14 @@
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Europas neue Debatte über den Weg zum Frieden",
+          "url": "https://www.telepolis.de/article/Europas-neue-Debatte-ueber-den-Weg-zum-Frieden-11501365.html",
+          "summary": "Norwegen und Finnland setzen auf Diplomatie statt Maximalrhetorik. Moskau reagiert offen, ein Dreiergipfel steht im Raum. Spielt Europa mit? Ein Gastbeitrag.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/5/4/0/shutterstock_2445724977-b5b6654576cb8e00.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Sieben Millionen gegen Trump: Die No-Kings-Sackgasse",
           "url": "https://www.telepolis.de/article/Sieben-Millionen-gegen-Trump-Die-No-Kings-Sackgasse-11501607.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/6/1/0/shutterstock_2436172817-072e9175d987aa5a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Die verschwindende Arbeit und die Soziologie der Liebe",
-          "url": "https://www.telepolis.de/article/Die-verschwindende-Arbeit-und-die-Soziologie-der-Liebe-11501071.html",
-          "summary": "Die einen verlieren ihre Arbeit, die anderen entdecken darin einen Filmstoff. „Possible Love“ zeigt eindringlich, wie tief Klassenmacht in die Liebe reicht.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/3/9/2/Master_Possible_Love-8a0c57e01d7d671c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,17 +122,17 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Präsidentschaftsrennen in Brasilien: Wahlverlierer Flávio Bolsonaro flieht in die USA",
-          "url": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
-          "summary": "Gegen den unterlegenen ultrarechten Kandidaten der Liberalen Partei wird wegen Geldwäsche und Steuerhinterziehung ermittelt. Berichten zufolge will US-Präsident Trump ihm ein Visum ausstellen und sogar politisches Asyl gewähren.",
+          "title": "Nahost: Netanjahu fordert Regierung ohne arabische Parteien",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-regierungsbildung-li.3560260",
+          "summary": "Nach der Wahl in Israel sehen TV-Sender eine Pattsituation: Kein Lager kann allein regieren. Wie der Ministerpräsident will auch sein Rivale Eisenkot bald eine Koalition schmieden.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Nahost: Opposition: Netanjahu-Regierung wurde „gefeuert“",
-          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-regierungsbildung-li.3560260",
-          "summary": "Netanjahus Likud-Partei wurde zwar laut Prognosen stärkste Kraft im Parlament, kommt aber mit ihren Partnern nicht auf eine Mehrheit. Sein Rivale Eisenkot will daher selbst versuchen, eine Regierung zu bilden.",
+          "title": "Präsidentschaftsrennen in Brasilien: Wahlverlierer Flávio Bolsonaro flieht in die USA",
+          "url": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
+          "summary": "Gegen den unterlegenen ultrarechten Kandidaten der Liberalen Partei wird wegen Geldwäsche und Steuerhinterziehung ermittelt. Berichten zufolge will US-Präsident Trump ihm ein Visum ausstellen und sogar politisches Asyl gewähren.",
           "source": "SZ",
           "paywall": false,
           "image": null
