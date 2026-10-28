@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-28T07:00:07.336Z",
-  "timestamp": "28.10.2026, 08:00:07",
+  "generated": "2026-10-28T11:00:08.210Z",
+  "timestamp": "28.10.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Südlich von Madrid: Zugkollision in Spanien – mindestens 30 Tote",
+          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/zugkollision-in-spanien-mindestens-30-menschen-kommen-ums-leben-accg-201628346.html",
+          "summary": "Das Zugunglück ereignete sich am Mittwochmorgen südlich von Madrid auf einer Hochgeschwindigkeitsstrecke. Zwei Waggons stürzten einen Abhang hinunter. Spanische Medien berichten von mehr als 40 Todesopfern.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/042cfa7a25f7/w2507h1309x0y122o/202610/d225a69a-ea0a-44c9-b21a-c3b3a6cff232/nahe-urda-in-toledo.webp"
+        },
         {
           "title": "Knessetwahl: Netanjahus Gegner könnten sich zu früh gefreut haben",
           "url": "https://www.faz.net/aktuell/politik/ausland/israel-wahl-2026-netanjahu-beendet-eisenkots-hoehenflug-accg-201627331.html",
           "summary": "Die hohe Wahlbeteiligung in Israel kommt der Opposition kaum zugute – der Likud bleibt stärkste Kraft. Eisenkot müsste mit den arabischen Parteien paktieren. Netanjahu warnt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/51120e6ad6c4/w6000h3135x0y120o/202610/d2d73f3d-298a-48fa-9231-c06ed25b6b84/der-israelische.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c7ccaad5e0f2/w4887h2553x709y450o/202610/d2d73f3d-298a-48fa-9231-c06ed25b6b84/der-israelische.webp"
         },
         {
-          "title": "Liveblog Israel-Wahl: Trump: Ich habe Netanjahus Aufholjagd ermöglicht",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-trump-ich-habe-netanjahus-aufholjagd-ermoeglicht-faz-200583539.html",
-          "summary": "US-Präsident nennt vorläufiges Ergebnis der Knessetwahl „ziemlich knapp, aber sehr gut“ +++ Netanjahu-Lager liegt vorn – aber ohne Mehrheit +++ alle Entwicklungen im Liveblog",
+          "title": "Liveblog Israel-Wahl: „Netanjahu und Ben-Gvir haben das Leben jedes arabischen Bürgers zur Hölle gemacht“",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-arabisches-parteienbuendnis-will-nach-israel-wahl-2026-netanjahu-absetzen-faz-200583539.html",
+          "summary": "Vorsitzender des arabischen Parteienbündnisses: Wir werden unsere politische Stärke nutzen +++ Trump: Ich habe Netanjahus Aufholjagd ermöglicht +++  alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/81230d515385/w7013h3664x0y140o/202610/ba0d3c66-825d-4bf0-9ec5-0be9c7b6c80c/trump-vor-journalisten-am.webp"
-        },
-        {
-          "title": "Nach Wahlniederlage: Bolsonaros komplizierte Flucht nach Trumps Amerika",
-          "url": "https://www.faz.net/aktuell/politik/ausland/bolsonaros-komplizierte-flucht-nach-trumps-amerika-accg-201627367.html",
-          "summary": "Nach seiner Wahlniederlage in Brasilien hat sich Flávio Bolsonaro abgesetzt. Trump will ihn in den USA aufnehmen – aber das ist gar nicht so einfach.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2ad1468c0287/w5823h3042x0y419o/202610/dfc09469-2f97-4427-b0d5-16756b66986b/fl-vio-bolsonaro-ist-zwei-tage.webp"
+          "image": "https://media0.faz.net/image/w1200h627/8974bb52657e/w5540h2894x0y226o/202610/46d78afc-a2cf-4165-b941-5df8abf0d685/der-vorsitzende-der-vereinten.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Spanien: Dutzende Menschen sterben bei Zugkollision",
+          "url": "https://www.spiegel.de/panorama/spanien-mindestens-zehn-menschen-sterben-bei-zugkollision-a-717d35f6-6a4e-4699-9d2a-a3bbd0b3b5d1#ref=rss",
+          "summary": "Südlich von Madrid sind zwei Hochgeschwindigkeitszüge kollidiert. Waggons stürzten einen Bahndamm hinunter. Es sollen sich mehr als 500 Menschen an Bord befunden haben.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/822560b3-97b7-4f0b-a5bb-4bdeca787b2f_w1200_r1.778_fpx71.09_fpy52.99.jpg"
+        },
         {
           "title": "Israel-Wahl: Benjamin Netanyahu ist so stark, wie es seine Gegner zulassen",
           "url": "https://www.spiegel.de/ausland/israel-wahl-benjamin-netanyahu-ist-so-stark-wie-es-seine-gegner-zulassen-a-a1450305-2242-460f-ade4-0455a820b2bd#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/5b384b49-1b1d-4e9a-8ff1-bb9695defb0c_w1200_r1.778_fpx60.85_fpy50.jpg"
         },
         {
-          "title": "News: Wahl in Israel, Union sucht Steinmeier-Nachfolgerin, Vergewaltigungsprozess in Berlin",
-          "url": "https://www.spiegel.de/politik/deutschland/news-wahl-in-israel-union-sucht-steinmeier-nachfolgerin-vergewaltigungsprozess-in-berlin-a-59a2f760-eec2-4f3e-a107-c195bffaf94a#ref=rss",
-          "summary": "Israel hat gewählt, doch keinen klaren Sieger. Aus der CDU meldet sich eine Präsidentschaftsinteressentin. Und ein Mann vergewaltigt bis zu 58 Frauen – doch kaum jemand spricht darüber. Das ist die Lage am Mittwochmorgen.",
+          "title": "Midterms in den USA: Hoffnungsträger der Demokraten – Das besondere Gespür des Jon Ossoff",
+          "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-hoffnungstraeger-der-demokraten-das-besondere-gespuer-des-jon-ossoff-a-25432739-e1ea-45c5-9a75-1a8bcfa2e70b#ref=rss",
+          "summary": "Jon Ossoff beschimpft Trump als »Gauner«, sammelt über 100 Millionen Dollar und bietet Dialysegeräte statt Kulturkampf. In Georgia liegt der 39-jährige Senator klar vorn. Manche sehen in ihm schon einen künftigen Präsidenten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9970da2d-2d13-4727-aaa7-574f1ed30c6c_w1200_r1.778_fpx44.59_fpy50.jpg"
-        },
-        {
-          "title": "Brasilien: Warum Flávio Bolsonaro in die USA geflohen ist",
-          "url": "https://www.spiegel.de/ausland/brasilien-warum-flavio-bolsonaro-in-die-usa-geflohen-ist-a-b07b94ee-3361-4138-b292-8437ce2033a8#ref=rss",
-          "summary": "Wahlverlierer Flávio Bolsonaro hat sich wohl in die USA abgesetzt. Seine überhastete Flucht ist ein Geschenk für den wiedergewählten Präsidenten Lula da Silva: Sie schwächt den Bolsonaro-Clan und spaltet Brasiliens Rechte.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/99ccc6ea-a403-439c-9cf4-906fe3cc20bd_w1200_r1.778_fpx41.79_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1213c9f7-0514-4706-9cac-2692cb6ca3c9_w1200_r1.778_fpx45_fpy40.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Viel Rückenwind für den DAX",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-          "summary": "Neuer Optimismus im Technologiesektor sowie starke Zahlen der Deutschen Bank und BASF verheißen dem DAX einen positiven Tagesstart. Die Investoren haben aber auch wichtige Termine am Abend im Blick.",
+          "title": "Wahl in Israel: \"Patt-Situation vielleicht gar nicht auflösbar\"",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-100.html",
+          "summary": "Israel könnte nach der Parlamentswahl erneut auf Neuwahlen zusteuern, sagt der Nahost-Experte Woertz im Interview. Zugleich seien neue Kämpfe im Iran-Krieg nicht auszuschließen - wovon Premier Netanjahu auch profitieren könnte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1cd7783b-220b-4d14-9b74-536f856c926b/AAABnjsd-94/AAABnSSvrFg/16x9-big/dax-220.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3bdca6b1-fd24-4761-ba55-2a3167102a01/AAABoYGzikY/AAABnSSvrFg/16x9-big/netanjahu-412.jpg?width=1280"
         },
         {
-          "title": "Liveblog zur Israel-Wahl: ++ Netanjahu will Regierung bilden - Eisenkot auch ++",
-          "url": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
-          "summary": "Kein klarer Wahlsieger in Israel nach Prognosen - dennoch beansprucht sowohl das Netanjahu-Lager als auch das Bündnis um Ex-Militärchef Eisenkot die Regierungsbildung für sich. Zulegen können die arabischen Parteien. Alle Entwicklungen im Liveblog.",
+          "title": "Wie Meta-Chef Mark Zuckerberg eine Reichensteuer umgehen will",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html",
+          "summary": "Kalifornien stimmt bei den Midterms auch über die Einführung einer Reichensteuer ab. In dem US-Bundesstaat leben viele Tech-Milliardäre. Einer von ihnen macht schon mal mobil. Von Gabi Biesinger.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/462af650-1b62-48f5-a5b1-0480ef26fba0/AAABoYE5Zts/AAABnSSvrFg/16x9-big/netanjahu-404.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/74c2376f-d4eb-47ca-9ab1-c05989f80ed5/AAABoYISGaE/AAABnSSvrFg/16x9-big/zuckerberg-262.jpg?width=1280"
         },
         {
-          "title": "Israel - Eine Nacht ohne klaren Gewinner",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-patt-wahl-100.html",
-          "summary": "Es war eine lange, nervenaufreibende Nacht in den Wahlkampfzentralen in Tel Aviv und Jerusalem. Doch Klarheit hat dieser Morgen nicht gebracht. Im Gegenteil: Israel droht nach der Wahl eine monatelange politische Blockade.",
+          "title": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+          "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html",
+          "summary": "Vor der israelischen Botschaft in Belgrad ist ein Wachmann mit Messern attackiert worden. Der Angreifer, ein mutmaßliches Mitglied des \"Islamischen Staats\", ist dabei getötet worden. Serbien und Israel werten den Angriff als Terrorakt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ca389f2a-5eb5-4d5d-9131-0b4f8709402a/AAABoYEYCKo/AAABnSSvrFg/16x9-big/wahl-642.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/131cc0e1-d5e9-4df8-9273-b9269865e62b/AAABoYH9kBg/AAABnSSvrFg/16x9-big/botschaft-israel-belgrad-102.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Europas neue Debatte über den Weg zum Frieden",
-          "url": "https://www.telepolis.de/article/Europas-neue-Debatte-ueber-den-Weg-zum-Frieden-11501365.html",
-          "summary": "Norwegen und Finnland setzen auf Diplomatie statt Maximalrhetorik. Moskau reagiert offen, ein Dreiergipfel steht im Raum. Spielt Europa mit? Ein Gastbeitrag.",
+          "title": "Serbiens neue Mehrheit bleibt außenpolitisch ein Fragezeichen",
+          "url": "https://www.telepolis.de/article/Serbiens-neue-Mehrheit-bleibt-aussenpolitisch-ein-Fragezeichen-11502681.html",
+          "summary": "Eine Studentenliste stürzt Vučić. Ihr Programm schweigt zu EU, Moskau und Peking. Wen holt Belgrad sich bald als Partner ins Boot?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/5/4/0/shutterstock_2445724977-b5b6654576cb8e00.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/0/2/1/6/shutterstock_4215338367-a883d4bfbb86b74b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Sieben Millionen gegen Trump: Die No-Kings-Sackgasse",
-          "url": "https://www.telepolis.de/article/Sieben-Millionen-gegen-Trump-Die-No-Kings-Sackgasse-11501607.html",
-          "summary": "Vom Massenprotest zur Wahlbeobachtung. Aktivisten aus Harvard- und Notre-Dame-Forscher analysieren, warum die Proteste versanden. Eine Analyse.",
+          "title": "Social-Media-Verbot: Wie viel Kontrolle trifft Erwachsene?",
+          "url": "https://www.telepolis.de/article/Social-Media-Verbot-Wie-viel-Kontrolle-trifft-Erwachsene-11502635.html",
+          "summary": "Deutschland plant Altersgrenzen, Australien ringt mit der Durchsetzung. Der Jugendschutz könnte die Privatsphäre aller Nutzer unter Druck setzen. Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/6/6/7/generated-image-1-2f40fe759c2c7296.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/0/1/9/3/Master_Fess-9e1111bb4fed4ede.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
         },
         {
-          "title": "Operation Vivaldi verändert die Lage im Donbass",
-          "url": "https://www.telepolis.de/article/Operation-Vivaldi-veraendert-die-Lage-im-Donbass-11501503.html",
-          "summary": "Die Ukraine meldet Erfolge bei der Operation „Vivaldi“. Doch russische Gegenangriffe und widersprüchliche Lageberichte werfen Fragen auf. Eine Analyse.",
+          "title": "EuGH kippt Preisdeckel: Warum der deutsche Nahverkehr jetzt schrumpft",
+          "url": "https://www.telepolis.de/article/EuGH-kippt-Preisdeckel-Warum-der-deutsche-Nahverkehr-jetzt-schrumpft-11499867.html",
+          "summary": "Die BNetzA genehmigte 2025 nur 0,6 Prozent mehr für den Nahverkehr – der EuGH kippt den Deckel jetzt. Warum höhere Ticketpreise kein Allheilmittel sind.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/6/1/0/shutterstock_2436172817-072e9175d987aa5a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/7/8/4/schienen-euro-bb89219d42422cfe.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Israel: Prognosen sehen Netanjahu vorne, aber ohne Mehrheit",
-          "url": "https://www.sueddeutsche.de/politik/israel-wahl-benjamin-netanjahu-gadi-eisenkot-arabische-parteien-koalition-li.3569313",
-          "summary": "Nach Auszählung der Hälfte aller Stimmen liegt das Lager des Regierungschefs vor dem der Opposition. Sowohl Netanjahu als auch sein Herausforderer Eisenkot feiern sich als Wahlsieger und formulieren einen Regierungsauftrag.",
+          "title": "Nahost: Netanjahu baut Vorsprung aus, verpasst aber klare Mehrheit",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-wahl-israel-prognosen-regierungsbildung-li.3560260",
+          "summary": "Nach Angaben des Zentralen Wahlausschusses sind drei Viertel der Stimmen ausgezählt. Netanjahus Block liegt mit aktuell 54 Sitzen vor dem Lager Eisenkots. Die arabischen Parteien kommen derzeit auf zusammen 17 Sitze.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Wahlen in Israel: Reaktionen im Westjordanland: „Die sind so unterschiedlich wie Pepsi und Cola“",
-          "url": "https://www.sueddeutsche.de/politik/wahl-in-israel-gaza-westjordanland-palaestinenser-knesset-li.3567975",
-          "summary": "Die Menschen im besetzten Westjordanland leben unter israelischer Kontrolle, doch abstimmen dürfen sie nicht. Wie sie auf das Ergebnis der israelischen Wahlen blicken.",
+          "title": "Unfall: Mindestens 30 Tote bei Zugkollision in Spanien",
+          "url": "https://www.sueddeutsche.de/panorama/unfall-unglueck-zug-kollision-spanien-tote-verletzte-li.3570346",
+          "summary": "Bei einem Zugunglück in Spanien gibt es Medienberichten zufolge viele Tote und Verletzte, zwei Waggons stürzen einen Bahndamm hinunter.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Präsidentschaftsrennen in Brasilien: Wahlverlierer Flávio Bolsonaro flieht in die USA",
-          "url": "https://www.sueddeutsche.de/politik/wahlverlierer-flavio-bolsonaro-brasilien-korruptionsvorwuerfe-li.3569705",
-          "summary": "Gegen den unterlegenen ultrarechten Kandidaten der Liberalen Partei wird wegen Geldwäsche und Steuerhinterziehung ermittelt. Medienberichten zufolge sollen Bolsonaro und seine Familie bereits in den USA angekommen sein.",
+          "title": "Berufseinstieg: Gute Noten, Master, Praktika – und trotzdem keine Stelle",
+          "url": "https://www.sueddeutsche.de/muenchen/jobsuche-gen-z-berufseinstieg-bewerbungen-absagen-li.3557694",
+          "summary": "Louis flog für ein Bewerbungsgespräch nach London. Danach: Schweigen. Antonia hat einen Job gefunden, der ihr nicht liegt. Warum der Berufseinstieg auch mit guter Ausbildung gerade so schwer ist.",
           "source": "SZ",
           "paywall": false,
           "image": null
