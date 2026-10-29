@@ -1,39 +1,47 @@
 {
-  "generated": "2026-10-29T11:00:08.099Z",
-  "timestamp": "29.10.2026, 12:00:08",
+  "generated": "2026-10-29T15:00:08.734Z",
+  "timestamp": "29.10.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Am 7. Februar 2027: EZB-Präsidentin Lagarde tritt im Februar vorzeitig zurück",
-          "url": "https://www.faz.net/aktuell/wirtschaft/ezb-praesidentin-christine-lagarde-wird-im-februar-vorzeitig-abtreten-accg-201632334.html",
-          "summary": "Am 7. Februar 2027 gibt die Chefin der Euro-Notenbank ihr Amt ab, obwohl ihre Amtszeit offiziell bis Oktober gegangen wäre. Hauptgrund dürfte die Präsidentschaftswahl in Frankreich sein.",
+          "title": "Gen-Z-Demo am 31. Oktober: „Irgendwie sind alle schon gegen uns, bevor wir überhaupt angefangen haben“",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/genzregelt-chonik-eines-angekuendigten-protests-201630449.html",
+          "summary": "Die von Schülern ausgehende Massenmobilisierung in Frankreich hat auf Deutschland nicht übergegriffen. Das will die Bewegung „Gen Z regelt“ ändern und wirbt für Demonstrationen am 31. Wer steckt hinter der Initiative?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6a86bef81afe/w6664h3481x0y134o/202610/43601.0.2670908770/christine-lagarde.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f577ee5226af/w2665h1392x466y208o/202610/d4721f33-d718-4555-b2cd-0c282bc8ce99/extreme-vorboten-der-proteste.webp"
         },
         {
-          "title": "Deutschland Liveblog: Elif Eralp äußert intern Angst vor Hamas-Sympathisanten",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-elif-eralp-aeussert-intern-angst-vor-hamas-sympathisanten-faz-110093143.html",
-          "summary": "Berliner Linkenpolitikerin will Extremisten nicht namentlich erwähnen +++ Ex-Bürgermeister Müller: Eralp wäre erpressbar +++ alle Entwicklungen im Liveblog",
+          "title": "Akram Selo im Interview: „Jeder von uns ist ein Eichhörnchen“",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/interview-mit-akram-selo-mitorganisator-von-genzregelt-201629615.html",
+          "summary": "Akram Selo, der von sich sagt, Abiturient zu sein, gehört zu den Organisatoren der Protestbewegung „Gen Z regelt“ und steht auf ihrer Website im Impressum. Im Interview spricht er über Anfeindungen und die Sorge vor einer Eskalation.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/918249e510bd/w4903h2561x0y98o/202610/43601.0.2760636729/elif-eralp-bei-einer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/fcf51d12be76/w6144h3210x0y123o/202610/275d1faa-7cf8-4a0c-b756-c2ebd4ecafe5/aufruf-zu-einer-demonstration.webp"
         },
         {
-          "title": "Zugunglück in Spanien: In der Nacht starb die letzte Hoffnung",
-          "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/trauer-und-wut-nach-verheerender-kollision-in-spanien-accg-201631708.html",
-          "summary": "Als „einen großen Eisenklumpen voller Leichen“ bezeichnete einer der ersten Helfer den Anblick der Bahnkatastrophe in Spanien. Unter den Trümmern werden am Morgen nur noch tote Passagiere der beiden Züge vermutet.",
+          "title": "Angst vor Hamas: Der Name, den Elif Eralp nicht nennen will",
+          "url": "https://www.faz.net/aktuell/politik/inland/elif-eralp-angst-vor-terrorsympathisant-belastet-berliner-koalitionsgespraeche-201632440.html",
+          "summary": "Die Berliner Bürgermeisterkandidatin hat Angst um ihre Familie und vermeidet deswegen die Nennung von dem Terrorsympathisanten Ibrahim. Was bedeutet das für Rot-Grün-Rot?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f16877aca6ca/w6000h3135x0y743o/202610/3d6d6e97-93ee-42c9-91ac-420d2a477bf3/kraene-heben-die-entgleisten.webp"
+          "image": "https://media0.faz.net/image/w1200h627/eabc71951f5d/w4038h2109x0y146o/202610/8f0995d8-c8db-4583-88bc-34d125c8601c/elif-eralp.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Wie die AfD hinter den Kulissen völkische Aktivisten finanziert",
+          "url": "https://www.spiegel.de/politik/deutschland/wie-die-afd-hinter-den-kulissen-voelkische-aktivisten-finanziert-a-42e23a80-5cee-49b6-b572-0133f9e96a7a#ref=rss",
+          "summary": "Die geleakten AfD-Dokumente zeigen, wie sich die Partei radikalisiert. Es werden sogar Mitglieder rechtsextremer Organisationen finanziert, mit denen die AfD offiziell nichts zu tun haben will. Der SPIEGEL hat die Daten ausgewertet.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/7f53050b-6c91-41de-835a-b6ef89e04deb_w1200_r1.778_fpx59_fpy43.jpg"
+        },
         {
           "title": "Linke in Berlin: Elif Eralp offenbart Angst vor Terrorsympathisanten",
           "url": "https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e801e79f-0725-418f-90c8-e4ced55106e9_w1200_r1.778_fpx50_fpy35.jpg"
         },
         {
-          "title": "Kanadas Mark Carney: Donald Trumps Widersacher ist Europas neuer Bestie",
-          "url": "https://www.spiegel.de/ausland/kanadas-mark-carney-donald-trumps-widersacher-ist-europas-neuer-bestie-a-5f307c42-f882-4912-b4b3-204c9a0b3261#ref=rss",
-          "summary": "Kanadas Regierungschef Mark Carney trotzt Donald Trump und schlägt eine neue Weltordnung vor. In Europa wird er als Hoffnungsträger bejubelt – zu Recht?",
+          "title": "Friedrich Merz in Singapur, Japan und Südkorea: Selbst in Asien holt den Kanzler die B-Frage ein",
+          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-singapur-japan-und-suedkorea-selbst-in-asien-holt-den-kanzler-die-b-frage-ein-a-0999f3b4-7bab-4cfe-b81a-7c7c35c16f3e#ref=rss",
+          "summary": "Wer von den Großen nicht gefressen werden will, sollte sich besser zusammentun. Diese Botschaft will der Kanzler mit seiner Asienreise senden. Ärgerlich nur, dass ihm die Bundespräsidentinnendebatte dazwischenkommt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b77e06ef-bdc6-431b-824b-4cc79e96ad82_w1200_r1.778_fpx54_fpy34.jpg"
-        },
-        {
-          "title": "EZB-Chefin Christine Lagarde tritt vorzeitig zurück",
-          "url": "https://www.spiegel.de/wirtschaft/ezb-chefin-christine-lagarde-tritt-vorzeitig-zurueck-a-a66e7d48-d3d5-44cb-819d-1ef9f3ae427c#ref=rss",
-          "summary": "Christine Lagarde legt ihr Amt am 7. Februar 2027 nieder. Ihre achtjährige Amtszeit an der Spitze der Europäischen Zentralbank wäre regulär erst Ende Oktober 2027 ausgelaufen. Spekulationen über den Rückzug der EZB-Chefin gibt es seit Monaten.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/559749d7-f351-4fc0-993c-28fbea556eb1_w1200_r1.778_fpx54.99_fpy37.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c498d799-db4a-4e6a-b271-5a4da0516f64_w1200_r1.778_fpx61.34_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Rotes Kreuz eröffnet größtes Bevölkerungsschutzzentrum in Brandenburg",
-          "url": "https://www.tagesschau.de/inland/regional/brandenburg/groesstes-bevoelkerungsschutzzentrum-deutschlands-100.html",
-          "summary": "In Brandenburg hat das Deutsche Rote Kreuz ein neues Bevölkerungsschutzzentrum eröffnet. Dort lagert Material, um bei Katastrophen bis zu 5. 000 Menschen versorgen zu können. Laut Innenminister Dobrindt setzt das Projekt Maßstäbe.",
+          "title": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
+          "url": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
+          "summary": "Vor fast einem Monat ist die Neuauflage des \"Tankrabatts\" in Kraft getreten. Für die Bundesregierung war es eine Beruhigungspille kurz vor den Wahlen, meint Jan Zimmermann. Der Frust an der Tankstelle bleibt jedoch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/969c680f-882f-4155-bf89-b1c1d337bd2c/AAABoYcNZS4/AAABnSSvrFg/16x9-big/rbb-drk-bevoelkerungsschutzzentrum-in-luckenwalde-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/093997a5-b96c-456e-8738-1e886137dd36/AAABoYgM-MU/AAABnSSvrFg/16x9-big/friedrich-merz-540.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX trotz VW-Bilanz im grünen Bereich",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
-          "summary": "Vor dem EZB-Zinsentscheid legt der DAX weiter zu. Mit einer Zinserhöhung rechnen die Anleger nicht, sie wird erst für den Dezember erwartet. Aus der Autobranche meldet VW einen Milliardenverlust.",
+          "title": "Hohe Spritpreise: Bringt der \"\"Tankrabatt\"\" wirklich etwas?",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-entlastung-bilanz-100.html",
+          "summary": "Seit dem 1. Oktober gilt ein neuer \"Tankrabatt\". Experten zufolge geben die Mineralölkonzerne die Ersparnis nur zum Teil an die Autofahrer weiter. Der Interessenverband der Branche widerspricht. Von Max Ortmann und Jan Koch.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cb40ee15-8e43-4d8f-a3b0-144537919b7e/AAABlqUvrY8/AAABnSSvrFg/16x9-big/dax-boerse-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6d30e1ec-3958-4075-9234-4929d20d9127/AAABoQyzFJo/AAABnSSvrFg/16x9-big/zapfsaeule-tankstelle-104.jpg?width=1280"
         },
         {
-          "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
-          "summary": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden.",
+          "title": "Europäische Zentralbank hält Leitzins unverändert",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html",
+          "summary": "Die Europäische Zentralbank (EZB) hat wie erwartet die Leitzinsen unverändert bei 2,5 Prozent belassen. Für Gesprächsstoff dürfte aber der vorzeitige Rückzug von EZB-Chefin Christine Lagarde sorgen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/814030d4-6f76-4e55-8922-3ae689b93c11/AAABoYcn_rw/AAABnSSvrFg/16x9-big/lagarde-328.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4085d903-660f-4dac-b3ba-2b3e57873f0c/AAABoYc2aG4/AAABnSSvrFg/16x9-big/ezb-562.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Bolsonaro in den USA: Brasilien hat nochmal Glück gehabt",
+          "url": "https://www.telepolis.de/article/Bolsonaro-in-den-USA-Brasilien-hat-nochmal-Glueck-gehabt-11504439.html",
+          "summary": "Erst „gewählter Präsident“, dann „Anführer“: Nach seiner Flucht nach Florida ruft Bolsonaro Wahlbetrug aus. Doch die Linke sollte nicht schlafen. Ein Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/1/0/5/shutterstock_2854393653-8e447decab5a8f5b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Superreiche, Klimakiller – und die Fragen, die keiner stellt",
+          "url": "https://www.telepolis.de/article/Superreiche-Klimakiller-und-die-Fragen-die-keiner-stellt-11504678.html",
+          "summary": "Oxfam prangert die Klimabilanz der Superreichen an. Viele Medien folgen. Unser Autor fragt, was die Zahlen erklären – und was sie verdecken.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/2/3/1/Master_Rieg-9113c9bfe4349d71.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+        },
+        {
           "title": "Unklarer Ausgang, klare Verlierer: Israel in der Blockade?",
           "url": "https://www.telepolis.de/article/Unklarer-Ausgang-klare-Verlierer-Israel-in-der-Blockade-11504212.html",
           "summary": "Israel hat gewählt – und doch nicht entschieden. Was der bisherige Wahlausgang bedeuten kann. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/0/9/9/1/shutterstock_383065612-ecf5cbb9ad6e2ec3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Warum haben so viele Deutsche schlechte Laune?",
-          "url": "https://www.telepolis.de/article/Warum-haben-so-viele-Deutsche-schlechte-Laune-11498186.html",
-          "summary": "Die Lust am Pessimismus ergreift immer größere Teile der Bevölkerung und versperrt vielen einen positiven Blick auf die Zukunft. Gibt es noch einen Ausweg?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/7/9/3/5/brd-01-7e33f957f695d94c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Bundesarbeitsgericht warnt: KI ist kein Rechtsanwalt",
-          "url": "https://www.telepolis.de/article/Bundesarbeitsgericht-warnt-KI-ist-kein-Rechtsanwalt-11500037.html",
-          "summary": "Ein Anwalt vertraut der Software, zitiert Urteile, die es nie gab, und verliert den Prozess. Was Juristen (und andere) jetzt beachten müssen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/8/8/6/9/chatbot-jura-lupe1-604ffa65762e5913.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zu den Landtagswahlen: Linke-Politikerin Klein neue Berliner Parlamentspräsidentin",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-klein-parlamentspraesidentin-li.3540501",
-          "summary": "Das Berliner Abgeordnetenhaus kommt zu einer konstituierenden Sitzung zusammen. 98 von 149 anwesenden Abgeordneten stimmen für die 46-Jährige.",
+          "title": "Dem Geheimnis auf der Spur: Wo ist der Milliardenschatz?",
+          "url": "https://www.sueddeutsche.de/reise/piratenschatz-olivier-levasseur-suche-beute-li.3560039",
+          "summary": "Dem französischen Piraten Olivier Levasseur gelang im 18. Jahrhundert der vermutlich größte Raub der Geschichte. Weil die Beute nie auftauchte, wird auch heute noch eifrig gesucht.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Medizin: Was ist eine Hirnhautreizung?",
-          "url": "https://www.sueddeutsche.de/gesundheit/vincent-kompany-hirnhautreizung-fc-bayern-meningismus-virusinfekt-li.3570990",
-          "summary": "Der Cheftrainer des FC Bayern wurde aus dem Krankenhaus entlassen, der Verein hat die Diagnose Hirnhautreizung mitgeteilt. Was das bedeutet und worauf man dabei besonders achten muss.",
+          "title": "USA: Norweger machen sich über Trump lustig",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-norwegen-scheisshaus-land-toiletten-li.3568285",
+          "summary": "Der US-Präsident hat Norwegen neulich als „Scheißhaus-Land“ beschimpft. Die Menschen dort nehmen ihn seitdem in den sozialen Medien beim Wort – und präsentieren ihm die schönsten Toiletten des Landes.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Finanzen: EZB-Präsidentin Lagarde wird im Februar vorzeitig abtreten",
-          "url": "https://www.sueddeutsche.de/wirtschaft/ezb-christine-lagarde-europaeische-zentralbank-nachfolge-deutschland-li.3571032",
-          "summary": "Christine Lagarde verschafft der Politik Zeit bei der Regelung ihrer Nachfolge an der EZB-Spitze – denn die Sorge vor Rechtspopulisten ist groß. Kann sich Deutschland erstmals den Chefposten sichern?",
+          "title": "Linke in Berlin: Elif Eralps Angst vor Extremisten – kann sie so Berlin regieren?",
+          "url": "https://www.sueddeutsche.de/politik/elif-eralp-die-linke-berlin-koalitionsverhandlungen-extremismus-li.3570580",
+          "summary": "Durch eine Panne wird publik, dass die Linken-Spitzenkandidatin sich vor Terrorsympathisanten des Hamas-Lagers fürchtet. Bei SPD und Grünen wachsen die Zweifel, ob eine Koalition gutgehen kann.",
           "source": "SZ",
           "paywall": false,
           "image": null
