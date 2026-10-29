@@ -1,33 +1,33 @@
 {
-  "generated": "2026-10-29T03:00:07.278Z",
-  "timestamp": "29.10.2026, 04:00:07",
+  "generated": "2026-10-29T07:00:07.864Z",
+  "timestamp": "29.10.2026, 08:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Flucht nach Florida: Bolsonaro erklärt sich zum gewählten Präsidenten – und rudert dann ein Stück zurück",
-          "url": "https://www.faz.net/aktuell/politik/ausland/flavio-bolsonaro-erklaert-sich-zum-praesidenten-brasiliens-201630574.html",
-          "summary": "Nach seiner Flucht aus Brasilien in die USA beansprucht Flávio Bolsonaro den Wahlsieg für sich. Zwei Unterstützern spricht er seinen Dank aus.",
+          "title": "Autohersteller: Volkswagen macht 5,8 Milliarden Euro Verlust",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-meldet-milliardenverlust-im-dritten-quartal-accg-201631461.html",
+          "summary": "Europas größter Autobauer ist im dritten Quartal tief in die roten Zahlen gerutscht. Das Unternehmen begründet den Rückgang vor allem mit Sondereffekten.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a7fcab9aa203/w3726h1946x0y269o/202610/26942d06-43ab-4205-bc3c-0a4b166fb565/fl-vio-bolsonaro-und-seine.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0792fb061a3e/w6000h3135x0y433o/202610/873dd2a5-32c5-496c-acaf-fbc3e6835a32/schon-im-september-hatte-vw.webp"
         },
         {
-          "title": "Bolsonaro: Trumps Deponie für polizeilich Gesuchte",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/bolsonaro-in-den-usa-trumps-deponie-fuer-polizeilich-gesuchte-201629129.html",
-          "summary": "Flávio Bolsonaro ist vor Ermittlungen aus Brasilien geflüchtet – die USA haben sogleich Einreiseerlaubnis signalisiert. Law and Order gilt da wohl nur selektiv.",
+          "title": "ICE-Abschiebungen: „Wer nicht kooperiert, ist ein Schurkenstaat“",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/midterms-2026-wie-das-vorgehen-der-ice-behoerde-amerika-spaltet-accg-201606045.html",
+          "summary": "Vor den Zwischenwahlen: Wie das Vorgehen der ICE-Behörde Amerika spaltet",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3873333d5f1c/w5084h2656x0y367o/202607/43601.0.2370577606/fl-vio-bolsonaro-2025-die.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/fa09561aeca9/w3020h1577x688y834o/202610/43601.0.2658147366/demonstranten-protestieren-am.webp"
         },
         {
-          "title": "Vor Gipfeltreffen: Kanada wird vorerst doch kein assoziiertes EU-Mitglied",
-          "url": "https://www.faz.net/aktuell/politik/ausland/eu-kanada-gipfel-assoziierte-mitgliedschaft-vorerst-gescheitert-accg-201631084.html",
-          "summary": "Von der Leyens Konzept war ihnen zu vage: Kanzler Merz und andere EU-Regierungschefs bremsen die Kanada-Pläne. Zusagen für eine engere Anbindung des Landes werden abgeschwächt.",
+          "title": "USA unter Trump: Hacker entwenden Daten von Tausenden ICE-Beamten",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-hacker-erbeuten-daten-von-tausenden-ice-beamten-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/6d571b859028/w6144h3210x0y443o/202610/43601.0.2618656088/kanadas-premierminister-mark.webp"
+          "image": "https://media0.faz.net/image/w1200h627/554a8f8d37e3/w5500h2873x0y192o/202609/43601.0.2551972743/ein-ice-mitarbeiter-ist.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Linkenpolitikerin Elif Eralp offenbart Angst vor Terrorsympathisanten",
+          "url": "https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss",
+          "summary": "Elif Eralp möchte Regierende Bürgermeisterin Berlins werden. Doch in einem internen Vermerk zeigt die Linkenpolitikerin, dass sie sich vor Terrorsympathisanten mit Kontakten zur Hamas fürchtet. Kann so jemand für die Sicherheit in der Hauptstadt verantwortlich sein? Die SPIEGEL-Titelstory.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/e801e79f-0725-418f-90c8-e4ced55106e9_w1200_r1.778_fpx50_fpy35.jpg"
+        },
+        {
+          "title": "News: Elif Eralps Angst vor Hamas-Sympathisanten, Zugunglück in Spanien, VW-Quartalszahlen",
+          "url": "https://www.spiegel.de/politik/deutschland/news-elif-eralps-angst-vor-hamas-sympathisanten-zugunglueck-in-spanien-vw-quartalszahlen-a-dd284289-7e8f-4afe-899d-c3e0f5556fdd#ref=rss",
+          "summary": "Elif Eralp will Berlin regieren und sieht sich bedroht. Das Bahnunglück in Spanien ist schrecklich – aber kein Grund, nicht in den Zug zu steigen. Und VW verkündet mal wieder miese Zahlen. Das ist die Lage am Donnerstagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/c9012768-8ccf-4ad3-a4d0-d9ba6d8d965b_w1200_r1.778_fpx49.32_fpy50.jpg"
+        },
+        {
           "title": "Zugunglück in Spanien: Helfer auch nachts in Toledo im Einsatz – Ausschreitungen in Madrid",
           "url": "https://www.spiegel.de/panorama/zugunglueck-in-spanien-helfer-auch-nachts-in-toledo-im-einsatz-ausschreitungen-in-madrid-a-dbd76707-648e-47dd-a0ec-1f8bc6fba842#ref=rss",
           "summary": "Mit Kränen und Flutlicht arbeiten Einsatzkräfte an der Unglücksstelle in der spanischen Provinz Toledo, in den Trümmern der Züge werden weitere Opfer befürchtet. Vor dem Verkehrsministerium geraten rechte Demonstranten mit der Polizei aneinander.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/c0b8c1b5-74c7-430b-a775-6233f16eec1e_w1200_r1.778_fpx50_fpy63.jpg"
-        },
-        {
-          "title": "Wahlen in Israel 2026: Die vielen Leben des Benjamin Netanyahu",
-          "url": "https://www.spiegel.de/ausland/wahlen-in-israel-2026-die-vielen-leben-des-benjamin-netanyahu-a-9c3d574e-4547-4e6e-882f-1c204c4d7bd8#ref=rss",
-          "summary": "Seine Koalition hat keine Mehrheit mehr, doch der Likud von Benjamin Netanyahu bleibt stärkste Kraft. Der Premier hat erfolgreich auf Angst vor Iran gesetzt. Warum ihm so viele noch vertrauen – und wie er an der Macht bleiben könnte.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/58355dd8-f818-48d8-80ff-1b0fb7609906_w1200_r1.778_fpx46_fpy38.jpg"
-        },
-        {
-          "title": "Iran-Konflikt: USA versuchen es mit Diplomatie – doch nach Midterms drohen neue Angriffe",
-          "url": "https://www.spiegel.de/ausland/iran-konflikt-usa-versuchen-es-mit-diplomatie-doch-nach-midterms-drohen-neue-angriffe-a-8c382815-bfe1-452d-939e-7c837e13805d#ref=rss",
-          "summary": "Die USA und Israel bereiten offenbar Militärschläge gegen Iran vor. Parallel laufen neue diplomatische Initiativen: Katar vermittelt und US-Vizepräsident Vance soll einen Brief geschrieben haben.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/80010373-4c1f-4e0d-9a8c-5d0a23ba1edf_w1200_r1.778_fpx49.36_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Brasiliens Wahlverlierer: Bolsonaros spektakuläre Flucht",
-          "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-flucht-100.html",
-          "summary": "Ein Privatflugzeug, wohl zwei Zwischenstopps, die Ankunft in Trumps USA - der Wahlverlierer der Präsidentschaftswahl bezeichnet sich nun als \"Anführer\" Brasiliens. Wie geht das rechte Lager mit dem geflüchteten Bolsonaro um? Von A. Herrberg.",
+          "title": "Hoffnung auf unabhängige Medien in Serbien",
+          "url": "https://www.tagesschau.de/ausland/europa/serbien-medien-100.html",
+          "summary": "Nach der Niederlage der Vucic-Partei in Serbien hoffen viele Menschen wieder auf eine unabhängige Berichterstattung. Eine Initiative fordert den Entzug der Sendelizenz für Informer - einem Propagandasender im Dienste des Ex-Präsidenten. Von S. Hahne.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a9b84f79-28ea-47f0-9a7b-acbe41d12073/AAABoYVJs8Y/AAABnSSvrFg/16x9-big/bolsonaro-jet-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3b13a41f-964a-404e-b0fb-1a7b102a8c7a/AAABoYX_NL8/AAABnSSvrFg/16x9-big/vucic-plakat-100.jpg?width=1280"
         },
         {
-          "title": "Zugunglück in Spanien: Der Schock sitzt tief",
-          "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
-          "summary": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 68 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
+          "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html",
+          "summary": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f67b8593-5cb3-4e54-986f-56a033049442/AAABoYT5IkU/AAABnSSvrFg/16x9-big/zugunglueck-spanien-146.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bd0eafef-0f21-4287-b4f5-762e60dda0b7/AAABoYZBO04/AAABnSSvrFg/16x9-big/lagarde-326.jpg?width=1280"
         },
         {
-          "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
-          "url": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
-          "summary": "Heimlich hat sich der brasilianische Wahlverlierer Flávio Bolsonaro in die USA abgesetzt. Gegen ihn wird wegen Korruption und Geldwäsche ermittelt. Entgegen eindeutiger Ergebnisse hat er sich nun selbst zum Wahlsieger erklärt.",
+          "title": "Marktbericht: DAX dürfte vor EZB-Zinsentscheid leicht zulegen",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+          "summary": "Heute müssen die Investoren die Zahlen der US-Tech-Konzerne Microsoft und Alphabet verarbeiten. Am Nachmittag steht noch der Zinsentscheid der EZB an. Die US-Notenbank Fed hat schon vorgelegt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4fa122f3-e6c0-4210-a3ea-9a24fb193a7f/AAABoYSCpNQ/AAABnSSvrFg/16x9-big/bolsonaro-348.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0b3a9a5d-52cf-45fe-a52a-0b7d4d3a7087/AAABnLJSNeo/AAABnSSvrFg/16x9-big/boerse-488.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Markus Lanz: „Doof geboren werden und dann auch noch dumm sterben!“",
-          "url": "https://www.sueddeutsche.de/medien/markus-lanz-bildungskrise-berliner-spd-steffen-krach-karin-prien-li.3570621",
-          "summary": "Der Moderator arbeitet sich, kulturpessimistisch gestimmt, an der deutschen Bildungskrise und der Berliner SPD ab.  Gibt es denn gar keine Hoffnung mehr für Deutschland?",
+          "title": "USA: Hackerangriff auf Daten von ICE-Beamten",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ice-hackerangriff-us-heimatschutzministerium-li.3568285",
+          "summary": "Bei einem Hackerangriff auf das US-Heimatschutzministerium sind die Kontaktdaten von mehr als 41 000 Beschäftigten entwendet worden. Auch Hinweise auf die Identität verdeckter Ermittler der Migrationsbehörde wurden abgegriffen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Zugunglück in Spanien: In den Tod gerast",
-          "url": "https://www.sueddeutsche.de/panorama/zugunglueck-spanien-tote-li.3570371",
-          "summary": "Bei einem Zugunglück in Spanien sind mindestens 68 Menschen ums Leben gekommen. Dabei gilt Spaniens Hochgeschwindigkeitszugnetz als eines der modernsten weltweit. Hat man die Anzeichen einer Überlastung ignoriert?",
+          "title": "UN-Gipfel: Die Natur feiert ein Comeback",
+          "url": "https://www.sueddeutsche.de/politik/weltnaturkonferenz-armenien-renaturierung-biodiversitaet-umweltpolitik-li.3568987",
+          "summary": "Noch nie wurde weltweit so viel geschädigte Umwelt wiederhergestellt wie zuletzt, berichtet die UN. Bei der Weltnaturkonferenz in Armenien geht es auch um die Frage: Wer zahlt dafür?",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "DFB-Pokal: Kiel wirft Hoffenheim raus – Dresden besiegt Schalke – Wagner verliert erneut",
-          "url": "https://www.sueddeutsche.de/sport/dfb-pokal-ergebnisse-stuttgart-freiburg-schalke-li.3570768",
-          "summary": "Die Stuttgarter tun sich gegen zehn Paderborner lange schwer. Der SC Freiburg dreht das Spiel gegen den VfL Wolfsburg, Dynamo Dresden jubelt gegen Schalke und Hannover 96 verliert gegen Kaiserslautern.",
+          "title": "Nahost: Berichte: Vance lotet Chance auf Verhandlungen mit Iran aus",
+          "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-news-iran-frieden-gespraeche-us-regierung-vermittler-li.3560260",
+          "summary": "Die US-Regierung und regionale Vermittler haben Medien zufolge neue Anstrengungen für eine diplomatische Lösung des Konflikts mit Iran unternommen.",
           "source": "SZ",
           "paywall": false,
           "image": null
