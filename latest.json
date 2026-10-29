@@ -1,25 +1,17 @@
 {
-  "generated": "2026-10-29T15:00:08.734Z",
-  "timestamp": "29.10.2026, 16:00:08",
+  "generated": "2026-10-29T19:00:07.886Z",
+  "timestamp": "29.10.2026, 20:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Gen-Z-Demo am 31. Oktober: „Irgendwie sind alle schon gegen uns, bevor wir überhaupt angefangen haben“",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/genzregelt-chonik-eines-angekuendigten-protests-201630449.html",
-          "summary": "Die von Schülern ausgehende Massenmobilisierung in Frankreich hat auf Deutschland nicht übergegriffen. Das will die Bewegung „Gen Z regelt“ ändern und wirbt für Demonstrationen am 31. Wer steckt hinter der Initiative?",
+          "title": "Angst vor der Hamas: Eralps Feind im eigenen Bett",
+          "url": "https://www.faz.net/aktuell/politik/inland/elif-eralp-und-die-angst-vor-der-eigenen-partei-201632886.html",
+          "summary": "Berlin droht eine Regierende Bürgermeisterin zu bekommen, die ihre eigene Partei für ein Sicherheitsrisiko halten muss. Absurder geht es nicht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f577ee5226af/w2665h1392x466y208o/202610/d4721f33-d718-4555-b2cd-0c282bc8ce99/extreme-vorboten-der-proteste.webp"
-        },
-        {
-          "title": "Akram Selo im Interview: „Jeder von uns ist ein Eichhörnchen“",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/interview-mit-akram-selo-mitorganisator-von-genzregelt-201629615.html",
-          "summary": "Akram Selo, der von sich sagt, Abiturient zu sein, gehört zu den Organisatoren der Protestbewegung „Gen Z regelt“ und steht auf ihrer Website im Impressum. Im Interview spricht er über Anfeindungen und die Sorge vor einer Eskalation.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fcf51d12be76/w6144h3210x0y123o/202610/275d1faa-7cf8-4a0c-b756-c2ebd4ecafe5/aufruf-zu-einer-demonstration.webp"
+          "image": "https://media0.faz.net/image/w1200h627/33bf359eb20d/w4504h2353x953y375o/202610/b6104b93-4981-4f4a-ba10-8976b3db7cf2/elif-eralp-am-donnerstag-im.webp"
         },
         {
           "title": "Angst vor Hamas: Der Name, den Elif Eralp nicht nennen will",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/eabc71951f5d/w4038h2109x0y146o/202610/8f0995d8-c8db-4583-88bc-34d125c8601c/elif-eralp.webp"
+        },
+        {
+          "title": "Deutschland Liveblog: Grüne: Fall Eralp zeigt „Einfluss von Extremisten“ in Berlin",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-gruene-fall-eralp-zeigt-einfluss-von-extremisten-in-berlin-faz-110093143.html",
+          "summary": "Parlamentarische Geschäftsführerin Mihalic zeigt sich gegenüber F.A.Z. schockiert +++ Eralp will sich „von niemandem einschüchtern lassen“ +++ Linken-Politikerin hatte intern Angst vor Hamas-Sympathisanten geäußert +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/8c92c1c1c3b9/w6000h3135x0y189o/202609/43601.0.2498537549/irene-mihalic-im-juni-im.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Wie die AfD hinter den Kulissen völkische Aktivisten finanziert",
-          "url": "https://www.spiegel.de/politik/deutschland/wie-die-afd-hinter-den-kulissen-voelkische-aktivisten-finanziert-a-42e23a80-5cee-49b6-b572-0133f9e96a7a#ref=rss",
-          "summary": "Die geleakten AfD-Dokumente zeigen, wie sich die Partei radikalisiert. Es werden sogar Mitglieder rechtsextremer Organisationen finanziert, mit denen die AfD offiziell nichts zu tun haben will. Der SPIEGEL hat die Daten ausgewertet.",
+          "title": "Elif Eralp nach SPIEGEL-Enthüllung: Der entscheidenden Frage weicht sie aus",
+          "url": "https://www.spiegel.de/politik/elif-eralp-nach-spiegel-enthuellung-der-entscheidenden-frage-weicht-sie-aus-a-1f44c1ab-de67-459a-a4ea-97487d27e733#ref=rss",
+          "summary": "Elif Eralp will nach der SPIEGEL-Enthüllung über ihre Angst vor Terrorsympathisanten entschlossen wirken. Sie verspricht, gegen Gewalt und Kriminalität vorzugehen. Und was ist mit den Radikalen in den eigenen Reihen?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7f53050b-6c91-41de-835a-b6ef89e04deb_w1200_r1.778_fpx59_fpy43.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/340fe242-13db-48a6-8f6b-62886613fe9d_w1200_r1.778_fpx51_fpy44.jpg"
         },
         {
-          "title": "Linke in Berlin: Elif Eralp offenbart Angst vor Terrorsympathisanten",
-          "url": "https://www.spiegel.de/politik/deutschland/linkenpolitikerin-elif-eralp-offenbart-angst-vor-terrorsympathisanten-a-94a0c067-ce3d-4435-9e5d-0d2dc2fbb81e#ref=rss",
-          "summary": "Elif Eralp möchte Regierende Bürgermeisterin Berlins werden. Doch in einem internen Vermerk zeigt die Linkenpolitikerin, dass sie sich vor Terrorsympathisanten mit Kontakten zur Hamas fürchtet. Kann so jemand für die Sicherheit in der Hauptstadt verantwortlich sein? Die SPIEGEL-Titelstory.",
+          "title": "News des Tages: EZB-Chefin Christine Lagarde tritt ab, Elif Eralp äußert sich, Friedrich Merz bereist Asien",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-ezb-chefin-christine-lagarde-tritt-ab-elif-eralp-aeussert-sich-friedrich-merz-bereist-asien-a-6e65925f-90c6-41ed-8c19-585f777c92c2#ref=rss",
+          "summary": "Friedrich Merz hat auf seiner Asienreise Gebäck im Gepäck. EZB-Chefin Christine Lagarde tritt vorzeitig zurück. Und die Berliner Linkenpolitikerin Elif Eralp äußert sich nach den SPIEGEL-Enthüllungen. Das ist die Lage am Donnerstagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e801e79f-0725-418f-90c8-e4ced55106e9_w1200_r1.778_fpx50_fpy35.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9a556333-7324-4da0-bcef-b9876680d47f_w1200_r1.778_fpx29.99_fpy52.98.jpg"
         },
         {
-          "title": "Friedrich Merz in Singapur, Japan und Südkorea: Selbst in Asien holt den Kanzler die B-Frage ein",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-in-singapur-japan-und-suedkorea-selbst-in-asien-holt-den-kanzler-die-b-frage-ein-a-0999f3b4-7bab-4cfe-b81a-7c7c35c16f3e#ref=rss",
-          "summary": "Wer von den Großen nicht gefressen werden will, sollte sich besser zusammentun. Diese Botschaft will der Kanzler mit seiner Asienreise senden. Ärgerlich nur, dass ihm die Bundespräsidentinnendebatte dazwischenkommt.",
+          "title": "Regierungsbildung in Israel: Nun hat Isaac Herzog die Wahl",
+          "url": "https://www.spiegel.de/ausland/regierungsbildung-in-israel-nun-hat-isaac-herzog-die-wahl-a-67d69a24-eb8e-4e47-952b-e692a3fafc0c#ref=rss",
+          "summary": "Bei den israelischen Parlamentswahlen konnte kein Lager eine klare Mehrheit erringen. Nun muss Präsident Herzog entscheiden, wen er mit der Regierungsbildung beauftragt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c498d799-db4a-4e6a-b271-5a4da0516f64_w1200_r1.778_fpx61.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/ab5d371c-197f-4e9b-85a5-e866483e4d4e_w1200_r1.778_fpx49_fpy30.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kommentar zum \"Tankrabatt\": Die Regierung schmeißt Milliarden aus dem Fenster",
-          "url": "https://www.tagesschau.de/kommentar/tankrabatt-ein-monat-100.html",
-          "summary": "Vor fast einem Monat ist die Neuauflage des \"Tankrabatts\" in Kraft getreten. Für die Bundesregierung war es eine Beruhigungspille kurz vor den Wahlen, meint Jan Zimmermann. Der Frust an der Tankstelle bleibt jedoch.",
+          "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
+          "summary": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin Röse.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/093997a5-b96c-456e-8738-1e886137dd36/AAABoYgM-MU/AAABnSSvrFg/16x9-big/friedrich-merz-540.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/58c6a5b2-091b-4fbc-a28e-4aee3f008817/AAABoYj-n3M/AAABnSSvrFg/16x9-big/lagarde-334.jpg?width=1280"
         },
         {
-          "title": "Hohe Spritpreise: Bringt der \"\"Tankrabatt\"\" wirklich etwas?",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-entlastung-bilanz-100.html",
-          "summary": "Seit dem 1. Oktober gilt ein neuer \"Tankrabatt\". Experten zufolge geben die Mineralölkonzerne die Ersparnis nur zum Teil an die Autofahrer weiter. Der Interessenverband der Branche widerspricht. Von Max Ortmann und Jan Koch.",
+          "title": "Marktbericht: DAX setzt Klettertour fort",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+          "summary": "Die großen Notenbanken halten vorerst die Füße still - die Botschaft hat die Kauflust der Anleger beflügelt, der DAX beendet den Handelstag im Plus. Auch der VW-Schock vom Morgen wurde gut verdaut.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6d30e1ec-3958-4075-9234-4929d20d9127/AAABoQyzFJo/AAABnSSvrFg/16x9-big/zapfsaeule-tankstelle-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e80f126f-3b3e-46e7-8e6c-c4ef677c80e3/AAABn8aD4T8/AAABnSSvrFg/16x9-big/boerse-354.jpg?width=1280"
         },
         {
-          "title": "Europäische Zentralbank hält Leitzins unverändert",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html",
-          "summary": "Die Europäische Zentralbank (EZB) hat wie erwartet die Leitzinsen unverändert bei 2,5 Prozent belassen. Für Gesprächsstoff dürfte aber der vorzeitige Rückzug von EZB-Chefin Christine Lagarde sorgen.",
+          "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html",
+          "summary": "Nach dem Zugunglück in Spanien sind Schock und Trauer groß. Forensiker identifizieren weiterhin Todesopfer. Zudem wurden die Gesprächsprotokolle der Leitstelle mit den Lokomotivführern veröffentlicht. Von Julia Macher.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4085d903-660f-4dac-b3ba-2b3e57873f0c/AAABoYc2aG4/AAABnSSvrFg/16x9-big/ezb-562.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1ce57dd8-6203-4b88-86d3-f3473b5f2732/AAABoYh7NVc/AAABnSSvrFg/16x9-big/gerichtsmediziner-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Deepwater Horizon: 60 - 85 Prozent weniger Tiefseeleben nach BP-Katastrophe",
+          "url": "https://www.telepolis.de/article/Deepwater-Horizon-60-85-Prozent-weniger-Tiefseeleben-nach-BP-Katastrophe-11502901.html",
+          "summary": "Die Tiefsee des Golfs von Mexiko kollabiert: 87 Tage Öl, fast 7 Mio. Liter Dispergiermittel – und 16 Jahre später gibt es keine Anzeichen einer Erholung.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/0/3/4/2/NASA_Goddard_Space_Flight_Center__flickr__-9dc19dc99f0bb2c0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Bolsonaro in den USA: Brasilien hat nochmal Glück gehabt",
           "url": "https://www.telepolis.de/article/Bolsonaro-in-den-USA-Brasilien-hat-nochmal-Glueck-gehabt-11504439.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/2/3/1/Master_Rieg-9113c9bfe4349d71.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
-        },
-        {
-          "title": "Unklarer Ausgang, klare Verlierer: Israel in der Blockade?",
-          "url": "https://www.telepolis.de/article/Unklarer-Ausgang-klare-Verlierer-Israel-in-der-Blockade-11504212.html",
-          "summary": "Israel hat gewählt – und doch nicht entschieden. Was der bisherige Wahlausgang bedeuten kann. Ein Überblick.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/0/9/9/1/shutterstock_383065612-ecf5cbb9ad6e2ec3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Dem Geheimnis auf der Spur: Wo ist der Milliardenschatz?",
-          "url": "https://www.sueddeutsche.de/reise/piratenschatz-olivier-levasseur-suche-beute-li.3560039",
-          "summary": "Dem französischen Piraten Olivier Levasseur gelang im 18. Jahrhundert der vermutlich größte Raub der Geschichte. Weil die Beute nie auftauchte, wird auch heute noch eifrig gesucht.",
+          "title": "ZDF: Wer hat mit wem Schluss gemacht?",
+          "url": "https://www.sueddeutsche.de/medien/jan-boehmermann-himmler-zdf-magazin-royale-traenen-fanatisch-li.3571176",
+          "summary": "Nach dem Ende des „ZDF Magazin Royale“  äußert sich ZDF-Intendant Norbert Himmler kritisch zur Moderationsrolle von Jan Böhmermann – und nährt die Spekulationen um Auseinandersetzungen, die dem Aus vorangingen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "USA: Norweger machen sich über Trump lustig",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-norwegen-scheisshaus-land-toiletten-li.3568285",
-          "summary": "Der US-Präsident hat Norwegen neulich als „Scheißhaus-Land“ beschimpft. Die Menschen dort nehmen ihn seitdem in den sozialen Medien beim Wort – und präsentieren ihm die schönsten Toiletten des Landes.",
+          "title": "Neue Intendanz: Team aus Basel übernimmt die Münchner Kammerspiele",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-kammerspiele-intendanz-theater-basel-schauspiel-li.3569784",
+          "summary": "Anja Dirks, Antú Romero Nunes und Jörg Pohl leiten von der Spielzeit 2028/29 an als Nachfolger von Barbara Mundel das Theater an der Maximilianstraße. Ihre Zusammenarbeit ist erprobt, derzeit bilden sie die Schauspieldirektion am Theater Basel.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Linke in Berlin: Elif Eralps Angst vor Extremisten – kann sie so Berlin regieren?",
-          "url": "https://www.sueddeutsche.de/politik/elif-eralp-die-linke-berlin-koalitionsverhandlungen-extremismus-li.3570580",
-          "summary": "Durch eine Panne wird publik, dass die Linken-Spitzenkandidatin sich vor Terrorsympathisanten des Hamas-Lagers fürchtet. Bei SPD und Grünen wachsen die Zweifel, ob eine Koalition gutgehen kann.",
+          "title": "Hausexplosion in Regensburg: Einsatzkräfte bergen zwei Leichen aus den Trümmern",
+          "url": "https://www.sueddeutsche.de/bayern/regensburg-brand-explosion-mehrfamilienhaus-li.3570290",
+          "summary": "Eine Explosion zerstört große Teile eines Mehrfamilienhauses in Regensburg. Inzwischen wurden zwei Personen tot geborgen. Es handelt sich vermutlich um die beiden Vermissten.",
           "source": "SZ",
           "paywall": false,
           "image": null
