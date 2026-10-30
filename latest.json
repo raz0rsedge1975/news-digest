@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T23:00:07.848Z",
-  "timestamp": "30.10.2026, 00:00:07",
+  "generated": "2026-10-30T03:00:08.827Z",
+  "timestamp": "30.10.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
-          "url": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
-          "summary": "Seine Rollen als Captain Picard in Star Trek und Professor Charles Xavier bei X-Men machten ihn weltberühmt. Nun ist der britische Schauspieler Patrick Stewart im Alter von 86 Jahren gestorben.",
+          "title": "Frankreich bereitet sich auf neue Schülerproteste vor",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
+          "summary": "Frankreich stellt sich auf ein unruhiges Wochenende ein: Erneut wollen Schüler im ganzen Land gegen die Bildungspolitik protestieren. Denn die ersten Zugeständnisse der Regierung reichen ihnen nicht aus. Von Julia Borutta.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b890a9f4-60f6-41fc-962f-bfc614bbb8f7/AAABoYk_9pE/AAABnSSvrFg/16x9-big/stewart-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e76ffaf8-80e1-4aa9-961d-66a628e75012/AAABoYkC9II/AAABnSSvrFg/16x9-big/demonstranten-studenten-100.jpg?width=1280"
         },
         {
-          "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
-          "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
-          "summary": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus. So soll auf Veränderungen in der Arbeitswelt reagiert werden - zum Beispiel auf Jobverluste.",
+          "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
+          "summary": "Die Auszählung der Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von \"gestohlener Wahl\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b4ba9c8c-add4-4ed6-8734-1c2a43363ed3/AAABoYkyIBs/AAABnSSvrFg/16x9-big/roboter-314.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/721030da-7f64-441f-8cbe-9c96622df662/AAABoYlXMEU/AAABnSSvrFg/16x9-big/israel-wahl-auszaehlung-100.jpg?width=1280"
         },
         {
-          "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
-          "summary": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin Röse.",
+          "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+          "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
+          "summary": "In dem einstigen Bürgerkriegsland Bosnien-Herzegowina verunglückt ein Militärhelikopter der EU-Friedensmission. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/58c6a5b2-091b-4fbc-a28e-4aee3f008817/AAABoYj-n3M/AAABnSSvrFg/16x9-big/lagarde-334.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8f80f896-c899-46dd-ba51-aa80e807b0e6/AAABoYnS5HU/AAABnSSvrFg/16x9-big/bosnien-ch47-chinook-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Proteste in Albanien: Bezahlbares Leben statt Luxusresorts",
+          "url": "https://www.telepolis.de/article/Proteste-in-Albanien-Bezahlbares-Leben-statt-Luxusresorts-11504576.html",
+          "summary": "Warum gehen in Albanien Studierende auf die Straße, wer regiert dort seit Jahrzehnten, was fordern sie? Eine Revolte gegen Armut, Oligarchen und Ausverkauf.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/1/8/0/shutterstock_2791846327-252c1b110f9ad7c4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Deepwater Horizon: 60 - 85 Prozent weniger Tiefseeleben nach BP-Katastrophe",
           "url": "https://www.telepolis.de/article/Deepwater-Horizon-60-85-Prozent-weniger-Tiefseeleben-nach-BP-Katastrophe-11502901.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/1/0/5/shutterstock_2854393653-8e447decab5a8f5b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Superreiche, Klimakiller – und die Fragen, die keiner stellt",
-          "url": "https://www.telepolis.de/article/Superreiche-Klimakiller-und-die-Fragen-die-keiner-stellt-11504678.html",
-          "summary": "Oxfam prangert die Klimabilanz der Superreichen an. Viele Medien folgen. Unser Autor fragt, was die Zahlen erklären – und was sie verdecken.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/2/3/1/Master_Rieg-9113c9bfe4349d71.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
         }
       ]
     },
