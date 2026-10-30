@@ -1,17 +1,25 @@
 {
-  "generated": "2026-10-30T15:00:09.270Z",
-  "timestamp": "30.10.2026, 16:00:09",
+  "generated": "2026-10-30T19:00:10.058Z",
+  "timestamp": "30.10.2026, 20:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Proteste der Jugend: Wie radikal ist „Gen Z regelt“?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/gen-z-regelt-wer-steckt-hinter-den-halloween-demos-201623041.html",
-          "summary": "Die Gruppe „Gen Z regelt“ mobilisiert für Demonstrationen am 31. Händler und Verbände fürchten französische Zustände. Wer steckt hinter der Bezeichnung?",
+          "title": "Gen-Z-Proteste: „Die Bewegung schwächt sich selber“",
+          "url": "https://www.faz.net/aktuell/politik/inland/deutschlandweite-gen-z-proteste-geplant-201634409.html",
+          "summary": "Deutschlandweit wollen am Samstag Zehntausende junge Menschen demonstrieren. Sicherheitsbehörden warnen vor möglicher Unterwanderung und Gewalt – Schüler davor, dass ihre Anliegen nicht gehört werden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
+          "image": "https://media0.faz.net/image/w1200h627/ea173765ef5b/w8256h4313x0y562o/36a46074-0e65-47ee-942c-0628ef81ebc6-_DSC9820.jpg/geschaefte-werden-am-freitag.webp"
+        },
+        {
+          "title": "Jugendproteste: Iced Latte sichert die Zukunft nicht",
+          "url": "https://www.faz.net/aktuell/politik/inland/jugend-in-europa-warum-sollten-sie-nicht-protestieren-201630202.html",
+          "summary": "Die junge Generation kann nicht mehr auf das Versprechen vertrauen, dass Leistung Aufstieg und ein gutes Leben ermöglicht. Warum sollte sie nicht protestieren?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c3312b90b46c/w8256h4313x0y1025o/202610/91dba89d-9714-479d-8252-974da2acd08f/demonstration-gegen-steigende.webp"
         },
         {
           "title": "Experte zu Jugendprotesten: „Die Antwort kann nicht sein, die Jungen noch mehr zu pampern“",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/769e3d75880c/w7008h3661x0y505o/202610/e1737995-59f8-47ca-aaee-5d59d30360aa/eine-wuetende-generation.webp"
-        },
-        {
-          "title": "F.A.Z. Podcast für Deutschland: Luisa Neubauer zu „Gen Z regelt“: „Junge Menschen werden behandelt wie Außerirdische“",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/neubauer-zu-gen-z-regelt-protesten-eskaliert-die-gewalt-201635761.html",
-          "summary": "Für den 31. Oktober ruft „Gen Z regelt“ zu Protesten auf, es gibt Sorge vor einer Eskalation wie in Frankreich. Aktivistin Luisa Neubauer fordert von der Politik: Hinhören statt kriminalisieren.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/282a812b8651/w6000h3135x0y315o/202610/707a7b94-9718-4b18-8176-4d632b1e1d68/30-10-2026-baden-wuerttemberg.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Binance: Wie Hacker Krypto-Milliarden erbeuten konnten",
-          "url": "https://www.spiegel.de/netzwelt/web/binance-wie-hacker-krypto-milliarden-erbeuten-konnten-a-c9e80ab1-f69c-4320-92b4-0812efec6d2e#ref=rss",
-          "summary": "Hacker haben bei der umstrittenen Kryptobörse Binance digitale Vermögenswerte im Milliardenwert abgegriffen. Wo ist das Geld und womit müssen Anleger nun rechnen? Die wichtigsten Antworten.",
+          "title": "China: Frank-Walter Steinmeier reist zum Staatsbesuch nach Peking",
+          "url": "https://www.spiegel.de/politik/china-frank-walter-steinmeier-reist-zum-staatsbesuch-nach-peking-a-c18b5b7d-31ca-401a-a1f8-aa9624b010d5#ref=rss",
+          "summary": "Vier Tage China: Der scheidende Bundespräsident Frank-Walter Steinmeier reist zum Staatsbesuch in die Volksrepublik. Stets an Steinmeiers Seite: der Handelskonflikt mit der Großmacht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3a7b8846-2f92-4a26-9094-2ea65aaa061d_w1200_r1.778_fpx30_fpy50.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/58247423-9487-4280-af50-974afbb888d9_w1200_r1.778_fpx33.34_fpy50.jpg"
         },
         {
-          "title": "Die Linke in Berlin: Warum wir über die Angst von Elif Eralp vor Terror-Sympathisanten berichten",
-          "url": "https://www.spiegel.de/politik/deutschland/die-linke-in-berlin-warum-der-spiegel-ueber-die-angst-von-elif-eralp-vor-terror-sympathisanten-berichten-a-2df08a8b-0ddf-41f2-9de4-cb200b46c685#ref=rss",
-          "summary": "Aus einem Versehen bei den Berliner Linken wurde eine SPIEGEL-Titelgeschichte. Hier sind die Gründe für unsere Entscheidung.",
+          "title": "Ibrahim Ibrahim: Wer ist der Mann, vor dem Elif Eralp Angst hat?",
+          "url": "https://www.spiegel.de/politik/deutschland/ibrahim-ibrahim-wer-ist-der-mann-vor-dem-elif-eralp-angst-hat-a-576aa72e-b0f6-413c-824f-fcf391d059ac#ref=rss",
+          "summary": "Die Linkenpolitikerin Elif Eralp will den Namen eines Anti-Israel-Propagandisten nicht nennen, sie hat Angst vor Ibrahim Ibrahim. Der SPIEGEL hat sich im Berliner Sicherheitsapparat nach dem Mann erkundigt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6061d550-e9a7-43d4-9a8d-36946e9a54d1_w1200_r1.778_fpx48_fpy49.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/97fb91a0-8c97-4911-a574-3f2c0b33b1a5_w1200_r1.778_fpx46_fpy52.jpg"
         },
         {
-          "title": "Ilhan Omar vs. Donald Trump: Das steckt wirklich hinter der Kampagne gegen die Demokratin",
-          "url": "https://www.spiegel.de/ausland/ilhan-omar-vs-donald-trump-das-steckt-wirklich-hinter-der-kampagne-gegen-die-demokratin-a-07f2038b-324c-4ece-b440-b40b02be8b59#ref=rss",
-          "summary": "Die Agenten kamen im Morgengrauen: Mit einer Hausdurchsuchung eskalieren die Attacken auf die Demokratin Ilhan Omar, Trump will die somalische Einwanderin abschieben. Ein Vorgeschmack darauf, was anderen Kritikern drohen könnte.",
+          "title": "News des Tages: Hackerangriff auf Kryptobörse Binance, Karin Prien, Diskussion über Elif Eralp",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-hackerangriff-auf-kryptoboerse-binance-karin-prien-diskussion-ueber-elif-eralp-a-84d1c2ff-9630-4a1d-8474-a44e17c83c2d#ref=rss",
+          "summary": "Kriminelle erbeuten Kryptomilliarden. Die Familienministerin stellt Wohltaten in Aussicht. Und: SPIEGEL-Leser debattieren über den Fall Elif Eralp. Das ist die Lage am Freitagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0e0e15ae-621a-4d6e-bc5c-3d41796e0fca_w1200_r1.778_fpx57_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html",
-          "summary": "Das Endergebnis der Wahl in Israel bringt für keinen Parteienblock eine regierungsfähige Mehrheit. Jetzt könnten die arabischen Parteien zum Zuge kommen. Doch aus dem Netanjahu-Lager kommen neue Vorwürfe. Konkurrent Eisenkot reagiert. Von Tim Aßmann.",
+          "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
+          "summary": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Spiegelhauer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4fd8cb36-680d-4b40-a806-2223e18d10b5/AAABoYzqT78/AAABnSSvrFg/16x9-big/wahlplakat-netanjahu-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5ab7a123-3d09-4857-b3c7-f7c8eda3bacd/AAABoYzUalw/AAABnSSvrFg/16x9-big/fanartikel-newsom-100.jpg?width=1280"
         },
         {
-          "title": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html",
-          "summary": "Die hohe Inflation in Deutschland ‌hat sich im Oktober spürbar abgeschwächt. Dafür sorgen vor allem die fallenden Preise an den Zapfsäulen. Doch Ökonomen geben noch keine Entwarnung.",
+          "title": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
+          "url": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
+          "summary": "Zelda, WoW und GTA: Der November bietet für Gamer gleich drei neu aufgelegte Videospiel-Klassiker. Warum lösen die jahrzehntealten Game-Reihen noch immer solche Begeisterung aus? Von Samira Straub",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/566cc412-8755-4cba-b3b6-41c0044a4ba3/AAABoYzxgjY/AAABnSSvrFg/16x9-big/euro-314.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/cc689f40-31a0-4927-a809-c3044736f4d8/AAABoY1F2dI/AAABnSSvrFg/16x9-big/videospiel-116.jpg?width=1280"
         },
         {
-          "title": "Kampf gegen Ebola - Studie macht Hoffnung auf Impfstoff",
-          "url": "https://www.tagesschau.de/wissen/gesundheit/ebola-afrika-studie-100.html",
-          "summary": "Seit Monaten grassiert in der DR Kongo eine Variante des Ebola-Virus. Mehr als 10. 000 Fälle wurden bislang erfasst. Bisher gibt es gegen diesen Erreger keinen Impfstoff, doch eine medizinische Studie weckt Hoffnung. Von Daniela Remus.",
+          "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+          "summary": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d183d990-021d-4920-aabb-5f2e382f331e/AAABoY0ayCY/AAABnSSvrFg/16x9-big/kongo-ebola-studie-impfstoff-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a8ff5642-3cb8-40d8-942e-38a10780677e/AAABlep13Mg/AAABnSSvrFg/16x9-big/boerse-frankfurt-155.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Fortress: Pentagon will 90-Tage Autarkie für US-Basen – Kosten in Milliardenhöhe",
+          "url": "https://www.telepolis.de/article/Fortress-Pentagon-will-90-Tage-Autarkie-fuer-US-Basen-Kosten-in-Milliardenhoehe-11504247.html",
+          "summary": "Das US-Kriegsministerium bereitet sich auf den großen Krieg vor. Strom, Wasser, Treibstoff und Kommunikation müssen 90 Tage ohne externe Hilfe funktionieren.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/0/0/9/Aaron_of_L.A._Photography_cropped-cdeb861a3bde57ad.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Audi auf Trumps Bühne: Alle Wege führen nach Washington",
           "url": "https://www.telepolis.de/article/Audi-auf-Trumps-Buehne-Alle-Wege-fuehren-nach-Washington-11506024.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/9/0/4/Master_ARDZDF-b3830043d71f9671.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Waffengang nach dem Wahlkampf? Warum Teheran neue Angriffe drohen",
-          "url": "https://www.telepolis.de/article/Waffengang-nach-dem-Wahlkampf-Warum-Teheran-neue-Angriffe-drohen-11505905.html",
-          "summary": "Israels Militärführung könnte vor der Wahl Angriffe auf den Iran verhindert haben – warum dies dennoch nicht für Frieden spricht. Eine Analyse.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/8/4/4/shutterstock_2755929633-4f03d044bb399fd1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Berlin: Linke, Grüne und SPD wollen weiter über Koalition verhandeln",
-          "url": "https://www.sueddeutsche.de/politik/linke-berlin-koalitionsverhandlungen-elif-eralp-parteitag-li.3571512",
-          "summary": "Politiker aus dem rot-grün-roten Lager bemühen sich nach der „Spiegel“-Berichterstattung über Elif Eralp um Schadensbegrenzung, sie selbst erklärt sich per Instagram. Doch weitere Hürden stehen bevor.",
+          "title": "Gefährliche „Ewigkeitschemikalie“ auf riesiger Fläche: PFAS-Bodenwerte für den Kreis Altötting bleiben unter Verschluss",
+          "url": "https://www.sueddeutsche.de/bayern/pfas-altoetting-dyneon-pfoa-bodenbelastung-3m-li.3571671",
+          "summary": "Der Hersteller der Substanz geht vor Gericht gegen Entscheidungen des Landratsamts vor. Und so bleiben die Menschen über die Schwere und die genaue Verbreitung der Belastung im Unklaren.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Tennisprofi Alexander Zverev: Deutschlands andere Nummer eins",
-          "url": "https://www.sueddeutsche.de/sport/zverev-tennis-weltrangliste-nummer-eins-wien-li.3571501",
-          "summary": "Als zweiter deutscher Mann nach Boris Becker steht Alexander Zverev an der Spitze der Tenniswelt. Sein Weg war voller Probleme, Resilienz wurde zu seiner Stärke. Jetzt will er „ein gutes Vorbild sein“.",
+          "title": "Fußball: Regionalligareform: Rückschlag für DFB-Präsident Neuendorf",
+          "url": "https://www.sueddeutsche.de/sport/dfb-neuendorf-praesident-regionalliga-reform-li.3571909",
+          "summary": "Der Kampf um das „Kompassmodell“ geht in die entscheidende Phase: Im DFB-Präsidium schließt sich eine große Fraktion dem Antrag des Präsidenten nicht an – und es braut sich juristischer Ärger zusammen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Elif Eralp: Das Land erlebt erneut die maßlose Polarisierung einer Debatte",
-          "url": "https://www.sueddeutsche.de/meinung/elif-eralp-berlin-der-spiegel-polarisierung-kommentar-li.3571578",
-          "summary": "Der „Spiegel“ hat das Vertrauen der Politikerin missbraucht. Oder: Nun ist klar, dass diese Politikerin fürs Regieren in Berlin nicht infrage kommt. Jeder ist auf der Suche nach Wahrheit. Aber nur nach seiner.",
+          "title": "Theater: Aller guten Dinge",
+          "url": "https://www.sueddeutsche.de/kultur/muenchner-kammerspiele-neue-intendanz-leitungsteam-basel-nunes-dirks-joerg-pohl-nachfolge-mundel-li.3571249",
+          "summary": "Die Münchner Kammerspiele bekommen ein Leitungstrio. Bedeutet das nun Basisdemokratie statt Führung? Zumindest in Sachen Kommunikation kann es am Haus eigentlich nur besser werden.",
           "source": "SZ",
           "paywall": false,
           "image": null
