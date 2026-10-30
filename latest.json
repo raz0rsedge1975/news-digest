@@ -1,17 +1,25 @@
 {
-  "generated": "2026-10-30T03:00:08.827Z",
-  "timestamp": "30.10.2026, 04:00:08",
+  "generated": "2026-10-30T07:00:10.122Z",
+  "timestamp": "30.10.2026, 08:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "US-Midterms 2026: Für diesen MAGA-Fan macht Donald Trump alles richtig",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/us-midterms-2026-benzin-ist-teuer-aber-sonst-liebe-alles-was-trump-gemacht-hat-201629075.html",
-          "summary": "Zur Amtseinführung organisierte Denise Page eine Gruppenreise nach Washington. Zwei Jahre später findet sie noch immer: Der Präsident macht einen super Job.",
+          "title": "Elektronischer Kampf: Der Feind funkt, die Bundeswehr horcht mit",
+          "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-lauscht-in-litauen-russland-hat-grossen-vorsprung-accg-201632235.html",
+          "summary": "In einem Wald bei Vilnius wird geschraubt und verkabelt. Die Truppe überwacht Signale aus Russland. Von dessen Möglichkeiten kann der zuständige Vizeadmiral bis auf Weiteres nur träumen.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fdd6a3915902/w4837h2527x0y97o/202610/3a72e57e-70ba-487a-9617-019bdfba3a39/eine-wahlkampfveranstaltung.webp"
+          "image": "https://media0.faz.net/image/w1200h627/7513137f8ef8/w8192h4280x0y164o/202610/dbdb70af-9553-4cba-8348-6c91be0ce5bf/ein-bundeswehrsoldat-baut-am.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Minen geräumt: Weg für Hilfe nach Oleschky offenbar frei",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-minen-geraeumt-weg-fuer-hilfe-nach-oleschky-offenbar-frei-faz-110683325.html",
+          "summary": "Humanitäre Hilfsaktion geht in entscheidende Phase +++ Russland greift Kiew abermals mit ballistischen Raketen an +++ Anschlag auf Starlink-Antennen: Zwei Deutsche in Auslieferungshaft +++ alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/78266fe1a482/w3228h1686x0y233o/202610/43601.0.2758918972/auf-einem-undatierten-video.webp"
         },
         {
           "title": "US-Midterms 2026: Welcher Partei gehören die Stimmen der Latinos?",
@@ -20,20 +28,20 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://www.faz.net/faz-share-logo.jpg"
-        },
-        {
-          "title": "Angst vor der Hamas: Eralps Feind im eigenen Bett",
-          "url": "https://www.faz.net/aktuell/politik/inland/elif-eralp-und-die-angst-vor-der-eigenen-partei-201632886.html",
-          "summary": "Berlin droht eine Regierende Bürgermeisterin zu bekommen, die ihre eigene Partei für ein Sicherheitsrisiko halten muss. Absurder geht es nicht.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/33bf359eb20d/w4504h2353x953y375o/202610/b6104b93-4981-4f4a-ba10-8976b3db7cf2/elif-eralp-am-donnerstag-im.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Zugunglück in Spanien: Zwei Kollisionen, mehr als 100 Tote. Kann Verkehrsminister Óscar Puente im Amt bleiben?",
+          "url": "https://www.spiegel.de/ausland/zugunglueck-in-spanien-zwei-kollisionen-mehr-als-100-tote-kann-verkehrsminister-oscar-puente-im-amt-bleiben-a-bd2a02d7-7515-46f1-9763-f5a1d18317e7#ref=rss",
+          "summary": "Im Januar die Katastrophe von Adamus, jetzt das Unglück von Toledo: Die Bilanz des Verkehrsministers Óscar Puente ist verheerend. Die Spanier verlieren das Vertrauen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8e9e3698-d6e1-401d-adce-a105bd70ff02_w1200_r1.778_fpx62.67_fpy50.jpg"
+        },
         {
           "title": "Eralp führt Angst-Eingeständnis auf Rat von Sicherheitsbehörden zurück",
           "url": "https://www.spiegel.de/politik/deutschland/eralp-fuehrt-angst-eingestaendnis-auf-rat-von-sicherheitsbehoerden-zurueck-a-7cbbfa44-320f-4c43-ac7e-7c2f91c788a0#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/4d8f92f4-0a29-476f-a99b-928d270af295_w1200_r1.778_fpx66.67_fpy50.jpg"
         },
         {
-          "title": "Patrick Stewart ist tot",
-          "url": "https://www.spiegel.de/kultur/tv/patrick-stewart-ist-tot-a-40ffba85-794a-45f4-b2a3-7948168155d4#ref=rss",
-          "summary": "Er war Captain Jean-Luc Picard in »Star Trek« und Professor Charles Francis Xavier in »X-Men«. Jetzt ist der britische Schauspieler und Filmproduzent Sir Patrick Stewart nach kurzer schwerer Krankheit im Alter von 86 Jahren gestorben.",
+          "title": "News: EU-Kanada-Gipfel, Interview mit Anthony Scaramucci, Deutsch-Türkisches Anwerbeabkommen",
+          "url": "https://www.spiegel.de/politik/deutschland/news-eu-kanada-gipfel-interview-mit-anthony-scaramucci-deutsch-tuerkisches-anwerbeabkommen-a-5093b4ce-aa49-4848-b8e5-9d71d8573dfc#ref=rss",
+          "summary": "Ursula von der Leyen hat mal wieder zu viel versprochen. Anthony Scaramucci findet klare Worte über Donald Trump. Und wir feiern eine deutsch-türkische Erfolgsgeschichte. Das ist die Lage am Freitagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3cc6035f-426a-4fcd-b3b4-9459bb589793_w1200_r1.778_fpx62.66_fpy50.jpg"
-        },
-        {
-          "title": "»Journal Deluxe«: Neue ZDF-Show mit Florian Schroeder",
-          "url": "https://www.spiegel.de/kultur/tv/journal-deluxe-neue-zdf-show-mit-florian-schroeder-a-749654f0-2adb-45db-b2cf-9a22f0baffa6#ref=rss",
-          "summary": "Er versprach die »Tempo-250-Zone des politisch inkorrekten Witzes« – und trudelte dann doch nur narzisstisch um sich selbst: Florian Schroeders »Journal Deluxe« ist nicht der Aufreger, den das ZDF und viele andere Medien erhofft haben.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8a6c3a16-0311-4bef-aa81-bb272ebe207a_w1200_r1.778_fpx51.98_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/4c723b01-0001-0004-0000-000000306490_w1200_r1.778_fpx56.74_fpy51.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Frankreich bereitet sich auf neue Schülerproteste vor",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html",
-          "summary": "Frankreich stellt sich auf ein unruhiges Wochenende ein: Erneut wollen Schüler im ganzen Land gegen die Bildungspolitik protestieren. Denn die ersten Zugeständnisse der Regierung reichen ihnen nicht aus. Von Julia Borutta.",
+          "title": "Marktbericht: Kann der DAX die 26.000 verteidigen?",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+          "summary": "Der DAX hat wieder die Marke von 26. 000 Punkten übersprungen. Schwache Zahlen von Intel und Amazon dürften den Anlegern aber nicht gefallen. Der deutsche Leitindex könnte zum Handelsstart leicht zurückfallen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e76ffaf8-80e1-4aa9-961d-66a628e75012/AAABoYkC9II/AAABnSSvrFg/16x9-big/demonstranten-studenten-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8080c411-a4f0-4a6f-a4e2-515285924a9d/AAABlg9yr_U/AAABnSSvrFg/16x9-big/dax-haendlerin-101.jpg?width=1280"
         },
         {
-          "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html",
-          "summary": "Die Auszählung der Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von \"gestohlener Wahl\".",
+          "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+          "url": "https://www.tagesschau.de/ausland/eu-kanada-ki-100.html",
+          "summary": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/721030da-7f64-441f-8cbe-9c96622df662/AAABoYlXMEU/AAABnSSvrFg/16x9-big/israel-wahl-auszaehlung-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f777cc2e-6e6c-4a70-96d9-74a583c70bef/AAABoYj25Qw/AAABnSSvrFg/16x9-big/flaggen-eu-kanada-100.jpg?width=1280"
         },
         {
-          "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
-          "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html",
-          "summary": "In dem einstigen Bürgerkriegsland Bosnien-Herzegowina verunglückt ein Militärhelikopter der EU-Friedensmission. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar.",
+          "title": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
+          "url": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html",
+          "summary": "Beim EU-Kanada-Gipfel ging es auf europäischer Seite bislang viel darum, wie die neue Allianz denn heißen soll soll. Kanadas Premier Carney sagt dazu: \"Der Name ist egal. \" Heute sollen konkrete Vereinbarungen folgen. Von Martin Ganslmeier.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8f80f896-c899-46dd-ba51-aa80e807b0e6/AAABoYnS5HU/AAABnSSvrFg/16x9-big/bosnien-ch47-chinook-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a941aa47-ad1a-40ef-9847-b50d3f9a9d75/AAABoYtQaKU/AAABnSSvrFg/16x9-big/carney-136.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nachruf: Oh Captain, mein Captain",
-          "url": "https://www.sueddeutsche.de/kultur/patrick-stewart-star-trek-tot-alter-nachruf-li.3571363",
-          "summary": "Als Jean-Luc Picard, Kapitän der neuen Enterprise, wurde Patrick Stewart zum Inbegriff intellektueller Führungsstärke. Dabei hatte ihn ein guter Freund noch von der „Star Trek“-Rolle abhalten wollen.",
+          "title": "ZDF: War das jetzt der Satire-Rechtsruck?",
+          "url": "https://www.sueddeutsche.de/medien/journal-deluxe-florian-schroeder-zdf-comedy-kritik-li.3561047",
+          "summary": "Das ZDF hat den Kabarettisten Florian Schroeder  als Anti-Böhmermann lanciert. Statt einem lästigen Linken soll im neuen „Journal Deluxe“ jetzt einer den Linken lästig sein. Ist das auch lustig?",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Zum Tod von Patrick Stewart: „Picard ist immer noch derselbe“",
-          "url": "https://www.sueddeutsche.de/medien/patrick-stewart-star-trek-picard-interview-2020-1.4770056",
-          "summary": "Patrick Stewart kehrte 2020 nach langem Zögern in seine Rolle als Captain Picard zurück. Zum Tod des Schauspielers: ein Gespräch von damals über „Star Trek“, Französisch als Weltraumsprache und den Versuch, ein Haarteil zu tragen.",
+          "title": "Newsblog zu den Landtagswahlen: Eralp verteidigt sich gegen Kritik: „Lasse mich nicht einschüchtern“",
+          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-eralp-li.3540501",
+          "summary": "Die Linken-Politikerin äußert sich in einem auf Instagram veröffentlichten Video und erklärt: „Es gibt Grenzen, wenn es um die Sicherheit von meiner Familie und mir geht.“",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "ZDF: Wer hat mit wem Schluss gemacht?",
-          "url": "https://www.sueddeutsche.de/medien/jan-boehmermann-himmler-zdf-magazin-royale-traenen-fanatisch-li.3571176",
-          "summary": "Nach dem Ende des „ZDF Magazin Royale“  äußert sich ZDF-Intendant Norbert Himmler kritisch zur Moderationsrolle von Jan Böhmermann – und nährt die Spekulationen um Auseinandersetzungen, die dem Aus vorangingen.",
+          "title": "Thema Proteste bei „Maybrit Illner“: „Ich bin kein Experte, aber habe dazu natürlich eine Meinung“",
+          "url": "https://www.sueddeutsche.de/medien/maybrit-illner-proteste-ki-jugend-spanien-frankreich-gauck-ronzheimer-li.3570520",
+          "summary": "Maybrit Illner nimmt die Jugendproteste in Europa zum Anlass, um mit ihren Gästen über alles und nichts zu reden. Selten war eine Talkshow dermaßen verwirrend.",
           "source": "SZ",
           "paywall": false,
           "image": null
