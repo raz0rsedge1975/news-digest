@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T23:00:07.812Z",
-  "timestamp": "31.10.2026, 00:00:07",
+  "generated": "2026-10-31T03:00:07.062Z",
+  "timestamp": "31.10.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/97fb91a0-8c97-4911-a574-3f2c0b33b1a5_w1200_r1.778_fpx46_fpy52.jpg"
         },
         {
-          "title": "Fall Fabian: Am Ende des Prozesses holt Gina H. zum Rundumschlag aus",
-          "url": "https://www.spiegel.de/panorama/justiz/fall-fabian-am-ende-des-prozesses-holt-gina-h-zum-rundumschlag-aus-a-40bf8de7-b24a-4a5f-b700-2c80872ebc38#ref=rss",
-          "summary": "Die 30-jährige Gina H. soll den Sohn ihres Partners erstochen haben. Die Staatsanwaltschaft hält die Beweise für erdrückend, doch die Verteidigung plädiert auf Freispruch. Und die Angeklagte?",
+          "title": "Polen: Polizeieinsatz bei eskalierendem Streit über das Verfassungsgericht",
+          "url": "https://www.spiegel.de/ausland/polen-polizeieinsatz-bei-eskalierendem-streit-ueber-das-verfassungsgericht-a-47bdca85-d4e4-48da-8688-d3c40f2065ad#ref=rss",
+          "summary": "Polizisten vor dem Gebäude, eine abgebrochene Reise zu einem Staatsbesuch und widersprüchliche Mitteilungen aus dem Gericht: In Warschau spitzt sich ein Machtkampf über das Verfassungsgericht zu.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/24a08dd4-2d15-413d-8f49-3e13943c8d6f_w1200_r1.778_fpx58.27_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/126baf1e-0e80-45dd-a7bb-b4c4eaddfd5c_w1200_r1.778_fpx45_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
+          "summary": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei umstellte das Gebäude, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/519b2f4f-df27-4e95-8bcf-d77a469a8d94/AAABoY9o_tw/AAABnSSvrFg/16x9-big/warschau-verfassungsgericht-100.jpg?width=1280"
+        },
+        {
+          "title": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
+          "summary": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/968e7d78-8248-45ab-a5b3-c7f16815a1e6/AAABnLz_Yjc/AAABnSSvrFg/16x9-big/tuerkei-patriot-100.jpg?width=1280"
+        },
+        {
           "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
           "url": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
           "summary": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/a0816700-ed50-4ee8-af39-ed742d73f760/AAABoY3FWOk/AAABnSSvrFg/16x9-big/30102026-binace-crypto-hackerangriff-100.jpg?width=1280"
-        },
-        {
-          "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-          "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-          "summary": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/b24841d1-87c4-4a16-ba6c-c4db63284842/AAABoY4uPLA/AAABnSSvrFg/16x9-big/kanada-eu-buendnis-100.jpg?width=1280"
-        },
-        {
-          "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
-          "summary": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Spiegelhauer.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/5ab7a123-3d09-4857-b3c7-f7c8eda3bacd/AAABoYzUalw/AAABnSSvrFg/16x9-big/fanartikel-newsom-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Russland-Afrika-Gipfel: Großer Auftritt, kleine Bilanz",
+          "url": "https://www.telepolis.de/article/Russland-Afrika-Gipfel-Grosser-Auftritt-kleine-Bilanz-11506186.html",
+          "summary": "21 afrikanische Staatschefs kamen zum Gipfel nach Moskau. Putin verkündet eine neue Weltordnung, doch beim Handel bleibt Russland hinter seinen Versprechen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/9/8/8/Address_by_Vladimir_Putin_at_the_plenary_session____Russia-Africa_in_a_Multipolar_World_____20_March_2023-93fa3acf8c3e104f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Fortress: Pentagon will 90-Tage Autarkie für US-Basen – Kosten in Milliardenhöhe",
           "url": "https://www.telepolis.de/article/Fortress-Pentagon-will-90-Tage-Autarkie-fuer-US-Basen-Kosten-in-Milliardenhoehe-11504247.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/9/0/6/shutterstock_1567652152-ee714e9679c48290.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "ARD und ZDF streichen Sender – die Sparrechnung bleibt offen",
-          "url": "https://www.telepolis.de/article/ARD-und-ZDF-streichen-Sender-die-Sparrechnung-bleibt-offen-11506020.html",
-          "summary": "Ende Dezember verschwinden drei Spartenkanäle. Die Ersparnis bleibt offen. Was bringt der Umbau den Zuschauern für ihren Rundfunkbeitrag?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/9/0/4/Master_ARDZDF-b3830043d71f9671.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
