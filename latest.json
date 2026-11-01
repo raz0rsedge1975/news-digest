@@ -1,17 +1,25 @@
 {
-  "generated": "2026-11-01T03:00:07.929Z",
-  "timestamp": "1.11.2026, 04:00:07",
+  "generated": "2026-11-01T07:00:08.914Z",
+  "timestamp": "1.11.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Gen-Z-Demos: Ausschreitungen in Frankfurt: Jugendliche werfen Scheiben ein",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-ausschreitungen-in-frankfurt-jugendliche-werfen-scheiben-ein-faz-201635936.html",
-          "summary": "Ministerpräsident Rhein „schockiert“ von Gewalt +++ 56 Festnahmen in Berlin +++ Ausschreitungen auf Kölner Domplatte +++ Waffengeschäft wird Ziel von Plünderung +++ alle Entwicklungen im Liveblog",
+          "title": "HalloweenNacht: Randalierer kapern den Jugendprotest",
+          "url": "https://www.faz.net/aktuell/politik/inland/jugendproteste-gekapert-pluenderungen-in-frankfurt-in-der-halloweennacht-accg-201640262.html",
+          "summary": "Nach den Demonstrationen der „Gen Z“ eskalieren in einigen Städten die Proteste in Gewalt und Plünderungen. Am schlimmsten geht es in Frankfurt zu.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d0d78621b2c1/w6714h3508x0y992o/75d37d9e-df1d-45c5-89f4-cd738d696f6a-_1VL6759.jpg/ein-jugendlicher-schlaegt-mit.webp"
+          "image": "https://media0.faz.net/image/w1200h627/e85adc1f7222/w6144h3210x0y763o/202610/1c346ed1-8c0b-4cc3-bcb5-453c3e829d6c/vermummt-pluendernd.webp"
+        },
+        {
+          "title": "Gen-Z-Demos: Gewalt und Festnahmen: So endete der Demo-Tag",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-frankfurter-gewaltnacht-ueberschattet-demo-tag-faz-201635936.html",
+          "summary": "Ministerpräsident Rhein „schockiert“ von Gewalt +++ Polizei in Frankfurt setzt  in der Nacht 100-köpfige Personengruppe fest +++ 56 Festnahmen in Berlin +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b7a15948012d/w6144h3210x0y686o/202610/1330b949-a4b8-4704-819c-8a086bb43fcc/in-frankfurt-kommt-es-am.webp"
         },
         {
           "title": "Gen-Z-Demos: Gewalt überschattet Jugendprotest in Frankfurt",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/72da3c869eb5/w7709h4027x0y154o/f2ecf83e-df4e-4969-a080-cefda0e0f4df-_1VL6696.jpg/verhaftung-an-der.webp"
-        },
-        {
-          "title": "Demo in Berlin: „Irgendwo muss die Wut ja hin“",
-          "url": "https://www.faz.net/aktuell/politik/inland/gen-z-demo-in-berlin-3500-demonstranten-pyrotechnik-und-festnahmen-201639894.html",
-          "summary": "In Berlin werfen Demonstranten Eier auf Geschäfte, immer wieder knallt es. Wessen Frust entlädt sich da?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f0d9a7ed24e9/w3543h1851x0y256o/7dbc40a9-a120-4144-9311-b6e00678ea70-261031-FAZ_SCHUELERPROTESTE-EL-0328.jpg/demonstranten-am-samstagabend.webp"
         }
       ]
     },
@@ -35,34 +35,42 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Polen: Donald Tusk attackiert Karol Nawrocki nach rüder Visite im Verfassungsgericht",
-          "url": "https://www.spiegel.de/ausland/polen-donald-tusk-attackiert-karol-nawrocki-nach-rueder-visite-im-verfassungsgericht-a-9fabfec6-cb4a-4a33-802a-77a3d1812167#ref=rss",
-          "summary": "Polens Präsident Karol Nawrocki ist am Freitagabend in das Verfassungsgericht eingedrungen – und drückte offenbar eine Richterin nach unten. Nun hat sich der liberale Premier Donald Tusk den ehemaligen Amateurboxer vorgenommen.",
+          "title": "Nach Demo von »Gen Z regelt«: Ausschreitungen und Plünderungen in Frankfurt und Köln",
+          "url": "https://www.spiegel.de/panorama/justiz/nach-demo-von-gen-z-regelt-ausschreitungen-und-pluenderungen-in-frankfurt-und-koeln-a-2baa26e4-2d9c-4fc2-8585-533727c4d00c#ref=rss",
+          "summary": "Zehntausende junge Menschen hatten friedlich demonstriert, doch am späten Abend eskalierte die Lage. In mehreren deutschen Städten ist es zu Gewalt und massiven Sachbeschädigungen gekommen. Der Überblick.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/72741e6f-16c2-40ce-9250-3c23892dd925_w1200_r1.778_fpx41.32_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/47ca37a0-b923-41f2-aeae-8f82c86f556c_w1200_r1.778_fpx54_fpy66.jpg"
         },
         {
-          "title": "»Gen Z regelt«: »Aktivismus muss wiederaufleben«",
-          "url": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-erste-proteste-in-berlin-verlaufen-weitgehend-friedlich-a-8ed42304-8a51-42d0-bd90-a476f1fdd125#ref=rss",
-          "summary": "Sie fordern bessere Bildung, niedrigere Mieten und dass man ihnen zuhört: Vor dem Brandenburger Tor in Berlin ist der erste »Gen Z regelt«-Protest friedlich verlaufen. Später kam es zu Ausschreitungen in mehreren Städten.",
+          "title": "News: Midterms in den USA, Elif Eralp und die Terrorsympathisanten",
+          "url": "https://www.spiegel.de/politik/deutschland/news-midterms-in-den-usa-elif-eralp-und-die-terrorsympathisanten-a-fbaf820a-69d7-4935-860f-2affe2fc94bd#ref=rss",
+          "summary": "Nach der Kongresswahl wird es hart für Donald Trump. Das ist die Lage am Sonntag.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8f8ef5a7-3c8b-4711-8e88-b57504b6a030_w1200_r1.778_fpx51.33_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         },
         {
-          "title": "»Gen Z regelt« Proteste - Frankfurt: Randalierer schlagen Scheiben ein und plündern Läden",
-          "url": "https://www.spiegel.de/panorama/gen-z-regelt-proteste-frankfurt-randalierer-schlagen-scheiben-ein-und-pluendern-laeden-a-fe7e2673-21cc-48d2-b782-17bf33df9075#ref=rss",
-          "summary": "Die einen warfen Molotowcocktails, andere stahlen Turnschuhe – oder attackierten ein Waffenfachgeschäft: In Frankfurt am Main haben sich am Rand der Schülerproteste Szenen wie in Frankreich abgespielt. Nun ist die Einkaufsstraße Zeil gesperrt.",
+          "title": "Die Linke in Berlin: Elif Eralp bekommt Applaus, Vanessa Emde demonstriert draußen",
+          "url": "https://www.spiegel.de/politik/deutschland/linke-in-berlin-elif-eralp-bekommt-applaus-bei-parteitag-vanessa-emde-demonstriert-draussen-a-1c4807ec-4e32-4a03-8b54-9c4138debf4e#ref=rss",
+          "summary": "Die Berliner Linke stimmt für Koalitionsverhandlungen. Die Partei stellt sich hinter Elif Eralp, vor der Tür demonstriert Parteifreundin Vanessa Emde gegen sie. Am meisten eint den Parteitag jedoch kein politisches Thema.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/af61bc95-535a-4b32-8f07-e82dbb2dab80_w1200_r1.778_fpx40_fpy49.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c46a68c7-7592-4c07-9c4c-41fe307f0e0f_w1200_r1.778_fpx32.13_fpy52.99.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html",
+          "summary": "Polens Präsident drängt sich mit Körpereinsatz ins Verfassungsgericht und drückt eine Richterin nach unten. Nun äußert sich Regierungschef Tusk zu dem Vorfall. Der Opposition wirft er einen Angriff auf Demokratie und Rechtsstaat vor.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4cbf5fa6-4a9f-4f77-ac34-9a92650a4bb4/AAABoLB37b8/AAABnSSvrFg/16x9-big/tusk-360.jpg?width=1280"
+        },
         {
           "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
           "url": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/6e5bb6aa-dfd3-4d91-bf28-e0a33d2da407/AAABoZS7Q4s/AAABnSSvrFg/16x9-big/gen-z-demo-100.jpg?width=1280"
-        },
-        {
-          "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-          "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-          "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1280"
         }
       ]
     },
@@ -130,9 +130,9 @@
           "image": null
         },
         {
-          "title": "USA: Republikanische Regierung Alaskas will Trump-Klage zu Senatswahl abweisen lassen",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-sullivan-trump-li.3568285",
-          "summary": "Kurz vor den US-Kongresswahlen ist ein Rechtsstreit um das wichtige Senatsrennen in Alaska noch ungeklärt. Die Regierung des Staates kritisiert die Trump-Regierung nun scharf.",
+          "title": "USA: Trump: Bolsonaro darf bleiben",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-bolsonaro-alaska-kongresswahlen-trump-li.3568285",
+          "summary": "Treffen will der US-Präsident den unterlegenen brasilianischen Präsidentschaftskandidaten nach dessen Flucht jedoch nicht. Kurz vor den US-Kongresswahlen ist ein Rechtsstreit um das Senatsrennen in Alaska noch ungeklärt.",
           "source": "SZ",
           "paywall": false,
           "image": null
