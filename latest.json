@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T23:00:07.262Z",
-  "timestamp": "1.11.2026, 00:00:07",
+  "generated": "2026-11-01T03:00:07.929Z",
+  "timestamp": "1.11.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -8,7 +8,7 @@
         {
           "title": "Gen-Z-Demos: Ausschreitungen in Frankfurt: Jugendliche werfen Scheiben ein",
           "url": "https://www.faz.net/aktuell/politik/inland/liveticker-gen-z-proteste-ausschreitungen-in-frankfurt-jugendliche-werfen-scheiben-ein-faz-201635936.html",
-          "summary": "Frankfurter Zeil gesperrt – Geschehen verlagert sich +++ 56 Festnahmen in Berlin +++ Ausschreitungen auf Kölner Domplatte +++ Waffengeschäft wird Ziel von Plünderung +++ alle Entwicklungen im Liveblog",
+          "summary": "Ministerpräsident Rhein „schockiert“ von Gewalt +++ 56 Festnahmen in Berlin +++ Ausschreitungen auf Kölner Domplatte +++ Waffengeschäft wird Ziel von Plünderung +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/d0d78621b2c1/w6714h3508x0y992o/75d37d9e-df1d-45c5-89f4-cd738d696f6a-_1VL6759.jpg/ein-jugendlicher-schlaegt-mit.webp"
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-          "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
+          "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+          "url": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+          "summary": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/351fb06b-846d-4d72-9e5a-276ea9f46658/AAABoZN6Pzg/AAABnSSvrFg/16x9-big/jugendproteste-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9c1a0a5f-3325-4594-b57a-9d01958b7978/AAABoYunSGo/AAABnSSvrFg/16x9-big/binance-108.jpg?width=1280"
         },
         {
-          "title": "Erneut Proteste und Zusammenstöße in Frankreich",
-          "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
-          "summary": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
+          "title": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+          "summary": "Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein \"Gen Z\"-Sprecher. Von Gewalt hatte sich die Initiative stets distanziert. Ihr Fazit der Jugendproteste fällt positiv aus. November will sie erneut demonstrieren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fcbe1d73-006b-4606-a07a-409c491f52ef/AAABoZM40mI/AAABnSSvrFg/16x9-big/paris-1032.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6e5bb6aa-dfd3-4d91-bf28-e0a33d2da407/AAABoZS7Q4s/AAABnSSvrFg/16x9-big/gen-z-demo-100.jpg?width=1280"
         },
         {
-          "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
-          "summary": "In Texas könnte bei den Zwischenwahlen am Dienstag ein Demokrat das Rennen um den Sitz im US-Senat für sich entscheiden. Dabei gewinnen in dem Bundesstaat seit Jahrzehnten verlässlich die Republikaner. Welche Themen beschäftigen die Wähler?",
+          "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+          "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+          "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e9f16895-9ebb-4142-af64-dd559d5ebdcb/AAABoYvDJ2U/AAABnSSvrFg/16x9-big/anhaenger-trump-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/17d67126-2747-4a82-b1c3-15cd570eaa3f/AAABoZR_zgc/AAABnSSvrFg/16x9-big/frankfurt-ausschreitungen-102.jpg?width=1280"
         }
       ]
     },
@@ -122,17 +122,17 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Republikanische Regierung Alaskas will Trump-Klage zu Senatswahl abweisen lassen",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-sullivan-trump-li.3568285",
-          "summary": "Kurz vor den US-Kongresswahlen ist ein Rechtsstreit um das wichtige Senatsrennen in Alaska noch ungeklärt. Die Regierung des Staates kritisiert die Trump-Regierung nun scharf.",
+          "title": "Deutschland: Krawalle in Frankfurt überschatten Gen-Z-Proteste",
+          "url": "https://www.sueddeutsche.de/politik/gen-z-regelt-demo-proteste-gewalt-polizei-li.3572191",
+          "summary": "Nach zunächst friedlichen Protesten junger Menschen schlägt die Stimmung in manchen Städten am Abend um. In Frankfurt und Köln eskaliert die Lage. „Gen-Z-regelt“-Organisatoren distanzieren sich von der Gewalt.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Deutschland: Jugendproteste nicht überall friedlich: viel Pyrotechnik, Wasserwerfer im Einsatz",
-          "url": "https://www.sueddeutsche.de/politik/gen-z-regelt-demo-proteste-gewalt-polizei-li.3572191",
-          "summary": "Zehntausende junge Menschen gehen auf die Straße. Die befürchteten großen Ausschreitungen bleiben bislang aus, aber in mehreren Städten zündeln Demonstranten mit Pyrotechnik. Manche attackieren auch Einsatzkräfte.",
+          "title": "USA: Republikanische Regierung Alaskas will Trump-Klage zu Senatswahl abweisen lassen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-sullivan-trump-li.3568285",
+          "summary": "Kurz vor den US-Kongresswahlen ist ein Rechtsstreit um das wichtige Senatsrennen in Alaska noch ungeklärt. Die Regierung des Staates kritisiert die Trump-Regierung nun scharf.",
           "source": "SZ",
           "paywall": false,
           "image": null
