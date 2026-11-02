@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-01T23:00:07.929Z",
-  "timestamp": "2.11.2026, 00:00:07",
+  "generated": "2026-11-02T03:00:07.998Z",
+  "timestamp": "2.11.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html",
+          "summary": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und Russland Cyberattacken auf ihre Warn-Apps.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/269540d6-d27d-44e3-ae7f-22656aa2bca3/AAABoZnD__4/AAABnSSvrFg/16x9-big/region-cherson-100.jpg?width=1280"
+        },
+        {
+          "title": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html",
+          "summary": "Seit 100 Tagen ist der neue ukrainische Armeechef Drapatyj im Amt. Er verändert Führungsstrukturen und setzt auf mehr Eigenverantwortung an der Front. Auch kremlkritische russische Analysten bemerken eine Veränderung. Von Florian Kellermann.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2b2a67ce-68fa-404f-ad0e-2d7252afc4d1/AAABoZmFLdo/AAABnSSvrFg/16x9-big/mychajlo-drapaty-100.jpg?width=1280"
+        },
+        {
           "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
           "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
           "summary": "Sie sieht sich als \"Präsidentin des Friedens\": Bulgariens Amtsinhaberin Jotowa liegt laut Prognosen bei der Stichwahl vorn. Die russlandfreundliche Politikerin setzte sich gegen Herausforderer Gjurow durch.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/34fd81e3-ab88-4dbf-878b-3d7c22ad7dec/AAABoZjUoew/AAABnSSvrFg/16x9-big/ilijana-jotowa-102.jpg?width=1280"
-        },
-        {
-          "title": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html",
-          "summary": "Nach Informationen der ARD hat es möglicherweise einen Hackerangriff auf Bundestagsabgeordnete und Mitglieder der Bundesregierung gegeben. Im Bericht aus Berlin bestätigte Digitalminister Wildberger den Einsatz von Spyware. Details nannte er nicht.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/7fa08d93-7f5e-4f99-a804-37e493f66e9a/AAABmVZtSjc/AAABnSSvrFg/16x9-big/reichstagsgebaeude-168.jpg?width=1280"
-        },
-        {
-          "title": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
-          "url": "https://www.tagesschau.de/ausland/nasa-mars-108.html",
-          "summary": "Vier Menschen haben in den USA gemeinsam ein Jahr auf 160 Quadratmetern verbracht - für die Wissenschaft. Nun ist das NASA-Experiment vorbei. Ziel der langen Zeit in Isolation war die Simulation des Lebens auf dem Mars.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/d9677e32-bbb9-4a47-a7ca-aa470c345134/AAABoZeRL8g/AAABnSSvrFg/16x9-big/nasa-210.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Lumina: Simulation bildet die ersten zwei Milliarden Jahre des Universums ab",
+          "url": "https://www.telepolis.de/article/Lumina-Simulation-bildet-die-ersten-zwei-Milliarden-Jahre-des-Universums-ab-11500451.html",
+          "summary": "Forscher haben eine der größten und detailliertesten Simulationen des frühen Universums vorgelegt. Sie soll helfen, die Daten der Weltraumteleskope einzuordnen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/0/7/8/shutterstock_2182004751-4368f57dd6dcc27a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Niedrige Gasspeicher: Warum Importe jetzt teuer werden",
           "url": "https://www.telepolis.de/article/Niedrige-Gasspeicher-Warum-Importe-jetzt-teuer-werden-11507308.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/8/2/7/Raffinerie-Subvention-352fe9f13d7b30cc.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Cancel Culture in Deutschland: Kein Anstieg, aber Wirkung",
-          "url": "https://www.telepolis.de/article/Cancel-Culture-in-Deutschland-Kein-Anstieg-aber-Wirkung-11504473.html",
-          "summary": "Eine Studie findet keine Zunahme der Fälle. Doch viele erfasste Cancel-Versuche haben Erfolg. Was folgt daraus? Eine kritische Analyse.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/1/1/2/2/radiergummi-e3727205d47ab4ca.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Formel 1: Kimi Antonelli ist Weltmeister – der jüngste der Geschichte",
+          "url": "https://www.sueddeutsche.de/sport/kimi-antonelli-weltmeister-mercedes-formel-1-mexiko-li.3572572",
+          "summary": "Beim Großen Preis von Mexiko reicht dem 20-Jährigen Platz drei hinter Max Verstappen und Lewis Hamilton, um in seinem zweiten Formel-1-Jahr zu triumphieren. Damit löst er Sebastian Vettel als jüngster Champion ab.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Midterms in den USA: Können die Demokraten wirklich gewinnen?",
           "url": "https://www.sueddeutsche.de/politik/midterms-2026-usa-prognose-umfragen-donald-trump-demokraten-republikaner-li.3566021",
@@ -133,14 +141,6 @@
           "title": "USA: Gericht weist Trump-Klage zu Wahl in Alaska ab",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-kongresswahlen-trump-klage-li.3568285",
           "summary": "Der Präsident wollte in die Auszählung der Stimmen in Alaska zu den Midterms eingreifen. Der ganze Fall dreht sich um eine Namensdopplung.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Proteste der Generation Z: „Gewalt war und ist niemals Teil unserer Bewegung“",
-          "url": "https://www.sueddeutsche.de/politik/gen-z-regelt-proteste-frankfurt-koeln-gewalt-gen-z-li.3572382",
-          "summary": "Zehntausende junge Menschen demonstrieren friedlich in deutschen Städten – bis sich an die Proteste in manchen Metropolen Krawalle anschließen. Innenminister Dobrindt spricht von Landfriedensbruch und kündigt harte Strafen an.",
           "source": "SZ",
           "paywall": false,
           "image": null
