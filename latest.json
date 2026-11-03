@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-02T23:00:08.928Z",
-  "timestamp": "3.11.2026, 00:00:08",
+  "generated": "2026-11-03T03:00:08.045Z",
+  "timestamp": "3.11.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/fd2826e8-8ea3-4cc6-8951-eb88db051e5d_w1200_r1.778_fpx75_fpy31.jpg"
         },
         {
-          "title": "USA drängen auf Gaslieferungen von Russland an Europa",
-          "url": "https://www.spiegel.de/wirtschaft/usa-draengen-auf-gaslieferungen-von-russland-an-europa-a-5cdca753-2a11-4099-9dec-9e854489a772#ref=rss",
-          "summary": "Die USA suchen nach Lösungen, um die hohen Energiepreise infolge des Angriffs auf Iran in den Griff zu bekommen. Die Idee: Europa soll Erdgas aus Russland kaufen.",
+          "title": "Ukraine warnt vor russischem Großangriff während der US-Midterms",
+          "url": "https://www.spiegel.de/ausland/ukraine-warnt-vor-russischem-grossangriff-waehrend-der-us-midterms-a-f07601cf-576f-4fea-942b-d6ca759b88c5#ref=rss",
+          "summary": "Wenn die Welt auf die Zwischenwahlen in den USA blickt, könnte Russland neue Attacken auf Energieanlagen starten, warnt der ukrainische Geheimdienst. In Lettland löste derweil ein unbekanntes Flugobjekt Alarm aus. Der Überblick.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/efe1a782-4b4d-4099-9bd8-831da1f31469_w1200_r1.778_fpx30_fpy54.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/15ce9461-9eca-4b01-b043-0991242e33c1_w1200_r1.778_fpx71.82_fpy49.98.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html",
+          "summary": "Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab. Zuvor wurden der Gerichtspräsident und sein Stellvertreter suspendiert. Ein Kompromiss ist nicht in Sicht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/68b15cfe-a327-413c-8de4-27b126062e1a/AAABoZ8Sn_c/AAABnSSvrFg/16x9-big/polen-verfassungsgericht-130.jpg?width=1280"
+        },
+        {
+          "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+          "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html",
+          "summary": "Wegen der enormen Preissteigerungen durch Trumps Zölle und den Iran-Krieg könnten die Republikaner bei den Midterms abgestraft werden. Die Folge wäre ein politisches Patt. Droht den USA der Stillstand? Von Anne Schneider.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/67fc4bbe-88de-4695-8e20-dd8ac15ba289/AAABoZ3vJvs/AAABnSSvrFg/16x9-big/capitol-hill-106.jpg?width=1280"
+        },
+        {
           "title": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
           "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
           "summary": "Obwohl Alaska traditionell republikanisch wählt, liegt die Demokratin Peltola in Umfragen vorn. Der Ausgang im nördlichsten Bundesstaat könnte die Midterms entscheidend beeinflussen. Den Wahlkampf bestimmen auch hier die hohen Preise. Von Torben Börgers.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/60652a6b-5813-4c26-a18f-9004fa785aca/AAABoZsPK20/AAABnSSvrFg/16x9-big/kostuem-wahlkampf-flyer-100.jpg?width=1280"
-        },
-        {
-          "title": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
-          "url": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
-          "summary": "000 Kilometer in 28 Jahren - hinter dem englischen Abenteurer Karl Bushby liegt eine gewaltige Wanderung. Nun ist er in seine Heimatstadt Hull zurückgekehrt - und wurde von seiner gerührten Mutter empfangen. Von Lisa-Maria Röhling.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/688ee8d6-3e55-4916-8f91-46b5893a539a/AAABoZ2xu6Q/AAABnSSvrFg/16x9-big/bushby-102.jpg?width=1280"
-        },
-        {
-          "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
-          "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-          "summary": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/86f7cb7c-53f7-4f94-b11f-dc56bbe00cb7/AAABoZ2pwgw/AAABnSSvrFg/16x9-big/truemmer-schule-saporischschja-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Hegseth unter Druck: Demokraten planen Untersuchungen nach den Zwischenwahlen",
+          "url": "https://www.telepolis.de/article/Hegseth-unter-Druck-Demokraten-planen-Untersuchungen-nach-den-Zwischenwahlen-11500353.html",
+          "summary": "US-Kriegsminister Pete Hegseth könnte nach den Midterms ins Visier des Kongresses geraten. Berichten zufolge liebäugelt er mit einem Senatssitz in Tennessee.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/9/0/2/9/shutterstock_2586168539-03eac62d673d9c3a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Skandal oder Notwendigkeit? Europa kauft weiter russisches Ammoniak",
           "url": "https://www.telepolis.de/article/Skandal-oder-Notwendigkeit-Europa-kauft-weiter-russisches-Ammoniak-11508637.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/2/9/1/5/shutterstock_2719169019-8cb6f73fcc1fdda5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Weimers Medienpolitik: Große Kampfansage, offene Strategie",
-          "url": "https://www.telepolis.de/article/Weimers-Medienpolitik-Grosse-Kampfansage-offene-Strategie-11508088.html",
-          "summary": "Google und Co. regulieren, die ARD verkleinern, europäische Plattformen aufbauen: Weimer will die Medienordnung verändern. Doch wie greift das ineinander?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/2/9/5/5/master_weimer-1eed2bdbb8cdbb53.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "USA: Wahlstreit in Kalifornien: Trump scheitert vor Supreme Court",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-wahl-kalifornien-trump-klage-abgeschmettert-li.3568285",
+          "summary": "Trump wirft Kalifornien vor, vorsätzlich Stimmzettel an Ausländer ausgegeben zu haben – und zieht bis vors Oberste Gericht. Bereits nach wenigen Stunden ist der Antrag der Regierung abgeschmettert.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Nach langem Zögern: Merz legt sich fest: Staatsoberhaupt soll eine Frau werden",
           "url": "https://www.sueddeutsche.de/politik/bundespraesidentin-friedrich-merz-cdu-li.3573323",
@@ -132,15 +140,7 @@
         {
           "title": "FC Bayern vor Atlético Madrid: Kanes Vertragsverlängerung „hoffentlich in den nächsten Tagen“",
           "url": "https://www.sueddeutsche.de/sport/champions-league-fc-bayern-atletico-madrid-harry-kane-serge-gnabry-michael-olise-manuel-neuer-li.3573334",
-          "summary": "Vor dem Champions-League-Spiel spricht Harry Kane über die Vertragsverhandlungen mit dem FC Bayern. Das größte Thema sind aber die vielen Verletzten – und ob Michael Olise spielen kann.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Bundespräsidentenwahl: Vier Frauen für ein Bellevue",
-          "url": "https://www.sueddeutsche.de/politik/bundespraesident-frau-merz-kloeckner-aigner-prien-claus-li.3570324",
-          "summary": "Vier Kandidatinnen sind als nächstes Staatsoberhaupt im Gespräch. Ist eine von ihnen vielleicht sogar die Favoritin von CDU-Chef Merz? Immerhin hat sich dieser nun für eine Frau in dem Amt ausgesprochen.",
+          "summary": "Vor dem Champions-League-Spiel spricht Harry Kane über die Vertragsverhandlungen mit dem FC Bayern. Das größere Thema ist aber die Verletzungsmisere – und ob Michael Olise spielen kann.",
           "source": "SZ",
           "paywall": false,
           "image": null
