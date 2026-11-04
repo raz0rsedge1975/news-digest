@@ -1,17 +1,25 @@
 {
-  "generated": "2026-11-04T15:00:08.455Z",
-  "timestamp": "4.11.2026, 16:00:08",
+  "generated": "2026-11-04T19:00:10.324Z",
+  "timestamp": "4.11.2026, 20:00:10",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Sieg der Demokraten: Ein Triumph der Diversität",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/us-midterms-2026-so-gross-ist-die-vielfalt-bei-den-siegern-der-demokraten-201650159.html",
-          "summary": "Die Sieger der Demokraten bei den Midterms bilden das politische Spektrum der Partei ab. Das ist groß – doch diese Vielfalt des „Big Tent“ ist weder neu, noch muss sie ein Nachteil sein.",
+          "title": "Nach den Midterms: Trumps Weltsicht wird sich nicht ändern",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-den-us-midterms-2026-die-weltsicht-von-donald-trump-wird-sich-nicht-aendern-201651234.html",
+          "summary": "Die Demokraten werden im Kongress keinen grundlegenden außenpolitischen Kurswechsel erzwingen können. Das gilt gerade auch für die Ukraine.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/53afd4ab6248/w2048h1070x0y220o/202611/b6c21512-e6ab-44fd-a5ae-fa203d3a341a/james-talarico-und-gina.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3ca299908468/w3320h1734x305y321o/202611/aad8295e-4610-48e4-a855-e8b0c28a86da/ein-strassenmaler-in-mumbai.webp"
+        },
+        {
+          "title": "USA unter Trump: Vance: „Jeder weiß, warum wir verloren haben“",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-vizepraesident-vance-macht-irankrieg-fuer-niederlage-der-republikaner-verantwortlich-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/1edc66fac164/w4445h2322x0y320o/202611/1f76d733-e28d-4eaa-9607-08338b1482dd/us-vizepraesident-j-d-vance.webp"
         },
         {
           "title": "Trumps Debakel: Der Tag, an dem der Führerkult endete",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/2066206528bd/w1712h894x63y400o/202611/37fb1ea1-b9a1-4b8c-8179-0368ba673e40/an-der-stimmung-vorbei-am.webp"
-        },
-        {
-          "title": "USA unter Trump: Klingbeil gratuliert Demokraten: „Das stiftet Zuversicht“",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-klingbeil-gratuliert-demokraten-das-stiftet-zuversicht-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4923bcfb2a51/w2519h1316x309y446o/202601/43601.0.1658227165/washington-im-januar-klingbeil.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Midterms 2026 in den USA: Von Pete Hegseth gefeuert – Demokratin Nancy Lacore zieht für Demokraten ins Repräsentantenhaus ein",
+          "title": "Midterms 2026 in den USA - Donald Trump: Der Irankrieg war es wert",
           "url": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-abdul-el-sayed-gewinnt-michigan-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
-          "summary": "Die Demokraten holten bei den Midterms nicht nur beide Kammern des Kongresses, auch bei den Gouverneurswahlen marschierten sie durch. Russland und Iran reagieren. Eine Widersacherin des Verteidigungsministers triumphiert. Die Liveanalyse.",
+          "summary": "Donald Trump schwärmt bei seinem ersten Auftritt nach der Wahlpleite vom »schönsten Ballsaal der Welt« – und rechtfertigt den Irankrieg. Vizepräsident Vance geht auf Distanz zu seinem Chef. Die Liveanalyse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/359e3547-b17c-417d-8b26-e29026cc2004_w1200_r1.778_fpx58.65_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/7bd553b2-8488-493a-bf9d-9ff66ed36ee9_w1200_r1.778_fpx30_fpy54.99.jpg"
+        },
+        {
+          "title": "News des Tages: US-Demokraten, Trumps Niederlage, Janosch ist tot",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-us-demokraten-trumps-niederlage-janosch-ist-tot-a-79bd77e1-9eb1-488b-bb41-1bf39528fe31#ref=rss",
+          "summary": "Die US-Demokraten feiern ihren Sieg – und stehen vor einer harten Probe. Trump verliert die Wahl an der Tankstelle. Deutschland trauert um den Schöpfer der Tigerente. Das ist die Lage am Mittwochabend.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/172b8b44-021a-44cd-9010-aed93e46c551_w1200_r1.778_fpx64_fpy50.jpg"
         },
         {
           "title": "Janosch ist tot: Er ließ sich von nichts fesseln. Auch nicht von der Wirklichkeit",
-          "url": "https://www.spiegel.de/kultur/janosch-ist-tot-er-liess-sich-von-nichts-fesseln-auch-nicht-von-der-wirklichkeit-a-cd7a5982-a1d1-49a9-8013-50ec16266e47#ref=rss",
+          "url": "https://www.spiegel.de/kultur/literatur/janosch-ist-tot-er-liess-sich-von-nichts-fesseln-auch-nicht-von-der-wirklichkeit-a-cd7a5982-a1d1-49a9-8013-50ec16266e47#ref=rss",
           "summary": "Sein Humor war schwarz, nein: schwarz-gelb gestreift. Und seine Sprache war einfach. Die Gedanken dahinter aber waren komplex. Er hat nie versucht, kindgerecht zu sein. Gerade das hat Janosch zum Kinderliebling gemacht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f59bad5f-ddcf-4fa5-b04f-b6ea1d67fd9e_w1200_r1.778_fpx59.3_fpy44.98.jpg"
-        },
-        {
-          "title": "Berlin: Lars Klingbeil fordert Ausschluss antisemitischer Linken-Politiker",
-          "url": "https://www.spiegel.de/politik/deutschland/berlin-lars-klingbeil-fordert-ausschluss-antisemitischer-linken-politiker-a-68e910cb-b647-479f-906f-3dd3f6becacc#ref=rss",
-          "summary": "Wegen antisemitischer Positionen und Clankontakten in Teilen der eigenen Partei steht die Berliner Linke massiv in der Kritik. Nun meldet sich auch SPD-Chef Lars Klingbeil zu Wort.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1d212be8-e129-4f62-a4fd-a41d7b84d745_w1200_r1.778_fpx57.98_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f59bad5f-ddcf-4fa5-b04f-b6ea1d67fd9e_w1200_r1.778_fpx51_fpy44.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html",
-          "summary": "In Deutschland und Frankreich sind neue Fälle von durch Hacker manipulierten Kühlsystemen bekannt geworden. In Bayern traf es eine Metzgerei. In Frankreich einen besonders sensiblen Bereich: den Blutspendedienst.",
+          "title": "Marktbericht: DAX-Anleger in Kauflaune",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html",
+          "summary": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2f3feb18-d476-442c-b74c-a730e790cef9/AAABm_B9Nrc/AAABnSSvrFg/16x9-big/tastatur-laptop-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3270f35e-94f0-4240-aca1-d48eeae66ca3/AAABmjPoS5c/AAABnSSvrFg/16x9-big/dax-185.jpg?width=1280"
         },
         {
-          "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html",
-          "summary": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde.",
+          "title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+          "summary": "US-Vizepräsident Vance führt die Niederlagen der Republikaner auf den Iran-Krieg zurück. Laut Medienberichten will der derzeitige Sprecher des Repräsentantenhauses, Johnson, nicht erneut als Fraktionschef der Republikaner kandidieren.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c8b6006a-2850-4e36-9caf-f20ee945d5d4/AAABoabiLPc/AAABnSSvrFg/16x9-big/klaas-knot-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7383e65d-830d-44c4-914c-05a03a701938/AAABoaeCyWU/AAABnSSvrFg/16x9-big/jd-vance-134.jpg?width=1280"
         },
         {
-          "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
-          "url": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html",
-          "summary": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive.",
+          "title": "Kommentar zu den Midterms: Hoffentlich vermasseln sie es nicht",
+          "url": "https://www.tagesschau.de/kommentar/usa-midterms-120.html",
+          "summary": "Das Rezept der Republikaner, ganz auf US-Präsident Trump und viel Geld zu setzen, ist nicht aufgegangen. Den Demokraten gelang es, Zuversicht zu vermitteln, meint Samuel Jackisch. Diese Chance müssen sie jetzt aber auch nutzen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bfb067fd-4f50-4786-9bb3-536328b63559/AAABoaauQlo/AAABnSSvrFg/16x9-big/flagge-montenegro-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/12958bfa-d1fd-491a-810e-625fb80e6996/AAABoaddlxk/AAABnSSvrFg/16x9-big/anstecker-demokraten-100.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nach dem Tod von Jesús de Miguel: In Spanien erklingt ein Chor der Trauer",
-          "url": "https://www.sueddeutsche.de/sport/spanien-jesus-de-miguel-torwart-unfall-tot-folgen-trauer-li.3574068",
-          "summary": "Nach dem Tod von Jesús de Miguel bestimmt Fassungslosigkeit den spanischen Fußball. Muss nun der Torhüter, der den Zusammenprall mitverursacht hat, strafrechtlich verfolgt werden? Ehemalige Keeper nehmen ihn in Schutz.",
+          "title": "Midterms 2026: Trumps erster öffentlicher Auftritt nach Midterms-Niederlage: Lob für seinen Ballsaal",
+          "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-oeffentlicher-auftritt-ballsaal-vance-iran-krieg-li.3573278",
+          "summary": "Es werde der „schönste Ballsaal in der ganzen Welt“ sein, glaubt der US-Präsident. Sein Vize Vance sieht den Grund für die Niederlage eher im Iran-Krieg: „Jeder weiß, warum wir verloren haben.“",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "FC Bayern: Ein bisschen FC Hollywood ist zur Abwechslung doch ganz witzig",
-          "url": "https://www.sueddeutsche.de/sport/lennart-karl-jubel-fc-bayern-champions-league-li.3574125",
-          "summary": "Lennart Karl ist nicht der erste 18-jährige Fußballprofi, der mit seiner selbstbewussten Art für Schlagzeilen sorgt. Etwas mehr Gelassenheit täte dem FC Bayern gut.",
+          "title": "Newsblog zur Bundespolitik: Bundespräsidenten-Wahl: Erste CDU-Ministerpräsidenten sprechen sich für Aigner aus",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-bundespraesidentin-wahl-aigner-cdu-csu-merz-midterms-reaktionen-li.3568524",
+          "summary": "Voigt und Kretschmer unterstützen Aigner als Kandidatin der Union. Merz wird den CDU-Spitzengremien kommende Woche voraussichtlich einen Vorschlag vorlegen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Bundesverfassungsgericht: Darf die AfD einen Abgeordneten aus der Fraktion werfen?",
-          "url": "https://www.sueddeutsche.de/politik/afd-bundesverfassungsgericht-fraktion-schmidt-li.3573074",
-          "summary": "Bei den Karlsruher Richtern landet ein AfD-interner Streit um Jan Wenzel Schmidt. Ihm wird Vetternwirtschaft vorgeworfen – woraufhin er Parteikollegen mit Enthüllungen droht.",
+          "title": "Midterms in den USA: Ist in Berlin jetzt Optimismus erlaubt?",
+          "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-auswirkungen-deutschland-merz-bundesregierung-li.3574082",
+          "summary": "Bloß nicht zu viel erwarten – das war die Devise in der deutschen Außenpolitik vor den US-Zwischenwahlen. Das Ausmaß der Niederlage von Donald Trump ändert nun einiges. Auch für Kanzler Friedrich Merz.",
           "source": "SZ",
           "paywall": false,
           "image": null
