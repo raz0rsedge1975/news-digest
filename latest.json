@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-03T23:00:08.167Z",
-  "timestamp": "4.11.2026, 00:00:08",
+  "generated": "2026-11-04T03:00:08.616Z",
+  "timestamp": "4.11.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "USA unter Trump: Wann wissen wir, wie die Wahlen ausgegangen sind?",
+          "title": "USA unter Trump: Demokrat nimmt Republikanern Senatssitz in North Carolina ab",
           "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-wann-wissen-wir-wie-die-wahlen-ausgegangen-sind-faz-19444916.html",
           "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4876a8803707/w3980h2079x0y186o/202611/a28a3bc8-84fc-4b01-92be-3fdaee3a2be9/ein-wahllokal-in-atlanta-im-us.webp"
+          "image": "https://media0.faz.net/image/w1200h627/227b2b30b40a/w8005h4182x0y160o/202611/86aa5edf-7416-4dbc-970b-57333ba5e29a/anhaenger-der-demokraten.webp"
         },
         {
           "title": "Nach den Midterms: Manche Präsidenten suchten den Ausgleich",
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Midterms 2026 in den USA: Donald Trumps Justizministerium schickt Wahlbeobachter vor allem in demokratisch dominierte Wahlbezirke",
+          "title": "Midterms 2026 in den USA: Frühe Siege lassen Demokraten hoffen",
           "url": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-kippen-die-machtverhaeltnisse-so-laufen-die-zwischenwahlen-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
-          "summary": "Um die Sitze in den beiden Kongresskammern wird hart gekämpft – teils mit fragwürdigen Mitteln: Desinformation und Schikanen durch das Justizministerium. Verfolgen Sie alle Entwicklungen in der Liveanalyse.",
+          "summary": "Die Midterms sind in vollem Gange, die Demokraten legen einen starken Start hin. Ein wichtiger Sieg gelingt ihnen in North Carolina. Und: Mit Keisha Lance Bottoms wird erstmals eine Afroamerikanerin US-Gouverneurin. Alle Entwicklungen in der Liveanalyse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/23489c9c-8358-474b-a240-bee36940db88_w1200_r1.778_fpx58.54_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1fc44069-3953-490e-a1a0-052094bf820d_w1200_r1.778_fpx57.33_fpy49.99.jpg"
         },
         {
           "title": "AfD-Leak: Das sind bislang die wichtigsten fünf Erkenntnisse",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Liveblog zu den Midterms: ++ Demokrat erobert Senatssitz in North Carolina ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+          "summary": "Im Bundesstaat North Carolina haben die Demokraten bei der Wahl zum US-Senat Hochrechnungen zufolge einen Sitz hinzugewonnen. Auch für das Repräsentantenhaus gibt es erste Ergebnisse. Die Entwicklungen im Liveblog.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/da839af2-a46a-4c50-bcf0-a150ee22010c/AAABoaQvv7o/AAABnSSvrFg/16x9-big/roy-cooper-100.jpg?width=1280"
+        },
+        {
           "title": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
           "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
           "summary": "Zwei schwere Zugunglücke haben Spanien in diesem Jahr erschüttert. Nun zieht Verkehrsminister Puente die politischen Konsequenzen. Außerdem beschloss die Regierung neue Maßnahmen, um die Sicherheit zu verbessern.",
@@ -78,20 +86,20 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/04502483-7cf3-484c-a039-6da250c2b95b/AAABoaL4qxo/AAABnSSvrFg/16x9-big/prag-276.jpg?width=1280"
-        },
-        {
-          "title": "Renten könnten 2027 um 4,1 Prozent steigen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
-          "summary": "Rentnerinnen und Rentner können sich auf spürbar steigende Bezüge einstellen. Der Rentenversicherungsbericht der Bundesregierung geht im kommenden Jahr von einer Steigerung von mehr als vier Prozent aus. Von K. Girschick.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/17fdc558-340f-4273-b84d-ff571e7bb5d1/AAABndmPgZ0/AAABnSSvrFg/16x9-big/rente-416.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Michigan: US-Wahlkampf zwischen Parteitreue und Lobbyinteressen",
+          "url": "https://www.telepolis.de/article/Michigan-US-Wahlkampf-zwischen-Parteitreue-und-Lobbyinteressen-11509773.html",
+          "summary": "Kurz vor der Wahl wechselt eine Demokratin das Lager, und die Parteispitze tobt. Doch der wahre Skandal liegt woanders. Ein Gastbeitrag.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/3/8/1/4/shutterstock_1381842443-3707550bdcd0896f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Nicht nur Front halten: Nato plant Schläge ins russische Hinterland",
           "url": "https://www.telepolis.de/article/Nicht-nur-Front-halten-Nato-plant-Schlaege-ins-russische-Hinterland-11510667.html",
@@ -107,20 +115,20 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/4/0/9/4/Screenshot_2026-11-03_171536-3e7d7374daa5555f.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "SWR-Chef Kai Gniffke bekommt mehr als sieben mittlere Jahresgehälter",
-          "url": "https://www.telepolis.de/article/SWR-Chef-Kai-Gniffke-bekommt-mehr-als-sieben-mittlere-Jahresgehaelter-11509755.html",
-          "summary": "Die ARD legt ihre Gehälter offen. Gniffke führt die Liste an – mit dem 7,3-Fachen des Medianverdienstes. Beim ZDF liegt der Intendant noch darüber.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/3/8/0/5/3_SWR_Intendant_Kai_Gniffke_2023-7c343043661a5051.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Midterms 2026: Demokrat nimmt Republikanern Senatssitz in North Carolina ab",
+          "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-ergebnisse-senat-demokraten-north-carolina-li.3573278",
+          "summary": "Mit dem ehemaligen Gouverneur Roy Cooper gewinnen die Demokraten einen weiteren Sitz im Senat. In Georgia kann der demokratische Amtsinhaber Jon Ossoff seinen Sitz verteidigen. In Florida läuft ein Kopf-an-Kopf-Rennen.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Bayern in der Einzelkritik: Upamecano, der Rabaukenbezwinger",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-atletico-einzelkritik-champions-league-li.3573904",
@@ -133,14 +141,6 @@
           "title": "FC Bayern siegt bei Atlético: Gen Z regelt",
           "url": "https://www.sueddeutsche.de/sport/fc-bayern-atletico-champions-league-karl-li.3573915",
           "summary": "Der zuletzt umstrittene Lennart Karl führt den FC Bayern mit seinem Führungstreffer zu einem 2:0 bei Atlético Madrid. Gerade in Halbzeit zwei zeigen die ersatzgeschwächten Münchner eine bemerkenswert souveräne Leistung.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Midterms 2026: Kleinere Pannen begleiten die Midterms",
-          "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-news-liveblog-umfragen-republikaner-demokraten-panne-new-york-florida-kansas-li.3573278",
-          "summary": "In Kansas führt ein Schreibfehler dazu, dass Stimmzettel kurzzeitig ausgehen. Im US-Bundesstaat New York fallen Maschinen zur Stimmzählung aus – und Florida muss kurzfristig 23 Wahllokale verlegen.",
           "source": "SZ",
           "paywall": false,
           "image": null
