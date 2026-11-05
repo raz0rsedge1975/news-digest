@@ -1,39 +1,47 @@
 {
-  "generated": "2026-11-05T19:00:21.577Z",
-  "timestamp": "5.11.2026, 20:00:21",
+  "generated": "2026-11-05T23:00:17.550Z",
+  "timestamp": "6.11.2026, 00:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Gewalt unter Jugendlichen: Unter Teenagern geht die Angst um",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/tuersteher-fuer-teenager-partys-wie-sicher-sind-jugendliche-noch-201644968.html",
-          "summary": "Private Feiern werden gestürmt und Wertsachen in der Öffentlichkeit von Gleichaltrigen geraubt. Warum braucht man heute Türsteher, die Geburtstagspartys von Sechzehnjährigen schützen?",
+          "title": "Hohe Ausgaben: Bundesagentur für Arbeit braucht 5 Milliarden Euro Notkredit",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/milliardenluecke-bundesagentur-fuer-arbeit-braucht-5-milliarden-euro-notkredit-201654491.html",
+          "summary": "Die Ausgaben für das Arbeitslosengeld steigen. Deshalb erhält die Bundesagentur nun ein zusätzliches Darlehen über fünf Milliarden Euro. Auch Jobcenter und Rentenkasse brauchen kurzfristig mehr Geld vom Bund.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/fc33abbc9577/w6240h3260x0y450o/202611/3299da82-ed95-4d8a-a101-5c3b07611710/bitteres-ende-der-party.webp"
+          "image": "https://media0.faz.net/image/w1200h627/dff05b28ff73/w6144h3210x0y123o/202609/43601.0.2612484282/braucht-mehr-geld-die.webp"
         },
         {
-          "title": "Jugendpsychiaterin: „Wir haben zunehmend soziale Ängste bei Kindern und Jugendlichen“",
-          "url": "https://www.faz.net/aktuell/politik/inland/warum-soziale-aengste-bei-kindern-zunehmen-eine-jugendpsychiaterin-im-gespraech-201648879.html",
-          "summary": "Unterstützer der Gen-Z-Proteste fordern bessere psychologische Betreuung. Eine Jugendpsychiaterin erklärt, wieso strukturelle Probleme nicht durch private Psychotherapie zu lösen sind.",
+          "title": "Neuer Ärger in der Koalition: Klingbeil will „spürbaren“ Spritpreisdeckel",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spritpreisdeckel-klingbeil-ist-unzufrieden-mit-reiches-entwurf-201655524.html",
+          "summary": "Wie stark darf oder muss der Staat in die Preisbildung an den Tankstellen eingreifen? Diese zentrale ordnungspolitische Frage spaltet die Koalition.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/53e48b47849a/w6144h3210x0y591o/v/2026/11/05/lY3YWWdP/junge-demonstranten-der-gen-z.webp"
+          "image": "https://media0.faz.net/image/w1200h627/80153b05cbb0/w6144h3210x0y354o/202611/6f5ae81d-ca6b-4f3d-8c62-ba252c8d799a/teures-tanken-das.webp"
         },
         {
-          "title": "Nach der Wahl: Der innerparteiliche Krieg hat begonnen",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-und-republikaner-im-machtkampf-der-innerparteiliche-krieg-hat-begonnen-201654756.html",
-          "summary": "In der republikanischen Partei wird nach einem Schuldigen für das Wahldebakel gesucht. Ins Visier gerät Verteidigungsminister Hegseth.",
+          "title": "USA unter Trump: Kaliforniens Gouverneur wandelt 548 Todesurteile in Haftstrafen um",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-gavin-newsom-wandelt-548-todesurteile-in-haftstrafen-um-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/351132af855d/w6037h3154x0y403o/202605/43601.0.2147925681/donald-trump-j-d-vance-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/476835c33a95/w6500h3396x0y469o/202611/945bb51c-903d-41a3-a1ae-8a66c784797b/kaliforniens-gouverneur-gavin.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Midterms in den USA: Die trügerische Freude über Trumps Machtverlust",
+          "url": "https://www.spiegel.de/politik/midterms-in-den-usa-die-truegerische-freude-ueber-trumps-machtverlust-a-a699ab52-1203-4447-967e-f44d6941354a#ref=rss",
+          "summary": "Donald Trump verliert die US-Zwischenwahlen. Auch in Ungarn, Brasilien und Serbien scheiterten Rechtspopulisten. Ist das der Anfang vom Ende ihrer weltweiten Erfolgswelle? Hören Sie eine neue Folge von »Mad Kings«.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/a8ac6101-4201-4199-9f5d-1669b803f633_w1200_r1.778_fpx52_fpy53.jpg"
+        },
         {
           "title": "Friedrich Merz entgleitet die Suche nach einer Bundespräsidentin",
           "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-entgleitet-die-suche-nach-einer-bundespraesidentin-a-58e704c3-441c-4be4-bf99-08777fe8789d#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/aa8c90ce-6aeb-41e9-b8b0-1358a34b1918_w1200_r1.778_fpx34_fpy53.jpg"
         },
         {
-          "title": "Texas: Wie Gina Hinojosa die Republikaner-Hochburg umkrempeln will",
-          "url": "https://www.spiegel.de/ausland/texas-wie-gina-hinojosa-die-republikaner-hochburg-umkrempeln-will-a-22e5ed20-feca-4bf1-a2d1-6dd0e81462aa#ref=rss",
-          "summary": "Gina Hinojosa ist für Texas noch wichtiger als der künftige Senator James Talarico: Die neue Gouverneurin will das Geflecht zwischen Republikanern und Oligarchen zerschlagen. Vor allem für Elon Musk könnte sich einiges ändern.",
+          "title": "Kalifornien: Gouverneur Gavin Newsom wandelt alle 548 Todesurteile im Staat in Haftstrafen um",
+          "url": "https://www.spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c#ref=rss",
+          "summary": "In dem Bundesstaat wartet nun niemand mehr auf seine Hinrichtung: Gouverneur Gavin Newsom kippt alle 548 bestehenden Todesurteile in Kalifornien. In einem Brief an die Bürger findet er zudem deutliche Worte über die Todesstrafe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/655ee814-8a2a-47cf-83c2-d1e60ea3d402_w1200_r1.778_fpx47_fpy49.jpg"
-        },
-        {
-          "title": "NSDAP-Kartei: So forschen Sie nach der Recherche im SPIEGEL-Archiv weiter",
-          "url": "https://www.spiegel.de/backstage/nsdap-kartei-so-forschen-sie-nach-der-recherche-im-spiegel-archiv-weiter-a-a02eadf7-730b-4dbe-990c-2fdc81daf45f#ref=rss",
-          "summary": "Sie haben die NSDAP-Kartei des SPIEGEL genutzt und fragen sich: Wie forsche ich weiter? Ab 19.30 Uhr beantworten Historiker Johannes Spohr und SPIEGEL-Redakteur Frederik Seeler Ihre Fragen im Livestream.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/122829b4-da66-4bdd-81c1-591e133a1cc8_w1200_r1.778_fpx50_fpy49.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/82b21c98-6213-49a7-8c51-18883d66add9_w1200_r1.778_fpx87_fpy14.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
+          "summary": "Im Oktober war ein Häftling in Essen während eines Arztbesuchs von Komplizen befreit worden und ist seitdem auf der Flucht. Nun räumte der NRW-Justizminister ein: Den Schlüssel für die Fußfessel gab es für 10 Euro im Internet zu kaufen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://www1.wdr.de/nrw/essen/jva-essen-durchsuchung-100~_v-gseagaleriexl.png"
+        },
+        {
+          "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
+          "summary": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/1a3ebc67-f846-4558-b6e1-dbc96f6cdfa1/AAABoaaLDok/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-102.jpg?width=1280"
+        },
+        {
           "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
           "url": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
-          "summary": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, vereinzelt kam es zu Ausschreitungen.",
+          "summary": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/91b8d417-f963-4987-bdfb-b61f4d228ca8/AAABoazzJoA/AAABnSSvrFg/16x9-big/demonstranten-paris-104.jpg?width=1280"
-        },
-        {
-          "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
-          "url": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html",
-          "summary": "Inmitten einer schweren Bankenkrise seines Landes hat Paraguays Präsident Peña seinen Rücktritt eingereicht. Ihm wurden geschäftliche Beziehungen zur Muttergesellschaft der Pleitebank vorgeworfen. Von A. Herrberg.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/fe153856-aef9-4c0a-a0ac-0db2aa4e955e/AAABoa0KZI8/AAABnSSvrFg/16x9-big/pena-102.jpg?width=1280"
-        },
-        {
-          "title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
-          "url": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html",
-          "summary": "Die Vorwürfe gegen den österreichischen Immobilieninvestor René Benko sind umfangreich: Nach einer Verurteilung wegen Gläubigerschädigung im September folgt nun eine weitere wegen Betrugs. Sie ist noch nicht rechtskräftig.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/22c9fede-c3b6-42bf-9d65-2296423a5980/AAABoazFYc4/AAABnSSvrFg/16x9-big/rene-benko-126.jpg?width=1280"
         }
       ]
     },
@@ -114,13 +114,21 @@
           "summary": "In China ist die KI-Blase geplatzt. An der Wall Street haben KI-Aktien nun rund fünf Billionen Dollar an Wert verloren. Hauptproblem sind nicht die Bewertungen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/5/4/7/1/shutterstock_2676216135-f697a5eaf4e727f6.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
     {
       "source": "SZ",
       "headlines": [
+        {
+          "title": "Midterms 2026: Kalifornischer Gouverneur Newsom wandelt 548 Todesurteile in Haftstrafen um",
+          "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-newsom-todesstrafe-alaska-li.3573278",
+          "summary": "Gavin Newsom bezeichnete die Todesstrafe als moralisch verwerflich. Obwohl in Kalifornien seit 20 Jahren niemand mehr hingerichtet wurde, macht der Bundesstaat etwa ein Viertel aller Todesurteile in den Vereinigten Staaten aus.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Justiz: Ex-Milliardär Benko wegen Betrugs verurteilt",
           "url": "https://www.sueddeutsche.de/wirtschaft/urteil-benko-prozess-innsbruck-betrug-investoren-li.3574688",
@@ -133,14 +141,6 @@
           "title": "Proteste in Frankreich: „Macron, du bist erledigt – die Jugend ist auf der Straße“",
           "url": "https://www.sueddeutsche.de/politik/proteste-frankreich-generalstreik-paris-gewerkschaften-li.3574706",
           "summary": "Frankreichs Gewerkschaften rufen zu einem nationalen Streik auf und es kommen Hunderttausende.  Ob Gymnasiasten, Studenten oder „Gelbwesten“ – alle fordern höhere Löhne und niedrigere Lebenskosten.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Commerzbank und Unicredit: Einmal noch „business as usual“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/commerzbank-quartalszahlen-bettina-orlopp-unicredit-uebernahme-li.3573086",
-          "summary": "Commerzbank-Chefin Bettina Orlopp präsentiert in dieser Woche die Quartalszahlen. Es könnte das letzte Mal gewesen sein.",
           "source": "SZ",
           "paywall": false,
           "image": null
