@@ -1,39 +1,47 @@
 {
-  "generated": "2026-11-05T07:01:01.793Z",
-  "timestamp": "5.11.2026, 08:01:01",
+  "generated": "2026-11-05T11:00:35.019Z",
+  "timestamp": "5.11.2026, 12:00:35",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Hubert Aiwanger tot: Ein Mann mit Gespür für den politischen Reiz",
+          "url": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-ist-tot-wie-immer-man-zu-ihm-stand-er-war-eine-figur-accg-201653663.html",
+          "summary": "Hubert Aiwanger wusste, wie man mit kleinen Mitteln große Wirkung erzielt – gerade im Kampf gegen die übermächtige CSU. Ein Nachruf auf den langjährigen Vorsitzenden der Freien Wähler.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/957286324184/w3000h1567x0y119o/202304/43600.0.1868969653/liebte-den-wald-und-die-jagd.webp"
+        },
         {
           "title": "Freie-Wähler-Chef: Hubert Aiwanger tot in Berliner Hotel entdeckt – Staatsanwaltschaft ermittelt",
           "url": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-tot-in-berliner-hotel-entdeckt-201653069.html",
           "summary": "Der Freie-Wähler-Chef und bayerische Wirtschaftsminister wurde 55 Jahre alt. Die genauen Umstände seines Todes sind noch nicht bekannt.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://www.faz.net/faz-share-logo.jpg"
         },
         {
-          "title": "USA unter Trump: Vance: „Jeder weiß, warum wir verloren haben“",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-vizepraesident-vance-macht-irankrieg-fuer-niederlage-der-republikaner-verantwortlich-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
+          "title": "US-Zwischenwahlen: Die krachende Niederlage der Milliardäre",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/trumps-niederlage-warum-milliardaere-die-zwischenwahl-nicht-kaufen-konnten-201649714.html",
+          "summary": "Trump versprach Geld, Musk gab Millionen aus. Doch die Wähler ließen sich nicht kaufen. Auch die Angst vor Sozialismus verfing nicht.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Trumps Debakel: Der Tag, an dem der Führerkult endete",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-den-us-midterms-2026-stehen-beide-parteien-ohne-fuehrung-da-201650651.html",
-          "summary": "Der Verlierer Trump hat bei den Republikanern jetzt nicht mehr viel zu sagen. Die demokratischen Sieger wissen aber auch nicht, wessen Weg zum Ziel führt. Das wird heftig.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/2066206528bd/w1712h894x63y400o/202611/37fb1ea1-b9a1-4b8c-8179-0368ba673e40/an-der-stimmung-vorbei-am.webp"
+          "image": "https://media0.faz.net/image/w1200h627/9153997c30c6/w5500h2873x0y397o/202610/43601.0.2666410821/tesla-chef-elon-musk-steht.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "USA: Warum Donald Trump abstürzte. Und wer nach ihm kommen könnte",
+          "url": "https://www.spiegel.de/ausland/usa-warum-donald-trump-abstuerzte-und-wer-nach-ihm-kommen-koennte-a-8e129a92-82a0-42a2-b0ee-58327a06a041#ref=rss",
+          "summary": "Die Amerikaner haben ihren Präsidenten abgestraft, der Kampf um seine Nachfolge beginnt. Bei den Demokraten drängen junge Stars nach vorn, bei den Republikanern geht Vize JD Vance auf Abstand zu Donald Trump. Die SPIEGEL-Titelstory.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/5bf4fb67-a234-4138-a0ff-6096c69242cc_w1200_r1.778_fpx48_fpy44.jpg"
+        },
         {
           "title": "Nachruf zum Tod von Hubert Aiwanger: Meister der Bierzeltpolitik",
           "url": "https://www.spiegel.de/politik/deutschland/nachruf-zum-tod-von-hubert-aiwanger-meister-der-bierzeltpolitik-a-04bf566c-0dc3-48a2-99b8-3e99cba99f9e#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/4a832e05-318e-439e-891c-4c2edff161b1_w1200_r1.778_fpx40.63_fpy50.jpg"
         },
         {
-          "title": "News: Hubert Aiwanger ist tot, Zweifel an Christian Ulmen, Führerscheinreform",
-          "url": "https://www.spiegel.de/politik/deutschland/news-hubert-aiwanger-ist-tot-zweifel-an-christian-ulmen-fuehrerscheinreform-a-c49d23f9-6f09-4829-92fa-2d69b38acfee#ref=rss",
-          "summary": "Hubert Aiwanger wurde in Berlin tot aufgefunden. Behördendokumente nähren Zweifel an Behauptungen von Christian Ulmen. Und der Bundestag stimmt über Führerscheinpläne der Regierung ab. Das ist die Lage am Donnerstagmorgen.",
+          "title": "Collien Fernandes: Unterlagen zum Vorfall 2023 stellen Ulmens Darstellung infrage",
+          "url": "https://www.spiegel.de/panorama/justiz/collien-fernandes-unterlagen-zum-vorfall-2023-stellen-ulmens-darstellung-infrage-a-237d7c2a-d443-4651-b5f2-9f978673b6d3#ref=rss",
+          "summary": "Der Schauspieler Christian Ulmen bestreitet, seine Ex-Frau Collien Fernandes körperlich angegriffen zu haben. Doch Behördendokumente zu einem Vorfall im Jahr 2023 lassen an seiner Darstellung zweifeln.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3db431c3-ef1b-4b6f-a1bb-32b19e480872_w1200_r1.778_fpx50.66_fpy50.jpg"
-        },
-        {
-          "title": "Midterms in den USA: Was steckt hinter Abdul El-Sayeds Erfolg?",
-          "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-was-steckt-hinter-abdul-el-sayeds-erfolg-a-b71d878b-e519-44f2-bf17-cef154849baf#ref=rss",
-          "summary": "Mit Abdul El-Sayed hat ein progressiver Demokrat Michigan gewonnen, er wird erster muslimischer Senator der USA. Was steckt hinter seinem Erfolg?",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a510dda9-9494-4857-b542-a294ee996e0e_w1200_r1.778_fpx43_fpy47.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a4634920-2831-4b01-ae3b-09e28d4de843_w1200_r1.778_fpx50_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html",
-          "summary": "Wen nominiert die Union für die Nachfolge des scheidenden Bundespräsidenten Steinmeier? Kommende Woche soll eine Entscheidung fallen. Immer mehr Politiker sprechen sich für die bayerische Landtagspräsidentin Aigner aus.",
+          "title": "Hongkongs Demokratie-Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
+          "url": "https://www.tagesschau.de/ausland/hong-kong-wong-urteil-100.html",
+          "summary": "Einst führte Joshua Wong in Hongkong Proteste für mehr Demokratie an. Nun wurde der ehemalige Studentenführer zu weiteren zehn Jahren Haft verurteilt. Grundlage ist das von China auferlegte \"Sicherheitsgesetz\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/839b445e-29f4-4a3b-ba44-9c9a3e2b01f2/AAABoapJ_r8/AAABnSSvrFg/16x9-big/aigner-130.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e19860b3-d60e-40bf-ba83-a060e4ff3352/AAABoarxMjs/AAABnSSvrFg/16x9-big/joshua-wong-112.jpg?width=1280"
         },
         {
-          "title": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html",
-          "summary": "Der unerwartete Tod von Hubert Aiwanger mit 55 Jahren hat parteiübergreifend Bestürzung ausgelöst. Der Chef der Freien Wähler war leblos in einem Hotel aufgefunden worden. Bayerns Ministerpräsident Söder sprach von einer \"absoluten Tragödie\".",
+          "title": "Wie der Führerschein günstiger werden soll",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html",
+          "summary": "Weniger Sonderfahrten, keine Präsenzpflicht im Theorieunterricht: Der Führerschein soll weniger kosten und die Fahrschulausbildung moderner werden. Heute stimmt der Bundestag über den Gesetzentwurf zur Führerscheinreform ab.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/60a0757a-c615-4a84-a1d0-ef2a8555dfa2/AAABnkJwkBE/AAABnSSvrFg/16x9-big/fahrschule-244.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX nähert sich dem Rekordhoch",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
-          "summary": "Nach den US-Zwischenwahlen ist die Euphorie an den Börsen groß: Der DAX robbt sich immer näher an sein Rekordhoch heran. Hilfreich ist auch der sinkende Ölpreis, der den Inflationsdruck senken könnte.",
+          "title": "Bankenpleite stürzt Paraguay in eine Krise",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html",
+          "summary": "Nach dem Kollaps einer Digitalbank fürchten Millionen Paraguayer um ihre Ersparnisse. Konten sind eingefroren, Renten blockiert - im Land wächst der Unmut gegen Präsident Peña.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fe99f018-c075-4100-b866-642ea2df054d/AAABmnbk3IY/AAABnSSvrFg/16x9-big/boerse-466.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4e821799-51c9-4582-bacf-05b62e0cadba/AAABoaqE8iY/AAABnSSvrFg/16x9-big/paraguay-protest-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Risse in Turbinenschaufeln: Studie wirft Fragen zu Triebwerken der 787 auf",
-          "url": "https://www.telepolis.de/article/Risse-in-Turbinenschaufeln-Studie-wirft-Fragen-zu-Triebwerken-der-787-auf-11511260.html",
-          "summary": "Neue Probleme für Boeing: Hitze, Druck und Materialermüdung setzen den Turbinen früher als gedacht zu. Fachleute raten zu engmaschiger Kontrolle. Ein Überblick.",
+          "title": "Altersvorsorgedepot oder normaler ETF-Sparplan: Rechner zeigt, was mehr bringt",
+          "url": "https://www.telepolis.de/article/Altersvorsorgedepot-oder-normaler-ETF-Sparplan-Rechner-zeigt-was-mehr-bringt-11485723.html",
+          "summary": "Ab 2027 fördert der Staat ETF-Sparpläne mit bis zu 750 Euro Zulage pro Jahr. Doch lohnt sich das Depot auch ohne Beitragsgarantie? Der Rechner klärt auf.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/8/1/5/4/7/shutterstock_2262789649-49561df74c0adcc4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Trump verliert Rückhalt – und Fox News die Aufmerksamkeit",
-          "url": "https://www.telepolis.de/article/Trump-verliert-Rueckhalt-und-Fox-News-die-Aufmerksamkeit-11511514.html",
-          "summary": "Vor der Kongresswahl verlor Fox News 27 Prozent seines Publikums. Ermüdet die Dauermobilisierung, wenn die eigene Regierung enttäuscht? Analyse.",
+          "title": "Alzheimer: Forscher wollen Gehirn per Rüttel-Matratze aufräumen",
+          "url": "https://www.telepolis.de/article/Alzheimer-Forscher-wollen-Gehirn-per-Ruettel-Matratze-aufraeumen-11513035.html",
+          "summary": "Forscher kombinierten Ganzkörpervibration mit einem Herzmedikament – und mehr Alzheimer-Proteine wanderten ins Blut. Ob das Betroffenen hilft, ist noch offen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/5/4/6/7/shutterstock_2454627285-6e88566b2e50f9ca.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Gen Z regelt: Warum die Anliegen junger Menschen in der Empörung untergehen",
-          "url": "https://www.telepolis.de/article/Gen-Z-regelt-Warum-die-Anliegen-junger-Menschen-in-der-Empoerung-untergehen-11511166.html",
-          "summary": "Über Stunden demonstrierten Tausende friedlich, dann kippte die Stimmung. Politik und Medien sprechen vor allem über Krawalle. Wer hört den Jugendlichen zu?",
+          "title": "Ein geschwächter Trump wird außenpolitisch nicht berechenbarer",
+          "url": "https://www.telepolis.de/article/Ein-geschwaechter-Trump-wird-aussenpolitisch-nicht-berechenbarer-11512937.html",
+          "summary": "Zwei Jahre bleiben Trump noch. Die Wähler haben ihn abgestraft, seine Befugnisse bei Militär und Zöllen aber bleiben bestehen. Wie wird er sie nutzen?",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/5/4/1/4/shutterstock_2805107737-d88bf5b7acb2b95f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Nach dem Tod von Hubert Aiwanger: Söder: „So einer fehlt“",
+          "url": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tod-markus-soeder-statement-pressekonferenz-li.3574751",
+          "summary": "Nach dem überraschenden Tod von Hubert Aiwanger zeigt sich Ministerpräsident Söder „getroffen“ und „schockiert“.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "BVB in der Champions League: Mit Karetsas kommt der Zauber",
+          "url": "https://www.sueddeutsche.de/sport/dortmund-betis-karetsas-champions-league-li.3574734",
+          "summary": "Angekommen nach rekordverdächtig langer Rutschpartie: Der 18-jährige Konstantinos Karetsas beweist gegen Betis Sevilla, dass er der Spieler sein könnte, der dem BVB bisher gefehlt hat.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Reaktionen auf den Tod von Hubert Aiwanger: „Wir sind alle zutiefst geschockt“",
-          "url": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-freie-waehler-bayern-reaktionen-li.3574570",
+          "url": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-tod-reaktionen-politik-li.3574570",
           "summary": "Bayerns Wirtschaftsminister Aiwanger ist völlig unerwartet gestorben. Weggefährten aus Politik, Wirtschaft und Gesellschaft sind erschüttert.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Midterms 2026: Trump verteidigt Iran-Krieg trotz Wahlniederlage",
-          "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-oeffentlicher-auftritt-ballsaal-vance-iran-krieg-li.3573278",
-          "summary": "Sein Vize Vance sieht den Grund für die Verluste der Republikaner bei den Midterms im Iran-Krieg. Trump lobt bei seinem ersten öffentlichen Auftritt nach den Zwischenwahlen seine Bauprojekte.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Kaja Kallas im Interview: „Trump respektiert Stärke – wer schwach ist, bekommt diesen Respekt nicht“",
-          "url": "https://www.sueddeutsche.de/politik/kaja-kallas-donald-trump-interview-europaeische-union-ukraine-krieg-li.3572738",
-          "summary": "Die EU-Außenbeauftragte wirft dem US-Präsidenten vor, Europa spalten zu wollen und zu sehr auf Russlands Forderungen zu hören. Über die Reaktion in Deutschland auf den Leipziger Anschlagsversuch wundert sie sich.",
           "source": "SZ",
           "paywall": false,
           "image": null
