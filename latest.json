@@ -1,25 +1,17 @@
 {
-  "generated": "2026-11-06T03:00:09.992Z",
-  "timestamp": "6.11.2026, 04:00:09",
+  "generated": "2026-11-06T07:00:08.164Z",
+  "timestamp": "6.11.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Hohe Ausgaben: Bundesagentur für Arbeit braucht 5 Milliarden Euro Notkredit",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/milliardenluecke-bundesagentur-fuer-arbeit-braucht-5-milliarden-euro-notkredit-201654491.html",
-          "summary": "Die Ausgaben für das Arbeitslosengeld steigen. Deshalb erhält die Bundesagentur nun ein zusätzliches Darlehen über fünf Milliarden Euro. Auch Jobcenter und Rentenkasse brauchen kurzfristig mehr Geld vom Bund.",
+          "title": "Liveblog Nahost: Wieder Angriffe auf Iran? Trump kündigt baldige Entscheidung an",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-wieder-angriffe-auf-iran-trump-kuendigt-baldige-entscheidung-an-faz-200583539.html",
+          "summary": "Militär bereitet sich auf neue Kämpfe vor +++ Eisenkot ist Favorit für Auftrag zur Regierungsbildung in Israel +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dff05b28ff73/w6144h3210x0y123o/202609/43601.0.2612484282/braucht-mehr-geld-die.webp"
-        },
-        {
-          "title": "Neuer Ärger in der Koalition: Klingbeil will „spürbaren“ Spritpreisdeckel",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spritpreisdeckel-klingbeil-ist-unzufrieden-mit-reiches-entwurf-201655524.html",
-          "summary": "Wie stark darf oder muss der Staat in die Preisbildung an den Tankstellen eingreifen? Diese zentrale ordnungspolitische Frage spaltet die Koalition.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/80153b05cbb0/w6144h3210x0y354o/202611/6f5ae81d-ca6b-4f3d-8c62-ba252c8d799a/teures-tanken-das.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d8b8e835e9f8/w8131h4248x0y587o/202611/d8a6b150-ab1c-49ad-bc91-00d10bfc5909/donald-trump-spricht-im-oval.webp"
         },
         {
           "title": "USA unter Trump: Kaliforniens Gouverneur wandelt 548 Todesurteile in Haftstrafen um",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/476835c33a95/w6500h3396x0y469o/202611/945bb51c-903d-41a3-a1ae-8a66c784797b/kaliforniens-gouverneur-gavin.webp"
+        },
+        {
+          "title": "Nach der Wahl: Der innerparteiliche Krieg hat begonnen",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-und-republikaner-im-machtkampf-der-innerparteiliche-krieg-hat-begonnen-201654756.html",
+          "summary": "In der republikanischen Partei wird nach einem Schuldigen für das Wahldebakel gesucht. Ins Visier gerät Verteidigungsminister Hegseth.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/351132af855d/w6037h3154x0y403o/202605/43601.0.2147925681/donald-trump-j-d-vance-und.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Berlin: Linken-Politikerin Katharina Marg war bei Demo gegen Abschiebung von Clan-Mitgliedern",
+          "url": "https://www.spiegel.de/panorama/justiz/berlin-linken-politikerin-katharina-marg-war-bei-demo-gegen-abschiebung-von-clan-mitgliedern-a-fbec994a-21d8-4b41-98f7-3fe4823b1bd8#ref=rss",
+          "summary": "Die Berliner Neuabgeordnete Katharina Marg hat sich an einer Demo gegen Abschiebungen von Männern aus dem Barbakh-Clan beteiligt. Bei Gerichtsterminen war sie als »parlamentarische Beobachterin« dabei. Kritik kommt von SPD und Polizeigewerkschaft.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f3473773-f6cd-4dbe-9de7-3d9ab6505dab_w1200_r1.778_fpx42.67_fpy50.jpg"
+        },
+        {
+          "title": "News: SPD-Promis gegen Rot-Grün-Rot, Pannen im Finanzministerium, Jugendproteste",
+          "url": "https://www.spiegel.de/politik/deutschland/news-spd-promis-gegen-rot-gruen-rot-pannen-im-finanzministerium-jugendproteste-a-a7cffd90-dbf6-47c8-a343-6df5aa82c292#ref=rss",
+          "summary": "Prominente SPD-Politiker wollen die rot-grün-rote Koalition in der Hauptstadt aufhalten. Dem Finanzministerium unter Lars Klingbeil unterlaufen auffällig viele Schnitzer. Und Europas Jugend ist wütend. Das ist die Lage am Freitagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6c05d0ec-1606-4de8-a980-9becdcd1bfc4_w1200_r1.778_fpx64.88_fpy54.99.jpg"
+        },
+        {
           "title": "Midterms in den USA: Die trügerische Freude über Trumps Machtverlust",
           "url": "https://www.spiegel.de/politik/midterms-in-den-usa-die-truegerische-freude-ueber-trumps-machtverlust-a-a699ab52-1203-4447-967e-f44d6941354a#ref=rss",
           "summary": "Donald Trump verliert die US-Zwischenwahlen. Auch in Ungarn, Brasilien und Serbien scheiterten Rechtspopulisten. Ist das der Anfang vom Ende ihrer weltweiten Erfolgswelle? Hören Sie eine neue Folge von »Mad Kings«.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/a8ac6101-4201-4199-9f5d-1669b803f633_w1200_r1.778_fpx52_fpy53.jpg"
-        },
-        {
-          "title": "Friedrich Merz entgleitet die Suche nach einer Bundespräsidentin",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-entgleitet-die-suche-nach-einer-bundespraesidentin-a-58e704c3-441c-4be4-bf99-08777fe8789d#ref=rss",
-          "summary": "Der Kanzler verrät nicht, wen er für das Bundespräsidentenamt favorisiert. Doch CSU-Kandidatin Ilse Aigner bekommt so viel Unterstützung, dass Friedrich Merz sie kaum noch übergehen kann, ohne Schaden anzurichten.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/aa8c90ce-6aeb-41e9-b8b0-1358a34b1918_w1200_r1.778_fpx34_fpy53.jpg"
-        },
-        {
-          "title": "Iran-Krieg: US-Regierung hält trotz Kriegs an Abschiebeplänen nach Iran fest",
-          "url": "https://www.spiegel.de/ausland/iran-krieg-us-regierung-haelt-trotz-kriegs-an-abschiebeplaenen-nach-iran-fest-a-d50b6e18-ff59-4c84-8610-9cd90a8da9b6#ref=rss",
-          "summary": "Donald Trump hat Iran wiederholt mit »Vernichtung« gedroht. Das hält seine Regierung aber nicht davon ab, Rückführungen in das Kriegsland anzuschieben. Vor einem US-Bundesgericht fielen deshalb klare Worte.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f6765137-d820-4716-8963-aa7d2cd51876_w1200_r1.778_fpx41_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
-          "summary": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück.",
+          "title": "Marktbericht: Aus Wahleuphorie wird Wahlkater",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
+          "summary": "Die Furcht vor einer schärferen KI-Regulierung hat die Wall Street auf Talfahrt geschickt, vor allem Tech-Werte brechen ein. Der DAX wird sich dem Abwärtstrend nicht entziehen können.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d3876004-9fe6-4ca8-9b05-b85dd2090a2a/AAABoUWv6Dk/AAABnSSvrFg/16x9-big/161026-tabaksteuer-mediathek-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5c52df02-e6ba-4229-a355-64a0f5be2ce1/AAABnLJUK0w/AAABnSSvrFg/16x9-big/boerse-492.jpg?width=1280"
         },
         {
-          "title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
-          "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
-          "summary": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln.",
+          "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html",
+          "summary": "Sowohl Vertreter Russlands als auch der Ukraine waren jetzt zu Gast im Weißen Haus. Doch den US-Präsidenten persönlich durfte nur der Kreml-Gesandte treffen. Anschließend kündigte Trump einen möglichen Deal an, nannte aber keine Details.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6fb17741-aab1-4e9e-80ce-190e83c5a5bc/AAABoa1ffvo/AAABnSSvrFg/16x9-big/newsom-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/619686c0-a7cb-4865-b7dd-ba50c33715ca/AAABoa8R5R8/AAABnSSvrFg/16x9-big/trump-5422.jpg?width=1280"
         },
         {
-          "title": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
-          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
-          "summary": "Im Oktober war ein Häftling in Essen während eines Arztbesuchs von Komplizen befreit worden und ist seitdem auf der Flucht. Nun räumte der NRW-Justizminister ein: Den Schlüssel für die Fußfessel gab es für 10 Euro im Internet zu kaufen.",
+          "title": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html",
+          "summary": "Immer wieder werden vor allem Frauen mit K. -Tropfen betäubt und erleben sexualisierte Gewalt. Der Bundestag will heute härtere Strafen beschließen. Aus Sicht der Opposition verfehlt das Gesetz aber den Kern des Problems. Von Felix Jakobs.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://www1.wdr.de/nrw/essen/jva-essen-durchsuchung-100~_v-gseagaleriexl.png"
+          "image": "https://images.tagesschau.de/image/c4d08bd7-cba7-4df9-8c87-b00ac693d1ba/AAABoM1W1xs/AAABnSSvrFg/16x9-big/ko-tropfen-glaeser-100.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Midterms 2026: Kalifornischer Gouverneur Newsom wandelt 548 Todesurteile in Haftstrafen um",
-          "url": "https://www.sueddeutsche.de/politik/usa-midterms-2026-wahlen-news-liveblog-trump-newsom-todesstrafe-alaska-li.3573278",
-          "summary": "Gavin Newsom bezeichnete die Todesstrafe als moralisch verwerflich. Obwohl in Kalifornien seit 20 Jahren niemand mehr hingerichtet wurde, macht der Bundesstaat etwa ein Viertel aller Todesurteile in den Vereinigten Staaten aus.",
+          "title": "Midterms 2026: Trump will Oval Office als nationales Denkmal schützen lassen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-oval-office-denkmal-li.3573278",
+          "summary": "Der amtierende US-Präsident ließ massenhaft Goldornamente an den Wänden anbringen. Seine Nachfolger sollen es deutlich schwerer haben, den Raum wieder umzugestalten.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Justiz: Ex-Milliardär Benko wegen Betrugs verurteilt",
-          "url": "https://www.sueddeutsche.de/wirtschaft/urteil-benko-prozess-innsbruck-betrug-investoren-li.3574688",
-          "summary": "Der Immobilienunternehmer muss zwei zusätzliche Jahre in Haft. Das Landgericht Innsbruck verurteilte den Tiroler wegen Betrugs eines Investors in Millionenhöhe.",
+          "title": "Newsblog zur Bundespolitik: K.-o.-Tropfen: Bundestag entscheidet über schärferes Gesetz",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-k-o-tropfen-bundestag-gesetz-li.3568524",
+          "summary": "Wer die gefährlichen Substanzen für eine Vergewaltigung oder einen Raub einsetzt, soll mit mindestens fünf Jahren Freiheitsstrafe rechnen müssen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Proteste in Frankreich: „Macron, du bist erledigt – die Jugend ist auf der Straße“",
-          "url": "https://www.sueddeutsche.de/politik/proteste-frankreich-generalstreik-paris-gewerkschaften-li.3574706",
-          "summary": "Frankreichs Gewerkschaften rufen zu einem nationalen Streik auf und es kommen Hunderttausende.  Ob Gymnasiasten, Studenten oder „Gelbwesten“ – alle fordern höhere Löhne und niedrigere Lebenskosten.",
+          "title": "Midterms in den USA: Warum in Mississippi noch immer ausgezählt wird",
+          "url": "https://www.sueddeutsche.de/politik/midterms-mississippi-auszaehlung-senat-li.3575195",
+          "summary": "Eigentlich unvorstellbar, dass ein Demokrat hier überhaupt Chancen hat, in den Senat einzuziehen. Dass es diesmal anders ist, hat auch mit Burgern zu tun.",
           "source": "SZ",
           "paywall": false,
           "image": null
