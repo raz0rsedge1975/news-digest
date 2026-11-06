@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-05T23:00:17.550Z",
-  "timestamp": "6.11.2026, 00:00:17",
+  "generated": "2026-11-06T03:00:09.992Z",
+  "timestamp": "6.11.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/aa8c90ce-6aeb-41e9-b8b0-1358a34b1918_w1200_r1.778_fpx34_fpy53.jpg"
         },
         {
-          "title": "Kalifornien: Gouverneur Gavin Newsom wandelt alle 548 Todesurteile im Staat in Haftstrafen um",
-          "url": "https://www.spiegel.de/ausland/kalifornien-gouverneur-gavin-newsom-wandelt-alle-548-todesurteile-im-staat-in-haftstrafen-um-a-80a34222-12f8-431f-93ee-55fbf0b9df2c#ref=rss",
-          "summary": "In dem Bundesstaat wartet nun niemand mehr auf seine Hinrichtung: Gouverneur Gavin Newsom kippt alle 548 bestehenden Todesurteile in Kalifornien. In einem Brief an die Bürger findet er zudem deutliche Worte über die Todesstrafe.",
+          "title": "Iran-Krieg: US-Regierung hält trotz Kriegs an Abschiebeplänen nach Iran fest",
+          "url": "https://www.spiegel.de/ausland/iran-krieg-us-regierung-haelt-trotz-kriegs-an-abschiebeplaenen-nach-iran-fest-a-d50b6e18-ff59-4c84-8610-9cd90a8da9b6#ref=rss",
+          "summary": "Donald Trump hat Iran wiederholt mit »Vernichtung« gedroht. Das hält seine Regierung aber nicht davon ab, Rückführungen in das Kriegsland anzuschieben. Vor einem US-Bundesgericht fielen deshalb klare Worte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/82b21c98-6213-49a7-8c51-18883d66add9_w1200_r1.778_fpx87_fpy14.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f6765137-d820-4716-8963-aa7d2cd51876_w1200_r1.778_fpx41_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html",
+          "summary": "Eigentlich sollte die Tabaksteuer erst zum Jahreswechsel erhöht werden - doch durch ein Versehen trat die Erhöhung schon jetzt in Kraft. Nun heißt es per Gesetzesänderung: Kommando zurück.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d3876004-9fe6-4ca8-9b05-b85dd2090a2a/AAABoUWv6Dk/AAABnSSvrFg/16x9-big/161026-tabaksteuer-mediathek-100.jpg?width=1280"
+        },
+        {
+          "title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+          "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html",
+          "summary": "In Kalifornien wird die Todesstrafe seit 20 Jahren nicht mehr vollstreckt. 548 Menschen sitzen dort aktuell im Todestrakt. Jetzt kündigte der scheidende Gouverneur Newsom an, ihre Strafen in lebenslange Haftstrafen umzuwandeln.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/6fb17741-aab1-4e9e-80ce-190e83c5a5bc/AAABoa1ffvo/AAABnSSvrFg/16x9-big/newsom-120.jpg?width=1280"
+        },
+        {
           "title": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
           "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html",
           "summary": "Im Oktober war ein Häftling in Essen während eines Arztbesuchs von Komplizen befreit worden und ist seitdem auf der Flucht. Nun räumte der NRW-Justizminister ein: Den Schlüssel für die Fußfessel gab es für 10 Euro im Internet zu kaufen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://www1.wdr.de/nrw/essen/jva-essen-durchsuchung-100~_v-gseagaleriexl.png"
-        },
-        {
-          "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html",
-          "summary": "Angefangen hat es mit Angriffen auf Kühlsysteme in französischen Supermärkten. Inzwischen sind auch deutsche Einzelhändler betroffen. Experten rechnen mit weiteren Attacken auf Kritische Infrastruktur - und Wohnzimmer.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1a3ebc67-f846-4558-b6e1-dbc96f6cdfa1/AAABoaaLDok/AAABnSSvrFg/16x9-big/cyberangriff-supermarkt-102.jpg?width=1280"
-        },
-        {
-          "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
-          "url": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html",
-          "summary": "Der Ruf nach höheren Löhnen, Steuergerechtigkeit und mehr Geld für Bildung hat in Frankreich erneut Hunderttausende auf die Straßen getrieben. Der Aktionstag verlief weitgehend friedlich, es kam mancherorts dennoch zu Ausschreitungen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/91b8d417-f963-4987-bdfb-b61f4d228ca8/AAABoazzJoA/AAABnSSvrFg/16x9-big/demonstranten-paris-104.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Chinas Geburtenrückgang droht sich zu verschärfen",
+          "url": "https://www.telepolis.de/article/Chinas-Geburtenrueckgang-droht-sich-zu-verschaerfen-11513129.html",
+          "summary": "In den ersten neun Monaten 2026 wurden in China rund 504. 000 Ehen weniger registriert als im Vorjahr. Ein Demograf warnt vor Folgen für die Geburtenzahlen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/5/5/1/5/shutterstock_2852680939-8e70e325cfb61bae.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Nach US-Wahl: KI-Angst kostet Nasdaq 100 bis zu 2,2 Billionen Dollar",
           "url": "https://www.telepolis.de/article/Nach-US-Wahl-KI-Angst-kostet-Nasdaq-100-bis-zu-2-2-Billionen-Dollar-11514018.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/5/6/7/8/Schakal-4af10f48378742f8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "KI-Blase an der Börse: Erst China, dann die Wall Street?",
-          "url": "https://www.telepolis.de/article/KI-Blase-an-der-Boerse-Erst-China-dann-die-Wall-Street-11513043.html",
-          "summary": "In China ist die KI-Blase geplatzt. An der Wall Street haben KI-Aktien nun rund fünf Billionen Dollar an Wert verloren. Hauptproblem sind nicht die Bewertungen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
         }
       ]
     },
