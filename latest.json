@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-06T15:00:08.841Z",
-  "timestamp": "6.11.2026, 16:00:08",
+  "generated": "2026-11-06T19:00:09.139Z",
+  "timestamp": "6.11.2026, 20:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Tech-Aktien: Drei Gründe für den Ausverkauf – und was jetzt Hoffnung macht",
-          "url": "https://www.faz.net/aktuell/finanzen/tech-aktien-drei-gruende-fuer-den-ausverkauf-und-was-hoffnung-macht-201658278.html",
-          "summary": "Plötzlich sinken Tech-Aktien auf der ganzen Welt. Der Chiphersteller Nvidia verliert mehr als 400 Milliarden Dollar an Börsenwert. Was Anleger jetzt wissen müssen.",
+          "title": "Steinmeier-Nachfolge: Die Favoritin und der Kanzler",
+          "url": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-wird-bundespraesidentin-merz-langer-weg-zur-entscheidung-201658143.html",
+          "summary": "Eigentlich wollte Friedrich Merz erst nach der Sitzung des CDU-Präsidiums am Montag verkünden, dass Ilse Aigner Bundespräsidentin werden soll. Aber dann ging alles ganz schnell.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5cad1456f6b4/w5081h2654x382y626o/202611/189597b9-576e-43ec-9e94-61e6f989c226/nervoes-die-new-yorker-boerse.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d2beb505714c/w2062h1077x0y41o/202610/78c96849-76cc-4851-bb37-8b7546aebe2e/bundeskanzler-friedrich-merz.webp"
         },
         {
-          "title": "Sinnvolle Geldanlage?: Die 100 billigsten Aktien",
-          "url": "https://www.faz.net/premium/meine-finanzen/aktien/die-100-billigsten-deutschen-aktien-lohnt-sich-der-kauf-accg-201622177.html",
-          "summary": "Das Geheimnis des Aktienmarktes: Kaufe billig, verkaufe teuer. Wir präsentieren die 100 aktuell billigsten deutschen Aktien – und hoffen, sie schlagen sich so gut wie der Vorgängerkorb von 2024.",
+          "title": "Ilse Aigner: Bundespräsidentin der Herzen",
+          "url": "https://www.faz.net/aktuell/politik/inland/ilse-aigner-csu-bekommt-das-bundespraesidentenamt-201659945.html",
+          "summary": "Die Spatzen pfeifen es vom Dach: Die CDU überlässt der CSU das höchste Staatsamt. Ende gut, alles gut? Jedenfalls für Ilse Aigner.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/71d3d098bda1/w3976h2077x2y353o/202607/43601.0.2380648575/inspiration-911-vor-dem.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a0459f139839/w7008h3661x0y617o/202611/23b16170-1db4-4fee-bb6e-e046ff84406d/ilse-aigner-praesidentin-des.webp"
         },
         {
-          "title": "After Midterms: Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
-          "url": "https://www.faz.net/aktuell/wall-street-journal/investors-are-skeptical-that-anthropics-ipo-can-proceed-at-its-expected-valuation-201657820.html",
-          "summary": "Other investors say October financial results could lessen blow of market rout",
+          "title": "Deutschland Liveblog: Berliner Linke fordert Mandatsverzicht von Emde",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-fordert-mandatsverzicht-von-emde-faz-110093143.html",
+          "summary": "Linke-Landesvorsitzende: „Wir vertrauen ihr nicht mehr“ +++ Ilse Aigner soll nächste Bundespräsidentin werden +++ Merz fährt wegen Terminlast nicht zur Klimakonferenz +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/9fe8f2293719/w8192h4280x0y200o/202609/43601.0.2611299814/anthropic-ceo-dario-amodei-l.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/c509de7c7f93/w3815h1993x0y76o/202611/4c22aec2-186c-4948-9693-2e682c194bbe/vanessa-emde-nach-der-ersten.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "USA: Donald Trump hat die Midterms verloren, nun platzt offenbar auch sein Diesel-Deal",
-          "url": "https://www.spiegel.de/ausland/usa-donald-trump-hat-die-midterms-verloren-nun-platzt-offenbar-auch-sein-diesel-deal-a-80a6f6a6-88dc-4e4c-a5cc-d4651e06ca73#ref=rss",
-          "summary": "Mit Diesel aus Russland wollte US-Präsident Trump vor den Midterms seine Bilanz aufhübschen. Nun zeichnet sich ab: Der Deal ist geplatzt, russische Tanker drehen bereits ab. Die amerikanischen Vorräte werden knapp.",
+          "title": "Berlin: Linke fordert Vanessa Emde auf, Mandat zurückzugeben",
+          "url": "https://www.spiegel.de/politik/deutschland/berlin-linke-fordert-vanessa-emde-auf-mandat-zurueckzugeben-a-45f7d6f6-b193-42c8-a1ac-0b5025237edb#ref=rss",
+          "summary": "Der Konflikt um Vanessa Emde erschwert die Koalitionsgespräche in Berlin. Nun hat die Partei sie gedrängt, ihren Posten aufzugeben – das Mandat sei keine »Ich-AG«. Hintergrund sind ihre Positionen zum Nahostkonflikt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5203c5da-a692-42cf-9244-e158b7441c8d_w1200_r1.778_fpx65.31_fpy49.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/18eeaf2c-1c7c-4c8b-9719-269b927408bb_w1200_r1.778_fpx58_fpy45.jpg"
         },
         {
-          "title": "Donald Trump und Israel: Was der Sieg der Demokraten für Nahost bedeutet",
-          "url": "https://www.spiegel.de/ausland/donald-trump-und-israel-was-der-sieg-der-demokraten-fuer-nahost-bedeutet-a-8ffcb552-c960-484c-85fc-336362f258d9#ref=rss",
-          "summary": "Mit dem Wahlerfolg der Demokraten ziehen scharfe Kritiker Israels in Senat und Repräsentantenhaus ein. Die traditionelle Unterstützung aus den USA schwindet. Das bietet sogar Chancen.",
+          "title": "Demokrat Adam Hamilton: Ein Pastor aus Kansas zieht in den US-Senat",
+          "url": "https://www.spiegel.de/ausland/demokrat-adam-hamilton-ein-pastor-aus-kansas-zieht-in-den-us-senat-a-083b5102-9f84-4a7c-8e88-ea5dcacf3d7d#ref=rss",
+          "summary": "Adam Hamilton predigt »radikale Liebe«. Als erster Demokrat seit 94 Jahren zieht er nun für Kansas in den US-Senat. Daheim, in seiner »Megakirche«, sorgen sich so manche um ihren Pastor. Ein Besuch.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/456e664e-8d03-4b01-83c8-77ce68859dee_w1200_r1.778_fpx47_fpy32.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/17361ba1-f60d-451b-a97d-5d3703187882_w1200_r1.778_fpx33.34_fpy50.jpg"
         },
         {
-          "title": "Börse: Beben an der Wall Street – ist das jetzt der KI-Crash?",
-          "url": "https://www.spiegel.de/wirtschaft/service/boerse-beben-an-der-wall-street-ist-das-jetzt-der-ki-crash-a-0317ec61-e5b3-4fcc-8613-ec7f576866ae#ref=rss",
-          "summary": "Nach dem Sieg der Demokraten bei den Midterms brechen KI- und Chip-Aktien drastisch ein und drücken die Weltbörsen ins Minus. Was dahintersteckt und was es für Ihren MSCI-World-ETF bedeutet.",
+          "title": "News des Tages: Börsenbeben an der Wall Street, AfD-Hacker, Vanessa Emde droht Parteiausschluss",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-boersenbeben-an-der-wall-street-afd-hacker-vanessa-emde-droht-parteiausschluss-a-58b3f174-2456-4fa1-8a9c-dc36f4be4bb1#ref=rss",
+          "summary": "Der Demokratensieg bei den US-Zwischenwahlen verunsichert die Börsen. Die Spur der AfD-Hacker führt in eine berüchtigte Onlineszene. Die Berliner Linkenspitze will endlich Vanessa Emde loswerden. Das ist die Lage am Freitagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2a2435b8-1006-48ba-8a4a-c2e22a3a6b5c_w1200_r1.778_fpx33.35_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Übergriffe mit K.-o.-Tropfen: Warum anonyme Spurensicherung so wichtig ist",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/ko-tropfen-sexualisierte-gewalt-nachweis-100.html",
-          "summary": "Ob im Club, an der Bar oder beim Karneval: K. -Tropfen werden oft zur unsichtbaren Gefahr. Die anonyme Spurensicherung in Kliniken ermöglicht Betroffenen, Beweise zu sichern, ohne sofort die Polizei einschalten zu müssen. Von Jan Koch.",
+          "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
+          "summary": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e8251f35-0ee3-4d33-bb05-06f4c1145f82/AAABniHYgeg/AAABnSSvrFg/16x9-big/getraenk-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f06decaf-b051-4d8e-80d5-8d1459e0cba1/AAABlgUgph8/AAABnSSvrFg/16x9-big/eishockey-163.jpg?width=1280"
         },
         {
-          "title": "Bombendrohungen auch gegen irische Medien",
-          "url": "https://www.tagesschau.de/ausland/europa/bombendrohung-oeffentlich-rechtlicher-sender-irland-100.html",
-          "summary": "Während weiter Flüge wegen Bombendrohungen umgeleitet werden, trifft es nun auch Medien: In Irland mussten Redaktionsgebäude geräumt werden. Es soll einen Zusammenhang geben. Aber wer steckt dahinter? Das bleibt unklar.",
+          "title": "Die gestohlenen Kinder von Oleschky",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html",
+          "summary": "2022 verschleppten russische Soldaten Hannas Sohn Anton aus einem Heim in Oleschky. Eine niederländische NGO hilft bei der Suche - doch selbst wenn sie ihn findet, ist eine Rückkehr in die Ukraine nicht sicher. Von R. Barth.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d29db17e-c52b-4210-8a01-5420e5ec67e6/AAABobEAuy0/AAABnSSvrFg/16x9-big/beamte-sender-rte-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a111bf3a-9485-4c36-82cc-c621e4893902/AAABoWlYGkY/AAABnSSvrFg/16x9-big/gebaeude-oleshky-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html",
-          "summary": "Der weltweite Kursrutsch bei Tech- und Chipwerten schürt Zweifel, ob sich die hohen KI-Investitionen auszahlen. Zugleich wächst vor dem geplanten Börsengang der Widerstand gegen die Billionenbewertung von Anthropic. Von Melanie Böff.",
+          "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
+          "summary": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4db0c3ea-709b-476e-a44e-7fc19abcb99e/AAABobD47bw/AAABnSSvrFg/16x9-big/anthropic-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f1e87fc9-03d2-4e6d-8446-01b16e2ce7e5/AAABobH4baM/AAABnSSvrFg/16x9-big/trump-5432.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Neue Bundespräsidentin: Alles läuft auf Ilse Aigner zu",
-          "url": "https://www.sueddeutsche.de/politik/bundespraesidentin-kandidatin-ilse-aigner-friedrich-merz-nominierung-bekanntgabe-li.3575265",
-          "summary": "Vor dem entscheidenden Wochenende gilt als sicher, dass CDU-Chef Friedrich Merz die bayerische Landtagspräsidentin für das höchste Amt im Staat vorschlagen wird.",
+          "title": "Abgeordnetenhaus: Berliner Linke fordert Mandatsverzicht von Emde",
+          "url": "https://www.sueddeutsche.de/politik/vanessa-emde-linke-berlin-li.3575552",
+          "summary": "Wegen umstrittener Aussagen zum Nahost-Konflikt geht die Berliner Linke auf Distanz zur Abgeordneten Vanessa Emde.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Theater: Mehr Koks als Verstand",
-          "url": "https://www.sueddeutsche.de/kultur/berliner-ensemble-hamlet-ersan-mondtag-li.3574343",
-          "summary": "Ersan Mondtag, der wilde Mann vom Dienst, zieht am Berliner Ensemble mit „Hamlet“ durch die Clubs. Das Ergebnis: sehr schlechtes Bauerntheater mit Darkroom-Folklore.",
+          "title": "Tanz und KI: Copycat statt Copyright",
+          "url": "https://www.sueddeutsche.de/kultur/musikvideo-storm-rapper-yung-lean-youtube-choreografie-kopiert-ki-copyright-li.3570699",
+          "summary": "Das Musikvideo „Storm“ ist im Netz ein Riesenhit. Inzwischen wird seine Choreografie mithilfe von KI-Tools massenhaft kopiert. Das Urheberrecht sucht noch nach Antworten.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Eishockey-WM: Cas: Beweise für Ausschluss Russlands sind nicht ausreichend",
-          "url": "https://www.sueddeutsche.de/sport/eishockey-wm-2027-russland-ausschluss-fehlende-beweise-cas-li.3575261",
-          "summary": "Das Urteil zur Reintegration Russlands schlägt weiter Wellen. Der Internationale Sportgerichtshof verteidigt sich und weist die Verantwortung dem Eishockey-Weltverband zu. Die WM 2027 steht auf der Kippe.",
+          "title": "Harry Kane beim FC Bayern: Ein verrückter Vertrag? Stimmt, aber einer mit Plan dahinter",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-harry-kane-vertrag-millionen-kommentar-li.3575325",
+          "summary": "Mit seiner Vertragsverlängerung steigt Harry Kane zu einem Topverdiener in Europa auf. Der FC Bayern hat aber eine Idee, wie er die Finanzen im Griff behalten will.",
           "source": "SZ",
           "paywall": false,
           "image": null
