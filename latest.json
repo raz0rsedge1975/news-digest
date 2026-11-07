@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-07T03:00:08.187Z",
-  "timestamp": "7.11.2026, 04:00:08",
+  "generated": "2026-11-07T07:00:07.627Z",
+  "timestamp": "7.11.2026, 08:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Deutsche Autohersteller: Kein Plan für China",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/vw-mercedes-und-bmw-wie-die-deutsche-autoindustrie-in-china-scheitert-201647881.html",
-          "summary": "Volkswagen, Mercedes und BMW verzweifeln am chinesischen Automarkt. Was auch immer sie versuchen, ist offenkundig zum Scheitern verurteilt. Und nun kommen die chinesischen Autos nach Europa.",
+          "title": "Miller neuer Stabschef: Trump lässt seinen Pitbull von der Leine",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/warum-trump-miller-als-neuen-stabschef-will-accg-201660644.html",
+          "summary": "Nach der schweren Klatsche für die Republikaner bei den Midterms gibt es nun eine erste personelle Konsequenz in Trumps Machtzirkel: Der rechte Hardliner Stephen Miller wird neuer Stabschef.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4c412030a793/w4007h2093x1314y1537o/202610/43601.0.2777197777/ein-neuer-stromer-fuer-china.webp"
+          "image": "https://media0.faz.net/image/w1200h627/582b6b49544c/w4130h2157x0y297o/202611/b29493bb-9bb7-4dea-9d8d-8ddc049b15cd/donald-trumps-neu-ernannter.webp"
         },
         {
-          "title": "Konzernumbau: VW in der neuen Weltordnung",
-          "url": "https://www.faz.net/aktuell/wirtschaft/volkswagen-im-umbruch-ist-deutschland-auf-die-neue-realitaet-vorbereitet-201654396.html",
-          "summary": "Der Autokonzern steht vor einem Umbruch, auf dessen Dimension das Land noch nicht vorbereitet ist. Zunächst müssen alle Beteiligten die Realität akzeptieren.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/70f5a1c3c98f/w6144h3210x0y633o/202610/e99d3797-b645-4367-8e1b-4daa19d18ee6/das-hochhaus-am-volkswagen.webp"
-        },
-        {
-          "title": "USA unter Trump: Trump entlässt Stabschefin Susie Wiles",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-entlaesst-stabschefin-susie-wiles-faz-19444916.html",
+          "title": "USA unter Trump: US-Regierung gibt im Streit um Wähler in Kalifornien auf",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-regierung-gibt-im-streit-um-waehler-in-kalifornien-auf-faz-19444916.html",
           "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4725e71ba84a/w6144h3210x0y443o/202611/1334e7bc-d562-4849-9dd8-3d806d744d5e/stephen-miller-und-susie-wiles.webp"
+          "image": "https://media0.faz.net/image/w1200h627/cddb1af648bb/w6000h3135x0y433o/202611/ef9d1067-a43c-48f8-81a0-cc6d113f8270/stimmzettel-in-san-francisco.webp"
+        },
+        {
+          "title": "Kongress-Untersuchungen: Die Demokraten raten dem Weißen Haus: Nehmt euch Anwälte",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/welche-untersuchungen-im-kongress-donald-trump-nun-drohen-201655903.html",
+          "summary": "Das Kontrollrecht des Kongresses wird eines der mächtigsten Instrumente der Demokraten sein. Die Liste der geplanten Untersuchungen ist lang – und Trump steht ganz oben.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/23a173be8477/w6144h3210x0y204o/202609/43601.0.2582952066/der-demokratische-abgeordnete.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Stephen Miller: Mit dem neuen Stabschef setzt Trump auf Angst",
+          "url": "https://www.spiegel.de/ausland/personalie-stephen-miller-donald-trump-setzt-auf-angst-a-e8532d64-f89b-4945-a825-d20f03e0d8fe#ref=rss",
+          "summary": "Schon vor seiner gestrigen Beförderung verfügte Stephen Miller über außergewöhnlich viel Macht innerhalb der US-Regierung – und galt als gefährlicher Ideologe. Nun macht Donald Trump ihn zum neuen Stabschef. Ein klares Signal an die bröckelnde MAGA-Basis.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8e974c0e-2877-4653-83c4-58ad962096ad_w1200_r1.778_fpx68.66_fpy44.98.jpg"
+        },
+        {
+          "title": "News: Stephen Miller, Susie Wiles, Donald Trump, Sébastien Lecornu, Ilse Aigner, Friedrich Merz, Jan Böhmermann, Wolodymyr Selenskyj",
+          "url": "https://www.spiegel.de/ausland/news-stephen-miller-susie-wiles-donald-trump-sebastien-lecornu-ilse-aigner-friedrich-merz-jan-boehmermann-wolodymyr-selenskyj-a-02aa2aa0-7819-4fda-af2a-f56a8bbcdead#ref=rss",
+          "summary": "Die Wähler wollen weniger Radikalität, der Präsident entscheidet sich für mehr. Friedrich Merz kommt an Ilse Aigner als Bundespräsidentin nicht mehr vorbei. Ein neuer Protesttag in Frankreich. Das ist die Lage am Samstagmorgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
           "title": "Ilse Aigner und Friedrich Merz: Eine gute Kandidatin. Nur eben nicht seine",
           "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-und-friedrich-merz-eine-gute-kandidatin-nur-eben-nicht-seine-a-04e4b9a9-5ab1-4c0d-b8f4-fde61750a853#ref=rss",
           "summary": "Friedrich Merz bestand auf dem Anspruch der CDU, die nächste Bundespräsidentin zu bestimmen. Am Ende haben andere für ihn entschieden.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/9d5a9b62-79c5-46bd-95a4-ccd06a90c7ea_w1200_r1.778_fpx49_fpy46.jpg"
-        },
-        {
-          "title": "Hakeem Jeffries (Demokraten): Der Gegenspieler von Donald Trump im neuen Kongress",
-          "url": "https://www.spiegel.de/ausland/hakeem-jeffries-demokraten-der-gegenspieler-von-donald-trump-im-neuen-kongress-a-c47cce79-ecc5-44cc-9904-0b6eb8179eb0#ref=rss",
-          "summary": "Hakeem Jeffries soll als Sprecher des Repräsentantenhauses das dritthöchste Amt der USA bekleiden. Weniger klar ist, wer demokratischer Mehrheitsführer im Senat wird. Sicher ist nur: Für Donald Trump wird es ungemütlich.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9815a04e-9dc8-453f-9a6f-132c29a8f089_w1200_r1.778_fpx47_fpy39.jpg"
-        },
-        {
-          "title": "USA: Donald Trump ersetzt Stabschefin Susie Wiles – Stephen Miller soll nachfolgen",
-          "url": "https://www.spiegel.de/ausland/usa-donald-trump-ersetzt-stabschefin-susie-wiles-stephen-miller-soll-nachfolgen-a-2c11d3f6-4f4d-43d3-923a-c17f6695c082#ref=rss",
-          "summary": "Die Niederlage bei den US-Midterms hat erste personelle Konsequenzen im Weißen Haus: Trumps Stabschefin Susie Wiles geht. Ihr Nachfolger steht schon fest, es ist ihr bisheriger Stellvertreter Stephen Miller. Er gilt als »Trumps Gehirn«.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b6c8b644-4d4c-4e06-98fd-15321cb51932_w1200_r1.778_fpx69.99_fpy48.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
-          "summary": "Dass die Generalsanierung der Bahnstrecke Berlin-Hannover massive Verspätungen bedeutet, war klar. Doch nun zeigt sich: Die Pünktlichkeit auf der Ausweichstrecke ist selbst für Bahnverhältnisse unterdurchschnittlich. Von Andre Kartschall.",
+          "title": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
+          "summary": "Die USA erleben laut der Gesundheitsbehörde CDC den größten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5. 182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/525cbddc-78d1-446f-954c-e75c9b30fc22/AAABobFnO4M/AAABnSSvrFg/16x9-big/ice-bauselle-strecke-hannover-berlin-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/dda9c1bf-5f7a-4eb5-996d-5b26807a5c39/AAABobQ9m2c/AAABnSSvrFg/16x9-big/cdc-100.jpg?width=1280"
         },
         {
-          "title": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
-          "url": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html",
-          "summary": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
+          "title": "AfD-Leak: Die interne Sorge vor finanziellen Folgen",
+          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
+          "summary": "Wer trägt die Verantwortung für das AfD-Leak? Der Landesverband Mecklenburg-Vorpommern fordert NDR und WDR zufolge, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt. Pittelkow, M. Sarti und K.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/85cdab19-4b63-4e6f-bc57-74cf166b4dd3/AAABobC7KdM/AAABnSSvrFg/16x9-big/orlik-stausee-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bd60b617-030a-4c86-812a-c873b8d8e2b1/AAABobF4JXc/AAABnSSvrFg/16x9-big/afd-774.jpg?width=1280"
         },
         {
-          "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
-          "url": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html",
-          "summary": "Drei Länder in elf Tagen: In Uruguay beginnt Papst Leo XIV. heute seine Südamerika-Reise. Auf ihn warten auch die Heimat seines Vorgängers und ein Wiedersehen mit der eigenen Vergangenheit. Von Anne Herrberg.",
+          "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+          "url": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
+          "summary": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cc733b1a-41a9-4323-9020-173ca154acf1/AAABobOALEY/AAABnSSvrFg/16x9-big/leo-176.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9ba4af40-35be-4904-aca1-68b56c386797/AAABobQmDNQ/AAABnSSvrFg/16x9-big/trump-miller-102.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Trump holt den Hardliner an seine Seite",
+          "url": "https://www.sueddeutsche.de/politik/midterms-niederlage-republikaner-einwanderung-ice-susie-wiles-demokraten-li.3575293",
+          "summary": "Stephen Miller ist der neue Stabschef des US-Präsidenten. Der Aufstieg des Ideologen gilt als beunruhigende Reaktion des Regierungschefs auf das Wahldebakel.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Midterms 2026: US-Regierung gibt im Streit mit Kalifornien auf",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-oval-office-denkmal-kalifornien-klage-li.3573278",
+          "summary": "Das US-Justizministerium hatte dem Bundesstaat vorgeworfen, vorsätzlich Wahlzettel an Nicht-Staatsbürger ausgegeben zu haben. Nach der Wahlschlappe für die Republikaner wird die Klage fallen gelassen.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Newsblog zu den Landtagswahlen: Siegmund schließt mehrere Wahlgänge nicht mehr aus",
           "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-ulrich-siegmund-berlin-vanessa-emde-li.3540501",
           "summary": "Bei der Ministerpräsidentenwahl in Magdeburg wollte der AfD-Politiker Siegmund zunächst nur in einem Wahlgang antreten. Nachdem die CDU ihren Kurs abgesteckt hat, lässt er weitere Versuche nun offen.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Reaktionen: „Ilse Aigner schätzen wir“",
-          "url": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
-          "summary": "Sowohl Grüne als auch die SPD signalisieren ihre Unterstützung für die Kandidatur der CSU-Politikerin für das Amt der Bundespräsidentin. Die Linke kritisiert das Zustandekommen ihrer möglichen Aufstellung.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Midterms 2026: Trump tauscht seine Stabschefin aus",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-oval-office-denkmal-li.3573278",
-          "summary": "Susie Wiles habe „hervorragende Arbeit“ geleistet, schreibt der US-Präsident auf Truth Social. Schon ab Montag soll ihr bisheriger Stellvertreter Stephen Miller den Posten übernehmen.",
           "source": "SZ",
           "paywall": false,
           "image": null
