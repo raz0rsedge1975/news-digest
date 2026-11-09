@@ -1,10 +1,26 @@
 {
-  "generated": "2026-11-09T07:00:08.444Z",
-  "timestamp": "9.11.2026, 08:00:08",
+  "generated": "2026-11-09T11:00:08.454Z",
+  "timestamp": "9.11.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Spionagefall: Die Affäre des Nvidia-Chefs bringt auch Trump in Erklärungsnot",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bleibt-jensen-huang-der-chef-von-nvidia-accg-201664832.html",
+          "summary": "Nvidia-Chef Jensen Huang gibt eine Affäre mit einer Frau zu, die für China spioniert haben soll. Das Unternehmen ermittelt, will aber an Huang festhalten. Vorerst.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/142f76dcaaf9/w4351h2273x0y274o/202611/03ea596e-7d64-402b-95d0-fca1e5e9b3f2/kann-nvidia-chef-jensen-huang.webp"
+        },
+        {
+          "title": "Huang-Affäre: Nvidia-Aktie nach Spionage-Verdacht vorbörslich im Minus",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktienkurs-wegen-spionage-verdacht-im-minus-201664216.html",
+          "summary": "Nvidia-Chef Jensen Huang hat gegenüber seiner Belegschaft eine außereheliche Beziehung eingestanden. Der Aktienkurs des Unternehmens verliert vor Börseneröffnung sechs Prozent.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/96d2509a8fad/w4096h2140x0y328o/202611/fc7398dc-7065-44cb-be2b-41b49d61c0ab/nvidia-chef-jensen-huang-bei.webp"
+        },
         {
           "title": "Klimakonferenz: Adana versinkt in deutschem Plastikmüll",
           "url": "https://www.faz.net/aktuell/politik/ausland/un-klimakonferenz-antalya-2026-adana-versinkt-in-deutschem-plastikmuell-accg-201652552.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/3efc4e9aacbd/w5472h2859x0y394o/202611/b0c247fb-cae7-4264-9872-4677fb148dde/eine-baby-schildkroete-kriecht.webp"
-        },
-        {
-          "title": "Klimakonferenz: Die Welt soll zum Stromer werden",
-          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/cop31-in-antalya-klimakonferenz-startet-mit-streit-um-fossile-energien-accg-201651541.html",
-          "summary": "Von Montag an beraten in Antalya fast 200 Regierungen über den weiteren Kampf gegen die Klimakrise. Eine „Koalition der Willigen“ will den Ausstieg aus fossilen Energieträgern vorantreiben.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e354d4d2f642/w5500h2873x0y393o/202609/43601.0.2526549311/ein-strommast-ist-bei.webp"
-        },
-        {
-          "title": "Weltklimakonferenz: Die Union sollte der SPD nicht die Klimakonferenz überlassen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/cop31-in-antalya-warum-deutschlands-schwache-praesenz-ein-fehler-ist-201663163.html",
-          "summary": "Der Klimaschutz braucht die Ausweitung des CO₂-Handels, nicht die Zwangselektrifizierung mit Erneuerbaren.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/79d854571103/w6048h3160x0y432o/202611/a1cdf295-1ace-441b-b557-9d9e68c355a6/waldbraende-in-indonesien-nur.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Nvidia: Jensen Huang gesteht Affäre mit mutmaßlicher China-Spionin - was folgt daraus?",
-          "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss",
-          "summary": "Jensen Huang, Nvidia-Mastermind und Galionsfigur des KI-Booms, gesteht einen Seitensprung mit einer mutmaßlichen chinesischen Spionin. Sein Konzern untersucht den Fall. Der SPIEGEL klärt die wichtigsten Fragen.",
+          "title": "Weltwirtschaft: Rekordschulden und hohe Zinsen – die nächste Krise droht",
+          "url": "https://www.spiegel.de/wirtschaft/weltwirtschaft-rekordschulden-und-hohe-zinsen-die-naechste-krise-droht-a-2d149777-04ca-464d-9028-0a15f1375006#ref=rss",
+          "summary": "Weltweit wirtschaften Regierungen über ihre Verhältnisse. Die USA und China haben Rekordschulden angehäuft und zahlen hohe Zinsen. Besonders gefährdet ist jedoch Europa.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7522ff37-5058-4d4c-ab48-b8a799ee3c08_w1200_r1.778_fpx43_fpy79.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3232c536-f0ac-4574-9f6e-5d0f678e06b7_w1200_r1.778_fpx48.68_fpy44.98.jpg"
         },
         {
-          "title": "Polen: Todesschütze von Krakau ist tot",
-          "url": "https://www.spiegel.de/ausland/polen-todesschuetze-von-krakau-ist-tot-a-96a6c452-58ed-43d9-a789-4eacf0edef28#ref=rss",
-          "summary": "Am Samstag erschoss ein 24-Jähriger im Zentrum von Krakau mehrere Menschen. Beim nachfolgenden Polizeieinsatz wurde er selbst getroffen. Nun ist der Mann seinen Verletzungen erlegen.",
+          "title": "Wagner zum 9. November: »Junge Menschen klettern in die Öfen des Krematoriums und zeigen das White-Power-Zeichen«",
+          "url": "https://www.spiegel.de/geschichte/wagner-zum-9-november-junge-menschen-klettern-in-die-oefen-des-krematoriums-und-zeigen-das-white-power-zeichen-a-d789ffd9-1a42-4b04-8c37-a2e75d730f65#ref=rss",
+          "summary": "Nach der Pogromnacht vom 9. November 1938 wurden 30. 000 Juden in Konzentrationslager verschleppt. Historiker Jens-Christian Wagner erklärt, was mit ihnen geschah und wie Gedenkstätten von Provokateuren missbraucht werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7316a1aa-0731-4193-9b91-e8cc1e6a9a34_w1200_r1.778_fpx30_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e846d0e1-74b4-40f0-b633-04ab807eb80e_w1200_r1.778_fpx37.56_fpy50.jpg"
         },
         {
-          "title": "News: Merz verkündet Aigner-Kandidatur, Weltklimakonferenz in Antalya, Nvidia-Chef Jensen Huang gesteht Affäre",
-          "url": "https://www.spiegel.de/politik/deutschland/news-merz-verkuendet-aigner-kandidatur-weltklimakonferenz-in-antalya-nvidia-chef-jensen-huang-gesteht-affaere-a-7eab2193-35c9-42f8-aef3-5225020c4930#ref=rss",
-          "summary": "Friedrich Merz macht die Kandidatur von Ilse Aigner amtlich. In Antalya beginnt die 31. Weltklimakonferenz. Und der Nvidia-Chef Jensen Huang hat eine Riesendummheit begangen. Das ist die Lage am Montagmorgen.",
+          "title": "Claudia Roth: Antisemitismus-Netzwerk der Grünen kritisiert Politikerin",
+          "url": "https://www.spiegel.de/politik/deutschland/claudia-roth-antisemitismus-netzwerk-der-gruenen-kritisiert-politikerin-a-3773d5cd-044f-4dc5-910b-4c8eadcc6a8b#ref=rss",
+          "summary": "2024 wollte Claudia Roth nicht von »Genozid« und »Apartheid« im Gazastreifen und Westjordanland sprechen. Nun rückte sie in einem Podcast davon ab. Das stößt auch innerhalb ihrer Partei auf Kritik.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/383fe5f8-012b-420a-b016-01740b135bc1_w1200_r1.778_fpx47.99_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d670860b-a215-4a8d-bba1-c37318eff07f_w1200_r1.778_fpx48.66_fpy54.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "G7-Außenminister sprechen über Ukraine und Iran",
-          "url": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
-          "summary": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris, an denen auch US-Außenminister Rubio teilnimmt.",
+          "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
+          "summary": "US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem \"Scherz\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1812b21f-4859-4a69-9400-67851b6076b7/AAABob8PcAg/AAABnSSvrFg/16x9-big/barrot-116.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1f508e69-acc6-4d7b-a273-fb2285126233/AAABob-mde8/AAABnSSvrFg/16x9-big/white-trump-100.jpg?width=1280"
         },
         {
-          "title": "Todesschütze von Krakau ist tot",
-          "url": "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
-          "summary": "Die tödlichen Schüsse in Krakau haben Entsetzen ausgelöst, aber auch viele Fragen aufgeworfen. Vor allem nach dem Motiv des Täters. Er kann nicht mehr vernommen werden. Der 24-Jährige starb im Krankenhaus.",
+          "title": "Das ist der Weg zum neuen Staatsoberhaupt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html",
+          "summary": "Es soll eine Frau werden - und sie kommt aus der CSU: Ilse Aigner wäre in mehrfacher Hinsicht eine Premiere für Deutschland. Aber gewählt ist das neue Staatsoberhaupt noch nicht. Wer wählt da überhaupt und könnte es noch weitere Kandidaten geben?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b37f455e-5f09-4bb8-b717-e2ef584c52c1/AAABob8GgTA/AAABnSSvrFg/16x9-big/krakau-178.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0323293e-a16e-47e6-8d71-db49fe08b315/AAABob_JBQM/AAABnSSvrFg/16x9-big/steinmeier-1500.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Kurserholung bleibt vorerst wohl aus",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-          "summary": "Nach dem Ausverkauf in der vergangenen Woche hoffen die Anleger jetzt auf eine Gegenbewegung. Bislang bleiben die Märkte aber risikoscheu, der DAX dürfte schwächer in die Woche starten.",
+          "title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
+          "url": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html",
+          "summary": "Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1cd7783b-220b-4d14-9b74-536f856c926b/AAABnjsd-94/AAABnSSvrFg/16x9-big/dax-220.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f3092d9a-98d8-4c23-a956-de5bcf0abf83/AAABob_NIJ4/AAABnSSvrFg/16x9-big/kuestenwache-griechenland-104.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "China baut schwimmende „Forschungsinsel“ für den Dauereinsatz auf hoher See",
-          "url": "https://www.telepolis.de/article/China-baut-schwimmende-Forschungsinsel-fuer-den-Dauereinsatz-auf-hoher-See-11511328.html",
-          "summary": "Die Plattform soll Wellen von 20 Metern trotzen und über 200 Wissenschaftler beherbergen. Fertigstellung des Großprojekts soll 2030 sein. Ein Überblick.",
+          "title": "Plastiksteuer: Umwelthilfe will auch Papier und Alu besteuern",
+          "url": "https://www.telepolis.de/article/Plastiksteuer-Umwelthilfe-will-auch-Papier-und-Alu-besteuern-11514788.html",
+          "summary": "Ab Juli 2027 sollen 550 Euro pro Tonne Plastikverpackung fällig werden. Die Umwelthilfe will verhindern, dass Firmen auf Papier oder Pappe ausweichen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/4/6/0/1/aff13f3ef1df43319e9e3f9458aefde3-fad449c66fcb5ca8.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/6/3/6/5/plastik_joghurtbecher-1-01-a3d31f33a5d71aa3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Africa Energy Bank: Fünf Mrd. US-Dollar gegen westlichen Rückzug",
-          "url": "https://www.telepolis.de/article/Africa-Energy-Bank-Fuenf-Mrd-US-Dollar-gegen-westlichen-Rueckzug-11516310.html",
-          "summary": "Die Africa Energy Bank soll Öl- und Gasprojekte finanzieren, die keine internationalen Geldgeber finden. Doch was kann die neue Bank wirklich leisten?",
+          "title": "Spionage-Affäre: Jensen Huang bleibt (vorerst) Nvidia-CEO",
+          "url": "https://www.telepolis.de/article/Spionage-Affaere-Jensen-Huang-bleibt-vorerst-Nvidia-CEO-11516993.html",
+          "summary": "Eine Affäre mit einer mutmaßlichen Agentin Pekings erschüttert den Chipriesen, Trump und Musk signalisieren Unterstützung für Huang. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/1/4/2/oildrop_ho-b24f46317fbebea7.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/4/8/4/shutterstock_2321347753-991984ab1d64dc2e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Ein Reddit-Post reicht: Wie Gemini einen Professor zum Straftäter macht",
-          "url": "https://www.telepolis.de/article/Ein-Reddit-Post-reicht-Wie-Gemini-einen-Professor-zum-Straftaeter-macht-11515234.html",
-          "summary": "Zwei Gerichtsurteile machen Google für KI-generierte Falschaussagen verantwortlich. Trotzdem verbreitet Gemini rufschädigende Behauptung über einen Professor.",
+          "title": "„Minotaur“: Wie weit geht ein Mann, der alles behalten will?",
+          "url": "https://www.telepolis.de/article/Minotaur-Wie-weit-geht-ein-Mann-der-alles-behalten-will-11516889.html",
+          "summary": "Ein Unternehmer schützt seine Leute und riskiert sein Familienglück. Swjaginzews packendes Drama führt in ein Russland, in dem der Krieg den Alltag durchdringt.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/6/5/9/4/gemini-01-8e766fb9d0334b4a.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/4/3/2/Master_Minotaur-a710820060af2d3c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Gewaltverbrechen in Polen: Polizei: Todesschütze von Krakau ist tot",
-          "url": "https://www.sueddeutsche.de/politik/krakau-anschlag-taeter-tot-li.3577335",
-          "summary": "Der Mann, der am Samstag aus einem mutmaßlich rechtsextremen Motiv sechs Menschen erschoss, ist laut Polizei im Krankenhaus seinen Verletzungen erlegen.",
+          "title": "SZ Wirtschaftsgipfel: JU-Chef Winkel: Aigner soll „die Menschen wieder zusammenführen“",
+          "url": "https://www.sueddeutsche.de/wirtschaft/sz-wirtschaftsgipfel-2026-liveblog-li.3575578",
+          "summary": "Der 20. SZ Wirtschaftsgipfel in Berlin hat begonnen. Den Auftakt auf der Bühne machte Johannes Winkel, Vizefraktionschef der Unionsbundestagsfraktion und Vorsitzender der Jungen Union.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zur Bundespolitik: Unionsfraktionschef Frei: „Plastiksteuer machen wir nicht“",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-plastiksteuer-frei-union-bundesetat-li.3568524",
-          "summary": "Die Plastiksteuer hätte ökonomisch und ökologisch eine falsche Wirkung, sagt der CDU-Politiker im ZDF. Kommt sie nicht, dürfte im geplanten Bundesetat 2027 eine Lücke von etwa 670 Millionen Euro entstehen.",
+          "title": "Newsblog zur Bundespolitik: Merz schlägt Aigner offiziell als Bundespräsidentin vor – SPD dafür",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-newsblog-ilse-aigner-bundespraesidentin-spd-li.3568524",
+          "summary": "Der Kanzler nennt Aigner laut dpa im CDU-Vorstand als Kandidatin für die Wahl. Aus der SPD heißt es, die CSU-Politikerin sei eine „erfahrene, bodenständige Politikerin“, die Menschen zusammenzuführen könne.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "TV-Kritik: Wieviel Schaden kann eine wütende lahme Ente anrichten?",
-          "url": "https://www.sueddeutsche.de/medien/caren-miosga-ard-tv-kritik-sigmar-gabriel-li.3575576",
-          "summary": "Der ehemalige Außenminister und SPD-Vorsitzende Sigmar Gabriel kommentiert bei Caren Miosga den Ausgang der Wahlen in den USA und die Zukunft seiner Partei. Man kann sich die Welt von ihm aber neuerdings auch kompakter auf Tiktok erklären lassen.",
+          "title": "Koch in Australien: Er verlor lieber seinen Job, als Ananas auf eine Pizza zu legen",
+          "url": "https://www.sueddeutsche.de/panorama/italienischer-koch-pizza-hawaii-australien-brisbane-ananas-li.3574837",
+          "summary": "Ein italienischer Koch in Brisbane, Australien, kam dem Wunsch eines Gastes nicht nach – und wurde gekündigt. Nun hat er den Restaurantchef vor Gericht gezerrt. Ein kulturelles Missverständnis?",
           "source": "SZ",
           "paywall": false,
           "image": null
