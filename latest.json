@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T23:00:07.862Z",
-  "timestamp": "9.11.2026, 00:00:07",
+  "generated": "2026-11-09T03:00:07.263Z",
+  "timestamp": "9.11.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Unionsfraktionschef erteilt Plastiksteuer eine Absage",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
-          "summary": "Unionsfraktionschef Frei erteilt der geplanten Plastiksteuer eine Absage. Sie sei \"wirtschaftlich und ökologisch falsch\". Anders klingt das bei SPD-Fraktionschef Miersch, der auf laufende Verhandlungen verweist.",
+          "title": "Historische Niederlage: ANC stürzt bei Kommunalwahl in Südafrika ab",
+          "url": "https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html",
+          "summary": "Bei den Kommunalwahlen in Südafrika hat der Afrikanische Nationalkongress (ANC) eine herbe Niederlage eingefahren. Viele sind angesichts Kriminalität und Korruption enttäuscht von der Partei, die das Land aus der Apartheid geführt hatte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0b4eb7e8-ea70-4f51-ab70-7582d3bc0166/AAABleXrA9I/AAABnSSvrFg/16x9-big/einwegverpackung-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0fc3f227-32a1-4044-8aa7-382c07e228a9/AAABob4F528/AAABnSSvrFg/16x9-big/wahlen-suedafrika-104.jpg?width=1280"
         },
         {
-          "title": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
-          "url": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html",
-          "summary": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe.",
+          "title": "Krakau nach der Tat - der Stand der Ermittlungen",
+          "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-100.html",
+          "summary": "Hunderte Menschen in Krakau haben gemeinsam der sechs Opfer gedacht, die am Wochenende auf einem zentralen Platz der Stadt erschossen wurden. Gleichzeitig ermitteln die Behörden weiter - wegen des Verdachts auf Terrorismus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/44a105b9-9c17-4637-8e97-57afaf52ade8/AAABobykDyM/AAABnSSvrFg/16x9-big/gaza-regen-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/81a01bbb-232d-47f0-8ca3-44f93124ef9e/AAABob3NP1o/AAABnSSvrFg/16x9-big/krakau-176.jpg?width=1280"
         },
         {
-          "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
-          "summary": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
+          "title": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+          "url": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+          "summary": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6da58f42-1c07-49a0-b569-a2efe0a6b4c1/AAABobzD-w8/AAABnSSvrFg/16x9-big/aigner-merz-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1f30676a-63bb-4057-a135-fb0db6a3cdc5/AAABob2ckP8/AAABnSSvrFg/16x9-big/papst-1178.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "China baut schwimmende „Forschungsinsel“ für den Dauereinsatz auf hoher See",
+          "url": "https://www.telepolis.de/article/China-baut-schwimmende-Forschungsinsel-fuer-den-Dauereinsatz-auf-hoher-See-11511328.html",
+          "summary": "Die Plattform soll Wellen von 20 Metern trotzen und über 200 Wissenschaftler beherbergen. Fertigstellung des Großprojekts soll 2030 sein. Ein Überblick.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/4/6/0/1/aff13f3ef1df43319e9e3f9458aefde3-fad449c66fcb5ca8.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Africa Energy Bank: Fünf Mrd. US-Dollar gegen westlichen Rückzug",
           "url": "https://www.telepolis.de/article/Africa-Energy-Bank-Fuenf-Mrd-US-Dollar-gegen-westlichen-Rueckzug-11516310.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/6/5/9/4/gemini-01-8e766fb9d0334b4a.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Florian Schroeders „Journal Deluxe“ im ZDF: Der wichtigste Gast ist er selbst",
-          "url": "https://www.telepolis.de/article/Florian-Schroeders-Journal-Deluxe-im-ZDF-Der-wichtigste-Gast-ist-er-selbst-11516537.html",
-          "summary": "Die neue ZDF-Show kreist vor allem um ihren Gastgeber. Dahinter steckt ein größeres Problem: ein Fernsehformat, dem die Ideen ausgehen. Eine TV-Kritik.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/2/5/6/Master_Bartels-42fac8f7cb3403d8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
