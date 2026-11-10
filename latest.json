@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-09T23:00:07.232Z",
-  "timestamp": "10.11.2026, 00:00:07",
+  "generated": "2026-11-10T03:00:07.970Z",
+  "timestamp": "10.11.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Angst vor KI: Die KI macht Anfängern den Berufseinstieg schwer",
-          "url": "https://www.faz.net/aktuell/wirtschaft/die-ki-macht-anfaengern-den-berufseinstieg-schwer-201666471.html",
-          "summary": "Das überrascht: In den Berufen, auf die ein besonders großer Einfluss der Künstlichen Intelligenz vermutet wird, steigt die Beschäftigung in Deutschland besonders schnell.",
+          "title": "Spionage-Verdacht: Anleger klagen gegen Nvidia-Chef Jensen Huang",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anleger-klagen-gegen-nvidia-chef-jensen-huang-accg-201667752.html",
+          "summary": "Nach Bekanntwerden seiner Affäre mit einer mutmaßlichen chinesischen Spionin wächst der Druck auf Jensen Huang. US-Präsident Trump verteidigt den Nvidia-CEO – noch.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8e30ca584823/w6000h3135x0y410o/202611/53dfcaa1-7539-429f-ba76-63a5622e3dd7/nimmt-die-ki-den-menschen-die.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ebf8774ab1ed/w2800h1463x0y117o/202611/583f19bf-045e-4f6c-b20d-bdafc65a2e11/alice-huang-m-soll-eine.webp"
         },
         {
-          "title": "Nobelpreisträger Acemoglu: „Wo es Groll gibt, hat die Identitätspolitik die Spaltung vertieft“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/daron-acemoglu-wir-steuern-mit-volldampf-in-die-falsche-richtung-accg-201269417.html",
-          "summary": "Die Krise der liberalen Demokratie ist nicht vorbei, warnt der Ökonom Daron Acemoglu, auch wenn in den US-Wahlen Donald Trumps Partei verloren hat. Ein Gespräch über KI und linke Parteien, die die Arbeiter vergessen haben.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/2d1f313f1a08/w5404h2823x0y955o/202412/43601.0.733868291/sieht-eine-hausgemachte-krise.webp"
-        },
-        {
-          "title": "Business-Ticker: Anthropic präsentiert vor dem Börsengang verbesserte KI-Modelle",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-fable-und-mythos-vor-dem-boersengang-verbessert-faz-200452404.html",
-          "summary": "Fable 5.2 und Mythos 5.2 sind schneller und billiger als ihre Vorgänger +++ Aldi Süd erhöht Mindestlohn ab Dezember von 15 auf 16 Euro +++ Unicredit will Commerzbank zügig integrieren +++ alle Neuigkeiten im Unternehmen-Liveblog",
+          "title": "Jensen Huang: Er ist quasi Nvidia – aber wie lange noch?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-ist-nun-chipkoenig-auf-abruf-von-nvidia-201665989.html",
+          "summary": "Der Chef des wichtigsten Chipherstellers der Welt hat eine Affäre mit einer Chinesin eingeräumt, die unter Spionageverdacht steht. Jensen Huangs Integrität ist dauerhaft beschädigt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4ae63c5bd0c7/w5000h2612x0y360o/202611/cac8c99c-f271-4354-b1a0-67f50ae0642d/dario-amodei-mitgruender-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/c42128c95159/w2684h1402x547y298o/202611/42444827-0c6e-42be-a9ea-3f624b79cffb/bleibt-jensen-huang-der-chef.webp"
+        },
+        {
+          "title": "Spionagefall: Die Staatsaffäre Huang",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bleibt-jensen-huang-der-chef-von-nvidia-accg-201664832.html",
+          "summary": "Nvidia-Chef Jensen Huang gibt eine Affäre mit einer Frau zu, die für China spioniert haben soll. Das Unternehmen ermittelt, will aber an Huang festhalten. Vorerst.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/dd35aeb948ea/w4351h2273x0y87o/202611/03ea596e-7d64-402b-95d0-fca1e5e9b3f2/kann-nvidia-chef-jensen-huang.webp"
         }
       ]
     },
@@ -43,12 +43,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/661fc172-1c71-469f-b742-7b11fcba295c_w1200_r1.778_fpx66.67_fpy50.jpg"
         },
         {
-          "title": "News des Tages: Ilse Aigner stichelt, US-Demokraten prüfen Trump, Trauer in Berlin",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-ilse-aigner-stichelt-us-demokraten-pruefen-trump-trauer-in-berlin-a-92322155-cba8-455c-8836-67fac2c7898c#ref=rss",
-          "summary": "Die künftige Bundespräsidentin stichelt gegen den Kanzler. Die US-Demokraten kündigen Untersuchungen gegen Trumps Umfeld an. Und der Tod einer Schülerin erschüttert Berlin. Das ist die Lage am Montagabend.",
+          "title": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/bundesregierung-meldet-milliardenschwere-mehrausgaben-fuer-den-haushalt-2027-a-b3c6d481-3700-4ddb-886c-2d0adeb6e46b#ref=rss",
+          "summary": "Die Bundesregierung benötigt mehr Geld für den Haushalt des kommenden Jahres – unter anderem für Elektroautoprämien. Die höchste Mehrausgabe geht laut der dem SPIEGEL vorliegenden Liste an die Bundesagentur für Arbeit.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8827ce12-c7ae-4e62-af89-ee67a73ab8fc_w1200_r1.778_fpx49_fpy31.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/34790233-cfb6-46c2-8f5e-dc4caa20212d_w1200_r1.778_fpx39.72_fpy50.jpg"
         },
         {
           "title": "Ilse Aigner gibt sich präsidial. Aber den kleinen Seitenhieb kann sie sich nicht verkneifen",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+          "summary": "Heute beginnen die trilateralen Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland zu einem echten Frieden führen - oder gar zu einer Schwächung der Ukraine? In der Ukraine sind die Erwartungen gedämpft. Kellermann.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1280"
+        },
+        {
+          "title": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
+          "summary": "Seit Oktober gibt es den \"Tankrabatt\". Verkehrsminister Bilger findet das richtig. Entlastung sei nötig gewesen, sagte er in der ARD-Arena. Kritisch blickt er auf Debatten über ein generelles Tempolimit.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/04fb5198-54f4-440b-be52-62232f73736b/AAABocKLadA/AAABnSSvrFg/16x9-big/bilger-144.jpg?width=1280"
+        },
+        {
           "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
           "url": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
           "summary": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocIW318/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1280"
-        },
-        {
-          "title": "Republikaner Massie will Hegseth des Amtes entheben",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
-          "summary": "Nach der Wahlniederlage bei den Midterms wächst der Druck auf die US-Republikaner - auch wegen des Iran-Kriegs. Nun hat der Trump-kritische Republikaner Massie ein Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth auf den Weg gebracht.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/85834255-e228-40b1-8a1d-6641c23f17fb/AAABocIR93A/AAABnSSvrFg/16x9-big/hegseth-186.jpg?width=1280"
-        },
-        {
-          "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
-          "url": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
-          "summary": "Argentinien ist im \"Papa-León-Fieber\": An einem gigantischen Freiluft-Gottesdienst nahmen gut zwei Millionen Menschen teil. Leo XIV. würdigte dabei die Bedeutung der Familie und plädierte für den Schutz der Schwachen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/66cc38c8-763c-447b-8cf8-ad9a272272b5/AAABocGpaq0/AAABnSSvrFg/16x9-big/papst-leo-230.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Mali, Niger, Burkina Faso: Der Sahel bündelt seine Kräfte",
+          "url": "https://www.telepolis.de/article/Mali-Niger-Burkina-Faso-Der-Sahel-buendelt-seine-Kraefte-11517620.html",
+          "summary": "Drei Militärführer, ein Gedanke: afrikanische Selbstbestimmung. Die Sahel-Allianz, ihre Herkunft, ihre Widersacher – und aktuelle Grenzen. Eine Analyse.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/8/0/0/shutterstock_2574239383-ae41fc5e951a57e8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "„Er ist Nvidia“: Warum eine Affäre den wertvollsten Chipkonzern erschüttert",
           "url": "https://www.telepolis.de/article/Er-ist-Nvidia-Warum-eine-Affaere-den-wertvollsten-Chipkonzern-erschuettert-11517980.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/7/7/5/shutterstock_549938710-fafd69498478b550.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Europas strategische Rechnung nach der US-Wahl geht nicht auf",
-          "url": "https://www.telepolis.de/article/Europas-strategische-Rechnung-nach-der-US-Wahl-geht-nicht-auf-11517358.html",
-          "summary": "Der US-Kongress wechselt die Farbe, Europas Dilemma bleibt bestehen. Welche Lehre ziehen Merz und von der Leyen aus Trumps Niederlage? Ein Gastbeitrag.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/6/6/7/shutterstock_2482039461-58699dfdbcadbd85.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
