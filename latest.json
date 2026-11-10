@@ -1,14 +1,22 @@
 {
-  "generated": "2026-11-10T03:00:07.970Z",
-  "timestamp": "10.11.2026, 04:00:07",
+  "generated": "2026-11-10T07:00:08.761Z",
+  "timestamp": "10.11.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Frustrierte Maschinenbauer: „Deutschland macht uns fassungslos“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vdma-praesident-bertram-kawlath-deutschland-macht-uns-fassungslos-accg-201661284.html",
+          "summary": "Der Maschinenbau soll die krisengeplagte deutsche Industrie stützen. Aber vor dem Gipfeltreffen der Branche sieht VDMA-Präsident Bertram Kawlath den Standort nahe dem Kipppunkt.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/0a131a591e79/w3000h1567x0y155o/202005/43600.0.1384941378/der-deutsche-maschinenbau-hier.webp"
+        },
+        {
           "title": "Spionage-Verdacht: Anleger klagen gegen Nvidia-Chef Jensen Huang",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anleger-klagen-gegen-nvidia-chef-jensen-huang-accg-201667752.html",
-          "summary": "Nach Bekanntwerden seiner Affäre mit einer mutmaßlichen chinesischen Spionin wächst der Druck auf Jensen Huang. US-Präsident Trump verteidigt den Nvidia-CEO – noch.",
+          "summary": "Nach Bekanntwerden seiner Affäre mit einer mutmaßlichen chinesischen Spionin wächst der Druck auf Jensen Huang. Das FBI ermittelt. US-Präsident Trump verteidigt den Nvidia-CEO – noch.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/ebf8774ab1ed/w2800h1463x0y117o/202611/583f19bf-045e-4f6c-b20d-bdafc65a2e11/alice-huang-m-soll-eine.webp"
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/c42128c95159/w2684h1402x547y298o/202611/42444827-0c6e-42be-a9ea-3f624b79cffb/bleibt-jensen-huang-der-chef.webp"
-        },
-        {
-          "title": "Spionagefall: Die Staatsaffäre Huang",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bleibt-jensen-huang-der-chef-von-nvidia-accg-201664832.html",
-          "summary": "Nvidia-Chef Jensen Huang gibt eine Affäre mit einer Frau zu, die für China spioniert haben soll. Das Unternehmen ermittelt, will aber an Huang festhalten. Vorerst.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/dd35aeb948ea/w4351h2273x0y87o/202611/03ea596e-7d64-402b-95d0-fca1e5e9b3f2/kann-nvidia-chef-jensen-huang.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Patricia Schlesinger: ARD-Skandal um frühere RBB-Intendantin vor Gericht",
+          "url": "https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht-a-dcab2715-07d7-4f56-8125-ea704b86ec98#ref=rss",
+          "summary": "Abendessen auf Senderkosten, ein London-Trip mit dem Ehemann, hohe Boni: Der Strafprozess gegen die Ex-RBB-Intendantin Patricia Schlesinger beginnt in Berlin. Der Fall gilt als Symbol für das Verpulvern von Rundfunkbeiträgen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/605f639a-8444-4513-92e4-5080f7f42288_w1200_r1.778_fpx44_fpy45.jpg"
+        },
+        {
+          "title": "Pete Hegseth: Republikaner Thomas Massie beantragt Impeachment-Einleitung",
+          "url": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-thomas-massie-beantragt-impeachment-einleitung-a-5552197f-623a-4f28-a3e4-df481021d55d#ref=rss",
+          "summary": "Seit Jahren liegt Thomas Massie im Clinch mit dem US-Präsidenten. Inzwischen hat der republikanische Abgeordnete nichts mehr zu verlieren – und knöpft sich Donald Trumps Verteidigungsminister vor. Die Partei wird zum Loyalitätstest gezwungen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f075bf3f-527c-4f5c-8964-14f77ce36d26_w1200_r1.778_fpx68_fpy37.jpg"
+        },
+        {
           "title": "Marco Rubio: Nach Trumps Wahlniederlage bleibt sein Außenminister vage",
           "url": "https://www.spiegel.de/politik/deutschland/marco-rubio-nach-trumps-wahlniederlage-bleibt-sein-aussenminister-vage-a-ec3ef6e5-4d2a-4b0d-a054-e164ca0975b1#ref=rss",
           "summary": "Ein Satz von Donald Trump, dass die Ukraine nach einem Abkommen mit Russland eine »etwas andere Form« haben werde, alarmiert die Europäer. Außenminister Wadephul hat jetzt mit seinem US-Amtskollegen Rubio gesprochen.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/661fc172-1c71-469f-b742-7b11fcba295c_w1200_r1.778_fpx66.67_fpy50.jpg"
-        },
-        {
-          "title": "Bundesregierung meldet milliardenschwere Mehrausgaben für den Haushalt 2027",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/bundesregierung-meldet-milliardenschwere-mehrausgaben-fuer-den-haushalt-2027-a-b3c6d481-3700-4ddb-886c-2d0adeb6e46b#ref=rss",
-          "summary": "Die Bundesregierung benötigt mehr Geld für den Haushalt des kommenden Jahres – unter anderem für Elektroautoprämien. Die höchste Mehrausgabe geht laut der dem SPIEGEL vorliegenden Liste an die Bundesagentur für Arbeit.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/34790233-cfb6-46c2-8f5e-dc4caa20212d_w1200_r1.778_fpx39.72_fpy50.jpg"
-        },
-        {
-          "title": "Ilse Aigner gibt sich präsidial. Aber den kleinen Seitenhieb kann sie sich nicht verkneifen",
-          "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss",
-          "summary": "Friedrich Merz stellt Ilse Aigner als seine Kandidatin für das Bundespräsidentenamt vor. Markus Söder erinnert daran, dass Aigner seine Idee war. Und Aigner selbst? Gibt vage Hinweise auf das, was sie vorhat.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8827ce12-c7ae-4e62-af89-ee67a73ab8fc_w1200_r1.778_fpx33.34_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
-          "summary": "Heute beginnen die trilateralen Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland zu einem echten Frieden führen - oder gar zu einer Schwächung der Ukraine? In der Ukraine sind die Erwartungen gedämpft. Kellermann.",
+          "title": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
+          "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
+          "summary": "Hat sich Patricia Schlesinger in ihrer Zeit als Intendantin des rbb strafbar gemacht? Heute wird gegen sie und drei weitere Angeklagte der Prozess eröffnet. Das Gericht geht von 56 Verhandlungstagen aus.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/359f2fcf-a8ed-44fb-99fc-36c901fb94da/AAABocLfjcw/AAABnSSvrFg/16x9-big/ukraine-kiew-flagge-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/120ac294-fc32-42f0-ae46-dc9e50f2a4e3/AAABocPXvl8/AAABnSSvrFg/16x9-big/rbb-630982654-100.jpg?width=1280"
         },
         {
-          "title": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
-          "summary": "Seit Oktober gibt es den \"Tankrabatt\". Verkehrsminister Bilger findet das richtig. Entlastung sei nötig gewesen, sagte er in der ARD-Arena. Kritisch blickt er auf Debatten über ein generelles Tempolimit.",
+          "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
+          "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die Linke lud Aigner bislang nicht ein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/04fb5198-54f4-440b-be52-62232f73736b/AAABocKLadA/AAABnSSvrFg/16x9-big/bilger-144.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f3d020e0-362d-4ea6-aad7-fab6cd684d60/AAABocQLG68/AAABnSSvrFg/16x9-big/aigner-160.jpg?width=1280"
         },
         {
-          "title": "Merz verteidigt Ablauf der Nominierung von Aigner",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
-          "summary": "199 Tage hat es gedauert, bis sich Kanzler Merz hinter Aigner als Kandidatin zur Bundespräsidentin stellte. Im tagesthemen-Interview verteidigt er den Prozess, der \"störungsfrei\" und \"harmonisch\" abgelaufen sei. Aigner sei die Richtige für das Amt.",
+          "title": "Marktbericht: DAX nähert sich wieder dem Rekordhoch",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
+          "summary": "Nach dem Kursrutsch folgt die Erholungsrally: Der DAX dürfte auch heute deutlich zulegen, der Sprung bis zum Allzeithoch ist nicht mehr weit. Vor allem die gesunkenen Ölpreise stützen den Markt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/959a7fee-357f-4092-a4e7-843f1ce6ebbe/AAABocIW318/AAABnSSvrFg/16x9-big/sendungsbild-1825142.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/afd0f471-6be5-49a9-ae5a-3e5ac396e211/AAABldcpwIk/AAABnSSvrFg/16x9-big/boerse-358.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zur Bundespolitik: Grünen-Spitze stützt Roth in Antisemitismus-Debatte",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-claudia-roth-gruene-antisemitismus-berlinale-li.3568524",
-          "summary": "Die ehemalige grüne Kulturstaatsministerin räumt rückblickend Fehler im Umgang mit Äußerungen zum Gaza-Krieg ein. Das sorgt bei einigen für Empörung. Die Parteichefin verteidigt Roth, kritisiert aber eine Formulierung.",
+          "title": "Krieg in der Ukraine: Ukraine-Verhandlungen in Abu Dhabi starten",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verhandlungen-kiew-moskau-usa-abu-dhabi-li.3571967",
+          "summary": "Moskau und Kiew verhandeln unter US-Vermittlung, ein Durchbruch wird nicht erwartet. Ukrainische Schlüsselfragen sind Sicherheitsgarantien, eine Waffenruhe im Schwarzen Meer und das Ende der Angriffe auf Energieanlagen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "USA: Republikaner bringt Amtsenthebungsverfahren gegen Hegseth auf den Weg",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-trump-ergebnis-zweifel-li.3573278",
-          "summary": "Der scheidende republikanische Abgeordnete Thomas Massie versucht nach den verlorenen Zwischenwahlen, den Verteidigungsminister loszuwerden. US-Präsident Trump zweifelt nun doch die Wahlergebnisse an.",
+          "title": "Deutsche Bahn lenkt ein: Streichpläne für Augsburg – München vollständig vom Tisch",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-augsburg-deutsche-bahn-zugverbindung-streichungen-li.3577917",
+          "summary": "Nun soll sogar versucht werden, ab 2029 mehr Platz in den Zügen zu schaffen. Das könnte aber an zwei Hindernissen scheitern. Auch der Ausbau des überlasteten Bahnknotens München bereitet Probleme.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "KI-Unternehmen Mistral: Französische Rezepte gegen den Kontrollverlust",
-          "url": "https://www.sueddeutsche.de/wirtschaft/mistral-kuenstliche-intelligenz-europa-open-source-ki-modelle-li.3577724",
-          "summary": "Bei Cloud und Software hat Europa die Wertschöpfung anderen überlassen. Bei KI gibt es noch eine Chance, nicht abgehängt zu werden. Dabei hilft auch ein Start-up aus Frankreich.",
+          "title": "USA: Trump: FBI ermittelt in Nvidia-Affäre",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-nvidia-jensen-huang-li.3573278",
+          "summary": "Der US-Präsident denkt, dass der Nvidia-Chef „gut aus der Sache herauskommen wird“. Berichten zufolge steht die Frau im Verdacht, eine chinesische Geheimdienstmitarbeiterin zu sein.",
           "source": "SZ",
           "paywall": false,
           "image": null
