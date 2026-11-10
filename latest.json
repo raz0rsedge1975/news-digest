@@ -1,10 +1,26 @@
 {
-  "generated": "2026-11-10T07:00:08.761Z",
-  "timestamp": "10.11.2026, 08:00:08",
+  "generated": "2026-11-10T11:00:09.646Z",
+  "timestamp": "10.11.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "KI-Ausbau: Warum die Dänen gegen die riesigen Rechenzentren aufbegehren",
+          "url": "https://www.faz.net/aktuell/politik/ausland/in-daenemark-waechst-der-widerstand-gegen-rechenzentren-accg-201650453.html",
+          "summary": "Nordeuropa eignet sich hervorragend für Rechenzentren. Doch vor Ort fürchten viele negative Folgen. Forscher bestärken sie darin.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/d7f34eed5aeb/w4500h2351x0y90o/202610/43601.0.2625457189/mehrere-hundert-hektar-wald.webp"
+        },
+        {
+          "title": "Rüstungs-Start-ups: Soll man Waffen präsentieren wie Autos oder Smartphones?",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/helsing-quantum-systems-und-co-ein-hauch-von-tesla-und-apple-accg-201656578.html",
+          "summary": "Ein Hauch von Tesla und Apple: Junge Rüstungsunternehmen inszenieren sich auf großer Bühne. Nicht jeder findet an der Show Gefallen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/38ab20c6acd8/w3000h1567x0y60o/202511/43601.0.1428878247/starwars-im-allgaeu-bayerns.webp"
+        },
         {
           "title": "Frustrierte Maschinenbauer: „Deutschland macht uns fassungslos“",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vdma-praesident-bertram-kawlath-deutschland-macht-uns-fassungslos-accg-201661284.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/0a131a591e79/w3000h1567x0y155o/202005/43600.0.1384941378/der-deutsche-maschinenbau-hier.webp"
-        },
-        {
-          "title": "Spionage-Verdacht: Anleger klagen gegen Nvidia-Chef Jensen Huang",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anleger-klagen-gegen-nvidia-chef-jensen-huang-accg-201667752.html",
-          "summary": "Nach Bekanntwerden seiner Affäre mit einer mutmaßlichen chinesischen Spionin wächst der Druck auf Jensen Huang. Das FBI ermittelt. US-Präsident Trump verteidigt den Nvidia-CEO – noch.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ebf8774ab1ed/w2800h1463x0y117o/202611/583f19bf-045e-4f6c-b20d-bdafc65a2e11/alice-huang-m-soll-eine.webp"
-        },
-        {
-          "title": "Jensen Huang: Er ist quasi Nvidia – aber wie lange noch?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-ist-nun-chipkoenig-auf-abruf-von-nvidia-201665989.html",
-          "summary": "Der Chef des wichtigsten Chipherstellers der Welt hat eine Affäre mit einer Chinesin eingeräumt, die unter Spionageverdacht steht. Jensen Huangs Integrität ist dauerhaft beschädigt.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c42128c95159/w2684h1402x547y298o/202611/42444827-0c6e-42be-a9ea-3f624b79cffb/bleibt-jensen-huang-der-chef.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Patricia Schlesinger: ARD-Skandal um frühere RBB-Intendantin vor Gericht",
-          "url": "https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht-a-dcab2715-07d7-4f56-8125-ea704b86ec98#ref=rss",
-          "summary": "Abendessen auf Senderkosten, ein London-Trip mit dem Ehemann, hohe Boni: Der Strafprozess gegen die Ex-RBB-Intendantin Patricia Schlesinger beginnt in Berlin. Der Fall gilt als Symbol für das Verpulvern von Rundfunkbeiträgen.",
+          "title": "Dark Eagle: Hyperschallwaffe oder USA ist immer noch nicht voll einsatzbereit",
+          "url": "https://www.spiegel.de/wissenschaft/technik/dark-eagle-hyperschallwaffe-oder-usa-ist-immer-noch-nicht-voll-einsatzbereit-a-241e9bcd-c0cc-4da3-8b62-ef07f7628cfb#ref=rss",
+          "summary": "Eine neue US-Waffe soll selbst stark verteidigte Ziele treffen. Doch offenbar bremsen Qualitätsprobleme die Produktion. Wie groß ist Chinas Vorsprung – und braucht Deutschland so eine Waffe auch?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/605f639a-8444-4513-92e4-5080f7f42288_w1200_r1.778_fpx44_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/14793e0d-17cf-495a-9707-49d0e0d3df95_w1200_r1.778_fpx51_fpy42.jpg"
         },
         {
           "title": "Pete Hegseth: Republikaner Thomas Massie beantragt Impeachment-Einleitung",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/f075bf3f-527c-4f5c-8964-14f77ce36d26_w1200_r1.778_fpx68_fpy37.jpg"
         },
         {
-          "title": "Marco Rubio: Nach Trumps Wahlniederlage bleibt sein Außenminister vage",
-          "url": "https://www.spiegel.de/politik/deutschland/marco-rubio-nach-trumps-wahlniederlage-bleibt-sein-aussenminister-vage-a-ec3ef6e5-4d2a-4b0d-a054-e164ca0975b1#ref=rss",
-          "summary": "Ein Satz von Donald Trump, dass die Ukraine nach einem Abkommen mit Russland eine »etwas andere Form« haben werde, alarmiert die Europäer. Außenminister Wadephul hat jetzt mit seinem US-Amtskollegen Rubio gesprochen.",
+          "title": "Patricia Schlesinger: ARD-Skandal um frühere RBB-Intendantin vor Gericht",
+          "url": "https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht-a-dcab2715-07d7-4f56-8125-ea704b86ec98#ref=rss",
+          "summary": "Abendessen auf Senderkosten, ein London-Trip mit dem Ehemann, hohe Boni: Der Strafprozess gegen die Ex-RBB-Intendantin Patricia Schlesinger beginnt in Berlin. Der Fall gilt als Symbol für das Verpulvern von Rundfunkbeiträgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/661fc172-1c71-469f-b742-7b11fcba295c_w1200_r1.778_fpx66.67_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/605f639a-8444-4513-92e4-5080f7f42288_w1200_r1.778_fpx44_fpy45.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
-          "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
-          "summary": "Hat sich Patricia Schlesinger in ihrer Zeit als Intendantin des rbb strafbar gemacht? Heute wird gegen sie und drei weitere Angeklagte der Prozess eröffnet. Das Gericht geht von 56 Verhandlungstagen aus.",
+          "title": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
+          "summary": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/120ac294-fc32-42f0-ae46-dc9e50f2a4e3/AAABocPXvl8/AAABnSSvrFg/16x9-big/rbb-630982654-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b74c05f0-3854-4919-9e3c-8726b9d522ff/AAABocRufSU/AAABnSSvrFg/16x9-big/zahnen-102.jpg?width=1280"
         },
         {
-          "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
-          "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die Linke lud Aigner bislang nicht ein.",
+          "title": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html",
+          "summary": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/f3d020e0-362d-4ea6-aad7-fab6cd684d60/AAABocQLG68/AAABnSSvrFg/16x9-big/aigner-160.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1dc92206-8794-445f-9798-ac602edccc1f/AAABocUDpgA/AAABnSSvrFg/16x9-big/wafer-106.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX nähert sich wieder dem Rekordhoch",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
-          "summary": "Nach dem Kursrutsch folgt die Erholungsrally: Der DAX dürfte auch heute deutlich zulegen, der Sprung bis zum Allzeithoch ist nicht mehr weit. Vor allem die gesunkenen Ölpreise stützen den Markt.",
+          "title": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
+          "url": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html",
+          "summary": "Der KI-Gigant Anthropic will an die Börse. Und damit könnten Tausende Mitarbeiter und Investoren zu Millionären werden. In San Francisco, dem Konzernsitz, werden explodierende Häuserpreise befürchtet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/afd0f471-6be5-49a9-ae5a-3e5ac396e211/AAABldcpwIk/AAABnSSvrFg/16x9-big/boerse-358.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a485bf1d-799f-4330-950d-be31951319df/AAABob4gIdw/AAABnSSvrFg/16x9-big/anthropic-136.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Mali, Niger, Burkina Faso: Der Sahel bündelt seine Kräfte",
-          "url": "https://www.telepolis.de/article/Mali-Niger-Burkina-Faso-Der-Sahel-buendelt-seine-Kraefte-11517620.html",
-          "summary": "Drei Militärführer, ein Gedanke: afrikanische Selbstbestimmung. Die Sahel-Allianz, ihre Herkunft, ihre Widersacher – und aktuelle Grenzen. Eine Analyse.",
+          "title": "Bitcoin-Haltefrist: Was bis Silvester gilt und was noch völlig offen ist",
+          "url": "https://www.telepolis.de/article/Bitcoin-Haltefrist-Was-bis-Silvester-gilt-und-was-noch-voellig-offen-ist-11518492.html",
+          "summary": "Wer Kryptos nach dem 31. Dezember kauft, soll künftig immer Steuern zahlen. Nur: Das Gesetz dazu gibt es noch gar nicht.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/8/0/0/shutterstock_2574239383-ae41fc5e951a57e8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/8/2/4/2/shutterstock_1968404476-21e25c3afbb03770.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "„Er ist Nvidia“: Warum eine Affäre den wertvollsten Chipkonzern erschüttert",
-          "url": "https://www.telepolis.de/article/Er-ist-Nvidia-Warum-eine-Affaere-den-wertvollsten-Chipkonzern-erschuettert-11517980.html",
-          "summary": "Mehr als 60 Manager berichten direkt an Jensen Huang. Die mutmaßliche Spionageaffäre zeigt, wie riskant Nvidias Abhängigkeit von seinem CEO ist.",
+          "title": "Abu Dhabi: Russland, Ukraine und USA verhandeln wieder über Kriegsende",
+          "url": "https://www.telepolis.de/article/Abu-Dhabi-Russland-Ukraine-und-USA-verhandeln-wieder-ueber-Kriegsende-11518424.html",
+          "summary": "Erstmals seit Februar sitzen Vertreter der drei Staaten wieder an einem Tisch. Im Zentrum stehen Sicherheitsgarantien und die Frage Ostgebiete. Ein Überblick.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/9/8/5/shutterstock_2470895321-c3689e21cdce2542.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/8/2/0/8/shutterstock_2592087897-c5fc66ee93e9d50b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Krankenkassen-Reform: Zuzahlungen steigen ab 2027 um 50 Prozent",
-          "url": "https://www.telepolis.de/article/Krankenkassen-Reform-Zuzahlungen-steigen-ab-2027-um-50-Prozent-11517570.html",
-          "summary": "Ab Januar zahlen gesetzlich Versicherte mehr für Rezepte, Krankenhaus und Physiotherapie. Beim Zahnersatz läuft eine Frist bis Ende 2026.",
+          "title": "Wenn Journalisten die Welt in Fußballfeldern erklären",
+          "url": "https://www.telepolis.de/article/Wenn-Journalisten-die-Welt-in-Fussballfeldern-erklaeren-11518211.html",
+          "summary": "Waldbrände misst man in Saarländern, Geld in Stapeln bis ins All. Das klingt anschaulich. Aber was verstehen Leser von solchen Vergleichen?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/7/7/5/shutterstock_549938710-fafd69498478b550.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/8/1/0/1/Master_Rieg-41556cb03db9c7eb.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Ukraine-Verhandlungen in Abu Dhabi starten",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-verhandlungen-kiew-moskau-usa-abu-dhabi-li.3571967",
-          "summary": "Moskau und Kiew verhandeln unter US-Vermittlung, ein Durchbruch wird nicht erwartet. Ukrainische Schlüsselfragen sind Sicherheitsgarantien, eine Waffenruhe im Schwarzen Meer und das Ende der Angriffe auf Energieanlagen.",
+          "title": "Unfall-Prävention im Gebirge: Wie verhält man sich in den Bergen richtig?",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-wandern-unfaelle-berge-ratgeber-hilfe-lux.NteMFPMjbaETXPpCwztXB3",
+          "summary": "Immer wieder passieren beim Wandern in den Bergen schwere oder gar tödliche Unfälle. Doch viele Risiken können verringert werden, wenn man sich an ein paar grundlegende Regeln hält. Ein Überblick über die wichtigsten Fragen und Antworten.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Deutsche Bahn lenkt ein: Streichpläne für Augsburg – München vollständig vom Tisch",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-augsburg-deutsche-bahn-zugverbindung-streichungen-li.3577917",
-          "summary": "Nun soll sogar versucht werden, ab 2029 mehr Platz in den Zügen zu schaffen. Das könnte aber an zwei Hindernissen scheitern. Auch der Ausbau des überlasteten Bahnknotens München bereitet Probleme.",
+          "title": "Leute: Eignet sich Ilse Aigner als Tattoo?",
+          "url": "https://www.sueddeutsche.de/panorama/ilse-aigner-tattoo-joerg-thadeusz-meghan-erling-haaland-promis-li.3578076",
+          "summary": "Moderator Jörg Thadeusz hat sich den Vornamen der Kandidatin für das Bundespräsidentenamt tätowieren lassen. Meghan sagt eine EU-Rede ab. Und Erling Haaland macht mit einem Buch eine norwegische Kleinstadt glücklich.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "USA: Trump: FBI ermittelt in Nvidia-Affäre",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-nvidia-jensen-huang-li.3573278",
-          "summary": "Der US-Präsident denkt, dass der Nvidia-Chef „gut aus der Sache herauskommen wird“. Berichten zufolge steht die Frau im Verdacht, eine chinesische Geheimdienstmitarbeiterin zu sein.",
+          "title": "Raumfahrt: „Wir haben die Technologie, wir müssen sie nur bauen\"",
+          "url": "https://www.sueddeutsche.de/wirtschaft/isar-aerospace-raumfahrt-start-up-muenchen-raketen-li.3569385",
+          "summary": "Eine Raketenfirma hochzuziehen, ist selbst Raketenwissenschaft. Das Münchner Start-up Isar Aerospace hat bisher schon viel richtig gemacht.",
           "source": "SZ",
           "paywall": false,
           "image": null
