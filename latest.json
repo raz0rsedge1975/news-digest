@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-10T23:00:07.313Z",
-  "timestamp": "11.11.2026, 00:00:07",
+  "generated": "2026-11-11T03:00:09.378Z",
+  "timestamp": "11.11.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Mammutprozesse: Justitia im Schneckentempo",
-          "url": "https://www.faz.net/aktuell/politik/schlesinger-block-etc-warum-dauern-strafprozesse-immer-so-lange-201669212.html",
-          "summary": "Strafverfahren dauern in Deutschland immer länger, jede Verzögerung nagt am Vertrauen in die Justiz. Kleinteilige Reformen reichen nicht mehr. Der große Wurf muss her.",
+          "title": "USA unter Trump: Republikaner stoppen Amtsenthebungsantrag gegen Hegseth",
+          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-amtsenthebung-von-hegseth-im-us-repraesentantenhaus-gestoppt-faz-19444916.html",
+          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/424adec6b3d5/w4433h2316x0y258o/202611/6cf137c6-fa95-43c1-b0eb-9516c9835008/nach-vier-jahren-ermittlungen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3ea9082c98f8/w5257h2746x0y105o/202611/22056626-792d-4d98-a044-ad6076d98edf/verteidigungsminister-pete.webp"
         },
         {
           "title": "Bundesversammlung: Wie das BSW seinen Kritiker Constantin Schreiber nominierte",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Pete Hegseth: Republikaner lehnen Amtsenthebungsantrag im Repräsentantenhaus ab",
+          "url": "https://www.spiegel.de/ausland/pete-hegseth-republikaner-lehnen-amtsenthebungsantrag-im-repraesentantenhaus-ab-a-a16fbebc-5f94-4266-bd4c-7b114e518b40#ref=rss",
+          "summary": "Verschnaufpause für Pete Hegseth: Die Republikaner im Repräsentantenhaus haben sich demonstrativ hinter den US-Verteidigungsminister gestellt und einen Antrag auf ein Amtsenthebungsverfahren abgelehnt. Die Freude könnte aber von kurzer Dauer sein.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8cfdc1cc-e04a-4650-9f8d-0f616e3c72ab_w1200_r1.778_fpx48_fpy34.jpg"
+        },
+        {
           "title": "Lori Huang: Welche Rolle die Frau von Nvidia-Chef Jensen Huang im Unternehmen spielt",
           "url": "https://www.spiegel.de/wirtschaft/unternehmen/lori-huang-welche-rolle-die-frau-von-nvidia-chef-jensen-huang-im-unternehmen-spielt-a-cfe58599-a415-4744-b3dd-48a8a64a84f2#ref=rss",
           "summary": "Mit dem Spionageskandal um den Nvidia-Gründer rückt auch seine betrogene Frau ins Rampenlicht. Lori Huang hat zwar keine offizielle Position im Unternehmen. Doch glaubt man dem Ehemann, ist ihr Einfluss riesig.",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/7789755b-da1d-4961-a2c7-eeeb1bc3dead_w1200_r1.778_fpx55.97_fpy50.jpg"
         },
         {
-          "title": "Maschinenbau-Gipfel: Katherina Reiche kritisiert eigene Regierung",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/maschinenbau-gipfel-katherina-reiche-kritisiert-eigene-regierung-a-207e0fe5-9058-450f-b83c-f102fcbc7236#ref=rss",
-          "summary": "Der Maschinenbau steckt seit Jahren in der Krise, die schwarz-rote Koalition hat viele Hoffnungen auf Reformen enttäuscht. Beim Branchentreff bekam Wirtschaftsministerin Katherina Reiche den Frust der Branche zu spüren.",
+          "title": "Ukraine – Friedensgespräche in Abu Dhabi: Bisher glaubt nur Donald Trump an den großen Deal zwischen Russland, Ukraine und Europa",
+          "url": "https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss",
+          "summary": "Nach neun Monaten Pause verhandeln Russland und die Ukraine wieder unter Vermittlung der USA. Moskau und Washington reden von einer neuen Sicherheitsarchitektur. Was ist realistisch?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/86279cdf-f5b7-47a5-88af-c6b531b5401e_w1200_r1.778_fpx56.27_fpy49.88.jpg"
-        },
-        {
-          "title": "Bundeswehr verbannt Drohnen und Autos aus China aus den Kasernen – Spionagegefahr",
-          "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24#ref=rss",
-          "summary": "Bisher durften Bundeswehrkommandeure handelsübliche chinesische Drohnen für die Ausbildung anschaffen. Nach SPIEGEL-Informationen werden die Systeme jetzt ausgemustert. Sie gelten als Sicherheitsrisiko.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ef61307a-67f9-431e-ac97-78e0777ae56b_w1200_r1.778_fpx68.67_fpy44.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0fdfe20d-74ed-47df-8e0c-6a8e77ee946d_w1200_r1.778_fpx51_fpy65.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
-          "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
-          "summary": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+          "title": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+          "summary": "Als Bundespräsidentin möchte Ilse Aigner Gräben überwinden. Bei ihrem Besuch im Bundestag versuchte sie allerdings nicht, die Türschwellen vor den Fraktionssälen von AfD und Linke zu überwinden. Ein schlechter Start, meint Maximilian Ulrich.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/ba9868a2-8216-4787-aaaf-809aa58574d4/AAABocb3Se0/AAABnSSvrFg/16x9-big/abu-dhabi-140.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/107b49e8-ab44-43ed-b804-6def95fc2d29/AAABocbu7EA/AAABnSSvrFg/16x9-big/aigner-166.jpg?width=1280"
         },
         {
-          "title": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
-          "url": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
-          "summary": "Vor knapp zwei Wochen erschütterte das zweite große Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+          "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+          "url": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
+          "summary": "Freundlich und überparteilich präsentiert sich die künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d1f033ab-21ab-4c84-8fc0-50de7556891e/AAABocd6jrY/AAABnSSvrFg/16x9-big/toledo-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6ca89cad-29d1-4adb-9697-a4e3fa3ddbea/AAABocdx-Ys/AAABnSSvrFg/16x9-big/aigner-168.jpg?width=1280"
         },
         {
-          "title": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
-          "summary": "In Hamburg sind unweit der Elbphilharmonie zwei Menschen durch Schüsse verletzt worden. Der mutmaßliche Täter wurde tot in einem Hotelzimmer gefunden. In Baden-Württemberg hat die Polizei zwei Leichen gefunden - und prüft einen Zusammenhang.",
+          "title": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+          "url": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+          "summary": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/1137857d-221d-494e-bec6-82693aa635de/AAABocZQjrk/AAABnSSvrFg/16x9-big/elbphilharmonie-204.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a69ad001-e56f-402d-a036-1e793a5e93fd/AAABocfM_Cs/AAABnSSvrFg/16x9-big/us-kapitol-164.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "US-Militär plant Satellitennetz zwischen Erde und Mond",
+          "url": "https://www.telepolis.de/article/US-Militaer-plant-Satellitennetz-zwischen-Erde-und-Mond-11519028.html",
+          "summary": "Fünf Satelliten sollen den Raum jenseits der Erdumlaufbahn erkunden. Das US-Militär sucht dafür Partner aus der Industrie. Was steckt hinter den Plänen?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/8/5/1/4/shutterstock_2526975411-90e14d3e6ac8722a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Microsoft-Patentantrag: KI soll Live-Videos nach Religion und Alter umschreiben",
           "url": "https://www.telepolis.de/article/Microsoft-Patentantrag-KI-soll-Live-Videos-nach-Religion-und-Alter-umschreiben-11519560.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/8/3/5/2/shutterstock_2666146821-f0808812c8dbcb98.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Journalismus: Das Publikum schuldet uns seine Zeit nicht",
-          "url": "https://www.telepolis.de/article/Journalismus-Das-Publikum-schuldet-uns-seine-Zeit-nicht-11519118.html",
-          "summary": "Journalisten wollen die Welt erklären. Das Publikum soll erkennen, wie wichtig das ist. Und wie wichtig sie sind. Ein Kommentar über knappe Aufmerksamkeit.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/8/5/5/9/Master_Journalism-2f131422f57bec4f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
