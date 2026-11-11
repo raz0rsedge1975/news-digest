@@ -1,25 +1,17 @@
 {
-  "generated": "2026-11-11T19:00:16.615Z",
-  "timestamp": "11.11.2026, 20:00:16",
+  "generated": "2026-11-11T23:00:22.725Z",
+  "timestamp": "12.11.2026, 00:00:22",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Chinas Geheimdienst: „Sex-Spionage ist eine Methode, die wir schon lange kennen“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/china-und-nvidia-sex-spionage-ist-ein-uebliches-vorgehen-201672334.html",
-          "summary": "Wie werden Honigfallen aufgestellt? China-Experte Ralph Weber sagt: Mit seiner Nähe zu Donald Trump war Nvidia-Chef Jensen Huang für den chinesischen Geheimdienst ein absolutes Topziel.",
+          "title": "Deutschland Liveblog: Koalition verschiebt Einführung von Zuckersteuer – vorerst keine Stromsteuersenkung für alle",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-koalition-verschiebt-einfuehrung-von-zuckersteuer-faz-110093143.html",
+          "summary": "Ringen um Haushalt: Vorerst auch keine Plastiksteuer +++ Bundesinnenminister: Konsequenz, Risiko und Preis muss für hybride Akteure erhöht werden +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/90c79bf9b410/w894h467x30y238o/202611/cfc8a4d2-37c8-4fcd-8d3f-bf071ec5e802/im-auftrag-pekings-alice-huang.webp"
-        },
-        {
-          "title": "Jensen Huang: Ein Starmanager, der sich für unersetzlich hält",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-unter-druck-warum-nvidia-ihn-kaum-ersetzen-kann-201673077.html",
-          "summary": "Der Nvidia-Chef gerät durch die Spionageaffäre stark unter Druck. Aber ihn abzulösen, ist nicht leicht – denn er hat Nvidia mit einer ungewöhnlichen Organisationsstruktur auf sich selbst zugeschnitten.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7f7d829e0ae9/w3151h1646x0y183o/202611/3e1511b0-82f4-49eb-a765-3968429138fa/ich-bin-die-beste-person-fuer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/38dafe9a4ee8/w6144h3210x0y408o/202611/1cf20a23-a0fc-44ed-9f4e-fff34492d829/finanzminister-lars-klingbeil.webp"
         },
         {
           "title": "Liveblog Nahost: Iran droht Europa mit Angriffen",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/e06e07841e0d/w5104h2666x0y382o/202611/f309a019-8184-44b5-b4ba-7ea2e32288f9/die-amerikanische-basis.webp"
+        },
+        {
+          "title": "Chinas Geheimdienst: „Sex-Spionage ist eine Methode, die wir schon lange kennen“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/china-und-nvidia-sex-spionage-ist-ein-uebliches-vorgehen-201672334.html",
+          "summary": "Wie werden Honigfallen aufgestellt? China-Experte Ralph Weber sagt: Mit seiner Nähe zu Donald Trump war Nvidia-Chef Jensen Huang für den chinesischen Geheimdienst ein absolutes Topziel.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/90c79bf9b410/w894h467x30y238o/202611/cfc8a4d2-37c8-4fcd-8d3f-bf071ec5e802/im-auftrag-pekings-alice-huang.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen",
+          "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
+          "summary": "Die schwarz-rote Koalition ringt um den Haushalt für das kommende Jahr: Die von Bundeskanzler Merz geforderte Senkung der Stromsteuer kommt nach SPIEGEL-Informationen vorerst nicht. Die Zuckersteuer wird auf 2028 verschoben. Auch die Plastiksteuer ist erst einmal vom Tisch.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/21d9e605-3de4-47ca-b9f3-521e2733a698_w1200_r1.778_fpx58.01_fpy44.99.jpg"
+        },
+        {
+          "title": "»Die Linke der Hort des Antisemitismus? Das ist doch absurd«– Güner Balci und Janine Wissler im Spitzengespräch",
+          "url": "https://www.spiegel.de/politik/deutschland/die-linke-der-hort-des-antisemitismus-das-ist-doch-absurd-guener-balci-und-janine-wissler-im-spitzengespraech-a-d725b371-5965-40e9-8450-5617999e8dad#ref=rss",
+          "summary": "Darf die Linke in Berlin regieren, obwohl Vorwürfe des Judenhasses die Koalition belasten? Ex-Linkenchefin Janine Wissler und Neuköllns Integrationsbeauftragte Güner Balci geraten darüber im SPIEGEL-Talk heftig aneinander.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/1c1151de-fd7b-473c-9550-aea47bb84e9f_w1200_r1.778_fpx45_fpy45.jpg"
+        },
+        {
           "title": "Boris Pistorius: Schafft der Verteidigungsminister die Wende beim Kampf gegen sexuelles Fehlverhalten in der Bundeswehr?",
           "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-schafft-der-verteidigungsminister-die-wende-beim-kampf-gegen-sexuelles-fehlverhalten-in-der-bundeswehr-a-375d7184-5ee3-4aaa-8eaa-edc21847a3de#ref=rss",
           "summary": "Sexualisiertes Fehlverhalten in der Bundeswehr ist weitverbreitet, das belegt eine neue Studie. Verteidigungsminister Boris Pistorius zeigt sich schockiert, ungewohnt dünnhäutig. Sein Aktionsplan zielt auf eine Schwachstelle der Truppe.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/4294db76-8a0c-4a1a-8aed-80e6524c7880_w1200_r1.778_fpx43.34_fpy45.jpg"
-        },
-        {
-          "title": "News des Tages: Klimagipfel, Gefangenenaustausch, Wirtschaftswachstum",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-klimagipfel-gefangenenaustausch-wirtschaftswachstum-a-ddc8caa0-c4ab-40a7-80f5-ce6bcb8d072b#ref=rss",
-          "summary": "Der Kanzler feiert seinen Geburtstag mit der Familie statt auf der Weltklimakonferenz. Russland und die Ukraine vereinbaren einen Gefangenenaustausch. Und die Arbeitslosigkeit unter Akademikern steigt. Das ist die Lage am Mittwochabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/40b26dbd-b890-4dab-9fd2-270a48980843_w1200_r1.778_fpx45_fpy41.jpg"
-        },
-        {
-          "title": "Ukraine gewinnt im Krieg Gelände zurück: So gelang »Operation Vivaldi«",
-          "url": "https://www.spiegel.de/ausland/ukraine-gewinnt-im-krieg-gelaende-zurueck-so-gelang-operation-vivaldi-a-643a381b-1895-41c8-a71e-666723cc1b1b#ref=rss",
-          "summary": "Die Ukraine schafft es, die Front zu stabilisieren und drängt die Russen teilweise sogar zurück. Was das für den weiteren Kriegsverlauf bedeuten kann.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/71c5bc6d-9578-4677-840e-0cac5ddb82c9_w1200_r1.778_fpx40.66_fpy54.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "\"Sicherheitsordnung\": Warum übernehmen die USA Russlands Forderung?",
-          "url": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
-          "summary": "Russland sieht Gespräche über eine \"Sicherheitsordnung\" für Europa vor allem als Mittel, seinen Einfluss über den Kontinent auszuweiten, sagt die Politikexpertin Jana Puglierin. Nun hätten sich die USA auf diese Logik eingelassen.",
+          "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+          "summary": "Im Ringen um den Haushalt hat sich die Koalition nach ARD-Informationen auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer wohl vorerst nicht für alle gesenkt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3ca96e3-b1d8-49c9-ba0d-49e34341e45f/AAABocv33HA/AAABnSSvrFg/16x9-big/trump-putin-alaska-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4bdccd2a-0538-412e-bbb9-c9307219dbc9/AAABocx2QXM/AAABnSSvrFg/16x9-big/klingbeil-460.jpg?width=1280"
         },
         {
-          "title": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
-          "summary": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen. Oft zu Unrecht, urteilte nun der BGH.",
+          "title": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
+          "summary": "In den Karnevalshochburgen Köln und Düsseldorf haben die Jecken die fünfte Jahreszeit eingeläutet. Laut Polizei verliefen die Feiern auf den Straßen und in den Kneipen meist friedlich. Nur das Wetter machte nicht mit.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6ff38c86-714d-4360-8e0f-c36586271710/AAABnRpKHEY/AAABnSSvrFg/16x9-big/bgh-karlsruhe-106.jpg?width=1280"
+          "image": "https://www1.wdr.de/polizei-karneval-koeln-100~_v-gseagaleriexl.jpg"
         },
         {
-          "title": "Marktbericht: DAX pirscht sich ans Rekordhoch heran",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-          "summary": "Im Handelsverlauf hatte es ausgesehen, als würde dem DAX die Luft ausgehen. Doch dann endet der Handelstag mit einem Index nahe am Rekordhoch. Die Wirtschaftsweisen schüren Optimismus, zudem treten die KI-Sorgen in den Hintergrund.",
+          "title": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
+          "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
+          "summary": "Am polnischen Unabhängigkeitstag findet traditionell eine Großdemonstration von Rechtsnationalisten statt. Der sogenannte Unabhängigkeitsmarsch durch Warschau ist umstritten - und zieht doch Hunderttausende an. Von P. Milling.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b19e9d58-9935-4067-a655-d494e13c64cc/AAABn1pWFaE/AAABnSSvrFg/16x9-big/boerse-522.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/98bae2e6-2616-4261-9545-a53d6ca085df/AAABocvloh8/AAABnSSvrFg/16x9-big/menschen-marsch-warschau-100.jpg?width=1280"
         }
       ]
     },
@@ -93,9 +93,9 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "KI-Boom oder Ukraine-Krieg: Wer treibt den Glasfaserpreis wirklich?",
-          "url": "https://www.telepolis.de/article/KI-Boom-oder-Ukraine-Krieg-Wer-treibt-den-Glasfaserpreis-wirklich-11520956.html",
-          "summary": "Ein ukrainischer Drohnenbauer zahlt zehnmal mehr für Glasfaser. Die Schuldfrage ist komplizierter, als KI-Kritiker und Militäranalysten behaupten.",
+          "title": "Zehnmal teurer: Glasfaser wird für ukrainische Drohnenbauer knapp",
+          "url": "https://www.telepolis.de/article/Zehnmal-teurer-Glasfaser-wird-fuer-ukrainische-Drohnenbauer-knapp-11520956.html",
+          "summary": "Ein ukrainischer Drohnenbauer zahlt zehnmal so viel für Glasfaser wie vor einem Jahr. Die KI bekommt die Schuld, doch die Zahlen sagen anderes.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/4/7/7/shutterstock_2824760681-2de586bba3ab02e7.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
@@ -122,7 +122,15 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Unabhängigkeitsmarsch in Polen: Wie der Präsident das Land  am höchsten staatlichen Feiertag spaltet",
+          "title": "Newsblog zur Bundespolitik: Koalition nimmt geplante Kürzungen im Sozialbereich zurück und verschiebt geplante Steuern",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-sozialbereich-reformen-koalition-steuern-einigung-li.3568524",
+          "summary": "Dabei geht es etwa um den Kindersofortzuschlag für Geringverdiener. Auch in Steuer-Streitfragen gab es eine Einigung zwischen Union und SPD.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Unabhängigkeitsmarsch in Polen: Wie der Präsident das Land am höchsten staatlichen Feiertag spaltet",
           "url": "https://www.sueddeutsche.de/politik/polen-unabhaengigkeitsmarsch-warschau-unabhaengigkeitstag-li.3578923",
           "summary": "Karol Nawrocki überzieht die Regierung Tusk am Unabhängigkeitstag mit Vorwürfen. Dann nimmt er an einem Marsch teil, den auch Rechtsextreme für ihre Parolen nutzen.",
           "source": "SZ",
@@ -133,14 +141,6 @@
           "title": "Podcast: „Auf den Punkt“: Ausmaß sexualisierter Gewalt bei Bundeswehr größer als gedacht",
           "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-bundeswehr-sexualisierte-gewalt-dunkelfeldstudie-li.3578712",
           "summary": "Sexuelle Übergriffe sind laut einer Dunkelfeldstudie in der Bundeswehr viel häufiger als bisher gedacht. Was sich ändern muss.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Medizin: Der BMI hat ausgedient",
-          "url": "https://www.sueddeutsche.de/gesundheit/adipositas-bmi-uebergewicht-taillenumfang-fettleibigkeit-li.3578740",
-          "summary": "Fachleute schlagen vor, Übergewicht und Adipositas genauer zu definieren, nicht nur nach Gewicht und Größe. Wer also gilt künftig als zu dick, und wer nicht?",
           "source": "SZ",
           "paywall": false,
           "image": null
