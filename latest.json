@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-12T19:00:29.814Z",
-  "timestamp": "12.11.2026, 20:00:29",
+  "generated": "2026-11-12T23:00:17.576Z",
+  "timestamp": "13.11.2026, 00:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Nvidia-Affäre: Der jähe Fall von Jensen Huang",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-geht-ein-schock-fuer-nvidia-aber-keine-katastrophe-201677508.html",
-          "summary": "Der Nvidia-Chef war offenbar von seiner vermeintlichen Unantastbarkeit verblendet. Seine Ablösung war unvermeidlich. Für das Unternehmen ist das ein Schock – aber es muss keine Katastrophe sein.",
+          "title": "Haushaltsstreit: Wenn die zentrale Forderung des Kanzlers verpufft",
+          "url": "https://www.faz.net/aktuell/politik/inland/haushaltskrach-in-der-unionsfraktion-kommt-die-stromsteuer-doch-noch-201676500.html",
+          "summary": "Die Einigung auf den nächsten Haushalt rückt näher. Doch vor allem der CDU fehlen große Reformschritte. Das sorgt für eine wilde Sitzung der Unionsfraktion.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/45616f0f9fb6/w5500h2873x0y397o/202611/33de4cea-6ff1-4ad0-916d-4a0d9ff30a63/jensen-huang-war-nicht-nur.webp"
+          "image": "https://media0.faz.net/image/w1200h627/94b5e036f92c/w3924h2050x0y185o/202611/fab94c49-0427-4d7e-80fa-577dc93da0ea/das-ende-eines-langen-abends.webp"
         },
         {
-          "title": "Nach Huangs Rücktritt: „Die Red Flags bei Nvidia hätten aufleuchten müssen“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/compliance-expertin-red-flags-bei-nvidia-haben-versagt-201677210.html",
-          "summary": "Die Aufarbeitung der Spionageaffäre steht am Anfang. Die Compliance-Expertin Nicole Willms erläutert, warum die Untersuchung nun ausgeweitet wird. Mögliche Warnsignale hätten im Nvidia-Konzern früher auffallen müssen.",
+          "title": "Koalition: Die CDU sieht ihrem Niedergang tatenlos zu",
+          "url": "https://www.faz.net/aktuell/politik/inland/cdu-kann-stromsteuer-nicht-senken-wie-lange-laesst-sich-merz-von-der-spd-vorfuehren-201676923.html",
+          "summary": "Die SPD lässt den Kanzler auflaufen. Das ist eine Antwort auf die Vertrauensfrage, ohne dass sie gestellt werden müsste.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/19fb8bb38a1e/w8055h4208x0y582o/202611/1ac116e1-70b3-4402-a083-b875965e475a/jensen-huang-zieht-sich.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b5673c90e6fd/w4512h2357x40y886o/202611/f2589f78-0f1c-49f3-a689-02b101c9df24/thorsten-frei-cdu.webp"
         },
         {
-          "title": "Skandal im Chip-Giganten: Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-jensen-huang-tritt-nach-spionageaffaere-zurueck-201677697.html",
-          "summary": "Jensen Huang gibt mit sofortiger Wirkung den Vorstandsvorsitz des von ihm gegründeten Unternehmens ab. Wer folgt auf ihn? Donald Trump hat eine klare Vorstellung.",
+          "title": "F.A.Z. POdcast für Deutschland: „Die Schuldenpolitik frisst ihre eigenen Kinder“",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/gutachten-der-wirtschaftsweisen-die-schuldenpolitik-frisst-ihre-eigenen-kinder-201677047.html",
+          "summary": "Das Gutachten der Wirtschaftsweisen ist niederschmetternd und stellt die Politik vor Aufgaben von historischem Ausmaß.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4b9d55a0f634/w4992h2608x752y1243o/202611/d8f72c4d-3c0a-43ad-9508-67895bdaa06b/jensen-huang-tritt-von-seinem.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/1142d1b48950/w1732h904x51y35o/202608/43601.0.2431088858/4360102431088858.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Mercedes-Benz: Konzern stoppt Investitionen in deutsche Werke und prüft Schließungen",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-konzern-stoppt-investitionen-in-deutsche-werke-und-prueft-schliessungen-a-e7f79c73-ef81-4715-a6ad-a7033a1fac75#ref=rss",
-          "summary": "Der Streit zwischen Management und Arbeitnehmervertretung bei Mercedes-Benz eskaliert. Intern droht der Vorstand drastische Maßnahmen an: Künftige Fahrzeuge könnten »ausschließlich im Ausland« produziert werden.",
+          "title": "Massiver Cyberangriff auf deutschen Drohnenhersteller Quantum Systems",
+          "url": "https://www.spiegel.de/politik/massiver-cyberangriff-auf-drohnenhersteller-quantum-systems-a-354b0289-2281-4af6-a532-ee03b45d8b30#ref=rss",
+          "summary": "Unbekannten ist es gelungen, ein Schadprogramm auf einem internen Updateserver des Drohnenherstellers Quantum Systems zu deponieren, einem Lieferanten der Bundeswehr. Dort nimmt man den Vorfall sehr ernst.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f29380cb-71c1-4dbc-aeb9-4e4a06a7a6c3_w1200_r1.778_fpx33.94_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/16b5ae40-49b8-4733-abdd-36cdbbff1cfb_w1200_r1.778_fpx37.33_fpy49.99.jpg"
         },
         {
           "title": "News des Tages: Nvidia-Chef Jensen Huang tritt zurück, Startchancengesetz für Kitakinder, Hype um Grand Theft Auto 6",
@@ -51,18 +51,26 @@
           "image": "https://cdn.prod.www.spiegel.de/images/49113e72-1220-4b8b-b36f-f2b82f1919fd_w1200_r1.778_fpx52.58_fpy45.jpg"
         },
         {
-          "title": "Iran: Obamas Chefunterhändler Robert Malley erwartet Rückzug der USA aus der Region",
-          "url": "https://www.spiegel.de/ausland/iran-obamas-chefunterhaendler-robert-malley-erwartet-rueckzug-der-usa-aus-der-region-a-51a5af88-cb00-482c-b4ad-f7fd9a94fb33#ref=rss",
-          "summary": "Robert Malley hat einst für US-Präsident Barack Obama den Atomdeal mit Iran mitverhandelt. Donald Trumps Krieg am Golf hält er für ein Desaster. Hier erklärt er, warum er nun mit einem Rückzug der USA rechnet.",
+          "title": "Mercedes-Benz: Konzern stoppt Investitionen in deutsche Werke und prüft Schließungen",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-konzern-stoppt-investitionen-in-deutsche-werke-und-prueft-schliessungen-a-e7f79c73-ef81-4715-a6ad-a7033a1fac75#ref=rss",
+          "summary": "Der Streit zwischen Management und Arbeitnehmervertretung bei Mercedes-Benz eskaliert. Intern droht der Vorstand drastische Maßnahmen an: Künftige Fahrzeuge könnten »ausschließlich im Ausland« produziert werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6910f050-38b6-4134-a573-8b73b254a6c7_w1200_r1.778_fpx64.66_fpy54.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f29380cb-71c1-4dbc-aeb9-4e4a06a7a6c3_w1200_r1.778_fpx33.94_fpy49.99.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
+          "url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+          "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://img.br.de/23d55659-e524-48a1-8e7f-e89250567417.jpeg?q=80&amp;rect=11%2C860%2C7961%2C4473&amp;w=1600&amp;h=900"
+        },
         {
           "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/449d30ee-52f8-4182-b611-6c6f31b5d1ef/AAABodCYjDU/AAABnSSvrFg/16x9-big/thunberg-160.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
-          "summary": "Der Rücktritt von Nvidia-Chef Huang hat amerikanische Tech-Aktien ins Minus gedrückt. Das geht auch am deutschen Leitindex DAX nicht spurlos vorüber - der zuvor ein neues Rekordhoch erreicht hatte.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": null
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Eine taz-Kolumne erklärt Longevity zum Selbstoptimierungskult. Das ist bequem und für Ältere schlicht falsch. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/6/4/0/shutterstock_2632677913-4c0663c9510674b0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "Schlesinger vor Gericht: Der Skandal steht fest, die Schuldfrage ist offen",
@@ -106,7 +106,7 @@
           "summary": "Sparen im Sender, Prämien für die Spitze: Im Strafprozess gegen die frühere RBB-Führung könnten Sitzungsprotokolle den Ausschlag geben.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/3/9/8/Master_RBB-34c439f639508547.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "Kleine Schläge, große Signale: Wo in Westasien neue Fronten sichtbar werden",
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Autoindustrie: Mercedes stoppt alle Investitionen in Deutschland und droht mit Werkschließungen",
-          "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-investitionsstopp-werkschliessungen-ig-metall-betriebsrat-li.3579730",
-          "summary": "Als Grund nennt der Vorstand, dass bisher keine Einigung mit dem Betriebsrat über längere Arbeitszeiten und weniger Gehalt erzielt werden konnte.",
+          "title": "Chip-Konzern: Nvidia-Chef Huang tritt zurück",
+          "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-aktie-absturz-nachfolgerin-li.3579215",
+          "summary": "Nach einer Affäre mit einer mutmaßlichen Spionin und Berichten über eine weitere Beziehung muss der Konzernchef gehen. Übergangsweise soll die bisherige Finanzchefin Colette Kress die Geschäfte führen. Der Aktienkurs sackt ab.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Atmosphärenphysik: Polarwirbel jetzt schon zusammengebrochen: Was ist da los?",
-          "url": "https://www.sueddeutsche.de/wissen/polarwirbel-nordpol-stratosphaere-kaelteeinbruch-atmosphaerenphysik-winter-li.3578700",
-          "summary": "Die Luftzirkulation über dem Nordpol ist zeitweise zum Erliegen gekommen – so früh in der Saison wie noch nie. Wie es dazu kam und ob es etwas für den Winter bedeutet.",
+          "title": "Rechtsstreit um Investorendeal: Niederlage für Fifa vor US-Gericht",
+          "url": "https://www.sueddeutsche.de/sport/fifa-uefa-infantino-li.3579745",
+          "summary": "In den USA tobt ein Rechtsstreit zwischen der Fifa und der Uefa um die Herausgabe von Dokumenten zum gescheiterten Investorendeal. Nun weist ein New Yorker Gericht einen wichtigen Antrag von Fifa-Tochtergesellschaften zurück.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Russland und die Eishockey-WM: Bundesregierung knickt in der Visa-Frage ein",
-          "url": "https://www.sueddeutsche.de/sport/eishockey-wm-russland-kanada-visa-boykott-li.3579408",
-          "summary": "Während Kanada russischen Sportlern die Einreise untersagt, positioniert sich die deutsche Bundesregierung mit Blick auf die Heim-WM deutlich anders. Die Verweigerung von Visa sei „keine Lösung“.",
+          "title": "Jürgen Klopp zu Felix Nmecha: „Deswegen wird er so nicht mehr jubeln“",
+          "url": "https://www.sueddeutsche.de/sport/klopp-nmecha-gespraech-serbien-deutschland-li.3579648",
+          "summary": "Am Abend vor dem Nationsleague-Spiel in Belgrad gibt Bundestrainer Jürgen Klopp Einblicke in die Hintergründe zu Felix Nmechas umstrittener Kronen-Geste – und ein offenbar klärendes Gespräch.",
           "source": "SZ",
           "paywall": false,
           "image": null
