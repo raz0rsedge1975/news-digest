@@ -1,10 +1,18 @@
 {
-  "generated": "2026-11-12T03:00:17.419Z",
-  "timestamp": "12.11.2026, 04:00:17",
+  "generated": "2026-11-12T07:00:17.101Z",
+  "timestamp": "12.11.2026, 08:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Jensen Huang: Der Nvidia-Chef, die Chinesin und der Leerverkäufer",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-affaere-leitete-jensen-huang-illegal-chips-nach-china-um-accg-201674198.html",
+          "summary": "Eine mutmaßliche Spionin, Milliarden für KI-Chips und rätselhafte Geschäfte in Südostasien: Ein Leerverkäufer ahnt schon länger, dass da was nicht stimmt.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/3402e37780a9/w840h438x0y407o/202611/aa9d459c-f0da-415d-8c7c-d05046980b7c/alice-huang-huang-le-teilte.webp"
+        },
         {
           "title": "Jensen Huang: Nvidia bereitet offenbar Trennung von Huang vor",
           "url": "https://www.faz.net/aktuell/wirtschaft/zweite-affaere-nvidia-bereitet-offenbar-trennung-von-jensen-huang-vor-201674834.html",
@@ -20,20 +28,20 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/90c79bf9b410/w894h467x30y238o/202611/cfc8a4d2-37c8-4fcd-8d3f-bf071ec5e802/im-auftrag-pekings-alice-huang.webp"
-        },
-        {
-          "title": "Bundesregierung: Koalition meldet Kompromisse im Haushaltsstreit",
-          "url": "https://www.faz.net/aktuell/politik/inland/koalition-meldet-kompromisse-im-haushaltsstreit-stromsteuer-bleibt-offen-accg-201674937.html",
-          "summary": "Die Zuckersteuer kommt erst 2028, die Steuer auf Plastikverpackungen gar nicht. Für die von Kanzler Merz versprochene Stromsteuersenkung fehlen 5,4 Milliarden Euro.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b3d25adc3085/w5647h2950x0y113o/202611/b6e25d9c-4cca-41eb-820f-007da50ddbd4/spd-fraktionsvorsitzender.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Jensen Huang bei Nvidia: Er war das perfekte Ziel. Kippt jetzt der Visionär – und mit ihm der KI-Boom?",
+          "url": "https://www.spiegel.de/wirtschaft/jensen-huang-bei-nvidia-er-war-das-perfekte-ziel-kippt-jetzt-der-visionaer-und-mit-ihm-der-ki-boom-a-a60b24c9-72d6-4eab-a8ec-684a1f965c48#ref=rss",
+          "summary": "Jensen Huang ist als Nvidia-Chef die zentrale Figur für die zentrale Technologie unserer Zeit. Mit dem Skandal könnte nicht nur seine Karriere enden, sondern auch der einzigartige Status des Unternehmens.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ed692c11-ad53-4c7d-a5e3-8f8d1a3f6b20_w1200_r1.778_fpx55_fpy30.jpg"
+        },
         {
           "title": "Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen",
           "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/21d9e605-3de4-47ca-b9f3-521e2733a698_w1200_r1.778_fpx58.01_fpy44.99.jpg"
         },
         {
-          "title": "»Die Linke der Hort des Antisemitismus? Das ist doch absurd«– Güner Balci und Janine Wissler im Spitzengespräch",
-          "url": "https://www.spiegel.de/politik/deutschland/die-linke-der-hort-des-antisemitismus-das-ist-doch-absurd-guener-balci-und-janine-wissler-im-spitzengespraech-a-d725b371-5965-40e9-8450-5617999e8dad#ref=rss",
-          "summary": "Darf die Linke in Berlin regieren, obwohl Vorwürfe des Judenhasses die Koalition belasten? Ex-Linkenchefin Janine Wissler und Neuköllns Integrationsbeauftragte Güner Balci geraten darüber im SPIEGEL-Talk heftig aneinander.",
+          "title": "Midterms in den USA - Mississippi: Wie Scott Colom trotz aller Widerstände siegte",
+          "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-mississippi-wie-scott-colom-trotz-aller-widerstaende-siegte-a-edaaf9b7-8649-49f9-ba5e-a4657d9f51cc#ref=rss",
+          "summary": "Als erster Schwarzer seit 145 Jahren zieht der Demokrat Scott Colom für Mississippi in den US-Senat ein. Geschafft hat er das mit unermüdlichem Klinkenputzen, einem viralen Wahlkampfvideo – und der unfreiwilligen Hilfe von Donald Trump.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1c1151de-fd7b-473c-9550-aea47bb84e9f_w1200_r1.778_fpx45_fpy45.jpg"
-        },
-        {
-          "title": "Nvidia: Jensen Huang soll weitere Affäre gehabt haben – Ablösung droht",
-          "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-soll-weitere-affaere-gehabt-haben-abloesung-droht-a-6b2af3d6-fa09-4f81-bc22-f915c93985f7#ref=rss",
-          "summary": "Laut mehreren US-Medien droht Jensen Huang beim Chipkonzern Nvidia die Ablösung. Zuvor waren Berichte über eine angebliche weitere Affäre des Firmenchefs bekannt geworden. Bei der Frau soll es sich um eine ihm unterstellte Person handeln.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6a903780-9853-4861-ba60-eacfa20299dc_w1200_r1.778_fpx32_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b165cb11-873c-4aa3-99c7-13b82f0003f5_w1200_r1.778_fpx70_fpy85.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Offene Wunden: Der Papst und die Missbrauchsskandale",
-          "url": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
-          "summary": "In der zweiten Heimat des Papstes, Peru, gibt es Missbrauchsvorwürfe gegen Sodalicio - eine Organisation, die trotz Verbots noch Einfluss hat. Für dieses Verbot spielte Papst Leo eine entscheidende Rolle. Von A. Herrberg.",
+          "title": "Marktbericht: DAX könnte mit Rekordhoch starten",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
+          "summary": "Sinkende Ölpreise und die Erholungsrally bei US-Techkonzernen könnten den DAX heute gleich zum Handelsbeginn auf ein neues Allzeithoch treiben. Bei Nvidia scheint sich die Führungskrise derweil zuzuspitzen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0af1330f-b407-4931-a2ba-341f399c78d5/AAABoc1PEU4/AAABnSSvrFg/16x9-big/papst-leo-peru-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ab0cc99f-d57a-49ec-98b4-d751e751f9fd/AAABocSGZAk/AAABnSSvrFg/16x9-big/boerse-560.jpg?width=1280"
         },
         {
-          "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
-          "url": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
-          "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+          "title": "11KM-Podcast: Israel und das Westjordanland - weitere Gewalt oder neue Hoffnung?",
+          "url": "https://www.tagesschau.de/podcast-11km-israel-westjordanland-102.html",
+          "summary": "Während in Israel Oppositionsführer Eisenkot eine neue Regierung bilden soll, hält die Gewalt im Westjordanland weiter an. 11KM fragt, ob sich daran bald etwas ändern könnte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d7e2a493-7016-4e0f-b525-04c1f1dc300f/AAABocztN-E/AAABnSSvrFg/16x9-big/colom-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/79024dbb-7383-4674-85c4-ca8096aa6ed6/AAABoc4pzzc/AAABnSSvrFg/16x9-big/podcast-11km-4028.jpg?width=1280"
         },
         {
-          "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
-          "summary": "Im Ringen um den Haushalt hat sich die Koalition auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer vorerst nicht gesenkt.",
+          "title": "Historischer Sieg in Mississippi: \"Hatte den Mut, an Mississippi zu glauben\"",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html",
+          "summary": "Seit 145 Jahren zieht erstmals ein schwarzer Demokrat für Mississippi in den US-Senat. Im Wahlkampf setzte Scott Colom auf die Mobilisierung von Nicht-Wählern - und Gespräche mit Trump-Unterstützern. Von Sandra Ratzow.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4bdccd2a-0538-412e-bbb9-c9307219dbc9/AAABocx2QXM/AAABnSSvrFg/16x9-big/klingbeil-460.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/eea9ed05-44d7-4646-b3c8-aef07e8eea3f/AAABoc4AghA/AAABnSSvrFg/16x9-big/colom-102.jpg?width=1280"
         }
       ]
     },
@@ -123,7 +123,7 @@
       "headlines": [
         {
           "title": "Haushalt: Koalition spart sich die Stromsteuer – und soziale Kürzungen",
-          "url": "https://www.sueddeutsche.de/politik/stromsteuer-zuckersteuer-plastiksteuer-spd-cdu-finanzen-reichensteuer-wohngeld-li.3579119",
+          "url": "https://www.sueddeutsche.de/politik/stromsteuer-zuckersteuer-plastiksteuer-spd-cdu-csu-finanzen-reichensteuer-wohngeld-li.3579119",
           "summary": "Kurz vor der entscheidenden Sitzung des Haushaltsausschusses erfahren die Fraktionen noch einmal, worauf sich die Koalition verständigt hat, und worauf nicht. Vor allem die Union hat Klärungsbedarf.",
           "source": "SZ",
           "paywall": false,
@@ -131,7 +131,7 @@
         },
         {
           "title": "USA: Demokrat gewinnt Senatssitz in Mississippi",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedys-klage-triumphbogen-mississippi-li.3578585",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-demokrat-mississippi-senatssitz-li.3578585",
           "summary": "Der Demokrat Scott Colom hat im Südstaat Mississippi die  Wahl für den US-Senat gewonnen. Der Rechtsanwalt siegte im Rennen gegen die Republikanerin Cindy Hyde-Smith.",
           "source": "SZ",
           "paywall": false,
