@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-12T15:00:30.567Z",
-  "timestamp": "12.11.2026, 16:00:30",
+  "generated": "2026-11-12T19:00:29.814Z",
+  "timestamp": "12.11.2026, 20:00:29",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
+          "title": "Nvidia-Affäre: Der jähe Fall von Jensen Huang",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-geht-ein-schock-fuer-nvidia-aber-keine-katastrophe-201677508.html",
+          "summary": "Der Nvidia-Chef war offenbar von seiner vermeintlichen Unantastbarkeit verblendet. Seine Ablösung war unvermeidlich. Für das Unternehmen ist das ein Schock – aber es muss keine Katastrophe sein.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/45616f0f9fb6/w5500h2873x0y397o/202611/33de4cea-6ff1-4ad0-916d-4a0d9ff30a63/jensen-huang-war-nicht-nur.webp"
+        },
+        {
+          "title": "Nach Huangs Rücktritt: „Die Red Flags bei Nvidia hätten aufleuchten müssen“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/compliance-expertin-red-flags-bei-nvidia-haben-versagt-201677210.html",
+          "summary": "Die Aufarbeitung der Spionageaffäre steht am Anfang. Die Compliance-Expertin Nicole Willms erläutert, warum die Untersuchung nun ausgeweitet wird. Mögliche Warnsignale hätten im Nvidia-Konzern früher auffallen müssen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/19fb8bb38a1e/w8055h4208x0y582o/202611/1ac116e1-70b3-4402-a083-b875965e475a/jensen-huang-zieht-sich.webp"
+        },
+        {
           "title": "Skandal im Chip-Giganten: Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-jensen-huang-tritt-nach-spionageaffaere-zurueck-201677697.html",
-          "summary": "Jensen Huang gibt mit sofortiger Wirkung den Vorstandsvorsitz des von ihm gegründeten Unternehmens ab. Für seine Nachfolge gibt es zunächst nur eine Übergangslösung. Der Aktienkurs des Konzerns stürzt ab.",
+          "summary": "Jensen Huang gibt mit sofortiger Wirkung den Vorstandsvorsitz des von ihm gegründeten Unternehmens ab. Wer folgt auf ihn? Donald Trump hat eine klare Vorstellung.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/4b9d55a0f634/w4992h2608x752y1243o/202611/d8f72c4d-3c0a-43ad-9508-67895bdaa06b/jensen-huang-tritt-von-seinem.webp"
-        },
-        {
-          "title": "Mutmassliche Spionin: Die vielen Karrieren der Alice Huang",
-          "url": "https://www.faz.net/aktuell/wirtschaft/alice-huang-journalistin-bankerin-spionin-201677181.html",
-          "summary": "Alice Huang war Journalistin, Bankerin, Videospiel-Investorin und Cloud-Betreiberin. Auf Wechat prahlte sie mit ihrer Beziehung zu Jensen Huang. War sie auch Spionin?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
-        },
-        {
-          "title": "Jensen Huang: Der Nvidia-Chef, die Chinesin und der Leerverkäufer",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-affaere-leitete-jensen-huang-illegal-chips-nach-china-um-accg-201674198.html",
-          "summary": "Eine mutmaßliche Spionin, Milliarden für KI-Chips und rätselhafte Geschäfte in Südostasien: Ein Leerverkäufer ahnt schon länger, dass da was nicht stimmt.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/19ab1e8291c9/w923h482x0y229o/202611/cfc8a4d2-37c8-4fcd-8d3f-bf071ec5e802/alice-huang-huang-le-teilte.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Jensen Huang: Nvidia-Chef tritt nach Spionageaffäre zurück",
-          "url": "https://www.spiegel.de/wirtschaft/jensen-huang-nvidia-chef-tritt-nach-spionageaffaere-zurueck-a-776bb012-48a6-4c08-9939-a77fad020e47#ref=rss",
-          "summary": "Er ist die zentrale Figur beim weltgrößten Chiphersteller, doch nun räumt Nvidia-Chef Jensen Huang seinen Posten. Hintergrund ist seine Affäre mit einer mutmaßlichen chinesischen Spionin. Eine vorübergehende Nachfolgerin steht bereits fest.",
+          "title": "Mercedes-Benz: Konzern stoppt Investitionen in deutsche Werke und prüft Schließungen",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-konzern-stoppt-investitionen-in-deutsche-werke-und-prueft-schliessungen-a-e7f79c73-ef81-4715-a6ad-a7033a1fac75#ref=rss",
+          "summary": "Der Streit zwischen Management und Arbeitnehmervertretung bei Mercedes-Benz eskaliert. Intern droht der Vorstand drastische Maßnahmen an: Künftige Fahrzeuge könnten »ausschließlich im Ausland« produziert werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/65bf550a-a0f8-435b-b322-9289c19f19c6_w1200_r1.778_fpx58.02_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/f29380cb-71c1-4dbc-aeb9-4e4a06a7a6c3_w1200_r1.778_fpx33.94_fpy49.99.jpg"
         },
         {
-          "title": "Warum Markus Söder jetzt noch breitbeiniger durch Berlin laufen dürfte",
-          "url": "https://www.spiegel.de/politik/deutschland/warum-markus-soeder-jetzt-noch-breitbeiniger-durch-berlin-laufen-duerfte-a-3f95b855-5de6-4193-8e07-5c9faf7de705#ref=rss",
-          "summary": "Mit Ilse Aigner hat der Kanzler eine Frau für das höchste Staatsamt vorgeschlagen, die von allen gelobt wird. Doch es ist nicht Friedrich Merz, der von dieser Personalie profitiert.",
+          "title": "News des Tages: Nvidia-Chef Jensen Huang tritt zurück, Startchancengesetz für Kitakinder, Hype um Grand Theft Auto 6",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-nvidia-chef-jensen-huang-tritt-zurueck-startchancengesetz-fuer-kitakinder-hype-um-grand-theft-auto-6-a-0b48fa44-e908-4c2c-a96b-b8e54d42e674#ref=rss",
+          "summary": "Der Nvidia-Chef tritt zurück. Der Bundestag beschließt ein wichtiges Kitagesetz. Und seit heute kann man das gehypteste Videospiel aller Zeiten kaufen, aber noch nicht zocken. Das ist die Lage am Donnerstagabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/845d074e-81ba-49d6-948d-5294484c8def_w1200_r1.778_fpx55_fpy28.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/49113e72-1220-4b8b-b36f-f2b82f1919fd_w1200_r1.778_fpx52.58_fpy45.jpg"
         },
         {
-          "title": "AfD: Streit über Abschiebungen verschärft Machtkampf in der Führung",
-          "url": "https://www.spiegel.de/politik/deutschland/afd-und-wieder-verliert-tino-chrupalla-gegen-alice-weidel-a-9a3a1300-2e9a-4b20-8043-97b1d06e4149#ref=rss",
-          "summary": "In der AfD gibt es Zank um die Frage, wie viel Härte es geben soll bei Abschiebungen und der Verdrängung von Menschen mit Migrationshintergrund aus Deutschland. Dahinter steckt ein Machtkampf in der Führung der Partei.",
+          "title": "Iran: Obamas Chefunterhändler Robert Malley erwartet Rückzug der USA aus der Region",
+          "url": "https://www.spiegel.de/ausland/iran-obamas-chefunterhaendler-robert-malley-erwartet-rueckzug-der-usa-aus-der-region-a-51a5af88-cb00-482c-b4ad-f7fd9a94fb33#ref=rss",
+          "summary": "Robert Malley hat einst für US-Präsident Barack Obama den Atomdeal mit Iran mitverhandelt. Donald Trumps Krieg am Golf hält er für ein Desaster. Hier erklärt er, warum er nun mit einem Rückzug der USA rechnet.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2033f844-3f75-4230-840e-7a9f76e93d53_w1200_r1.778_fpx47_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6910f050-38b6-4134-a573-8b73b254a6c7_w1200_r1.778_fpx64.66_fpy54.98.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
-          "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
-          "summary": "Seit Tagen wird spekuliert, dass Israels Premier Netanjahu neue Angriffe auf Iran planen könnte. Oppositionschef Eisenkot, der derzeit versucht, eine Regierung ohne Netanjahu zu bilden, warnt diesen jetzt vor \"gefährlichen Schritten\".",
+          "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+          "summary": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4e83b6c9-64c3-4423-94d7-fefad2ab1e5d/AAABoc_yjk4/AAABnSSvrFg/16x9-big/eisenkot-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a1c69cbc-7a7c-413d-aae2-f16786e0d57e/AAABodDagME/AAABnSSvrFg/16x9-big/mercedes-montage-100.jpg?width=1280"
         },
         {
-          "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
-          "url": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
-          "summary": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1. 600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
+          "title": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
+          "url": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
+          "summary": "Aktivistin Thunberg wird in Antalya deutlich: Die Politik trage die Schuld daran, dass der Klimawandel außer Kontrolle sei. Ein neuer Bericht rechnet mit 2,7 Grad Erwärmung. Auch Deutschland ist demnach kein Vorbild mehr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8daf501f-6a2c-4fe2-90f0-33638f979a13/AAABodAmNfs/AAABnSSvrFg/16x9-big/schule-italien-evakuiert-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/449d30ee-52f8-4182-b611-6c6f31b5d1ef/AAABodCYjDU/AAABnSSvrFg/16x9-big/thunberg-160.jpg?width=1280"
         },
         {
-          "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
-          "summary": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
+          "title": "Marktbericht: Nvidia-Aktie bricht ein - und auch der DAX sackt ab",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
+          "summary": "Der Rücktritt von Nvidia-Chef Huang hat amerikanische Tech-Aktien ins Minus gedrückt. Das geht auch am deutschen Leitindex DAX nicht spurlos vorüber - der zuvor ein neues Rekordhoch erreicht hatte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/427ba347-9971-42c5-b988-2e7d573ee1df/AAABoc6Zlzc/AAABnSSvrFg/16x9-big/jensen-huang-112.jpg?width=1280"
+          "image": null
         }
       ]
     },
@@ -93,12 +93,20 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Krafttraining ist nicht der Sinn des Lebens, aber ein Weg zu gesunden Jahren",
+          "url": "https://www.telepolis.de/article/Krafttraining-ist-nicht-der-Sinn-des-Lebens-aber-ein-Weg-zu-gesunden-Jahren-11523232.html",
+          "summary": "Eine taz-Kolumne erklärt Longevity zum Selbstoptimierungskult. Das ist bequem und für Ältere schlicht falsch. Ein Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Schlesinger vor Gericht: Der Skandal steht fest, die Schuldfrage ist offen",
           "url": "https://www.telepolis.de/article/Schlesinger-vor-Gericht-Der-Skandal-steht-fest-die-Schuldfrage-ist-offen-11522754.html",
           "summary": "Sparen im Sender, Prämien für die Spitze: Im Strafprozess gegen die frühere RBB-Führung könnten Sitzungsprotokolle den Ausschlag geben.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/3/9/8/Master_RBB-34c439f639508547.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "Kleine Schläge, große Signale: Wo in Westasien neue Fronten sichtbar werden",
@@ -106,15 +114,7 @@
           "summary": "Qeshm im Fadenkreuz, Riad im Rückversicherungsmodus: Während die USA Warnschüsse abgeben, schmiedet Riad neue Allianzen. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/1/3/7/shutterstock_2756592025-1f6c987716fe9f3f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Gasspeicher bei 58,5 Prozent: Was ein Winter wie 2010 bedeuten würde",
-          "url": "https://www.telepolis.de/article/Gasspeicher-bei-58-5-Prozent-Was-ein-Winter-wie-2010-bedeuten-wuerde-11522658.html",
-          "summary": "Nur extreme Kälte würde die Versorgung gefährden, rechnet der Speicherverband vor. Seine eigene Dokumentation relativiert das Szenario.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/3/5/0/Speicher_Rehden_0100-c3fdbcb22eda1b28.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zur Bundespolitik: Bundestag beschließt Kita-Startchancengesetz mit Sprachtests",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-kitas-startchancengesetz-sprachtests-personal-bundestag-li.3568524",
-          "summary": "Es soll auch mehr Personal für Kitas in schwierigen Lagen geben. Kritiker fordern dafür mehr Geld. Die zuständigen Länder wollen dem Gesetz so offenbar nicht zustimmen.",
+          "title": "Autoindustrie: Mercedes stoppt alle Investitionen in Deutschland und droht mit Werkschließungen",
+          "url": "https://www.sueddeutsche.de/wirtschaft/mercedes-investitionsstopp-werkschliessungen-ig-metall-betriebsrat-li.3579730",
+          "summary": "Als Grund nennt der Vorstand, dass bisher keine Einigung mit dem Betriebsrat über längere Arbeitszeiten und weniger Gehalt erzielt werden konnte.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Chip-Konzern: Nvidia-Chef Huang tritt zurück",
-          "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-aktie-absturz-nachfolgerin-li.3579215",
-          "summary": "Nach einer Affäre mit einer mutmaßlichen Spionin und Berichten über eine weitere Beziehung muss der Konzernchef gehen. Übergangsweise soll die bisherige Finanzchefin Colette Kress die Geschäfte führen. Der Aktienkurs sackt ab.",
+          "title": "Atmosphärenphysik: Polarwirbel jetzt schon zusammengebrochen: Was ist da los?",
+          "url": "https://www.sueddeutsche.de/wissen/polarwirbel-nordpol-stratosphaere-kaelteeinbruch-atmosphaerenphysik-winter-li.3578700",
+          "summary": "Die Luftzirkulation über dem Nordpol ist zeitweise zum Erliegen gekommen – so früh in der Saison wie noch nie. Wie es dazu kam und ob es etwas für den Winter bedeutet.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Nach Spionageaffäre: Nvidia-Chef Huang tritt zurück",
-          "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-ruecktritt-spionage-li.3579274",
-          "summary": "Seine Aufgaben soll vorübergehend die bisherige Finanzchefin Colette Kress übernehmen. Am Wochenende waren Berichte über eine Affäre Huangs mit einer mutmaßlichen chinesischen Spionin bekannt geworden.",
+          "title": "Russland und die Eishockey-WM: Bundesregierung knickt in der Visa-Frage ein",
+          "url": "https://www.sueddeutsche.de/sport/eishockey-wm-russland-kanada-visa-boykott-li.3579408",
+          "summary": "Während Kanada russischen Sportlern die Einreise untersagt, positioniert sich die deutsche Bundesregierung mit Blick auf die Heim-WM deutlich anders. Die Verweigerung von Visa sei „keine Lösung“.",
           "source": "SZ",
           "paywall": false,
           "image": null
