@@ -1,32 +1,32 @@
 {
-  "generated": "2026-11-12T11:00:18.397Z",
-  "timestamp": "12.11.2026, 12:00:18",
+  "generated": "2026-11-12T15:00:30.567Z",
+  "timestamp": "12.11.2026, 16:00:30",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Beratungen zum Haushalt: Für die CDU ist dieses Ergebnis ein Desaster",
-          "url": "https://www.faz.net/aktuell/wirtschaft/streit-um-den-haushalt-fuer-die-cdu-ist-dieses-ergebnis-ein-desaster-201676036.html",
-          "summary": "In den Haushaltsverhandlungen setzt sich die SPD wieder einmal durch. Die Sozialausgaben bleiben hoch, Entlastungen für Fachkräfte und Unternehmen gibt es keine. Zerbricht auch diese Koalition an einer Geldfrage?",
+          "title": "Skandal im Chip-Giganten: Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chef-jensen-huang-tritt-nach-spionageaffaere-zurueck-201677697.html",
+          "summary": "Jensen Huang gibt mit sofortiger Wirkung den Vorstandsvorsitz des von ihm gegründeten Unternehmens ab. Für seine Nachfolge gibt es zunächst nur eine Übergangslösung. Der Aktienkurs des Konzerns stürzt ab.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b3d25adc3085/w5647h2950x0y113o/202611/b6e25d9c-4cca-41eb-820f-007da50ddbd4/pressestatement-mit-drei.webp"
+          "image": "https://media0.faz.net/image/w1200h627/4b9d55a0f634/w4992h2608x752y1243o/202611/d8f72c4d-3c0a-43ad-9508-67895bdaa06b/jensen-huang-tritt-von-seinem.webp"
         },
         {
-          "title": "Streit über Haushalt: CDU-Finanzfachmann: „Es hat ordentlich geknallt“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/streit-in-union-ueber-haushalt-eskaliert-hat-ordentlich-geknallt-accg-201674937.html",
-          "summary": "In der Union eskaliert der Streit über die Haushaltspolitik. „Wir verlieren jede Glaubwürdigkeit“, sagt ein früherer CDU-Generalsekretär. Es geht nicht nur um die Stromsteuer.",
+          "title": "Mutmassliche Spionin: Die vielen Karrieren der Alice Huang",
+          "url": "https://www.faz.net/aktuell/wirtschaft/alice-huang-journalistin-bankerin-spionin-201677181.html",
+          "summary": "Alice Huang war Journalistin, Bankerin, Videospiel-Investorin und Cloud-Betreiberin. Auf Wechat prahlte sie mit ihrer Beziehung zu Jensen Huang. War sie auch Spionin?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/c7a6146c40e6/w6000h3135x0y120o/202609/43601.0.2574475749/mathias-middelberg-cdu-ist.webp"
+          "image": "https://www.faz.net/faz-share-logo.jpg"
         },
         {
           "title": "Jensen Huang: Der Nvidia-Chef, die Chinesin und der Leerverkäufer",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-affaere-leitete-jensen-huang-illegal-chips-nach-china-um-accg-201674198.html",
           "summary": "Eine mutmaßliche Spionin, Milliarden für KI-Chips und rätselhafte Geschäfte in Südostasien: Ein Leerverkäufer ahnt schon länger, dass da was nicht stimmt.",
           "source": "FAZ",
-          "paywall": false,
+          "paywall": true,
           "image": "https://media0.faz.net/image/w1200h627/19ab1e8291c9/w923h482x0y229o/202611/cfc8a4d2-37c8-4fcd-8d3f-bf071ec5e802/alice-huang-huang-le-teilte.webp"
         }
       ]
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "»GTA 6«: Millionen Spielefans haben jahrelang kollektiv gewartet – nun endet die Ära »vor GTA 6«",
-          "url": "https://www.spiegel.de/netzwelt/games/gta-6-millionen-spielefans-haben-jahrelang-kollektiv-gewartet-nun-endet-die-aera-vor-gta-6-a-f3e26312-77fe-4e14-b893-877b77d2f952#ref=rss",
-          "summary": "Viele Gamer erleben gerade surreale Momente: 13 Jahre nach Teil fünf steht »GTA 6« im Laden, und die Downloads laufen. Mit der Freischaltung des Spiels am 19. November endet eines der größten Internetmemes.",
+          "title": "Jensen Huang: Nvidia-Chef tritt nach Spionageaffäre zurück",
+          "url": "https://www.spiegel.de/wirtschaft/jensen-huang-nvidia-chef-tritt-nach-spionageaffaere-zurueck-a-776bb012-48a6-4c08-9939-a77fad020e47#ref=rss",
+          "summary": "Er ist die zentrale Figur beim weltgrößten Chiphersteller, doch nun räumt Nvidia-Chef Jensen Huang seinen Posten. Hintergrund ist seine Affäre mit einer mutmaßlichen chinesischen Spionin. Eine vorübergehende Nachfolgerin steht bereits fest.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9907283b-9e5b-40ba-890f-0a4a59077ac7_w1200_r1.778_fpx59.99_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/65bf550a-a0f8-435b-b322-9289c19f19c6_w1200_r1.778_fpx58.02_fpy45.jpg"
         },
         {
-          "title": "Israel und Gaza: Über das Thema zu reden, ist gar nicht so schwierig",
-          "url": "https://www.spiegel.de/politik/israel-und-gaza-ueber-das-thema-zu-reden-ist-gar-nicht-so-schwierig-a-9507359a-1381-4c48-a7b4-8da318b2320a#ref=rss",
-          "summary": "Deutsche scheuen sich oft, über den israelisch-palästinensischen Konflikt zu sprechen, aus Angst, etwas falsch zu machen. Diese Angst muss nicht sein.",
+          "title": "Warum Markus Söder jetzt noch breitbeiniger durch Berlin laufen dürfte",
+          "url": "https://www.spiegel.de/politik/deutschland/warum-markus-soeder-jetzt-noch-breitbeiniger-durch-berlin-laufen-duerfte-a-3f95b855-5de6-4193-8e07-5c9faf7de705#ref=rss",
+          "summary": "Mit Ilse Aigner hat der Kanzler eine Frau für das höchste Staatsamt vorgeschlagen, die von allen gelobt wird. Doch es ist nicht Friedrich Merz, der von dieser Personalie profitiert.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5f250c1b-d8d7-4832-92e8-f829a7ff179f_w1200_r1.778_fpx44_fpy32.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/845d074e-81ba-49d6-948d-5294484c8def_w1200_r1.778_fpx55_fpy28.jpg"
         },
         {
-          "title": "Jensen Huang bei Nvidia: Er war das perfekte Ziel. Kippt jetzt der Visionär – und mit ihm der KI-Boom?",
-          "url": "https://www.spiegel.de/wirtschaft/jensen-huang-bei-nvidia-er-war-das-perfekte-ziel-kippt-jetzt-der-visionaer-und-mit-ihm-der-ki-boom-a-a60b24c9-72d6-4eab-a8ec-684a1f965c48#ref=rss",
-          "summary": "Jensen Huang ist als Nvidia-Chef die zentrale Figur für die zentrale Technologie unserer Zeit. Mit dem Skandal könnte nicht nur seine Karriere enden, sondern auch der einzigartige Status des Unternehmens.",
+          "title": "AfD: Streit über Abschiebungen verschärft Machtkampf in der Führung",
+          "url": "https://www.spiegel.de/politik/deutschland/afd-und-wieder-verliert-tino-chrupalla-gegen-alice-weidel-a-9a3a1300-2e9a-4b20-8043-97b1d06e4149#ref=rss",
+          "summary": "In der AfD gibt es Zank um die Frage, wie viel Härte es geben soll bei Abschiebungen und der Verdrängung von Menschen mit Migrationshintergrund aus Deutschland. Dahinter steckt ein Machtkampf in der Führung der Partei.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ed692c11-ad53-4c7d-a5e3-8f8d1a3f6b20_w1200_r1.778_fpx55_fpy30.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/2033f844-3f75-4230-840e-7a9f76e93d53_w1200_r1.778_fpx47_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Kita-Startchancengesetz: Mehr Förderung mit weniger Geld?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/kita-startchancengesetz-100.html",
-          "summary": "Der Bundestag hat das Startchancengesetz beschlossen, das mehr Förderung für Kita-Kinder und verbindliche Tests vorsieht. Kritik gibt es wegen geplanter Kürzungen bei den Bundesmitteln. Von Chris Berdrow.",
+          "title": "Iran-Krieg: Eisenkot ruft Netanjahu zu Zurückhaltung auf",
+          "url": "https://www.tagesschau.de/ausland/asien/eisenkot-netanjahu-100.html",
+          "summary": "Seit Tagen wird spekuliert, dass Israels Premier Netanjahu neue Angriffe auf Iran planen könnte. Oppositionschef Eisenkot, der derzeit versucht, eine Regierung ohne Netanjahu zu bilden, warnt diesen jetzt vor \"gefährlichen Schritten\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d0cc50ad-3244-47e2-a58c-55a26efca276/AAABoc9GtDo/AAABnSSvrFg/16x9-big/sprachfoerderung-kita-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4e83b6c9-64c3-4423-94d7-fefad2ab1e5d/AAABoc_yjk4/AAABnSSvrFg/16x9-big/eisenkot-120.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX knackt 27.000 Punkte-Marke",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
-          "summary": "An der Börse kann sich die Stimmung schnell drehen: Nach dem KI-Crash von vergangener Woche springt der DAX heute gleich zum Handelsstart wieder auf ein Rekordhoch. Zeitweise erreicht er sogar die Marke von 27. 000 Punkten.",
+          "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
+          "summary": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1. 600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/637010d4-8a67-4354-8847-b316454ab453/AAABocSOaSA/AAABnSSvrFg/16x9-big/boerse-572.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8daf501f-6a2c-4fe2-90f0-33638f979a13/AAABodAmNfs/AAABnSSvrFg/16x9-big/schule-italien-evakuiert-100.jpg?width=1280"
         },
         {
-          "title": "IG Metall beschließt erstmals seit acht Jahren ganztägige Streiks",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
-          "summary": "Ab sofort sind im Tarifstreit der Metall- und Elektroindustrie ganztägige Warnstreiks möglich. Die IG Metall wirft den Arbeitgebern nach drei Verhandlungsrunden eine Blockadehaltung vor. Wo genau gestreikt werden soll, ist noch nicht bekannt.",
+          "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+          "summary": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/427ba347-9971-42c5-b988-2e7d573ee1df/AAABoc6Zlzc/AAABnSSvrFg/16x9-big/jensen-huang-112.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Schuldneratlas 2026: Mehr als jeder zehnte Erwachsene ist überschuldet",
-          "url": "https://www.telepolis.de/article/Schuldneratlas-2026-Mehr-als-jeder-zehnte-Erwachsene-ist-ueberschuldet-11522161.html",
-          "summary": "7,36 Millionen Erwachsene in Deutschland gelten als überschuldet, 293. 000 mehr als im Vorjahr. Vor allem Mahnungen und Inkasso nehmen zu.",
+          "title": "Schlesinger vor Gericht: Der Skandal steht fest, die Schuldfrage ist offen",
+          "url": "https://www.telepolis.de/article/Schlesinger-vor-Gericht-Der-Skandal-steht-fest-die-Schuldfrage-ist-offen-11522754.html",
+          "summary": "Sparen im Sender, Prämien für die Spitze: Im Strafprozess gegen die frühere RBB-Führung könnten Sitzungsprotokolle den Ausschlag geben.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/0/9/5/shutterstock_2532728963-fa00be50ae9ff467.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/3/9/8/Master_RBB-34c439f639508547.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Project Aerodynamic: Wie die CIA auf Ukrainer im Kampf gegen die UdSSR setzte",
-          "url": "https://www.telepolis.de/article/Project-Aerodynamic-Wie-die-CIA-auf-Ukrainer-im-Kampf-gegen-die-UdSSR-setzte-11521841.html",
-          "summary": "Ein Fallschirmabwurf in finsterer Nacht eröffnete 1949 Amerikas verdeckten Krieg gegen die Sowjetunion. Washington suchte neue Verbündete. Ein Gastbeitrag.",
+          "title": "Kleine Schläge, große Signale: Wo in Westasien neue Fronten sichtbar werden",
+          "url": "https://www.telepolis.de/article/Kleine-Schlaege-grosse-Signale-Wo-in-Westasien-neue-Fronten-sichtbar-werden-11522243.html",
+          "summary": "Qeshm im Fadenkreuz, Riad im Rückversicherungsmodus: Während die USA Warnschüsse abgeben, schmiedet Riad neue Allianzen. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/9/3/5/101st_Airborne_on_D-Day_-1-c346da1ce9361ba5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/1/3/7/shutterstock_2756592025-1f6c987716fe9f3f.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Frankreich: Beim Mindestlohn knausrig, bei der Repression erfinderisch",
-          "url": "https://www.telepolis.de/article/Frankreich-Beim-Mindestlohn-knausrig-bei-der-Repression-erfinderisch-11521675.html",
-          "summary": "Die Regierung bietet wenig, die Gewerkschaftseinheit wackelt. Gegen Aktivisten kommen inzwischen Maßnahmen aus der Terrorbekämpfung zum Einsatz.",
+          "title": "Gasspeicher bei 58,5 Prozent: Was ein Winter wie 2010 bedeuten würde",
+          "url": "https://www.telepolis.de/article/Gasspeicher-bei-58-5-Prozent-Was-ein-Winter-wie-2010-bedeuten-wuerde-11522658.html",
+          "summary": "Nur extreme Kälte würde die Versorgung gefährden, rechnet der Speicherverband vor. Seine eigene Dokumentation relativiert das Szenario.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/8/5/1/Master_Schmid-d659c5d3a8941558.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/3/5/0/Speicher_Rehden_0100-c3fdbcb22eda1b28.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Selenskij: Störungen bei Satellitendienst Starshield an gesamter Front",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-stoerungen-starshield-li.3571967",
-          "summary": "„Das hilft den Russen, mehr Ukrainer zu töten und präzisere Angriffe gegen die Ukraine zu führen“, erklärt der Präsident. Sein Land versuche, die Gründe für die Einschränkung mit der US-Seite zu klären.",
+          "title": "Newsblog zur Bundespolitik: Bundestag beschließt Kita-Startchancengesetz mit Sprachtests",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-kitas-startchancengesetz-sprachtests-personal-bundestag-li.3568524",
+          "summary": "Es soll auch mehr Personal für Kitas in schwierigen Lagen geben. Kritiker fordern dafür mehr Geld. Die zuständigen Länder wollen dem Gesetz so offenbar nicht zustimmen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Industrie: „Jetzt legen wir die Betriebe rund um die Uhr still“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/ig-metall-tarifverhandlungen-metall-und-elektroindustrie-streiks-lohnerhoehung-li.3575612",
-          "summary": "Die IG Metall startet erstmals seit Jahren 24-Stunden-Streiks. Damit eskaliert die Gewerkschaft den Tarifstreit. Die Arbeitgeber zeigen sich „fassungslos“.",
+          "title": "Chip-Konzern: Nvidia-Chef Huang tritt zurück",
+          "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-aktie-absturz-nachfolgerin-li.3579215",
+          "summary": "Nach einer Affäre mit einer mutmaßlichen Spionin und Berichten über eine weitere Beziehung muss der Konzernchef gehen. Übergangsweise soll die bisherige Finanzchefin Colette Kress die Geschäfte führen. Der Aktienkurs sackt ab.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zur Bundespolitik: Middelberg: In Haushaltsdebatte der Union hat es „ordentlich geknallt“",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-haushalt-debatte-cdu-csu-middelberg-li.3568524",
-          "summary": "In der Fraktionssitzung sei es unter anderem um die geplante, aber erneut verschobene Senkung der Stromsteuer und um das Thema Einkommensteuer gegangen. Die Aussprache der Union dauerte deutlich länger als die der SPD.",
+          "title": "Nach Spionageaffäre: Nvidia-Chef Huang tritt zurück",
+          "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-ruecktritt-spionage-li.3579274",
+          "summary": "Seine Aufgaben soll vorübergehend die bisherige Finanzchefin Colette Kress übernehmen. Am Wochenende waren Berichte über eine Affäre Huangs mit einer mutmaßlichen chinesischen Spionin bekannt geworden.",
           "source": "SZ",
           "paywall": false,
           "image": null
