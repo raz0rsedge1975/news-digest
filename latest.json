@@ -1,25 +1,17 @@
 {
-  "generated": "2026-11-11T23:00:22.725Z",
-  "timestamp": "12.11.2026, 00:00:22",
+  "generated": "2026-11-12T03:00:17.419Z",
+  "timestamp": "12.11.2026, 04:00:17",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Deutschland Liveblog: Koalition verschiebt Einführung von Zuckersteuer – vorerst keine Stromsteuersenkung für alle",
-          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-koalition-verschiebt-einfuehrung-von-zuckersteuer-faz-110093143.html",
-          "summary": "Ringen um Haushalt: Vorerst auch keine Plastiksteuer +++ Bundesinnenminister: Konsequenz, Risiko und Preis muss für hybride Akteure erhöht werden +++ alle Entwicklungen im Liveblog",
+          "title": "Jensen Huang: Nvidia bereitet offenbar Trennung von Huang vor",
+          "url": "https://www.faz.net/aktuell/wirtschaft/zweite-affaere-nvidia-bereitet-offenbar-trennung-von-jensen-huang-vor-201674834.html",
+          "summary": "Einem Bericht zufolge will der Nvidia-Verwaltungsrat über die Zukunft des Vorstandschefs beraten. Derweil wurde noch eine weitere Affäre publik.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/38dafe9a4ee8/w6144h3210x0y408o/202611/1cf20a23-a0fc-44ed-9f4e-fff34492d829/finanzminister-lars-klingbeil.webp"
-        },
-        {
-          "title": "Liveblog Nahost: Iran droht Europa mit Angriffen",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-iran-droht-europa-mit-angriffen-faz-200583539.html",
-          "summary": "Amerikanische Stützpunkte könnten Ziele werden +++ Netanjahu will US-Militärhilfe schrittweise auslaufen lassen +++ Wieder Tanker auf Seemine gefahren +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e06e07841e0d/w5104h2666x0y382o/202611/f309a019-8184-44b5-b4ba-7ea2e32288f9/die-amerikanische-basis.webp"
+          "image": "https://media0.faz.net/image/w1200h627/531cdfca0099/w4096h2140x0y270o/202611/ec120277-1d84-4940-a73b-6944c07a70ad/eine-glanzkarriere-steht.webp"
         },
         {
           "title": "Chinas Geheimdienst: „Sex-Spionage ist eine Methode, die wir schon lange kennen“",
@@ -28,6 +20,14 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/90c79bf9b410/w894h467x30y238o/202611/cfc8a4d2-37c8-4fcd-8d3f-bf071ec5e802/im-auftrag-pekings-alice-huang.webp"
+        },
+        {
+          "title": "Bundesregierung: Koalition meldet Kompromisse im Haushaltsstreit",
+          "url": "https://www.faz.net/aktuell/politik/inland/koalition-meldet-kompromisse-im-haushaltsstreit-stromsteuer-bleibt-offen-accg-201674937.html",
+          "summary": "Die Zuckersteuer kommt erst 2028, die Steuer auf Plastikverpackungen gar nicht. Für die von Kanzler Merz versprochene Stromsteuersenkung fehlen 5,4 Milliarden Euro.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b3d25adc3085/w5647h2950x0y113o/202611/b6e25d9c-4cca-41eb-820f-007da50ddbd4/spd-fraktionsvorsitzender.webp"
         }
       ]
     },
@@ -37,7 +37,7 @@
         {
           "title": "Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen",
           "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
-          "summary": "Die schwarz-rote Koalition ringt um den Haushalt für das kommende Jahr: Die von Bundeskanzler Merz geforderte Senkung der Stromsteuer kommt nach SPIEGEL-Informationen vorerst nicht. Die Zuckersteuer wird auf 2028 verschoben. Auch die Plastiksteuer ist erst einmal vom Tisch.",
+          "summary": "Die schwarz-rote Koalition ringt um den Haushalt für das kommende Jahr: Die von Kanzler Merz geforderte Senkung der Stromsteuer kommt nach SPIEGEL-Informationen vorerst nicht. Die Zuckersteuer wird auf 2028 verschoben. Auch die Plastiksteuer ist erst mal vom Tisch.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/21d9e605-3de4-47ca-b9f3-521e2733a698_w1200_r1.778_fpx58.01_fpy44.99.jpg"
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/1c1151de-fd7b-473c-9550-aea47bb84e9f_w1200_r1.778_fpx45_fpy45.jpg"
         },
         {
-          "title": "Boris Pistorius: Schafft der Verteidigungsminister die Wende beim Kampf gegen sexuelles Fehlverhalten in der Bundeswehr?",
-          "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-schafft-der-verteidigungsminister-die-wende-beim-kampf-gegen-sexuelles-fehlverhalten-in-der-bundeswehr-a-375d7184-5ee3-4aaa-8eaa-edc21847a3de#ref=rss",
-          "summary": "Sexualisiertes Fehlverhalten in der Bundeswehr ist weitverbreitet, das belegt eine neue Studie. Verteidigungsminister Boris Pistorius zeigt sich schockiert, ungewohnt dünnhäutig. Sein Aktionsplan zielt auf eine Schwachstelle der Truppe.",
+          "title": "Nvidia: Jensen Huang soll weitere Affäre gehabt haben – Ablösung droht",
+          "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-soll-weitere-affaere-gehabt-haben-abloesung-droht-a-6b2af3d6-fa09-4f81-bc22-f915c93985f7#ref=rss",
+          "summary": "Laut mehreren US-Medien droht Jensen Huang beim Chipkonzern Nvidia die Ablösung. Zuvor waren Berichte über eine angebliche weitere Affäre des Firmenchefs bekannt geworden. Bei der Frau soll es sich um eine ihm unterstellte Person handeln.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4294db76-8a0c-4a1a-8aed-80e6524c7880_w1200_r1.778_fpx43.34_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6a903780-9853-4861-ba60-eacfa20299dc_w1200_r1.778_fpx32_fpy44.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
+          "title": "Offene Wunden: Der Papst und die Missbrauchsskandale",
+          "url": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
+          "summary": "In der zweiten Heimat des Papstes, Peru, gibt es Missbrauchsvorwürfe gegen Sodalicio - eine Organisation, die trotz Verbots noch Einfluss hat. Für dieses Verbot spielte Papst Leo eine entscheidende Rolle. Von A. Herrberg.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/0af1330f-b407-4931-a2ba-341f399c78d5/AAABoc1PEU4/AAABnSSvrFg/16x9-big/papst-leo-peru-100.jpg?width=1280"
+        },
+        {
+          "title": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+          "url": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+          "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d7e2a493-7016-4e0f-b525-04c1f1dc300f/AAABocztN-E/AAABnSSvrFg/16x9-big/colom-100.jpg?width=1280"
+        },
+        {
+          "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
           "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
-          "summary": "Im Ringen um den Haushalt hat sich die Koalition nach ARD-Informationen auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer wohl vorerst nicht für alle gesenkt.",
+          "summary": "Im Ringen um den Haushalt hat sich die Koalition auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer vorerst nicht gesenkt.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/4bdccd2a-0538-412e-bbb9-c9307219dbc9/AAABocx2QXM/AAABnSSvrFg/16x9-big/klingbeil-460.jpg?width=1280"
-        },
-        {
-          "title": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
-          "summary": "In den Karnevalshochburgen Köln und Düsseldorf haben die Jecken die fünfte Jahreszeit eingeläutet. Laut Polizei verliefen die Feiern auf den Straßen und in den Kneipen meist friedlich. Nur das Wetter machte nicht mit.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://www1.wdr.de/polizei-karneval-koeln-100~_v-gseagaleriexl.jpg"
-        },
-        {
-          "title": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
-          "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
-          "summary": "Am polnischen Unabhängigkeitstag findet traditionell eine Großdemonstration von Rechtsnationalisten statt. Der sogenannte Unabhängigkeitsmarsch durch Warschau ist umstritten - und zieht doch Hunderttausende an. Von P. Milling.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/98bae2e6-2616-4261-9545-a53d6ca085df/AAABocvloh8/AAABnSSvrFg/16x9-big/menschen-marsch-warschau-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Bezahlbarkeit als Antwort auf den Aufstieg der AfD?",
+          "url": "https://www.telepolis.de/article/Bezahlbarkeit-als-Antwort-auf-den-Aufstieg-der-AfD-11521102.html",
+          "summary": "Miete, Mahlzeit, Monatsende: Autoritarismus punktet dort, wo das Portemonnaie pocht. Kann eine andere Wirtschaftspolitik den Faschismus stoppen? Eine Rezension.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/5/5/1/preissteigerung_ho-055fb4377333ee8b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Zehnmal teurer: Glasfaser wird für ukrainische Drohnenbauer knapp",
           "url": "https://www.telepolis.de/article/Zehnmal-teurer-Glasfaser-wird-fuer-ukrainische-Drohnenbauer-knapp-11520956.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/3/1/0/shutterstock_1184498227-e5d404de4b967873.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Ukraine-Krieg: Russlands Drohnen jagen schwer ersetzbare Lokomotiven",
-          "url": "https://www.telepolis.de/article/Ukraine-Krieg-Russlands-Drohnen-jagen-schwer-ersetzbare-Lokomotiven-11520694.html",
-          "summary": "Die Bahn trägt Nachschub und Außenhandel. Russland greift einen zentralen Engpass an – während die Ukraine dringend Ersatz sucht. Eine Analyse.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/3/5/3/Master_Lange-4132d02d8ae11612.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Newsblog zur Bundespolitik: Koalition nimmt geplante Kürzungen im Sozialbereich zurück und verschiebt geplante Steuern",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-deutschland-sozialbereich-reformen-koalition-steuern-einigung-li.3568524",
-          "summary": "Dabei geht es etwa um den Kindersofortzuschlag für Geringverdiener. Auch in Steuer-Streitfragen gab es eine Einigung zwischen Union und SPD.",
+          "title": "Haushalt: Koalition spart sich die Stromsteuer – und soziale Kürzungen",
+          "url": "https://www.sueddeutsche.de/politik/stromsteuer-zuckersteuer-plastiksteuer-spd-cdu-finanzen-reichensteuer-wohngeld-li.3579119",
+          "summary": "Kurz vor der entscheidenden Sitzung des Haushaltsausschusses erfahren die Fraktionen noch einmal, worauf sich die Koalition verständigt hat, und worauf nicht. Vor allem die Union hat Klärungsbedarf.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Unabhängigkeitsmarsch in Polen: Wie der Präsident das Land am höchsten staatlichen Feiertag spaltet",
-          "url": "https://www.sueddeutsche.de/politik/polen-unabhaengigkeitsmarsch-warschau-unabhaengigkeitstag-li.3578923",
-          "summary": "Karol Nawrocki überzieht die Regierung Tusk am Unabhängigkeitstag mit Vorwürfen. Dann nimmt er an einem Marsch teil, den auch Rechtsextreme für ihre Parolen nutzen.",
+          "title": "USA: Demokrat gewinnt Senatssitz in Mississippi",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-kennedys-klage-triumphbogen-mississippi-li.3578585",
+          "summary": "Der Demokrat Scott Colom hat im Südstaat Mississippi die  Wahl für den US-Senat gewonnen. Der Rechtsanwalt siegte im Rennen gegen die Republikanerin Cindy Hyde-Smith.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Podcast: „Auf den Punkt“: Ausmaß sexualisierter Gewalt bei Bundeswehr größer als gedacht",
-          "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-bundeswehr-sexualisierte-gewalt-dunkelfeldstudie-li.3578712",
-          "summary": "Sexuelle Übergriffe sind laut einer Dunkelfeldstudie in der Bundeswehr viel häufiger als bisher gedacht. Was sich ändern muss.",
+          "title": "Steuern: Existenzminimum wird angehoben",
+          "url": "https://www.sueddeutsche.de/politik/existenzminimum-kalte-progression-lars-klingbeil-li.3579126",
+          "summary": "Das Finanzamt muss Bürgern im kommenden Jahr mindestens 12 504 Euro an steuerfreiem Einkommen lassen, Minister Klingbeil hat schon Vorsorge getroffen. Dafür schlägt aber die kalte Progression zu.",
           "source": "SZ",
           "paywall": false,
           "image": null
