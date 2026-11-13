@@ -1,39 +1,47 @@
 {
-  "generated": "2026-11-13T19:00:38.522Z",
-  "timestamp": "13.11.2026, 20:00:38",
+  "generated": "2026-11-13T23:02:19.298Z",
+  "timestamp": "14.11.2026, 00:02:19",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Felix Banaszak im Gespräch: „Mit Obermackern kann man nur verlieren“",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/gruenen-vorsitzender-banaszak-ueber-maennerprobleme-accg-201678248.html",
-          "summary": "Im Sommer haben grüne Politiker ein Papier verfasst, in dem sie für eine neue Männlichkeit plädierten. Was ist daraus geworden? Ein Gespräch mit dem Grünen-Vorsitzenden Banaszak am Tag nach den Midterms.",
+          "title": "Kommunikationsstörung: Luftfahrtbehörde FAA verhängt landesweites Startverbot in den USA",
+          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/us-luftfahrtbehoerde-faa-stoppt-fluege-in-den-gesamten-usa-201682407.html",
+          "summary": "Eine Kommunikationsstörung legt den Luftverkehr in den USA lahm. Die FAA stoppt sämtliche Starts im Land – erst zum zweiten Mal seit den Anschlägen vom 11. September 2001.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "TV-Kritik Markus Lanz: Grüner Eiertanz um die Berliner Linke",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/markus-lanz-und-andreas-audretschs-berliner-koalitions-eiertanz-201680375.html",
-          "summary": "Dem grünen Politiker Andreas Audretsch ist die Berliner Linke lieb und teuer. Deshalb simuliert er die Koalitionsverhandlungen mit ihr nur. Markus Lanz ließ ihm das nicht durchgehen.",
+          "title": "Chips Nach China: Die Nvidia-Affäre wird zur Regierungskrise",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bessent-gegen-lutnick-nvidia-wird-zur-us-regierungskrise-201681651.html",
+          "summary": "Der vermutete Schmuggel amerikanischer KI-Chips nach China bringt Handelsminister Howard Lutnick in Bedrängnis. Finanzminister Scott Bessent erhebt schwere Vorwürfe.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Liveblog Ukrainekrieg: Fünf Staaten sollen Europa bei künftigen Verhandlungen mit Russland vertreten",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-costa-fuenf-staaten-sollen-europa-bei-kuenftigen-ukraine-gespraechen-vertreten-faz-110683325.html",
-          "summary": "Costa: EU-Mitglieder konnten sich nach langem Ringen einigen – Deutschland ist dabei +++ Russisches Außenministerium will keine Kenntnis über Europas Teilnahme an Gesprächen haben +++ alle Neuigkeiten im Liveblog",
+          "title": "Digitalwirtschaft-Podcast: Jensen Huang: Aufstieg und Fall des Nvidia-Gründers",
+          "url": "https://www.faz.net/podcasts/wirtschaftspodcast/jensen-huang-aufstieg-und-fall-des-nvidia-gruenders-201681931.html",
+          "summary": "Was jetzt aus dem wichtigsten KI-Unternehmen der Welt wird. Und wieso der Streit auch in der amerikanischen Regierung eskalieren wird.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/645b489469fc/w5500h2873x0y397o/202611/e4c41373-4006-4295-b48b-3eacea4ff579/staats-und-regierungschefs.webp"
+          "image": null
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Nations League: Deutschland gewinnt in Serbien – Brajan Gruda trifft bei Debüt",
+          "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gewinnt-in-serbien-brajan-gruda-trifft-bei-debuet-a-f3e8c5e0-da5a-4d31-8711-8fc4b4dce49a#ref=rss",
+          "summary": "In Belgrad spielt Jürgen Klopps DFB-Team Serbien an die Wand, bis der Regen zu stark wird. Brajan Gruda dribbelt wie ein Großer. In der Nations League verdient sich Deutschland so ein Endspiel gegen die Niederlande.",
+          "source": "Spiegel",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Ukraine-Krieg: Experte schätzt 500.000 bis 600.000 Kriegstote auf russischer Seite",
           "url": "https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss",
@@ -43,49 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/74242e1a-8ed7-490f-9d48-f604d6753c3d_w1200_r1.778_fpx53_fpy62.jpg"
         },
         {
-          "title": "News des Tages: Störung bei Microsoft, Issa Rammo im EU-Parlament, Katherina Reiche plant Notfall-Gesetz für Gasmangel",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss",
-          "summary": "Microsoft hat ein massives Problem, Millionen Mails blieben ungelesen. Clanboss Rammo tritt im EU-Parlament auf, und Katherina Reiche hat offenbar immer noch Schwierigkeiten mit ihrem Rollenwechsel. Das ist die Lage am Freitagabend.",
+          "title": "New Orleans: Tanker kollidiert mit Raddampfer",
+          "url": "https://www.spiegel.de/panorama/new-orleans-tanker-kollidiert-mit-raddampfer-a-7844e9e3-d317-4187-89dd-ab7505518264#ref=rss",
+          "summary": "Nahe dem Hafen der US-Stadt New Orleans ist ein Tanker mit einem Schaufelradschiff zusammengestoßen. An Bord des Ausflugsschiffes befanden sich zum Zeitpunkt des Aufpralls mehr als 130 Menschen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/385cec68-f11b-418e-9aa9-b81c676e85e2_w1200_r1.778_fpx33.48_fpy49.99.jpg"
-        },
-        {
-          "title": "Andreas Mattfeldt: Führender CDU-Haushaltspolitiker schickt Brandbrief an Merz",
-          "url": "https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz-a-93b08f3d-2bc3-4f2f-b0c4-2e6c8149d98f#ref=rss",
-          "summary": "In ungewöhnlich scharfen Worten rechnet der Abgeordnete Andreas Mattfeldt nach dem schwarz-roten Kompromiss über einen Bundesetat mit dem Prozedere ab. Aus seiner Sicht trägt der gesamte Haushalt eine sozialdemokratische Handschrift.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8aaa43c9-20ca-4afa-8f31-4917bad59719_w1200_r1.778_fpx43.32_fpy44.99.jpg"
-        }
-      ]
-    },
-    {
-      "source": "Tagesschau",
-      "headlines": [
-        {
-          "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
-          "url": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
-          "summary": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-          "summary": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/2351cbd8-2118-4ab8-94b8-3a9bb0f49b44/AAABnOFHOtk/AAABnSSvrFg/16x9-big/boerse-494.jpg?width=1280"
-        },
-        {
-          "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
-          "summary": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/eecb45d2-2e15-4d6a-8801-4d54cc64cf9e/AAABodUoTEY/AAABnSSvrFg/16x9-big/rettungskraefte-wohnhaus-100.jpg?width=1280"
+          "image": "https://cdn.prod.www.spiegel.de/images/3f212f28-ee61-47f4-9bfb-986bba481d98_w1200_r1.778_fpx63.54_fpy44.98.jpg"
         }
       ]
     },
@@ -115,35 +86,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/1/7/3/umfrage-res-1-01-2726105269e312c1.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        }
-      ]
-    },
-    {
-      "source": "SZ",
-      "headlines": [
-        {
-          "title": "Krieg in der Ukraine: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967",
-          "summary": "Demnach sollen Deutschland, Frankreich, Großbritannien, Italien und Polen gemeinsam mit den EU-Institutionen die Europäer bei Ukraine-Gesprächen mit Russland vertreten.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Journalismus: Das Taylor-Swift-Interview (Bunte’s Version)",
-          "url": "https://www.sueddeutsche.de/medien/taylor-swift-burda-bunte-interview-li.3579873",
-          "summary": "Das Magazin „Bunte“ druckt ein „Exklusiv-Interview“ mit Taylor Swift ab. Die Antworten decken sich allerdings im Wortlaut mit einem öffentlichen Gespräch der Sängerin. Der Verlag nennt den Fall „etwas komplexer“.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Medienrecht: Dürfen die das?",
-          "url": "https://www.sueddeutsche.de/medien/christian-lindner-titanic-satire-pressefreiheit-persoenlichkeitsrecht-li.3578704",
-          "summary": "Ex-FDP-Chef Christian Lindner, seine Frau und seine Tochter (ein Jahr) gehen juristisch gegen die Zeitschrift „Titanic“ vor. Ihre Klageschrift behauptet: Dem Kind wurde schon vor der Geburt Schaden zugefügt.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
         }
       ]
     }
