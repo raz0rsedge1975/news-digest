@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-13T11:00:31.580Z",
-  "timestamp": "13.11.2026, 12:00:31",
+  "generated": "2026-11-13T15:00:30.423Z",
+  "timestamp": "13.11.2026, 16:00:30",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Emde und Co.: Wer den Staat verleugnet, verrät auch die Menschenrechte",
-          "url": "https://www.faz.net/aktuell/politik/inland/existenzrecht-von-staaten-wer-es-leugnet-verraet-die-menschenrechte-201675938.html",
-          "summary": "Staaten haben ein Recht auf Unversehrtheit, also auf Existenz. In freier Selbstbestimmung und friedlich können Grenzen verändert werden – ohne Auslöschungsphantasien.",
+          "title": "Streit in Dublin: Wer soll für Europa mit Russland verhandeln?",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/streit-in-dublin-wer-vertritt-die-eu-bei-russland-verhandlungen-201680307.html",
+          "summary": "Berlin, Paris und London halten die Frage für geklärt: natürlich sie. Italien, Polen und mehrere kleine Staaten wünschen sich eine andere Lösung.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/de6c6da84354/w5356h2798x0y736o/202605/43601.0.2160043002/demonstration-in-frankfurt-im.webp"
+          "image": null
         },
         {
-          "title": "Elif Eralp: Sind Juden allein nicht schützenswert?",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/elif-eralps-rhetorik-zur-gefaehrdung-von-juden-accg-201673401.html",
-          "summary": "Die Linken-Politikerin Elif Eralp spricht vom Schutz jüdischen Lebens nie ohne die Erwähnung anderer Opfergruppen. Die Sprachregel verschleiert mehr, als sie benennt.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/7167329bd123/w5000h2612x0y361o/202611/7ee8ab1b-2d2f-4cc4-8984-9393ad3e39d6/linken-politikerin-elif-eralp.webp"
-        },
-        {
-          "title": "Berliner Linke: Emde bekommt Rückenwind aus Neukölln – aber nicht von allen Abgeordneten",
-          "url": "https://www.faz.net/aktuell/politik/inland/neukoellner-linke-stellt-sich-hinter-vanessa-emde-accg-201671031.html",
-          "summary": "Die Neuköllner Linke unterstützt Vanessa Emde demonstrativ. Ein Abgeordneter aus dem Bezirk lässt aber offen, wie er über den Ausschlussantrag abstimmen wird.",
+          "title": "Ukraine-Gespräche: Verhandeln müssen die, auf die es ankommt",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-verhandlungen-warum-die-eu-nicht-fuer-europa-sprechen-kann-201680550.html",
+          "summary": "Die Sicherheits- und Verteidigungspolitik ist nicht vergemeinschaftet, deshalb kann die EU nicht für Europa sprechen. Drei Länder müssen mit Putin reden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/080ffdf46f73/w5360h2800x0y388o/202610/dc945a41-a0bc-4708-bf3d-c9d3024aaf58/die-linken-abgeordnete-vanessa.webp"
+          "image": null
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Merz: Deutschland ist für Friedensgespräche „gesetzt“",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-deutschland-ist-fuer-friedensgespraeche-gesetzt-faz-110683325.html",
+          "summary": "Bundeskanzler spricht von Verhandlungen „in den nächsten Wochen“ +++ Kreml knüpft europäische Gesprächsteilnahme an Bedingungen +++ Kallas warnt vor „Falle“ Russlands +++ alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ukraine: Was Korruptionsermittler Oleksandr Klymenko über Selenskyjs Umfeld sagt",
-          "url": "https://www.spiegel.de/ausland/ukraine-was-korruptionsermittler-oleksandr-klymenko-ueber-selenskyjs-umfeld-sagt-a-fe5c34bc-c04d-46ca-af87-e4ba79e600c3#ref=rss",
-          "summary": "Staatsanwalt Oleksandr Klymenko ermittelt in ukrainischen Korruptionsfällen, bis hinein ins Büro von Präsident Selenskyj. Hier spricht er über heimlich aufgezeichnete Gespräche und was seine Arbeit für sein Leben bedeutet.",
+          "title": "DFB-Auswahl in der Nations League: Wie Jürgen Klopp die Nationalelf neu erfinden will",
+          "url": "https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will-a-36c998b7-843a-4be9-8b71-7a7e5863e200#ref=rss",
+          "summary": "Nach dem WM-Debakel und dem holprigen Start unter Jürgen Klopp stellt sich beim DFB-Team eine große Frage: Wer wollen wir eigentlich sein? Der neue Bundestrainer hat Antworten definiert.",
           "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/7367266e-3bc9-40d5-8c78-bc8975159fa7_w1200_r1.778_fpx49.32_fpy49.99.jpg"
+          "paywall": false,
+          "image": null
         },
         {
-          "title": "Microsoft: Fehlersuche nach globaler Störung von Onlinediensten läuft",
-          "url": "https://www.spiegel.de/netzwelt/web/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss",
-          "summary": "Outlook, Teams, Copilot – die zentralen Onlinedienste von Microsoft sind seit Donnerstag weltweit massiv gestört. Am Freitagvormittag verkündet das Unternehmen erste Fortschritte bei der Fehlersuche.",
+          "title": "Microsoft: Was wir über den Ausfall der Microsoft-Dienste wissen – und was nicht",
+          "url": "https://www.spiegel.de/netzwelt/microsoft-probleme-mit-mails-ki-und-kalender-wiederherstellung-dauert-an-a-8f1d3c22-5cc4-41e2-911e-d232835b280c#ref=rss",
+          "summary": "In mindestens 74 Ländern melden Nutzer Probleme mit Angeboten von Microsoft 365 – Mails, KI und Kalender. Der Technologiekonzern schließt einen Cyberangriff aus, gibt sich ansonsten aber wortkarg. Der Überblick.",
           "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2fdcd8b2-d15f-4ae6-b38d-ac54bfd04346_w1200_r1.778_fpx29.99_fpy44.99.jpg"
+          "paywall": false,
+          "image": null
         },
         {
-          "title": "Donald Trump: Ein historischer, öffentlicher Golfplatz, Trumps radikale Umbaupläne und ein Streit, der in Morddrohungen mündet",
-          "url": "https://www.spiegel.de/sport/donald-trump-ein-historischer-oeffentlicher-golfplatz-trumps-radikale-umbauplaene-und-ein-streit-der-in-morddrohungen-muendet-a-5b2c54fc-f653-4ace-8c3c-8358807d8553#ref=rss",
-          "summary": "Der US-Präsident will eine geschichtsträchtige Anlage in Washington für Profiturniere umbauen. Hobbygolfer und Denkmalschützer ziehen vor Gericht. Muss der Golfplatz Trumps Gigantismus weichen?",
+          "title": "Bundeshaushalt 2027: Der Etat steht – doch die eigentlichen Probleme kommen erst",
+          "url": "https://www.spiegel.de/wirtschaft/bundeshaushalt-2027-der-etat-steht-doch-die-eigentlichen-probleme-kommen-erst-a-ac30c525-9525-4432-96c9-7d0053f94c0c#ref=rss",
+          "summary": "Der Haushalt 2027 steht, es ist der größte in der Geschichte der Bundesrepublik. Doch die wahren Probleme drohen erst in den kommenden Jahren. Experten schlagen Alternativen zu Kürzungen vor.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/4a132e00-35e4-460c-bdd5-3729d297896e_w1200_r1.778_fpx41_fpy36.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3e2e5720-2f28-4493-9c31-a50220431da6_w1200_r1.778_fpx50_fpy50.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "US-Einwanderungsbehörde ICE meldet Rekord bei Abschiebungen",
-          "url": "https://www.tagesschau.de/ausland/amerika/ice-einwanderungsbehoerde-abschiedbungen-rekord-100.html",
-          "summary": "Fast eine halbe Million Menschen hat die US-Regierung binnen einen Jahres - laut eigenen Angaben. Das soll ein neuer Rekordwert sein. Es gibt aber Zweifel an der Transparenz der Daten.",
+          "title": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
+          "url": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
+          "summary": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden. EU-Parlament und Mitgliedstaaten haben sich darauf verständigt, zusätzliche kostenlose Emissionszertifikate auszugeben. Von Andreas Meyer-Feist.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/56065581-29fa-4b51-845a-1f361f81022f/AAABodRfPs8/AAABnSSvrFg/16x9-big/migranten-ice-beamte-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/30260b61-1455-432e-bbe3-e33e999495f8/AAABnC0Cnlo/AAABnSSvrFg/16x9-big/industrie-222.jpg?width=1280"
         },
         {
-          "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-          "summary": "Weltweit sind seit vielen Stunden Dienste des US-Softwarekonzerns Microsoft ausgefallen oder gestört, unter anderem das E-Mail-Programm Outlook. Wer davon betroffen ist und welche Hintergründe vermutet werden - ein Überblick.",
+          "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
+          "summary": "Heimlich Wohnungen betreten, Hackerangriffe, Falschinformationen: Deutsche Nachrichtendienste bekommen mehr Befugnisse. Der Bundestag hat die Reform nun beschlossen. Damit reagiert die Koalition auf die verschärfte Bedrohung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cf43b90e-dedd-4716-a8b6-a8f22d964037/AAABoYa7d7o/AAABnSSvrFg/16x9-big/microsoft-196.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d8498805-a053-4ad6-8618-dc875355bcbf/AAABoNPzfmk/AAABnSSvrFg/16x9-big/bundesnachrichtendienst-128.jpg?width=1280"
         },
         {
-          "title": "Erleichterung für Industrie im EU-Emissionshandel",
-          "url": "https://www.tagesschau.de/ausland/europa/emissionshandel-eu-industrie-100.html",
-          "summary": "Die Industrie in der EU soll weniger für Emissionen zahlen müssen. Unterhändler von EU-Parlament und Mitgliedstaaten einigten sich darauf, betroffenen Branchen zeitlich befristet zusätzliche kostenlose Emissionszertifikate zuzuteilen.",
+          "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
+          "summary": "In Deutschland wurden im August so viele Unternehmens-Insolvenzen registriert wie seit 13 Jahren nicht mehr. Die Pleitewelle dürfte weitergehen, meinen Experten. Gleichzeitig wird aber auch mehr gegründet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/647e1b62-cf9a-47c6-b369-2d0b6546a0b6/AAABodQvWXI/AAABnSSvrFg/16x9-big/emissionen-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/724b5aaa-05e4-4f00-90c7-db121675a790/AAABodRUGMc/AAABnSSvrFg/16x9-big/insolvenz-220.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Generalstreik in Spanien: Wenn Wohnen zur entscheidenden sozialen Frage wird",
-          "url": "https://www.telepolis.de/article/Generalstreik-in-Spanien-Wenn-Wohnen-zur-entscheidenden-sozialen-Frage-wird-11523928.html",
-          "summary": "Fabriken stehen still, Busse fahren nicht: Warum ein Generalstreik Spanien lahmlegt und was bei der Wahl am 29. November auf dem Spiel steht.",
+          "title": "38 statt 35 Stunden: Was Mercedes von seiner Belegschaft verlangt",
+          "url": "https://www.telepolis.de/article/38-statt-35-Stunden-Was-Mercedes-von-seiner-Belegschaft-verlangt-11524552.html",
+          "summary": "Drei Stunden mehr ohne Lohnausgleich senken den Stundenlohn um 7,9 Prozent. Die IG Metall fordert für die ganze Branche 5 Prozent mehr.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/9/9/1/shutterstock_2854658663-02b1d4d71e50ebdb.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/3/0/9/shutterstock_2774416929-ae61d74978131660.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Drohnen aus dem Container: Das Pentagon sucht die Fabrik der Zukunft",
-          "url": "https://www.telepolis.de/article/Drohnen-aus-dem-Container-Das-Pentagon-sucht-die-Fabrik-der-Zukunft-11523774.html",
-          "summary": "Mobile Minifabriken sollen Kampfdrohnen näher am Einsatzort produzieren. Doch im Abnutzungskrieg zählt Masse. Welche Fertigung hält dem stand?",
+          "title": "Ziviler Containerport wird militärische Drehscheibe: Bremerhaven im Wandel",
+          "url": "https://www.telepolis.de/article/Ziviler-Containerport-wird-militaerische-Drehscheibe-Bremerhaven-im-Wandel-11524424.html",
+          "summary": "Über eine Milliarde Euro fließen in den Überseehafen. Ein ziviler Standort wird zum Drehkreuz für Truppen und schweres Gerät. Wer trägt das politisch mit?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/9/1/4/Master_Lange-bba4b6f0f6ff64fe.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/2/4/5/shutterstock_2827423191-79f68731285dbb7b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Präsentismus: Wer krank arbeitet, riskiert seine Lohnfortzahlung",
-          "url": "https://www.telepolis.de/article/Praesentismus-Wer-krank-arbeitet-riskiert-seine-Lohnfortzahlung-11519774.html",
-          "summary": "Immer mehr Firmen setzen kranke Beschäftigte unter Druck. Wer trotzdem arbeitet, kann laut einem neuen Urteil seinen Anspruch auf Lohnfortzahlung verlieren.",
+          "title": "Leserbefragung 2026: Was Sie sich von Telepolis wünschen",
+          "url": "https://www.telepolis.de/article/Leserbefragung-2026-Was-Sie-sich-von-Telepolis-wuenschen-11524284.html",
+          "summary": "Fast 2.500 von Ihnen haben uns gesagt, was sie an Telepolis mögen, was sie vermissen und was sie nervt. Hier sind die Ergebnisse, und was wir damit anfangen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/1/7/3/umfrage-res-1-01-2726105269e312c1.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Leute: Das viele Gold im Weißen Haus – „unseres Landes unwürdig“",
-          "url": "https://www.sueddeutsche.de/panorama/joe-biden-donald-trump-kritik-ballsaal-umbau-gold-li.3579869",
-          "summary": "Joe Biden kritisiert Donald Trumps Protz-Stil, Barbara Schöneberger hat es mit dem Bleifuß übertrieben, und ein NFL-Quarterback bellt plötzlich seine Gegner an.",
+          "title": "Microsoft 365: „Und die halbe Weltverwaltung stand zwölf Stunden still“",
+          "url": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-heute-weltweit-outlook-probleme-teams-li.3579791",
+          "summary": "Eine Störung bei Microsoft behindert Menschen und Unternehmen weltweit. Die Server des Konzerns waren nach einem Fehler überfordert – langsam laufen viele Systeme wieder normal.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Microsoft 365: Microsoft-Dienste weltweit seit mehr als zwölf Stunden gestört",
-          "url": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-weltweit-outlook-teams-li.3579791",
-          "summary": "Es handelt sich um eine der schwersten Störungen des Technologiekonzerns in der jüngeren Vergangenheit. Der Konzern kommt offenbar bei der Behebung Stück für Stück voran.",
+          "title": "Newsblog zur Bundespolitik: Bericht: Ex-Fußballer Berthold wird AfD-Bundespräsidentenkandidat",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-afd-ex-fussballer-berthold-bundespraesident-kandidat-li.3568524",
+          "summary": "Nach dpa-Informationen stellt die AfD Ex-Nationalspieler und Weltmeister Thomas Berthold als Kandidat fürs Bundespräsidentenamt auf. Die Nominierung hat eher symbolische Bedeutung.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Italien besiegt Frankreich: Ein Hauch Euphorie, aber auf Bewährung",
-          "url": "https://www.sueddeutsche.de/sport/nations-league-italien-frankreich-sieg-mancini-li.3579651",
-          "summary": "Das Misstrauen der Italiener gegen die eigene Nationalelf ist groß – umso wichtiger ist der 3:1-Sieg in der Nations League gegen Frankreich. Doch Trainer Roberto Mancini bleibt gewarnt.",
+          "title": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
+          "url": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
+          "summary": "Mehr als 40 Rennen, rund 20 Weltcup-Stationen und eine WM: Die neue Ski-Alpin-Saison startet Ende Oktober in Sölden. Wir geben einen Überblick, wann wo welcher Wettbewerb stattfindet.",
           "source": "SZ",
           "paywall": false,
           "image": null
