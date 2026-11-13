@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-12T23:00:17.576Z",
-  "timestamp": "13.11.2026, 00:00:17",
+  "generated": "2026-11-13T03:00:08.671Z",
+  "timestamp": "13.11.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
-          "url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
-          "summary": "Der bayerische Rüstungskonzern Quantum Systems ist nach eigenen Angaben Opfer eines Cyberangriffs geworden. Der Vorfall fand im Oktober statt. Laut einem Medienbericht hat die Bundeswehr bereits reagiert.",
+          "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+          "url": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html",
+          "summary": "Laut Medienberichten wurde Trump zwei Mal von der Affäre des Nvidia-Chefs Huang mit einer mutmaßlichen chinesischen Spionin unterrichtet. Doch der Präsident beteuert, von nichts gewusst zu haben. Von C. Kühntopp.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://img.br.de/23d55659-e524-48a1-8e7f-e89250567417.jpeg?q=80&amp;rect=11%2C860%2C7961%2C4473&amp;w=1600&amp;h=900"
+          "image": "https://images.tagesschau.de/image/f9401978-bea2-4fa5-9226-a0299084e01c/AAABodJ-FtA/AAABnSSvrFg/16x9-big/huang-trump-102.jpg?width=1280"
         },
         {
-          "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
-          "summary": "In den Verhandlungen um Kostensenkungen bei Mercedes ist keine Lösung in Sicht. Jetzt erhöht der Konzern den Druck: Der Vorstand legt alle Investitionen in deutsche Standorte auf Eis - und will Werksschließungen prüfen.",
+          "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
+          "url": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html",
+          "summary": "Das Treffen in Dublin bringt neue Dynamik in die Friedensverhandlungen - am Abend kommen noch die US-Unterhändler Witkoff und Kushner aus Moskau angereist. NATO-Chef Rutte sieht Fortschritte. Von K. Schmid.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a1c69cbc-7a7c-413d-aae2-f16786e0d57e/AAABodDagME/AAABnSSvrFg/16x9-big/mercedes-montage-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/199ed634-ce58-43da-a5cb-c7b673f628a0/AAABodI8Qn0/AAABnSSvrFg/16x9-big/epg-dublin-100.jpg?width=1280"
         },
         {
-          "title": "Thunberg auf COP31: \"Der Planet stirbt nicht, er wird getötet\"",
-          "url": "https://www.tagesschau.de/ausland/asien/weltklimakonferenz-cop31-thunberg-100.html",
-          "summary": "Aktivistin Thunberg wird in Antalya deutlich: Die Politik trage die Schuld daran, dass der Klimawandel außer Kontrolle sei. Ein neuer Bericht rechnet mit 2,7 Grad Erwärmung. Auch Deutschland ist demnach kein Vorbild mehr.",
+          "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+          "url": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+          "summary": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit Ankündigungen aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/449d30ee-52f8-4182-b611-6c6f31b5d1ef/AAABodCYjDU/AAABnSSvrFg/16x9-big/thunberg-160.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e23f9c75-5489-413a-b3d2-c23c8e6f730d/AAABodH246k/AAABnSSvrFg/16x9-big/dublin-epg-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "China zeigt erstmals Details seiner Tarnkappendrohne GJ-11",
+          "url": "https://www.telepolis.de/article/China-zeigt-erstmals-Details-seiner-Tarnkappendrohne-GJ-11-11522071.html",
+          "summary": "Neues Material offenbart Waffenschächte, Fahrwerk und Sensorik des Kampfdrohnen-Flugflüglers. Chinas Luftwaffe meldet zudem den ersten scharfen Einsatz.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/0/5/0/chinadrone-d6ea3a691a67ce35.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Krafttraining ist nicht der Sinn des Lebens, aber ein Weg zu gesunden Jahren",
           "url": "https://www.telepolis.de/article/Krafttraining-ist-nicht-der-Sinn-des-Lebens-aber-ein-Weg-zu-gesunden-Jahren-11523232.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/3/9/8/Master_RBB-34c439f639508547.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Kleine Schläge, große Signale: Wo in Westasien neue Fronten sichtbar werden",
-          "url": "https://www.telepolis.de/article/Kleine-Schlaege-grosse-Signale-Wo-in-Westasien-neue-Fronten-sichtbar-werden-11522243.html",
-          "summary": "Qeshm im Fadenkreuz, Riad im Rückversicherungsmodus: Während die USA Warnschüsse abgeben, schmiedet Riad neue Allianzen. Eine Analyse.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
         }
       ]
     },
