@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-13T15:00:30.423Z",
-  "timestamp": "13.11.2026, 16:00:30",
+  "generated": "2026-11-13T19:00:38.522Z",
+  "timestamp": "13.11.2026, 20:00:38",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Streit in Dublin: Wer soll für Europa mit Russland verhandeln?",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/streit-in-dublin-wer-vertritt-die-eu-bei-russland-verhandlungen-201680307.html",
-          "summary": "Berlin, Paris und London halten die Frage für geklärt: natürlich sie. Italien, Polen und mehrere kleine Staaten wünschen sich eine andere Lösung.",
+          "title": "Felix Banaszak im Gespräch: „Mit Obermackern kann man nur verlieren“",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/gruenen-vorsitzender-banaszak-ueber-maennerprobleme-accg-201678248.html",
+          "summary": "Im Sommer haben grüne Politiker ein Papier verfasst, in dem sie für eine neue Männlichkeit plädierten. Was ist daraus geworden? Ein Gespräch mit dem Grünen-Vorsitzenden Banaszak am Tag nach den Midterms.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Ukraine-Gespräche: Verhandeln müssen die, auf die es ankommt",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-verhandlungen-warum-die-eu-nicht-fuer-europa-sprechen-kann-201680550.html",
-          "summary": "Die Sicherheits- und Verteidigungspolitik ist nicht vergemeinschaftet, deshalb kann die EU nicht für Europa sprechen. Drei Länder müssen mit Putin reden.",
+          "title": "TV-Kritik Markus Lanz: Grüner Eiertanz um die Berliner Linke",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/markus-lanz-und-andreas-audretschs-berliner-koalitions-eiertanz-201680375.html",
+          "summary": "Dem grünen Politiker Andreas Audretsch ist die Berliner Linke lieb und teuer. Deshalb simuliert er die Koalitionsverhandlungen mit ihr nur. Markus Lanz ließ ihm das nicht durchgehen.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Liveblog Ukrainekrieg: Merz: Deutschland ist für Friedensgespräche „gesetzt“",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-deutschland-ist-fuer-friedensgespraeche-gesetzt-faz-110683325.html",
-          "summary": "Bundeskanzler spricht von Verhandlungen „in den nächsten Wochen“ +++ Kreml knüpft europäische Gesprächsteilnahme an Bedingungen +++ Kallas warnt vor „Falle“ Russlands +++ alle Neuigkeiten im Liveblog",
+          "title": "Liveblog Ukrainekrieg: Fünf Staaten sollen Europa bei künftigen Verhandlungen mit Russland vertreten",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-merz-costa-fuenf-staaten-sollen-europa-bei-kuenftigen-ukraine-gespraechen-vertreten-faz-110683325.html",
+          "summary": "Costa: EU-Mitglieder konnten sich nach langem Ringen einigen – Deutschland ist dabei +++ Russisches Außenministerium will keine Kenntnis über Europas Teilnahme an Gesprächen haben +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/645b489469fc/w5500h2873x0y397o/202611/e4c41373-4006-4295-b48b-3eacea4ff579/staats-und-regierungschefs.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "DFB-Auswahl in der Nations League: Wie Jürgen Klopp die Nationalelf neu erfinden will",
-          "url": "https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will-a-36c998b7-843a-4be9-8b71-7a7e5863e200#ref=rss",
-          "summary": "Nach dem WM-Debakel und dem holprigen Start unter Jürgen Klopp stellt sich beim DFB-Team eine große Frage: Wer wollen wir eigentlich sein? Der neue Bundestrainer hat Antworten definiert.",
-          "source": "Spiegel",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Microsoft: Was wir über den Ausfall der Microsoft-Dienste wissen – und was nicht",
-          "url": "https://www.spiegel.de/netzwelt/microsoft-probleme-mit-mails-ki-und-kalender-wiederherstellung-dauert-an-a-8f1d3c22-5cc4-41e2-911e-d232835b280c#ref=rss",
-          "summary": "In mindestens 74 Ländern melden Nutzer Probleme mit Angeboten von Microsoft 365 – Mails, KI und Kalender. Der Technologiekonzern schließt einen Cyberangriff aus, gibt sich ansonsten aber wortkarg. Der Überblick.",
-          "source": "Spiegel",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Bundeshaushalt 2027: Der Etat steht – doch die eigentlichen Probleme kommen erst",
-          "url": "https://www.spiegel.de/wirtschaft/bundeshaushalt-2027-der-etat-steht-doch-die-eigentlichen-probleme-kommen-erst-a-ac30c525-9525-4432-96c9-7d0053f94c0c#ref=rss",
-          "summary": "Der Haushalt 2027 steht, es ist der größte in der Geschichte der Bundesrepublik. Doch die wahren Probleme drohen erst in den kommenden Jahren. Experten schlagen Alternativen zu Kürzungen vor.",
+          "title": "Ukraine-Krieg: Experte schätzt 500.000 bis 600.000 Kriegstote auf russischer Seite",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-experte-schaetzt-500-000-bis-600-000-kriegstote-auf-russischer-seite-a-39dc975f-4db8-420b-9fdf-046130291bb9#ref=rss",
+          "summary": "Hacker haben viele Millionen Datensätze der russischen Behörde Rosstat erbeutet, darunter die geheime Todesstatistik. Der Russlandexperte Janis Kluge erklärt, warum das Leck so bedeutungsvoll ist – und was noch darin stecken könnte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3e2e5720-2f28-4493-9c31-a50220431da6_w1200_r1.778_fpx50_fpy50.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/74242e1a-8ed7-490f-9d48-f604d6753c3d_w1200_r1.778_fpx53_fpy62.jpg"
+        },
+        {
+          "title": "News des Tages: Störung bei Microsoft, Issa Rammo im EU-Parlament, Katherina Reiche plant Notfall-Gesetz für Gasmangel",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss",
+          "summary": "Microsoft hat ein massives Problem, Millionen Mails blieben ungelesen. Clanboss Rammo tritt im EU-Parlament auf, und Katherina Reiche hat offenbar immer noch Schwierigkeiten mit ihrem Rollenwechsel. Das ist die Lage am Freitagabend.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/385cec68-f11b-418e-9aa9-b81c676e85e2_w1200_r1.778_fpx33.48_fpy49.99.jpg"
+        },
+        {
+          "title": "Andreas Mattfeldt: Führender CDU-Haushaltspolitiker schickt Brandbrief an Merz",
+          "url": "https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz-a-93b08f3d-2bc3-4f2f-b0c4-2e6c8149d98f#ref=rss",
+          "summary": "In ungewöhnlich scharfen Worten rechnet der Abgeordnete Andreas Mattfeldt nach dem schwarz-roten Kompromiss über einen Bundesetat mit dem Prozedere ab. Aus seiner Sicht trägt der gesamte Haushalt eine sozialdemokratische Handschrift.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/8aaa43c9-20ca-4afa-8f31-4917bad59719_w1200_r1.778_fpx43.32_fpy44.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "EU-Emissionshandel: Mehr kostenlose Verschmutzungsrechte für die Industrie",
-          "url": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
-          "summary": "Europas Industrie soll nicht mehr so stark durch das System des Emissionshandels belastet werden. EU-Parlament und Mitgliedstaaten haben sich darauf verständigt, zusätzliche kostenlose Emissionszertifikate auszugeben. Von Andreas Meyer-Feist.",
+          "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+          "url": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html",
+          "summary": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/30260b61-1455-432e-bbe3-e33e999495f8/AAABnC0Cnlo/AAABnSSvrFg/16x9-big/industrie-222.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c7de04a3-94b2-40c1-908c-35479fc47e03/AAABodY5obQ/AAABnSSvrFg/16x9-big/eu-dublin-100.jpg?width=1280"
         },
         {
-          "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
-          "summary": "Heimlich Wohnungen betreten, Hackerangriffe, Falschinformationen: Deutsche Nachrichtendienste bekommen mehr Befugnisse. Der Bundestag hat die Reform nun beschlossen. Damit reagiert die Koalition auf die verschärfte Bedrohung.",
+          "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
+          "summary": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d8498805-a053-4ad6-8618-dc875355bcbf/AAABoNPzfmk/AAABnSSvrFg/16x9-big/bundesnachrichtendienst-128.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2351cbd8-2118-4ab8-94b8-3a9bb0f49b44/AAABnOFHOtk/AAABnSSvrFg/16x9-big/boerse-494.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: Mehr Pleiten, aber auch mehr Gründungen in Deutschland",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
-          "summary": "In Deutschland wurden im August so viele Unternehmens-Insolvenzen registriert wie seit 13 Jahren nicht mehr. Die Pleitewelle dürfte weitergehen, meinen Experten. Gleichzeitig wird aber auch mehr gegründet.",
+          "title": "Ukraine und Russland greifen sich trotz Verhandlungen weiter an",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-autobomben-100.html",
+          "summary": "Trotz intensiver Verhandlungen über ein Ende des Ukraine-Krieges dauern die gegenseitigen Angriffe zwischen Kiew und Moskau an. Russland meldet sieben Tote, in der Ukraine wurden mindestens zwei Menschen getötet.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/724b5aaa-05e4-4f00-90c7-db121675a790/AAABodRUGMc/AAABnSSvrFg/16x9-big/insolvenz-220.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/eecb45d2-2e15-4d6a-8801-4d54cc64cf9e/AAABodUoTEY/AAABnSSvrFg/16x9-big/rettungskraefte-wohnhaus-100.jpg?width=1280"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Drei Stunden mehr ohne Lohnausgleich senken den Stundenlohn um 7,9 Prozent. Die IG Metall fordert für die ganze Branche 5 Prozent mehr.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/3/0/9/shutterstock_2774416929-ae61d74978131660.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "Ziviler Containerport wird militärische Drehscheibe: Bremerhaven im Wandel",
@@ -106,7 +106,7 @@
           "summary": "Über eine Milliarde Euro fließen in den Überseehafen. Ein ziviler Standort wird zum Drehkreuz für Truppen und schweres Gerät. Wer trägt das politisch mit?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/2/4/5/shutterstock_2827423191-79f68731285dbb7b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         },
         {
           "title": "Leserbefragung 2026: Was Sie sich von Telepolis wünschen",
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Microsoft 365: „Und die halbe Weltverwaltung stand zwölf Stunden still“",
-          "url": "https://www.sueddeutsche.de/wirtschaft/microsoft-365-stoerung-heute-weltweit-outlook-probleme-teams-li.3579791",
-          "summary": "Eine Störung bei Microsoft behindert Menschen und Unternehmen weltweit. Die Server des Konzerns waren nach einem Fehler überfordert – langsam laufen viele Systeme wieder normal.",
+          "title": "Krieg in der Ukraine: EU einig: Verhandlungsteam für Gespräche mit Russland steht",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-europa-verhandlungen-putin-europaeische-union-li.3571967",
+          "summary": "Demnach sollen Deutschland, Frankreich, Großbritannien, Italien und Polen gemeinsam mit den EU-Institutionen die Europäer bei Ukraine-Gesprächen mit Russland vertreten.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zur Bundespolitik: Bericht: Ex-Fußballer Berthold wird AfD-Bundespräsidentenkandidat",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-afd-ex-fussballer-berthold-bundespraesident-kandidat-li.3568524",
-          "summary": "Nach dpa-Informationen stellt die AfD Ex-Nationalspieler und Weltmeister Thomas Berthold als Kandidat fürs Bundespräsidentenamt auf. Die Nominierung hat eher symbolische Bedeutung.",
+          "title": "Journalismus: Das Taylor-Swift-Interview (Bunte’s Version)",
+          "url": "https://www.sueddeutsche.de/medien/taylor-swift-burda-bunte-interview-li.3579873",
+          "summary": "Das Magazin „Bunte“ druckt ein „Exklusiv-Interview“ mit Taylor Swift ab. Die Antworten decken sich allerdings im Wortlaut mit einem öffentlichen Gespräch der Sängerin. Der Verlag nennt den Fall „etwas komplexer“.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
-          "url": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
-          "summary": "Mehr als 40 Rennen, rund 20 Weltcup-Stationen und eine WM: Die neue Ski-Alpin-Saison startet Ende Oktober in Sölden. Wir geben einen Überblick, wann wo welcher Wettbewerb stattfindet.",
+          "title": "Medienrecht: Dürfen die das?",
+          "url": "https://www.sueddeutsche.de/medien/christian-lindner-titanic-satire-pressefreiheit-persoenlichkeitsrecht-li.3578704",
+          "summary": "Ex-FDP-Chef Christian Lindner, seine Frau und seine Tochter (ein Jahr) gehen juristisch gegen die Zeitschrift „Titanic“ vor. Ihre Klageschrift behauptet: Dem Kind wurde schon vor der Geburt Schaden zugefügt.",
           "source": "SZ",
           "paywall": false,
           "image": null
