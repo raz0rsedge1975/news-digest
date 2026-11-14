@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-14T11:00:36.097Z",
-  "timestamp": "14.11.2026, 12:00:36",
+  "generated": "2026-11-14T15:01:21.089Z",
+  "timestamp": "14.11.2026, 16:01:21",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Migrantifa: Der Pakt von Neukölln",
-          "url": "https://www.faz.net/aktuell/politik/inland/der-berliner-pakt-zwischen-linksextremen-und-hamas-unterstuetzern-accg-201648148.html",
-          "summary": "Der Triumph der Linken bei der Berlin-Wahl war auch Ergebnis eines abenteuerlichen Pakts: extreme Linke und migrantische Islamisten Seit an Seit. Droht ihnen jetzt der jähe Absturz?",
+          "title": "Jensen Huang: Der Sturz eines Rockstars",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-aufstieg-und-fall-des-nvidia-gruenders-accg-201669719.html",
+          "summary": "Jensen Huang schuf aus dem Nichts den wertvollsten Konzern der Welt. Binnen weniger Tage hat er alle Macht verloren. Chronik eines Aufstiegs und Falls.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Joachim Sauer: „Wir hatten auch in der DDR ein richtiges Leben“",
-          "url": "https://www.faz.net/aktuell/gesellschaft/menschen/joachim-sauer-im-interview-der-mann-an-angela-merkels-seite-accg-201669514.html",
-          "summary": "Joachim Sauer, Chemiker und Mann von Angela Merkel, spricht über die schwierigen und doch schönen Jahre im SED-Staat, aktuelle Ost-West-Debatten und Klischees über den Ehemann einer Kanzlerin.",
+          "title": "Chip-Schmuggel: Die Drehscheibe Singapur gerät im Nvidia-Skandal unter Druck",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nvidia-skandal-wird-singapur-der-zugang-zu-ki-chips-gesperrt-accg-201680765.html",
+          "summary": "Wurde Singapur von Spionen und Schmugglern als Umschlagsplatz genutzt, damit China das KI-Wettrennen gewinnt? Im Wirtschaftszentrum geht die Sorge um sein Geschäftsmodell um.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Polarwirbel-Kollaps: Hoch droben ist die Hölle los",
-          "url": "https://www.faz.net/aktuell/wissen/erde-klima/kippt-der-polarwirbel-kollaps-die-winterprognose-accg-201675872.html",
-          "summary": "Der Zusammenbruch des Polarwirbels über der Arktis bringt Meteorologen ins Grübeln. Erwartet uns ein früher Winter?",
+          "title": "Chips Nach China: Die Nvidia-Affäre wird zur Regierungskrise",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bessent-gegen-lutnick-nvidia-wird-zur-us-regierungskrise-201681651.html",
+          "summary": "Der vermutete Schmuggel amerikanischer KI-Chips nach China bringt Handelsminister Howard Lutnick in Bedrängnis. Finanzminister Scott Bessent erhebt schwere Vorwürfe.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/598230a4138b/w2960h1546x0y94o/202611/e7267a53-1d11-4d4b-afdc-c07fd34a8651/nicht-nur-fuer-jensen-huang.webp"
         }
       ]
     },
@@ -35,57 +35,57 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Wohnungsnot in Berlin: »So mein Lieber, hast du deine Bewerbungsunterlagen tippitoppi?«",
-          "url": "https://www.spiegel.de/panorama/wohnungsnot-in-berlin-so-mein-lieber-hast-du-deine-bewerbungsunterlagen-tippitoppi-a-02586753-775e-4f8e-aecf-78dc0a2ae814#ref=rss",
-          "summary": "Achim Amann ist Makler in Berlin. Sein Ziel: so viele Wohnungen wie möglich vermieten und verkaufen. Sein Problem: hohe Preise, klamme Interessenten. Und jetzt kommen auch noch die Linken.",
+          "title": "Republikaner nach den Midterms: Das Donald-Trump-Dilemma",
+          "url": "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss",
+          "summary": "Jetzt tobt in der Trump-Partei ein Streit über Konsequenzen aus der verlorenen Wahl: MAGA-Extremisten und Traditionalisten gehen gleichzeitig auf den Präsidenten los. Und seine potenziellen Kronprinzen lauern auf ihre Chance.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e64dd3a9-0294-4f77-994c-359b8526c56b_w1200_r1.778_fpx47_fpy51.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0812144a-e903-4e76-9aea-ffa72aca043a_w1200_r1.778_fpx60_fpy30.jpg"
         },
         {
-          "title": "Türkei – Ekrem İmamoğlu aus dem Gefängnis: »Meinen wöchentlichen Anruf nutze ich, um die Stimmen meiner Familie zu hören«",
-          "url": "https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-aus-dem-gefaengnis-meinen-woechentlichen-anruf-nutze-ich-um-die-stimmen-meiner-familie-zu-hoeren-a-3c161fdb-6119-4c60-b0aa-fbd4864ba73e#ref=rss",
-          "summary": "Die türkische Opposition fordert Erdoğan mit einer neuen Partei heraus. Ihr Präsidentschaftskandidat İmamoğlu sitzt in Haft. Hier antwortet er auf Fragen des SPIEGEL zu seinem Alltag und den Herausforderungen der Yeni Parti.",
+          "title": "Mecklenburg-Vorpommern bekommt rot-rot-grüne Landesregierung",
+          "url": "https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss",
+          "summary": "In Schwerin regiert bald eine Koalition aus SPD, Linken und Grünen. Alle drei Parteien stimmten dem entsprechenden Koalitionsvertrag zu. Am Abend soll das Bündnis per Unterschrift besiegelt werden.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/18bc984a-710b-488a-a263-219280c6b586_w1200_r1.778_fpx44.66_fpy54.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c3d079bf-47f1-4553-ba8e-5f78c6434b5f_w1200_r1.778_fpx34_fpy49.jpg"
         },
         {
-          "title": "USA: Senatoren wollen Antworten zu Starlink in der Ukraine",
-          "url": "https://www.spiegel.de/ausland/usa-senatoren-wollen-antworten-zu-starlink-in-der-ukraine-a-57aee2e6-6574-4d0f-a495-95d53b0425c7#ref=rss",
-          "summary": "Um Drohnen abwehren und im Krieg kommunizieren zu können, ist Kyjiw auf Elon Musks Satelliteninternet angewiesen. Das hakte zuletzt – US-Demokraten verlangen Aufklärung. Parallel dazu wird über die Rolle der Europäer bei möglichen Friedensgesprächen gestritten.",
+          "title": "Klingbeil verteidigt Doppelrolle als SPD-Chef und Finanzminister",
+          "url": "https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss",
+          "summary": "In der SPD gärt es, Anträge sollen laut SPIEGEL eine erneute Kandidatur Klingbeils als Vorsitzender verhindern. Nun meldet sich der Angegriffene zu Wort – und verteidigt sich.",
           "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ba3e595f-e510-4467-a636-7b4225824603_w1200_r1.778_fpx63.94_fpy50.jpg"
+          "paywall": false,
+          "image": null
         }
       ]
     },
     {
-      "source": "Telepolis",
+      "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Neptun Deep: Wie Gas aus dem Schwarzen Meer Ungarn von Russland befreien soll",
-          "url": "https://www.telepolis.de/article/Neptun-Deep-Wie-Gas-aus-dem-Schwarzen-Meer-Ungarn-von-Russland-befreien-soll-11520386.html",
-          "summary": "Ungarn verhandelt mit Rumänien über Lieferungen vom Offshore-Feld Neptun Deep. Bis Herbst 2027 soll der Ersatz für über 7 Mrd. Kubikmeter russisches Gas stehen.",
-          "source": "Telepolis",
+          "title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
+          "url": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+          "summary": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+          "source": "Tagesschau",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/1/9/6/gaspeicher-hu2-1-25f922f7014cb3e5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://images.tagesschau.de/image/4c666b85-a4b1-47cb-a502-ae3a44ffe086/AAABodkGYWQ/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-102.jpg?width=1280"
         },
         {
-          "title": "Kampf gegen Rom: Vercingetorix fordert Caesar in Gallien heraus",
-          "url": "https://www.telepolis.de/article/Kampf-gegen-Rom-Vercingetorix-fordert-Caesar-in-Gallien-heraus-11517464.html",
-          "summary": "Ein junger Averner einte die Stämme Galliens gegen Roms Legionen. Seine Freiheitskämpfer trotzten sechs Jahre dem Eroberer. Wie reagierte Caesar?",
-          "source": "Telepolis",
+          "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+          "summary": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+          "source": "Tagesschau",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/7/2/0/The_colossal_statue_of_Vercingetorix__Alesia__13178002504_-9d381c135fca02bb.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1280"
         },
         {
-          "title": "38 statt 35 Stunden: Was Mercedes von seiner Belegschaft verlangt",
-          "url": "https://www.telepolis.de/article/38-statt-35-Stunden-Was-Mercedes-von-seiner-Belegschaft-verlangt-11524552.html",
-          "summary": "Drei Stunden mehr ohne Lohnausgleich senken den Stundenlohn um 7,9 Prozent. Die IG Metall fordert für die ganze Branche 5 Prozent mehr.",
-          "source": "Telepolis",
+          "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+          "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+          "summary": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war groß. Zu der Zeremonie in der Frauenkirche kamen mehr als 1. 000 Trauergäste.",
+          "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1280"
         }
       ]
     },
@@ -93,25 +93,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Requiem und Staatsakt: Bayern nimmt Abschied von Hubert Aiwanger",
-          "url": "https://www.sueddeutsche.de/bayern/bayern-aiwanger-trauerfeier-liebfrauendom-staatsakt-soeder-aigner-li.3580451",
-          "summary": "Münchens Kardinal Reinhard Marx würdigt den gestorbenen Wirtschaftsminister als „echtes bayerisches Mannsbild“. Er habe ein großes Leben gelebt und sich für das Gemeinwesen eingesetzt.",
+          "title": "Deutschlands Gegner Niederlande: Oranje zelebriert Xavi-Ball im Cruyff-Stadion",
+          "url": "https://www.sueddeutsche.de/sport/niederlande-griechenland-nations-league-li.3580519",
+          "summary": "Monster oder Scheinriese? Das 7:0 der Niederländer gegen Griechenland in der Nations League führt im Nachbarland zu Superlativen – nur der Trainer ist vor dem Duell mit dem DFB zurückhaltend.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zur Bundespolitik: Bericht: Teile der SPD wollen erneute Kandidatur Klingbeils als Parteichef verhindern",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-klingbeil-parteitag-antraege-parteivorsitz-li.3568524",
-          "summary": "Parteivorsitz und Ministeramt sollen künftig nicht mehr von ein und derselben Person ausgefüllt werden dürfen. Zwei Anträge dazu liegen laut „Spiegel“ für den Parteitag der SPD im Januar vor.",
+          "title": "Krieg in der Ukraine: Selenskij: USA bringen Nato-Mitgliedschaft im Gegenzug für Donbass ins Spiel",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-nato-donbass-rueckzug-li.3571967",
+          "summary": "Der ukrainische Präsident lehnt jedoch eine Preisgabe der Region im Osten des Landes weiter strikt ab – für Russland eine Hauptforderung zur Beendigung des Krieges.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Requiem in der Frauenkirche: Abschied von Hubert Aiwanger",
-          "url": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-trauerfeier-requiem-trauerstaatsakt-muenchen-frauenkirche-bilder-li.3580437",
-          "summary": "Zehn Tage nach dem plötzlichen Tod von Hubert Aiwanger nimmt Bayern in der Münchner Frauenkirche Abschied von dem langjährigen Wirtschaftsminister. Die Bilder.",
+          "title": "Newsblog zu den Landtagswahlen: Mecklenburg-Vorpommern: Weg für erste rot-rot-grüne Koalition frei",
+          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-koalitionsvertrag-gruene-spd-linke-li.3540501",
+          "summary": "Nach der Linken stimmen auch Grünen und SPD dem Koalitionsvertrag zu. Dieser soll noch am Abend unterschrieben werden.",
           "source": "SZ",
           "paywall": false,
           "image": null
