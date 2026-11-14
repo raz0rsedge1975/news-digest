@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-14T15:01:21.089Z",
-  "timestamp": "14.11.2026, 16:01:21",
+  "generated": "2026-11-14T19:00:16.504Z",
+  "timestamp": "14.11.2026, 20:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Jensen Huang: Der Sturz eines Rockstars",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-aufstieg-und-fall-des-nvidia-gruenders-accg-201669719.html",
-          "summary": "Jensen Huang schuf aus dem Nichts den wertvollsten Konzern der Welt. Binnen weniger Tage hat er alle Macht verloren. Chronik eines Aufstiegs und Falls.",
+          "title": "Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/warum-apple-das-home-view-geraet-nicht-in-deutschland-verkauft-accg-201678715.html",
+          "summary": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/1e6bb65a1511/w4861h2539x0y350o/202610/43601.0.2666939424/nicht-in-der-eu-verfuegbar.webp"
         },
         {
-          "title": "Chip-Schmuggel: Die Drehscheibe Singapur gerät im Nvidia-Skandal unter Druck",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nvidia-skandal-wird-singapur-der-zugang-zu-ki-chips-gesperrt-accg-201680765.html",
-          "summary": "Wurde Singapur von Spionen und Schmugglern als Umschlagsplatz genutzt, damit China das KI-Wettrennen gewinnt? Im Wirtschaftszentrum geht die Sorge um sein Geschäftsmodell um.",
+          "title": "Deutschland Liveblog: Hubertus Heil kandidiert für den SPD-Vorsitz",
+          "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hubertus-heil-kandidiert-fuer-den-spd-vorsitz-faz-110093143.html",
+          "summary": "Früherer Arbeitsminister beklagt „akute Profillosigkeit“ seiner Partei +++ Mecklenburg-Vorpommern: Rot, Rot und Grün stimmen für Koalitionsvertrag +++ alle Entwicklungen im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/1189cdb18f0f/w2048h1070x0y101o/202611/d4137950-e8e7-4e37-b223-e47ea5e83b17/hubertus-heil-spd-im-april-in.webp"
         },
         {
-          "title": "Chips Nach China: Die Nvidia-Affäre wird zur Regierungskrise",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bessent-gegen-lutnick-nvidia-wird-zur-us-regierungskrise-201681651.html",
-          "summary": "Der vermutete Schmuggel amerikanischer KI-Chips nach China bringt Handelsminister Howard Lutnick in Bedrängnis. Finanzminister Scott Bessent erhebt schwere Vorwürfe.",
+          "title": "Kernkraft: Graichen und „die Dinger“",
+          "url": "https://www.faz.net/aktuell/politik/inland/wie-teuer-sind-kernkraftwerke-patrick-graichen-und-die-dinger-accg-201665725.html",
+          "summary": "Ist die Kernkraft schon erledigt? Selbst unter Grünen spricht sich herum, dass 100 Prozent erneuerbarer Energie zu teuer wird ohne Atomkraft.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/598230a4138b/w2960h1546x0y94o/202611/e7267a53-1d11-4d4b-afdc-c07fd34a8651/nicht-nur-fuer-jensen-huang.webp"
+          "image": "https://media0.faz.net/image/w1200h627/0e404b1951a7/w5011h2618x307y557o/202611/3c65ee7c-6642-4ce9-9587-948377791775/der-erste-kuehlturm-des.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "SPD: Hubertus Heil will für Parteivorsitz kandidieren",
+          "url": "https://www.spiegel.de/politik/deutschland/spd-hubertus-heil-will-fuer-parteivorsitz-kandidieren-a-f9209fb9-0404-43be-b66d-b2207e7e6aaa#ref=rss",
+          "summary": "Bei der SPD zeichnet sich ein Machtkampf ab: Ex-Arbeitsminister Hubertus Heil will sich beim Bundesparteitag im Januar zum Chef der Sozialdemokraten wählen lassen. Damit wächst der Druck auf Amtsinhaber Lars Klingbeil.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/78251e5b-556a-45ec-a9c3-0c5088f1c781_w1200_r1.778_fpx67.33_fpy50.98.jpg"
+        },
+        {
+          "title": "Arbeiten mit KI: Diese Menschen verdienen Geld mit Prompts, seitenlangen Prompts",
+          "url": "https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss",
+          "summary": "Alle reden von KI – aber was macht es eigentlich mit jemandem, den ganzen Tag mit KI zu reden? Promptwriter wie Fabian Scholz können mit ihrer Arbeit viel Geld verdienen. Oder sich darin verlieren.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/d33b5d26-4315-46e8-b453-369735274094_w1200_r1.778_fpx41.98_fpy44.97.jpg"
+        },
+        {
           "title": "Republikaner nach den Midterms: Das Donald-Trump-Dilemma",
           "url": "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss",
           "summary": "Jetzt tobt in der Trump-Partei ein Streit über Konsequenzen aus der verlorenen Wahl: MAGA-Extremisten und Traditionalisten gehen gleichzeitig auf den Präsidenten los. Und seine potenziellen Kronprinzen lauern auf ihre Chance.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/0812144a-e903-4e76-9aea-ffa72aca043a_w1200_r1.778_fpx60_fpy30.jpg"
-        },
-        {
-          "title": "Mecklenburg-Vorpommern bekommt rot-rot-grüne Landesregierung",
-          "url": "https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss",
-          "summary": "In Schwerin regiert bald eine Koalition aus SPD, Linken und Grünen. Alle drei Parteien stimmten dem entsprechenden Koalitionsvertrag zu. Am Abend soll das Bündnis per Unterschrift besiegelt werden.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c3d079bf-47f1-4553-ba8e-5f78c6434b5f_w1200_r1.778_fpx34_fpy49.jpg"
-        },
-        {
-          "title": "Klingbeil verteidigt Doppelrolle als SPD-Chef und Finanzminister",
-          "url": "https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss",
-          "summary": "In der SPD gärt es, Anträge sollen laut SPIEGEL eine erneute Kandidatur Klingbeils als Vorsitzender verhindern. Nun meldet sich der Angegriffene zu Wort – und verteidigt sich.",
-          "source": "Spiegel",
-          "paywall": false,
-          "image": null
         }
       ]
     },
@@ -64,28 +64,57 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Mississippi: 32 Verletzte nach Kollision von Dampfer und Tanker",
-          "url": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
-          "summary": "Ein Kreuzfahrtschiff ist auf dem Mississippi in New Orleans von einem Tanker gerammt worden. Der Flussdampfer kenterte. Alle Passagiere an Bord überlebten. Die Bürgermeisterin spricht von einem Wunder.",
+          "title": "Protest bei der COP in Antalya: Mehr Klimagerechtigkeit gefordert",
+          "url": "https://www.tagesschau.de/ausland/europa/cop-tuerkei-protest-100.html",
+          "summary": "Halbzeit bei der UN-Klimakonferenz, doch bisher gibt es kaum Ergebnisse - zum Frust der Aktivisten, die an einem Protestmarsch in Antalya teilnahmen. Sie wollen die Industriestaaten stärker zur Kasse bitten. Von B. Weber.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4c666b85-a4b1-47cb-a502-ae3a44ffe086/AAABodkGYWQ/AAABnSSvrFg/16x9-big/new-orleans-kreuzfahrtschiff-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/50c18f09-1224-4fef-bf77-97d350b85ae9/AAABodshUKU/AAABnSSvrFg/16x9-big/cop-protest-100.jpg?width=1280"
         },
         {
-          "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
-          "summary": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+          "title": "Zu viel Chlor im Pool: 15 Gäste im Phantasialand verletzt",
+          "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
+          "summary": "Durch die Microsoft-Störung bekam die Belegschaft im Freizeitpark Phantasialand nicht mit, dass zu viel Chlor im Schwimmbecken eines Hotels auf dem Gelände war. 15 Gäste wurden verletzt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/38aae710-371d-4286-9a79-325f40e6837c/AAABodm4fQE/AAABnSSvrFg/16x9-big/wolodymyr-selenskyj-284.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d0a6dd51-fdff-4a63-b2b8-cb7f4fac5855/AAABodtPPGM/AAABnSSvrFg/16x9-big/wdr-phantasialand-102.jpg?width=1280"
         },
         {
-          "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
-          "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
-          "summary": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war groß. Zu der Zeremonie in der Frauenkirche kamen mehr als 1. 000 Trauergäste.",
+          "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
+          "summary": "Mitte Januar wird auf einem Bundesparteitag die komplette Führung der SPD neu gewählt. Ex-Arbeitsminister Heil hat laut ARD-Hauptstadtstudio jetzt als Erster offiziell seine Kandidatur für den Vorsitz angekündigt. Von Moritz Rödle.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/22daa702-6dd7-4916-b63e-089f68d00f62/AAABodofE2M/AAABnSSvrFg/16x9-big/aiwanger-gottesdienst-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5cdff6b6-d243-40c2-bc41-897b5aab9b1a/AAABodmGHmQ/AAABnSSvrFg/16x9-big/hubertus-heil-210.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Starlink-Drosselung in der Ukraine: US-Senatoren verlangen von Musk die Akten",
+          "url": "https://www.telepolis.de/article/Starlink-Drosselung-in-der-Ukraine-US-Senatoren-verlangen-von-Musk-die-Akten-11525367.html",
+          "summary": "Wer bremste Starlink? Musk zeigt auf die Regierung, Trump weist alles zurück. Jetzt verlangen zwei demokratische Senatoren die Dokumente bis zum 30.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/7/1/8/shutterstock_2239007757-e51ebb5cc292277c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "3 Milliarden Euro Schaden: Wie KI Ladendiebe überführen soll",
+          "url": "https://www.telepolis.de/article/3-Milliarden-Euro-Schaden-Wie-KI-Ladendiebe-ueberfuehren-soll-11523704.html",
+          "summary": "Organisierte Banden verursachen allein eine Milliarde Euro Schaden. KI-Kameras sollen helfen, doch die DSGVO setzt enge Grenzen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/8/7/8/ladendiebstahl-02-bcfa356e1fa79039.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Merz gegen vier EU-Staaten: Wer die nächsten Ukraine-Milliarden zahlen soll",
+          "url": "https://www.telepolis.de/article/Merz-gegen-vier-EU-Staaten-Wer-die-naechsten-Ukraine-Milliarden-zahlen-soll-11525271.html",
+          "summary": "Der Kanzler knüpft den EU-Etat an neue Ukraine-Hilfen. Ungarn, Slowakei, Tschechien und Bulgarien weigern sich. Fico spricht von „Erpressung“.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/6/7/0/2026-11-13-merz-eu-rat-dublin-data-d47b93fe299520ae.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -93,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Deutschlands Gegner Niederlande: Oranje zelebriert Xavi-Ball im Cruyff-Stadion",
-          "url": "https://www.sueddeutsche.de/sport/niederlande-griechenland-nations-league-li.3580519",
-          "summary": "Monster oder Scheinriese? Das 7:0 der Niederländer gegen Griechenland in der Nations League führt im Nachbarland zu Superlativen – nur der Trainer ist vor dem Duell mit dem DFB zurückhaltend.",
+          "title": "Bundespolitik: Hubertus Heil will für SPD-Vorsitz kandidieren",
+          "url": "https://www.sueddeutsche.de/politik/spd-hubertus-heil-li.3580581",
+          "summary": "Der 54-Jährige will sich beim Parteitag Mitte Januar in Bremen zur Wahl stellen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Krieg in der Ukraine: Selenskij: USA bringen Nato-Mitgliedschaft im Gegenzug für Donbass ins Spiel",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-nato-donbass-rueckzug-li.3571967",
-          "summary": "Der ukrainische Präsident lehnt jedoch eine Preisgabe der Region im Osten des Landes weiter strikt ab – für Russland eine Hauptforderung zur Beendigung des Krieges.",
+          "title": "US-Midterms: 37-jähriger Demokrat gewinnt Gouverneurswahl in Alaska",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-alaska-kreiss-tomkins-li.3578585",
+          "summary": "Jonathan Kreiss-Tomkins ist der erste demokratische Gouverneur in Alaska seit 1998.  Mit seinem Wahlsieg werden die Demokraten künftig 30 der 50 Gouverneursposten in den USA besetzen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zu den Landtagswahlen: Mecklenburg-Vorpommern: Weg für erste rot-rot-grüne Koalition frei",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-mecklenburg-vorpommern-koalitionsvertrag-gruene-spd-linke-li.3540501",
-          "summary": "Nach der Linken stimmen auch Grünen und SPD dem Koalitionsvertrag zu. Dieser soll noch am Abend unterschrieben werden.",
+          "title": "Staatsakt für Hubert Aiwanger: „Ich danke euch, dass ihr uns diesen Menschen gegeben habt“",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-aiwanger-trauerfeier-liebfrauendom-staatsakt-soeder-aigner-li.3580451",
+          "summary": "Voller Respekt sprechen Markus Söder, Ilse Aigner und die anderen Trauerredner beim Staatsakt für den verstorbenen Hubert Aiwanger. Für den bewegendsten Moment sorgt FW-Fraktionschef Florian Streibl.",
           "source": "SZ",
           "paywall": false,
           "image": null
