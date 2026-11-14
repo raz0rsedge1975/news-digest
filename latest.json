@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-14T07:00:16.332Z",
-  "timestamp": "14.11.2026, 08:00:16",
+  "generated": "2026-11-14T11:00:36.097Z",
+  "timestamp": "14.11.2026, 12:00:36",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Migrantifa: Der Pakt von Neukölln",
+          "url": "https://www.faz.net/aktuell/politik/inland/der-berliner-pakt-zwischen-linksextremen-und-hamas-unterstuetzern-accg-201648148.html",
+          "summary": "Der Triumph der Linken bei der Berlin-Wahl war auch Ergebnis eines abenteuerlichen Pakts: extreme Linke und migrantische Islamisten Seit an Seit. Droht ihnen jetzt der jähe Absturz?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "Joachim Sauer: „Wir hatten auch in der DDR ein richtiges Leben“",
           "url": "https://www.faz.net/aktuell/gesellschaft/menschen/joachim-sauer-im-interview-der-mann-an-angela-merkels-seite-accg-201669514.html",
           "summary": "Joachim Sauer, Chemiker und Mann von Angela Merkel, spricht über die schwierigen und doch schönen Jahre im SED-Staat, aktuelle Ost-West-Debatten und Klischees über den Ehemann einer Kanzlerin.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d4c6402f3e74/w9406h4914x0y673o/99223e6b-d381-4afa-8867-0e6f0d7ed383-JoachimSauer_apn0021.jpg/das-muss-jetzt-sein-joachim.webp"
+          "image": null
         },
         {
-          "title": "Kommunikationsstörung: Landesweites US-Flugverbot wieder aufgehoben – in Europa droht noch Chaos",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/us-luftfahrtbehoerde-faa-stoppt-fluege-in-den-gesamten-usa-201682407.html",
-          "summary": "Eine Kommunikationsstörung legt den Luftverkehr in den USA lahm. Die FAA stoppte sämtliche Starts im Land – erst zum zweiten Mal seit den Anschlägen vom 11. September 2001.",
+          "title": "Polarwirbel-Kollaps: Hoch droben ist die Hölle los",
+          "url": "https://www.faz.net/aktuell/wissen/erde-klima/kippt-der-polarwirbel-kollaps-die-winterprognose-accg-201675872.html",
+          "summary": "Der Zusammenbruch des Polarwirbels über der Arktis bringt Meteorologen ins Grübeln. Erwartet uns ein früher Winter?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/9ec229a266e8/w4889h2554x0y352o/202609/43601.0.2609426075/ein-flug-von-alaska-airlines.webp"
-        },
-        {
-          "title": "USA unter Trump: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
-          "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-weisses-haus-kuendigt-dreiertreffen-trumps-mit-xi-und-putin-an-faz-19444916.html",
-          "summary": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/00a244fe7366/w2521h1317x0y241o/202611/b4c30dfc-cc05-4f5e-94cf-c34e48d1eab9/washington-us-praesident.webp"
+          "image": null
         }
       ]
     },
@@ -35,57 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ron DeSantis: Donald Trump hat ihn einst bitter verspottet. Wird er nun sein Nachfolger?",
-          "url": "https://www.spiegel.de/ausland/ron-desantis-donald-trump-hat-ihn-einst-bitter-verspottet-wird-er-nun-sein-nachfolger-a-15a7952f-e7cf-4203-ac99-e21580fdc4dd#ref=rss",
-          "summary": "Das Wahldesaster der Republikaner eröffnet Ron DeSantis eine Chance: Floridas scheidender Gouverneur könnte nächster Präsidentschaftskandidat werden. Gegenüber JD Vance und Marco Rubio hat er einen unschätzbaren Vorteil.",
+          "title": "Wohnungsnot in Berlin: »So mein Lieber, hast du deine Bewerbungsunterlagen tippitoppi?«",
+          "url": "https://www.spiegel.de/panorama/wohnungsnot-in-berlin-so-mein-lieber-hast-du-deine-bewerbungsunterlagen-tippitoppi-a-02586753-775e-4f8e-aecf-78dc0a2ae814#ref=rss",
+          "summary": "Achim Amann ist Makler in Berlin. Sein Ziel: so viele Wohnungen wie möglich vermieten und verkaufen. Sein Problem: hohe Preise, klamme Interessenten. Und jetzt kommen auch noch die Linken.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/6d29e4b8-de58-4629-a0a4-5b616f8bfdba_w1200_r1.778_fpx57_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/e64dd3a9-0294-4f77-994c-359b8526c56b_w1200_r1.778_fpx47_fpy51.jpg"
         },
         {
-          "title": "News: Trauerakt für Hubert Aiwanger, Friedrich Merz und Stromsteuer, Rot-Grün-Rot in Berlin",
-          "url": "https://www.spiegel.de/politik/deutschland/news-trauerakt-fuer-hubert-aiwanger-friedrich-merz-und-stromsteuer-rot-gruen-rot-in-berlin-a-3dda3c1b-9aab-48c2-b6aa-4a244a239e84#ref=rss",
-          "summary": "Aiwanger wird mit einem Trauerakt gewürdigt. Der Kanzler hat ein Haushaltsproblem. Und: rot-grün-rote Koalitionsverhandlungen. Das ist die Lage am Samstagmorgen.",
+          "title": "Türkei – Ekrem İmamoğlu aus dem Gefängnis: »Meinen wöchentlichen Anruf nutze ich, um die Stimmen meiner Familie zu hören«",
+          "url": "https://www.spiegel.de/ausland/tuerkei-ekrem-imamoglu-aus-dem-gefaengnis-meinen-woechentlichen-anruf-nutze-ich-um-die-stimmen-meiner-familie-zu-hoeren-a-3c161fdb-6119-4c60-b0aa-fbd4864ba73e#ref=rss",
+          "summary": "Die türkische Opposition fordert Erdoğan mit einer neuen Partei heraus. Ihr Präsidentschaftskandidat İmamoğlu sitzt in Haft. Hier antwortet er auf Fragen des SPIEGEL zu seinem Alltag und den Herausforderungen der Yeni Parti.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/18bc984a-710b-488a-a263-219280c6b586_w1200_r1.778_fpx44.66_fpy54.98.jpg"
         },
         {
-          "title": "SPD-Parteitag: Genossen planen Anti-Klingbeil-Antrag",
-          "url": "https://www.spiegel.de/politik/deutschland/spd-parteitag-genossen-planen-anti-klingbeil-antrag-a-72be0008-5531-4cc4-86d5-ce0f7e2c4774#ref=rss",
-          "summary": "Noch hat Lars Klingbeil die Frage nicht beantwortet, ob er ein weiteres Mal für den SPD-Vorsitz kandidiert. Geht es nach einem Bündnis aus Arbeitsgemeinschaften und Parteinachwuchs, ist die Antwort klar.",
+          "title": "USA: Senatoren wollen Antworten zu Starlink in der Ukraine",
+          "url": "https://www.spiegel.de/ausland/usa-senatoren-wollen-antworten-zu-starlink-in-der-ukraine-a-57aee2e6-6574-4d0f-a495-95d53b0425c7#ref=rss",
+          "summary": "Um Drohnen abwehren und im Krieg kommunizieren zu können, ist Kyjiw auf Elon Musks Satelliteninternet angewiesen. Das hakte zuletzt – US-Demokraten verlangen Aufklärung. Parallel dazu wird über die Rolle der Europäer bei möglichen Friedensgesprächen gestritten.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1869b202-cbde-483e-99c8-24d366941664_w1200_r1.778_fpx78_fpy20.jpg"
-        }
-      ]
-    },
-    {
-      "source": "Tagesschau",
-      "headlines": [
-        {
-          "title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
-          "url": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
-          "summary": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel. Dennoch sind viele Politiker aus den USA in Antalya. Sie setzen weiter auf das Geschäft mit erneuerbaren Energien. Von Jakob Mayr.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/74662585-3aca-45e4-bd69-d381da2ecb7c/AAABodhcaEk/AAABnSSvrFg/16x9-big/gavin-newsom-120.jpg?width=1280"
-        },
-        {
-          "title": "Keine Priorität für Klimaschutz in der Koalition",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
-          "summary": "Deutschland wird die selbst gesteckten Klimaziele für 2030 und 2040 verfehlen. Umwelt- und Naturschutzverbände werfen vor allem Kanzler Merz und Wirtschaftsministerin Reiche einen Rollback beim Klimaschutz vor. Von Susanne Henn.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/b5997f85-5df0-401c-be2c-1544d33bb0bf/AAABodSIH68/AAABnSSvrFg/16x9-big/chemiepark-leuna-kraftwerk-schkopau-100.jpg?width=1280"
-        },
-        {
-          "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
-          "url": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html",
-          "summary": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/9d3761e3-aa01-4a4b-a182-a99466c453f8/AAABodf8HlI/AAABnSSvrFg/16x9-big/matroschka-trump-putin-xi-100.jpg?width=1280"
+          "image": "https://cdn.prod.www.spiegel.de/images/ba3e595f-e510-4467-a636-7b4225824603_w1200_r1.778_fpx63.94_fpy50.jpg"
         }
       ]
     },
@@ -93,28 +64,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Neptun Deep: Wie Gas aus dem Schwarzen Meer Ungarn von Russland befreien soll",
+          "url": "https://www.telepolis.de/article/Neptun-Deep-Wie-Gas-aus-dem-Schwarzen-Meer-Ungarn-von-Russland-befreien-soll-11520386.html",
+          "summary": "Ungarn verhandelt mit Rumänien über Lieferungen vom Offshore-Feld Neptun Deep. Bis Herbst 2027 soll der Ersatz für über 7 Mrd. Kubikmeter russisches Gas stehen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/9/1/9/6/gaspeicher-hu2-1-25f922f7014cb3e5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Kampf gegen Rom: Vercingetorix fordert Caesar in Gallien heraus",
+          "url": "https://www.telepolis.de/article/Kampf-gegen-Rom-Vercingetorix-fordert-Caesar-in-Gallien-heraus-11517464.html",
+          "summary": "Ein junger Averner einte die Stämme Galliens gegen Roms Legionen. Seine Freiheitskämpfer trotzten sechs Jahre dem Eroberer. Wie reagierte Caesar?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/1/9/7/7/2/0/The_colossal_statue_of_Vercingetorix__Alesia__13178002504_-9d381c135fca02bb.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "38 statt 35 Stunden: Was Mercedes von seiner Belegschaft verlangt",
           "url": "https://www.telepolis.de/article/38-statt-35-Stunden-Was-Mercedes-von-seiner-Belegschaft-verlangt-11524552.html",
           "summary": "Drei Stunden mehr ohne Lohnausgleich senken den Stundenlohn um 7,9 Prozent. Die IG Metall fordert für die ganze Branche 5 Prozent mehr.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/3/0/9/shutterstock_2774416929-ae61d74978131660.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Ziviler Containerport wird militärische Drehscheibe: Bremerhaven im Wandel",
-          "url": "https://www.telepolis.de/article/Ziviler-Containerport-wird-militaerische-Drehscheibe-Bremerhaven-im-Wandel-11524424.html",
-          "summary": "Über eine Milliarde Euro fließen in den Überseehafen. Ein ziviler Standort wird zum Drehkreuz für Truppen und schweres Gerät. Wer trägt das politisch mit?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/2/4/5/shutterstock_2827423191-79f68731285dbb7b.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Leserbefragung 2026: Was Sie sich von Telepolis wünschen",
-          "url": "https://www.telepolis.de/article/Leserbefragung-2026-Was-Sie-sich-von-Telepolis-wuenschen-11524284.html",
-          "summary": "Fast 2.500 von Ihnen haben uns gesagt, was sie an Telepolis mögen, was sie vermissen und was sie nervt. Hier sind die Ergebnisse, und was wir damit anfangen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/1/7/3/umfrage-res-1-01-2726105269e312c1.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -122,25 +93,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
-          "summary": "Wegen technischer Probleme waren alle Abflüge untersagt. Zehntausende Passagiere saßen an Flughäfen fest. Erst nach mehreren Stunden gibt es Entwarnung – auch Flüge aus Europa in die USA sind wieder möglich.",
+          "title": "Requiem und Staatsakt: Bayern nimmt Abschied von Hubert Aiwanger",
+          "url": "https://www.sueddeutsche.de/bayern/bayern-aiwanger-trauerfeier-liebfrauendom-staatsakt-soeder-aigner-li.3580451",
+          "summary": "Münchens Kardinal Reinhard Marx würdigt den gestorbenen Wirtschaftsminister als „echtes bayerisches Mannsbild“. Er habe ein großes Leben gelebt und sich für das Gemeinwesen eingesetzt.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "DFB-Team in der Einzelkritik: Serbien hält Gruda beim Torschuss den Regenschirm",
-          "url": "https://www.sueddeutsche.de/sport/deutschland-serbien-einzelkritik-li.3580324",
-          "summary": "Der Leipziger ist nicht nur wegen seines Solotors der Gewinner des Abends. Florian Wirtz folgt seinem Instinkt, und Joshua Kimmich und Aleksandar Pavlovic suchen ihren Platz auf dem Feld. Das DFB-Team in der Einzelkritik.",
+          "title": "Newsblog zur Bundespolitik: Bericht: Teile der SPD wollen erneute Kandidatur Klingbeils als Parteichef verhindern",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-news-spd-klingbeil-parteitag-antraege-parteivorsitz-li.3568524",
+          "summary": "Parteivorsitz und Ministeramt sollen künftig nicht mehr von ein und derselben Person ausgefüllt werden dürfen. Zwei Anträge dazu liegen laut „Spiegel“ für den Parteitag der SPD im Januar vor.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "3:1 gegen Serbien: Dominanz im Dauerregen",
-          "url": "https://www.sueddeutsche.de/sport/dfb-team-serbien-nations-league-klopp-gruda-li.3578389",
-          "summary": "Das DFB-Team gewinnt in Belgrad auf einem durchgeweichten Rasen souverän gegen einen schwachen Gegner, der auch noch zwei rote Karten sieht. Die Frage ist: Was kann Trainer Jürgen Klopp aus diesem Auftritt lernen?",
+          "title": "Requiem in der Frauenkirche: Abschied von Hubert Aiwanger",
+          "url": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-trauerfeier-requiem-trauerstaatsakt-muenchen-frauenkirche-bilder-li.3580437",
+          "summary": "Zehn Tage nach dem plötzlichen Tod von Hubert Aiwanger nimmt Bayern in der Münchner Frauenkirche Abschied von dem langjährigen Wirtschaftsminister. Die Bilder.",
           "source": "SZ",
           "paywall": false,
           "image": null
