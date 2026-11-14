@@ -1,36 +1,7 @@
 {
-  "generated": "2026-11-13T23:02:19.298Z",
-  "timestamp": "14.11.2026, 00:02:19",
+  "generated": "2026-11-14T03:01:37.725Z",
+  "timestamp": "14.11.2026, 04:01:37",
   "news": [
-    {
-      "source": "FAZ",
-      "headlines": [
-        {
-          "title": "Kommunikationsstörung: Luftfahrtbehörde FAA verhängt landesweites Startverbot in den USA",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/us-luftfahrtbehoerde-faa-stoppt-fluege-in-den-gesamten-usa-201682407.html",
-          "summary": "Eine Kommunikationsstörung legt den Luftverkehr in den USA lahm. Die FAA stoppt sämtliche Starts im Land – erst zum zweiten Mal seit den Anschlägen vom 11. September 2001.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Chips Nach China: Die Nvidia-Affäre wird zur Regierungskrise",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bessent-gegen-lutnick-nvidia-wird-zur-us-regierungskrise-201681651.html",
-          "summary": "Der vermutete Schmuggel amerikanischer KI-Chips nach China bringt Handelsminister Howard Lutnick in Bedrängnis. Finanzminister Scott Bessent erhebt schwere Vorwürfe.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Digitalwirtschaft-Podcast: Jensen Huang: Aufstieg und Fall des Nvidia-Gründers",
-          "url": "https://www.faz.net/podcasts/wirtschaftspodcast/jensen-huang-aufstieg-und-fall-des-nvidia-gruenders-201681931.html",
-          "summary": "Was jetzt aus dem wichtigsten KI-Unternehmen der Welt wird. Und wieso der Streit auch in der amerikanischen Regierung eskalieren wird.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        }
-      ]
-    },
     {
       "source": "Spiegel",
       "headlines": [
@@ -39,8 +10,8 @@
           "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gewinnt-in-serbien-brajan-gruda-trifft-bei-debuet-a-f3e8c5e0-da5a-4d31-8711-8fc4b4dce49a#ref=rss",
           "summary": "In Belgrad spielt Jürgen Klopps DFB-Team Serbien an die Wand, bis der Regen zu stark wird. Brajan Gruda dribbelt wie ein Großer. In der Nations League verdient sich Deutschland so ein Endspiel gegen die Niederlande.",
           "source": "Spiegel",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6525dade-e0e7-43d0-a817-f3cd95c89243_w1200_r1.778_fpx51.31_fpy44.99.jpg"
         },
         {
           "title": "Ukraine-Krieg: Experte schätzt 500.000 bis 600.000 Kriegstote auf russischer Seite",
@@ -51,41 +22,70 @@
           "image": "https://cdn.prod.www.spiegel.de/images/74242e1a-8ed7-490f-9d48-f604d6753c3d_w1200_r1.778_fpx53_fpy62.jpg"
         },
         {
-          "title": "New Orleans: Tanker kollidiert mit Raddampfer",
-          "url": "https://www.spiegel.de/panorama/new-orleans-tanker-kollidiert-mit-raddampfer-a-7844e9e3-d317-4187-89dd-ab7505518264#ref=rss",
-          "summary": "Nahe dem Hafen der US-Stadt New Orleans ist ein Tanker mit einem Schaufelradschiff zusammengestoßen. An Bord des Ausflugsschiffes befanden sich zum Zeitpunkt des Aufpralls mehr als 130 Menschen.",
+          "title": "Donald Trump trifft Wladimir Putin und Xi Jinping kommende Woche in China",
+          "url": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-und-xi-jinping-kommende-woche-in-china-a-8c11f808-645a-48b5-b7a1-fb85768c7994#ref=rss",
+          "summary": "Der US-Präsident möchte in Shenzhen mit seinen Amtskollegen aus China und Russland vor allem über Atomwaffen sprechen, nicht jedoch über die Ukraine. Kanzler Friedrich Merz hat eine klare Botschaft an Donald Trump: »Bitte keine Überraschungen«.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3f212f28-ee61-47f4-9bfb-986bba481d98_w1200_r1.778_fpx63.54_fpy44.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d4753dc2-7a31-4eff-ae72-02d22718cda4_w1200_r1.778_fpx32_fpy50.jpg"
         }
       ]
     },
     {
-      "source": "Telepolis",
+      "source": "Tagesschau",
       "headlines": [
         {
-          "title": "38 statt 35 Stunden: Was Mercedes von seiner Belegschaft verlangt",
-          "url": "https://www.telepolis.de/article/38-statt-35-Stunden-Was-Mercedes-von-seiner-Belegschaft-verlangt-11524552.html",
-          "summary": "Drei Stunden mehr ohne Lohnausgleich senken den Stundenlohn um 7,9 Prozent. Die IG Metall fordert für die ganze Branche 5 Prozent mehr.",
-          "source": "Telepolis",
+          "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+          "summary": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache.",
+          "source": "Tagesschau",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Ziviler Containerport wird militärische Drehscheibe: Bremerhaven im Wandel",
-          "url": "https://www.telepolis.de/article/Ziviler-Containerport-wird-militaerische-Drehscheibe-Bremerhaven-im-Wandel-11524424.html",
-          "summary": "Über eine Milliarde Euro fließen in den Überseehafen. Ein ziviler Standort wird zum Drehkreuz für Truppen und schweres Gerät. Wer trägt das politisch mit?",
-          "source": "Telepolis",
+          "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+          "url": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html",
+          "summary": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+          "source": "Tagesschau",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Leserbefragung 2026: Was Sie sich von Telepolis wünschen",
-          "url": "https://www.telepolis.de/article/Leserbefragung-2026-Was-Sie-sich-von-Telepolis-wuenschen-11524284.html",
-          "summary": "Fast 2.500 von Ihnen haben uns gesagt, was sie an Telepolis mögen, was sie vermissen und was sie nervt. Hier sind die Ergebnisse, und was wir damit anfangen.",
-          "source": "Telepolis",
+          "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+          "url": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+          "summary": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor.",
+          "source": "Tagesschau",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/1/7/3/umfrage-res-1-01-2726105269e312c1.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://images.tagesschau.de/image/434feb3c-9a0f-43d3-afd8-cab5dd0eaeed/AAABodZOA3k/AAABnSSvrFg/16x9-big/howard-lutnick-100.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "SZ",
+      "headlines": [
+        {
+          "title": "USA: US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
+          "summary": "Wegen technischer Probleme waren alle Abflüge untersagt. Zehntausende Passagiere saßen an Airports fest. Erst nach mehreren Stunden gibt es Entwarnung.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "DFB-Team in der Einzelkritik: Serbien hält Gruda beim Torschuss den Regenschirm",
+          "url": "https://www.sueddeutsche.de/sport/deutschland-serbien-einzelkritik-li.3580324",
+          "summary": "Der Leipziger ist nicht nur wegen seines Solotors der Gewinner des Abends. Florian Wirtz folgt seinem Instinkt, und Joshua Kimmich und Aleksandar Pavlovic suchen ihren Platz auf dem Feld. Das DFB-Team in der Einzelkritik.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "3:1 gegen Serbien: Dominanz im Dauerregen",
+          "url": "https://www.sueddeutsche.de/sport/dfb-team-serbien-nations-league-klopp-gruda-li.3578389",
+          "summary": "Das DFB-Team gewinnt in Belgrad auf einem durchgeweichten Rasen souverän gegen einen schwachen Gegner, der auch noch zwei rote Karten sieht. Die Frage ist: Was kann Trainer Jürgen Klopp aus diesem Auftritt lernen?",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
         }
       ]
     }
