@@ -1,59 +1,30 @@
 {
-  "generated": "2026-11-15T11:01:50.654Z",
-  "timestamp": "15.11.2026, 12:01:50",
+  "generated": "2026-11-15T15:03:37.500Z",
+  "timestamp": "15.11.2026, 16:03:37",
   "news": [
-    {
-      "source": "FAZ",
-      "headlines": [
-        {
-          "title": "Statt ETF-Sparplan: Lohnt sich das Altersvorsorgedepot?",
-          "url": "https://www.faz.net/aktuell/finanzen/lohnt-das-altersvorsorgedepot-im-vergleich-zum-etf-201652753.html",
-          "summary": "Bald können die Deutschen in staatlich geförderte Depots investieren. Ein F.A.S.-Rechner zeigt, ob das wirklich besser ist als ein gewöhnlicher ETF-Sparplan.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Stellenabbau: Reicht die Abfindung bis zur Rente?",
-          "url": "https://www.faz.net/aktuell/finanzen/stellenabbau-in-deutscher-wirtschaft-reicht-die-abfindung-bis-zur-rente-accg-201648049.html",
-          "summary": "Viele Unternehmen reduzieren ihr Personal und bieten hohe Abfindungen. Wer Glück hat, muss bis zum Ruhestand nicht mehr arbeiten. Wir haben das durchgerechnet.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Vorstoß von Ärzte-Verband: Schneller zum Facharzt gegen Bezahlung?",
-          "url": "https://www.faz.net/aktuell/wirtschaft/kbv-vorschlag-schneller-zum-facharzt-gegen-bezahlung-accg-201684747.html",
-          "summary": "Der Chef der Kassenärztlichen Bundesvereinigung bringt die Option ins Spiel und verweist auf Kürzungen für die Arztpraxen. Kritik am Vorschlag von Andreas Gassen lässt nicht lange auf sich warten.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        }
-      ]
-    },
     {
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Vanessa Emde: Die frühen Gedichte der Skandal-Linken",
-          "url": "https://www.spiegel.de/politik/deutschland/vanessa-emde-die-fruehen-gedichte-der-skandal-linken-a-33089a48-bd29-4ed2-b624-03370da8e383#ref=rss",
-          "summary": "Vanessa Emde, die israelfeindliche Aktivistin aus Neukölln, dominiert seit Wochen die Berliner Koalitionsgespräche. Früher inszenierte sie am Theater und schrieb Lyrik. Was verrät ihr Werk über sie?",
+          "title": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag?",
+          "url": "https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss",
+          "summary": "Mit dem ID. Polo will Volkswagen zeigen: Ein bezahlbares Elektroauto kann in allen Lebenslagen genügen. Unser Autor hat es ausprobiert.",
           "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/81a19335-0c68-47b8-8de6-937c5041dc30_w1200_r1.778_fpx22_fpy52.jpg"
+          "paywall": false,
+          "image": null
         },
         {
-          "title": "»Sarajevo-Safaris«: »Ein Fall, der einem das Blut in den Adern gefrieren lässt«",
-          "url": "https://www.spiegel.de/ausland/sarajevo-safaris-ein-fall-der-einem-das-blut-in-den-adern-gefrieren-laesst-a-33ccf20d-2774-4108-aa96-f78dcbabd759#ref=rss",
-          "summary": "Reiche Europäer sollen im Bosnienkrieg dafür bezahlt haben, auf Zivilisten zu schießen. Erstmals sprechen die Mailänder Staatsanwälte über ihre Ermittlungen. Eine Zeugin erinnert sich an Gäste mit Nachtsichtgeräten.",
+          "title": "Vergewaltigungen: Warum Männer öfter vergewaltigen als sie glauben",
+          "url": "https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss",
+          "summary": "Zwei prominente Männer wurden jüngst wegen Vergewaltigung verurteilt. Viele Vergewaltigungen bleiben aber ungesühnt – auch, weil Opfer nicht erkennen, dass sie eine erleben. Und Täter wohl manchmal nicht wissen, dass sie eine begehen.",
           "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f1255526-b76b-449b-8731-43b84fa2edfd_w1200_r1.778_fpx65.32_fpy50.jpg"
+          "paywall": false,
+          "image": null
         },
         {
-          "title": "News: Hunderttausende Gefallene im Angriffskrieg gegen die Ukraine",
-          "url": "https://www.spiegel.de/politik/deutschland/news-hunderttausende-gefallene-im-angriffskrieg-gegen-die-ukraine-a-1c97ff6a-6d6e-443d-994b-b3ad716bb9b6#ref=rss",
-          "summary": "Hunderttausende Russen sind im Angriffskrieg gegen die Ukraine gefallen. Jeder Tote reißt eine Lücke. Das ist die Lage am Sonntag.",
+          "title": "Sabrina Hoffmann: »Mütter sollen Chefinnen sein, aber dennoch dauerpräsent und verfügbar sein«",
+          "url": "https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein-a-fc3ee322-d9ab-48db-9165-b5aa09215720#ref=rss",
+          "summary": "Ihre Zwillinge waren zwei Jahre alt, als Sabrina Hoffmann Chefredakteurin bei der »Frankfurter Rundschau« wurde. Nach sieben Monaten schmiss sie hin und beklagte zu wenig Rückhalt in der Redaktion. Hier spricht sie über die Hintergründe.",
           "source": "Spiegel",
           "paywall": false,
           "image": null
@@ -64,28 +35,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
-          "url": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html",
-          "summary": "Stromausfälle, Treibstoffmangel, steigende Preise: Die verschärften US-Sanktionen treffen die Menschen in Kuba hart. In Havanna versuchen sie, der Krise etwas entgegenzusetzen. Mit Musik, Unternehmergeist und Improvisation. Von Marie-Kristin Boese.",
+          "title": "Banden in Schweden rekrutieren zunehmend junge Frauen",
+          "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
+          "summary": "In Schweden werden zunehmend junge Frauen und Mädchen für kriminelle Netzwerke rekrutiert - etwa als Kuriere für Drogen und Waffen. Die Banden locken mit dem Versprechen von schnellem Geld und Anerkennung. Von Arne Bartram.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5b5ff1c5-be54-4998-96c2-7c3f3362e72c/AAABodUh46Y/AAABnSSvrFg/16x9-big/muellsammler-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9303795c-9aed-4822-bd36-7943fcb9af24/AAABlepsaBk/AAABnSSvrFg/16x9-big/bandengewalt-schweden-100.jpg?width=1280"
         },
         {
-          "title": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
-          "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html",
-          "summary": "Erneut hat Russland mehrere Ziele in der Ukraine angegriffen. Dabei wurden am Abend drei Menschen getötet, allein aus Saporischschja wurden zuvor 22 Verletzte gemeldet, darunter Kinder. Russland meldete einen Toten durch ukrainische Angriffe.",
+          "title": "Quallenzucht: Ein Geschäftsmodell, das sich lohnt",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/quallenzucht-100.html",
+          "summary": "Für die einen ist es eine Plage am Badestrand, für andere ein Geschäftsmodell: In Osthessen steht Europas größte Quallenfarm. Warum sich die Zucht der Nesseltiere wirtschaftlich lohnt. Von Christof Dörr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6ea808b8-a97e-4ce2-b799-f35e8e4cd604/AAABod5Fx4A/AAABnSSvrFg/16x9-big/ukraine-2932.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/13e0376f-fee1-4fd5-a524-d8c1b2302813/AAABoaY2nfI/AAABnSSvrFg/16x9-big/sendungsbild-1822228.jpg?width=1280"
         },
         {
-          "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html",
-          "summary": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+          "title": "Polizei prüft Bekennerschreiben nach Angriff auf Auto von Nius-Chefredakteur",
+          "url": "https://www.tagesschau.de/inland/regional/berlin/nius-chef-reichelt-auto-angezuendet-bekennerschreiben-100.html",
+          "summary": "In Berlin ist am Freitag das Auto von Nius-Chefredakteur Reichelt angezündet worden. Nun prüft die Polizei ein im Internet veröffentlichtes Bekennerschreiben. Unklar ist, ob das Schreiben authentisch ist.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/cfa04f79-ad8c-4715-92f8-9f25a2c9a38c/AAABod5Tybk/AAABnSSvrFg/16x9-big/klingbeil-466.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/254e1338-bef5-4177-b90e-b49363b6317c/AAABod9D8gA/AAABnSSvrFg/16x9-big/rbb-632737987-100.jpg?width=1280"
         }
       ]
     },
@@ -93,25 +64,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
-          "url": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
-          "summary": "Mehr als 40 Rennen, rund 20 Weltcup-Stationen und eine WM: Die neue Ski-Alpin-Saison startet Ende Oktober in Sölden. Wir geben einen Überblick, wann wo welcher Wettbewerb stattfindet.",
+          "title": "NFL in München: Football-Fans übernehmen Münchens Wirtshäuser und die Fußball-Arena",
+          "url": "https://www.sueddeutsche.de/muenchen/nfl-muenchen-american-football-detroit-lions-new-england-patriots-li.3578833",
+          "summary": "Blaue Löwen-Dirndl, selbst komponierte Lieder vor dem Stadion, Gronk-Trikots und Neil Diamond in Bierzelt-Lautstärke: Der NFL-Besuch hat München fest im Griff.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "SPD: Lars Klingbeil braucht eine Stütze, keinen Sturz",
-          "url": "https://www.sueddeutsche.de/meinung/spd-vorsitz-lars-klingbeil-manuela-schwesig-kommentar-li.3579386",
-          "summary": "Hubertus Heil bringt sich in Stellung für den Parteivorsitz. Doch mit einem Wechsel an der Spitze wäre nichts gewonnen. Sinnvoller wäre es, dem Parteichef eine starke Frau an die Seite zu stellen.",
+          "title": "Schwarz-Rot: Merz und Klingbeil unter Druck, Koalition in der Krise",
+          "url": "https://www.sueddeutsche.de/politik/schwarz-rot-friedrich-merz-lars-klingbeil-spd-machtkampf-hubertus-heil-li.3580696",
+          "summary": "Bundeskanzler und CDU-Chef Friedrich Merz wird zu große Nachgiebigkeit gegenüber den Sozialdemokraten vorgeworfen. Derweil kämpft auch der SPD-Chef um seine Macht.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "USA: Republikanerin Lauren Boebert verliert in Colorado",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-midterms-colorado-boebert-li.3578585",
-          "summary": "Die Republikanerin unterliegt der Demokratin Eileen Laubacher. Boebert gilt als Symbolfigur der Bewegung um Trump und war zuvor dreimal gewählt worden.",
+          "title": "Nationalmannschaft: Den Sechser, den Klopp sucht, gibt es vielleicht gar nicht in Deutschland",
+          "url": "https://www.sueddeutsche.de/sport/dfb-mittelfeld-klopp-kimmich-pavlovic-kommentar-li.3580700",
+          "summary": "Kimmich auf der Sechs, Pavlovic auf der Acht – das muss mit Blick auf die EM 2028 nicht so bleiben. Um das Viertelfinale der Nations League zu erreichen, ist es die Lösung, die keine Unruhe bringt.",
           "source": "SZ",
           "paywall": false,
           "image": null
