@@ -1,33 +1,62 @@
 {
-  "generated": "2026-11-15T15:03:37.500Z",
-  "timestamp": "15.11.2026, 16:03:37",
+  "generated": "2026-11-15T19:00:59.207Z",
+  "timestamp": "15.11.2026, 20:00:59",
   "news": [
+    {
+      "source": "FAZ",
+      "headlines": [
+        {
+          "title": "Work & Travel: Arbeiten ist die beste Erholung",
+          "url": "https://www.faz.net/aktuell/reise/work-travel-in-kolumbien-geht-das-auch-fuer-aeltere-semester-201299696.html",
+          "summary": "Frührente: nein danke! Auch im fortgeschrittenen Alter kann man noch als Freiwilliger in die Fremde gehen. Ein Selbstversuch in einem kleinen Hostel in den Hügeln von Kolumbien.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Auswanderungsziel: Die Schweiz ist aus guten Gründen das Sehnsuchtsland der Deutschen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
+          "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an. Was macht die Schweiz besser als Deutschland?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Rendite statt Urlaub: Wer nicht verreist, wird Millionär",
+          "url": "https://www.faz.net/aktuell/finanzen/urlaub-oder-vermoegen-was-aus-reisekosten-werden-kann-accg-200891903.html",
+          "summary": "Die jährliche Fernreise und den Traumurlaub lassen wir uns gern etwas kosten. Was passiert, wenn man das Geld stattdessen anlegt? Die Perspektiven sind erstaunlich.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        }
+      ]
+    },
     {
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "VW ID. Polo im Test: Taugt der neue Elektro-Polo im Alltag?",
-          "url": "https://www.spiegel.de/mobilitaet/auto/vw-id-polo-im-test-taugt-der-neue-elektro-polo-im-alltag-a-50ee1751-c3e4-4641-8152-bef8fdde5dd3#ref=rss",
-          "summary": "Mit dem ID. Polo will Volkswagen zeigen: Ein bezahlbares Elektroauto kann in allen Lebenslagen genügen. Unser Autor hat es ausprobiert.",
+          "title": "X von Elon Musk: Die Zone, die Donald Trumps Jünger mit Shit fluteten, war ihr eigener Garten",
+          "url": "https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten-a-20633e1f-eaca-4127-af23-0ef57a0bf4de#ref=rss",
+          "summary": "Als Tesla-Chef Elon Musk Twitter kaufte und zu einem Naherholungsgebiet für Nationalisten umbaute, jubelte das Trump-Lager. Dann wiederholten die Rechten den Fehler der Linken: Sie vergaßen die echte Welt.",
           "source": "Spiegel",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/a83c8620-793d-4e48-a46b-5fdd1424e3cf_w1200_r1.778_fpx51.01_fpy50.99.jpg"
         },
         {
-          "title": "Vergewaltigungen: Warum Männer öfter vergewaltigen als sie glauben",
-          "url": "https://www.spiegel.de/panorama/justiz/vergewaltigungen-warum-maenner-oefter-vergewaltigen-als-sie-glauben-a-1681c8a9-ab06-4680-9680-76e8956640ad#ref=rss",
-          "summary": "Zwei prominente Männer wurden jüngst wegen Vergewaltigung verurteilt. Viele Vergewaltigungen bleiben aber ungesühnt – auch, weil Opfer nicht erkennen, dass sie eine erleben. Und Täter wohl manchmal nicht wissen, dass sie eine begehen.",
+          "title": "Russland: Ukraine schießt großes Industriegebiet in Brand",
+          "url": "https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand-a-6fbf0df7-642d-47c8-a121-4f68d281d873#ref=rss",
+          "summary": "Angriffsdrohnen haben ein wichtiges russisches Industriegebiet 1000 Kilometer östlich von Moskau getroffen. US-Präsident Trump bereitet sich derweil auf einen Gipfel mit Putin und Xi vor. Mit bei der Reise: Elon Musk.",
           "source": "Spiegel",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/fdcfeef1-eaa1-4d39-94a7-30814891f004_w1200_r1.778_fpx31.87_fpy50.98.jpg"
         },
         {
-          "title": "Sabrina Hoffmann: »Mütter sollen Chefinnen sein, aber dennoch dauerpräsent und verfügbar sein«",
-          "url": "https://www.spiegel.de/kultur/sabrina-hoffmann-muetter-sollen-chefinnen-sein-aber-dennoch-dauerpraesent-und-verfuegbar-sein-a-fc3ee322-d9ab-48db-9165-b5aa09215720#ref=rss",
-          "summary": "Ihre Zwillinge waren zwei Jahre alt, als Sabrina Hoffmann Chefredakteurin bei der »Frankfurter Rundschau« wurde. Nach sieben Monaten schmiss sie hin und beklagte zu wenig Rückhalt in der Redaktion. Hier spricht sie über die Hintergründe.",
+          "title": "Spanien vor der Wahl: Verliert Linken-Posterboy Pedro Sánchez sein Land an die Rechten?",
+          "url": "https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss",
+          "summary": "Weil er sich gegen Trumps Irankrieg stellte, wurde Pedro Sánchez weltweit zum Held der Linken. Doch nun droht ausgerechnet dem gefeierten Spanier ein schneller Absturz – mit schwerwiegenden Folgen.",
           "source": "Spiegel",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/df72332f-0790-4f8b-873d-4fd0935add27_w1200_r1.778_fpx45_fpy41.jpg"
         }
       ]
     },
@@ -35,28 +64,57 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Banden in Schweden rekrutieren zunehmend junge Frauen",
-          "url": "https://www.tagesschau.de/ausland/europa/bandenkriminalitaet-schweden-100.html",
-          "summary": "In Schweden werden zunehmend junge Frauen und Mädchen für kriminelle Netzwerke rekrutiert - etwa als Kuriere für Drogen und Waffen. Die Banden locken mit dem Versprechen von schnellem Geld und Anerkennung. Von Arne Bartram.",
+          "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
+          "summary": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äußerte er sich. Offen ließ Heil, mit welcher Frau er kandidieren will.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9303795c-9aed-4822-bd36-7943fcb9af24/AAABlepsaBk/AAABnSSvrFg/16x9-big/bandengewalt-schweden-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/f962e541-2509-42bb-a115-4ea9044ea8ec/AAABoeA8Lts/AAABnSSvrFg/16x9-big/sendungsbild-1827956.jpg?width=1280"
         },
         {
-          "title": "Quallenzucht: Ein Geschäftsmodell, das sich lohnt",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/quallenzucht-100.html",
-          "summary": "Für die einen ist es eine Plage am Badestrand, für andere ein Geschäftsmodell: In Osthessen steht Europas größte Quallenfarm. Warum sich die Zucht der Nesseltiere wirtschaftlich lohnt. Von Christof Dörr.",
+          "title": "Hunderte Flüchtlinge auf Kanaren angekommen",
+          "url": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
+          "summary": "500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro. Der Präsident der Kanaren forderte Hilfen aus Madrid ein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/13e0376f-fee1-4fd5-a524-d8c1b2302813/AAABoaY2nfI/AAABnSSvrFg/16x9-big/sendungsbild-1822228.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d8c716a3-4fe1-4814-ae78-b6f7d9ae4f8d/AAABoeAudJc/AAABnSSvrFg/16x9-big/el-hierro-boot-fluechtlinge-100.jpg?width=1280"
         },
         {
-          "title": "Polizei prüft Bekennerschreiben nach Angriff auf Auto von Nius-Chefredakteur",
-          "url": "https://www.tagesschau.de/inland/regional/berlin/nius-chef-reichelt-auto-angezuendet-bekennerschreiben-100.html",
-          "summary": "In Berlin ist am Freitag das Auto von Nius-Chefredakteur Reichelt angezündet worden. Nun prüft die Polizei ein im Internet veröffentlichtes Bekennerschreiben. Unklar ist, ob das Schreiben authentisch ist.",
+          "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+          "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+          "summary": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/254e1338-bef5-4177-b90e-b49363b6317c/AAABod9D8gA/AAABnSSvrFg/16x9-big/rbb-632737987-100.jpg?width=1280"
+          "image": null
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Ukraine exportiert Strom, während Kiew im Dunkeln sitzt",
+          "url": "https://www.telepolis.de/article/Ukraine-exportiert-Strom-waehrend-Kiew-im-Dunkeln-sitzt-11525605.html",
+          "summary": "Die Ukraine verkauft Strom ins Ausland, während rund um Kiew das Licht ausgeht. Die IEA erklärt, wie das zusammengeht – und was im Winter droht.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Werra und Weser: Warum Deutschlands salzigste Flüsse weiter versalzen",
+          "url": "https://www.telepolis.de/article/Werra-und-Weser-Warum-Deutschlands-salzigste-Fluesse-weiter-versalzen-11523573.html",
+          "summary": "K+S leitet seit Jahrzehnten Salzabwässer in die Werra. Statt 2028 aufzuhören, will der Konzern bis 2039 weitermachen. Der BUND klagt auf Sanierung.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Nvidia-Chips für China: Wie Washington den Megaspeed-Deal laufen ließ",
+          "url": "https://www.telepolis.de/article/Nvidia-Chips-fuer-China-Wie-Washington-den-Megaspeed-Deal-laufen-liess-11525527.html",
+          "summary": "Vier Ministerien drängten auf Sanktionen gegen Megaspeed, doch das Handelsministerium blockierte. Jetzt verlangt der Kongress Antworten bis Dezember.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
         }
       ]
     },
@@ -66,23 +124,23 @@
         {
           "title": "NFL in München: Football-Fans übernehmen Münchens Wirtshäuser und die Fußball-Arena",
           "url": "https://www.sueddeutsche.de/muenchen/nfl-muenchen-american-football-detroit-lions-new-england-patriots-li.3578833",
-          "summary": "Blaue Löwen-Dirndl, selbst komponierte Lieder vor dem Stadion, Gronk-Trikots und Neil Diamond in Bierzelt-Lautstärke: Der NFL-Besuch hat München fest im Griff.",
+          "summary": "Blaue Löwen-Dirndl, selbst komponierte Lieder vor dem Stadion, Gronk-Trikots – und schließlich eine einseitige Partie: Der NFL-Besuch hat München fest im Griff.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Schwarz-Rot: Merz und Klingbeil unter Druck, Koalition in der Krise",
-          "url": "https://www.sueddeutsche.de/politik/schwarz-rot-friedrich-merz-lars-klingbeil-spd-machtkampf-hubertus-heil-li.3580696",
-          "summary": "Bundeskanzler und CDU-Chef Friedrich Merz wird zu große Nachgiebigkeit gegenüber den Sozialdemokraten vorgeworfen. Derweil kämpft auch der SPD-Chef um seine Macht.",
+          "title": "Nachruf: Ozan Ata Canani: Alle wollen glücklich sein",
+          "url": "https://www.sueddeutsche.de/kultur/ozan-ata-canani-gestorben-musiker-deutschland-tuerkei-li.3580871",
+          "summary": "Ata Canani hat in seinen Liedern die türkische und die deutsche Kultur zusammengebracht. Jetzt ist der zu spätem Ruhm gekommene Musiker unerwartet früh gestorben.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Nationalmannschaft: Den Sechser, den Klopp sucht, gibt es vielleicht gar nicht in Deutschland",
-          "url": "https://www.sueddeutsche.de/sport/dfb-mittelfeld-klopp-kimmich-pavlovic-kommentar-li.3580700",
-          "summary": "Kimmich auf der Sechs, Pavlovic auf der Acht – das muss mit Blick auf die EM 2028 nicht so bleiben. Um das Viertelfinale der Nations League zu erreichen, ist es die Lösung, die keine Unruhe bringt.",
+          "title": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-estland-russland-grenzuebergaenge-li.3571967",
+          "summary": "Mehrere Männer werden verdächtigt, ein Feuer bei einem Drohnenhersteller geplant zu haben, dessen Produkte auch von der Ukraine eingesetzt werden. Wie lang die Grenzen dicht bleiben sollen, ist unklar.",
           "source": "SZ",
           "paywall": false,
           "image": null
