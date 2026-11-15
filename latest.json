@@ -1,30 +1,30 @@
 {
-  "generated": "2026-11-15T19:00:59.207Z",
-  "timestamp": "15.11.2026, 20:00:59",
+  "generated": "2026-11-15T23:02:19.364Z",
+  "timestamp": "16.11.2026, 00:02:19",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Work & Travel: Arbeiten ist die beste Erholung",
-          "url": "https://www.faz.net/aktuell/reise/work-travel-in-kolumbien-geht-das-auch-fuer-aeltere-semester-201299696.html",
-          "summary": "Frührente: nein danke! Auch im fortgeschrittenen Alter kann man noch als Freiwilliger in die Fremde gehen. Ein Selbstversuch in einem kleinen Hostel in den Hügeln von Kolumbien.",
+          "title": "Ex-Finanzminister: „Ich wollte noch mal voll einsteigen“",
+          "url": "https://www.faz.net/aktuell/finanzen/joerg-kukies-vom-finanzminister-zurueck-in-die-finanzwelt-201670432.html",
+          "summary": "Der frühere Finanzminister Jörg Kukies hat bei einer Investmentbank angeheuert. Hier spricht er über sein Leben in der Politik und seine Rückkehr in die Finanzwelt.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Auswanderungsziel: Die Schweiz ist aus guten Gründen das Sehnsuchtsland der Deutschen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-die-schweiz-das-topauswanderungsziel-fuer-deutsche-ist-201290826.html",
-          "summary": "Das Nachbarland lockt mit attraktiven Jobs und hohen Löhnen viele Deutsche an. Was macht die Schweiz besser als Deutschland?",
+          "title": "Altersvorsorge-Rechner: Mehrere Hundert Euro pro Monat Unterschied im Ruhestand möglich",
+          "url": "https://www.faz.net/aktuell/finanzen/lohnt-das-altersvorsorgedepot-im-vergleich-zum-etf-201652753.html",
+          "summary": "Bald können die Deutschen in staatlich geförderte Depots investieren. Ein F.A.S.-Rechner zeigt, ob das wirklich besser ist als ein gewöhnlicher ETF-Sparplan.",
           "source": "FAZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Rendite statt Urlaub: Wer nicht verreist, wird Millionär",
-          "url": "https://www.faz.net/aktuell/finanzen/urlaub-oder-vermoegen-was-aus-reisekosten-werden-kann-accg-200891903.html",
-          "summary": "Die jährliche Fernreise und den Traumurlaub lassen wir uns gern etwas kosten. Was passiert, wenn man das Geld stattdessen anlegt? Die Perspektiven sind erstaunlich.",
+          "title": "Geldanlage: So investieren Sie in Börsenstars vor allen anderen",
+          "url": "https://www.faz.net/aktuell/finanzen/vor-dem-boersengang-in-anthropic-investieren-so-geht-es-accg-201318375.html",
+          "summary": "Unternehmen wie Anthropic gewinnen vor einem Börsengang am meisten an Wert. Da wäre man als Anleger gern dabei. Hier kommen drei Wege, wie das gelingt.",
           "source": "FAZ",
           "paywall": false,
           "image": null
@@ -34,6 +34,14 @@
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Lesen: Warum Jugendliche Bücher meiden und ihr Denken leidet",
+          "url": "https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss",
+          "summary": "Vor allem in Deutschland sinkt die Lesekompetenz drastisch, zeigen Studien. Der Sprachpsychologe Falk Huettig erklärt, warum Jugendliche Bücher meiden und das sogar ihr Denkvermögen gefährden kann.",
+          "source": "Spiegel",
+          "paywall": false,
+          "image": null
+        },
         {
           "title": "X von Elon Musk: Die Zone, die Donald Trumps Jünger mit Shit fluteten, war ihr eigener Garten",
           "url": "https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten-a-20633e1f-eaca-4127-af23-0ef57a0bf4de#ref=rss",
@@ -49,20 +57,20 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/fdcfeef1-eaa1-4d39-94a7-30814891f004_w1200_r1.778_fpx31.87_fpy50.98.jpg"
-        },
-        {
-          "title": "Spanien vor der Wahl: Verliert Linken-Posterboy Pedro Sánchez sein Land an die Rechten?",
-          "url": "https://www.spiegel.de/ausland/spanien-vor-der-wahl-verliert-linken-posterboy-pedro-sanchez-sein-land-an-die-rechten-a-e06b9c16-b930-4208-bf10-cb7631de5c6a#ref=rss",
-          "summary": "Weil er sich gegen Trumps Irankrieg stellte, wurde Pedro Sánchez weltweit zum Held der Linken. Doch nun droht ausgerechnet dem gefeierten Spanier ein schneller Absturz – mit schwerwiegenden Folgen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/df72332f-0790-4f8b-873d-4fd0935add27_w1200_r1.778_fpx45_fpy41.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
+          "summary": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7157fc29-5e0c-4186-94a6-0076a2abc558/AAABoeDP9zc/AAABnSSvrFg/16x9-big/eisenkot-netanjahu-102.jpg?width=1280"
+        },
         {
           "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
           "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
@@ -77,43 +85,6 @@
           "summary": "500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro. Der Präsident der Kanaren forderte Hilfen aus Madrid ein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d8c716a3-4fe1-4814-ae78-b6f7d9ae4f8d/AAABoeAudJc/AAABnSSvrFg/16x9-big/el-hierro-boot-fluechtlinge-100.jpg?width=1280"
-        },
-        {
-          "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-          "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-          "summary": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": null
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Ukraine exportiert Strom, während Kiew im Dunkeln sitzt",
-          "url": "https://www.telepolis.de/article/Ukraine-exportiert-Strom-waehrend-Kiew-im-Dunkeln-sitzt-11525605.html",
-          "summary": "Die Ukraine verkauft Strom ins Ausland, während rund um Kiew das Licht ausgeht. Die IEA erklärt, wie das zusammengeht – und was im Winter droht.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Werra und Weser: Warum Deutschlands salzigste Flüsse weiter versalzen",
-          "url": "https://www.telepolis.de/article/Werra-und-Weser-Warum-Deutschlands-salzigste-Fluesse-weiter-versalzen-11523573.html",
-          "summary": "K+S leitet seit Jahrzehnten Salzabwässer in die Werra. Statt 2028 aufzuhören, will der Konzern bis 2039 weitermachen. Der BUND klagt auf Sanierung.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Nvidia-Chips für China: Wie Washington den Megaspeed-Deal laufen ließ",
-          "url": "https://www.telepolis.de/article/Nvidia-Chips-fuer-China-Wie-Washington-den-Megaspeed-Deal-laufen-liess-11525527.html",
-          "summary": "Vier Ministerien drängten auf Sanktionen gegen Megaspeed, doch das Handelsministerium blockierte. Jetzt verlangt der Kongress Antworten bis Dezember.",
-          "source": "Telepolis",
-          "paywall": false,
           "image": null
         }
       ]
@@ -122,25 +93,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Bundestrainer Jürgen Klopp: Gut gelaunt ins erste kleine Endspiel",
+          "url": "https://www.sueddeutsche.de/sport/klopp-bundestrainer-niederlande-nations-league-li.3580854",
+          "summary": "Gruppensieg? Abstiegsrunde? Gegen die Niederlande steht für die DFB-Elf nicht wenig auf dem Spiel: Jürgen Klopp versucht, Vorfreude zu verbreiten – harsche Worte gegen Fifa-Boss Infantino und schwarzer Humor inklusive.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Getötete Lisa T.: Ein Dorf wird angegriffen",
+          "url": "https://www.sueddeutsche.de/panorama/lisa-t-altglietzen-brandenburg-entfuehrung-trauergottesdienst-li.3579868",
+          "summary": "Eine 13-Jährige wird verschleppt, man findet sie tot in einem Dorf in Brandenburg. Die Anteilnahme ist riesig, doch dann beginnen Schuldzuweisungen an die Dorfbewohner.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "NFL in München: Football-Fans übernehmen Münchens Wirtshäuser und die Fußball-Arena",
           "url": "https://www.sueddeutsche.de/muenchen/nfl-muenchen-american-football-detroit-lions-new-england-patriots-li.3578833",
           "summary": "Blaue Löwen-Dirndl, selbst komponierte Lieder vor dem Stadion, Gronk-Trikots – und schließlich eine einseitige Partie: Der NFL-Besuch hat München fest im Griff.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Nachruf: Ozan Ata Canani: Alle wollen glücklich sein",
-          "url": "https://www.sueddeutsche.de/kultur/ozan-ata-canani-gestorben-musiker-deutschland-tuerkei-li.3580871",
-          "summary": "Ata Canani hat in seinen Liedern die türkische und die deutsche Kultur zusammengebracht. Jetzt ist der zu spätem Ruhm gekommene Musiker unerwartet früh gestorben.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-estland-russland-grenzuebergaenge-li.3571967",
-          "summary": "Mehrere Männer werden verdächtigt, ein Feuer bei einem Drohnenhersteller geplant zu haben, dessen Produkte auch von der Ukraine eingesetzt werden. Wie lang die Grenzen dicht bleiben sollen, ist unklar.",
           "source": "SZ",
           "paywall": false,
           "image": null
