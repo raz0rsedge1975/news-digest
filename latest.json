@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-14T23:01:56.810Z",
-  "timestamp": "15.11.2026, 00:01:56",
+  "generated": "2026-11-15T03:00:16.308Z",
+  "timestamp": "15.11.2026, 04:00:16",
   "news": [
     {
       "source": "FAZ",
@@ -27,7 +27,7 @@
           "summary": "Amerikas Demokraten haben den Kongress erobert. Jetzt müssen sie sich gut überlegen, wie sie ihre Macht nutzen wollen.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/89f308696a50/w5416h2829x0y248o/202611/8f17e86a-aa11-4423-8b2f-1ac970906b7c/strahlender-gewinner-james.webp"
         }
       ]
     },
@@ -39,30 +39,38 @@
           "url": "https://www.spiegel.de/wissenschaft/me-cfs-bei-kindern-wie-schwer-die-krankheit-das-leben-veraendert-a-064a199f-3c3c-4e45-b79d-56d489914130#ref=rss",
           "summary": "Annabelle kann ihren Kopf nicht heben, verträgt kein Licht und wird künstlich ernährt. Ihre Schwester Mathilda wacht nachts vor Schmerzen auf. Die Mutter pflegt beide rund um die Uhr. Hat die Familie noch Hoffnung auf Heilung?",
           "source": "Spiegel",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/ad076513-b8cf-47e3-b212-6864369e0a70_w1200_r1.778_fpx76_fpy56.jpg"
         },
         {
           "title": "Arbeiten mit KI: Diese Menschen verdienen Geld mit Prompts, seitenlangen Prompts",
           "url": "https://www.spiegel.de/karriere/arbeiten-mit-ki-diese-menschen-verdienen-geld-mit-prompts-seitenlangen-prompts-a-04b97b2f-5ae8-44e4-85f7-c854dff9190a#ref=rss",
           "summary": "Alle reden von KI – aber was macht es eigentlich mit jemandem, den ganzen Tag mit KI zu reden? Promptwriter wie Fabian Scholz können mit ihrer Arbeit viel Geld verdienen. Oder sich darin verlieren.",
           "source": "Spiegel",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/d33b5d26-4315-46e8-b453-369735274094_w1200_r1.778_fpx41.98_fpy44.97.jpg"
         },
         {
           "title": "Republikaner nach den Midterms: Das Donald-Trump-Dilemma",
           "url": "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss",
           "summary": "Jetzt tobt in der Trump-Partei ein Streit über Konsequenzen aus der verlorenen Wahl: MAGA-Extremisten und Traditionalisten gehen gleichzeitig auf den Präsidenten los. Und seine potenziellen Kronprinzen lauern auf ihre Chance.",
           "source": "Spiegel",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/0812144a-e903-4e76-9aea-ffa72aca043a_w1200_r1.778_fpx60_fpy30.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+          "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+          "summary": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/adcb012d-ef76-4b35-9e82-de8032b4f0b2/AAABodwBRNA/AAABnSSvrFg/16x9-big/space-x-rakete-104.jpg?width=1280"
+        },
         {
           "title": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
           "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/d5214042-cf3f-48f9-bc4b-89dd65405722/AAABleWVibQ/AAABnSSvrFg/16x9-big/aerzte-113.jpg?width=1280"
-        },
-        {
-          "title": "Philippinische Popsängerin Carmelle gewinnt ersten ESC in Asien",
-          "url": "https://www.tagesschau.de/kultur/esc-asia-100.html",
-          "summary": "Der Eurovision Song Contest hat seit diesem Jahr einen Ableger in Asien. Die erste Ausgabe gewann die philippinische Sängerin Carmelle mit ihrem Song \"Sobra-Sobra\". Sie setzte sich gegen teils prominente Konkurrenz durch.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/d66901a3-2e7f-4973-9c1b-288d47d9193b/AAABodt1vL4/AAABnSSvrFg/16x9-big/carmelle-100.jpg?width=1280"
         }
       ]
     },
@@ -98,7 +98,7 @@
           "summary": "Singapurs Behörden befragten Alice Huang und zogen ihren Pass ein. Nach acht Monaten das Ergebnis: keine Beweise für Straftaten, nur eine strenge Verwarnung.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/7/5/1/shutterstock_4236370631-c002b1e854066705.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "Starlink-Drosselung in der Ukraine: US-Senatoren verlangen von Musk die Akten",
@@ -106,7 +106,7 @@
           "summary": "Wer bremste Starlink? Musk zeigt auf die Regierung, Trump weist alles zurück. Jetzt verlangen zwei demokratische Senatoren die Dokumente bis zum 30.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/7/1/8/shutterstock_2239007757-e51ebb5cc292277c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
           "title": "3 Milliarden Euro Schaden: Wie KI Ladendiebe überführen soll",
@@ -114,7 +114,7 @@
           "summary": "Organisierte Banden verursachen allein eine Milliarde Euro Schaden. KI-Kameras sollen helfen, doch die DSGVO setzt enge Grenzen.",
           "source": "Telepolis",
           "paywall": false,
-          "image": null
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/0/8/7/8/ladendiebstahl-02-bcfa356e1fa79039.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
