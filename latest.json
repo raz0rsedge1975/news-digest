@@ -1,36 +1,7 @@
 {
-  "generated": "2026-11-15T23:02:19.364Z",
-  "timestamp": "16.11.2026, 00:02:19",
+  "generated": "2026-11-16T03:01:46.884Z",
+  "timestamp": "16.11.2026, 04:01:46",
   "news": [
-    {
-      "source": "FAZ",
-      "headlines": [
-        {
-          "title": "Ex-Finanzminister: „Ich wollte noch mal voll einsteigen“",
-          "url": "https://www.faz.net/aktuell/finanzen/joerg-kukies-vom-finanzminister-zurueck-in-die-finanzwelt-201670432.html",
-          "summary": "Der frühere Finanzminister Jörg Kukies hat bei einer Investmentbank angeheuert. Hier spricht er über sein Leben in der Politik und seine Rückkehr in die Finanzwelt.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Altersvorsorge-Rechner: Mehrere Hundert Euro pro Monat Unterschied im Ruhestand möglich",
-          "url": "https://www.faz.net/aktuell/finanzen/lohnt-das-altersvorsorgedepot-im-vergleich-zum-etf-201652753.html",
-          "summary": "Bald können die Deutschen in staatlich geförderte Depots investieren. Ein F.A.S.-Rechner zeigt, ob das wirklich besser ist als ein gewöhnlicher ETF-Sparplan.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Geldanlage: So investieren Sie in Börsenstars vor allen anderen",
-          "url": "https://www.faz.net/aktuell/finanzen/vor-dem-boersengang-in-anthropic-investieren-so-geht-es-accg-201318375.html",
-          "summary": "Unternehmen wie Anthropic gewinnen vor einem Börsengang am meisten an Wert. Da wäre man als Anleger gern dabei. Hier kommen drei Wege, wie das gelingt.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        }
-      ]
-    },
     {
       "source": "Spiegel",
       "headlines": [
@@ -39,8 +10,8 @@
           "url": "https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss",
           "summary": "Vor allem in Deutschland sinkt die Lesekompetenz drastisch, zeigen Studien. Der Sprachpsychologe Falk Huettig erklärt, warum Jugendliche Bücher meiden und das sogar ihr Denkvermögen gefährden kann.",
           "source": "Spiegel",
-          "paywall": false,
-          "image": null
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/835dce43-8c9c-48f2-974a-28b9e52dffd9_w1200_r1.778_fpx50_fpy40.jpg"
         },
         {
           "title": "X von Elon Musk: Die Zone, die Donald Trumps Jünger mit Shit fluteten, war ihr eigener Garten",
@@ -64,25 +35,25 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
+          "url": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
+          "summary": "In Antalya geht die Weltklimakonferenz in die entscheidende Phase: Die Ministerinnen und Minister kommen. Für Bundesumweltminister Schneider gibt es viel zu tun - und Erfolg dürfte wohl auch von Geldzusagen abhängen. Von J. Schreiber.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
           "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
           "summary": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7157fc29-5e0c-4186-94a6-0076a2abc558/AAABoeDP9zc/AAABnSSvrFg/16x9-big/eisenkot-netanjahu-102.jpg?width=1280"
+          "image": null
         },
         {
           "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
           "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
           "summary": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äußerte er sich. Offen ließ Heil, mit welcher Frau er kandidieren will.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/f962e541-2509-42bb-a115-4ea9044ea8ec/AAABoeA8Lts/AAABnSSvrFg/16x9-big/sendungsbild-1827956.jpg?width=1280"
-        },
-        {
-          "title": "Hunderte Flüchtlinge auf Kanaren angekommen",
-          "url": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
-          "summary": "500 Migranten haben innerhalb eines Tages die kanarischen Inseln erreicht - eine Rekordzahl. Besonders angespannt ist die Lage auf der kleinen Insel El Hierro. Der Präsident der Kanaren forderte Hilfen aus Madrid ein.",
           "source": "Tagesschau",
           "paywall": false,
           "image": null
