@@ -1,36 +1,7 @@
 {
-  "generated": "2026-11-16T07:00:30.943Z",
-  "timestamp": "16.11.2026, 08:00:30",
+  "generated": "2026-11-16T11:01:38.990Z",
+  "timestamp": "16.11.2026, 12:01:38",
   "news": [
-    {
-      "source": "FAZ",
-      "headlines": [
-        {
-          "title": "Bedrohte Golfstaaten: Gefangen in einer Grauzone zwischen Krieg und Frieden",
-          "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-golfstaaten-sich-unabhaengig-von-der-strasse-von-hormus-machen-wollen-accg-201679277.html",
-          "summary": "Die Vereinigten Arabischen Emirate rüsten sich für Zeiten der Unruhe. Die Zusammenarbeit mit den Nachbarn wird durch Konflikte und Eigeninteressen erschwert.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Liveblog Nahost: Dritter US-Flugzeugträger erreicht Nahen Osten",
-          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-jemenitische-armee-zieht-sich-von-bab-al-mandab-zurueck-faz-200583539.html",
-          "summary": "Die „USS Theodore Roosevelt“ verstärkt die Präsenz des US-Militärs +++ Jemenitische Armee zieht sich von Bab al-Mandab zurück +++ Iran greift US-Stützpunkt in Bahrain an +++ alle Entwicklungen im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "F.A.Z. Frühdenker: Strebt Schwesig nach einem SPD-Amt in Berlin?",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/strebt-manuela-schwesig-nach-einem-spd-amt-in-berlin-faz-fruehdenker-201685915.html",
-          "summary": "Manuela Schwesig wird in Mecklenburg-Vorpommern als SPD-Ministerpräsidentin wiedergewählt, bleibt sie in Schwerin? Merz besucht Söder in München, und Klopps Nationalelf spielt gegen die Niederlande. Frühdenker.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/87808d44c0b6/w6000h3135x0y281o/202611/6c019440-040e-4929-823b-2082480db43e/manuela-schwesig-spricht-bei.webp"
-        }
-      ]
-    },
     {
       "source": "Spiegel",
       "headlines": [
@@ -43,20 +14,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/8a81b3d8-5ca6-4d9d-ad47-a3df35195ed3_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "News: Friedrich Merz besucht CSU, Hubertus Heil will Lars Klingbeil ablösen, Anthropic geht an die Börse",
-          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss",
-          "summary": "Der Kanzler reist nach München zu den Mütterfreunden von der CSU. Hubertus Heil will Lars Klingbeil als SPD-Chef ablösen. Und der Anthropic-Börsengang ist so verlockend wie risikoreich. Das ist die Lage am Montagmorgen.",
+          "title": "Russland: Mehrheit in Deutschland sieht das Land von Wladimir Putin als Bedrohung",
+          "url": "https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung-a-71c19f83-d3b0-48e1-b4c1-348f660ff2ab#ref=rss",
+          "summary": "Wie umgehen mit Wladimir Putin? Ein Großteil der Deutschen befürwortet ein schärferes Vorgehen gegen Russland. Das zeigt der SPIEGEL-Ipsos-Politikmonitor. Angst vor einem Krieg hat besonders eine Altersgruppe.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d47ac094-e09f-49dc-a60a-898a2e03b896_w1200_r1.778_fpx53_fpy44.86.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/fb69e0e1-9f86-4fde-b5e4-f57c20d51476_w1200_r1.778_fpx51_fpy38.jpg"
         },
         {
-          "title": "Nvidia-Affäre: Handelsminister Lutnick gerät in Spionage- und Sexaffäre unter Druck",
+          "title": "Nvidia: US-Handelsminister Howard Lutnick gerät in Spionage- und Sexaffäre unter Druck",
           "url": "https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss",
           "summary": "Howard Lutnick hätte Chipexporte nach China stoppen können. Stattdessen hofierte er Nvidia-Boss Jensen Huang. Sogar Republikaner üben nun scharfe Kritik am Handelsminister: »Köpfe müssen rollen.",
           "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/31b0cf9a-50d7-424d-9b09-ab574c484880_w1200_r1.778_fpx65.39_fpy54.97.jpg"
+          "paywall": false,
+          "image": null
         }
       ]
     },
@@ -64,28 +35,57 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
-          "summary": "Techmilliardär Musks Starlink-Netzwerk dominiert, aber Amazon will ihm Konkurrenz machen. Nun muss das Unternehmen von Jeff Bezos aber einen Rückschlag hinnehmen - und der könnte langfristige Folgen haben.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/c7c89c37-e4fe-49cb-b6ed-85722cd70b68/AAABoeMKW94/AAABnSSvrFg/16x9-big/vulcan-rakete-104.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Setzt der DAX die Rekordjagd fort?",
+          "title": "Marktbericht: Anleger bleiben vor Nvidia-Bilanz vorsichtig",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
-          "summary": "In der vergangenen Woche übersprang der DAX erstmals die 27. 000er-Marke und schaffte ein starkes Wochenplus. Ob der deutsche Leitindex die Rekordjagd fortsetzt, könnte auch am Chipkonzern Nvidia hängen.",
+          "summary": "Das Thema Nvidia bleibt auch in der neuen Woche aktuell: Bevor der Chipkonzern am Dienstag seine Bilanz vorstellt, könnten die Investoren zurückhaltend bleiben. Zum Wochenstart rührt sich der DAX bisher kaum.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/637010d4-8a67-4354-8847-b316454ab453/AAABocSOaSA/AAABnSSvrFg/16x9-big/boerse-572.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1280"
         },
         {
-          "title": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
-          "url": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
-          "summary": "In Estland ist die Empörung groß: Ab Dezember sollen Grenzübergänge zu Russland dichtgemacht werden. Hintergrund ist ein versuchter Anschlag auf ein Rüstungsunternehmen - das war nicht der erste Vorfall. Von Christian Stichler.",
+          "title": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
+          "url": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
+          "summary": "Sie können selbstständig Ziele auswählen und Menschen töten: In Genf verhandeln heute 130 Staaten über internationale Regeln für autonome Waffensysteme - auch \"Killerroboter\" genannt. Von Sandra Biegger.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4f60a995-0503-464d-81f1-03b438486062/AAABoeL92W0/AAABnSSvrFg/16x9-big/narva-estland-grenzuebergang-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1280"
+        },
+        {
+          "title": "Söder hält Stromsteuersenkung doch noch für möglich",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
+          "summary": "Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/ca4aa1b0-8301-4ef3-ab6d-932ee4364e56/AAABoJpbmPk/AAABnSSvrFg/16x9-big/soeder-merz-122.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Chinas neues Anti-Korruptionsgesetz: Peking strebt Waffengleichheit an",
+          "url": "https://www.telepolis.de/article/Chinas-neues-Anti-Korruptionsgesetz-Peking-strebt-Waffengleichheit-an-11525313.html",
+          "summary": "China hat ein Gesetz gegen grenzüberschreitende Korruption auf den Weg gebracht, das die Ermittlungsbefugnisse ausländischer Behörden in China einschränkt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Claudia Roths Entdeckung ihrer wahren Empfindungen",
+          "url": "https://www.telepolis.de/article/Claudia-Roths-Entdeckung-ihrer-wahren-Empfindungen-11525801.html",
+          "summary": "Claudia Roth blickt auf ihre Kulturpolitik zurück und erhebt Vorwürfe. Ihre eigene Verantwortung kommt dabei zu kurz, meint unser Autor. Ein Kommentar.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Bossware: Wie dein Arbeitgeber dich über Teams und Co. überwachen kann",
+          "url": "https://www.telepolis.de/article/Bossware-Wie-dein-Arbeitgeber-dich-ueber-Teams-und-Co-ueberwachen-kann-11522762.html",
+          "summary": "Zutrittskarte, Telefon, Ticketsystem – zusammengeführt ergeben sie ein Profil. Datenschutzbehörden verhängen Bußgelder, doch ein eigenes Gesetz fehlt.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": null
         }
       ]
     },
@@ -93,25 +93,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Bundespolitik: Heil: Würde als SPD-Chef Klingbeil in Bundesregierung belassen",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-heil-spd-vorsitz-klingbeil-li.3580621",
-          "summary": "Heil will sich dem Amt des Parteivorsitzenden „voll und ganz“ widmen. Bundeskanzler Merz nimmt an diesem Montag an einer Sitzung des CSU-Präsidiums teil.",
+          "title": "Immobilien der „Babyboomer“: Mehr Wohnraum – aber nicht da, wo man ihn dringend braucht",
+          "url": "https://www.sueddeutsche.de/bayern/babyboomer-immobilien-bayern-silver-tsunami-wohnungsnot-li.3577595",
+          "summary": "Viele „Babyboomer“ werden in den nächsten Jahren ihre Wohnungen und Häuser freimachen. Löst dieser „Silver Tsunami“ die Wohnungsnot in Bayern? Leider nur bedingt, sagt eine neue Studie.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "BND-Affäre: Wie die Geheimnisse aus der Geheimdienstzentrale verschwanden",
-          "url": "https://www.sueddeutsche.de/politik/bnd-manfred-d-august-hanning-dokumentendiebstahl-geheimdienst-li.3580228",
-          "summary": "hat vier BND-Präsidenten als Büroleiter gedient. Nun wird ihm vorgeworfen, weit mehr als 2000 streng vertrauliche Dokumente aus dem Bundesnachrichtendienst geschmuggelt zu haben. Er soll dafür Chauffeure, Leibwächter und seine Privilegien benutzt haben.",
+          "title": "England in der Nations League: Tuchel bejubelt den „Statement-Sieg“",
+          "url": "https://www.sueddeutsche.de/sport/england-nations-league-tuchel-spanien-li.3581042",
+          "summary": "Ein Spiel wie ein Thronsturz: Englands Nationalteam gewinnt 3:2 bei Welt- und Europameister Spanien – und erfreut sich an den Fortschritten unter dem deutschen Trainer.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Bundestrainer Jürgen Klopp: Gut gelaunt ins erste kleine Endspiel",
-          "url": "https://www.sueddeutsche.de/sport/klopp-bundestrainer-niederlande-nations-league-li.3580854",
-          "summary": "Gruppensieg? Abstiegsrunde? Gegen die Niederlande steht für die DFB-Elf nicht wenig auf dem Spiel: Jürgen Klopp versucht, Vorfreude zu verbreiten – harsche Worte gegen Fifa-Boss Infantino und schwarzer Humor inklusive.",
+          "title": "Konzert in der Olympiahalle: Letzte Fragen und milde Antworten – so war Bob Dylan in München",
+          "url": "https://www.sueddeutsche.de/muenchen/bob-dylan-konzert-muenchen-tour-kritik-olympiahalle-li.3578420",
+          "summary": "Bob Dylan spielt mit seiner tollen Band in der Münchner Olympiahalle und hat – wie gewohnt – keine Lust, Erwartungen zu erfüllen. Metaphysische Erkenntnisse gibt’s natürlich trotzdem.",
           "source": "SZ",
           "paywall": false,
           "image": null
