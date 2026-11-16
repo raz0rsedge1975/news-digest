@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-16T15:01:45.657Z",
-  "timestamp": "16.11.2026, 16:01:45",
+  "generated": "2026-11-16T19:00:08.549Z",
+  "timestamp": "16.11.2026, 20:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Automobilindustrie: Tesla investiert drei Milliarden Euro in Grünheide",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-investiert-drei-milliarden-euro-in-gigafactory-gruenheide-accg-201687612.html",
-          "summary": "Der Elektrowagenhersteller Tesla baut sein Werk in Grünheide aus. Die Investitionen des Konzerns in Brandenburg insgesamt steigen damit auf zehn Milliarden Dollar.",
+          "title": "Förderung von Solar: 50 Milliarden Euro Mehrkosten für Ökostrom befürchtet",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eeg-reform-spd-setzt-solarfoerderung-durch-wissenschaft-warnt-vor-50-milliarden-euro-mehrkosten-201686626.html",
+          "summary": "Die Förderung kleiner Solaranlagen wird auf Drängen der SPD und anders als ursprünglich geplant wohl bleiben. Dafür setzt sich die Union offenbar beim Biogas durch. Für den Steuerzahler kann das teuer werden.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/cff11e872b10/w4656h2432x0y220o/202605/43601.0.2041650288/streitobjekt-neue-solaranlagen.webp"
         },
         {
-          "title": "Flottengrenzwerte: Die Zukunft der Autoindustrie entscheidet sich nicht am Verbrenner",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektromobilitaet-warum-deutschlands-autoindustrie-jetzt-handeln-muss-201672721.html",
-          "summary": "Wer Autos für die Wachstumsmärkte auf der Welt bauen will, muss in Elektromobilität investieren. Für Batteriefabriken wäre auch eine vorübergehende Förderung der Betriebskosten denkbar.",
+          "title": "Regierungspläne: Wie die Koalition die Stromversorgung teurer machen könnte",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eeg-reform-drohen-durch-biogas-foerderung-50-milliarden-euro-mehrkosten-201688005.html",
+          "summary": "Diese Regierung war angetreten, die Förderkosten zu senken. Allein für Biogas sollen jetzt aber 50 Milliarden Euro zusätzlich gezahlt werden. Noch ist es nicht zu spät. Ein Aufruf von 26 namhaften Ökonomen.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/caff5dea75a3/w3000h1567x0y90o/202507/43601.0.1182099438/sollen-weiter-gefoerdert.webp"
         },
         {
-          "title": "Schwesig gewählt: Mit Grünen, Linken und Gott in eine neue Amtszeit",
-          "url": "https://www.faz.net/aktuell/politik/inland/manuela-schwesig-zum-dritten-mal-zur-ministerpraesidentin-gewaehlt-accg-201687059.html",
-          "summary": "Manuela Schwesigs neue Koalition wird von drei Frauen geführt. Die AfD ist die einzige Opposition und will einen Pandemie-Ausschuss einsetzen.",
+          "title": "Solar und Biogas: Kungelei um Energiepolitik",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/energiewende-wie-union-und-spd-ihre-klientel-bedienen-201687322.html",
+          "summary": "Der Klimaschutz erfordert eine möglichst kostengünstige Energiewende. Die ist in Deutschland nicht in Sicht, weil Union und SPD ihre Klientel bedienen.",
           "source": "FAZ",
           "paywall": false,
-          "image": null
+          "image": "https://media0.faz.net/image/w1200h627/4b4b07879d66/w6144h3210x0y444o/202611/960d3313-1db2-43c0-b1e3-d32aa41c39de/ein-einfamilienhaus-mit.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Schleswig-Holstein: Tanja K. ist seit 20 Monaten verschwunden – Spur führt zum Mann",
-          "url": "https://www.spiegel.de/panorama/justiz/schleswig-holstein-tanja-k-ist-seit-20-monaten-verschwunden-spur-fuehrt-zum-mann-a-17aa9e4c-23f7-4c2b-98d2-268b12451341#ref=rss",
-          "summary": "An einem Freitag im März 2025 kommt Tanja K. abends nach Hause, danach wird sie nie mehr gesehen. Wegen Totschlags steht ihr Mann bald vor Gericht. Aber es gibt keine Leiche.",
-          "source": "Spiegel",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Tesla will Milliardensumme für Robotaxi-Bau in Deutschland investieren",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss",
-          "summary": "Elon Musks Elektroautounternehmen hat angekündigt, sein Werk in Brandenburg für drei Milliarden Euro zu vergrößern. Ministerpräsident Woidke jubelt. Künftig sollen in Grünheide Cybercabs gebaut werden.",
-          "source": "Spiegel",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Mecklenburg-Vorpommern: Manuela Schwesig erneut zur Ministerpräsidentin gewählt",
-          "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-erneut-zur-ministerpraesidentin-gewaehlt-a-223a2d1e-3809-43fb-977a-73be20bcfac9#ref=rss",
-          "summary": "SPD, Linke und Grüne haben dem Koalitionsvertrag zugestimmt, nun folgte die Wahl der Ministerpräsidentin im Landtag von Mecklenburg-Vorpommern. Manuela Schwesig erhielt alle Stimmen ihrer Koalition.",
+          "title": "SPIEGEL Buchpreis 2026: Tony Tulathimutte gewinnt mit »Fiasko«",
+          "url": "https://www.spiegel.de/kultur/literatur/spiegel-buchpreis-2026-tony-tulathimutte-gewinnt-mit-fiasko-a-b382b96a-2de3-4f73-b844-1a2fc003570d#ref=rss",
+          "summary": "Zum zweiten Mal wird in Hamburg der SPIEGEL Buchpreis vergeben. Die Auszeichnung geht an den thai-amerikanischen Schriftsteller Tony Tulathimutte. Die Jury sieht in seinem Buch »Fiasko« eine scharfsinnige Zeitdiagnose.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/65d91158-b455-4cde-9615-06aaad6da57a_w1200_r1.778_fpx49_fpy44.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/6649bd86-98ca-4dee-aa0a-cd3cd97d3b61_w1200_r1.778_fpx50_fpy45.jpg"
+        },
+        {
+          "title": "SPIEGEL Buchpreis 2026: Laudatio von Eva Horn auf Tony Tulathimutte",
+          "url": "https://www.spiegel.de/kultur/spiegel-buchpreis-2026-laudatio-von-eva-horn-auf-tony-tulathimutte-a-ed3a89cb-83bd-48c8-9941-fb2c87837c31#ref=rss",
+          "summary": "Jury-Mitglied Eva Horn über Tony Tulathimutte. Die Laudatio.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/d9d392c8-dfd2-4e22-bdf4-865ce196d5ba_w1200_r1.778_fpx48.03_fpy54.97.jpg"
+        },
+        {
+          "title": "News des Tages: Schwesig zögert, Dobrindt plant Ruanda-Abkommen, DFB-Team im Umbruch",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-schwesig-zoegert-dobrindt-plant-ruanda-abkommen-dfb-team-im-umbruch-a-5dd9ac8a-06e6-4cb0-8777-2172ec7f3c0f#ref=rss",
+          "summary": "Die SPD zittert vor einer Schwesig-Absage. Alexander Dobrindt treibt seinen Ruanda-Plan voran. Und: Deutschland spielt zum letzten Mal in drei Streifen. Das ist die Lage am Montagabend.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/cd5b3994-3d49-40f2-a476-23e858800cb8_w1200_r1.778_fpx66.52_fpy49.98.jpg"
         }
       ]
     },
@@ -64,28 +64,57 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Die EU will europäischen Stahl konkurrenzfähig machen",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
-          "summary": "Die EU möchte dafür sorgen, dass hiesige Stahlkonzerne es leichter haben gegen die Übermacht aus China. Dafür werden inzwischen einige Maßnahmen ergriffen. Doch reichen sie aus? Von Jean-Marie Magro.",
+          "title": "Marktbericht: DAX bleibt nahe Rekordhoch",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+          "summary": "Zum Wochenauftakt fällt der DAX moderat. Er bleibt aber nah an seinem Rekordhoch. Investoren warten vor allem die Nvidia-Bilanz ab. Außerdem sorgen sie sich um eine Zinserhöhung in den USA.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/72af3683-d702-4d29-8859-9af005ee8767/AAABnydqa8I/AAABnSSvrFg/16x9-big/stahl-228.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/637010d4-8a67-4354-8847-b316454ab453/AAABocSOaSA/AAABnSSvrFg/16x9-big/boerse-572.jpg?width=1280"
         },
         {
-          "title": "Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis",
-          "url": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
-          "summary": "Strom ist für die Stahlindustrie ein entscheidender Faktor: Beim Stahlgipfel in Salzgitter forderte die Branche deshalb einen verlässlichen Strompreis. Bundeswirtschaftsministerin Reiche verwies auf bereits Erreichtes.",
+          "title": "Deutschland will die eigene Stahlindustrie erhalten - zu welchem Preis?",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/wohin-steuert-die-stahlindustrie-gipfeltreffen-100.html",
+          "summary": "Deutschland ohne eigene Stahlindustrie - das würde nicht nur weniger Jobs, sondern auch die komplette Abhängigkeit von Importen bedeuten. Doch die Branche setzt auf Grünen Stahl, und genau das könnte zum Problem werden. Ortmann und T.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/7a89b885-1389-4d23-a857-9b6c21415167/AAABoeUSmac/AAABnSSvrFg/16x9-big/stahlarbeiter-120.jpg?width=1280"
         },
         {
-          "title": "Depardieu akzeptiert Belästigungsurteil und bittet um Entschuldigung",
-          "url": "https://www.tagesschau.de/ausland/europa/depardieu-belaestigung-urteil-entschuldigung-100.html",
-          "summary": "Seit Jahren werfen Frauen dem Schauspieler Depardieu sexuelle Übergriffe und Gewalt vor. Der 77-Jährige hat sich nie einsichtig gezeigt - bis jetzt. Schon nächste Woche steht für Depardieu der nächste Gerichtstermin an.",
+          "title": "Robert Pattinson wird neuer James Bond - Nachfolge von Daniel Craig",
+          "url": "https://www.tagesschau.de/kultur/james-bond-robert-pattinson-100.html",
+          "summary": "Unter Experten war er als heißer Favorit gehandelt worden. Nun steht es auch offiziell fest: Robert Pattinson wird neuer 007. Der nächste James-Bond-Film wird der erste unter der Federführung von Amazon.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3b031111-b28f-41e9-bbdf-37338d62d3df/AAABoeSbmAw/AAABnSSvrFg/16x9-big/depardieu-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/eae6fe04-b756-497b-af5e-4e6ecdb8f66f/AAABoeU7Cjk/AAABnSSvrFg/16x9-big/pattinson-122.jpg?width=1280"
+        }
+      ]
+    },
+    {
+      "source": "Telepolis",
+      "headlines": [
+        {
+          "title": "Heisenberg 2.0: Regensburger Forscher weisen erstmals Raum-Zeit-Unschärfe nach",
+          "url": "https://www.telepolis.de/article/Heisenberg-2-0-Regensburger-Forscher-weisen-erstmals-Raum-Zeit-Unschaerfe-nach-11525345.html",
+          "summary": "Was Heisenberg für Ort und Impuls zeigte, gilt auch für Ort und Zeit: Forscher belegen erstmals die Raum-Zeit-Unschärfe – mit Folgen für Elektronik und Chemie.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/7/0/7/Brad_Baxley__parttowhole.com_-84e83d9fef6cccf6.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Frankreich: Erodiert die Demokratie?",
+          "url": "https://www.telepolis.de/article/Frankreich-Erodiert-die-Demokratie-11526534.html",
+          "summary": "Die französische Regierung reagiert mit Härte auf die Proteste. Ihr Vorgehen wirft eine Frage auf: Wie belastbar sind die Grundrechte? Eine Analyse.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/2/3/0/9/Master_Andreas-f2c0d7f699dc64a5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "Sachsen-Anhalt: AfD und BSW lehnen Digitalen Medien-Staatsvertrag ab",
+          "url": "https://www.telepolis.de/article/Sachsen-Anhalt-AfD-und-BSW-lehnen-Digitalen-Medien-Staatsvertrag-ab-11526394.html",
+          "summary": "Im Medienausschuss setzen beide Parteien ihre Ablehnung durch. Sie verlangen Rundfunkreformen – blockieren damit aber auch neue Regeln für digitale Medien.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/2/2/3/6/Master_Landtag_Sachsen-Anhalt-b551477912c2b1b9.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -93,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Justizreform: Heillos überlastete Strafgerichte sind eine Gefahr fürs Land",
-          "url": "https://www.sueddeutsche.de/meinung/reform-strafrecht-kommentar-justiz-stefanie-hubig-gerichtsprozesse-deutschland-li.3581018",
-          "summary": "Verfahren sind zu lang und zu teuer. Gut, dass die Justizministerin etwas dagegen tun will. Leider denkt die von ihr eingesetzte Kommission vor allem ans Sparen. Das wichtigste Mittel wäre ein anderes.",
+          "title": "Chipkonzern: Jensen Huang spricht über Rückkehr an Nvidia-Spitze",
+          "url": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-affaere-rueckkehr-chef-li.3580971",
+          "summary": "Der zurückgetretene Firmenchef galt bis zu seinem Abgang als nahezu unersetzlich bei Nvidia. Nun gibt es einem Bericht zufolge Bestrebungen, ihn wieder einzusetzen. Aber wie soll das funktionieren?",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
-          "url": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
-          "summary": "Mehr als 40 Rennen, rund 20 Weltcup-Stationen und eine WM: Die neue Ski-Alpin-Saison startet Ende Oktober in Sölden. Wir geben einen Überblick, wann wo welcher Wettbewerb stattfindet.",
+          "title": "Robert Pattinson als James Bond: Man darf sich jetzt erst mal freuen",
+          "url": "https://www.sueddeutsche.de/kultur/james-bond-robert-pattinson-casting-einordnung-li.3581549",
+          "summary": "So berühmt war vorab kein anderer Bond-Darsteller: Robert Pattinson wird der neue 007. Warum die Wahl des 40-jährigen Briten überraschend und logisch zugleich ist.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Nvidia: Jensen Huang als Nachfolger von Jensen Huang, das wäre die schlechteste Lösung",
-          "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-kommentar-kuenstliche-intelligenz-chipindustrie-li.3581071",
-          "summary": "Der zurückgetretene Chef hat Nvidia groß und erfolgreich gemacht. Doch jetzt ist er seiner Hybris erlegen und hat schwere Fehler gemacht. Die Firma muss trotzdem gerettet werden, mit funktionierendem Management.",
+          "title": "Krieg in der Ukraine: Kreml: Keine Zustimmung für Teilnahme Europas an Ukraine-Gesprächen",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kreml-europa-verhandlungen-li.3571967",
+          "summary": "Ein wichtiger Berater des russischen Präsidenten Putin widerspricht Äußerungen von US-Unterhändlern, wonach Moskau zu einer Einbindung Europas bereit sei. Die EU-Außenminister stimmen für neue Sanktionen.",
           "source": "SZ",
           "paywall": false,
           "image": null
