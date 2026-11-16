@@ -1,33 +1,62 @@
 {
-  "generated": "2026-11-16T11:01:38.990Z",
-  "timestamp": "16.11.2026, 12:01:38",
+  "generated": "2026-11-16T15:01:45.657Z",
+  "timestamp": "16.11.2026, 16:01:45",
   "news": [
+    {
+      "source": "FAZ",
+      "headlines": [
+        {
+          "title": "Automobilindustrie: Tesla investiert drei Milliarden Euro in Grünheide",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-investiert-drei-milliarden-euro-in-gigafactory-gruenheide-accg-201687612.html",
+          "summary": "Der Elektrowagenhersteller Tesla baut sein Werk in Grünheide aus. Die Investitionen des Konzerns in Brandenburg insgesamt steigen damit auf zehn Milliarden Dollar.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Flottengrenzwerte: Die Zukunft der Autoindustrie entscheidet sich nicht am Verbrenner",
+          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/elektromobilitaet-warum-deutschlands-autoindustrie-jetzt-handeln-muss-201672721.html",
+          "summary": "Wer Autos für die Wachstumsmärkte auf der Welt bauen will, muss in Elektromobilität investieren. Für Batteriefabriken wäre auch eine vorübergehende Förderung der Betriebskosten denkbar.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Schwesig gewählt: Mit Grünen, Linken und Gott in eine neue Amtszeit",
+          "url": "https://www.faz.net/aktuell/politik/inland/manuela-schwesig-zum-dritten-mal-zur-ministerpraesidentin-gewaehlt-accg-201687059.html",
+          "summary": "Manuela Schwesigs neue Koalition wird von drei Frauen geführt. Die AfD ist die einzige Opposition und will einen Pandemie-Ausschuss einsetzen.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        }
+      ]
+    },
     {
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Vermögen und Einkommen: Wie reich Sie wirklich sind? Finden wir es heraus",
-          "url": "https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus-a-762ac689-da1b-4816-89f0-436c71cd2389#ref=rss",
-          "summary": "Geld ist nicht alles: Wenn es um Vermögen geht, spielen noch ganz andere Kriterien eine Rolle. Ob Sie in Deutschland als reich gelten und wie Sie im Vergleich mit anderen dastehen, erfahren Sie mit unserem interaktiven Rechner.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/8a81b3d8-5ca6-4d9d-ad47-a3df35195ed3_w1200_r1.778_fpx50_fpy50.png"
-        },
-        {
-          "title": "Russland: Mehrheit in Deutschland sieht das Land von Wladimir Putin als Bedrohung",
-          "url": "https://www.spiegel.de/politik/deutschland/russland-mehrheit-in-deutschland-sieht-das-land-von-wladimir-putin-als-bedrohung-a-71c19f83-d3b0-48e1-b4c1-348f660ff2ab#ref=rss",
-          "summary": "Wie umgehen mit Wladimir Putin? Ein Großteil der Deutschen befürwortet ein schärferes Vorgehen gegen Russland. Das zeigt der SPIEGEL-Ipsos-Politikmonitor. Angst vor einem Krieg hat besonders eine Altersgruppe.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/fb69e0e1-9f86-4fde-b5e4-f57c20d51476_w1200_r1.778_fpx51_fpy38.jpg"
-        },
-        {
-          "title": "Nvidia: US-Handelsminister Howard Lutnick gerät in Spionage- und Sexaffäre unter Druck",
-          "url": "https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss",
-          "summary": "Howard Lutnick hätte Chipexporte nach China stoppen können. Stattdessen hofierte er Nvidia-Boss Jensen Huang. Sogar Republikaner üben nun scharfe Kritik am Handelsminister: »Köpfe müssen rollen.",
+          "title": "Schleswig-Holstein: Tanja K. ist seit 20 Monaten verschwunden – Spur führt zum Mann",
+          "url": "https://www.spiegel.de/panorama/justiz/schleswig-holstein-tanja-k-ist-seit-20-monaten-verschwunden-spur-fuehrt-zum-mann-a-17aa9e4c-23f7-4c2b-98d2-268b12451341#ref=rss",
+          "summary": "An einem Freitag im März 2025 kommt Tanja K. abends nach Hause, danach wird sie nie mehr gesehen. Wegen Totschlags steht ihr Mann bald vor Gericht. Aber es gibt keine Leiche.",
           "source": "Spiegel",
           "paywall": false,
           "image": null
+        },
+        {
+          "title": "Tesla will Milliardensumme für Robotaxi-Bau in Deutschland investieren",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-investiert-milliardensumme-fuer-robotaxi-bau-in-deutschland-a-65132952-1c63-4862-b2ce-f82c5def838f#ref=rss",
+          "summary": "Elon Musks Elektroautounternehmen hat angekündigt, sein Werk in Brandenburg für drei Milliarden Euro zu vergrößern. Ministerpräsident Woidke jubelt. Künftig sollen in Grünheide Cybercabs gebaut werden.",
+          "source": "Spiegel",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Mecklenburg-Vorpommern: Manuela Schwesig erneut zur Ministerpräsidentin gewählt",
+          "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-erneut-zur-ministerpraesidentin-gewaehlt-a-223a2d1e-3809-43fb-977a-73be20bcfac9#ref=rss",
+          "summary": "SPD, Linke und Grüne haben dem Koalitionsvertrag zugestimmt, nun folgte die Wahl der Ministerpräsidentin im Landtag von Mecklenburg-Vorpommern. Manuela Schwesig erhielt alle Stimmen ihrer Koalition.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/65d91158-b455-4cde-9615-06aaad6da57a_w1200_r1.778_fpx49_fpy44.jpg"
         }
       ]
     },
@@ -35,57 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: Anleger bleiben vor Nvidia-Bilanz vorsichtig",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
-          "summary": "Das Thema Nvidia bleibt auch in der neuen Woche aktuell: Bevor der Chipkonzern am Dienstag seine Bilanz vorstellt, könnten die Investoren zurückhaltend bleiben. Zum Wochenstart rührt sich der DAX bisher kaum.",
+          "title": "Die EU will europäischen Stahl konkurrenzfähig machen",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahl-eu-china-massnahmen-100.html",
+          "summary": "Die EU möchte dafür sorgen, dass hiesige Stahlkonzerne es leichter haben gegen die Übermacht aus China. Dafür werden inzwischen einige Maßnahmen ergriffen. Doch reichen sie aus? Von Jean-Marie Magro.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2609e1b0-d1f0-4c7b-b37c-1557eb7b88f2/AAABn8telGg/AAABnSSvrFg/16x9-big/boerse-536.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/72af3683-d702-4d29-8859-9af005ee8767/AAABnydqa8I/AAABnSSvrFg/16x9-big/stahl-228.jpg?width=1280"
         },
         {
-          "title": "UN verhandeln Regeln zum Einsatz autonomer Waffensysteme",
-          "url": "https://www.tagesschau.de/ausland/europa/vereinte-nationen-autonome-waffensysteme-100.html",
-          "summary": "Sie können selbstständig Ziele auswählen und Menschen töten: In Genf verhandeln heute 130 Staaten über internationale Regeln für autonome Waffensysteme - auch \"Killerroboter\" genannt. Von Sandra Biegger.",
+          "title": "Stahlgipfel in Salzgitter: Unternehmen fordern Entlastung beim Strompreis",
+          "url": "https://www.tagesschau.de/wirtschaft/stahlgipfel-klimawandel-produktion-100.html",
+          "summary": "Strom ist für die Stahlindustrie ein entscheidender Faktor: Beim Stahlgipfel in Salzgitter forderte die Branche deshalb einen verlässlichen Strompreis. Bundeswirtschaftsministerin Reiche verwies auf bereits Erreichtes.",
           "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ffa06e13-d57b-4235-a827-ba7b899299a2/AAABoeOz20A/AAABnSSvrFg/16x9-big/autonome-waffe-100.jpg?width=1280"
-        },
-        {
-          "title": "Söder hält Stromsteuersenkung doch noch für möglich",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-soeder-stromsteuer-moeglich-koalition-muetterrente-100.html",
-          "summary": "Morgen ist die umstrittene Stromsteuer Thema im Koalitionsausschuss. CSU-Chef Söder glaubt noch an eine Einigung und nennt Möglichkeiten, die Milliarden für eine Senkung aufzutreiben. An ein Thema will er aber nicht ran.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ca4aa1b0-8301-4ef3-ab6d-932ee4364e56/AAABoJpbmPk/AAABnSSvrFg/16x9-big/soeder-merz-122.jpg?width=1280"
-        }
-      ]
-    },
-    {
-      "source": "Telepolis",
-      "headlines": [
-        {
-          "title": "Chinas neues Anti-Korruptionsgesetz: Peking strebt Waffengleichheit an",
-          "url": "https://www.telepolis.de/article/Chinas-neues-Anti-Korruptionsgesetz-Peking-strebt-Waffengleichheit-an-11525313.html",
-          "summary": "China hat ein Gesetz gegen grenzüberschreitende Korruption auf den Weg gebracht, das die Ermittlungsbefugnisse ausländischer Behörden in China einschränkt.",
-          "source": "Telepolis",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Claudia Roths Entdeckung ihrer wahren Empfindungen",
-          "url": "https://www.telepolis.de/article/Claudia-Roths-Entdeckung-ihrer-wahren-Empfindungen-11525801.html",
-          "summary": "Claudia Roth blickt auf ihre Kulturpolitik zurück und erhebt Vorwürfe. Ihre eigene Verantwortung kommt dabei zu kurz, meint unser Autor. Ein Kommentar.",
-          "source": "Telepolis",
+          "title": "Depardieu akzeptiert Belästigungsurteil und bittet um Entschuldigung",
+          "url": "https://www.tagesschau.de/ausland/europa/depardieu-belaestigung-urteil-entschuldigung-100.html",
+          "summary": "Seit Jahren werfen Frauen dem Schauspieler Depardieu sexuelle Übergriffe und Gewalt vor. Der 77-Jährige hat sich nie einsichtig gezeigt - bis jetzt. Schon nächste Woche steht für Depardieu der nächste Gerichtstermin an.",
+          "source": "Tagesschau",
           "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Bossware: Wie dein Arbeitgeber dich über Teams und Co. überwachen kann",
-          "url": "https://www.telepolis.de/article/Bossware-Wie-dein-Arbeitgeber-dich-ueber-Teams-und-Co-ueberwachen-kann-11522762.html",
-          "summary": "Zutrittskarte, Telefon, Ticketsystem – zusammengeführt ergeben sie ein Profil. Datenschutzbehörden verhängen Bußgelder, doch ein eigenes Gesetz fehlt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/3b031111-b28f-41e9-bbdf-37338d62d3df/AAABoeSbmAw/AAABnSSvrFg/16x9-big/depardieu-120.jpg?width=1280"
         }
       ]
     },
@@ -93,25 +93,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Immobilien der „Babyboomer“: Mehr Wohnraum – aber nicht da, wo man ihn dringend braucht",
-          "url": "https://www.sueddeutsche.de/bayern/babyboomer-immobilien-bayern-silver-tsunami-wohnungsnot-li.3577595",
-          "summary": "Viele „Babyboomer“ werden in den nächsten Jahren ihre Wohnungen und Häuser freimachen. Löst dieser „Silver Tsunami“ die Wohnungsnot in Bayern? Leider nur bedingt, sagt eine neue Studie.",
+          "title": "Justizreform: Heillos überlastete Strafgerichte sind eine Gefahr fürs Land",
+          "url": "https://www.sueddeutsche.de/meinung/reform-strafrecht-kommentar-justiz-stefanie-hubig-gerichtsprozesse-deutschland-li.3581018",
+          "summary": "Verfahren sind zu lang und zu teuer. Gut, dass die Justizministerin etwas dagegen tun will. Leider denkt die von ihr eingesetzte Kommission vor allem ans Sparen. Das wichtigste Mittel wäre ein anderes.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "England in der Nations League: Tuchel bejubelt den „Statement-Sieg“",
-          "url": "https://www.sueddeutsche.de/sport/england-nations-league-tuchel-spanien-li.3581042",
-          "summary": "Ein Spiel wie ein Thronsturz: Englands Nationalteam gewinnt 3:2 bei Welt- und Europameister Spanien – und erfreut sich an den Fortschritten unter dem deutschen Trainer.",
+          "title": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
+          "url": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
+          "summary": "Mehr als 40 Rennen, rund 20 Weltcup-Stationen und eine WM: Die neue Ski-Alpin-Saison startet Ende Oktober in Sölden. Wir geben einen Überblick, wann wo welcher Wettbewerb stattfindet.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Konzert in der Olympiahalle: Letzte Fragen und milde Antworten – so war Bob Dylan in München",
-          "url": "https://www.sueddeutsche.de/muenchen/bob-dylan-konzert-muenchen-tour-kritik-olympiahalle-li.3578420",
-          "summary": "Bob Dylan spielt mit seiner tollen Band in der Münchner Olympiahalle und hat – wie gewohnt – keine Lust, Erwartungen zu erfüllen. Metaphysische Erkenntnisse gibt’s natürlich trotzdem.",
+          "title": "Nvidia: Jensen Huang als Nachfolger von Jensen Huang, das wäre die schlechteste Lösung",
+          "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-jensen-huang-kommentar-kuenstliche-intelligenz-chipindustrie-li.3581071",
+          "summary": "Der zurückgetretene Chef hat Nvidia groß und erfolgreich gemacht. Doch jetzt ist er seiner Hybris erlegen und hat schwere Fehler gemacht. Die Firma muss trotzdem gerettet werden, mit funktionierendem Management.",
           "source": "SZ",
           "paywall": false,
           "image": null
