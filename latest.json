@@ -1,33 +1,62 @@
 {
-  "generated": "2026-11-16T03:01:46.884Z",
-  "timestamp": "16.11.2026, 04:01:46",
+  "generated": "2026-11-16T07:00:30.943Z",
+  "timestamp": "16.11.2026, 08:00:30",
   "news": [
+    {
+      "source": "FAZ",
+      "headlines": [
+        {
+          "title": "Bedrohte Golfstaaten: Gefangen in einer Grauzone zwischen Krieg und Frieden",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-die-golfstaaten-sich-unabhaengig-von-der-strasse-von-hormus-machen-wollen-accg-201679277.html",
+          "summary": "Die Vereinigten Arabischen Emirate rüsten sich für Zeiten der Unruhe. Die Zusammenarbeit mit den Nachbarn wird durch Konflikte und Eigeninteressen erschwert.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Liveblog Nahost: Dritter US-Flugzeugträger erreicht Nahen Osten",
+          "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-jemenitische-armee-zieht-sich-von-bab-al-mandab-zurueck-faz-200583539.html",
+          "summary": "Die „USS Theodore Roosevelt“ verstärkt die Präsenz des US-Militärs +++ Jemenitische Armee zieht sich von Bab al-Mandab zurück +++ Iran greift US-Stützpunkt in Bahrain an +++ alle Entwicklungen im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "F.A.Z. Frühdenker: Strebt Schwesig nach einem SPD-Amt in Berlin?",
+          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/strebt-manuela-schwesig-nach-einem-spd-amt-in-berlin-faz-fruehdenker-201685915.html",
+          "summary": "Manuela Schwesig wird in Mecklenburg-Vorpommern als SPD-Ministerpräsidentin wiedergewählt, bleibt sie in Schwerin? Merz besucht Söder in München, und Klopps Nationalelf spielt gegen die Niederlande. Frühdenker.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/87808d44c0b6/w6000h3135x0y281o/202611/6c019440-040e-4929-823b-2082480db43e/manuela-schwesig-spricht-bei.webp"
+        }
+      ]
+    },
     {
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Lesen: Warum Jugendliche Bücher meiden und ihr Denken leidet",
-          "url": "https://www.spiegel.de/wissenschaft/lesen-warum-jugendliche-buecher-meiden-und-ihr-denken-leidet-a-ab18da3b-3fae-403a-87c7-a7b77c40cb03#ref=rss",
-          "summary": "Vor allem in Deutschland sinkt die Lesekompetenz drastisch, zeigen Studien. Der Sprachpsychologe Falk Huettig erklärt, warum Jugendliche Bücher meiden und das sogar ihr Denkvermögen gefährden kann.",
+          "title": "Vermögen und Einkommen: Wie reich Sie wirklich sind? Finden wir es heraus",
+          "url": "https://www.spiegel.de/wirtschaft/service/vermoegen-und-einkommen-wie-reich-sie-wirklich-sind-finden-wir-es-heraus-a-762ac689-da1b-4816-89f0-436c71cd2389#ref=rss",
+          "summary": "Geld ist nicht alles: Wenn es um Vermögen geht, spielen noch ganz andere Kriterien eine Rolle. Ob Sie in Deutschland als reich gelten und wie Sie im Vergleich mit anderen dastehen, erfahren Sie mit unserem interaktiven Rechner.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/835dce43-8c9c-48f2-974a-28b9e52dffd9_w1200_r1.778_fpx50_fpy40.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8a81b3d8-5ca6-4d9d-ad47-a3df35195ed3_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "X von Elon Musk: Die Zone, die Donald Trumps Jünger mit Shit fluteten, war ihr eigener Garten",
-          "url": "https://www.spiegel.de/kultur/x-von-elon-musk-die-zone-die-donald-trumps-juenger-mit-shit-fluteten-war-ihr-eigener-garten-a-20633e1f-eaca-4127-af23-0ef57a0bf4de#ref=rss",
-          "summary": "Als Tesla-Chef Elon Musk Twitter kaufte und zu einem Naherholungsgebiet für Nationalisten umbaute, jubelte das Trump-Lager. Dann wiederholten die Rechten den Fehler der Linken: Sie vergaßen die echte Welt.",
+          "title": "News: Friedrich Merz besucht CSU, Hubertus Heil will Lars Klingbeil ablösen, Anthropic geht an die Börse",
+          "url": "https://www.spiegel.de/politik/deutschland/news-friedrich-merz-besucht-csu-hubertus-heil-will-lars-klingbeil-abloesen-anthropic-geht-an-die-boerse-a-1e22ff34-6373-4a3f-a6f3-aec46134b9ea#ref=rss",
+          "summary": "Der Kanzler reist nach München zu den Mütterfreunden von der CSU. Hubertus Heil will Lars Klingbeil als SPD-Chef ablösen. Und der Anthropic-Börsengang ist so verlockend wie risikoreich. Das ist die Lage am Montagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a83c8620-793d-4e48-a46b-5fdd1424e3cf_w1200_r1.778_fpx51.01_fpy50.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d47ac094-e09f-49dc-a60a-898a2e03b896_w1200_r1.778_fpx53_fpy44.86.jpg"
         },
         {
-          "title": "Russland: Ukraine schießt großes Industriegebiet in Brand",
-          "url": "https://www.spiegel.de/wirtschaft/ukraine-schiesst-grosses-russisches-industriegebiet-in-brand-a-6fbf0df7-642d-47c8-a121-4f68d281d873#ref=rss",
-          "summary": "Angriffsdrohnen haben ein wichtiges russisches Industriegebiet 1000 Kilometer östlich von Moskau getroffen. US-Präsident Trump bereitet sich derweil auf einen Gipfel mit Putin und Xi vor. Mit bei der Reise: Elon Musk.",
+          "title": "Nvidia-Affäre: Handelsminister Lutnick gerät in Spionage- und Sexaffäre unter Druck",
+          "url": "https://www.spiegel.de/ausland/nvidia-affaere-handelsminister-lutnick-geraet-in-spionage-und-sexaffaere-unter-druck-a-d5a8dd06-a4ad-4dae-a33c-fb6a530f956a#ref=rss",
+          "summary": "Howard Lutnick hätte Chipexporte nach China stoppen können. Stattdessen hofierte er Nvidia-Boss Jensen Huang. Sogar Republikaner üben nun scharfe Kritik am Handelsminister: »Köpfe müssen rollen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/fdcfeef1-eaa1-4d39-94a7-30814891f004_w1200_r1.778_fpx31.87_fpy50.98.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/31b0cf9a-50d7-424d-9b09-ab574c484880_w1200_r1.778_fpx65.39_fpy54.97.jpg"
         }
       ]
     },
@@ -35,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
-          "url": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html",
-          "summary": "In Antalya geht die Weltklimakonferenz in die entscheidende Phase: Die Ministerinnen und Minister kommen. Für Bundesumweltminister Schneider gibt es viel zu tun - und Erfolg dürfte wohl auch von Geldzusagen abhängen. Von J. Schreiber.",
+          "title": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
+          "summary": "Techmilliardär Musks Starlink-Netzwerk dominiert, aber Amazon will ihm Konkurrenz machen. Nun muss das Unternehmen von Jeff Bezos aber einen Rückschlag hinnehmen - und der könnte langfristige Folgen haben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/c7c89c37-e4fe-49cb-b6ed-85722cd70b68/AAABoeMKW94/AAABnSSvrFg/16x9-big/vulcan-rakete-104.jpg?width=1280"
         },
         {
-          "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
-          "summary": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen.",
+          "title": "Marktbericht: Setzt der DAX die Rekordjagd fort?",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+          "summary": "In der vergangenen Woche übersprang der DAX erstmals die 27. 000er-Marke und schaffte ein starkes Wochenplus. Ob der deutsche Leitindex die Rekordjagd fortsetzt, könnte auch am Chipkonzern Nvidia hängen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/637010d4-8a67-4354-8847-b316454ab453/AAABocSOaSA/AAABnSSvrFg/16x9-big/boerse-572.jpg?width=1280"
         },
         {
-          "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
-          "summary": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äußerte er sich. Offen ließ Heil, mit welcher Frau er kandidieren will.",
+          "title": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
+          "url": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html",
+          "summary": "In Estland ist die Empörung groß: Ab Dezember sollen Grenzübergänge zu Russland dichtgemacht werden. Hintergrund ist ein versuchter Anschlag auf ein Rüstungsunternehmen - das war nicht der erste Vorfall. Von Christian Stichler.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": null
+          "image": "https://images.tagesschau.de/image/4f60a995-0503-464d-81f1-03b438486062/AAABoeL92W0/AAABnSSvrFg/16x9-big/narva-estland-grenzuebergang-100.jpg?width=1280"
         }
       ]
     },
@@ -64,25 +93,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Bundespolitik: Heil: Würde als SPD-Chef Klingbeil in Bundesregierung belassen",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-heil-spd-vorsitz-klingbeil-li.3580621",
+          "summary": "Heil will sich dem Amt des Parteivorsitzenden „voll und ganz“ widmen. Bundeskanzler Merz nimmt an diesem Montag an einer Sitzung des CSU-Präsidiums teil.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "BND-Affäre: Wie die Geheimnisse aus der Geheimdienstzentrale verschwanden",
+          "url": "https://www.sueddeutsche.de/politik/bnd-manfred-d-august-hanning-dokumentendiebstahl-geheimdienst-li.3580228",
+          "summary": "hat vier BND-Präsidenten als Büroleiter gedient. Nun wird ihm vorgeworfen, weit mehr als 2000 streng vertrauliche Dokumente aus dem Bundesnachrichtendienst geschmuggelt zu haben. Er soll dafür Chauffeure, Leibwächter und seine Privilegien benutzt haben.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Bundestrainer Jürgen Klopp: Gut gelaunt ins erste kleine Endspiel",
           "url": "https://www.sueddeutsche.de/sport/klopp-bundestrainer-niederlande-nations-league-li.3580854",
           "summary": "Gruppensieg? Abstiegsrunde? Gegen die Niederlande steht für die DFB-Elf nicht wenig auf dem Spiel: Jürgen Klopp versucht, Vorfreude zu verbreiten – harsche Worte gegen Fifa-Boss Infantino und schwarzer Humor inklusive.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Getötete Lisa T.: Ein Dorf wird angegriffen",
-          "url": "https://www.sueddeutsche.de/panorama/lisa-t-altglietzen-brandenburg-entfuehrung-trauergottesdienst-li.3579868",
-          "summary": "Eine 13-Jährige wird verschleppt, man findet sie tot in einem Dorf in Brandenburg. Die Anteilnahme ist riesig, doch dann beginnen Schuldzuweisungen an die Dorfbewohner.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "NFL in München: Football-Fans übernehmen Münchens Wirtshäuser und die Fußball-Arena",
-          "url": "https://www.sueddeutsche.de/muenchen/nfl-muenchen-american-football-detroit-lions-new-england-patriots-li.3578833",
-          "summary": "Blaue Löwen-Dirndl, selbst komponierte Lieder vor dem Stadion, Gronk-Trikots – und schließlich eine einseitige Partie: Der NFL-Besuch hat München fest im Griff.",
           "source": "SZ",
           "paywall": false,
           "image": null
