@@ -1,10 +1,18 @@
 {
-  "generated": "2026-11-17T07:00:08.184Z",
-  "timestamp": "17.11.2026, 08:00:08",
+  "generated": "2026-11-17T11:00:08.737Z",
+  "timestamp": "17.11.2026, 12:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "5:0 gegen die Niederlande: Weltklasse ist vor allem die Idee",
+          "url": "https://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/klopp-fussball-was-das-5-0-gegen-die-niederlande-moeglich-machte-201690055.html",
+          "summary": "Wie aus Zweiflern Glaubende werden: Jürgen Klopp verpasst der Nationalmannschaft in Rekordzeit seinen Markenkern.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/6c813e5381cb/w2898h1514x377y59o/202611/54795a2d-f771-40c1-ae59-8fc1e6bb5d45/ein-herz-und-eine-seele.webp"
+        },
         {
           "title": "5:0 gegen Niederlande: Das Feuer des Klopp-Fußballs",
           "url": "https://www.faz.net/aktuell/sport/fussball/deutschland-besiegt-niederlande-5-0-das-feuer-des-klopp-fussballs-201305749.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/a2b8c682951e/w6144h3210x0y215o/202611/07d9aabe-f814-46d5-82f5-2bf712eeebb6/traf-gleich-zweimal-florian.webp"
         },
         {
-          "title": "Fußball-Liveblog: Niederlande-Coach nach 0:5-Debakel: „Das ist ein Schock“",
-          "url": "https://www.faz.net/aktuell/sport/fussball/liveticker-nationalmannschaft-0-5-schock-fuer-niederlande-coach-xavi-faz-201651368.html",
-          "summary": "Verfolgen Sie die Fußball-Nationalmannschaft von Jürgen Klopp und Spiele der UEFA Nations League ▷ Alle aktuellen Ergebnisse im Liveblog!",
+          "title": "Teileinsturz: Nun ist Putins Brücke eingestürzt – zumindest teilweise",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/kertsch-bruecke-nach-ukrainenangriff-teilweise-eingestuerzt-accg-201689956.html",
+          "summary": "Ein ukrainischer Angriff zerstört den Bogen der Kertsch-Straßenbrücke. Moskau schweigt zunächst zu dem Schlag auf Putins Prestigeprojekt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/df99fc9d415f/w1783h931x62y135o/202611/431d3964-7b42-47af-863c-1fb4e126a0d0/bondscoach-xavi-hern-ndez-kann.webp"
-        },
-        {
-          "title": "Pressestimmen: „Klopp demütigt Xavi“: Medien begeistert von Deutschland",
-          "url": "https://www.faz.net/aktuell/sport/fussball/juergen-klopp-demuetigt-xavi-medien-nach-5-0-von-deutschland-gegen-niederlande-accg-201689847.html",
-          "summary": "Ein 5:0-Sieg, doch noch der Gruppensieg in der Nations League und ein Platz im Viertelfinale der Nations League: Deutschlands Auftritt gegen die Niederlande sorgt international für große Schlagzeilen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/cde634c41c69/w2843h1485x438y199o/202611/fe771bd6-4727-49eb-946d-b5f5e2c75222/bundestrainer-juergen-klopp.webp"
+          "image": "https://media0.faz.net/image/w1200h627/923d32786181/w719h375x0y321o/202611/beb85c62-854b-47a6-bedd-62d12c5c22e8/ein-screenshot-eines-vom.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Deutsche Bank: Datenleak \"Inside Deutsche Bank\" enthüllt dunkle Geheimnisse",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-datenleak-inside-deutsche-bank-enthuellt-dunkle-geheimnisse-a-088e254f-17a3-4855-9869-39206c702fee#ref=rss",
-          "summary": "Ein beispielloses Datenleck erlaubt tiefe Einblicke ins Innere der wichtigsten Bank des Landes. Deutsche Politiker und russische Oligarchen, Donald Trump und Jeffrey Epstein – sie alle tauchen darin auf. Und damit auch ihre teils schmutzigen Finanzgeheimnisse.",
+          "title": "Deutsche Bank: Wie Donald Trump für das Geldhaus zum toxischen Kunden wurde",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-wie-donald-trump-fuer-das-geldhaus-zum-toxischen-kunden-wurde-a-097e000b-733c-4f40-94d2-2f46931cc20d#ref=rss",
+          "summary": "Die Deutsche Bank war lange Donald Trumps wichtigster Kreditgeber. Als Unternehmer war er ein Risiko. Als Präsident wurde er zum Problem.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/40a50f69-56aa-44cd-928e-cc6b2fe8317a_w1200_r1.778_fpx53_fpy60.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/18658404-875e-43c4-ab46-b30a94519007_w1200_r1.778_fpx49_fpy32.png"
         },
         {
-          "title": "News: Koalitionsausschuss und Stromsteuer, Opfer und Kosten des Klimawandels, SPIEGEL Buchpreis 2026 an Tony Tulathimutte",
-          "url": "https://www.spiegel.de/politik/deutschland/news-koalitionsausschuss-und-stromsteuer-opfer-und-kosten-des-klimawandels-spiegel-buchpreis-2026-an-tony-tulathimutte-a-3178b21e-b95a-4538-bf34-bfe0c3e5c8e6#ref=rss",
-          "summary": "Die Senkung der Stromsteuer würde Merz entlasten. Der Klimawandel hat jetzt schon Hunderttausende das Leben gekostet. Und der SPIEGEL hat seinen diesjährigen Buchpreis verliehen. Das ist die Lage am Dienstagmorgen.",
+          "title": "Russland: Regierung beruft offenbar nach Angriff auf Krimbrücke Krisensitzung ein",
+          "url": "https://www.spiegel.de/ausland/russland-regierung-beruft-offenbar-nach-angriff-auf-krimbruecke-krisensitzung-ein-a-cf3b4538-0f83-46a7-a649-3bca14b7af2e#ref=rss",
+          "summary": "Der ukrainische Präsident Selenskyj bestätigt, dass ein Angriff seines Militärs die Krimbrücke teilweise zerstört hat. Moskau spricht von »kleineren Schäden« und hat einen Krisenrat einberufen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/be6c4b0f-48af-496e-bdcf-c964b8f43bae_w1200_r1.778_fpx65.31_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a2e732d6-016a-43ca-aba5-ebb4a28c68c3_w1200_r1.778_fpx52.32_fpy54.96.jpg"
         },
         {
-          "title": "Klimakrise: Extremwetter forderte seit 1996 mehr als 900.000 Todesopfer",
-          "url": "https://www.spiegel.de/wissenschaft/klimakrise-extremwetter-forderte-seit-1996-mehr-als-900-000-todesopfer-a-5729e7d1-7d52-4611-b870-0abbf11c3116#ref=rss",
-          "summary": "Ärmere Länder sind am stärksten von Wetterextremen betroffen. Doch auch Italien, Frankreich und Spanien gehören laut Germanwatch zu den größten Leidtragenden. Selbst Deutschland zählt zum oberen Viertel.",
+          "title": "Jeffrey Epstein: US-Rechtsmediziner Michael Freeman geht von Tötung aus",
+          "url": "https://www.spiegel.de/ausland/jeffrey-epstein-us-rechtsmediziner-michael-freeman-geht-von-toetung-aus-a-b6641a74-cc88-4b0b-b4a8-572e1859518b#ref=rss",
+          "summary": "Der Sexualstraftäter Jeffrey Epstein kam 2019 durch Selbstmord ums Leben – so lautete das Ergebnis der Autopsie. Der US-Forensiker Michael Freeman hat die Unterlagen nun erneut durchgesehen. Und widerspricht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3273283f-f5c7-4ec8-950d-76060595c9b4_w1200_r1.778_fpx66.64_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/46ab18ee-e873-4f19-b722-65ad0eb0e101_w1200_r1.778_fpx37.5_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ausnahmezustand in Guatemala - Regierung setzt Militär gegen Drogenbanden ein",
-          "url": "https://www.tagesschau.de/ausland/amerika/guatemala-drogen-militaer-100.html",
-          "summary": "Teile Guatemalas sind zunehmend im Griff von Drogenbanden. Die Regierung verhängte den Ausnahmezustand und schickte das Militär in die betroffene Region. Die USA setzten ein Millionen-Kopfgeld aus.",
+          "title": "Züge in Prag zusammengestoßen - Über 40 Verletzte bei Kollision auf Brücke",
+          "url": "https://www.tagesschau.de/ausland/europa/tschechien-zug-unglueck-100.html",
+          "summary": "In der tschechischen Hauptstadt Prag sind zwei Personenzüge auf einer Brücke zusammengestoßen. Dutzende Menschen wurden verletzt. Der Verkehrsminister spricht von einem \"sehr ernsten Ereignis\".",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fa4bfb73-9617-4e6a-8da2-c65b74b116e2/AAABoehBKzM/AAABnSSvrFg/16x9-big/guatemala-262.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4ec95225-ab70-4252-a8c9-8d0006a97ada/AAABoej5mho/AAABnSSvrFg/16x9-big/prag-rettungskraefte-zugunglueck-100.jpg?width=1280"
         },
         {
-          "title": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-212.html",
-          "summary": "Trotz US-Vermittlungen gehen die Angriffe weiter: Russland meldet einen Angriff auf die Krim-Brücke, auch in Kiew wurden zwei Brücken getroffen. In der Region Saporischschja sind die Rettungsarbeiten nach einem der folgenschwersten Angriffe beendet.",
+          "title": "Australische Regierung verschärft Auflagen für \"Work and Travel\"",
+          "url": "https://www.tagesschau.de/ausland/ozeanien/australien-backpaper-landwirtschaft-visa-100.html",
+          "summary": "Wer als Backpacker länger in Australien bleiben will, muss künftig mehr Zeit auf dem Land arbeiten. Die Regierung hat angekündigt, die Vorgaben für das sogenannte Working-Holiday-Visum zu verschärfen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/49570c7e-ecbd-4a26-8ec8-2373a3ab7064/AAABnxLFUqY/AAABnSSvrFg/16x9-big/karte-ukraine-frontverlaeufe-2188.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/d63065cb-9f7f-47da-b6b3-439de8b65681/AAABoejSCiE/AAABnSSvrFg/16x9-big/backpacker-unterkunft-100.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: KI-Kursrutsch dürfte auch den DAX belasten",
+          "title": "Marktbericht: DAX-Rückschlag vor Nvidia-Zahlen",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-dow-nvidia-100.html",
-          "summary": "Neue US-Exportbeschränkungen für KI-Chips und die Krise rund um Nvidia drücken auf die Stimmung am Aktienmarkt. Der DAX dürfte mit Verlusten in den neuen Handelstag starten.",
+          "summary": "Die Unsicherheiten in der Tech-Branche machen die Anleger nervös. Vor den Quartalszahlen von Nvidia fahren die Anleger ihre Risiken zurück. Im Fokus stehen aber neue Vorwürfe gegen die Deutsche Bank.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/b19e9d58-9935-4067-a655-d494e13c64cc/AAABn1pWFaE/AAABnSSvrFg/16x9-big/boerse-522.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/623e331e-6913-4630-b0aa-bd45003fc6c7/AAABoKO-QqQ/AAABnSSvrFg/16x9-big/boerse-542.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Nvidia: Der Kult um Jensen Huang wird zum Risiko für den Konzern",
-          "url": "https://www.telepolis.de/article/Nvidia-Der-Kult-um-Jensen-Huang-wird-zum-Risiko-fuer-den-Konzern-11527067.html",
-          "summary": "Nach Huangs Rücktritt fordern über 180. 000 Menschen sein Comeback. Doch Nvidia fehlt, was Apple und Amazon hatten: eine aufgebaute Nummer zwei.",
+          "title": "Das Wettrüsten mit Hyperschallraketen ist Geldverschwendung für die USA",
+          "url": "https://www.telepolis.de/article/Das-Wettruesten-mit-Hyperschallraketen-ist-Geldverschwendung-fuer-die-USA-11525593.html",
+          "summary": "Washingtons bestehende Waffensysteme seien mehr als ausreichend, um Bedrohungen für amerikanische Interessen zu begegnen, sagen Experten.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/2/5/7/6/shutterstock_2321347737-3dbea2a438176d3d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/8/3/1/Flying_Camera_cropped-5fc3f87841ea3660.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Heisenberg 2.0: Regensburger Forscher weisen erstmals Raum-Zeit-Unschärfe nach",
-          "url": "https://www.telepolis.de/article/Heisenberg-2-0-Regensburger-Forscher-weisen-erstmals-Raum-Zeit-Unschaerfe-nach-11525345.html",
-          "summary": "Was Heisenberg für Ort und Impuls zeigte, gilt auch für Ort und Zeit: Forscher belegen erstmals die Raum-Zeit-Unschärfe – mit Folgen für Elektronik und Chemie.",
+          "title": "Deutschland als Reparaturbetrieb: Wo bleibt das Ziel?",
+          "url": "https://www.telepolis.de/article/Deutschland-als-Reparaturbetrieb-Wo-bleibt-das-Ziel-11527051.html",
+          "summary": "Schulden steigen, Sozialbeiträge auch. Die Wirtschaftsweisen schlagen Reformen vor. Doch die Frage nach dem gesellschaftlichen Ziel bleibt offen. Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/7/0/7/Brad_Baxley__parttowhole.com_-84e83d9fef6cccf6.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/2/5/6/8/Master_Rieg-6573e86c31120345.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
         },
         {
-          "title": "Frankreich: Erodiert die Demokratie?",
-          "url": "https://www.telepolis.de/article/Frankreich-Erodiert-die-Demokratie-11526534.html",
-          "summary": "Die französische Regierung reagiert mit Härte auf die Proteste. Ihr Vorgehen wirft eine Frage auf: Wie belastbar sind die Grundrechte? Eine Analyse.",
+          "title": "Verluste im Ukraine-Krieg: Finnische Studie widerspricht westlichen Zahlen",
+          "url": "https://www.telepolis.de/article/Verluste-im-Ukraine-Krieg-Finnische-Studie-widerspricht-westlichen-Zahlen-11525871.html",
+          "summary": "Forscher Alexander Grable sieht ukrainische Verluste höher und russische niedriger als bisher angenommen. Das hätte weitreichende Folgen für Europas Sicherheit.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/2/3/0/9/Master_Andreas-f2c0d7f699dc64a5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/1/9/7/2/waage-3d-schwer3-9069fe64e84562f3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Stimmen zum deutschen 5:0: „Klopp demütigt Xavi“",
-          "url": "https://www.sueddeutsche.de/sport/pressestimmen-deutschland-niederlande-li.3581736",
-          "summary": "Die internationale Presse reagiert mit Anerkennung und historischen Vergleichen auf Deutschlands Sieg gegen die Niederlande. Ein Überblick.",
+          "title": "Krieg in der Ukraine: Krim-Brücke nach Angriff teilweise eingestürzt",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krim-bruecke-einsturz-li.3571967",
+          "summary": "Die strategisch wichtige Brücke zwischen dem russischen Festland und der annektierten Halbinsel ist immer wieder Ziel von Angriffen. Jetzt meldet der ukrainische Präsident Selenskij einen Erfolg.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "USA: Neue US-Einschränkungen für Export von KI-Chips",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-china-export-handel-lutnick-bessent-trump-halbleiter-nvidia-li.3578585",
-          "summary": "Die USA wollen China bei der Entwicklung von KI bremsen. Deshalb verschärft die Trump-Regierung nun die Regeln für den Export von KI-Chips in bestimmte Länder. Allerdings scheint man sich intern nicht einig zu sein.",
+          "title": "Nach Tod von Hubert Aiwanger: „Ist doch selbstverständlich, dass alle zu seiner Beisetzung kommen dürfen“",
+          "url": "https://www.sueddeutsche.de/bayern/aiwanger-beisetzung-rottenburg-schweiger-li.3581026",
+          "summary": "Mehr als 1100 Menschen haben in München Abschied von Hubert Aiwanger genommen. Nun steht die Beisetzung in seiner niederbayerischen Heimat an. Und seine Partnerin Tanja Schweiger spricht eine ungewöhnliche Einladung aus.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "5:0 gegen die Niederlande: Renaissance der Nationalelf",
-          "url": "https://www.sueddeutsche.de/sport/deutschland-niederlande-klopp-niederlande-li.3581646",
-          "summary": "Fünf Traumtore zum Jahresabschluss: Nach dem WM-Frust zeigt das DFB-Team unter dem neuen Bundestrainer Jürgen Klopp gegen die Niederlande das beste Spiel seit Jahren.",
+          "title": "Wahlkampf in Frankreich: Laut wird es, als Le Pen ihre autoritäre Seite zeigt",
+          "url": "https://www.sueddeutsche.de/politik/praesidentschaftswahl-frankreich-2027-marine-le-pen-jean-luc-melenchon-tv-debatte-duell-li.3581314",
+          "summary": "In einer TV-Debatte vor den Präsidentschaftswahlen in Frankreich streiten fünf Kandidaten über den Kampf gegen die Armut. Die Favoritin der extremen Rechten will seriös wirken, verliert aber nach zwei Stunden ihre Beherrschung.",
           "source": "SZ",
           "paywall": false,
           "image": null
