@@ -1,10 +1,18 @@
 {
-  "generated": "2026-11-17T19:00:10.523Z",
-  "timestamp": "17.11.2026, 20:00:10",
+  "generated": "2026-11-17T23:00:07.656Z",
+  "timestamp": "18.11.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Chipkonzern: Nvidia: Jensen Huang kommt nicht zurück",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-ruecktritt-nvidia-gruender-huang-erwaegt-rueckkehr-auf-ceo-posten-201692517.html",
+          "summary": "Der ehemalige Vorstandschef bringt sich für ein Comeback ins Gespräch, aber Nvidia weist das deutlich zurück. Derweil legt der Chipkonzern einmal mehr glänzende Geschäftsergebnisse vor.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/81c640ac1cf5/w3714h1940x0y120o/202611/0cec7382-56b1-4e96-ba14-036c1f8e8d73/ich-uebernehme-die-volle.webp"
+        },
         {
           "title": "Krim-Brücke: Ein empfindlicher Treffer gegen Putin",
           "url": "https://www.faz.net/aktuell/politik/ukraine/angriff-auf-die-krim-bruecke-was-der-treffer-fuer-putin-bedeutet-201691161.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/3287b94bd210/w719h375x0y289o/202611/beb85c62-854b-47a6-bedd-62d12c5c22e8/ein-screenshot-eines-vom.webp"
         },
         {
-          "title": "Liveblog Ukrainekrieg: Rutte nennt Angriff auf Krim-Brücke „unvermeidlich“",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-rutte-nennt-angriff-auf-krim-bruecke-unvermeidlich-faz-110683325.html",
-          "summary": "NATO-Generalsekretär spricht von legitimem Verteidigungsmanöver +++ Selenskyj bestätigt teilweisen Einsturz der Krim-Brücke +++ Pistorius kündigt Kauf von US-Flugabwehrwaffen an +++ alle Neuigkeiten im Liveblog",
+          "title": "Liveblog Ukrainekrieg: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ziemlich-dumm-pistorius-verurteilt-us-kritik-an-ukraine-faz-110683325.html",
+          "summary": "Stattdessen solle man über die terroristischen Angriffe Russlands sprechen, so der Verteidigungsminister +++ NATO-Generalsekretär nennt Angriff auf Krim-Brücke „unvermeidlich“ +++ Selenskyj bestätigt teilweisen Einsturz der Krim-Brücke +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8296821acd89/w5569h2909x0y112o/202611/532e14a7-5f0a-440f-ab96-04a79bf2e1e0/nato-generalsekretaer-mark.webp"
-        },
-        {
-          "title": "Teileinsturz: Nun ist Putins Brücke eingestürzt – zumindest teilweise",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/kertsch-bruecke-nach-ukrainenangriff-teilweise-eingestuerzt-accg-201689956.html",
-          "summary": "Ein ukrainischer Angriff zerstört den Bogen der Kertsch-Straßenbrücke. Moskau schweigt zunächst zu dem Schlag auf Putins Prestigeprojekt.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/7d81b0a53cdf/w3500h1828x0y70o/202611/fbcd744a-3825-4a2f-a490-5bec69ff4367/ein-video-der-ukrainischen.webp"
+          "image": "https://media0.faz.net/image/w1200h627/a963e0f6747e/w5425h2834x0y244o/202611/7d7764fc-fb49-4b18-9310-16a5d4dbd126/boris-pistorius-spd.webp"
         }
       ]
     },
@@ -35,20 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Ruanda-Deal: Dieser Mann kann kein Partner sein – Meinung",
-          "url": "https://www.spiegel.de/ausland/ruanda-deal-dieser-mann-kann-kein-partner-sein-meinung-a-d9d38003-6d8b-4488-ac12-5d5ea4dbee87#ref=rss",
-          "summary": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda schicken. Möglich, dass die Gerichte diese Idee durchwinken. Beschämend ist die Aufwertung des Autokraten dennoch.",
+          "title": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-wie-sich-der-deutsche-bank-chef-an-die-spitze-kaempfte-a-89df9ba3-c6d1-4ebf-b75d-b353e5066448#ref=rss",
+          "summary": "Das Datenleck bei der Deutschen Bank enthüllt, wie sich Konzernchef Christian Sewing an die Spitze kämpfte. Aus einem Mann, der einst streng auf das Einhalten von Regeln achtete, ist ein Manager geworden, den Vorschriften nerven.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0012ce32-f2de-4079-bd86-653aaf923595_w1200_r1.778_fpx69.98_fpy50.98.jpg"
-        },
-        {
-          "title": "Jeffrey Epstein: Interne Unterlagen belasten Deutsche Bank mit weiteren Zahlungen",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/jeffrey-epstein-interne-unterlagen-belasten-deutsche-bank-mit-weiteren-zahlungen-a-7055c4a4-a3ac-41f8-a1f7-e6312c13abb3#ref=rss",
-          "summary": "Interne Unterlagen zeigen: Die Deutsche Bank hat deutlich mehr Zahlungen für Jeffrey Epstein abgewickelt als bekannt – weil sie auf hohe Millionengewinne spekulierte. Ein Dokument warnt vor weiteren Fällen von dem »Ausmaß«.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a48a532a-249e-4fcd-a79a-364fb0d2a841_w1200_r1.778_fpx53_fpy43.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/8587b94b-96e3-4386-bac0-4f9a43e8e574_w1200_r1.778_fpx45_fpy55.png"
         },
         {
           "title": "News des Tages: Deutsche Bank, Angriff auf die Krimbrücke, Glücksatlas",
@@ -57,6 +49,14 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+        },
+        {
+          "title": "Nvidia: Warum die Tech-Bosse Jensen Huangs Rückkehr fordern",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-warum-die-tech-bosse-jensen-huangs-rueckkehr-fordern-a-7c966f6a-6430-47e6-b5f4-edb6202a2617#ref=rss",
+          "summary": "Mehr als 190. 000 Menschen haben eine Onlinepetition für die Rückkehr von Jensen Huang zu Nvidia unterschrieben. Viele Chefs von Techkonzernen sind dabei, auch aus eigenem Interesse.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/62d0360c-ab5c-48fe-b19a-d5045ceffd1e_w1200_r1.778_fpx50.67_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "USA gelten nicht mehr als masernfrei",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html",
-          "summary": "Mehr als ein Vierteljahrhundert lang galten die USA als masernfreies Land. Diesen Status haben die Vereinigten Staaten jetzt verloren. Immer wieder kommt es zu großen Ausbrüchen der hochansteckenden Krankheit.",
+          "title": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
+          "url": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
+          "summary": "Nach der ukrainischen Attacke auf die Krim-Brücke kritisierten die USA Kiews Angriffe - ohne Russlands Zerstörung ziviler Ziele in der Ukraine zu erwähnen. Verteidigungsminister Pistorius reagierte mit deutlichen Worten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e9bcc301-ee22-4e55-8e78-f56685a80555/AAABoerBVTs/AAABnSSvrFg/16x9-big/masern-usa-116.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8d26065e-8c5a-4733-94a5-aa434470a50f/AAABoetiVP4/AAABnSSvrFg/16x9-big/pistorius-nato-102.jpg?width=1280"
         },
         {
-          "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
-          "summary": "Der wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetretene Chef des US-Chipkonzerns Nvidia hat gravierende Fehler eingeräumt. Doch sollte der Vorstand das wünschen, würde er gerne an die Unternehmensspitze zurückkehren.",
+          "title": "Sozialproteste in Frankreich reißen nicht ab",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
+          "summary": "Wieder gab es in Frankreich Streiks und Demonstrationen für höhere Gehälter und bessere Bildungsbedingungen. Bei der Zahl der Teilnehmer unterschieden sich die Angaben deutlich.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/4a858e23-bcda-4313-9038-e71adab94873/AAABoeqt048/AAABnSSvrFg/16x9-big/jensen-huang-118.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fb30f55a-e84f-4075-bbf5-12e7eaf9a4e6/AAABoesaIrQ/AAABnSSvrFg/16x9-big/demo-franreich-100.jpg?width=1280"
         },
         {
-          "title": "\"Zum ersten Mal nach 14 Jahren echte Vertreter des Volkes\"",
-          "url": "https://www.tagesschau.de/ausland/europa/serbien-parlament-studentische-liste-100.html",
-          "summary": "Nach dem historischen Wahlsieg der Studentenbewegung ist das serbische Parlament erstmals zusammengetreten. Doch nach einer reibungslosen Machtübergabe durch die Partei von Ex-Präsident Vucic sieht es nicht aus. Von Silke Hahne.",
+          "title": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
+          "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html",
+          "summary": "Die Krim-Brücke ist nicht nur eine wichtige Verbindung zwischen Russland und der annektierten Krim. Sie ist auch ein Symbol für Russlands Herrschaft. Nun hat die Ukraine die Brücke mit einem Großangriff schwer beschädigt. Was bedeutet das?",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/66abf4e9-f3dc-43bb-85cb-248b1eeeb6d8/AAABoeqUEOY/AAABnSSvrFg/16x9-big/parlament-serbien-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABoekZm3E/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Huang zeigt sich bereit zu Rückkehr an Nvidia-Spitze",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-china-befragung-us-kongress-rueckkehr-nvidia-li.3578585",
-          "summary": "Aus dem Nvidia-Verwaltungsrat verlautet, Huangs Rückkehr auf den Chefposten werde derzeit nicht erwogen. Dennoch hat sein Vorstoß prominente Unterstützer – Techmilliardär Musk und US-Präsident Trump.",
+          "title": "Zerstörte Krim-Brücke: Die Ukraine versetzt Putin einen schweren Schlag",
+          "url": "https://www.sueddeutsche.de/politik/kertsch-bruecke-ukraine-krim-russland-li.3581771",
+          "summary": "Die Kertsch-Brücke Richtung Krim gilt als Prestigeprojekt des Kremlchefs. Nun sind Teile davon nach massiven ukrainischen Angriffen eingestürzt. Im Gegenzug trifft Moskau zwei zentrale Kiewer Brücken.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Podcast „Und nun zum Sport“: 5:0 gegen die Niederlande: Wie Deutschland über den Klopp zum Pep fand",
-          "url": "https://www.sueddeutsche.de/sport/podcast-und-nun-zum-sport-deutschland-niederlande-li.3581023",
-          "summary": "Beim rauschhaften Spiel in Berlin lässt sich erahnen, wie der Fußball des neuen Bundestrainers aussehen soll. Den Aufschwung haben strategische und kommunikative Kniffe Jürgen Klopps ermöglicht.",
+          "title": "USA: Nvidia verdoppelt Umsatz und Gewinn",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-quartalszahlen-huang-rueckkehr-li.3578585",
+          "summary": "Wenige Tage nach dem Rücktritt seines bisherigen Konzernchefs legt der US-Chiphersteller überraschend starke Quartalsergebnisse vor. Jensen Huang zeigt sich zur Rückkehr an Nvidia-Spitze bereit.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Podcast: „Auf den Punkt“: Neuer James Bond: Ist Robert Pattinson der richtige?",
-          "url": "https://www.sueddeutsche.de/kultur/podcast-nachrichten-auf-den-punkt-james-bond-pattinson-film-li.3581823",
-          "summary": "Vom Teenie-Schwarm zu großer Kunst: Wird der britische Schauspieler als 007 die Gen Z fürs Kino begeistern können?",
+          "title": "Krieg in der Ukraine: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-pistorius-us-kritik-dumm-krim-terrorismus-li.3571967",
+          "summary": "Nach dem Angriff auf die Krim-Brücke hatten die USA die Zielauswahl der ukrainischen Militärführung kritisiert. Die Zerstörung von Zivileinrichtungen in der Ukraine sei „eine Form von Terrorismus“, so der deutsche Verteidigungsminister.",
           "source": "SZ",
           "paywall": false,
           "image": null
