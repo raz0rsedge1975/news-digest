@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-17T23:00:07.656Z",
-  "timestamp": "18.11.2026, 00:00:07",
+  "generated": "2026-11-18T03:00:07.495Z",
+  "timestamp": "18.11.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -8,10 +8,18 @@
         {
           "title": "Chipkonzern: Nvidia: Jensen Huang kommt nicht zurück",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-ruecktritt-nvidia-gruender-huang-erwaegt-rueckkehr-auf-ceo-posten-201692517.html",
-          "summary": "Der ehemalige Vorstandschef bringt sich für ein Comeback ins Gespräch, aber Nvidia weist das deutlich zurück. Derweil legt der Chipkonzern einmal mehr glänzende Geschäftsergebnisse vor.",
+          "summary": "Der ehemalige Vorstandschef bringt sich für ein Comeback ins Gespräch, aber Nvidia lehnt das unmissverständlich ab. Derweil legt der Chipkonzern abermals glänzende Geschäftsergebnisse vor.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/81c640ac1cf5/w3714h1940x0y120o/202611/0cec7382-56b1-4e96-ba14-036c1f8e8d73/ich-uebernehme-die-volle.webp"
+        },
+        {
+          "title": "Nvidia-Skandal: „Business as Usual“ ohne den Visionär",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/jensen-huang-scheitert-mit-comeback-nvidia-setzt-auf-colette-kress-201692999.html",
+          "summary": "Nvidia lehnt eine Rückkehr von Jensen Huang ab und verbreitet die Botschaft, dass es auch ohne ihn geht. Der Mythos von Huangs Unersetzbarkeit bröckelt.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/f98ab258cd90/w1920h1003x0y38o/202611/54b6f684-8dcd-4a68-b174-1d20147e2a07/we-ve-got-this-nvidias.webp"
         },
         {
           "title": "Krim-Brücke: Ein empfindlicher Treffer gegen Putin",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/3287b94bd210/w719h375x0y289o/202611/beb85c62-854b-47a6-bedd-62d12c5c22e8/ein-screenshot-eines-vom.webp"
-        },
-        {
-          "title": "Liveblog Ukrainekrieg: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ziemlich-dumm-pistorius-verurteilt-us-kritik-an-ukraine-faz-110683325.html",
-          "summary": "Stattdessen solle man über die terroristischen Angriffe Russlands sprechen, so der Verteidigungsminister +++ NATO-Generalsekretär nennt Angriff auf Krim-Brücke „unvermeidlich“ +++ Selenskyj bestätigt teilweisen Einsturz der Krim-Brücke +++ alle Neuigkeiten im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a963e0f6747e/w5425h2834x0y244o/202611/7d7764fc-fb49-4b18-9310-16a5d4dbd126/boris-pistorius-spd.webp"
         }
       ]
     },
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/8587b94b-96e3-4386-bac0-4f9a43e8e574_w1200_r1.778_fpx45_fpy55.png"
         },
         {
-          "title": "News des Tages: Deutsche Bank, Angriff auf die Krimbrücke, Glücksatlas",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bank-angriff-auf-die-krimbruecke-gluecksatlas-a-54b6649a-6b11-44b8-bf5d-637e3ff64120#ref=rss",
-          "summary": "Ein riesiges Datenleck gibt Einblicke in das Geschäftsgebaren der Deutschen Bank. Die Ukraine zerstört Putins Krimbrücke. Und: Was der deutsche Glücksatlas über Sachsen-Anhalt verrät. Das ist die Lage am Dienstagabend.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
-        },
-        {
           "title": "Nvidia: Warum die Tech-Bosse Jensen Huangs Rückkehr fordern",
           "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-warum-die-tech-bosse-jensen-huangs-rueckkehr-fordern-a-7c966f6a-6430-47e6-b5f4-edb6202a2617#ref=rss",
           "summary": "Mehr als 190. 000 Menschen haben eine Onlinepetition für die Rückkehr von Jensen Huang zu Nvidia unterschrieben. Viele Chefs von Techkonzernen sind dabei, auch aus eigenem Interesse.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/62d0360c-ab5c-48fe-b19a-d5045ceffd1e_w1200_r1.778_fpx50.67_fpy50.jpg"
+        },
+        {
+          "title": "Anthropic-Börsengang: »KI-Firmen arbeiten wie Goldminen«, sagt Analyst Benedict Evans",
+          "url": "https://www.spiegel.de/netzwelt/anthropic-boersengang-ki-firmen-arbeiten-wie-goldminen-sagt-analyst-benedict-evans-a-c13cc772-5972-4613-bfb4-35289408e6fd#ref=rss",
+          "summary": "Anthropic steuert auf einen billionenschweren Börsenstart zu, oder platzt die KI-Blase? Der prominente Techanalyst Benedict Evans spricht über nervöse Märkte und späte Gewinner des KI-Booms.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/d8a13c63-0b33-4cba-8020-64a169858097_w1200_r1.778_fpx33.33_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
-          "url": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
-          "summary": "Nach der ukrainischen Attacke auf die Krim-Brücke kritisierten die USA Kiews Angriffe - ohne Russlands Zerstörung ziviler Ziele in der Ukraine zu erwähnen. Verteidigungsminister Pistorius reagierte mit deutlichen Worten.",
+          "title": "Mögliche Stromsteuersenkung: Verhandlung beendet - Verkündung am Morgen",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-beendet-verhandlungen-100.html",
+          "summary": "Die Spitzen von CDU, CSU und SPD haben ihre Beratungen im Kanzleramt am frühen Mittwochmorgen beendet - ohne eine Einigung zur Stromsteuersenkung zu verkünden. Die Details sollen am frühen Morgen bekanntgegeben werden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8d26065e-8c5a-4733-94a5-aa434470a50f/AAABoetiVP4/AAABnSSvrFg/16x9-big/pistorius-nato-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0088d04f-ea54-41f0-8519-068dd899b393/AAABoexbXIM/AAABnSSvrFg/16x9-big/bundeskanzleramt-224.jpg?width=1280"
         },
         {
-          "title": "Sozialproteste in Frankreich reißen nicht ab",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-254.html",
-          "summary": "Wieder gab es in Frankreich Streiks und Demonstrationen für höhere Gehälter und bessere Bildungsbedingungen. Bei der Zahl der Teilnehmer unterschieden sich die Angaben deutlich.",
+          "title": "Laut Gesundheitsbehörde: Warum die USA nicht mehr masernfrei sind",
+          "url": "https://www.tagesschau.de/ausland/amerika/masern-usa-118.html",
+          "summary": "Die USA erleben den schlimmsten Masern-Ausbruch seit mehr als 35 Jahren. Und haben nun auch ihren Status als masernfreies Land verloren. Das hat die Panamerikanische Gesundheitsorganisation (PAHO) offiziell bekannt gegeben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fb30f55a-e84f-4075-bbf5-12e7eaf9a4e6/AAABoesaIrQ/AAABnSSvrFg/16x9-big/demo-franreich-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1efc46ba-62c4-4f11-b186-d1bbef0e7a84/AAABoev_xZM/AAABnSSvrFg/16x9-big/robert-f-kennedy-102.jpg?width=1280"
         },
         {
-          "title": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
-          "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html",
-          "summary": "Die Krim-Brücke ist nicht nur eine wichtige Verbindung zwischen Russland und der annektierten Krim. Sie ist auch ein Symbol für Russlands Herrschaft. Nun hat die Ukraine die Brücke mit einem Großangriff schwer beschädigt. Was bedeutet das?",
+          "title": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
+          "summary": "Wenige Tage nach der Spionageaffäre rund um den bisherigen Konzernchef Huang hat Nvidia überraschend starke Quartalsergebnisse vorgelegt. Die Zahlen des US-Chipkonzerns lagen deutlich über den Erwartungen von Analysten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABoekZm3E/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7a5ba079-19f9-4775-bb58-6418efd0b5e7/AAABoewqDOw/AAABnSSvrFg/16x9-big/nvidia-logo-104.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "51 Studien nachgerechnet: Anti-Aging-Pillen fallen bei der DNA-Uhr durch",
+          "url": "https://www.telepolis.de/article/51-Studien-nachgerechnet-Anti-Aging-Pillen-fallen-bei-der-DNA-Uhr-durch-11528527.html",
+          "summary": "Medikamente senken den Wert der Altersuhr, Nahrungsergänzungsmittel kaum. Doch die Uhr selbst schwankt schon nach dem Mittagessen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/3/1/7/shutterstock_2791305807-55bffef77b41d756.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Chatbot-Paradox: Je näher sich Nutzer der KI fühlen, desto einsamer sind sie",
           "url": "https://www.telepolis.de/article/Chatbot-Paradox-Je-naeher-sich-Nutzer-der-KI-fuehlen-desto-einsamer-sind-sie-11528361.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/0/4/9/shutterstock_2224010251-280ba83b164a75fa.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Medien per Gesetz empfehlen: Vielfalt oder betreutes Denken?",
-          "url": "https://www.telepolis.de/article/Medien-per-Gesetz-empfehlen-Vielfalt-oder-betreutes-Denken-11527952.html",
-          "summary": "Der Digitale Medien-Staatsvertrag könnte Plattformen eine Medienquote vorschreiben. Washington protestiert. Es geht um Marktanteile und politische Macht.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/0/2/6/Master_digitus-f4c96baa32c5efe0.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Nvidia verdoppelt Umsatz und Gewinn",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-quartalszahlen-huang-rueckkehr-li.3578585",
+          "summary": "Kurz nach dem Rücktritt des bisherigen Konzernchefs legt der Chiphersteller überraschend starke Quartalsergebnisse vor. Jensen Huang zeigt sich zur Rückkehr an Nvidia-Spitze bereit – der Verwaltungsratschef lehnt dies ab.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Bundespolitik: Koalition beendet Verhandlungen nach mehr als acht Stunden",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-spd-giffey-hubertus-heil-koalitionsausschuss-li.3580621",
+          "summary": "Der Kanzler wollte bei der Stromsteuer eine rasche Einigung. Dann zogen sich die Verhandlungen doch bis in die Nacht. Ergebnisse wurden zunächst nicht bekanntgegeben.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Zerstörte Krim-Brücke: Die Ukraine versetzt Putin einen schweren Schlag",
           "url": "https://www.sueddeutsche.de/politik/kertsch-bruecke-ukraine-krim-russland-li.3581771",
           "summary": "Die Kertsch-Brücke Richtung Krim gilt als Prestigeprojekt des Kremlchefs. Nun sind Teile davon nach massiven ukrainischen Angriffen eingestürzt. Im Gegenzug trifft Moskau zwei zentrale Kiewer Brücken.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "USA: Nvidia verdoppelt Umsatz und Gewinn",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-quartalszahlen-huang-rueckkehr-li.3578585",
-          "summary": "Wenige Tage nach dem Rücktritt seines bisherigen Konzernchefs legt der US-Chiphersteller überraschend starke Quartalsergebnisse vor. Jensen Huang zeigt sich zur Rückkehr an Nvidia-Spitze bereit.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Krieg in der Ukraine: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-pistorius-us-kritik-dumm-krim-terrorismus-li.3571967",
-          "summary": "Nach dem Angriff auf die Krim-Brücke hatten die USA die Zielauswahl der ukrainischen Militärführung kritisiert. Die Zerstörung von Zivileinrichtungen in der Ukraine sei „eine Form von Terrorismus“, so der deutsche Verteidigungsminister.",
           "source": "SZ",
           "paywall": false,
           "image": null
