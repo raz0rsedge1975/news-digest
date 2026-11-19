@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-19T19:00:08.845Z",
-  "timestamp": "19.11.2026, 20:00:08",
+  "generated": "2026-11-19T23:00:08.607Z",
+  "timestamp": "20.11.2026, 00:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "34 Prozent Kursplus: Fulminanter Börsenstart für Anthropic",
-          "url": "https://www.faz.net/aktuell/finanzen/boersenstart-anthropic-gelingt-kurssprung-um-34-prozent-201699078.html",
-          "summary": "Der Aktienkurs des KI-Unternehmens macht zum Handelsstart einen gewaltigen Sprung. Die sieben Mitgründer um die Amodei-Geschwister sind jetzt auf dem Papier Multimilliardäre.",
+          "title": "Neue Angriffe: Russland kann die Krim-Brücke nicht mehr verteidigen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/warum-russland-die-krim-bruecke-nicht-mehr-verteidigen-kann-201697484.html",
+          "summary": "Die Ukraine setzt ihre Angriffe auf die Brücke fort. Sie hat einen Weg gefunden, um die russische Flugabwehr auszuschalten – mit niederländischer Hilfe.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/510065adb60c/w6144h3210x0y128o/202611/75b3e59d-92e9-4967-a730-bebe673ca3d0/daniela-und-dario-amodei-mit.webp"
+          "image": "https://media0.faz.net/image/w1200h627/bc09ab5e2f18/w719h375x0y326o/202611/beb85c62-854b-47a6-bedd-62d12c5c22e8/die-krim-bruecke-nach-dem.webp"
         },
         {
-          "title": "81 Milliarden Dollar: Anthropic setzt sich an die Spitze der größten Börsengänge der Geschichte",
-          "url": "https://www.faz.net/aktuell/finanzen/anthropics-boersengang-was-anleger-aus-der-ipo-geschichte-lernen-koennen-201698718.html",
-          "summary": "Mit 81 Milliarden Dollar erzielt der KI-Gigant mehr Geld mit dem Börsengang als selbst Elon Musk mit SpaceX. Doch die Kursgewinne anderer werden schwer zu erreichen sein.",
+          "title": "Koalition der Willigen: Der Gipfel im Schatten des Gipfels",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-gipfel-in-berlin-und-dann-laesst-sich-trump-zuschalten-201698553.html",
+          "summary": "Die „Koalition der Willigen“ setzt in Berlin Zeichen zur Unterstützung Kiews. Dann ruft Trump an und erzählt, Putin wolle wirklich Frieden.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/913f035740b5/w2000h1045x0y145o/202611/6cc345de-98f5-4466-8869-6e9374b82f73/nicht-nur-die-wall-street-hat.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ceeef1fef0d3/w6440h3364x0y223o/202611/f34ccc0a-58f9-4a6b-bbb7-050618674b83/begruessung-in-berlin.webp"
         },
         {
-          "title": "Künstliche Intelligenz: Warum Anthropic nicht zu abhängig von Nvidia werden will",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-und-nvidia-wie-jensen-huangs-abgang-die-partnerschaft-veraendert-accg-201694752.html",
-          "summary": "Anthropic schafft heute einen Rekordbörsengang. Wichtig ist für seine Zukunft die Beziehung zum Chipchampion Nvidia. Doch wie steht es darum? Und was ändert sich durch den Rücktritt von Jensen Huang?",
+          "title": "Liveblog Ukrainekrieg: Trump drängt die Europäer, Putin anzurufen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-draengt-die-europaeer-putin-anzurufen-faz-110683325.html",
+          "summary": "US-Präsident lässt sich zu Treffen der Koalition der Willigen zuschalten +++ Merz: Jalta-Format wird den Frieden nicht bringen +++ Putin: Habe Europäer zu Gesprächen nach Moskau eingeladen +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f52541c973fb/w8256h4313x0y165o/202611/d81c3fff-71ac-4506-997f-2723a58b45be/wie-wenn-man-atomwaffen-nach.webp"
+          "image": "https://media0.faz.net/image/w1200h627/08d016a4cbce/w4214h2201x0y250o/202611/65f2c3c7-4279-436e-8584-1dbf7a9f15b5/us-praesident-donald-trump.webp"
         }
       ]
     },
@@ -35,34 +35,42 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Großbritannien: Führt Andy Burnham sein Land zurück in die EU?",
+          "url": "https://www.spiegel.de/ausland/grossbritannien-fuehrt-andy-burnham-sein-land-zurueck-in-die-eu-a-d7a5e0ec-b446-4bb1-bb87-6accdbaed99b#ref=rss",
+          "summary": "Der neue britische Premier sagt offen: Der Brexit hat dem Land geschadet. Manche in Andy Burnhams Partei hoffen längst auf mehr – eine Volksabstimmung über die Rückkehr in die Europäische Union.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/34c3b480-42dd-4a39-9852-154356c32e50_w1200_r1.778_fpx60_fpy45.jpg"
+        },
+        {
+          "title": "Donald Trump: Und dann platzt der Anruf des US-Präsidenten in den Berliner Ukraine-Gipfel",
+          "url": "https://www.spiegel.de/politik/deutschland/donald-trump-und-dann-platzt-der-anruf-des-us-praesidenten-in-den-berliner-ukraine-gipfel-a-e17f1422-851e-42e5-95b7-fbbd0c8db3b8#ref=rss",
+          "summary": "Kanzler Merz hat 40 Regierungen zum Unterstützergipfel für die Ukraine versammelt. Da meldet sich US-Präsident Trump aus der »Air Force One«. Zuvor hatte er in China mit dem russischen Machthaber Putin verhandelt.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/356093d4-010b-4bec-bbf4-0a890a6fb96e_w1200_r1.778_fpx60.9_fpy49.99.jpg"
+        },
+        {
           "title": "Peptide zum Selberspritzen: Was hinter dem gefährlichen Hype in den USA steckt",
           "url": "https://www.spiegel.de/wissenschaft/peptide-zum-selberspritzen-was-hinter-dem-gefaehrlichen-hype-in-den-usa-steckt-a-8713f5b8-9b52-4aea-a2a1-82874f2d4b47#ref=rss",
           "summary": "Sie heißen Melanotan oder Wolverine Stack: Mit Peptiden vom Graumarkt wollen sich Hunderttausende Menschen verjüngen oder ihre Potenz stärken. Doch die Mittel können gefährlich sein.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/e7ebf180-88e9-4b6f-b5db-126153fc2239_w1200_r1.778_fpx74_fpy49.jpg"
-        },
-        {
-          "title": "Dreiergipfel in Shenzhen: Einschätzungen zum Treffen von Xi, Trump und Putin",
-          "url": "https://www.spiegel.de/ausland/dreiergipfel-in-shenzhen-einschaetzungen-zum-treffen-von-xi-trump-und-putin-a-ce122610-4006-4cd4-9a1f-ccc15e4eff20#ref=rss",
-          "summary": "Das Treffen der Präsidenten Chinas, Russlands und der USA war vor allem ein Schaulaufen, von dem doch einer der drei enorm profitierte. Einschätzungen von SPIEGEL-Reporter Bernhard Zand.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2e7915b6-4d93-4c87-8db6-f23c3b90e3e9_w1080_r1.778_fpx60_fpy30.jpg"
-        },
-        {
-          "title": "Friedrich Merz lästert über Shenzhen-Treffen als »Bildtermin« – und sichert Kyjiw weitere Unterstützung zu",
-          "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-laestert-ueber-shenzhen-treffen-als-bildtermin-und-sichert-kyjiw-weitere-unterstuetzung-zu-a-1a623a3e-8112-4d7c-b509-2c29d1453e65#ref=rss",
-          "summary": "Deutliche Worte an Moskau, mehr Hilfe für Kyjiw: Beim Ukrainegipfel in Berlin haben 40 Länder Solidarität für das angegriffene Land demonstriert. Laut Kanzler Friedrich Merz sind die russischen Verluste enorm.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/5329f29a-38ad-40dd-9dd3-7b33d2d1afda_w1200_r1.778_fpx49_fpy93.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Strafbefehl gegen Tesla-Werksleiter",
+          "url": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
+          "summary": "Im Februar hatte die IG Metall Strafanzeige gegen den Werksleiter von Tesla in Grünheide gestellt. Der Vorwurf: üble Nachrede. Nun hat ein Gericht einen Strafbefehl gegen den Mann erlassen. Der Werksleiter wehrt sich vor Gericht.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/02de9c36-9e0d-413c-801f-8818e647b067/AAABofRxhiM/AAABnSSvrFg/16x9-big/rbb-andr-100.jpg?width=1280"
+        },
         {
           "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
           "url": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/3b7c6fa0-d02a-48ae-ac35-cd33b8e7e3b2/AAABofS75Xg/AAABnSSvrFg/16x9-big/koalition-der-willigen-118.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-          "summary": "Trotz der guten Stimmung im Technologiesektor rund um den Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit mehr als drei Wochen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/502eb764-80f1-439e-9b8c-78bb61db32e5/AAABocSMHEQ/AAABnSSvrFg/16x9-big/boerse-564.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Koalition der Willigen: Die Europäer sind sich einig – dann ruft Trump aus der „Air Force One“ an",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-konferenz-berlin-friedrich-merz-donald-trump-jared-kushner-li.3582903",
+          "summary": "Bundeskanzler Merz ist es wichtig, das Berliner Ukraine-Treffen als Gegenbild zum Gipfel von Shenzhen zu präsentieren – inklusive Lästerei über Trump, Putin und Xi. Seine Gäste sind zufrieden und lassen sich vom US-Präsidenten nicht aus dem Konzept bringen.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Krieg in der Ukraine: Macron: Nato-Beitritt der Ukraine muss wieder auf den Tisch",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-macron-nato-beitritt-ukraine-starke-armee-berlin-koalition-der-willigen-li.3571967",
           "summary": "Wegen ihrer starken Armee sei die Präsenz der Ukraine in dem Verteidigungsbündnis auf lange Sicht relevant, so der französische Präsident. Er nimmt in Berlin beim Ukraine-Gipfeltreffen teil.",
@@ -133,14 +141,6 @@
           "title": "UN-Gericht: Ein Urteil, das Geschichte schreibt: Es war Völkermord an den Rohingya",
           "url": "https://www.sueddeutsche.de/politik/myanmar-internationaler-gerichtshof-den-haag-urteil-rohingya-voelkermord-li.3581811",
           "summary": "Die obersten Richter der UN halten es für erwiesen, dass das Militär von Myanmar die muslimische Minderheit mit „genozidaler Absicht“  gejagt und verfolgt hat. Das Urteil könnte auch für andere Konflikte bedeutsam werden.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Newsblog zu den Landtagswahlen: Siegmund kandidiert schon am 8. Dezember als Ministerpräsident",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-ministerpraesidentenwahl-siegmund-afd-li.3540501",
-          "summary": "Der AfD-Politiker stellt sich damit früher als geplant im Landtag von Sachsen-Anhalt zur Wahl. Das kündigt er in einem Video an.",
           "source": "SZ",
           "paywall": false,
           "image": null
