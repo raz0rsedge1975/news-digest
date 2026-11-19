@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-19T03:00:07.990Z",
-  "timestamp": "19.11.2026, 04:00:07",
+  "generated": "2026-11-19T07:00:08.611Z",
+  "timestamp": "19.11.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Künstliche Intelligenz: Anthropic setzt Messlatte für Börsengang höher",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-aktie-soll-laut-berichten-83-dollar-kosten-201696457.html",
-          "summary": "Das KI-Unternehmen legt einen höher als erwarteten Ausgabepreis für sein mit Spannung erwartetes Börsendebüt am Donnerstag fest. Damit peilt es eine Marktkapitalisierung von 1,5 Billionen Dollar an.",
+          "title": "Innenleben der AfD: Wie nah steht die AfD der CDU?",
+          "url": "https://www.faz.net/aktuell/politik/inland/was-die-afd-leaks-ueber-das-verhaeltnis-der-partei-zur-cdu-verraten-accg-201673731.html",
+          "summary": "Beide Parteien beanspruchen, bürgerlich-konservativ zu sein. Aber ist das so? Nicht nur die AfD-Leaks zeigen grundlegende Unterschiede.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/f2a906e94486/w3353h1751x920y860o/202609/43601.0.2540100435/annaeherung-oder-strikte.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Neuer Angriff auf Krim-Brücke",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-krim-bruecke-nach-neuem-angriff-gesperrt-faz-110683325.html",
+          "summary": "Zugverkehr nach ukrainischem Angriff unterbrochen +++ Trump trifft Putin zu Zweiergespräch +++ Putin nennt westliche Sanktionen gescheitert +++ alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/26f724251387/w5712h2984x0y442o/202611/bb5927a6-d772-4e8c-92d0-bd4afffcc4d7/blick-von-der-fahrbahn-der.webp"
+        },
+        {
+          "title": "Künstliche Intelligenz: Anthropic schafft Rekord-Börsengang",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html",
+          "summary": "Das KI-Unternehmen hat so viel Geld eingesammelt wie kein Börsenneuling zuvor. Damit startet Anthropic heute mit einer Marktkapitalisierung von 1,5 Billionen Dollar.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/1a75bc57333e/w6145h3210x159y123o/202611/ee7ed61b-6d56-4cf1-8668-b25d8590e353/neuer-boersenmilliardaer-dario.webp"
-        },
-        {
-          "title": "KI-Beschleunigung: Wie nah ist die Superintelligenz?",
-          "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/anthropic-boersengang-wie-nah-ist-die-superintelligenz-accg-201687374.html",
-          "summary": "Experten glauben, schon 2027 könnte es übermenschliche KI geben. Der Grund ist ein Bericht, wonach Anthropic sein Tempo bei der Entwicklung verdoppelt. Doch aus dem Report wurden entscheidende Details gestrichen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/30845b5bc7fa/w6491h3391x999y361o/202611/82ee1134-c398-490f-bc72-6bade8702b3d/glaubt-an-ein-zeitalter-der.webp"
-        },
-        {
-          "title": "Zehn Aufgaben: 30 Prompts für den Alltag",
-          "url": "https://www.faz.net/premium/digitalwirtschaft/ki-akademie/die-besten-ki-tools-chatgpt-claude-und-copilot-im-vergleich-accg-201690867.html",
-          "summary": "Keine KI ist überall super. Claude schreibt prima, ChatGPT erzeugt gute Bilder. Copilot hat Stärken in Powerpoint, Excel und Teams. 30 Prompts zeigen, wie man aus jedem Werkzeug das beste Ergebnis holt.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/ffdecacc0cb0/w3101h1620x0y224o/202610/43601.0.2757284331/konkurrenz-belebt-das.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "»GTA 6« im Newsblog: »GTA 6« startet in Deutschland - diese Tipps sollten Sie im Spiel beachten",
-          "url": "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
-          "summary": "Seit Mitternacht ist »GTA 6« auch in Deutschland verfügbar. Ein SPIEGEL-Testteam fährt bereits seit über zehn Stunden durch Vice City. Die ersten Erkenntnisse und warum es jetzt anders berührt. Der Liveblog (ohne Story-Spoiler).",
+          "title": "Ukraine-Krieg: Friedrich Merz empfängt zum Gegengipfel in Berlin",
+          "url": "https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-empfaengt-zum-gegengipfel-in-berlin-a-35a421cf-63a1-4e57-a38a-1bd3dde077b7#ref=rss",
+          "summary": "US-Präsident Trump trifft in China auch Russlands Machthaber Putin und will über die Ukraine reden. In Berlin versammelt Kanzler Merz die Unterstützer des angegriffenen Landes. Die Botschaft: keine Deals zulasten Kyjiws oder der Europäer.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/03d2f8ed-1d6a-414d-83cd-d2d65c0ac0ea_w1200_r1.778_fpx73.68_fpy54.96.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/655d655b-4e89-4722-a611-550a19042d7d_w1200_r1.778_fpx57_fpy37.jpg"
         },
         {
-          "title": "Frauke Brosius-Gersdorf im SPIEGEL-Talk: »Herr Spahn und ich sind aus den gleichen Gründen gescheitert«",
-          "url": "https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-im-spiegel-talk-herr-spahn-und-ich-sind-aus-den-gleichen-gruenden-gescheitert-a-2cfc1644-77b7-4a52-836b-5e3e811ba8aa#ref=rss",
-          "summary": "Sie wollte Verfassungsrichterin werden und wurde Ziel einer Kampagne: Hier spricht Frauke Brosius-Gersdorf über Entschuldigungen aus der Union, Hürden für ein AfD-Verbot und die Vergesellschaftung großer Wohnungskonzerne.",
+          "title": "Apec-Gipfel in Shenzhen, China: Donald Trump im Gästehaus von Xi Jingping angekommen",
+          "url": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
+          "summary": "Noch nie trafen sich die Staatschefs von China, den USA und Russland gemeinsam zu offiziellen Gesprächen. Eine erste bilaterale Begegnung zwischen Xi und Trump läuft – und der spricht bewundernd von einem »Freund«. Alle Entwicklungen in der Liveanalyse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b84f201f-cf1e-4cdb-9b6c-c6e10cde684b_w1200_r1.778_fpx45_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b5801dbb-492b-4b30-9805-3c42c2e45e94_w1200_r1.778_fpx66.67_fpy50.jpg"
         },
         {
-          "title": "Tesla-Fabrik in Grünheide: Was hinter dem jüngsten Milliardenversprechen steckt",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-fabrik-in-gruenheide-was-hinter-dem-juengsten-milliardenversprechen-steckt-a-274340c0-88db-40c0-b4b6-508200b5c16d#ref=rss",
-          "summary": "Deutsche Autobauer beklagen Standortschwächen, Tesla will Milliarden in Brandenburg investieren. Politiker feiern die Ankündigung als Aufbruchssignal. Dabei erneuert der Konzern vor allem alte Versprechen.",
+          "title": "News: Trump trifft Xi und Putin, Merz empfängt Koalition der Willigen, Anthropic geht an die Börse",
+          "url": "https://www.spiegel.de/politik/deutschland/news-trump-trifft-xi-und-putin-merz-empfaengt-koalition-der-willigen-anthropic-geht-an-die-boerse-a-4c15941b-08a7-4b39-ae47-deaa8acdefb3#ref=rss",
+          "summary": "In Shenzhen sitzen Trump, Xi und Putin beisammen. In Berlin lädt der Kanzler zur großen Gegenveranstaltung. Und in New York geht der KI-Anbieter Anthropic an die Börse. Das ist die Lage am Donnerstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/39701154-3a19-47c2-822c-65187719b1af_w1200_r1.778_fpx45.28_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/1d91fb38-3ffe-47b4-8ea0-c88d20cfe052_w1200_r1.778_fpx69.98_fpy45.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
-          "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
-          "summary": "Die USA und Venezuela haben ein Militärabkommen unterzeichnet, wie US-Verteidigungsminister Hegseth mitteilte. Mit dem bereits angekündigten Ölabkommen werde die Straße von Hormus zudem \"irrelevant\".",
+          "title": "Marktbericht: Anleger vor Anthropic-Börsengang optimistisch",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
+          "summary": "Vor dem Rekordbörsengang des KI-Entwicklers Anthropic steigt an den Aktienmärkten die Spannung. An der Frankfurter Börse herrscht vorsichtiger Optimismus, der DAX dürfte etwas fester starten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0c11c42d-43e1-4c3c-83bc-84d0c7b69f5d/AAABofGRwZ0/AAABnSSvrFg/16x9-big/hegseth-192.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/37015892-b7ac-40f4-8e71-c5b885175263/AAABofKLkVQ/AAABnSSvrFg/16x9-big/dax-leitindex-100.jpg?width=1280"
         },
         {
-          "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-          "summary": "Die italienische Bank und deren Chef Orcel sind bei der Übernahme der Commerzbank einen wichtigen Schritt weiter - die Bundesregierung einigte sich mit UniCredit.",
+          "title": "Liveblog zum APEC-Gipfel: ++ Trump und Xi loben sich gegenseitig ++",
+          "url": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
+          "summary": "Beim Gipfel der Asiatisch-Pazifischen Wirtschaftsgemeinschaft (APEC) hat das Treffen von Chinas Präsident Xi und US-Präsident Trump begonnen. Zuvor war Trump mit Russlands Präsident Putin zusammengekommen. Die Entwicklungen im Liveblog.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fa890199-5e9b-4f42-a6e7-12542b8e599f/AAABofJjYBA/AAABnSSvrFg/16x9-big/trump-xi-166.jpg?width=1280"
         },
         {
-          "title": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
-          "summary": "Trotz der Waffenruhe hat Israels Armee nach eigenen Angaben einen neuen Einsatz im Zentrum des Gazastreifens begonnen. Ziel des Angriffs sei Infrastruktur der Terrororganisation Hamas. Die Islamisten werfen Israel Eskalation vor.",
+          "title": "Krim-Brücke nach drittem Angriff in einer Woche erneut gesperrt",
+          "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-zug-100.html",
+          "summary": "Nach einem erneuten Angriff auf die Krim-Brücke ist der Verkehr laut Behörden eingestellt worden. Russland transportiert über die Brücke unter anderem militärische Ausrüstung für den Krieg gegen die Ukraine.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7e17a424-7280-4eda-8fc5-c5623d7149df/AAABleaWtkk/AAABnSSvrFg/16x9-big/israel-soldaten-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e5afe867-7f3c-4c20-8747-547d04171022/AAABofJDxFU/AAABnSSvrFg/16x9-big/krim-bruecke-144.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Krim-Brücke nach Angriff erneut gesperrt",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-pistorius-us-kritik-dumm-krim-terrorismus-krim-bruecke-li.3571967",
-          "summary": "Erst Anfang der Woche versetzt die Ukraine Russland einen schweren Schlag und zerstörten den Teil der Brücke für den Autoverkehr. Nach einem neuen Angriff wird der Zugverkehr vorerst eingestellt.",
+          "title": "USA: Trump trifft Putin in China und erklärt: „Wunderbare Dinge“ könnten entstehen",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-putin-li.3578585",
+          "summary": "Später ist ein Dreiergipfel mit Chinas Staatschef Xi Jinping geplant - nie zuvor haben Anführer der drei Atommächte trilateral verhandelt.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zu KI: Anthropic legt Ausgabepreis für Aktien auf 83 Dollar fest",
-          "url": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-china-anthropic-li.3566658",
-          "summary": "Der Hauptteil der Aktienplatzierung bringt laut einer Mitteilung 81,3 Milliarden Dollar ein. Er liegt damit über dem vergleichbaren Erlös von 75 Milliarden Dollar beim Börsengang von Elon Musks Firma Space-X.",
+          "title": "Börsengang von Anthropic: Ist er noch einer von den Guten?",
+          "url": "https://www.sueddeutsche.de/wirtschaft/ki-open-ai-anthropic-boersengang-trump-finanzen-li.3573537",
+          "summary": "Anthropic-Gründer Dario Amodei verspricht, künstliche Intelligenz so zu entwickeln, dass sie der Menschheit nützt. Jetzt geht sein Unternehmen an die Börse – er steht vor der Frage, ob ihm die Moral noch immer wichtiger ist als das Geschäft.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Streaming: Gut gepudert beim Wiener Kongress",
-          "url": "https://www.sueddeutsche.de/medien/serie-vienna-game-disney-wiener-kongress-li.3570401",
-          "summary": "In „Vienna Game“ sucht Europa im Jahr 1814 ein bisschen Frieden. Das wird mit überraschend entfesselten Schauspielern zur herrlich schrillen Unterhaltung.",
+          "title": "Künstliche Intelligenz: Anthropic geht an die Börse – was Anleger wissen sollten",
+          "url": "https://www.sueddeutsche.de/wirtschaft/anthropic-boersengang-ki-geldanlage-2026-li.3573534",
+          "summary": "Der Börsengang des Unternehmens wird Geschichte schreiben. Was das für die Branche bedeutet und warum die Gründer trotz vieler neuer Investoren auch künftig über die KI-Firma bestimmen werden.",
           "source": "SZ",
           "paywall": false,
           "image": null
