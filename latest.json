@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T23:01:14.086Z",
-  "timestamp": "19.11.2026, 00:01:14",
+  "generated": "2026-11-19T03:00:07.990Z",
+  "timestamp": "19.11.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -35,20 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "»GTA 6« im Newsblog: Solche Körper hat man noch nie in einem Videospiel gesehen",
+          "title": "»GTA 6« im Newsblog: »GTA 6« startet in Deutschland - diese Tipps sollten Sie im Spiel beachten",
           "url": "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-die-jahre-des-wartens-sind-vorbei-das-sind-ersten-eindruecke-von-gta-6-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
-          "summary": "GTA war immer brachial, jetzt berührt es uns, das ist neu: Seit zehn Stunden testet der SPIEGEL »GTA 6«. Was wir bisher gelernt haben, ohne Story-Spoiler. Der Liveblog.",
+          "summary": "Seit Mitternacht ist »GTA 6« auch in Deutschland verfügbar. Ein SPIEGEL-Testteam fährt bereits seit über zehn Stunden durch Vice City. Die ersten Erkenntnisse und warum es jetzt anders berührt. Der Liveblog (ohne Story-Spoiler).",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/03d2f8ed-1d6a-414d-83cd-d2d65c0ac0ea_w1200_r1.778_fpx73.68_fpy54.96.png"
-        },
-        {
-          "title": "Wie Hakeem Jeffries den Feldzug gegen Trump führen will",
-          "url": "https://www.spiegel.de/ausland/wie-hakeem-jeffries-den-feldzug-gegen-trump-fuehren-will-a-0c3496c9-eef3-4540-9409-c9b5ece80b06#ref=rss",
-          "summary": "Die Demokraten haben Hakeem Jeffries mit gut 96 Prozent zum Sprecher des Repräsentantenhauses nominiert. Er wird zur Schlüsselfigur im Kampf ums Weiße Haus",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/88aaa863-6f7c-4a98-a2db-d93e07cd57c0_w1200_r1.778_fpx33.3_fpy50.jpg"
         },
         {
           "title": "Frauke Brosius-Gersdorf im SPIEGEL-Talk: »Herr Spahn und ich sind aus den gleichen Gründen gescheitert«",
@@ -57,6 +49,14 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/b84f201f-cf1e-4cdb-9b6c-c6e10cde684b_w1200_r1.778_fpx45_fpy45.jpg"
+        },
+        {
+          "title": "Tesla-Fabrik in Grünheide: Was hinter dem jüngsten Milliardenversprechen steckt",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/tesla-fabrik-in-gruenheide-was-hinter-dem-juengsten-milliardenversprechen-steckt-a-274340c0-88db-40c0-b4b6-508200b5c16d#ref=rss",
+          "summary": "Deutsche Autobauer beklagen Standortschwächen, Tesla will Milliarden in Brandenburg investieren. Politiker feiern die Ankündigung als Aufbruchssignal. Dabei erneuert der Konzern vor allem alte Versprechen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/39701154-3a19-47c2-822c-65187719b1af_w1200_r1.778_fpx45.28_fpy50.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Militärabkommen zwischen Venezuela und USA unterzeichnet",
+          "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html",
+          "summary": "Die USA und Venezuela haben ein Militärabkommen unterzeichnet, wie US-Verteidigungsminister Hegseth mitteilte. Mit dem bereits angekündigten Ölabkommen werde die Straße von Hormus zudem \"irrelevant\".",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/0c11c42d-43e1-4c3c-83bc-84d0c7b69f5d/AAABofGRwZ0/AAABnSSvrFg/16x9-big/hegseth-192.jpg?width=1280"
+        },
+        {
+          "title": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+          "summary": "Die italienische Bank und deren Chef Orcel sind bei der Übernahme der Commerzbank einen wichtigen Schritt weiter - die Bundesregierung einigte sich mit UniCredit.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/0a8267b7-a2da-4eb4-bb5a-b7fda46a2e11/AAABoJ9akT0/AAABnSSvrFg/16x9-big/commerzbank-270.jpg?width=1280"
+        },
+        {
           "title": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
           "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
           "summary": "Trotz der Waffenruhe hat Israels Armee nach eigenen Angaben einen neuen Einsatz im Zentrum des Gazastreifens begonnen. Ziel des Angriffs sei Infrastruktur der Terrororganisation Hamas. Die Islamisten werfen Israel Eskalation vor.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/7e17a424-7280-4eda-8fc5-c5623d7149df/AAABleaWtkk/AAABnSSvrFg/16x9-big/israel-soldaten-112.jpg?width=1280"
-        },
-        {
-          "title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
-          "url": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
-          "summary": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, das an einer Technik gegen Datenstau bei Mikrochips arbeitet.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/0f01818e-9276-4c62-85d0-fe32a5d49eb6/AAABofAwtGU/AAABnSSvrFg/16x9-big/zukunftspreis-112.jpg?width=1280"
-        },
-        {
-          "title": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
-          "url": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
-          "summary": "Es gilt schon vorab als historisch - das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel in Shenzhen. Doch die Positionen der drei Präsidenten bei den Themen atomare Abrüstung, Iran oder Ukraine klaffen teils auseinander.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/b9746c7c-dad7-4709-945d-4ea1b7db9016/AAABoe7Tp0E/AAABnSSvrFg/16x9-big/xi-jinping-donald-trump-wladimir-putin-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "IG-Metall Tarifrunde: Kämpfen oder kapitulieren",
+          "url": "https://www.telepolis.de/article/IG-Metall-Tarifrunde-Kaempfen-oder-kapitulieren-11529338.html",
+          "summary": "Warnungen alleine werden wohl nicht reichen – die Arbeitgeber mauern, Beschäftige murren: Was in der aktuellen Tarifrunde auf dem Spiel steht. Eine Analyse.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/7/2/7/Mahmoud_Mahdi_Photo_cropped-35d2685518d1a1c2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Stromsteuer sinkt: Von 93 Euro Ersparnis bleiben einer Familie rund 85 Euro",
           "url": "https://www.telepolis.de/article/Stromsteuer-sinkt-Von-93-Euro-Ersparnis-bleiben-einer-Familie-rund-85-Euro-11530126.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/8/1/5/shutterstock_2599408111-ef051fb5d847ab74.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Sofias Sonderweg: Wie Bulgarien die Ukraine-Front torpediert",
-          "url": "https://www.telepolis.de/article/Sofias-Sonderweg-Wie-Bulgarien-die-Ukraine-Front-torpediert-11529089.html",
-          "summary": "Friedenspräsidentin und Frontenwechsel: Bulgarien hat gewählt, der außenpolitische Kurs wankt. Sofia könnte die “Koalition der Willigen“ vor Probleme stellen.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/5/9/9/Anton_Chalakov_cropped-61e2eefb339be594.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Krieg in der Ukraine: Krim-Brücke nach Angriff erneut gesperrt",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-pistorius-us-kritik-dumm-krim-terrorismus-krim-bruecke-li.3571967",
+          "summary": "Erst Anfang der Woche versetzt die Ukraine Russland einen schweren Schlag und zerstörten den Teil der Brücke für den Autoverkehr. Nach einem neuen Angriff wird der Zugverkehr vorerst eingestellt.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Newsblog zu KI: Anthropic legt Ausgabepreis für Aktien auf 83 Dollar fest",
+          "url": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-china-anthropic-li.3566658",
+          "summary": "Der Hauptteil der Aktienplatzierung bringt laut einer Mitteilung 81,3 Milliarden Dollar ein. Er liegt damit über dem vergleichbaren Erlös von 75 Milliarden Dollar beim Börsengang von Elon Musks Firma Space-X.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Streaming: Gut gepudert beim Wiener Kongress",
           "url": "https://www.sueddeutsche.de/medien/serie-vienna-game-disney-wiener-kongress-li.3570401",
           "summary": "In „Vienna Game“ sucht Europa im Jahr 1814 ein bisschen Frieden. Das wird mit überraschend entfesselten Schauspielern zur herrlich schrillen Unterhaltung.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Estland: Eine EU-Stadt wird zur Sackgasse",
-          "url": "https://www.sueddeutsche.de/politik/estland-grenze-russland-sabotage-polen-li.3582481",
-          "summary": "Estlands Regierung will nach russischen Sabotage-Akten die Grenzen zu Russland schließen. Viele Menschen an der EU-Außengrenze sehen das kritisch. Aber auch Polen ist besorgt über Moskaus Provokationen.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Ewigkeitschemikalien: „Wir sind in einem Rennen gegen die Zeit“",
-          "url": "https://www.sueddeutsche.de/wissen/pfas-ewigkeitschemikalien-eu-rechnungshof-grenzwerte-lebensmittel-li.3578656",
-          "summary": "Ewigkeitschemikalien reichern sich in der Umwelt an und gefährden die Gesundheit. Doch die Kontrollen in der EU sind lückenhaft und die Verfahren zur Regulierung zu langsam, kritisiert der Europäische Rechnungshof.",
           "source": "SZ",
           "paywall": false,
           "image": null
