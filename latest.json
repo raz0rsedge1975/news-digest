@@ -1,39 +1,47 @@
 {
-  "generated": "2026-11-20T07:00:07.795Z",
-  "timestamp": "20.11.2026, 08:00:07",
+  "generated": "2026-11-20T11:00:09.129Z",
+  "timestamp": "20.11.2026, 12:00:09",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Frankfurter Zeil: „Digga, ich bin minderjährig“",
-          "url": "https://www.faz.net/aktuell/politik/inland/ich-ficke-die-polizei-jugendliche-werden-seit-den-krawallen-auf-der-frankfurter-zeil-staerker-kontrolliert-accg-201689409.html",
-          "summary": "Seit der Krawallnacht in Frankfurts Innenstadt kontrolliert die Polizei auf der Zeil immer öfter Jugendliche. Die fühlen sich gegängelt. Was bedeutet das für weitere Proteste?",
+          "title": "die Macht der Tech-Milliardäre: Vorsicht vor der ewigen Kontrolle",
+          "url": "https://www.faz.net/aktuell/wirtschaft/zuckerberg-musk-anthropic-wie-tech-milliardaere-macht-zementieren-201700143.html",
+          "summary": "Anthropic ist der größte Börsengang der Geschichte gelungen. Sonderstimmrechte sichern den Erfindern dauerhaft die Macht. Das ist ein riesiges Problem – nicht nur dort.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a23022221e39/w7163h3742x0y143o/38c1539b-92cb-42a4-8b22-aad297ea9fa4-_2VL8523.jpg/polizisten-waehrend-einer.webp"
+          "image": "https://media0.faz.net/image/w1200h627/130e8f4a0ccb/w2913h1522x0y210o/202611/ea3d9975-5bde-4a95-a8d2-14f3a5844149/die-anthropic-geschwister.webp"
         },
         {
-          "title": "F.A.Z. Frühdenker: Wie friedlich bleiben die Gen-Z-Proteste?",
-          "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wie-friedlich-bleiben-die-gen-z-proteste-faz-fruehdenker-accg-201700176.html",
-          "summary": "Europaweit geht die Gen Z auf die Straße. In Deutschland hat die IG Metall zum Warnstreik aufgerufen. Und: Putin lädt die Europäer nach Moskau ein. Frühdenker.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/7a2d0a47ec4f/w4849h2533x0y349o/202611/47b489aa-4ad3-4a0a-ad82-76f558149c9a/teilnehmerinnen-und-teilnehmer.webp"
-        },
-        {
-          "title": "Rhein-Main-Liveblog: Was man zum Protesttag in Frankfurt wissen muss",
-          "url": "https://www.faz.net/aktuell/rhein-main/frankfurt-steht-vor-neuen-jugendprotesten-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
-          "summary": "Was ist los in Frankfurt & Hessen? Lesen Sie aktuelle News & Nachrichten im News-Ticker von heute ► Was heute wichtig ist, erfahren Sie bei der F.A.Z.",
+          "title": "Aktienkurse sinken: Verpuffter Börsengang von Anthropic belastet den Markt",
+          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/rekord-boersengang-von-anthropic-verpufft-an-asiens-aktienmaerkten-accg-201700660.html",
+          "summary": "Die Börsen rund um die Welt verbuchen sinkende Kurse. Der Rekord-Börsengang von Anthropic kann den KI-Boom bisher nicht wiederbeleben.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/d0f7de7a0411/w6144h3210x0y954o/202611/1b6c9b91-fd43-45e4-b94e-04f30c27acb7/handwerker-sichern.webp"
+          "image": "https://media0.faz.net/image/w1200h627/21fa96d930c1/w2945h1538x0y119o/202611/e07bbde3-225a-4dd6-9cce-9f3cc31753db/der-dax-hat-eine-schlechte.webp"
+        },
+        {
+          "title": "Neue Gen-Z-Proteste: „Die Schulen sind nicht kaputtgespart, im Gegenteil“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/oekonom-zum-bildungsprotest-die-schulen-sind-nicht-kaputtgespart-im-gegenteil-accg-201694211.html",
+          "summary": "Jugendliche und Schüler planen neue Proteste. Die Bundesschülerkonferenz stellt zehn Forderungen für ein besseres Bildungssystem. Ein Ökonom nimmt sie unter die Lupe – und zieht ein kritisches Fazit.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/af27c02d5d05/w8198h4283x0y356o/66cf40b2-a1eb-4e31-90aa-f8837c6c4b78-_2VL2236.jpg/kaputtgespartes-bildungssystem.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "USA nach den Kongresswahlen: Wie Donald Trump die Manosphere verloren hat",
+          "url": "https://www.spiegel.de/ausland/usa-nach-den-kongresswahlen-wie-donald-trump-die-manosphere-verloren-hat-a-a60fcbfc-814c-4f73-843a-cf8ca2694f53#ref=rss",
+          "summary": "Sie hatten Trump gefeiert und zu seiner Wahl aufgerufen. Nun distanzieren sich einflussreiche Podcaster und rechte Männer-Influencer vom US-Präsidenten. Dabei geben sie sich demonstrativ politikverdrossen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/cb27f092-5ab7-48ef-b57e-f34e7df5be9a_w1200_r1.778_fpx40.02_fpy50.jpg"
+        },
         {
           "title": "Erbschaftsteuer: CDU und SPD fordern schärfere Regeln für Steuerschlupflöcher",
           "url": "https://www.spiegel.de/politik/deutschland/erbschaftsteuer-cdu-und-spd-fordern-schaerfere-regeln-fuer-steuerschlupfloecher-a-61bda154-e21b-4e27-b33b-d9d8433ea4d6#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/1ad86a3e-828e-4440-ae1b-e86afe5fe3d9_w1200_r1.778_fpx48.67_fpy45.jpg"
         },
         {
-          "title": "News: Klimakonferenz endet, Jugend demonstriert, Bundesrat beschließt digitale Geldbörse",
-          "url": "https://www.spiegel.de/politik/deutschland/news-klimakonferenz-endet-jugend-demonstriert-bundesrat-beschliesst-digitale-geldboerse-a-aedaefe0-00a1-4105-8774-4a5de8dde5f4#ref=rss",
-          "summary": "In Antalya dümpelt die Klimakonferenz ihrem Ende entgegen. In ganz Deutschland wollen junge Leute protestieren. Und mit dem Smartphone soll bald vieles viel einfacher gehen. Das ist die Lage am Freitagmorgen.",
+          "title": "»Gen Z regelt«: So laufen die Proteste – Newsblog",
+          "url": "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-so-laufen-die-proteste-newsblog-a-5b6f94e2-5b27-476e-966d-50850ad73956#ref=rss",
+          "summary": "In Dutzenden Städten haben »Gen Z regelt« und andere Initiativen Aktionen angekündigt. Auch im Ausland soll demonstriert werden. Die Entwicklungen im Newsblog.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b3ddb13b-50c7-4b96-914f-3d308dff3a13_w1200_r1.778_fpx30.31_fpy45.jpg"
-        },
-        {
-          "title": "Donald Trump: Und dann platzt der Anruf des US-Präsidenten in den Berliner Ukraine-Gipfel",
-          "url": "https://www.spiegel.de/politik/deutschland/donald-trump-und-dann-platzt-der-anruf-des-us-praesidenten-in-den-berliner-ukraine-gipfel-a-e17f1422-851e-42e5-95b7-fbbd0c8db3b8#ref=rss",
-          "summary": "Kanzler Merz hat 40 Regierungen zum Unterstützergipfel für die Ukraine versammelt. Da meldet sich US-Präsident Trump aus der »Air Force One«. Zuvor hatte er in China mit dem russischen Machthaber Putin verhandelt.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/356093d4-010b-4bec-bbf4-0a890a6fb96e_w1200_r1.778_fpx60.9_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/8c00f04c-dbfd-4bb0-9f00-627db659c525_w1200_r1.778_fpx65.23_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
-          "url": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
-          "summary": "Mehr Schutz für Verbraucher, mehr Kontrolle bei Krediten: Von heute an gilt die neue Verbraucherkreditrichtlinie. Selbst kleine Beträge wie bei \"Heute kaufen, später zahlen\" verlangen von Anbietern nun mehr Aufwand. Von Juri Sonnenholzner.",
+          "title": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
+          "url": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
+          "summary": "Der größte Rivale von Präsident Erdoğan sitzt bereits im Gefängnis. Nun verhindert ein weiteres Gerichtsurteil, dass İmamoğlu bei der nächsten Wahl kandidieren darf. Es geht dabei um seinen Hochschulabschluss.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/98eed3c0-b771-4df1-9f2a-7325989e6acf/AAABofONPdU/AAABnSSvrFg/16x9-big/smartphone-322.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/aa9bbbd0-4889-44cc-9016-eacb8bfdb00b/AAABofhGFmM/AAABnSSvrFg/16x9-big/imamoglu-168.jpg?width=1280"
         },
         {
-          "title": "WG-Mieten steigen stark: Kann sich die Gen Z Wohnen noch leisten?",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/wg-zimmer-gen-z-proteste-wohnungskrise-100.html",
-          "summary": "Heute demonstrieren erneut junge Menschen unter dem Motto \"Gen Z regelt\". Es geht ihnen auch um ein bezahlbares Leben. Denn inzwischen entscheiden auch Mietpreise darüber, wer wo studieren kann. Von Alexander C. Mühlhausen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/82f05aee-fc94-4611-96c4-fa62e46c617c/AAABofMMME4/AAABnSSvrFg/16x9-big/wohnungssuchende-100.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: DAX dürfte trotz Anthropic-Hype weiter fallen",
+          "title": "Marktbericht: DAX-Talfahrt setzt sich fort",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-          "summary": "Der Anthropic-Funke ist nicht auf die Börsen übergesprungen: Der DAX dürfte deutlich schwächer starten, auch die Wall Street ist weit zurückgefallen. Aber nicht nur Technologiewerte verlieren.",
+          "summary": "Der DAX fällt im frühen Handel weit zurück, es droht der sechste Verlusttag in Folge. Das erfolgreiche Börsendebüt von Anthropic hat die Stimmung nicht aufgehellt, und die Inflationssorgen erhalten neue Nahrung.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5c52df02-e6ba-4229-a355-64a0f5be2ce1/AAABnLJUK0w/AAABnSSvrFg/16x9-big/boerse-492.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/08ae1278-d545-43b3-b614-0a7c91771de8/AAABnIlTn5c/AAABnSSvrFg/16x9-big/boerse-482.jpg?width=1280"
+        },
+        {
+          "title": "Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html",
+          "summary": "Kein Lohnplus, mehr Arbeit, weniger Extras: VW hat der IG Metall einen Forderungskatalog vorgelegt, der es in sich hat. Was auf die Beschäftigten zukommen könnte - und warum eine schnelle Einigung kaum möglich ist.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/be4e6705-b934-40de-b2f9-98a05b3abeff/AAABoVL-ZiA/AAABnSSvrFg/16x9-big/vw-1618.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Unterhaltsvorschuss: Wenn eine Gehaltserhöhung am Ende Geld kostet",
-          "url": "https://www.telepolis.de/article/Unterhaltsvorschuss-Wenn-eine-Gehaltserhoehung-am-Ende-Geld-kostet-11531614.html",
-          "summary": "Ab 2029 soll es Unterhaltsvorschuss nur noch bis 40. 000 Euro Einkommen geben. Ob ein Gehaltsplus Alleinerziehende ärmer macht? Das Ministerium schweigt.",
+          "title": "Tiefkühltruhe oder Dose: Was ist gesünder, was besser?",
+          "url": "https://www.telepolis.de/article/Tiefkuehltruhe-oder-Dose-Was-ist-gesuender-was-besser-11530823.html",
+          "summary": "Frisches Gemüse gilt als gesünder, doch Tiefkühlkost und Konserven sind oft günstiger und zudem länger haltbar. Was enthält mehr Nähr- und weniger Zusatzstoffe?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/4/8/8/4/shutterstock_2782105459-d50454cb86db9aad.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/4/4/8/4/Picto_Std-cf140e4f0033c570.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Zeitenwende akademisch: Wie Hochschulen für Militär und Rüstung getrimmt werden",
-          "url": "https://www.telepolis.de/article/Zeitenwende-akademisch-Wie-Hochschulen-fuer-Militaer-und-Ruestung-getrimmt-werden-11530675.html",
-          "summary": "Auch an der Universität Kassel fällt die Zivilklausel. Wird hier einem neuen Forschergeist der Weg bereitet? Der Trend ist längst bundesweit zu beobachten.",
+          "title": "Suchmaschinen übertreffen KI-Anwendungen in mehrerer Hinsicht",
+          "url": "https://www.telepolis.de/article/Suchmaschinen-uebertreffen-KI-Anwendungen-in-mehrerer-Hinsicht-11532077.html",
+          "summary": "Im Vergleich zur Google-Suche liefern KI-Chatbots einförmigere Informationen. Forschende warnen vor einem möglichen „Wissenskollaps“. Eine Analyse.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/4/4/0/7/metamorworks-4978c8ebf70b4ab4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/1/1/6/Master_Koehler-dcd21535eb161b3e.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Estlands Schulen testen KI. Was können Schüler danach allein?",
-          "url": "https://www.telepolis.de/article/Estlands-Schulen-testen-KI-Was-koennen-Schueler-danach-allein-11531070.html",
-          "summary": "Estland erprobt einen KI-Tutor, der Schüler nach ihrem Lösungsweg fragt. Sachsen schaut hin. Erste Studienergebnisse werden Ende 2026 erwartet.",
+          "title": "Versorgung mit Medikamenten könnte unwirtschaftlich werden",
+          "url": "https://www.telepolis.de/article/Versorgung-mit-Medikamenten-koennte-unwirtschaftlich-werden-11528735.html",
+          "summary": "Patienten kaufen immer weniger bei öffentlichen Apotheken, aber auch Versandapotheken bekommen inzwischen Probleme. Muss der Steuerzahler die Branche retten?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/4/6/0/8/Master_KI_Estland-51276bf74a8d91bc.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/4/2/1/Pillen-Steifen-F2-12afedabf72f6fa4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "USA: Trump warnt Musk vor Maga-Absprung",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-musk-li.3578585",
-          "summary": "Musk hatte nach den Wahldebakel der Republikaner versucht, auf Distanz zum Trump-Lager zu gehen. Derweil verlässt der oberste Berater für Cybersicherheit der US-Regierung nach einigen Technikpannen seinen Posten.",
+          "title": "Leute: Der sechsjährige Sauerteig des Mario Barth",
+          "url": "https://www.sueddeutsche.de/panorama/promis-mario-barth-brot-sauerteig-backen-li.3583487",
+          "summary": "Der Vollzeit-Comedian ist ein viel beschäftigter Hobbybäcker. Jan Josef Liefers macht einen auf Hobbypolitberater. Und Bill und Tom Kaulitz verstehen sich allerhöchstens als Hobbymoderatoren.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Verteidigungsminister: Warum Boris Pistorius gerade jetzt Auschwitz besucht",
-          "url": "https://www.sueddeutsche.de/politik/boris-pistorius-auschwitz-afd-verbotsverfahren-verteidigungsminister-spd-li.3583141",
-          "summary": "In Berlin gibt es einen Ukraine-Gipfel, die SPD sucht neue Chefs, aber Boris Pistorius besucht Auschwitz. Er hat eine Mission, versucht aufzurütteln. Und will einen Antrag auf ein AfD-Verbotsverfahren.",
+          "title": "Krieg in der Ukraine: Polens Regierung: Russische Flugobjekte verletzen Luftraum",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-polen-russland-luftraum-li.3571967",
+          "summary": "Während russischer Luftangriffe auf die Ukraine sind nach Angaben der Regierung in Warschau mehrere russische Flugobjekte in den polnischen Luftraum eingedrungen.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Krieg in der Ukraine: Schäden an Botschaften: EU bestellt russischen Vertreter ein",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-macron-nato-beitritt-berlin-koalition-der-willigen-botschaften-li.3571967",
-          "summary": "Während Putin beim Gipfel in China auftritt, beschießen die Russen Kiew. Auch mehrere Botschaften werden beschädigt. Betroffene sind schockiert, EU-Chefdiplomatin Kallas reagiert.",
+          "title": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
+          "url": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
+          "summary": "Mehr als 40 Rennen, rund 20 Weltcup-Stationen und eine WM: Die neue Ski-Alpin-Saison startet Ende Oktober in Sölden. Wir geben einen Überblick, wann wo welcher Wettbewerb stattfindet.",
           "source": "SZ",
           "paywall": false,
           "image": null
