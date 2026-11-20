@@ -1,10 +1,18 @@
 {
-  "generated": "2026-11-20T19:00:08.693Z",
-  "timestamp": "20.11.2026, 20:00:08",
+  "generated": "2026-11-20T23:00:07.860Z",
+  "timestamp": "21.11.2026, 00:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Sorge um Wohlstand: Die allermeisten Deutschen sind reicher geworden",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
+          "summary": "Die Angst vor dem Verlust von Wohlstand ist auch in Deutschland groß. Zwei neue Studien nehmen die Entwicklungen von Löhnen und Einkommen in den Blick – und zeigen klare Trends.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/418b2cd99ec3/w6144h3210x0y443o/202610/10321bf4-08e3-4513-836c-82c43f5aa966/passanten-mit-einkaufsbeuteln.webp"
+        },
         {
           "title": "Ukraine-Gespräche: Jetzt nicht auf Putin hereinfallen",
           "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-diplomatie-europa-darf-nicht-auf-putin-hereinfallen-201701902.html",
@@ -20,20 +28,20 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/0d1ed8478c8b/w5154h2692x983y103o/202611/4675f8f0-b1f5-47f3-bec7-d700b4412290/die-willigen-in-berlin-kanzler.webp"
-        },
-        {
-          "title": "Liveblog Ukrainekrieg: Dänemark: Moskau wollte ukrainischen Rapper töten",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-soll-anschlag-auf-ukrainischen-rapper-in-daenemark-geplant-haben-faz-110683325.html",
-          "summary": "Kopenhagen weist russischen Diplomaten aus +++ Marschflugkörper in Polen abgestürzt – Verteidigungsminister spricht von „Provokation“ +++ Pistorius offen für Gespräche +++ alle Neuigkeiten im Liveblog",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/5cec7c82939a/w6365h3325x0y133o/202611/318a3eff-2f69-4f7e-8f38-f98a61ab4445/rasmus-kieffer-kristensen-chef.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+          "summary": "Der Techkonzern Nvidia rutscht immer tiefer in die Krise. Nach dem Skandal um Jensen Huang untersucht die US-Börsenaufsicht nun offenbar mutmaßliche Bilanzprobleme. Bekannt werden auch neue Details über seine Geliebte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/cc7027ba-5b52-4a03-9596-b901f583dae6_w1200_r1.778_fpx58_fpy54.jpg"
+        },
         {
           "title": "IT-Pannen in den USA: Konsumenten machen Hamsterkäufe und horten Cash",
           "url": "https://www.spiegel.de/wirtschaft/it-pannen-in-den-usa-konsumenten-machen-hamsterkaeufe-und-horten-cash-a-22195e2e-401b-44e2-bd8d-8780bf9bb0c9#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e44cb195-1635-4ac2-bd76-827198710fc7_w1200_r1.778_fpx34.35_fpy50.jpg"
         },
         {
-          "title": "News des Tages: Brexit, EU, Großbritannien, Gender-Pay-Gap, Gehalt, Frauen, Gen Z regelt",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-brexit-eu-grossbritannien-gender-pay-gap-gehalt-frauen-gen-z-regelt-a-36f1b0f0-e6db-4398-b6be-d3a36d98604d#ref=rss",
-          "summary": "Großbritanniens Premier Andy Burnham tastet sich an die EU heran. Frauen in Europa arbeiten den Rest des Jahres quasi umsonst. Und: Die Gen Z geht wieder auf die Straße. Das ist die Lage am Freitagabend.",
+          "title": "Genozid-Urteil: Was die Entscheidung des Weltgerichts in Den Haag für Israel bedeutet",
+          "url": "https://www.spiegel.de/ausland/genozid-urteil-was-die-entscheidung-des-weltgerichts-in-den-haag-fuer-israel-bedeutet-a-fe9b69b6-b00f-4162-a1ed-e6120818020a#ref=rss",
+          "summary": "Der Internationale Gerichtshof stuft Myanmars Gräueltaten an den Rohingya als Völkermord ein. Der Völkerrechtler Kai Ambos sagt, warum die Richter so entschieden haben – und was das für das Gaza-Verfahren bedeutet.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/34c3b480-42dd-4a39-9852-154356c32e50_w1200_r1.778_fpx60_fpy45.jpg"
-        },
-        {
-          "title": "Andy Burnham und die EU: In Brüssel wird wieder die britische Nationalhymne gespielt",
-          "url": "https://www.spiegel.de/ausland/andy-burnham-und-die-eu-in-bruessel-wird-wieder-die-britische-nationalhymne-gespielt-a-dfbc3de7-7dc2-4399-a513-1d48999eea85#ref=rss",
-          "summary": "Zehn Jahre nach dem Brexit-Referendum gehen die Briten unter Premier Burnham und die EU aufeinander zu – in kleinen Schritten. Vor allem Studierende dürfen sich freuen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9943043e-5197-4e67-a3c6-7b02b2bafe4e_w1200_r1.778_fpx39.26_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/87de0fef-8484-4572-bbec-e425fa7752fb_w1200_r1.778_fpx44_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurf",
+          "title": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
+          "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
+          "summary": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Als Reaktion wurde ein russischer Diplomat ausgewiesen. Zwei Verdächtige sitzen in Untersuchungshaft.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/fdb97cf4-2dd2-4866-ba11-31f4c4c6202b/AAABofqwIi0/AAABnSSvrFg/16x9-big/daenemark-anschlagsplaene-100.jpg?width=1280"
+        },
+        {
+          "title": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
+          "url": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
+          "summary": "Der Fall erinnert an das Martyrium der Französin Gisèle Pelicot. Die Britin Joanne Young wurde über Jahre von ihrem Ehemann betäubt - und dann im Internet zur Vergewaltigung angeboten. Nun wurden vier Männer schuldig gesprochen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/e31eb7e4-cd59-42b6-81c3-eba683721b8c/AAABofqLySg/AAABnSSvrFg/16x9-big/joanne-young-102.jpg?width=1280"
+        },
+        {
+          "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
           "url": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
           "summary": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt eine neue Anzeige vor - es geht um den Vorwurf der Gruppenvergewaltigung. Laut einem Medienbericht geschah diese 2018 bei einem Filmdreh. Von C. Rienäcker.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/28b39636-2039-415d-8fa5-61d2802972a5/AAABofo0F2g/AAABnSSvrFg/16x9-big/depardieu-124.jpg?width=1280"
-        },
-        {
-          "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
-          "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
-          "summary": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/ec783a36-ce52-49cd-83ec-8b5b9ae2a768/AAABofoZkxg/AAABnSSvrFg/16x9-big/burnham-eu-102.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-          "summary": "An den Finanzmärkten rollt eine Verkaufswelle durch den vom Erfolg verwöhnten Technologiesektor. Der DAX folgt den Verlusten an der Wall Street und schließt mit dem höchsten Wochenminus seit Monaten.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/637010d4-8a67-4354-8847-b316454ab453/AAABocSOaSA/AAABnSSvrFg/16x9-big/boerse-572.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "1:1 gegen 1. FC Köln: Kane fehlt den Bayern monatelang",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-koeln-kompany-kane-olise-li.3583872",
+          "summary": "Der FC Bayern rettet gegen den 1. FC Köln ein 1:1 ins Ziel – und muss die nächsten beiden Verletzten beklagen: Harry Kane und Michael Olise müssen früh ausgewechselt werden, der Stürmer zieht sich einen Syndesmoseriss zu.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Rummenigge über Musiala: „... dann sind diese Summen natürlich – mit Verlaub – nicht mehr darstellbar“",
+          "url": "https://www.sueddeutsche.de/sport/rummenigge-musiala-vertrag-bayern-li.3583898",
+          "summary": "Der Aufsichtsrat des FC Bayern äußert sich zur Situation von Jamal Musiala. Sollte der nicht mehr auf sein altes Leistungsniveau kommen, müsse über einen Gehaltsverzicht gesprochen werden.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
           "url": "https://www.sueddeutsche.de/politik/gen-z-proteste-schueler-studierende-frankfurt-berlin-ausschreitungen-gewerkschaften-li.3582673",
           "summary": "Wieder demonstrieren junge Menschen in Dutzenden Städten. Schülervertreter suchen den Schulterschluss mit Eltern und Erziehungsgewerkschaft. Die Sorge vor Ausschreitungen bleibt.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "USA: Trump will Bau von US-Rechenzentren im Ausland verbieten",
-          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-rechenzentren-li.3578585",
-          "summary": "Unternehmen, die sich daran nicht hielten, müssten mit einer „enormen Steuer“ rechnen, droht der US-Präsident.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Gipfel in Antalya: Giftige Stimmung zwischen armen und reichen Ländern",
-          "url": "https://www.sueddeutsche.de/politik/klimakonferenz-cop31-antalya-fossile-energien-klimahilfen-li.3583491",
-          "summary": "Zwei Wochen lang plätscherte die Klimakonferenz in Antalya vor sich hin, doch jetzt kochen die Emotionen hoch. Die ältesten Konflikte kommen wieder auf den Tisch. Und die Frage: Gibt es noch genug Staaten, die es ernst meinen?",
           "source": "SZ",
           "paywall": false,
           "image": null
