@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19T23:00:08.607Z",
-  "timestamp": "20.11.2026, 00:00:08",
+  "generated": "2026-11-20T03:00:09.242Z",
+  "timestamp": "20.11.2026, 04:00:09",
   "news": [
     {
       "source": "FAZ",
@@ -35,14 +35,6 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Großbritannien: Führt Andy Burnham sein Land zurück in die EU?",
-          "url": "https://www.spiegel.de/ausland/grossbritannien-fuehrt-andy-burnham-sein-land-zurueck-in-die-eu-a-d7a5e0ec-b446-4bb1-bb87-6accdbaed99b#ref=rss",
-          "summary": "Der neue britische Premier sagt offen: Der Brexit hat dem Land geschadet. Manche in Andy Burnhams Partei hoffen längst auf mehr – eine Volksabstimmung über die Rückkehr in die Europäische Union.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/34c3b480-42dd-4a39-9852-154356c32e50_w1200_r1.778_fpx60_fpy45.jpg"
-        },
-        {
           "title": "Donald Trump: Und dann platzt der Anruf des US-Präsidenten in den Berliner Ukraine-Gipfel",
           "url": "https://www.spiegel.de/politik/deutschland/donald-trump-und-dann-platzt-der-anruf-des-us-praesidenten-in-den-berliner-ukraine-gipfel-a-e17f1422-851e-42e5-95b7-fbbd0c8db3b8#ref=rss",
           "summary": "Kanzler Merz hat 40 Regierungen zum Unterstützergipfel für die Ukraine versammelt. Da meldet sich US-Präsident Trump aus der »Air Force One«. Zuvor hatte er in China mit dem russischen Machthaber Putin verhandelt.",
@@ -51,18 +43,34 @@
           "image": "https://cdn.prod.www.spiegel.de/images/356093d4-010b-4bec-bbf4-0a890a6fb96e_w1200_r1.778_fpx60.9_fpy49.99.jpg"
         },
         {
-          "title": "Peptide zum Selberspritzen: Was hinter dem gefährlichen Hype in den USA steckt",
-          "url": "https://www.spiegel.de/wissenschaft/peptide-zum-selberspritzen-was-hinter-dem-gefaehrlichen-hype-in-den-usa-steckt-a-8713f5b8-9b52-4aea-a2a1-82874f2d4b47#ref=rss",
-          "summary": "Sie heißen Melanotan oder Wolverine Stack: Mit Peptiden vom Graumarkt wollen sich Hunderttausende Menschen verjüngen oder ihre Potenz stärken. Doch die Mittel können gefährlich sein.",
+          "title": "Großbritannien: Führt Andy Burnham sein Land zurück in die EU?",
+          "url": "https://www.spiegel.de/ausland/grossbritannien-fuehrt-andy-burnham-sein-land-zurueck-in-die-eu-a-d7a5e0ec-b446-4bb1-bb87-6accdbaed99b#ref=rss",
+          "summary": "Der neue britische Premier sagt offen: Der Brexit hat dem Land geschadet. Manche in Andy Burnhams Partei hoffen längst auf mehr – eine Volksabstimmung über die Rückkehr in die Europäische Union.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e7ebf180-88e9-4b6f-b5db-126153fc2239_w1200_r1.778_fpx74_fpy49.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/34c3b480-42dd-4a39-9852-154356c32e50_w1200_r1.778_fpx60_fpy45.jpg"
+        },
+        {
+          "title": "Donald Trump warnt Elon Musk vor Absprung bei MAGA",
+          "url": "https://www.spiegel.de/ausland/donald-trump-warnt-elon-musk-vor-absprung-bei-maga-a-86e0a6f3-18e4-477d-8bd8-e7396533f0c5#ref=rss",
+          "summary": "Nach dem Wahldebakel der Republikaner bei der Parlamentswahl geht Tech-Milliardär Elon Musk auf Abstand zu Donald Trumps MAGA-Bewegung. Beim Präsidenten kommt das nicht so gut an.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/2cb868d6-b103-4d7e-938f-2ba8f8b6b354_w1200_r1.778_fpx33.34_fpy50.jpg"
         }
       ]
     },
     {
       "source": "Tagesschau",
       "headlines": [
+        {
+          "title": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
+          "url": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
+          "summary": "Insgesamt 1. 000 Stellen in München und Frankfurt will man bei der Lufthansa Airlines streichen, das geht aus einem Brief an Mitarbeiter hervor. Auf Anfrage wollte die Airline dem internen Schreiben \"nichts hinzufügen\".",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2841e225-4886-4828-8c4b-5ef6e85bc0ab/AAABofZ_wqM/AAABnSSvrFg/16x9-big/lufhansa-boeing-100.jpg?width=1280"
+        },
         {
           "title": "Strafbefehl gegen Tesla-Werksleiter",
           "url": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/64f4a9b9-4e61-4435-b1cf-7382c4ed3995/AAABofRu2k8/AAABnSSvrFg/16x9-big/putin-xi-trump-102.jpg?width=1280"
-        },
-        {
-          "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
-          "summary": "Die \"Koalition der Willigen\" verspricht, der Ukraine \"so lange wie nötig\" zu helfen. Nach dem Gipfel in Berlin rief Kanzler Merz Russlands Präsident Putin auf, die Waffen niederzulegen. Einen Frieden könne es nur mit Beteiligung Europas geben.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/3b7c6fa0-d02a-48ae-ac35-cd33b8e7e3b2/AAABofS75Xg/AAABnSSvrFg/16x9-big/koalition-der-willigen-118.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Gipfelnachbereitung bei „Maybrit Illner“: „Putin hätte doch nie geglaubt, dass die EU das fünf Jahre durchhalten würde“",
+          "url": "https://www.sueddeutsche.de/medien/talkrunde-zdf-krieg-sicherheitspolitik-experte-gipfel-merz-li.3583323",
+          "summary": "Mehr Fachgespräch als Schlagabtausch: Fünf Expertinnen und Experten, darunter SPD-Mann Sigmar Gabriel, erklären den Zuschauern fast aufgeräumt eine äußerst bedrohliche Weltlage.  Nur die Ukrainer haben – wie so oft – keine Stimme.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Koalition der Willigen: Die Europäer sind sich einig – dann ruft Trump aus der „Air Force One“ an",
           "url": "https://www.sueddeutsche.de/politik/ukraine-konferenz-berlin-friedrich-merz-donald-trump-jared-kushner-li.3582903",
           "summary": "Bundeskanzler Merz ist es wichtig, das Berliner Ukraine-Treffen als Gegenbild zum Gipfel von Shenzhen zu präsentieren – inklusive Lästerei über Trump, Putin und Xi. Seine Gäste sind zufrieden und lassen sich vom US-Präsidenten nicht aus dem Konzept bringen.",
@@ -133,14 +141,6 @@
           "title": "Krieg in der Ukraine: Macron: Nato-Beitritt der Ukraine muss wieder auf den Tisch",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-macron-nato-beitritt-ukraine-starke-armee-berlin-koalition-der-willigen-li.3571967",
           "summary": "Wegen ihrer starken Armee sei die Präsenz der Ukraine in dem Verteidigungsbündnis auf lange Sicht relevant, so der französische Präsident. Er nimmt in Berlin beim Ukraine-Gipfeltreffen teil.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "UN-Gericht: Ein Urteil, das Geschichte schreibt: Es war Völkermord an den Rohingya",
-          "url": "https://www.sueddeutsche.de/politik/myanmar-internationaler-gerichtshof-den-haag-urteil-rohingya-voelkermord-li.3581811",
-          "summary": "Die obersten Richter der UN halten es für erwiesen, dass das Militär von Myanmar die muslimische Minderheit mit „genozidaler Absicht“  gejagt und verfolgt hat. Das Urteil könnte auch für andere Konflikte bedeutsam werden.",
           "source": "SZ",
           "paywall": false,
           "image": null
