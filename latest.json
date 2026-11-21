@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T23:00:07.860Z",
-  "timestamp": "21.11.2026, 00:00:07",
+  "generated": "2026-11-21T03:00:08.820Z",
+  "timestamp": "21.11.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
+          "summary": "Krywyj Rih ist die Heimatstadt des ukrainischen Präsidenten Selenskyj. Nun wurde die Industriestadt erneut mit ballistischen Raketen beschossen. Eine Rakete schlug demnach nahe Wohnhäusern und einem Restaurant ein.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/9b3f1d60-628a-4f5d-bb7f-caa6b22aee9a/AAABofv5kMM/AAABnSSvrFg/16x9-big/ukraine-krywyj-rih-108.jpg?width=1280"
+        },
+        {
+          "title": "Jugendliche erneut zu Tausenden auf den Straßen",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+          "summary": "Zehntausende junge Menschen haben am Freitag friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2c703d3c-7472-41bf-bb2d-e59b13301821/AAABofv4RzI/AAABnSSvrFg/16x9-big/jugendproteste-120.jpg?width=1280"
+        },
+        {
           "title": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
           "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
           "summary": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Als Reaktion wurde ein russischer Diplomat ausgewiesen. Zwei Verdächtige sitzen in Untersuchungshaft.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/fdb97cf4-2dd2-4866-ba11-31f4c4c6202b/AAABofqwIi0/AAABnSSvrFg/16x9-big/daenemark-anschlagsplaene-100.jpg?width=1280"
-        },
-        {
-          "title": "Großbritannien: Schuldsprüche in Vergewaltigungsprozess",
-          "url": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
-          "summary": "Der Fall erinnert an das Martyrium der Französin Gisèle Pelicot. Die Britin Joanne Young wurde über Jahre von ihrem Ehemann betäubt - und dann im Internet zur Vergewaltigung angeboten. Nun wurden vier Männer schuldig gesprochen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/e31eb7e4-cd59-42b6-81c3-eba683721b8c/AAABofqLySg/AAABnSSvrFg/16x9-big/joanne-young-102.jpg?width=1280"
-        },
-        {
-          "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
-          "url": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
-          "summary": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt eine neue Anzeige vor - es geht um den Vorwurf der Gruppenvergewaltigung. Laut einem Medienbericht geschah diese 2018 bei einem Filmdreh. Von C. Rienäcker.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/28b39636-2039-415d-8fa5-61d2802972a5/AAABofo0F2g/AAABnSSvrFg/16x9-big/depardieu-124.jpg?width=1280"
         }
       ]
     },
