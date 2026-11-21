@@ -1,10 +1,26 @@
 {
-  "generated": "2026-11-21T11:00:07.472Z",
-  "timestamp": "21.11.2026, 12:00:07",
+  "generated": "2026-11-21T15:00:08.249Z",
+  "timestamp": "21.11.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Yale-Ökonomin Currie: „Es gibt keine neue Krise der mentalen Gesundheit“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schaden-die-sozialen-medien-der-psychischen-gesundheit-von-jugendlichen-accg-201624549.html",
+          "summary": "Die sozialen Medien machen unsere Kinder krank, glauben viele. Die Gesundheitsökonomin Janet Currie widerspricht – und sagt, wovon die mentale Gesundheit von Teenagern wirklich abhängt.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/928f2215549a/w7088h3703x721y323o/202611/e1331781-f849-4af9-8cad-c09675d48f6b/es-gibt-nur-schwache-belege.webp"
+        },
+        {
+          "title": "Psychische Belastungen: Die Leiden einer Krisengeneration",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mentale-gesundheit-junger-menschen-was-der-oecd-bericht-zeigt-accg-201695949.html",
+          "summary": "Um die mentale Gesundheit junger Menschen steht es seit Jahren schlecht. Woher das kommt und was es anrichtet, ist bekannt – trotzdem sind die Versäumnisse groß.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/58cede80aa8e/w4512h2357x487y434o/ffc08d91-7f64-4d4c-9d25-a8543a9ff646-1O7A3334-2-.jpg/protestierende-waehrend-einer.webp"
+        },
         {
           "title": "Bilanzierungspraktiken: US-Börsenaufsicht ermittelt gegen Nvidia – Aktie fällt um 14 Prozent",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/64035fdf9a04/w4096h2140x0y277o/202611/b66b39cf-38fc-4e50-bd37-ebcf8b6efad0/vor-wenigen-wochen-war-der.webp"
-        },
-        {
-          "title": "KI-Chips: Es gibt Alternativen zu Nvidia",
-          "url": "https://www.faz.net/premium/weltwirtschaft/weltwissen/alternativen-zu-nvidia-welche-ki-chips-wirklich-konkurrieren-accg-201674354.html",
-          "summary": "Nvidia dominiert den Markt für KI-Chips. Doch es gibt auch andere Anbieter, und die haben manchmal sogar Vorzüge.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/163b35531c29/w7488h3912x0y347o/202611/b4cfb3fd-d931-4b82-b5aa-266a72cfd738/nvidia-chef-jensen-huang-hat.webp"
-        },
-        {
-          "title": "Künstliche Intelligenz: Warum Anthropic nicht zu abhängig von Nvidia werden will",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-anthropic-nicht-zu-abhaengig-von-nvidia-werden-will-accg-201694752.html",
-          "summary": "Anthropic schafft heute einen Rekordbörsengang. Wichtig ist für seine Zukunft die Beziehung zum Chipchampion Nvidia. Doch wie steht es darum? Und was ändert sich durch den Rücktritt von Jensen Huang?",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/f52541c973fb/w8256h4313x0y165o/202611/d81c3fff-71ac-4506-997f-2723a58b45be/wie-wenn-man-atomwaffen-nach.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Nvidia und Anthropic: Das steckt hinter dem Börsenbeben",
+          "url": "https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss",
+          "summary": "An den Finanzmärkten geht die Angst um. Die Kurse vieler Techaktien stürzen ab. Der Chiphersteller Nvidia hat binnen weniger Wochen fast die Hälfte seines Börsenwerts verloren. Was ist da los? Was Sie jetzt wissen müssen.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f966ce4c-6f78-49f8-8734-169108911821_w1200_r1.778_fpx40.01_fpy49.99.jpg"
+        },
+        {
+          "title": "TV-Interview von Karl-Heinz Rummenigge: Der Angriff auf Jamal Musiala",
+          "url": "https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss",
+          "summary": "Karl-Heinz Rummenigge stellt den neurologisch erkrankten Jamal Musiala in einem denkwürdigen Interview zur Schau, seine Zukunft und sein Gehalt infrage. Über einen einmaligen Vorgang in der Clubgeschichte.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/6e6becaf-598b-4c1d-9554-7a3551f7d7e1_w1200_r1.778_fpx41.95_fpy46.94.jpg"
+        },
+        {
           "title": "Arbeitsmarkt: Für welche jungen Akademiker die Jobsuche immer schwerer wird",
           "url": "https://www.spiegel.de/start/arbeitsmarkt-fuer-welche-jungen-akademiker-die-jobsuche-immer-schwerer-wird-a-003279ec-e410-4a3d-830a-666366670b74#ref=rss",
           "summary": "Jung und studiert: Das waren mal beste Voraussetzungen für einen guten Job. Aber die Zahl arbeitsloser Akademiker steigt rasant. Die Datenanalyse.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/faaa16cc-c5e3-457e-8ad1-3de1817310ce_w1200_r1.778_fpx52_fpy50.jpg"
-        },
-        {
-          "title": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
-          "summary": "Der Techkonzern Nvidia rutscht immer tiefer in die Krise. Nach dem Skandal um Jensen Huang untersucht die US-Börsenaufsicht nun offenbar mutmaßliche Bilanzprobleme. Bekannt werden auch neue Details über seine Geliebte.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cc7027ba-5b52-4a03-9596-b901f583dae6_w1200_r1.778_fpx58_fpy54.jpg"
-        },
-        {
-          "title": "Autobahnen: Vertrauliches Gutachten empfiehlt Pkw-Maut zur Finanzierung",
-          "url": "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
-          "summary": "Reicht das Geld, um Deutschlands Autobahnen langfristig zu finanzieren? Ein vertrauliches Gutachten für die Bundesregierung weckt erhebliche Zweifel. Experten schlagen darin ein heikles Instrument vor.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3787f14f-3c5f-4314-bf15-bcd2bb9f9856_w1200_r1.778_fpx33.33_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
-          "summary": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten.",
+          "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+          "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+          "summary": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, die Besatzung wurde nach russischen Angaben gerettet. Finnland schickte Helfer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3d78b85a-444b-4405-bcd3-f6852feadded/AAABle0sLHE/AAABnSSvrFg/16x9-big/smartphone-boersenkurse-101.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/4ffc6b7b-b5a0-479c-aad8-927bf984e3dc/AAABof4zEqY/AAABnSSvrFg/16x9-big/sparta-2-100.jpg?width=1280"
         },
         {
-          "title": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
-          "summary": "Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.",
+          "title": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
+          "url": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
+          "summary": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/0c6d5cc7-4763-4984-83f0-1b96f3ffc74e/AAABnb-A6wU/AAABnSSvrFg/16x9-big/passanten-innenstadt-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0c24484f-639f-48c0-ad82-342eb5c57366/AAABof5OYYo/AAABnSSvrFg/16x9-big/schettino-121.jpg?width=1280"
         },
         {
-          "title": "Erdbeben erschüttert Perus Andenregion",
-          "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
-          "summary": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt.",
+          "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+          "summary": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6b6c6cae-4905-4f19-a88d-119b19ec276d/AAABof1qMKc/AAABnSSvrFg/16x9-big/lima-erdbeben-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/59680543-e758-4c86-b9bd-47eec3847061/AAABof4dVkI/AAABnSSvrFg/16x9-big/gennaro-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Kampf gegen Rom: Viriatus der Lusitaner forderte das Imperium heraus",
-          "url": "https://www.telepolis.de/article/Kampf-gegen-Rom-Viriatus-der-Lusitaner-forderte-das-Imperium-heraus-11532185.html",
-          "summary": "Ein Bündnis hispanischer Stämme wehrt sich gegen ihre Unterwerfung (147–139 v. Chr.). Rom giert nach Siedlungsland, Sklaven und Edelmetallen (Teil 3/6).",
+          "title": "Drohnenangriff auf Sparta II: Brennendes Schiff treibt in der Ostsee",
+          "url": "https://www.telepolis.de/article/Drohnenangriff-auf-Sparta-II-Brennendes-Schiff-treibt-in-der-Ostsee-11533586.html",
+          "summary": "Der russische Frachter Sparta II wurde im Finnischen Meerbusen von Drohnen getroffen und trieb brennend in finnische Gewässer. Was über den Vorfall bekannt ist.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/1/7/1/hispania_2-aade29a903b0a04c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/8/7/8/shutterstock_2440835205-286895a7ca56f231.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "IEA-Energiebericht: Wenn Klimaanlagen plötzlich mehr verbrauchen als Heizungen",
-          "url": "https://www.telepolis.de/article/IEA-Energiebericht-Wenn-Klimaanlagen-ploetzlich-mehr-verbrauchen-als-Heizungen-11532982.html",
-          "summary": "Europa, Indien und Afrika beschreiten in Bezug auf ihren Energieverbrauch sehr verschiedene Entwicklungspfade. Das 1,5-Prozent-Ziel verschwindet im Rückspiegel.",
+          "title": "Kontosperrung bei DiEM25: Wenn Banken über politische Arbeit entscheiden",
+          "url": "https://www.telepolis.de/article/Kontosperrung-bei-DiEM25-Wenn-Banken-ueber-politische-Arbeit-entscheiden-11532800.html",
+          "summary": "Warum sperrt eine belgische Bank das Konto einer europäischen Bewegung? Julijana Zita von DiEM25 über Debanking, Gaza und die Folgen für die Zivilgesellschaft.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/5/7/5/VisualTreat1992-38be816e4494b31c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/4/8/4/tresor-3n-bcaa5426693266a4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "LNG-Tanker meiden Hormus: Darum wird Benzin billiger, Gas aber nicht",
-          "url": "https://www.telepolis.de/article/LNG-Tanker-meiden-Hormus-Darum-wird-Benzin-billiger-Gas-aber-nicht-11533228.html",
-          "summary": "Nur zwei LNG-Tanker passierten Hormus in einer Woche statt acht. Katar kann nicht umleiten, die Reparatur von Ras Laffan dauert laut QatarEnergy drei Jahre.",
+          "title": "„Es braucht etwas Radikales“: Was die Mitte überhört",
+          "url": "https://www.telepolis.de/article/Es-braucht-etwas-Radikales-Was-die-Mitte-ueberhoert-11533502.html",
+          "summary": "Mehr als 30 Prozent der Befragten stimmen dem Satz in der Leipziger Autoritarismus-Studie zu. Was haben die Volksparteien ihnen zu sagen? Ein Kommentar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/6/9/8/shutterstock_1295259748-15fb6b6a25c258eb.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/8/3/6/Master_reichstag_im_herbst-24b8a31cfec6a762.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Krieg in der Ukraine: Selenskij: Krim-Brücke wird nicht stehen bleiben",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krim-bruecke-angriffe-selenskij-russland-li.3571967",
-          "summary": "Die Ukraine hat das Bauwerk in den vergangenen Tagen mehrfach angegriffen. Nun erklärt der ukrainische Präsident: Die von Russland erbaute Brücke hat keine Zukunft.",
+          "title": "Beisetzung von Hubert Aiwanger: „Du warst ein Unikat, einer, den man nicht ersetzen kann“",
+          "url": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-niederbayern-freie-waehler-li.3583841",
+          "summary": "Vor einer Woche wurden Pontifikalrequiem und Staatsakt für Hubert Aiwanger in München gehalten, nun ist der verstorbene Chef der Freien Wähler unter großer Anteilnahme in seiner Heimat beigesetzt worden.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "JHV des FC Bayern: Reden und Rekordzahlen",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-jhv-jahreshauptversammlung-liveticker-li.3583987",
-          "summary": "Der FC Bayern lädt zu seiner Jahreshauptversammlung. Vereinspräsident Herbert Hainer und der Vorstandsvorsitzende Jan-Christian Dreesen sprechen zu den Mitgliedern. Die Veranstaltung im Liveblog.",
+          "title": "Ski-Alpin-Saison 2026/27: Von Slalom bis Abfahrt: der Weltcup-Kalender zu allen Rennen",
+          "url": "https://www.sueddeutsche.de/sport/ski-alpin-kalender-saison-2026-27-rennen-weltcup-ueberblick-li.3557187",
+          "summary": "Mehr als 40 Rennen, rund 20 Weltcup-Stationen und eine WM: Die neue Ski-Alpin-Saison startet Ende Oktober in Sölden. Wir geben einen Überblick, wann wo welcher Wettbewerb stattfindet.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "FC Bayern: Überall Verletzungen",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-kane-verletzung-musiala-rummenigge-kritik-li.3583903",
-          "summary": "In Harry Kane fällt nun auch der wichtigste Spieler monatelang aus – und Karl-Heinz Rummenigge geht in einem Interview auf Jamal Musiala los: Die Saison des FC Bayern wird von Problemen überlagert.",
+          "title": "Wochenzeitung „Nius“: Frisch gedruckte rechte Wut",
+          "url": "https://www.sueddeutsche.de/medien/nius-julian-reichelt-wochenzeitung-wolfgang-kubicki-gloria-von-thurn-und-taxis-li.3583765",
+          "summary": "Julian Reichelts „Nius“ gibt es jetzt auch auf Papier. Mit dabei: Gloria von Thurn und Taxis, ein vierseitiger Frauenteil und Wolfgang Kubicki, der als Gewinner gefeiert wird.",
           "source": "SZ",
           "paywall": false,
           "image": null
