@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T03:00:08.820Z",
-  "timestamp": "21.11.2026, 04:00:08",
+  "generated": "2026-11-21T07:00:08.848Z",
+  "timestamp": "21.11.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -35,6 +35,14 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "Autobahnen: Vertrauliches Gutachten empfiehlt Pkw-Maut zur Finanzierung",
+          "url": "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
+          "summary": "Reicht das Geld, um Deutschlands Autobahnen langfristig zu finanzieren? Ein vertrauliches Gutachten für die Bundesregierung weckt erhebliche Zweifel. Experten schlagen darin ein heikles Instrument vor.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/3787f14f-3c5f-4314-bf15-bcd2bb9f9856_w1200_r1.778_fpx33.33_fpy49.99.jpg"
+        },
+        {
           "title": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
           "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
           "summary": "Der Techkonzern Nvidia rutscht immer tiefer in die Krise. Nach dem Skandal um Jensen Huang untersucht die US-Börsenaufsicht nun offenbar mutmaßliche Bilanzprobleme. Bekannt werden auch neue Details über seine Geliebte.",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/cc7027ba-5b52-4a03-9596-b901f583dae6_w1200_r1.778_fpx58_fpy54.jpg"
         },
         {
-          "title": "IT-Pannen in den USA: Konsumenten machen Hamsterkäufe und horten Cash",
-          "url": "https://www.spiegel.de/wirtschaft/it-pannen-in-den-usa-konsumenten-machen-hamsterkaeufe-und-horten-cash-a-22195e2e-401b-44e2-bd8d-8780bf9bb0c9#ref=rss",
-          "summary": "Microsoft, United Airlines, die größte Bank und andere Unternehmen: Der Ausfall von Computersystemen hat Millionen Menschen in den USA verunsichert. Es kam zu Hamsterkäufen, mit Bedeutung für die gesamte Wirtschaft.",
+          "title": "News: Boris Pistorius patzt, Hilfen für die Ukraine, AfD auf Kurssuche, Donald Trump lobt Stephen Miller",
+          "url": "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
+          "summary": "Verteidigungsminister Boris Pistorius patzt. Ex-CDU-Chefin Annegret Kramp-Karrenbauer mahnt zur Solidarität mit der Ukraine. AfD-Landesverbände stimmen über Programm und Personal ab. Das ist die Lage am Samstagmorgen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e44cb195-1635-4ac2-bd76-827198710fc7_w1200_r1.778_fpx34.35_fpy50.jpg"
-        },
-        {
-          "title": "Genozid-Urteil: Was die Entscheidung des Weltgerichts in Den Haag für Israel bedeutet",
-          "url": "https://www.spiegel.de/ausland/genozid-urteil-was-die-entscheidung-des-weltgerichts-in-den-haag-fuer-israel-bedeutet-a-fe9b69b6-b00f-4162-a1ed-e6120818020a#ref=rss",
-          "summary": "Der Internationale Gerichtshof stuft Myanmars Gräueltaten an den Rohingya als Völkermord ein. Der Völkerrechtler Kai Ambos sagt, warum die Richter so entschieden haben – und was das für das Gaza-Verfahren bedeutet.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/87de0fef-8484-4572-bbec-e425fa7752fb_w1200_r1.778_fpx44_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
-          "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
-          "summary": "Krywyj Rih ist die Heimatstadt des ukrainischen Präsidenten Selenskyj. Nun wurde die Industriestadt erneut mit ballistischen Raketen beschossen. Eine Rakete schlug demnach nahe Wohnhäusern und einem Restaurant ein.",
+          "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
+          "summary": "Hacker sind Medienberichten zufolge in ein Zahlungssystem des US-Agrarministeriums und in eine Datenbank des FBI eingedrungen. Die Angriffe reihen sich in eine Serie von Systemausfällen und Technikpannen in den USA.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9b3f1d60-628a-4f5d-bb7f-caa6b22aee9a/AAABofv5kMM/AAABnSSvrFg/16x9-big/ukraine-krywyj-rih-108.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1280"
         },
         {
-          "title": "Jugendliche erneut zu Tausenden auf den Straßen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
-          "summary": "Zehntausende junge Menschen haben am Freitag friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus.",
+          "title": "Happy Birthday \"Rocky\" - Philadelphia feiert 50 Jahre Italian Stallion",
+          "url": "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html",
+          "summary": "50 Jahre ist es her, dass ein Low-Budget-Film mit einem unbekannten Darsteller in die Kinos kam. Das Boxer-Drama \"Rocky\" machte Sylvester Stallone zum Weltstar. Die Stadt Philadelphia feiert nun ihren fiktiven Sohn. Börgers und D.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/2c703d3c-7472-41bf-bb2d-e59b13301821/AAABofv4RzI/AAABnSSvrFg/16x9-big/jugendproteste-120.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5c355dce-07dd-414f-91af-c0afd97d8edb/AAABofzl2Ps/AAABnSSvrFg/16x9-big/sendungsbild-1829876.jpg?width=1280"
         },
         {
-          "title": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
-          "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
-          "summary": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Als Reaktion wurde ein russischer Diplomat ausgewiesen. Zwei Verdächtige sitzen in Untersuchungshaft.",
+          "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
+          "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
+          "summary": "Für den Chemiekonzern Bayer könnten die Klagen wegen des Unkraut-Vernichters Roundup in den USA bald der Vergangenheit angehören. Ein US-Gericht hat einen milliardenschweren Vergleich des Konzerns mit Vertretern der Kläger gebilligt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/fdb97cf4-2dd2-4866-ba11-31f4c4c6202b/AAABofqwIi0/AAABnSSvrFg/16x9-big/daenemark-anschlagsplaene-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/8abc89ba-9a3f-4036-b1d7-d035db21bc32/AAABnHAaiEY/AAABnSSvrFg/16x9-big/bayer-204.jpg?width=1280"
         }
       ]
     },
