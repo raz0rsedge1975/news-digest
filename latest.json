@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-21T07:00:08.848Z",
-  "timestamp": "21.11.2026, 08:00:08",
+  "generated": "2026-11-21T11:00:07.472Z",
+  "timestamp": "21.11.2026, 12:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Sorge um Wohlstand: Die allermeisten Deutschen sind reicher geworden",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
-          "summary": "Die Angst vor dem Verlust von Wohlstand ist auch in Deutschland groß. Zwei neue Studien nehmen die Entwicklungen von Löhnen und Einkommen in den Blick – und zeigen klare Trends.",
+          "title": "Bilanzierungspraktiken: US-Börsenaufsicht ermittelt gegen Nvidia – Aktie fällt um 14 Prozent",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
+          "summary": "Im Fokus stehen nach einem Reuters-Bericht Bilanzierungspraktiken des Chip-Riesen. Donald Trump will derweil immer noch den zurückgetretenen CEO Jensen Huang zurück.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/418b2cd99ec3/w6144h3210x0y443o/202610/10321bf4-08e3-4513-836c-82c43f5aa966/passanten-mit-einkaufsbeuteln.webp"
+          "image": "https://media0.faz.net/image/w1200h627/64035fdf9a04/w4096h2140x0y277o/202611/b66b39cf-38fc-4e50-bd37-ebcf8b6efad0/vor-wenigen-wochen-war-der.webp"
         },
         {
-          "title": "Ukraine-Gespräche: Jetzt nicht auf Putin hereinfallen",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-diplomatie-europa-darf-nicht-auf-putin-hereinfallen-201701902.html",
-          "summary": "Ob es die Russen mit den Verhandlungen ernst meinen, ist unklar. Aber Europa muss mit einer Stimme reden, gerade die Bundesregierung.",
+          "title": "KI-Chips: Es gibt Alternativen zu Nvidia",
+          "url": "https://www.faz.net/premium/weltwirtschaft/weltwissen/alternativen-zu-nvidia-welche-ki-chips-wirklich-konkurrieren-accg-201674354.html",
+          "summary": "Nvidia dominiert den Markt für KI-Chips. Doch es gibt auch andere Anbieter, und die haben manchmal sogar Vorzüge.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/4f3ad59269b8/w5708h2982x148y814o/202611/7baada8e-92ce-4a45-9a1d-8b2e32103951/der-russische-praesident.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/163b35531c29/w7488h3912x0y347o/202611/b4cfb3fd-d931-4b82-b5aa-266a72cfd738/nvidia-chef-jensen-huang-hat.webp"
         },
         {
-          "title": "Ukraine-Verhandlungen: Europäer bereiten sich auf Gespräche mit Russland vor",
-          "url": "https://www.faz.net/aktuell/politik/ukraine/ukrainekrieg-europa-bereitet-sich-auf-gespraeche-mit-russland-vor-accg-201701260.html",
-          "summary": "Die nächste Gesprächsrunde zum Ukrainekrieg könnte in den Emiraten stattfinden. Doch in Paris zweifelt man an Putins Verhandlungsbereitschaft.",
+          "title": "Künstliche Intelligenz: Warum Anthropic nicht zu abhängig von Nvidia werden will",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-anthropic-nicht-zu-abhaengig-von-nvidia-werden-will-accg-201694752.html",
+          "summary": "Anthropic schafft heute einen Rekordbörsengang. Wichtig ist für seine Zukunft die Beziehung zum Chipchampion Nvidia. Doch wie steht es darum? Und was ändert sich durch den Rücktritt von Jensen Huang?",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0d1ed8478c8b/w5154h2692x983y103o/202611/4675f8f0-b1f5-47f3-bec7-d700b4412290/die-willigen-in-berlin-kanzler.webp"
+          "image": "https://media0.faz.net/image/w1200h627/f52541c973fb/w8256h4313x0y165o/202611/d81c3fff-71ac-4506-997f-2723a58b45be/wie-wenn-man-atomwaffen-nach.webp"
         }
       ]
     },
@@ -35,12 +35,12 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Autobahnen: Vertrauliches Gutachten empfiehlt Pkw-Maut zur Finanzierung",
-          "url": "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
-          "summary": "Reicht das Geld, um Deutschlands Autobahnen langfristig zu finanzieren? Ein vertrauliches Gutachten für die Bundesregierung weckt erhebliche Zweifel. Experten schlagen darin ein heikles Instrument vor.",
+          "title": "Arbeitsmarkt: Für welche jungen Akademiker die Jobsuche immer schwerer wird",
+          "url": "https://www.spiegel.de/start/arbeitsmarkt-fuer-welche-jungen-akademiker-die-jobsuche-immer-schwerer-wird-a-003279ec-e410-4a3d-830a-666366670b74#ref=rss",
+          "summary": "Jung und studiert: Das waren mal beste Voraussetzungen für einen guten Job. Aber die Zahl arbeitsloser Akademiker steigt rasant. Die Datenanalyse.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3787f14f-3c5f-4314-bf15-bcd2bb9f9856_w1200_r1.778_fpx33.33_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/faaa16cc-c5e3-457e-8ad1-3de1817310ce_w1200_r1.778_fpx52_fpy50.jpg"
         },
         {
           "title": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/cc7027ba-5b52-4a03-9596-b901f583dae6_w1200_r1.778_fpx58_fpy54.jpg"
         },
         {
-          "title": "News: Boris Pistorius patzt, Hilfen für die Ukraine, AfD auf Kurssuche, Donald Trump lobt Stephen Miller",
-          "url": "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
-          "summary": "Verteidigungsminister Boris Pistorius patzt. Ex-CDU-Chefin Annegret Kramp-Karrenbauer mahnt zur Solidarität mit der Ukraine. AfD-Landesverbände stimmen über Programm und Personal ab. Das ist die Lage am Samstagmorgen.",
+          "title": "Autobahnen: Vertrauliches Gutachten empfiehlt Pkw-Maut zur Finanzierung",
+          "url": "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
+          "summary": "Reicht das Geld, um Deutschlands Autobahnen langfristig zu finanzieren? Ein vertrauliches Gutachten für die Bundesregierung weckt erhebliche Zweifel. Experten schlagen darin ein heikles Instrument vor.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/3787f14f-3c5f-4314-bf15-bcd2bb9f9856_w1200_r1.778_fpx33.33_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
-          "summary": "Hacker sind Medienberichten zufolge in ein Zahlungssystem des US-Agrarministeriums und in eine Datenbank des FBI eingedrungen. Die Angriffe reihen sich in eine Serie von Systemausfällen und Technikpannen in den USA.",
+          "title": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
+          "summary": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c4a8129d-5713-48b5-b0cc-3d6541af9469/AAABlMc781U/AAABnSSvrFg/16x9-big/fbi-hauptquartier-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/3d78b85a-444b-4405-bcd3-f6852feadded/AAABle0sLHE/AAABnSSvrFg/16x9-big/smartphone-boersenkurse-101.jpg?width=1280"
         },
         {
-          "title": "Happy Birthday \"Rocky\" - Philadelphia feiert 50 Jahre Italian Stallion",
-          "url": "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html",
-          "summary": "50 Jahre ist es her, dass ein Low-Budget-Film mit einem unbekannten Darsteller in die Kinos kam. Das Boxer-Drama \"Rocky\" machte Sylvester Stallone zum Weltstar. Die Stadt Philadelphia feiert nun ihren fiktiven Sohn. Börgers und D.",
+          "title": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
+          "summary": "Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/5c355dce-07dd-414f-91af-c0afd97d8edb/AAABofzl2Ps/AAABnSSvrFg/16x9-big/sendungsbild-1829876.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0c6d5cc7-4763-4984-83f0-1b96f3ffc74e/AAABnb-A6wU/AAABnSSvrFg/16x9-big/passanten-innenstadt-102.jpg?width=1280"
         },
         {
-          "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
-          "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
-          "summary": "Für den Chemiekonzern Bayer könnten die Klagen wegen des Unkraut-Vernichters Roundup in den USA bald der Vergangenheit angehören. Ein US-Gericht hat einen milliardenschweren Vergleich des Konzerns mit Vertretern der Kläger gebilligt.",
+          "title": "Erdbeben erschüttert Perus Andenregion",
+          "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
+          "summary": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/8abc89ba-9a3f-4036-b1d7-d035db21bc32/AAABnHAaiEY/AAABnSSvrFg/16x9-big/bayer-204.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/6b6c6cae-4905-4f19-a88d-119b19ec276d/AAABof1qMKc/AAABnSSvrFg/16x9-big/lima-erdbeben-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
+          "title": "Kampf gegen Rom: Viriatus der Lusitaner forderte das Imperium heraus",
+          "url": "https://www.telepolis.de/article/Kampf-gegen-Rom-Viriatus-der-Lusitaner-forderte-das-Imperium-heraus-11532185.html",
+          "summary": "Ein Bündnis hispanischer Stämme wehrt sich gegen ihre Unterwerfung (147–139 v. Chr.). Rom giert nach Siedlungsland, Sklaven und Edelmetallen (Teil 3/6).",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/1/7/1/hispania_2-aade29a903b0a04c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
+          "title": "IEA-Energiebericht: Wenn Klimaanlagen plötzlich mehr verbrauchen als Heizungen",
+          "url": "https://www.telepolis.de/article/IEA-Energiebericht-Wenn-Klimaanlagen-ploetzlich-mehr-verbrauchen-als-Heizungen-11532982.html",
+          "summary": "Europa, Indien und Afrika beschreiten in Bezug auf ihren Energieverbrauch sehr verschiedene Entwicklungspfade. Das 1,5-Prozent-Ziel verschwindet im Rückspiegel.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/5/7/5/VisualTreat1992-38be816e4494b31c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
+        {
           "title": "LNG-Tanker meiden Hormus: Darum wird Benzin billiger, Gas aber nicht",
           "url": "https://www.telepolis.de/article/LNG-Tanker-meiden-Hormus-Darum-wird-Benzin-billiger-Gas-aber-nicht-11533228.html",
           "summary": "Nur zwei LNG-Tanker passierten Hormus in einer Woche statt acht. Katar kann nicht umleiten, die Reparatur von Ras Laffan dauert laut QatarEnergy drei Jahre.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/6/9/8/shutterstock_1295259748-15fb6b6a25c258eb.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Masern: USA gelten nach 26 Jahren nicht mehr als masernfrei",
-          "url": "https://www.telepolis.de/article/Masern-USA-gelten-nach-26-Jahren-nicht-mehr-als-masernfrei-11533012.html",
-          "summary": "Die PAHO stuft die USA wieder als Land mit endemischen Masern ein. Den Ausschlag gab eine Viruslinie, die ab Januar 2025 ein Jahr lang zirkulierte.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/5/9/0/shutterstock_2764537201-4f838cbba1861b8d.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Journalismus an der Nadel der Plattformen: Wieso lässt er sich das gefallen?",
-          "url": "https://www.telepolis.de/article/Journalismus-an-der-Nadel-der-Plattformen-Wieso-laesst-er-sich-das-gefallen-11532810.html",
-          "summary": "Eine Digitalabgabe könnte dem Journalismus Geld verschaffen. Aber für welches Angebot?",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/4/8/9/Medien_master-3f0a0419bdea0458.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "1:1 gegen 1. FC Köln: Kane fehlt den Bayern monatelang",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-koeln-kompany-kane-olise-li.3583872",
-          "summary": "Der FC Bayern rettet gegen den 1. FC Köln ein 1:1 ins Ziel – und muss die nächsten beiden Verletzten beklagen: Harry Kane und Michael Olise müssen früh ausgewechselt werden, der Stürmer zieht sich einen Syndesmoseriss zu.",
+          "title": "Krieg in der Ukraine: Selenskij: Krim-Brücke wird nicht stehen bleiben",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krim-bruecke-angriffe-selenskij-russland-li.3571967",
+          "summary": "Die Ukraine hat das Bauwerk in den vergangenen Tagen mehrfach angegriffen. Nun erklärt der ukrainische Präsident: Die von Russland erbaute Brücke hat keine Zukunft.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Rummenigge über Musiala: „... dann sind diese Summen natürlich – mit Verlaub – nicht mehr darstellbar“",
-          "url": "https://www.sueddeutsche.de/sport/rummenigge-musiala-vertrag-bayern-li.3583898",
-          "summary": "Der Aufsichtsrat des FC Bayern äußert sich zur Situation von Jamal Musiala. Sollte der nicht mehr auf sein altes Leistungsniveau kommen, müsse über einen Gehaltsverzicht gesprochen werden.",
+          "title": "JHV des FC Bayern: Reden und Rekordzahlen",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-jhv-jahreshauptversammlung-liveticker-li.3583987",
+          "summary": "Der FC Bayern lädt zu seiner Jahreshauptversammlung. Vereinspräsident Herbert Hainer und der Vorstandsvorsitzende Jan-Christian Dreesen sprechen zu den Mitgliedern. Die Veranstaltung im Liveblog.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
-          "url": "https://www.sueddeutsche.de/politik/gen-z-proteste-schueler-studierende-frankfurt-berlin-ausschreitungen-gewerkschaften-li.3582673",
-          "summary": "Wieder demonstrieren junge Menschen in Dutzenden Städten. Schülervertreter suchen den Schulterschluss mit Eltern und Erziehungsgewerkschaft. Die Sorge vor Ausschreitungen bleibt.",
+          "title": "FC Bayern: Überall Verletzungen",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-kane-verletzung-musiala-rummenigge-kritik-li.3583903",
+          "summary": "In Harry Kane fällt nun auch der wichtigste Spieler monatelang aus – und Karl-Heinz Rummenigge geht in einem Interview auf Jamal Musiala los: Die Saison des FC Bayern wird von Problemen überlagert.",
           "source": "SZ",
           "paywall": false,
           "image": null
