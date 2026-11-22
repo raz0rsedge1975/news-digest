@@ -1,22 +1,22 @@
 {
-  "generated": "2026-11-22T11:00:07.742Z",
-  "timestamp": "22.11.2026, 12:00:07",
+  "generated": "2026-11-22T15:00:08.299Z",
+  "timestamp": "22.11.2026, 16:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Sie nannten sich „die Firma“: Wieso wurdest du Drogenboss, Max?",
-          "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vom-privatgymnasium-ins-gefaengnis-wie-mein-bekannter-zum-drogenboss-wurde-accg-201682866.html",
-          "summary": "Max und ich besuchten Privatschulen, hatten Klavierunterricht, teilten uns einen Freundeskreis. Doch ich wurde Journalist, und Max Anführer einer kriminellen Vereinigung, die tonnenweise Rauschgifte verkaufte. Warum?",
+          "title": "Manöver in Polen: Was folgt auf Russlands Provokation am letzten Übungstag?",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/einschlag-waehrend-uebung-was-folgt-aus-russlands-provokation-in-polen-accg-201705870.html",
+          "summary": "Die „Koalition der Willigen“ will mit einem Manöver in Polen Einigkeit und Stärke demonstrieren. Dann geht nur 35 Kilometer weiter ein russischer Marschflugkörper nieder.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/048f13713d00/w6144h3210x0y443o/202611/864a4931-3832-4c20-bb1c-ec0b77163b60/uebung-im-matsch-soldaten-der.webp"
         },
         {
           "title": "Liveblog Ukrainekrieg: Brand auf russischem Frachter vor finnischer Küste dauert an",
           "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-brand-auf-russischem-frachter-vor-finnischer-kueste-dauert-an-faz-110683325.html",
-          "summary": "„Sparta II“ wurde am Samstag bei Drohnenangriff getroffen +++ Rutte: NATO wird jeden Zentimeter von Polen verteidigen +++ Chefin von Wildberries offenbar zurückgetreten +++ alle Neuigkeiten im Liveblog",
+          "summary": "„Sparta II“ bei Drohnenangriff getroffen +++ Selenskyj beklagt Lieferverzögerungen von Flugabwehrraketen +++ Vermisste nach Einschlag russischer Drohne in Kiew +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/1722760d0064/w3000h1567x0y150o/202611/3760ea2b-1c75-4795-81ff-55d7e4857918/mehrere-schiffe-bespruehen-das.webp"
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "COP31: Deutschland hält Beschlusstext für Klimakonferenz nicht für zustimmungsfähig",
-          "url": "https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
-          "summary": "Scheitert die Klimakonferenz? In Antalya soll über den Beschlusstext abgestimmt werden. Für Deutschland ist das vorliegende Dokument laut Umweltminister Schneider nicht zustimmungsfähig – es fehlt ein Bekenntnis zur Abkehr von fossilen Brennstoffen.",
+          "title": "Fitness: Der Rettungsring will nicht weichen? Wie Sport gegen Bauchfett hilft",
+          "url": "https://www.spiegel.de/fitness/fitness-der-rettungsring-will-nicht-weichen-wie-sport-gegen-bauchfett-hilft-a-372f5138-5ed8-486c-ac2a-541b1a8d3d74#ref=rss",
+          "summary": "Sit-ups, gemächliches Joggen oder Training bis zur Erschöpfung – wer Bauchfett wegschmelzen möchte, braucht einen Plan. Eine Sportmedizinerin erklärt, worauf es ankommt und warum die Waage nicht jeden Erfolg zeigt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/044e2978-695e-4dd3-8798-89518ecf987f_w1200_r1.778_fpx65.24_fpy49.86.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b6dd372d-9aca-4ec6-b2ce-95b8448e5cec_w1200_r1.778_fpx68_fpy22.jpg"
         },
         {
-          "title": "News: Treffen von Donald Trump, Wladimir Putin und Xi Jinping in Shenzhen, dreckige Deals der Deutschen Bank",
-          "url": "https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss",
-          "summary": "Wieder hat sich gezeigt, dass der US-Präsident die Demokratien nicht würdig und wirkungsvoll vertreten kann. Das ist die Lage am Sonntag.",
+          "title": "COP31 in Antalya: Eklat bei Uno-Klimakonferenz in Antalya – Teilnehmer können sich nicht auf Abschlusserklärung einigen",
+          "url": "https://www.spiegel.de/wissenschaft/cop31-in-antalya-eklat-bei-uno-klimakonferenz-in-antalya-teilnehmer-koennen-sich-nicht-auf-abschlusserklaerung-einigen-a-e9928a84-c539-492f-8b13-f71ca6296c95#ref=rss",
+          "summary": "Es ist ein empfindlicher Rückschlag im Kampf gegen die Erderwärmung: Die Klimakonferenz in Antalya hat sich nicht auf eine gemeinsame Abschlusserklärung verständigen können. Der EU ging das Dokument nicht weit genug.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/dd17189a-707c-4b57-af32-bf59855d3d25_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/f5a2adf4-2647-4212-98ab-60f378a2d9fd_w1200_r1.778_fpx54_fpy63.jpg"
         },
         {
-          "title": "CDU: Annegret Kramp-Karrenbauer fordert Fokus auf Alltagsängste statt Rechtskurs",
-          "url": "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
-          "summary": "Die Beliebtheitswerte für Kanzler Merz sind miserabel, auch seine Partei schwächelt. Die frühere CDU-Chefin Kramp-Karrenbauer sagt, was sie in ihrer Partei vermisst und was die richtige Antwort auf den AfD-Höhenflug wäre.",
+          "title": "Bahn statt Konvoi – Bundeswehr ändert Truppenverlegung nach Litauen kurzfristig",
+          "url": "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss",
+          "summary": "Planänderung bei der Bundeswehr: Statt über die Straße wurden Panzer und Fahrzeuge per Zug zu einer Großübung nach Litauen gebracht. Offenbar wollte man keine sichtbar fahrende Kolonne auf Polens Straßen haben.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/07a656a9-d19b-40eb-ac09-b939a8cee2d1_w1200_r1.778_fpx57_fpy37.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/b9267c4b-256c-4eb6-aa15-bc2c44f590df_w1200_r1.778_fpx63_fpy37.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
-          "summary": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Hiltscher und J.",
+          "title": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
+          "url": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
+          "summary": "Der regierungskritische türkische Sender Sözcü steht seit wenigen Tagen unter Zwangsverwaltung. Für die Journalisten war die Razzia ein Schock - wie hat sich seitdem ihre Arbeit verändert? Von Isabel Gotovac.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7633e50a-12de-42ef-9ab0-b9d3d8dc93f8/AAABlCavHBs/AAABnSSvrFg/16x9-big/dax-244.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1d5d0bae-f417-4d64-acba-327daba81a9f/AAABofl0j7U/AAABnSSvrFg/16x9-big/soezcue-104.jpg?width=1280"
         },
         {
-          "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
-          "url": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
-          "summary": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
+          "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
+          "url": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
+          "summary": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. An dem Papier gab es unter anderem von Deutschland und der EU scharfe Kritik.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/e953bb69-d5fd-4d66-aeed-83af01d9bb73/AAABogKhx7c/AAABnSSvrFg/16x9-big/schneider-208.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/20311df1-9f50-4f3f-a677-2c4af30c269f/AAABogOdCu8/AAABnSSvrFg/16x9-big/cop13-102.jpg?width=1280"
         },
         {
-          "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
-          "summary": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\".",
+          "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
+          "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
+          "summary": "Noch immer laufen die Löscharbeiten an dem russischen Frachter in der Ostsee vor Finnland. Was das Schiff geladen hat, ist weiterhin unklar. Es war von einer Drohne getroffen worden - vermutlich aus der Ukraine.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/c1199981-91f2-42b6-a91d-021ae253b598/AAABogKXsR4/AAABnSSvrFg/16x9-big/freuding-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/fbfd6c05-411d-4c85-8f98-050057fc6af4/AAABogMZlfs/AAABnSSvrFg/16x9-big/frachter-russland-sparta-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Ernährung in Armut: Gesund essen geht auch mit wenig Geld",
-          "url": "https://www.telepolis.de/article/Ernaehrung-in-Armut-Gesund-essen-geht-auch-mit-wenig-Geld-11529199.html",
-          "summary": "Wer einige Tipps beachtet, kann auch mit kleinem Geldbeutel gesund leben. Immer mehr Kommunen bieten kostenfreies Schulessen an.",
+          "title": "Betriebsrente im Mittelstand: Warum das neue Gesetz kaum etwas ändert",
+          "url": "https://www.telepolis.de/article/Betriebsrente-im-Mittelstand-Warum-das-neue-Gesetz-kaum-etwas-aendert-11530705.html",
+          "summary": "Das Betriebsrentenstärkungsgesetz II soll die Altersvorsorge im Mittelstand pushen. Doch fast die Hälfte der KMU kennt die Neuregelungen nicht einmal.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/3/6/5/4/teller-5-euro-Schein2-a30428df7ecc2e5a.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/4/4/2/2/betriebsrente2-F-1_Zeichenfla__che_1-93cd9fb036a3faf0.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "China will eigene Schifffahrtversicherung bis 2029",
-          "url": "https://www.telepolis.de/article/China-will-eigene-Schifffahrtversicherung-bis-2029-11533524.html",
-          "summary": "Peking will Alternative zu westlichen Versicherern wie Lloyd's schaffen. 15 Milliarden Dollar sollen mobilisiert werden. Das Vorhaben braucht einen langen Atem.",
+          "title": "EU-Haushalt: Rüstung verdreifacht – 84 Mrd. weniger für Bauern und Regionen",
+          "url": "https://www.telepolis.de/article/EU-Haushalt-Ruestung-verdreifacht-84-Mrd-weniger-fuer-Bauern-und-Regionen-11533744.html",
+          "summary": "António Costa will 95 Milliarden Euro für Verteidigung einplanen. Bei Agrarhilfen und Kohäsion fehlen preisbereinigt 84 Milliarden.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/8/4/7/AI-0fc815e02749172a.jpeg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/9/6/0/shutterstock_2556695569-b9b3f880ff9c7591.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "SpaceX unter Druck: Senator will Starshield-Gelder für Musk sperren",
-          "url": "https://www.telepolis.de/article/SpaceX-unter-Druck-Senator-will-Starshield-Gelder-fuer-Musk-sperren-11533672.html",
-          "summary": "Senator Himes verlangt Aufklärung, wer Starshield in der Ukraine drosselte – und droht, Milliarden-Aufträge für SpaceX zu blockieren.",
+          "title": "Alle sind gereizt. Wer traut sich noch, etwas zu tun?",
+          "url": "https://www.telepolis.de/article/Alle-sind-gereizt-Wer-traut-sich-noch-etwas-zu-tun-11533698.html",
+          "summary": "„Es wird schon gut gehen“, sagte man sich beim Trampen. Beim Berliner Philosophiefestival fragt Hartmut Rosa, wo uns die Lebenslust abhandengekommen ist.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/9/2/1/shutterstock_2718042427-621fbaba87d596e5.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/9/3/7/Master_Suchsland-6dd15eb0244098d1.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Machtwechsel in Serbien: Er ist der Mann der Stunde und bringt Disziplin ins neue Parlament Serbiens",
-          "url": "https://www.sueddeutsche.de/meinung/serbien-aleksandar-cupic-parlament-studentenliste-aleksandar-vucic-kommentar-li.3583561",
-          "summary": "Serbiens neuer Parlamentspräsident Aleksandar Čupić hat gleich alle Hände voll zu tun und schlägt als kommissarisch amtierender Staatspräsident den nächsten Regierungschef vor.",
+          "title": "COP31 in Antalya: Klimakonferenz scheitert an zentralem Abschlusstext",
+          "url": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-einigung-gescheitert-li.3584161",
+          "summary": "Es seien keine Beschlüsse gefasst worden, sagt Konferenz-Präsident Murat Kurum. Mehrere Staaten lehnten den vorgelegten „Antalya-Pakt“ ab – auch die EU. Stark kritisiert wurde, dass der Abschied von fossilen Energien darin zu kurz komme.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Krieg in der Ukraine: Nach Drohnenangriff in der Ostsee: Russischer Frachter brannte die ganze Nacht",
-          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnen-frachter-brand-finnland-russland-ostsee-li.3571967",
-          "summary": "Von der finnischen Küstenwache veröffentlichte Bilder und Videos zeigen mehrere Schiffe, die die „Sparta II“ mit Wasserwerfern besprühten, um die Flammen zu löschen.",
+          "title": "Reaktion auf Finanznot: Wenn Bürger die Stadtkasse aufbessern müssen",
+          "url": "https://www.sueddeutsche.de/politik/kommunen-finanzkrise-gebuehren-steigen-loesungsvorschlaege-expertenrat-stand-der-verhandlungen-li.3582299",
+          "summary": "Weil ihnen Geld fehlt, heben viele Städte und Gemeinden Preise an und kürzen bei sozialen Einrichtungen und dem Gemeinwesen. Nun kündigt der Bund neue Gespräche an. Aber was ist eigentlich mit den Ländern?",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Sorgen der Gen Z: Der Tatendrang der Jugend",
-          "url": "https://www.sueddeutsche.de/politik/gen-z-quentin-gaertner-jugend-politik-proteste-li.3578974",
-          "summary": "Junge Menschen sind verärgert über die Politik. Quentin Gärtner, ehemaliger Generalsekretär der Bundesschülerkonferenz, zeigt in seinem Buch die Gründe – und mögliche Lösungen.",
+          "title": "Frankreich: Der Élysée-Palast als Showroom",
+          "url": "https://www.sueddeutsche.de/wirtschaft/choose-france-emmanuel-macron-elysee-palast-frankreich-investitionen-li.3584231",
+          "summary": "Frankreichs Präsident Emmanuel Macron öffnet seinen Amtssitz für eine Produktschau „Fabriqué en France“. Damit will er den Absatz französischer Produkte fördern und zu Investitionen anregen.",
           "source": "SZ",
           "paywall": false,
           "image": null
