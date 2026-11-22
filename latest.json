@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-22T03:00:07.349Z",
-  "timestamp": "22.11.2026, 04:00:07",
+  "generated": "2026-11-22T07:00:08.266Z",
+  "timestamp": "22.11.2026, 08:00:08",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Jonas Grethlein im Interview: Der Preis des Feuers",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-elon-musk-bis-frankenstein-jonas-grethlein-erklaert-warum-prometheus-auch-heute-fasziniert-201639053.html",
-          "summary": "Frankenstein, Faust, Musk: Prometheus gilt als Patron des technischen Fortschritts. Er bringt den Menschen das Feuer, gegen den Willen der Götter. Der Altphilologe Jonas Grethlein erklärt, was sich daraus für die KI-Gegenwart lernen lässt.",
+          "title": "COP31 in Antalya: Klimagipfel: Textentwurf erwähnt fossile Energien nicht",
+          "url": "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
+          "summary": "Die Weltklimakonferenz in der Türkei steht nach langen Verhandlungen vor der Abstimmung über einen Entwurf für die Abschlusserklärung. Öl, Kohle und Gas werden darin nicht ausdrücklich genannt.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/ac78545774e0/w2073h1083x0y594o/202611/0a4b4fdb-e10a-40cf-8034-f8e2175a9464/er-bringt-das-feuer-zur-erde.webp"
+          "image": "https://media0.faz.net/image/w1200h627/3d818bf92c5e/w2914h1522x0y58o/202611/bf7de4ce-6e31-4abe-ab3d-4b94f204131a/teilnehmer-des-un-klimagipfels.webp"
         },
         {
-          "title": "Philosoph über KI: „Es droht eine gewaltige Verflachung unserer Kultur“",
-          "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/philosoph-dieter-mersch-warum-ki-niemals-bewusstsein-entwickeln-wird-accg-201634477.html",
-          "summary": "Können Computer Bewusstsein erlangen? Der Philosoph Dieter Mersch geht der Mathematik von Künstlicher Intelligenz auf den Grund. Im Gespräch zeigt er, warum die Entwickler auf eine unüberwindbare Grenze stoßen werden – und wo die eigentliche Gefahr liegt.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/6218109ecb42/w6000h3135x0y120o/202611/79a94309-ceee-49fa-ab5d-95a4163e4404/reflexive-selbsterkenntnis.webp"
-        },
-        {
-          "title": "Jahrtausend-Problem: Anthropic-Forscher will Riemannsche Vermutung bewiesen haben",
-          "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/riemannsche-vermutung-hat-anthropic-das-jahrtausendproblem-geloest-201703196.html",
-          "summary": "Ein Mathematiker im Dienst der KI-Firma Anthropic will die Riemannsche Vermutung bewiesen haben. Eine erste unabhängige Computerprüfung bestätigt Levent Alpöge. Eine Prüfung durch Menschen steht aus.",
+          "title": "Angriff auf „Sparta II“: Krieg vor Finnlands Haustür",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-greift-russisches-schiff-sparta-ii-an-finnlands-gefaehrliches-dilemma-in-der-ostsee-201702129.html",
+          "summary": "Die Ukraine greift nun russische Schiffe vor Finnland an. Helsinki stellt das vor ein Dilemma. Und die Sorge vor einer Umweltkatastrophe wächst.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/685aaea6b5e2/w1940h1013x0y144o/202406/43601.0.403671633/unglaubliches-liegt-hier.webp"
+          "image": "https://media0.faz.net/image/w1200h627/87ab426d136c/w805h420x59y16o/202611/7458b3de-9786-465b-8540-d586f598e9e9/brennend-in-finnische.webp"
+        },
+        {
+          "title": "Liveblog Ukrainekrieg: Rutte: NATO wird jeden Zentimeter von Polen verteidigen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-rutte-nato-wird-jeden-zentimeter-von-polen-verteidigen-faz-110683325.html",
+          "summary": "NATO-Generalsekretär beschwört Bündnistreue nach Abstürzen militärischer Flugobjekte in Polen +++ Chefin von Wildberries offenbar zurückgetreten +++ Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand +++ alle Neuigkeiten im Liveblog",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ad3847324b5a/w5269h2753x0y577o/202611/657765c4-a6b6-4a50-95ad-8f50369aa56e/nato-generalsekretaer-rutte.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
+          "title": "CDU: Annegret Kramp-Karrenbauer fordert Fokus auf Alltagsängste statt Rechtskurs",
+          "url": "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
+          "summary": "Die Beliebtheitswerte für Kanzler Merz sind miserabel, auch seine Partei schwächelt. Die frühere CDU-Chefin Kramp-Karrenbauer sagt, was sie in ihrer Partei vermisst und was die richtige Antwort auf den AfD-Höhenflug wäre.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/07a656a9-d19b-40eb-ac09-b939a8cee2d1_w1200_r1.778_fpx57_fpy37.jpg"
+        },
+        {
+          "title": "Uno-Klimakonferenz verzichtet im neuen Beschlusstext erneut auf fossile Energien",
+          "url": "https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien-a-0f6ba7a3-ddc5-41ba-b813-a3add034efbb#ref=rss",
+          "summary": "Trotz wachsenden Drucks aus Brüssel bleibt der Entwurf beim Klimagipfel in der Türkei vage. Eine Fassung aus der Nacht verzichtet erneut auf ein klares Nein zu Kohle, Öl und Gas. Doch die Abstimmung rückt näher.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/68b79835-966d-407d-95c9-3bcd59706c97_w1200_r1.778_fpx29.99_fpy54.98.jpg"
+        },
+        {
           "title": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
           "url": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss",
           "summary": "Ex-Gesundheitsminister Karl Lauterbach hat gerade die wichtigsten KI-Labore in den USA und China besucht. Jetzt schlägt er Alarm: Deutschland dürfe sich nicht weiter abhängen lassen. Doch etwas macht ihm Hoffnung.",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/dc1b6f69-275b-4b32-82e5-4d3ecd6227bc_w1200_r1.778_fpx51_fpy54.jpg"
-        },
-        {
-          "title": "Nvidia und Anthropic: Das steckt hinter dem Börsenbeben",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss",
-          "summary": "An den Finanzmärkten geht die Angst um. Die Kurse vieler Techaktien stürzen ab. Der Chiphersteller Nvidia hat binnen weniger Wochen fast die Hälfte seines Börsenwerts verloren. Was ist da los? Was Sie jetzt wissen müssen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f966ce4c-6f78-49f8-8734-169108911821_w1200_r1.778_fpx40.01_fpy49.99.jpg"
-        },
-        {
-          "title": "Auswandern in die Schweiz – 12 Dinge, die Sie vorher wissen sollten",
-          "url": "https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss",
-          "summary": "Das Gehalt ist hoch, die Sprache vertraut. Doch Wohnungsmarkt, Arztrechnungen und Kitakosten überraschen viele Deutsche. Was vom Schweizer Lohn wirklich bleibt – und warum der Konjunktiv beim Ankommen hilft.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9fcd221c-f826-41db-8937-d53ff3252454_w1200_r1.778_fpx33.33_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Klimakonferenz in Antalya: Neuer Entwurf soll den Durchbruch bringen",
+          "title": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+          "summary": "Antisemitismus so offen wie seit dem Holocaust nicht mehr: Bundesbeauftragte Schnurbein warnt vor wachsendem Judenhass in Deutschland. Die AfD-Ideologie sei ein gefährlicher Angriff auf die Erinnerungskultur. Ihr Appell ist eindringlich.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/5836c0f1-1257-4bf7-9bdb-6d4b4f873133/AAABogHLiwA/AAABnSSvrFg/16x9-big/schnurbein-104.jpg?width=1280"
+        },
+        {
+          "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+          "summary": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt. Im Norden will die IG Metall Küste jetzt nachlegen: Nochmal soll für 24 Stunden gestreikt werden - teils schon ab heute Abend.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/63d28ea6-067c-417e-a4a1-eae3ebdaaeb3/AAABogFgCrw/AAABnSSvrFg/16x9-big/ig-metall-290.jpg?width=1280"
+        },
+        {
+          "title": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
           "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
-          "summary": "Eigentlich sollte die COP31 Freitag enden - doch die fast 200 Staaten ringen in der Türkei weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien. Ein neuer Entwurf stimmt das Gastgeberland optimistisch.",
+          "summary": "Nach weit über 30 Stunden Verlängerung liegt der Klimakonferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor. Ein klares Bekenntnis zur Abkehr von fossilen Energien enthält der Text nicht. Am Vormittag soll abgestimmt werden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/86168682-dd57-4d10-8eda-1f1910d9925c/AAABogD3JAQ/AAABnSSvrFg/16x9-big/cop31-120.jpg?width=1280"
-        },
-        {
-          "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-          "summary": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/7a1fbb62-7cb1-4204-9940-74c07d536a3b/AAABof-zqeA/AAABnSSvrFg/16x9-big/leyen-340.jpg?width=1280"
-        },
-        {
-          "title": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
-          "url": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
-          "summary": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/e4ae9c3d-5aad-47f4-9fc9-adf267a1886f/AAABofmmXLs/AAABnSSvrFg/16x9-big/chemours-chemiewerk-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/86168682-dd57-4d10-8eda-1f1910d9925c/AAABogFhrXQ/AAABnSSvrFg/16x9-big/cop31-120.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Gouverneur verurteilt ICE-Festnahmen am Flughafen: „Vollkommen außer Kontrolle“",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ice-flughafen-seattle-festnahmen-gouverneur-bob-ferguson-li.3578585",
+          "summary": "ICE-Mitarbeiter hatten zwei Menschen auf einer Fluggastbrücke an einem Flughafen bei Seattle aufgegriffen. Demokrat Bob Ferguson ist entsetzt.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Beisetzung von Hubert Aiwanger: „Du warst ein Unikat, einer, den man nicht ersetzen kann“",
           "url": "https://www.sueddeutsche.de/bayern/hubert-aiwanger-beerdigung-inkofen-niederbayern-freie-waehler-li.3583841",
           "summary": "Vor einer Woche wurden Pontifikalrequiem und Staatsakt für Hubert Aiwanger in München gehalten, nun ist der verstorbene Chef der Freien Wähler unter großer Anteilnahme in seiner Heimat beigesetzt worden.",
@@ -132,15 +140,7 @@
         {
           "title": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnen-frachter-finnland-li.3571967",
-          "summary": "Finnland schränkt den Luft- und Seeverkehr wegen des brennenden Frachters vorsorglich ein. Nach Aussagen von Selenskij habe die Krim-Brücke keine Zukunft.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Borussia Dortmund: Nmecha trifft – und zeigt einen anderen Jubel",
-          "url": "https://www.sueddeutsche.de/sport/bundesliga-bvb-gladbach-nmecha-jubel-krone-tabellenfuehrer-li.3584099",
-          "summary": "Der BVB gewinnt in Gladbach und ist neuer Tabellenführer. Das Tor des Tages gelingt Felix Nmecha – beim Torjubel verzichtet er diesmal auf seine Kronen-Geste.",
+          "summary": "Finnland schränkt den Luft- und Seeverkehr wegen des brennenden Frachters vorsorglich ein.",
           "source": "SZ",
           "paywall": false,
           "image": null
