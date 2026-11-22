@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-21T23:00:07.984Z",
-  "timestamp": "22.11.2026, 00:00:07",
+  "generated": "2026-11-22T03:00:07.349Z",
+  "timestamp": "22.11.2026, 04:00:07",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Klimakonferenz in Antalya: Neuer Entwurf soll den Durchbruch bringen",
+          "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+          "summary": "Eigentlich sollte die COP31 Freitag enden - doch die fast 200 Staaten ringen in der Türkei weiter um eine Abschlusserklärung. Streitpunkt ist der Ausstieg aus fossilen Energien. Ein neuer Entwurf stimmt das Gastgeberland optimistisch.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/86168682-dd57-4d10-8eda-1f1910d9925c/AAABogD3JAQ/AAABnSSvrFg/16x9-big/cop31-120.jpg?width=1280"
+        },
+        {
           "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
           "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
           "summary": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/e4ae9c3d-5aad-47f4-9fc9-adf267a1886f/AAABofmmXLs/AAABnSSvrFg/16x9-big/chemours-chemiewerk-100.jpg?width=1280"
-        },
-        {
-          "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-          "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-          "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/0f0e8b4e-d884-4b6e-b9b7-7928a016f4c0/AAABof8F-Zo/AAABnSSvrFg/16x9-big/primzahlen-102.jpg?width=1280"
         }
       ]
     },
