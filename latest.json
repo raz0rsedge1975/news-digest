@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T23:00:08.296Z",
-  "timestamp": "23.11.2026, 00:00:08",
+  "generated": "2026-11-23T03:00:08.435Z",
+  "timestamp": "23.11.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -64,6 +64,14 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
+          "url": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
+          "summary": "Die Demokraten haben ihre Mehrheit im US-Repräsentantenhaus weiter ausgebaut. Ab Januar stellen sie dort mindestens 258 Abgeordnete - zuletzt gelang ihnen dies vor mehr als 30 Jahren zu Zeiten von Bill Clinton.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7e6adef7-d0f9-44de-a1a0-c4b3ba2734f0/AAABogXmQOE/AAABnSSvrFg/16x9-big/us-kapitol-166.jpg?width=1280"
+        },
+        {
           "title": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
           "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
           "summary": "Der religiös motivierte Kronen-Jubel von BVB-Fußballer Nmecha hat für Diskussionen gesorgt. Bei der Mitgliederversammlung des Vereins äußerte sich Geschäftsführer Cramer nur indirekt. Nmecha sei ein \"tadelloser Mensch\". Dafür gab es einige Buhrufe.",
@@ -78,14 +86,6 @@
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/8d96bde7-7e20-4021-bfc1-26bb77165f12/AAABogS9XJY/AAABnSSvrFg/16x9-big/schiff-finnland-100.jpg?width=1280"
-        },
-        {
-          "title": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
-          "summary": "Schneller zum Facharzt gegen Bezahlung? Die Einschätzung von Kassenärzte-Chef Gassen hat Kritik ausgelöst. Mehr Geld löse das Problem nicht, sagt TK-Chef Baas im Bericht aus Berlin - und fordert stattdessen ein grundlegend neues System.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/b842eb3c-1b14-4a03-b29e-37a1794517a0/AAABogRfKj0/AAABnSSvrFg/16x9-big/sendungsbild-1831402.jpg?width=1280"
         }
       ]
     },
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "Röttgen bei Miosga: „Putin ist fest entschlossen, die Ukraine unbewohnbar zu machen“",
+          "url": "https://www.sueddeutsche.de/medien/caren-miosga-ukraine-putin-norbert-roettgen-diplomatie-li.3583751",
+          "summary": "Öffnet sich im Krieg um die Ukraine gerade ein Türchen für die Diplomatie? Ganz und gar nicht, findet die Gesprächsrunde bei Caren Miosga. Sie stimmt die Zuschauer auf einen brutalen Winter ein.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Krieg in der Ukraine: Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
           "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
           "summary": "Die ostlibysche Regierung vermutet, dass eine Drohne das Schiff getroffen hat. Russland und die Ukraine äußern sich bisher nicht zu dem Vorfall.",
@@ -133,14 +141,6 @@
           "title": "Bundespolitik: Wüst weist Söders Forderung zur kalten Progression zurück",
           "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-wuest-soeder-kalte-progression-li.3580621",
           "summary": "Bayerns Ministerpräsident hatte sich für einen sofortigen Ausgleich der Steuermehrbelastung ausgesprochen. Man habe bereits anders entschieden, erwidert sein Amtskollege aus Nordrhein-Westfalen.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Bundesliga: Bremen überrollt den HSV, Augsburg feiert Gregoritsch",
-          "url": "https://www.sueddeutsche.de/sport/werder-bremen-hsv-nordderby-bundesliga-li.3584474",
-          "summary": "Im Nordderby gelingen einem Werder-Stürmer beim 4:0 zwei Tore, wodurch Bremen an den Europapokalplätzen dranbleibt. In Augsburg fliegt ein Trainer vom Platz – und ein Österreicher trifft doppelt.",
           "source": "SZ",
           "paywall": false,
           "image": null
