@@ -1,10 +1,18 @@
 {
-  "generated": "2026-11-23T19:00:10.343Z",
-  "timestamp": "23.11.2026, 20:00:10",
+  "generated": "2026-11-23T23:00:06.741Z",
+  "timestamp": "24.11.2026, 00:00:06",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "KI am Gral der Mathematik: Riemanns Vermutung stimmt, aber niemand weiß, warum",
+          "url": "https://www.faz.net/aktuell/feuilleton/debatten/riemannsche-vermutung-warum-der-ki-beweis-unverstaendlich-bleibt-201708351.html",
+          "summary": "Die berühmteste Vermutung der Mathematik wurde mit Hilfe von KI bewiesen, und am selben Tag legt ein menschlicher Forscher die Skizze eines garantiert KI-freien Beweises vor. In der Mathematik tobt ein Kulturkampf.",
+          "source": "FAZ",
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/b77ac9c0c68d/w1969h1028x0y146o/202611/80f30853-d80f-47ea-9930-888ea1291e7a/die-riemannsche-vermutung.webp"
+        },
         {
           "title": "Nvidia-Affäre: Huangs Comeback stinkt zum Himmel",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-und-nvidia-das-comeback-stinkt-zum-himmel-201710277.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/82624b7708df/w8256h4313x0y165o/202611/d94c6bd6-3f0a-43c3-968d-a410f28dd494/sieg-mit-beigeschmack-die.webp"
         },
         {
-          "title": "Tech-Konzern: Nvidia holt Jensen Huang als Chef zurück",
+          "title": "Rückkehr zu Nvidia: Huang will „beim zweiten Mal ein besserer Chef sein“",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html",
-          "summary": "Der über Affären gestolperte Gründer des Halbleiterherstellers darf seinen Vorstandsposten wieder beziehen. Offenbar hat Donald Trump eine Rolle gespielt. Der Nvidia-Aktienkurs springt um mehr als 35 Prozent in die Höhe.",
+          "summary": "Der über Affären gestolperte Nvidia-Gründer darf seinen Vorstandsposten wieder beziehen. Offenbar hat Donald Trump eine Rolle gespielt. Vor jubelnden Mitarbeitern gelobt Huang „Bescheidenheit“.",
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/3035e7851464/w4447h2323x0y319o/202611/2bed8e56-f084-4f39-8868-c890b19edb4b/comeback-beim-chipriesen.webp"
-        },
-        {
-          "title": "Huang-Comeback: Der Börsencrash ist vorerst abgewendet – nur Anthropic erholt sich nicht",
-          "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/nach-huang-abgang-nvidia-bricht-den-ki-boom-aber-woanders-gibt-es-hoffnung-201708314.html",
-          "summary": "Am Freitag standen Anleger in KI-Aktien noch vor einem Trümmerhaufen. Aber schon am Montag kam das Comeback: Möglich machte es die Rückkehr von Jensen Huang an die Spitze von Nvidia.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/bb195160e279/w5472h2859x0y440o/202611/e321096d-c361-469c-8525-e8c85c502ec1/jensen-huang-steht-wieder-an.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Jamal Musiala: Experte widerspricht Hoeneß und Rummenigge im Gehaltsstreit",
-          "url": "https://www.spiegel.de/sport/fussball/jamal-musiala-experte-widerspricht-hoeness-und-rummenigge-im-gehaltsstreit-a-1dbe4b48-7717-4e39-aaf2-2eeb8d3a8633#ref=rss",
-          "summary": "Der an Absencen leidende Jamal Musiala soll auf Gehalt verzichten. Das fordern Uli Hoeneß und Karl-Heinz Rummenigge. Im SPIEGEL widerspricht ein Experte der Darstellung der Bayern-Funktionäre. Was ist deren Ziel?",
+          "title": "Nvidia: Jensen Huang kehrt auf Druck von Donald Trump zurück",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-kehrt-auf-druck-von-donald-trump-zurueck-a-24b07e86-c1ee-4a84-833e-61d4784dd87f#ref=rss",
+          "summary": "Der zurückgetretene Nvidia-CEO kommt auf Trumps Druck zurück. Das zeigt: Wenn man nur genug Börsenwert kreiert und in der richtigen Technologie unterwegs ist, gelten nicht die gleichen Regeln.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/3b4f2c01-8f6a-44e1-82a0-67b8c8457c3f_w1200_r1.778_fpx51_fpy40.67.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/95be4018-972c-411a-b74d-416569fa2aae_w1200_r1.778_fpx45.99_fpy44.99.jpg"
         },
         {
-          "title": "Nvidia: Chipkonzern holt Jensen Huang nach Spionageskandal zurück",
-          "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-kehrt-als-chef-zurueck-a-0b0c979f-9cf5-4e4d-be27-79ecbbb6945e#ref=rss",
-          "summary": "Überraschende Wendung bei Nvidia: Der Chipkonzern holt den wegen eines Spionageskandals gerade erst zurückgetretenen Jensen Huang zurück an die Spitze des Unternehmens. Die Aktienmärkte reagieren umgehend.",
+          "title": "Ukraine-Krieg: SPIEGEL rechnet mit mehr als 600.000 getöteten russischen Soldaten im Ukrainekrieg",
+          "url": "https://www.spiegel.de/ausland/ukraine-krieg-spiegel-rechnet-mit-mehr-als-600-000-getoeteten-russischen-soldaten-im-ukrainekrieg-a-87309cd3-0345-4eb0-93aa-5b1330decd1a#ref=rss",
+          "summary": "Putin schweigt über seine Toten, doch seine Statistikbehörde hat sie gezählt. Die geheimen Daten zeigen, wer für ihn stirbt: Männer aus armen Grenzregionen, immer häufiger Ältere, Kämpfer aus Zentralasien – und sogar Deutsche. Die große SPIEGEL-Recherche.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/62973361-f586-491a-a161-b1ae6d99881c_w1200_r1.778_fpx47_fpy40.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/df5f7912-4c9e-4e2d-a20c-9a22b111a307_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "News des Tages: Nuklearwaffen im All, Jensen Huang ist wieder Nvdia-Chef, Markus Söder stichelt",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-nuklearwaffen-im-all-jensen-huang-ist-wieder-nvdia-chef-markus-soeder-stichelt-a-f6ebc8d2-6e04-409f-9a0e-ac87c9817537#ref=rss",
-          "summary": "Nvidia holt den gerade erst zurückgetretenen Jensen Huang zurück. Russland könnte einen Atomsprengkopf ins Weltall befördern. Und Bayern bekommt einen neuen Söder-Stellvertreter. Das ist die Lage am Montagabend.",
+          "title": "Jared Kushner: Donald Trumps Schwiegersohn und Chefvermittler wird immer reicher",
+          "url": "https://www.spiegel.de/ausland/jared-kushner-donald-trumps-schwiegersohn-und-chefvermittler-wird-immer-reicher-a-b3af0ff4-f30f-4dc3-b727-5a3a03cc5901#ref=rss",
+          "summary": "Jared Kushner verhandelt für das Weiße Haus in aller Welt. Doch in der Ukraine, in Gaza und im Irankrieg war er bisher erfolglos. Eines aber gelingt dem Chefgesandten Trumps prächtig – Reichtum anzuhäufen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0fb372c3-843d-4dc6-a445-e7c34c92f75c_w1200_r1.778_fpx28.09_fpy49.93.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/e620a093-a6de-47c6-b5cd-06adaab12db1_w1200_r1.778_fpx43.03_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
-          "url": "https://www.tagesschau.de/ukraine-angriffe-ostsee-libyen-100.html",
-          "summary": "Die Angriffe auf russische Schiffe sind für die Ukraine ein Erfolg, sagt der Sicherheitsexperte Joachim Weber. Aber sie stellten auch eine Eskalation dar, die Russland zu Gegenmaßnahmen provozieren könnte. Ein Kalkül von Kiew?",
+          "title": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
+          "summary": "Die Finanzierung des Stromspar-Checks ist für weitere drei Jahre gesichert. Damit können sich Haushalte mit geringem Einkommen kostenlos beraten lassen und Zuschüsse bekommen. Die wichtigsten Fragen und Antworten.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/056a4ff3-8222-4bd3-b8ee-81d154487ece/AAABogkF8mU/AAABnSSvrFg/16x9-big/schiff-torpedo-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/0123d509-4f6a-4abe-a7ae-d7d4fc60a135/AAABnXbc5sE/AAABnSSvrFg/16x9-big/stromzaehler-134.jpg?width=1280"
         },
         {
-          "title": "Nachfolge von Hubert Aiwanger: Freie Wähler stellen sich breiter auf",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-freie-waehler-100.html",
-          "summary": "Hubert Aiwanger war die zentrale Führungsfigur der Freien Wähler: Landes- und Bundeschef, bayerischer Wirtschaftsminister und Vize-Ministerpräsident. Nach seinem Tod verteilt die Partei die Posten auf mehrere Schultern. Jerabek und R.",
+          "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+          "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
+          "summary": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/80145a4c-5943-4813-90ed-0791147b55bd/AAABogknPT0/AAABnSSvrFg/16x9-big/mehring-gotthardt-glauber-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/01f15277-2dc1-47c8-a5cd-9a5b83995a51/AAABogmuEEw/AAABnSSvrFg/16x9-big/trump-huang-100.jpg?width=1280"
         },
         {
-          "title": "Sanktionspaket: Keine Athleten mehr unter russischer Flagge",
-          "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
-          "summary": "Russische Sportlerinnen und Sportler sollen bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen - das hat die EU-Kommission vorgeschlagen. Weitere Sanktionen soll es in der Wirtschaft und im Energiesektor geben.",
+          "title": "Wie der Klimawandel den Winterschlaf der Tiere verändert",
+          "url": "https://www.tagesschau.de/wissen/winterschlaf-klimawandel-tiere-100.html",
+          "summary": "Ungewöhnlich warme Winter, trockene Sommer - das hat auch Folgen für den Winterschlaf der Tiere. Igel, Siebenschläfer und Fledermäuse entwickeln dabei ganz unterschiedliche Strategien. Von Stefanie Peyk.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6cd4d959-116d-4969-8ed2-5202d3703353/AAABogk0G10/AAABnSSvrFg/16x9-big/russland-flagge-112.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/1024be9f-ce87-465f-a45b-ae37c127af23/AAABogjWvDk/AAABnSSvrFg/16x9-big/wasserfledermaus-106.jpg?width=1280"
         }
       ]
     },
@@ -122,7 +122,15 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Nvidia: „Ich habe den Deal gemacht“",
+          "title": "Bundespolitik: Merz: Bericht über russische Atombewaffnung im All „schockierend“",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-berichte-russland-atomwaffen-all-schockierend-li.3580621",
+          "summary": "Der Bundeskanzler hat sich besorgt über Berichte von SZ, NDR und WDR gezeigt, dass Russland Satelliten mit atomarer Bewaffnung ins All schießen könnte. Verteidigungsminister Pistorius mahnt dagegen zur Besonnenheit.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Nvidia: „Ich habe den Deal abgeschlossen“",
           "url": "https://www.sueddeutsche.de/politik/jensen-huang-donald-trump-nvidia-rueckkehr-usa-aktien-li.3584998",
           "summary": "Donald Trump erachtet es als sein Verdienst, dass Jensen Huang trotz der Spionageaffäre wieder CEO von Nvidia ist. Abgeordnete beider Parteien kritisieren ihn dafür. Ein Republikaner sagt: „Das muss ein Witz sein!",
           "source": "SZ",
@@ -133,14 +141,6 @@
           "title": "KI-Konzerne: Was der Personenkult um den Nvidia-Chef über uns aussagt",
           "url": "https://www.sueddeutsche.de/wirtschaft/jensen-huang-nvidia-kuenstliche-intelligenz-macht-essay-kommentar-li.3581957",
           "summary": "Der Absturz und Wiederaufstieg des Jensen Huang erzählt nicht nur von Hybris. Er taugt auch als Spiegel dafür, wie bereitwillig Mitarbeiter, Investoren und Journalisten Machtmenschen überhöhen und dabei ihr Urteilsvermögen verlieren.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Geldanlage: Wie sicher ist das Geld im Altersvorsorgedepot?",
-          "url": "https://www.sueddeutsche.de/wirtschaft/altersvorsorgedepot-avd-etf-sicherheit-li.3570753",
-          "summary": "Das Altersvorsorgedepot soll die Menschen in Deutschland im Alter besser absichern. Was mit dem Ersparten bei Arbeitslosigkeit, Tod oder der Pleite eines Anbieters passiert.",
           "source": "SZ",
           "paywall": false,
           "image": null
