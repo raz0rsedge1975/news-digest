@@ -1,33 +1,33 @@
 {
-  "generated": "2026-11-23T07:00:07.659Z",
-  "timestamp": "23.11.2026, 08:00:07",
+  "generated": "2026-11-23T11:00:07.906Z",
+  "timestamp": "23.11.2026, 12:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Frankreich Wählt: Mit antideutscher Agenda in den Élysée",
-          "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-jean-luc-melenchons-liebstes-feindbild-heisst-deutschland-201699870.html",
-          "summary": "Das Feindbild des linksradikalen Präsidentschaftskandidaten Jean-Luc Mélenchon heißt Deutschland. Er ist dabei, die Germanophobie wieder salonfähig zu machen.",
+          "title": "Propaganda mit Gen Z: Deutsche Schüler für Putins Krieg?",
+          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/kreml-propaganda-deutsche-schueler-fuer-putins-ukraine-krieg-accg-201706066.html",
+          "summary": "Russlands Staatsfernsehen nutzt den Schülerprotest in Europa für seine Zwecke und deutet ihn als Aufstand gegen die Demokratie. Zwei Filme führen das exemplarisch vor. Der eine wendet sich an die Linke, der andere an die Rechte.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3bb08c7651f8/w7587h3964x0y317o/202611/7a6a2bfe-ae3a-4f00-875a-09dd91372cd8/spricht-ueber-deutschland-und.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ba91ce227cb7/w1147h599x16y63o/202611/077c09ee-0506-4448-be22-e59305e81792/das-ist-die-eine-version-des.webp"
         },
         {
-          "title": "Kulturkampf in Frankreich: Der Widerstand bereitet sich vor",
-          "url": "https://www.faz.net/aktuell/feuilleton/debatten/kulturkampf-in-frankreich-accg-201699273.html",
-          "summary": "Künstler positionieren sich, Moderatoren drohen mit dem Pranger, Politiker greifen Institutionen an: In Frankreich wird die Kultur zum Schauplatz des Präsidentschaftswahlkampfs.",
+          "title": "Medienbericht: Russland plant Stationierung von Atomwaffe im All",
+          "url": "https://www.faz.net/aktuell/politik/ausland/russland-plant-nuklear-bestueckten-satelliten-im-weltraum-accg-201708566.html",
+          "summary": "Geheimdienste fürchten laut einem Medienbericht, Moskau wolle noch dieses Jahr einen nuklear bestückten Satelliten starten. Damit drohen Ausfälle fast aller Erdorbit-Systeme.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/f68b2b6112cf/w6144h3210x0y443o/202611/44922953-6370-45dc-b940-f54296d25706/die-proteste-gehen-weiter.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/ed5c59edd8f4/w1968h1028x486y254o/202603/43601.0.1907423279/eine-russische-sojus.webp"
         },
         {
-          "title": "Judo und Politik: „Festhalten, würgen, abrollen“",
-          "url": "https://www.faz.net/aktuell/sport/sportpolitik/gregor-gysi-im-interview-ueber-parallelen-zwischen-judo-und-politik-accg-201691504.html",
-          "summary": "Gürtelträger Gregor Gysi über Parallelen zwischen Judo und Politik, Chancen von Olympiasieger Teddy Riner als Präsidentschaftskandidat in Frankreich und drüber, was der Bundestag vom Judo lernen könnte.",
+          "title": "Liveblog Ukrainekrieg: Ukraine versenkt russisches Kriegsschiff vor Libyen",
+          "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kiew-versenkt-russisches-kriegsschiff-vor-libyen-faz-110683325.html",
+          "summary": "Zusätzlich sei ein russischer Waffenfrachter getroffen worden +++ Zehn Todesopfer nach russischem Angriff bei Kiew +++ alle Neuigkeiten im Liveblog",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/2e5c73ea069c/w4480h2340x0y90o/202609/43601.0.2575388446/gregor-gysi-die-kuerzeren-sind.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/d02194ef1c64/w8860h4629x0y588o/202611/b697d473-9289-476e-b42e-b2c667f6d9ed/satellitenaufnahmen-des.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Teenager und Ihre Handys: Ihr Kind hängt nur noch am Handy? 6 Tipps, ohne Verbote",
-          "url": "https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss",
-          "summary": "Daddeln, scrollen, posten: Medienpädagogin Kristin Langer sagt, auf welche Warnsignale Eltern bei ihren Kindern achten sollten. Und wie eine Familienchallenge gegen Bildschirmsucht hilft.",
+          "title": "Russland: Wie ein Satellit des Start-ups Iceye aus Finnland bedrängt wurde",
+          "url": "https://www.spiegel.de/wirtschaft/russland-wie-ein-satellit-des-start-ups-iceye-aus-finnland-bedraengt-wurde-a-ff5b0831-a793-4834-b0b9-a24f353a2060#ref=rss",
+          "summary": "Ein Satellit des finnischen Raumfahrtunternehmens Iceye ist von einem russischen Satelliten bedrängt worden. Co-Gründer Rafal Modrzewski erklärt, wie seine Firma damit umgeht. Und welche Pläne er in Deutschland hat.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f9020d2a-e4aa-4164-a078-35ec72191422_w1200_r1.778_fpx47_fpy42.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a72d9b46-d369-45d7-89fd-d30db33e93b5_w1200_r1.778_fpx56.25_fpy55.01.jpg"
         },
         {
-          "title": "News: Markus Söder will Kalte Progression ausgleichen, Klimakonferenz zurecht gescheitert, Pressefreiheit in der Türkei",
-          "url": "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
-          "summary": "Markus Söder stiftet Unruhe mit der kalten Progression. Das Scheitern der Klimakonferenz hat auch eine gute Seite. Und in der Türkei konnte Erdoğan noch nicht alle zum Schweigen bringen. Das ist die Lage am Montagmorgen.",
+          "title": "Elterngeld-Reform: Was Karin Prien beim Elterngeld richtig gemacht hat",
+          "url": "https://www.spiegel.de/politik/elterngeld-reform-was-karin-prien-beim-elterngeld-richtig-gemacht-hat-a-89241644-bf5e-4003-9fe2-1b2fcef9a88e#ref=rss",
+          "summary": "Die Familienministerin bringt eine unpopuläre, aber notwendige Reform zum Elterngeld auf den Weg. Der Protest dagegen zeigt, dass mutige Politik einen schweren Stand hat.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e873074b-e349-4cb2-b0c6-f1889b663ea9_w1200_r1.778_fpx33.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/9f6f8772-cd81-499a-b31a-ed8bc1b0fe54_w1200_r1.778_fpx51.32_fpy44.99.jpg"
         },
         {
-          "title": "EU-Parlament: Erlebt die Brandmauer in Brüssel ein Comeback?",
-          "url": "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
-          "summary": "Zuletzt suchten Konservative im EU-Parlament Mehrheiten mit Rechtsextremen. Doch jetzt steht nach SPIEGEL-Informationen ein Kurswechsel bevor: Es soll eine Abmachung der politischen Mitte geben.",
+          "title": "Bombendrohungen gegen Schulen in mehreren Bundesländern",
+          "url": "https://www.spiegel.de/panorama/justiz/bombendrohungen-gegen-schulen-in-mehreren-bundeslaendern-a-99dcdb25-8015-4e98-90ff-658f963ad00b#ref=rss",
+          "summary": "In Schulen in mehreren Bundesländern sind Bombendrohungen eingegangen. Die Polizei in Thüringen geht nicht davon aus, dass die Drohungen ernst gemeint sind, und empfiehlt, den Betrieb fortzusetzen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/366e08c2-dcbb-40bd-92b8-2ba0c2058b42_w1200_r1.778_fpx37.34_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/aa8fed88-34ca-40a5-9cb8-ed239b2b20c7_w1200_r1.778_fpx44_fpy55.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Neue Warnstreiks in Metall- und Elektroindustrie angelaufen",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
-          "summary": "In der Metall- und Elektroindustrie in Norddeutschland läuft seit der Nacht der nächste Warnstreik. Vielerorts sind die Tarifverhandlungen festgefahren. Die Gewerkschaft IG Metall fordert fünf Prozent mehr Gehalt.",
+          "title": "Wer ist schuld am Scheitern des Klimagipfels?",
+          "url": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
+          "summary": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidentschaft. Von Jakob Mayr.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/821fb780-cdd7-4c8a-bc92-3e740f5f544c/AAABogcRWPw/AAABnSSvrFg/16x9-big/warnstreik-ig-metall-130.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b7befcf3-8846-48e6-81cb-b6029eca0d1e/AAABogfhxdY/AAABnSSvrFg/16x9-big/klimakonferenz-304.jpg?width=1280"
         },
         {
-          "title": "Marktbericht: DAX-Ausverkauf wohl gestoppt",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
-          "summary": "Nach einer extrem schwachen Vorwoche dürfte der DAX heute einen Erholungskurs fahren. Die Fragen rund um das Thema KI sind zwar nicht gelöst, aber die niedrigeren Kurse locken Schnäppchenjäger in den Markt.",
+          "title": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
+          "url": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
+          "summary": "Es war die erste militärische Übung der \"Koalition der Willigen\": Hunderte Soldaten haben in Polen getestet, wie in der Ukraine Frieden gesichert werden kann. Zum Ende schlugen nahe dem Gelände russische Raketen ein. Von P. Milling.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/372e5590-5cc9-45c9-bc73-827d84fc5669/AAABm5K-XzA/AAABnSSvrFg/16x9-big/boerse-474.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/35df4534-45dd-4cfd-bf6f-c33ce514bce4/AAABogfBS-I/AAABnSSvrFg/16x9-big/soldaten-staatsflaggen-100.jpg?width=1280"
         },
         {
-          "title": "Deutschland auf großflächigen Satelliten-Ausfall nicht vorbereitet",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satelliten-ausfall-100.html",
-          "summary": "Wenn im Weltraum großflächig Satelliten ausfielen, hätte das einschneidende Folgen auf der Erde - und dennoch gibt es für ein solches Szenario nach Informationen von WDR, NDR und SZ derzeit noch keinen Krisenplan.",
+          "title": "Einigung: Zeugen Jehovas bekommen Archiv einer NS-Verfolgten",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-kusserow-ns-verfolgung-100.html",
+          "summary": "Die Zeugen Jehovas litten unter der Verfolgung der Nationalsozialisten - eine Betroffene hat dies minutiös dokumentiert. Doch das Kusserow-Archiv lag lange im Museum der Bundeswehr. Nun bekommt die Glaubensgemeinschaft es zurück. Von Max Bauer.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/a3956df8-0120-4836-ad15-9990b1851a90/AAABofmgBHc/AAABnSSvrFg/16x9-big/weltkugel-satelliten-weltraumschrott-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/91f4bc46-b2f7-4672-b031-9973c427745f/AAABogfNMrc/AAABnSSvrFg/16x9-big/zeugen-jehovas-140.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Berlins Mietwohnungen: Wie viel Demokratie verträgt der Bund?",
-          "url": "https://www.telepolis.de/article/Berlins-Mietwohnungen-Wie-viel-Demokratie-vertraegt-der-Bund-11533766.html",
-          "summary": "Der Bund will die Vergesellschaftung verteuern. Darf er die gesetzlichen Hürden erhöhen, wenn ihm Berlins Kurs missfällt? Ein Gastbeitrag.",
+          "title": "Im Schlaf wird das Gehirn zur Waschanlage – und die kann im Alter schwächeln",
+          "url": "https://www.telepolis.de/article/Im-Schlaf-wird-das-Gehirn-zur-Waschanlage-und-die-kann-im-Alter-schwaecheln-11533770.html",
+          "summary": "Im Schlaf entsorgt unser Gehirn Abfallstoffe. Forscher vom MIT zeigen: Dieser Prozess lässt im Alter nach. Was aber hat rosa Rauschen damit zu tun?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/9/7/1/Master_Horn-aef50deb52847986.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/9/7/3/Laura_Lewis-6b19c3346b708088.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Betriebsrente im Mittelstand: Warum das neue Gesetz kaum etwas ändert",
-          "url": "https://www.telepolis.de/article/Betriebsrente-im-Mittelstand-Warum-das-neue-Gesetz-kaum-etwas-aendert-11530705.html",
-          "summary": "Das Betriebsrentenstärkungsgesetz II soll die Altersvorsorge im Mittelstand pushen. Doch fast die Hälfte der KMU kennt die Neuregelungen nicht einmal.",
+          "title": "Kann Arte eine europäische Öffentlichkeit schaffen?",
+          "url": "https://www.telepolis.de/article/Kann-Arte-eine-europaeische-Oeffentlichkeit-schaffen-11533894.html",
+          "summary": "Zwischen Spanien und der Ukraine: Arte streamt in sieben Sprachen. 2027 reicht das Programm von Nestlé bis zur Mafia. Die Bewährungsprobe sind die Nachrichten.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/4/4/2/2/betriebsrente2-F-1_Zeichenfla__che_1-93cd9fb036a3faf0.gif?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/0/3/5/master_arte_2-b61ad0c2f38a3554.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "EU-Haushalt: Rüstung verdreifacht – 84 Mrd. weniger für Bauern und Regionen",
-          "url": "https://www.telepolis.de/article/EU-Haushalt-Ruestung-verdreifacht-84-Mrd-weniger-fuer-Bauern-und-Regionen-11533744.html",
-          "summary": "António Costa will 95 Milliarden Euro für Verteidigung einplanen. Bei Agrarhilfen und Kohäsion fehlen preisbereinigt 84 Milliarden.",
+          "title": "Nvidia-Affäre: Alice Huang hatte laut NYT doch Kontakt zu Chinas Spionen",
+          "url": "https://www.telepolis.de/article/Nvidia-Affaere-Alice-Huang-hatte-laut-NYT-doch-Kontakt-zu-Chinas-Spionen-11533972.html",
+          "summary": "Vom Frühjahr 2025 bis Herbst 2026 soll Alice Huang Kontakt zum chinesischen MSS gehabt haben. Trump wiegelte Warnungen seiner Berater offenbar ab.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/5/9/6/0/shutterstock_2556695569-b9b3f880ff9c7591.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/0/7/4/shutterstock_2309655121-3a521d4973270939.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Deutsche Bahn: Es droht noch mehr Chaos",
-          "url": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-chaos-fahrplan-verspaetung-it-li.3584282",
-          "summary": "Ein neues IT-System führt dazu, dass Fahrpläne für die vielen Baustellen spät und teils offenbar falsch ankommen. Das könnte den Zugverkehr von 2027 an noch stärker stören. Insider schildern groteske Fälle.",
+          "title": "Sachbuch: „Wir würden sofort Würgereiz bekommen“",
+          "url": "https://www.sueddeutsche.de/kultur/altes-rom-dirty-rome-michael-sommer-sachbuch-interview-li.3528279",
+          "summary": "Wie lebten die Menschen im alten Rom zusammen – und wie roch es da eigentlich? Ein Gespräch mit Althistoriker Michael Sommer über sein Sachbuch „Dirty Rome“ und darüber, was wir von der Antike lernen können.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Bundespolitik: Umweltminister Schneider zu COP31: „Die Welt braucht diese Abschlusserklärung nicht“",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-schneider-cop31-wuest-soeder-kalte-progression-li.3580621",
-          "summary": "Man könne zwar eine Klimakonferenz blockieren, nicht aber die weltweite Dynamik hin zu erneuerbaren Energien. NRW-Ministerpräsident Wüst weist Söders Forderung zur kalten Progression zurück.",
+          "title": "Krieg in der Ukraine: Selenskij: Haben russisches Kriegsschiff vor Libyen versenkt",
+          "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
+          "summary": "Man habe die Korvette „Merkurij“ mit sieben Seedrohnen versenkt, teilt der ukrainische Präsident mit. Die ostlibysche Regierung verurteilt den Angriff.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Sicherheitspolitik: Geheimdienste fürchten: Russland vor atomarer Aufrüstung im All",
-          "url": "https://www.sueddeutsche.de/politik/russland-atomwaffe-weltraum-nato-sputnik-s-satelliten-bundeswehr-aufruestung-li.3582627",
-          "summary": "Innerhalb der Nato kursiert ein Szenario, wonach die Stationierung einer Nuklearwaffe im Orbit unmittelbar bevorsteht. Es wäre der Höhepunkt eines Wettrüstens im Weltall – und Deutschland ist schlecht vorbereitet.",
+          "title": "Premier League: Der Wow-Moment des Florian Wirtz",
+          "url": "https://www.sueddeutsche.de/sport/premier-league-fc-liverpool-manchester-united-wirtz-pocchettino-li.3584595",
+          "summary": "Der Nationalspieler trifft beim 4:0-Sieg des FC Liverpool auf akrobatische Weise – und vermiest Mauricio Pochettino den Trainer-Einstand bei Manchester United.",
           "source": "SZ",
           "paywall": false,
           "image": null
