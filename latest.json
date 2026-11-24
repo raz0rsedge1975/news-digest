@@ -1,17 +1,25 @@
 {
-  "generated": "2026-11-24T11:00:08.055Z",
-  "timestamp": "24.11.2026, 12:00:08",
+  "generated": "2026-11-24T15:00:07.929Z",
+  "timestamp": "24.11.2026, 16:00:07",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Der Fall Döpfner: Die bedürftigen Milliardäre",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/doepfner-steuer-und-eine-halbe-milliarde-die-luecke-im-system-201709890.html",
-          "summary": "Der viel gebrauchte Begriff der „bürgerlichen Mitte“ lässt sich nicht mit einer Steuerpolitik füllen, die nach oben so löchrig ist. Er bleibt dann leer, und man kann sich die Frage schenken, was die Gesellschaft zusammenhält.",
+          "title": "Trump hilft Huang: Seine Rückkehr verdankt er einer koordinierten Kampagne",
+          "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/so-profitiert-donald-trump-finanziell-von-der-nvidia-rueckkehr-von-jensen-huang-201712270.html",
+          "summary": "Donald Trump verhilft Jensen Huang zurück an die Nvidia-Spitze – und profitiert wohl auch selbst finanziell von der abermaligen Berufung. Republikaner und Demokraten reagieren verstört.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/8990a739c49a/w3000h1567x0y142o/202009/43600.0.60937841/eine-schenkung-die-vor-jahren.webp"
+          "image": "https://media0.faz.net/image/w1200h627/05915fc3a1cd/w2468h1289x0y142o/202611/25815268-c439-4afa-8b1c-4c43592cf373/wer-gibt-hier-wem-die-richtung.webp"
+        },
+        {
+          "title": "Börsen in Turbulenzen: Eine Blase platzt selten schnell",
+          "url": "https://www.faz.net/aktuell/finanzen/jensen-huang-und-nvidia-unruhe-um-anthropic-platzt-jetzt-die-ki-blase-accg-201712266.html",
+          "summary": "Anflüge von Panik durchziehen derzeit das Börsengeschehen. Die schönen Billionengewinne mit der Künstlichen Intelligenz drohen plötzlich verloren zu gehen. Platzt die KI-Blase?",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://www.faz.net/faz-share-logo.jpg"
         },
         {
           "title": "Business-Ticker: Wadephul „schockiert“ über Trumps Eingriff in Nvidia",
@@ -20,14 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/6fb78e9671b4/w4500h2351x0y90o/202611/ee45c878-b561-46cd-9a55-7ab77b3a384a/bundesaussenminister-johann.webp"
-        },
-        {
-          "title": "Jensen Huang: Der unersetzliche Mann",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/jensen-huang-und-trumps-maennerkult-201711303.html",
-          "summary": "Alles egal: Für Jensen Huang pfeift nicht nur Trump auf Compliance und nationale Sicherheit. Wirtschaftliche Interessen mischen sich mit dem Kult vermeintlicher Technik-Genies.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/0483aa13daad/w3405h1779x0y245o/202611/2096692b-1d50-4a84-a4d8-b6e5c110c68f/gut-dass-der-praesident-ihn.webp"
         }
       ]
     },
@@ -35,12 +35,20 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Nvidia: Jensen Huang und die anderen Tech-Bros sind in den USA jetzt der Staat",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-und-die-anderen-tech-bros-sind-in-den-usa-jetzt-der-staat-a-7adbbe97-8e4c-4d8c-9928-f429f3d494ed#ref=rss",
-          "summary": "Der Fall Jensen Huang zeigt: Das Silicon Valley ist zu mächtig geworden. Ein paar Unternehmensbosse machen sich die Welt, wie sie ihnen gefällt – auf Kosten des Rechtsstaats.",
+          "title": "Schädlingsbekämpfung mithilfe von KI: Die Rattenfängerin von Hannover",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaedlingsbekaempfung-mithilfe-von-ki-die-rattenfaengerin-von-hannover-a-c6f0bbb9-a507-4b55-983e-093b2ede6b66#ref=rss",
+          "summary": "Sina Schaper führt in dritter Generation ein Unternehmen für Schädlingsbekämpfung. Eine KI half, das Wissen ihres Vaters zu sichern, bevor er starb.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/0525ecd6-45a7-43a8-ab04-7888f7d12c49_w1200_r1.778_fpx52_fpy25.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/43d1447f-859f-48e5-a8e3-cef5d1da70d8_w1200_r1.778_fpx45_fpy51.jpg"
+        },
+        {
+          "title": "Nvidia: Was Huangs Rückkehr über die US-Demokratie verrät",
+          "url": "https://www.spiegel.de/netzwelt/nvidia-was-huangs-rueckkehr-ueber-die-us-demokratie-verraet-a-1eb4c718-6cd5-45a5-8be4-123057639aa1#ref=rss",
+          "summary": "Der US-Präsident holt Jensen Huang zurück an die Spitze des KI-Unternehmens Nvidia. Das sagt einiges über den Zustand der amerikanischen Demokratie.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/2b438695-fa44-4cbf-8d26-c56a582e3e37_w1200_r1.778_fpx70_fpy45.jpg"
         },
         {
           "title": "Deutschland-Umfrage: Was sich Bürger von der Bundesregierung wünschen",
@@ -49,14 +57,6 @@
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/61e5759b-76b2-4eeb-8aa5-f5c7fff4257b_w1200_r1.778_fpx44.22_fpy50.98.jpg"
-        },
-        {
-          "title": "Schwerte: Maskierter stürmte Grünen-Sitzung in NRW – eine Person im Krankenhaus",
-          "url": "https://www.spiegel.de/politik/deutschland/schwerte-bei-dortmund-unbekannter-stuermt-offenbar-gruenen-sitzung-mehrere-menschen-im-krankenhaus-a-0f296213-39b0-4fdf-a77a-f03707044024#ref=rss",
-          "summary": "Ein maskierter Mann hat eine Sitzung der Grünen im nordrhein-westfälischen Schwerte angegriffen. Laut Polizei wurden mehrere Menschen leicht verletzt. Die Ermittler prüfen eine politisch motivierte Tat.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/85bf4d78-0ab6-4ded-bc8f-7516de654dc5_w1200_r1.778_fpx55_fpy45.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ifo-Index steigt: \"Erholung der deutschen Wirtschaft kommt voran\"",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
-          "summary": "In der deutschen Wirtschaft nimmt der Aufschwung weiter Fahrt auf: Die Stimmung hat sich im November den siebten Monat in Folge verbessert. Der ifo-Index erreichte sogar den höchsten Stand seit dem Frühjahr 2023.",
+          "title": "UN-Bericht: Partner und Verwandte Haupttäter bei Femiziden",
+          "url": "https://www.tagesschau.de/ausland/europa/un-bericht-femizide-unodc-100.html",
+          "summary": "Von insgesamt 78. 000 Femiziden weltweit im vergangenen Jahr gehen die meisten auf das Konto von Partnern und Angehörigen. Das geht aus einem UN-Bericht hervor. Für Frauen und Mädchen sei das eigene Zuhause der gefährlichste Ort.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/3590ac6e-261e-42b8-94c2-376c7cc084d5/AAABogyPKrg/AAABnSSvrFg/16x9-big/industrie-260.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/7c836b6e-c651-468d-8ad8-bedb9a6fac9f/AAABog1e21s/AAABnSSvrFg/16x9-big/demo-femizide-100.jpg?width=1280"
         },
         {
-          "title": "Debatte über Arzttermine: Führt der Sparkurs zur Drei-Klassen-Medizin?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html",
-          "summary": "Der Bund kürzt den Gesundheitsetat um sechs Milliarden Euro. Doch wer gesetzlich versichert ist, wartet schon jetzt länger auf Facharzttermine. Was dahintersteckt, was erlaubt ist und was sich bald ändern könnte. Von Tina Handel.",
+          "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+          "summary": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profiteur dessen war offenbar auch US-Präsident Donald Trump - der sich zuvor für den Huang eingesetzt hatte.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/63505315-880b-4e9c-9b75-d7e003182a0c/AAABoIpiGSs/AAABnSSvrFg/16x9-big/wartezimmer-arztpraxis-106.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/5ad3c1ca-7297-460a-adf0-5be140c8ea83/AAABogx_eUY/AAABnSSvrFg/16x9-big/nvidia-238.jpg?width=1280"
         },
         {
-          "title": "Landminen-Monitor: Zahl der Opfer von Landminen gestiegen",
-          "url": "https://www.tagesschau.de/ausland/europa/landminen-monitor-102.html",
-          "summary": "000 Menschen wurden im vergangenen Jahr weltweit Opfer von Landminen. Das ist die höchste Zahl seit fünf Jahren. Am meisten gefährdet sind Kinder - oft halten sie die Minen für Spielzeug. Von Sandra Biegger.",
+          "title": "Kita-Gap-Portal: Trotz weniger Geburten fehlen Kitaplätze",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/kitaplaetze-mangel-100.html",
+          "summary": "Obwohl in Deutschland weniger Kinder geboren werden, fehlt es weiterhin an Kitaplätzen. Vor allem ärmere und nicht Deutsch sprechende Familien sind betroffen. Große Unterschiede gibt es zwischen Ost und West.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/6de58ad6-0c2b-43af-8f84-aecfad1cef67/AAABogytRKU/AAABnSSvrFg/16x9-big/landminen-sprengungsvorbereitung-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/b88f0aad-eda4-4417-bd6f-52de84a2580a/AAABog0VDOs/AAABnSSvrFg/16x9-big/erzieherin-kind-100.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Auf der Spur eines zweiten versteckten Planeten im äußeren Sonnensystem",
-          "url": "https://www.telepolis.de/article/Auf-der-Spur-eines-zweiten-versteckten-Planeten-im-aeusseren-Sonnensystem-11535106.html",
-          "summary": "Planet X2 könnte erklären, warum Himmelskörper jenseits von Neptun auf rätselhaften Bahnen kreisen. Doch Astronomen streiten, ob er und Planet 9 existieren.",
+          "title": "Bundeshaushalt 2027: Jeder dritte Euro kommt aus neuen Schulden",
+          "url": "https://www.telepolis.de/article/Bundeshaushalt-2027-Jeder-dritte-Euro-kommt-aus-neuen-Schulden-11536596.html",
+          "summary": "Haushaltsausschuss billigt Rekordkredite. Finanzminister Klingbeil verteidigt den Kurs, doch schon ab 2028 zahlt der Bund laut IW mehr Zinsen als er investiert.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/6/5/1/Diego_Barucco_cropped2-96cc7baf92042298.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/4/0/3/shutterstock_2680221311-25397e4293b21e04.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Alle wollen weniger Bürokratie. Wer verzichtet auf Kontrolle?",
-          "url": "https://www.telepolis.de/article/Alle-wollen-weniger-Buerokratie-Wer-verzichtet-auf-Kontrolle-11535608.html",
-          "summary": "Bäcker führen Kühlprotokolle, Kommunen vermessen Mülleimer. Politik verspricht Entlastung. Doch sobald etwas schiefläuft, rufen auch Bürger nach neuen Regeln.",
+          "title": "Rundfunkbeitrag: Karlsruhe verschiebt Urteil erneut",
+          "url": "https://www.telepolis.de/article/Rundfunkbeitrag-Karlsruhe-verschiebt-Urteil-erneut-11536232.html",
+          "summary": "Zum Jahreswechsel bleibt der Rundfunkbeitrag bei 18,36 Euro. Das Urteil kann klären, wie viel Spielraum die Länder bei künftigen Erhöhungen haben.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/9/0/3/master_rieg-602ff6ec332a48d4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;wat=1&amp;wat_gravity=northeast&amp;wat_scale=12&amp;wat_url=https%3A%2F%2Fwww.heise.de%2Ficons%2Fai-label-dark-de.png&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/2/1/6/coin-ard-zdf_ho-11ebf07fc0c8b3d4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Facharzttermin gegen Aufpreis: Was Deutschland von Griechenland lernen kann",
-          "url": "https://www.telepolis.de/article/Facharzttermin-gegen-Aufpreis-Was-Deutschland-von-Griechenland-lernen-kann-11534095.html",
-          "summary": "KBV-Chef Gassen fordert Extra-Bezahlung für schnellere Termine. In Griechenland wäre das strafbar – und das System dort ist trotz weniger Geld oft effizienter.",
+          "title": "Nvidia und Trump: Warum Huangs Rückkehr Korruptionsvorwürfe auslöst",
+          "url": "https://www.telepolis.de/article/Nvidia-und-Trump-Warum-Huangs-Rueckkehr-Korruptionsvorwuerfe-ausloest-11536130.html",
+          "summary": "Trump gibt Huang Rückendeckung, hält selbst Nvidia-Aktien und unterschreibt eine Verordnung gegen die Aufklärung durch den Kongress.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/1/3/6/kuvert_Brief-100er_1-3f510df1e5f9ea67.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/1/6/5/shutterstock_1100202230-46d67cf8fc64d640.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Rückkehr von Jensen Huang: Auf die Demut des Nvidia-Chefs sollte man sich lieber nicht verlassen",
-          "url": "https://www.sueddeutsche.de/meinung/jensen-huang-nvidia-ceo-kommentar-li.3585161",
-          "summary": "Der Mann  verspricht, „ein besserer CEO“ zu sein. Damit das wahr wird, braucht er nun Menschen um sich herum, die ihre Aufgabe ernst nehmen.",
+          "title": "Russland im Weltsport: Die EU arbeitet an den Sanktionen, die der Weltsport selbst verhängen müsste",
+          "url": "https://www.sueddeutsche.de/sport/russland-eu-sanktionen-sport-flagge-visa-kommentar-li.3585219",
+          "summary": "Kommissionspräsidentin von der Leyen will Russland die „Tür zur Teilnahme an europäischen Sport- und Kulturveranstaltungen“ verschließen. Für den Weltsport ist der Vorstoß so blamabel wie gefährlich.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Bundespolitik: Straftaten gegen Frauen und Mädchen nehmen zu – mehr als 300 Tote im Jahr 2025",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-gewalt-gegen-frauen-berichte-bka-dobrindt-straftaten-zunahme-li.3580621",
-          "summary": "Fast 200 000 Frauen sind im vergangenen Jahr Opfer häuslicher Gewalt geworden. Eine Statistik nimmt besonders durch Frauenhass motivierte Übergriffe in den Fokus.",
+          "title": "EU-Parlament: Deutschland zögert, schwangeren Abgeordneten zu helfen",
+          "url": "https://www.sueddeutsche.de/politik/eu-parlament-stimmrechtsuebertragung-schwangerschaft-deutschland-ratifizierung-li.3584660",
+          "summary": "Frauen im EU-Parlament sollen vor und nach Geburt ihres Kindes die Möglichkeit erhalten, ihr Stimmrecht an andere Abgeordnete zu übertragen. Die Bundesregierung verweigert bislang ihre Zustimmung.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Newsblog zu den Landtagswahlen: Schließt die Berliner Linke Emde heute aus ihrer Fraktion aus?",
-          "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-fraktion-ausschluss-li.3540501",
-          "summary": "Vanessa Emde holte als Linke ein Direktmandat, doch ihr Verhältnis zur eigenen Fraktionsspitze ist zerrüttet. Die Debatte belastet die Regierungsbildung in der Hauptstadt.",
+          "title": "„Horrorhaus“ von Soest: „Etwas Erniedrigenderes kann man sich nicht vorstellen“",
+          "url": "https://www.sueddeutsche.de/panorama/horrorhaus-soest-obdachlose-misshandlung-urteil-prozess-arnsberg-li.3582033",
+          "summary": "Monatelang misshandelten Menschen eine Frau in einem Reihenhaus in Soest. Jetzt gibt es ein erstes Urteil. Doch wer hat noch mitgemacht bei der Quälerei?",
           "source": "SZ",
           "paywall": false,
           "image": null
