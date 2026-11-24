@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-23T23:00:06.741Z",
-  "timestamp": "24.11.2026, 00:00:06",
+  "generated": "2026-11-24T03:00:08.995Z",
+  "timestamp": "24.11.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -51,12 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/df5f7912-4c9e-4e2d-a20c-9a22b111a307_w1200_r1.778_fpx50_fpy50.png"
         },
         {
-          "title": "Jared Kushner: Donald Trumps Schwiegersohn und Chefvermittler wird immer reicher",
-          "url": "https://www.spiegel.de/ausland/jared-kushner-donald-trumps-schwiegersohn-und-chefvermittler-wird-immer-reicher-a-b3af0ff4-f30f-4dc3-b727-5a3a03cc5901#ref=rss",
-          "summary": "Jared Kushner verhandelt für das Weiße Haus in aller Welt. Doch in der Ukraine, in Gaza und im Irankrieg war er bisher erfolglos. Eines aber gelingt dem Chefgesandten Trumps prächtig – Reichtum anzuhäufen.",
+          "title": "USA: Donald Trump und Gavin Newsom streiten über Todesstrafe",
+          "url": "https://www.spiegel.de/ausland/usa-donald-trump-und-gavin-newsom-streiten-ueber-todesstrafe-a-f9799628-f33a-4ec5-b6d7-85587a82a2e4#ref=rss",
+          "summary": "Gouverneur Gavin Newsom hat alle 548 Todesurteile in Kalifornien in lebenslange Haftstrafen umgewandelt. Der US-Präsident hält davon überhaupt nichts, wie er nun kundtat. Auch online zoffen sich beide Lager.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/e620a093-a6de-47c6-b5cd-06adaab12db1_w1200_r1.778_fpx43.03_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d1298b35-759d-4a5a-adf8-f3900e92e8d3_w1200_r1.778_fpx70_fpy40.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Deutschland baut künftig ukrainische Drohnen",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+          "summary": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffspläne im All mahnte er zur Ruhe.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/6b7d65a3-66be-4fc7-8ea4-766d8c14ff33/AAABogn92jg/AAABnSSvrFg/16x9-big/pistorius-chmara-100.jpg?width=1280"
+        },
+        {
+          "title": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
+          "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+          "summary": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/bca964b7-f795-49df-a04c-a24ede4f9ee3/AAABogqnvA8/AAABnSSvrFg/16x9-big/elsalvador-haiti-100.jpg?width=1280"
+        },
+        {
           "title": "Mehr Stromspar-Checks für Haushalte mit wenig Geld geplant",
           "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
           "summary": "Die Finanzierung des Stromspar-Checks ist für weitere drei Jahre gesichert. Damit können sich Haushalte mit geringem Einkommen kostenlos beraten lassen und Zuschüsse bekommen. Die wichtigsten Fragen und Antworten.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/0123d509-4f6a-4abe-a7ae-d7d4fc60a135/AAABnXbc5sE/AAABnSSvrFg/16x9-big/stromzaehler-134.jpg?width=1280"
-        },
-        {
-          "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
-          "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
-          "summary": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/01f15277-2dc1-47c8-a5cd-9a5b83995a51/AAABogmuEEw/AAABnSSvrFg/16x9-big/trump-huang-100.jpg?width=1280"
-        },
-        {
-          "title": "Wie der Klimawandel den Winterschlaf der Tiere verändert",
-          "url": "https://www.tagesschau.de/wissen/winterschlaf-klimawandel-tiere-100.html",
-          "summary": "Ungewöhnlich warme Winter, trockene Sommer - das hat auch Folgen für den Winterschlaf der Tiere. Igel, Siebenschläfer und Fledermäuse entwickeln dabei ganz unterschiedliche Strategien. Von Stefanie Peyk.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1024be9f-ce87-465f-a45b-ae37c127af23/AAABogjWvDk/AAABnSSvrFg/16x9-big/wasserfledermaus-106.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Mikroplastik im Teebeutel: Wie viel Plastik landet wirklich in der Tasse?",
+          "url": "https://www.telepolis.de/article/Mikroplastik-im-Teebeutel-Wie-viel-Plastik-landet-wirklich-in-der-Tasse-11535378.html",
+          "summary": "Geben Teebeutel Milliarden Plastikteilchen ab? Was Studien wirklich messen und was Experten zur Gesundheitsgefahr sagen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/7/8/7/shutterstock_2801024509-7cbfc3e7f57bb5c3.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Gaspreis springt um 8,6 Prozent: Kälte trifft auf leere Speicher",
           "url": "https://www.telepolis.de/article/Gaspreis-springt-um-8-6-Prozent-Kaelte-trifft-auf-leere-Speicher-11535166.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/2/9/8/1_Tatort_4_Finger-0982c4e5f24cfcf8.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Sputnik-S: Was über Russlands angebliche Atomwaffe im All belegt ist",
-          "url": "https://www.telepolis.de/article/Sputnik-S-Was-ueber-Russlands-angebliche-Atomwaffe-im-All-belegt-ist-11534385.html",
-          "summary": "Deutsche Medien warnen vor einem Start noch 2026. Öffentliche US-Berichte sprechen nur von Entwicklung, der mutmaßliche Vorläufer geriet ins Taumeln.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/6/2/8/6/shutterstock_360478484-c33ebae461af6297.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
