@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-24T23:00:07.750Z",
-  "timestamp": "25.11.2026, 00:00:07",
+  "generated": "2026-11-25T03:00:08.146Z",
+  "timestamp": "25.11.2026, 04:00:08",
   "news": [
     {
       "source": "FAZ",
@@ -43,20 +43,20 @@
           "image": "https://cdn.prod.www.spiegel.de/images/2193299b-20a2-4cc8-af11-85cf88c70096_w1200_r1.778_fpx65.34_fpy49.99.jpg"
         },
         {
+          "title": "Nvidia: Jensen Huang entschuldigt sich bei Belegschaft und spricht über seine Therapie",
+          "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-b5286ad4-9ebb-4aa8-b004-d1825b9f262e#ref=rss",
+          "summary": "Einen Tag nach seiner Rückkehr an die Spitze von Nvidia wendet sich Jensen Huang an die Belegschaft: Er räumt »schreckliche Fehler« ein, verteidigt aber sein Comeback. Und erklärt Donald Trumps Rolle dabei.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/0046628e-c537-4cd4-92d6-e2578334ce46_w1200_r1.778_fpx43_fpy30.jpg"
+        },
+        {
           "title": "USA nach den Midterms: Können die Demokraten ihre Stärke nutzen?",
           "url": "https://www.spiegel.de/ausland/usa-nach-den-midterms-koennen-die-demokraten-ihre-staerke-nutzen-a-3a54f8f3-93f5-40c6-bcdd-487b6d6ea2ac#ref=rss",
           "summary": "Der Triumph der US-Demokraten bei den Midterms legt auch alte Gräben frei: Progressive wie Abdul El-Sayed drängen nach links, Zentristen bremsen. Kann die Partei bis zur nächsten Präsidentenwahl zusammenfinden?",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/48625d52-f9ab-4fa7-8fee-183f0cb99312_w1200_r1.778_fpx56.16_fpy50.jpg"
-        },
-        {
-          "title": "Nvidia-Skandal: Wie Donald Trump die Rückkehr von Jensen Huang durchsetzte",
-          "url": "https://www.spiegel.de/ausland/nvidia-skandal-wie-donald-trump-die-rueckkehr-von-jensen-huang-durchsetzte-a-5133b7fe-b964-4915-a3ad-579bedcb1659#ref=rss",
-          "summary": "Der Präsident der USA hat eingegriffen, damit Nvidia-Chef Jensen Huang zurück auf seinen Posten kann. Rekonstruktion einer dreisten Kampagne.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/68768b12-45cf-4b04-bf61-83216f5b1002_w1200_r1.778_fpx60_fpy41.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+          "summary": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schießt die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/4d80da7e-b67d-4d82-8fc9-ce619d62e6d2/AAABohBPwh4/AAABnSSvrFg/16x9-big/kiew-bruecke-100.jpg?width=1280"
+        },
+        {
+          "title": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+          "url": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+          "summary": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c1a6120d-c092-49b2-ba1a-27686aeea3be/AAABog9uOx8/AAABnSSvrFg/16x9-big/kuba-havanna-110.jpg?width=1280"
+        },
+        {
           "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
           "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
           "summary": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/7cf71a19-191c-4efd-9cb2-5b384644322a/AAABog5AniM/AAABnSSvrFg/16x9-big/huang-142.jpg?width=1280"
-        },
-        {
-          "title": "Verbraucherschützer haben die smarte Brille im Blick",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
-          "summary": "Verbraucherschützer gehen juristisch gegen KI-Brillen von Meta und Ray-Ban vor. Der Vorwurf: Mit smarten Brillen lassen sich Fotos und Videos aufnehmen, ohne dass andere Menschen das bemerken. Auch Nutzern könnten Bußgelder drohen. Von Jens Eberl.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/33e302ac-7300-474b-9e0e-03555f6e826f/AAABn7fT7sg/AAABnSSvrFg/16x9-big/smart-glasses-meta-100.jpg?width=1280"
-        },
-        {
-          "title": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
-          "url": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
-          "summary": "Die per Mail verschickten Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/56f86d3d-a3f4-4d8b-828f-1163ea26a2ff/AAABog612II/AAABnSSvrFg/16x9-big/bayern-memmingen-schule-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Starlink der Bundeswehr soll 15 Milliarden Euro kosten",
+          "url": "https://www.telepolis.de/article/Starlink-der-Bundeswehr-soll-15-Milliarden-Euro-kosten-11536922.html",
+          "summary": "Der Vertrag soll in wenigen Wochen stehen. Bei der Zahl der Satelliten gehen die Angaben aber weit auseinander.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/5/6/8/shutterstock_2169538311-870861437d167129.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Bundeshaushalt 2027: Jeder dritte Euro kommt aus neuen Schulden",
           "url": "https://www.telepolis.de/article/Bundeshaushalt-2027-Jeder-dritte-Euro-kommt-aus-neuen-Schulden-11536596.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/2/1/6/coin-ard-zdf_ho-11ebf07fc0c8b3d4.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Nvidia und Trump: Warum Huangs Rückkehr Korruptionsvorwürfe auslöst",
-          "url": "https://www.telepolis.de/article/Nvidia-und-Trump-Warum-Huangs-Rueckkehr-Korruptionsvorwuerfe-ausloest-11536130.html",
-          "summary": "Trump gibt Huang Rückendeckung, hält selbst Nvidia-Aktien und unterschreibt eine Verordnung gegen die Aufklärung durch den Kongress.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/1/6/5/shutterstock_1100202230-46d67cf8fc64d640.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
