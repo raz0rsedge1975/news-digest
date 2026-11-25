@@ -1,10 +1,26 @@
 {
-  "generated": "2026-11-25T15:00:08.994Z",
-  "timestamp": "25.11.2026, 16:00:08",
+  "generated": "2026-11-25T19:00:16.391Z",
+  "timestamp": "25.11.2026, 20:00:16",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Asteroidenmission „Hera“: An einem angeschossenen Mond",
+          "url": "https://www.faz.net/aktuell/wissen/weltraum/esa-sonde-hera-erreicht-dimorphos-was-der-nasa-einschlag-hinterliess-201713150.html",
+          "summary": "Vor vier Jahren rammt eine NASA-Sonde den kleinen Mond eines Asteroiden. Nun ist eine europäische Raumsonde am Tatort eingetroffen, um den Schaden zu besichtigen. Eine erste Überraschung gibt es bereits.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/90a09b9ebf60/w1020h532x0y326o/202611/ac606325-c576-4da7-89b6-b4b76c2eeabe/der-asteroid-didymos-und-sein.webp"
+        },
+        {
+          "title": "Satellitennetz „Starmind“: SpaceX darf eine Million Satelliten ins All bringen",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen-201717821.html",
+          "summary": "Aktuell kreisen 17. 000 künstliche Satelliten um die Erde, 11. 00 von ihnen von Starlink. SpaceX darf nun noch mehr ins All schießen – unter Auflagen. Für Astronomen ist die Vorstellung ein Graus.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/b99e7586e314/w2837h1482x386y891o/202610/43601.0.2664228028/diese-rakete-von-spacex-bringt.webp"
+        },
         {
           "title": "Satelliteninternet: Hier startet Amazons Starlink-Konkurrenz",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/satelliteninternet-hier-startet-die-starlink-konkurrenz-von-amazon-201714333.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://www.faz.net/faz-share-logo.jpg"
-        },
-        {
-          "title": "Handelsstreit: USA planen neue Zölle gegen EU und 13 weitere Handelspartner",
-          "url": "https://www.faz.net/aktuell/wirtschaft/usa-planen-neue-zoelle-gegen-eu-und-13-weitere-handelspartner-201716698.html",
-          "summary": "Die Vereinigten Staaten haben eine neue Begründung für neue Zölle gefunden. Den höchsten Aufschlag soll ⁠China erhalten – wegen Überkapazitäten.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/3e216df5436b/w1668h871x0y43o/202611/6b38366c-4f74-4350-8dbd-ac7cfefba3df/us-praesident-donald-trump.webp"
-        },
-        {
-          "title": "Generaldebatte: Was der Haushalt über den Zustand der Koalition verrät",
-          "url": "https://www.faz.net/aktuell/politik/inland/was-der-haushalt-2027-ueber-den-zustand-der-koalition-verraet-201713825.html",
-          "summary": "Die Koalition schleppt sich mit Mühe zum Haushalt 2027 und sorgt sich schon um den nächsten. Man ist sich einig: So kann es nicht noch einmal laufen.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/e9ed39ac5b05/w4800h2508x0y346o/b9b6423d-a96b-42d1-8540-690801618ef6-1O7A7769-2-.jpg/alexander-dobrindt-csu-lars.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Hamburg: Alte Sternbrücke mit Asbest und Blei belastet",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/hamburg-alte-sternbruecke-mit-asbest-und-blei-belastet-a-4868dddd-47e4-4654-861e-e69e6d2f47ff#ref=rss",
-          "summary": "Der Austausch der Sternbrücke in Hamburg bewegte diesen Sommer viele Menschen. Die alte Konstruktion war nach SPIEGEL-Informationen mit Asbest und Blei belastet. Wurden die Schadstoffe beim Abriss zur Gefahr?",
+          "title": "Rente mit 63: Union bietet SPD Kompromiss für Geringverdiener an",
+          "url": "https://www.spiegel.de/politik/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-3cfcd68d-7b6c-47e5-bc21-a78860df3b49#ref=rss",
+          "summary": "Union und SPD haben sich beim Rentenpaket verhakt. Nun macht die Kanzlerpartei einen Vorschlag: Nach SPIEGEL-Informationen soll die »Rente mit 63« für Menschen mit kleinem Einkommen erhalten bleiben.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/b01ea6b9-2104-4600-810a-53a0f690431a_w1200_r1.778_fpx65.65_fpy44.85.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/a8fe44d1-b106-4e3f-9917-3820492285ec_w1200_r1.778_fpx53.32_fpy49.97.jpg"
         },
         {
-          "title": "»Orange Day« – Tag zur Beseitigung von Gewalt gegen Frauen – Wie viel bringen die neuen Gesetze?",
-          "url": "https://www.spiegel.de/panorama/justiz/internationaler-tag-zur-beseitigung-von-gewalt-gegen-frauen-wie-viel-bringen-die-neuen-gesetze-von-bundesjustizministerin-stefanie-hubig-a-607a296c-dbcb-4af1-8f85-da63f9c6d7f1#ref=rss",
-          "summary": "Härtere Strafen bei Vergewaltigung, K. -Tropfen, Deepfakes: Justizministerin Hubig macht Ernst im Kampf gegen geschlechtsspezifische Gewalt. Ist das mehr als Symbolpolitik?",
+          "title": "Bundestag: Tumulte rund um Besuch von Ex-Mossad-Chef David Barnea",
+          "url": "https://www.spiegel.de/politik/deutschland/bundestag-tumulte-rund-um-besuch-von-ex-mossad-chef-david-barnea-a-a900cae3-9de2-469f-a225-d3a5e2b6cd73#ref=rss",
+          "summary": "Eine Veranstaltung mit Ex-Mossad-Chef Barnea sorgt für Aufregung im Bundestag. Linkenabgeordnete blockieren kurzzeitig den Raum, ein Aktivist stört die Veranstaltung. Es kommt zu Rangeleien, die Polizei muss eingreifen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/1cf032b9-21de-4242-831f-0db4c25a95ca_w1200_r1.778_fpx50_fpy50.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/d0381917-1e68-4d5c-ad0e-fa5340777f99_w1200_r1.778_fpx33.33_fpy49.99.jpg"
         },
         {
-          "title": "BMW: Gesamtbetriebsratschef Martin Kimmich attackiert Konzernchefs in Tarifkonflikt",
-          "url": "https://www.spiegel.de/wirtschaft/bmw-gesamtbetriebsratschef-martin-kimmich-attackiert-konzernchefs-in-tarifkonflikt-a-2241c461-f01e-4162-b33c-1dd68cb2544f#ref=rss",
-          "summary": "Arbeitgeber und IG Metall ringen um Jobs, Gehälter und Arbeitszeiten. BMW-Gesamtbetriebsratschef Martin Kimmich greift die Autokonzernchefs hart an.",
+          "title": "News des Tages: Jamal Musiala, rechtsterroristische Teenager, Migranten auf El Hierro",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-jamal-musiala-rechtsterroristische-teenager-migranten-auf-el-hierro-a-8c1d423a-7204-4b8f-9043-b60b3894da3d#ref=rss",
+          "summary": "Die Bayern-Chefs verständigen sich mit den Beratern des Fußballstars. Die Bundesanwaltschaft geht gegen mutmaßlich rechtsterroristische Teenager vor. Und auf der Insel El Hierro kommt eine Rekordzahl von Migranten an. Das ist die Lage am Mittwochabend.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/198a7b69-a731-4d29-ae10-04f29b7b15ba_w1200_r1.778_fpx38_fpy56.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c359d6a3-1aab-4b49-b548-29745cc2380e_w1200_r1.778_fpx65.17_fpy49.94.jpg"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Wenn der Partner zuschlägt",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html",
-          "summary": "Alle drei Minuten erlebt eine Frau oder ein Mädchen in Deutschland häusliche Gewalt. Nur ein kleiner Teil der Taten wird angezeigt - aus Angst, Scham oder sozialer Isolation. Von Marion Försching.",
+          "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+          "summary": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die Verteidigung \"unserer Freiheit\". Von Nicole Markwald.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7774f6e3-064c-4a3e-a219-f839640cf65d/AAABlfFkp_I/AAABnSSvrFg/16x9-big/frauenhaus-113.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/bcd27a52-99f9-4134-9b94-9d8b22e471c4/AAABohPD-PQ/AAABnSSvrFg/16x9-big/merz-weidel-114.jpg?width=1280"
         },
         {
-          "title": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
-          "url": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html",
-          "summary": "In Brasilien hat die Zahl der Frauenmorde vergangenes Jahr einen Höchststand erreicht. Eine Spezialeinheit der Polizei soll gefährdete Frauen schützen - unterwegs mit einer Patrouille in Rio de Janeiro. Von Xenia Böttcher.",
+          "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
+          "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
+          "summary": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Kartschall.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/d2698ee9-301c-411c-a510-7baf0ce2c41c/AAABohIH2-w/AAABnSSvrFg/16x9-big/venerando-maifrede-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/89d58984-3c83-48fc-a0e9-3c89041b820c/AAABn7z6jLY/AAABnSSvrFg/16x9-big/frau-am-computer-104.jpg?width=1280"
         },
         {
-          "title": "USA kündigen neue Zölle an - auch gegen EU und China",
-          "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
-          "summary": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen, auf chinesische Waren soll eine Abgabe von 20 Prozent fällig werden.",
+          "title": "Asteroiden-Abwehr - einfach schießen und hoffen reicht nicht",
+          "url": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
+          "summary": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach wird das nicht. Von David Beck.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9529bd48-dd16-4734-a442-58358ce3336a/AAABohL7BTM/AAABnSSvrFg/16x9-big/donald-trump-1018.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/9b19d595-4f81-4faa-afa8-da07ce146ae8/AAABohNpmOQ/AAABnSSvrFg/16x9-big/didymos-asteroid-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Delta statt Palantir? Bundeswehr erhält Zugang zu ukrainischem Kampfsystem",
+          "url": "https://www.telepolis.de/article/Delta-statt-Palantir-Bundeswehr-erhaelt-Zugang-zu-ukrainischem-Kampfsystem-11538054.html",
+          "summary": "Die Bundeswehr erprobt bereits das ukrainische Gefechtssystem Delta. Ob es die umstrittene Palantir-Software ersetzen kann, ist noch offen.",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/1/4/2/medium_umod-de-delta-agreement-site-01-61c6930c1a-e0f164c1ac1b0b3c.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Die Heimatschutzdivision: Ausdruck der militärischen Umorientierung Berlins",
           "url": "https://www.telepolis.de/article/Die-Heimatschutzdivision-Ausdruck-der-militaerischen-Umorientierung-Berlins-11537504.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/9/7/0/Master_Frankreich-9dc4de6a0d7a0300.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Ukraine-Krieg: Rosstat-Leak deutet auf bis zu 700.000 tote russische Soldaten",
-          "url": "https://www.telepolis.de/article/Ukraine-Krieg-Rosstat-Leak-deutet-auf-bis-zu-700-000-tote-russische-Soldaten-11537455.html",
-          "summary": "Russlands Sterbedaten haben kein Feld „gefallener Soldat“. Wie Journalisten trotzdem zählen – und wo die Schätzung beginnt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/8/3/7/shutterstock_2822078115-5dc4718bd98a581c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Vier Wochen nach dem Brand: Kehlsteinhaus: Ruine im Schnee",
-          "url": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-brand-berchtesgaden-adolf-hitler-wiederaufbau-li.3585834",
-          "summary": "Vier Wochen, nachdem Hitlers einstiges Teehaus bis auf die Grundmauern niedergebrannt ist, schützt ein massives Notdach die rußigen Reste vor dem hereinbrechenden Winter. Wie genau es am Kehlstein weitergehen soll, muss das Kabinett beschließen.",
+          "title": "Jugendliche unter Verdacht: 13-Jährige über Monate sexuell missbraucht",
+          "url": "https://www.sueddeutsche.de/bayern/schweinfurt-missbrauch-jugendliche-polizei-unterfranken-li.3586286",
+          "summary": "Im fränkischen Schweinfurt sollen sieben Jugendliche mehr als ein Jahr lang am Missbrauch einer Schülerin beteiligt gewesen sein. Es gibt Razzien, in U-Haft kommt aber niemand.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Iranische Sängerin Parastoo Ahmadi: „Wenn mein Blut vergossen wird, ist es der Preis für die Befreiung aus dieser Knechtschaft“",
-          "url": "https://www.sueddeutsche.de/politik/parastoo-ahmadi-iran-74-peitschenhiebe-li.3585860",
-          "summary": "Die 29-jährige Künstlerin ist ausgepeitscht worden – mit 74 Hieben. Es ist eine Strafe, die in ihrer Brutalität bestens passt zu diesem Regime, das sich am allermeisten vor seinem eigenen Volk fürchtet.",
+          "title": "Prozess um Vorteilsnahme im Amt: Champagner, Wiesn-Markerl und Spenden angenommen: Keine Pensionsansprüche mehr für Ex-Polizeichef aus Grünwald",
+          "url": "https://www.sueddeutsche.de/muenchen/muenchen-gruenwald-ex-polizeichef-prozess-vorteilsnahme-li.3583824",
+          "summary": "Er war der lässige „Hubert-ohne-Staller-Typ“, doch Sach- und Geldspenden führten zu seiner Suspendierung. Vor dem Bayerischen Verwaltungsgerichtshof scheitert der ehemalige Polizist nun im Berufungsverfahren.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Trauerfeier für Michael Well: Gerhard Polt: „Da ist noch so viel Michael da“",
-          "url": "https://www.sueddeutsche.de/bayern/michael-well-trauerfeier-ascholding-gerhard-polt-volksmusik-li.3584957",
-          "summary": "Hunderte Trauergäste nehmen in Ascholding Abschied vom Musiker und Volkstänzer Michael Well. Gerhard Polt hilft sich mit Humor, die „Toten Hosen“ schweigen erschüttert, Bruder Stofferl und die Familie lassen die Musik sprechen.",
+          "title": "Jamal Musiala und der FC Bayern: Die neue Chronik eines beispiellosen Falls",
+          "url": "https://www.sueddeutsche.de/sport/fc-bayern-jamal-musiala-absence-zeitpunkt-reaktionen-li.3585983",
+          "summary": "Der FC Bayern macht öffentlich, wann Jamal Musiala erstmals wegen einer Absence medizinisch untersucht wurde: vor 19 Monaten. Das wirft auf manchen Vorgang seit dem April 2025 ein neues Licht.",
           "source": "SZ",
           "paywall": false,
           "image": null
