@@ -1,10 +1,26 @@
 {
-  "generated": "2026-11-25T19:00:16.391Z",
-  "timestamp": "25.11.2026, 20:00:16",
+  "generated": "2026-11-25T23:00:13.371Z",
+  "timestamp": "26.11.2026, 00:00:13",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Schwaches Wirtschaftswachstum: Die privaten Investitionen kommen einfach nicht in Gang",
+          "url": "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
+          "summary": "Wieso wächst die deutsche Wirtschaft so langsam? Die Schwäche der privaten Investitionen ist der wichtigste Grund. Sie hat Deutschland seit 2022 mehr als 125 Milliarden Euro an Wirtschaftsleistung gekostet.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/793dc0c8af32/w5833h3047x0y421o/202207/43600.0.1071423604/die-ausruestungsinvestitionen.webp"
+        },
+        {
+          "title": "Investitionsschwäche: Mehr Angebotspolitik",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/private-investitionen-schwaecheln-warum-staatsschulden-allein-nicht-reichen-201716738.html",
+          "summary": "Die Regierung investiert und verausgabt auf Pump, aber die privaten Investitionen rutschen weiter ab. Ein Schelm, wer da keinen Zusammenhang sieht.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/e1edc231be49/w6144h3210x0y225o/202611/7bab3702-7f2a-49da-90a9-4a28b84a0e9d/finanzminister-lars-klingbeil.webp"
+        },
         {
           "title": "Asteroidenmission „Hera“: An einem angeschossenen Mond",
           "url": "https://www.faz.net/aktuell/wissen/weltraum/esa-sonde-hera-erreicht-dimorphos-was-der-nasa-einschlag-hinterliess-201713150.html",
@@ -12,22 +28,6 @@
           "source": "FAZ",
           "paywall": false,
           "image": "https://media0.faz.net/image/w1200h627/90a09b9ebf60/w1020h532x0y326o/202611/ac606325-c576-4da7-89b6-b4b76c2eeabe/der-asteroid-didymos-und-sein.webp"
-        },
-        {
-          "title": "Satellitennetz „Starmind“: SpaceX darf eine Million Satelliten ins All bringen",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen-201717821.html",
-          "summary": "Aktuell kreisen 17. 000 künstliche Satelliten um die Erde, 11. 00 von ihnen von Starlink. SpaceX darf nun noch mehr ins All schießen – unter Auflagen. Für Astronomen ist die Vorstellung ein Graus.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b99e7586e314/w2837h1482x386y891o/202610/43601.0.2664228028/diese-rakete-von-spacex-bringt.webp"
-        },
-        {
-          "title": "Satelliteninternet: Hier startet Amazons Starlink-Konkurrenz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/satelliteninternet-hier-startet-die-starlink-konkurrenz-von-amazon-201714333.html",
-          "summary": "Amazon ist für seine großen Satelliten-Pläne erst mal auf die europäische Rakete Ariane 6 angewiesen. Das geopolitisch brisante Rennen ums Satelliteninternet entscheidet sich damit auch im südamerikanischen Regenwald. Ein Ortsbesuch.",
-          "source": "FAZ",
-          "paywall": false,
-          "image": "https://www.faz.net/faz-share-logo.jpg"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Rente mit 63: Union bietet SPD Kompromiss für Geringverdiener an",
-          "url": "https://www.spiegel.de/politik/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-3cfcd68d-7b6c-47e5-bc21-a78860df3b49#ref=rss",
-          "summary": "Union und SPD haben sich beim Rentenpaket verhakt. Nun macht die Kanzlerpartei einen Vorschlag: Nach SPIEGEL-Informationen soll die »Rente mit 63« für Menschen mit kleinem Einkommen erhalten bleiben.",
+          "title": "Russland: »Putin kann keinen Krieg führen wie Stalin« Sönke Neitzel und Hanna Notte im SPIEGEL-Talk",
+          "url": "https://www.spiegel.de/politik/deutschland/russland-putin-kann-keinen-krieg-fuehren-wie-stalin-soenke-neitzel-und-hanna-notte-im-spiegel-talk-a-2bd42a0d-8b31-42fe-adea-9592b8ef2507#ref=rss",
+          "summary": "Wie weit eskaliert Putin? Hier sprechen Russlandexpertin Hanna Notte und Militärhistoriker Sönke Neitzel über Raketen in Polen, Zeitfenster für Verhandlungen und eine Atomwaffe im All, über die die Szene schon länger spricht.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a8fe44d1-b106-4e3f-9917-3820492285ec_w1200_r1.778_fpx53.32_fpy49.97.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/3ae00d73-d182-429e-8a18-6f30a45148c0_w1200_r1.778_fpx48_fpy47.jpg"
         },
         {
-          "title": "Bundestag: Tumulte rund um Besuch von Ex-Mossad-Chef David Barnea",
-          "url": "https://www.spiegel.de/politik/deutschland/bundestag-tumulte-rund-um-besuch-von-ex-mossad-chef-david-barnea-a-a900cae3-9de2-469f-a225-d3a5e2b6cd73#ref=rss",
-          "summary": "Eine Veranstaltung mit Ex-Mossad-Chef Barnea sorgt für Aufregung im Bundestag. Linkenabgeordnete blockieren kurzzeitig den Raum, ein Aktivist stört die Veranstaltung. Es kommt zu Rangeleien, die Polizei muss eingreifen.",
+          "title": "US-Zölle: Welche Folgen Donald Trumps neue Strafmaßnahmen für die EU haben",
+          "url": "https://www.spiegel.de/wirtschaft/us-zoelle-welche-folgen-donald-trumps-neue-strafmassnahmen-fuer-die-eu-haben-a-e8098dd8-1e2e-4161-bd76-0310a466a835#ref=rss",
+          "summary": "Die USA kündigen neue Zölle gegen mehrere Handelspartner an, darunter die EU. Trotz der jüngsten Niederlage bei den Midterms setzt der US-Präsident seine Lieblingsprojekte durch. Wie weit kann er damit kommen?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/d0381917-1e68-4d5c-ad0e-fa5340777f99_w1200_r1.778_fpx33.33_fpy49.99.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/509314a9-8a67-49e1-81b8-d805885dcbb1_w1200_r1.778_fpx61.98_fpy44.98.jpg"
         },
         {
-          "title": "News des Tages: Jamal Musiala, rechtsterroristische Teenager, Migranten auf El Hierro",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-jamal-musiala-rechtsterroristische-teenager-migranten-auf-el-hierro-a-8c1d423a-7204-4b8f-9043-b60b3894da3d#ref=rss",
-          "summary": "Die Bayern-Chefs verständigen sich mit den Beratern des Fußballstars. Die Bundesanwaltschaft geht gegen mutmaßlich rechtsterroristische Teenager vor. Und auf der Insel El Hierro kommt eine Rekordzahl von Migranten an. Das ist die Lage am Mittwochabend.",
+          "title": "Chen Jining: Die Angst schmiert Xi Jinpings Machtmaschine",
+          "url": "https://www.spiegel.de/ausland/chen-jining-xi-jinping-laesst-gegen-shanghais-parteichef-ermitteln-die-angst-schmiert-seine-machtmaschine-a-064febf6-98c7-4f63-9a15-3ef355c12df9#ref=rss",
+          "summary": "Chen Jining galt als einer der Shooting-Stars der Kommunistischen Partei. Nun hat Xi Jinping die Karriere des Shanghaier Parteisekretärs aus unbekannten Gründen beendet. Im Apparat wächst die Unsicherheit. Ist genau das Xis Plan?",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c359d6a3-1aab-4b49-b548-29745cc2380e_w1200_r1.778_fpx65.17_fpy49.94.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0b7565d3-559f-4010-a787-533207b0233a_w1200_r1.778_fpx57.32_fpy49.99.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
-          "summary": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe. Für die AfD ist das eine Veruntreuung von Steuergeldern, für Kanzler Merz die Verteidigung \"unserer Freiheit\". Von Nicole Markwald.",
+          "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
+          "url": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
+          "summary": "Ein mit Gasflaschen beladener Lkw hat bei einem Unfall auf einer Autobahn in der ägyptischen Stadt Gizeh einen Großbrand ausgelöst. Mindestens 30 Menschen starben bei dem Unglück, viele wurden verletzt.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/bcd27a52-99f9-4134-9b94-9d8b22e471c4/AAABohPD-PQ/AAABnSSvrFg/16x9-big/merz-weidel-114.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/375a2712-4ace-4f86-8427-3a1086acaa7d/AAABohSLUM0/AAABnSSvrFg/16x9-big/aegypten-grossbrand-100.jpg?width=1280"
         },
         {
-          "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-          "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-          "summary": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Kartschall.",
+          "title": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
+          "summary": "Seit Jahren muss sich Israels Premier wegen Betrugs, Untreue und Bestechlichkeit vor Gericht verantworten. Jetzt haben Richter empfohlen, den letzten Anklagepunkt fallen zu lassen. Netanjahu sieht den ganzen Prozess als gescheitert.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/89d58984-3c83-48fc-a0e9-3c89041b820c/AAABn7z6jLY/AAABnSSvrFg/16x9-big/frau-am-computer-104.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/847c043d-5aa0-49a9-900c-a52053a5a18e/AAABohQQeJM/AAABnSSvrFg/16x9-big/netanjahu-424.jpg?width=1280"
         },
         {
-          "title": "Asteroiden-Abwehr - einfach schießen und hoffen reicht nicht",
-          "url": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html",
-          "summary": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach wird das nicht. Von David Beck.",
+          "title": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
+          "url": "https://www.tagesschau.de/ausland/europa/tuerkei-orange-day-demo-verboten-100.html",
+          "summary": "Frauenrechtsorganisationen wollten in Istanbul gegen Gewalt an Frauen demonstrieren. Doch nach dem Demoaufruf wurden die Proteste verboten. Dennoch gingen am Abend zahlreiche Menschen auf die Straße.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9b19d595-4f81-4faa-afa8-da07ce146ae8/AAABohNpmOQ/AAABnSSvrFg/16x9-big/didymos-asteroid-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/63f26e5b-f6b8-42ea-a783-30e1ba5708bc/AAABohQMMw4/AAABnSSvrFg/16x9-big/istanbul-demo-112.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Jugendliche unter Verdacht: 13-Jährige über Monate sexuell missbraucht",
-          "url": "https://www.sueddeutsche.de/bayern/schweinfurt-missbrauch-jugendliche-polizei-unterfranken-li.3586286",
-          "summary": "Im fränkischen Schweinfurt sollen sieben Jugendliche mehr als ein Jahr lang am Missbrauch einer Schülerin beteiligt gewesen sein. Es gibt Razzien, in U-Haft kommt aber niemand.",
+          "title": "Bayern in der Einzelkritik: Laimer versucht sich als Kane-Aushilfe",
+          "url": "https://www.sueddeutsche.de/sport/bayern-lille-einzelkritik-musiala-laimer-li.3586299",
+          "summary": "Der Österreicher spielt tatsächlich Stürmer, Dayot Upamecano trifft und verschuldet dann fast ein Gegentor, und Jamal Musiala bleibt nach seiner Einwechslung glücklos. Die Bayern in der Einzelkritik.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Prozess um Vorteilsnahme im Amt: Champagner, Wiesn-Markerl und Spenden angenommen: Keine Pensionsansprüche mehr für Ex-Polizeichef aus Grünwald",
-          "url": "https://www.sueddeutsche.de/muenchen/muenchen-gruenwald-ex-polizeichef-prozess-vorteilsnahme-li.3583824",
-          "summary": "Er war der lässige „Hubert-ohne-Staller-Typ“, doch Sach- und Geldspenden führten zu seiner Suspendierung. Vor dem Bayerischen Verwaltungsgerichtshof scheitert der ehemalige Polizist nun im Berufungsverfahren.",
+          "title": "Champions League in Lille: Für die Bayern kommt einfach zu viel zusammen",
+          "url": "https://www.sueddeutsche.de/sport/bayern-lille-champions-league-musiala-niederlage-li.3586297",
+          "summary": "Die erste Niederlage seit Mai: Der ersatzgeschwächte FC Bayern bricht in Lille ein, Aleksandar Pavlovic erzielt ein slapstickhaftes Eigentor zum 1:2.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Jamal Musiala und der FC Bayern: Die neue Chronik eines beispiellosen Falls",
-          "url": "https://www.sueddeutsche.de/sport/fc-bayern-jamal-musiala-absence-zeitpunkt-reaktionen-li.3585983",
-          "summary": "Der FC Bayern macht öffentlich, wann Jamal Musiala erstmals wegen einer Absence medizinisch untersucht wurde: vor 19 Monaten. Das wirft auf manchen Vorgang seit dem April 2025 ein neues Licht.",
+          "title": "Bundespolitik: Kompromissvorschlag aus der Union: Bleibt „Rente mit 63“ für Geringverdiener?",
+          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-rente-mit-63-rentenreform-union-spd-kompromissvorschlag-li.3580621",
+          "summary": "Die Abschaffung der abschlagsfreien Frührente nach 45 Beitragsjahren ist Teil der Vorschläge der Rentenkommission. Kanzler Merz möchte die Rentenreform noch vor Weihnachten im Kabinett verabschieden.",
           "source": "SZ",
           "paywall": false,
           "image": null
