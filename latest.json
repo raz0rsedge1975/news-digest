@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-25T23:00:13.371Z",
-  "timestamp": "26.11.2026, 00:00:13",
+  "generated": "2026-11-26T03:00:16.736Z",
+  "timestamp": "26.11.2026, 04:00:16",
   "news": [
     {
       "source": "FAZ",
@@ -53,7 +53,7 @@
         {
           "title": "Chen Jining: Die Angst schmiert Xi Jinpings Machtmaschine",
           "url": "https://www.spiegel.de/ausland/chen-jining-xi-jinping-laesst-gegen-shanghais-parteichef-ermitteln-die-angst-schmiert-seine-machtmaschine-a-064febf6-98c7-4f63-9a15-3ef355c12df9#ref=rss",
-          "summary": "Chen Jining galt als einer der Shooting-Stars der Kommunistischen Partei. Nun hat Xi Jinping die Karriere des Shanghaier Parteisekretärs aus unbekannten Gründen beendet. Im Apparat wächst die Unsicherheit. Ist genau das Xis Plan?",
+          "summary": "Chen Jining galt als einer der Shootingstars der Kommunistischen Partei. Nun hat Xi Jinping die Karriere des Shanghaier Parteisekretärs aus unbekannten Gründen beendet. Im Apparat wächst die Unsicherheit. Ist genau das Xis Plan?",
           "source": "Spiegel",
           "paywall": true,
           "image": "https://cdn.prod.www.spiegel.de/images/0b7565d3-559f-4010-a787-533207b0233a_w1200_r1.778_fpx57.32_fpy49.99.jpg"
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
+          "summary": "SpaceX plant im All ein Netz aus Satelliten, die als Rechenzentren dienen sollen. Die US-Behörden haben das Vorhaben nun erlaubt. Ziel ist es, die enorme Nachfrage nach Rechenleistung für Künstliche Intelligenz zu befriedigen.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/ee1320b8-70a0-4194-b749-b4edd868901c/AAABohVSmy8/AAABnSSvrFg/16x9-big/spacex-326.jpg?width=1280"
+        },
+        {
+          "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+          "url": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+          "summary": "Andy Taylor, der ursprüngliche Gitarrist der englischen New-Wave-Band Duran Duran, ist gestorben. Mit seinen von Rock und Funk inspirierten Gitarrenriffs prägte Taylor den Sound der Band.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/7e083346-67cf-4595-8a61-224c5171e1f2/AAABohUWYUc/AAABnSSvrFg/16x9-big/andytaylor-100.jpg?width=1280"
+        },
+        {
           "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
           "url": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
           "summary": "Ein mit Gasflaschen beladener Lkw hat bei einem Unfall auf einer Autobahn in der ägyptischen Stadt Gizeh einen Großbrand ausgelöst. Mindestens 30 Menschen starben bei dem Unglück, viele wurden verletzt.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/375a2712-4ace-4f86-8427-3a1086acaa7d/AAABohSLUM0/AAABnSSvrFg/16x9-big/aegypten-grossbrand-100.jpg?width=1280"
-        },
-        {
-          "title": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
-          "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
-          "summary": "Seit Jahren muss sich Israels Premier wegen Betrugs, Untreue und Bestechlichkeit vor Gericht verantworten. Jetzt haben Richter empfohlen, den letzten Anklagepunkt fallen zu lassen. Netanjahu sieht den ganzen Prozess als gescheitert.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/847c043d-5aa0-49a9-900c-a52053a5a18e/AAABohQQeJM/AAABnSSvrFg/16x9-big/netanjahu-424.jpg?width=1280"
-        },
-        {
-          "title": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
-          "url": "https://www.tagesschau.de/ausland/europa/tuerkei-orange-day-demo-verboten-100.html",
-          "summary": "Frauenrechtsorganisationen wollten in Istanbul gegen Gewalt an Frauen demonstrieren. Doch nach dem Demoaufruf wurden die Proteste verboten. Dennoch gingen am Abend zahlreiche Menschen auf die Straße.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/63f26e5b-f6b8-42ea-a783-30e1ba5708bc/AAABohQMMw4/AAABnSSvrFg/16x9-big/istanbul-demo-112.jpg?width=1280"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "TV-Kritik: „Bei den Linken gibt es Rassisten und Antisemiten“",
+          "url": "https://www.sueddeutsche.de/medien/sandra-maischberger-ard-talkshow-tv-kritik-kubicki-pantisano-li.3586194",
+          "summary": "FDP-Chef Kubicki und Linken-Chef Pantisano streiten bei „Maischberger“ über Israel. Pantisano will den Tatsachen ins Gesicht schauen, seinem Gesprächspartner aber lieber nicht.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
+          "title": "Joshua Kimmich zum Fall Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
+          "url": "https://www.sueddeutsche.de/sport/kimmich-kritik-musiala-lille-fc-bayern-li.3586330",
+          "summary": "Joshua Kimmich kritisiert mit deutlichen Worten die öffentliche Kommunikation des Vereins im Fall Jamal Musiala.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Bayern in der Einzelkritik: Laimer versucht sich als Kane-Aushilfe",
           "url": "https://www.sueddeutsche.de/sport/bayern-lille-einzelkritik-musiala-laimer-li.3586299",
           "summary": "Der Österreicher spielt tatsächlich Stürmer, Dayot Upamecano trifft und verschuldet dann fast ein Gegentor, und Jamal Musiala bleibt nach seiner Einwechslung glücklos. Die Bayern in der Einzelkritik.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Champions League in Lille: Für die Bayern kommt einfach zu viel zusammen",
-          "url": "https://www.sueddeutsche.de/sport/bayern-lille-champions-league-musiala-niederlage-li.3586297",
-          "summary": "Die erste Niederlage seit Mai: Der ersatzgeschwächte FC Bayern bricht in Lille ein, Aleksandar Pavlovic erzielt ein slapstickhaftes Eigentor zum 1:2.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Bundespolitik: Kompromissvorschlag aus der Union: Bleibt „Rente mit 63“ für Geringverdiener?",
-          "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-rente-mit-63-rentenreform-union-spd-kompromissvorschlag-li.3580621",
-          "summary": "Die Abschaffung der abschlagsfreien Frührente nach 45 Beitragsjahren ist Teil der Vorschläge der Rentenkommission. Kanzler Merz möchte die Rentenreform noch vor Weihnachten im Kabinett verabschieden.",
           "source": "SZ",
           "paywall": false,
           "image": null
