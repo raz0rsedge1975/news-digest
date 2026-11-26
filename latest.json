@@ -1,10 +1,18 @@
 {
-  "generated": "2026-11-26T07:00:19.136Z",
-  "timestamp": "26.11.2026, 08:00:19",
+  "generated": "2026-11-26T11:00:15.532Z",
+  "timestamp": "26.11.2026, 12:00:15",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
+        {
+          "title": "Hans-Werner Sinn: „Die fetten Jahre sind vorbei“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/hans-werner-sinn-ueber-merz-und-trump-die-fetten-jahre-sind-vorbei-accg-201716573.html",
+          "summary": "Der Ökonom Hans-Werner Sinn über Deutschlands Aufrüstung, Rente ohne Kinder, hohe Stromkosten, Eurobonds gegen französische Atomwaffen, den richtigen Umgang mit China und die Zukunft der Arbeit im Zeitalter der Künstlichen Intelligenz.",
+          "source": "FAZ",
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/60fb68e59bae/w4688h2449x645y347o/202510/43601.0.1390983387/hans-werner-sinn-war.webp"
+        },
         {
           "title": "Volkswagen: „Wenn ich nicht die Moral hätte, würde ich verkaufen“",
           "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-krise-ernst-piech-wuerde-anteile-verkaufen-haelt-aber-aus-moral-durch-accg-201716307.html",
@@ -14,20 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/f4cbfbfd2038/w6144h3210x0y443o/202611/7b7e1ee5-4c39-438e-80d4-9f65d55670fd/goetterdaemmerung-in-wolfsburg.webp"
         },
         {
-          "title": "Russische Spionage: Ausforschen mit allen Mitteln",
-          "url": "https://www.faz.net/aktuell/politik/inland/spionage-prozess-russland-geht-mit-allen-mitteln-vor-accg-201716605.html",
-          "summary": "Deutschland steht im Fokus russischer Geheimdienste. Sie spielen die volle Bandbreite ihrer Fähigkeiten aus – wie der Prozess gegen einen mutmaßlichen Wegwerfagenten zeigt.",
-          "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/88a1fa5eec9f/w2762h1443x0y340o/202611/794b622f-03f9-4f82-b2e0-49554634d4a6/ein-ki-generiertes.webp"
-        },
-        {
-          "title": "TV-Kritik Maischberger: Bitte kurz mal Pause!",
-          "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/maischberger-in-der-tv-kritik-warum-man-sich-manchmal-einfach-nur-eine-pause-wuenscht-accg-201718133.html",
-          "summary": "Es sollte um Gerechtigkeit und die Regierungsbildung in Berlin gehen. Aber es wurde zu einem Stresstest kurz vor Mitternacht. Warum man sich bei einer Talkshow wie „Maischberger“ manchmal einfach nur eine Pause wünscht.",
+          "title": "Die VW-Story – Folge 7: Folge 7 - Wirft die Familie hin?",
+          "url": "https://www.faz.net/podcasts/vw-story/vw-podcast-endspiel-um-volkswagen-stirbt-die-autoindustrie-201716355.html",
+          "summary": "Die Familien Porsche und Piëch sind für Außenstehende kaum zu durchblicken. Nur einer redet jetzt Tacheles.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/67cc3b2cf2a9/w5392h2817x0y251o/202611/ab1cfd3d-0037-434c-94a1-4b6861637a04/fdp-vorsitzender-wolfgang.webp"
+          "image": "https://media0.faz.net/image/w1200h627/d08010aae7de/w5176h2704x0y262o/202507/43601.0.1170305308/die-oberhaeupter-hans-michel.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Kilmar Ábrego García verlässt nach Rechtsstreit freiwillig die USA - Donald Trump feiert das",
-          "url": "https://www.spiegel.de/ausland/kilmar-abrego-garcia-verlaesst-nach-rechtsstreit-freiwillig-die-usa-donald-trump-feiert-das-a-40ef0733-21a6-4e91-89f0-81d9af656f7b#ref=rss",
-          "summary": "Sein Fall wurde zum Symbol für die knallharte Abschiebepolitik der US-Regierung. Jetzt ist Kilmar Ábrego García nach fast zwei Jahren des Rechtsstreits nach Spanien ausgereist. Die Trump-Hardliner feiern das als Sieg.",
+          "title": "Köln: Islamisten sollen Anschlag auf Synagoge geplant haben",
+          "url": "https://www.spiegel.de/panorama/justiz/islamisten-sollen-anschlag-auf-koelner-synagoge-geplant-haben-a-496b3ef7-69a8-41f4-864b-b856f28105dd#ref=rss",
+          "summary": "Der Generalbundesanwalt ließ am Donnerstagmorgen zwei Männer festnehmen. Sie sollen Mitglieder einer Terrorgruppe sein, die nach SPIEGEL-Informationen Geld für Anschläge sammelte und Handlanger für Attentate rekrutierte.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/cefa5f1d-3f51-4ed0-9266-d7a85e7c6b34_w1200_r1.778_fpx56_fpy55.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/80c4a526-93b3-4a36-b431-e38706038a8e_w1200_r1.778_fpx61.49_fpy50.jpg"
         },
         {
-          "title": "News: EU-Haushaltsverhandlungen, CDU-Kompromissvorschlag zur Rente mit 63, mutmaßliche Spionin vor Gericht",
-          "url": "https://www.spiegel.de/politik/deutschland/news-eu-haushaltsverhandlungen-cdu-kompromissvorschlag-zur-rente-mit-63-mutmassliche-spionin-vor-gericht-a-2e2df0fa-dd57-4004-a900-871447abe2f6#ref=rss",
-          "summary": "In Brüssel verhandeln die Europäer über ihren gemeinsamen Haushalt. Im Streit über die »Rente mit 63« winkt ein Kompromiss. Und in Berlin steht eine mutmaßliche Spionin vor Gericht. Das ist die Lage am Donnerstagmorgen.",
+          "title": "Ukraine-Hilfe: Friedrich Merz muss endlich Klartext reden – Meinung",
+          "url": "https://www.spiegel.de/politik/deutschland/ukrainehilfe-der-kanzler-muss-endlich-klartext-reden-a-10475eeb-5899-4756-ad1d-df3e4f1add56#ref=rss",
+          "summary": "Die Mehrheit der Deutschen lehnt Militärhilfen für die Ukraine ab. Umso wichtiger, dass der Kanzler endlich Klartext redet, auch wenn es schmerzt.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/2772963b-62ca-43c2-b87f-55dae418f0a7_w1200_r1.778_fpx30_fpy45.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0671e269-9f28-4548-a2c4-ca10d55931da_w1200_r1.778_fpx52.63_fpy54.99.jpg"
         },
         {
-          "title": "Boris Pistorius: Ministerium ruft 14 Milliarden Euro aus Mega-Budget nicht ab",
-          "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-ministerium-ruft-14-milliarden-euro-aus-mega-budget-nicht-ab-a-e72550cb-0c72-4624-acb3-0c120f407461#ref=rss",
-          "summary": "Der Verteidigungsminister erhielt für die Modernisierung der Bundeswehr ein Mega-Budget von gut 108 Milliarden Euro. Doch sein Haus kann mehr als ein Zehntel davon nicht ausgeben. Für Pistorius ist das ein Problem.",
+          "title": "Bundeskanzler Friedrich Merz lehnt Kompromissvorschlag zu EU-Finanzen ab",
+          "url": "https://www.spiegel.de/politik/deutschland/bundeskanzler-friedrich-merz-lehnt-kompromissvorschlag-zu-eu-finanzen-ab-a-c0394446-807d-4b91-b85e-3edff947a318#ref=rss",
+          "summary": "Die EU wird sich nicht über den nächsten mehrjährigen Finanzrahmen einig. Der Bundeskanzler lehnt neue Schulden auf EU-Ebene ab und fordert: keine Ausnahmen mehr bei den Ukrainehilfen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/f4b91a7f-eccf-43d2-8e41-af8d0b13e2aa_w1200_r1.778_fpx34_fpy61.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/0ba55be4-b044-4d90-b2e9-a8d5158dd7d7_w1200_r1.778_fpx30_fpy45.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Marktbericht: DAX könnte wieder über 25.000 Punkte springen",
+          "title": "Black Weeks: Wie die Rabattschlacht Handel und Kunden verändert",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/black-friday-schnaeppchen-wahnsinn-100.html",
+          "summary": "Früher war es ein einzelner Einkaufstag, heute zieht sich die Schnäppchenjagd über Wochen: Der Black Friday hat sich auf den ganzen Monat ausgedehnt. Verbraucher warten gezielt auf Rabatte, Händler müssen mitziehen. Von Anke Heinhaus.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/0827c6d8-cde8-4a66-934e-af2974725d96/AAABogepOLM/AAABnSSvrFg/16x9-big/black-week-108.jpg?width=1280"
+        },
+        {
+          "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gesunken",
+          "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
+          "summary": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7. 000 Tonnen Diesel gesunken. Bei dem Unglück kam ein Seemann ums Leben.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/c695290b-e5fc-4415-bf4b-538f1af53f76/AAABohdMOSg/AAABnSSvrFg/16x9-big/tanker-med-emre-100.jpg?width=1280"
+        },
+        {
+          "title": "Marktbericht: DAX macht einen Sprung nach vorn",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
-          "summary": "Schnäppchenjäger sorgten am Mittwoch an der US-Tech-Börse Nasdaq nach dem Rücksetzer für Erholung. Der DAX zieht diese Rally zum Handelsstart offenbar nach und dürfte heute wieder über 25. 000 Punkte springen.",
+          "summary": "Mit einem großen Satz überspringt der DAX wieder die Marke von 25. 000 Punkten. Die Tech-Erholung an der Wall Street lockt Schnäppchenjäger an. Aber die wesentlichen Fragen zum KI-Hype bleiben offen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/637010d4-8a67-4354-8847-b316454ab453/AAABocSOaSA/AAABnSSvrFg/16x9-big/boerse-572.jpg?width=1280"
-        },
-        {
-          "title": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
-          "summary": "Bildschirme lenken ab - egal ob Smartphone, Tablet oder Fernsehen. Familienministerin Prien hat sich deshalb dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/d9050f1b-567a-4d03-ab8e-869583f0cca2/AAABleawnt8/AAABnSSvrFg/16x9-big/kind-smartphone-104.jpg?width=1280"
-        },
-        {
-          "title": "Schlauchboote im Ärmelkanal: Deutscher Firmenchef soll Schleuser beliefert haben",
-          "url": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
-          "summary": "Schleuser bringen jährlich Zehntausende Migranten über den Ärmelkanal nach Großbritannien. Bei fast einem Drittel der Überfahrten sollen laut Recherchen von WDR, NDR und SZ zuletzt Boote oder Motoren einer deutschen Firma genutzt worden sein.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/4e68743b-9b2b-4bc6-b347-4848fc5fd361/AAABohY522I/AAABnSSvrFg/16x9-big/migranten-schlauchboot-102.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/e145c37b-87b2-48ab-b778-e196f4c6e293/AAABocSDuHQ/AAABnSSvrFg/16x9-big/boerse-556.jpg?width=1280"
         }
       ]
     },
@@ -93,28 +93,28 @@
       "source": "Telepolis",
       "headlines": [
         {
-          "title": "Delta statt Palantir? Bundeswehr erhält Zugang zu ukrainischem Kampfsystem",
-          "url": "https://www.telepolis.de/article/Delta-statt-Palantir-Bundeswehr-erhaelt-Zugang-zu-ukrainischem-Kampfsystem-11538054.html",
-          "summary": "Die Bundeswehr erprobt bereits das ukrainische Gefechtssystem Delta. Ob es die umstrittene Palantir-Software ersetzen kann, ist noch offen.",
+          "title": "Ebola in der DR Kongo: Wie Krieg die Ausbreitung von Seuchen befeuert",
+          "url": "https://www.telepolis.de/article/Ebola-in-der-DR-Kongo-Wie-Krieg-die-Ausbreitung-von-Seuchen-befeuert-11538078.html",
+          "summary": "In der kongolesischen Provinz Ituri mussten Ebola-Helfer tagelang in ein Krankenhaus flüchten. Was aber bedeuten solche Zwischenfälle für die Seuchenbekämpfung?",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/1/4/2/medium_umod-de-delta-agreement-site-01-61c6930c1a-e0f164c1ac1b0b3c.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/1/5/4/Belen_B_Massieu_cropped_Shutterstock.com-166e7c5bce66c0b2.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Die Heimatschutzdivision: Ausdruck der militärischen Umorientierung Berlins",
-          "url": "https://www.telepolis.de/article/Die-Heimatschutzdivision-Ausdruck-der-militaerischen-Umorientierung-Berlins-11537504.html",
-          "summary": "Kasernen, Kraftwerke, Kriege im Inneren? Die neue Heimatschutzdivision steht im Spannungsverhältnis zwischen Grundgesetz und militärischen Planungen.",
+          "title": "Neuland für die Bundeswehr: Sie entdeckt den Wohnungsbau",
+          "url": "https://www.telepolis.de/article/Neuland-fuer-die-Bundeswehr-Sie-entdeckt-den-Wohnungsbau-11538579.html",
+          "summary": "Für die Truppe sind 2. 000 bezahlbare Wohnungen geplant. Sie sollen dauerhaft dem Bund gehören. Im sozialen Wohnungsbau laufen dagegen die Bindungen aus.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/8/6/2/Mo_Photography_Berlin-cc11a4dcd09b599c.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/8/4/0/6/Master_BW-f2162306dd6ad437.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Le Pen gegen Mélenchon: Darmanin warnt vor einem „Bürgerkrieg“",
-          "url": "https://www.telepolis.de/article/Le-Pen-gegen-Melenchon-Darmanin-warnt-vor-einem-Buergerkrieg-11537715.html",
-          "summary": "Frankreichs Justizminister fürchtet eine Eskalation nach der Stichwahl. In den Umfragen liegen Marine Le Pen und Jean-Luc Mélenchon vorn.",
+          "title": "Plastikabgabe an die EU: Warum sie weder Verbraucher noch Umwelt erreicht",
+          "url": "https://www.telepolis.de/article/Plastikabgabe-an-die-EU-Warum-sie-weder-Verbraucher-noch-Umwelt-erreicht-11537353.html",
+          "summary": "Seit 2021 zahlt der Bund für nicht recycelte Verpackungen an die EU. Hersteller blockieren eine nationale Steuer, viele Verpackungen sind nicht recycelbar.",
           "source": "Telepolis",
           "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/7/9/7/0/Master_Frankreich-9dc4de6a0d7a0300.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+          "image": null
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "„Maischberger“: Kubicki und Pantisano sind sich nur in einer Sache einig",
-          "url": "https://www.sueddeutsche.de/medien/sandra-maischberger-ard-talkshow-tv-kritik-kubicki-pantisano-li.3586194",
-          "summary": "Der FDP-Chef und der Linken-Vorsitzende debattieren bei „Maischberger“ über Israel, Berlin und Steuergerechtigkeit – mit Spott und gegenseitigen Vorwürfen.",
+          "title": "Innere Sicherheit: Ein Tod schockt Italien",
+          "url": "https://www.sueddeutsche.de/politik/italien-selbstmord-de-gennaro-mafia-li.3585167",
+          "summary": "Der langjährige Polizei- und Geheimdienstchef Gianni De Gennaro nimmt sich in seinem Ferienhaus das Leben. Der Fall wirft ein grelles Licht auf die Beziehungen von Mafia, Politik und Justiz.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Musiker: Ehemaliger Duran-Duran-Gitarrist Andy Taylor gestorben",
-          "url": "https://www.sueddeutsche.de/kultur/musik-england-new-wave-krebs-li.3586325",
-          "summary": "Er war Gitarrist einer der erfolgreichsten Popbands der 1980er-Jahre. Mit Duran Duran schuf er Hits wie „The Wild Boys“ oder „Hungry Like the Wolf“. Seine Krebserkrankung hatte er vor vier Jahren bekannt gemacht.",
+          "title": "Dieser eine Satz: Immerhin wusste Merz, welche Bemerkung nun fällig war",
+          "url": "https://www.sueddeutsche.de/meinung/friedrich-merz-bundestag-haushalt-kommentar-li.3586152",
+          "summary": "Ein angemessener Satz und eine gute Rede bedeuten für den Kanzler und seine Koalition gewiss noch nicht die Rettung. Aber sie sind eine Voraussetzung dafür.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Joshua Kimmich zum Fall Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
-          "url": "https://www.sueddeutsche.de/sport/kimmich-kritik-musiala-lille-fc-bayern-li.3586330",
-          "summary": "Joshua Kimmich kritisiert mit deutlichen Worten die öffentliche Kommunikation des Vereins im Fall Jamal Musiala.",
+          "title": "Migration: Sein amerikanischer Albtraum",
+          "url": "https://www.sueddeutsche.de/politik/kilmar-abrego-garcia-usa-abschiebebehoerde-ice-spanien-li.3586144",
+          "summary": "Kilmar Ábrego García aus El Salvador suchte einst Sicherheit in den USA. Jetzt ist er vor Trumps Abschiebebehörde ICE nach Europa geflohen. Irgendwann aber will er zurück in seine selbst gewählte Heimat.",
           "source": "SZ",
           "paywall": false,
           "image": null
