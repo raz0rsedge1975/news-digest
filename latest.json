@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-27T15:00:20.025Z",
-  "timestamp": "27.11.2026, 16:00:20",
+  "generated": "2026-11-27T19:00:14.675Z",
+  "timestamp": "27.11.2026, 20:00:14",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Etat 2027: 556 Milliarden Euro: Bundestag beschließt Rekordhaushalt",
-          "url": "https://www.faz.net/aktuell/wirtschaft/556-milliarden-euro-bundestag-beschliesst-rekordhaushalt-201722313.html",
-          "summary": "Der Bund wird nächstes Jahr so viel Geld zur Verfügung haben, wie noch nie zuvor in einem Jahr. Dafür votierten in namentlicher Abstimmung 317 Abgeordnete, dagegen 260, es gab keine Enthaltungen.",
+          "title": "Koalition stolpert vorwärts: Haushalt 2027? Endlich durch! Steuerpaket? Vielleicht später!",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/cdu-und-spd-streiten-ueber-steuern-rente-und-benzinpreisdeckel-201722938.html",
+          "summary": "Um den Koalitionsfrieden ist es weiterhin nicht gut bestellt. Der Streit über Steuern, Rente, Benzinpreisdeckel überlagert den Erfolg mit dem Etat, den die Koalition nach zähem Ringen vorweisen kann.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/63502f35427f/w4800h2508x0y598o/86f6c8e3-1db8-4d2e-bd92-a7359041f861-1O7A3731-2--SENT.jpg/finanzminister-lars-klingbeil.webp"
+          "image": "https://media0.faz.net/image/w1200h627/b6a64b3dfac0/w4800h2508x0y346o/95e5c960-52a9-4441-b970-36d9e39c4423-4Z8A0827-2-.jpg/finanzminister-lars-klingbeil.webp"
         },
         {
           "title": "Abstimmung im Bundestag: Ein Haushalt der Negativrekorde",
@@ -22,12 +22,12 @@
           "image": "https://media0.faz.net/image/w1200h627/83fdd823b76b/w6144h3210x0y277o/202611/931b739f-f98c-4cdb-a33d-101938c57144/werk-von-mercedes-autos-fuer.webp"
         },
         {
-          "title": "Hans-Werner Sinn: „Die fetten Jahre sind vorbei“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/die-fetten-jahre-sind-vorbei-hans-werner-sinn-ueber-die-zukunft-deutschlands-accg-201716573.html",
-          "summary": "Der Ökonom Hans-Werner Sinn über Deutschlands Aufrüstung, Rente ohne Kinder, hohe Stromkosten, Eurobonds gegen französische Atomwaffen, den richtigen Umgang mit China und die Zukunft der Arbeit im Zeitalter der Künstlichen Intelligenz.",
+          "title": "RentenGesetzentwurf: Schweitzer will „Rente mit 65“ statt „Rente mit 63“",
+          "url": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-schweitzer-will-abschlagsfreie-fruehrente-einschraenken-201724330.html",
+          "summary": "Der Arbeitsminister will die abschlagsfreie Frührente einschränken. Der Koalitionspartner CDU zeigt sich von dem Gesetzentwurf überrascht.",
           "source": "FAZ",
-          "paywall": true,
-          "image": "https://media0.faz.net/image/w1200h627/60fb68e59bae/w4688h2449x645y347o/202510/43601.0.1390983387/hans-werner-sinn-war.webp"
+          "paywall": false,
+          "image": "https://media0.faz.net/image/w1200h627/a13bd774c116/w3324h1736x0y67o/202611/b60e2e33-1816-4baa-9975-6e7e56938d3c/alexander-schweitzer-spd.webp"
         }
       ]
     },
@@ -35,28 +35,28 @@
       "source": "Spiegel",
       "headlines": [
         {
-          "title": "Bundeshaushalt 2027: Diese vier Grafiken zeigen, wohin Ihr Steuergeld fließt",
+          "title": "Frankreich-Wahl: Verhindert David Lisnard den Sieg von Marine Le Pen?",
+          "url": "https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss",
+          "summary": "David Lisnard ist Bürgermeister von Cannes und Senkrechtstarter in Umfragen zur französischen Präsidentschaftswahl. Sein Plan: die rechtsnationale Favoritin Marine Le Pen ausbremsen – als freundlicher Rechtspopulist.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/e75d54ba-8fb3-4ee6-9153-39dab5a7cac4_w1200_r1.778_fpx53_fpy38.jpg"
+        },
+        {
+          "title": "News des Tages: Haushalt, SAP, Johann Wadephul, gendern",
+          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss",
+          "summary": "Deutschlands Haushalt für 2027 ist beschlossene Sache. Der Softwarekonzern SAP hat Sicherheitsprobleme. Und Außenminister Wadephul kämpft gegen Gendersternchen. Das ist die Lage am Freitagabend.",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/48903b9b-8b90-4960-942a-b54f2905f83b_w1200_r1.778_fpx64.09_fpy50.jpg"
+        },
+        {
+          "title": "Bundeshaushalt 2027: Diese Grafiken zeigen, wohin Ihr Steuergeld fließt",
           "url": "https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss",
           "summary": "Der Haushalt 2027 ist beschlossen, es ist der größte in der Geschichte der Bundesrepublik. Sehen Sie hier, wo der Staat wie viel Geld ausgibt – und wo die Tücken für die Zukunft liegen.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/9ae5382d-5155-408f-90a9-1d13c14b2ea4_w1200_r1.778_fpx50_fpy50.png"
-        },
-        {
-          "title": "SAP: Was wir über den IT-Vorfall beim Softwarekonzern wissen – und was nicht",
-          "url": "https://www.spiegel.de/netzwelt/sap-was-wir-ueber-den-it-sicherheitsvorfall-bei-dem-softwarekonzern-wissen-und-was-nicht-a-c2a93fc5-a2b2-439e-954f-d9c6264468fe#ref=rss",
-          "summary": "Der Zwischenfall beim wertvollsten Dax-Konzern SAP beschäftigt die Walldorfer nach SPIEGEL-Informationen bereits seit mehr als einer Woche. Mittlerweile sind mehrere Behörden mit der Sache befasst. Der Überblick.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/ddb2daba-c5b5-496d-abb5-3d831e80fd47_w1200_r1.778_fpx50.65_fpy45.jpg"
-        },
-        {
-          "title": "IG Metall und Arbeitgeber einigen sich: Das Herz der Wirtschaft schlägt noch – Meinung",
-          "url": "https://www.spiegel.de/wirtschaft/tarifabschluss-in-der-metall-und-elektroindustrie-das-herz-der-deutschen-wirtschaft-schlaegt-noch-a-866a0dba-a8ab-471b-bdc7-ace99989afb2#ref=rss",
-          "summary": "Nach erbitterten Auseinandersetzungen haben Arbeitgeber und IG Metall die Grundlage geschaffen, damit sich die deutsche Industrie erholen kann. Jetzt ist die Politik dran.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/a34c225f-c9c9-4c07-8d56-88f71e41076f_w1200_r1.778_fpx41.9_fpy54.85.jpg"
+          "image": "https://cdn.prod.www.spiegel.de/images/c9b09cfd-f936-4767-86a1-f86a67ad3c8b_w1200_r1.778_fpx50_fpy51.png"
         }
       ]
     },
@@ -64,34 +64,42 @@
       "source": "Tagesschau",
       "headlines": [
         {
-          "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
-          "summary": "Der Zentralrat der Juden positioniert sich seit Langem klar gegen die AfD. Parteichefin Weidel warf der Organisation nun vor, sie sei von der CDU \"fremdgesteuert\". Der Präsident des Zentralrats reagierte mit deutlichen Worten.",
+          "title": "Marktbericht: Schnäppchenjagd an der Börse",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
+          "summary": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/228e1c25-eaa7-45c8-addc-528ed0b723cb/AAABohzpYfU/AAABnSSvrFg/16x9-big/weidel-328.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a01f3845-7d93-4906-85df-771ddd7b7c12/AAABns-9-5Y/AAABnSSvrFg/16x9-big/boerse-506.jpg?width=1280"
         },
         {
-          "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
-          "url": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
-          "summary": "Es ist ausreichend Schnee gefallen, es ist kalt genug und das Wetter spielt auch mit: In Deutschland hat Ski-Saison begonnen - an der Zugspitze und im Sauerland. Wintersportler müssen allerdings wieder tiefer in die Tasche greifen.",
+          "title": "Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter",
+          "url": "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
+          "summary": "Die \"Rente mit 63\" ist eine Umverteilung von unten nach oben, meint Dagmar Pepping. Arbeitsminister Schweitzer hätte ihr ein Ende setzen müssen. Stattdessen geht die Irrfahrt weiter - und der Streit in der Koalition wohl ebenso.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/9d885923-a824-4a3e-bea4-72254274a27b/AAABoh0M4ZY/AAABnSSvrFg/16x9-big/skifahrer-zugspitze-100.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/a5bf0071-8e0c-4be3-9f6e-6811d4d33240/AAABoh28MDI/AAABnSSvrFg/16x9-big/schweitzer-184.jpg?width=1280"
         },
         {
-          "title": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
-          "url": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
-          "summary": "Die Festnahme des Ex-BND-Chefs Hanning hatte im Oktober international Schlagzeilen produziert. Nun steht fest, dass der 80-Jährige vorerst in Haft bleibt. Gegen Hanning wird unter anderem wegen Spionageverdachts ermittelt.",
+          "title": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
+          "summary": "Der Bundestag hat die Senkung der Stromsteuer für ein Jahr und eine Zuckersteuer bei Getränken beschlossen. Außerdem steigt die Abgabe auf hochprozentigen Alkohol. Auch Alkopops könnten teurer werden.",
           "source": "Tagesschau",
           "paywall": false,
-          "image": "https://images.tagesschau.de/image/7d71ee12-a790-4843-b41a-b246c18c8ca3/AAABoh04loo/AAABnSSvrFg/16x9-big/hanning-130.jpg?width=1280"
+          "image": "https://images.tagesschau.de/image/237b4c3c-396f-43ab-8d9a-8204407fe454/AAABoh2qjHM/AAABnSSvrFg/16x9-big/zucker-getraenke-100.jpg?width=1280"
         }
       ]
     },
     {
       "source": "Telepolis",
       "headlines": [
+        {
+          "title": "Kann eine Frau der beste Arzt sein?",
+          "url": "https://www.telepolis.de/article/Kann-eine-Frau-der-beste-Arzt-sein-11541188.html",
+          "summary": "Das Goethe-Institut streicht den Genderstern. Ein Leserbrief über eine Ärztin zeigt, was an einer einfachen Frage hängt: Wer zählt beim Vergleich mit?",
+          "source": "Telepolis",
+          "paywall": false,
+          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/7/2/0/Master_Goethe-0572a92ac33b3ccd.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
+        },
         {
           "title": "Marschflugkörper aus dem All: MBDA und Atmos planen Waffen im Orbit",
           "url": "https://www.telepolis.de/article/Marschflugkoerper-aus-dem-All-MBDA-und-Atmos-planen-Waffen-im-Orbit-11541016.html",
@@ -107,14 +115,6 @@
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/4/9/5/Jarama_cropped-8434f78f09d9b8cd.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
-        },
-        {
-          "title": "Kushner bei Döpfner: Putin „definitiv ein Großmeister der Politik“",
-          "url": "https://www.telepolis.de/article/Kushner-bei-Doepfner-Putin-definitiv-ein-Grossmeister-der-Politik-11540185.html",
-          "summary": "Trumps Ukraine-Unterhändler lobt Putin im Springer-Podcast und erzählt von einem Angriff auf Putins Haus, den Trump selbst bestritt.",
-          "source": "Telepolis",
-          "paywall": false,
-          "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/2/1/4/Screenshot-Doepfner-Kushner-b89e9330e06f5ea1.png?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         }
       ]
     },
@@ -122,25 +122,25 @@
       "source": "SZ",
       "headlines": [
         {
-          "title": "Podcast: „Auf den Punkt“: Podcast: Das steht im Rentenkompromiss",
-          "url": "https://www.sueddeutsche.de/politik/podcast-auf-den-punkt-rente-li.3587087",
-          "summary": "Arbeitsminister Schweitzer erarbeitet einen Kompromiss im Rentenstreit. Was sich damit ändern soll.",
+          "title": "Schach-WM: „Dieser Zug wurde im Spitzenschach seit 40 Jahren nicht mehr gespielt“",
+          "url": "https://www.sueddeutsche.de/sport/schach-wm-analyse-video-kindermann-li.3587378",
+          "summary": "Zum Auftakt der Schachweltmeisterschaft spielen Gukesh und Sindarov dreimal Remis. Großmeister Stefan Kindermann erklärt die entscheidenden Momente der ersten Partien – darunter eine echte Überraschung des Weltmeisters.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Sozialpolitik: Was die Rentenpläne für die Bürger bedeuten",
-          "url": "https://www.sueddeutsche.de/politik/rente-rentenreform-bundesregierung-gesetzentwurf-ueberblick-li.3586468",
-          "summary": "Der Gesetzentwurf von Arbeitsminister Schweitzer sieht weitreichende Änderungen für Beschäftigte und Selbständige vor. Minijobber etwa müssten höhere Sozialbeiträge bezahlen. Das Wichtigste im Überblick.",
+          "title": "Schifffahrt: Vor diesen Spionen kann sich niemand verstecken",
+          "url": "https://www.sueddeutsche.de/wissen/seevoegel-schiffe-artenschutz-fernerkundung-ais-li.3584671",
+          "summary": "Wie entdeckt man Schiffe, die sich eigentlich verbergen wollen? Die Lösung könnten Basstölpel und andere Vögel sein. Warum das auch gut für den Tierschutz wäre.",
           "source": "SZ",
           "paywall": false,
           "image": null
         },
         {
-          "title": "Sozialpolitik: Neuer Gesetzentwurf: Abschlagsfreie Rente nach 45 Jahren soll erhalten bleiben",
-          "url": "https://www.sueddeutsche.de/politik/rente-rentenreform-arbeitsminister-bundesregierung-li.3586466",
-          "summary": "Arbeitsminister Schweitzer legt einen Kompromiss vor, der die Anforderungen an Frührentner erhöht. Damit könnte der Weg für die größte Reform der Alterssicherung seit 20 Jahren frei werden.",
+          "title": "Jamal Musiala und der FC Bayern: Die Geschichte einer Eskalation",
+          "url": "https://www.sueddeutsche.de/sport/musiala-rummenigge-fc-bayern-hoeness-vertrag-muskelfaserriss-li.3587105",
+          "summary": "Der FC Bayern steht vor den Scherben der Debatte über Jamal Musialas Gesundheit. Viele Fragen sind offen – aber die Strategie der Klubbosse hat ein entscheidendes Ergebnis provoziert. Eine Rekonstruktion dreier denkwürdiger Wochen.",
           "source": "SZ",
           "paywall": false,
           "image": null
