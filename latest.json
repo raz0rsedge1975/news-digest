@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T23:00:15.073Z",
-  "timestamp": "27.11.2026, 00:00:15",
+  "generated": "2026-11-27T03:00:15.621Z",
+  "timestamp": "27.11.2026, 04:00:15",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
+          "url": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
+          "summary": "Dodik hatte über 20 Jahre lang die Macht in der serbisch-dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten, wegen seiner Separatismuspolitik. Nun macht er seinen Sohn zum Regierungschef.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/d8f49345-b179-46cd-9cab-21fe8ea4924c/AAABohp8fFo/AAABnSSvrFg/16x9-big/dodik-122.jpg?width=1280"
+        },
+        {
+          "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+          "summary": "Die Vorstellungen unter den 27 Staats- und Regierungschefs lagen weit auseinander. So weit, dass sie laut Merz den zweiten angesetzten Tag des Gipfels ausfallen lassen. Es geht um viele Milliarden für den EU-Haushalt.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
           "url": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
           "summary": "In Oberbayern haben Schneefälle für zahlreiche Verkehrsunfälle und Sperrungen von Autobahnen gesorgt. Stellenweise fielen bis zu zehn Zentimeter Neuschnee. Laut Wetterdienst bleiben auch die kommenden Tage eher frostig.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/67a3a307-8af1-4238-a1a0-fb745161fcac/AAABohnaf88/AAABnSSvrFg/16x9-big/schnee-stau-autobahn-100.jpg?width=1280"
-        },
-        {
-          "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
-          "summary": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/86a63833-211b-46b5-96c5-01dee3bf4d5e/AAABohlSIeo/AAABnSSvrFg/16x9-big/wandbild-142.jpg?width=1280"
-        },
-        {
-          "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
-          "url": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
-          "summary": "Angesichts der globalen Bedrohungslage gewinnt der Weltraum beim Thema Verteidigung an Bedeutung. Eine neue Technologie aus Deutschland soll den schnellen Transport von Waffen aus dem Orbit auf die Erde ermöglichen. Gradwohl und L.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/1b467c13-52f4-4d93-8299-ea82deefda42/AAABohgyC2k/AAABnSSvrFg/16x9-big/konzeptzeichnungen-atmos-100.jpg?width=1280"
         }
       ]
     },
