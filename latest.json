@@ -1,39 +1,47 @@
 {
-  "generated": "2026-11-27T19:00:14.675Z",
-  "timestamp": "27.11.2026, 20:00:14",
+  "generated": "2026-11-27T23:00:15.523Z",
+  "timestamp": "28.11.2026, 00:00:15",
   "news": [
     {
       "source": "FAZ",
       "headlines": [
         {
-          "title": "Koalition stolpert vorwärts: Haushalt 2027? Endlich durch! Steuerpaket? Vielleicht später!",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/cdu-und-spd-streiten-ueber-steuern-rente-und-benzinpreisdeckel-201722938.html",
-          "summary": "Um den Koalitionsfrieden ist es weiterhin nicht gut bestellt. Der Streit über Steuern, Rente, Benzinpreisdeckel überlagert den Erfolg mit dem Etat, den die Koalition nach zähem Ringen vorweisen kann.",
+          "title": "nukleare Bedrohung: Russlands Bombe im All",
+          "url": "https://www.faz.net/aktuell/politik/ausland/russlands-atombombe-im-all-bedrohung-oder-bluff-201712317.html",
+          "summary": "Atomwaffen im Weltraum können in die Apokalypse führen. Gerade deshalb glauben manche Fachleute, dass es sie nie geben wird.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/b6a64b3dfac0/w4800h2508x0y346o/95e5c960-52a9-4441-b970-36d9e39c4423-4Z8A0827-2-.jpg/finanzminister-lars-klingbeil.webp"
+          "image": "https://media0.faz.net/image/w1200h627/209577816397/w4200h2194x0y581o/202611/2693ddbd-1b26-4439-b62c-86ec8ce61629/der-sprengkopf-des-us.webp"
         },
         {
-          "title": "Abstimmung im Bundestag: Ein Haushalt der Negativrekorde",
-          "url": "https://www.faz.net/aktuell/wirtschaft/rekordschulden-und-ein-schwacher-ausblick-ein-haushalt-der-negativrekorde-201722642.html",
-          "summary": "Der Bundestag winkt einen Haushalt voller Rekorde durch, die Schuldenregel hält nur mit Tricks. Wachstum ohne Staatsausgaben kommt zu kurz. Das geht besser.",
+          "title": "Russische Atomwaffe im All?: Was eine Atombombe im Orbit anrichten könnte",
+          "url": "https://www.faz.net/aktuell/wissen/weltraum/bedrohung-aus-russland-was-eine-atombombe-im-weltall-ausloesen-kann-201713159.html",
+          "summary": "Russland plant Medienberichten zufolge noch in diesem Jahr die Stationierung einer Atomwaffe im Weltraum. Welche Folgen hätte das? Ein Überblick in Grafiken.",
           "source": "FAZ",
-          "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/83fdd823b76b/w6144h3210x0y277o/202611/931b739f-f98c-4cdb-a33d-101938c57144/werk-von-mercedes-autos-fuer.webp"
+          "paywall": true,
+          "image": "https://media0.faz.net/image/w1200h627/7bc571db6f3a/w2884h1506x260y58o/202611/86b8b4dc-ccbb-481e-8ce9-c26b4e73921f/5nj1vm893gno.webp"
         },
         {
-          "title": "RentenGesetzentwurf: Schweitzer will „Rente mit 65“ statt „Rente mit 63“",
-          "url": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-schweitzer-will-abschlagsfreie-fruehrente-einschraenken-201724330.html",
-          "summary": "Der Arbeitsminister will die abschlagsfreie Frührente einschränken. Der Koalitionspartner CDU zeigt sich von dem Gesetzentwurf überrascht.",
+          "title": "Abhängigkeit von USA: Kann Europa im Weltraum autonom werden?",
+          "url": "https://www.faz.net/aktuell/politik/ausland/wie-autonom-kann-europa-im-all-sein-201651904.html",
+          "summary": "Der Ukrainekrieg lehrt: Europa kann sich auch im All nicht auf die USA verlassen. Aber ohne sie geht es bisher auch nicht.",
           "source": "FAZ",
           "paywall": false,
-          "image": "https://media0.faz.net/image/w1200h627/a13bd774c116/w3324h1736x0y67o/202611/b60e2e33-1816-4baa-9975-6e7e56938d3c/alexander-schweitzer-spd.webp"
+          "image": "https://media0.faz.net/image/w1200h627/ae61ef1a9737/w7115h3717x99y1131o/202611/fd844b56-088f-43e8-b1ee-4daa6de8554e/ein-modell-der-europaeischen.webp"
         }
       ]
     },
     {
       "source": "Spiegel",
       "headlines": [
+        {
+          "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss",
+          "summary": "Der Arbeitsminister schickt einen Rentenentwurf ohne Abstimmung an die Ressorts, nun ist die Aufregung wieder groß. Es geht auch um politische Mechanik, mediale Wirkung und die Frage: Wer ist schuld, wenn's nicht gut wird?",
+          "source": "Spiegel",
+          "paywall": true,
+          "image": "https://cdn.prod.www.spiegel.de/images/f07ca9b0-f427-43a3-8286-abba96f39760_w1200_r1.778_fpx33.35_fpy50.jpg"
+        },
         {
           "title": "Frankreich-Wahl: Verhindert David Lisnard den Sieg von Marine Le Pen?",
           "url": "https://www.spiegel.de/ausland/frankreich-wahl-verhindert-david-lisnard-den-sieg-von-marine-le-pen-a-8b7abf64-47f4-45d3-86af-0747feaae99e#ref=rss",
@@ -43,20 +51,12 @@
           "image": "https://cdn.prod.www.spiegel.de/images/e75d54ba-8fb3-4ee6-9153-39dab5a7cac4_w1200_r1.778_fpx53_fpy38.jpg"
         },
         {
-          "title": "News des Tages: Haushalt, SAP, Johann Wadephul, gendern",
-          "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-haushalt-sap-johann-wadephul-gendern-a-54e239f7-8c45-4797-97f5-6bc162a1b8b8#ref=rss",
-          "summary": "Deutschlands Haushalt für 2027 ist beschlossene Sache. Der Softwarekonzern SAP hat Sicherheitsprobleme. Und Außenminister Wadephul kämpft gegen Gendersternchen. Das ist die Lage am Freitagabend.",
+          "title": "KI: Ex-US-Arbeitsminister Robert Reich will die Macht der Techmilliardäre brechen",
+          "url": "https://www.spiegel.de/wirtschaft/ki-ex-us-arbeitsminister-robert-reich-will-die-macht-der-techmilliardaere-brechen-a-36aa8aa5-d8a0-4cd8-91a2-88d3fa5ed2e0#ref=rss",
+          "summary": "Robert Reich gilt als Vordenker der Demokratischen Partei und war Arbeitsminister unter Bill Clinton. Er hat einen Vorschlag, wie die Macht der KI-Milliardäre zu brechen wäre.",
           "source": "Spiegel",
           "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/48903b9b-8b90-4960-942a-b54f2905f83b_w1200_r1.778_fpx64.09_fpy50.jpg"
-        },
-        {
-          "title": "Bundeshaushalt 2027: Diese Grafiken zeigen, wohin Ihr Steuergeld fließt",
-          "url": "https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss",
-          "summary": "Der Haushalt 2027 ist beschlossen, es ist der größte in der Geschichte der Bundesrepublik. Sehen Sie hier, wo der Staat wie viel Geld ausgibt – und wo die Tücken für die Zukunft liegen.",
-          "source": "Spiegel",
-          "paywall": true,
-          "image": "https://cdn.prod.www.spiegel.de/images/c9b09cfd-f936-4767-86a1-f86a67ad3c8b_w1200_r1.778_fpx50_fpy51.png"
+          "image": "https://cdn.prod.www.spiegel.de/images/de0a0018-fbc0-4d75-b088-801247e0015e_w1200_r1.778_fpx50_fpy50.jpg"
         }
       ]
     },
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+          "summary": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\".",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/b577bb9c-63ef-4810-811f-dc952930859b/AAABoh7oXzo/AAABnSSvrFg/16x9-big/sendungsbild-1834182.jpg?width=1280"
+        },
+        {
+          "title": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
+          "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
+          "summary": "Der Rentenentwurf von Arbeitsminister Schweitzer stößt auf ein geteiltes Echo. DGB-Chefin Fahimi kritisierte steigende Abschläge für Frührentner, lobte aber den Erhalt der \"Rente mit 63\". Aus der Union kommt deutlicher Widerstand.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/2015f221-6df6-43c9-8148-76da5e1ece48/AAABoh5Ql7w/AAABnSSvrFg/16x9-big/fahimi-188.jpg?width=1280"
+        },
+        {
           "title": "Marktbericht: Schnäppchenjagd an der Börse",
           "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
           "summary": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/a01f3845-7d93-4906-85df-771ddd7b7c12/AAABns-9-5Y/AAABnSSvrFg/16x9-big/boerse-506.jpg?width=1280"
-        },
-        {
-          "title": "Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter",
-          "url": "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
-          "summary": "Die \"Rente mit 63\" ist eine Umverteilung von unten nach oben, meint Dagmar Pepping. Arbeitsminister Schweitzer hätte ihr ein Ende setzen müssen. Stattdessen geht die Irrfahrt weiter - und der Streit in der Koalition wohl ebenso.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/a5bf0071-8e0c-4be3-9f6e-6811d4d33240/AAABoh28MDI/AAABnSSvrFg/16x9-big/schweitzer-184.jpg?width=1280"
-        },
-        {
-          "title": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
-          "summary": "Der Bundestag hat die Senkung der Stromsteuer für ein Jahr und eine Zuckersteuer bei Getränken beschlossen. Außerdem steigt die Abgabe auf hochprozentigen Alkohol. Auch Alkopops könnten teurer werden.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/237b4c3c-396f-43ab-8d9a-8204407fe454/AAABoh2qjHM/AAABnSSvrFg/16x9-big/zucker-getraenke-100.jpg?width=1280"
         }
       ]
     },
@@ -101,9 +101,9 @@
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/7/2/0/Master_Goethe-0572a92ac33b3ccd.jpg?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
         },
         {
-          "title": "Marschflugkörper aus dem All: MBDA und Atmos planen Waffen im Orbit",
-          "url": "https://www.telepolis.de/article/Marschflugkoerper-aus-dem-All-MBDA-und-Atmos-planen-Waffen-im-Orbit-11541016.html",
-          "summary": "MBDA und Atmos Space Cargo wollen Kapseln für Waffen im Orbit entwickeln. Doch die Technik wirft noch viele Fragen auf.",
+          "title": "MBDA Deutschland will mit Start-up Waffen im Orbit stationieren",
+          "url": "https://www.telepolis.de/article/MBDA-Deutschland-will-mit-Start-up-Waffen-im-Orbit-stationieren-11541016.html",
+          "summary": "Jeden Ort der Welt in 60 Minuten: So beschreibt der Atmos-Chef die Idee. Doch ein Taurus wäre dafür zu schwer, bisher gibt es nur Machbarkeitsstudien.",
           "source": "Telepolis",
           "paywall": false,
           "image": "https://heise.cloudimg.io/v7/_www-heise-de_/imgs/18/5/2/0/9/6/3/3/ATMOS_Kickstage02-92fefed88372745a.webp?func=bound&amp;height=1200&amp;org_if_sml=1&amp;q=85&amp;width=1200"
@@ -122,6 +122,14 @@
       "source": "SZ",
       "headlines": [
         {
+          "title": "USA: Noch immer Hunderttausende nach Sturm ohne Strom",
+          "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-sturm-stromausfall-ostkueste-pennsylvania-li.3578585",
+          "summary": "Noch immer muss an den Stränden im Nordosten des Landes mit Überschwemmungen gerechnet werden. In New York muss erstmals die Thanksgiving-Parade ausfallen.",
+          "source": "SZ",
+          "paywall": false,
+          "image": null
+        },
+        {
           "title": "Schach-WM: „Dieser Zug wurde im Spitzenschach seit 40 Jahren nicht mehr gespielt“",
           "url": "https://www.sueddeutsche.de/sport/schach-wm-analyse-video-kindermann-li.3587378",
           "summary": "Zum Auftakt der Schachweltmeisterschaft spielen Gukesh und Sindarov dreimal Remis. Großmeister Stefan Kindermann erklärt die entscheidenden Momente der ersten Partien – darunter eine echte Überraschung des Weltmeisters.",
@@ -133,14 +141,6 @@
           "title": "Schifffahrt: Vor diesen Spionen kann sich niemand verstecken",
           "url": "https://www.sueddeutsche.de/wissen/seevoegel-schiffe-artenschutz-fernerkundung-ais-li.3584671",
           "summary": "Wie entdeckt man Schiffe, die sich eigentlich verbergen wollen? Die Lösung könnten Basstölpel und andere Vögel sein. Warum das auch gut für den Tierschutz wäre.",
-          "source": "SZ",
-          "paywall": false,
-          "image": null
-        },
-        {
-          "title": "Jamal Musiala und der FC Bayern: Die Geschichte einer Eskalation",
-          "url": "https://www.sueddeutsche.de/sport/musiala-rummenigge-fc-bayern-hoeness-vertrag-muskelfaserriss-li.3587105",
-          "summary": "Der FC Bayern steht vor den Scherben der Debatte über Jamal Musialas Gesundheit. Viele Fragen sind offen – aber die Strategie der Klubbosse hat ein entscheidendes Ergebnis provoziert. Eine Rekonstruktion dreier denkwürdiger Wochen.",
           "source": "SZ",
           "paywall": false,
           "image": null
