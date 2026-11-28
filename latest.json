@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-27T23:00:15.523Z",
-  "timestamp": "28.11.2026, 00:00:15",
+  "generated": "2026-11-28T03:00:13.889Z",
+  "timestamp": "28.11.2026, 04:00:13",
   "news": [
     {
       "source": "FAZ",
@@ -64,28 +64,28 @@
       "source": "Tagesschau",
       "headlines": [
         {
+          "title": "Durchsuchung bei Le Pens früherem Bürochef",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
+          "summary": "Er soll vertrauliche Informationen aus dem Innenministerium erhalten haben: In Frankreich sind die Parteizentrale des Rassemblement National und die Wohnung des früheren Bürochefs von Präsidentschaftskandidatin Le Pen durchsucht worden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/f4196419-2393-4935-bab4-434033c5194c/AAABoh_Q1u8/AAABnSSvrFg/16x9-big/le-pen-242.jpg?width=1280"
+        },
+        {
+          "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+          "summary": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden.",
+          "source": "Tagesschau",
+          "paywall": false,
+          "image": "https://images.tagesschau.de/image/cf5a8317-6f6d-4d52-8005-d01621cc19e2/AAABoZwyatQ/AAABnSSvrFg/16x9-big/tankstelle-394.jpg?width=1280"
+        },
+        {
           "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
           "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
           "summary": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\".",
           "source": "Tagesschau",
           "paywall": false,
           "image": "https://images.tagesschau.de/image/b577bb9c-63ef-4810-811f-dc952930859b/AAABoh7oXzo/AAABnSSvrFg/16x9-big/sendungsbild-1834182.jpg?width=1280"
-        },
-        {
-          "title": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
-          "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
-          "summary": "Der Rentenentwurf von Arbeitsminister Schweitzer stößt auf ein geteiltes Echo. DGB-Chefin Fahimi kritisierte steigende Abschläge für Frührentner, lobte aber den Erhalt der \"Rente mit 63\". Aus der Union kommt deutlicher Widerstand.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/2015f221-6df6-43c9-8148-76da5e1ece48/AAABoh5Ql7w/AAABnSSvrFg/16x9-big/fahimi-188.jpg?width=1280"
-        },
-        {
-          "title": "Marktbericht: Schnäppchenjagd an der Börse",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
-          "summary": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
-          "source": "Tagesschau",
-          "paywall": false,
-          "image": "https://images.tagesschau.de/image/a01f3845-7d93-4906-85df-771ddd7b7c12/AAABns-9-5Y/AAABnSSvrFg/16x9-big/boerse-506.jpg?width=1280"
         }
       ]
     },
@@ -124,7 +124,7 @@
         {
           "title": "USA: Noch immer Hunderttausende nach Sturm ohne Strom",
           "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-sturm-stromausfall-ostkueste-pennsylvania-li.3578585",
-          "summary": "Noch immer muss an den Stränden im Nordosten des Landes mit Überschwemmungen gerechnet werden. In New York muss erstmals die Thanksgiving-Parade ausfallen.",
+          "summary": "An den Stränden im Nordosten des Landes ist weiterhin mit Überschwemmungen zu rechnen. In New York musste erstmals die Thanksgiving-Parade verschoben werden.",
           "source": "SZ",
           "paywall": false,
           "image": null
